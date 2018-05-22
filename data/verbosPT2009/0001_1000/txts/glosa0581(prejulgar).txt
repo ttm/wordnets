@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0581
+
+DADO O SYNSET:
+
+S='Glosa581'
+{antejulgar: Raimundo [antejulgava perfeitamente que aquele empenho de Manuel em negar-lhe a filha, longe de arredá-la do seu amor, mais e mais o empurrava para ela.,
+prejulgar: Eu não quero [prejulgar, mas o presidente Itamar Franco foi o presidente que me apoiou em tudo isso.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa581' = “julgar de antemão, especialmente sem evidências suficientes”
+{antejulgar: Raimundo [antejulgava perfeitamente que aquele empenho de Manuel em negar-lhe a filha, longe de arredá-la do seu amor, mais e mais o empurrava para ela.,
+prejulgar: Eu não quero [prejulgar, mas o presidente Itamar Franco foi o presidente que me apoiou em tudo isso.,}
+Chave: PREJULGAR <verb.cognition>
+ILI: 00658516
+
+Sense 1
+{00658516} <verb.cognition> prejudge -- (judge beforehand, especially without sufficient evidence)
+       => {00647983} <verb.cognition> judge -- (form an opinion of or pass judgment on; "I cannot judge some works of modern art")
+           => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

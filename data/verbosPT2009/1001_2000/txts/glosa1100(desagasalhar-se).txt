@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA1100
+
+DADO O SYNSET:
+
+S='Glosa1100'
+{desabafar-se: H]Desabafou-se por causa do clima quente,
+ desagasalhar-se: Martinho ali mesmo I]se desagasalhou para cobrir o mendigo com a metade de clâmide que lhe restava,
+ descobrir-se: Júlio César Gomes Quintão deu início ao seu pequeno ritual matinal. I]Descobriu-se da manta de lã xadrez, sentou na cama, esfregou os olhos, bocejou, vestiu os chinelos pretos de couro, e foi para o banheiro.,}
+
+A='Glosa3009'
+	    {abafar-se, acobertar-se, agasalhar-se, aquecer-se, cobrir-se, encarapuçar-se, enroupar-se, forrar-se1, gasalhar-se, recobrir-se, resguardar-se, roupar-se, tapar-se, velar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1100' = “remover as próprias roupas”
+{desagasalhar-se: Martinho ali mesmo I]se desagasalhou para cobrir o mendigo com a metade de clâmide que lhe restava,
+ descobrir-se: Já com o terço na mão, esconde-se embaixo do cobertor e começa a rezar, depois resolve então I]descobrir-se e conclui que aquelas pegadas não passavam de uma criação de  sua cabeça,}
+
+A='Glosa3009'
+	    {abafar-se, acobertar-se, agasalhar-se, aquecer-se, cobrir-se, encarapuçar-se, enroupar-se, forrar-se1, gasalhar-se, recobrir-se, resguardar-se, roupar-se, tapar-se, velar-se}
+Chave: DESAGASALHAR-SE <verb.change>
+ILI: 00170777 
+
+Sense 2
+{00170777} <verb.change> strip12, undress, divest13, disinvest -- (remove (someone's or one's own) clothes; "The nurse quickly undressed the accident victim"; "She divested herself of her outdoor clothes"; "He disinvested himself of his garments")
+       => {00166870} <verb.change> remove, take, take away1, withdraw1 -- (remove something concrete, as by lifting, pushing, taking off, etc. or remove something abstract; "remove a threat"; "remove a wrapper"; "Remove the dirty dishes from the table"; "take the gun from your pocket"; "This machine withdraws heat from the environment")

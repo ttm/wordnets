@@ -1,0 +1,60 @@
+ANÁLISE DA GLOSA2883
+
+DADO O SYNSET:
+
+S='Glosa2883'
+	    {abalar: Outro deputado confidenciou que as ofertas de dinheiro dos emissários palacianos são «tentadoras» e capazes de [abalar os parlamentares mais vulneráveis. ,
+	      agitar: A carta escrita por um governante a Garcia dos Santos em que confessa conhecer actos de corrupção na JAE está a agitar os partidos e o Governo.,
+	      alterar: Vocês não imaginam o quanto essa notícia I]alterou os ânimos da família. ,
+	      azougar: As indefinições H]azougaram-no.,
+	      desassossegar: Os versos de Gregório de Mattos vão I]desassossegar a Igreja, o Rei, os poderosos e assanhar o povo.,
+	      desquietar: Encontram-se aí os elementos da doutrina de Aristóteles, já I]desquieto com os efeitos colaterais da generalidade da norma, bem como a preocupação com os excessos da aplicação da lei e a busca de equilíbrio do Direito Romano.,
+	      dessossegar: x,
+	      exagitar: x,
+	      excitar: Então, olhou para Carla, sentada ali, impassível, malvada, disposta a arruinar sua vida profissional por um mero capricho, este pensamento o I]excitou. ,
+	      fermentar: x,
+	      inquietar: A atual gestãodo presidente Lula começa a I]inquietar brasilianistas.,
+	      perturbar: Quanto mais os EUA forem capazes de deixar claro que é fútil competir com o poder americano, menos chances haverá de que outros alimentem ideias de [perturbar a actual ordem mundial.,
+	      preocupar: Onde armazenar os resíduos tóxicos que poluem a reserva ecológica de Doñana, na Andaluzia, é a questão que começa agora a [preocupar as autoridades espanholas.,
+	      revolucionar: A mudança de itinerário H]revolucionou os turistas.,}
+
+	  A='Glosa3732'
+	    {abonançar: Agora que I]abonançou a tempestade da guerra, que leis tencionas impor a esses povos selvagens? ,
+	     acalentar: Iracema cantava docemente, embalando a rede para [acalentar o filho.,
+	     acalmar: Depois de uma semana estressante, só mesmo um jogo da Seleção Brasileira para [acalmar os ânimos.,
+	     achanar: Ladeando entendimentos contrários e favoráveis, uma compreensão é inafastável: a nova lei veio I]achanar dissensões pontuais que ainda fomentavam dúvidas e reticências na sociedade e que, modernamente, restaram pacificadas pela novel lei.,
+	     amansar: Agora, para [amansar a turma, que tal dar uma garibada no repertório que você interpreta ao piano?,
+	     apacificar: Os padres celtas realizavam seus rituais oferecendo sacrifícios para I]apacificar os deuses; assegurando-se que o sol voltaria depois do inverno; e amedrontando espíritos demoníacos.,
+	     apaziguar: Tenho que lhe trazer uma garrafa de vinho de 2 mil dólares para [apaziguar nossos ânimos.,
+	     calmar: Preciso A]calmar a minha febre e começar pelo começo.,
+	     contentar: Para [contentar o Exército, Hitler teve de eliminar Rohm, segundo alguns, matando-o pessoalmente, na Noite dos Longos Punhais.,
+	     descansar: A boa notícia A]descansou-o.,
+	     pacificar: Basile está tranquilo, principalmente porque conseguiu [pacificar os dois principais líderes do seu elenco, o meio-campista Maradona e o zagueiro Ruggeri.,
+	     paziguar: x,
+	     repoisar: x,
+	     repousar: Esta música suave A]repousa o espírito.,
+	     sossegar: Antes de partir ele queria [sossegar o espírito da esposa.,
+	     tranqüilizar: A direção do Excel Econômico tem se empenhado nos últimos dias em [tranquilizar a clientela e convencê-la de que faz parte de um banco sólido e confiável.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2883' = “Transtornar a mente, tornar inquieto ou fazer ficar preocupado ou alarmado”
+	    {abalar: O cangaceiro apareceu em carne e osso, e I]abalou os nervos e o bolso de “sêo” Mamede.,
+	      agitar: Contudo, em 1964, uma descoberta verdadeiramente I]agitou os conhecimentos nesse domínio.,
+	      alterar: Vocês não imaginam o quanto essa notícia I]alterou os ânimos da família. ,
+	      azougar: Destaque para pardal, que I]azougou a defesa da equipe de campo grande.,
+	      desassossegar: Os versos de Gregório de Mattos vão I]desassossegar a Igreja, o Rei, os poderosos e assanhar o povo.,
+	      excitar: Então, olhou para Carla, sentada ali, impassível, malvada, disposta a arruinar sua vida profissional por um mero capricho, este pensamento o I]excitou.,
+	      inquietar: A atual gestão do presidente Lula começa a I]inquietar brasilianistas.,
+	      perturbar: Isso veio favorecer os bons conceitos sócio-antropológicos; porém, de certa forma, I]perturbou os conceitos antropofísicos.,
+	      preocupar: Onde armazenar os resíduos tóxicos que poluem a reserva ecológica de Doñana, na Andaluzia, é a questão que começa agora a [preocupar as autoridades espanholas.,}
+
+	  A='Glosa3732'
+	    {abonançar, acalentar, acalmar, achanar, amansar, apacificar, apaziguar	, calmar, contentar, descansar, pacificar, repousar, sossegar	, tranqüilizar}
+Chave: DESASSOSSEGAR <verb.emotion>
+ILI: 01713293
+
+Sense 3
+{01713293} <verb.emotion> perturb, unhinge, disquiet, trouble, cark, distract2, disorder -- (disturb in mind or make uneasy or cause to be worried or alarmed; "She was rather perturbed by the news that her father was seriously ill")
+       => {01719446} <verb.emotion> disturb, upset, trouble1 -- (move deeply; "This book upset me"; "A troubling thought")
+           => {01716999} <verb.emotion> affect, impress1, move, strike -- (have an emotional or cognitive impact upon; "This child impressed me as unusually mature"; "This behavior struck me as odd") 

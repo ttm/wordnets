@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA1609
+
+DADO O SYNSET:
+
+S='Glosa1609'
+{brigar: Só irei [brigar contra os radicais se pelo menos 25 dos 36 deputados decidirem apresentar destaques na revisão», diz .,
+ combater: Numa cultura pode considerar-se errado I]combater pelo próprio país, mas noutra cultura pode considerar-se errado não combater pelo próprio país.,
+ disputar: Os irmãos A]disputaram a posse da casa.,
+ lutar: Entre os séculos XII e XIII dezenas de exércitos chefiados por senhores feudais partiram de vários pontos da Europa para [lutar contra os turcos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1609' = “lutar contra ou resistir fortemente”
+{brigar: O delegado de Caratinga, Paulo Roberto Mairinques, disse que o lavrador [brigou com sua companheira Sebastiana Maria da Rocha Moreira, 29, e acabou por assassiná-la com vários golpes de foice.,
+ combater: Em 1811, foi criado em Guerrero um exército de 3 mil pessoas, lideradas por José Maria Morelas, que [combateu os colonizadores espanhóis.,
+ disputar: Maluco e Uê [disputam a tiros pontos de droga na zona norte do Rio.,
+ lutar: Meu pai era rebelde e anarquista, [lutou no corpo a corpo da 1ª Guerra Mundial.,}
+Chave: BRIGAR <verb.competition>
+ILI: 01056643
+
+Sense 2
+{01056643} <verb.competition> fight1, oppose1, fight back, fight down, defend5 -- (fight against or resist strongly; "The senator said he would oppose the bill"; "Don't fight it!")
+       => {01055630} <verb.competition> fight, struggle -- (be engaged in a fight; carry on a fight; "the tribesmen fought each other"; "Siblings are always fighting")

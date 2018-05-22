@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2069
+
+DADO O SYNSET:
+	
+S='Glosa2069'
+    	{dilacerar: A mordida do animal I]dilacerou a parte inferior do rosto e, por isso, o menor foi submetido a cirurgia de reconstrução.,
+      	 estraçalhar: O comerciante Cássio Antônio Chioda, é dono do cachorro da raça fila que I]estraçalhou o bebê João.,
+      	 estracinhar: x,
+      	 estraçoar: Viram-se os efeitos das primeiras balas em vários pontos; explodindo dentro dos casebres e I]estraçoando-os, e enterroando-os.,
+      	 traçar1: A locomotiva M]traçou o pobre bezerro.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2069' = “romper (algo) em várias partes”
+    	{dilacerar: Açuladas pela fome de tantos dias, as formigas vorazes se prepararam para [dilacerar a primeira vítima que lhes caísse nas garras.,
+      	 estraçalhar: As balas de sua pistola - as famigeradas dumdum - foram laboriosamente lapidadas para [estraçalhar as entranhas da vítima.,
+      	 estraçoar: Viram-se os efeitos das primeiras balas em vários pontos; explodindo dentro dos casebres e I]estraçoando-os, e enterroando-os.}
+Chave: ESTRAÇALHAR <verb.change>
+ILI: 00323545
+
+Sense 2
+{00323545} <verb.change> shatter1 -- (break into many pieces; "shatter the plate")
+       => {00324471} <verb.change> break10 -- (destroy the integrity of; usually by force; cause to separate into pieces or fragments; "He broke the glass plate"; "She broke the match")
+           => {01973194} <verb.motion> separate1, divide -- (make a division or separation)

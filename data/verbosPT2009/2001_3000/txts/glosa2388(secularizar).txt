@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA2388
+
+DADO O SYNSET:
+
+S='Glosa2388'
+	    {secularizar: I]Secularizar a cultura.# I]Secularizar e dessacralizar a história para desvendar seu caráter ideológico.,
+	      temporalizar: I]Temporalizar o espaço da antiga região dos cemitérios.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2388' = “Transferir de eclesiástico para civil a posse, o uso ou controle de.” 
+	    {secularizar: Tem-se dito ter sido Pombal quem primeiro I]secularizou o ensino.,
+	      temporalizar: I]Temporalizar o espaço da antiga região dos cemitérios.,}
+
+Chave: SECULARIZAR <verb.possession>
+ILI: 02158057
+
+Sense 2
+{02158057} <verb.possession> secularize -- (transfer from ecclesiastical to civil possession, use, or control)
+       => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children")

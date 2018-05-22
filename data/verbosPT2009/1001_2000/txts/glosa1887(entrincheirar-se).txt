@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA1887
+
+DADO O SYNSET:
+
+S='Glosa1887'
+{abarreirar-se: Todos se H]abarreiraram diante da ameaça de invasão.,
+ embarreirar-se: x,
+ entranqueirar-se: x,
+ entrincheirar-se: Depois viu-se obrigado a se I]entrincheirar apressadamente no palácio. ,
+ envalar-se: x,
+ fortificar-se: O crescimento da povoação obrigou a comunidade a tomar providências, principalmente para casos de perigo; em função disso, I]fortificou-se a capela, com a construção de paliçadas ao seu redor. ,}
+	  
+A='Glosa1656'
+{desentrincheirar-se: x, }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1887' = “munir-se de meios para defender-se”
+{entrincheirar-se: Por volta de 20 de novembro, o 182o de Infantaria I]entrincheirou-se a cerca de 100 m a leste da Ponta da Cruz. ,
+ fortificar-se: Uma nova expedição desembarcou e I]fortificou-se em Guaxenduba, perto de São Luís.,}
+	  
+A='Glosa1656'
+{desentrincheirar-se: x,}
+Chave: ENTRINCHEIRAR-SE <verb.competition>
+ILI: EQ_HAS_HYPERONYM - 01052697 - “preparar-se para confrontação militar”
+
+Sense 3
+{01052697} <verb.competition> arm, build up, fortify, gird -- (prepare oneself for a military confrontation; "The U.S. is girding for a conflict in the Middle East"; "troops are building up on the Iraqui border")

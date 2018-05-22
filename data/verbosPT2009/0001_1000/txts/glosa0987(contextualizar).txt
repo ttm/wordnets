@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0987
+
+DADO O SYNSET:
+
+S='Glosa987'
+      {contextualizar: A nova versão investe mais na ficção, de forma a contextualizar os conceitos pedagógicos dentro da história que cada episódio desenvolve,
+     contextuar: O trabalho traz formulações sobre as teorias do complexo de Édipo e da angústia em Freud e Lacan, I]contextuando-as no tempo e no espaço que lhe são próprias,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa987' = “incluir no contexto”
+{contextualizar: A nova versão investe mais na ficção, de forma a contextualizar os conceitos pedagógicos dentro da história que cada episódio desenvolve,
+contextuar: O trabalho traz formulações sobre as teorias do complexo de Édipo e da angústia em Freud e Lacan, I]contextuando-as no tempo e no espaço que lhe são próprias,}
+Chave: CONTEXTUALIZAR <verb.change>
+ILI: EQ_HAS_HYPERONYM - 00177721
+
+Sense 1
+{00177721} <verb.change> include -- (add as part of something else; put in as part of a set, group, or category; "We must include this chemical element in the group")
+       => {00176022} <verb.change> add -- (make an addition (to); join or combine or unite with others; increase the quality, quantity, zise or scope of; "We added two students to that dorm room"; "She added a personal note to her letter"; "Add insult to injury"; "Add some extra plates to the dinner table")
+           => {00150804} <verb.change> increase -- (become bigger or greater in amount; "The amount of work increased")
+               => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

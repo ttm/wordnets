@@ -1,0 +1,38 @@
+ANÁLISE DA GLOSA1745
+
+DADO O SYNSET:
+
+S='Glosa1745'
+{acanhar: E o goleiro saiu como o melhor em campo. Mas, o escândalo do Ademar I]acanhou o Capivariano. ,
+ acobardar: De manhã, a minha resolução era quase inabalável, mas, já à tarde, eu me I]acobardava diante dos perigos que antevia. ,
+ acovardar: Ainda que isso aconteça, o espírita que cometeu falta por pensamento não deve I]acovardar-se, mas persistir, dia a dia, em seus bons propósitos.,
+ desacorçoar: Ele I]desacorçoou. Ia sentir dor, uma nova espécie de dor. ,
+ desacoroçoar: Mas não I]desacoroçoou a Rosalina; e cada vez mais se ocupou do modo de insinuar-se na casa da Romana. # H]Desacoroçoou diante da adversidade.,
+ desanimar: Em pé à beira do gramado, ele não deixou seu time [desanimar, mesmo diante das adversidades que surgiram durante o jogo.,
+ descoraçoar: x,
+ descoroçoar: Raimundo, entretanto não I]descoroçoou com a situação e subia a escada, sem hesitar, levando consigo Ana Rosa, meio desfalecida.,
+ encobardar: x,
+ encovardar: x,}
+	  
+A='Glosa10'
+{animar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1745' = “fazer perder a coragem/ânimo”
+{acanhar: Mas o frio não I]acanhou ninguém e logo já estavam batucando.,
+ acovardar: O marginal, então, busca [acovardá-lo e encurralar a Polícia Militar, fazendo prevalecer o poder do crime.,
+ desacorçoar: Fernando Collor de Mello conseguia [desacorçoar muitos repórteres não todos à custa de empáfia e agressividade.,
+ desacoroçoar: Tal constatação I]desacoroçoa o exportador, com razão, mas tem sido assim porque o debate está mal colocado.,
+ desanimar: A dificuldade de entendimento, em alguns trechos, [desanima o leitor comum.,
+ descoroçoar: Essa perspectiva não conseguirá I]descoroçoar os que andam empenhados na humanitária missão de encadeiar, de reduzir a impotência essa forma do mal.,}
+	  
+A='Glosa10'
+{animar}
+Chave: DESANIMAR <verb.emotion>
+ILI: 01734017
+
+Sense 1
+{01734017} <verb.emotion> daunt, dash, scare off, pall, frighten off, scare away, frighten away, scare4 -- (cause to lose courage; "dashed by the refusal")
+       => {01766683} <verb.emotion> intimidate1, restrain -- (to compel or deter by or as if by threats)
+           => {01766276} <verb.emotion> discourage -- (deprive of courage or hope; take away hope from; cause to feel discouraged)

@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA3789
+
+DADO O SYNSET:
+
+S='Glosa3789'
+{emperlar: x,
+	 perlar: Aroldo experimentou um certo pânico por vislumbrar o que poderia ser seu destino e, sentindo as mãos frias e o suor I]perlando a fronte.,
+	 perolizar: Com o novo gel, os consumidores podem soltar sua imaginação, valorizando e I]perolizando efeitos decorativos como pátina, esponjado, manchado e trapeado.}
+	
+A ANÁLISE RESULTA EM:
+
+S='Glosa3789' = “colher pérolas, de ostras no oceano”
+{perlar: Aroldo experimentou um certo pânico por vislumbrar o que poderia ser seu destino e, sentindo as mãos frias e o suor I]perlando a fronte.,
+	 perolizar: Com o novo gel, os consumidores podem soltar sua imaginação, valorizando e I]perolizando efeitos decorativos como pátina, esponjado, manchado e trapeado.}
+
+Chave: PEROLIZAR <verb.contact>
+ILI: 01343597
+
+Sense 1
+{01343597} <verb.contact> pearl -- (gather pearls, from oysters in the ocean)
+       => {01340552} <verb.contact> gather, garner, collect, pull together -- (assemble or get together; "gather some stones"; "pull your thoughts together")

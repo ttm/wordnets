@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA1076
+
+DADO O SYNSET:
+
+S='Glosa1076'
+{conferenciar: O Ministro britânico para a Irlanda do Norte, Peter Brooke, [conferenciou ontem em Belfast com líderes do Partido Social-Democrata, em mais uma tentativa para pôr em marcha as conversações sobre o futuro político da província.,
+ conferir: Os cardeais do PFL se reuniram na manhã de ontem para I]conferir informações, atualizar conversas e checar, estado por estado, a situação da candidatura Inocêncio de Oliveira.,
+ consultar: Os delegados presentes foram [consultar os seus governos e se reúnem agora para apresentar a posição oficial de cada país. ,
+ debater: O Sindicato de Jogadores de São Paulo fez uma reunião pra [debater a questão. # O deputado Matheus Schimidt quer transformar a sessão da Câmara, no dia 8 de maio, em uma comissão geral para [debater a questão fundiária no Brasil.,
+ deliberar: Após esta intervenção, os membros da expedição reuniram-se com a organização da viagem para [deliberar sobre o que fazer.,
+ discutir: Os gregos acreditavam que os deuses se reuniam no Monte Olimpo para [discutir o futuro do mundo e dos homens,
+ tratar: Reuniram-se algumas entidades para I]tratar da questão da audiência pública no próximo dia 12 de setembro com os três senadores de São Paulo. ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1076' = “discutir os prós e contras de um ponto em debate”
+{conferenciar: Fui instalada na mesa de fórmica número dois, no Shaheen Restaurant, e ele, com ares de nababo foi [conferenciar com a dona do negócio.,
+ conferir: O Sr. Stephens I]conferiu com ambas as partes, e concluiu que a cidade estava dividida na controvérsia.,
+ consultar: O membro da rede de líderes Ángel Shingri da cidade de Coca, explicou que ninguém I]consultou com ele sua liberação e que sua fiança foi paga pelo Governador da província.,
+ debater: Ricupero esteve ontem em São Paulo, onde [debateu com 400 empresários na Fiesp.,
+ deliberar: Galério Máximo I]deliberou com o seu conselho e, com muita dificuldade, pronunciou a sentença.,
+ discutir: O PFL já [discutiu com FHC a questão da paternidade do plano econômico durante a campanha.,
+ tratar: Santillo ainda não [tratou com Itamar sobre o assunto de sua desincompatibilização.,}
+Chave: DEBATER <verb.communication> 
+ILI: 00786324 
+
+Sense 3
+{00786324} <verb.communication> debate, deliberate -- (discuss the pros and cons of an issue)
+       => {00787668} <verb.communication> hash out, discuss, talk over -- (speak with others about (something); talk (something) over in detail; have a discussion; "We discussed our household budget")
+           => {00912516} <verb.communication> talk of, talk about1 -- (discuss or mention; "They spoke of many things")
+               => {00910961} <verb.communication> talk, speak, utter, mouth, verbalize, verbalise -- (express in speech; "She talks a lot of nonsense"; "This depressed patient does not verbalize")
+                   => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                       => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                           => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

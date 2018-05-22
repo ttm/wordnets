@@ -1,0 +1,49 @@
+ANÁLISE DA GLOSA1883
+
+DADO O SYNSET:
+
+S='Glosa1883'
+{acomodar: Vieram sentar-se nos dous bancos fronteiros ao do Rubião, [acomodaram as cestinhas e embrulhos de lembranças que traziam de Vassouras, onde tinham ido passar uma semana; abotoaram o guarda-pó, trocaram algumas palavras, baixo.,
+      	 acondicionar: Podem ser camas com gavetas embutidas, sofás dimensionados para [acondicionar objetos debaixo das almofadas e estantes com várias finalidades», diz Layde Tuono, 37, decoradora.,
+      	 ajeitar: Ela I]ajeitou com presteza o quarto de hóspedes, deixando que me instalasse realmente como  hóspede.  ,
+      	 arranjar: Concentrando-se, recortou cuidadosamente cada palavra. Em seguida, I]arranjou-as, na ordem do poema, soltas sobre a escrivaninha.,
+      	 arrumar: Vem dormir em minha casa; amanhã ficarás ajudando-me a [arrumar os livros.,
+      	 compor: A]Compor um vaso de flores.  ,
+      	 confeccionar: x,
+      	 corrigir: x,
+      	 dispor: Criarmos uma equipe de voluntários para catalogar e I]dispor os livros nas estantes. ,
+      	 distribuir: O autor A]distribuiu os capítulos por ordem cronológica.  ,
+      	 elaborar: x,
+      	 entroixar: x,
+      	 entrouxar: José Teixeira I]entrouxou a sua pequenina bagagem, desceu a entrar na escolta e pediu a um preso circunstante um vintém de esmola para cigarros.,
+      	 estruturar: x,
+      	 ordenar: Não convém começar a I]ordenar um armário dez minutos antes de comer ou começar um trabalho cinco minutos antes de sair do colégio.,
+      	 organizar: Finalmente consegui I]organizar a minha estante.,}
+  
+A='Glosa1567'
+    	{alterar, anarquizar, desacomodar, desajeitar, desalinhar, desarranjar, desarrumar, descompor, desconcertar, descontrolar, desestruturar, desmanchar, desordenar, desorganizar, destemperar, destruir, perturbar, tumultuar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1883' = “trazer ordem [para]
+{acomodar: A política do Governo Lula I]acomoda a situação gerada em anos anteriores.,
+      	 acondicionar: Podem ser camas com gavetas embutidas, sofás dimensionados para [acondicionar objetos debaixo das almofadas e estantes com várias finalidades», diz Layde Tuono, 37, decoradora.,
+      	 ajeitar: Ela I]ajeitou com presteza o quarto de hóspedes, deixando que me instalasse realmente como  hóspede.  ,
+      	 arranjar: Concentrando-se, recortou cuidadosamente cada palavra. Em seguida, I]arranjou-as, na ordem do poema, soltas sobre a escrivaninha.,
+      	 arrumar: Vem dormir em minha casa; amanhã ficarás ajudando-me a [arrumar os livros.,
+      	 compor: Mas tão importante quanto utilizar técnica e sentimento para I]compor um vaso de Ikebana, é a técnica de desmanchá-lo,
+      	 dispor: Criarmos uma equipe de voluntários para catalogar e I]dispor os livros nas estantes.,
+      	 distribuir: Hilda do Santos I]distribuiu a droga em doze bolsas de plástico envolvidas em papel.,
+      	 ordenar: Não convém começar a I]ordenar um armário dez minutos antes de comer ou começar um trabalho cinco minutos antes de sair do colégio.,
+      	 organizar: Finalmente consegui I]organizar a minha estante.,}
+  
+A='Glosa1567'
+    	{alterar, anarquizar, desacomodar, desajeitar, desalinhar, desarranjar, desarrumar, descompor, desconcertar, descontrolar, desestruturar, desmanchar, desordenar, desorganizar, destemperar, destruir, perturbar, tumultuar}
+Chave: ORDENAR <verb.change>
+ILI: 00268653
+
+Sense 5
+{00268653} <verb.change> order -- (bring order to or into; "Order these files")
+       => {01422386} <verb.contact> arrange, set up -- (put into a proper or systematic order; "arrange the books on the shelves in chronological order")
+           => {01452069} <verb.contact> put, set, place, pose2, position, lay1 -- (put into a certain place or abstract location; "Put your things here"; "Set the tray down"; "Set the dogs on the scent of the missing children"; "Place emphasis on a certain point")
+               => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

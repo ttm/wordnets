@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA2009
+
+DADO O SYNSET:
+	
+S='Glosa2009'
+    	{agüentar-se: x,
+      	 amparar-se: I]Amparou-se na árvore mas suas pernas fraquejaram e Renato caiu.,
+      	 apoiar-se: O agrimensor [apoiou-se com a mão à parede, livrando a cabeça, e caiu brusco e pesado numa cadeira vazia.,
+      	 escorar-se: Aí dei outro e ele soltou da gaveta e [escorou-se na mesa, não caiu.,
+      	 especar-se: M]Especaram-se na parede.,
+      	 segurar-se: Voltou pálido, trêmulo, I]segurou-se no braço da cadeira.,
+      	 suportar-se: x,
+      	 sustentar-se: H]Sustentou-se no corrimão para não cair.,
+      	 suster-se: Não caiu porque se H]susteve a uma cerca.,
+      	 tomar-se: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2009' = “apoiar-se [em] a fim de ficar sustentado”
+    	{amparar-se: I]Amparou-se na árvore mas suas pernas fraquejaram e Renato caiu.,
+      	 apoiar-se: O agrimensor [apoiou-se com a mão à parede, livrando a cabeça, e caiu brusco e pesado numa cadeira vazia.,
+      	 escorar-se: Aí dei outro e ele soltou da gaveta e [escorou-se na mesa, não caiu.,
+      	 especar-se: Os primeiros grupos bateram contra a margem direita agarrando-se às gramíneas escassas, I]especando-se nas armas, filando-se às pernas dos felizes que conseguiam vencê-las, se embaralham outra vez em congérie ruidosa.,
+      	 segurar-se: Ele quase caia, mas I]segurou-se no braço de Kevin.,
+      	 sustentar-se: Ele realmente tinha que sair da cama; respirou profundamente e se I]sustentou nos braços, pondo-se lentamente de pé.,
+      	 suster-se: O herói, caído de joelhos, I]susteve-se apoiando a sua espessa mão contra a terra.}
+Chave: ESCORAR-SE <verb.contact>
+ILI: 01546434
+
+Sense 1
+{01546434} <verb.contact> lean on, rest on, lean against -- (rest on for support; "you can lean on me if you get tired")
+       => {01169130} <verb.contact> touch1, adjoin3, meet, contact3 -- (be in direct physical contact with; make contact; "The two buildings touch"; "Their hands touched"; "The wire must not contact the metal cover"; "The surfaces contact at this point")

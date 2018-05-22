@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA3508
+
+DADO O SYNSET:
+
+S='Glosa3508'
+	    {
+	      encenar: Mas quando li o poema, não me achei à altura de [encená-lo,
+	      montar: A idéia de ]montar um espetáculo em homenagem ao pintor surgiu há dois anos,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3508' = “representar (uma peça), especialmente no palco”
+	     {encenar: O grupo [encenou a situação de uma menina de 15 anos que engravida e não tem apoio dos pais,
+	      montar: Durante sua primeira fase ( 1991 a 1997), I]montou peças de renome e conquistou premiação no 1º Festival de Teatro da USP,}
+Chave: ENCENAR <verb.creation>
+ILI: 01662504
+
+Sense 1
+{01662504} <verb.creation> stage, present, represent11 -- (perform (a play), especially on a stage; "we are going to stage `Othello'")
+       => {01573613} <verb.creation> re-create -- (create anew; "Re-create the boom of the West on a small scale")
+           => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

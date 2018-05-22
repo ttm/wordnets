@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0466
+
+DADO O SYNSET:
+
+S='Glosa466'
+{alancear: H]Alanceava o lutador para que ele reagisse.,
+lancear: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa466' = “atacar, perfurar com lança (também metaforicamente)”
+{alancear: Isto aconteceu quando o golpe da viuvez o I]alanceou de forma brutal. Buscando consolação, o “médico dos pobres” voltou-se com toda a unção para o consolo}
+Chave: ALANCEAR <verb.contact>
+ILI: 01560214
+
+Sense 2
+{01560214} <verb.contact> lance1 -- (pierce with a lance, as in a knights' fight)
+       => {01400358} <verb.contact> pierce1, thrust1 -- (penetrate or cut through with a sharp instrument)
+           => {01190419} <verb.contact> penetrate, perforate3 -- (pass into or through, often by overcoming resistance; "The bullet penetrated her chest")
+               => {01958650} <verb.motion> enter, come in2, get into, get in1, go into, go in, move into -- (to come or go into; "the boat entered an area of shallow marshes") 

@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2669
+
+DADO O SYNSET:
+
+S='Glosa2669'
+	    {banquetear: Seria o mesmo final para Staden, não fosse sua capacidade de I]banquetear seus algozes Tupinambás com um jantar simbólico. ,
+	      repastar: A]Repastar os convidados.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2669' = “
+	    {banquetear: Seria o mesmo final para Staden, não fosse sua capacidade de I]banquetear seus algozes Tupinambás com um jantar simbólico.,
+	      repastar: A]Repastar os convidados.,}
+
+Chave: BANQUETEAR <verb.consumption>
+ILI: 01150027
+
+Sense 1
+{01150027} <verb.consumption> feast1, banquet1, junket1 -- (provide a feast or banquet for)
+       => {01158053} <verb.consumption> host -- (be the host of or for; "We hosted 4 couples last night")
+           => {02417870} <verb.social> entertain -- (provide entertainment for)
+               => {02317425} <verb.social> socialize1, socialise1 -- (take part in social activities; interact with others; "He never socializes with his colleagues"; "The old man hates to socialize")
+                   => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                       => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel") 

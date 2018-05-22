@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA1007
+
+DADO O SYNSET:
+	  
+S='Glosa1007'
+{abater: É preciso acelerar a venda de ativos para [abater a dívida pública. # O ministro informou que o dinheiro que está entrando no caixa do governo vai servir para [abater dívidas.,
+ cortar: As greves são também de protesto contra os planos governamentais de congelar os salários, como parte de uma iniciativa para [cortar os gastos públicos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1007' = “fazer diminuir ou reduzir [valor, preço etc.]”
+{abater: Como esses papéis já [abatem o valor do débito, não há necessidade de deságio.,
+ cortar: FHC determinou que as estatais [cortem a gordura em seus preços obtida com o programa de recuperação tarifária realizado ano passado.}
+Chave: CORTAR <verb.change>
+ILI: 00416885
+
+Sense 2
+{00416885} <verb.change> reduce, cut down, cut back1, trim, trim down, trim back, cut6, bring down -- (cut down on; make a reduction in; "reduce your daily fat intake"; "The employer wants to cut back health benefits")
+       => {00428838} <verb.change> decrease1, lessen2, minify -- (make smaller; "He decreased his staff")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

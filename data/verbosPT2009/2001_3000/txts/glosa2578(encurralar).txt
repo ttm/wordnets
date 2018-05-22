@@ -1,0 +1,38 @@
+ANÁLISE DA GLOSA2578
+
+DADO O SYNSET:
+
+S='Glosa2578'
+	    {acuar: Ao longo do tempo demonstrou ser um animal raro: é capaz de farejar, rastear e I]acuar um intruso mesmo sob circunstâncias bastante adversas.,
+	      acurralar: Lê folhas soltas e fala e grita notícias, vai andando, nos becos aparecem outros também lendo folhas e folhas e falando e I]acurralando as pessoas. ,
+	      acurrar: x,
+	      arrincoar: Os guerrilheiros H]arrincoaram os soldados à beira do precipício.,
+	      arrinconar: x,
+	      embestegar: x,
+	      encantoar: O filho do ricaço I]encantoou a menina, só os dois em casa; rapaz tirou vestido dela, assim bem na marra.,
+	      encurralar: A onça tem de comer os cachorros e estes, por sua vez, têm de I]encurralar a onça.,
+	      enrinconar: x,
+	      rinconar: x,}
+
+	  A='Glosa1110'
+	    {desacuar: x,
+	     desencurralar: H]Desencurralou os reféns,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2578' = “Forçar uma pessoa ou animal a uma posição da qual ele(a) não possa escapar.”
+	    {acuar: Ao longo do tempo demonstrou ser um animal raro: é capaz de farejar, rastear e I]acuar um intruso mesmo sob circunstâncias bastante adversas.,
+	      acurralar: O sargento o I]acurralou num resto de mata.,
+	      encantoar: O filho do ricaço I]encantoou a menina.,
+	      encurralar: A onça tem de comer os cachorros e estes, por sua vez, têm de I]encurralar a onça.,}
+
+ A='Glosa1110'
+	    {Desacuar, desencurralar}
+
+Chave: ENCURRALAR <verb.motion>
+ILI: 01878236
+
+Sense 2
+{01878236} <verb.motion> corner1 -- (force a person or an animal into a position from which he cannot escape)
+       => {01875920} <verb.motion> steer, maneuver, manoeuver, manoeuvre, direct3, point5, head1, guide1, channelize3, channelise3 -- (direct the course; determine the direction of travelling)
+           => {02367626} <verb.social> control, command -- (exercise authoritative control or power over; "control the budget"; "Command the military forces") 

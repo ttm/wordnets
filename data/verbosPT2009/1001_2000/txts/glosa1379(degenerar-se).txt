@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA1379
+
+DADO O SYNSET:
+
+S='Glosa1379'
+{degenerar-se: Automaticamente, I]degeneraram-se e passaram a viver em gangs, para garantir sua sobrevivência, possibilitando a criação de duelos.,
+ entortar-se: x,}
+	  
+A='Glosa2683'
+	    {arrepender-se, corrigir-se, desentortar-se,  -se, emendar-se, endireitar-se, reformar-se, regenerar-se, renascer}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1379' = “alterar-se para pior; estragar-se”
+{degenerar-se: A confiabilidade de Lula I]degenerou-se significativamente inclusive em seu tradicional reduto, a classe C.,}
+A='Glosa2683'
+	    {arrepender-se, corrigir-se, desentortar-se, doer-se, emendar-se, endireitar-se, reformar-se, regenerar-se, renascer}
+Chave: DEGENERAR-SE <verb.body>
+ILI: 00089731
+
+Sense 2
+{00089731} <verb.body> devolve, deteriorate, drop1, degenerate -- (grow worse; "Her condition deteriorated"; "Conditions in the slums degenerated"; "The discussion devolved into a shouting match")
+       => {00196646} <verb.change> worsen, decline1 -- (grow worse; "Conditions in the slum worsened")
+           => {00140715} <verb.change> change state, turn4 -- (undergo a transformation or a change of position or action; "We turned from Socialism to Capitalism"; "The people turned against the President when he stole the election")
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

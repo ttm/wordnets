@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA2722
+
+DADO O SYNSET:
+
+  S='Glosa2722'
+	    {documentar: Em suas obras sobre o tema da guerra, como nas gravuras de "Sonho e Mentira de Franco" e no grande painel "Guernica", Pablo Picasso escolhidas por jornais e revistas para [documentar esse conflito há ecos de gravuras da série .,
+	      registar: Os sertões, veredas e chapadões, os povoados e suas histórias emocionaram o jovem engenheiro, que I]registou minuciosamente tudo o que viu.,
+	      registrar: A cassação entrou em vigor ontem mesmo e agora as câmaras do diretor Spike Lee podem [registrar a realidade do Morro de Dona Marta.,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2722' = “Pôr algo em escrito detalhadamente.”
+	    {documentar: I]Documentou a Revolta da Armada ( 1893/94 ), retratando as fortificações, os soldados e o armamento utilizado sem, contudo, apresentar cenas do embate.,
+	      registar: Os sertões, veredas e chapadões, os povoados e suas histórias emocionaram o jovem engenheiro, que I]registou minuciosamente tudo o que viu.,
+	      registrar: durante quatro dias, I]registrou o trabalho dos pesquisadores e da tripulação do famoso navio da USP.,}
+
+Chave: DOCUMENTAR <verb.communication>
+ILI: 00969639
+
+Sense 1
+{00969639} <verb.communication> document -- (record in detail; "The parents documented every step of their child's development")
+       => {00967710} <verb.communication> record, enter4, put down5 -- (make a record of; set down in permanent form)
+           => {02161122} <verb.possession> save, preserve1 -- (to keep up and reserve for personal or special use; "She saved the old family photographs in a drawer")
+               => {02138940} <verb.possession> keep, hold on -- (retain possession of; "Can I keep my old stuffed animals?"; "She kept her maiden name after she married")
+                   => {02139918} <verb.possession> have, have got, hold -- (have or possess, either in a concrete or an abstract sense; "She has $1,000 in the bank"; "He has got two beautiful daughters"; "She holds a Master's degree from Harvard") 

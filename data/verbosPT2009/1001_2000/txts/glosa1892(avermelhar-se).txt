@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA1892
+
+DADO O SYNSET:
+
+S='Glosa1892'
+{avermelhar-se: O compadre foi às nuvens, [avermelhou-se-lhe a calva, franziu a testa, porém fez que não tinha ouvido.,
+ envermelhar-se: O pastor visitante, de repente, sentado onde estava, I]envermelhou-se e abaixou a cabeça, no maior silêncio também. ,
+ envermelhecer-se: x, }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1892' = “ficar vermelho ou mais vermelho”
+{avermelhar-se: Se as próprias fábricas, em modelos recentes, incorporam o processador de voz, é porque certamente já o submeteram a exaustivos testes e experiências, não tendo motivo para ter receio quanto à vida das válvulas, desde que estas não se [avermelhem durante a operação.,
+ envermelhar-se: Aqueles olhos que tanto o olharam, hoje I]envermelham-se no profundo toque de uma palavra.,}
+Chave: AVERMELHAR-SE <verb.change>
+ILI: 00279987
+
+Sense 3
+{00279987} <verb.change> redden -- (turn red or redder; "The sky reddened")
+       => {00272185} <verb.change> discolor, discolour, colour, color1 -- (change color, often in an undesired manner; "The shirts discolored")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

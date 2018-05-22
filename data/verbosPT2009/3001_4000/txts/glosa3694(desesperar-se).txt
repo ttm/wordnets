@@ -1,0 +1,52 @@
+ANÁLISE DA GLOSA3694
+
+DADO O SYNSET:
+
+S='Glosa3694'
+	    {
+	      afligir-se: Com os olhos em mim, Capitu queria saber que notícia era a que [me afligia tanto.,
+	      atormentar-se: Tropeços, dificuldades materiais e, principalmente, mesquinhos e maus embaraços criados pela invejosa concorrência comercial muito [nos atormentaram.# [Se atormentava numa luta contra si próprio. ,
+	      comer-se: I]Comer-se de raiva.,
+	      consumir-se: Nenhum tormento tinha sido tão complexo como aquele que por hora I]lhe consumia.,
+	      descabelar-se: Quando nos casamos, bastava ele sair para eu [me descabelar, chorar.,
+	      desesperar-se: Quando soube que estava contaminado, ele primeiro [se desesperou. ,
+	      dilacerar-se: Homens desejam mulheres e são correspondidos, mas [se dilaceram a respeito de permitir que esses instintos predominem. ,
+	      excruciar-se: Você M]se excrucia à toa.,
+	      flagelar-se: As vezes, um emprevisto é muito mais um grande motivo para rir da insignificância do que a razão para I]se flagelar. ,
+	      lacerar-se: Uma aflição [me lacerava.,
+	      martirizar-se: Não pude vencer, domar a curiosidade, que em luta aberta com a minha razão, [martirizava me, aguçando um desejo fatal. ,
+	      moer-se: Amaro I]moia-se de raiva ao pensar em Amélia e João Eduardo.,
+	      mortificar-se: Pois já não estava porventura tudo acabado? ... para que então [mortificar-se ainda com semelhante doidice?,
+	      partir-se: Teu coração piedoso I]partiu-se. ,
+	      rasgar-se: Sinto minha alma I]rasgar-se, enquanto a dor eo lamento se apossam do meu coração que se esforça para não mais pulsar.,
+	      remoer-se: Othello começa a I]se remoer de ciúmes.,
+	      tiranizar-se: Muitas vezes as paixões cuja origem não conhecemos ao certo são as que mais I]nos tiranizam.,
+	      torturar-se: O senhor [tortura-me com as suas perguntas. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3694' = “abandonar a esperança, desistir da esperança, desencorajar-se”
+	     {afligir-se: Como qualquer rico brasileiro, I]aflige-se com a idéia de ser seqüestrada.,
+	      atormentar-se: A personagem Cloud I]atormenta-se pela morte de Aeris Gainsborough.,
+	      comer-se: Aosaber-se traído, I]comeu-se de raiva.,
+	      consumir-se: Amou Clítia que ao ser abandonada pela irmã Leucótoe, I]consumiu-se de dor e transformou-se em heliotrópio.,
+	      descabelar-se: Ivã I]descabelou-se, ficou irado e nunca mais pôde esquecer-se da traição das duas.,
+	      desesperar-se: Quando soube que estava contaminado, ele primeiro [se desesperou.,
+	      dilacerar-se: Homens desejam mulheres e são correspondidos, mas [se dilaceram a respeito de permitir que esses instintos predominem.,
+	      flagelar-se: Ela sofre, chora, se I]flagela.,
+	      lacerar-se: Uma aflição [me lacerava.,
+	      martirizar-se: I]Martirizava-se com o fato de, no novo regime, a discriminação dos despossuídos continuar a ser um item do quotidiano. ,
+	      moer-se: Amaro I]moia-se de raiva ao pensar em Amélia e João Eduardo.,
+	      mortificar-se: E I]mortificava-se por pensar em tais vilanias e por ter desejos tão mundanos.,
+	      partir-se: Teu coração piedoso I]partiu-se.,
+	      rasgar-se: Vencia a torrente, rompia a onda humana, feria-se, I]rasgava-se, sentia a fumaça asfixiante e o calor dos incêndios abrazava.,
+	      remoer-se: Othello começa a I]se remoer de ciúmes.,
+	      tiranizar-se: O asceta hindu M]tiranizava-se.,
+	      torturar-se: I]Torturava-se com a incompreensão do chefe.,}
+Chave: DESESPERAR-SE <verb.emotion>
+ILI: 01758387
+
+Sense 1
+{01758387} <verb.emotion> despair -- (abandon hope; give up hope; lose heart; "Don't despair--help is on the way!")
+       => {01758626} <verb.emotion> despond -- (lose confidence or hope; become dejected; "The supporters of the Presidential candidate desponded when they learned the early results of the election") 

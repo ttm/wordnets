@@ -1,0 +1,55 @@
+ANÁLISE DA GLOSA3779
+
+DADO O SYNSET:
+
+S='Glosa3779'
+{abluir: Rochtsá é a segunda ablução, o momento em que os participantes do sêder devem I]abluir as mãos recitando a bênção de "Netilat yadáyim".,
+	 aclarar: x,
+	 alimpar: O pessoal da favela I]alimpou tudo.,
+	 apurar: H]Apurar o ouro.,
+	 clarificar: I]Clarificar a manteiga significa separar a gordura (de coloração amarela) dos sólidos e líquidos incorporados durante o preparo da manteiga. ,
+	 dealbar: x,
+	 dealvar: x,
+	 depurar: Pesquisadores da Universidade de Brasília importam reatores eletroquímicos da França para I]depurar metais pesados.,
+	 desenxovalhar: x,
+	 emundar: x,
+	 escoimar: O oleiro fazia com que o produto final fosse bonito, ele I]escoimou todas as pedrinhas e deu sentido ao barro.,
+	 escoriar2: Se necessário, I]escoriar os furos e reaplicar ResiLAR BaseSeca. ,
+	 escorificar: x,
+	 expurgar: A água H]expurga qualquer coisa.,
+	 lavar: O pico da seca aconteceu no dia em que se proibiu a população de [lavar os carros.,
+	 limpar: Ela começou a [limpar as unhas da criança.,
+	 mundificar: As espadas servem para I]mundificar as unhas.,
+	 perlavar: Vai-se à fonte, M]perlava as mãos três vezes.,
+	 purgar: Os piers estão dotados com sistema de linha para fornecimento de nitrogênio que é usado para I]purgar os tanques dos navios antes dos embarques.,
+	 purificar: A sede do Greenpeace não conseguiu os nomes dos navios que estariam trazendo o produto, que é usado para [purificar o ouro nos garimpos e polui os rios.}
+
+A='Glosa1395'
+{enxovalhar, impurificar, sujar}
+	
+A ANÁLISE RESULTA EM:
+
+S='Glosa3779' = “deixar limpo pela remoção de sujeira, imundície ou substâncias indesejadas”
+{abluir: Rochtsá é a segunda ablução, o momento em que os participantes do sêder devem I]abluir as mãos recitando a bênção de "Netilat yadáyim".,
+	 alimpar: O pessoal da favela I]alimpou tudo.,
+	 apurar: H]Apurar o ouro.,
+	 clarificar: I]Clarificar a manteiga significa separar a gordura (de coloração amarela) dos sólidos e líquidos incorporados durante o preparo da manteiga. ,
+	 depurar: Pesquisadores da Universidade de Brasília importam reatores eletroquímicos da França para I]depurar metais pesados.,
+	 escoimar: O oleiro fazia com que o produto final fosse bonito, ele I]escoimou todas as pedrinhas e deu sentido ao barro.,
+	 escoriar2: Se necessário, I]escoriar os furos e reaplicar ResiLAR BaseSeca. ,
+	 expurgar: A água H]expurga qualquer coisa.,
+	 lavar: O pico da seca aconteceu no dia em que se proibiu a população de [lavar os carros.,
+	 limpar: Ela começou a [limpar as unhas da criança.,
+	 mundificar: As espadas servem para I]mundificar as unhas.,
+	 perlavar: Vai-se à fonte, M]perlava as mãos três vezes.,
+	 purgar: Os piers estão dotados com sistema de linha para fornecimento de nitrogênio que é usado para I]purgar os tanques dos navios antes dos embarques.,
+	 purificar: A sede do Greenpeace não conseguiu os nomes dos navios que estariam trazendo o produto, que é usado para [purificar o ouro nos garimpos e polui os rios.}
+
+A='Glosa1395'
+{enxovalhar, impurificar, sujar}
+Chave: LIMPAR <verb.contact>
+ILI: 01490246
+
+Sense 1 
+{01490246} <verb.contact> clean, make clean -- (make clean by removing dirt, filth, or unwanted substances from; "Clean the stove!"; "The dentist cleaned my teeth")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

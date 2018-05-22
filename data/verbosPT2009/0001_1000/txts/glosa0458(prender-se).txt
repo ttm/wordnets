@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA0458
+
+DADO O SYNSET:
+
+S='Glosa458'
+{ecarcerar-se: Desde que esse episódio tornou-se público, Dalize I]encarcerou-se no apartamento onde mora, no bairro de Moema.,
+enclausurar-se: Acho que você não pode [se enclausurar.,
+enjaular-se: Muito triste, A]enjaulou-se em casa.,
+prender-se: Qual o pássaro que em gaiola não se I]prende, só se prende quando se solta?,
+trancafiar-se: A classe média não precisará mais I]trancafiar-se dentro de suas casas nem protegê-las com tantas trancas e grades, como acontece atualmente.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa458' = “confinar (-se) como se em uma prisão”
+{ecarcerar-se: Desde que esse episódio tornou-se público, Dalize I]encarcerou-se no apartamento onde mora, no bairro de Moema.,
+enclausurar-se: Acho que você não pode [se enclausurar.,
+enjaular-se:  Ela sentou-se à beira da cama onde estava o seu corpo e I]enjaulou-se em si mesma.,
+prender-se: Qual o pássaro que em gaiola não se I]prende, só se prende quando se solta?,
+trancafiar-se: A classe média não precisará mais I]trancafiar-se dentro de suas casas nem protegê-las com tantas trancas e grades, como acontece atualmente.,}
+Chave: PRENDER-SE <verb.social>
+ILI: 02421274
+
+Sense 2
+{02421274} <verb.social> imprison1 -- (confine as if in a prison; "His daughters are virtually imprisoned in their own house; he does not let them go out without a chaperone")
+       => {02420496} <verb.social> confine, detain -- (deprive of freedom; take into confinement)

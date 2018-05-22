@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA2794
+
+DADO O SYNSET:
+
+S='Glosa2794'
+	    {recompor: Terá que convocar logo um congresso para [recompor a diretoria da Força.,
+	      reconstruir: A partir de conversas com funcionários da Fundação Sloan e dos registros publicados, é possível [reconstruir os principais acontecimentos que levaram ao envolvimento da Fundação Sloan com a ciência cognitiva.,
+	      reestruturar: Nessa época, o Partido Comunista foi fundado, tentando [reestruturar o movimento de acordo com a linha do partido.,
+	      refazer: E está provado que sempre que há uma mudança social muito forte há necessidade de [refazer as referências e de refazer a própria mitologia subjacente.# Era preciso trabalhos maiores, mais profundos; tornava-se necessário [refazer a administração.,
+	      reformar: E tão importante quanto o resultado da eleição será a vontade política de [reformar o sistema, especialmente a legislação eleitoral.,
+	      reorganizar: Em 1919, entusiasmados com a revolução russa, alguns anarquistas tentaram [reorganizar o movimento e fundaram o Partido Comunista-Anarquista no Rio de Janeiro; o exemplo foi logo depois seguido por São Paulo. # Promovem em Lisboa um encontro de trabalhistas visando [reorganizar o PTB.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2794' = “Organizar, estruturar novamente”
+	    {recompor: No documento com o qual Prodi I]recompôs a sua aliança, além de serem listadas cuidadosamente metas não palatáveis a uma parte dos eleitores, não se citam os "Dico", o projeto de lei do governo sobre os casais que convivem sem serem legalmente casados.,
+	      reconstruir: Ela também I]reconstruiu seu partido para se tornar o maior do país.,
+	      reestruturar: Diretoria que [reestruturou CAC é afastada pelos cooperados.,
+	      refazer: Governador Roberto Requião que I]refez a administração pública do Paraná.,
+	      reformar: Não I]reformou a Previdência Social.,
+	      reorganizar: Durante o governo de Afonso Pena, como Ministro da Guerra, I]reorganizou o exército.,}
+
+Chave: REESTRUTURAR <verb.social>
+ILI: 02359834
+
+Sense 1
+{02359834} <verb.social> reorganize, reorganise, shake up -- (organize anew; "We must reorganize the company if we don't want to go under")
+       => {02359241} <verb.social> organize, organise -- (cause to be structured or ordered or operating according to some principle or idea)
+           => {02363018} <verb.social> manage, deal13, care11, handle -- (be in charge of, act on, or dispose of; "I can deal with this crew of workers"; "This blender can't handle nuts"; "She managed her parents' affairs after they got too old")
+               => {02367626} <verb.social> control, command -- (exercise authoritative control or power over; "control the budget"; "Command the military forces") 

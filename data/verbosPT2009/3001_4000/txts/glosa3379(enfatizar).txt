@@ -1,0 +1,41 @@
+ANÁLISE DA GLOSA3379
+
+DADO O SYNSET:
+
+S='Glosa3379'
+{acentuar: Destaque-se inicialmente que, como o economista Mario Simonsen [acentuou no Fórum, no momento da adoção da nova moeda, a política monetária e a política cambial correspondente já deverão estar operacionalizadas. ,
+	 destacar: A imprensa espanhola [destacou, ontem e hoje, o julgamento como a decisão que mantém o Brasil paralisado e com grande expectativa. ,
+	 enfatizar: Carvalhido [enfatizou o perigo que a quadrilha representava para a sociedade e pediu a condenação de oito réus, que podem pegar penas de até 19 anos de prisão. ,
+	 evidenciar: Foi o Rede Cidade que [evidenciou melhor o conflito entre a suposta opção humana da administração e a deterioração, precisamente daqueles serviços tidos como de interesse humano. ,
+	 focalizar: Koestler [focalizou a questão com muita propriedade ao mostrar que partes e todos, no mundo empírico, somente o são com relação a uma dada organização hierárquica.,
+	 focar: Rio +10 deve I]focar o uso da energia alternativa.,
+	 frisar2: Queremos ainda [frisar que as condições constantes no relatório estão sujeitas a alterações sem aviso prévio. ,
+	 marchetar: Poderia algum santo do alto clero querer I]marchetar entre essas normas uma dizendo que, para aumentar ou procrastinar dívidas, tributos, todos os expedientes seriam válidos.,
+	 realçar: O paradigma Bransford [realça as abordagens inferencial e integrativa que os sujeitos costumam exibir quando lidam com linguagem.,
+	 salientar: No caso da prisão dos jornalistas, o documento [salienta que está na «contramão das tendências verificadas na maior parte dos países com legislação atualizada. ,
+	 sublinhar: Riobaldo [sublinha reiteradamente a idéia de um Deus traiçoeiro, de um princípio do Bem que se retrai, fazendo-se ausente e abandonando o homem ao desamparo e ao medo.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3379' = “enfatizar, destacar como importante”
+{acentuar: O economista Mario Simonsen [acentuou no Fórum que no momento da adoção da nova moeda, a política monetária e a política cambial correspondente já deverão estar operacionalizadas.,
+	 destacar: A imprensa espanhola [destacou, ontem e hoje, o julgamento como a decisão que mantém o Brasil paralisado e com grande expectativa.,
+	 enfatizar: Carvalhido [enfatizou o perigo que a quadrilha representava para a sociedade.,
+	 evidenciar: Foi o Rede Cidade que [evidenciou melhor o conflito entre a suposta opção humana da administração e a deterioração, precisamente daqueles serviços tidos como de interesse humano.,
+	 focalizar: Koestler [focalizou a questão com muita propriedade ao mostrar que partes e todos, no mundo empírico, somente o são com relação a uma dada organização hierárquica.,
+	 focar: Rio +10 deve I]focar o uso da energia alternativa.,
+	 frisar2: Queremos ainda [frisar que as condições constantes no relatório estão sujeitas a alterações sem aviso prévio.,
+	 marchetar: Poderia algum santo do alto clero querer I]marchetar entre essas normas uma dizendo que, para aumentar ou procrastinar dívidas, tributos, todos os expedientes seriam válidos.,
+	 realçar: O paradigma Bransford [realça as abordagens inferencial e integrativa que os sujeitos costumam exibir quando lidam com linguagem.,
+	 salientar: No caso da prisão dos jornalistas, o documento [salienta que está na «contramão das tendências verificadas na maior parte dos países com legislação atualizada.,
+	 sublinhar: Riobaldo [sublinha reiteradamente a idéia de um Deus traiçoeiro, de um princípio do Bem que se retrai, fazendo-se ausente e abandonando o homem ao desamparo e ao medo.}
+Chave: ENFATIZAR <verb.communication>
+ILI: 00980547
+
+Sense 1 
+{00980547} <verb.communication> stress, emphasize, emphasise, punctuate, accent1, accentuate -- (to stress, single out as important; "Dr. Jones emphasizes exercise in addition to a change in diet")
+       => {00912790} <verb.communication> express1, show2, evince -- (give expression to; "She showed her disappointment")
+           => {00898144} <verb.communication> convey, impart1 -- (make known; pass on, of information)
+               => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                   => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                       => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

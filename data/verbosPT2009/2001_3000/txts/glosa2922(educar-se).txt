@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2922
+
+DADO O SYNSET:
+
+S='Glosa2922'
+	    {abeberar-se: x,
+	      aprender: Aos doze anos de idade, I]aprendeu sozinho o latim e um pouco de grego cuja finalidademseria ler os livros da biblioteca de seu pai.,
+	      educar-se: É imperiosa a necessidade de I]educar-se continuamente, educar-se pode ser traduzido como aquisição de conhecimentos e sua transformação em habilidades, aptidões e atitudes.  ,
+	      embeberar-se: x,
+	      formar-se: Foi a primeira brasileira e a primeira sul-americana a I]formar-se em Medicina.,
+	      instruir-se: Uma de suas metas é criar escolas gratuitas para as jovens e meninas que desejem I]instruir-se.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2922' = “Adquirir ou ganhar conhecimento ou habilidades”
+	    {aprender: Aos doze anos de idade, I]aprendeu sozinho o latim e um pouco de grego cuja finalidade seria ler os livros da biblioteca de seu pai.,
+	      educar-se: Uma de suas mais célebres moradoras, a escritora e editora argentina Victoria Ocampo, que I]educou-se em inglês (e francês) e só aprendeu o espanhol quando adulta.,
+	      formar-se: I]Formou-se em direito em 1994 e é sócio da Azevedo Sette Advogados.,
+	      instruir-se: Com diversos mestres ilustres de seu tempo, o jovem imperador I]instruiu-se em português e literatura, francês, inglês, alemão, geografia e ciências naturais.,}
+Chave: EDUCAR-SE <verb.cognition>
+ILI: 00578275
+
+Sense 1
+{00578275} <verb.cognition> learn, larn, acquire -- (acquire or gain knowledge or skills; "She learned dancing from her sister"; "I learned Sanskrit"; "Children acquire language at an amazing rate") 

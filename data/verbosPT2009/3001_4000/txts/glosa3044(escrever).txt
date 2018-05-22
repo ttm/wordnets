@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA3044
+
+DADO O SYNSET:
+
+S='Glosa3044'
+	    {
+	      escrever: Entre os funcionários administrativos eram importantes os escribas, que sabiam ler e [escrever.,
+	      grafar: A propósito, a Folha [grafa ombudsman no singular e ombudsmen no plural.,
+	      ortografar: Vamos encontrar pesquisas realizadas com crianças brasileiras que freqüentam as redes pública e privada, das séries iniciais, que estão aprendendo a I]ortografar a nossa língua.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3044' = “marcar ou traçar numa superfície”
+	     {escrever: Eu I]escrevia com o rosto ardendo, e a mão veloz tropeçando sobre complicações ortográficas.,
+	      grafar: A propósito, a Folha [grafa ombudsman no singular e ombudsmen no plural.,
+	      ortografar: Vamos encontrar pesquisas realizadas com crianças brasileiras que freqüentam as redes pública e privada, das séries iniciais, que estão aprendendo a I]ortografar a nossa língua.,}
+Chave: ESCREVER <verb.creation>
+ILI: 01642871
+
+Sense 7
+{01642871} <verb.creation> write1 -- (mark or trace on a surface; "The artist wrote Chinese characters on a big piece of white paper")
+       => {01539039} <verb.contact> trace, draw1, line1, describe, delineate -- (make a mark or lines on a surface; "draw a line"; "trace the outline of a figure in the sand")
+           => {00494390} <verb.change> mark -- (make or leave a mark on; "mark the trail so that we can find our way back")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2297
+
+DADO O SYNSET:
+
+S='Glosa2297'
+	    {desaparecer: O sol [desaparece no horizonte e pinta o céu com tons de roxo, azul, amarelo e verde .,
+	      tramontar: O viajante tinha que fazer breve parada num sítio ermo, além do apeadouro de Irará, precisamente à hora em que o Sol A]tramonta na serra.,
+	      transmontar: Já M]transmontava o Sol,
+	      trasmontar: A]Trasmonta fulvo o Sol.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2297' = “tornar invisível ou despercebido” 
+	    {desaparecer: O sol [desaparece no horizonte e pinta o céu com tons de roxo, azul, amarelo e verde .,
+	      tramontar: O viajante tinha que fazer breve parada num sítio ermo, precisamente à hora em que o Sol A]tramonta na serra.,
+	      transmontar: Já M]transmontava o Sol,
+	      trasmontar: A]Trasmonta fulvo o Sol.,}
+
+Chave: DESAPARECER <verb.perception>
+ILI: 02094464
+
+Sense 2
+{02094464} <verb.perception> vanish, disappear, go away -- (become invisible or unnoticeable; "The effect vanished when day broke")
+       => {02531897} <verb.stative> end, stop13, finish, terminate, cease13 -- (have an end, in a temporal, spatial, or quantitative sense; either spatial or metaphorical; "the bronchioles terminate in a capillary bed"; "Your rights stop where you infringe upon the rights of other"; "My property ends by the bushes"; "The symphony ends in a pianissimo")

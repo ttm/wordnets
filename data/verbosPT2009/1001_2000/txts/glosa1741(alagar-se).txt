@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA1741
+
+DADO O SYNSET:
+
+S='Glosa1741'
+    	{alagar-se: Ela cuidaria de evitar erros, como os ocorridos na Usina de Tucuruí, onde I]alagou-se uma área arborizada e, portanto, sujeita à decomposição.,
+      	 apaular-se: Os terrenos cultivados desta zona M]apaularam-se com as inundações.,
+      	 empantanar-se: x,
+      	 encharcar-se: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1741' = “empapar-se ou submergir, fazendo-se pantanoso”
+    	{alagar-se: No Pantanal, existem terras sempre secas (as partes mais altas) , terras que se [alagam apenas nos períodos de chuvas e terras que permanecem continuamente alagadas, promovendo a ocorrência de uma vegetação variada.,
+      	 encharcar-se: A Xanthosoma striatipes é comum em solos que se I]encharcam na estação das chuvas, mas tornam-se excessivamente secos durante a estiagem.,}
+Chave: ALAGAR-SE <verb.weather>
+ILI: 02689461
+
+Sense 1
+{02689461} <verb.weather> swamp, drench -- (drench or submerge or be drenched or submerged; "The tsunami swamped every boat in the harbor")
+       => {00209719} <verb.change> flood -- (cover with liquid, usually water; "The swollen river flooded the village"; "The broken vein had flooded blood in her eyes")
+           => {01171349} <verb.contact> cover1, spread over -- (form a cover over; "The grass covered the grave")
+               => {01169130} <verb.contact> touch1, adjoin3, meet, contact3 -- (be in direct physical contact with; make contact; "The two buildings touch"; "Their hands touched"; "The wire must not contact the metal cover"; "The surfaces contact at this point")

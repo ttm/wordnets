@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSAXXXX
+
+DADO O SYNSET:
+
+S='GlosaXXXX'
+{grampear: Dias afirmou que não pode acusar Joaquim Roriz de ter mandado [grampear os telefones de sua casa e seu escritório em Curitiba .,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4132' = “prender ou fixar com grampo(s)”
+{grampear: O pai, todo orgulhoso, datilografou o conto, I]grampeou as folhas e, entregando o caderno, disse que só faltavam os desenhos.,}
+Chave: GRAMPEAR <verb.contact>
+ILI: 01327059
+
+Sense 1
+{01327059} <verb.contact> staple -- (secure or fasten with a staple or staples; "staple the papers together")
+       => {01300906} <verb.contact> fasten1, fix, secure1 -- (cause to be firmly attached; "fasten the lock onto the door"; "she fixed her gaze on the man")
+           => {01257892} <verb.contact> attach1 -- (cause to be attached)
+               => {01314764} <verb.contact> connect, link, tie1, link up -- (connect, fasten, or put together two or more pieces; "Can you connect the two loudspeakers?"; "Tie the ropes together"; "Link arms")

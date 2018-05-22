@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA3879
+
+DADO O SYNSET:
+
+S='Glosa3879'
+{brecar: A necessidade de mudar o rumo da campanha para [brecar a alta de FHC e a queda de Lula abriu um debate no PT .,
+ enfrear: Diz o apóstolo S. Tiago que não há fera mais dificultosa de I]enfrear que a língua.,
+ enfrenar: O curso orienta seus alunos quanto a limpeza e rasqueamento dos cavalos, como arrear, I]enfrenar e montar corretamente um cavalo. ,
+ frear: É muito mais difícil [frear um automóvel em uma pista de gelo do que no asfalto .,
+ frenar: Suas vantagens sobre o freio a tambor são inúmeras, a começar pela segurança, mesmo quando se precisa I]frenar em altas velocidades,
+ policiar: DEVIANT,
+ refrear: O encarecimento das exportações tende a [refrear seu crescimento e segurar um dos setores mais dinâmicos da economia .,
+ travar: O cinto também pode [travar enquanto o carro estiver atravessando uma rua de paralelepípedos ou mesmo se o veículo estiver estacionado numa ladeira íngreme .,}
+	  
+A='Glosa1560'
+{desbrecar, desfrear, destravar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3879' = “
+{brecar: Ele [brecou o carro, automaticamente, sem mesmo saber ao certo o que estava acontecendo.,
+ frear: O motorista do Monza deu um “cavalo de pau” ([freou o carro para tomar direção contrária a que vinha) e bateu em um caminhão que andava pela pista contrária.,
+ frenar: Um sr. aposentado, visando facilitar a manobra para estacionar o seu automóvel, I]frenou-o próximo de uma motocicleta, desceu do veículo, dirigiu-se até ela, tirando-a do local, deixando-a em lugar impróprio.,
+ refrear: Ele tem grande satisfação com a equitação. Numa ocasião, está galopando feliz e orgulhoso e repentinamente lembra da pobre moça e I]refreia o cavalo.,
+ travar: O alemão teve que pisar fundo no freio para evitar o choque e [travou as rodas, saindo da pista.}
+	  
+A='Glosa1560'
+{desbrecar, desfrear, destravar}
+Chave: FREAR <verb.motion>
+ILI: 01809674
+
+Sense 2
+{01809674} <verb.motion> brake -- (cause to stop by applying the brakes; "brake the car before you go into a curve")
+       => {01805309} <verb.motion> stop1 -- (cause to stop; "stop a car"; "stop the thief")

@@ -1,0 +1,38 @@
+ANÁLISE DA GLOSA3156
+
+DADO O SYNSET:
+
+S='Glosa3156'
+	    {
+	      acostumar: Até então, os treinos do Brasil vinham sendo realizados às 13h, com o objetivo de [acostumar os jogadores ao horário em que a seleção fará as suas duas primeiras partidas na Copa do Mundo. ,
+	      adestrar: A «fábrica», para ela, tem a função de [adestrar as meninas, enquadrando-as no ritmo de trabalho que provavelmente vão encontrar no exterior. ,
+	      ensaiar: Definir os temas musicais que a orquestra executaria, gravar as músicas e então I]ensaiar os atores para que convencessem como músicos.,
+	      exercitar: A doutora Kawas aconselha as pessoas a se manter sempre dispostas a enfrentar novos desafios intelectuais, [exercitar a mente com leituras e conviver num ambiente culturalmente renovador como a grande terapia para preservar o cérebro jovem por muito tempo. ,
+	      industriar: Não que cessem logo de trazer artistas e técnicos estrangeiros, mas os que vêm não são mais para reproduzir e exibir ricamente as suas experiências e sim para I]industriar os artistas nacionais. ,
+	      traquear: Serão usadas técnicas de aprendizado automático dos computadores para I]traquear atividades de um certo aluno.,
+	      traquejar: A vida toda dedicada a criação de sua prole, ensinando o be-a-bá de cada dia, I]traquejando seus filhos para a vida.,
+	      treinar: São simuladores de baixa gravidade usados para [treinar astronautas e testar equipamentos científicos antes de enviá-los ao espaço.,
+	      trenar: O recrutamento para a Internet lembra o do Exército: escolher e I]trenar os mais aptos.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3156' = “ensinar e supervisionar, agir como treinador ou técnico”
+	      {adestrar: Miranda já I]adestrou animais famosos de comerciais como o tigre da Esso eo leão do Mate. ,
+	      ensaiar: Tiago recuperou os cantos, retomou as coreografias, textos dramáticos da encenação e I]ensaiou o grupo com a ajuda e a memória dos “mais velhos”.,
+	      exercitar: Através de sua voz intensa e atraente, Márcia I]exercitou sua interpretação trabalhando como locutora de rádio e apresentadora de televisão. ,
+	      industriar: Não que cessem logo de trazer artistas e técnicos estrangeiros, mas os que vêm não são mais para reproduzir e exibir ricamente as suas experiências e sim para I]industriar os artistas nacionais. ,
+	      traquear: Serão usadas técnicas de aprendizado automático dos computadores para I]traquear atividades de um certo aluno.,
+	      traquejar: A vida toda dedicada a criação de sua prole, ensinando o be-a-bá de cada dia, I]traquejando seus filhos para a vida.,
+	      treinar: Abel Braga já I]treinou o time titular, sem a presença de imprensa e torcida.,
+	      trenar: O recrutamento para a Internet lembra o do Exército: escolher e I]trenar os mais aptos.,}
+Chave: TREINAR <verb.communication>
+ILI: 00806468
+
+Sense 7
+{00806468} <verb.communication> coach, train -- (teach and supervise (someone); act as a trainer or coach (to), as in sports; "He is training our Olympic team"; "She is coaching the crew")
+       => {00801981} <verb.communication> teach, learn, instruct -- (impart skills or knowledge to; "I taught them French"; "He instructed me in building a boat")
+           => {00804489} <verb.communication> inform -- (impart knowledge of some fact, state or affairs, or event to; "I informed him of his rights")
+               => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                   => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                       => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

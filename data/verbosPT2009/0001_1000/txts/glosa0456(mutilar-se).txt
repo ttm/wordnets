@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0456
+
+DADO O SYNSET:
+
+S='Glosa456'
+{castrar-se: Envergonhado de seu individualismo, o artista se curva e [se castra por uma causa nobre.,
+mutilar-se: A representação de cada um inclui soluções divertidas como o único seio que representa as Amazonas que [se mutilavam para melhor empunhar seus arcos. ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa456' = “destruir ou machucar (-se) severamente; punir (-se)”
+{castrar-se: Envergonhado de seu individualismo, o artista se curva e [se castra por uma causa nobre.,
+mutilar-se: A representação de cada um inclui soluções divertidas como o único seio que representa as Amazonas que [se mutilavam para melhor empunhar seus arcos. ,}
+Chave: MUTILAR-SE <verb.change>
+ILI: 00283477
+
+Sense 1
+{00283477} <verb.change> mutilate, mangle, cut up2 -- (destroy or injure severely; "The madman mutilates art work")
+       => {00250328} <verb.change> damage -- (inflict damage upon; "The snow damaged the roof"; "She damaged the car when she hit the tree")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

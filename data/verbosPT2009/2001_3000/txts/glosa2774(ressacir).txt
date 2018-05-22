@@ -1,0 +1,41 @@
+ANÁLISE DA GLOSA2774
+
+DADO O SYNSET:
+
+S='Glosa2774'
+	    {compensar: Junto deles, uma carta pedia a ajuda de Iriarte dentro da instituição no sentido de conseguir um julgamento favorável das obras, em troca das quais Goya pretendia conseguir pagamento para cobrir as despesas médicas e [compensar o longo período que ficou afastado do trabalho.,
+	      embolsar: Se ganhar a ação, Martina pode I]embolsar outros 40 milhões de dólares.,
+	      indenizar: É criada a multa reparatória, pela qual o infrator fica obrigado a [indenizar a vítima ou seus familiares.,
+	      pagar: Transportadora deve I]pagar pensão para filhos de vítima.,
+	      recompensar: Nas negociações sobre o fim da indexação da economia, Luiz Antônio de Medeiros, presidente da Força Sindical, acena com a livre negociação como o instrumento que pode ser conquistado pelos trabalhadores para [recompensar suas perdas salariais.,
+	      redimir: x,
+	      reembolsar: Planos de saúde terão que [reembolsar o SUS.,
+	      refazer: H]Refazer os prejuízos.,
+	      remir: x,
+	      reparar: Já no que tange à responsabilidade indireta, revela-se a sua natureza extracontratual, haja vista que somente a lei poderia transferir o dever de I]reparar àquele a que estivessem subordinados os efetivos causadores do dano.,
+	      ressarcir: O credor [ressarcirá ao devedor os danos que este sofreu, quando a sentença, passada em julgado, declarar inexistente, no todo ou em parte, a obrigação, que deu lugar à execução.,
+	      restituir: Qualquer pessoa que se envolve em um acidente de trânsito pode I]restituir valores para cobrir as despesas médicas e até óbito.,
+	      voltar: No ano passado, o Comitê de Bacia do Paraíba do Sul (Ceivap) arrecadou R$ 8,2 milhões de reais entre os usuários das águas do rio. O dinheiro I]voltou integralmente para a bacia, financiando projetos de recuperação do Paraíba do Sul, principalmente na área de saneamento.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2774' = “Pagar ou compensar alguém, como por uma perda”
+	    {compensar: Não I]compensou a importância e nem pleiteou a restituição no INSS.,
+	      embolsar: E I]embolsaram ao Tesouro Nacional R$179 milhões.,
+	      indenizar: O Governo I]indenizou o clube pela perda de seu patrimônio.,
+	      pagar: Provou-se nos presentes autos que a seguradora ora recorrida I]pagou ao segurado muito mais do que o que era sua obrigação.,
+	      recompensar: E I]recompensaram uma quantidade considerável de danos para as subsidiárias.,
+	      reembolsar: Não I]reembolsou todos os clientes pois o valor era muito maior.,
+	      reparar: Somente a lei poderia transferir o dever de I]reparar àquele a que estivessem subordinados os efetivos causadores do dano.,
+	      ressarcir: O credor [ressarcirá ao devedor os danos que este sofreu.,
+	      restituir: E I]restituiu ao banco os valores desviados.,}
+
+Chave: RESSARCIR <verb.possession>
+ILI: 02184695
+
+Sense 2
+{02184695} <verb.possession> recoup2, reimburse1 -- (reimburse or compensate (someone), as for a loss)
+       => {02184845} <verb.possession> compensate, recompense, remunerate -- (make payment to; compensate; "My efforts were not remunerated")
+           => {02186811} <verb.possession> pay -- (give money, usually in exchange for goods or services; "I paid four dollars for this sandwich"; "Pay the waitress, please")
+               => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+                   => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children") 

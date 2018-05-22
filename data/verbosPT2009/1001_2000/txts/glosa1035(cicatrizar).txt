@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA1035
+
+DADO O SYNSET:
+
+S='Glosa1035'
+{casquejar: x,
+ cicatrizar: Munir Curi disse que se as lesões [cicatrizarem naturalmente abertas elas ficarão alargadas e muito grandes.,
+ curar: Oxigênio tópico ajuda a I]curar feridas mais rápido e melhor.,
+ fechar: A cirurgia dura cerca de três minutos e não precisa dar ponto para I]fechar os cortes.,
+ sarar: As brotoejas [saram como por encanto.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1035' = “promover a cicatrização”
+{cicatrizar: Ele descobriu este tratamento quando participou de um congresso e viu um médico relatar o caso de um paciente que I]cicatrizou a sua ferida no braço com o Remicade.,
+ curar: Quando, mais tarde, vim a saber que a lança de Aquiles também [curou uma ferida que fez, tive tais ou quais veleidades de escrever uma dissertação a este propósito.,
+ fechar: A cirurgia dura cerca de três minutos e não precisa dar ponto para I]fechar os cortes.,
+ sarar: Me da um beijo que ele cicatriza e I]sara a ferida do meu coração.,}
+Chave: CICATRIZAR <verb.change> 
+ILI: 00261645 
+
+Sense 1
+{00261645} <verb.change> mend1, heal -- (heal or recover; "My broken leg is mending")
+       => {00197826} <verb.change> better, improve, ameliorate, meliorate -- (get better; "The weather improved toward evening")
+           => {00140715} <verb.change> change state, turn4 -- (undergo a transformation or a change of position or action; "We turned from Socialism to Capitalism"; "The people turned against the President when he stole the election")
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA1043
+
+DADO O SYNSET:
+
+S='Glosa1043'
+{andar: É como o carro, que recebe o combustível (gasolina ou álcool) e, em seguida, queima-o, para obter a energia de que precisa para [andar. ,
+ funcionar: No circuito fechado, a corrente elétrica passa, e pode acender uma lâmpada, ou fazer [funcionar um aparelho elétrico qualquer.,
+ operar: Se esses valores forem substituídos nas planilhas de custos elaboradas pela auditoria verificar-se-á que a Petrobrás está [operando no vermelho. ,
+ trabalhar: A IBM já licenciou a linguagem para [trabalhar em OS/2, que está na versão beta, e para Windows 3.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1043' = “desempenhar, quando usado, como se esperava”
+{andar: Os principiados medievais tinham um dia por ano no qual os servos se tornavam rei e o rei um servo - um único instante de reversão dos papéis que era suficiente para manter todo sistema [andando.,
+ funcionar: No A delegada-adjunta da Superintendência da Receita no Rio, Glória Regazone, garantiu que o serviço telefônico [funcionou normalmente.,
+ operar: Se esses valores forem substituídos nas planilhas de custos elaboradas pela auditoria verificar-se-á que a Petrobrás está [operando no vermelho. ,
+ trabalhar: Assim, fica mais fácil compreender que, quando o coração realiza uma sístole, ele está de fato [trabalhando.,}
+Chave: FUNCIONAR <verb.contact>
+ILI: 01483385
+
+Sense 1
+{01483385} <verb.contact> function, work2, operate3, go, run -- (perform as expected when applied; "The washing machine won't go unless it's plugged in"; "Does this old car still run well?"; "This old radio doesn't work anymore")

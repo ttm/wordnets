@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA1292
+
+DADO O SYNSET:
+
+S='Glosa1292'
+{embruxar-se: Vamos rezar em silêncio porque o Monge faz sinal dizendo que agora ele e os companheiros vão se I]embruxar em três gralhas.,
+ encantar-se: Sem que ninguém esperasse, H]encantou-se num príncipe.,
+ encarochar-se: x,
+ enfeitiçar-se: Foi isso, continuou, o que sucedeu ao pobre José do Eito, quando se meteu por cá, I]enfeitiçou-se.,}
+	  
+A='Glosa1293'
+{desencantar-se, desenfeitiçar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1292' = “colocar-se sob um feitiço” 
+{embruxar-se: Vamos rezar em silêncio porque o Monge faz sinal dizendo que agora ele e os companheiros vão se I]embruxar em três gralhas.,
+ encantar-se: Ela foi lá, deu seu recado, cantou o que ele pediu e o que não pediu. Cantou, encantou e se I]encantou! Se I]encantou na forma de uma borboleta romanceira.,
+ enfeitiçar-se: Mas como a história sempre se repete, de tanto feitiço ele se I]enfeitiçou.,}
+A='Glosa1293'
+{desencantar-se, desenfeitiçar-se}
+Chave: ENFEITIÇAR-SE <verb.communication>
+ILI: 01030692
+
+Sense 4
+{01030692} <verb.communication> spell2 -- (place under a spell)
+       => {00751320} <verb.communication> hex, bewitch1, glamour, witch, enchant1, jinx2 -- (cast a spell over someone or something; put a hex on someone or something)
+           => {02509452} <verb.social> charm, becharm -- (control by magic spells, as by practicing witchcraft)
+               => {02367626} <verb.social> control, command -- (exercise authoritative control or power over; "control the budget"; "Command the military forces")

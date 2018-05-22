@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA3711
+
+DADO O SYNSET:
+
+S='Glosa3711'
+	{passar: H]Passo com quatro horas de sono por dia sem problema.,
+	 resistir: Ao contrário do que afirmou em campanha, estabelece condições para aumentar a situação de sofrimento da população que ainda I]resiste com dignidade em seus municípios. ,
+	 sobreviver: Um teatro que [sobrevive sem um tostão mas com alma.,
+	 subsistir: Equipes como a Benetton e a Tyrrell, por exemplo, [subsistem graças ao dinheiro do Oriente.,
+	 viver: A maioria dos moradores, 58,2%, [vive com ganhos mensais entre US$ 166,00 e US$ 1.243,00. }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3711' = “sustentar a si próprio”
+	{passar: H]Passo com quatro horas de sono por dia sem problema.,
+	 resistir: Ao contrário do que afirmou em campanha, estabelece condições para aumentar a situação de sofrimento da população que ainda I]resiste com dignidade em seus municípios.,
+	 sobreviver: Um teatro que [sobrevive sem um tostão mas com alma.,
+	 subsistir: Equipes como a Benetton e a Tyrrell, por exemplo, [subsistem graças ao dinheiro do Oriente.,
+	 viver: A maioria dos moradores, 58,2%, [vive com ganhos mensais entre US$ 166,00 e US$ 1.243,00. }
+Chave: SUBSISTIR <verb.stative>
+ILI: 02538829
+
+Sense 1
+{02538829} <verb.stative> exist1, survive, live1, subsist -- (support oneself; "he could barely exist on such a low wage"; "Can you live on $2000 a month in New York City?"; "Many people in the world have to subsist on $1 a day")

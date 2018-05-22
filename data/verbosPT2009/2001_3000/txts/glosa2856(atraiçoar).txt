@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA2856
+
+DADO O SYNSET:
+
+S='Glosa2856'
+	    {arrenegar: x,
+	      atraiçoar: Conscienciosamente entendo que em proveito de todos devo [atraiçoar o meu amigo Reis, publicando o que sei e o que obtive do armênio, e o que o armênio é capaz de dar, enriquecendo, sublimizando, tornando mágicas as oficinas, que alimentam o armazém do Reis.,
+	      falsear: H]Falseia o sócio.,
+	      refalsear: x,
+	      renegar: H]Renegar um amigo.,
+	      trair: "Ele [traiu o PDT, o PMDB e ainda vai trair o PFL", avisou.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2856' = “Desapontar, provar não ser digno de confiança; abandonar, desamparar”
+	    {atraiçoar: I]Atraiçoou a própria esposa, os filhos inocentes, parentes e a nós.,
+	      renegar: Mas a criatura por livre vontade I]renegou o criador.,
+	      trair: "Líder pefelista diz que Lula I]traiu os aposentados.,}
+Chave: ATRAIÇOAR <verb.emotion>
+ILI: 01746955
+
+Sense 3
+{01746955} <verb.emotion> fail, betray -- (disappoint, prove undependable to; abandon, forsake; "His sense of smell failed him this time"; "His strength finally failed him"; "His children failed him in the crisis")
+       => {01746656} <verb.emotion> disappoint, let down -- (fail to meet the hopes or expectations of; "Her boyfriend let her down when he did not propose marriage")
+           => {02482511} <verb.social> thwart, queer, spoil, scotch, foil, cross, frustrate, baffle, bilk1 -- (hinder or prevent (the efforts, plans, or desires) of; "What ultimately frustrated every challenger was Ruth's amazing September surge"; "foil your opponent")
+               => {02379144} <verb.social> prevent1, forestall1, foreclose, preclude, forbid3 -- (keep from happening or arising; have the effect of preventing; "My sense of tact forbids an honest answer") 

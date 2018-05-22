@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA2046
+
+DADO O SYNSET:
+	
+S='Glosa2046'
+    	{cessar: A intervenção das Forças Armadas para a preservação das instituições políticas, do regime constitucional e fazer I]cessar a anarquia e a corrupção.,
+      	 deter: A fundação da República Popular da China, em 1949, é uma clara demonstração do governo chinês de que está determinado a I]deter a corrupção no país.,
+      	 estancar: No caso, a prioridade nacional é a questão social, e, para isso, torna-se necessário I]estancar a corrupção, uma das piores pragas de nosso País. ,
+      	 interromper: Durante o escândalo do bicho fui procurado por um parlamentar que perguntou quanto eu queria para [interromper as investigações .,
+      	 parar: Vamos apoiar a greve já para I]parar a corrupção do Lula por parte dos senhores do mundo.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2046' = “terminar”
+    	{cessar: A intervenção das Forças Armadas para a preservação das instituições políticas, do regime constitucional e fazer I]cessar a anarquia e a corrupção.,
+      	 deter: A fundação da República Popular da China, em 1949, é uma clara demonstração do governo chinês de que está determinado a I]deter a corrupção no país.,
+      	 estancar: No caso, a prioridade nacional é a questão social, e, para isso, torna-se necessário I]estancar a corrupção, uma das piores pragas de nosso País.,
+      	 interromper: Durante o escândalo do bicho fui procurado por um parlamentar que perguntou quanto eu queria para [interromper as investigações.,
+      	 parar: Vamos apoiar a greve já para I]parar a corrupção do Lula por parte dos senhores do mundo.}
+Chave: INTERROMPER <verb.change>
+ILI: 00352834
+
+Sense 4
+{00352834} <verb.change> interrupt, break3 -- (terminate; "She interrupted her pregnancy"; "break a lucky streak"; "break the cycle of poverty")
+       => {00341640} <verb.change> end1, terminate1 -- (bring to an end or halt; "She ended their friendship when she found out that he had once been convicted of a crime"; "The attack on Poland terminated the relatively peaceful period after WWI")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

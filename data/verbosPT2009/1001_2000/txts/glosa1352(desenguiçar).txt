@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA1352
+
+DADO O SYNSET:
+
+S='Glosa1352'
+{desencrencar: x,
+ desenguiçar: Com o capô levantado, quem passasse por perto iria supor que mecânicos tentavam I]desenguiçar o carro,}
+	  
+A='Glosa1809'
+{encrencar, engasgar, engripar, enguiçar, quebrar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1352' = “consertar”
+{desenguiçar: Com o capô levantado, quem passasse por perto iria supor que mecânicos tentavam I]desenguiçar o carro.,}
+A='Glosa1809'
+{encrencar, engasgar, engripar, enguiçar, quebrar}
+Chave: DESENGUIÇAR <verb.change>
+ILI: 00252628
+
+Sense 3
+{00252628} <verb.change> tinker, fiddle -- (try to fix or mend; "Can you tinker with the T.V. set--it's not working right"; "She always fiddles with her van on the weekend")
+       => {00251962} <verb.change> repair, mend, fix1, bushel, doctor1, furbish up, restore1, touch on -- (restore by replacing a part or putting together what is torn or broken; "She repaired her TV set"; "Repair my shoes please")
+           => {00198579} <verb.change> better1, improve1, amend, ameliorate1, meliorate1 -- (to make better; "The editor improved the manuscript with his changes")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

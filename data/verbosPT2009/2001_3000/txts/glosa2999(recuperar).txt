@@ -1,0 +1,36 @@
+ANÁLISE DA GLOSA2999
+
+DADO O SYNSET:
+
+S='Glosa2999'
+	    {ganhar: Aproveitando as comodidades da tecnologia moderna, você pode I]ganhar parte do tempo perdido, aumentando a produtividade da sua empresa.,
+	      readquirir: São vistos os sistemas sucessivos que apareceram no latim vulgar lusitânico e na língua arcaica e moderna, com uma rápida demonstração da reordenação dos sistemas para I]readquirir o equilíbrio perdido.,
+	      reassumir: Austrália trabalha para I]reassumir o posto de maior exportador perdido para o Brasil no ano passado.,
+	      reaver: Na batalha para [reaver a guarda do filho, ele já interpôs mais de 600 recursos no STF, todos considerados incabíveis.,
+	      recobrar: Deixa [recobrar o tempo perdido, respondia ela rindo. ,
+	      reconquistar: Na tentativa de [reconquistar espaço, frigoríficos que trabalham com cordeiros estão desenvolvendo novos produtos.,
+	      reconvir: x,
+	      recuperar: A agência afirma que os melhores bancos brasileiros foram bem-sucedidos em [recuperar parte de suas perdas com a queda brusca da inflação.,
+	      reganhar: Nós gastamos mais dinheiro e vastas quantias de recursos nacionais e pessoais tentando I]reganhar nossa saúde.,
+	      resgatar: É inevitável, quando passamos por experiências de luto, que fique muito presente a vontade de I]resgatar o tempo perdido.,
+	      retomar: O curso me deu uma motivação muito grande para I]retomar o tempo perdido com táticas equivocadas de enfrentar o mercado.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2999' = “Recobrar, restaurar o uso de “
+	    {ganhar: Aproveitando as comodidades da tecnologia moderna, você pode I]ganhar parte do tempo perdido, aumentando a produtividade da sua empresa.,
+	      readquirir: Sofia, passados os primeiros instantes, [readquiriu a posse de si mesma.,
+	      reassumir: A ruptura do «contrato» entre a sociedade e agricultores ocorreria em 1954, quando os republicanos [reassumiram o controle político.,
+	      reaver: I]Reavemos o nosso mandato, tomado injustamente por três anos.,
+	      recobrar: Mas quando I]recobramos controle sobre nós mesmos, quando nossa mente redesperta, como estava.,
+	      reconquistar: Segundo o ministro, o país [reconquistou o crédito externo.,
+	      recuperar: Em pouco tempo, negociou um novo crédito com os bancos, dobrou as vendas, [recuperou o crédito com fornecedores e os lucros voltaram.,
+	      reganhar: I]Reganharam a supremacia sobre os compradores.,
+	      resgatar: Bem menos ágeis do que os astros que [resgataram o prestígio da liga na década de 80, como Larry Bird, Magic Johnson e Michael Jordan, entre outros.,
+	      retomar: Os conservadores (Arena) [retomaram o controle do Estado, enquanto os liberais eram empurrados para a oposição (MDB).,}
+Chave: RECUPERAR
+ILI: 02183081
+
+Sense 1
+{02183081} <verb.possession> recover, retrieve, find15, regain -- (get or find back; recover the use of; "She regained control of herself"; "She found her voice and replied quickly")
+       => {02147191} <verb.possession> get, acquire -- (come into the possession of something concrete or abstract; "She got a lot of paintings from her uncle"; "They acquired a new pet"; "Get your results the next day"; "Get permission to take a few days off from work") 

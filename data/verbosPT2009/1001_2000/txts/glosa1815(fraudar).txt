@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA1815
+
+DADO O SYNSET:
+
+S='Glosa1815'
+{enganar: Antes dele, um único funcionário já conseguira quebrar o banco inglês Barings - com operações fraudulentas que lhe deram lucro de US$ 1 bilhão - e [enganar o Bank of England por mais de um ano.,
+ enliçar: Se inércia existe, certamente é a do acusado, que na maioria das vezes se esconde, tentando I]enliçar a Justiça, até a ocorrência da prescrição.,
+ fraudar: H]Fraudou a própria família.,
+ lesar: Ele é acusado de [lesar dezenas de consumidores com a venda irregular de lotes.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1815' = “destituir alguém ou algo [de] por meio de fraude”
+{enganar: Antes dele, um único funcionário já conseguira quebrar o banco inglês Barings - com operações fraudulentas que lhe deram lucro de US$ 1 bilhão - e [enganar o Bank of England por mais de um ano.,
+ fraudar: Hacker chileno que I]fraudou a Amazon em US$ 220 mil é preso.,
+ lesar: Ele é acusado de [lesar dezenas de consumidores com a venda irregular de lotes.,}
+Chave: FRAUDAR <verb.social>
+ILI: 02495803
+
+Sense 1
+{02495803} <verb.social> victimize3, swindle, rook, goldbrick1, nobble, diddle, bunco, defraud, scam, mulct, gyp, con -- (deprive of by deceit; "He swindled me out of my inheritance"; "She defrauded the customers who trusted her"; "the cashier gypped me when he gave me too little change")
+       => {02496906} <verb.social> cheat, rip off, chisel1 -- (deprive somebody of something by deceit; "The con-man beat me out of $50"; "This salesman ripped us off!"; "we were cheated by their clever-sounding scheme"; "They chiseled me out of my money")
+           => {02497828} <verb.social> victimize1, victimise1 -- (make a victim of; "I was victimized by this con-man")
+               => {02438990} <verb.social> wrong -- (treat unjustly; do wrong to)
+                   => {02439188} <verb.social> treat, handle3, do by -- (interact in a certain way; "Do right by her"; "Treat him with caution, please"; "Handle the press reporters gently")
+                       => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                           => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

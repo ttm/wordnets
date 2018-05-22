@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA1347
+
+DADO O SYNSET:
+
+S='Glosa1347'
+{desembrenhar: Ele tinha que I]desembrenhar o cavalo dos pântanos.,
+ desentranhar: x,}
+	  
+A='Glosa2691'
+{engolfar, entranhar, mergulhar, remergulhar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1347' = “fazer sair, tirar, arrancar das brenhas”
+{desembrenhar: Ele tinha que I]desembrenhar o cavalo dos pântanos.,}
+A='Glosa2691'
+{engolfar, entranhar, mergulhar, remergulhar}
+Chave: DESEMBRENHAR <verb.motion>
+ILI: EQ_HAS_HYPERONYM – 01998024 – “expulsar, retirar”
+
+Sense 2
+{01998024} <verb.motion> rout out, drive out, force out1, rouse -- (force or drive out; "The police routed them out of bed at 2 A.M.")
+       => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

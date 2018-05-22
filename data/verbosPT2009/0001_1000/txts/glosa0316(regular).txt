@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0316A
+
+DADO O SYNSET:
+
+S='Glosa316'
+{acondicionar: x,
+condicionar: Diminuiu também a ajuda francesa, pois no mesmo ano de 1994 a França adotou a política de [condicionar sua ajuda financeira a negociações com o FMI. ,
+regular: Sua principal finalidade era assegurar a prosperidade da profissão, manter sua reputação, [regular o trabalho para obter preços vantajosos e conseguir boa qualidade da produção. ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa316A' = “alterar ou regular de forma a atingir precisão ou conformar com um padrão (norma)”
+{condicionar: Diminuiu também a ajuda francesa, pois no mesmo ano de 1994 a França adotou a política de [condicionar sua ajuda financeira a negociações com o FMI. ,
+regular: Sua principal finalidade era assegurar a prosperidade da profissão, manter sua reputação, [regular o trabalho para obter preços vantajosos e conseguir boa qualidade da produção. ,}
+Chave: REGULAR <verb.change>
+ILI: 00287086
+
+Sense 1
+{00287086} <verb.change> adjust, set, correct9 -- (alter or regulate so as to achieve accuracy or conform to a standard; "Adjust the clock, please"; "correct the alignment of the front wheels")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

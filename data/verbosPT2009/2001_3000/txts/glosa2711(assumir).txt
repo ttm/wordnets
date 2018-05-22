@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2711
+
+DADO O SYNSET:
+
+S='Glosa2711'
+	    {assumir: Não podíamos [assumir a responsabilidade de revistar todas as casas.,
+	      avocar: Atualmente para se fiscalizar um local de trabalho precisamos, na maioria das vezes, I]avocar poderes de polícia e da Justiça.,
+	      reivindicar: Ao todo, 11 cidades, incluindo o Rio, [reivindicam a primazia de sediar as Olimpíadas.# Uma alternativa para o ministério, sugere o diretor do MAM, seria [reivindicar o poder de opinar sobre o uso de verbas de patrocínio de estatais como a Vale do Rio Doce, Banco do Brasil e Petrobrás.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2711' = “Tomar para si uma atividade ou empreendimento.”
+	    {assumir: Já familiarizado com o espaço universitário, I]assumiu a Reitoria da PUC em 1956.,
+	      avocar: Senadora Lúcia Vânia I]avocou para si a relatoria do projeto.,
+	      reivindicar: Um grupo auto-intitulado Exército da Palestina ou Governo da Palestina Universal no Exílio I]reivindicou a responsabilidade dos ataques.,}
+
+Chave: ASSUMIR <verb.creation>
+ILI: 01604392
+
+Sense 1
+{01604392} <verb.creation> undertake, set about, attempt -- (enter upon an activity or enterprise)
+       => {01595277} <verb.creation> initiate, pioneer1 -- (take the lead or initiative in; participate in the development of; "This South African surgeon pioneered heart transplants")
+           => {01598809} <verb.creation> cause, do2, make8 -- (give rise to; cause to happen or occur, not always intentionally; "cause a commotion"; "make a stir"; "cause an accident")
+               => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor") 

@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA2085
+
+DADO O SYNSET:
+	
+S='Glosa2085'
+    	{açular: Quando a briga de cães com touros se tornou ilegal e os ingleses em substituição passaram a I]açular os cães uns contra os outros, fez-se sentir a necessidade de um cão mais leve e mais rápido, mas não forte e violento quanto os anteriores - buldogs foram cruzados com terriers, e o resultado foi um "bull an terrier dog".,
+      	 arremeter: Frente à fera, o caçador A]arremeteu o cavalo.  ,
+      	 atiçar: Uma instalação mostra um toureiro tentando [atiçar um touro morto.,
+      	 ciscar: x,
+      	 encarniçar: x,
+      	 estumar: Passou a manhã H]estumando os cachorros.,
+      	 incitar: O atirador mirou  e acionou o gatilho. O estampido no ambiente fechado foi ensurdecedor. Belmonte havia afrouxado a guia balançando-a para I]incitar o cão, porém, nada aconteceu, ele permaneceu imóvel. ,
+      	 iscar: x,
+      	 tocar: M]Tocar os cães.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2085' = “incitar um animal como o cão ao ataque”
+    	{açular: Obriguei Maria a entrar com toda a roupa dentro do mar ao I]açular o meu cachorro Bomba para cima dela.,
+      	 arremeter: Os vaqueiros-palhaços, ainda que ligados ao enredo central, interferem sem cessar nos entremeios, fazendo artes, dançando, [arremetendo a macaca contra os figurantes e contra o público.,
+      	 atiçar: O guarda I]atiçou o cachorro atrás deles.,
+      	 estumar: Seu filho estava transitando pela referida rua quando um outro adolescente, estando com um cachorro Pit Bull, I]estumou o animal, que atacou a vítima mordendo sua perna na altura coxa esquerda.,
+      	 incitar: Muitas vezes, a fera humana I]incita o animal a atacar as pessoas, transferindo a sua ferocidade para o animal.}
+Chave: ATIÇAR <verb.competition>
+ILI: 01080057
+
+Sense 1
+{01080057} <verb.competition> sic, set -- (urge a dog to attack someone)
+       => {01085076} <verb.competition> assail, assault, set on, attack2 -- (attack someone physically or emotionally; "The mugger assaulted the woman"; "Nightmares assailed him regularly")

@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0764
+
+DADO O SYNSET:
+
+S='Glosa764'
+{batucar: O maldito vizinho está I]batucando na parede.,
+martelar: E volta a I]martelar arrancando cimento do sobradinho velho!.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa764' = “bater com martelo”
+{batucar: O maldito vizinho está I]batucando na parede.,
+martelar: E volta a I]martelar arrancando cimento do sobradinho velho!.,}
+Chave: MARTELAR <verb.contact>
+ILI: 01375932
+
+Sense 1
+{01375932} <verb.contact> hammer -- (beat with or as if with a hammer; "hammer the metal flat")
+       => {01358385} <verb.contact> beat -- (hit repeatedly; "beat on the door"; "beat the table with his shoe")
+           => {01369678} <verb.contact> strike -- (deliver a sharp blow, as with the hand, fist, or weapon; "The teacher struck the child"; "the opponent refused to strike"; "The boxer struck the attacker dead")
+               => {01169634} <verb.contact> touch -- (make physical contact with, come in contact with; "Touch the stone for good luck"; "She never touched her husband")

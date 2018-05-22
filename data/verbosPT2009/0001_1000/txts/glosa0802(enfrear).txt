@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA0802
+
+DADO O SYNSET:
+
+S='Glosa802'
+{bridar: x,
+embridar: Selaram e A]embridaram um cavalo para mim.,
+enfrear: A] Enfrear uma cavalgadura.,
+enfrenar: O curso orienta seus alunos quanto a limpeza e rasqueamento dos cavalos, como arrear, I]enfrenar e montar corretamente um cavalo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa802' = “pôr freios ou rédeas em”
+{enfrear: O acadêmico não ousou insistir, vendo-a apressar-se na descida para o quinteiro,. onde o ferrador I]enfreava a égua.,
+enfrenar: O curso orienta seus alunos quanto a limpeza e rasqueamento dos cavalos, como arrear, I]enfrenar e montar corretamente um cavalo.,}
+Chave: ENFREAR <verb.contact>
+ILI: 01261695
+
+Sense 1
+{01261695} <verb.contact> bridle -- (put a bridle on; "bridle horses")
+       => {01262073} <verb.contact> restrain1, encumber, cumber, constrain -- (hold back)
+           => {00225754} <verb.change> restrict, restrain, trammel, limit1, bound, confine, throttle1 -- (place limits on (extent or access); "restrict the use of this parking lot"; "limit the time you can spend with your friends")
+               => {02435410} <verb.social> control1, hold in, hold15, contain, check8, curb, moderate -- (lessen the intensity of; temper; hold in restraint; hold or keep within limits; "moderate your alcohol intake"; "hold your tongue"; "hold your temper"; "control your anger")
+                   => {02349665} <verb.social> restrain1, suppress3, keep, keep back, hold back -- (keep under control; keep in check; "suppress a smile"; "Keep your temper"; "keep your cool")
+                       => {02377053} <verb.social> prevent, keep1 -- (prevent from doing something or being in a certain state; "We must prevent the cancer from spreading"; "His snoring kept me from falling asleep"; "Keep the child from eating the marbles")

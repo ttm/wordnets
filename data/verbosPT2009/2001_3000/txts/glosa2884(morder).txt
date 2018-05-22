@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA2884
+
+DADO O SYNSET:
+
+S='Glosa2884'
+	    {abocanhar: Quando um tucunaré I]abocanhar a sua isca de superfície, não hesite ou pare de recolher.,
+	      dentar: O velho fez sinal de espera, enxugando o canivete na camisa e já I]dentando a fruta.,
+	      ferrar: Apenas, na fazenda de Santa Cruz, um carrapato I]ferrou-lhe na perna. ... Mordida feroz! ,
+	      mastigar: As jibóias engolem, sem I]mastigar, a presa inteira.,
+	      morder: Verinha, bate no cão; ele não quer I]morder o porco,que não quer atravessar a pinguela e eu não posso voltar para casa.,
+	      retrincar: x,
+	      trincar: Quem o visse dilacerando a vítima com as garras, pensaria que a fera ia devorar a presa e já palpitava com o prazer de I]trincar as carnes vivas do inimigo.,
+	      zavar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2884' = “Apertar, cortar ou rasgar com ou como se fosse com os dentes ou garras”
+	    {abocanhar: Quando um tucunaré I]abocanhar a sua isca de superfície, não hesite ou pare de recolher.,
+	      ferrar: Apenas, na fazenda de Santa Cruz, um carrapato I]ferrou-lhe na perna. ... Mordida feroz!,
+	      morder: E o menino não I]mordeu o cachorro.,
+	      trincar: I]Trincou nos dentes a cambraia da fronha.,}
+Chave: MORDER <verb.contact>
+ILI: 01404753
+
+Sense 1
+{01404753} <verb.contact> bite, seize with teeth -- (to grip, cut off, or tear with or as if with the teeth or jaws; "Gunny invariably tried to bite her")
+       => {01186979} <verb.contact> grip -- (hold fast or firmly; "He gripped the steering wheel")
+           => {01175818} <verb.contact> seize, prehend, clutch -- (take hold of; grab; "The salesclerk quickly seized the money on the counter"; "She clutched her purse"; "The mother seized her child by the arm"; "Birds of prey often seize small mammals")
+
+               => {01177510} <verb.contact> take, get hold of -- (get into one's hands, take physically; "Take a cookie!"; "Can you take this bag, please")
+          Also See-> {01404577} <verb.contact> bite off#1 

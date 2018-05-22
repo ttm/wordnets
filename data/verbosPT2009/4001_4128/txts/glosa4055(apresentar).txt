@@ -1,0 +1,37 @@
+ANÁLISE DA GLOSA4055
+
+DADO O SYNSET:
+
+S='Glosa4055'
+{amostrar: x,
+apresentar: Para não dizer que nada se salvou de tal empreitada, o primeiro capítulo [apresentou uma questão capaz de superar o «quem matou Salomão Aiala» .,
+colocar: A Yamaha respondeu que a solução foi dada em dezembro passado, ocasião em que o consorciado [colocou a questão ao fabricante .,
+descrever: DEVIANT,
+exibir: O torneio sul-americano, perdido na final contra o Vélez, [exibiu todos os problemas do São Paulo, desde fragilidade na defesa até entrosamento confuso do meio-campo com o ataque .,
+expor: A pergunta [expôs a dúvida que atormenta Itamar Franco no momento .,
+mostrar: A palestrante I]mostrou a questão do conhecimento sobre três pontos de vista: Econômico, Pessoas e Processos.,
+oferecer: Recebeu um país em pedaços e nos [ofereceu suas dúvidas e fraquezas .,
+pôr: Além de chamar Fleury de traidor, Quércia [pôs dúvidas sobre sua conduta moral .,
+presentar: x,
+propor: Hertz, em 1896, I]propôs uma solução para a determinação das tensões.,
+submeter: A escritora I]submeteu sua obra com intenções catárticas.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4055' = “chamar atenção e exibir para consideração” 
+{apresentar: Para não dizer que nada se salvou de tal empreitada, o primeiro capítulo [apresentou uma questão capaz de superar o «quem matou Salomão Aiala» .,
+colocar: A Yamaha respondeu que a solução foi dada em dezembro passado, ocasião em que o consorciado [colocou a questão ao fabricante .,
+exibir: O torneio sul-americano, perdido na final contra o Vélez, [exibiu todos os problemas do São Paulo, desde fragilidade na defesa até entrosamento confuso do meio-campo com o ataque .,
+expor: A pergunta [expôs a dúvida que atormenta Itamar Franco no momento .,
+mostrar: A palestrante I]mostrou a questão do conhecimento sobre três pontos de vista: Econômico, Pessoas e Processos.,
+oferecer: Recebeu um país em pedaços e nos [ofereceu suas dúvidas e fraquezas .,
+pôr: Além de chamar Fleury de traidor, Quércia [pôs dúvidas sobre sua conduta moral .,
+propor: Hertz, em 1896, I]propôs uma solução para a determinação das tensões.,
+submeter: A escritora I]submeteu sua obra com intenções catárticas.,}
+Chave: APRESENTAR <verb.communication>
+ILI: 00747406
+
+Sense 2
+{00747406} <verb.communication> present, represent11, lay out -- (bring forward and present to the mind; "We presented the arguments to him"; "We cannot represent this knowledge to our formal reason")
+       => {00976600} <verb.communication> state, say, tell4 -- (express in words; "He said that he wanted to marry her"; "tell me what is bothering you"; "state your opinion"; "state your name")
+           => {00909455} <verb.communication> express, verbalize3, verbalise3, utter1, give tongue to -- (articulate; either verbally or with a cry, shout, or noise; "She expressed her anger"; "He uttered a curse")

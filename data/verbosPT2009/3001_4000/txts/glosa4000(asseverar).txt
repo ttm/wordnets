@@ -1,0 +1,51 @@
+ANÁLISE DA GLOSA4000
+
+DADO O SYNSET:
+	
+S='Glosa4000'
+    	{afirmar: Ela também [afirmou que poderia se mudar para um bairro pobre que leva seu nome .,
+      	 apostar: Prevaleceu a avaliação de quem [apostou que preços estáveis iriam preservar mais o poder de compra dos salários baixos .,
+      	 assegurar: Outro piloto ouvido pelo JB [assegurou que o ladrão narra um plano de vôo fictício para a torre e sai sem qualquer problema .,
+      	 asseverar: Ele [asseverou que tem de haver um nível separado chamado nível transformacional e postulou os mecanismos que governam tanto as transformações obrigatórias como as opcionais .,
+      	 atestar1: O Banco Central já [atestou que a transação foi legal.,
+      	 certificar: Réu preso anos depois no local em que o oficial de justiça [certificou não residir quando da procura para sua citação ,
+      	 comprovar: A Folha [comprovou que o resultado era conhecido antes da abertura oficial dos envelopes com as propostas dos concorrentes .,
+      	 confirmar: Intimado pelo delegado Roberto Prel, Jecy [confirmou que mora há 10 anos na cobertura e que o apartamento pertence ao secretário de Saúde e de Transportes do governo Brizola, o cirurgião plástico Pedro Valente .,
+      	 dizer: Ele [disse que são consideradas desperdício de água lavagens de calçadas, ruas, carros, motos e bicicletas .,
+ garantir: Ontem, a diretoria do Detran, através de sua assessoria de imprensa, [garantiu que as informações necessárias para a emissão de multas chegarão ao Iplan-Rio em três dias úteis .,
+      	 pretender: A]Pretendem alguns autores que o homem tenha surgido na Ásia.,
+      	 protestar: M]Protestou a todos que se vingaria denunciando-os.,
+      	 provar: A prática [provou que os utilizadores de radiocomunicação sempre encontram soluções técnicas que atendem aos interesses de todos e, em consequência, nunca soubemos de qualquer desentendimento entre proprietários de estações amadoras por motivo de localização de antenas .,
+      	 testemunhar: Segundo Suplicy, quando o nome de Gesner de Oliveira foi votado pelo Senado, ele apenas [testemunhou que tratava-se de uma pessoa «íntegra e competente» que, como ele, é professor da FGV paulista .,
+      	 testificar: Juntamente com estas e muitas outras testemunhas podemos I]testificar que estudamos a fim de conhecê-lo experimentalmente.,}
+  
+A='Glosa1180'
+{contradizer, desatestar, desmentir, negar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4000' = “afirmar categoricamente”
+    	{afirmar: Ela também [afirmou que poderia se mudar para um bairro pobre que leva seu nome.,
+      	 apostar: Telê está melhor, espera até o final de semana para saber se poderá voltar a dirigir o São Paulo e [aposta que ainda não será desta vez que abandonará o futebol.,
+      	 assegurar: Outro piloto ouvido pelo JB [assegurou que o ladrão narra um plano de vôo fictício para a torre e sai sem qualquer problema.,
+      	 asseverar: Ele [asseverou que tem de haver um nível separado chamado nível transformacional e postulou os mecanismos que governam tanto as transformações obrigatórias como as opcionais.,
+      	 atestar1: O Banco Central já [atestou que a transação foi legal.,
+      	 certificar: Réu preso anos depois no local em que o oficial de justiça [certificou não residir quando da procura para sua citação.,
+      	 comprovar: A Folha [comprovou que o resultado era conhecido antes da abertura oficial dos envelopes com as propostas dos concorrentes.,
+      	 confirmar: Intimado pelo delegado Roberto Prel, Jecy [confirmou que mora há 10 anos na cobertura e que o apartamento pertence ao secretário de Saúde e de Transportes do governo Brizola, o cirurgião plástico Pedro Valente.,
+      	 dizer: O ex-subprefeito da Avenida Brasil [disse que não foi informado sobre o motivo de sua exoneração.,
+ garantir: Ontem, a diretoria do Detran, através de sua assessoria de imprensa, [garantiu que as informações necessárias para a emissão de multas chegarão ao Iplan-Rio em três dias úteis.,
+      	 pretender: Miguel pretendia que a mulher não cuidava do menino como era preciso.,
+      	 protestar: Os generais protestaram ao povo que o exército defenderá o solo brasileiro.,
+      	 provar: As palavras de Ricupero e os textos de Stepanenko [provam isso.,
+      	 testemunhar: Segundo Suplicy, quando o nome de Gesner de Oliveira foi votado pelo Senado, ele apenas [testemunhou que tratava-se de uma pessoa “íntegra e competente” que, como ele, é professor da FGV paulista.,
+      	 testificar: Ele I]testificou que sua altura estava cerca de 2,5 centímetros maior depois de fazer exercícios específicos.}
+  
+A='Glosa1180'
+{contradizer, desatestar, desmentir, negar}
+Chave: ASSEVERAR <verb.communication>
+ILI: 00983921
+
+Sense 1
+{00983921} <verb.communication> assert1, asseverate, maintain -- (state categorically)
+       => {00792187} <verb.communication> insist, take a firm stand -- (be insistent and refuse to budge; "I must insist!")

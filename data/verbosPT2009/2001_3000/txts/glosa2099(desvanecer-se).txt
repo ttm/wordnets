@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA2099
+
+DADO O SYNSET:
+	
+S='Glosa2099'
+    	{desfazer-se: E tantas glórias, tão risonhos planos I]desfizeram-se em pó.,
+      	 desvaecer-se: x,
+      	 desvanear-se: x,
+      	 desvanecer-se: Sem ilusões, I]desvaneceram-se os sonhos.,
+      	 diluir-se: Os sonhos de uma sociedade socialista I]diluíram-se no tempo.,
+      	 dissolver-se: Meus planos de ir acampar em Itatiaia I]dissolveram-se completamente.,
+      	 esfazer-se: x,
+      	 exalar-se: M]Exalaram-se as ilusões da juventude.,
+      	 extinguir-se: I]Extinguiu-se a esperança.,
+      	 resolver-se: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2099' = “desaparecer gradualmente”
+    	{desfazer-se: Isabel e Cecília aproximaram-se da porta, não sem algum susto do animal; susto que se [desfez com o sorriso do velho fidalgo, revendo-se na beleza de sua filha.,
+      	 desvanecer-se: Tudo isto me passou pelo pensamento como um sonho, enquanto eu aspirava ardentemente essa exalação fascinadora, que foi a pouco e pouco [desvanecendo-se.,
+      	 diluir-se: A energia desprendida nessa festa de infinitos corpos dançantes se [dilui na tela pontilhada e perde a força.,
+      	 dissolver-se: A tensão se [dissolve à medida que o olhar de Emma vai ganhando em nitidez.,
+      	 exalar-se: As depressões, os pensamentos verdadeiros que me foi concedido, a razão, enfim tudo de minha essência I]exalou-se.,
+      	 extinguir-se: I]Extinguiu-se o amor, pouco a pouco, pela ausência; à saudade sucedeu o hábito.}
+Chave: DESVANECER-SE <verb.change>
+ILI: 00409558
+
+Sense 1
+{00409558} <verb.change> evanesce, fade, blow over, pass off1, fleet, pass1 -- (disappear gradually; "The pain eventually passed off")
+       => {00414775} <verb.change> disappear, vanish, go away -- (get lost, especially without warning or explanation; "He disappeared without a trace")

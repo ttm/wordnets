@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA3410
+
+DADO O SYNSET:
+
+S='Glosa3410'
+	    {
+	      abrutar: x,
+	      bestificar: A realidade I]bestifica, enoja, enfurece e acaba sendo uma espécie de constrangimento à parca imaginação do autor.,
+	      embestar: x,
+	      embrutar: x,
+	      embrutecer: O crescimento da miséria e da ignorância I]embrutece o ser humano, fazendo-o violento.,
+	      emburrar: Esse tipo de programa H]emburra as crianças.,
+	      estultificar: x,
+	      estupidecer: x,
+	      estupidificar: Estamos a I]estupidificar as pessoas com os nossos programas de TV básicos.,
+	      materializar: A baixeza do ambiente M]materializou-o.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3410' = “confundir ou desorientar; causar incapacidade de pensar claramente”  
+	     {bestificar: a servidão do trabalho assalariado degrada e I]bestifica o operário.,
+	      embrutecer: O crescimento da miséria e da ignorância I]embrutece o ser humano, fazendo-o violento.,
+	      emburrar: Esse tipo de programa H]emburra as crianças.,
+	      estupidificar: Se não for usada com bom senso a televisão I]estupidifica.,
+	      materializar: A baixeza do ambiente M]materializou-o.,}
+Chave: ESTUPIDIFICAR <verb.perception>
+ILI: 00601611
+
+Sense 3
+{00601611} <verb.cognition> confuse3, throw, fox, befuddle, fuddle, bedevil, confound2, discombobulate -- (be confusing or perplexing to; cause to be unable to think clearly; "These questions confuse even the experts"; "This question completely threw me"; "This question befuddled even the teacher")
+       => {02526983} <verb.stative> be3 -- (have the quality of being; (copula, used with an adjective or a predicate noun); "John is rich"; "This is not a good answer")

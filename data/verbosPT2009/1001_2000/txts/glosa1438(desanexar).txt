@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA1438
+
+DADO O SYNSET:
+
+S='Glosa1438'
+{desanexar: Consiste em [desanexar um ou mais documentos em processo,
+ desincorporar: Assim há que I]desincorporar as universidades públicas do Estado,
+	 desmembrar: A Prever, empresa de previdência privada que tem como acionistas os grupos Bamerindus, Nacional e Unibanco, [desmembrou a antiga diretoria de marketing e vendas. ,}
+	  
+A='Glosa3188'
+{acrescentar, agregar, agrupar, anexar, apender, apensar, apor, grupar, incorporar, integralizar, integrar, juntar, reunir, suplementar, unir}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1438' = “fazer ficar separado, desprendido; remover”
+{desanexar: O decreto de 11/01/1890 I]desanexou o Hospício de Pedro II da Santa Casa.,
+ desincorporar: Bradesco não I]desincorporou de seu patrimônio bens culturais do BEC.,
+	 desmembrar: Em 1962, novo Decreto I]desmembrou da Reserva Florestal 2,5 mil hectares para o assentamento de agricultores sem terra.,}
+	  
+A='Glosa3188'
+{acrescentar, agregar, agrupar, anexar, apender, apensar, apor, grupar, incorporar, integralizar, integrar, juntar, reunir, suplementar, unir}
+Chave: DESANEXAR <verb.contact>
+ILI: 01260079 
+
+Sense 1
+{01260079} <verb.contact> detach1 -- (cause to become detached or separated; take off; "detach the skin from the chicken before you eat it")
+       => {01316129} <verb.contact> disconnect -- (make disconnected, disjoin or unfasten)
+           => {01513899} <verb.contact> separate1, disunite, divide1, part1 -- (force, take, or pull apart; "He separated the fighting children"; "Moses parted the Red Sea")
+               => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

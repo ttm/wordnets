@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA2805
+
+DADO O SYNSET:
+
+S='Glosa2805'
+	    {insistir: O representante do Governo voltou a [insistir nos insinuantes ataques à CNA, «uma organização tutelada pelo PCP», como se este dado fosse relevante para a matéria em causa.,
+	      instar: O comunicado reflecte também a realidade na Ucrânia, dizendo apenas que os G7 [instam Kiev a ratificar o Tratado START-1 (que previa a eliminação substancial do armamento nuclear americano e soviético) e a entrar no NPT como Estado não nuclear.,
+	      persistir: No segundo tempo a toada não se alterou, com o Marítimo a [persistir no jogo de ataque.,
+	      recavar: A]Recavou o assunto durante horas a fio.,
+	      urgir: Por isso, cada Bispo deverá I]urgir que os evangelizadores de sua diocese, sobretudo ele mesmo, sejam plenamente fiéis à doutrina católica.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2805' = “Ser persistente, recusar a parar”
+	    {insistir: Waldir Pires I]insistiu em tentar amenizar a crise do setor aéreo.,
+	      instar: Apaixone-se por seus pontos fortes, mesmo que os pontos fracos I]instam em ficar em alto relevo no seu cérebro.,
+	      persistir: Intrusos I]persistem em postar no banco de cultura.,
+	      urgir: Seus filhos, os do além, I]urgiram em juntá-los.,}
+
+Chave: PERSISTIR <verb.change>
+ILI: 00339293
+
+Sense 2
+{00339293} <verb.change> persevere, persist1, hang in, hang on, hold on -- (be persistent, refuse to stop; "he persisted to call me every night"; "The child persisted and kept asking questions")
+       => {02599119} <verb.stative> continue, uphold, carry on, bear on1, preserve -- (keep or maintain in unaltered condition; cause to remain or last; "preserve the peace in the family"; "continue the family tradition"; "Carry on the old traditions")
+           => {02600965} <verb.stative> keep, maintain, hold -- (keep in a certain state, position, or activity; e.g., "keep clean"; "hold in place"; "She always held herself as a lady"; "The students keep me on my toes") 

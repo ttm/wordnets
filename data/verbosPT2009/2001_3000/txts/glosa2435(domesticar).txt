@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA2435
+
+DADO O SYNSET:
+
+S='Glosa2435'
+	    {adomar: Dona Laureana, adesculpe, mas aqui tem serviço de pegar boi à unha, roçar pasto a foiçadas, I]adomar cavalo xucro e tirar quadra em cabo de enxada.,
+	      adomesticar: x,
+	      amansar: Francisco Turiba acaba morrendo ao tentar I]amansar um burro preto, o último de trezentos que haviam sido montados.,
+	      desbravar: M]Desbravar um animal.,
+	      dobrar: x,
+	      domar: Com João, Bia teve Maria, hoje com 15 anos, e passou uma época viajando pelo país a [domar cavalos.,
+	      domesticar: Nessa época, o homem aprendia a cultivar os vegetais e a I]domesticar animais.,
+	      educar: Se você não tem tempo ou paciência para I]educar um filhote, pense em adotar um animal adulto.,
+	      subjugar: O adestrador visava principalmente, I]subjugar o animal de modo a impingir-lhe autoridade.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2435' = “Sobrepujar a selvageria de, tornar dócil e obediente.”
+	    {adomar: Dona Laureana, adesculpe, mas aqui tem serviço de pegar boi à unha, roçar pasto a foiçadas, I]adomar cavalo xucro e tirar quadra em cabo de enxada.,
+	      amansar: Francisco Turiba acaba morrendo ao tentar I]amansar um burro preto.,
+	      desbravar: M]Desbravar um animal.,
+	      domar: E passou uma época viajando pelo país a [domar cavalos.,
+	      domesticar: Nessa época, o homem aprendia a cultivar os vegetais e a I]domesticar animais.,
+	      educar: Se você não tem tempo ou paciência para I]educar um filhote, pense em adotar um animal adulto.,
+	      subjugar: O adestrador visava principalmente, I]subjugar o animal de modo a impingir-lhe autoridade.,}
+
+Chave: DOMESTICAR <verb.change>
+ILI: 00292619
+
+Sense 2
+{00292619} <verb.change> domesticate, domesticize, domesticise, reclaim4, tame4 -- (overcome the wildness of; make docile and tractable; "He tames lions for the circus"; "reclaim falcons")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

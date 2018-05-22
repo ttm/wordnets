@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA1064
+
+DADO O SYNSET:
+
+S='Glosa1064'
+{acendrar: H]Acendrou a prataria,
+ acrisolar: x,
+ apurar: H] Apurar o ouro.,
+ crisolar: x,
+ decantar2: Este processo era obtido com o uso do mercúrio para I]decantar as impurezas do metal, sublimando-se a sua forma perfeita. # Deixar primeiro o óleo I]decantar as impurezas sólidas e aproveitar a parte líquida.,
+ defecar: M]Defecar a prata, o ouro,
+ depurar: O solo atua como um filtro, tendo capacidade de I]depurar e imobilizar parte das impurezas nele introduzida.,
+ encendrar: x,
+ purificar: O filtro foi desenvolvido para [purificar a água de laboratórios nucleares.,
+ refinar: Pela proposta, qualquer empresa poderia comprar e [refinar petróleo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1064' = “reduzir ao estado fino, não misturado ou puro; separar da matéria estranha ou limpar das impurezas”  
+{acendrar: Essa vitória I]acendrou a tirania de Saddam.,
+ apurar: Na revisão, enxugou o texto, I]apurou o estilo, aclarou dúvidas.,
+ decantar2: Deixar primeiro o óleo I]decantar as impurezas sólidas e aproveitar a parte líquida.,
+ defecar: Aliás, no Nordeste brasileiro é comum ouvir-se a expressão "Com I]um crivo caldo de cana".,
+ depurar: O solo atua como um filtro, tendo capacidade de I]depurar e imobilizar parte das impurezas nele introduzida.,
+ purificar: O filtro foi desenvolvido para [purificar a água de laboratórios nucleares.,
+ refinar: Pela proposta, qualquer empresa poderia comprar e [refinar petróleo.,}
+Chave: REFINAR <verb.change> 
+ILI: 00461185 
+
+Sense 4
+{00461185} <verb.change> refine, rectify5 -- (reduce to a fine, unmixed, or pure state; separate from extraneous matter or cleanse from impurities; "refine sugar")
+       => {00461876} <verb.change> purify, sublimate1, make pure, distill3 -- (remove impurities from, increase the concentration of, and separate through the process of distillation; "purify the water")
+           => {00198579} <verb.change> better1, improve1, amend, ameliorate1, meliorate1 -- (to make better; "The editor improved the manuscript with his changes")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

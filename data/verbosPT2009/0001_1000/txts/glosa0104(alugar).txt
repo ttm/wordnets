@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0104
+
+DADO O SYNSET:
+
+S='Glosa104'
+{alugar: Na temporada americana, chegou a [alugar um apartamento, em Nova Iorque, onde lavou roupa e pratos com o filho Ricardo,
+locar: Um agricultor que [locar equipamentos para um depósito de 30 t gastará cerca de US$ 3.000.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa104' = “ocupar ou contratar por meio de transação comercial”
+{alugar: Além do protesto oficial formulado ao presidente da CBF, Ricardo Teixeira, o clube [alugou dez ônibus que levarão gratuitamente os torcedores que quiserem assistir à partida,
+locar: A Brahma [locou metade das placas do estádio norte-americano de San Diego, nos EUA, onde o Brasil enfrenta Honduras em amistoso, hoje à noite.,}
+Chave: ALUGAR <verb.possession>
+ILI: 02145386
+
+Sense 3
+{02145386} <verb.possession> lease1, let, rent1 -- (grant use or occupation of under a term of contract; "I am leasing my country estate to some foreigners")
+       => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+           => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children")

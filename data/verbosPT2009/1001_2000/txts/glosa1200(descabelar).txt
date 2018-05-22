@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA1200
+
+DADO O SYNSET:
+
+S='Glosa1200'
+{arrepelar: Vou I]arrepelar meus cabelos,
+ descabelar: Com o preto da fuligem sujou os anjinhos; I]descabelou-os, vestiu-lhes farrapos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1200' = “arrancar os cabelos, geralmente com alguma força ou esforço” 
+{arrepelar: Vou I]arrepelar meus cabelos,
+ descabelar: Ele já comeu minhas unhas , descabelou meus cabelos.,}
+Chave: DESCABELAR <verb.contact>
+ILI: EQ_HAS_HYPERONYM – 01311287 – “arrancar, geralmente com alguma força ou esforço; também usado em sentido abstrato”
+
+Sense 3
+{01311287} <verb.contact> extract4, pull out, pull10, pull up, take out9, draw out5 -- (draw or pull out, usually with some force or effort; also used in an abstract sense; "pull weeds"; "extract a bad tooth"; "take out a splinter"; "extract information from the telegram")
+       => {00166870} <verb.change> remove, take, take away1, withdraw1 -- (remove something concrete, as by lifting, pushing, taking off, etc. or remove something abstract; "remove a threat"; "remove a wrapper"; "Remove the dirty dishes from the table"; "take the gun from your pocket"; "This machine withdraws heat from the environment")

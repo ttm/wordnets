@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA3674
+
+DADO O SYNSET:
+
+S='Glosa3674'
+	    {
+	      articular: Um dos principais sintomas da doença é a dificuldade de [articular as palavras.# Nada [articulou parecido com palavras. ,
+	      dizer: O paciente murmurava palavras sem sentido e não conseguia [dizer qual era seu nome, o que, para os médicos, evidenciava a existência de problemas mentais graves. ,
+	      falar: A criança, ao nascer, não sabe andar nem [falar, porém, com o desenvolvimento integrado de todos os seus órgãos, ela chegará à fase adulta com o equilíbrio dessas funções. ,
+	      ferir: Podem [ferir palavras, mas palavras são só palavras quando ditas sem a presença do olho no olho.,
+	      palrar: Ao homem convém caminhar, falar, pular, dançar, I]palrar mais de um milhão de verbos acabados em ar. # Verá que, dentro em breve, ele conseguirá ficar sentado sem o auxílio de ninguém e começará a I]palrar.,
+	      palrear: Nosso bebê gosta de estar sempre acompanhado, de [palrear conosco e de brincar. ,
+	      proferir: As senhoras, escondendo o rosto no lenço para ocultar do Padre Carlos o pranto, e evitar os seus remoques, não [proferiram palavra.,
+	      pronunciar: Luciana, que tem paralisia cerebral, fazia enorme esforço para [pronunciar cada palavra, o que acabou provocando emoção na platéia. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3674' = “falar, pronunciar ou dizer de uma certa maneira”
+	     {articular: I]Articulava as palavras com facilidade e construía as frases com perfeição.# Nada [articulou parecido com palavras. ,
+	      dizer: o padre I]dizia as palavras em português e cada índio de sua etnia ia respondendo. ,
+	      falar: Ele I]falou palavrões, gesticulava muito e levou tempo para se acalmar. ,
+	      ferir: Podem [ferir palavras, mas palavras são só palavras quando ditas sem a presença do olho no olho.,
+	      palrar: Durante um tempo I]palrou ele em um idioma nenhum que o viu pôde compreender. # Verá que, dentro em breve, ele conseguirá ficar sentado sem o auxílio de ninguém e começará a I]palrar.,
+	      palrear: Nosso bebê gosta de estar sempre acompanhado, de [palrear conosco e de brincar. ,
+	      proferir: As senhoras, escondendo o rosto no lenço para ocultar do Padre Carlos o pranto, e evitar os seus remoques, não [proferiram palavra.,
+	      pronunciar: Ele I]pronunciava o nome da filha quase sem sotaque. ,}
+Chave: PRONUNCIAR <verb.communication>
+ILI: 00946463
+
+Sense 1
+{00946463} <verb.communication> pronounce1, articulate, enounce, sound out1, enunciate1, say2 -- (speak, pronounce, or utter in a certain way; "She pronounces French words in a funny way"; "I cannot say `zip wire'"; "Can the child sound out this complicated word?")

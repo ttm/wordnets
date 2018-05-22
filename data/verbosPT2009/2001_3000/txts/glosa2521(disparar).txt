@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA2521
+
+DADO O SYNSET:
+
+S='Glosa2521'
+	    {descarregar: Em uma sequência, mais de dez pessoas [descarregam sua munição em cima dele.,
+	      desengatilhar: Cuidado ao I]desengatilhar sua arma, e aponte para um local seguro.,
+	      desfechar: O Agente que após levar um tiro, da vítima, na cabeça, consegue I]arrebatar-lhe o revólver e desfechar-lhe tiros.,
+	      desferir: O soldado Carlos Roberto Góis diz que Sidnei conseguiu se livrar da algema e, com uma das mãos, se apossou de sua arma e lhe [desferiu um tiro, que o teria atingido de raspão no braço.,
+	      desfrechar: A]Desfrechar tiros.,
+	      despedir: x,
+	      disparar: Imediatamente, ele retirou de dentro de uma bolsa de lona um fuzil dobrável e depois de dizer algumas palavras desconexas começou a [disparar contra o grupo de turistas.# Presos amotinados [disparam tiros para assustar os policiais.,
+	      sapecar: Mesmo ensopado de goró, ele sente que ainda leva jeito para I]sapecar um tiro certeiro onde bem entender, alvo fixo ou móvel.,
+	      soltar: Quando a mira for nele atire tiros carregados nele, um arma bem eficiente contra ele é a arma do Snipe Ariquick, fique atento quando ele tentar te atacar corpo a corpo, e quando ele I]soltar vários tiros grandes em você.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2521' = “Fazer detonar (uma arma).”
+	    {descarregar: Em uma sequência, mais de dez pessoas [descarregam sua munição em cima dele.,
+	      desengatilhar: Cuidado ao I]desengatilhar sua arma, e aponte para um local seguro.,
+	      desfechar: O acusado JOSÉ DA SILVA I]desfechou os tiros que causaram a morte da vítima.,
+	      desferir: Conseguiu se livrar da algema e, com uma das mãos, se apossou de sua arma e lhe [desferiu um tiro, que o teria atingido de raspão no braço.,
+	      desfrechar: A]Desfrechar tiros.,
+	      disparar: Presos amotinados [disparam tiros para assustar os policiais. ,
+	      sapecar: Foi ao armário, pegou seu revólver calibre trinta e oito cano longo, encheu de bala, foi para o quintal e I]sapecou 36 tiros no pobre do cachorro.,
+	      soltar: Depois de abertas as urnas, que confirmaram a vitória no “não”, os fabricantes I]soltaram tiros de festim.,}
+
+Chave: DISPARAR <verb.competition>
+ILI: 01098634
+
+Sense 2
+{01098634} <verb.competition> fire, discharge1 -- (cause to go off; "fire a gun"; "fire a bullet") 

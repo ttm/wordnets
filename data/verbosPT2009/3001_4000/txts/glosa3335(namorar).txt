@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA3535
+
+DADO O SYNSET:
+
+S='Glosa3535'
+	    {
+	      namorar: Fausto era audacioso e [namorou mulheres da sociedade carioca. / Ela [namorou pra caramba. ,
+	      namoricar: Itamar Franco resolvera portar-se como um folião comum [namoricando uma modelo e fazendo charme para outras mulheres que passaram pelo seu camarote no Sambódromo. ,
+	      namoriscar: Pois o José que então [namoriscava a filha da patroa a D. Quiterinha, meteu-me aqui.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3535' = “comprometer em atividades sociais levando ao casamento”
+	     {namorar: Fausto era audacioso e [namorou mulheres da sociedade carioca. / Ela [namorou pra caramba. ,
+	      namoricar: Itamar Franco resolvera portar-se como um folião comum [namoricando uma modelo e fazendo charme para outras mulheres que passaram pelo seu camarote no Sambódromo. ,
+	      namoriscar: Pois o José que então [namoriscava a filha da patroa a D. Quiterinha, meteu-me aqui.,}
+Chave: NAMORAR <verb.social>
+ILI: 02459497
+
+Sense 3
+{02459497} <verb.social> court10 -- (engage in social activities leading to marriage; "We were courting for over ten years")
+       => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

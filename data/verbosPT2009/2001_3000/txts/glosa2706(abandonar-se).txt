@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA2706
+
+DADO O SYNSET:
+
+S='Glosa2706'
+	    {abandonar-se: Sem ninguém ao seu lado. Não restou outra alternativa senão I]abandonar-se. Foi morar na rua, no centro de Bagdá. Pedia à Alá para que os dias passassem.,
+	      descuidar-se: O projeto não deve ocupar tanto tempo que o faça I]descuidar-se de outras obrigações necessárias à sua educação escolar.,
+	      descurar-se: A par dessas medidas legislativas, impõe-se a reformulação da política de segurança pública, redefinindo-se funções, enfatizando e fortalecendo as atividades investigatórias sob a direção da Autoridade Civil, sem I]descurar-se do policiamento preventivo, ostensivo e fardado cabente à Policia Militar que, nesse particular poderá contar com o indispensável apoio das Guardas Civis Municipais que já deram mostras de sua grandiosidade, olvidadas as suscetibilidades próprias de cada Corporação.,
+	      desleixar-se: Deu para I]desleixar-se no serviço; as suas freguesas de roupa começaram a reclamar; foi-lhe fugindo o trabalho pouco a pouco; fez-se madraça e moleirona, precisando já empregar grande esforço para não bulir nas economias que Jerônimo lhe deixara, porque isso devia ser para a filha, aquela pobrezita orfanada antes da morte dos pais.,
+	      desmazelar-se: Sequer os desgostos fizeram com que H]se desmazelasse.,
+	      esquecer-se: A melhor coisa que pode acontecer com um ator é [esquecer-se de si mesmo.,
+	      relaxar-se: O Brasil voltou a ser comandado por governo civil; a democracia plena retornou, mas uma verdadeira repulsa por tudo que lembrava "governo militar" e os "porões da ditadura" também ganhou vida. Com isso, com pretexto de apagar o "passado", I]relaxou-se em quase tudo e o resultado está aí para quem quer ver: baderna, corrupção, desmandos, terrorismo, contrabando, drogas, crime organizado e falta de mando.,
+	      releixar-se: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2706' = “Dar pouca ou nenhuma atenção a.”
+	    {abandonar-se: Sem ninguém ao seu lado. Não restou outra alternativa senão I]abandonar-se. Foi morar na rua, no centro de Bagdá. Pedia à Alá para que os dias passassem.,
+	      descuidar-se: E I]descuidou-se do abastecimento junto ao proprietário de carro a álcool.,
+	      descurar-se: Funda-se em premissas falsas, na medida em que trata o fato sob um ângulo distorcido onde a autoridade que presidiu o inquérito I]descurou-se da sua função.,
+	      desleixar-se: Desgostoso com a perda da esposa, I]desleixou-se da saúde.,
+	      desmazelar-se: Sequer os desgostos fizeram com que H]se desmazelasse.,
+	      esquecer-se: Priorizou a educação fundamental e I]esqueceu-se da educação infantil e do ensino médio.,
+	      relaxar-se: I]Abandonou-se a preocupação com os direitos fundamentais.,}
+
+Chave: ABANDONAR-SE <verb.cognition>
+ILI: 00596614
+
+Sense 4
+{00596614} <verb.cognition> neglect1, ignore3, disregard -- (give little or no attention to; "Disregard the errors") 

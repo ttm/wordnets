@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA3105
+
+DADO O SYNSET:
+
+S='Glosa3105'
+	    {
+	      engrunhir: x,
+	      engurunhir: x,
+	      entorpecer: Há ademais outra circunstância que I]entorpece a ciência histórica de exercer sua função suprema de cultura. É a concorrência com a literatura.,
+	      estuporar: Acionado involuntariamente, o reversor I]estupora o vôo.,
+	      imobilizar: Acha que é artimanha petista para [imobilizar os tucanos cearenses na campanha presidencial de FHC.,
+	      imotar: A macaca I]imota o companheiro apesar de não ter sofrido qualquer lesão cerebral.,
+	      paralisar: A Procuradoria Geral da República e o Tribunal de Contas da União mandaram [paralisar as construções.,
+	      torpecer: x,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3105' = “causar paralisia e imobilidade”
+	    {entorpecer: Em seu interior, a voz hegemônica I]entorpece a possibilidade de ação e aplaude o terrorismo de Israel, que nem sequer abre a possibilidade de um corredor humanitário para socorrer vítimas enquanto brinca de maneira infame, anunciando uma trégua sem concretização alguma.,
+	      estuporar: Baixaria é isso ai, a bandalheira com dinheiro público que I]estupora a consciência do brasileiro, alienando, anestesiando para que se satisfaça em ser cidadão de segunda, terceira e quarta categoria.,
+	      imobilizar: Essa atitude, que a princípio é mais confortável, em longo prazo I]imobiliza a pessoa, retirando-lhe qualquer sensação de controle sobre sua vida.,
+	      paralisar: O medo I]paralisou três cidades e o pânico ocorreu principalmente em localidades próximas a Nova Jersey.,}
+Chave: IMOBILIZAR <verb.change>
+ILI: 00259579
+
+Sense 2
+{00259579} <verb.change> paralyze, paralyse -- (cause to be paralyzed and immobile; "The poison paralyzed him"; "Fear paralyzed her")
+       => {00260242} <verb.change> immobilize, immobilise -- (cause to be unable to move; "The sudden storm immobilized the traffic")
+           => {00228980} <verb.change> restrict2, curtail, curb, cut back -- (place restrictions on; "curtail drinking in school")
+               => {00227757} <verb.change> limit, circumscribe, confine1 -- (restrict or confine, "I limit you to two visits to the pub a day")
+                   => {00428838} <verb.change> decrease1, lessen2, minify -- (make smaller; "He decreased his staff")
+                       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2752
+
+DADO O SYNSET:
+
+  S='Glosa2752'
+	    {arrefecer-se: A brisa quente do dia I]arrefecia-se ante a despedida do sol que estendia seu lenço escarlate lá no ilusório horizonte da terra. ,
+	      esfriar-se: O estreitamento retém o mercúrio de modo que você pode ler a temperatura depois deI]esfriar-se o mercúrio, até que você o force a voltar para o bulbo, sacudindo o termômetro.  ,
+	      refecer-se: x,
+	      resfriar-se: Rochas ígneas formam-se pela cristalização do magma, gerado pela fusão de rochas no interior da Terra. Este material fundido pode I]resfriar-se lentamente, cristalizando em profundidade sob a forma de rochas com grãos minerais relativamente grandes.,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2752' = “Perder calor”
+	    {arrefecer-se: A brisa quente do dia I]arrefecia-se ante a despedida do sol que estendia seu lenço escarlate lá no ilusório horizonte da terra.,
+	      esfriar-se: Nesse processo a atmosfera limpou-se, I]esfriou-se, recebeu imensas quantidades de oxigênio e desenvolveu a biodiversidade.,
+	      resfriar-se: Passados bilhões de anos desde a formação do nosso planeta, a Terra I]resfriou-se e surgiu a atmosfera que oferecia condições ideais para a vinda de seres.,}
+
+Chave: ESFRIAR-SE <verb.change>
+ILI: 00358593
+
+Sense 2
+{00358593} <verb.change> cool, chill, cool down1 -- (loose heat; "The air cooled considerably after the thunderstorm")
+       => {00140715} <verb.change> change state, turn4 -- (undergo a transformation or a change of position or action; "We turned from Socialism to Capitalism"; "The people turned against the President when he stole the election")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night") 

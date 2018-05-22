@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA0480
+
+DADO O SYNSET:
+
+S='Glosa480'
+{alentecer: Administração de beta-bloqueador facilita melhores imagens por I]alentecer a frequência cardíaca.,
+alerdar: Para I]alerdar o computador, pause o jogo e faça a sequência direita,}
+A='Glosa481'
+{aligeirar, apressar, atropelar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa480' = “tornar ou fazer ficar lento ou lerdo”
+{alentecer: Administração de beta-bloqueador facilita melhores imagens por I]alentecer a frequência cardíaca.,
+alerdar: Não use FireWall, só I]alerda sua conexão e serve para nada,}
+A='Glosa481'
+{aligeirar, apressar, atropelar}
+Chave: ALERDAR <verb.change>
+ILI: 00427973
+
+Sense 2
+{00427973} <verb.change> slow1, slow down1, slow up3, slack5, slacken2 -- (become slow or slower; "Production slowed")
+       => {00216002} <verb.change> weaken -- (become weaker; "The prisoner's resistance weakened after seven days")
+           => {00146081} <verb.change> decrease, diminish, lessen, fall6 -- (decrease in size, extent, or range; "The amount of homework decreased towards the end of the semester"; "The cabin pressure fell dramatically"; "her weight fall to under a hundred pounds"; "his voice fell to a whisper")
+               => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

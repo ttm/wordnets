@@ -1,0 +1,36 @@
+ANÁLISE DA GLOSA3248
+
+DADO O SYNSET:
+
+S='Glosa3248'
+	    {
+	      acomodar: Ficou a torcer as mãos à soleira da porta, olhos entrefechados, como a A]acomodar as pupilas à intensidade da luz repentina.,
+	      acondicionar: M]Acondicionaram o subsolo à função de refeitório.,
+	      adaptar: O que se deve fazer é [adaptar os termos tecnológicos ao que já existe.,
+	      adequar: O objetivo do programa é [adequar o investimento comercial às exigências ambientalistas.,
+	      ajustar: O Safefit [ajusta o cinto de segurança à criança.,
+	      aplicar: A] Aplicou a história às suas conveniências.,
+	      apropositar: M]Apropositamos o salão aos ofícios religiosos.,
+	      apropriar: Procurou A]apropriar as palavras ao estado de espírito do pai.,
+	      engrenar: DEVIANT,
+	      entrosar: DEVIANT,
+	      justar2: x,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3248' = “conformar a novas ou diferentes condições”
+	     {acomodar: A marginalidade I]acomodou-se à essência do Estado patrimonial brasileiro.,
+	      acondicionar: M]Acondicionaram o subsolo à função de refeitório.,
+	      adaptar: A CETESB I]adaptou as metodologias internacionais às necessidades brasileiras .,
+	      adequar: Os técnicos do BC afirmam que a medida apenas [adequa o número de cotas à produção do país.,
+	      ajustar: O projeto OpenSUSE I]ajustou seu cronograma para permitir uma versão de teste adicional.,
+	      aplicar: A] Aplicou a história às suas conveniências.,
+	      apropositar: M]Apropositamos o salão aos ofícios religiosos.,
+	      apropriar: Hoje , a guerreira - musa I]apropriou o papel do homem sem negligenciar as qualidades essencialmente femininas.,}
+Chave: ADAPTAR <verb.change>
+ILI: 00144751
+
+Sense 2
+{00144751} <verb.change> adjust1, conform1, adapt2 -- (adapt or conform oneself to new or different conditions; "We must adjust to the bad economic situation")
+       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

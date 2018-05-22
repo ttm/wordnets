@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA1159
+
+DADO O SYNSET:
+
+S='Glosa1159'
+{desalojar: A Lei pode [desalojar moradores de ponte/Uma lei aprovada pela Câmara e sancionada pelo prefeito Paulo Maluf regulamenta o uso das áreas sob os viadutos e pontes de São Paulo e pode [desalojar pessoas que moram nesses locais,
+ desaquartelar: x,}
+	  
+A='Glosa516'
+{aboletar, alojar, aquartelar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1159' = “retirar/arrancar [alguém] do quartel”
+{desalojar: Informa o Quartel General aliado do Mediterrâneo que as forças norte-americanas do 5.o Exército I]desalojaram as tropas alemãs da cidade de Gesso.,}
+A='Glosa516'
+{aboletar, alojar, aquartelar}
+Chave: DESALOJAR
+ILI: EQ_HAS_HYPERONYM – 01426914 – “retirar/arrancar [alguém] de um lugar”
+
+Sense 2
+{01426914} <verb.contact> expel, eject1, chuck out, exclude, throw out, kick out, turf out, boot out, turn out -- (put out or expel from a place; "The child was expelled from the classroom")
+       => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

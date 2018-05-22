@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0616
+
+DADO O SYNSET:
+
+S='Glosa616'
+{dar: I]Dar atenção, confere destaque à outra pessoa.,
+destinar: Ele revela que o piloto [destinou os «royalties» (pagamento relativo à concessão de uma marca) do personagem «Senninha» à Fundação Abrinq pelos Direitos da Criança.,
+oferecer: Após a vitória na guerra do Paraguai, a Guarda Nacional [ofereceu um baile em homenagem ao marido da princesa Isabel. ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa616' = “ser a causa ou fonte de”
+{dar: O técnico Vanderlei Luxemburgo I]deu folga aos jogadores do Santos na segunda e na terça feira.,
+destinar: Ele revela que o piloto [destinou os «royalties» (pagamento relativo à concessão de uma marca) do personagem «Senninha» à Fundação Abrinq pelos Direitos da Criança.,
+oferecer: Após a vitória na guerra do Paraguai, a Guarda Nacional [ofereceu um baile em homenagem ao marido da princesa Isabel. ,}
+Chave: DAR <verb.possession>
+ILI: 02271697
+
+Sense 2
+{02271697} <verb.possession> yield2, give5, afford -- (be the cause or source of; "He gave me a lot of trouble"; "Our meeting afforded much interesting information")
+       => {02259805} <verb.possession> supply, provide, render2, furnish -- (provide or furnish with; "We provided the room with an electrical heater")
+           => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+               => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children")

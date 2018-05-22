@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA2965
+
+DADO O SYNSET:
+
+S='Glosa2965'
+	    {defrontar: Nesse momento o transatlântico I]defrontava com a corveta, saudando com três guinchos medonhos o navio de guerra.,
+	      frontear: Outra chácara despida de árvores, portão aberto e ao fundo, I]fronteando com o portão, uma casa velha.,}
+
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2965' = “Estar orientado em uma certa direção, freqüentemente com relação a um outro ponto de referência; Estar oposto a”
+	    {defrontar: Nesse momento o transatlântico I]defrontava com a corveta, saudando com três guinchos medonhos o navio de guerra.,
+	      frontear: Antes, porém, ajoelhei-me na pequena escada que fronteava a igrejinha e fiz minhas preces.,}
+
+Chave: FRONTEAR <verb.stative>
+ILI: 02612137
+
+Sense 1
+{02612137} <verb.stative> front, look, face -- (be oriented in a certain direction, often with respect to another reference point; be opposite to; "The house looks north"; "My backyard look onto the pond"; "The building faces the park")
+       => {02609765} <verb.stative> lie -- (be located or situated somewhere; occupy a certain position)
+           => {02576058} <verb.stative> be5 -- (occupy a certain position or area; be somewhere; "Where is my umbrella?" "The toolshed is in the back"; "What is behind this behavior?") 

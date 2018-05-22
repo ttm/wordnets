@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA2788
+
+DADO O SYNSET:
+
+S='Glosa2788'
+	    {contar-se: x,
+	      incluir-se: O senador fez questão de I]incluir-se na crítica, frisando que falava como “militante do Partido do presidente da República”.,
+	      recontar-se: x,}
+
+	  A='Glosa423'
+	    {excetuar-se: Ela se estende por quase toda a superfície do nosso planeta; [excetuam-se locais como as montanhas muito altas, por exemplo, onde nenhum animal ou planta é capaz de viver por muito tempo.,
+	     excluir-se: O Brasil pode [se excluir do beco sem saída internacional, pode gerar soluções imaginosas que frustrem os caminhos óbvios do neoliberalismo do Consenso de Washington cair sambando em novidades espantosas !,
+	     isentar-se: Nenhuma autoridade ou agente da Administração federal poderá [isentar-se de prestar colaboração e de proporcionar as informações ou documentos que lhe sejam solicitados.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2788' = “Considerar (-se) como uma parte de alguma coisa”
+	    {incluir-se: Em vez de se manter fora das negociações até o último minuto, Bush I]incluiu-se nelas desde o começo.,}
+
+	  A='Glosa423'
+	    {excetuar-se, excluir-se, isentar-se}
+
+Chave: INCLUIR-SE <verb.cognition>
+ILI: 00661907
+
+Sense 2
+{00661907} <verb.cognition> include -- (consider as part of something; "I include you in the list of culprits")
+       => {00667530} <verb.cognition> see, consider, reckon, view, regard -- (deem to be; "She views this quite differently from me"; "I consider her to be shallow"; "I don't see the situation quite as negatively as you do")
+           => {00666260} <verb.cognition> think1, believe4, consider8, conceive -- (judge or regard; look upon; judge; "I think he is very smart"; "I believe her to be very smart"; "I think that he is her boyfriend"; "The racist conceives such people to be inferior")
+               => {00647983} <verb.cognition> judge -- (form an opinion of or pass judgment on; "I cannot judge some works of modern art")
+                   => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere") 

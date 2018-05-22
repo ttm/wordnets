@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA3496
+
+DADO O SYNSET:
+
+S='Glosa3496'
+	{ajustar-se: A talha ]ajusta-se à cintura de forma arredondada ou em bico/...pelo ano 1130 apareceu o corpete moldado a fim de ajustar-se ao corpo,
+	 amodelar: x,
+	 contornar: A saia ]contorna os quadris, mas abre-se, significativamente, após as coxas,
+	 modelar: ...da blusa justa que ]modela o corpo. }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3496' = “ajustar-se [a] apertadamente, seguir os contornos [de]”
+	{ajustar-se: A talha I]ajusta-se à cintura de forma arredondada ou em bico. # Pelo ano 1130 apareceu o corpete moldado a fim de I]ajustar-se ao corpo.,
+	 contornar: A saia I]contorna os quadris, mas abre-se, significativamente, após as coxas.,
+	 modelar: A blusa justa que I]modela o corpo. }
+Chave: MODELAR <verb.contact>
+ILI: 01184423
+
+Sense 5 
+{01184423} <verb.contact> mold -- (fit tightly, follow the contours of; "The dress molds her beautiful figure")
+       => {01183957} <verb.contact> cling, cleave2, adhere1, stick1, cohere -- (come or be in close contact with; stick or hold together and resist separation; "The dress clings to her body"; "The label stuck to the box"; "The sushi rice grains cohere")
+           => {01169130} <verb.contact> touch1, adjoin3, meet, contact3 -- (be in direct physical contact with; make contact; "The two buildings touch"; "Their hands touched"; "The wire must not contact the metal cover"; "The surfaces contact at this point")

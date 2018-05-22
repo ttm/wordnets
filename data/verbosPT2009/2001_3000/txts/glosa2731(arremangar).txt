@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA2731
+
+DADO O SYNSET:
+
+S='Glosa2731'
+	    {arregaçar: Como na maioria dos casos ele é desprovido de beleza, tem de I]arregaçar as mangas  para mostrar seu rolex novinho e ver se  sua "intelectualidade" chama a atenção. ,
+	      arremangar: Houve um momento em que o cozinheiro, atucanado com tamanha oficiosidade, I]arremangou aos parceiros dizendo-lhes: — Arre! Tem tempo, gente!,
+	      regaçar: x,
+	      remangar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2731' = “Levantar de uma posição mais baixa para uma mais alta.”
+	    {arremangar: Houve um momento em que o cozinheiro, atucanado com tamanha oficiosidade, I]arremangou aos parceiros dizendo-lhes: — Arre! Tem tempo, gente!,}
+
+Chave: ARREMANGAR <verb.motion>
+ILI: EQ_HAS_HYPERONYM - 01916187
+
+Sense 2
+{01916187} <verb.motion> raise, lift, elevate, get up, bring up -- (raise from a lower to a higher position; "Raise your hands"; "Lift a load")
+       => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant") 

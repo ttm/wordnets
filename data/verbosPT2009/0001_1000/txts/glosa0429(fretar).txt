@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA0429
+
+DADO O SYNSET:
+
+S='Glosa429'
+{afretar: A Fiesp chegou [afretar um DC-10. # Como os navios atrasavam, a Petrobrás ainda perdia com necessidade de [afretar outras embarcações para substituir a ecomendada.,
+alugar: Além do protesto oficial formulado ao presidente da CBF, o clube [alugou dez ônibus que levarão gratuitamente os torcedores que quiserem assistir à partida. ,
+fretar: Os empresários de Minas deverão [fretar um avião e alguns ônibus para engrossar as fileiras no Planalto.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa429' = “obter segundo aluguel ou acordo financeiro; de bens e serviços”
+{afretar: A Fiesp chegou a [fretar um DC-10. # Como os navios atrasavam, a Petrobrás ainda perdia com necessidade de a [fretar outras embarcações para substituir a encomendada.,
+alugar: Além do protesto oficial formulado ao presidente da CBF, o clube [alugou dez ônibus que levarão gratuitamente os torcedores que quiserem assistir à partida. ,
+fretar: Os empresários de Minas deverão [fretar um avião e alguns ônibus para engrossar as fileiras no Planalto.,}
+
+Chave: FRETAR <verb.social>
+ILI: 02386626
+
+Sense 1
+{02386626} <verb.social> rent, hire1, charter1, lease1 -- (hold under a lease or rental agreement; of goods and services)
+       => {00859374} <verb.communication> contract, undertake1 -- (enter into a contractual arrangement)
+           => {00854515} <verb.communication> promise, assure2 -- (make a promise or commitment)
+               => {00977478} <verb.communication> declare -- (state emphatically and authoritatively; "He declared that he needed more money to carry out the task he was charged with")
+                   => {00976600} <verb.communication> state, say, tell4 -- (express in words; "He said that he wanted to marry her"; "tell me what is bothering you"; "state your opinion"; "state your name")
+                       => {00909455} <verb.communication> express, verbalize3, verbalise3, utter1, give tongue to -- (articulate; either verbally or with a cry, shout, or noise; "She expressed her anger"; "He uttered a curse")

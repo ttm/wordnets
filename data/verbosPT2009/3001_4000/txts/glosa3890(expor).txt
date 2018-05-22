@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA3890
+
+DADO O SYNSET:
+
+S='Glosa3890'
+{alegar: Tive idéia de mentir, [alegar uma vertigem que me houvesse deitado no chão, mas o susto que causaria a minha mãe fez-me rejeitá-la .,
+ expor: Bom, você sabe como diplomatas fazem de tudo para não [expor suas posições .,
+ ponderar: Argumentou, M]ponderando os riscos e desvantagens do negócio.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3890' = “aludir como ilustração ou prova”
+{alegar: Em ofício enviado ao presidente da comissão, Aluizio de Castro, Biscaia [alegou compromissos, que impediriam sua presença.,
+ expor: Lula [expôs uma série de argumentos ao defender sua indicação.,}
+Chave: EXPOR <verb.communication>
+ILI: 00990572
+
+Sense 3
+{00990572} <verb.communication> quote2, cite5 -- (refer to for illustration or proof; "He said he could quote several instances of this behavior")
+       => {00991188} <verb.communication> mention2, advert12, bring up, cite, name4, refer1 -- (make reference to; "His name was mentioned in connection with the invention")
+           => {00705873} <verb.cognition> think of2, have in mind1, mean1 -- (intend to refer to; "I'm thinking of good food when I talk about France"; "Yes, I meant you when I complained about people who gossip!")
+               => {00689759} <verb.cognition> associate, tie in, relate, link, colligate2, link up, connect -- (make a logical or causal connection; "I cannot connect these two pieces of evidence in my mind"; "colligate these facts"; "I cannot relate these events at all")
+                   => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

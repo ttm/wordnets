@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA3469
+
+DADO O SYNSET:
+
+S='Glosa3469'
+	    {
+	      deperecer: A camada de ozonio sobre o Antárctico continua a ]deperecer gravemente,
+	      desperecer: x,
+	      diminuir: ]Diminuiu a comida na mesa,
+	      escassear: Tudo estava em sossego; apenas quando o vento [escasseava, ouvia-se do lado do edifício habitado pelos aventureiros um rumor de vozes abafadas/...a água também [escasseava,
+	      estrecer-se: Nem mesmo com o tempo sua tristeza ]se estrecia,
+	      minguar: Os descontos estão [minguando .../Com a inflação o dinheiro está minguando,
+	      minuir: x,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3469' = “tornar menor”
+	     {deperecer: A débil compleição de Teresa I]deperecia aceleradamente,
+	      diminuir: Na velhice, a plenitude da vida [diminui, a força corporal regride, os órgãos dos sentidos tornam-se menos sensíveis,
+	      escassear: O dinheiro, porém, I]escasseava e os trabalhos foram paralisados /...a água também [escasseava,
+	      estrecer-se: Nem mesmo com o tempo sua tristeza H]se estrecia,
+	      minguar: Os descontos estão [minguando .../ O fluxo de capital externo [minguou e, em consequência, a expansão monetária ficou comprometida,}
+Chave: ESCASSEAR <verb.change>
+ILI: 00421565
+
+Sense 2
+{00421565} <verb.change> wane -- (become smaller; "Interest in his novels waned")
+       => {00146081} <verb.change> decrease, diminish, lessen, fall6 -- (decrease in size, extent, or range; "The amount of homework decreased towards the end of the semester"; "The cabin pressure fell dramatically"; "her weight fall to under a hundred pounds"; "his voice fell to a whisper")
+           => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

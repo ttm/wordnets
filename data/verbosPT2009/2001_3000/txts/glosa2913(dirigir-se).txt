@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA2913
+
+DADO O SYNSET:
+
+S='Glosa2913'
+	    {buscar: Use as escadas descendo sempre, I]buscando a saída imediata do local, não suba.,
+	      caminhar: Vou I]caminhar até à praia.,
+	      desandar: Terminado o comício, a multidão H]desandou para os bares.,
+	      dirigir-se: Levantou-se de um salto só e I]dirigiu-se à porta para ir até o local do grito.,
+	      encaminhar-se: O candidato, independente da deficiência física, deverá I]encaminhar-se primeiramente ao CFC.,
+	      encarreirar-se: x,
+	      fluir: x,
+	      ir: Clientes preferem I]ir ao banco a pagar contas pela web.,
+	      rumar: Não encontram ninguém, mas se entopem de camisetas, canecas e bonés com a logomarca do local e [rumam para o Harley Davidson Café.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2913' = “Ir ou viajar em direção a”
+	    {buscar: Outros já I]buscaram o Lugar Seguro e estão a salvo.,
+	      caminhar: Vou I]caminhar até à praia.,
+	      desandar: Uma pena que esta cabrocha aí desandou para os lados do Campinho.,
+	      dirigir-se: Levantou-se de um salto só e I]dirigiu-se à porta para ir até o local do grito.,
+	      encaminhar-se: Este calçou as botas e, pondo o saco às costas, I]encaminhou-se para um sítio onde havia uma coelheira.,
+	      ir: Guiada pelo Reverendo Brás, de moto, I]foi ao assentamento de Muarama.,
+	      rumar: Não encontram ninguém, mas se entopem de camisetas, canecas e bonés com a logomarca do local e [rumam para o Harley Davidson Café.,}
+Chave: DIRIGIR-SE <verb.motion>
+ILI: 01879257
+
+Sense 1
+{01879257} <verb.motion> head -- (to go or travel towards; "where is she heading"; "We were headed for the mountains")
+       => {01937463} <verb.motion> proceed, go forward, continue -- (move ahead; travel onward in time or space; "We proceeded towards Washington"; "She continued in the direction of the hills"; "We are moving ahead in time now")
+           => {01782203} <verb.motion> travel, go, move3, locomote -- (change location; move, travel, or proceed; "How fast does your new car go?"; "We travelled from Rome to Naples by bus"; "The policemen went from door to door looking for the suspect"; "The soldiers moved towards the city in an attempt to take it before night fell") 

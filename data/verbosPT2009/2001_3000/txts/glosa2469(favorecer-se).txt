@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA2469
+
+DADO O SYNSET:
+
+S='Glosa2469'
+	    {ajudar-se: O dinheiro é apenas para [me ajudar.,
+	      aproveitar-se: O MST, de acordo com o advogado, muitas vezes [se aproveita da ignorância das pessoas sem-terra e os leva para ocupar fazendas sem prestar nenhum tipo de esclarecimento.,
+	      favorecer-se: Existe uma intenção muito clara de prejudicar-se o reclamante e I]favorecer-se a empresa à custa de atos que, no mínimo, poderão ser configurados como prevaricação e responsabilidade.,
+	      prevalecer-se: O Profissional em exercício não deve I]prevalecer-se de sua condição de representante de firma fornecedora ou consumidora, para obter serviço profissional.,
+	      servir-se: Toda a família ouvia esta narração com uma surpresa extraordinária; compreendiam dela que havia em tudo isto uma arma terrível-- o veneno; mas não podiam saber os meios de que o índio [se servira ou pretendia servir-se para usar desse agente de destruição.,
+	      socorrer-se: É preciso saber com qual freqüência ele [se socorre no BC, explica o economista do banco Fonte, Roberto Padovani.,
+	      utilizar-se: Já tivemos muito trabalho com essa máfia, que [se utiliza da água levada pelo governo e acaba complicando os objetivos dos projetos, disse Diniz.,
+	      valer-se: Certos petistas, indignados com isso, o acusaram de [se valer da imprensa burguesa e estabelecer com ela um conluio que, na visão dessas mentes tão brilhantes, lhe garante espaço.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2469' = “Tirar benefício de.”
+	    {ajudar-se: O dinheiro é apenas para [me ajudar.,
+	      aproveitar-se: O piloto da Ferrari I]aproveitou-se de um problema com Michael Schumacher no início da superpole.,
+	      favorecer-se: Em troca I]favoreceu-se da generosa mão do poder, tornou-se rica e poderosa.,
+	      prevalecer-se: De cuja influência I]prevaleceu-se para exercer caprichos ou vinganças.,
+	      servir-se: I]Serviu-se daquela apenas para corroborar a prova restante,.,
+	      socorrer-se: É preciso saber com qual freqüência ele [se socorre no BC, explica o economista do banco Fonte, Roberto Padovani.,
+	      utilizar-se: Já tivemos muito trabalho com essa máfia, que [se utiliza da água levada pelo governo e acaba complicando os objetivos dos projetos, disse Diniz.,
+	      valer-se: O Sindicato Condor I]valeu-se de aeronaves alemãs Dornier Wal.,}
+
+Chave: FAVORECER-SE <verb.possession>
+ILI: 02224430
+
+Sense 1
+{02224430} <verb.possession> profit2, gain2, benefit -- (derive a benefit from; "She profited from his vast experience")
+       => {02147191} <verb.possession> get, acquire -- (come into the possession of something concrete or abstract; "She got a lot of paintings from her uncle"; "They acquired a new pet"; "Get your results the next day"; "Get permission to take a few days off from work") 

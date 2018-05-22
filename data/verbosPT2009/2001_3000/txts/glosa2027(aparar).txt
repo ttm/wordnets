@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA2027
+
+DADO O SYNSET:
+	
+S='Glosa2027'
+    	{aparar1: No dia da partida miss Jones e seu marido Atila foram ao cabeleireiro Claude, no prédio do anexo do Copacabana, se embelezar; ela pintou os cabelos de negro azulado, e o marido apenas [aparou as madeixas.,
+      	 espontar: O menino Teodorico que, apesar da sua carta de doutor e das suas barbas de Raposão, não podia mandar selar a égua para ir I]espontar o cabelo à Baixa, sem implorar licença à Titi.,
+      	 espontear: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2027' = “remover as pontas/bordas [de] cortando até o tamanho desejado”
+    	{aparar1: Raimundo, que foi ontem à casa de FHC para o corte dos cabelos do presidente eleito, aprendeu a lide [aparando crinas de jumento em sua cidade natal.,
+      	 espontar: Lenita limava, I]espontava, alisava, coloria, brunia as unhas.}
+Chave: APARAR <verb.contact>
+ILI: 01224493
+
+Sense 1
+{01224493} <verb.contact> pare, trim3 -- (remove the edges from and cut down to the desired size; "pare one's fingernails"; "trim the photograph"; "trim lumber")
+       => {01509511} <verb.contact> cut -- (separate with or as if with an instrument; "Cut the rope")
+           => {01513899} <verb.contact> separate1, disunite, divide1, part1 -- (force, take, or pull apart; "He separated the fighting children"; "Moses parted the Red Sea")
+               => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

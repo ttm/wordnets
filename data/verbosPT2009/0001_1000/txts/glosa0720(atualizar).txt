@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0720
+
+DADO O SYNSET:
+
+S='Glosa720'
+{atualizar: Aggiornamento, o termo usado por FHC, é uma expressão italiana que significa pôr em dia, [atualizar ou até mesmo modernizar. # O objetivo é realizar cursos e seminários para [atualizar e aperfeiçoar os profissionais do Estado .  ,
+reciclar: A Volks, além de [reciclar e preparar seus funcionários com cursos práticos, terá chance de utilizar mão-de-obra especializada vinda dos cursos da Uerj.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa720' = “modernizer; deixar atual”
+{atualizar: Aggiornamento, o termo usado por FHC, é uma expressão italiana que significa pôr em dia, [atualizar ou até mesmo modernizar. # O objetivo é realizar cursos e seminários para [atualizar e aperfeiçoar os profissionais do Estado .  ,
+reciclar: A Volks, além de [reciclar e preparar seus funcionários com cursos práticos, terá chance de utilizar mão-de-obra especializada vinda dos cursos da Uerj.,}
+Chave: ATUALIZAR <verb.change>
+ILI: 00164191
+
+Sense 1
+{00164191} <verb.change> update -- (modernize or bring up to date; "We updated the kitchen in the old house")
+       => {00163320} <verb.change> modify -- (make less severe or harsh or extreme; "please modify this letter to make it more polite"; "he modified his views on same-gender marriage")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

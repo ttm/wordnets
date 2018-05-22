@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA1427
+
+DADO O SYNSET:
+
+S='Glosa1427'
+{descontrolar-se: Com os pneus murchos, o carro se choca contra uma saliência da pista e [se descontrola,
+ desgovernar-se: Segundo a polícia, o caminhão teria [se desgovernado em uma ladeira,
+ desorientar-se: O meu irmão I]desorientou-se com as duas crianças no interior do carro e bateu, ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1427' = “perder o controle”
+{descontrolar-se: Com os pneus murchos, o carro se choca contra uma saliência da pista e se [descontrola.,
+ desgovernar-se: Segundo a polícia, o caminhão teria se [desgovernado em uma ladeira.,
+ desorientar-se: O meu irmão I]desorientou-se com as duas crianças no interior do carro e bateu.,}
+Chave: DESCONTROLAR-SE <verb.social>
+ILI: EQ_HAS_HYPERONYM – 02365495
+
+Sense 1
+{02365495} <verb.social> mismanage, mishandle1, misconduct -- (manage badly or incompetently; "The funds were mismanaged")
+       => {02363018} <verb.social> manage, deal13, care11, handle -- (be in charge of, act on, or dispose of; "I can deal with this crew of workers"; "This blender can't handle nuts"; "She managed her parents' affairs after they got too old")
+           => {02367626} <verb.social> control, command -- (exercise authoritative control or power over; "control the budget"; "Command the military forces")

@@ -1,0 +1,37 @@
+ANÁLISE DA GLOSA2703
+
+DADO O SYNSET:
+
+  S='Glosa2703'
+	    {abalar: Entre 1545 e 1546 conseguiram mesmo articular uma grande ofensiva, com a qual chegaram a [abalar os esforços de colonização dos donatários da Bahia, Porto Seguro, Espírito Santo e São Tomé. # Sumido nos últimos dias, Vinogradov reapareceu na última quinta-feira no Kirov, como se nada pudesse [abalar sua força.,
+	      afracar: O interessante da semana não foi o choro de ACM na sua despedida da Presidência do Congresso, pois o homem está velho e todo velho I]afraca.,
+	      afroixar: É essa doença que o H]afrouxa.,
+	      afrouxar: Assim que, sem atender à linguagem de Capitu, aos seus gestos, à dor que a retorcia, a cousa nenhuma, repeti as palavras ditas duas vezes com tal resolução que a fizeram [afrouxar.,
+	      embotar: A busca obsessiva de conforto e a negação de um mínimo de conflito podem, com o avanço dos anos, I]embotar o coração e a mente.,
+	      enfraquecer: A morte do jogador [enfraqueceu o Vasco, que perdeu, domingo, para o Flamengo por 2 a 1.,
+	      enfraquentar: x,
+	      entibiar: Quando o homem começa a I]entibiar, receia o menor trabalho e procura avidamente as consolações externas.,
+	      relaxar: Após a erradicação de doenças como a poliomielite, o que se percebeu foi que a população I]relaxou no cuidado com a vacinação das crianças e as próprias unidades de saúde deixaram de fazer a busca das crianças não vacinadas.,
+	      releixar: x,
+	      vacilar: Podemos perder a fortuna ou amigos com relativa equanimidade, mas, quando a saúde falha e a morte ameaça, o mais forte I]vacila.,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2703' = “Tornar mais frouxo; sem energia.”
+	    {abalar: A forte reação [abalou sua convicção da véspera.,
+	      afracar: Notávamos que a turma não I]afracava a disposição de vingar as dificuldades.,
+	      afrouxar: A escalada do conflito na Palestina I]afrouxou provisoriamente a pressão.,
+	      embotar: Sua paralisia, que há de ser temporária, não I]embotou seu sentimento cidadão nem sua razão.,
+	      enfraquecer: A elevação nos preços das máquinas agrícolas entre 1985 e 1993 [enfraqueceu o poder de troca dos quatro principais produtos agrícolas.,
+	      entibiar: A exigüidade de recursos para estudos e pesquisas I]entibiava os esforços e iniciativas.,
+	      relaxar: Isso I]relaxou a pressão social na América, mas não na Europa.,
+	      vacilar: Podemos perder a fortuna ou amigos com relativa equanimidade, mas, quando a saúde falha e a morte ameaça, o mais forte I]vacila.,}
+
+Chave: AFROUXAR <verb.change>
+ILI: 00216002
+
+Sense 2
+{00216002} <verb.change> weaken -- (become weaker; "The prisoner's resistance weakened after seven days")
+       => {00146081} <verb.change> decrease, diminish, lessen, fall6 -- (decrease in size, extent, or range; "The amount of homework decreased towards the end of the semester"; "The cabin pressure fell dramatically"; "her weight fall to under a hundred pounds"; "his voice fell to a whisper")
+           => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night") 

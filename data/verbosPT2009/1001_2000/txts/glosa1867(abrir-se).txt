@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA1867
+
+DADO O SYNSET:
+
+S='Glosa1867'
+{abrir-se: Neste ponto do seu sonho, a portinha interior do jardim [abriu-se, e outra moça, roçando apenas a grama com o seu passo ligeiro, aproximou-se da rede.,
+ descerrar-se: Os cortesãos e magnatas que foram enchendo o recinto viram I]descerrar-se a janelinha da gelosia chamada dos esponsais e aparecer o belíssimo rosto de Vesperina.,
+ entreabrir-se: Depois que de fora lhe asseguraram que o tigre estava bem morto, [entreabriu-se a porta, e D. Lauriana ainda toda arrepiada olhou estremecendo o corpo da fera .,}
+	  
+A='Glosa873'
+{cerrar-se, fechar-se, trancar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1867' = “ficar aberto”
+{abrir-se: Neste ponto do seu sonho, a portinha interior do jardim [abriu-se, e outra moça, roçando apenas a grama com o seu passo ligeiro, aproximou-se da rede.,
+ descerrar-se: Os cortesãos e magnatas que foram enchendo o recinto viram I]descerrar-se a janelinha da gelosia chamada dos esponsais e aparecer o belíssimo rosto de Vesperina.,
+ entreabrir-se: Depois que de fora lhe asseguraram que o tigre estava bem morto, [entreabriu-se a porta, e D. Lauriana ainda toda arrepiada olhou estremecendo o corpo da fera .,}
+	  
+A='Glosa873'
+{cerrar-se, fechar-se, trancar-se}
+Chave: ABRIR-SE <verb.contact>
+ILI: 01307088
+
+Sense 3
+{01307088} <verb.contact> open6, open up6 -- (become open; "The door opened")
+       => {00140715} <verb.change> change state, turn4 -- (undergo a transformation or a change of position or action; "We turned from Socialism to Capitalism"; "The people turned against the President when he stole the election")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

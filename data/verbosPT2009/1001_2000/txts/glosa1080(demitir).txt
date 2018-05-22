@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA1080
+
+DADO O SYNSET:
+
+S='Glosa1080'
+{cortar: O Banespa precisaria fechar metade de suas 300 agências e postos de atendimento e [cortar algo como 18 mil de seus 30 mil funcionários, ,
+ demitir: A ministra Dorothea Werneck tombou vitimada pela falta de educação que é [demitir um ministro via Embratel/Os nigerianos, que se autoproclamavam a Laranja Mecânica da África, entraram em crise e [demitiram o técnico da seleção, um holandês,
+ despachar: O contrato de Rubinho deve ter cláusulas que permitem à Ferrari I]despachá-lo, mediante multas e outras condições, da mesma forma que Rubinho poderia fazê-lo com a Ferrari. ,
+ despedir: E, depois de [despedir os soldados, seguiram para a saia, de cuja entrada Maria Bárbara os espiava, ainda corrida e espantadiça do susto/A Inglaterra tem uma razoável liberdade para [despedir empregados,
+ dispensar: As empresas foram obrigadas a diminuir o rítmo de produção e a [dispensar trabalhadores, o que aprofundou ainda mais a crise,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1080' = “terminar com o emprego de alguém”
+{cortar: O comércio [cortou 3.000 empregos e o setor de serviços, 8.000.,
+ demitir: Os nigerianos, que se autoproclamavam a Laranja Mecânica da África, entraram em crise e [demitiram o técnico da seleção.,
+ despachar: O contrato de Rubinho deve ter cláusulas que permitem à Ferrari I]despachá-lo, mediante multas e outras condições.,
+ despedir: Aires [despediu o inquilino.,
+ dispensar: A empresa [dispensou 800 funcionários desde meados de 1993.,}
+Chave: DEMITIR <verb.social>
+ILI: 02330754 
+
+Sense 4
+{02330754} <verb.social> fire, give notice, can, dismiss, give the axe, send away, sack, force out, give the sack, terminate1 -- (terminate the employment of; "The boss fired his secretary today"; "The company terminated 25% of its workers")
+       => {02331921} <verb.social> remove -- (remove from a position or an office)

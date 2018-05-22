@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA2779
+
+DADO O SYNSET:
+
+S='Glosa2779'
+	    {ficar: Dos principais cultivos, vão [ficar a laranja, fumo e café, diz Oliveira.,
+	      recrescer: Aproveitava bem o tempo que lhe H]recrescia.,
+	      remanescer: Os aterros sanitários [remanescem distantes e invariavelmente combatidos pela população vizinha.,
+	      restar: Hoje [restam dessa mata apenas 10000 quilômetros quadrados, ou seja, 5% da área primitiva.,
+	      sobejar: E o que I]sobejar da oferta de manjares será de Arão e de seus filhos.,
+	      sobrar: Diz que falta ação do governo e que [sobram recursos não usados para habitação na Caixa Econômica Federal.,
+	      vagar2: O concurso destina-se à preenchimento de vagas, bem como as que por ventura vierem a I]vagar durante o prazo de validade do concurso junto à UNICAMP.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2779' = “Subsistir como resto ou remanescente, de pessoas, dúvidas, problemas, resultados, evidência, etc”
+	    {ficar: Desculpe tantas perguntas, mas ainda I]ficaram estas dúvidas.,
+	      remanescer: Daqueles pedidos que I]remanesceram nos autos, todos devem ser deferidos.,
+	      restar: Hoje [restam dessa mata apenas 10000 quilômetros quadrados.,
+	      sobrar: Opet preenche vagas que I]sobraram.,}
+
+Chave: SOBRAR <verb.stative>
+ILI: 02559123
+
+Sense 3
+{02559123} <verb.stative> remain5 -- (be left; of persons, questions, problems, results, evidence, etc.; "There remains the question of who pulled the trigger"; "Carter remains the only President in recent history under whose Presidency the U.S. did not fight a war")
+       => {02526983} <verb.stative> be3 -- (have the quality of being; (copula, used with an adjective or a predicate noun); "John is rich"; "This is not a good answer") 

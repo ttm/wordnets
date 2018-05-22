@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0356
+
+DADO O SYNSET:
+
+S='Glosa356'
+{atender: Do ponto de vista econômico, mais uma vez o grande beneficiado foram os Estados Unidos que, para [atender às necessidades dos países europeus arrasados pela Guerra.,
+deferir: Deverá a autoridade responsável I]deferir o pedido de certidão, de inteiro ou parcial teor, quando cumpridos os seguintes requisitos.,}
+A='Glosa3546'
+{denegar, desatender, indeferir, negar, recusar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa356' = “estar disposto a conceder (realizar) algo”
+{atender: Do ponto de vista econômico, mais uma vez o grande beneficiado foram os Estados Unidos que, para [atender às necessidades dos países europeus arrasados pela Guerra.,
+deferir: Deverá a autoridade responsável I]deferir o pedido de certidão, de inteiro ou parcial teor, quando cumpridos os seguintes requisitos.,}
+A='Glosa3546'
+{denegar, desatender, indeferir, negar, recusar}
+Chave: ATENDER <verb.communication>
+ILI: 00779984
+
+Sense 2
+{00779984} <verb.communication> concede1, yield1, grant -- (be willing to concede; "I grant you this much")
+       => {00779329} <verb.communication> agree, hold15, concur, concord -- (be in accord; be in agreement; "We agreed on the terms of the settlement"; "I can't agree with you!"; "I hold with those who say life is sacred"; "Both philosophers concord on this point")

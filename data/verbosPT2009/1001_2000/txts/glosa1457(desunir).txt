@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA1457
+
+DADO O SYNSET:
+
+S='Glosa1457'
+{descolar: Ao lavar o carro, evite aplicar jatos fortes de água diretamente no adesivo, que poderá I]descolar,
+ desliar: x,
+	 desligar: x,
+	 desunir: H]Desunir fios,}
+	  
+A='Glosa1451'
+{colar, emendar, ligar, unir}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1457' = “tornar desligado, desunido ou solto”
+{descolar: O sangramento é sinal de que o seu organismo I]descolou o embrião da parede do seu útero.,
+ desunir: Sua dama tem o olhar perdido e I]desune as mãos com delicadeza e calma, como alguém que se libera, expande os movimentos,}
+	  
+A='Glosa1451'
+{colar, emendar, ligar, unir}
+Chave: DESUNIR <verb.contact>
+ILI: 01316129
+
+Sense 2
+{01316129} <verb.contact> disconnect -- (make disconnected, disjoin or unfasten)
+       => {01513899} <verb.contact> separate1, disunite, divide1, part1 -- (force, take, or pull apart; "He separated the fighting children"; "Moses parted the Red Sea")
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

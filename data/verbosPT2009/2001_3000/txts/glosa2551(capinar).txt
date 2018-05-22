@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA2551
+
+DADO O SYNSET:
+
+S='Glosa2551'
+	    {capinar: Uma saga de sucesso da indústria de algodão vem sendo escrita, discretamente, pelos descendentes de Tsunezaemon Maeda, um japonês orgulhoso e aventureiro que desembarcou no interior paulista em 1927 para [capinar café.,
+	      carpar: x,
+	      carpir: Depois, passei a trabalhar na roça, I]carpir milho, café.,
+	      sachar: Quando o souberam os vizinhos um correu à igreja a repicar o sino e a sineta, outro rompeu as nuvens com girândolas, a orquestra da terra, que andava dispersa a I]sachar os milharais, confluiu de galope a casa do mestre.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2551' = “Limpar de ervas daninhas.”
+	    {capinar: Dedicado, o grupo I]capinou o mato e plantou coroa-de-cristo.,
+	      carpir: Nascido em Ibiporã, no interior do Paraná, I]carpiu café até a adolescência.,
+	      sachar: Arrumava a casa e I]sachava a horta.,}
+
+Chave: CAPINAR <verb.change>
+ILI: 00303358
+
+Sense 1
+{00303358} <verb.change> weed -- (clear of weeds; "weed the garden")
+       => {00166870} <verb.change> remove, take, take away1, withdraw1 -- (remove something concrete, as by lifting, pushing, taking off, etc. or remove something abstract; "remove a threat"; "remove a wrapper"; "Remove the dirty dishes from the table"; "take the gun from your pocket"; "This machine withdraws heat from the environment") 

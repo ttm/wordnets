@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2948
+
+DADO O SYNSET:
+
+S='Glosa2948'
+	    {esgrimir: Seus feitos nas feiras, onde vencera muitos valentões à espadeirada, despertaram a curiosidade de um soldado, que aceitou o desafio de com ela I]esgrimir.,
+	      florear: Vencidas duas léguas de chafurdeiros e barrocas, o alferes entrava na sua casa, bebia um grande trago de genebra, e, I]floreando a espada, bradava.,
+	      jogar: Quando há disputas entre as diversas companhias ganha quem canta as peças, dança e I]joga espada melhor. ,
+	      manear: H]Meneava tão bem a espada como a pena.,
+	      manejar: O Guerreiro da Luz, quando aprende a [manejar sua espada, descobre que seu equipamento precisa ser completo e isto inclui uma armadura.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2948' = “Mover ou brandir para frente e para trás”
+	    {esgrimir: Muniz Lopes foi surpreendido pelo facão que a índia Tuíra I]esgrimiu bem perto de seu rosto.,
+	      florear: I]Floreava a adaga na minha frente, com um risinho por trás daquele véu colorado.,
+	      jogar: Quando há disputas entre as diversas companhias ganha quem canta as peças, dança e I]joga espada melhor.,
+	      manejar: Empunhou a espada e I]manejou-a no espaço.,}
+Chave: ESGRIMIR <verb.contact>
+ILI: 01405586
+
+Sense 1
+{01405586} <verb.contact> brandish, flourish, wave -- (move or swing back and forth; "She waved her gun")
+       => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant") 

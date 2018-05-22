@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0505
+
+DADO O SYNSET:
+
+S='Glosa505'
+{aprontar: Iná, I]aprontando o Neto para uma festa, disse-lhe que ele estava um gato.,
+arrumar: Márcia e Ana Francisca fingem que vão I]arrumar a noiva, mas avisam Celina de que ela vai fugir.,
+vestir: Banho de ofurô, massagem facial e corporal, manicure, pedicure, maquiagem, penteado e uma auxiliar para I]vestir a noiva.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa505' = “cuidar da aparência externa através de vestimentas; embelezar alguém vestindo roupas”
+{aprontar: Iná, I]aprontando o Neto para uma festa, disse-lhe que ele estava um gato.,
+arrumar: Márcia e Ana Francisca fingem que vão I]arrumar a noiva, mas avisam Celina de que ela vai fugir.,
+vestir: Banho de ofurô, massagem facial e corporal, manicure, pedicure, maquiagem, penteado e uma auxiliar para I]vestir a noiva.,}
+Chave: ARRUMAR <verb.body>
+ILI: 00039108
+
+Sense 3
+{00039108} <verb.body> groom, neaten -- (care for one's external appearance; "He is always well-groomed")
+       => {00284091} <verb.change> beautify, embellish, prettify -- (make more beautiful)
+           => {00198579} <verb.change> better1, improve1, amend, ameliorate1, meliorate1 -- (to make better; "The editor improved the manuscript with his changes")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

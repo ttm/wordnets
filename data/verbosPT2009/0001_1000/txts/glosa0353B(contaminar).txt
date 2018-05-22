@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0353B
+
+DADO O SYNSET:
+
+S='Glosa353'
+{acometer: A anorexia é um distúrbio psiquiátrico que [acomete em geral mulheres extremamente magras, às vezes desnutridas, que não comem por acharem que são gordas. ,
+afetar: A doença [afetou o olho direito.,
+contagiar: Estão bem perto de identificar o vírus dessa pneumonia, também chamada de Sars, que já matou pelo menos 11 pessoas e I]contagiou 400 em todo o mundo.,
+contaminar: No entanto, é preciso tomar cuidado com as dosagens, para não [contaminar as plantas, pois não há produtos específicos para uso em estufa.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa353B' = “transmitir uma doença, através de contato (físico, ar...) ou de microorganismos”
+{contagiar: Estão bem perto de identificar o vírus dessa pneumonia, também chamada de Sars, que já matou pelo menos 11 pessoas e I]contagiou 400 em todo o mundo.,
+contaminar: Já, para a população, estes indivíduos poderiam vir a I]contaminar aqueles não-infectados por um período ainda mais longo.,}
+Chave: CONTAMINAR <verb.body>
+ILI: 00086241
+
+Sense 2
+{00086241} <verb.body> infect, taint -- (contaminate with a disease or microorganism)
+       => {00479356} <verb.change> pollute, foul3, contaminate -- (make impure; "The industrial wastes polluted the lake")
+           => {01491650} <verb.contact> dirty, soil, begrime, grime, colly, bemire -- (make soiled, filthy, or dirty; "don't soil your clothes when you play outside!")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

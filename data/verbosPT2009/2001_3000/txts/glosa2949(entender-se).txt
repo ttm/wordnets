@@ -1,0 +1,35 @@
+ANÁLISE DA GLOSA2949
+
+DADO O SYNSET:
+
+S='Glosa2949'
+	    {ajustar-se: Com a situação financeira mitigada, mas não de todo regularizada, Campos e Maria Rosa I]ajustam-se e sonham com o futuro do filho caçula. ,
+	      combinar-se: Repulsa e sedução se [combinam em Salomé, que em retrospecto parece um emblema da própria arte da composição.,
+	      concertar-se: x,
+	      dar-se: A Williams tem tradição de não saber lidar com companheiros que não se [dão nem fora, nem dentro das pistas.,
+	      entender-se: Havelange e Maradona nunca se [entenderam muito bem.,
+	      entrosar-se: O Brasil começou muito bem, tocando a bola e chutando ao gol, apesar da dificuldade de Beto em se [entrosar com o time.,
+	      fraternizar-se: Se as nações européias erraram muito, foram igualmente muito sinceras, porque a sua inquietação era por levantar um novo paraíso para si mesmas e para os homens terrestres, com cujas famílias I]fraternizaram-se desde o princípio.,
+	      harmonizar-se: O rei de Arsion aceitou o acordo e os dois reinos I]harmonizaram-se plenamente. ,
+	      sintonizar-se: Estes guerreiros intrépidos I]sintonizaram-se com as disciplinas de Khala e invocam uma fúria sem igual quando em batalha.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2949' = “Ter uma relação tranqüila com alguém”
+	    {ajustar-se: Com a situação financeira mitigada, mas não de todo regularizada, Campos e Maria Rosa I]ajustam-se e sonham com o futuro do filho caçula.,
+	      combinar-se: Eles I]se combinam e não senti ciúmes dos dois se beijarem.,
+	      dar-se: A Williams tem tradição de não saber lidar com companheiros que não se [dão nem fora, nem dentro das pistas.,
+	      entender-se: Havelange e Maradona nunca se [entenderam muito bem.,
+	      entrosar-se: O Brasil começou muito bem, tocando a bola e chutando ao gol, apesar da dificuldade de Beto em se [entrosar com o time.,
+	      fraternizar-se: Na incerteza quanto à eficácia da ação das autoridades, comentava Eusébio de Queiróz, a população I]fraternizava-se com os malfeitores.,
+	      harmonizar-se: Tanto o Robusto, quanto o Torpedo, I]harmonizaram-se perfeitamente, com os tapas propostos pelo Chef Mauro Marcelo.,
+	      sintonizar-se: I]Sintonizaram-se de imediato; gostavam de vinho tinto, Wim Wenders e andar na chuva. O sonho dela: navegar. O dele, construir uma nau.,}
+Chave: ENTENDER-SE <verb.social>
+ILI: 02384573
+
+Sense 2
+{02384573} <verb.social> get along with, get on with, get on, get along -- (have smooth relations; "My boss and I get along very well")
+       => {02384110} <verb.social> relate -- (have or establish a relationship to; "She relates well to her peers")
+           => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+               => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")
+

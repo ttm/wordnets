@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA3683
+
+DADO O SYNSET:
+
+S='Glosa3683'
+	    {
+	      estar: - Compadre, respondia a comadre, já lhe disse que não é bom a quem está neste estado estar ouvindo voz de homem: [esteja calado e espere lá . ,
+	      ficar: Nós não podíamos [ficar em casa hoje. ,
+	      parar: Porém não [pára aqui: amanhã vereis que nos traz algum jacaré, depois uma cascavel ou uma jibóia; encher-nos-á a casa de cobras e lacraus. ,
+	      permanecer: FHC foi almoçar em sua casa em companhia da sua filha, onde [permaneceu até às 15h.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3683' = “continuar em um lugar, posição ou situação”
+	     {estar: O hospital não tinha recursos para manutenção e [estava sem limpeza há 30 dias.,
+	      ficar: Ele [ficou em cativeiro duas semanas e foi libertado em Santa Rita do Sapucaí (MG) , depois de a família pagar R$ 500 mil.,
+	      parar: Uma manhã um rapazito descorado [parou à porta da bodega, saltou do cavalo abaixo e mandou medir contra metade de aguardente.,
+	      permanecer: FHC foi almoçar em sua casa em companhia da sua filha, onde [permaneceu até às 15h.,}
+Chave: PERMANECER <verb.stative>
+ILI: 02647172
+
+Sense 4
+{02647172} <verb.stative> stay2, stay on, continue10, remain3 -- (continue in a place, position, or situation; "After graduation, she stayed on in Cambridge as a student adviser"; "Stay with me, please"; "despite student protests, he remained Dean for another year"; "She continued as deputy mayor for another year")
+       => {02526983} <verb.stative> be3 -- (have the quality of being; (copula, used with an adjective or a predicate noun); "John is rich"; "This is not a good answer")

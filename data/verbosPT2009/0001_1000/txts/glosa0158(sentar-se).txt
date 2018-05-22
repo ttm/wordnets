@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0158
+
+DADO O SYNSET:
+
+S='Glosa158'
+{abancar-se: Vou [abancar-me, sem pedir licença, já que não me oferecem cadeira, continuou ele, sentando-se, tirando a bengala que trazia debaixo do braço e firmando as mãos sobre ela.,
+assentar-se: Esse barco tinha um assento elevado, no qual ele I]assentou-se (pois era costume ficar assentado, enquanto se ensinava) para falar às pessoas reunidas ao longo da praia.,
+sentar-se: Apesar das graças atribuídas a Anchieta, entre as quais a cura de um aleijado que [sentou-se sobre seu túmulo, o papa resistiria a canonizá-lo para evitar polêmicas.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa158' = “tomar assento ou sentar(-se)”
+{abancar-se: Vou [abancar-me, sem pedir licença, já que não me oferecem cadeira, continuou ele, sentando-se, tirando a bengala que trazia debaixo do braço e firmando as mãos sobre ela.,
+assentar-se: Esse barco tinha um assento elevado, no qual ele I]assentou-se (pois era costume ficar assentado, enquanto se ensinava) para falar às pessoas reunidas ao longo da praia.,
+sentar-se: Apesar das graças atribuídas a Anchieta, entre as quais a cura de um aleijado que [sentou-se sobre seu túmulo, o papa resistiria a canonizá-lo para evitar polêmicas.,}
+Chave: SENTAR-SE <verb.motion>
+ILI: 01926967
+
+Sense 3
+{01926967} <verb.motion> sit down, sit -- (take a seat)
+       => {01925836} <verb.motion> change posture -- (undergo a change in bodily posture)
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

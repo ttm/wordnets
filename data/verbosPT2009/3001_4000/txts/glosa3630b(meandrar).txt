@@ -1,0 +1,41 @@
+ANÁLISE DA GLOSA3630b
+
+DADO O SYNSET:
+
+S='Glosa3630'
+	    {
+	      cobrear: Andava A]cobreando os quadris.,
+	      cobrejar: Os rios M]cobrejam nos prados.  ,
+	      colear: Por sobre as ramas da árvore I]coleia a lagarta.,
+	      colubrejar: Os rios de planície aluviônica são aqueles que colubrejam.,
+	      meandrar: O rio passa a I]meandrar sobre a planície calcária, em busca do oceano atlântico.,
+	      ondar: x,
+	      ondear: Eo pequeno cavaleiro tomou de uma espada para enfrentar a hidra que I]ondeava mil cabeças.,
+	      ondular: Está dividida ao meio por um rio que, antes de desaguar no oceano, I]ondula manso pela areia fina e dourada do lugar.,
+	      rastejar: Andam [rastejando pelos esgotos. ,
+	      serpear: O São Francisco ruge, brame e espadana a cauda gigantesca, a I]serpear entre rochedos, escavando, rasgando as entranhas das terras marginais. ,
+	      serpejar: Veio a chamar-se Ceará o rio onde crescia o coqueiro, e os campos onde [serpeja o rio. ,
+	      serpentar: Formava-se um redemoinho de fogo, que I]serpentava baixo sobre o solo sem mata.,
+	      serpentear: A vista do pequeno rio [serpenteando até a praia, do alto da serra, é um convite ao panteísmo. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3630b' = “mover ou fazer mover em um curso sinuoso, espiral ou circular”
+	     {cobrejar: Os rios M]cobrejam nos prados.,
+	      colear: dirigi-me para a margem do riacho que I]coleava entre um pequeno bosque e os campos.,
+                   meandrar: O rio passa a I]meandrar sobre a planície calcária, em busca do oceano atlântico.,
+	      ondular: Está dividida ao meio por um rio que, antes de desaguar no oceano, I]ondula manso pela areia fina e dourada do lugar.,.,
+	      serpear: O São Francisco ruge, brame e espadana a cauda gigantesca, a I]serpear entre rochedos, escavando, rasgando as entranhas das terras marginais. ,
+                   serpejar: Veio a chamar-se Ceará o rio onde crescia o coqueiro, e os campos onde [serpeja o rio. ,
+	      serpentar: Formava-se um redemoinho de fogo, que I]serpentava baixo sobre o solo sem mata.,
+	      serpentear: A vista do pequeno rio [serpenteando até a praia, do alto da serra, é um convite ao panteísmo.,}
+Chave: SERPENTEAR <verb.motion>
+ILI: 01828635
+
+Sense 1
+{01828635} <verb.motion> weave, wind, thread, meander, wander1 -- (to move or cause to move in a sinuous, spiral, or circular course; "the river winds through the hills"; "the path meanders through the vineyards"; "sometimes, the gout wanders through the entire body")
+       => {01782203} <verb.motion> travel, go, move3, locomote -- (change location; move, travel, or proceed; "How fast does your new car go?"; "We travelled from Rome to Naples by bus"; "The policemen went from door to door looking for the suspect"; "The soldiers moved towards the city in an attempt to take it before night fell")
+
+
+

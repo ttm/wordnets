@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA0839
+
+DADO O SYNSET:
+
+S='Glosa839'
+{calçar: Os resíduos serão transformados em paralelepípedos coloridos para [calçar ruas, parques, avenidas e jardins.,
+calcetar: A Administração do Porto de Lisboa resolveu I]calcetar parte da zona ribeirinha antes da Central Tejo, no sentido Oriente - Ocidente.,
+empedrar: O objetivo era evitar a degradação do meio ambiente com o descarte de detritos de construção e, ao mesmo tempo, I]empedrar com os resíduos as estradas rurais.,
+pavimentar: Ontem, ele almoçou com a diretoria do BID após a assinatura do contrato, no valor de US$ 147 milhões para [pavimentar 750 km de estradas.,}
+A='Glosa1208'
+{descalçar, desempedrar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa839' = “cobrir com um material tal qual pedra ou concreto para deixar apropriado para o tráfico de veículos”
+{calçar: Os resíduos serão transformados em paralelepípedos coloridos para [calçar ruas, parques, avenidas e jardins.,
+calcetar: A Administração do Porto de Lisboa resolveu I]calcetar parte da zona ribeirinha antes da Central Tejo, no sentido Oriente - Ocidente.,
+empedrar: O objetivo era evitar a degradação do meio ambiente com o descarte de detritos de construção e, ao mesmo tempo, I]empedrar com os resíduos as estradas rurais.,
+pavimentar: A Coordenadoria Geral de Conservação I]pavimentou o pátio de estacionamento do Hospital Paulino Werneck, na Ilha do Governador.,}
+A='Glosa1208'
+{descalçar, desempedrar}
+Chave: PAVIMENTAR <verb.contact>
+ILI: 01228938
+
+Sense 1
+{01228938} <verb.contact> pave -- (cover with a material such as stone or concrete to make suitable for vehicle traffic; "pave the roads in the village")
+       => {01226248} <verb.contact> coat, surface -- (put a coat on; cover the surface of; furnish with a surface; "coat the cake with chocolate")
+           => {01293336} <verb.contact> cover -- (provide with a covering or cause to be covered; "cover her face with a handkerchief"; "cover the child with a blanket"; "cover the grave with flowers")

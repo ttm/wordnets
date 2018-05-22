@@ -1,0 +1,51 @@
+ANÁLISE DA GLOSA3249
+
+DADO O SYNSET:
+
+S='Glosa3249'
+	    {
+	      acordar2: Itamar e Nilo já [acordaram que o governo federal vai colaborar no combate à violência e que não haverá intervenção. ,
+	      adergar: x,
+	      adregar: x,
+	      afinar: DEVIANT,
+	      ajustar: I]Ajustaram que o pagamento se daria pela tradição de um cavalo e uma moto. ,
+	      apalavrar: O Tricolor eo zagueiro I]apalavraram o destrato desde a última terça-feira e não formalizaram por conta da festa de Natal.,
+	      combinar: Os dois [combinaram alguns detalhes sobre encontro que teriam nos Estados Unidos depois da viagem a Portugal, para onde os integrantes do Mamonas Assassinas seguiriam.,
+	      concertar: Juntaram-se então Leonardo e Teotônio e juntos, [concertaram o seu plano de modo que este escapasse ao major, e que aquele não ficasse comprometido. ,
+	      concordar: Terão de H]concordar uma pacificação.,
+	      consonar: DEVIANT,
+	      contratar: Vocês estão colocando em prática o que vocês mesmos I]contrataram.,
+	      convencionar: São burocratas que passam seus dias criando o que [convencionaram chamar proteções legais.,
+	      estabelecer: Em vez disto, [estabeleceram regras que tomam as representações semânticas como seu input e produzem estruturas superficiais como seu output.,
+	      estipular: Também [estipularam que nenhuma taxa ou imposto seria cobrado de mercadorias que entrassem ou saíssem pelo porto. ,
+	      falar: O que M]falamos foi cumprido com exatidão. ,
+	      firmar: Entidades empresariais dos setores de brinquedos e químico [firmaram um acordo para estabilizar os preços e o fornecimento de matérias-primas por seis meses. ,
+	      justar2: x,
+	      negociar: Também não [negociaram a tempo uma proposta de harmonização de suas políticas trabalhistas.,
+	      pactuar: Descontar o imposto inflacionário nos seus balanços, obrigando-as a [pactuar uma política de preços e de rendas mais compatível com as necessidades de estabilização. ,
+	      tratar: M]Tratar um armistício. # M]Tratar alianças com alguém.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3249' = “estar em acordo, em combinação”
+	     {acordar2: Itamar e Nilo já [acordaram que o governo federal vai colaborar no combate à violência e que não haverá intervenção. ,
+	      ajustar: I]Ajustaram que o pagamento se daria pela tradição de um cavalo e uma moto. ,
+	      apalavrar: Assunto proibido publicamente, o Corinthians I]apalavrou um acordo com Gusmão, mas aguarda a definição do Campeonato Mineiro para anunciar o novo técnico.,
+	      combinar: O grupo I]combinou que os participantes e organizações mandariam suas sugestões por e-mail, impulsionando a continuação da discussão para o desenvolvimento.,
+	      concertar: Seguros da vitória, I]concertaram que o conde Sancho com o grosso da tropa perseguisse o fugitivo e o resto se ocupou em despojar a bagagem e mantimentos. ,
+	      concordar: As delegações I]concordaram que a próxima reunião ministerial do JETCO ocorrerá em 2007 em Londres.,
+	      contratar: Vocês estão colocando em prática o que vocês mesmos I]contrataram.,
+	      convencionar: Nos anos 60 programadores I]convencionaram uma maneira de marcar o tempo: dois dígitos para o dia, dois dígitos para o mês e dois dígitos para o ano.,
+	      estabelecer: Em vez disto, [estabeleceram regras que tomam as representações semânticas como seu input e produzem estruturas superficiais como seu output.,
+	      estipular: Também [estipularam que nenhuma taxa ou imposto seria cobrado de mercadorias que entrassem ou saíssem pelo porto. ,
+	      falar: O que M]falamos foi cumprido com exatidão. ,
+	      firmar: Entidades empresariais dos setores de brinquedos e químico [firmaram um acordo para estabilizar os preços e o fornecimento de matérias-primas por seis meses. ,
+	      negociar: Ruralistas I]negociaram apoio em troca de rolagem de dívida.,
+	      pactuar: Todos os representantes distritais e federais I]pactuaram o compromisso pelo fim da intolerância religiosa no Distrito Federal. ,}
+
+Chave: ACORDAR <verb.communication>
+ILI: 00779329
+
+Sense 1
+{00779329} <verb.communication> agree, hold15, concur, concord -- (be in accord; be in agreement; "We agreed on the terms of the settlement"; "I can't agree with you!"; "I hold with those who say life is sacred"; "Both philosophers concord on this point")

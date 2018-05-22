@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA3798
+
+DADO O SYNSET:
+
+S='Glosa3798'
+{perspectivar: Um dos objetivos para organização das idéias é I]perspectivar possibilidades de encaminhamentos a novos olhares sobre a Educação Física Escolar.,
+	 perspetivar: x }	
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3798' = “colocar em perspectiva”
+{perspectivar: Um dos objetivos para organização das idéias é I]perspectivar possibilidades de encaminhamentos a novos olhares sobre a Educação Física Escolar.}	
+Chave: PERSPECTIVAR <verb.perception>
+ILI: EQ_HAS_HYPERONYM - 02092152
+
+Sense 1
+{02092152} <verb.perception> prospect -- (search for something desirable; "prospect a job")
+       => {02091681} <verb.perception> search, look2 -- (search or seek; "We looked all day and finally found the child in the forest"; "Look elsewhere for the perfect gift!")
+           => {02069480} <verb.perception> examine, see13 -- (observe, check out, and look over carefully or inspect; "The customs agent examined the baggage"; "I must see your passport before you can enter the country")

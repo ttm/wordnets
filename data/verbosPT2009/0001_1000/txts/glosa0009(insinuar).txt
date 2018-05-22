@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA0009
+
+DADO O SYNSET:
+
+S='Glosa9'
+{acoar: x,
+coar: A luz matinal começara a H]coar pelas persianas.,
+destilar: Falta ao filme, porém, o essencial: a sensação de grandeza que as biografias de heróis outonais precisam [destilar.,
+insinuar-se: O fato de se sentirem constrangidos a ir de repórter em repórter explicar-se indica que começa timidamente a [insinuar-se na mentalidade do servidor público o dever de prestar contas.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa9' = “fazer entender ou perceber”
+{coar: Os vitrais utilizados, como nas catedrais góticas, visam I]"coar" a luz, criando um efeito luminoso absolutamente mágico.,
+destilar: Falta ao filme, porém, o essencial: a sensação de grandeza que as biografias de heróis outonais precisam [destilar.,
+insinuar-se: O fato de se sentirem constrangidos a ir de repórter em repórter explicar-se indica que começa timidamente a [insinuar-se na mentalidade do servidor público o dever de prestar contas.,}
+Chave: INSINUAR-SE <verb.communication>
+ILI: 00897243
+
+Sense 1
+{00897243} <verb.communication> intimate, adumbrate1, insinuate -- (give to understand; "I insinuated that I did not like his wife")
+       => {00896980} <verb.communication> hint, suggest4 -- (drop a hint; intimate by a hint)
+           => {00898144} <verb.communication> convey, impart1 -- (make known; pass on, of information)
+               => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                   => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                       => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

@@ -1,0 +1,43 @@
+ANÁLISE DA GLOSA3030
+
+DADO O SYNSET:
+
+S='Glosa3030'
+	    {
+	      ajarretar: x,
+	      cancelar: Uma das opções da SOF para combater o déficit é o contingenciamento, que [cancela parte das despesas, inclusive aquelas previstas nas emendas dos congressistas. ,
+	      ceifar: A entrega prematura à boemia I]ceifou uma carreira que poderia ser efetivamente muito mais brilhante.,
+	      cortar: O problema foi que o estúdio obrigou Richard a [cortar quase uma hora de filme para torná-lo mais comercial, lembra Downey Jr. ,
+	      derriscar: H]Derriscar do dicionário este vocábulo.,
+	      elidir: No item 5.3, alínea c, I]elidir a expressão livre de reajuste monetário e substituir por acrescido de Taxa SELIC divulgada pelo BACEN.,
+	      eliminar: A proposta que estabelece o defensor do povo público, [eliminada do texto constitucional pela comissão de sistematização, será novamente apresentada, sob forma de emenda.,
+	      excluir: O problema é que o simbolismo de Deus no masculino, como pai, senhor, pastor, [exclui metade da humanidade que, segundo o Genesis, também teria sido feita à imagem e semelhança de Deus. # O total de recursos financeiros gastos em saúde, [excluido o saneamento, foi estimado em 1989 em 3,7% do Produto interno Bruto.,
+	      glosar: Ela mesma comete alguns contra-sensos de leitura, como ao  I]glosar a palavra "palerma" com que Mário de Andrade,  lembrando o seringueiro amazonense, qualifica o livro que  tinha nas mãos.,
+	      jarretar: Custa-me esta confissão, mas não posso suprimi-la; era I]jarretar a verdade.,
+	      riscar: Depois da vitória contra a Colômbia por 2 a 1 na última quarta-feira, eles [riscaram esse termo do dicionário.,
+	      suprimir: Conheço radioamadores brasileiros que, por motivos de prevenção a seqüestros e a assaltos, mandaram [suprimir seus nomes e endereços das listas telefônicos.,
+	      tirar: É a segunda vez que o advogado tenta [tirar o nome de sua famosa cliente do cadastro do Serviço de Proteção ao Crédito.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3030' = “declarar nulo”
+                  {cancelar: Relator do Orçamento, Gilberto Miranda [cancelou os US$ 100 milhões destinados ao projeto, repassando-os para projetos de irrigação no Centro-Oeste. ,
+	      ceifar: A entrega prematura à boemia I]ceifou uma carreira que poderia ser efetivamente muito mais brilhante.,
+	      cortar: A administração [cortou telefonemas, remessas postais, material de escritório, viagens e uso de carros para reduzir despesas. ,
+	      elidir: Sua contabilidade complexa e "agressiva" maquiou balancetes e I]elidiu impostos, embaçada por uma rede de 3 mil subsidiárias e parcerias.,
+	      eliminar: Na semana passada, o Conselho Monetário Nacional (CMN) [eliminou a cobrança do Imposto sobre Operações Financeiras (IOF) dos empréstimos às pequenas empresas e liberou os prazos de financiamento, antes restritos a seis parcelas.,
+	      excluir: O governo [excluiu do plano de emergência para combate à mortalidade infantil no Nordeste os investimentos em saneamento básico e vai executar apenas ações assistenciais. # Justiça [exclui multa no pagamento de débito.,
+	      glosar: Em 1998, o Tribunal de Contas I]glosou algumas despesas dessas fundações.,
+	      jarretar: Custa-me esta confissão, mas não posso suprimi-la; era I]jarretar a verdade.,
+	       riscar: Depois da vitória contra a Colômbia por 2 a 1 na última quarta-feira, eles [riscaram esse termo do dicionário.,
+	      suprimir: Projeto do Executivo [suprime a pena de morte.,
+	      tirar: O ministro da Previdência Social, Reinhold Stephanes, [tirou o nome do presidente da CUT de sua agenda telefônica.,}
+Chave: CANCELAR <verb.social>
+ILI: 02403187
+
+Sense 3
+{02403187} <verb.social> cancel, strike down -- (declare null and void; make ineffective; "Cancel the election results"; "strike down a law")
+       => {00795481} <verb.communication> declare4, adjudge, hold11 -- (declare to be; "She was declared incompetent"; "judge held that the defendant was innocent")
+           => {00647983} <verb.cognition> judge -- (form an opinion of or pass judgment on; "I cannot judge some works of modern art")
+               => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

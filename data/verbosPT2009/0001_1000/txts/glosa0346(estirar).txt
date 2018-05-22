@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0346
+
+DADO O SYNSET:
+
+S='Glosa346'
+{estirar: Os engenheiros da Un. de Ohio descobriram que o processo pode ser melhorado, usando o campo magnético para I]estirar algumas porções do metal durante a operação de estampagem.,
+fiar1: O ferro era feito na fornalha ou na forja para I]fiar o ferro .,
+trefilar: Somos especialistas na fabricação, comércio, importação e exportação de máquinas para [trefilar arames e para produção de cabos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa346' = “tornar, fazer mais longo através de esticamento”
+{estirar: Os engenheiros da Un. de Ohio descobriram que o processo pode ser melhorado, usando o campo magnético para I]estirar algumas porções do metal durante a operação de estampagem.,
+fiar1: O ferro era feito na fornalha ou na forja para I]fiar o ferro .,
+trefilar: Somos especialistas na fabricação, comércio, importação e exportação de máquinas para [trefilar arames e para produção de cabos.,}
+Chave: ESTIRAR verb.change
+ILI: 00308836
+
+Sense 5
+{00308836} <verb.change> elongate, stretch4 -- (make long or longer by pulling and stretching; "stretch the fabric")
+       => {00307756} <verb.change> lengthen1 -- (make longer; "Lengthen this skirt, please")
+           => {00147655} <verb.change> increase2 -- (make bigger or more; "The boss finally increased her salary"; "The university increased the number of students it admitted")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

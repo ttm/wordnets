@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA2148
+
+DADO O SYNSET:
+
+S='Glosa2148'
+	    {acender-se: Seus olhos I]acenderam-se como chamas, e seus membros tremiam em um calafrio horroroso.,
+	      cintilar: Isabel tomou-lhe as mãos com um movimento arrebatado; seus olhos [cintilavam com um fogo estranho; suas faces estavam incendiadas de vivo rubor.,
+	      fulgurar: Nesse momento a sua voz eloqüente assumia tons emocionantes, as suas faces acendiam-se, os seus olhos Ifulguravam, e lágrimas ardentes saltavam em punho.,
+	      iluminar-se: Seus olhos I]iluminaram-se com um brilho difícil de reproduzir.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2148' = “ficar brilhante, reluzente”
+	    {acender-se: Seus olhos I]acenderam-se como chamas, e seus membros tremiam em um calafrio horroroso.,
+	      cintilar: Isabel tomou-lhe as mãos com um movimento arrebatado; seus olhos [cintilavam com um fogo estranho; suas faces estavam incendiadas de vivo rubor.,
+	      fulgurar: Nesse momento a sua voz eloqüente assumia tons emocionantes, as suas faces acendiam-se, os seus olhos Ifulguravam, e lágrimas ardentes saltavam em punho.,
+	      iluminar-se: Seus olhos I]iluminaram-se com um brilho difícil de reproduzir., }
+
+Chave: ILUMINAR-SE <verb.perception>
+ILI: 02101292
+
+Sense 1
+{02101292} <verb.perception> glitter, glisten, glint, gleam1, shine1 -- (be shiny, as if wet; "His eyes were glistening")
+       => {02071636} <verb.perception> look1, appear, seem -- (give a certain impression or have a certain outward aspect; "She seems to be sleeping"; "This appears to be a very difficult problem"; "This project looks fishy"; "They appeared like people who had not eaten or slept for a long time")
+           => {02526983} <verb.stative> be3 -- (have the quality of being; (copula, used with an adjective or a predicate noun); "John is rich"; "This is not a good answer") 

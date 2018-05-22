@@ -1,0 +1,18 @@
+ANÁLISE DA GLOSA0876
+
+DADO O SYNSET:
+
+S='Glosa876'
+{chagar-se: O corpo H]chagou-se devido à hanseníase.,
+ulcerar-se: No início, as neoplasias produzem apenas obstrução nasal, porém com a evolução podem I]ulcerar-se ou originar infecções.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa876' = “passar (-se) por ulceração”
+{ulcerar-se: No início, as neoplasias produzem apenas obstrução nasal, porém com a evolução podem I]ulcerar-se ou originar infecções.,}
+Chave: ULCERAR-SE <verb.change>
+ILI: 00522863
+
+Sense 1
+{00522863} <verb.change> ulcerate -- (undergo ulceration; "Her stomach ulcerated")
+       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

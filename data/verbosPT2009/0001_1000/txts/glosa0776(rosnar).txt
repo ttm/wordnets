@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0776
+
+DADO O SYNSET:
+
+S='Glosa776'
+{roncar: Quando estava preparado enfiava na mira a racha do focinho da onça e pum, o bicho recebia a carga bem nas fuças; I]roncava, sufocado e vinha ao chão, tonto, inconsciente, mortalmente batido, com as ventas entupidos e com o atilho pendurado no focinho.  ,
+rosnar: Os cães conheceram-no pelo faro e apenas [rosnaram.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa776' = “emitir som em raiva; agudo ou em tom abrupto”
+{roncar: Quando estava preparado enfiava na mira a racha do focinho da onça e pum, o bicho recebia a carga bem nas fuças; I]roncava, sufocado e vinha ao chão, tonto, inconsciente, mortalmente batido, com as ventas entupidos e com o atilho pendurado no focinho.  ,
+rosnar: Os cães conheceram-no pelo faro e apenas [rosnaram.,}
+Chave: ROSNAR <verb.communication>
+ILI: 00886207
+
+Sense 1
+{00886207} <verb.communication> snap, snarl -- (utter in an angry, sharp, or abrupt tone; "The sales clerky snapped a reply at the angry customer"; "The guard snarled at us")
+       => {00910961} <verb.communication> talk, speak, utter, mouth, verbalize, verbalise -- (express in speech; "She talks a lot of nonsense"; "This depressed patient does not verbalize")
+           => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+               => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

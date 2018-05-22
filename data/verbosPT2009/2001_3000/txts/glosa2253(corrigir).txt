@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2253
+
+DADO O SYNSET:
+
+S='Glosa2253'
+	    {corrigir: A Natureza I]corrige o homem com o aparente castigo dos flagelos.,
+	      melhorar: Toda religião que não I]melhora o homem, falha nos seus objetivos.,
+	      purificar: Deve-se emendar o mundo e M]purificá-lo de vícios.,
+	      ungir: A fé H]ungiu o viciado., }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2253' = “livrar de defeitos, imperfeições”
+	    {corrigir: A Natureza I]corrige o homem com o aparente castigo dos flagelos.,
+	      melhorar: Toda religião que não I]melhora o homem, falha nos seus objetivos.,
+	      purificar: Deve-se emendar o mundo e M]purificá-lo de vícios.,
+	      ungir: A fé H]ungiu o viciado., }
+
+Chave: PURIFICAR <verb.change>
+ILI: 00462512
+
+Sense 2
+{00462512} <verb.change> purify1, purge4, sanctify -- (make pure or free from sin or guilt; "he left the monastery purified")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

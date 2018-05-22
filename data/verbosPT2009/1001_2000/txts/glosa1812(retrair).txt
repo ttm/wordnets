@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA1812
+
+DADO O SYNSET:
+
+S='Glosa1812'
+{encorujar: Não decepcione as pessoas se I]encorujando num canto da casa. # A triste criança I]encorujou-se no cantinho.,
+ engurujar: H]Engurujou-se no quarto e de lá não saiu mais.,
+ retirar: O sábio que se I]retirou do mundo. # H]Retirar-se da vida pública.,
+ retrair: Cansado de festas e recepções, A]retraiu-se da sociedade. ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1812' = “tornar retraído, reservado”
+{encorujar: Netuno I]encoruja minha mente.,
+ retirar: Isso I]retirou a vontade política do governo de gastar recursos em sua manutenção.,
+ retrair: Por sua vez ele I]retraiu a excitação que sentia.,}
+Chave: RETRAIR <verb.change>
+ILI: EQ_HAS_NEAR_HYPERONYM – 00378924 – “abafar ou suprimir”
+
+Sense 1
+{00378924} <verb.change> stifle, dampen5 -- (smother or suppress; "Stifle your curiosity")
+       => {00449069} <verb.change> suppress, stamp down, inhibit, subdue1, conquer, curb1 -- (to put down by force or authority; "suppress a nascent uprising"; "stamp down on littering"; "conquer one's desires")
+           => {02435410} <verb.social> control1, hold in, hold15, contain, check8, curb, moderate -- (lessen the intensity of; temper; hold in restraint; hold or keep within limits; "moderate your alcohol intake"; "hold your tongue"; "hold your temper"; "control your anger")
+               => {02349665} <verb.social> restrain1, suppress3, keep, keep back, hold back -- (keep under control; keep in check; "suppress a smile"; "Keep your temper"; "keep your cool")
+                   => {02377053} <verb.social> prevent, keep1 -- (prevent from doing something or being in a certain state; "We must prevent the cancer from spreading"; "His snoring kept me from falling asleep"; "Keep the child from eating the marbles")

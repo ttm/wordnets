@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA2204
+
+DADO O SYNSET:
+
+S='Glosa2204'
+	    {travejar: M]Travejou um pavilhão.,
+	      vigar: H]Vigar a casa.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2204' = “construir ajustando e unindo partes”
+	    {travejar: M]Travejou um pavilhão.,
+	      vigar: H]Vigar a casa.,}
+
+Chave: VIGAR <verb.creation>
+ILI: EQ_HAS_HYPERONYM - 01608625 - “construct by fitting or uniting parts together”
+
+Sense 6
+{01608625} <verb.creation> frame, frame up -- (construct by fitting or uniting parts together)
+       => {01607634} <verb.creation> construct, build, make13 -- (make by combining materials and parts; "this little pig made his house out of straw"; "Some eccentric constructed an electric brassiere warmer")
+           => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA2303
+
+DADO O SYNSET:
+
+S='Glosa2303'
+	    {acossar: Se bem que só os mais radicais o fazem, I]acossando, pelas ruas das cidades, mulheres elegantes que ousam vestir estolas ou casacos de peles.,
+	      caçar: O advogado lembra que o policial não saiu com seus companheiros com a intenção de praticar crime menos grave - um espancamento, por exemplo - mas sim [caçar os menores e matá-los.,
+	      encalçar: Will Graham tem que arriscar a segurança da sua família ea sua própria segurança para I]encalçar este assassino.,
+	      ir: O homem correu para um matagal e a polícia I]foi atrás até encontrar o acusado.,
+	      perseguir: A mulher de Joel, Francês McDormand, 38 anos, faz em Fargo a chefe de polícia que [persegue os bandidos.,
+	      seguir: Desde o falecimento do ciclista, a polícia I]seguiu o rastro de pessoas que comercializavam drogas e sempre privilegiou a hipótese da morte do atleta ter sido provocada por cocaína. ,
+	      traquear: O radar permite I]traquear um alvo enquanto continua "varrendo" (cobrindo outros setores).,
+	      traquejar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2303' = “procurar ou sair em busca de alguma coisa ou alguém”
+	    {acossar: I]Acossou o inimigo onde este se achava seguro.,
+	      caçar: O advogado lembra que o policial não saiu com seus companheiros com a intenção de praticar crime menos grave, mas sim [caçar os menores e matá-los.,
+	      encalçar: Graham tem que arriscar a segurança da sua família e a sua própria segurança para I]encalçar este assassino.,
+	      ir: O homem correu para um matagal e a polícia I]foi atrás até encontrar o acusado.,
+	      perseguir: A mulher de Joel faz em Fargo a chefe de polícia que [persegue os bandidos.,
+	      seguir: Desde o falecimento do ciclista, a polícia I]seguiu o rastro de pessoas que comercializavam drogas. ,
+	      traquear: O radar permite I]traquear um alvo enquanto continua "varrendo".,}
+
+Chave: PERSEGUIR <verb.contact>
+ILI: 01278480
+
+Sense 3
+{01278480} <verb.contact> quest for, go after, quest after, pursue -- (go in search of or hunt for; "pursue a hobby")
+       => {01276560} <verb.contact> search, seek, look for -- (try to locate or discover, or try to establish the existence of; "The police are searching for clues"; "They are searching for the missing man in the entire county")

@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0432
+
+DADO O SYNSET:
+
+S='Glosa432'
+{agadanhar-se: No auge do desespero, M]agadanhava-se todo,
+agafanhar-se: x,
+agatanhar-se: x,
+arranhar-se: Pede, implora, chora, e I]arranha-se o meu vizinho do 3º andar.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa432' = “causar (-se) arranhão; ferir (-se) roçando com as unhas ou objeto ligeiramente pontudo”
+{arranhar-se: Pede, implora, chora, e I]arranha-se o meu vizinho do 3º andar.,}
+Chave: ARRANHAR-SE <verb.contact>
+ILI: 01213056
+
+Sense 1
+{01213056} <verb.contact> rub1, fray1, fret, chafe1, scratch3 -- (cause friction; "my sweater scratches")
+       => {01169130} <verb.contact> touch1, adjoin3, meet, contact3 -- (be in direct physical contact with; make contact; "The two buildings touch"; "Their hands touched"; "The wire must not contact the metal cover"; "The surfaces contact at this point")

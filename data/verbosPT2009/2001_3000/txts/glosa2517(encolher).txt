@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA2517
+
+DADO O SYNSET:
+
+S='Glosa2517'
+	    {amurchecer: x,
+	      comprimir: As camadas exteriores da estrela tem massa suficiente para continuarem a I]comprimir o núcleo e a fazer subir a temperatura.,
+	      contrair: Ele pode [contrair o espaço com a zoom (lente teleobjetiva) e, no instante seguinte, abrí-lo e deformá-lo (com a lente grande angular). # Neurônio motor é o que transmite o impulso nervoso até o músculo, fazendo-o [contrair.,
+	      emurchecer: Depois da meia noite, quando as luzes cintilam com mais fulgor, as flores das toilettes começam a I]emurchecer e os colarinhos dos elegantes a se abaterem; quando os peitos das casacas cobrem-se de pó de arroz, os músicos principiam a desafinar e as valsas vão-se tornando cada vez mais vertiginosas.,
+	      encolher: Uma funcionária orientou sobre roupas que podem [encolher na secadora, com três temperaturas.,
+	      engelhar: A vaca abriu um pouco as pernas traseiras, corcovou-se, I]engelhou a pele das ilhargas para receber a fecundação.,
+	      murchar: Em dias quentes e secos, as folhas poderiam [murchar e secar, determinando a morte do vegetal.,
+	      murchecer: A tua nívea luz ciliciada faz I]murchecer e congelar as rosas.,
+	      retrair: As lesões (bolsas) entre seus dentes e a gengiva podem aumentar de profundidade, alojando mais batérias que destroem os tecidos e o osso de suporte; como resultado, a gengiva pode I]retrair fazendo os dentes parecerem mais longos.,
+	      secar: Bucã, supõem alquns que seja alteração de moquém; mas eu o considero termo distinto que exprimia apenas a operação de [secar a carne ao fumeiro para conservá-la.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2517' = “Apertar ou comprimir.”
+	    {comprimir: Quando foi atacado ele não apenas saiu da frente ou ficou de lado, ele I]comprimiu o corpo e ficou: - Fino como papel.,
+	      contrair: Ubiratan I]contraiu todos os músculos do corpo.,
+	      encolher: A preta assentou-se junto à rede e I]encolheu as pernas.,
+	      retrair: Orione I]retraiu seu corpo ao máximo.,}
+
+Chave: ENCOLHER <verb.contact>
+ILI: 01347521
+
+Sense 3
+{01347521} <verb.contact> compress, constrict, squeeze1, compact, contract4, press2 -- (squeeze or press together; "she compressed her lips"; "the spasm contracted the muscle")
+       => {00407836} <verb.change> tighten -- (become tight or tighter; "The rope tightened")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night") 

@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0895
+
+DADO O SYNSET:
+
+S='Glosa895'
+{ligar: Vou [ligar pro Ibama.,
+telefonar: É fácil fazer amigos no Rio, basta ser apresentado, prometer que vai [telefonar e dar uma desculpa semanas depois, com a promessa de que vai telefonar.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa895' = “comunicar ou tentar comunicar (com alguém) por telefone”
+{ligar: Vou [ligar pro Ibama.,
+telefonar: É fácil fazer amigos no Rio, basta ser apresentado, prometer que vai [telefonar e dar uma desculpa semanas depois, com a promessa de que vai telefonar.,}
+Chave: TELEFONAR <verb.communication>
+ILI: 00763454
+
+Sense 1
+{00763454} <verb.communication> call1, telephone, call up, phone, ring -- (get or try to get into communication (with someone) by telephone; "I tried to call you all night"; "Take two aspirin and call me in the morning")
+       => {00764709} <verb.communication> telecommunicate -- (communicate long-distance, as via the telephone or e-mail)
+           => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+               => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

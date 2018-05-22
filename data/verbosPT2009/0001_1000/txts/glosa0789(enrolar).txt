@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0789
+
+DADO O SYNSET:
+
+S='Glosa789'
+{bobinar: As bobinas convencionais, como as usadas para condutores de cobre, não servem para I]bobinar condutores ocos.,
+embobinar: Mandou H]embobinar o copião para exibir aos produtores.,
+enrolar: Para criação de campos magnéticos mais potentes, costuma-se [enrolar o fio condutor em torno de um eixo, construindo-se, dessa forma, uma bobina,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa789' = “dobrar em rolo ou espiral, formar em um cilindro”
+{bobinar: As bobinas convencionais, como as usadas para condutores de cobre, não servem para I]bobinar condutores ocos.,
+embobinar: ele I]embobinou certinho a linha eo freio até que é eficiente.,
+enrolar: Para criação de campos magnéticos mais potentes, costuma-se [enrolar o fio condutor em torno de um eixo, construindo-se, dessa forma, uma bobina,}
+Chave: ENROLAR <verb.change>
+ILI: 00423475
+
+Sense 1
+{00423475} <verb.change> roll up1, furl -- (form into a cylinder by rolling; "Roll up the cloth")
+       => {00135866} <verb.change> change shape, change form, deform2 -- (assume a different shape or form)
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

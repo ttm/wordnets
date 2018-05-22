@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA1524
+
+DADO O SYNSET:
+
+S='Glosa1524'
+{inabilitar: Ao se constatar a adulteração ou falsificação de certificados, as autoridades competentes do país emissor [inabilitarão o produtor final e/ou exportador para atuar no âmbito do MERCOSUL,}
+	  
+A='Glosa841'
+{candidatar, credenciar, habilitar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1524' = “tornar inapto ou inadequado”
+{inabilitar: Gallotti dá o exemplo do mandado de segurança apresentado ao Supremo pelo ex-presidente Fernando Collor de Mello contra a decisão do Senado de [inabilitá-lo para funções públicas por oito anos.,}
+	  
+A='Glosa841'
+{candidatar, credenciar, habilitar}
+Chave: INABILITAR <verb.change>
+ILI: 00292033
+
+Sense 1
+{00292033} <verb.change> disqualify, unfit, indispose -- (make unfit or unsuitable; "Your income disqualifies you")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

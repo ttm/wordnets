@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA2544
+
+DADO O SYNSET:
+
+  S='Glosa2544'
+	    {consagrar: Com a unção recebida das mãos do Bispo, recebem poderes, como de I]consagrar a Hóstia, transformando-a no corpo e sangue de Cristo.,
+	      sacramentar: Administrar os sacramentos, tornar sagrado; I]sacramentar a hóstia são alguns dos deveres do sacerdote.,
+	      sagrar: João Paulo II foi o único papa a I]sagrar uma igreja na América Latina.,
+	      ungir: O cônego [ungiu o cadáver com água benta e encomendou-o a Deus.,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2544' = “Tornar sagrado por meios de rituais religiosos.”
+	    {consagrar: O Sr. Arcebispo Metropolitano I]consagrou a Igreja de Nossa Senhora de Fátima.,
+	      sacramentar: Foi a igreja católica que I]sacramentou o casamento e transformou maio em mês das noivas.,
+	      sagrar: I]Sagrou bispos e ordenou 207 padres.,
+	      ungir: Para arejar o Sacro Colégio, I]ungiu cardeais nos mais esquecidos rincões.,}
+
+Chave: CONSAGRAR <verb.communication>
+ILI: 00837881
+
+Sense 4
+{00837881} <verb.communication> consecrate, bless1, hallow, sanctify -- (render holy by means of religious rites)
+       => {00977478} <verb.communication> declare -- (state emphatically and authoritatively; "He declared that he needed more money to carry out the task he was charged with")
+           => {00976600} <verb.communication> state, say, tell4 -- (express in words; "He said that he wanted to marry her"; "tell me what is bothering you"; "state your opinion"; "state your name")
+               => {00909455} <verb.communication> express, verbalize3, verbalise3, utter1, give tongue to -- (articulate; either verbally or with a cry, shout, or noise; "She expressed her anger"; "He uttered a curse") 

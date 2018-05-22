@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA3904
+
+DADO O SYNSET:
+
+S='Glosa3904'
+{espipocar: x,
+ espocar: Em breve, porém, um frenesi galvânico eletrizou todos os pares «Galop!» gritaram E um turbilhão doido, desenfreado, precipitou-se pelas saias, percorrendo-as aos saltos, numa confusão de casacas e caudas de seda; anovelando-se, abalroando-se e rebentando afinal numa vozeria medonha, atroadora, num bramido de onda que [espoca em plena tempestade .,
+ estalar: Ela caiu para trás, [estalando os ossos contra os tijolos do chão .,
+ estralar: O rei I]estralou os dedos, tomou seu sabre, colocou-o na cintura e se foi trotando atrás de sua guarda.,
+ estralejar: Ao concluir, o trovão I]estralejou como um chicote muitas vezes brandido.,
+ pipocar: As dezesseis munições I]pipocaram, fazendo que o espaço entre eu e o assassino ficasse com riscos de fogo no ar.,
+ pipoquear: Botar o milho para I]pipoquear.,
+ popocar: x,
+ rebentar: As águas M]rebentaram a comporta.,
+ trapejar: A corrente murmurosa I]trapejava nas franças dos amieiros debruçados à flor da água.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3904' = “fazer um som agudamente explosivo”
+{espocar: E um turbilhão doido precipitou-se pelas saias, abalroando-se e rebentando afinal numa vozeria medonha, atroadora, num bramido de onda que [espoca em plena tempestade.,
+ estalar: Relampejou mais forte, e [estalou um trovão.,
+ estralar: Na hora que I]estralou a arma fiquei preocupado.,
+ estralejar: Ao concluir, o trovão I]estralejou como um chicote muitas vezes brandido.,
+ pipocar: Enquanto a apresentadora da Rede Bandeirantes Simone Mello dizia que o Brasil devia estar triste com a desclassificação da Argentina, [pipocavam fogos por toda São Paulo comemorando o mesmo fato.,
+ pipoquear: Algumas flechas ainda foram arremessadas e também alguns foguetões I]pipoquearam.,
+ rebentar: Mas, do vão escuro, em que se formava o limite da parede, [rebentou um tiro, no momento em que ele dava volta à chave.,
+ trapejar: A corrente murmurosa I]trapejava nas franças dos amieiros debruçados à flor da água.}
+Chave: PIPOCAR <verb.perception>
+ILI: 02123289
+
+Sense 3
+{02123289} <verb.perception> pop -- (make a sharp explosive noise; "The cork of the champagne bottle popped")
+       => {02113837} <verb.perception> sound, go -- (make a certain noise or sound; "She went `Mmmmm'"; "The gun went `bang'")
+           => {02062507} <verb.perception> cause to be perceived -- (have perceptible qualities)

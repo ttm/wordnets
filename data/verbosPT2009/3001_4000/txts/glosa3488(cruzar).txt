@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA3488
+
+DADO O SYNSET:
+
+S='Glosa3488'
+	    {
+	      cruzar: A biotecnologia agora pode ]cruzar animais com plantas, deixando os vegetarianos confusos/]Cruzar um exemplar de pelo longo com pelo curto só é permitido mediante autorização especial do clube da raça, mas na prática isso não acontece,
+	      misturar: No laboratório, é só escolher os animais que quer ]misturar/O português tinha a capacidade de se ]misturar facilmente com outras raças,
+	      unir: O famoso criador, o qual teve a idéia de ]unir as raças Norfolk e Suffolk em uma só raça, o Red Poll,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3488' = “reproduzir plantas ou animais usando pais de diferentes raças e variedades”
+	     {cruzar: Max von Stephanitz I]cruzou animais que eram oriundos daquelas regiões conseguindo uma mescla heterogênea destas espécies,
+	      misturar: A Empresa Brasileira de Pesquisa Agropecuária (Embrapa) I]misturou três raças e desenvolveu um porco cuja carne contém apenas 40% de gordura pesada,
+	      unir: A partir deste dia, nenhuma raça I]uniu-se à outra, e, com o tempo, elas perderam completamente a capacidade de ter filhos entre si,}
+Chave: CRUZAR <verb.contact>
+ILI: 01389124
+
+Sense 8
+{01389124} <verb.contact> crossbreed, cross, hybridize, hybridise, interbreed -- (breed animals or plants using parents of different races and varieties; "cross a horse and a donkey"; "Mendel tried crossbreeding"; "these species do not interbreed")
+       => {01388634} <verb.contact> breed1 -- (of plants or animals; "She breeds dogs")
+           => {01575778} <verb.creation> produce, make1, create3 -- (create or manufacture a man-made product; "We produce more cars than we can sell"; "The company has been making toys for two centuries")

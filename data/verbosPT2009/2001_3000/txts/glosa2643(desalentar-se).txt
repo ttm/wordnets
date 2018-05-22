@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA2643
+
+DADO O SYNSET:
+
+  S='Glosa2643'
+	    {acabrunhar-se: Ao sair, não precisa o governador Garotinho I]acabrunhar-se com o volume da criminalidade.,
+	      congelar-se: Na pequena cidade de Guaíba, os efervescents negócios imobiliários I]congelaram-se e em outros campos as decisões foram acometidas de súbita paralisia.,
+	      desacorçoar-se: x,
+	      desalentar-se: Mas o espírita, embora ainda conserve os resíduos do que foi no passado, deve lutar constantemente para avançar no caminho da depuração, sem I]desalentar-se diante das dificuldades que encontra para reabilitar-se, até chegar a ser uma criatura inteiramente digna.,
+	      desanimar-se: Sem I]desanimar-se fez aulas de fono e o pior passou tão rápido que nem sentiu.,
+	      descoraçar-se: x,
+	      descoroçoar-se: x,
+	      resfriar-se: H]Resfriou-se devido às injustiças sofridas.,}
+
+	  A='Glosa38'
+	    {alentar-se: Pedro cantava sempre; tudo lhe servia de tema a uma série de quadras improvisadas, de que fazia uso para [alentar-se no trabalho.,
+	     animar-se: Para ele o suicídio era uma ação ridícula e vergonhosa, era uma espécie de deserção da oficina; então, para [animar-se, para meter-se em brios, evocava a memória dos fortes.,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2643' = “Privar (-se) de coragem ou esperança, tirar a esperança de, fazer sentir (-se) desencorajado.”
+	    {acabrunhar-se: Ao sair, não precisa o governador Garotinho I]acabrunhar-se com o volume da criminalidade.,
+	      desalentar-se: Mas o espírita, embora ainda conserve os resíduos do que foi no passado, deve lutar constantemente para avançar no caminho da depuração, sem I]desalentar-se diante das dificuldades que encontra para reabilitar-se, até chegar a ser uma criatura inteiramente digna.,
+	      desanimar-se: Sem I]desanimar-se fez aulas de fono e o pior passou tão rápido que nem sentiu.,
+	      resfriar-se: H]Resfriou-se devido às injustiças sofridas.,}
+
+	  A='Glosa38'
+	    {alentar-se, animar-se}
+
+Chave: DESALENTAR-SE <verb.emotion>
+ILI: 01766276
+
+Sense 2
+{01766276} <verb.emotion> discourage -- (deprive of courage or hope; take away hope from; cause to feel discouraged) 

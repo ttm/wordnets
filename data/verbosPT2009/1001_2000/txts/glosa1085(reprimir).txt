@@ -1,0 +1,41 @@
+ANÁLISE DA GLOSA1085
+
+DADO O SYNSET:
+
+S='Glosa1085'
+{denegar: A SEI poderá [denegar o pedido de cadastramento, desde que verifique a existência de similar nacional,
+ impedir: A repressão ao abuso do poder econômico feita pelo Estado visa [impedir o dominio do mercado por uma empresa ou agrupamento de empresas, com a finalidade de aumentar seus lucros de maneira arbitrária,
+ obstar: O presidente não vai [obstar os trabalhos da CPI.,
+ proibir: Os Mamonas estão evitando dar entrevistas, não aparecem mais na televisão e [proibiram o acesso da imprensa aos camarins,
+ reprimir: A operação deflagrada pela polícia civil para [reprimir o jogo do bicho chegou ontem aos municípios de Duque de Caxias e Magé,
+ tolher: Boêmio, irrequieto, avesso à disciplina que só servia para [tolher sua criatividade.,}
+
+A='Glosa57'
+	    {Autorizar, permitir}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1085' = “ir contra”
+{denegar: A SEI poderá [denegar o pedido de cadastramento, desde que verifique a existência de similar nacional,
+ impedir: Como já vimos, o colonialismo dificultou ou mesmo [impediu a industrialização de suas colônias.,
+ obstar: O presidente não vai [obstar os trabalhos da CPI.,
+ proibir: Os Mamonas estão evitando dar entrevistas, não aparecem mais na televisão e [proibiram o acesso da imprensa aos camarins,
+ reprimir: Quércia disse que, em seu governo, nunca [reprimiu esse tipo de jogatina.,
+ tolher: Eu acho que os economistas do PT [tolhem o Lula.,}
+
+A='Glosa57'
+	    {Autorizar, permitir}
+Chave: REPRIMIR <verb.communication>
+ILI: 00770118
+
+Sense 1
+{00770118} <verb.communication> forbid, prohibit, interdict, proscribe, veto, disallow -- (command against; "I forbid you to call me late at night"; "Mother vetoed the trip to the chocolate store")
+       => {00726786} <verb.communication> command, require, compel -- (make someone do something)
+           => {00722209} <verb.communication> order1, tell2, enjoin, say4 -- (give instructions to or direct somebody to do something with authority; "I said to him to go home"; "She ordered him to do the shopping"; "The mother told the child to get dressed")
+               => {00728656} <verb.communication> request2 -- (ask (a person) to do something; "She asked him to be here at noon"; "I requested that she type the entire manuscript")
+                   => {00727721} <verb.communication> ask1 -- (make a request or demand for something to somebody; "She asked him for a loan")
+                       => {00727992} <verb.communication> request1, bespeak, call for4, quest1 -- (express the need or desire for; ask for; "She requested an extra bed in her room"; "She called for room service")
+                           => {00717906} <verb.communication> communicate1, pass on, pass1, put across -- (transmit information ; "Please communicate this message to all employees")
+                               => {02167243} <verb.possession> convey10, transmit10, communicate10 -- (transfer to another; "communicate a disease")
+                                   => {02167764} <verb.possession> transfer1 -- (move from one place to another; "transfer the data"; "transmit the news"; "transfer the patient to another hospital")
+                                       => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

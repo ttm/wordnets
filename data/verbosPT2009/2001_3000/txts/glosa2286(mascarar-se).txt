@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA2286
+
+DADO O SYNSET:
+
+S='Glosa2286'
+	    {disfarçar-se: Os terroristas se [disfarçam de soldados, o que torna quase impossível detectá-los . ,
+	      encaretar-se: x,
+	      fantasiar-se: As pessoas fúteis podem muito bem I[fantasiar-se de intelectuais numa noite de autógrafos e flashes. ,
+	      mascarar-se: A menina queria I]mascarar-se de carochinha,  cinderela e depois foi mascarar-se de " Charlot".  ,
+	      travestir-se: Johnny Depp diz que cresceu muito ao se [travestir para interpretar o protagonista de «Ed Wood» .,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2286' = “esconder-se sob uma falsa aparência” 
+	    {disfarçar-se: Os terroristas se [disfarçam de soldados, o que torna quase impossível detectá-los . ,
+	      fantasiar-se: As pessoas fúteis podem muito bem I[fantasiar-se de intelectuais numa noite de autógrafos e flashes. ,
+	      mascarar-se: I]Mascarou-se perigosamente sob roupagens atraentes e aliciadoras.,
+	      travestir-se: Johnny Depp diz que cresceu muito ao se [travestir para interpretar o protagonista de «Ed Wood» .,}
+
+Chave: MASCARAR-SE <verb.perception>
+ILI: 02085692
+
+Sense 1
+{02085692} <verb.perception> dissemble, cloak, mask -- (hide under a false appearance; "He masked his disappointment")
+       => {02096669} <verb.perception> disguise -- (make unrecognizable; "The herb disguises the garlic taste"; "We disguised our faces before robbing the bank")
+           => {02082942} <verb.perception> hide, conceal1 -- (prevent from being seen or discovered; "Muslim women hide their faces"; "hide the money") 

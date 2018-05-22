@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0690
+
+DADO O SYNSET:
+
+S='Glosa690'
+{arrotar: Ela não usa pilhas e foi preferida entre bonecas que choram, mamam, [arrotam, beijam e até falam.,
+eructar: Não esqueça de fazer a criança I]eructar após a amamentação.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa690' = “expelir gás do estômago”
+{arrotar: Ela não usa pilhas e foi preferida entre bonecas que choram, mamam, [arrotam, beijam e até falam.,
+eructar: Não esqueça de fazer a criança I]eructar após a amamentação.,}
+Chave: ARROTAR <verb.body>
+ILI: 00003374
+
+Sense 1
+{00003374} <verb.body> burp, bubble, belch, eruct -- (expel gas from the stomach; "In China it is polite to burp at the table")
+       => {00102482} <verb.body> emit, breathe1, pass off -- (expel (gases or odors))
+           => {00102093} <verb.body> discharge, expel, eject, release1 -- (eliminate (substances) from the body)

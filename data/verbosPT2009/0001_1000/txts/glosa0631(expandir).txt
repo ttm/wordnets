@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA0631
+
+DADO O SYNSET:
+
+S='Glosa631'
+{expandir: Afinal, precisa quebrar já a hegemonia palestrina, dentro de casa, e, quem sabe, aproveitar-se do vacilo tricolor, para [expandir mundo afora suas ambições,
+exteriorizar: Se hoje Sheila é capaz de [exteriorizar um pouco do que sente, deve muito à mãe,
+externar: Contou com a participação de indivíduos das cidades e das camadas populares, que mais uma vez [externaram sentimentos anti-lusitanos,
+supurar: A criatura nasceu com os melhores sentimentos, e não é até a humanidade ensinar que ele começa a I]supurar sua vingança, terminando por ser a "ovelha negra". ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa631' = “expandir em uma ou mais direções”
+{expandir: Afinal, precisa quebrar já a hegemonia palestrina, dentro de casa, e, quem sabe, aproveitar-se do vacilo tricolor, para [expandir mundo afora suas ambições,
+exteriorizar: Se hoje Sheila é capaz de [exteriorizar um pouco do que sente, deve muito à mãe,
+externar: Contou com a participação de indivíduos das cidades e das camadas populares, que mais uma vez [externaram sentimentos anti-lusitanos,.}
+Chave: EXTERNAR <verb.motion>
+ILI: 02018133
+
+Sense 1
+{02018133} <verb.motion> expand, spread out1 -- (extend in one or more directions; "The dough expands")
+       => {00223119} <verb.change> grow -- (become larger, greater, or bigger; expand or gain; "The problem grew too large for me"; "Her business grew fast")
+           => {00150804} <verb.change> increase -- (become bigger or greater in amount; "The amount of work increased")
+               => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

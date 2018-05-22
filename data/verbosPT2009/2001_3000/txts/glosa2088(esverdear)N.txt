@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA2088
+
+DADO O SYNSET:
+	
+S='Glosa2088'
+    	{esmeraldear: x,
+      	 esverdear: A primavera adiantara a sua chegada, pois dia a dia a neve retirava-se mais um pouco eo chão deixava entrever o I]esverdear da grama.,
+      	 esverdinhar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2088' = “dar cor verde”
+    	{esverdear: A bílis lusitana, o asco, o sarcasmo peninsular – esse sentimento que encaneceu Camilo Castelo Branco e I]esverdeou o rosto de Eça de Queiroz – aparece gloriosamente nas cantigas de escárnio e mal-dizer.}
+Chave: ESVERDEAR <verb.change>
+ILI: EQ_NEAR_SYNONYM – 00507712
+
+Sense 1
+{00507712} <verb.change> green -- (turn or become green; "The trees are greening")
+       => {00272185} <verb.change> discolor, discolour, colour, color1 -- (change color, often in an undesired manner; "The shirts discolored")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

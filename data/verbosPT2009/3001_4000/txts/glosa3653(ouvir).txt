@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA3653 
+
+DADO O SYNSET:
+
+S='Glosa3653'
+	    {
+	      atender: frase_exemplo,
+	      escutar: frase_exemplo,
+	      ouvir: frase_exemplo,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3653' = “escutar e prestar atenção”
+	     {atender: D. Cláudia não [atendeu a explicações.,
+	      escutar: O Ministro Gilmar Mendes não I]escutou a Ministra do STJ nem o Ministério Público,
+	      ouvir: Marília, que retornou ao Brasil após um retiro de cinco meses entre Europa e EUA, [ouviu várias sugestões para montar o texto, mas não se rendeu,}
+Chave: OUVIR <verb.perception>
+ILI: 02108709
+
+Sense 2
+{02108709} <verb.perception> listen1, hear5, take heed -- (listen and pay attention; "Listen to your father"; "We must hear the expert before we make a decision")
+       => {00698305} <verb.cognition> concentrate, focus, center, centre, pore, rivet -- (direct one's attention on something; "Please focus on your studies and not on your hobbies")
+           => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

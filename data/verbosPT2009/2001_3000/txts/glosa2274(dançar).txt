@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA2274
+
+DADO O SYNSET:
+
+S='Glosa2274'
+	    {dançar: O morcego e a coruja começaram a I]dançar em cima de uma árvore, mas logo se cansaram e acabaram dormindo.,
+	      sapatear: [Sapateava um fadinho ao som do Hino Nacional, mal podendo ter-se nas pernas.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2274' = “movimentar em movimentos ritmados”
+	    {dançar: O morcego e a coruja começaram a I]dançar em cima de uma árvore.,
+	      sapatear: [Sapateava um fadinho ao som do Hino Nacional, mal podendo ter-se nas pernas.,}
+
+Chave: DANÇAR <verb.motion>
+ILI: 01840266
+
+
+Sense 1
+{01840266} <verb.motion> dance1 -- (move in a graceful and rhythmical way; "The young girl danced into the room")
+       => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right")

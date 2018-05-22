@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0164
+
+DADO O SYNSET:
+
+S='Glosa164'
+{agitar-se: A opinião pública dividida entre facções liberais e conservadoras, assistia e I]agitava- se numa intensa luta política através da imprensa.,
+bater-se: O povo do Iraque, herói coletivo, I]bate-se pela humanidade.,
+combater-se: Os socialistas se [combatem, prejudicando seu próprio ideal.,
+debater-se: Por isso, o martírio sem fim de pessoas que se justificam, se I]debatem, se culpam de atos anti-cristãos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa164' = “lutar ou enfrentar algo por um ideal, ou como na batalha”
+{agitar-se: A opinião pública dividida entre facções liberais e conservadoras, assistia e I]agitava- se numa intensa luta política através da imprensa.,
+bater-se: O povo do Iraque, herói coletivo, I]bate-se pela humanidade.,
+combater-se: Os socialistas se [combatem, prejudicando seu próprio ideal.,
+debater-se: Por isso, o martírio sem fim de pessoas que se justificam, se I]debatem, se culpam de atos anti-cristãos.,}
+Chave: COMBATER-SE <verb.competition>
+ILI: 01057546
+
+Sense 1
+{01057546} <verb.competition> battle, combat -- (battle or contend against in or as if in a battle; "The Kurds are combating Iraqi troops in Nothern Iraq"; "We must combat the prejudices against other races"; "they battled over the budget")
+       => {01055630} <verb.competition> fight, struggle -- (be engaged in a fight; carry on a fight; "the tribesmen fought each other"; "Siblings are always fighting")

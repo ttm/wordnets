@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA1062
+
+DADO O SYNSET:
+
+S='Glosa1062'
+{divulgar: O Michael Jackson adora o Brasil, os brasileiros e não precisa dar meia volta no mundo para [divulgar que existem favelas no Rio. # A partir de hoje, a secretaria de Saúde [divulgará boletins diários com o número de casos registrados, como fez com a cólera e com a meningite,
+ propagar: É fundamental [propagar o conhecimento nessa área.,
+ rolar1: Acho que deveriam I]rolar informações atualizadas sobre eventos na cidade.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1062' = “tornar conhecido à informação pública aquilo que era anteriormente conhecido apenas por poucas pessoas ou que deveria ser guardado como segredo”
+{divulgar: A partir de hoje, a secretaria de Saúde [divulgará boletins diários com o número de casos registrados, como fez com a cólera e com a meningite.,
+ propagar: É fundamental [propagar o conhecimento nessa área.,
+ rolar1: Também já I]rolaram boatos de fechamento do lugar, mas ele continua lá, há 26 anos.,}
+Chave: DIVULGAR <verb.communication> 
+ILI: 00903103
+
+Sense 1
+{00903103} <verb.communication> disclose, let on, bring out6, reveal, discover4, expose1, divulge, impart, break, give away, let out -- (make known to the public information that was previously known only to a few people or that was meant to be kept a secret; "The auction house would not disclose the price at which the van Gogh had sold"; "The actress won't reveal how old she is"; "bring out the truth"; "he broke the news to her")
+       => {00920928} <verb.communication> tell -- (let something be known; "Tell them that you will be late")
+           => {00804489} <verb.communication> inform -- (impart knowledge of some fact, state or affairs, or event to; "I informed him of his rights")
+               => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                   => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                       => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

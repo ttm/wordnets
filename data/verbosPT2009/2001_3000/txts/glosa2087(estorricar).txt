@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA2087
+
+DADO O SYNSET:
+	
+S='Glosa2087'
+    	{estorricar: Os olhos vazios miravam o silêncio coalhado da praça, a solidão do descampado às três horas da tarde, o céu de verão sem nuvens, o sol I]estorricando a terra, reverberando nas paredes brancas, os burricos peados junto ao cruzeiro.,
+      	 esturrar: x,
+      	 torrar: O milho I]torrou no sol e, antes que morresse, caiu uma chuva tão forte que apareceram ratos e devastaram os campos.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2087' = “ficar tostado ou queimado sob calor intenso ou condições secas” 
+    	{estorricar: A plantação I]estorricou.,
+      	 estorricar-se: O sertão se I]estorricou.,
+ torrar: O milho I]torrou no sol e, antes que morresse, caiu uma chuva tão forte que apareceram ratos e devastaram os campos.}
+Chave: ESTORRICAR <verb.change>
+ILI: 00212128
+
+Sense 5
+{00212128} <verb.change> scorch4 -- (become scorched or singed under intense heat or dry conditions; "The exposed tree scorched in the hot sun")
+       => {00211934} <verb.change> dry, dry out -- (become dry or drier; "The laundry dries in the sun")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

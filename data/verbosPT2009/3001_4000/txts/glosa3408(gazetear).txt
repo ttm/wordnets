@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA3408
+
+DADO O SYNSET:
+
+S='Glosa3408'
+	    {
+	      enforcar: A professora Edinéia Alves Nogueira pretende [enforcar o trabalho hoje para esticar o feriado.,
+	      gazear1: A mãe, viúva, com alguma cousa de seu, adorava o filho e trazia-o amimado, asseado, enfeitado, com um vistoso pajem atrás, um pajem que nos deixava I]gazear a escola.,
+	      gazetear: Agostinho não foi propriamente um bom aluno; freqüentemente era espancado por I]gazetear e principalmente por detestar a língua grega.,
+	      matar: Quem não I]matou aula na vida não teve infância.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3408' = “ser preguiçoso ou ocioso”
+	     {enforcar: Pelo menos meia dúzia de assessores do prefeito I]enforcou o trabalho em parte da manhã de ontem para engrossar o grupo que recepcionou Arnaldo Jardim.,
+	      gazear1: Sempre deu trabalho à mãe, I]gazeava aula, todo ano ficava reprovada.,
+	      gazetear: Também I]gazeteava o tempo do trabalho para tocar acordeon debaixo de uma árvore.,
+	      matar: A maioria da classe I]matou aula naquele dia.,}
+Chave: GAZETEAR <verb.stative>
+ILI: 02561138
+
+Sense 1
+{02561138} <verb.stative> bum, bum around, bum about, arse around, arse about, fuck off, loaf1, frig around, waste one's time, lounge around, loll, loll around, lounge about -- (be lazy or idle; "Her son is just bumming around all day")
+       => {02344466} <verb.social> idle, laze, slug, stagnate -- (be idle; exist in a changeless situation; "The old man sat and stagnated on his porch"; "He slugged in bed all morning")

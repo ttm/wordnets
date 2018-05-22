@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA2459
+
+DADO O SYNSET:
+
+S='Glosa2459'
+	    {atrair: A descoberta de ouro no interior da África do Sul [atraiu os ingleses.,
+	      convidar: Depois de denunciar o caráter grotesco do fanatismo religioso nas gravuras anteriores dos Caprichos Enfáticos, Goya nos convida nessa imagem a criticar tanto os excessos do niilismo absoluto quanto a féirracional.,
+	      impelir: Acha-se nas garras de uma vis interpretativa cujo poder compulsivo o [impele a refletir mais sobre crítica do que sobre leitura.,
+	      induzir: Qualquer apresentação que [induza o consumidor ao erro é considerada propaganda enganosa.,
+	      instigar: Mas, até mesmo pela simplicidade e pela lógica de seus argumentos, o livro [instiga o leitor a teorizar por conta própria.,
+	      levar: O tom poético, porém, não foi suficiente para [levar todos os premiados até o Municipal.,
+	      solicitar: Mas a ambigüidade é precisamente o que [solicita a imaginação e a criatividade.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2459' = “Fazer agir de uma maneira específica.”
+	    {atrair: O resultado foi um forte awareness e [atraiu muitos interessados à loja.,
+	      convidar: O jornal [convidou os leitores a apontar o problema que o próximo governador de São Paulo precisa enfrentar imediatamente e qual contribuição tem para solucioná-lo.,
+	      impelir: Acha-se nas garras de uma vis interpretativa cujo poder compulsivo o [impele a refletir mais sobre crítica do que sobre leitura.,
+	      induzir: Qualquer apresentação que [induza o consumidor ao erro é considerada propaganda enganosa.,
+	      instigar: O livro [instiga o leitor a teorizar por conta própria.,
+	      levar: Essa conscientização I]levou o consumidor a assumir uma atitude mais crítica em relação às suas opções de consumo.,
+	      solicitar: O passado de glória A]solicitava o ex-guerreiro a novas batalhas.,}
+
+Chave: INDUZIR <verb.communication>
+ILI: 00744964
+
+Sense 2
+{00744964} <verb.communication> induce, stimulate1, cause, have, get, make -- (cause to do; cause to act in a specified manner; "The ads induced me to buy a VCR"; "My children finally got me to buy a computer"; "My wife made me buy a new sofa") 

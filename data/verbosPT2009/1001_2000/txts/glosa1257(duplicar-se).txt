@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA1257
+
+DADO O SYNSET:
+
+S='Glosa1257'
+{desdobrar-se: Estabeleceu a divisão das Obras Completas em cinqüenta volumes, cada um dos quais podendo I]desdobrar-se em mais de um tomo.,
+ duplicar-se: Elas se reproduzem principalmente dividindo-se em duas; em boas condições ambientais e com fartura de alimento, elas podem I]duplicar-se a cada 20 minutos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1257' = “aumentar duas vezes”
+{desdobrar-se: Inicialmente, o Tribunal funcionou em turma única, depois I]desdobrou-se em duas.,
+ duplicar-se: Elas se reproduzem principalmente dividindo-se em duas; em boas condições ambientais e com fartura de alimento, elas podem I]duplicar-se a cada 20 minutos.,}
+Chave: DUPLICAR-SE <verb.change>
+ILI: 00237930
+
+Sense 4
+{00237930} <verb.change> double, duplicate -- (increase twofold; "The population doubled within 50 years")
+       => {00239103} <verb.change> multiply, manifold1 -- (combine or increase by multiplication; "He managed to multiply his profits")
+           => {00147655} <verb.change> increase2 -- (make bigger or more; "The boss finally increased her salary"; "The university increased the number of students it admitted")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

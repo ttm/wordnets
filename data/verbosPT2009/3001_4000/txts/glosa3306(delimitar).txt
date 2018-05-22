@@ -1,0 +1,41 @@
+ANÁLISE DA GLOSA3306
+
+DADO O SYNSET:
+
+S='Glosa3306'
+	    {
+	      confinar: H] Confinar um bosque (numa tapada).,
+	      definir: Em 15 dias, a prefeitura vai [definir as áreas de foco.,
+	      delimitar: Utiliza-se uma armação de meio metro de comprimento por largura equivalente à da plataforma de corte da colheitadeira para [delimitar a área cujo desperdício será avaliado. ,
+	      delinear: Em casos de epicondilite, deve-se I]delinear a área mais sensível, com muito cuidado, e infiltrá-la com a suspensão.,
+	      demarcar: O ministro Nélson Jobim defendeu como prioridade rever o decreto do ex-presidente Fernando Collor, que dava amplos poderes à Funai para criar e [demarcar áreas indígenas. ,
+	      deslindar: A] Deslindar uma propriedade.,
+	      determinar: A indefinição do governo frente às regras para o financiamento da nova safra retarda a decisão do agricultor em [determinar a área a ser plantada e o volume de adubo necessário.,
+	      estremar: Seu objetivo primário era I]estremar as terras públicas e privadas, mas foi além disso.,
+	      limitar: Um muro, a [limitar imóveis urbanos e de reduzidas dimensões, não pode ser considerado como concluído se ainda lhe falta o reboco. ,
+	      lindar: Mandou H]lindar e cercar toda a área destinada ao pasto.,
+	      localizar: É onde entra o Ibama, colocando a fiscalização em campo para autuar e multar os pequenos e grandes proprietários que insistem em usar o fogo; é possível I]localizar até a propriedade. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3306' = “fixar, marcar ou desenhar os limites”
+	     {confinar: A força gravitacional do satélite I]confina o anel dando a ele uma borda nítida.,
+	      definir: Essa «Reconquista», como foi denominada posteriormente, [definiu o território de Portugal continental.,
+	      delimitar: Ibama I]delimita ecorregiões brasileiras. ,
+	      delinear: Pessoa, completando os estudos da Missão Cruls, I]delineou a área da futura capital entre os rios.,
+	      demarcar: A Missão I]demarcou o quadrilátero estipulado na Constituição e fez o levantamento de sua fauna, flora, topografia, clima e geologia. ,
+	      deslindar: A] Deslindar uma propriedade.,
+	      determinar: Esteves (1995) I]determinou a área de mangue desmatada para construção de um curral em São Gonçalo, como de aproximadamente 560 m2.,
+	      estremar: Seu objetivo primário era I]estremar as terras públicas e privadas, mas foi além disso.,
+	      limitar: Fidel Castro, em 1959, I]limitou a propriedade rural em 67 hectares. ,
+	      lindar: Mandou H]lindar e cercar toda a área destinada ao pasto.,
+	      localizar: A fazenda I]localiza-se mais ou menos 18 km de Dublin com linha regular de ônibus passando no portão de entrada, mercados e bares. ,}
+Chave: DELIMITAR <verb.cognition>
+ILI: 00706122
+
+Sense 3
+{00706122} <verb.cognition> demarcate, delimit, delimitate -- (set, mark, or draw the boundaries of something)
+       => {00227757} <verb.change> limit, circumscribe, confine1 -- (restrict or confine, "I limit you to two visits to the pub a day")
+           => {00428838} <verb.change> decrease1, lessen2, minify -- (make smaller; "He decreased his staff")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

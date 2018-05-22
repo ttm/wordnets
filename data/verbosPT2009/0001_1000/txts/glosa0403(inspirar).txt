@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA0403
+
+DADO O SYNSET:
+
+S='Glosa403'
+{bafejar: O insulamento dos meus derradeiros anos nada tinha de desesperador, porquanto me I]bafejava a fé no futuro e na misericórdia de Deus.,
+inspirar: Foram eles os que engendraram e [inspiraram a pobres comediantes ambulantes um jogo cênico que dizia e ridicularizava essa miséria.,
+transmitir: A cabeça abaixada oculta seu rosto, ao mesmo tempo que [transmite um sentimento de resignação e impotência.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa403' = “estimular, incentivar ou encorajar”
+{bafejar: O insulamento dos meus derradeiros anos nada tinha de desesperador, porquanto me I]bafejava a fé no futuro e na misericórdia de Deus.,
+inspirar: Foram eles os que engendraram e [inspiraram a pobres comediantes ambulantes um jogo cênico que dizia e ridicularizava essa miséria.,
+transmitir: A cabeça abaixada oculta seu rosto, ao mesmo tempo que [transmite um sentimento de resignação e impotência.,}
+Chave: INSPIRAR <verb.communication>
+ILI: 00830808
+
+Sense 4
+{00830808} <verb.communication> cheer1, inspire1, urge1, barrack1, urge on1, exhort1, pep up -- (urge on or encourage especially by shouts; "The crowd cheered the demonstrating strikers")
+       => {01765364} <verb.emotion> encourage -- (inspire with confidence; give hope or courage to)
+           => {01760213} <verb.emotion> inspire, animate, invigorate, enliven, exalt -- (heighten or intensify; "These paintings exalt the imagination")
+               => {01710864} <verb.emotion> stimulate, shake, shake up, excite, stir1 -- (stir the feelings, emotions, or peace of; "These stories shook the community"; "the civil war shook the country")
+                   => {01708538} <verb.emotion> arouse, elicit, enkindle, kindle, evoke, fire, raise8, provoke -- (call forth (emotions, feelings, and responses); "arouse pity"; "raise a smile"; "evoke sympathy")
+                       => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

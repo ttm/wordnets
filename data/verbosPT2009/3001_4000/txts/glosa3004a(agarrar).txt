@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA3004a
+
+DADO O SYNSET:
+
+S='Glosa3004'
+	    {aferrar: H]Aferrou o gatuno pelo ombro.,
+	      agarrar: Ele I]agarrou o meu braço e me puxou e então saímos correndo sem nunca olhar para trás. ,
+	      atracar: x,
+	      ferrar: H]Ferrou alguém pelo braço.,
+	      garrear: x,
+	      pegar: O comerciante foi até seu Passat, [pegou o macaco e entregou ao homem.,
+	      prender: Vendo a atitude de Mulder, Krycek sacou a arma e foi atrás dele, prendendo-o pelo braço e encostando a arma em suas costelas. ,
+	      segurar: O Menino ainda [segurando suas pernas, não deixou que ele se virasse.,
+	      tomar: Vamos para a missa, ordenou Ovalle, [tomando-o pelo braço. ,
+	      travar: Com a mão esquerda, o cara I]travou o braço do Jonesy.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3004a' = “segurar firmemente” 
+	    {aferrar: H]Aferrou o gatuno pelo ombro.,
+	      agarrar: Ele I]agarrou o meu braço e me puxou e então saímos correndo sem nunca olhar para trás. ,
+	      ferrar: H]Ferrou alguém pelo braço.,
+	      prender: Vendo a atitude de Mulder, Krycek sacou a arma e foi atrás dele, prendendo-o pelo braço e encostando a arma em suas costelas. ,
+	      segurar: O Menino ainda [segurando suas pernas, não deixou que ele se virasse.,
+	      tomar: Vamos para a missa, ordenou Ovalle, [tomando-o pelo braço. ,
+	      travar: Com a mão esquerda, o cara I]travou o braço do Jonesy.,}
+Chave: AGARRAR <verb.contact>
+ILI: 01179249
+
+Sense 1
+{01179249} <verb.contact> grasp, hold on -- (hold firmly)
+       => {01179760} <verb.contact> hold, take hold -- (have or hold in one's hands or grip; "Hold this bowl for a moment, please"; "A crazy idea took hold of him")

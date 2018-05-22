@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA
+
+DADO O SYNSET:
+
+S='Glosa1107'
+{abandonar: A cem metros da embaixada dos EUA, os jornalistas foram obrigados a [abandonar o tenente.,
+ desabrigar: As ressacas, comuns em agosto, [desabrigaram 15 famílias em Olinda em 93,
+ desamparar: A sociedade [desampara as mulheres carentes no trabalho de criarem os filhos,
+ desproteger: Nenhum macaco jamais I]desprotegeu sua fêmea ou deixou seus bebês famintos ou arruinou a vida deles,}
+	  
+A='Glosa179'
+	    {amparar, auxiliar, defender, proteger, socorrer}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1107' = “abandonar alguém que depende de você” 
+{abandonar: O Daily Mirror entrevistou seu pai - que o abandonou antes do nascimento.,
+ desabrigar: Empresário assassino I]desabrigou a ex-mulher.,
+ desamparar: A sociedade [desampara as mulheres carentes no trabalho de criarem os filhos.,
+ desproteger: Nenhum macaco jamais I]desprotegeu sua fêmea ou deixou seus bebês famintos ou arruinou a vida deles.,}
+A='Glosa179'
+	    {amparar, auxiliar, defender, proteger, socorrer}
+Chave: DESAMPARAR <verb.cognition> 
+ILI: 00594081
+
+Sense 1
+{00594081} <verb.cognition> abandon, forsake, desolate, desert -- (leave someone who needs or counts on you; leave in the lurch; "The mother deserted her children")
+       => {00593707} <verb.cognition> leave5 -- (go and leave behind, either intentionally or by neglect or forgetfulness; "She left a mess when she moved out"; "His good luck finally left him"; "her husband left her after 20 years of marriage"; "she wept thinking she had been left behind") 

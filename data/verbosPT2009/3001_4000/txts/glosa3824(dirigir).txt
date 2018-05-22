@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA3824
+
+DADO O SYNSET:
+
+S='Glosa3824'
+{dirigir: O motorista que usa o cinto de segurança certamente é uma mulher de meia-idade, com alto nível de educação e poder econômico, [dirige um carro novo, pratica atividades saudáveis, como esporte e cultura física, está realizada no seu trabalho e de bem com a vida e jamais comete atitudes de alto risco ao volante.,
+	 guiar: Os testes terminam hoje e depois Senna só deve voltar a [guiar o carro novo no final de fevereiro.,
+	 pilotar: Muitos duvidaram que ele pudesse [pilotar um carro por uma pista molhada sem trocar de marchas.,
+	 pilotear: x }
+	
+A ANÁLISE RESULTA EM:
+
+S='Glosa3824' = “dirigir ou controlar um veículo”
+{dirigir: O motorista que usa o cinto de segurança certamente é uma mulher de meia-idade, com alto nível de educação e poder econômico, [dirige um carro novo, pratica atividades saudáveis, como esporte e cultura física, está realizada no seu trabalho e de bem com a vida e jamais comete atitudes de alto risco ao volante.,
+	 guiar: Os testes terminam hoje e depois Senna só deve voltar a [guiar o carro novo no final de fevereiro.,
+	 pilotar: Muitos duvidaram que ele pudesse [pilotar um carro por uma pista molhada sem trocar de marchas.}
+Chave: DIRIGIR <verb.motion>
+ILI: 01875026
+
+Sense 1 
+{01875026} <verb.motion> drive1 -- (operate or control a vehicle; "drive a car or bus"; "Can you drive this four-wheel truck?")
+       => {01187658} <verb.contact> operate, control -- (handle and cause to function; "do not operate machinery after imbibing alcohol"; "control the lever")
+           => {01174946} <verb.contact> manipulate -- (hold something in one's hands and move it)
+               => {01173984} <verb.contact> handle, palm -- (touch, lift, or hold with the hands; "Don't handle the merchandise")
+                   => {01169634} <verb.contact> touch -- (make physical contact with, come in contact with; "Touch the stone for good luck"; "She never touched her husband")

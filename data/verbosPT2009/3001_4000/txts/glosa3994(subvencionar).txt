@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA3994
+
+DADO O SYNSET:
+	
+S='Glosa3994'
+{prestacionar: A assistência social A]prestaciona famílias pobres.,
+ subvencionar: Na época, o governo suíço [subvencionava quem se dispusesse a encontrar alternativas para o abastecimento de açúcar, então interrompido .,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3994' = “dar suporte por meio de subsídios/subvenções” 
+{subvencionar: Na época, o governo suíço [subvencionava quem se dispusesse a encontrar alternativas para o abastecimento de açúcar, então interrompido.}
+Chave: SUBVENCIONAR <verb.possession>
+ILI: 02153141
+
+Sense 2
+{02153141} <verb.possession> subsidize, subsidise -- (support through subsidies; "The arts in Europe are heavily subsidized")
+       => {02155507} <verb.possession> support -- (support materially or financially; "he does not support his natural children"; "The scholarship supported me when I was in college")
+           => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+               => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children")

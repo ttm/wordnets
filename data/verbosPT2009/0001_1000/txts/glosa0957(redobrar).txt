@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0957
+
+DADO O SYNSET:
+
+S='Glosa957'
+{congeminar1: Os suspiros H]congeminavam pela sala.,
+dobrar: Os planos determinam os objetivos principais a serem alcançados, como por exemplo o plano de 1946-1950, que tinha como objetivo [dobrar a produção industrial. /As vendas [dobraram.,
+multiplicar: Poderíamos [multiplicar as citações, tiradas ao acaso de sua Defesa dos Direitos da Mulher.,
+redobrar: Para isso, é preciso [redobrar os esforços junto aos partidos, deixando claras as responsabilidades de cada um.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa957' = “aumentar, dobrar em magnitude, extensão ou intensidade”
+{dobrar: Os planos determinam os objetivos principais a serem alcançados, como por exemplo o plano de 1946-1950, que tinha como objetivo [dobrar a produção industrial. /As vendas [dobraram.,
+multiplicar: Poderíamos [multiplicar as citações, tiradas ao acaso de sua Defesa dos Direitos da Mulher.,
+redobrar: Para isso, é preciso [redobrar os esforços junto aos partidos, deixando claras as responsabilidades de cada um.}
+Chave: REDOBRAR <verb.change>
+ILI: 00281537
+
+Sense 1
+{00281537} <verb.change> redouble -- (double in magnitude, extent, or intensity; "The enemy redoubled their screaming on the radio")
+       => {00281258} <verb.change> escalate, intensify2, step up -- (increase in extent or intensity; "The Allies escalated the bombing")
+           => {00147655} <verb.change> increase2 -- (make bigger or more; "The boss finally increased her salary"; "The university increased the number of students it admitted")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

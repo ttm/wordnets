@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA1621
+
+DADO O SYNSET:
+
+S='Glosa1621'
+{dobrar: Arnold Schwarzenegger teve a honra de apresentar esta brilhante gala que pelo segundo ano rende homenagem aos heróis secretos da indústria cinematográfica, aqueles especialistas encarregados de I]dobrar as cenas perigosas nos filmes de acção.,
+ 	 dublar: A Disney gostou de ter colocado atores como Jeremy Iron, Whoopy Goldberg e Robin Williams para [dublar seus desenhos animados., }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1621' = “prover [filmes] com trilha sonora de uma língua estrangeira” 
+{dublar: Os franceses, com o intuito de ampliar sua clientela nos EUA, vão forçar outra porta para o mercado americano, [dublando seus filmes em inglês., }
+Chave: DUBLAR <verb.communication>
+ILI: 00928768
+
+Sense 2
+{00928768} <verb.communication> dub1 -- (provide (movies) with a soundtrack of a foreign language)
+       => {00928940} <verb.communication> synchronize, synchronise -- (make (motion picture sound) exactly simultaneous with the action; "synchronize this film")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

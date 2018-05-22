@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA3279
+
+DADO O SYNSET:
+
+S='Glosa3279'
+	    {
+	      inspecionar: Hoje me dou conta da minha inocência, diante do desmazelo de uma entidade que nem cuidou de [inspecionar os estádios para verificar a segurança.,
+	      inspetar: Se a medida for aprovada, os promotores terão livre acesso para I]inspetar estabelecimentos e unidades policiais militares e civis.,
+	      lealdar: x,
+	      visitar: Vou voltar a andar pelas ruas, para ter mais contato com o povo, afirmou o governador, revelando que pretende [visitar todos os meses as obras do governo estadual, como a expansão do Metrô. ,
+	      vistoriar: Vou [vistoriar o lixão para ver de perto a situação.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3279' = “ir para ver em capacidade oficial ou profissional”
+	     {inspecionar: IBPC [inspeciona obra em palácio do Pará.,
+	      inspetar: Se a medida for aprovada, os promotores terão livre acesso para I]inspetar estabelecimentos e unidades policiais militares e civis.,
+	      visitar: O prefeito Ricardo Henry I]visitou a obra na manhã de ontem, acompanhado pelo vereador Célio Silva. ,
+	      vistoriar: Antes de anunciar a mudança, Cerqueira [vistoriou algumas dependências do prédio-sede da Polícia Civil.,}
+Chave: INSPECIONAR <verb.motion>
+ILI: 01790497
+
+Sense 2
+{01790497} <verb.motion> visit1, inspect -- (come to see in an official or professional capacity; "The governor visited the prison"; "The grant administrator visited the laboratory")

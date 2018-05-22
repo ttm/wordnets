@@ -1,0 +1,39 @@
+ANÁLISE DA GLOSA1834
+
+DADO O SYNSET:
+
+S='Glosa1834'
+{abalançar: O sentimento cívio A]abalançou-o a apresentar-se como voluntário.,
+ abalar: O ódio A]abalou-o a praticar o crime.,
+ alimentar: O ritmo dos preços saltava dez pontos a cada mês e [alimentava a expectativa de uma hiperinflação cada vez mais próxima. # M]Alimentava a ambição do filho.,
+ atiçar: H]Atiçou-o para fazer vestibular. ,
+ ensementar: x,
+ estimular: M]Estimulei-o a inscrever-se no concurso.#  Com isso apenas conseguiu [estimular o desejo da filha, juntando aos atrativos do belo rapaz mais um, não poderoso o da proibição. ,
+ fomentar: A TV também contribui para [fomentar a violência quando só mostra nêgo (sic) atirando, matando.,
+ impelir: Sempre em silêncio e ativamente, para não perder aquele raro estímulo de vontade que o [impelia, foi examinando o lixo com o pé.,
+ impulsar: A necessidade e a curiosidade H]impulsam a inteligência.,
+ impulsionar: Logo em seguida ao parto, a criança passa por alguns exames que, curiosamente, [impulsionaram as pesquisas sobre dor em recém-nascidos.,
+ nutrir: Não se trata de ignorar a condenação de 14 criminosos, mas de ressaltar que não se deve [nutrir ilusões (como fizeram muitos) de que isso possa jamais solucionar a questão do bicho.,
+ promover: João Paulo II declarou que o nome de Deus jamais deve ser utilizado para "incitar a violência ou o terrorismo, nem para I]promover ódio e exclusão".,
+ semear: Na Alemanha, os nazistas começam a I]semear o ódio ao povo judeu.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1834' = “contribuir para o progresso ou desenvolvimento [de]”
+{abalançar: A dominância dos pressupostos positivistas e o acentuado desenvolvimento das ciências biomédicas conferiram à medicina uma auto-confiança que a I]abalançou a abrir várias frentes de intervenção.,
+ alimentar: O ritmo dos preços saltava dez pontos a cada mês e [alimentava a expectativa de uma hiperinflação cada vez mais próxima.,
+ atiçar: Mas ela conseguiu o melhor dele, I]atiçando-o a falar o que estava em seu coração.,
+ estimular: Com isso apenas conseguiu [estimular o desejo da filha, juntando aos atrativos do belo rapaz mais um, não poderoso o da proibição. ,
+ fomentar: A TV também contribui para [fomentar a violência quando só mostra nêgo (sic) atirando, matando.,
+ impelir: Sempre em silêncio e ativamente, para não perder aquele raro estímulo de vontade que o [impelia, foi examinando o lixo com o pé.,
+ impulsar: Este processo de mitificação I]impulsou os grupos a adotarem procedimentos e práticas que foram, em última análise, grandes responsáveis pelo ressurgimento do teatro de rua no Brasil.,
+ impulsionar: Logo em seguida ao parto, a criança passa por alguns exames que, curiosamente, [impulsionaram as pesquisas sobre dor em recém-nascidos.,
+ nutrir: Não se trata de ignorar a condenação de 14 criminosos, mas de ressaltar que não se deve [nutrir ilusões (como fizeram muitos) de que isso possa jamais solucionar a questão do bicho.,
+ promover: João Paulo II declarou que o nome de Deus jamais deve ser utilizado para "incitar a violência ou o terrorismo, nem para I]promover ódio e exclusão".,
+ semear: Na Alemanha, os nazistas começam a I]semear o ódio ao povo judeu.,}
+Chave: PROMOVER <verb.social>
+ILI: 02479351
+
+Sense 1
+{02479351} <verb.social> promote1, advance1, boost, further, encourage -- (contribute to the progress or growth of; "I am promoting the use of computers in the classroom")
+       => {02480483} <verb.social> support, back up -- (give moral or psychological support, aid, or courage to; "She supported him during the illness"; "Her children always backed her up")

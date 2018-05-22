@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA2005
+
+DADO O SYNSET:
+	
+S='Glosa2005'
+    	{abrir: Ele I]abriu lugar também para as outras cores da pele como o negro eo mulato.,
+      	 dar: O romantismo da rede I]deu lugar a um pragmatismo por vezes chato. ,
+      	 escancarar: x,
+      	 espamparar: x,
+      	 facultar: Sua experiência de levar a linguagem a um todo de verdade que se relacionava diretamente com a vida, I]facultou-lhe lugar garantido na história da literatura.,
+      	 franquear: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2005' = “tornar disponível”
+    	{abrir: Ele I]abriu lugar também para as outras cores da pele como o negro e o mulato.,
+      	 dar: O romantismo da rede I]deu lugar a um pragmatismo por vezes chato. ,
+      	 facultar: Sua experiência de levar a linguagem a um todo de verdade que se relacionava diretamente com a vida, I]facultou-lhe lugar garantido na história da literatura.}
+Chave: ABRIR <verb.change>
+ILI: 00525570
+
+Sense 3
+{00525570} <verb.change> open, open up -- (make available; "This opens up new possibilities")
+       => {02271697} <verb.possession> yield2, give5, afford -- (be the cause or source of; "He gave me a lot of trouble"; "Our meeting afforded much interesting information")
+           => {02259805} <verb.possession> supply, provide, render2, furnish -- (provide or furnish with; "We provided the room with an electrical heater")
+               => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+                   => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children")

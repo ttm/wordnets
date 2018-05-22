@@ -1,0 +1,38 @@
+ANÁLISE DA GLOSA0072
+
+DADO O SYNSET:
+
+S='Glosa72'
+{adinamizar: x,
+alquebrar: Os desgostos H]alquebraram-lhe as forças.,
+aquebrantar: Sinto saudades dos teus filhos, das nossas risadas, dos nossos choros, da nossa amizade que a traição I]aquebrantou.,
+cansar: E com vivíssima saudade, tinha o desafogo de arrancar do peito magoadíssimos suspiros; e quando I]cansava o triste espírito, adormecia.,
+debilitar: Mas o pecado original, ao qual depois foram acrescentados os nossos erros pessoais, obscureceu o nosso olhar e I]debilitou a nossa vontade. ,
+deprimir: Os sacerdotes aprisionam as almas, a política I]deprime o caráter e a ciência balofa entenebrece.,
+derrear: O divórcio H]derreou-o.,
+desvigorar: A vida de boêmio H]desvigorou aquele cantor.,
+desvigorizar: x,
+enfraquecer: Você fortalece alguém, quando ajuda um pouco. Mas você I]enfraquece alguém, se ajuda muito.,
+extenuar: Um labor ingrato, titânico, que [extenua a alma, que nos deixa acabrunhados ao anoitecer de hoje, para recomeçar com o dia de amanhã.,
+prostrar: A perda do pai o H]prostrou.,
+quebrantar: Os sons plangentes do órgão impressionariam a delicada sensibilidade nervosa da afilhada e [quebrantariam o seu animo altaneiro, predispondo-a para a confissão.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa72' = “diminuir a força”
+{alquebrar: Ao insistir num meio-campo extra-leve e ainda sem Émerson, I]alquebrou um setor já derrubado pelo cansaço.,
+aquebrantar: Sinto saudades dos teus filhos, das nossas risadas, dos nossos choros, da nossa amizade que a traição I]aquebrantou.,
+cansar: E com vivíssima saudade, tinha o desafogo de arrancar do peito magoadíssimos suspiros; e quando I]cansava o triste espírito, adormecia.,
+debilitar: Mas o pecado original, ao qual depois foram acrescentados os nossos erros pessoais, obscureceu o nosso olhar e I]debilitou a nossa vontade. ,
+deprimir: Os sacerdotes aprisionam as almas, a política I]deprime o caráter e a ciência balofa entenebrece.,
+derrear: No I]derrear de meu ser pesa meu corpo sobre os pés deste então, nos momentos que trago.,
+enfraquecer: Você fortalece alguém, quando ajuda um pouco. Mas você I]enfraquece alguém, se ajuda muito.,
+extenuar: Um labor ingrato, titânico, que [extenua a alma, que nos deixa acabrunhados ao anoitecer de hoje, para recomeçar com o dia de amanhã.,
+prostrar: É impossível descrever-te o que se passou então em mim; foi um desespero mudo e concentrado, mas que me [prostrou em uma atonia profunda; foi uma angústia pungente e cruel .,
+quebrantar: Os sons plangentes do órgão impressionariam a delicada sensibilidade nervosa da afilhada e [quebrantariam o seu animo altaneiro, predispondo-a para a confissão.,}
+Chave: ENFRAQUECER <verb.change>
+ILI: 00217329
+
+Sense 1
+{00217329} <verb.change> weaken1 -- (lessen the strength of; "The fever weakened his body")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA3115
+
+DADO O SYNSET:
+
+S='Glosa3115'
+	    {
+	      colocar-se: Seu diretor Comercial, Barry Henderson, contou no seminário que o veículo conseguiu rapidamente I]colocar-se no mercado, sendo elogiado como inovador. ,
+	      estabelecer-se: Era estimado e respeitado por todos que vinham, confiados na sua vizinhança, [estabelecer-se por esses lugares. ,
+	      fixar-se: E ela oferece diversos incentivos fiscais para as firmas que desejarem ali se [fixar.,
+	      implantar-se: Entre os colaboradores desta parte, estão Abel Aganbeguian, assessor de Gorbatchev e um dos formuladores da perestroika, que discute as dificuldades de se [implantar um sistema de mercado. ,
+	      instalar-se: Além disso, várias empresas vão se [instalar na cidade para funcionar em torno do Centro de Treinamento.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3115' = “instalar-se ou colocar uma infra-estrutura”
+	     {colocar-se: O Brasil, que se consagra como uma potência agrícola, I]coloca-se no mercado mundial em condições de atender à demanda local e mesmo promover a exportação.,
+	      estabelecer-se: A crônica brasileira I]estabeleceu-se no momento em que os jornais adquiriram caráter de empresa industrial. ,
+	      fixar-se: A empresa I]fixou-se no mercado atuando em diversos ramos da contrução civil com obras públicas, comerciais e industriais.,
+	      implantar-se: A exuberância do Barroco espanhol I]implantou-se no México, Peru, Equador, Bolívia e outros paises da América Latina com mais ou menos vigor. ,
+	      instalar-se: A Toyota I]instalou-se no estado de São Paulo em 1958.,}
+Chave: ESTABELECER-SE <verb.creation>
+ILI: 01600394
+
+Sense 2
+{01600394} <verb.creation> establish, found, plant, constitute, institute1 -- (set up or lay the groundwork for; "establish a new department")
+       => {01595277} <verb.creation> initiate, pioneer1 -- (take the lead or initiative in; participate in the development of; "This South African surgeon pioneered heart transplants")
+           => {01598809} <verb.creation> cause, do2, make8 -- (give rise to; cause to happen or occur, not always intentionally; "cause a commotion"; "make a stir"; "cause an accident")
+               => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

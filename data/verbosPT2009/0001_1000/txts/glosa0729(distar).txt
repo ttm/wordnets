@@ -1,0 +1,18 @@
+ANÁLISE DA GLOSA0729
+
+DADO O SYNSET:
+
+S='Glosa729'
+{distar: Em lugares como Mala Mala, Sabi-Sabi e Kirkman' s, há propriedades que [distam cerca de 500 km a nordeste de Johannesburgo. ,
+ir: De São Paulo ao Rio M]vão cerca de quinhentos quilômetros.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa729' = “estar, ficar, ser distante”
+{distar: Em lugares como Mala Mala, Sabi-Sabi e Kirkman' s, há propriedades que [distam cerca de 500 km a nordeste de Johannesburgo.,}
+Chave: DISTAR <verb.stative>
+ILI: 02602279
+
+Sense 1
+{02602279} <verb.stative> distance -- (keep at a distance; "we have to distance ourselves from these events in order to continue living")
+       => {02600965} <verb.stative> keep, maintain, hold -- (keep in a certain state, position, or activity; e.g., "keep clean"; "hold in place"; "She always held herself as a lady"; "The students keep me on my toes")

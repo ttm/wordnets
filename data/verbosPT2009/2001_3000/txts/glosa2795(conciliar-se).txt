@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA2795
+
+DADO O SYNSET:
+
+S='Glosa2795'
+	    {avir-se: H]Avieram-se após longa conversa.,
+	      compor-se: No bojo da cobrança extrajudicial do débito, devedor e comprador I]compuseram-se amigavelmente, pactuando novamente a dívida.,
+	      conciliar-se: I]Conciliaram-se 17 anos depois, numa cena com direito a abraços e lágrimas. ,
+	      congraçar-se: Sem dúvida, os analistas políticos sustentam que, diante dessa possibilidade e considerando que seu irmão Jeb tentará este ano a reeleição como governador da Flórida, o presidente Bush quer I]congraçar-se com o exílio cubano. ,
+	      consociar-se: As facções dissidentes A]consociaram-se.,
+	      engraçar-se: A  criança H]engraçou-se com as outras no parque.,
+	      harmonizar-se: I]Harmonizar-se com o seu par e com as pessoas em geral será importante. ,
+	      recompor-se: M]Recompuseram-se os amigos que até então andavam desavindos. ,
+	      reconciliar-se: E antes de romper com os Girondinos, procurou longamente I]reconciliar-se com os Montanheses.,
+	      recongraçar-se: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2795' = “Chegar a um acordo”
+	    {avir-se: Lá I]se avenham com o mundo, que é o titereiro-mor de tais bonecos.,
+	      compor-se: No bojo da cobrança extrajudicial do débito, devedor e comprador I]compuseram-se amigavelmente, pactuando novamente a dívida.,
+	      conciliar-se: I]Conciliaram-se 17 anos depois, numa cena com direito a abraços e lágrimas.,
+	      congraçar-se: As duas famílias I]se congraçaram em festas.,
+	      harmonizar-se: Os amigos da prefeita I]harmonizaram-se perfeitamente com integrantes do PT. ,
+	      recompor-se: Pouco a pouco eles I]se recompuseram.,
+	      reconciliar-se: Enquanto isso, em Minas, Olegário Maciel e os adeptos da Legião Liberal I]reconciliaram-se com o PRM de Artur Bernardes.,}
+
+Chave: CONCILIAR-SE <verb.communication>
+ILI: 00739766
+
+Sense 2
+{00739766} <verb.communication> reconcile, patch up, make up, conciliate, settle2 -- (come to terms; "After some discussion we finally made up")
+       => {00779329} <verb.communication> agree, hold15, concur, concord -- (be in accord; be in agreement; "We agreed on the terms of the settlement"; "I can't agree with you!"; "I hold with those who say life is sacred"; "Both philosophers concord on this point") 

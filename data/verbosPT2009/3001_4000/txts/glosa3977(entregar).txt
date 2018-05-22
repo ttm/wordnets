@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA3977
+
+DADO O SYNSET:
+
+S='Glosa3977'
+{apresentar: O autor não I]apresentou a credencial sindical, sendo, portanto, impossível o acolhimento de sua pretensão.,
+ entregar: O secretário I]entregou a Carta Constitutiva.,
+ presentar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3977' = “entregar [algo] formalmente” 
+{apresentar: O autor não I]apresentou a credencial sindical, sendo, portanto, impossível o acolhimento de sua pretensão.,
+ entregar: O secretário I]entregou a Carta Constitutiva.}
+Chave: ENTREGAR <verb.possession>
+ILI: 02197331
+
+Sense 4
+{02197331} <verb.possession> present1, submit -- (hand over formally)
+       => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+           => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children")

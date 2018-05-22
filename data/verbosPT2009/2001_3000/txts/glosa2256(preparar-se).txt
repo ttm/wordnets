@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA2256
+
+DADO O SYNSET:
+
+S='Glosa2256'
+	    {aparelhar-se: Sofia [aparelhou-se para recebê-lo.,
+	      aperceber-se: Na mesma hora I]aperceberam-se para a temerária tentativa, e puseram-se a caminho.,
+	      aprestar-se: Contempla entristecido os bois sucumbidos e, sem duvidar da Providência que o esmaga, [apresta-se ao sacrifício.,
+	      aprontar-se: Em poucos dias [aprontou-se e foi tomar posse do emprego.,
+	      dispor-se: [Dispuseram-se para a nova festa que ia principiar. ,
+	      ordenar-se: Vai indo, [ordena-se para o ano, respondeu tio Cosme.,
+	      preparar-se: O governo procurou [preparar-se convenientemente para a agressão comunista.,
+	      ultimar-se: M]Ultimem-se todos, que já estamos na hora., }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2256' = “ficar pronto ou apropriado para uma certa situação ou evento”
+	    {aparelhar-se: Sofia [aparelhou-se para recebê-lo.,
+	      aperceber-se: Na mesma hora I]aperceberam-se para a tentativa, e puseram-se a caminho.,
+	      aprestar-se: Contempla entristecido os bois sucumbidos e [apresta-se ao sacrifício.,
+	      aprontar-se: Em poucos dias [aprontou-se e foi tomar posse do emprego.,
+	      dispor-se: [Dispuseram-se para a nova festa que ia principiar. ,
+	      ordenar-se: Vai indo, [ordena-se para o ano, respondeu tio Cosme.,
+	      preparar-se: O governo procurou [preparar-se convenientemente para a agressão comunista.,
+	      ultimar-se: M]Ultimem-se todos, que já estamos na hora.,}
+
+Chave: PREPARAR-SE <verb.change>
+ILI: 00394129
+
+Sense 1
+{00394129} <verb.change> fix3, prepare, set up2, ready, gear up, set9 -- (make ready or suitable or equip in advance for a particular purpose or for some use, event, etc; "Get the children ready for school!"; "prepare for war"; "I was fixing to leave town after I paid the hotel bill")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

@@ -1,0 +1,39 @@
+ANÁLISE DA GLOSA2778
+
+DADO O SYNSET:
+
+  S='Glosa2778'
+	    {condenar: A ex-mulher do banqueiro de bicho Castor de Andrade, Ana Cristina Bastos Moreira, vai integrar o rol de testemunhas de acusação que poderá [condenar os bicheiros por corrupção passiva e 58 delegados de polícia por corrupção ativa.,
+	      incriminar: Vamos [incriminar os responsáveis e levá-los para a cadeia.,
+	      inculpar: Que mais não seja, a partir de apenas 118 fragmentos de ossos não se pode [inculpar 24 garimpeiros.,
+	      recriminar: O dado ideológico, o comprometimento do escritor, torna-se eloqüente no romance, quando ainda Saramago dá a entender que, enquanto os governos europeus [recriminam Portugal e Espanha, as massas apóiam-nos com veemência.,}
+
+	  A='Glosa1822'
+	    {absolver: E certamente não terá como recuar num segundo julgamento - e por isso o símbolo não é inútil,pois terá resultado prático - muito menos haverá juiz neste país disposto a [absolver aqueles a quem as provas atribuirem indubitável culpa.,
+	     desculpar: Podia-se aparentemente esquecer que Pauline aceitara participar em uma farsa pública para [desculpar seu homem, e pior ainda que ela devia então querer seguir vivendo com o assassino de sua filha.,
+	     exculpar: O senhor tem se dedicado nos últimos tempos a I]exculpar de toda a responsabilidade o Exército do Chile e seu Comandante em Chefe pela morte de seu pai. ,
+	     ilibar: Uns e outros com as suas fabulosas máquinas de "informar" esforçam-se por I]ilibar os acusados amigos, pressionando a justiça e manipulando a opinião pública.,
+	     inocentar: Em sua entrevista, Borjão procurou também [inocentar o tenente Marcelo Côrtes e o soldado Cláudio Luiz dos Santos.,
+	     perdoar: Mas parece que Hannah já o [perdoara quando a opinião pública começava a se escandalizar com a profundidade do envolvimento de Heidegger com o nazismo.,
+	     purificar: O PMDB tenta se I]purificar das manchas de fisiologismo e de corrupção.,
+	     reabilitar: Justiça decide [reabilitar Amílcar Lobo.,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2778' = “Atribuir responsabilidade a”
+	    {condenar: A Justiça argentina I]condenou o técnico do River Plate, Daniel Passarella.,
+	      incriminar: A polícia portuguesa I]incriminou um britânico no caso de desaparecimento da menina inglesa Maddie.,
+	      inculpar: A denúncia I]inculpou a este Denunciado os crimes de formação de quadrilha.,
+	      recriminar: o governo dos Estados Unidos I]recriminou hoje o presidente Néstor Kirchner por ter "emprestado" a Argentina ao venezuelano Hugo Chávez.,}
+
+	  A='Glosa1822'
+	    {absolver, desculpar, exculpar, ilibar, inocentar, perdoar, purificar, reabilitar}
+
+Chave: INCRIMINAR <verb.cognition>
+ILI: 00703921
+
+Sense 3
+{00703921} <verb.cognition> blame, charge10 -- (attribute responsibility to; "We blamed the accident on her"; "The tragedy was charged to her inexperience")
+       => {00702302} <verb.cognition> impute, ascribe, assign2, attribute -- (attribute or credit to; "We attributed this quotation to Shakespeare"; "People impute great cleverness to cats")
+           => {00647983} <verb.cognition> judge -- (form an opinion of or pass judgment on; "I cannot judge some works of modern art")
+               => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere") 

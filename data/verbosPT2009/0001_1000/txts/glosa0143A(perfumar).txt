@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0143A
+
+DADO O SYNSET:
+
+S='Glosa143'
+{defumar: E fazia-se muito pressurosa, a queimar alfazema, para [defumar os panos da criança.,
+incensar: Já faz parte de um hábito doméstico usá-las para energizar, I]incensar a casa e enfeitar o ambiente.,
+perfumar: São usadas ainda para I]perfumar o ambiente, arrumadas em vasos ou compoteira de cristal e espetadas com cravo da Índia.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa143A' = “preencher ou impregnar com um odor”
+{defumar: E fazia-se muito pressurosa, a queimar alfazema, para [defumar os panos da criança.,
+perfumar: São usadas ainda para I]perfumar o ambiente, arrumadas em vasos ou compoteira de cristal e espetadas com cravo da Índia.,}
+Chave: PERFUMAR <verb.perception>
+ILI: 02064985
+
+Sense 1
+{02064985} <verb.perception> perfume, aromatize, aromatise -- (fill or impregnate with an odor; "orange blossoms prerfumed the air in the garden")
+       => {02064244} <verb.perception> odorize, odourise, scent2 -- (cause to smell or be smelly)
+           => {02062507} <verb.perception> cause to be perceived -- (have perceptible qualities)

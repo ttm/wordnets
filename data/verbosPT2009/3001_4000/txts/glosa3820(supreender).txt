@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA3820
+
+DADO O SYNSET:
+
+S='Glosa3820'
+{apanhar: Chegou a [apanhar o rosto de Carlos Maria em flagrante prazer, quando tirava as primeiras fumaças de um dos charutos.,
+	 colher: A]Colheram-no em flagrante. # A tempestade H]colheu-os quando ainda vinham a caminho.,
+	 flagrar: A fim de [flagrar fraudadores, a Corregedoria infiltrou funcionários do TRE.,
+	 pegar: É preciso [pegar o adúltero em flagrante. # Se hoje [pegassem o Don Doca Fernando Henrique assaltando um banco todo mundo finge que não vê.,
+	 pilhar: Se fosse ainda vivo o nosso amigo, poderia dizer quanto garoto [pilhou em flagrante delito.,
+	 surpreender: Percebi isso quando [surpreendi o meu filho e o do meu marido nus no quarto.,
+	 surpresar: Queriam A]surpresá-lo em erro, como o do Custódio.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3820' = “atacar de surpresa ou pegar de surpresa”
+{apanhar: Chegou a [apanhar o rosto de Carlos Maria em flagrante prazer, quando tirava as primeiras fumaças de um dos charutos.,
+	 colher: A]Colheram-no em flagrante. # A tempestade H]colheu-os quando ainda vinham a caminho.,
+	 flagrar: A fim de [flagrar fraudadores, a Corregedoria infiltrou funcionários do TRE.,
+	 pegar: É preciso [pegar o adúltero em flagrante. # Se hoje [pegassem o Don Doca Fernando Henrique assaltando um banco todo mundo finge que não vê.,
+	 pilhar: Se fosse ainda vivo o nosso amigo, poderia dizer quanto garoto [pilhou em flagrante delito.,
+	 surpreender: Percebi isso quando [surpreendi o meu filho e o do meu marido nus no quarto.,
+	 surpresar: Queriam A]surpresá-lo em erro, como o do Custódio.}
+Chave: SURPREENDER <verb.social>
+ILI: 02519670
+
+Sense 2 
+{02519670} <verb.social> surprise -- (come upon or take unawares; "She surprised the couple"; "He surprised an interesting scene")
+       => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

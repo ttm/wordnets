@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA2936
+
+DADO O SYNSET:
+
+S='Glosa2936'
+	    {dividir-se: Os grandes estados [dividiram-se sobre a candidatura de Hermes da Fonseca.,
+	      fracionar-se: Após o período militar, os dois grandes blocos compulsoriamente criados (Arena e MDB) [fracionaram-se, mas suas partes mostraram-se quase todas incapazes de criar uma identidade sólida. ,
+	      fragmentar-se: I]Fragmentava-se a jurisdição em conseqüência das deformações da soberania.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2936' = “Separar (-se) em partes ou porções”
+	    {dividir-se: Os grandes estados [dividiram-se sobre a candidatura de Hermes da Fonseca.,
+	      fracionar-se: Após o período militar, os dois grandes blocos compulsoriamente criados (Arena e MDB) [fracionaram-se.,
+	      fragmentar-se: I]Fragmentava-se a jurisdição em conseqüência das deformações da soberania.,}
+Chave: FRAGMENTAR-SE <verb.social>
+ILI: 02393614
+
+Sense 1
+{02393614} <verb.social> divide, split3, split up2, separate1, dissever, carve up -- (separate into parts or portions; "divide the cake into three equal parts"; "The British carved up the Ottoman Empire after World War I")
+       => {00135037} <verb.change> change integrity -- (change in physical make-up)
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night") 

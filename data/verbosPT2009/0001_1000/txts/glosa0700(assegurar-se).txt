@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0700
+
+DADO O SYNSET:
+
+S='Glosa700'
+{assegurar-se: O capitão Gabe I]assegurou-se de que essas luzes formidáveis não podiam ter outra origem senão o mar.,
+certificar-se: O escudeiro esfregou os olhos para [certificar-se do que via, e acordando Nunes, perguntou-lhe quem tomara aquela medida de precaução; seu amigo ignorava como ele.,
+convencer-se: Oxalá possa encontrar neste livro boas razões para [convencer-se dos benefícios que resultariam de uma tal leitura,
+persuadir-se: Se o universo inteiro [me persuadisse a reconciliar eu não o faria, pois eu estou determinado a terminar este casamento.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa700' = “ter certeza de”
+{assegurar-se: O capitão Gabe I]assegurou-se de que essas luzes formidáveis não podiam ter outra origem senão o mar.,
+certificar-se: O escudeiro esfregou os olhos para [certificar-se do que via, e acordando Nunes, perguntou-lhe quem tomara aquela medida de precaução; seu amigo ignorava como ele.,}
+Chave: ASSEGURAR-SE <verb.communication>
+ILI: 00861160
+
+Sense 1
+{00861160} <verb.communication> guarantee3, ensure, insure4, assure3, secure -- (make certain of; "This nest egg will ensure a nice retirement for us"; "Preparation will guarantee success!")

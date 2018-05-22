@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA2821
+
+DADO O SYNSET:
+
+S='Glosa2821'
+	    {readmitir: A Firestone, que fabrica pneus em Santo André (SP) ,[readmitiu ontem 100 funcionários demitidos na última quarta-feira.,
+	      reajustar: LHS corta gastos para I]reajustar funcionários.,
+	      recontratar: Canhin disse ainda que o governo tem condições de [recontratar os 44 mil servidores cadastrados que pediram sua reintegração, mas afirmou que não há como readmitir os 108 mil afastados.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2821' = “contratar novamente”
+	    {readmitir: A Firestone, que fabrica pneus em Santo André (SP) ,[readmitiu ontem 100 funcionários demitidos na última quarta-feira.,
+	      recontratar: Paris I]recontratou o porta-voz que havia demitido.,}
+
+Chave: READMITIR <verb.social>
+ILI: EQ_HAS_HYPERONYM - 02489433
+
+Sense 1
+{02489433} <verb.social> rehabilitate1 -- (reinstall politically; "Deng Xiao Ping was rehabilitated several times throughout his lifetime")
+       => {02477751} <verb.social> reinstate -- (restore to the previous state or rank)
+           => {02476974} <verb.social> restore1, reconstruct4 -- (return to its original or usable and functioning condition; "restore the forest to its original pristine condition")
+               => {01584867} <verb.creation> regenerate, renew -- (re-establish on a new, usually improved, basis or make new or like new; "We renewed our friendship after a hiatus of twenty years"; "They renewed their membership")
+                   => {01573613} <verb.creation> re-create -- (create anew; "Re-create the boom of the West on a small scale")
+                       => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

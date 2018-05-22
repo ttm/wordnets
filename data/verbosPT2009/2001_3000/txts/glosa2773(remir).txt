@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA2773
+
+DADO O SYNSET:
+
+S='Glosa2773'
+	    {desempenhar: Pagou a dívida para H]desempenhar o irmão.,
+	      redimir: E nós, o que fizemos para I]redimir essa dívida?,
+	      remir: Pondere-se, porém, que o prazo de 24 horas é para o exercício do direito de [remir, e não para efetivar o pagamento do devido. # Há de [remir a sua dívida: hoje mesmo juntará comigo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2773' = “Liquidar dívidas ou notas promissórias”
+	    {redimir: I]Redimiu parte da dívida e adiou o aumento das taxas de juros,
+	      remir: Se decorreu o prazo para a remição e/ou se a executada I]remiu a dívida e qual o valor depositado.,}
+
+Chave: REMIR <verb.possession>
+ILI: 02191814
+
+Sense 3
+{02191814} <verb.possession> redeem1, pay off3 -- (pay off (loans or promissory notes))
+       => {02186811} <verb.possession> pay -- (give money, usually in exchange for goods or services; "I paid four dollars for this sandwich"; "Pay the waitress, please")
+           => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+               => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children") 

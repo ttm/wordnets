@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA3685
+
+DADO O SYNSET:
+
+S='Glosa3685'
+	    {
+	      amorcegar: Asfredo só quer é I]amorcegar.,
+	      explorar: [Explora a própria família. ,
+	      morcegar: O dinheiro para o bolso do Collor via PC;  dupla dinâmica I]morcegava o país.,
+	      mungir: x,
+	      parasitar: Seria uma afronta à população admitir que há grupos [parasitando os cofres públicos e permitir que continuem operando, por não se sabe mais quanto tempo. ,
+	      parasitear: x,
+	      sugar: Os monopólios estatais usam e abusam de seus privilégios para [sugar o contribuinte, sabotar o Executivo e explorar o consumidor final. ,
+	      tirar: O Barreira sempre teve o domínio do meio-campo e, sabendo [tirar proveito dos erros e do nervosismo do adversário, esteve sempre mais ameaçador. ,
+	      vampirar: x,
+	      vampirizar: A sociedade continuará a sustentar um Estado que já há muito a [vampiriza.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3685' = “usar ou manipular para obter vantagem”
+	     {explorar: [Explora a própria família.,
+	      morcegar: O dinheiro para o bolso do Collor via PC;  dupla dinâmica I]morcegava o país.,
+	      parasitar: Nem na França do Antigo Regime, onde 4.000 aristocratas I]parasitavam a nação, existiu tal concentração de privilégio e de poder. ,
+	      sugar: As pessoas querem uma mudança política e os maoístas se aproveitam disso: eles se infiltram e I]sugam o povo.,
+	      tirar: O governo brasileiro I]tirou todo o dinheiro que eles tinham. ,
+	      vampirizar: A sociedade continuará a sustentar um Estado que já há muito a [vampiriza.,}
+Chave: EXPLORAR <verb.consumption>
+ILI: 01126824
+
+Sense 1
+{01126824} <verb.consumption> exploit, work10 -- (use or manipulate to one's advantage; "He exploit the new taxation system"; "She knows how to work the system"; "he works his parents for sympathy")
+       => {01123102} <verb.consumption> use1, utilize, utilise, apply, employ -- (put into service; make work or employ (something) for a particular purpose or for its inherent or natural purpose; "use your head!"; "we only use Spanish at home"; "I can't make use of this tool"; "Apply a magnetic field here"; "This thinking was applied to many projects"; "How do you utilize this tool?"; "I apply this rule to get good results"; "use the plastic bags to store the food"; "He doesn't know how to use a computer")

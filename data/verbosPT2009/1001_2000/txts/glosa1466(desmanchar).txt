@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA1466
+
+DADO O SYNSET:
+
+S='Glosa1466'
+{desarranjar: Um deles, para dar boas-vindas, I] desarranjou o meu penteado de uma ordem quase obsessiva quando cruzei o imenso portão de ferro.,
+ desmanchar: Você conhece algum método eficaz que permita mergulhar na praia ou piscina sem [desmanchar o cabelo?,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1466' = “provocar desordem”
+{desarranjar: Um deles, para dar boas-vindas, I] desarranjou o meu penteado de uma ordem quase obsessiva quando cruzei o imenso portão de ferro.,
+ desmanchar: No mercado, há uma vasta linha de produtos para compor um jogo de cama decorativo, capaz de deixar qualquer um com pena de deitar e I]desmanchar a arrumação.}
+Chave: DESMANCHAR <verb.change>
+ILI: 00267223
+
+Sense 1
+{00267223} <verb.change> mess, mess up -- (make a mess of or create disorder in; "He messed up his room")
+       => {00267382} <verb.change> disorder, disarray -- (bring disorder to)
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

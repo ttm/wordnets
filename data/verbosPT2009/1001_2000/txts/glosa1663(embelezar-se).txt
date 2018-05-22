@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA1663
+
+DADO O SYNSET:
+
+S='Glosa1663'
+{aformosear-se: De D. Afonso Henriques a D. Manuel, o velho castelo I]aformoseou-se e enobreceu-se.,
+ alindar-se: O perispírito portanto, não admite maquilagem outra para I]alindar-se senão a do amor, divino cosmético de beleza eterna. ,
+ embelecer-se: x,
+ embelezar-se: Sem dinheiro, ela não teria como comprar roupas e cosméticos para I]embelezar-se para a festa da escola.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1663' = “ficar mais bonito”
+{aformosear-se: De D. Afonso Henriques a D. Manuel, o velho castelo I]aformoseou-se e enobreceu-se.,
+ embelezar-se: A Babilônia enriqueceu-se e I]embelezou-se com grandes obras publicas, como os até hoje famosos jardins suspensos construídos por Nabucodonosor.,}
+Chave: EMBELEZAR-SE <verb.change>
+ILI: 00284091
+
+Sense 4
+{00284091} <verb.change> beautify, embellish, prettify -- (make more beautiful)
+       => {00198579} <verb.change> better1, improve1, amend, ameliorate1, meliorate1 -- (to make better; "The editor improved the manuscript with his changes")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

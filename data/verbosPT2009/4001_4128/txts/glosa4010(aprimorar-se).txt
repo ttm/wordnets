@@ -1,0 +1,46 @@
+ANÁLISE DA GLOSA4010
+
+DADO O SYNSET:
+
+S='Glosa4010'
+{acrisolar-se: O Espírito encarnado sofre constantes transformações por fora, a fim de I]acrisolar-se e engrandecer-se por dentro. ,
+acurar-se: Ele H]acurou-se em arte culinária.,
+aperfeiçoar-se: Após o primeiro conflito mundial, as potências européias, ainda rivais, procuraram [aperfeiçoar-se e fortalecer-se militarmente .,
+aprimorar-se: Cabe ao profissional repensar a carreira, refletir sobre novas necessidades e [aprimorar-se profissionalmente .,
+apurar-se: Na adversidade H]apura-se o caráter.,
+assazoar-se: x,
+assazonar-se: x,
+atilar-se: H]Atilou-se com a experiência dos anos.,
+esmerar-se: Impedido de exibir cenas das obras, pretende [esmerar-se na edição de slides e quadros computadorizados .,
+lapidar-se: O executivo geralmente se preocupa em I]lapidar-se apenas profissionalmente, mas a vida não é só isso.,
+perfeiçoar-se: x,
+polir-se: Nesta convivência I]poliu-se a inteligência e incentivou-se os seus naturais pendores artísticos.,
+primorar-se: Nosso intuito é oferecer um panorama dos eventos relacionados a biblioteconomia e áreas afins aos profissionais interessados em I]primorar-se e acompanhá-los.,
+refinar-se: A beleza desaparece, mas as qualidades interiores melhoram com a idade, para aquelas pessoas que estão dispostas e I]refinar-se no decorrer da vida.,
+requintar-se: Todos esses pratos são símbolos da época em que a cozinha brasileira começou a se I]requintar e provocam nas pessoas recordações gustativas e sentimentais.,
+sazonar-se: Ninguém supôs que aquele pintor viria a H]sazonar-se.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4010' = “tornar-se melhor”
+{acrisolar-se: O Espírito encarnado sofre constantes transformações por fora, a fim de I]acrisolar-se e engrandecer-se por dentro. ,
+acurar-se: Por outro lado, a percepção estética em relação à música I]acurou-se, de modo que passaram a apreciar canções. que antes não lhes eram significativas.,
+aperfeiçoar-se: Após o primeiro conflito mundial, as potências européias, ainda rivais, procuraram [aperfeiçoar-se e fortalecer-se militarmente .,
+aprimorar-se: Cabe ao profissional repensar a carreira, refletir sobre novas necessidades e [aprimorar-se profissionalmente .,
+apurar-se: A freqüência da sociedade H]apurou-lhe as maneiras.,
+atilar-se: H]Atilou-se com a experiência dos anos.,
+esmerar-se: Com o «MS-Excel», a Microsoft [esmerou-se, incluindo na última versão desse programa o recurso de assistentes, que ensinam os primeiros passos na elaboração de gráficos e tabelas.,
+lapidar-se: O executivo geralmente se preocupa em I]lapidar-se apenas profissionalmente, mas a vida não é só isso.,
+polir-se: Nesta convivência I]poliu-se a inteligência e incentivou-se os seus naturais pendores artísticos.,
+primorar-se: Nosso intuito é oferecer um panorama dos eventos relacionados a biblioteconomia e áreas afins aos profissionais interessados em I]primorar-se e acompanhá-los.,
+refinar-se: A beleza desaparece, mas as qualidades interiores melhoram com a idade, para aquelas pessoas que estão dispostas e I]refinar-se no decorrer da vida.,
+requintar-se: A Europa ocidental, vanguardista nos sistemas agrícolas decorrentes da primeira fase da revolução industrial, I]requintou-se em sistemas intensivos especializados.,
+sazonar-se: Ninguém supôs que aquele pintor viria a H]sazonar-se.,}
+Chave: APRIMORAR-SE <verb.change>
+ILI: 00197826
+
+Sense 2
+{00197826} <verb.change> better, improve, ameliorate, meliorate -- (get better; "The weather improved toward evening")
+       => {00140715} <verb.change> change state, turn4 -- (undergo a transformation or a change of position or action; "We turned from Socialism to Capitalism"; "The people turned against the President when he stole the election")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")
+

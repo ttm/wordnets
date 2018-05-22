@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA0138
+
+DADO O SYNSET:
+
+S='Glosa138'
+{adscrever-se: Haverá de I]adscrever-se ao uso dos meios que o Direito reputou correspondentes à finalidade almejada. ,
+adstringir-se: Era uma sátira moça que não respeitava o entono austero da velhice, nem [se adstringia, numa atrelagem escravizadora de peça secundária, aos velhos moldes da arte clássica.,
+limitar-se: Se não tiver havido regular instauração de concurso, deve o magistrado [limitar-se a dar solução aos pedidos dos credores, respeitadas as preferências. ,
+reduzir-se: Daí, a possibilidade de seu estudo I]reduzir-se meramente às questões metodológicas de como fazer isso.,
+restringir-se: O Estado-empresário, por exemplo, precisa diminuir, não pode agasalhar a pretensão onipotente de fazer frente à iniciativa privada nas diferentes atividades humanas, e deve [restringir-se às funções tradicionais que justificam sua existência.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa138' = “restringir ou confinar”
+{adscrever-se: Haverá de I]adscrever-se ao uso dos meios que o Direito reputou correspondentes à finalidade almejada. ,
+adstringir-se: Era uma sátira moça que não respeitava o entono austero da velhice, nem [se adstringia, numa atrelagem escravizadora de peça secundária, aos velhos moldes da arte clássica.,
+limitar-se: Se não tiver havido regular instauração de concurso, deve o magistrado [limitar-se a dar solução aos pedidos dos credores, respeitadas as preferências. ,
+reduzir-se: Daí, a possibilidade de seu estudo I]reduzir-se meramente às questões metodológicas de como fazer isso.,
+restringir-se: O Estado-empresário, por exemplo, precisa diminuir, não pode agasalhar a pretensão onipotente de fazer frente à iniciativa privada nas diferentes atividades humanas, e deve [restringir-se às funções tradicionais que justificam sua existência.,}
+
+Chave: LIMITAR-SE <verb.change>
+ILI: 00227757
+
+Sense 2
+{00227757} <verb.change> limit, circumscribe, confine1 -- (restrict or confine, "I limit you to two visits to the pub a day")
+       => {00428838} <verb.change> decrease1, lessen2, minify -- (make smaller; "He decreased his staff")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

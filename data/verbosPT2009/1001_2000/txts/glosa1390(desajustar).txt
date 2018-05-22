@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA1390
+
+DADO O SYNSET:
+
+S='Glosa1390'
+{desacondicionar: x,
+ desadaptar: Não interromper o uso por mais de 1 dia, sob pena de I]desadaptar os animais. ,
+ desajustar: Em muitos casos, o ambiente escolar pode I]desajustar o adolescente.,
+	 desentrosar: Tratando de um tema que pressupõe integração entre os personagens, é de se estranhar a opção por I]desentrosar os combatentes.,}
+	  
+A='Glosa3248'
+{acomodar, acondicionar, adaptar, adequar, ajustar, aplicar, apropositar, apropriar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1390' = “desarranjar o que estava ordenado ou adaptado de certo modo” 
+{desadaptar: Continua o lamento de que a prisão é permanente espetáculo deprimente que atinge além da pessoa do delinqüente; orfana filhos de pai vivo; I]desadapta o encarcerado à sociedade; suscita vários conflitos sexuais...,
+ desajustar: Em muitos casos, o ambiente escolar pode I]desajustar o adolescente.,
+	 desentrosar: Tratando de um tema que pressupõe integração entre os personagens, é de se estranhar a opção por I]desentrosar os combatentes.,}
+A='Glosa3248'
+{acomodar, acondicionar, adaptar, adequar, ajustar, aplicar, apropositar, apropriar}
+Chave: DESAJUSTAR <verb.change>
+ILI: EQ_HAS_HYPERONYM – 00507530 – “prejudicar o equilíbrio ou estabilidade [de]”
+
+Sense 1
+{00507530} <verb.change> upset -- (disturb the balance or stability of; "The hostile talks upset the peaceful relations between the two countries")
+       => {01170925} <verb.contact> touch3, disturb -- (tamper with; "Don't touch my CDs!")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

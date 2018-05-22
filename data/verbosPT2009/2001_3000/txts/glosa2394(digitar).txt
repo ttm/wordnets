@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2394
+
+DADO O SYNSET:
+
+S='Glosa2394'
+	    {digitar: Se você quer acabar rapidamente a nova versão de Doom, ao iniciar cada uma das 30 fases [digite no teclado IDDQD e em seguida IDKFA.,
+	      teclar: A popularização da Internet resultou em netlag, que é o espaço de tempo entre o [teclar de uma mensagem e o recebimento de uma resposta.,
+	      teclear: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2394' = “Escrever por meio de um teclado .”
+	    {digitar: O que está escrito numa tela de computador fica aberto a interpretações: é impossível definir o tom de quem [digitou o texto.,
+	      teclar: Joca I]teclou todas as combinacoes possiveis de teclas.,}
+
+Chave: DIGITAR <verb.communication>
+ILI: 00972034
+
+Sense 1
+{00972034} <verb.communication> type, typewrite -- (write by means of a keyboard with types; "type the acceptance letter, please")
+       => {00960729} <verb.communication> write -- (communicate or express by writing; "Please write to me every week")
+           => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+               => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel") 

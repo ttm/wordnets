@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA2797
+
+DADO O SYNSET:
+
+S='Glosa2797'
+	    {alevantar: x,
+	      angariar: Carlos Maneira não se cansa de explicar que a ideia surgiu em Newark, nos Estados Unidos, há dois anos, quando a comunidade de emigrantes realizou uma festa destinada a [angariar dinheiro para a nova ambulância dos Bombeiros de Tondela.,
+	      arrecadar: Tom Cruise ajuda a I]arrecadar fundos para bombeiros.,
+	      levantar: Projeto vai I]levantar fundos para reduzir risco de incêndios em Ouro Preto. ,
+	      recolher: A nível regional, o Funchal foi quem mais dinheiro [recolheu do Fundo de Turismo, cabendo-lhe 22 por cento do total, enquanto Viseu se quedou pelos 15, Setúbal com nove, Leiria com 6,5, Évora e Faro com seis.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2797' = “Fazer uma solicitação ou pedido por alguma coisa, solicitar urgentemente ou persistentemente”
+	    {angariar: O WWF [angariou apostas no valor de US$ 567 mil em favor da Reserva Biológica de Una.,
+	      arrecadar: Em apenas dois dias, o leilão [arrecadou a fabulosa quantia de US$ 20,8 milhões.,
+	      levantar: Karina, que [levantou junto a patrocinadores os US$ 9.000 necessários para trazer a Mata Atlântica a Londres, espera que o prêmio ajude a difundir a jardinagem no Brasil.,
+	      recolher: Colaborou com organizações sionistas que organizavam a fuga de judeus da Alemanha e I]recolheu fundos para formar um exército judeu.,}
+
+Chave: ARRECADAR <verb.communication>
+ILI: 00756356
+
+Sense 1
+{00756356} <verb.communication> solicit, beg1, tap -- (make a solicitation or entreaty for something; request urgently or persistently; "Henry IV solicited the Pope for a divorce"; "My neighbor keeps soliciting money for different charities")
+       => {00727992} <verb.communication> request1, bespeak, call for4, quest1 -- (express the need or desire for; ask for; "She requested an extra bed in her room"; "She called for room service")
+           => {00717906} <verb.communication> communicate1, pass on, pass1, put across -- (transmit information ; "Please communicate this message to all employees")
+               => {02167243} <verb.possession> convey10, transmit10, communicate10 -- (transfer to another; "communicate a disease")
+                   => {02167764} <verb.possession> transfer1 -- (move from one place to another; "transfer the data"; "transmit the news"; "transfer the patient to another hospital")
+                       => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant") 

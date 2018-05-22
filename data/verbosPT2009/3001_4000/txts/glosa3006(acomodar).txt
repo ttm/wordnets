@@ -1,0 +1,44 @@
+ANÁLISE DA GLOSA3006
+
+DADO O SYNSET:
+
+S='Glosa3006'
+	     {aboletar: x,
+	      acoitar: x,
+	      acomodar: Muita gente não pode participar como anfitriã, por motivos de trabalho, ou de local onde reside; mas há quem também goste até de I]acomodar famílias inteiras. ,
+	      acoutar: x,
+	      agasalhar: O homem I]agasalhou os pelingrinos muito bem. ,
+	      albergar: No ano passado, a Operação Carnaval I]albergou 51 crianças e adolescentes. ,
+	      alojar: Os frades seriam desalojados em 1808 por ordem do Príncipe D. João, que I]alojou no convento sua mãe, a Rainha D. Maria I, a louca.,
+	      aposentar: M]Aposentou hospitaleiramente o viajante.,
+	      aquartelar: O prédio também I]aquartelou uma companhia de Aprendizes Marinheiros e depois foi sede da Capitania dos Portos.,
+	      asilar: Esclarecendo à Comunidade de Cachoeira do Sul, precisamos dizer que existem casas que I]asilam idosos clandestinamente. ,
+	      gasalhar: x,
+	      hospedar: Dagmar, contou que conheceu a modelo através de uma sobrinha e a [hospedou em sua casa.,
+	      instalar: Viu-se na obrigação de A]instalar em sua casa o amigo que o acompanhava.  ,
+	      receber: O velho logo percebeu que o homem vinha de muito longe e I]recebeu o viajante com amizade.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3006' = “acomodar temporariamente, como convidado”
+	     {acomodar: O 3º DP foi projetado para [acomodar apenas 32 presos . ,
+	      agasalhar: O homem I]agasalhou os pelingrinos muito bem. ,
+	      albergar: No ano passado, a Operação Carnaval I]albergou 51 crianças e adolescentes. ,
+	      alojar: Os frades seriam desalojados em 1808 por ordem do Príncipe D. João, que I]alojou no convento sua mãe, a Rainha D. Maria I, a louca.,
+	      aposentar: M]Aposentou hospitaleiramente o viajante.,
+	      aquartelar: O prédio também I]aquartelou uma companhia de Aprendizes Marinheiros e depois foi sede da Capitania dos Portos.,
+	      asilar: Instituição I]asilava irmãozinhos desencarnados entre 7 e 12 anos de idade.,
+	      hospedar: Dagmar, contou que conheceu a modelo através de uma sobrinha e a [hospedou em sua casa.,
+	      instalar: Governo reforma prédio na Cohab para I]instalar idosos no “Solar do Paraíso”. ,
+	      receber: O velho logo percebeu que o homem vinha de muito longe e I]recebeu o viajante com amizade.,}
+Chave: ACOMODAR <verb.stative>
+ILI: 02572298
+
+Sense 4
+{02572298} <verb.stative> lodge, accommodate1 -- (provide housing for; "We are lodging three foreign students this semester")
+       => {02385180} <verb.social> house, put up, domiciliate -- (provide housing for; "The immigrants were housed in a new development outside the town")
+           => {02577295} <verb.stative> shelter -- (provide shelter for; "After the earthquake, the government could not provide shelter for the thousands of homeless people")
+               => {02259805} <verb.possession> supply, provide, render2, furnish -- (provide or furnish with; "We provided the room with an electrical heater")
+                   => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+                       => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children")
+          Also See-> {02570029} <verb.stative> lodge in#1

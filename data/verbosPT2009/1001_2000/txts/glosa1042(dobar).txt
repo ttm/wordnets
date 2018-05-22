@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA1042
+
+DADO O SYNSET:
+
+S='Glosa1042'
+{debar: x,
+ dobar: As mulheres a fiar, a I]dobar ou a fazer meia, os homens a fumar e a conversar, e a canalhada a dormitar ou nas diabruras do costume.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1042' = “enrolar fios em forma de novelo”
+{dobar: Casulos de bicho-da-seda próprios para I]dobar.,}
+Chave: DOBAR <verb.contact>
+ILI: 01480827
+
+Sense 3
+{01480827} <verb.contact> reel -- (wind onto or off a reel)
+       => {01480045} <verb.contact> wind6, wrap2, roll, twine3 -- (wrap or coil around; "roll your hair around your finger"; "Twine the thread around the spool")
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

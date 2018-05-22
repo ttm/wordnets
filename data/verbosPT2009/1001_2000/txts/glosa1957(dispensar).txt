@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA1957
+
+DADO O SYNSET:
+
+S='Glosa1957'
+{dispensar: A economia verbal que caracteriza o estilo do Graciliano Ramos, essa prosa que já foi caracterizada como esquemática, uma prosa bastante seca que I]dispensa os adjetivos supérfluos, e tenta se apoiar nos substantivos, é marca sim desse universo bastante seco do qual ele fala. ,
+ escusar: Começou por composições dramáticas, mas como se lhe não abrissem as portas do teatro, fez romances. I]Escusa dizer que nem versos nem romances lhe deram fortuna. ,
+ prescindir: Ambos [prescindem da voz narradora e explicadora em off.Ambos vão montando uma narrativa a partir do ponto de vista de pessoas e imagens diversas.,}
+	  
+A='Glosa3658'
+{carecer, demandar, necessitar, padecer, pedir, precisar, querer, reclamar, requerer}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1957' = “abrir mão do que não é tão necessário”
+{dispensar: A economia verbal que caracteriza o estilo do Graciliano Ramos, essa prosa que já foi caracterizada como esquemática, uma prosa bastante seca que I]dispensa os adjetivos supérfluos, e tenta se apoiar nos substantivos, é marca sim desse universo bastante seco do qual ele fala.,
+ escusar: Encaixa-se bem a essa tônica, a disposição do artigo 250 do Código de Processo Civil, que I]escusa o erro de forma, com privilégio aos atos aproveitáveis.,
+ prescindir: Ambos [prescindem da voz narradora e explicadora em off. Ambos vão montando uma narrativa a partir do ponto de vista de pessoas e imagens diversas.,}
+	  
+A='Glosa3658'
+{carecer, demandar, necessitar, padecer, pedir, precisar, querer, reclamar, requerer}
+Chave: DISPENSAR <verb.possession>
+ILI: 02278037
+
+Sense 1
+{02278037} <verb.possession> spare, give up5, part with, dispense with1 -- (give up what is not strictly needed; "he asked if they could spare one of their horses to speed his journey")
+       => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+           => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children")

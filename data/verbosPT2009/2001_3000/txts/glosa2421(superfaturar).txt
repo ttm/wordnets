@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA2421
+
+DADO O SYNSET:
+
+S='Glosa2421'
+	    {sobrefaturar: É possível realizar uma Odontologia séria, com os melhores recursos disponíneis atualmente sem I]sobrefaturar o valor. ,
+	      superfaturar: Justiça condena empresas por I]superfaturar preços de fretes.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2421' = “colocar o preço excessivamente acima do padrão”
+	    {sobrefaturar: É possível realizar uma Odontologia séria, com os melhores recursos disponíneis atualmente sem I]sobrefaturar o valor. ,
+	      superfaturar: Justiça condena empresas por I]superfaturar preços de fretes.,}
+
+Chave: SUPERFATURAR <verb.possession>
+ILI: 02283754
+
+{02283754} <verb.possession> overprice -- (price excessively high)
+       => {02283386} <verb.possession> price -- (determine the price of; "The grocer priced his wares high")
+           => {00676553} <verb.cognition> determine1, set4 -- (fix conclusively or authoritatively; "set the rules")

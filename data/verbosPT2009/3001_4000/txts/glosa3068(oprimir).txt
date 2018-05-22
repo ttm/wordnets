@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA3068
+
+DADO O SYNSET:
+
+S='Glosa3068'
+	    {
+	      guerrear: A polícia A]guerreia sem tréguas os criminosos.,
+	      oprimir: Ao contrário do que se poderia esperar, os grandes senhores feudais passaram a [oprimir ainda mais os servos, em busca de maior rentabilidade. ,
+	      perseguir: Os que não apenas serviram José I, contribuíram para aumentar seu poder, seduzindo a outros ou [perseguindo os espanhóis leais.,
+	      vexar: Pois bem pode ser um grande Monarca o Senhor D. Pedro II, sendo justo, sábio, honrado e virtuoso e amante da felicidade de seus súditos, sem ter precisão alguma de I]vexar os povos com tiranias e violentas extorsões de dinheiro e sangue. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3068' = “causar sofrimento”
+	     {oprimir: A Inquisição na Espanha I]oprimiu os judeus, forçou-os à conversão ao cristianismo e, finalmente, expulsou-os da península. ,
+	      perseguir: Tivemos um regime militar que [perseguiu, matou e maltratou a população mais humilde desse país.,
+	      vexar: Pois bem pode ser um grande Monarca o Senhor D. Pedro II, sendo justo, sábio, honrado e virtuoso e amante da felicidade de seus súditos, sem ter precisão alguma de I]vexar os povos com tiranias e violentas extorsões de dinheiro e sangue. ,}
+Chave: OPRIMIR <verb.social>
+ILI: 02508537
+
+Sense 2
+{02508537} <verb.social> persecute, oppress1 -- (cause to suffer; "Jews were persecuted in the former Soviet Union")
+       => {01750702} <verb.emotion> torment1, rag, bedevil, crucify, dun, frustrate -- (treat cruelly; "The children tormented the stuttering teacher")
+           => {01737602} <verb.emotion> harass, hassle, harry, chivy, chivvy, chevy, chevvy, beset, plague, molest, provoke1 -- (annoy continually or chronically; "He is known to harry his staff when he is overworked"; "This man harasses his female co-workers")
+               => {01736079} <verb.emotion> annoy, rag1, get to, bother, get at, irritate, rile, nark, nettle, gravel, vex, chafe, devil -- (cause annoyance in; disturb, especially by minor irritations; "Mosquitoes buzzing in my ear really bothers me"; "It irritates me that she never closes the door after she leaves")
+                   => {01764259} <verb.emotion> displease -- (give displeasure to)

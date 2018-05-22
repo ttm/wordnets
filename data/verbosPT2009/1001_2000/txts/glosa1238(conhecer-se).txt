@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA1238
+
+DADO O SYNSET:
+
+S='Glosa1238'
+{conhecer-se: Hoje I]conhece-se que existem tóxicos que ativam quimicamente os centros nervosos responsaveis pelo prazer.,}
+	  
+A='Glosa1237'
+{desconhecer-se, ignorar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1238' = “reconhecer-se”
+{conhecer-se: Portugal vê o Brasil como filho, o Brasil criou um fantasma que chama de Portugal, nenhum dos dois se enxerga ou [se conhece.,}
+A='Glosa1237'
+{desconhecer-se, ignorar-se}
+Chave: CONHECER-SE <verb.cognition>
+ILI: EQ_HAS_HYPERONYM – 00598581 – “estabelecer a identidade de alguém ou algo”
+
+Sense 1
+{00598581} <verb.cognition> identify, place -- (recognize as being; establish the identity of someone or something; "She identified the man on the 'wanted' poster")
+       => {00676553} <verb.cognition> determine1, set4 -- (fix conclusively or authoritatively; "set the rules")

@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0216
+
+DADO O SYNSET:
+
+S='Glosa216'
+{somar: Nossas vendas [somaram US$ 102 milhões no período, diz o presidente da empresa.,
+totalizar: As bolsas pagas a estas escolas, no ano passado, [totalizaram R$ 530 mil.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa216' = “determinar a soma de”
+{somar: Nossas vendas [somaram US$ 102 milhões no período, diz o presidente da empresa.,
+totalizar: As bolsas pagas a estas escolas, no ano passado, [totalizaram R$ 530 mil.,}
+Chave: SOMAR <verb.communication>
+ILI: 00918069
+
+Sense 5
+{00918069} <verb.communication> total, tot, tot up, sum, sum up3, summate, tote up, add, add together, tally, add up -- (determine the sum of; "Add all the people in this town to those of the neighboring town")
+       => {00916888} <verb.communication> count, number, enumerate1, numerate -- (determine the number or amount of; "Can you count the books on your shelf?"; "Count your change")
+           => {00888752} <verb.communication> determine, find, find out, ascertain1 -- (after a calculation, investigation, experiment, survey, or study; "find the product of two numbers"; "The physicist who found the elusive particle won the Nobel Prize")

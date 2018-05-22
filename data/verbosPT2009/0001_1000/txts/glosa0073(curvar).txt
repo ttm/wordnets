@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA0073
+
+DADO O SYNSET:
+
+S='Glosa73'
+{acurvar: Colheu uma pitada e, A]acurvando o busto, sorveu-a ruidosamente.,
+alquebrar: A penosidade do trabalho na agricultura errudiu os corpos, sulcou os rostos, I]alquebrou colunas.,
+avergar: x,
+curvar: O arquiteto usou uma máquina portátil de dobrar canos e [curvou os tubos um a um, adaptando-os milimetricamente ao teto durante a colocação. ,
+prostrar: S. Pedro pelejou contra Simão Mago, que foi o primeiro heresiarca da Igreja, e o derrubou das nuvens, e, com os pés quebrados, o I]prostrou aos seus, nos olhos de toda Roma. ,
+vergar: O grande chefe [vergou a cabeça ao peito, como o cedro altaneiro batido pelo tufão.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa73' = “formar uma curva”
+{acurvar: As hastes do acanto, crescendo ao longo das bordas do cesto e empurradas pela beira do teto, em razão do seu empuxo, foram forçadas I]acurvar suas extremidades.,
+alquebrar: A penosidade do trabalho na agricultura errudiu os corpos, sulcou os rostos, I]alquebrou colunas.,
+curvar: O arquiteto usou uma máquina portátil de dobrar canos e [curvou os tubos um a um, adaptando-os milimetricamente ao teto durante a colocação. ,
+prostrar: S. Pedro pelejou contra Simão Mago, que foi o primeiro heresiarca da Igreja, e o derrubou das nuvens, e, com os pés quebrados, o I]prostrou aos seus, nos olhos de toda Roma. ,
+vergar: O grande chefe [vergou a cabeça ao peito, como o cedro altaneiro batido pelo tufão.,}
+Chave: CURVAR <verb.motion>
+ILI: 01977754
+
+Sense 1
+{01977754} <verb.motion> bend, flex -- (form a curve; "The stick does not bend")
+       => {00135866} <verb.change> change shape, change form, deform2 -- (assume a different shape or form)
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA3976
+
+DADO O SYNSET:
+
+S='Glosa3976'
+    	{apontar: I]Apontou-o como defensor da democracia.,
+      	 declarar: M]Declarou-o tutor daqueles órfãos.,
+      	 designar: A VARIG I]designou outro representante através do ofício.,
+      	 escolher: Os EUA já I]escolheram-no como responsável.,
+      	 indicar: Os adeptos de Bias Fortes romperam o acordo e I]indicaram-no como candidato.,
+      	 nomear: Funai poderá I]nomear interlocutor para questão indígena.,
+      	 pontar: x,
+      	 prepor: A cada setor M]prepôs um líder.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3976' = “indicar para exercer uma tarefa, responsabilidade ou obrigação”
+    	{apontar: Francisco Cruz atribuiu sua escolha à generosidade dos procuradores e promotores que o I]apontaram para o comando da Casa.,
+      	 declarar: Vasco Martins de Melo, partidário do mestre de Aviz, assistiu em 1385 às Cortes de Coimbra que o I]declararam legítimo rei de Portugal.,
+      	 designar: A VARIG I]designou outro representante através do ofício.,
+      	 escolher: Os EUA já I]escolheram-no como responsável.,
+      	 indicar: Os adeptos de Bias Fortes romperam o acordo e I]indicaram-no como candidato.,
+      	 nomear: O presidente do Paraguai não cumpriu o prometido e não [nomeou o golpista para cargo algum.,
+      	 prepor: O governador Cássio me I]prepôs à frente desse Comitê.}
+Chave: INDICAR <verb.social>
+ILI: 02401814
+
+Sense 2
+{02401814} <verb.social> appoint, charge -- (assign a duty, responsibility or obligation to; "He was appointed deputy manager"; "She was charged with supervising the creation of a concordance")

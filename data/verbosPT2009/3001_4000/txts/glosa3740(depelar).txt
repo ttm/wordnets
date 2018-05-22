@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA3740
+
+DADO O SYNSET:
+	
+S='Glosa3740'
+{depelar: Teria que viver fazendo coisas funestas, como I]depelar animais para extrair-lhes a carne.,
+	  despelar: Para I]despelar o alho com mais facilidade deve-se escaldá-lo primeiramente em água quente.,
+	  pelar2: Para I]pelar amêndoas, coloque-as por dois minutos em água fervendo, passando-as em seguida na água fria.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3740' = “tirar a pele de (fruto, por exemplo)”
+{depelar: Teria que viver fazendo coisas funestas, como I]depelar animais para extrair-lhes a carne.,
+	  despelar: Para I]despelar o alho com mais facilidade deve-se escaldá-lo primeiramente em água quente.,
+	  pelar2: Para I]pelar amêndoas, coloque-as por dois minutos em água fervendo, passando-as em seguida na água fria.}
+Chave: DEPELAR <verb.contact>
+ILI: 00861277
+
+Sense 4
+{00861277} <verb.contact> skin, peel, pare2 -- (strip the skin off (fruit, for example))
+       => {00861664} <verb.contact> strip -- (remove the surface from; "strip wood")
+           => {00118898} <verb.change> remove, take, take away1 -- (remove something concrete, as by lifting, pushing, taking off, etc.; or remove something abstract; "remove a threat"; "remove a wrapper"; "Remove the dirty dishes from the table"; "take the gun from your pocket")

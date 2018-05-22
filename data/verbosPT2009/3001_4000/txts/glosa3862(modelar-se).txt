@@ -1,0 +1,39 @@
+ANÁLISE DA GLOSA3862
+
+DADO O SYNSET:
+
+S='Glosa3862'
+{afeiçoar-se: Acentuando-lhe os contornos, as cores e as formas dos telhados, confundindo-se com o próprio solo, suas cumeeiras, I]afeiçoando-se a espigões.,
+	 amoldar-se: O barro não se H]amoldou bem.,
+	 amoldurar: x,
+	 amoldurar-se: Aos poucos o homem irá perdendo a sua marcante qualidade de bicho e irá se I]amoldurando num sentido humano.,
+	 formar-se: Toda a crosta terrestre, sobre a qual vivemos, [formou-se dessa maneira, por complexas reações químicas.,
+	 modelar-se: Surgiu primeiro na tela do pintor e logo se I]modelou na realidade.,
+	 moldar-se: Mais tarde, no entanto, a aparência do detetive foi se I]moldando com os desenhos de Sidney Paget e outros ilustradores do Cânone.,
+	 plasmar-se: No fluxo do emaranhado, [plasmou-se um novo corpo, um novo rosto, um novo eu.}
+
+A='Glosa391'
+{deformar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3862' = “planejar-se de acordo com um modelo ou modelos”
+{afeiçoar-se: Acentuando-lhe os contornos, as cores e as formas dos telhados, confundindo-se com o próprio solo, suas cumeeiras, I]afeiçoando-se a espigões.,
+	 amoldar-se: O barro não se H]amoldou bem.,
+	 amoldurar-se: Aos poucos o homem irá perdendo a sua marcante qualidade de bicho e irá se I]amoldurando num sentido humano.,
+	 formar-se: Toda a crosta terrestre, sobre a qual vivemos, [formou-se dessa maneira, por complexas reações químicas.,
+	 modelar-se: Surgiu primeiro na tela do pintor e logo se I]modelou na realidade.,
+	 moldar-se: Mais tarde, no entanto, a aparência do detetive foi se I]moldando com os desenhos de Sidney Paget e outros ilustradores do Cânone.,
+	 plasmar-se: No fluxo do emaranhado, [plasmou-se um novo corpo, um novo rosto, um novo eu.}
+
+A='Glosa391'
+{deformar-se}
+Chave: MODELAR-SE <verb.creation>
+ILI: 01694597
+
+Sense 1 
+{01694597} <verb.creation> model2, pattern -- (plan or create according to a model or models)
+       => {01693699} <verb.creation> imitate, copy, simulate4 -- (reproduce someone's behavior or looks; "The mime imitated the passers-by"; "Children often copy their parents or older siblings")
+           => {01687654} <verb.creation> reproduce -- (make a copy or equivalent of; "reproduce the painting")
+               => {01575778} <verb.creation> produce, make1, create3 -- (create or manufacture a man-made product; "We produce more cars than we can sell"; "The company has been making toys for two centuries")
+

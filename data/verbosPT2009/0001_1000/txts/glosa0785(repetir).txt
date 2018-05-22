@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0785
+
+DADO O SYNSET:
+
+S='Glosa785'
+{bisar: Ea galera gritou: bis! bis! bis! Porém o LD’s não I]bisou.,
+repetir: Já aí vai você [repetir ainda uma vez a mesma cantiga.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa785' = “executar, fazer ou realizar novamente”
+{bisar: E a galera gritou: bis! bis! bis! Porém o LD’s não I]bisou.,
+repetir: Já aí vai você [repetir ainda uma vez a mesma cantiga.,}
+Chave: REPETIR <verb.creation>
+ILI: 01685362
+
+Sense 2
+{01685362} <verb.creation> duplicate, reduplicate, double, repeat, replicate -- (make or do or perform again; "He could never replicate his brilliant performance of the magic trick")
+       => {01687654} <verb.creation> reproduce -- (make a copy or equivalent of; "reproduce the painting")
+           => {01575778} <verb.creation> produce, make1, create3 -- (create or manufacture a man-made product; "We produce more cars than we can sell"; "The company has been making toys for two centuries")

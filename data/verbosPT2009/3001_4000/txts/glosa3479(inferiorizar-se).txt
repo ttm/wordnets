@@ -1,0 +1,42 @@
+ANÁLISE DA GLOSA3479
+
+DADO O SYNSET:
+
+S='Glosa3479'
+	    {
+	      abaixar-se: O todo era o de uma princesa traída pelo amante, e cuja desventura não conseguira ]abaixar-lhe a soberbia,
+	      abater-se: Nossa equipe pode [se abater em alguns momentos, enquanto os adversários tendem a crescer/Kleber [se abate e critica o time,
+	      amesquinhar-se: Mas, se [se amesquinhar o objetivo e reduzi-lo a deixar sadio o Estado e fortes as empresas, [amesquinha-se também o resultado,
+	      aniquilar-se: As almas grandes têm esse privilégio; suas ações, que nos outros inspiram a admiração, [se aniquilam em face dessa nobreza inata do coração superior/Em face desses transes solenes, desses grandes cataclismas da natureza, a alma humana [sente-se tão pequena, aniquila-se tanto, que se esquece da existência,
+	      apequenar-se: Sua voz [se apequena e constrange, sobretudo pela presença, em cena, de grandes artistas de musical/Revelou, por exemplo, o quanto a alma nacional [apequenou-se, acovardou-se,
+	      apoucar-se: Nossa auto-estima começou a esmorecer e o nosso orgulho a ]apoucar-se na frente europeia,
+	      diminuir-se: ...dizia isso para ]diminuir-se a si própria/Respeito não quer dizer ]diminuir-se diante dos outros, servilidade ou puxa-saquismo,
+	      encouchar-se: x,
+	      humilhar-se: Seu orgulho intelectual o impede de [humilhar-se,
+	      inferiorizar-se: Milênios nos têm oprimido com costumes e conceitos que [nos inferiorizam, nos dão uma menor valia,
+	      minuir-se: x,
+	      rebaixar-se: Até os prisioneiros destinados ao suplício, preferiam a morte gloriosa a [se rebaixarem pela fuga/Não vou [me rebaixar,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3479' = “reduzir-se em valor ou caráter, geralmente verbalmente”
+	     {abaixar-se: Deus veio ao nosso encontro, I]abaixou-se, assumiu totalmente a natureza humana para que o homem fosse elevado,
+	      abater-se: Paulo I]abateu-se com o fracasso,
+	      amesquinhar-se: Indiferente em relação ao futuro e complacente em relação ao presente, o povo I]amesquinha-se, rebaixa-se, deprecia-se, avilta-se,
+	      aniquilar-se: Cristo Jesus, sendo de condição divina, I]aniquilou-se e tomou a condição de servo,
+	      apequenar-se: Sua voz [se apequena e constrange, sobretudo pela presença, em cena, de grandes artistas de musical/Revelou, por exemplo, o quanto a alma nacional [apequenou-se, acovardou-se,
+	      apoucar-se: Cristo Jesus, sendo de condição divina, I]aniquilou-se e tomou a condição de servo,
+	      diminuir-se: E o nosso amigo sorria, agradecia, I]diminuía-se, não era nada,
+	      humilhar-se: Mais do que isso, quando se achou na feição de homem, I]humilhou-se e tornou-se obediente até a morte,
+	      inferiorizar-se: Milênios nos têm oprimido com costumes e conceitos que [nos inferiorizam, nos dão uma menor valia,
+	      rebaixar-se: o fidalgo professor humilhou-se, I]rebaixou-se e envergonhou o País diante do mundo,}
+Chave: INFERIORIZAR-SE <verb.emotion>
+ILI: 01748142
+
+Sense 1
+{01748142} <verb.emotion> take down, degrade, disgrace, demean, put down -- (reduce in worth or character, usually verbally; "She tends to put down younger women colleagues"; "His critics took him down after the lecture")
+       => {01747514} <verb.emotion> humiliate, mortify1, chagrin1, humble, abase -- (cause to feel shame; hurt the pride of; "He humiliated his colleague by criticising him in front of the boss")
+           => {01741003} <verb.emotion> hurt, wound, injure, bruise, offend, spite -- (hurt the feelings of; "She hurt me when she did not include me among her guests"; "This remark really bruised me ego")
+               => {01708538} <verb.emotion> arouse, elicit, enkindle, kindle, evoke, fire, raise8, provoke -- (call forth (emotions, feelings, and responses); "arouse pity"; "raise a smile"; "evoke sympathy")
+                   => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA1422
+
+DADO O SYNSET:
+
+S='Glosa1422'
+{apreciar: Recebem a luz frontalmente e, com os rostos voltados para fora do quadro, logo atraem a empatia de quem [aprecia essa gravura . ,
+ desfruir: A]Desfruir um bem.,
+ gostar: Menos conhecida do que o marido, [gosta de trabalhar em silêncio.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1422' = “tirar prazer [de]”
+{apreciar: Recebem a luz frontalmente e, com os rostos voltados para fora do quadro, logo atraem a empatia de quem [aprecia essa gravura.,
+ gostar: Menos conhecida do que o marido, [gosta de trabalhar em silêncio.,}
+Chave: APRECIAR <verb.emotion
+ILI: 01775396
+
+Sense 3
+{01775396} <verb.emotion> love2, enjoy1 -- (get pleasure from; "I love cooking")
+       => {01725676} <verb.emotion> like5 -- (find enjoyable or agreeable; "I like jogging"; "She likes to read Russian novels")

@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA1322
+
+DADO O SYNSET:
+
+S='Glosa1322'
+{desanojar-se: Contou umas cousas juntamente ridículas e execráveis, que o hóspede ouviu aborrecido. Este, para I]desanojar-se, olhou para Charmion e notou que ela pouco mais fazia que fitá-lo com os seus grandes olhos.,
+ desenfadar-se: A princípio supus que era um recurso para [desenfadar-me, mas daí a pouco estava eu mesmo calculando também, já então com papel e lápis, sobre o joelho, e dava a diferença que ela buscava.,
+ desenfastiar-se: Um grupo de músicos de orquestra I]desenfastia-se a contar histórias bizarras e ultra-românticas,
+ desenojar-se: x,}
+	  
+A='Glosa3539'
+{aborrecer-se, amolar-se, anojar-se, chatear-se, enfadar-se, enfarar-se, enfastiar-se, enjoar-se, enojar-se, entediar-se, maçar-se, morrinhar, nausear-se, saturar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1322' = “tirar o enfado de si próprio, geralmente divertindo-se ou distraindo-se”
+{desenfadar-se: E as que querem bem aos maridos, pelos contentarem, buscam-lhes moças com eles se I]desenfadem.,
+ desenfastiar-se: Fradique queria que Portugal fosse um restaurante temático, um parque temático, para poder vir cá de vez em quando I]desenfastiar-se de Paris.,}
+A='Glosa3539'
+{aborrecer-se, amolar-se, anojar-se, chatear-se, enfadar-se, enfarar-se, enfastiar-se, enjoar-se, enojar-se, entediar-se, maçar-se, morrinhar, nausear-se, saturar-se}
+Chave: DESENFADAR-SE <verb.communication>
+ILI: EQ_HAS_HYPERONYM - 00831123 - “tornar-se alegra, animado”
+
+Sense 4
+{00831123} <verb.communication> cheer, cheer up, chirk up -- (become cheerful)
+       => {01761176} <verb.emotion> rejoice, joy -- (feel happiness or joy)
+           => {01720480} <verb.emotion> feel, experience -- (undergo an emotional sensation; "She felt resentful"; "He felt regret")

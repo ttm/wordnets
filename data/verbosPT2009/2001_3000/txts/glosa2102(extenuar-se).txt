@@ -1,0 +1,40 @@
+ANÁLISE DA GLOSA2102
+
+DADO O SYNSET:
+	
+S='Glosa2102'
+    	{alquebrar-se: Vimo-los M]alquebrarem-se rapidamente. # H]Alquebrara-se de tanto trabalhar.,
+      	 cansar-se: As pessoas de muita idade A]cansam-se facilmente.  ,
+      	 depauper-se: x,
+      	 derrear-se: I]Derreou-se com a caminhada. ,
+      	 enfraquecer-se: x,
+      	 enfraquentar-se: x,
+      	 esfalfar-se: Guga teve que conquistar cada ponto, trocando bolas, I]esfalfando-se em exaustivos "rallies" com o mais que atlético Magnus Norman.,
+      	 esgotar-se: I]Esgotando-se física e mentalmente. # H]Esgotou-se de tanto trabalhar.,
+      	 exaurir-se: M]Esforçou-se até exaurir-se.,
+      	 exaustar-se: x,
+      	 extenuar-se: I]Extenuou-se na tarefa de tantos dias seguidos erguer às costas o material de gravação e reunir as pessoas, «propositadamente para as gravações». ,
+      	 moer-se: O estivador H]moeu-se de carregar tanto peso.,
+      	 prostrar-se: H]Prostraram-se com a caminhada.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2102' = “perder as forças”
+    	{alquebrar-se: Fidel, submetido a violências e privações, I]alquebrou-se fisicamente.,
+      	 cansar-se: Ele seria capaz de dançar sem cair nem se [cansar.,
+      	 derrear-se: O cavalo teve um tremor violentíssimo, I]derreou-se, caiu de prancha com um baque surdo, arrebentado de tanto esforço.,
+      	 esfalfar-se: Guga teve que conquistar cada ponto, trocando bolas, I]esfalfando-se em exaustivos "rallies" com o mais que atlético Magnus Norman.,
+      	 esgotar-se: E Nino cansou, I]esgotou-se de tanto trabalho.,
+      	 exaurir-se: Percebe-se que ali viveu alguém que não “guardou” a própria vida para si, mas I]exauriu-se no cuidado das almas que lhe foram entregues.,
+      	 extenuar-se: Os guerreiros se I]extenuaram na batalha musical e estavam descansando,
+      	 moer-se: Nessa idade, a criança aprende a jogar bola, pular, correr, andar de bicicleta e se I]moe incrivelmente depressa.,
+      	 prostrar-se: Ei-lo imóvel, como convém a quem se I]prosta de cansaço.}
+Chave: EXTENUAR-SE <verb.change>
+ILI: 00456687
+
+Sense 1
+{00456687} <verb.change> wilt1 -- (lose strength; "My opponent was wilting")
+       => {00216002} <verb.change> weaken -- (become weaker; "The prisoner's resistance weakened after seven days")
+           => {00146081} <verb.change> decrease, diminish, lessen, fall6 -- (decrease in size, extent, or range; "The amount of homework decreased towards the end of the semester"; "The cabin pressure fell dramatically"; "her weight fall to under a hundred pounds"; "his voice fell to a whisper")
+               => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

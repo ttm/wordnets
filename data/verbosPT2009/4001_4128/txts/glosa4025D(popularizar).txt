@@ -1,0 +1,60 @@
+ANÁLISE DA GLOSA4025
+
+DADO O SYNSET:
+
+S='Glosa4025'
+{apregoar: A Revolução Francesa I]apregoou em 1789 os princípios da liberdade, da igualdade e da fraternidade, que se tornaram o cerne da primeira Constituição.,
+assoalhar: Por mais que fosse prevenido, não tardou a A]assoalhar a notícia do noivado desfeito. ,
+dar: Tal é a notícia que os jornais M]deram.,
+derramar1: Logo que se I]derramou a notícia do falecimento do bispo de Olinda, D.Vital, Maria Gonçalves de Oliveira, as igrejas da capital entraram a dar sinais fúnebres, que foram repetidos várias vezes anteontem e ontem.,
+dessegredar: Vou cortejar históricos mirantes, palácios e palacetes sorrindo heroicidade, I]dessegredar seus rendilhados monogramas das sacadas e balcões de ferro.,
+difundir: As autoridades sanitárias brasileiras I]difundiram a notícia de uma peste suína em todos os nossos rebanhos e criações.,
+dilatar: Eram nossos maiores que deram novos mundos ao mundo e I]dilataram a fé e o império.,
+disseminar: Foram os apóstolos que I]disseminaram a mensagem do evangelho aos mais diferentes e longínquos lugares do mundo.,
+divulgar: Vendo-o, I]divulgaram a palavra que acerca do menino lhes fora dita. ,
+espalhar: Assim I]espalharam notícias falsas entre os israelitas a respeito da terra que haviam espionado.,
+expandir: Com o objetivo de despertar a solidariedade e I]expandir a mensagem de solidariedade contra a fome, seminários e painéis do evento estão sendo transmitidos.,
+generalizar: Ele I]generalizou o uso da distribuição normal além da sua aplicação para a análise de erros.,
+irradiar: Dentro de poucos minutos, Winchell I]irradiou a notícia acerca de Kovarik.,
+noticiar: A Folha [noticiou em setembro que o prejuízo do BB nos dois primeiros meses após o real (julho e agosto) somava R$ 500 milhões pelas regras normais de balanço .,
+passear: M]Passeava idéias renovadoras.,
+popularizar: A música de Gilberto Gil vai poder ser ouvida diariamente: a partir do final do mês, a TVE do Rio reapresenta os cem primeiros episódios de «Sítio do Picapau Amarelo», série que [popularizou a obra de Monteiro Lobato.,
+preconizar: I]Preconizava a prática regular de esportes, em especial a caminhada, que tinha como o mais recomendável.,
+pregoar: Naquele Brasil de estrutura feudal, I]pregoava a necessidade da educação para todos, com metodologia adequada às crianças da cidade e às crianças do campo.,
+proclamar: Essa declaração, votada pela Assembléia Nacional em 1789, I]proclamava a liberdade e a igualdade dos direitos de todos os homens, reivindicando seus direitos.,
+professar: O clero medieval não I]professava o mesmo cristianismo dos apóstolos e dos mártires.,
+promulgar: A Igreja A]promulgou nos últimos anos várias encíclicas.,
+propagar: Não se poderia I]propagar a notícia de uma morte alí naquele momento.,
+propalar: O Governo mandará passar pelas armas todos aqueles que, estrangeiros ou não, I]propalar boatos relativamente a assuntos comunistas.,
+publicar: O imperador I]publicou a notícia de que todas as pessoas deviam registrar-se, para o pagamento de um novo imposto.,
+soalhar: x,
+solhar: x,
+soprar: M]Soprava notícias sensacionalistas.,
+universalizar: Tendo a concordar com ele, em especial no que se refere à extraordinária e incontrolável capacidade de I]universalizar a notícia, pela multiplicação.,
+veicular: O site americano Blabbermouth I]veiculou a notícia de que a banda norueguesa de Black Metal Gorgoroth estaria preparando uma turnê sul-americana.,
+vulgar: x,
+vulgarizar: Uma propaganda bem planejada H]vulgarizou a imagem do artista por todo o país.,
+zabumbar: H]Zabumbava os acontecimentos recentes para a multidão,}
+	  
+A='Glosa1544'
+{confidenciar, segredar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4025D' = “fornecer ao gosto popular para tornar popular e apresentar ao público geral; levar ao uso geral ou comum”
+{popularizar: A música de Gilberto Gil vai poder ser ouvida diariamente: a partir do final do mês, a TVE do Rio reapresenta os cem primeiros episódios de «Sítio do Picapau Amarelo», série que [popularizou a obra de Monteiro Lobato.,
+generalizar: Ele I]generalizou o uso da distribuição normal além da sua aplicação para a análise de erros.,
+universalizar: Tendo a concordar com ele, em especial no que se refere à extraordinária e incontrolável capacidade de I]universalizar a notícia, pela multiplicação.,
+vulgarizar: Uma propaganda bem planejada H]vulgarizou a imagem do artista por todo o país., }
+Chave: POPULARIZAR <verb.communication>
+ILI: 00938187
+
+Sense 1
+{00938187} <verb.communication> popularize, popularise, vulgarize, vulgarise, generalize4, generalise4 -- (cater to popular taste to make popular and present to the general public; bring into general or common use; "They popularized coffee in Washington State"; "Relativity Theory was vulgarized by these authors")
+       => {00936422} <verb.communication> circulate, circularize, circularise, distribute, disseminate, propagate, broadcast, spread, diffuse, disperse, pass around -- (cause to become widely known; "spread information"; "circulate a rumor"; "broadcast the news")
+           => {00922993} <verb.communication> publicize, publicise, air, bare -- (make public; "She aired her opinions on welfare")
+               => {00920928} <verb.communication> tell -- (let something be known; "Tell them that you will be late")
+                   => {00804489} <verb.communication> inform -- (impart knowledge of some fact, state or affairs, or event to; "I informed him of his rights")
+                       => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                           => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                               => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

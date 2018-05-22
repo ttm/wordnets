@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA1016
+
+DADO O SYNSET:
+
+S='Glosa1016'
+{adquirir: Os corpos [adquiriram eletricidade, positiva ou negativa, pelo atrito de um corpo em outro.,
+criar: Essas crianças provavelmente vão [criar o hábito de consultar sempre um atlas, o que é muito bom.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1016' = “adquirir certo aspecto, qualidade ou forma”
+{adquirir: O socialismo é um empreendimento de divinização do homem e [adquiriu certas características das religiões tradicionais.,
+criar: O embaixador do Brasil em Portugal, José Aparecido de Oliveira, [criou fama na política brasileira como ruim de voto e bom de articulação.}
+Chave: CRIAR <verb.change>  
+ILI: 00510844 
+
+Sense 2
+{00510844} <verb.change> assume, acquire, adopt1, take on, take1 -- (take on a certain form, attribute, or aspect; "His voice took on a sad tone"; "The story took a new turn"; "he adopted an air of superiority"; "She assumed strange manners"; "The gods assume human or animal form in these fables")
+       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

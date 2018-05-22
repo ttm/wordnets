@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA1368
+
+DADO O SYNSET:
+
+S='Glosa1368'
+{desdobrar-se: A longa cauda peluda I]desdobra-se como se fosse uma bandeira.,
+              desenrolar-se: M]Desenrolou-se a bela bandeira do mastro.,
+              desenroscar-se: A serpente, desentorpecida, M]desenroscou-se ao sol.,
+              estender-se: De tarde I]estende-se a toalha na relva, a viola soluça e em cada casinha daquelas ferve o sapateado.,}
+	  
+A='Glosa69'
+{dobrar-se, enrolar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1368' = “desenrolar-se ou desdobrar-se de um estado enrolado ou dobrado”
+{desdobrar-se: A longa cauda peluda I]desdobra-se como se fosse uma bandeira.,
+              desenrolar-se: O chicote I]desenrolou-se.,
+              desenroscar-se: Foi a noitinha chegar e uma fila parecendo uma cobra, se I]desenroscava pras bandas da fazenda.,
+              estender-se: Diante dele I]estende-se na parede um grande mapa, símbolo do amplo espaço das viagens, batalhas, comércio e aventuras que constituem o seu mundo.,}
+A='Glosa69'
+{dobrar-se, enrolar-se}
+Chave: DESENROLAR-SE <verb.change>
+ILI: 00423103
+
+Sense 2
+{00423103} <verb.change> unfurl, unroll -- (unroll, unfold, or spread out or be unrolled, unfolded, or spread out from a furled state; "unfurl a banner")
+       => {00345030} <verb.change> change surface -- (undergo or cause to undergo a change in the surface)
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

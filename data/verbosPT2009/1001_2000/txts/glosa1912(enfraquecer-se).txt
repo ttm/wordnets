@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA1912
+
+DADO O SYNSET:
+
+S='Glosa1912'
+{atenuar-se: Mas a timidez dessas empresas parece I]atenuar-se, já que os jovens dirigentes de maneira geral são mais ofensivos. ,
+ enfraquecer-se: Mas são trunfos que, se não forem bem cuidados, só tendem a [enfraquecer-se com o passar do tempo.,
+ enfraquentars-e: x,
+ esbater-se: A fronteira entre formação profissional inicial e formação profissional contínua começa a I]esbater-se e bem assim entre formação profissional e formação geral. ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1912' = “ficar menor em quantidade ou intensidade”
+{atenuar-se: Mas a timidez dessas empresas parece I]atenuar-se, já que os jovens dirigentes de maneira geral são mais ofensivos. ,
+ enfraquecer-se: Mas são trunfos que, se não forem bem cuidados, só tendem a [enfraquecer-se com o passar do tempo.,
+ esbater-se: A fronteira entre formação profissional inicial e formação profissional contínua começa a I]esbater-se e bem assim entre formação profissional e formação geral.,}
+Chave: ENFRAQUECER-SE <verb.change>
+ILI: 00236959
+
+Sense 2
+{00236959} <verb.change> abate, let up, slack off1, slack7, die away -- (become less in amount or intensity; "The storm abated"; "The rain let up after a few hours")
+       => {00146081} <verb.change> decrease, diminish, lessen, fall6 -- (decrease in size, extent, or range; "The amount of homework decreased towards the end of the semester"; "The cabin pressure fell dramatically"; "her weight fall to under a hundred pounds"; "his voice fell to a whisper")
+           => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

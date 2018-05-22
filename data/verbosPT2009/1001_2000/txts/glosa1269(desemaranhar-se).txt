@@ -1,0 +1,35 @@
+ANÁLISE DA GLOSA1269
+
+DADO O SYNSET:
+
+S='Glosa1269'
+{desemaranhar-se: H]Desmaranha-se um rolo de linha,
+ desembaraçar-se: Cabelos Normais contém glândulas que lubrificam adequadamente os fios; I]desembaraçam-se com facilidade. ,
+ desembolar-se: Linhas grossas tem menos chances de cortar a você ou a outra pessoa, e são mais fáceis de [se desembolar, caso enrosque nelas.,
+ desenlear-se: x,
+	 desenredar-se: Embora a atividade de costurar seja bem distinta, em teoria e na prática essas agulhas formam um emaranhado bastante difícil de I]se desenredar,
+ imbramar-se: DEVIANT,
+ soltar-se: Fernanda pilotava um kart quando seus cabelos presos num rabo-de-cavalo [se soltaram e enroscaram na correia do motor do kart . ,}
+	  
+A='Glosa3378'
+{emaranhar-se, embaraçar-se, enlear-se, enredar-se, enroscar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1269' = “desembaraçar-se de um emaranhamento” 
+{desemaranhar-se: As linhas do novelo continuaram I]se desemaranhando em alguns pontos e enredando em outros.,
+ desembaraçar-se: A ICANN vem cumprindo seu papel paulatinamente, se estabelecendo no cenário à medida em que I]se desembaraça dos nós e armadilhas impostos pelo seu processo de criação e crescimento.,
+ desembolar-se: L As aventuras se desenrolavam conforme a história ia I]se desembolando.,
+ 	 desenredar-se: Uma imensa rede cheia nós só I]se desenreda com uma visão global do emaranhado e um paciente trabalho atento ao conjunto.,
+ soltar-se: Fernanda pilotava um kart quando seus cabelos presos num rabo-de-cavalo [se soltaram e enroscaram na correia do motor do kart.,}
+A='Glosa3378'
+{emaranhar-se, embaraçar-se, enlear-se, enredar-se, enroscar-se}
+Chave: DESEMARANHAR-SE <verb.contact>
+ILI: 01421943
+
+Sense 1
+{01421943} <verb.contact> disentangle, unsnarl, straighten out1 -- (extricate from entanglement; "Can you disentangle the cord?")
+       => {00268653} <verb.change> order -- (bring order to or into; "Order these files")
+           => {01422386} <verb.contact> arrange, set up -- (put into a proper or systematic order; "arrange the books on the shelves in chronological order")
+               => {01452069} <verb.contact> put, set, place, pose2, position, lay1 -- (put into a certain place or abstract location; "Put your things here"; "Set the tray down"; "Set the dogs on the scent of the missing children"; "Place emphasis on a certain point")
+                   => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

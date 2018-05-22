@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA1049A
+
+DADO O SYNSET:
+
+S='Glosa1049'
+{decimar: Um purgo sangrente I]decimou o exército.,
+ defraudar: Quem não começar por aí, está I]defraudando 50 milhões de famélicos. ,
+ desfalcar: Segundo Celso Vernizzi, os carros são de reserva e não [desfalcaram a frota da empresa.,
+ dizimar: Os choques entre vietcongues, exército de guerrilheiros comunistas, os vietnamitas do sul e os soldados norte-americanos [dizimaram milhares de vidas.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1049' = “matar um em cada grupo de dez”
+{decimar: Um purgo sangrente I]decimou o exército.,
+ dizimar: Os choques entre vietcongues, exército de guerrilheiros comunistas, os vietnamitas do sul e os soldados norte-americanos [dizimaram milhares de vidas.,}
+Chave: DIZIMAR <verb.change>
+ILI: 00457879 
+
+Sense 1
+{00457879} <verb.change> decimate1 -- (kill one in every ten, as of mutineers in Roman armies)
+       => {01284688} <verb.contact> kill -- (cause to die; put to death, usually intentionally or knowingly; "This man killed several people when he tried to rob a bank"; "The farmer killed a pig for the holidays")

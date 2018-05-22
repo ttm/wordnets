@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA0219
+
+DADO O SYNSET:
+
+S='Glosa219'
+{abaixar: Os selvagens [abaixaram as armas e não deram um passo.,
+ baixar: O unicórnio nunca come ou bebe água I]baixando a cabeça. ,
+ descer: Sem aguardar resposta, [desceu as cortinas de um e outro lado, e ficaram os dous a sós, porque, se de dentro podiam ver uma ou outra pessoa que passasse, de fora ninguém os via. ,
+ pender: Isabel [pendeu a cabeça lânguida sobre o ombro de Álvaro.,}
+A='Glosa220'
+{alevantar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa219' = “mover algo ou alguém para uma posição inferior”
+{abaixar: Os selvagens [abaixaram as armas e não deram um passo.,
+ baixar: O unicórnio nunca come ou bebe água I]baixando a cabeça. ,
+ descer: Sem aguardar resposta, [desceu as cortinas de um e outro lado, e ficaram os dous a sós, porque, se de dentro podiam ver uma ou outra pessoa que passasse, de fora ninguém os via. ,
+ pender: Isabel [pendeu a cabeça lânguida sobre o ombro de Álvaro.,}
+A='Glosa220'
+{alevantar}
+Chave: BAIXAR <verb.motion>
+ILI: 01915250
+
+Sense 1
+{01915250} <verb.motion> lower, take down, let down, get down, bring down1 -- (move something or somebody to a lower position; "take down the vase from the shelf")
+       => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

@@ -1,0 +1,40 @@
+ANÁLISE DA GLOSA3421
+
+DADO O SYNSET:
+
+S='Glosa3421'
+	    {
+	      acaridar-se: H]Acaridava-se de todos os doentes.,
+	      amercear-se: O Senhor H]amerceie-se de nós.,
+	      amiserar-se: Insensível, não se H]amiserava dos desafortunados.,
+	      apiadar-se: x,
+	      apiedar-se: O povo de sua cidadezinha se I]apiedava, quando o via tão pequeno completamente cego, seguindo seu caminho pelas ruas com uma bengala.,
+	      comiserar-se: I]Comisera-se de sua preguiça e de sua impaciência, talvez seu "pecado mais querido", pois o desestimulou de participar de qualquer tipo de vida pública.,
+	      compadecer-se: Tu não és digno dos golpes de um guerreiro chefe; mas Pojucã se [compadece de tua mocidade e consente em combater contigo. ,
+	      condoer-se: Nada resta em seu corpo, outrora amado de Eco e a ninfa, que ao fitá-lo se [condói, ferida.,
+	      doer-se: E como o havia amado muito, envergonhava-se e I]doía-se tanto por ele, vendo sua carne quase morta, por causa da mortificação demasiada e pelo frio. ,
+	      lastimar: O Coruja, vendo-o assim, teve um ar compadecido e I]lastimou-o com um sorriso triste.,
+	      mazelar-se: M] Mazelar-se-ia se soubesse daquilo.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3421' = “compartilhar o sofrimento”
+	     {acaridar-se: H]Acaridava-se de todos os doentes.,
+	      amercear-se: A moça I]amerceou-se, inconsolável.,
+	      amiserar-se: Insensível, não se H]amiserava dos desafortunados.,
+	      apiedar-se: Pedro I]apiedava-se do amigo médico.,
+	      comiserar-se: I]Comiserou-se pelo espírito juvenil revolucionário.,
+	      compadecer-se: Ana Rosa [compadecia-se da amiga e escutava-lhe de boa-fé as frioleiras. ,
+	      condoer-se: I]Condoía-se dos pobres escravos e procurava evitar que se cometessem sobre eles castigos excessivos.,
+	      doer-se: E como o havia amado muito, envergonhava-se e I]doía-se tanto por ele, vendo sua carne quase morta, por causa da mortificação demasiada e pelo frio. ,
+	      lastimar: O faraó tratou de destruir Israel cruelmente; porém, a sua própria filha se I]lastimou por um menino hebreu.,
+	      mazelar-se: M] Mazelar-se-ia se soubesse daquilo.,}
+Chave: COMPADECER-SE <verb.emotion>
+ILI: 01769125
+
+Sense 1
+{01769125} <verb.emotion> feel for, pity, compassionate, condole with, sympathize with -- (share the suffering of)
+       => {01745079} <verb.emotion> grieve, sorrow -- (feel grief; eat one's heart out)
+           => {01742440} <verb.emotion> suffer -- (endure (emotional pain); "Every time her husband gets drunk, she suffers")
+               => {01720480} <verb.emotion> feel, experience -- (undergo an emotional sensation; "She felt resentful"; "He felt regret")

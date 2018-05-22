@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA2018
+
+DADO O SYNSET:
+	
+S='Glosa2018'
+    	{espipar: x,
+      	 furar: Foi quando em um concerto, ele pisou em algo e I]furou o sapato e até saiu sangue.,
+      	 romper: A vegetação agreste A]rompeu as roupas dos excursionistas.  ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2018' = “romper repentinamente e com violência” 
+    	{furar: A minha primeira almofada durou 3 anos e nove meses, quando I]furou o recipiente plástico que armazena o silicone.,
+      	 romper: A barragem [rompeu no meio.}
+Chave: ROMPER <verb.change>
+ILI: 00323232
+
+Sense 8
+{00323232} <verb.change> burst1, bust -- (break open or apart suddenly and forcefully; "The dam burst")
+       => {00323679} <verb.change> break, separate3, split up, fall apart3, come apart -- (become separated into pieces or fragments; "The figurine broke"; "The freshly baked loaf fell apart")
+           => {00135037} <verb.change> change integrity -- (change in physical make-up)
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

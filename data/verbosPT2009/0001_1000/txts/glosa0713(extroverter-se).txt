@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0713
+
+DADO O SYNSET:
+
+S='Glosa713'
+{extroverter-se: Ora, pomo-nos para fora em direção a outrem que recebe nossa expressão e acolhe nossas significações; e obviamente esse outrem I]extroverte-se por sua vez. ,}
+A='Glosa3769'
+{concentrar-se, ensimesmar-se, fechar-se, introverter-se, perder-se, recolher-se, retrair-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa713' = “mudar para o estado de extroversão” 
+{extroverter-se: Ora, pomo-nos para fora em direção a outrem que recebe nossa expressão e acolhe nossas significações; e obviamente esse outrem I]extroverte-se por sua vez. ,}
+A='Glosa3769'
+{concentrar-se, ensimesmar-se, fechar-se, introverter-se, perder-se, recolher-se, retrair-se}
+Chave: EXTROVERTER-SE <verb.change>
+ILI: EQ_HAS_HYPERONYM - 00133458
+
+Sense 1
+{00133458} <verb.change> change by reversal, turn, reverse -- (change to the contrary; "The trend was reversed"; "the tides turned against him"; "public opinion turned when it was revealed that the president had an affair with a White House intern")
+       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

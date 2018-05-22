@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA2209
+
+DADO O SYNSET:
+
+S='Glosa2209'
+	    {cobrir-se: Tomou o hábito, vestiu-o sobre o seu novo trajo, e escondendo na manga o chapéu do aventureiro, [cobriu-se com o largo capelo; então abriu a porta e dirigiu-se a Nunes.,
+	      revestir-se: Depois de erigir o altar no monte Eta, [revestiu-se com a túnica escarlate.,
+	      vestir-se: Quando as notícias chegaram ao rei de Nínive, ele se levantou do trono, tirou o manto real, I]vestiu-se de pano e sentou-se sobre cinza.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2209' = “prover-se com uma cobertura ou tornar-se coberto”
+	    {cobrir-se: Tomou o hábito, vestiu-o sobre o seu novo trajo, e escondendo na manga o chapéu do aventureiro, [cobriu-se com o largo capelo;.,
+	      revestir-se: Depois de erigir o altar no monte Eta, [revestiu-se com a túnica escarlate.,
+	      vestir-se: Quando as notícias chegaram ao rei de Nínive, ele se levantou do trono, tirou o manto real, I]vestiu-se de pano e sentou-se sobre cinza.,}
+
+Chave: COBRIR-SE  <verb.contact>
+ILI: 01293336
+
+Sense 1
+{01293336} <verb.contact> cover -- (provide with a covering or cause to be covered; "cover her face with a handkerchief"; "cover the child with a blanket"; "cover the grave with flowers")

@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA2024
+
+DADO O SYNSET:
+	
+S='Glosa2024'
+    	{endemoninhar: O culto ao ídolo não ajudava no fortalecimento da fé, da caminhada e não construía, pelo contrário, esvaziava e I]endemoninhava, alienava, o homem hebreu.,
+      	 espiritar: x,}
+  
+A='Glosa1641'
+    	{adjurar, conjurar, desconjurar, desdemoniar, esconjurar, exorcismar, exorcizar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2024' = “transformar em demônio”
+    	{endemoniar: O projeto de “Prática de Ensino em Escolas do MST” incorpora toda a carga ideológica com que as elites conservadoras do país I]endemoniaram o movimento dos trabalhadores rurais que lutam por terra.,
+ endemoninhar: O papa I]endemoninhou os turcos e apresentou a cruzada como uma apocalíptica guerra entre as duas crenças.}
+  
+A='Glosa1641'
+    	{adjurar, conjurar, desconjurar, desdemoniar, esconjurar, exorcismar, exorcizar}
+Chave: ENDEMONINHAR <verb.change>
+ILI: 00532592
+
+Sense 1
+{00532592} <verb.change> demonize, demonise -- (make into a demon; "Power had demonized him")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

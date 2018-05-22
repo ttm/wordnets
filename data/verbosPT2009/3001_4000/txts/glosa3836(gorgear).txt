@@ -1,0 +1,39 @@
+ANÁLISE DA GLOSA3836
+
+DADO O SYNSET:
+
+S='Glosa3836'
+{chalrar: Toda a sua pessoa, desde as plumazinhas que frisavam no chapéu até à ponta reluzente das botinas de verniz, se agitava, vibrava, como um ramo tenro sob o boliço do pássaro a I]chalrar.,
+	 chalrear: x,
+	 chilrar: Os pássaros daqui a pouco começarão a I]chilrar, e isso me parece insuportável.,
+	 chilrear: De uma gaiola, dependurada entre as janelas desse lado, [chilreava um sabiá.,
+	 estribilhar: x,
+	 galrear: Aves despertando I]galreavam festivamente o canto da madrugada.,
+	 galrejar: x,
+	 gorjear: Pássaros felizes I]gorjeavam, e em lassidão mais um dia se esvaia.,
+	 papear: Nos florões manuelinos da janela I]Papeiam aves o seu ninho armando.,
+	 pipilar: Pássaros saltavam de um lado para outro, [pipilando um madrigal.,
+	 pipitar: As aves que A]pipitam docemente.,
+	 regorjear: x,
+	 trilar: Nos galhos altos, I]trilam os pássaros.,
+	 trinar: O sabiá [trinava desesperadamente na varanda.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3836' = produzir sons melodiosos”
+{chalrar: Toda a sua pessoa, desde as plumazinhas que frisavam no chapéu até à ponta reluzente das botinas de verniz, se agitava, vibrava, como um ramo tenro sob o boliço do pássaro a I]chalrar.,
+	 chilrar: Os pássaros daqui a pouco começarão a I]chilrar, e isso me parece insuportável.,
+	 chilrear: De uma gaiola, dependurada entre as janelas desse lado, [chilreava um sabiá.,
+	 galrear: Aves despertando I]galreavam festivamente o canto da madrugada.,
+	 gorjear: Pássaros felizes I]gorjeavam, e em lassidão mais um dia se esvaia.,
+	 papear: Nos florões manuelinos da janela I]papeiam aves o seu ninho armando.,
+	 pipilar: Pássaros saltavam de um lado para outro, [pipilando um madrigal.,
+	 pipitar: As aves que A]pipitam docemente.,
+	 trilar: Nos galhos altos, I]trilam os pássaros.,
+	 trinar: O sabiá [trinava desesperadamente na varanda.}
+Chave: GORJEAR <verb.communication>
+ILI: 01033947
+
+Sense 3
+{01033947} <verb.communication> sing8 -- (to make melodious sounds; "The nightingale was singing")
+       => {00951670} <verb.communication> utter2, emit, let out2, let loose -- (express audibly; utter sounds (not necessarily words); "She let out a big heavy sigh"; "He uttered strange sounds that nobody could understand")

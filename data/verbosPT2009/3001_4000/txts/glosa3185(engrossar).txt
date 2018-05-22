@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA3185
+
+DADO O SYNSET:
+
+S='Glosa3185'
+	    {
+	      adensar: À medida que o pote plástico vai sendo preenchido com cal, I]adensar o material, evitando que permaneça grande quantidade de ar no recipiente.,
+	      condensar: Este vapor, por ter baixa densidade, sobe e é arrastado pela circulação do ar atmosférico, em seguida, I]condensa formando as nuvens.,
+	      encrassar: x,
+	      engrossar: Quando [engrossar espalhe sobre a geléia.,
+	      espessar: Notou também que o empilhamento tectônico tenderia a [espessar a crosta principalmente para baixo do nível do mar, ao invés de para cima.,
+	      inspissar: x,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3185' = “tornar grosso ou mais grosso”
+	     {adensar: A bruma cósmica incandescente se I]adensou originando bolas rubras a girar em torno de si e em torno de outras.,
+	      condensar: Durante a divisão celular, a cromatina se I]condensa e se apresenta como cromossomos microscopicamente visíveis.,
+	      engrossar: Quando submetida a um esforço contínuo e excessivo, a fáscia se adensa, I]engrossa e perde a elasticidade.,
+	      espessar: Eles ganharam massa muscular, perderam gordura, I]espessaram a pele e melhoram a densidade mineral óssea.,}
+Chave: ENGROSSAR <verb.change>
+ILI: 00418959
+
+Sense 1
+{00418959} <verb.change> thicken1, inspissate1 -- (make thick or thicker; "Thicken the sauce"; "inspissate the tar so that it becomes pitch")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

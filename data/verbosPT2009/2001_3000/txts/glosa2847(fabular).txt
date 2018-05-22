@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA2847
+
+DADO O SYNSET:
+
+S='Glosa2847'
+	    {efabular: x,
+	      fabular: A palavra criação perseguiu o voluptuoso coração dos primeiros conquistadores e lhes impôs o inevitável recurso de I]fabular a realidade.,
+	      fabulizar: x,
+	      inventar: Mas seria muita cara de pau do secretário [inventar uma situação semelhante à desmentida pelo governador no mesmo dia em que Marcello fazia sua denúncia.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2847' = “Elaborar mentalmente alguma coisa artificial ou falsa”
+	    {fabular: Mas I]fabularam estes milagres.,
+	      inventar: Assessora diz que imprensa I]inventou a gravidez de Nicole Kidman.,}
+Chave: FABULAR <verb.creation>
+ILI: 01588165 
+
+Sense 2
+{01588165} <verb.creation> fabricate, manufacture1, cook up, make up1, invent1 -- (make up something artificial or untrue)
+       => {01587883} <verb.creation> think up, think of, dream up, hatch, concoct -- (devise or invent; "He thought up a plan to get rich quickly"; "no-one had ever thought of such a clever piece of software")
+           => {01585330} <verb.creation> create by mental act, create mentally -- (create mentally and abstractly rather than with one's hands)
+               => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor") 

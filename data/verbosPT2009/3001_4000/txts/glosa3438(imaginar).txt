@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA3438
+
+DADO O SYNSET:
+
+S='Glosa3438'
+	    {
+	      afigurar: Dando rédeas à imaginação, ela afigura um jovem razoavelmente promissor.,
+	      antojar: x,
+	      antolhar: Essa perspectiva é a mais terrível que se nos poderia ]antolhar nesta hora.,
+	      debuxar: E, nos seus sonhos agitados, [debuxava o seu futuro.,
+	      figurar: Alunos, professores, comunidades, não podem ]figurar apenas nos papéis e nas propostas.,
+	      imaginar: O engenheiro ]imaginava uma nova máquina.,
+	      mentalizar: Deveis ]mentalizar todas as partes essenciais das vossas aspirações.,
+	      traçar1: É preciso [traçar nossos objetivos.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3438' = “esperar, acreditar ou supor”
+	     {afigurar: Antes I]afigurava um deus sereno e forte.,
+	      antolhar: Na suprema direção se lhe I]antolhava um governo que na sua frase pretendia fazer "do cadáver moral da nação, o pedestal de sua triste glória".,
+	      debuxar: E, nos seus sonhos agitados, [debuxava o seu futuro.,
+	      figurar: Neste conjunto I]figurava também a ascensão ao poder de um governo de forte apelo popular liderado por Miguel Arraes.,
+	      imaginar: O engenheiro ]imaginava uma nova máquina.,
+	      mentalizar: Queria dinheiro, respirava dinheiro, I]mentalizava novas rendas e trazia a cabeça repleta de cifras.,
+	      traçar1: Ele I]traçou em sua cabeça o que o Brasil ia ser como território.,}
+Chave: IMAGINAR <verb.cognition>
+ILI: 00611681
+
+Sense 2
+{00611681} <verb.cognition> think3, opine2, suppose, imagine1, reckon2, guess -- (expect, believe, or suppose; "I imagine she earned a lot of money with her new novel"; "I thought to find her in a bad state"; "he didn't think to find her in the kitchen"; "I guess she is angry at me for standing her up")
+       => {00695861} <verb.cognition> expect, anticipate -- (regard something as probable or likely; "The meteorologists are expecting rain for tomorrow")
+           => {00647983} <verb.cognition> judge -- (form an opinion of or pass judgment on; "I cannot judge some works of modern art")
+               => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

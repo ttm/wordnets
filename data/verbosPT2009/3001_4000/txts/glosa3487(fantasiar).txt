@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA3487
+
+DADO O SYNSET:
+
+S='Glosa3487'
+	    {
+	      fantasiar: Convém manter os pés bem firmes na realidade, superando certa tendência para se iludir, [fantasiar demais ou se deixar levar pelo escapismo/Ao ver a viola quebrada no simbólico, o caipira passa a [fantasiar o sertão perdido,
+	      idealizar: No artigo do último domingo, argumentei que [idealizar o que nos falta é uma tendência natural do homem,
+	      imaginar: ...nunca se chega exatamente ao que se imaginou/O escritor vive numa realidade muito abstrata, mas, ao mesmo tempo, isso enriquece a experiência do leitor, que pode [imaginar,
+	      mistificar: A atual geração de didáticos, porém, não só continua a [mistificar a realidade, mas também comete erros banais,
+	      romancear: as autoras preferiram romancear a vida de Dora Vivacqua, em detrimento de uma apresentação que deveria privilegiar a análise/...era fácil romancear o tédio de cada dia, ,
+	      romantizar: Eu me lembro que os bandidos chegaram até a ser famosos; vocês até os [romantizavam/Bressane termina sua obra sem ]romantizar seu herói,
+	      sonhar: a realidade não mais oferece as utopias com que os cidadãos possam [sonhar, para compensar o vazio de um mundo destituído de valores/...problemas que atormentam o dia-a-dia desse ser fadado a imaginar, a sonhar, que é o escritor,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3487' = “imaginar; conceber; ver na mente”
+	     {fantasiar: I]Fantasiou que estando em outro país seus problemas acabariam,
+	      idealizar: Afinal, I]idealizava-se planando tal qual gaivota branca,
+	      imaginar: Natividade [imaginava outro e maior baile naquela mesma ilha,
+	      mistificar: "Central do Brasil" I]mistifica o sentimento do pobre como reduto e agente de solidariedade,
+	      romancear: O autor humaniza e expõe os sentimentos do personagem, ainda que alguns pensem que ele I]romanceou excessivamente Juliano VP  ,
+	      romantizar: Eu me lembro que os bandidos chegaram até a ser famosos; vocês até os [romantizavam/Já Oliver Stone I]romantizou a história, criando um casal tão cruel quanto apaixonado, e acrescentou um final bem diferente,
+	      sonhar: E [sonhava o noivado: um banquete esplêndido !,}
+Chave: FANTASIAR <verb.creation>
+ILI: 01589157
+
+Sense 1
+{01589157} <verb.creation> visualize, visualise, envision, project, fancy, see, figure, picture1, image -- (imagine; conceive of; see in one's mind; "I can't see him on horseback!"; "I can see what will happen"; "I can see a risk in this strategy")
+       => {01590121} <verb.creation> imagine, conceive of1, ideate1, envisage -- (form a mental image of something that is not present or that is not the case; "Can you conceive of him as the president?")
+           => {01585330} <verb.creation> create by mental act, create mentally -- (create mentally and abstractly rather than with one's hands)
+               => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

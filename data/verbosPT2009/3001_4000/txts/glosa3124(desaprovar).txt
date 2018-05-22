@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA3124
+
+DADO O SYNSET:
+
+S='Glosa3124'
+	    {
+	      condenar: Técnico que [condenou projeto do Dois Irmãos cria nova polêmica ao criticar a iluminação do Pão de Açúcar e do Corcovado.,
+	      desadorar1: Contra o que era de esperar, o chefe expedicionário não I]desadorou o alvitre.,
+	      desaprovar: O tenente-coronel Fernando Balestrero Florio, que se recusou a assinar um dos contratos, foi destituído do cargo; outro policial militar, que [desaprovou as importações iraelenses, foi transferido de seu posto.,
+	      enjeitar: Nunca I]enjeitou empreitada, fosse de capina, de extração de madeira ou de pescaria de peixe liso encomendado por peruanos e colombianos.,
+	      improbar: x,
+	      improvar: x,
+	      refutar: O congressista da Califórnia Harry Waxman [refutou a lista, reiterando acusações de que a indústria manipula os níveis da nicotina nos cigarros para viciar fumantes. ,
+	      reprovar: Em um dos seus vetos, [reprovou o seguro-garantia na época, a proposta era de um seguro-garantia de 100%, igual ao americano. ,
+	      vetar: Collor [vetou o reajuste bimestral dos benefícios, o cálculo das aposentadorias com base nos últimos três anos de contribuição e a fixação de pelo menos um salário para o aposentado rural . ,
+	    }
+	
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3124' = “julgar errado ou inapropriado“
+	     {condenar: O presidente não gostou da escalação de Válber na lateral direita e [condenou a apatia dos jogadores.,
+	      desadorar1: As crianças, anotou o próprio Lobato, ‘I]desadoram os brinquedos que dizem tudo, preferindo os toscos onde a imaginação colabore’.,
+	      desaprovar: Metade dos pesquisados [desaprova a política externa dos EUA.,
+	      refutar: O congressista da Califórnia Harry Waxman [refutou a lista, reiterando acusações de que a indústria manipula os níveis da nicotina nos cigarros para viciar fumantes. ,
+	      reprovar: Em um dos seus vetos, [reprovou o seguro-garantia na época, a proposta era de um seguro-garantia de 100%, igual ao americano. ,
+	      vetar: Collor [vetou o reajuste bimestral dos benefícios, o cálculo das aposentadorias com base nos últimos três anos de contribuição e a fixação de pelo menos um salário para o aposentado rural . ,}
+Chave: DESAPROVAR <verb.communication>
+ILI: 00781077
+
+Sense 2
+{00781077} <verb.communication> disapprove, reject -- (deem wrong or inappropriate; "I disapprove of her child rearing methods")
+       => {00647983} <verb.cognition> judge -- (form an opinion of or pass judgment on; "I cannot judge some works of modern art")
+           => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

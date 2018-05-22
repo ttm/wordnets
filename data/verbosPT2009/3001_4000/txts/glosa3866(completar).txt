@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA3866
+
+DADO O SYNSET:
+
+S='Glosa3866'
+{completar: Na reitoria, eles ajudaram a [completar as 300 cadeiras do auditório onde Quércia e sua candidata a vice, Iris de Araújo Rezende, discursaram . ,
+ plenificar: Só então a sabedoria dos mestres sábios poderá fluir e I]plenificar os nossos corações.,
+ preencher: Como vimos, os objetos informáticos são em geral definidos pelos seus vértices; conectando esses vértices através de linhas, obtemos polígonos fechados, cujo interior podemos [preencher com uma cor, uma escala de tons ou uma textura qualquer . ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3866' = “trazer uma totalidade [a], com todas as partes ou elementos necessários”
+{completar: A tevê I]completa a vida das pessoas.,
+ plenificar: A beleza da paisagem montanhosa, salpicada de flores primaveris encantou os olhos e I]plenificou a alma de quantos acompanharam o ilustre convidado.,
+ preencher: Paisagens, retratos e objetos em nada revelam a inspiração surrealista que [preencheria a vida do artista.}
+Chave: COMPLETAR <verb.change>
+ILI: 00442662
+
+Sense 2
+{00442662} <verb.change> complete -- (bring to a whole, with all the necessary parts or elements; "A child would complete the family")
+       => {00439460} <verb.change> fill1, fill up, make full -- (make full, also in a metaphorical sense; "fill a container"; "fill the child with pride")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

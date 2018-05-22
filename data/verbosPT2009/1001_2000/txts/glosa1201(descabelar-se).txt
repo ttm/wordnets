@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA1201
+
+DADO O SYNSET:
+
+S='Glosa1201'
+{arrepelar-se: Norberto chorava, I]arrepelava-se, pedia a morte, construía planos absurdos ou terríveis.,
+ descabelar-se: Só não se I]descabela porque não tem mais tanto cabelo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1201' = “arrancar os próprios cabelos, geralmente com alguma força ou esforço”
+{arrepelar-se: Norberto chorava, I]arrepelava-se, pedia a morte, construía planos absurdos ou terríveis.,
+ descabelar-se: Débora fica com vários garotos, chora por causa das espinhas, I]se descabela - literalmente - para manter o cabelo lisinho, vive pendurada ao telefone e sofre com a incompreensão dos pais!,}
+Chave: DESCABELAR-SE <verb.contact> 
+ILI: EQ_HAS_HYPERONYM – 01311287 – “arrancar, geralmente com alguma força ou esforço; também usado em sentido abstrato”
+
+Sense 3
+{01311287} <verb.contact> extract4, pull out, pull10, pull up, take out9, draw out5 -- (draw or pull out, usually with some force or effort; also used in an abstract sense; "pull weeds"; "extract a bad tooth"; "take out a splinter"; "extract information from the telegram")
+       => {00166870} <verb.change> remove, take, take away1, withdraw1 -- (remove something concrete, as by lifting, pushing, taking off, etc. or remove something abstract; "remove a threat"; "remove a wrapper"; "Remove the dirty dishes from the table"; "take the gun from your pocket"; "This machine withdraws heat from the environment")

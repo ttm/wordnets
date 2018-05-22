@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0857
+
+DADO O SYNSET:
+
+S='Glosa857'
+         {castelhanizar: Jacinto Cordeiro I]castelhanizou no título da obra o seu próprio nome, 
+           espanholizar: Não sabemos se a produção capta o valor do uno em espanhol ou se ela I]espanholiza uma forma do português,
+          hispanizar: Jorge de Montemor I]hispaniza o próprio nome para Montemayor e abandona a sua língua,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa857' = “tornar algo semelhante ao espanhol”
+{castelhanizar: Jacinto Cordeiro I]castelhanizou no título da obra o seu próprio nome,
+espanholizar: Não sabemos se a produção capta o valor do uno em espanhol ou se ela I]espanholiza uma forma do português,
+hispanizar: Jorge de Montemor I]hispaniza o próprio nome para Montemayor e abandona a sua língua,}
+Chave: ESPANHOLIZAR <verb.change>
+ILI: EQ_HAS_HYPERONYM – 00121430
+
+Sense 2
+{00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

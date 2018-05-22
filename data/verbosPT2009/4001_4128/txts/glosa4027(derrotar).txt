@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA4027
+
+DADO O SYNSET:
+
+S='Glosa4027'
+{derribar: Na verdade, Paulo ainda se declarou capaz de [derribar a monarquia com dez homens, e Pedro de extirpar o gérmen republicano com um decreto .,
+derrotar1: Jogou a túnica do uniforme no chão, voltou ao campo de batalha e [derrotou seus inimigos.,
+derrubar: É o caso do Chile, que, depois do golpe de Estado que [derrubou o presidente Salvaz Allende, em 1973, e implantou a ditadura do gene Pinochet.,
+desfazer: Desativou e vendeu empresas, fez e [desfez associações .,
+destruir: Cinco mulheres de Tróia sobrevivem a uma guerra que durou dez anos e [destruiu a cidade .,
+dissipar: A luz da manhã [dissipou os sonhos da noite, e arrancou de sua alma a lembrança do que sonhara .,
+esfazer: x,
+pervencer: x,
+profligar: Publicou obras e artigos esclarecedores de caráter espiritualista. I]Profligou a maldade, a corrupção, o desatino do poder da força.,
+quebrar: Para libertar-se desse mal, é necessário libertar-se do mundo; é preciso [quebrar os grilhões que nos prendem à realidade externa; portanto, os laços existentes em nossa constituição humana, em nossa psique e em nosso corpo .,
+rasgar: H]Rasgou a amizade de anos.,
+vencer: Peri [vencerá a água, como [venceu a todos os teus inimigos .,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4027' = “vencer [sobre]”
+{derribar: A cruz I]derribou "a parede de separação", que os distanciava dos gentios.,
+derrotar1: Jean, Grazi e Pink: a aliança que I]derrotou o preconceito. 
+derrubar: Essa história de incluir na regra do subteto algumas carreiras causava problemas para os governadores e I]derrubava a credibilidade do governo perante o mercado financeiro.,
+destruir: O próprio Imperador reconheceu que a luta na Espanha [destruiu suas forças .,
+profligar: Publicou obras e artigos esclarecedores de caráter espiritualista. I]Profligou a maldade, a corrupção, o desatino do poder da força.,
+quebrar: Para libertar-se desse mal, é necessário libertar-se do mundo; é preciso [quebrar os grilhões que nos prendem à realidade externa; portanto, os laços existentes em nossa constituição humana, em nossa psique e em nosso corpo .,
+rasgar: H]Rasgou a amizade de anos.,
+vencer: Carnaval que I]vence o preconceito em Laje é garantia de diversão.,}
+Chave: DERROTAR <verb.competition>
+ILI: 01072989
+
+Sense 1
+{01072989} <verb.competition> get the better of, overcome3, defeat -- (win a victory over; "You must overcome all difficulties"; "defeat your enemies"; "He overcame his shyness"; "She conquered here fear of mice"; "He overcame his infirmity"; "Her anger got the better of her and she blew up")

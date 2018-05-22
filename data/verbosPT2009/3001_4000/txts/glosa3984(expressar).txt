@@ -1,0 +1,42 @@
+ANÁLISE DA GLOSA3984
+
+DADO O SYNSET:
+
+S='Glosa3984'
+    	{apresentar: O conjunto dos 465 médicos I]apresentou uma opinião geral bastante indiferente no que concerne à influência dos laboratórios farmacêuticos.,
+      	 dar: O 2ª Grupo de Câmaras do Tribunal de Justiça do Rio [deu um parecer contrário à ação de reparos de danos morais, movida pelo diretor da NET, Paulo César Ferreira, contra o compositor Chico Buarque .,
+      	 declarar: Não se envergonharão de I]declarar sua ignorância.,
+      	 enunciar: Em geral, I]enunciar uma opinião é uma medida contra a experiência.,
+      	 explicar: A mãe perguntou o motivo, mas como no início, ao olhar-se no espelho, o rapaz não soube I]explicar o que sentia.,
+      	 expressar: Frei Betto I]expressou um pensamento muito disseminado entre os políticos brasileiros.,
+      	 exprimir: A moça não continuou; o olhar terminou o seu pensamento, e [exprimiu o espanto que lhe causava o procedimento de Cecília .,
+      	 formular: O governo trabalha nisso, mas não I]formulou uma opinião majoritária em seu interior sobre o que fazer.,
+      	 informar: Do total, 2% dos entrevistados não I]informaram sua opinião.,
+      	 manifestar: John Morrish, escritor e professor de jornalismo, I]manifestou uma opinião bastante crítica.,
+      	 pôr: DEVIANT,
+      	 presentar: x,
+      	 significar: Um aceno de cabeça A]significou sua aprovação.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3984' = “dar expressão [a]”
+    	{apresentar: O conjunto dos 465 médicos I]apresentou uma opinião geral bastante indiferente no que concerne à influência dos laboratórios farmacêuticos.,
+      	 dar: O 2ª Grupo de Câmaras do Tribunal de Justiça do Rio [deu um parecer contrário à ação de reparos de danos morais, movida pelo diretor da NET, Paulo César Ferreira, contra o compositor Chico Buarque.,
+      	 declarar: Ele [declarou sua posição em favor do behaviorismo, do mecanicismo e do operacionalismo estritos.,
+      	 enunciar: Em geral, I]enunciar uma opinião é uma medida contra a experiência.,
+      	 explicar: A mãe perguntou o motivo, mas como no início, ao olhar-se no espelho, o rapaz não soube I]explicar o que sentia.,
+      	 expressar: O povo italiano apenas [expressou o desejo de ser bem governado.,
+      	 exprimir: A moça não continuou; o olhar terminou o seu pensamento, e [exprimiu o espanto que lhe causava o procedimento de Cecília.,
+      	 formular: O governo trabalha nisso, mas não I]formulou uma opinião majoritária em seu interior sobre o que fazer.,
+      	 informar: Do total, 2% dos entrevistados não I]informaram sua opinião.,
+      	 manifestar: John Morrish, escritor e professor de jornalismo, I]manifestou uma opinião bastante crítica.,
+      	 significar: Na prática, a decisão [significa que o governo deve suspender até pelo menos a próxima rodada judicial a aplicação da nova lei.}
+Chave: EXPRESSAR <verb.communication>
+ILI: 00912790
+
+Sense 1
+{00912790} <verb.communication> express1, show2, evince -- (give expression to; "She showed her disappointment")
+       => {00898144} <verb.communication> convey, impart1 -- (make known; pass on, of information)
+           => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+               => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

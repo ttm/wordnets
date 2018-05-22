@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0427A
+
+DADO O SYNSET:
+
+
+S='Glosa427'
+{aliviar: Transportar esse sentimento de perda íntima para a obra literária I]aliviou-o, fê-lo compreender melhor o que sentia. ,
+reanimar: O empate em 1 a 1 com o Cruzeiro na terça-feira abalou a confiança de alguns, mas a goleada de ontem sobre o Olaria tratou de [reanimar os ânimos.,
+refrescar: As lágrimas que derramou não foram como as de sua prima, de alivio e consolo; foram lágrimas ardentes, que em vez de [refrescarem o coração, o queimam como o rescaldo da paixão.,
+restaurar: O monomate também é um líquido regenerativo capaz de I]restaurar as energias de um indivíduo, com ação eficaz e imediata.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa427A' = “tornar leve; sem peso (também metaforicamente) ou culpa”
+{aliviar: Transportar esse sentimento de perda íntima para a obra literária I]aliviou-o, fê-lo compreender melhor o que sentia.,
+refrescar: As lágrimas que derramou não foram como as de sua prima, de alivio e consolo; foram lágrimas ardentes, que em vez de [refrescarem o coração, o queimam como o rescaldo da paixão.,}
+Chave: ALIVIAR <verb.change>
+ILI: 00192201
+
+Sense 7
+{00192201} <verb.change> relieve5 -- (alleviate or remove; "relieve the pressure and the stress")
+       => {00192038} <verb.change> mitigate4 -- (make less severe or harsh; "mitigating circumstances")
+           => {00428838} <verb.change> decrease1, lessen2, minify -- (make smaller; "He decreased his staff")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

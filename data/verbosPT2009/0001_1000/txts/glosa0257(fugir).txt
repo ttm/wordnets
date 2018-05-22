@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0257
+
+DADO O SYNSET:
+
+S='Glosa257'
+{desertar: A viagem seria breve, mas mesmo assim, perdendo um dia ou dois, era como se começasse a [desertar da batalha.,
+fugir: Apesar de negar novas medidas, um diretor do BancoCentral também não [fugiu da responsabilidade.,
+retirar-se: Depois de recolocar seu irmão José no trono em Madri, o Imperador [retirou-se, deixando atrás de si a maior parte de seus efetivos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa257' = “afastar(-se) de algum lugar ou de alguém; pôr(-se) em fuga”
+{desertar: A viagem seria breve, mas mesmo assim, perdendo um dia ou dois, era como se começasse a [desertar da batalha.,
+fugir: Apesar de negar novas medidas, um diretor do BancoCentral também não [fugiu da responsabilidade.,
+retirar-se: Depois de recolocar seu irmão José no trono em Madri, o Imperador [retirou-se, deixando atrás de si a maior parte de seus efetivos.,}
+Chave: FUGIR <verb.motion>
+ILI: 02016325
+
+Sense 1
+{02016325} <verb.motion> run4, scarper, turn tail, lam, run away, hightail it, bunk, head for the hills, take to the woods, escape2, fly the coop, break away -- (flee; take to one's heels; cut and run; "If you see this man, run!"; "The burglars escaped before the police showed up")
+       => {01951556} <verb.motion> leave1, go forth, go away -- (go away from a place; "At what time does your train leave?"; "She didn't leave until midnight"; "The ship leaves at midnight")

@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA1273
+
+DADO O SYNSET:
+
+S='Glosa1273'
+{emburrar: Viveremos sempre à sombra desse herói subjetivo que quer sanar nossas despesas e I]emburrar nossas crianças,
+ emburricar: Preciso ser generalista do que tentar I]emburricar as pessoas,}
+	  
+A='Glosa1194'
+{desasnar, desbastar, desemburrar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1273' = “tornar menos intelligente”
+{emburrar: Viveremos sempre à sombra desse herói subjetivo que quer sanar nossas despesas e I]emburrar nossas crianças.}
+A='Glosa1194'
+{desasnar, desbastar, desemburrar}
+Chave: EMBURRAR <verb.change>
+ILI: EQ_HAS_HYPERONYM – 00254121
+
+Sense 1
+{00254121} <verb.change> impair -- (make worse or less effective; "His vision was impaired")
+       => {00250328} <verb.change> damage -- (inflict damage upon; "The snow damaged the roof"; "She damaged the car when she hit the tree")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

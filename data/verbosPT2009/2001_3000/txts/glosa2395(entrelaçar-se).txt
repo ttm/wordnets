@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA2395
+
+DADO O SYNSET:
+
+S='Glosa2395'
+	    {enastrar-se: x,
+	      encanastrar-se: x,
+	      entrançar-se: I]Entrançando-se novas talas (cipós), dá-se-lhe a forma desejada ajuntando-se-lhe, também, as guarnições indispensáveis.,
+	      entrelaçar-se: Galhos de tílias I]entrelaçam-se formando um portal para o mundo.,
+	      entretecer-se: Os fios coloridos passam de um tapete para outro, I]entretecendo-se em três dimensões. ,
+	      interlaçar-se: A superfície de batida da raquete deve ser plana sendo constituída de cordas cruzadas conectadas a uma armação, I]interlaçando-se alternadamente.,
+	      tecer-se: Passamanaria é uma tira estreita em que, I]tecendo-se ou traçando-se fios de seda, produz um desenho.,
+	      trançar-se: As caatingas são um aliado incorruptível do sertanejo em revolta, entram também de certo modo na luta,. armam-se para o combate; agridem, I]trançam-se, impenetráveis, ante o forasteiro, mas abrem-se em trilhas multívias, para o matuto que ali nasceu e cresceu.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2395' = “Tramar ou enlaçar conjuntamente para formar uma teia.”
+	    {entrançar-se: Aquele homem com aspecto de animal, cuja barba I]entrançava-se com os cabelos sujos.,
+	      entrelaçar-se: Galhos de tílias I]entrelaçam-se formando um portal para o mundo.,
+	      entretecer-se: I]Entreteciam-se os cipós. ,
+	      interlaçar-se: A superfície de batida da raquete deve ser plana sendo constituída de cordas cruzadas conectadas a uma armação, I]interlaçando-se alternadamente.,
+	      tecer-se: Passamanaria é uma tira estreita em que, I]tecendo-se ou traçando-se fios de seda, produz um desenho.,
+	      trançar-se: As caatingas são um aliado do sertanejo em revolta, entram também de certo modo na luta, armam-se para o combate, I]trançam-se impenetráveis.,}
+
+Chave: ENTRELAÇAR-SE <verb.contact>
+ILI: 01475424
+
+Sense 1
+{01475424} <verb.contact> intertwine, twine, entwine, enlace, interlace, lace1 -- (spin or twist together so as to form a cord; "intertwine the ribbons"; "Twine the threads into a rope")
+       => {01186160} <verb.contact> twist1, twine4, distort1 -- (form into a spiral shape; "The cord is all twisted")
+           => {00135866} <verb.change> change shape, change form, deform2 -- (assume a different shape or form)
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night") 

@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA2262
+
+DADO O SYNSET:
+
+S='Glosa2262'
+	    {choutar: x,
+	      choutear: A égua vinha A]chouteando pelo atalho pedregoso.,
+	      estrotejar: x,
+	      tropear: As jangadas se atracam. Quebra o cais, que é fraco. As árvores chiam. Os animais I]tropeiam. ,
+	      tropicar: x,
+	      trotar: Se for possível, coloque o cabresto no cavalo e leve-o para I]trotar por 20 ou 30 metros numa superfície dura. ,
+	      trotear: O sintoma é a paralisia dos membros posteriores, que fazem deslocar os membros de um lado para outro quando o animal I]troteia.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2262' = “andar em um certo tipo de passo ou galope”
+	    {choutear: A égua vinha A]chouteando pelo atalho pedregoso.,
+	      tropear: As jangadas se atracam. As árvores chiam. Os animais I]tropeiam. ,
+	      trotar: Coloque o cabresto no cavalo e leve-o para I]trotar numa superfície dura. ,
+	      trotear: O sintoma é a paralisia dos membros posteriores, que fazem deslocar os membros de um lado para outro quando o animal I]troteia.,}
+
+Chave: TROTAR <verb.motion>
+ILI: 01903340
+
+Sense 2
+{01903340} <verb.motion> trot1 -- (ride at a trot)
+       => {01901173} <verb.motion> ride horseback -- (ride on horseback)
+           => {01900091} <verb.motion> ride1, sit3 -- (sit and travel on the back of animal, usually while controlling its motions; "She never sat a horse!"; "Did you ever ride a camel?"; "The girl liked to drive the young mare")
+               => {01782203} <verb.motion> travel, go, move3, locomote -- (change location; move, travel, or proceed; "How fast does your new car go?"; "We travelled from Rome to Naples by bus"; "The policemen went from door to door looking for the suspect"; "The soldiers moved towards the city in an attempt to take it before night fell")

@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA3018
+
+DADO O SYNSET:
+
+S='Glosa3118'
+	    {
+	      arruir: x,
+	      cair: No número 96 da Rua Saint Roman, outro muro [caiu sobre um táxi Fiat Prêmio, que estava estacionado na calçada.,
+	      derrocar: Lesões radioativas oriundas de vazamento em central nuclear, cujo equipamento protetor I]derrocou por avalancha ou qualquer outro fenômeno da natureza.,
+	      desabar: O barranco que [desabou tinha cerca de 35 metros de altura.,
+	      desmoronar: Um barranco do garimpo [desmoronou quando os garimpeiros estavam procurando cassiterita (minério de estanho). ,
+	      implodir: Em um acidente acontecido em Massachusetts-USA, em 1905, um prédio de cinco andares literalmente I]implodiu com centenas de funcionários dentro, que estavam trabalhando naquele momento.,
+	      ruir: Na rua José Maia, 385, esquina com a rua padre Bernardino Bandeira, na Penha, uma casa [ruiu completamente, mas não houve vítimas. ,
+	      surucar: O barranco na beira do rio H]surucou.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3118' = “cair aos pedaços” 
+	     {cair: No número 96 da Rua Saint Roman, outro muro [caiu sobre um táxi Fiat Prêmio, que estava estacionado na calçada.,
+	      derrocar: Lesões radioativas oriundas de vazamento em central nuclear, cujo equipamento protetor I]derrocou por avalancha ou qualquer outro fenômeno da natureza.,
+	      desabar: O barranco que [desabou tinha cerca de 35 metros de altura.,
+	      desmoronar: Um barranco do garimpo [desmoronou quando os garimpeiros estavam procurando cassiterita (minério de estanho). ,
+	      implodir: Em um acidente acontecido em Massachusetts-USA, em 1905, um prédio de cinco andares literalmente I]implodiu com centenas de funcionários dentro, que estavam trabalhando naquele momento.,
+	      ruir: Na rua José Maia, 385, esquina com a rua padre Bernardino Bandeira, na Penha, uma casa [ruiu completamente, mas não houve vítimas. ,
+	      surucar: O barranco na beira do rio H]surucou.,}
+Chave: DESABAR <verb.motion>
+ILI: 01395145
+
+Sense 1
+{01395145} <verb.motion> crumble, crumple, tumble3, break down, collapse2 -- (fall apart; also used metaphorically: "Negociations broke down")
+       => {00093668} <verb.change> change integrity -- (change in physical make up)
+           => {00074063} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

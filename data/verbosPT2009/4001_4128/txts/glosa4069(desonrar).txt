@@ -1,0 +1,41 @@
+ANÁLISE DA GLOSA4069
+
+DADO O SYNSET:
+
+S='Glosa4069'
+{    avilar: x,
+     aviltar: A impureza é um gravíssimo e abominável pecado diante de Deus e dos homens; I]avilta o homem à condição dos brutos.,
+     degradar: A miséria I]degrada o homem na sua dignidade .,
+     deprimir: Sua arrogância H]deprime os companheiros de trabalho.,
+     desbriar: x,
+     desensoberbecer: Nem a derrocada de seus projetos H]desensoberbeceu-o.,
+     desonestar: H]Desonestaram suas origens.,
+     desonrar: Ele é capaz de ver aqueles a quem desapontou e talvez I]desonrou por seus atos.,
+     envilecer: Suas atitudes H]envileciam a reputação da família.,
+     funestar: A semelhança do filho com Escobar I]funestou Capitu para todo o sempre.,
+     humlhar: Faustão I]humilhou Géris durante entrevista no programa.,
+     pejorar: Como justificar essa campanha sórdida de desvalia que visa a atingir indiscriminadamente todos os registradores prediais, I]pejorando-os de nababos indolentes.,
+     profanar: Ele não quis [profanar o jovem deus em meio ao alvoroço de Tróia .,
+     prostituir: Criaturas infames H]prostituem crianças.,
+     rebaixar: Esta cosmovisão I]rebaixa o homem ao nível de um mero animal irracional.,}	  
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4069' = “fazer durar além do prazo estabelecido”
+
+{    aviltar: A impureza I]avilta o homem.,
+     degradar: A miséria I]degrada o homem na sua dignidade .,
+     deprimir: Sua arrogância H]deprime os companheiros de trabalho.,
+     desensoberbecer: Nem a derrocada de seus projetos H]desensoberbeceu-o.,
+     desonestar: H]Desonestaram suas origens.,
+     desonrar: Ele é capaz de ver aqueles a quem desapontou e I]desonrou.,
+     envilecer: Suas atitudes H]envileciam a reputação da família.,
+     funestar: A semelhança do filho com Escobar I]funestou Capitu para todo o sempre.,
+     rebaixar: Esta cosmovisão I]rebaixa o homem ao nível de um mero animal irracional.,}	  
+	  
+Chave: DESONRAR <verb.social
+ILI: 02471994
+
+Sense 1
+{02471994} <verb.social> dishonor, disgrace, dishonour, attaint, shame -- (bring shame or dishonor upon; "he dishonored his family by committing a serious crime")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

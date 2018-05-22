@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0149
+
+DADO O SYNSET:
+
+S='Glosa149'
+{acirrar-se: Esse processo [se acirrou, entretanto, com o freio imposto na economia no segundo trimestre do ano passado,
+esquentar-se: A discussão se I]esquentou, as vozes subiram de tom.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa149' = “tornar(-se) mais intenso, ou intensificar”
+{acirrar-se: Esse processo [se acirrou, entretanto, com o freio imposto na economia no segundo trimestre do ano passado,
+esquentar-se: A discussão se I]esquentou, as vozes subiram de tom.,}
+Chave: ACIRAR-SE <verb.change>
+ILI: 00218994
+
+Sense 3
+{00218994} <verb.change> intensify, deepen -- (become more intense; "The debate intensified"; "His dislike for raw fish only deepened in Japan")
+       => {00150804} <verb.change> increase -- (become bigger or greater in amount; "The amount of work increased")
+           => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA1729
+
+DADO O SYNSET:
+	  
+S='Glosa1729'
+{acertar: Foi feliz, A]acertou com um bom médico.,
+ atinar: Era difícil [atinar com a verdade. # A]Atinou desde cedo a vocação do filho.  ,
+ atremar: Ele mesmo H]atremou com a melhor solução.,
+ encarrilar: x,
+ encarrilhar: Não A]encarrilhava com o sentido daquelas palavras. ,}
+	  
+A='Glosa1730'
+{descarrilhar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1729' = “entender, geralmente depois de uma dificuldade inicial”
+{acertar: Nina Simoni (Taquara/RS) percebe que, após quatro anos de pesquisa, finalmente I]acertou seu foco.,
+ atinar: Quaresma não [atinou de pronto com o sentido da cena e foi, após o afastamento da lancha, que ele encontrou uma explicação.,}
+	  
+A='Glosa1730'
+{descarrilhar}
+Chave: ATINAR <verb.cognition>
+ILI: 00571527
+
+Sense 1
+{00571527} <verb.cognition> catch on, get wise, get onto, tumble, latch on, cotton on, twig, get it -- (understand, usually after some initial difficulty; "She didn't know what her classmates were plotting but finally caught on")
+       => {00569596} <verb.cognition> get the picture, comprehend, savvy, dig, grasp, compass, apprehend -- (get the meaning of something; "Do you comprehend the meaning of this letter?")
+           => {00570184} <verb.cognition> understand -- (know and comprehend the nature or meaning of; "She did not understand her husband"; "I understand what she means")

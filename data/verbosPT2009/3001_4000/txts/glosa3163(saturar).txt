@@ -1,0 +1,40 @@
+ANÁLISE DA GLOSA3163
+
+DADO O SYNSET:
+
+S='Glosa3163'
+	    {
+	      abeberar: Miga-se pão de trigo duro, e põe-se num tacho a I]abeberar com a água, temperando com azeite, dentes de alho, cortados aos bocadinhos, sal e pimenta. ,
+	      adensar: Fato não encontrado na parcela GP pois a segunda gradagem niveladora aplicada na área, age desagregando o solo na superfície, e I]adensando as camadas mais profundas, na soleira deste trabalho.,
+	      beberar: x,
+	      carregar: Neste local a água encontra um caminho mais fácil para passar e com mais velocidade, I]carregando o solo deste local.,
+	      embeber: I]Embeber algodão com o produto, e passar sobre as unhas logo.,
+	      embeberar: As praças fizeram rolos de pano velho, I]embeberam-os no líquido inflamável e começaram a jogar nos fossos, casas, trincheiras. ,
+	      encher: x,
+	      impregnar: I]Impregnar os comprimidos inertes com insumo ativo líquido, na proporção de 10%.,
+	      infiltrar: Se os sintomas não forem localizados, não devemos tentar I]infiltrar múltiplos locais pois o risco de infectar uma bolsa ou uma articulação fica preocupante.  ,
+	      repassar: A cozinheira A]repassou o doce na calda de açúcar.,
+	      saturar: A suplementação deste produto ajuda a I]saturar seus músculos com creatina.,
+	      tomar: O papel H]tomara pouca tinta.,
+	      transir: Aquelle lindo dia, toldado de tarde, findára n'uma chuvinha miúda que I]transia as ruas.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3163'
+	    {carregar: A água I]carrega a terra macia, ou, quando desafiada pelas rochas, procura um caminho em torno... Satura a atmosfera de modo que o vento morre.,
+	      embeber: A multidão que o linchou [embebeu seu corpo com gasolina e ateou fogo.,.,
+	      embeberar: As praças fizeram rolos de pano velho, I]embeberam-os no líquido inflamável e começaram a jogar nos fossos, casas, trincheiras. ,
+	      impregnar: A lima I]impregna o compartimento da bateria causando uma célula na bateria que inibe a correta operação da célula de ácido.,
+	      infiltrar: De acordo com a moradora, a água também I]infiltrou no muro de sua casa que está prestes a cair.  ,
+	      repassar: A cozinheira A]repassou o doce na calda de açúcar.,
+	      saturar: O excesso de água I]satura o solo, diminuindo a sua resistência.,
+	      transir: Aquelle lindo dia, toldado de tarde, findára n'uma chuvinha miúda que I]transia as ruas.,}
+Chave: SATURAR <verb.change>
+ILI: 00443063
+
+Sense 8
+{00443063} <verb.change> soak, imbue1 -- (fill, soak, or imbue totally; "saturate the bandage with disinfectant")
+       => {00484286} <verb.change> impregnate, saturate4 -- (infuse or fill completely; "Impregnate the cloth with alcohol")
+           => {00439460} <verb.change> fill1, fill up, make full -- (make full, also in a metaphorical sense; "fill a container"; "fill the child with pride")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

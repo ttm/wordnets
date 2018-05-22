@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA2461
+
+DADO O SYNSET:
+S='Glosa2461'
+	    {solfar: x,
+	      solfejar: Ele apenas [solfejara para o mestre o "nesta rua, nesta rua tem um bosque".,}
+
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2461' = “Recitar as letras de ou dar grafia de.”
+	    {solfejar: Ele apenas [solfejara para o mestre o "nesta rua, nesta rua tem um bosque".,}
+
+Chave: SOLFEJAR <verb.communication>
+ILI: EQ_HAS_HYPERONYM - 00907085
+
+Sense 1
+{00907085} <verb.communication> spell -- (recite the letters of or give the spelling of; "How do you spell this word?")
+       => {00914118} <verb.communication> recite -- (repeat aloud from memory; "she recited a poem"; "The pupil recited his lesson for the day")
+           => {00925921} <verb.communication> repeat1, echo -- (to say again or imitate; "followers echoing the cries of their leaders")
+               => {00951670} <verb.communication> utter2, emit, let out2, let loose -- (express audibly; utter sounds (not necessarily words); "She let out a big heavy sigh"; "He uttered strange sounds that nobody could understand")
+          Also See-> {00606025} <verb.cognition> spell out#2 

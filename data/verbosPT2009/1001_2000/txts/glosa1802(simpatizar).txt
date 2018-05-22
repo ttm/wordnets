@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA1802
+
+DADO O SYNSET:
+
+S='Glosa1802'
+{agradar-se: O melhor meio de I]agradar-se a uma pessoa, não é trazer o seu retrato acorrentado ao pescoço, num gesto exibitório, mas respeitá-la, cooperar com ela.,
+ engraçar: Nem para casar houve quem apostasse! Só a mulher é que parece que I]engraçou com ele.,
+ simpatizar: Pouco durou o sossego em casa de Leonardo-Pataca; Chiquinha começou a embirrar com o seu filho adotivo; este que não [simpatizara muito com ela, começou uma balbúrdia de todos os pecados .,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1802' = “ter/sentir uma ligação ou afeição”
+{agradar-se: A gente veio, ele [agradou-se (ri) e aí convidou a gente para ocupar o circo enquanto ele está fora, no Rio.,
+ engraçar: Nem para casar houve quem apostasse! Só a mulher é que parece que I]engraçou com ele.,
+ simpatizar: Quércia diz que [simpatiza com Brizola.,}
+Chave: SIMPATIZAR <verb.emotion>
+ILI: 01725490
+
+Sense 3
+{01725490} <verb.emotion> like4 -- (be fond of; "I like my nephews")

@@ -1,0 +1,42 @@
+ANÁLISE DA GLOSA2331
+
+DADO O SYNSET:
+
+S='Glosa2331'
+	    {andar: Todo mundo já teve a sensação de que o tempo I]anda mais devagar quando alguma coisa ruim está para acontecer.,
+	      correr: O tempo [corre lá fora e a questão que está colocada é: onde vamos pendurar o nosso gancho?,
+	      decorrer: O artigo I, do Código Penal, deverá ser feito logo que [decorra o prazo de 30 dias, contado da data do crime.,
+	      deslizar: O tempo I]desliza devagar e impõe mudanças na paisagem. ,
+	      discorrer: I]Discorre o tempo.,
+	      escoar-se: Nada mais penoso para o profissional que é marginalizado pelo mercado apenas por ser idoso do que ter a plena consciência do seu valor e da sua utilidade e, no entanto, ver seu tempo I]escoar-se em recordações e lembranças.,
+	      escorregar: Os dias I]escorregam. # Sem o sexo, o tempo I]escorrega de formas muito, mas muito difíceis: pesadelos, loucura, violência.,
+	      passar-se: Chegando lá I]passaram-se anos, Içá-Mirim aprendeu a falar francês e outras linguas.,
+	      perpassar: Na década de 70 escreveu o cordel A Triste Partida, publicado em livro em 1978 e que I]perpassou o tempo, mantendo-se atual até os dias de hoje. ,
+	      revolver-se: H]Revolveram-se alguns anos, antes que ele voltasse.,
+	      transcorrer: O tempo I]transcorreu, o amor do homem começou rapidamente a diminuir ea mulher que tudo havia sacrificado por ele perecebeu-o.,
+	      transcursar: x,
+	      voar: Depois desse evento, o tempo I]voou para nós. # Horas, dias, anos I]voaram, até que as palavras se nos tornaram desnecessárias. ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2331' = “seguir seu percurso (geralmente o tempo).”
+	    {andar: O tempo I]anda mais devagar quando alguma coisa ruim está para acontecer.,
+	      correr: O tempo [corre lá fora e a questão que está colocada é: onde vamos pendurar o nosso gancho?,
+	      decorrer: O artigo I, do Código Penal, deverá ser feito logo que [decorra o prazo de 30 dias.,
+	      deslizar: O tempo I]desliza devagar e impõe mudanças na paisagem. ,
+	      discorrer: I]Discorre o tempo.,
+	      escoar-se: Ver seu tempo I]escoar-se em recordações e lembranças.,
+	      escorregar: Sem o sexo, o tempo I]escorrega de formas muito difíceis: pesadelos, loucura, violência.,
+	      passar-se: Chegando lá I]passaram-se anos, Içá-Mirim aprendeu a falar francês e outras linguas.,
+	      perpassar: Os séculos I]perpassaram. ,
+	      revolver-se: H]Revolveram-se alguns anos, antes que ele voltasse.,
+	      transcorrer: O tempo I]transcorreu, o amor do homem começou rapidamente a diminuir.,
+	      voar: Horas, dias, anos I]voaram, até que as palavras se nos tornaram desnecessárias.,}
+
+Chave: DECORRER <verb.motion>
+ILI: 02014248
+
+Sense 4
+{02014248} <verb.motion> elapse, lapse, pass3, slip by, glide by, slip away, go by, slide by, go along2 -- (pass by; "three years elapsed")
+       => {01934453} <verb.motion> advance, progress, pass on1, move on, march on, go on -- (move forward, also in the metaphorical sense; "Time marches on")
+           => {01782203} <verb.motion> travel, go, move3, locomote -- (change location; move, travel, or proceed; "How fast does your new car go?"; "We travelled from Rome to Naples by bus"; "The policemen went from door to door looking for the suspect"; "The soldiers moved towards the city in an attempt to take it before night fell") 

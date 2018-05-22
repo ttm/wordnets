@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0287
+
+DADO O SYNSET:
+
+S='Glosa287'
+{expirar: A pessoa inspira fundo (o máximo que pode) e, depois, [expira fundo (também ao máximo) no interior de um tubo.,}
+A='Glosa402'
+{inspirar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa287' = “expelir, exalar ar”
+{expirar: A pessoa inspira fundo (o máximo que pode) e, depois, [expira fundo (também ao máximo) no interior de um tubo.,}
+A='Glosa402'
+{inspirar}
+Chave: EXPIRAR <verb.body>
+ILI: 00004127
+
+Sense 3
+{00004127} <verb.body> exhale, expire, breathe out -- (expel air; "Exhale when you lift the weight")
+       => {00001740} <verb.body> breathe, take a breath, respire, suspire3 -- (draw air into, and expel out of, the lungs; "I can breathe better when the air is clean"; "The patient is respiring")

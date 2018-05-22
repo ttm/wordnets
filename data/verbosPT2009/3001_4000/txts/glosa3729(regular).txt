@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA3729
+
+DADO O SYNSET:
+
+S='Glosa3729'
+{amoderar: x,
+	compassar: M]Compassar as ações, as maneiras.,
+	moderar: Lula quer [moderar programa do PT.,
+	pautar: Inclinando a fronte calva e A]pautando as maneiras com afetada compostura, desdobrou um exemplar do Espelho do Norte.,
+	regrar: Pensou-se em criar um conjunto de normas gerais para I]regrar a conduta das pessoas na sociedade.,
+	regular: O homem usa da inteligência A]regulando os impulsos.,
+	taxar: O Congresso H]taxou os gastos com as estatais. }
+
+A='Glosa1226'
+{descompassar, desregrar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3729' = “impor regulamentações em”
+{compassar: M]Compassar as ações, as maneiras.,
+	moderar: Lula quer [moderar programa do PT.,
+	pautar: Inclinando a fronte calva e A]pautando as maneiras com afetada compostura, desdobrou um exemplar do Espelho do Norte.,
+	regrar: Pensou-se em criar um conjunto de normas gerais para I]regrar a conduta das pessoas na sociedade.,
+	regular: O homem usa da inteligência A]regulando os impulsos.,
+	taxar: O Congresso H]taxou os gastos com as estatais. }
+
+A='Glosa1226'
+{descompassar, desregrar}
+Chave: REGULAR <verb.social>
+ILI: 01712330
+
+Sense 2
+{01712330} <verb.social> regulate1, regularize, order1, govern2 -- (impose regulations on)
+       => {00471542} <verb.cognition> decide, make up one's mind, determine -- (reach, make, or come to a decision about something; "We finally decided after lengthy deliberations")

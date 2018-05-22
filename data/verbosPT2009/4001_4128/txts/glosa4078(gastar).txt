@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA4078
+
+DADO O SYNSET:
+
+S='Glosa4078'
+{buir: O uso H]buiu o corpete.,
+desgastar: O tempo e o uso A]desgastaram os degraus da velha igreja. ,
+gastar: Durante muitos anos,  I]gastou sola de sapatos subindo os morros que circundam o Centro da cidade em busca de votos para seus candidatos.,
+puir: O maior prejuízo foi o joelho esquerdo da calça que I]puiu um pouco.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4078' = “deteriorar por uso ou tensão”
+{buir: O uso H]buiu o corpete.,
+desgastar: O tempo e o uso A]desgastaram os degraus da velha igreja. ,
+gastar: Durante muitos anos,  I]gastou sola de sapatos subindo os morros que circundam o Centro da cidade em busca de votos para seus candidatos.,
+puir: O maior prejuízo foi o joelho esquerdo da calça que I]puiu um pouco.,}
+Chave: GASTAR <verb.change>
+ILI: 00456287
+
+Sense 3
+{00456287} <verb.change> wear, wear off, wear out, wear thin -- (deteriorate through use or stress; "The constant friction wore out the cloth")
+       => {00201139} <verb.change> deteriorate -- (become worse or disintegrate; "His mind deteriorated")
+           => {00201478} <verb.change> decay, crumble13, delapidate -- (fall into decay or ruin; "The unoccupied house started to decay")
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")
+

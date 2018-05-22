@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA3990
+
+DADO O SYNSET:
+
+S='Glosa3990'
+{apresilhar: A faconaços, atacou um amarilho de bom porte e quitou dele uma forquilha, cuja ponta I]apresilhou no arreio de seu baio.,
+ presilhar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3990' = “prender ou ligar com uma presilha”
+{apresilhar: Com a faca o gaúcho primitivo tirou as botas “Garrão de Potro” e nesta I]apresilhou as velhas esporas “Nazarenas” com rosetas ponteagudas.}
+Chave: APRESILHAR <verb.contact>
+ILI: 01248047
+
+Sense 5
+{01248047} <verb.contact> loop1 -- (fasten or join with a loop; "He looped the watch through his belt")
+       => {01247215} <verb.contact> tie, bind1 -- (fasten or secure with a rope, string, or cord; "They tied their victim to the chair")
+           => {01300906} <verb.contact> fasten1, fix, secure1 -- (cause to be firmly attached; "fasten the lock onto the door"; "she fixed her gaze on the man")
+               => {01257892} <verb.contact> attach1 -- (cause to be attached)
+                   => {01314764} <verb.contact> connect, link, tie1, link up -- (connect, fasten, or put together two or more pieces; "Can you connect the two loudspeakers?"; "Tie the ropes together"; "Link arms")

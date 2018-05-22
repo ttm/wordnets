@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA1806
+
+DADO O SYNSET:
+
+S='Glosa1806'
+{agravar: O hemato-patologista Victorino Spinelli, assesor médico da CPI que apura as mortes da hemodiálise, garantiu que a plasmaferese não [agravou o estado de saúde de Edelson.,
+ desmelhorar: Sua saúde H]desmelhorou bastante.,
+ empiorar: Considero que apesar de ter decaído muito em estes últimos anos, em geral mantemos um bom nível educacional, que insisto, I]empiorou muito nos últimos anos.,
+ engravescer: Tais exigências sempre levam os países devedores a I]engravescer cada vez mais pelos débitos, os quais, em vez de oferecer boa conjuntura, arrasta o povo à fome.,
+ piorar: Para [piorar a situação no local, a água invadiu a ciclovia, obrigando quem passava por ali a mudar de caminho.,}
+	  
+A='Glosa2997'
+{ganhar, melhorar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1806' = “tornar pior”
+{agravar: O hemato-patologista Victorino Spinelli, assesor médico da CPI que apura as mortes da hemodiálise, garantiu que a plasmaferese não [agravou o estado de saúde de Edelson.,
+ empiorar: Como agravante, o Brasil é um paraíso da burocracia. E ela I]empiora a corrupção no relacionamento do governo com as empresas.,
+ engravescer: A sucessividade de fatos ocorridos nos últimos dias I]engravesceu o quadro nacional, sem que se vislumbrem alternativas capazes de superar a crise latente..,
+ piorar: Para Carneiro, a testemunha de defesa [piorou a situação do acusado.,}
+	  
+A='Glosa2997'
+{ganhar, melhorar}
+Chave: AGRAVAR <verb.change>
+ILI: 00200852
+
+Sense 1
+{00200852} <verb.change> worsen1, aggravate, exacerbate, exasperate -- (make worse; "This drug aggravates the pain")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

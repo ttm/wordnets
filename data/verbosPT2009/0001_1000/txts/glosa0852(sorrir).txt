@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA0852
+
+DADO O SYNSET:
+
+S='Glosa852'
+{rir: A comédia fez [rir, como é de seu dever, mas também fez pensar, o que é cada vez mais raro na televisão.,
+sorrir: Quando aparece alguém para fazer [sorrir o povo, que só sabe chorar, é chamado de indecente. # O presidente Fernando Henrique Cardoso tinha bons motivos para [sorrir ontem.,}
+A='Glosa3255'
+{chorar, estilar1, lacrimar, lagrimar, prantear, soluçar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa852' = “mudar a expressão facil expandindo os lábios, geralmente por sinal de prazer”
+{rir: A comédia fez [rir, como é de seu dever, mas também fez pensar, o que é cada vez mais raro na televisão.,
+sorrir: Quando aparece alguém para fazer [sorrir o povo, que só sabe chorar, é chamado de indecente. # O presidente Fernando Henrique Cardoso tinha bons motivos para [sorrir ontem.,}
+A='Glosa3255'
+{chorar, estilar1, lacrimar, lagrimar, prantear, soluçar}
+Chave: SORRIR <verb.body>
+ILI: 00027956
+
+Sense 1
+{00027956} <verb.body> smile -- (change one's facial expression by spreading the lips, often to signal pleasure)
+       => {00033053} <verb.body> grimace, make a face, pull a face -- (contort the face to indicate a certain mental or emotional state; "He grimaced when he saw the amount of homework he had to do")
+           => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+               => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

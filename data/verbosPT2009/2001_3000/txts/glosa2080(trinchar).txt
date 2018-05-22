@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2080
+
+DADO O SYNSET:
+	
+S='Glosa2080'
+    	{destrinçar: x,
+      	 destrinchar: Ela I]destrinchou o peru que foi se abrindo em pedaços.,
+      	 estriçar: x,
+      	 trinchar: Além disso, devia ainda desempenhar serviços domésticos, como I]trinchar carne, servir à mesa e arranjar a sala de baile.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2080' = “cortar em pedaços”
+    	{destrinchar: Ela I]destrinchou o peru que foi se abrindo em pedaços.,
+      	 trinchar: Além disso, devia ainda desempenhar serviços domésticos, como I]trinchar carne, servir à mesa e arranjar a sala de baile.}
+Chave: TRINCHAR <verb.contact>
+ILI: 01217895
+
+Sense 3
+{01217895} <verb.contact> carve, cut up -- (cut to pieces; "Father carved the ham")
+       => {01509511} <verb.contact> cut -- (separate with or as if with an instrument; "Cut the rope")
+           => {01513899} <verb.contact> separate1, disunite, divide1, part1 -- (force, take, or pull apart; "He separated the fighting children"; "Moses parted the Red Sea")
+               => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")
+          Also See-> {02393614} <verb.social> carve up#1

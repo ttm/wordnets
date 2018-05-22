@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA2674
+
+DADO O SYNSET:
+
+S='Glosa2674'
+	    {reaparecer: As metáforas mais corriqueiras que expressam, na tragédia, estes perigos da finitude humana [reaparecem como temas centrais em Grande Sertão: Veredas.,
+	      reparecer: I]Repareceu nos finais deste mesmo século romântico, em particular, a Pianola, piano que toca sozinho a partir (da informação) de fitas perfuradas, e também com o Reproduktionsflügel, piano-registador que fixava, em princípio, a execução do compositor ‘memorizando’ o impacto dos dedos sobre as teclas, a força do ataque, etc.”,
+	      ressurgir: A floresta [ressurgiu e engoliu o trecho entre Itaituba (PA) e Humaitá (AM) 800 km de estrada.,
+	      ressuscitar: Uma equipe de cientistas russos e japoneses trata de I]ressuscitar os mamutes, espécie desaparecida há milhares e milhares de anos, e sonha em vê-los v extraído dos restos congelados desses gigantescos elefantes pré-históricos, embora até agora não tenham conseguido retirar do solo gelado siberiano material genético utilizável.,
+	      reviver: O espetáculo anda lotando o Teatro Leblon e fazendo muito casamento [reviver das cinzas. # Assim como os alemães ontem, com 2 a 0 no placar, e os holandeses já desabando, física e moralmente, nós permitimos o gol-relâmpago que [reviveu o time holandês em campo, cedendo-lhe o empate.,
+	      revivescer: A autora trata da iniciativa da Rede Globo de televisão de tentar I]revivescer os grandes Festivais da Música Popular Brasileira, das décadas de 60 e 70.,
+	      tornar: Por isto o Pai me ama, porque dou a minha vida para I]tornar a tomá-la.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2674' = “Surgir novamente.”
+	    {reaparecer: As metáforas mais corriqueiras que expressam, na tragédia, estes perigos da finitude humana [reaparecem como temas centrais em Grande Sertão: Veredas.,
+	      reparecer: I]Repareceu nos finais deste mesmo século romântico.,
+	      ressurgir: A teoria já existe desde o fim do século passado, mas [ressurgiu recentemente.,
+	      ressuscitar: Se em São Luis de Quitunde e Marimbondo (Al) se desmancharam Guerreiros, eles [ressuscitaram da memória de migrantes de lá, cá no Guarujá,.,
+	      reviver: Com o fracasso desse movimento, a tradição hermética [reviveu no surrealismo.,
+	      revivescer: Roseamente pintada em toques delicados, a porcelana I]revivesceu.,
+	      tornar: Os tempos bons da mocidade jamais H]tornam.,}
+
+Chave: RESSURGIR <verb.stative>
+ILI: 02546645
+
+Sense 1
+{02546645} <verb.stative> resurge -- (rise again; "His need for a meal resurged"; "The candidate resurged after leaving politics for several years")
+       => {02546120} <verb.stative> originate, arise, rise1, develop, uprise2, spring up, grow -- (come into existence; take on form or shape; "A new religious movement originated in that country"; "a love that sprang up from friendship"; "the idea for the book grew out of a short story"; "An interesting phenomenon uprose")
+           => {02545350} <verb.stative> become -- (come into existence; "What becomes has duration") 

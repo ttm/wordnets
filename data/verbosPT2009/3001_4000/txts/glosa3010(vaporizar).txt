@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA3010
+
+DADO O SYNSET:
+
+S='Glosa3010'
+	    {
+	      gaseificar: Em processos onde se deseja I]gaseificar qualquer líquido, o Poritex pode ser usado com muito êxito.,
+	      gasificar: As frações mais leves da gotícula começam a ferver e I]gasificam.,
+	      vaporizar: Existem também aparelhos elétricos que [vaporizam inseticidas inócuos para crianças.,
+	      volatizar: O herbicida deve ser incorporado logo após a aplicação, para não I]volatizar e perder a eficiência.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3010' = tornar gasoso”
+	     {gaseificar: Quando aplicamos o ácido em forma de solução aquosa, o fluoreto de silício I]gaseifica e a água se incumbe de homogeneizar a remoção.,
+	      gasificar: As frações mais leves da gotícula começam a ferver e I]gasificam.,
+	      vaporizar: As sanfonas ou cápsulas “A” são cheias com um líquido que I]vaporiza a uma temperatura inferior à da água.,
+	      volatizar: Por isso, na medida em que o nível d’água cai ou a superfície do concreto aquece, a água pendurada na cadeia da esponja I]volatiza ou evapora.,}
+Chave: VAPORIZAR <verb.change>
+ILI: 00429642
+
+Sense 1
+{00429642} <verb.change> gasify, vaporize, vaporise, aerify -- (turn into gas; "The substance gasified")
+       => {00135037} <verb.change> change integrity -- (change in physical make-up)
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

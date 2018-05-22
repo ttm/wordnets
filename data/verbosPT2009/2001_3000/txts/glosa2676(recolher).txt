@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA2676
+
+DADO O SYNSET:
+
+S='Glosa2676'
+	    {ajuntar: Os meninos conseguiram [ajuntar 130 sacos de latinhas no final da festa, contribuindo com a limpeza da cidade.,
+	      arrepanhar: Pois logo com que cara ou consciência esmola pede, e I]arrepanhar intenta para o Senhor da Paz, ou da Tormenta?,
+	      condensar: Conquanto o livro procure [condensar o maior número de informações e orientações em seus diversos capítulos, o autor procurou aliviar a matéria com retrospecto aos pontos altos da história do radioamadorismo mundial.,
+	      conglomerar: Este portal Internet é fruto de nossos esforços no sentido de I]conglomerar e disseminar conhecimento, isto feito através de nossos grupos de discussão, artigos e entrevistas de nossos consultores, reviews de novos softwares e tecnologias, e a participação da comunidade virtual.,
+	      juntar: Para dar suporte à atividade agrícola, o governo instituiu os círculos agrários, espécie de cooperativas com a finalidade de [juntar recursos entre os produtores para a compra de máquinas agrícolas, fertilizantes, ferramentas etc.,
+	      recolher: O DAC já [recolheu as imagens de radar e as gravações da conversação entre o piloto com a torre nos momentos que antecederam o acidente para tocar a investigação sobre as causas, que deverá estar concluída em 90 dias.,
+	      repanhar: x,
+	      reunir: Com isso, puderam [reunir um imenso acervo intelectual, que muito influenciou a vida do Ocidente.,
+	      tomar: O gráfico I]tomou as informações  do ano de 1996 como base e chegou até janeiro de 2004.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2676' = “Arrumar de modo conjunto, agrupar.”
+	    {condensar: Empresa sueca de serviços financeiros, I]condensou um conjunto de indicadores.,
+	      conglomerar: Este portal Internet é fruto de nossos esforços no sentido de I]conglomerar e disseminar conhecimento.,
+	      juntar: O governo instituiu os círculos agrários, espécie de cooperativas com a finalidade de [juntar recursos entre os produtores para a compra de máquinas agrícolas, ferramentas etc.,
+	      recolher: Trata-se de uma amostragem, que ainda I]recolheu informações sobre a incidência do diabetes e da hipertensão.,
+	      reunir: Com isso, puderam [reunir um imenso acervo intelectual, que muito influenciou a vida do Ocidente.,
+	      tomar: O gráfico I]tomou as informações  do ano de 1996 como base e chegou até janeiro de 2004.,}
+
+Chave: RECOLHER <verb.contact>
+ILI: 01344236
+
+Sense 4
+{01344236} <verb.contact> collect1, pull in1 -- (get or bring together; "accumulate evidence")
+       => {02238144} <verb.possession> roll up3, collect, accumulate, pile up, amass, compile, hoard -- (get or gather together; "I am accumulating evidence for the man's unfaithfulness to his wife"; "She is amassing a lot of data for her thesis"; "She rolled up a small fortune")
+           => {02215096} <verb.possession> store, hive away, lay in, put in, salt away, stack away, stash away -- (keep or lay aside for future use; "store grain for the winter"; "The bear stores fat for the period of hibernation when he doesn't eat")
+               => {02138940} <verb.possession> keep, hold on -- (retain possession of; "Can I keep my old stuffed animals?"; "She kept her maiden name after she married")
+                   => {02139918} <verb.possession> have, have got, hold -- (have or possess, either in a concrete or an abstract sense; "She has $1,000 in the bank"; "He has got two beautiful daughters"; "She holds a Master's degree from Harvard") 

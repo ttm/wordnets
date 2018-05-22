@@ -1,0 +1,44 @@
+ANÁLISE DA GLOSA2704
+
+DADO O SYNSET:
+
+  S='Glosa2704'
+	    {afrouxar: Tínhamos uma mesa de pista e senti que o Ayrton, que não fazia exatamente o tipo rei da noite, começou a se remexer, inquieto, e a [afrouxar o laço da gravata-borboleta à medida que um elenco de mulheres desinibidas veio exibir suas, digamos assim, virtudes, sem o menor constrangimento, bem diante dele.,
+	      bambear: Sempre que terminar o trabalho, I]bambear a barrigueira e a sela, deixando o animal confortável.,
+	      desentesar: O médico, dizia ele, necessita saber muitas coisas; não deve ignorar que vantagem pode auferir das malaxações; elas produzem efeitos inteiramente opostos entre si: ou apertam as articulações muito frouxas, ou I]desentesam as articulações muito tensas.,
+	      deslassar: x,
+	      esbambear: x,
+	      lassar: Margarida sorriu ; mas mostrou-se reservada, A]lassou um pouco as rédeas do bridão e compôs o cabelo.,
+	      lassear: Olhe sempre o estado dos fixadores e das braçadeiras, as borrachas que seguram os canos e o silencioso, as quais podem I]lassear e se romper.,
+	      laxar: x,
+	      relaxar: Com o passar do tempo, freada aqui, freada ali, o cabo do freio vai I]relaxar.,
+	      releixar: x,}
+
+	  A='Glosa2375'
+	    {entesar: Cortavam um dos seios para I]entesar melhor o arco.,
+	     esticar: Você pega um elástico, [estica ele, vai esticando, esticando, mas chega num ponto que ele arrebenta.,
+	     estirar: Inclusão da máquina rotativa para I]estirar e enxugar couros.,
+	     retesar: Ela propõe uma prova: ficará com aquele que for capaz de I]retesar o arco do herói. # A corrida tende a I]retesar a panturrilha. # A prova ganhou, assim, em qualidade, com a demonstração apurada da técnica de cada guerreiro ao I]retesar a corda, calibrar o arco e arremessar a flecha.,
+	     tesar: Manter a rede de vapor da admissão sob pressão visando I]tesar ou solecar cabos e amarras, se necessário.,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2704' = “Tornar frouxo ou mais frouxo ou menos firme.”
+	    {afrouxar: O cavalo quis beber água e o caçador I]afrouxou a rédea.,
+	      bambear: I]Bambeou o amarilho do. cesto e pulou pra fora.,
+	      desentesar: Elas produzem efeitos inteiramente opostos entre si: ou apertam as articulações muito frouxas, ou I]desentesam as articulações muito tensas.,
+	      lassear: Olhe sempre o estado dos fixadores e das braçadeiras, as borrachas que seguram os canos e o silencioso, as quais podem I]lassear e se romper.,
+	      relaxar: Com o passar do tempo, freada aqui, freada ali, o cabo do freio vai I]relaxar.,}
+
+	  A='Glosa2375'
+	    {entesar, esticar, estirar, retesar, tesar}
+
+Chave: DESENTESAR <verb.change>
+ILI: 00407022
+
+Sense 7
+{00407022} <verb.change> loosen, relax2, loose1 -- (become loose or looser or less tight; "The noose loosened"; "the rope relaxed")
+       => {00216002} <verb.change> weaken -- (become weaker; "The prisoner's resistance weakened after seven days")
+           => {00146081} <verb.change> decrease, diminish, lessen, fall6 -- (decrease in size, extent, or range; "The amount of homework decreased towards the end of the semester"; "The cabin pressure fell dramatically"; "her weight fall to under a hundred pounds"; "his voice fell to a whisper")
+               => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night") 

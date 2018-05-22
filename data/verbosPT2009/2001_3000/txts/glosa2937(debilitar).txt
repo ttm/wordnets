@@ -1,0 +1,56 @@
+ANÁLISE DA GLOSA2937
+
+DADO O SYNSET:
+
+S='Glosa2937'
+	    {abalar: Antônio Francisco Lisboa herdou o apelido de Aleijadinho devido a uma doença misteriosa que atacou seus membros, atrofiando-os, mas a mutilação não I]abalou suas forças.,
+	      abater: Defronte dele, Pojucã, no corpo que a ferida não [abateu, mostra a grande alma, serena em face dos inimigos.,
+	      anemiar: As massas judaicas continuaram a suportar as brutalidades reacionárias dos pogroms, I]anemiando numa lenta e penosa decomposição.,
+	      anemizar: x,
+	      baquear: Na volta para casa, senti o corpo I]baquear... ao chegar, fui quase que direto para a cama... mal-estar! ,
+	      combalir: De onde vem toda essa emoção que chega a I]combalir meu pobre corpo físico, sugando minha energia e disritimando meu coração?,
+	      consumir: Quando ela estava perto dos cinquenta anos, uma doença desconhecida [consumiu seu corpo e deu origem a seu apelido.,
+	      debilitar: A pneumonia de Darcy Ribeiro o [debilitou mais porque o senador só tem um pulmão.,
+	      desfalecer: A infausta nova tinha M]desfalecido os ânimos.,
+	      desfazer: A doença o A]desfez em pouco tempo.,
+	      desgastar: Este intenso trabalho externo e interno I]desgastou muito sua energia e sua vitalidade, o que piorou muito sua frágil saúde.,
+	      enfraquecer: Qualquer doença I]enfraquece a pessoa, diminui sua vontade de trabalhar, de se distrair.,
+	      enfraquentar: x,
+	      esfalecer: x,
+	      esfazer: x,
+	      fragilizar: Quantidades indiscriminadas de cápsulas de vitaminas podem causar desequilíbrio e I]fragilizar o sistema imune da pessoa.,
+	      gastar: O tempo H]gasta nossa resistência.,
+	      quebrar: As adversidades constantes A]quebram o entusiasmo.,}
+
+	  A='Glosa1504'
+	    {alentar: Uma esperança ainda o A]alentava.,
+	     animar: Beppe Massaro ainda tentou [animar o colega.,
+	     confortar: Eles [confortaram os jovens, fazendo-os ver que esta situação faz parte da vida e o mundo não pára só porque perdemos entes queridos.,
+	     consolar: É necessário que FH vá ao local da tragédia [consolar as pessoas que passam por certas aflições.,
+	     despenar2: Tentou o impossível para [despenar o amigo.,
+	     fortalecer: Magic tornou-se quase obcecado em relação a fortalecer seu corpo, como se tentasse afastar a doença.,
+	     fortificar: Para ali encontrar a inspiração que os há de  iluminar e I]fortificar nas dificuldades.,
+	     sustentar: A fé o M]sustentava no meio dos perigos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2937' = “Tornar fraco”
+	    {abalar: Antônio Francisco Lisboa herdou o apelido de Aleijadinho devido a uma doença misteriosa que atacou seus membros, atrofiando-os, mas a mutilação não I]abalou suas forças.,
+	      abater: Defronte dele, Pojucã, no corpo que a ferida não [abateu, mostra a grande alma, serena em face dos inimigos.,
+	      baquear: Dizem que ela I]baqueou depois que a mae morreu de cancer.,
+	      combalir: Se soubesse que amargas provações lhe I]combaliram a alma, nunca teria empreendido o retorno a casa,
+	      consumir: Quando ela estava perto dos cinqüenta anos, uma doença desconhecida [consumiu seu corpo e deu origem a seu apelido.,
+	      debilitar: A pneumonia de Darcy Ribeiro o [debilitou mais porque o senador só tem um pulmão.,
+	      desgastar: Este intenso trabalho externo e interno I]desgastou muito sua energia e sua vitalidade, o que piorou muito sua frágil saúde.,
+	      enfraquecer: Qualquer doença I]enfraquece a pessoa, diminui sua vontade de trabalhar, de se distrair.,
+	      fragilizar: Eisenmenger foi acometido por repetidas enfermidades, o que, em curto espaço de tempo, I]fragilizou sua saúde.,}
+
+	  A='Glosa1504'
+	    {alentar, animar, confortar, consolar, despenar2, fortalecer, fortificar, sustentar}
+Chave: DEBILITAR <verb.change>
+ILI: 00377738
+
+Sense 1
+{00377738} <verb.change> enfeeble, debilitate, drain4 -- (make weak; "Life in the camp drained him")
+       => {00217329} <verb.change> weaken1 -- (lessen the strength of; "The fever weakened his body")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

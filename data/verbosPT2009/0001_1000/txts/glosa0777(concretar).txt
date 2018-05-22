@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA0777
+
+DADO O SYNSET:
+
+S='Glosa777'
+{betonar: O projecto visa I]betonar uma extensão de cerca de 40 metros a montante da zona de captações existente na região.,
+concretar: A segurança do presídio descobriu as tentativas de fuga antes que os túneis fossem terminados e [concretou todos eles.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa777' = “cobrir com concreto ou cimento”
+{betonar: O projecto visa I]betonar uma extensão de cerca de 40 metros a montante da zona de captações existente na região.,
+concretar: A segurança do presídio descobriu as tentativas de fuga antes que os túneis fossem terminados e [concretou todos eles.,}
+Chave: CONCRETAR <verb.contact>
+ILI: 01556609
+
+Sense 1
+{01556609} <verb.contact> concrete -- (cover with cement; "concrete the walls")
+       => {01293336} <verb.contact> cover -- (provide with a covering or cause to be covered; "cover her face with a handkerchief"; "cover the child with a blanket"; "cover the grave with flowers")

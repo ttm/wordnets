@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA2714
+
+DADO O SYNSET:
+
+  S='Glosa2714'
+	    {reinquirir: Em princípio, aditada a denúncia para inclusão no processo de outro réu, este deve ter oportunidade de [reinquirir as testemunhas.# A Subprocuradoria Geral da República requer retomada das investigações para ouvir Quércia e Fleury e [reinquirir Halpern, já indiciado.,
+	      reinterrogar: Vasconcelos desconfia dessa versão e vai pedir nova diligência à polícia. Ele quer ouvir novamente os peritos que assinaram laudos sobre o caso; fazer a reconstituição do crime (com as mesmas pessoas que estavam na casa e no mesmo horário do fato) e I]reinterrogar os seguranças.,
+	      reperguntar: Oportunidade concedida e desprezada pela defesa de I]reperguntar a testemunha.,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2714' = “Interrogar atentamente, ou interrogar um testemunha que já foi interrogada pelo lado oposto.”
+	    {reinquirir: A Polícia Civil I]reinquiriu seis funcionários do órgão que administra as vagas de estacionamento nas principais ruas de Florianópolis.,
+	      reinterrogar: A polícia não I]reinterrogou Josemar, acharam que aquele depoimento, que foi desfeito ainda na fase inquisitorial, fosse suficiente.,
+	      reperguntar: Se o defensor do réu, presente na audiência, nada I]reperguntou, nem levantou qualquer objeção, não há como reconhecer qualquer vício.,}
+
+Chave: REINTERROGAR <verb.communication>
+ILI: 00761240
+
+Sense 1
+{00761240} <verb.communication> cross examine, cross question -- (question closely, or question a witness that has already been questioned by the opposing side; "The witness was cross-examined by the defense")
+       => {00761025} <verb.communication> examine -- (question closely)
+           => {00759271} <verb.communication> question, query -- (pose a question)
+               => {00868100} <verb.communication> ask4 -- (address a question to and expect an answer from; "Ask your teacher about trigonometry"; "The children asked me about their dead grandmother")
+                   => {00867918} <verb.communication> address, turn to1 -- (speak to; "He addressed the crowd outside the window")
+                       => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                           => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                               => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel") 

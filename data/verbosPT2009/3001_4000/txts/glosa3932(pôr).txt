@@ -1,0 +1,36 @@
+ANÁLISE DA GLOSA3932
+
+DADO O SYNSET:
+
+S='Glosa3932'
+    	{botar1: Antes, [botavam a culpa nos homens do poder, que enfiavam jovenzinhos inocentes na selva vietnamita para combater inimigos invisíveis .,
+      	 colocar: O Velho virou-se para o Menino, [colocou o machado no chão e sem entender nada ouviu o mais estranho relato de sua vida .,
+      	 depor: M]Depôs o seu dinheiro em um banco. ,
+      	 depositar: I]Depositava flores no altar.,
+      	 meter: Acabado o jogo, tomava banho, perfumava-se, [metia a camisa de seda, o terno impecável, sapatos rebrilhando e descia para o saguão do hotel .,
+      	 pôr: E minha mãe, que era religiosa, gostou de ver que ele [punha Deus no devido lugar, e sorriu aprovando .,
+      	 postar: Resolveu H]postar a vigilância na entrada da rua., }
+  
+A='Glosa415'
+    	{arrancar, puxar, sacar, tirar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3932' = “posicionar [algo] em um determinado lugar ou locação abstrata”
+    	{botar1: Eu quase [botei uma maçã na boca dela.,
+      	 colocar: O Velho virou-se para o Menino, [colocou o machado no chão e sem entender nada ouviu o mais estranho relato de sua vida.,
+      	 depor: Um rico estrangeiro disse-lhe, I]depondo sua pasta de papéis sobre a mesa.,
+      	 depositar: O norte-americano [depositou uma coroa de flores em Yad Vechem, o memorial em homenagem aos 6 milhões de judeus mortos pelos alemães na Segunda Guerra Mundial.,
+      	 meter: Rui [meteu a chave no peito do gibão e foi reunir-se a seu companheiro.,
+      	 pôr: O candidato a vice [pôs os papéis no bolso.,
+      	 postar: Depois do assalto, o dono da loja postou um cão policial na porta.}
+  
+A='Glosa415'
+    	{arrancar, puxar, sacar, tirar}
+Chave: PÔR <verb.contact>
+ILI: 01452069
+
+Sense 1
+{01452069} <verb.contact> put, set, place, pose2, position, lay1 -- (put into a certain place or abstract location; "Put your things here"; "Set the tray down"; "Set the dogs on the scent of the missing children"; "Place emphasis on a certain point")
+       => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")
+          Also See-> {02564241} <verb.stative> put over#2; {01269330} <verb.contact> put back#1; {02621369} <verb.stative> put back#2; {02564241} <verb.stative> put off#1; {01923102} <verb.motion> put down#3; {02419814} <verb.social> put away#3; {01609650} <verb.creation> put together#1; {01323844} <verb.contact> put on#7; {01526952} <verb.contact> put up#1; {01501920} <verb.contact> put down#2; {00717906} <verb.communication> put across#1

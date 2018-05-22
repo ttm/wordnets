@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA3177
+
+DADO O SYNSET:
+
+S='Glosa3177'
+	    {
+	      arrevesar: x,
+	      contraverter: x,
+	      everter: Os lábios finos também são melhorados com uma incisão dentro das narinas para elevá-los ou atuamos na região do arco do cupido I]evertendo a mucosa.,
+	      interverter: x,
+	      inverter: Pena que o idiota do Hitler pegou esse símbolo e I]inverteu a direção de suas "pás" pra roubar energia do universo, além de incliná-la 45 graus.,
+	      revolver: DEVIANT,
+	      soçobrar: O eminente Gustavo Barroso, cita numa de suas obras uma antiga lenda árabe, em que certa "Mão de Satanás", postada na entrada da barra (o Pão de Açúcar), de uma Ilha chamada Brasil, fazia I]soçobrar as embarcações que ousassem atravessá-la. ,
+	      subverter: Que tal I]subverter sua forma "perfeita", transformando quadrado em retângulo? ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3177' = “virar pelo avesso ou de cabeça para baixo”
+	     {everter: Para se alimentar, ela I]everte seu estômago e espalha sobre eles seu líquido digestivo.,
+	      inverter: Pena que o idiota do Hitler pegou esse símbolo e I]inverteu a direção de suas "pás" pra roubar energia do universo, além de incliná-la 45 graus.,
+	      soçobrar: O navio I]soçobrou, afundando em poucos minutos. ,
+	      subverter: Carlinhos Brown manteve a melodia vocal, mas I]subverteu a rítmica.,}
+
+Chave: INVERTER <verb.change>
+ILI: 00375093
+
+Sense 2
+{00375093} <verb.change> invert, reverse1 -- (turn inside out or upside down)
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

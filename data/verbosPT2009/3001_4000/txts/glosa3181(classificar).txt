@@ -1,0 +1,43 @@
+ANÁLISE DA GLOSA3181
+
+DADO O SYNSET:
+
+S='Glosa3181'
+	    {
+	      argüir: Considerou que era imprudência; o doente viria em breve,-dali a dias,-perguntaria pela carta, I]argüi-lo-ia de indiscreto, de delator ,
+	      capitular: A]Capitulam-no de infiel.,
+	      chamar: Se eu fosse destemido, é provável que, com a indignação que experimentei, rompesse a [chamar-lhe mentiroso, mas então seria preciso confessar-lhe que estivera à escuta, atrás da porta. ,
+	      classificar: E pretende marcar Lula como o «candidato da inflação», [classificando-o de «inimigo» do Plano Real.,
+	      conceitar: x,
+	      conceituar: Os "snobs" e os velhos julgadores poderão até I]conceituá-lo como um escritor caipira, o que atualmente é elogio, mas serão poucos, apenas ainda os que não perceberam que os brasileiros, principalmente os jovens, vêm trocando as praias pelos campos.,
+	      denominar: Não concordando com o estilo moderno para a época, a população acostumada ainda com as formas tradicionais de construção, I]denominou o prédio de "caixão", rejeitando a construção que depois sediou o Serviço de Patrimônio da União. ,
+	      designar: Não me culpe, então, por usar o apelido que o próprio Neo Catecumenato usa para I]designá-lo.,
+	      ferretear: Longe de sermos os "marajás", apodo com que setores de má-fé ou mal informados procuram nos I]ferretear, temos sido os artífices de uma Administração.,
+	      inquinar: Há poucos dias, em ato de aberta provocação, o governo de George W. Bush I]inquinou a revolucionária ilha como país bandido, integrante do eixo do mal. ,
+	      nomear: O autor em seu livro o H]nomeia traidor.,
+	      qualificar: Um candidato conclama seus ouvintes a torcer contra o Plano Real, [qualificando-o como enganador por ser um plano feito contra os pobres e para favorecer os ricos. ,
+	      tachar: Aprenderam a admirar Tom também pela sua preocupação com a destruição das praias, das matas e das cidades brasileiras, e acharão difícil acreditar que, por causa dessas mesmas preocupações, a esquerda levou anos [tachando-o de alienado.,
+	      timbrar: As críticas deferidas contra a teoria subjetiva chegaram a I]timbrá-la de "absurdo lógico e dogmático", conforme reporta o jornalista.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3181' = “pronunciar julgamento”
+	     {capitular: Assim como a delegada Ana Karla Silvestre , que presidiu o inquérito , a promotora I]capitulou o delito como exploração sexual.,
+	      chamar: O chefe de Polícia Civil, Hélio Luz, [chamou as favelas de guetos. ,
+	      classificar: O prefeito César Maia [classificou os integrantes da equipe do governo estadual como «planejadores do caos», em referência ao estudo feito pelo vice-governador, Luiz Paulo Corrêa da Rocha, e publicado ontem pelo JORNAL DO BRASIL.,
+	      conceituar: Rodolfo Pamplona I]conceituou o assédio moral como “conduta abusiva, de natureza psicológica que atenta contra a dignidade psíquica, de forma repetitiva e prolongada, tendo por efeito excluir o empregado de seu posto de trabalho ou mesmo deteriorar o ambiente de trabalho”.,
+	      denominar: Não concordando com o estilo moderno para a época, a população acostumada ainda com as formas tradicionais de construção, I]denominou o prédio de "caixão", rejeitando a construção que depois sediou o Serviço de Patrimônio da União. ,
+	      designar: O francês Jean-Étienne-Dominique Esquirol (1772-1840) [designou como «monomania homicida» a patologia que ele não conseguia diagnosticar, mas tinha certeza existir, em homens aparentemente sãos que cometeram homicídios violentos.,
+	      inquinar: Há poucos dias, em ato de aberta provocação, o governo de George W. Bush I]inquinou a revolucionária ilha como país bandido, integrante do eixo do mal. ,
+	      nomear: Aos poucos a medicina teve de reconhecer e I]nomeou de doença psicossomática a enfermidade causada pelo pensamento.,
+	      qualificar: Cerqueira também [qualificou de «bandidos» os 201 mortos no Rio pela Polícia Militar entre janeiro de 1995 e fevereiro de 1996. ,
+	      tachar: FHC disse ser contra o projeto de desvio das águas do rio São Francisco e [tachou de criminosa a prática de iniciar obras e não concluí-las.,}
+Chave: CLASSIFICAR <verb.communication>
+ILI: 00939604
+
+Sense 3
+{00939604} <verb.communication> pronounce, label1, judge -- (pronounce judgment on; "They labeled him unfit to work here")
+       => {00795481} <verb.communication> declare4, adjudge, hold11 -- (declare to be; "She was declared incompetent"; "judge held that the defendant was innocent")
+           => {00647983} <verb.cognition> judge -- (form an opinion of or pass judgment on; "I cannot judge some works of modern art")
+               => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

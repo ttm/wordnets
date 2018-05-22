@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA1694
+
+DADO O SYNSET:
+
+S='Glosa1694'
+{alcatroar: x,
+ brear: Depois, passa-se (na madeira)  resina de Anani para "brear" ou melhor fazer a vedação.,
+ embrear1: x,
+ empesgar: x,
+ empezar: x,}
+	  
+A='Glosa1345'
+{desembrear1: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1694' = “revestir com uma demão de breu”
+{brear: Já peguei várias câmaras de amigos que I]brearam e besuntaram o filtro com tudo que é produto de limpeza.,}
+	  
+A='Glosa1345'
+{desembrear1: x,}
+Chave: BREAR <verb.contact>
+ILI: 01234355
+
+Sense 1
+{01234355} <verb.contact> tar -- (coat with tar; "tar the roof"; "tar the roads")
+       => {01226248} <verb.contact> coat, surface -- (put a coat on; cover the surface of; furnish with a surface; "coat the cake with chocolate")
+           => {01293336} <verb.contact> cover -- (provide with a covering or cause to be covered; "cover her face with a handkerchief"; "cover the child with a blanket"; "cover the grave with flowers")

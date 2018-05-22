@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0744
+
+DADO O SYNSET:
+
+S='Glosa744'
+{azangar: x,
+enguiçar: H]Enguiçou com o vestido e não quis usar.,
+zangar: Que até me fazes [zangar com visitas na sala!,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa744' = “tornar zangado” 
+{zangar: Que até me fazes [zangar com visitas na sala!,}
+Chave: ZANGAR <verb.emotion>
+ILI: 01734240
+
+Sense 1
+{01734240} <verb.emotion> anger -- (make angry; "The news angered him")
+       => {01708538} <verb.emotion> arouse, elicit, enkindle, kindle, evoke, fire, raise8, provoke -- (call forth (emotions, feelings, and responses); "arouse pity"; "raise a smile"; "evoke sympathy")
+           => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

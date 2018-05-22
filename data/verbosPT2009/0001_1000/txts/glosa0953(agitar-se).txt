@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA0953
+
+DADO O SYNSET:
+
+S='Glosa953'
+{agitar-se: O mercado financeiro ainda poderá [agitar-se nesses 15 dias úteis que faltam para o primeiro turno das eleições presidenciais.,
+alvoroçar-se: Ao invés de nos [alvoroçarmos, o que devemos fazer é tentar compreender e, nesse sentido, vou analisá-lo para vocês. ,
+alvorotar-se: Guaraciaba sentiu seu coração I]alvorotar-se entre o pavor e a esperança, entre o receio e o prazer; mas esse estado ansioso de incerteza durou poucos momentos.,
+inquietar-se: Sem [inquietar-se com a destruição que faziam os Aimorés, continuou no seu trabalho interrompido. # O marido já começava a [inquietar-se.,
+mover-se: O episódio de Eldorado dos Carajás (quando morreram 19 sem-terra), o renascimento da questão agrária e as críticas obrigam o governo a se [mover e voltar sua atenção para as políticas sociais.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa953' = “fazer (-se) ficar agitado, excitado, ou excitado”
+{agitar-se: O mercado financeiro ainda poderá [agitar-se nesses 15 dias úteis que faltam para o primeiro turno das eleições presidenciais.,
+alvoroçar-se: Ao invés de nos [alvoroçarmos, o que devemos fazer é tentar compreender e, nesse sentido, vou analisá-lo para vocês. ,
+alvorotar-se: Guaraciaba sentiu seu coração I]alvorotar-se entre o pavor e a esperança, entre o receio e o prazer; mas esse estado ansioso de incerteza durou poucos momentos.,
+inquietar-se: Sem [inquietar-se com a destruição que faziam os Aimorés, continuou no seu trabalho interrompido. # O marido já começava a [inquietar-se.,
+mover-se: O episódio de Eldorado dos Carajás (quando morreram 19 sem-terra), o renascimento da questão agrária e as críticas obrigam o governo a se [mover e voltar sua atenção para as políticas sociais.,}
+Chave: AGITAR-SE <verb.emotion>
+ILI: 01711686
+
+Sense 2
+{01711686} <verb.emotion> agitate, rouse4, turn on2, charge5, commove, excite3, charge up -- (cause to be agitated, excited, or roused; "The speaker charged up the crowd with his inflammatory remarks")
+       => {01719446} <verb.emotion> disturb, upset, trouble1 -- (move deeply; "This book upset me"; "A troubling thought")
+           => {01716999} <verb.emotion> affect, impress1, move, strike -- (have an emotional or cognitive impact upon; "This child impressed me as unusually mature"; "This behavior struck me as odd")

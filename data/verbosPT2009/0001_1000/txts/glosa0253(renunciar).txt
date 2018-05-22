@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA0253
+
+DADO O SYNSET:
+
+S='Glosa253' = “abrir mão; afastar(-se); desistir”
+{abandonar: Um dia, [abandonou tudo e foi viver em clausura.,
+abjurar: Nos anos 70 adotou um codinome e participou de uma passeata no Calabouço, mais tarde [abjurou a luta armada e enganjou-se na campanha do verde.,
+abnegar: Dona Deuzinha, como é conhecida, I]abnegou de muitos sonhos para dedicar-se a esta grande obra, exemplo de altruísmo e amor ao próximo.,
+desistir: Estava prestes a [desistir do atletismo quando encontrou Pedrão, que o convidou para participar do Projeto Olímpico USP/Xerox.,
+renunciar: Foi o homem que espalhou pelo mundo as Comunidades de Emaús, que ensinou os franceses a pensarem mais nos pobres, que [renunciou à fortuna pessoal e ajudou judeus a escaparem para a Suíça durante a Segunda Guerra.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa253' = “abrir mão; afastar(-se); desistir”
+{abandonar: Um dia, [abandonou tudo e foi viver em clausura.,
+abjurar: Nos anos 70 adotou um codinome e participou de uma passeata no Calabouço, mais tarde [abjurou a luta armada e enganjou-se na campanha do verde.,
+abnegar: Dona Deuzinha, como é conhecida, I]abnegou de muitos sonhos para dedicar-se a esta grande obra, exemplo de altruísmo e amor ao próximo.,
+desistir: Estava prestes a [desistir do atletismo quando encontrou Pedrão, que o convidou para participar do Projeto Olímpico USP/Xerox.,
+renunciar: Foi o homem que espalhou pelo mundo as Comunidades de Emaús, que ensinou os franceses a pensarem mais nos pobres, que [renunciou à fortuna pessoal e ajudou judeus a escaparem para a Suíça durante a Segunda Guerra.,}
+Chave: RENUNCIAR <verb.possession>
+ILI: 02163111
+
+Sense 3
+{02163111} <verb.possession> foreswear, renounce, quit, relinquish -- (turn away from; give up; "I am foreswearing women forever")
+       => {02163347} <verb.possession> abandon1, give up -- (give up with the intent of never claiming again; "Abandon your life to God"; "She gave up her children to her ex-husband when she moved to Tahiti"; "We gave the drowning victim up for dead")

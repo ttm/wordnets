@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA3660
+
+DADO O SYNSET:
+
+S='Glosa3660'
+	    {
+	      descristianizar: Destruir os feriados religiosos é só mais uma forma de I]descristianizar a sociedade. ,
+	      paganizar: O materialismo consumista I]paganizou os valores espirituais, coisificando a pessoa humana.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3660' = “fazer pagão em caráter”
+	     {descristianizar: A guerra I]descristianiza as sociedades e as barbariza.,
+	      paganizar: O materialismo consumista I]paganizou os valores espirituais, coisificando a pessoa humana.,}
+Chave: PAGANIZAR <verb.change>
+ILI: 00556175
+
+Sense 1
+{00556175} <verb.change> paganize, paganise -- (make pagan in character; "The Church paganized Christianity")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

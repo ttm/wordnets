@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA3858
+
+DADO O SYNSET:
+	
+S='Glosa3858'
+{adubiar: x,
+	amanhar: Tinha de dividir o tempo entre o trabalho duro de I]amanhar a terra como agricultor, as tarefas de professor e o estudo de entomologia.,
+	arar: Ele [arou uma área de 8.000 m2 do cemitério de Caiabu (SP), onde estão os corpos de cerca de 300 pessoas.,
+	beneficiar: A queimada era a única maneira de se I]beneficiar a terra. ,
+	cultivar: Os primeiros agricultores [cultivavam a terra exclusivamente para o seu sustento (agricultura de subsistência), o que ainda ocorre em muitas regiões do globo, principalmente aquelas menos desenvolvidas.,
+	granjear: Passava o ano em redor da vinha e da horta que I]granjeava com exemplar esmero.,
+	laborar: O Senhor está nos levando a perceber uma coisa, a I]laborar a terra, a cultivar a terra. ,
+	lavrar: Existia quem, honradamente, não participasse de nossas loucas emoções e continuasse [lavrando a terra, pitando seu cigarro de palha e dormindo ao escurecer, enquanto ficávamos presos ao rádio e à TV.,
+	plantar: Os índios devem [plantar 3.200 hectares na próxima safra.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3858' = “cultivar através do crescimento, sempre envolvendo o desenvolvimento através de técnicas agrícolas”
+{amanhar: Tinha de dividir o tempo entre o trabalho duro de I]amanhar a terra como agricultor, as tarefas de professor e o estudo de entomologia.,
+	arar: Para poder I]arar a terra, os grupamentos humanos deixam de ser nômades.,	beneficiar: Cada família recebeu cerca de 9,5 mil reais para I]beneficiar a terra que receberam por meio da Reforma Agrária.,
+	cultivar: Os primeiros agricultores [cultivavam a terra exclusivamente para o seu sustento (agricultura de subsistência).,
+	granjear: Passava o ano em redor da vinha e da horta que I]granjeava com exemplar esmero.,
+	laborar: O Senhor está nos levando a perceber uma coisa: a I]laborar a terra.,
+	lavrar: Existia quem, honradamente, não participasse de nossas loucas emoções e continuasse [lavrando a terra, pitando seu cigarro de palha e dormindo ao escurecer, enquanto ficávamos presos ao rádio e à TV.,
+	plantar: Os índios devem [plantar 3.200 hectares na próxima safra.}
+Chave: CULTIVAR <verb.creation>
+ILI: 01690645
+
+Sense 3 
+{01690645} <verb.creation> grow, raise3, farm, produce5 -- (cultivate by growing, often involving improvements by means of agricultural techniques; "The Bordeaux region produces great red wines"; "They produce good ham in Parma"; "We grow wheat here"; "We raise hogs here")
+       => {01693557} <verb.creation> cultivate -- (foster the growth of)

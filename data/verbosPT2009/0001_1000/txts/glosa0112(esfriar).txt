@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0112
+
+DADO O SYNSET:
+
+S='Glosa112'
+{adormecer: Aquele espírito outrora tão esfuziante, A]adormeceu.,
+ 	arrefecer: A confiança não I]arrefeceu.,
+ 	arrefentar: x,
+ 	esfriar: A demora serviria para [esfriar os ânimos.,
+ 	refecer: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa112' = “perder intensidade”
+{adormecer: Muito além da quantidade de pessoas, conseguimos mais uma vez trazer à tona um sentimento que I]adormecia há mais de 17 anos na região.,
+ 	arrefecer: A confiança não I]arrefeceu.,
+ 	esfriar: Com o declínio da produção, I]esfriou o espírito de guerra, o que não impediu a tramitação de um projeto de lei, no Congresso Nacional.,}
+Chave: ESFRIAR <verb.change>
+ILI: 00358855
+
+Sense 3
+{00358855} <verb.change> cool2, cool off, cool down2 -- (lose intensity; "His enthusiasm cooled considerably")
+       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

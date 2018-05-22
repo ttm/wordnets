@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA2367
+
+DADO O SYNSET:
+
+S='Glosa2367'
+	    {caprichar: Quando há algum jantar ou recepção planejada, o jardineiro [capricha nos arranjos, que viram obras de arte, segundo Silvana.,
+	      esmerar: Coletâneas de regras gramaticais elaboradas por renomados mestres da nossa língua, instrumento de apoio fundamental para você reorganizar e I]esmerar a sua maneira de utilizar o seu idioma.,
+	      esmerar-se: Capra fez de A Felicidade Não se Compra uma irresistível alegoria sobre a crucificação e a redenção, que [se esmera na originalidade de arrancar lágrimas do espectador justo nas cenas em que a alegria arrebata os seus personagens.# A banda [se esmera nos arranjos.,
+	      timbrar: O legislador constituinte brasileiro I]timbrou em ser mais realista que o próprio rei.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2367' = “Elaborar, preparar algo com detalhes, pormenorizadamente.”
+	    {caprichar: Quando há algum jantar ou recepção planejada, o jardineiro [capricha nos arranjos.,
+	      esmerar: Intensificou seus treinamentos com moto e I]esmerou o preparo físico.,
+	      esmerar-se: A banda [se esmera nos arranjos.,
+	      timbrar: Ex-parlamentar da Assembléia Legislativa, I]timbrou seu discurso.,}
+
+Chave: CAPRICHAR <verb.change>
+ILI: 00243111
+
+Sense 4
+{00243111} <verb.change> elaborate1, work out1 -- (work out in detail; "elaborate a plan")
+       => {00245331} <verb.change> develop1, make grow -- (cause to grow and differentiate in ways conforming to its natural development; "The perfect climate here develops the grain"; "He developed a new kind of apple")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

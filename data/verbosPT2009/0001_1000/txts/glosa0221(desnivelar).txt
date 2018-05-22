@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0221
+
+DADO O SYNSET:
+
+S='Glosa221'
+{desigualar: x,
+desnivelar: O metrô passou a 9 metros de distância, a uma profundidade de 19 metros, e I]desnivelou as paredes do altar.,}
+A='Glosa3274'
+{abaixar, abarbar, achanar, achatar, afagar, alhanar, alisar, aplainar, aplanar, assentar, complanar, deprimir, igualar, nivelar, rasar, respaldar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa221' = “virar ou ser posto em desnível”
+{desnivelar: O metrô passou a 9 metros de distância, a uma profundidade de 19 metros, e I]desnivelou as paredes do altar.,}
+A='Glosa3274'
+{abaixar, abarbar, achanar, achatar, afagar, alhanar, alisar, aplainar, aplanar, assentar, complanar, deprimir, igualar, nivelar, rasar, respaldar}
+
+Chave: DESNIVELAR <verb.change>
+ILI: 00453425
+
+Sense 1
+{00453425} <verb.change> skew -- (turn or place at an angle; "the lines on the sheet of paper are skewed")
+       => {00455696} <verb.change> reorient -- (set or arrange in a new or different determinate position; "Orient the house towards the South")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night"nse 

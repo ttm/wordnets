@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA2964
+
+DADO O SYNSET:
+
+S='Glosa2964'
+	    {frondear: A vegetação nutrida pelo humo que as enxurradas depositavam nesses barrocais I]frondeava as árvores seculares, embastindo as sebes de verdura que vestiam os grossos troncos e lastravam pelos penhascos.,
+	      frondejar: A semente lançada em solo fecundo germinou, cresceu, I]frondejou e oferece hoje magníficos frutos.,
+	      frondescer: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2964' = “Produzir folhas, diz-se de plantas”
+	    {frondear: A vegetação nutrida pelo humo que as enxurradas depositavam nesses barrocais I]frondeava as árvores seculares.,
+	      frondejar: A semente lançada em solo fecundo germinou, cresceu, I]frondejou e oferece hoje magníficos frutos.,}
+Chave: FRONDEJAR <verb.body>
+ILI: 00092938
+
+Sense 3
+{00092938} <verb.body> leaf -- (produce leaves, of plants)
+       => {00091651} <verb.body> grow, develop, produce, get1, acquire -- (come to have or undergo a change of (physical features and attributes); "He grew a beard"; "The patient developed abdominal pains"; "I got funny spots all over my body"; "Well-developed breasts")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night") 

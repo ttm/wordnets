@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA3793
+
+DADO O SYNSET:
+	
+S='Glosa3793'
+{acossar: Muitos refugiados chegaram a esses países mais de cem anos atrás, buscando liberdade e melhores condições de vida; outros continuam chegando, impelidos pelas mesmas condições que I]acossaram seus antepassados, e outras novas.,
+	 castigar: Não se pode continuar I]castigando nossos povos com a pobreza e a marginalidade.,
+	 flagelar: Elias foi quem I]flagelou os tiranos, deu morte aos sacrílegos, fechou com suas palavras as nuvens e tornou a abri-las, ungiu Reis e instituiu Profetas defensores.,
+	 perseguir: Eles acabaram com a tirania, abriram campos de concentração e [perseguiram criminosos nazistas.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3793' = “infligir punimentos severos [em]”
+{acossar: Muitos refugiados chegaram a esses países mais de cem anos atrás, buscando liberdade e melhores condições de vida; outros continuam chegando, impelidos pelas mesmas condições que I]acossaram seus antepassados, e outras novas.,
+	 castigar: Não se pode continuar I]castigando nossos povos com a pobreza e a marginalidade.,
+	 flagelar: Elias foi quem I]flagelou os tiranos, deu morte aos sacrílegos, fechou com suas palavras as nuvens e tornou a abri-las, ungiu Reis e instituiu Profetas defensores.,
+	 perseguir: Eles acabaram com a tirania, abriram campos de concentração e [perseguiram criminosos nazistas.}
+Chave: CASTIGAR <verb.social>
+ILI: 02425428
+
+Sense 2
+{02425428} <verb.social> castigate -- (inflict severe punishment on)
+       => {02424949} <verb.social> punish, penalize, penalise -- (impose a penalty on; inflict punishment on; "The students were penalized for showing up late for class"; "we had to punish the dog for soiling the floor again")

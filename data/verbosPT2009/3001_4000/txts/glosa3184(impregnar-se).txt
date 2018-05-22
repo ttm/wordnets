@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA3184
+
+DADO O SYNSET:
+
+S='Glosa3184'
+	    {
+	      embeber-se: Kirchhoff I]embebeu-se da fenomenologia dos espectros, o que, veremos, lhe foi de grande valia para o seu estudo da radiação de equilíbrio.,
+	      impregnar-se: O Direito Penal I]impregnou-se de sentido místico desde os seus primórdios, já que se devia reprimir o crime como satisfação aos deuses pela ofensa praticada no grupo social.,
+	      infiltrar-se: O medo I]infiltrou-se em nossas vidas como um pó branco mortal abrindo caminho através da alma dos Estados Unidos.,
+	      injetar-se: O revigoramento daquilo que não está em perfeito funcionamento é fazer com que tudo flua com força e vigor e readquira seu real potencial; é I]injetar-se novo ritmo para que a vida retome ao seu fluxo normal.,
+	      insinuar-se: Começa timidamente a [insinuar-se na mentalidade do servidor público o dever de prestar contas e a compreensão de que os jornalistas são meros intermediários entre eles e a sociedade.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3184' = “encher, também em sentido metafórico”
+	      {impregnar-se: O Direito Penal I]impregnou-se de sentido místico desde os seus primórdios, já que se devia reprimir o crime como satisfação aos deuses pela ofensa praticada no grupo social.,
+	      infiltrar-se: O medo I]infiltrou-se em nossas vidas como um pó branco mortal abrindo caminho através da alma dos Estados Unidos.,
+	      injetar-se: Tudo isso acontece porque se I]injetou na sociedade brasileira um exacerbado espírito de competição.,
+	      insinuar-se: A política I]insinuou-se no trabalho do literato.,}
+Chave: IMPREGNAR-SE <verb.change>
+ILI: 00439460
+
+Sense 1
+{00439460} <verb.change> fill1, fill up, make full -- (make full, also in a metaphorical sense; "fill a container"; "fill the child with pride")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")
+          Also See-> {01647134} <verb.creation> fill in#2; {01158573} <verb.consumption> fill out#5

@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA1732
+
+DADO O SYNSET:
+
+S='Glosa1732'
+{acastelar-se: Mas havia nuvens a I]acastelar-se no horizonte. # O sol subia no horizonte, escondido por densas nuvens pesadas, que se A]acastelavam na atmosfera.,
+ acumular-se: Essas moléculas foram, então, arrastadas pelas águas da chuva e [acumularam-se nos mares primitivos, onde outras reações ocorreram.,
+ amontoar-se: Súbito, relampejou,  as nuvens [amontoavam-se às pressas.,
+ empilhar-se: Pode-se observar que os cloroplastos tendem a I]empilhar-se junto às paredes celulares situadas paralelamente ao feixe da luz quando este é muito intenso.,
+ encastelar-se: As nuvens I]encastelavam-se rapidamente anunciando a tormenta.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1732' = “ficar amontoado em pilhas pela força do vento ou de uma correnteza”
+{acastelar-se: Mas havia nuvens a I]acastelar-se no horizonte.,
+ acumular-se: Essas moléculas foram, então, arrastadas pelas águas da chuva e [acumularam-se nos mares primitivos, onde outras reações ocorreram.,
+ amontoar-se: Súbito, relampejou,  as nuvens [amontoavam-se às pressas.,
+ empilhar-se: Pode-se observar que os cloroplastos tendem a I]empilhar-se junto às paredes celulares situadas paralelamente ao feixe da luz quando este é muito intenso.,
+ encastelar-se: As nuvens I]encastelavam-se rapidamente anunciando a tormenta.,}
+Chave: AMONTOAR-SE <verb.change>
+ILI: 00555827
+
+Sense 10
+{00555827} <verb.change> drift -- (be piled up in banks or heaps by the force of wind or a current; "snow drifting several feet high"; "sand drifting like snow")
+       => {00152940} <verb.change> accumulate, cumulate, conglomerate, pile up, gather, amass -- (collect or gather; "Journals are accumulating in my office"; "The work keeps piling up")
+           => {00150804} <verb.change> increase -- (become bigger or greater in amount; "The amount of work increased")
+               => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

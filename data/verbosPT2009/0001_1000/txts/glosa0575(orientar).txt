@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0575
+
+DADO O SYNSET:
+
+S='Glosa575'
+{aconselhar: O carma que Andréia diz ter é cuidar e [aconselhar menores de rua.,
+guiar: Quando regressava desses estados de consciência vagos e obscuros, tentava fugir-lhes e [guiava o espírito para diverso assunto.,
+orientar: A professora da Faculdade de Educação da USP critica a FAE por apenas apresentar uma lista de livros e não [orientar a escolha.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa575' = “ser uma força guia, assim como direcionamentos ou conselhos”
+{aconselhar: O carma que Andréia diz ter é cuidar e [aconselhar menores de rua.,
+guiar: Quando regressava desses estados de consciência vagos e obscuros, tentava fugir-lhes e [guiava o espírito para diverso assunto.,
+orientar: A professora da Faculdade de Educação da USP critica a FAE por apenas apresentar uma lista de livros e não [orientar a escolha.,}
+Chave: ORIENTAR <verb.social>
+ILI: 02366330
+
+Sense 3
+{02366330} <verb.social> guide, steer -- (be a guiding force, as with directions or advice; "The teacher steered the gifted students towards the more challenging courses")
+       => {02366135} <verb.social> direct -- (be in charge of)
+           => {02363018} <verb.social> manage, deal13, care11, handle -- (be in charge of, act on, or dispose of; "I can deal with this crew of workers"; "This blender can't handle nuts"; "She managed her parents' affairs after they got too old")
+               => {02367626} <verb.social> control, command -- (exercise authoritative control or power over; "control the budget"; "Command the military forces")

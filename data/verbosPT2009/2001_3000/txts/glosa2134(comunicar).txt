@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2134
+
+DADO O SYNSET:
+
+S='Glosa2134'
+	    {comunicar-se: O sistema locomotor é responsável pelos movimentos do corpo. Por meio da fonação, o homem pode [comunicar-se com seus semelhantes.,
+	      expressar-se: x,
+	      exprimir-se: É importante levar o utente a I]exprimir-se por palavras e por gestos, promovendo para isso iniciativas várias, como por exemplo jogos de palavras; incentivo à leitura, apresentando este como instrumento fundamental e indispensáveis a um bom crescimento e desenvolvimento intelectual. ,
+	      falar: Há uns anos trabalhei com crianças surdas e fiquei surpreendida quando percebi que algumas conseguiam I]falar por gestos rudimentares de Língua Gestual muito antes das crianças ouvintes (sem deficiencia) começarem a dizer as primeiras palavras.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2134' = “transmitir pensamentos ou sentimentos; interagir”
+	    {comunicar-se: Por meio da fonação, o homem pode [comunicar-se com seus semelhantes.,
+	      exprimir-se: É importante levar o utente a I]exprimir-se por palavras e por gestos, promovendo para isso iniciativas várias. ,
+	      falar: Trabalhei com crianças surdas e fiquei surpreendida quando percebi que algumas conseguiam I]falar por gestos rudimentares de Língua Gestual.,}
+
+Chave: COMUNICAR <verb.communication>
+ILI: 00716346
+
+Sense 2
+{00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+       => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+           => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA3593
+
+DADO O SYNSET:
+
+S='Glosa3593'
+	    {
+	      espiar: Do Monumento das Bandeiras, obra que demorou 33 anos para concluir, [espia o Parque Ibirapuera. ,
+	      grelar2: A farra ia bem quando uma dona se plantou perto da bateria e ficou I]grelando meu jeito.,
+	      observar: Deve-se permanecer distante para [observar tudo e descrever os acontecimentos sem sujar os leitores. / Eu também começava a [observar com ansiedade, até notar que a sombra começava a mover-se, lenta mas perceptivelmente. ,
+	      obsidiar: Não passa sem M]obsidiar os vizinhos.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3593' = “assistir atentamente”
+	     {espiar: D. Lauriana [espiava o efeito do seu último ataque. ,
+	      grelar2: A farra ia bem quando uma dona se plantou perto da bateria e ficou I]grelando meu jeito.,
+	      observar: Sentada num banco de cimento diante do túmulo, Ivanilde apenas [observava os fãs, na maioria crianças, rezando, chorando e até cantando parabéns a Dinho. / Eu também começava a [observar com ansiedade, até notar que a sombra começava a mover-se, lenta mas perceptivelmente. ,
+	      obsidiar: Não passa sem M]obsidiar os vizinhos.,}
+
+Chave: OBSERVAR <verb.perception>
+ILI: 02107130
+
+Sense 4
+{02107130} <verb.perception> observe -- (watch attentively; "Please observe the reaction of these two chemicals")
+       => {02088598} <verb.perception> watch -- (look attentively; "watch a basketball game")

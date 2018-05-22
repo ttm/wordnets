@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA1337
+
+DADO O SYNSET:
+
+S='Glosa1337'
+{atrelar: Com cordas menores se ataram as cordas destinadas a I]atrelar os cavalos, sendo estes atrelados a seguir a cada membro ao longo das coxas, das pernas e dos braços.,
+ engatar: H]Engatou parelhas de bois ao carro.,}
+	  
+A='Glosa1562'
+{desatrelar, desengatar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1337' = “prender junto, ligar” 
+{atrelar: O trem, que deixou na terça-feira a estação de Woerth, onde I]atrelou os vagões vindos de três usinas nucleares, se deparou com uma série de protestos.,
+ engatar: Ferro Vitória-Minas I]engatou mais sete vagões no trem que parte diariamente para o Espírito Santo.,}
+A='Glosa1562'
+{desatrelar, desengatar}
+Chave: ATRELAR <verb.contact>
+ILI: 01259036
+
+Sense 2
+{01259036} <verb.contact> couple1, couple on, couple up -- (link together; "can we couple these proposals?")
+       => {01257892} <verb.contact> attach1 -- (cause to be attached)
+           => {01314764} <verb.contact> connect, link, tie1, link up -- (connect, fasten, or put together two or more pieces; "Can you connect the two loudspeakers?"; "Tie the ropes together"; "Link arms")

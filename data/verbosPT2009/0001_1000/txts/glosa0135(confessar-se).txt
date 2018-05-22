@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA0135
+
+DADO O SYNSET:
+
+S='Glosa135'
+{confessar-se: Em entrevista exclusiva ao JB, o ator [se confessou nervoso diante das expectativas provocadas pelo lançamento do filme e disse que gostaria de vir ao Brasil.,
+declarar-se: Se o juiz [se declara suspeito por motivo íntimo e encaminha o processo ao seu substituto, não cabe a este, nem à parte, suscitar conflito de competência.,
+reconhecer-se: Levado a um tribunal, I]reconheceu-se culpado e em agosto deverá voltar ao juiz para ouvir a sentença.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa135' = “admitir(-se)”
+{confessar-se: Em entrevista exclusiva ao JB, o ator [se confessou nervoso diante das expectativas provocadas pelo lançamento do filme e disse que gostaria de vir ao Brasil.,
+declarar-se: Se o juiz [se declara suspeito por motivo íntimo e encaminha o processo ao seu substituto, não cabe a este, nem à parte, suscitar conflito de competência.,
+reconhecer-se: Levado a um tribunal, I]reconheceu-se culpado e em agosto deverá voltar ao juiz para ouvir a sentença.,}
+
+Chave: CONFESSAR-SE <verb.communication>
+ILI: 00791778
+
+Sense 2
+{00791778} <verb.communication> concede, profess2, confess1 -- (admit, make a clean breast of; "She confessed that she had taken the money")
+       => {00790973} <verb.communication> admit, acknowledge -- (declare to be true or admit the existence or reality or truth of; "He admitted his errors"; "She acknowledged that she might have forgotten")
+           => {00795481} <verb.communication> declare4, adjudge, hold11 -- (declare to be; "She was declared incompetent"; "judge held that the defendant was innocent")
+               => {00647983} <verb.cognition> judge -- (form an opinion of or pass judgment on; "I cannot judge some works of modern art")
+                   => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

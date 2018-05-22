@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA3515a
+
+DADO O SYNSET:
+
+S='Glosa3515'
+	    {
+	      crestar: Era a hora em que o cacto, a flor da noite, fechava o seu cálice cheio das gotas de orvalho com que destila o seu perfume, temendo que o sol [crestasse a alvura diáfana de suas pétalas.   ,
+	      estiolar-se: O inverno nos agasalhava... nutrindo com secos tubérculos florecem e voltam a fenecer, [estiolando-se.,
+	      morrer: Minha arruda morreu!!! / A planta de fato I]morreu.,
+	      queimar: Ordenava aos dias a brilhar de forma mais amena, pois não queria I]queimar as pétalas.  ,
+	      secar: Em dias quentes e secos, as folhas poderiam [murchar e secar, determinando a morte do vegetal. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3515a' = “tornar queimado ou chamuscado sob intenso calor ou condições secas”
+	     {crestar: A aridez provocada pelo El Niño I]crestou as pastagens e reduziu o suprimento de gado bovino gordo no país.   ,
+	      queimar: Mas, quando o sol apareceu, I]queimou as plantas, e elas secaram porque não tinham raízes.  ,
+	      secar: O sol I]secou as plantações dos pequenos agricultores e a safra foi quase toda perdida. ,}
+Chave: QUEIMAR <verb.change>
+ILI: 00212128
+
+Sense 5
+{00212128} <verb.change> scorch4 -- (become scorched or singed under intense heat or dry conditions; "The exposed tree scorched in the hot sun")
+       => {00211934} <verb.change> dry, dry out -- (become dry or drier; "The laundry dries in the sun")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

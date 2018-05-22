@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA2173
+
+DADO O SYNSET:
+
+S='Glosa2173'
+	    {avolumar: Centenas de vozes, unindo-se, I]avolumaram o coro triunfal.,
+	      crescer: Sinais negativos para Quércia na semana: quercistas candidatos a deputado omitiram seu nome no material de campanha, assessores demonstraram desânimo e [cresceram os rumores de que ele renunciaria em prol de Sarney.,
+	      encorpar: Aprenderam rapidamente o refrão "lalalalaiá" e I]encorparam o coro geral.,
+	      engrossar: Apenas uma parte dos filhotes irá I]engrossar o rebanho leiteiro, o restante como novilha sem cria e bezerros castrados são levados ao matadouro. #  As chuvas A]engrossaram o riacho.  ,
+	      volumar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2173' = “tornar o som ou o tom  mais intenso” 
+	    {avolumar: Centenas de vozes, unindo-se, I]avolumaram o coro triunfal.,
+	      crescer: Nas alquebradas sombrias I]crescia a voz das águas borbulhantes, saltando, escachoando de pedra em pedra.,
+	      encorpar: Aprenderam rapidamente o refrão "lalalalaiá" e I]encorparam o coro geral.,
+	      engrossar: Os dois me chamaram de romântico, convidando-me a [engrossar o coro das orações do velório.  ,}
+
+Chave: ENGROSSAR <verb.change>
+ILI: 00535962
+
+Sense 4
+{00535962} <verb.change> deepen2, change8 -- (become deeper in tone; "His voice began to change when he was 12 years old"; "Her voice deepened when she whispered the password")
+       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

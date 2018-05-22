@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA3130
+
+DADO O SYNSET:
+
+S='Glosa3130'
+	    {
+	      inabilitar: Isto poderá produzir traumatismos ou contusões na base do pé ou docalcanhar, I]inabilitando o praticante à progressão das atividades.,
+	      incapacitar: O decreto não especifica quais são as doenças que podem [incapacitar a pessoa.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3130' = “ferir permanentemente”
+	     {inabilitar: A estrutura das sociedades, desde os seus primórdios, sempre I]inabilitou os portadores de deficiência, marginalizando-os e privando-os de liberdade.,
+	      incapacitar: Um traumático incidente à nascença I]incapacitou-o parcialmente, tendo-lhe deixado o braço esquerdo atrofiado, uma deficiência que ele tentou sempre esconder.,}
+Chave: INCAPACITAR <verb.body>
+ILI: 00089406
+
+Sense 2
+{00089406} <verb.body> disable, invalid, incapacitate, handicap -- (injure permanently; "He was disabled in a car accident")
+       => {00067690} <verb.body> injure, wound -- (cause injuries or bodily harm to)
+           => {00062508} <verb.body> hurt1 -- (give trouble or pain to; "This exercise will hurt your back")
+               => {00062736} <verb.body> indispose -- (cause to feel unwell; "She was indisposed")
+                   => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

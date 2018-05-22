@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA3176
+
+DADO O SYNSET:
+
+S='Glosa3176'
+	    {
+	      infiltrar: Via de administração do soro: I]infiltrar no local da lesão.,
+	      injetar: Assim, se você [injetar sangue A numa pessoa do grupo B (que tem, portanto, aglutininas anti-A) , vai ocorrer a reação entre essas aglutininas e o aglutinogênio A do sangue injetado. ,
+	      introduzir: Como I]introduzir DNA em uma célula.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3176' = “dar uma injeção”
+	     {infiltrar: Via de administração do soro: I]infiltrar no local da lesão.,
+	      injetar: Depois de testar várias substâncias anabolizantes comercializadas ilegalmente, Roberto I]injetou 300 ml de óleo de cozinha em cada uma de suas pernas. ,
+	      introduzir: A própria pessoa I]introduz o líquido da diálise para a cavidade abdominal e a difusão de resíduos (uréia e outros) se desenvolve no peritônio.,}
+Chave: INJETAR <verb.body>
+ILI: 00083884
+
+Sense 1
+{00083884} <verb.body> inject, shoot -- (give an injection to; "We injected the glucose into the patient's vein")
+       => {00078744} <verb.body> administer, dispense -- (give or apply (medications))
+           => {00076458} <verb.body> treat, care for -- (provide treatment for; "The doctor treated my broken leg"; "The nurses cared for the bomb victims"; "The patient must be treated right away or she will die"; "Treat the infection with antibiotics")

@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA2344
+
+DADO O SYNSET:
+
+S='Glosa2344'
+	    {custar: A energia produzida pela Solar 2[custa entre 1 e 2 centavos de dólar mais por kilowatt-hora do que a eletricidade produzida por uma usina de carvão de tamanho equivalente.,
+	      estar: Mas mesmo a equivalente para Athlon, a memória DDR, I]está com o preço mais barato: 110 reais compram 128 MB.,
+	      ficar: Nesse caso, paga-se apenas o preço da mão de obra, que I]fica em torno de R$ 500 na Rodagás.,
+	      ser: O custo do m2 da FISLAR I]é o mais baixo praticado no mercado. ,
+	      valer: No cálculo da contribuição previdenciária, [vale o salário do mês de competência, obedecido o limite, este mês, de CR$ 385.273,50.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2344' = “Ter o preço de, ser equivalente em preço.”
+	    {custar: A energia produzida pela Solar [custa entre 1 e 2 centavos de dólar mais por kilowatt-hora do que a produzida por uma usina de carvão de tamanho equivalente.,
+	      estar: Mas mesmo a equivalente para Athlon, a memória DDR, I]está com o preço mais barato.,
+	      ficar: Paga-se apenas o preço da mão de obra, que I]fica em torno de R$ 500 na Rodagás.,
+	      ser: O custo do m2 da FISLAR I]é o mais baixo no mercado. ,
+	      valer: Só o controle da Light [vale R$ 2,45 bilhões.,}
+
+Chave: CUSTAR <verb.stative>
+ILI: 02621203
+
+Sense 1
+{02621203} <verb.stative> cost, be9 -- (be priced at; "These shoes cost $100")
+       => {02526983} <verb.stative> be3 -- (have the quality of being; (copula, used with an adjective or a predicate noun); "John is rich"; "This is not a good answer") 

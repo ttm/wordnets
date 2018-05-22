@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0973
+
+DADO O SYNSET:
+
+S='Glosa973'
+{conservar: O pedaço que [conservar o núcleo se manterá vivo e até poderá regenerar a parte perdida.,
+preservar: A tecnologia resultante da conquista espacial está nos ajudando a [preservar o planeta Terra e a prevenir catástrofes.,
+proteger: Sua função é nutrir e [proteger os espermatozóides, até que cheguem ao óvulo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa973' = “defender do perigo, ferimento, destruição ou dano”
+{conservar: O pedaço que [conservar o núcleo se manterá vivo e até poderá regenerar a parte perdida.,
+preservar: A tecnologia resultante da conquista espacial está nos ajudando a [preservar o planeta Terra e a prevenir catástrofes.,
+proteger: Sua função é nutrir e [proteger os espermatozóides, até que cheguem ao óvulo.}
+Chave: PROTEGER <verb.competition>
+ILI: 01093094
+
+Sense 1
+{01093094} <verb.competition> protect -- (shield from danger, injury, destruction, or damage; "Weatherbeater protects your roof from the rain")
+       => {01092732} <verb.competition> defend -- (be on the defensive; act against an attack)
+           => {02377053} <verb.social> prevent, keep1 -- (prevent from doing something or being in a certain state; "We must prevent the cancer from spreading"; "His snoring kept me from falling asleep"; "Keep the child from eating the marbles")

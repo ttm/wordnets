@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA3056
+
+DADO O SYNSET:
+
+S='Glosa3056'
+	    {
+	      atracar-se: Um funcionário de 26 anos tentou I]atracar-se com ele e ficou levemente ferido no pescoço, conseguindo fugir.,
+	      embolar-se: Ao sinal do professor, eles começam a I]embolar-se uns nos outros, passando por cima, por baixo.,
+	      engalfinhar-se: Os dois se I]engalfinham, arranham-se, se mordem.,
+	      grudar-se: A paz da selva é interrompida quando dois camaleões literalmente se I]grudam num conflito de resultados catastróficos.,
+	      rolar1: Os dois I]rolam pelo chão, disputando o celular.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3056' = “agarrar, como numa partida de luta romana”
+	     {atracar-se: Ele se [atracou com um dos sequestradores, que lhe rasgou a camisa.,
+	      embolar-se: Lúcio Flávio e Fabrício se I]embolaram para pegar a bola e ela acabou indo para fora.,
+	      engalfinhar-se: Os dois se I]engalfinham, arranham-se, se mordem.,
+	      grudar-se: A paz da selva é interrompida quando dois camaleões literalmente se I]grudam num conflito de resultados catastróficos.,
+	      rolar1: Os dois I]rolam pelo chão, disputando o celular.,}
+	    
+Chave: ATRACAR-SE <verb.contact>
+ILI: 01084280
+
+Sense 2
+{01084280} <verb.contact> grapple1, grip3 -- (to grip or seize, as in a wrestling match; "the two men grappled with each other for several minutes")
+       => {00825349} <verb.contact> seize, prehend, clutch -- (take hold of; also metaphorically: "Fear seized the prisoners")
+           => {00826635} <verb.contact> take, get hold of -- (get into one's hands, take physically; "Take a cookie!" "Can you take this bag, please")

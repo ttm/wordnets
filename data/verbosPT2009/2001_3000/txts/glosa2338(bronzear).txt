@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA2338
+
+DADO O SYNSET:
+
+S='Glosa2338'
+	    {amorenar: Juntam-se, assim, dois tipos étnicos queimados pelo sol: o sol da Ásia e o sol da América - este não apenas para I]amorenar a pele, mas para abrir o caminho ás secas, responsáveis pela dispersão dos sertanejos cearenses.,
+	      amulatar: H]Amulatou a pele expondo-se demais ao sol.,
+	      atrigueirar: x,
+	      bronzear: Eu me deixaria I]amorenar ou bronzear, no Brasil ou na África, pelo sol das manhãs tropicais, como por um velho Amigo da gente portuguesa.,
+	      crestar: Sopra o vento quente das grandes extensões milenares e [cresta a minha superfície.,
+	      tostar: Cuidados com o sol Preocupado em não I]tostar a pele, Daniel sempre procura protegê-la do sol.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2338' = “Dar cor de bronze à pele através de exposição aos raios solares.”
+	    {amorenar: O decorador aproveita para I]amorenar a pele na piscina.,
+	      amulatar: H]Amulatou a pele expondo-se demais ao sol.,
+	      bronzear: Alguma vez na sua vida você já I]bronzeou sua pele por duas semanas?.,
+	      crestar: O sol A]crestara a pele parda.,
+	      tostar: Preocupado em não I]tostar a pele, Daniel sempre procura protegê-la do sol.,}
+
+Chave: BRONZEAR <verb.body>
+ILI: 00101100
+
+Sense 2
+{00101100} <verb.body> tan, bronze -- (get a tan, from wind or sun)
+       => {00272185} <verb.change> discolor, discolour, colour, color1 -- (change color, often in an undesired manner; "The shirts discolored")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night") 

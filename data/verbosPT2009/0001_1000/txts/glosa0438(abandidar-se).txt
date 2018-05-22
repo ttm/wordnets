@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA0438
+
+DADO O SYNSET:
+
+S='Glosa438'
+{abandidar-se: Em tais companhias M]abandidar-se-ia fatalmente.,
+agatunar-se: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa438' = “tornar (-se) bandido; declarar (-se) criminoso”
+{abandidar-se: Em Resta saber, em primeiro de outubro, se o país também I]se abandidou.,}
+Chave: ABANDIDAR-SE
+ILI: 02406642
+
+Sense 1
+{02406642} <verb.social> outlaw, criminalize, criminalise, illegalize, illegalise -- (declare illegal; outlaw; "Marijuana is criminalized in the U.S.")
+       => {00770118} <verb.communication> forbid, prohibit, interdict, proscribe, veto, disallow -- (command against; "I forbid you to call me late at night"; "Mother vetoed the trip to the chocolate store")
+           => {00726786} <verb.communication> command, require, compel -- (make someone do something)
+               => {00722209} <verb.communication> order1, tell2, enjoin, say4 -- (give instructions to or direct somebody to do something with authority; "I said to him to go home"; "She ordered him to do the shopping"; "The mother told the child to get dressed")
+                   => {00728656} <verb.communication> request2 -- (ask (a person) to do something; "She asked him to be here at noon"; "I requested that she type the entire manuscript")
+                       => {00727721} <verb.communication> ask1 -- (make a request or demand for something to somebody; "She asked him for a loan")
+                           => {00727992} <verb.communication> request1, bespeak, call for4, quest1 -- (express the need or desire for; ask for; "She requested an extra bed in her room"; "She called for room service")
+                               => {00717906} <verb.communication> communicate1, pass on, pass1, put across -- (transmit information ; "Please communicate this message to all employees")
+                                   => {02167243} <verb.possession> convey10, transmit10, communicate10 -- (transfer to another; "communicate a disease")
+                                       => {02167764} <verb.possession> transfer1 -- (move from one place to another; "transfer the data"; "transmit the news"; "transfer the patient to another hospital")
+                                           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

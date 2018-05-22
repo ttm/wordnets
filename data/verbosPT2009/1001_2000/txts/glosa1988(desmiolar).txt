@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA1988
+
+DADO O SYNSET:
+
+S='Glosa1988'
+{desmiolar: H]Desmiolar uma bisnaga.,
+ esmiolar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1988' = “tirar o(s) miolo(s) [de]”
+{desmiolar: O engenheiro estuda a vida toda para desenvolver um escapamento silencioso, dentro dos limites de emissões de gases, vem o “entendido” e I]desmiola o catalisador, retira o silencioso e instala um JK para o carro ficar barulhento.,}
+Chave: DESMIOLAR <verb.contact>
+ILI: 01546950
+
+Sense 1
+{01546950} <verb.contact> core -- (remove the core or center from; "core an apple")
+       => {01244315} <verb.contact> hollow, hollow out, core out -- (remove the interior of; "hollow out a tree trunk")
+           => {00436730} <verb.change> empty1 -- (make void or empty of contents; "Empty the box"; "The alarm emptied the building")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

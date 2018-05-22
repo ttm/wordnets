@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA3698
+
+DADO O SYNSET:
+
+S='Glosa3698'
+	    {
+	      partejar: Com a população indígena do Oiapoque, Teresa aprendeu muito mais sobre a arte de I]partejar. ,
+	      parturejar: Uma das grandes preocupações mundiaisl em relação à arte de I]parturejar finca-se na redução da freqüência crescente de operações cesarianas. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3698'=”chocar”
+	     {partejar: Aos 78 anos, a “passarinha”, como é chamada carinhosamente pela fotógrafa, já I]partejou mais de cem vezes.,}
+Chave: PARTEJAR <verb.body>
+ILI: 00058159
+
+Sense 1
+{00058159} <verb.body> brood, hatch, cover2, incubate -- (sit on (eggs); "Birds brood"; "The female covers the eggs")
+    => {00053313} <verb.body> reproduce, procreate, multiply1 -- (have offspring or young; "The deer in our neighborhood reproduce madly"; "The Catholic Church tells people to procreate, no matter what their economic situation may be")
+       => {00053715} <verb.body> propagate -- (multiply sexually or asexually)
+       => {00054310} <verb.body> fructify, set6 -- (bear fruit; "the apple trees fructify")
+       => {00054456} <verb.body> breed, multiply -- (have young (animals); "pandas rarely breed in captivity")
+       => {00058159} <verb.body> brood, hatch, cover2, incubate -- (sit on (eggs); "Birds brood"; "The female covers the eggs")

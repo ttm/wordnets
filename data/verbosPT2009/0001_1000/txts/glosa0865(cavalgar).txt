@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0865
+
+DADO O SYNSET:
+
+S='Glosa865'
+{campear: O homem havia sido posto ali nos inícios para I]campear e hortar; porém só pensava em lombo de cavalo, de forma que só campeava e não hortava. ,
+cavalear: Jamais pensei que Lavínia soubesse I]cavalear tão bem.,
+cavalgar: O guia levava-os a uma fazenda ou a um rancho, onde os três descansavam e comiam, para tomar logo a [cavalgar por entre as melancólicas carnaubeiras e pindovais da estrada. # Então vocês I]cavalgam pelos campos, libertando seus lados animais.,
+cavaloar: DEVIANT,
+encavalgar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa865' = “sentar e viajar nas costas de um animal, geralmente ao controlar seus movimentos”
+{campear: O homem havia sido posto ali nos inícios para I]campear e hortar; porém só pensava em lombo de cavalo, de forma que só campeava e não hortava. ,
+cavalear: Jamais pensei que Lavínia soubesse I]cavalear tão bem.,
+cavalgar: O guia levava-os a uma fazenda ou a um rancho, onde os três descansavam e comiam, para tomar logo a [cavalgar por entre as melancólicas carnaubeiras e pindovais da estrada. # Então vocês I]cavalgam pelos campos, libertando seus lados animais.,}
+Chave: CAVALGAR <verb.motion>
+ILI: 01900091
+
+Sense 1
+{01900091} <verb.motion> ride1, sit3 -- (sit and travel on the back of animal, usually while controlling its motions; "She never sat a horse!"; "Did you ever ride a camel?"; "The girl liked to drive the young mare")
+       => {01782203} <verb.motion> travel, go, move3, locomote -- (change location; move, travel, or proceed; "How fast does your new car go?"; "We travelled from Rome to Naples by bus"; "The policemen went from door to door looking for the suspect"; "The soldiers moved towards the city in an attempt to take it before night fell")

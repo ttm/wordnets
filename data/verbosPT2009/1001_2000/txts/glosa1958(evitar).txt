@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA1958
+
+DADO O SYNSET:
+
+S='Glosa1958'
+{escusar: Até estimava que lhe demitissem do emprego, porque iria fazer pela vida noutra parte, e I]escusava perder tempo e emporcalhar papel, para no fim do mês - tome lá o seu ordenado, uns míseros vinténs que mal chegavam para o boi. ,
+ evitar: Não vemos nenhum humor em adulterar produtos», disse à Folha uma porta-voz da Mattel, em Los Angeles, que ao mesmo tempo [evitava comentar a razão de não entrarem com um processo contra a OLB.,
+ poupar: Após a queda de Washington Luis e a ocupação do Catete por Getúlio Vargas, Renato abandonou o cargo de secretário para fundar o jornal Pátria Nova, onde não I]poupava críticas ao governo de Fernandes Távora nem elogios à Revolução. ,
+ quitar: Sempre M]quitou discussões inócuas. # Sempre H]quitou discussões inúteis., }
+	  
+A='Glosa3021'
+{acarrear, acarretar, captar, carrear, causar, desencadear, determinar, ensejar, germinar, levantar, motivar, ocasionar, originar, pregar1, produzir, promover, provocar, puxar, sugerir, suscitar, trazer}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1958' = “impedir a ocorrência [de]; impedir [algo] de acontecer”
+{evitar: A baixa temperatura registrada ontem no Rio, em torno dos 20 graus, não [evitou que muitos motoristas esquentassem a cabeça com o trânsito caótico da cidade.,
+ poupar: O que já [poupa o apreciador de ouvir os aplausos improcedentes da clientela de banco que vai em enxame ao Municipal em noite de divas.,}
+	  
+A='Glosa3021'
+{acarrear, acarretar, captar, carrear, causar, desencadear, determinar, ensejar, germinar, levantar, motivar, ocasionar, originar, pregar1, produzir, promover, provocar, puxar, sugerir, suscitar, trazer}
+Chave: EVITAR <verb.social>
+ILI: 02379475
+
+Sense 2
+{02379475} <verb.social> debar, obviate, deflect, avert, head off, stave off, fend off, avoid1, ward off -- (prevent the occurrence of; prevent from happening; "Let's avoid a confrontation"; "head off a confrontation"; "avert a strike")
+       => {02379144} <verb.social> prevent1, forestall1, foreclose, preclude, forbid3 -- (keep from happening or arising; have the effect of preventing; "My sense of tact forbids an honest answer")

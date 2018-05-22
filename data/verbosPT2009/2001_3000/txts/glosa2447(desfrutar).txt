@@ -1,0 +1,37 @@
+ANÁLISE DA GLOSA2447
+
+DADO O SYNSET:
+
+S='Glosa2447'
+	    {desfruir: O avanço sempre infinito da produção capitalista poderia, num determinado momento, gerar uma sociedade rica, em que todos pudessem I]desfruir dos frutos por ela gerados.,
+	      desfrutar: Os presos são soltos pelo delegado Galvão para [desfrutar dos últimos dias de alegria.,
+	      fruir: Bastam 15 minutos de viagem para [fruir duas paisagens distintas.,
+	      gozar: O diretor explicou que a Golden Cross, reconhecida como uma entidade filantrópica, e a Unimed, por ser uma cooperativa, [gozam de isenções fiscais.,
+	      libar: Freud I]libou cuidadosamente as obras mais eminentes que abriram os umbrais de seu tempo, como Dom Quixote de La Mancha.,
+	      possuir: Cada certificado de habilitação tem validade vitalícia, não se extingue com a promoção de classe, e assim um radioamador possui um certificado para cada classe em cujo exame ele foi aprovado, podendo [possuir até quatro certificados.,
+	      sopetear: Eu vou I]sopetear o dia.,
+	      ter: Ulisses I]tem ascendência nobre, ele próprio é um rei, mas as preocupações dele são bem mais humanas.,
+	      usufruir: João [usufrui da herança que deixou a Alexandre.,
+	      usufrutar: Socializar, Democratizar e Descentralizar os meios de comunicação e produção cultural para que a população tenha acesso e I]usufruta do conhecimento.,
+	      viver: Mas O DIA MUNDIAL DO CORAÇÃO não é só sobre prevenção de doenças, é também sobre I]viver a vida plenamente, não importando a idade ou situação.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2447' = “Derivar ou receber satisfação de; obter deleite de; sentir prazer em.” 
+	    {desfruir: O avanço sempre infinito da produção capitalista poderia, num determinado momento, gerar uma sociedade rica, em que todos pudessem I]desfruir dos frutos por ela gerados.,
+	      desfrutar: A colônia [desfrutou laços íntimos com o governo de Pinochet.,
+	      fruir: Deixando intactos o dinheiro, o prestígio e o poder que sempre quis e nunca [fruiu inteiramente.,
+	      gozar: O diretor explicou que a Golden Cross e a Unimed [gozam de isenções fiscais.,
+	      libar: Entre as taças e os polidos vasos, I]libou as iguarias e de novo se retirou.,
+	      possuir: Cada certificado de habilitação tem validade vitalícia, não se extingue com a promoção de classe, e assim um radioamador possui um certificado para cada classe em cujo exame ele foi aprovado, podendo [possuir até quatro certificados.,
+	      sopetear: Eu vou I]sopetear o dia.,
+	      ter: Ulisses I]tem ascendência nobre, ele próprio é um rei, mas as preocupações dele são bem mais humanas.,
+	      usufruir: João [usufrui da herança que deixou a Alexandre.,
+	      usufrutar: Socializar, Democratizar e Descentralizar os meios de comunicação e produção cultural para que a população tenha acesso e I]usufruta do conhecimento.,
+	      viver: O surfe brasileiro I]viveu o dia mais importante de sua história nesta segunda-feira.,}
+
+Chave: DESFRUTAR <verb.emotion>
+ILI: 01767431
+
+Sense 1
+{01767431} <verb.emotion> enjoy, bask13, relish, savor, savour -- (derive or receive pleasure from; get enjoyment from; take pleasure in; "She relished her fame and basked in her glory") 

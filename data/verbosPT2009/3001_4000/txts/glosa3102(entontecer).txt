@@ -1,0 +1,35 @@
+ANÁLISE DA GLOSA3102
+
+DADO O SYNSET:
+
+S='Glosa3102'
+	    {
+	      abobalhar: A inércia nunca foi boa parceira. No mínimo, I]abobalha a vítima, faz dela presa fácil de qualquer conversa fiada.,
+	      abobar: A felina dos sonhos do pobre jogador era uma mulher de programa carioca, contratada especificamente para aquela finalidade: I]abobar o melhor do time e deu certo.,
+	      aparvalhar: Nenhuma organização tem sido tão nociva e insolente como a religião, que se apresenta com uma roupagem enganadora de promover o aperfeiçoamento espiritual, quando na verdade, o que obtém como resultado é I]aparvalhar, dominar e inutilizar as funções da razão.,
+	      apatetar: x,
+	      atolar2: x,
+	      atoleimar: Não podemos, porém, esquecer que o homem vitorioso nos empreendimentos externos, não soube, ou não quis, ainda triunfar sobre as paixões primitivas, que prosseguem em predomínio dando mostras de impiedade, que I]atoleimam as demais criaturas.,
+	      entontecer: Há pessoas que não podem elevar-se a lugares eminentes sem I]entontecer ou desatinar.,
+	      estontecer: x,
+	      idiotar: x,
+	      idiotizar: Quem não estiver prestando atenção, extraindo lições e se adaptando a essa tendência, vai I]idiotizar filhos ou alunos, tornando-os incapazes de prosperar.,
+	      imbecilizar: Chegamos a I]imbecilizar nossas crianças colocando personagens de histórias em quadrinhos montados em foguetinhos de papel para simbolizar que se tá multiplicando passa dividindo.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3102' = “tornar tonto”
+	     {abobalhar: A inércia nunca foi boa parceira. No mínimo, I]abobalha a vítima, faz dela presa fácil de qualquer conversa fiada.,
+	      abobar: A felina dos sonhos do pobre jogador era uma mulher de programa carioca, contratada especificamente para aquela finalidade: I]abobar o melhor do time e deu certo.,
+	      aparvalhar: O PT em bloco se I]aparvalhou com o escândalo do alto assessor do Palácio do Planalto, Waldomiro Diniz, pego com a mão grande na botija de um bicheiro em 2002.,
+	      atoleimar: A facilidade com que esta fraude I]atoleimou as maiores autoridades do mundo ilustra a poderosa influência de idéias preconcebidas entre os evolucionistas.,
+	      entontecer: a cor vertiginosa de todo aquele cenário iluminado I]entonteceu-lhe os olhos.,
+	      idiotizar: Essa falta de identidade I]idiotiza os jovens dos dias atuais e os faz pularem de estilo em estilo, conforme dita a Moda.,
+	      imbecilizar: Ao invés de queimar livros e torturar pessoas, a ditadura pela publicidade I]imbeciliza os seres humanos a ponto deles se viciarem em consumo.,}
+Chave: ENTONTECER <verb.change>
+ILI: 00518207
+
+Sense 1
+{00518207} <verb.change> dizzy -- (make dizzy or giddy; "a dizzying pace")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA2969
+
+DADO O SYNSET:
+
+S='Glosa2969'
+	    {afumar: x,
+	      afumegar: x,
+	      cachimbar: Os paus-d'arcos, floridos, salpicavam a mata de pontos amarelos; de manhã a serra I]cachimbava.,
+	      cachimbear: x,
+	      esfumear: x,
+	      fumaçar: A neblina vestia tudo de azul, o rio I]fumaçava, as teias de aranha, gordas do orvalho, estendiam-se no arame das cercas.,
+	      fumar: O caldeirão de sopa H]fumava ao fogo.,
+	      fumarar: x,
+	      fumear: Chão porém que A]fumeia um vaporzinho leve, a si recolhe o humor, ou dá que ao ar se eleve.,
+	      fumegar: De relance vi, na cozinha, tia Albina fumando ao lado do fogão, enquanto um calderão de água I]fumegava. ,
+	      vaporar: M]Vaporam os temperos na caçarola.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2969' = “Emitir vapor”
+	    {cachimbar: Os paus-d'arcos, floridos, salpicavam a mata de pontos amarelos; de manhã a serra I]cachimbava.,
+	      fumaçar: A neblina vestia tudo de azul, o rio I]fumaçava, as teias de aranha, gordas do orvalho, estendiam-se no arame das cercas.,
+	      fumar: Depois da chuva, todo o vale fuma.,
+	      fumegar: De relance vi, na cozinha, tia Albina fumando ao lado do fogão, enquanto um calderão de água I]fumegava.,.,}
+Chave: FUMAÇAR <verb.weather>
+ILI: 02686476
+
+Sense 2
+{02686476} <verb.weather> steam -- (emit steam; "The rain forest was literally steaming")
+       => {02685205} <verb.weather> emit, give out, give off -- (give off, send forth, or discharge; as of light, heat, or radiation, vapor, etc.; "The ozone layer blocks some harmful rays which the sun emits") 

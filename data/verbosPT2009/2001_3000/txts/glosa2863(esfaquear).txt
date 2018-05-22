@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA2863
+
+DADO O SYNSET:
+
+S='Glosa2863'
+	    {afaquear: x,
+	      esfaquear: Brasileiro acusado de [esfaquear mulher nos EUA depõe em janeiro.,
+	      faquear: Um irmão do Sarna, acho que chateado com aquilo, pegou um peso de cinco quilos da balança e achatou a cabeça do homem que I]faqueou o Sarna.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2863' = “
+	    {esfaquear: Temendo deixar testemunhas, o pedreiro [esfaqueou as crianças.,
+	      faquear: Um irmão do Sarna, acho que chateado com aquilo, pegou um peso de cinco quilos da balança e achatou a cabeça do homem que I]faqueou o Sarna.,}
+Chave: ESFAQUEAR <verb.contact>
+ILI: 01194148
+
+Sense 1
+{01194148} <verb.contact> knife, stab2 -- (use a knife on; "The victim was knifed to death")
+       => {00067690} <verb.body> injure, wound -- (cause injuries or bodily harm to)
+           => {00062508} <verb.body> hurt1 -- (give trouble or pain to; "This exercise will hurt your back")
+               => {00062736} <verb.body> indispose -- (cause to feel unwell; "She was indisposed")
+                   => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

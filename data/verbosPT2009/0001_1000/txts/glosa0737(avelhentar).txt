@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA0737
+
+DADO O SYNSET:
+
+S='Glosa737'
+{avelhantar: O sofrimento A]avelhantou-a.,
+avelhar: x,
+avelhentar: Brasil-Iolas que I]avelhenta, em Brasil remoce, Mrazê.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa737' = “fazer ou deixar mais velho”
+{avelhentar: Todavia, confessa que o sofrimento o I]avelhenta prematuramente.,}
+Chave: AVELHENTAR <verb.change>
+ILI: 00241327
+
+Sense 3
+{00241327} <verb.change> age2 -- (make older; "The death of his child aged him tremendously")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

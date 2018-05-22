@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA2908
+
+DADO O SYNSET:
+
+S='Glosa2908'
+	    {flanquear: Quando os jesuítas se estabeleceram no planalto de SP, ocuparam os aldeiamentos de Pinheiros, Embú e Itapecerica da Serra, I]flanqueando a vila de Piratininga.,
+	      ladear: Logo começamos a I]ladear um belo rio entre pedras que pede uma parada, o lugar é lindo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2908' = “Estar localizado ao lado de alguma coisa ou alguém”
+	    {flanquear: Favela denominava um dos morros que I]flanqueava o Arraial de Canudos, no sertão baiano.,
+	      ladear: Da portaria subia-se por um caminho de mosaicos de pedra, que I]ladeava o casarão principal pelo lado da Alameda Glette.,}
+
+Chave: LADEAR <verb.stative
+ILI: 02612924
+
+Sense 1
+{02612924} <verb.stative> flank -- (be located at the sides of something or somebody)
+       => {02609765} <verb.stative> lie -- (be located or situated somewhere; occupy a certain position)
+           => {02576058} <verb.stative> be5 -- (occupy a certain position or area; be somewhere; "Where is my umbrella?" "The toolshed is in the back"; "What is behind this behavior?") 

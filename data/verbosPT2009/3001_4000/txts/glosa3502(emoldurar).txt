@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA3502
+
+DADO O SYNSET:
+
+S='Glosa3502'
+	    {
+	      amoldurar: x,
+	      emoldar: ...emoldando objetos,
+	      emoldurar: Os visitantes do museu podem questionar o motivo de Varnedoe estar se dando tanto trabalho para [emoldurar estes quadros de novo,
+	      encaixilhar: Copiou as palavras, [encaixilhou-as e pendurou-as no quarto, por cima da cama,
+	      enquadrar: Ao ]enquadrar as duas figuras sacrificou-se a silhueta da que está em primeiro plano, que se confunde com o edifício,
+	      moldurar: Tive a idéia de ]moldurar a foto com a árvore,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3502'
+	     {emoldurar: ele pegou a capa do disco, I]emoldurou e pendurou na parede,
+	      encaixilhar: Copiou as palavras, [encaixilhou-as e pendurou-as no quarto, por cima da cama,
+	      enquadrar: I]Enquadrou as fotos dos três, pendurou-as numa parede e, debochado, tascou a faixa: ‘Eterna gratidão’,
+	      moldurar: A artista I]moldurou os selos com frisas ornamentais gregas nas partes superior e inferior, destacando, no centro da moldura inferior, os Arcos Olímpicos,}
+Chave: EMOLDURAR <verb.contact>
+ILI: 01543545
+
+Sense 1
+{01543545} <verb.contact> frame, frame in, border2 -- (enclose in or as if in a frame; "frame a picture")
+       => {01543739} <verb.contact> enclose, inclose, shut in -- (surround completely; "Darkness enclosed him")
+           => {01425761} <verb.contact> surround, skirt, border1 -- (extend on all sides of simultaneously; encircle; "The forest surrounds my property")
+               => {01169130} <verb.contact> touch1, adjoin3, meet, contact3 -- (be in direct physical contact with; make contact; "The two buildings touch"; "Their hands touched"; "The wire must not contact the metal cover"; "The surfaces contact at this point")

@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA0111
+
+DADO O SYNSET:
+
+S='Glosa111'
+{alvejar2: O tiro que ele me deu, pegou apenas de raspão no braço, mas os dois que [alvejaram meu filho foram certeiros e fatais.,
+atingir: A partir do exame destas duas provas, o Instituto de Criminalística poderia revelar se a bala que [atingiu Renato foi disparada pelas armas dos PMs.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa111' = “bater ou acertar em algo ou alguém; vir a ter contato repentino”
+{alvejar2: O tiro que ele me deu, pegou apenas de raspão no braço, mas os dois que [alvejaram meu filho foram certeiros e fatais.,
+atingir: A partir do exame destas duas provas, o Instituto de Criminalística poderia revelar se a bala que [atingiu Renato foi disparada pelas armas dos PMs.,}
+Chave: ATINGIR <verb.contact>
+ILI: 01198410
+
+Sense 2
+{01198410} <verb.contact> hit1, strike1, impinge on, run into1, collide with -- (hit against; come into sudden contact with; "The car hit a tree"; "He struck the table with his elbow")
+       => {01169634} <verb.contact> touch -- (make physical contact with, come in contact with; "Touch the stone for good luck"; "She never touched her husband")

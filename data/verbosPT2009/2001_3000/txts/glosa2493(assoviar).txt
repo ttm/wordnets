@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA2493
+
+DADO O SYNSET:
+
+  S='Glosa2493'
+	    {apitar: Enquanto o juiz não [apitar, a bola continua rolando.,
+	      assobiar: O vento I]assobia no telhado e a porteira bate contra no cercado.,
+	      assoviar: O vento I]assovia nos fios dos postes.,
+	      atitar: Lucíola suspendia-se aos ramos das árvores e colhia os frutos verdes que saboreava com delícia; ora pulava sobre a relva soltando gritos de prazer como as aves quando I]atitam ao raiar da manhã.,
+	      ciciar: O horizonte é largo em más caras poligástricas, confinado à estreiteza desse abrigo, não tens todos os cios das cadelas, outros bichos I]ciciam teus ouvidos.,
+	      esfuziar: O poeta da "Odisséia" e da "Ilíada" continua apesar da crise das almas, da crise de fé e da crise moral em que se debate o mundo de hoje, quando I]esfuzia a metralha, roncam aviões e chovem bombas, no tropel confuso dos combates heróicos, manchados pelo sangue vivo dos homens tangidos pelo egoísmo estéril e bloqueados pelo progresso material.,
+	      sibilar: Nos campos de batalha supera o apego à vida, sente o rugir dos canhões, as estocadas de baionetas, o I]sibilar de projetis e os cortantes golpes dos sabres.,
+	      silvar: Pouco mais ou menos como quando, sob preparativos queimam-se fogos de artifício, e os cartuchos artisticamente preparados e dispostos segundo uma determinada ordem, sob a qual deveriam desenhar no ar figuras fabulosas e variadas, começam a [silvar e a zunir desordenada e perigosamente, assim também no peito de Wilhelm agora soçobravam indistintamente felicidade e esperança, volúpia e alegria, o real e o sonhado.,
+	      sobiar: O vento A]sobiou na cumbuca.,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2493' = “Mover com, ou como se fosse, um som sibilante.”
+	    {apitar: Hoje o I]vento apitou!.,
+	      assobiar: O vento I]assobia no telhado e a porteira bate contra no cercado.,
+	      assoviar: O vento I]assovia nos fios dos postes.,
+	      ciciar: A água I]ciciou nos seus ouvidos.,
+	      esfuziar: Quando I]esfuzia a metralha, roncam aviões e chovem bombas, no tropel confuso dos combates heróicos.,
+	      sibilar: A espada I]sibilou cortando o ar.,
+	      silvar: O vapor-escape do paquete I]silvou longamente e, mais tarde, o bater de hélice cessou.,
+	      sobiar: O vento A]sobiou na cumbuca.,}
+
+Chave: ASSOVIAR <verb.motion>
+ILI: 02033606
+
+Sense 2
+{02033606} <verb.motion> whistle -- (move with, or as with, a whistling sound; "The bullets whistled past him")
+       => {01782203} <verb.motion> travel, go, move3, locomote -- (change location; move, travel, or proceed; "How fast does your new car go?"; "We travelled from Rome to Naples by bus"; "The policemen went from door to door looking for the suspect"; "The soldiers moved towards the city in an attempt to take it before night fell") 

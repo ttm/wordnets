@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA0251
+
+DADO O SYNSET:
+
+S='Glosa251'
+{abanar-se: Com o leque, as pessoas poderão [se abanar durante o desfile e ler nos intervalos.,
+abanicar-se: M]Abanicavam-se por causa do calor.,
+refrescar-se: I]Refrescava-se languidamente com o seu grande leque negro.,
+ventilar-se: Desde este instante, ele dispõe de uma hora para I]ventilar-se e realizar mergulhos de aquecimento.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa251' = “tonar, fazer sentir fresco”
+{abanar-se: Com o leque, as pessoas poderão [se abanar durante o desfile e ler nos intervalos.,
+abanicar-se: Certa vez, lembro bem, durante um Guru Puja, estava I]abanicando a foto de  Srila Prabhupada sentado na sua Vyasa Sana, quando de repente ao erguer meus olhos, percebi que um bhakta deixava escorrer uma lagrima..,
+refrescar-se: I]Refrescava-se languidamente com o seu grande leque negro.,
+ventilar-se: Desde este instante, ele dispõe de uma hora para I]ventilar-se e realizar mergulhos de aquecimento.,}
+Chave: REFRESCAR-SE <verb.change>
+ILI: 00158451
+
+Sense 2
+{00158451} <verb.change> refresh, freshen -- (make (to feel) fresh; "The cool water refreshed us")
+       => {01584867} <verb.creation> regenerate, renew -- (re-establish on a new, usually improved, basis or make new or like new; "We renewed our friendship after a hiatus of twenty years"; "They renewed their membership")
+           => {01573613} <verb.creation> re-create -- (create anew; "Re-create the boom of the West on a small scale")
+               => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

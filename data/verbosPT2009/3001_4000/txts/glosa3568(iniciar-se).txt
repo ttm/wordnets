@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA3568
+
+DADO O SYNSET:
+
+S='Glosa3568'
+	    {
+	      debutar: Thereza Collor [debutará na TV como entrevistadora. ,
+	      encetar-se: Venho de M]encetar-me na carreira de tradutor.,
+	      estrear-se: Consta por aí que a Elsa está a um passo de I]se estrear na televisão.,
+	      iniciar-se: Ratton explica o que um músico precisa para [se iniciar no mundo da informática. / Já [se iniciara em Nietzche.  ,
+	      noviciar: I]Noviciando nas letras, Valentim revelou de pronto uma jovialidade desbordante.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3568' = “começar a trabalhar ou atuar em uma certa aptidão, função ou trabalho ”
+	     {debutar: Thereza Collor [debutará na TV como entrevistadora. ,
+	      encetar-se: Venho de M]encetar-me na carreira de tradutor.,
+	      estrear-se: Gallego I]estreou-se no pódio.,
+	      iniciar-se: I]Iniciou-se profissionalmente em 1994 cantando com Alzira Espíndola, e de 1998 a 2001 integrou os vocais da banda de Itamar Assumpção.  ,}
+Chave: INICIAR-SE <verb.social>
+ILI: 02308403
+
+Sense 10
+{02308403} <verb.social> start, take up -- (begin work or acting in a certain capacity, office or job; "Take up a position"; "start a new job")

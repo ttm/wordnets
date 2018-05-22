@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA3558
+
+DADO O SYNSET:
+
+S='Glosa3558'
+	    {
+	      dignificar: Com discurso de candidato, ele afirmou ser necessário [dignificar o salário do funcionalismo público. / É gente simples que reescreve e [dignifica todos os dias a história de um país, dedica-se a causas humanitárias. ,
+	      honestizar: Chorar não vai manter os presos em suas celas nem [honestizar os carcereiros desonestos.,
+	      honrar: Construindo o futuro nossa instituição saberá [honrar o seu passado.,
+	      nobilitar: No trabalho, no amor ao próximo, aprecia os advérbios que dever I]nobilitar, engrandecer e exaltar as ações. / I]Ensinam-nos tudo quanto pode nobilitar a esposa.,
+	      nobrecer: A Europa é vista como unica fonte de cultura capaz de alimentar e I]nobrecer povos da America.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3558' = “conferir dignidade ou honra”
+	     {dignificar: Trabalho voluntário I]dignifica idosos. / É gente simples que reescreve e [dignifica todos os dias a história de um país, dedica-se a causas humanitárias. ,
+	      honrar: Sem falsa modéstia, podemos afirmar que a realização desse evento I]honrou a trajetória de Carl Hoepcke.,
+	      nobilitar: O tributo ao Ministro Carlos Mário I]nobilita a própria Academia.,}
+Chave: DIGNIFICAR <verb.social>
+ILI: 02471576
+
+Sense 1
+{02471576} <verb.social> ennoble1, dignify -- (confer dignity or honor upon; "He was dignified with a title")
+       => {02470798} <verb.social> honor, honour, reward1 -- (bestow honor or rewards upon; "Today we honor our soldiers"; "The scout was rewarded for courageus action")
+           => {02471189} <verb.social> recognize1, recognise1 -- (show approval or appreciation of; "My work is not recognized by anybody!"; "The best student was recognized by the Dean")
+               => {02191142} <verb.possession> prize, value, treasure, appreciate -- (hold dear; "I prize these old photographs")
+                   => {00667530} <verb.cognition> see, consider, reckon, view, regard -- (deem to be; "She views this quite differently from me"; "I consider her to be shallow"; "I don't see the situation quite as negatively as you do")
+                       => {00666260} <verb.cognition> think1, believe4, consider8, conceive -- (judge or regard; look upon; judge; "I think he is very smart"; "I believe her to be very smart"; "I think that he is her boyfriend"; "The racist conceives such people to be inferior")
+                           => {00647983} <verb.cognition> judge -- (form an opinion of or pass judgment on; "I cannot judge some works of modern art")
+                               => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

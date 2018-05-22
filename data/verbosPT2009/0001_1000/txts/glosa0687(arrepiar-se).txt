@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0687
+
+DADO O SYNSET:
+
+S='Glosa687'
+{arrepiar-se: Ana Rosa sentiu um ligeiro tremor de medo indefinido [arrepiar-lhe as carnes.,
+contrair-se: Meu corpo I]contraiu-se, instantaneamente, em resposta à surpresa que arrebatou-o ao constatar de quem se tratava a cantora: era Dolores!,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa687' = “levantar (-se) ou eriçar (-se)”
+{arrepiar-se: Ana Rosa sentiu um ligeiro tremor de medo indefinido [arrepiar-lhe as carnes.,
+contrair-se: Meu corpo I]contraiu-se, instantaneamente, em resposta à surpresa que arrebatou-o ao constatar de quem se tratava a cantora: era Dolores!,}
+
+Chave: ARREPIAR-SE <verb.contact>
+ILI: 01432143
+
+Sense 1
+{01432143} <verb.contact> muss, tussle -- (make messy or untidy; "the child mussed up my hair")
+       => {01425124} <verb.contact> disarrange -- (destroy the arrangement or order of; "My son disarranged the papers on my desk")
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0584
+
+DADO O SYNSET:
+
+S='Glosa584'
+{comunicar: Mas há o perverso viés de se tentar [comunicar com as crianças.,
+conferenciar: Fui instalada na mesa de fórmica número dois, no Shaheen Restaurant, e ele, com ares de nababo foi [conferenciar com a dona do negócio. ,
+falar: O mínimo que posso fazer é [falar com elas, dar autógrafos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa584' = “trocar idéias; conversar com”
+{comunicar: Mas há o perverso viés de se tentar [comunicar com as crianças.,
+conferenciar: Fui instalada na mesa de fórmica número dois, no Shaheen Restaurant, e ele, com ares de nababo foi [conferenciar com a dona do negócio. ,
+falar: O mínimo que posso fazer é [falar com elas, dar autógrafos.,}
+Chave: FALAR <verb.communication>
+ILI: 00930524
+
+Sense 1
+{00930524} <verb.communication> talk1, speak1 -- (exchange thoughts; talk with; "We often talk business"; "Actions talk louder than words")
+       => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+           => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+               => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

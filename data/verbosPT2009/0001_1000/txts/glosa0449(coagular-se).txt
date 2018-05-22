@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0449
+
+DADO O SYNSET:
+
+S='Glosa449'
+{agrumelar-se: x,
+agrumular-se: O sangue H]agrumulou-se sobre a pele,
+coagular-se: Se receber o tipo errado de sangue, o seu próprio sangue pode reagir contra o novo sangue de forma que as células vermelhas podem I]coagular-se ou aglutinar-se.,
+coalhar-se: I]Coalha-se o sangue nas veias.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa449' = “mudar de um estado líquido para um estado engrossado ou sólido”
+{coagular-se: Se receber o tipo errado de sangue, o seu próprio sangue pode reagir contra o novo sangue de forma que as células vermelhas podem I]coagular-se ou aglutinar-se.,
+coalhar-se: I]Coalha-se o sangue nas veias.,}
+Chave: COAGULAR-SE <verb.change>
+ILI: 00444920
+
+Sense 1
+{00444920} <verb.change> clot1, coagulate -- (change from a liquid to a thickened or solid state; "coagulated blood")
+       => {00140715} <verb.change> change state, turn4 -- (undergo a transformation or a change of position or action; "We turned from Socialism to Capitalism"; "The people turned against the President when he stole the election")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

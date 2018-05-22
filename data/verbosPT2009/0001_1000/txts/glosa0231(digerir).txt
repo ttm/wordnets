@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0231
+
+DADO O SYNSET:
+
+S='Glosa231'
+{digerir: A pediatra disse que nosso organismo I]digere tudo.,
+gastar: Ele tem um estômago de avestruz, H]gasta até pedras.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa231' = “converter comida em substâncias absorvíveis pelo organismo”
+{digerir: A pediatra disse que nosso organismo I]digere tudo.,}
+Chave: DIGERIR <verb.consumption>
+ILI: 01161058
+
+Sense 1
+{01161058} <verb.consumption> digest -- (convert food into absorbable substances; "I cannot digest milk products")
+       => {00501442} <verb.change> process, treat1 -- (subject to a process or treatment, with the aim of readying for some purpose, improving, or remedying a condition; "process cheese"; "process hair"; "treat the water so it can be drunk"; "treat the lawn with chemicals" ; "treat an oil spill")
+           => {00132263} <verb.change> affect, impact, bear upon, bear on, touch on1, touch -- (have an effect upon; "Will the new rules affect me?")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

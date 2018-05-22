@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA1356
+
+DADO O SYNSET:
+
+S='Glosa1356'
+{aviltar-se: Prostituir-se é I]aviltar-se praticando ações vergonhosas ou indecorosas, sacrificar a sua honra, a sua dignidade.,
+ dedignar-se: Como fiel devoto da vernaculidade, também se mostrou compungido e não I]se dedignou de reparar as faltas, e aparar a pluma.,
+ desabonar-se: Com esse procedimento inadequado, ele se H]desabona no trabalho.,
+ desacreditar-se: H]Desacreditou-se até aos olhos dos amigos.,
+ desbriar-se: x,
+ desconceituar-se: A tarefa mais importante ao homem público é a sustentação mística da legalidade constitucional, sem a qual as nações I]se desconceituam,
+ injuriar-se: H]Injuriava-se de ocupar posição desqualificada.,
+ rebaixar-se: Até os prisioneiros destinados ao suplício, preferiam a morte gloriosa a [se rebaixarem pela fuga no conceito de seus inimigos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1356' = “diminuir sua própria autoridade, dignidade ou reputação”
+{aviltar-se: Prostituir-se é I]aviltar-se praticando ações vergonhosas ou indecorosas, sacrificar a sua honra, a sua dignidade.,
+ dedignar-se: O estadista eminente não se I]dedigna de ocupar o humilde lugar de membro do Tribunal de Contas.,
+ desabonar-se: Hoje, a direita, e seu Jabor, que se dizia fonte e guardiã dessa economia, I]desabona-se a condená-la e alardear o insucesso dela.,
+ desacreditar-se: É certo que a palavra do político maranhense, degenerando-se em pura demagogia, I]desacreditou-se na opinião pública.,
+ desconceituar-se: A tarefa mais importante ao homem público é a sustentação mística da legalidade constitucional, sem a qual as nações se I]desconceituam.,
+ rebaixar-se: Até os prisioneiros destinados ao suplício, preferiam a morte gloriosa a se [rebaixarem pela fuga no conceito de seus inimigos.,}
+Chave: REBAIXAR-SE <verb.change>
+ILI: 00429256 
+
+Sense 3
+{00429256} <verb.change> diminish4, belittle -- (lessen the authority, dignity, or reputation of; "don't belittle your colleagues")
+       => {00428838} <verb.change> decrease1, lessen2, minify -- (make smaller; "He decreased his staff")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

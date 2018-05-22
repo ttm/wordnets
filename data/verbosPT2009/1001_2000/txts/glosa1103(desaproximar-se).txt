@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA1103
+
+DADO O SYNSET:
+
+S='Glosa1103'
+{desabeirar: Ele H]desabeirou-se do amigo,
+ desaproximar-se: A curiosidade filosófica não busca aumentar o conhecimento de si, mas, ao contrário, I]desaproximar-se do que se conhece sobre si mesmo.,}
+	  
+A='Glosa42'
+{abeirar-se, abordar1, achegar-se, aproximar-se, beirar, raiar2}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1103' = “mover para trás e longe”
+{desaproximar-se: A curiosidade filosófica não busca aumentar o conhecimento de si, mas, ao contrário, I]desaproximar-se do que se conhece sobre si mesmo.,}
+A='Glosa42'
+{abeirar-se, abordar1, achegar-se, aproximar-se, beirar, raiar2}
+Chave: DESAPROXIMAR-SE <verb.motion>
+ILI: EQ_NEAR_SYNONYM - 01848576 
+
+Sense 2
+{01848576} <verb.motion> recede, fall back3, retire3 -- (move back and away from; "The enemy fell back")
+       => {01936392} <verb.motion> withdraw, retreat, pull away, draw back, recede1, pull back, retire, move back -- (pull back or move away or backward; "The enemy withdrew"; "The limo pulled away from the curb")
+           => {01782203} <verb.motion> travel, go, move3, locomote -- (change location; move, travel, or proceed; "How fast does your new car go?"; "We travelled from Rome to Naples by bus"; "The policemen went from door to door looking for the suspect"; "The soldiers moved towards the city in an attempt to take it before night fell")

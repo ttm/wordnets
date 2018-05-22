@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA3986
+
+DADO O SYNSET:
+
+S='Glosa3986'
+    	{afigurar-se: M]Afigurou-se-me fácil a empreitada.,
+      	 apresentar-se: O final dessa guerra A]apresenta-se cada vez menos favorável.,
+      	 presentar-se: x,
+      	 representar-se: No sonho, A]representou-se a imagem de Deus.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3986' = “apresentar-se surgindo à vista”
+    	{afigurar-se: A situação dos enfermeiros (as) nos serviços públicos [afigura-se trágica.,
+      	 apresentar-se: Já o romance de Romero, escrito um século depois, [apresenta-se despojado dessas pretensões.,
+      	 representar-se: O sujeito [representa-se abstratamente, ou seja, ele diz sua existência sem dizer o que ele é, sem definir nenhuma determinação concreta do seu ser.}
+Chave: APRESENTAR-SE <verb.change>
+ILI: EQ_HAS_HYPERONYM – 00409939
+
+Sense 2
+{00409939} <verb.change> appear -- (come into sight or view; "He suddenly appeared at the wedding"; "A new star appeared on the horizon")

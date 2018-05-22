@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA1020
+
+DADO O SYNSET:
+
+S='Glosa1020'
+{cobrir: Deslizamentos de encostas destruíram barracos e carros, [cobriram as ruas de lama e lixo e causaram muito desespero.,
+ crivar: Sem desprezar os mandamentos de Barthes e Geertz, que [crivam a história como um produto pouco ou nada mais que um texto literariamente bem ou mal trabalhado, tratei de ver outros ângulos. # Um turbilhão de setas [crivou o longo escudo do herói, que ficou semelhante ao grosso tronco de juçara, eriçado de espinhos. ,
+ encher: Eles cortaram árvores e [encheram o prédio de jovens em shows e eventos/Os aposentados prometem [encher as ruas do Centro do Rio para protestar contra o reajuste de 12% nos benefícios da Previdência/Mas antes precisa fazer um trabalho do tipo [encher um copo com a primeira água da torneira e não sei mais o quê,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1020' = “tornar cheio, também em sentido metafórico”
+{cobrir: Disse que não vai mais cantar músicas com letras sobre mulheres submissas aos seus homens e [cobriu o governo Clinton de elogios.,
+ crivar: Sérgio me I]crivou de perguntas sobre a experiência.,
+ encher: O placar, de triste lembrança para o tricolor, [encheu de orgulho o peito vermelho e preto.}
+Chave: ENCHER <verb.change>
+ILI: 00439460
+
+Sense 1
+{00439460} <verb.change> fill1, fill up, make full -- (make full, also in a metaphorical sense; "fill a container"; "fill the child with pride")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")
+          Also See-> {01647134} <verb.creation> fill in#2; {01158573} <verb.consumption> fill out#5

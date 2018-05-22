@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA1642
+
+DADO O SYNSET:
+
+S='Glosa1642'
+{anatematizar: Apenas o conteúdo fortemente estatal que sempre impregnou a conduta petista, e a tática de [anatemizar adversários e inimigos como a pecha de direita, neoliberais, adeptos do capitalismo ianque, davam uma certa tônica esquerdista ao partido. ,
+   banir: A maior parte dos especialistas prefere [banir alguns alimentos do cardápio dos atletas, como frituras, óleos, refrigerantes, doces e açúcar refinado .,
+ derriscar: H]Derriscou do dicionário este vocábulo.,
+ eliminar: O Parlamento não só decidiu [eliminar esssa ressalva, como também quer fiscalização e punição para os infratores, além de excluir do cálculo das cotas o tempo de emissão de programas produzidos em estúdio, como telejornais, debates, jogos, etc.,
+ excluir: Lamentavelmente, é impossível [excluir de maneira absoluta a possibilidade de atentados terroristas numa cidade grande.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1642' = “impedir [algo ou alguém] de ser incluído, considerado ou aceito”
+{anatematizar: O catolicismo dos tempos pré-capitalistas I]anatematizou o lucro e proibiu a cobrança de juros (usura).,
+ banir: A maior parte dos especialistas prefere [banir alguns alimentos do cardápio dos atletas, como frituras, óleos, refrigerantes, doces e açúcar refinado.,
+ derriscar: Acredito que a emenda aprovada no Senado, que veio para esta Casa e I]derrisca alguns aspectos na regulamentação, inclusive a taxa de juros de 12%, vai facilitar muito esse processo geral de regulamentação do art. 192.,
+ eliminar: Na última semana, o governo [eliminou a bitributação de IOF que existia sobre os fundões em URV.,
+ excluir: A pedido dos proprietários, a Gafisa [excluiu o 13º andar do projeto.,}
+Chave: ELIMINAR <verb.cognition>
+ILI: 00595585
+
+Sense 1
+{00595585} <verb.cognition> exclude1, except, leave out1, leave off, omit1, take out -- (prevent from being included or considered or accepted; "The bad results were excluded from the report"; "Leave off the top piece")
+       => {00458531} <verb.change> eliminate1, get rid of, do away with -- (terminate or take out; "Let's eliminate the course on Akkadian hieroglyphics")
+           => {01574188} <verb.creation> destroy, destruct -- (do away with, cause the destruction or undoing of; "The fire destroyed the house")
+               => {01573490} <verb.creation> unmake, undo -- (deprive of certain characteristics)

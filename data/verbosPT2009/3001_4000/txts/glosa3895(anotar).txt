@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA3895
+
+DADO O SYNSET:
+
+S='Glosa3895'
+    	{anotar: [Anote o número do meu telefone.,
+      	 apontar: O primeiro relatório da auditoria do ministério [apontou problemas de má conservação e falta de remédios em vários hospitais da rede municipal .,
+      	 notar: O repórter A]notou cuidadoso as declarações do entrevistado.,
+      	 pontar: x,}
+
+A='Glosa1146'
+    	{desanotar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3895' = “fazer uma nota escrita [de]”
+    	{anotar: [Anote o número do meu telefone.,
+      	 apontar: Às dez horas da noite, Kafka começou a escrever O veredicto; quando terminou, por volta das seis horas da manhã do dia seguinte, totalmente esgotado, I]apontou em seu diário que havia descoberto como tudo poderia ser dito.,
+      	 notar: Observamos, neste contexto, que S2 todas as vezes que I]notou no espaço digital palavras que terminavam em ÃO substituiu-as pelas letras AUM.}
+
+A='Glosa1146'
+    	{desanotar}
+Chave: ANOTAR <verb.communication>
+ILI: 00987987
+
+Sense 4
+{00987987} <verb.communication> note1, take down -- (make a written note of; "she noted everything the teacher said that morning")
+       => {00987409} <verb.communication> write down1, set down, get down, put down -- (put down in writing; of texts, musical compositions, etc.)
+           => {00960729} <verb.communication> write -- (communicate or express by writing; "Please write to me every week")
+               => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                   => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                       => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

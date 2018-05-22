@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA1936
+
+DADO O SYNSET:
+
+S='Glosa1936'
+{escarrapiçar: x,
+ escarrapichar: H]Escarrapichou os cabelos. ,
+ frisar1: No que diz respeito à fragilidade (I]frisar, encaracolar, alisar com escova) o cabelo não se comporta nem resiste da mesma forma.,
+ pentear: Raimundo não mudara de roupa, apenas banhara o rosto e as mãos e [penteara os cabelos.,}
+	  
+A='Glosa2067'
+{descabelar, desfrisar, desgrenhar, despentear}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1936' = “alisar, dando um feitio, com um pente” 
+{pentear: Ninguém esquece de escovar os dentes e [pentear o cabelo.,}
+	  
+A='Glosa2067'
+{descabelar, desfrisar, desgrenhar, despentear}
+Chave: PENTEAR <verb.contact>
+ILI: 01553060
+
+Sense 1
+{01553060} <verb.contact> comb1 -- (straighten with a comb; "comb your hair"; "comb the wool")
+       => {01328500} <verb.contact> straighten, straighten out -- (make straight)
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA1758
+
+DADO O SYNSET:
+
+S='Glosa1758'
+{agachar-se: Não obstante, «por via das dúvidas», quando ronca a trovoada Jeca abandona a toca e vai [agachar-se no oco dum velho embirussú do quintal - para se saborear de longe com a eficácia da escora santa.,
+ curvar-se: Depois I]curvou-se outra vez e continuou a escrever no chão. ,
+ encouchar-se: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1758' = “dobrar as costas, pela parte da cintura, para frente”
+{agachar: Ela I]agachou na cabeceira do príncipe e esticou o pescoço como quem vai beijar o adormecido.,
+ agachar-se: Ele se I]agacha ao lado da cama, como que apresentando uma reverência, um temor indefinido e cheio de estranhamento, como um crente-novo diante do ídolo pagão.,
+ curvar: André quis trabalhar, mas o corpo encarquilhado I]curvou para o chão com muitas dores.,
+ curvar-se: Estrangeiros não precisam se preocupar muito sobre como e quando se [curvar perante japoneses, pois eles entendem que isso é algo particular de sua cultura.,}
+Chave: CURVAR-SE <verb.motion>
+ILI: 02004057
+
+Sense 1
+{02004057} <verb.motion> crouch, stoop, bend3, bow1 -- (bend one's back forward from the waist on down; "he crouched down"; "She bowed before the Queen"; "The young man stooped to pick up the girl's purse")
+       => {01977754} <verb.motion> bend, flex -- (form a curve; "The stick does not bend")
+           => {00135866} <verb.change> change shape, change form, deform2 -- (assume a different shape or form)
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

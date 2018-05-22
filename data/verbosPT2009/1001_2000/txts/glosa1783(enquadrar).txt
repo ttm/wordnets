@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA1783
+
+DADO O SYNSET:
+
+S='Glosa1783'
+{enfocar: Ronaldo Cezar entende que, se o clipe [enfocar a miséria, prejudicará a imagem do Rio.,
+ enquadrar: Tanto na fotografia «engajada», quanto no cinema novo de extração mais sociológica, bem como também num certo telejornalismo de tendência filantrópico-cristã, a câmera sempre procurou [enquadrar e construir uma certa imagem do Brasil, rural e miserável de um lado, mas também folclórica e bucólica de outro.,
+ focalizar: Obteve sucesso na condução narrativa do registro da vida policial da cidade, ao [focalizar o submundo sempre em vias de explosão, onde se agrupam os responsáveis por todas as espécies de crimes, praticados por elementos das mais diferentes camadas sociais, documentos da insanidade e da corrosão humana tão comuns na cidade grande .,
+ focar: Entre o que foi posto em prática, ela ressaltou: fazer estratégias diferenciadas para cada cliente; e em relação ao acionista da ABB, [focar os negócios em tendências promissoras no mercado.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1783' = “colocar (uma imagem) em foco”
+{enfocar: O cristalino se acomoda I]enfocando a imagem na retina e conseguindo-se uma clara visão.,
+ enquadrar: No fim da tomada a câmera sobe pela perna engessada de James Stewart e quando [enquadra o seu rosto, dormindo, já sabemos tudo que precisamos saber sobre ele e sobre a situação.,
+ focalizar: Mas a câmera só [focalizava Zico, e seus olhos já exprimiam um olhar alucinado.,
+ focar: A lente não resolvia o astigmatismo e eu não conseguia [focar as imagens.,}
+Chave: ENQUADRAR <verb.change>
+ILI: 00304392
+
+Sense 4
+{00304392} <verb.change> focus1, focalize1, focalise1, sharpen3 -- (put (an image) into focus; "Please focus the image; we cannot enjoy the movie")
+       => {00287086} <verb.change> adjust, set, correct9 -- (alter or regulate so as to achieve accuracy or conform to a standard; "Adjust the clock, please"; "correct the alignment of the front wheels")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

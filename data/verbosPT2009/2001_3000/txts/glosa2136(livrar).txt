@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA2136
+
+DADO O SYNSET:
+
+S='Glosa2136'
+	    {expungir: O obsessor, ao ouvir a preciosa obra-prima do compositor, foi então recuperando o equilíbrio e a paz, após "I]expungir do coração ferido as suas dores. #  A]Expungiu de remorsos a consciência.,
+	      limpar: Quando um homem natural escuta sobre o precioso sangue de Jesus que I]limpou o pecado de todas as pessoas do mundo e que Ele fez com que ficássemos mais brancos do que a neve, custa acreditar e pensar que ainda temos pecado. ,
+	      livrar: Adão e toda a raça humana foram condenados e só conseguiram o perdão quando Jesus veio para I]livrar os pecados dos mesmos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2136' = “eliminar ou purificar de maus  pensamentos ou pecados”
+	    {expungir: O obsessor, ao ouvir a preciosa obra-prima do compositor, foi então recuperando o equilíbrio e a paz, após "I]expungir do coração ferido as suas dores. #  A]Expungiu de remorsos a consciência.,
+	      limpar: Um homem natural escuta sobre o precioso sangue de Jesus que I]limpou o pecado de todas as pessoas do mundo. ,
+	      livrar: Adão e toda a raça humana foram condenados e só conseguiram o perdão quando Jesus veio para I]livrar os pecados dos mesmos.,}
+
+Chave: LIVRAR <verb.change>
+ILI: 00488441
+
+Sense 2
+{00488441} <verb.change> cleanse5 -- (purge of an ideology, bad thoughts, or sins; "Purgatory is supposed to cleanse you from your sins")
+       => {02282547} <verb.possession> rid, free2, disembarrass -- (relieve from; "Rid the the house of pests")

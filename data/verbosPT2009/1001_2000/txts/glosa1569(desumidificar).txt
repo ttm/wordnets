@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA1569
+
+DADO O SYNSET:
+
+S='Glosa1569'
+{desumedecer: Muitos dos chamados sistemas de ar condicionado domésticos não possuem meios de umedecer e I]desumedecer o ar e assim fazem apenas um serviço parcial. ,
+ desumidificar: O Desumidificador Secador TERMOFIX é um aparelho elétrico, desenvolvido em 1959, para I]desumidificar o ar em um recinto fechado mediante o seu aquecimento.,
+ esgotar: A seca H]esgotou as fontes de água.,
+ ressecar: Além disso, aponta a médica, o equipamento possui como característica a propriedade de esfriar e I]ressecar o ar, o que prejudica pessoas que sofrem de asma.,
+ secar: O ar condicionado irá como sempre I]secar o ar do local, enquanto isto, o VentiFrio irá compensar o mesmo com umidade, resfriamento, purificação e filtragem.,}
+	  
+A='Glosa3646'
+{aguar, lentejar, molhar, orvalhar, regar, umedecer, umidificar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1569' = “
+{desumedecer: Muitos dos chamados sistemas de ar condicionado domésticos não possuem meios de umedecer e I]desumedecer o ar e assim fazem apenas um serviço parcial.,
+ desumidificar: Para combater as traças pode-se também colocar pastilhas de cânfora nas gavetas, pois elas I]desumidificam o ambiente e a traça aprecia umidade acima de 75%.,
+ ressecar: Além disso, aponta a médica, o equipamento possui como característica a propriedade de esfriar e I]ressecar o ar, o que prejudica pessoas que sofrem de asma.,
+ secar: Tome bastante água durante o serviço. O ar condicionado I]seca o ambiente.,}
+	  
+A='Glosa3646'
+{aguar, lentejar, molhar, orvalhar, regar, umedecer, umidificar}
+Chave: DESUMIDIFICAR <verb.change>
+ILI: 00208648
+
+Sense 1
+{00208648} <verb.change> dehumidify -- (make less humid; "The air conditioner dehumidifies the air in the summer")
+       => {00211006} <verb.change> dry1, dry out5 -- (remove the moisture from and make dry; "dry clothes"; "dry hair")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

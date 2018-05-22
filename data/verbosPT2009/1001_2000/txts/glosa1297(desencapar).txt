@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA1297
+
+DADO O SYNSET:
+
+S='Glosa1297'
+{desencapar: Para utilização de scaner automático teremos que I]desencapar o livro.,}
+	  
+A='Glosa1718'
+{capear, encapar, revestir}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1297' = “remover a capa [de]”
+{desencapar: Para utilização de scaner automático teremos que I]desencapar o livro.,}
+A='Glosa1718'
+{capear, encapar, revestir}
+Chave: DESENCAPAR <verb.contact>
+ILI: 01246046
+
+Sense 1
+{01246046} <verb.contact> unwrap, undo3 -- (remove the outer cover or wrapping of; "Let's unwrap the gifts!"; "undo the parcel")
+       => {01299972} <verb.contact> uncover, expose -- (remove all or part of one's clothes to show one's body; "uncover your belly"; "The man exposed himself in the subway")

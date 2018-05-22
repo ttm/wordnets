@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA3723 
+
+DADO O SYNSET:
+
+S='Glosa3723'
+{fiscalizar: O censor israelense pode [fiscalizar os atos da administração da justiça, ainda que não possa se envolver nas decisões da magistratura.,
+	patrulhar: Esquerda deve [patrulhar escolhas de FHC.,
+	policiar: A inflação é ínfima e isso acontece não porque haja um órgão estatal encarregado de [policiar os preços ou porque as pessoas tenham um espírito patriótico e zelem para que os preços permaneçam estáveis.,
+	rondar: A esquadra M]rondava os portos da ilha.,
+	rondear: x }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3723' = “examinar cuidadosamente”
+{fiscalizar: O censor israelense pode [fiscalizar os atos da administração da justiça, ainda que não possa se envolver nas decisões da magistratura.,
+	patrulhar: Esquerda deve [patrulhar escolhas de FHC.,
+	policiar: A inflação é ínfima e isso acontece não porque haja um órgão estatal encarregado de [policiar os preços ou porque as pessoas tenham um espírito patriótico e zelem para que os preços permaneçam estáveis.,
+	rondar: A esquadra M]rondava os portos da ilha. }
+Chave: FISCALIZAR
+ILI: 01482454
+
+Sense 1
+{01482454} <verb.perception> inspect -- (look over carefully; "Please inspect your father's will carefully")
+       => {01458506} <verb.perception> examine -- (observe carefully or inspect; "The customs agent examined the baggage")
+

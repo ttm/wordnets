@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA1566
+
+DADO O SYNSET:
+
+S='Glosa1566'
+{destronar: Bacon, o grande defensor da razão e da religião laicas, queria reformar as universidades e [destronar Aristóteles.,
+ destronizar: Agora já estava tudo previsto e até preanunciada a luta para I]destronizar o clero atual.,
+ rebaixar: O trunfo com que pensara I]rebaixar o soberbo Aquiles voltou-se contra ele.,
+ vencer: Os mouros islamizados do Maghreb conseguiram I]vencer o rei visigodo Rodrigo na batalha de Guadalete.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1566' = “vencer, passando a ocupar a posição [de]”
+{destronar: Bacon, o grande defensor da razão e da religião laicas, queria reformar as universidades e [destronar Aristóteles.,
+ destronizar: Com certeza, Satanás quer I]destronizar Deus e se tornar Deus mesmo.,
+ rebaixar: O trunfo com que pensara I]rebaixar o soberbo Aquiles voltou-se contra ele.,
+ vencer: A unidade Rio Tâmisa I]venceu os adversários e ficou com a quarta vaga da próxima fase.,}
+Chave: DESTRONAR <verb.competition>
+ILI: EQ_HAS_HYPERONYM – 01072989
+
+Sense 1
+{01072989} <verb.competition> get the better of, overcome3, defeat -- (win a victory over; "You must overcome all difficulties"; "defeat your enemies"; "He overcame his shyness"; "She conquered here fear of mice"; "He overcame his infirmity"; "Her anger got the better of her and she blew up")

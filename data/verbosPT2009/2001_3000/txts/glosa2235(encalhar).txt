@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA2235
+
+DADO O SYNSET:
+
+S='Glosa2235'
+	    {encalhar: Baleias I]encalharam nas areias da praia.,
+	      enfusar: x,
+	      varar: I]Vararam alguns navios na areia.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2235' = “parar na areia”
+	    {encalhar: Baleias I]encalharam nas areias da praia.,
+	      varar: I]Vararam alguns navios na areia.,}
+
+Chave: ENCALHAR } <verb.motion>
+ILI: 01921013
+
+Sense 1
+{01921013} <verb.motion> beach -- (land on a beach; "the ship beached near the port")
+       => {01921967} <verb.motion> land, set down1 -- (reach or come to rest; "The bird landed on the highest branch"; "The plane landed in Istanbul")
+           => {01947900} <verb.motion> arrive, get, come4 -- (reach a destination; arrive by movement or progress; "She arrived home at 7 o'clock"; "She didn't get to Chicago until after midnight")

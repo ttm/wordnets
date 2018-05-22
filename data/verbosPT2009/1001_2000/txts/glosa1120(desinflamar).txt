@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA1120
+
+DADO O SYNSET:
+
+S='Glosa1120'
+      {desagravar: A reforma tributária é fundamental para [desagravar os impostos que incidem em cascata sobre os produtos, particularmente os das cestas básicas,
+       desinchar: FHC disse ainda que nunca irá privatizar o BB, mas alertou que o sistema financeiro terá que [desinchar com a queda da inflação, pois não haverá mais grandes ganhos com a especulação,
+       desinflamar: Pode ser uma tentativa de I]desinflamar a situação depois da polêmica envolvendo o aumento das tarifas de energia,}
+	 
+ A='Glosa1712'
+	    {afleumar, afuleimar, inchar, inflamar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1120' = “deixar de estar inflamado” 
+      {desinchar: Informa que após retirar o dente não sentiu melhora, porém à noite a gengiva I]desinchou um pouco.,
+       desinflamar: A bala está alojada na boca e os médicos esperam que o local I]desinflame para retirada do projétil,}
+A='Glosa1712'
+	    {afleumar, afuleimar, inchar, inflamar}
+Chave: DESINFLAMAR <verb.body>
+ILI: EQ_HAS_HYPERONYM – 00096441 – “ficar sadio novamente”
+
+Sense 2
+{00096441} <verb.body> heal -- (get healthy again; "The wound is healing slowly")
+       => {00197826} <verb.change> better, improve, ameliorate, meliorate -- (get better; "The weather improved toward evening")
+           => {00140715} <verb.change> change state, turn4 -- (undergo a transformation or a change of position or action; "We turned from Socialism to Capitalism"; "The people turned against the President when he stole the election")
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2038
+
+DADO O SYNSET:
+	
+S='Glosa2038'
+    	{encostar: Alberto, o representante de Benetton em Israel, [encostou seu carro ao lado do «checkpoint», para que se pudesse melhor escutar o rádio.,
+      	 estacionar: Agora eu sei que foi o carro do cunhado dele (o Fusca azul do PM Nilton de Oliveira, outro acusado, que [estacionou no posto de gasolina onde o sobrevivente Wagner dos Santos era atendido) .,
+      	 parar: Luciano [parou o Mercedes no posto de gasolina Bom Jesus, entregou as chaves do carro ao vigia do posto e entrou no Honda dirigido por Ana Cristina, de onde seguiram pela estrada em direção ao Espírito Santo .,
+      	 parquear: A entrada custa 5.000,00 Mt, podendo I]parquear o seu carro no interior da feira onde é de certo modo seguro.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2038' = “manobrar um veículo num espaço para estacionar”
+    	{encostar: Alberto, o representante de Benetton em Israel, [encostou seu carro ao lado do “checkpoint”, para que se pudesse melhor escutar o rádio.,
+      	 estacionar: Domingos [estacionou o carro em frente de casa e foi tomar café.,
+      	 parar: Luciano [parou o Mercedes no posto de gasolina Bom Jesus, entregou as chaves do carro ao vigia do posto e entrou no Honda dirigido por Ana Cristina.,
+      	 parquear: Retornando ao carro depois do filme, o cara I]parqueia o veículo no lado do caminho.}
+Chave: ESTACIONAR <verb.motion>
+ILI: 01878451
+
+Sense 2
+{01878451} <verb.motion> park -- (maneuver a vehicle into a parking space; "Park the car in front of the library"; "Can you park right here?")
+       => {01875920} <verb.motion> steer, maneuver, manoeuver, manoeuvre, direct3, point5, head1, guide1, channelize3, channelise3 -- (direct the course; determine the direction of travelling)
+           => {02367626} <verb.social> control, command -- (exercise authoritative control or power over; "control the budget"; "Command the military forces")

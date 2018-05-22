@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA1835
+
+DADO O SYNSET:
+
+S='Glosa1835'
+{assobradar: Área construída: 190 m 2; construção de 7 anos, com estrutura para I]assobradar.,
+ ensobradar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1835' = “pôr pavimento de sobrado [em]”
+{assobradar: Assim fez ele com a casa: I]assobradou-a, pôs todo gosto no segundo pavimento.,}
+Chave: ASSOBRADAR <verb.creation>
+ILI: EQ_HAS_HYPERONYM – 01614001 – “construir ou erguer”
+
+Sense 1
+{01614001} <verb.creation> raise2, erect, rear, set up1, put up -- (construct, build, or erect; "Raise a barn")
+       => {01607634} <verb.creation> construct, build, make13 -- (make by combining materials and parts; "this little pig made his house out of straw"; "Some eccentric constructed an electric brassiere warmer")
+           => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

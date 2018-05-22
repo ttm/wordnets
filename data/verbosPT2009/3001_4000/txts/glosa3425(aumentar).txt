@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA3425
+
+DADO O SYNSET:
+
+S='Glosa3425'
+	    {
+	      aumentar: Governo I]aumenta estímulos para inovação em biotecnologia.,
+	      desenvolver: Os trabalhadores precisam estar envolvidos diretamente na produção, participando ativamente das decisões, I]desenvolvendo sua capacidade de compreender e buscar soluções para os mais diversos problemas.,
+	      incrementar: Missão comercial pretende I]incrementar comércio com África do Sul.,
+	      medrar: Providências que M]medram a instrução popular.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3425' = “fazer maior ou mais”
+	     {aumentar: Governo I]aumenta estímulos para inovação em biotecnologia.,
+	      desenvolver: «Ortografando» trabalha com gramática portuguesa, [desenvolve o vocabulário e ortografia.,
+	      incrementar: Em resposta ao avanço da Pfizer, a Merc [incrementou a publicidade do Ivomec.,
+	      medrar: No Brasil, a burocracia cresceu com a diversificação das funções do Estado e a tecnocracia [medrou em todos os setores,.,}
+Chave: AUMENTAR <verb.change>
+ILI: 00147655
+
+Sense 2
+{00147655} <verb.change> increase2 -- (make bigger or more; "The boss finally increased her salary"; "The university increased the number of students it admitted")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

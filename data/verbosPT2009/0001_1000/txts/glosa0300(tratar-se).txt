@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0300
+
+DADO O SYNSET:
+
+S='Glosa300'
+{cuidar-se: Agora, porém, os meus atletas necessitam se [cuidar.,
+ medicar-se: Não é mesmo nada doce a vida de quem precisa [se medicar para controlar o colesterol.,
+tratar-se: Quem estiver machucado, tem que vir ao clube três vezes por dia se [tratar no clube.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa300' = “prover(-se) tratamento”
+{cuidar-se: Agora, porém, os meus atletas necessitam se [cuidar.,
+ medicar-se: Não é mesmo nada doce a vida de quem precisa [se medicar para controlar o colesterol.,
+tratar-se: Quem estiver machucado, tem que vir ao clube três vezes por dia se [tratar no clube.,}
+Chave: TRATAR-SE <verb.body>
+ILI: 00076458
+
+Sense 3
+{00076458} <verb.body> treat, care for -- (provide treatment for; "The doctor treated my broken leg"; "The nurses cared for the bomb victims"; "The patient must be treated right away or she will die"; "Treat the infection with antibiotics")
+          EX:  Did he treat his foot?

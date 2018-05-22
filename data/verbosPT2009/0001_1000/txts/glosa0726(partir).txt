@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0726
+
+DADO O SYNSET:
+
+S='Glosa726'
+{ir: Assim, J. C. e Marta [vão para Veneza: o distanciamento da pátria por parte das personagens dá ensejo a que Almeida Faria estruture um romance de caráter epistolar. ,
+partir: Em vez de baterem em retirada, os novos «terroristas» da mídia ou «ambientalistas mentais», como preferem ser chamados, [partiram para o combate escorados numa intensiva campanha de opinião pública.,
+sair: A seguir, as plantas são transferidas para o local definitivo, de onde [saem para consumo após 25 dias.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa726' = “mover de um lugar para outra direção”
+{ir: Assim, J. C. e Marta [vão para Veneza: o distanciamento da pátria por parte das personagens dá ensejo a que Almeida Faria estruture um romance de caráter epistolar. ,
+partir: Em vez de baterem em retirada, os novos «terroristas» da mídia ou «ambientalistas mentais», como preferem ser chamados, [partiram para o combate escorados numa intensiva campanha de opinião pública.,
+sair: A seguir, as plantas são transferidas para o local definitivo, de onde [saem para consumo após 25 dias.,}
+Chave: PARTIR <verb.motion>
+ILI: 01795174
+
+Sense 1
+{01795174} <verb.motion> go1, go away5, depart4 -- (move away from a place into another direction; "Go away before I start to cry"; "The train departs at noon")
+       => {01957725} <verb.motion> exit, go out, get out1, leave -- (move out of or depart from; "leave the room"; "the fugitive has left the country")
+           => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right")

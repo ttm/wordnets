@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA3682
+
+DADO O SYNSET:
+
+S='Glosa3682'
+	    {
+	      apadrinhar: Quando solicitou autorização a Dom Quintino para ser padrinho de uma criança que ia batizar-se, o bispo negou a autorização para I]apadrinhar.,
+	      paraninfar: Elas vão I]paraninfar a 31ª turma dos Destaques Esportivos.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3682' = “assumir patrocínio”
+	     {apadrinhar: Mofokeng [apadrinha um centro para as mulheres vítimas de agressão ou estupro e não se acanha quando a lembram de seu filho «ilegítimo».,
+	      paraninfar: O presidente da ADTUR - Agência de Desenvolvimento Turístico do Tocantins, Igor Avelino, I]paraninfou os formandos do curso de Turismo da Ulbra.,}
+Chave: APADRINHAR <verb.possession>
+ILI: 02156353
+
+Sense 1
+{02156353} <verb.possession> sponsor, patronize, patronise -- (assume sponsorship of)
+       => {02155507} <verb.possession> support -- (support materially or financially; "he does not support his natural children"; "The scholarship supported me when I was in college")
+           => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+               => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children")

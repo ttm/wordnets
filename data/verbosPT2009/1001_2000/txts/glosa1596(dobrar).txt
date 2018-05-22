@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA1596
+
+DADO O SYNSET:
+	
+S='Glosa1596'
+    	{dobrar: Antes de [dobrar a esquina, ele voltou a cabeça, e, na forma do costume, disseram adeus com a mão.,
+      	 virar: Ao I]virar a esquina caí ao esbarrar com um rapaz que caminhava em direção oposta.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1596' = “passar para o outro lado [de]”
+    	{dobrar: Um homem [dobrou a esquina e veio caminhando na direção delas.,
+      	 virar: Para quem vem da zona leste, a alternativa é seguir até a rua Amaral Gurgel, [virar na rua Marquês de Itu para chegar à rua da Consolação.}
+Chave: DOBRAR <verb.motion>
+ILI: 01854029
+
+Sense 7
+{01854029} <verb.motion> turn3, move around3 -- (pass to the other side of; "turn the corner"; "move around the obstacle")
+       => {01782203} <verb.motion> travel, go, move3, locomote -- (change location; move, travel, or proceed; "How fast does your new car go?"; "We travelled from Rome to Naples by bus"; "The policemen went from door to door looking for the suspect"; "The soldiers moved towards the city in an attempt to take it before night fell")

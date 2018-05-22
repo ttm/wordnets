@@ -1,0 +1,41 @@
+ANÁLISE DA GLOSA2414
+
+DADO O SYNSET:
+
+S='Glosa2414'
+	    {abasbacar: x,
+	      aboleimar: x,
+	      admirar: Ministro [admira Padre Cícero.,
+	      assombrar: Karl Friedrich Gauss, gênio começou a I]assombrar o mundo quando ele tinha apenas sete anos.,
+	      atordoar: A revelação desta Eva mitocondrial I]atordoou a comunidade científica.,
+	      banzar: x,
+	      boquiabrir: Aprendi a gostar de ler num espaço como este, na gloriosa geração de cronistas da revista Manchete nos anos 60, e costumo I]boquiabrir estudantes de Letras.,
+	      embasbacar: Ainda não li os artigos, mas certamente vou dar uma olhada para I]embasbacar minhas primas mais tarde, que pensam que minha avó é o único ser humano capaz de resolver o cubo de Rubik.,
+	      espantar: Nunca me importei com luxo e isso sempre I]espantou as pessoas.,
+	      estupefazer: x,
+	      estupeficar: x,
+	      maravilhar: O cinema fantástico italiano recupera e mantém-se como o único gênero no mundo ainda a considerar o cinema como um suntuoso exercício de estilo destinado a, puramente pelos olhos e pelos ouvidos, espantar e I]maravilhar o espectador independente da história que se conta.,
+	      pasmar: Ora, estava ali certo homem chamado Simão, que vinha exercendo naquela cidade a arte mágica, fazendo I]pasmar o povo.,
+	      surpreender: O olhar do tetrarca [surpreende a filha de Herodías por duas vezes antes da dança, nesse capítulo e no final do segundo, provocando nele a vontade de conhecer-lhe a identidade.,
+	      surpresar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2414' = “Afetar com admiração, espanto.”
+	    {admirar: Achou os grandes demais; [admirava como havia quem tivesse a paciência de os ler.,
+	      assombrar: O futebol brasileiro [assombrou o mundo na Copa de 1970 com esta seleção.,
+	      atordoar: A revelação desta Eva mitocondrial I]atordoou a comunidade científica.,
+	      boquiabrir: [Boquiabriu a crítica com os contos de Sagarana.,
+	      embasbacar: Essa primeira geração dos jogos em CD I]embasbacou os jogadores com a possibilidade de "jogar um filme".,
+	      espantar: Nunca me importei com luxo e isso sempre I]espantou as pessoas.,
+	      maravilhar: Marcel Marceau I]maravilhou o público cubano com sua apresentação.,
+	      pasmar: A sua arte I]pasmou os habitantes da capital.,
+	      surpreender: O homem que, nos anos 40, [surpreendeu o Brasil ao conseguir espaço em rádios dominadas pela música americana.,}
+
+Chave: SURPREENDER <verb.cognition>
+ILI: 00700834
+
+Sense 1
+{00700834} <verb.cognition> amaze, astonish, astound -- (affect with wonder; "Your ability to speak six languages amazes me!")
+       => {00701276} <verb.cognition> surprise -- (cause to be surprised; "The news really surprised me")
+           => {01716999} <verb.emotion> affect, impress1, move, strike -- (have an emotional or cognitive impact upon; "This child impressed me as unusually mature"; "This behavior struck me as odd")

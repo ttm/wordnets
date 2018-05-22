@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA3302
+
+DADO O SYNSET:
+
+S='Glosa3302'
+	    {
+	      chefiar: À noite, o juiz Julio Speroni, de um tribunal de delitos econômicos, ainda [chefiava uma operação de revista no navio em busca de mais drogas. ,
+	      comandar: O tenente Alevatto, que [comandava a operação, era um dos mais exaltados e também descarregou sua metralhadora na direção da multidão. ,
+	      liderar: Faz parte de um plano de longo prazo, já que só estamos entrando na favela porque conseguimos desmontar a quadrilha do Jorge Luís, que [liderava o tráfico no local.,
+	      puxar: Nos treinos físicos, quando o plantel saía para correr na rua, era ele quem I]puxava o time, quem ia na frente. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3302' = “estar no comando”
+	     {chefiar: À noite, o juiz Julio Speroni, de um tribunal de delitos econômicos, ainda [chefiava uma operação de revista no navio em busca de mais drogas. ,
+	      comandar: O bandido [comandava o tráfico em Parada de Lucas há oito anos, junto com o traficante Canário. ,
+	      liderar: O deputado Philemon Rodrigues (PPB-MG) [liderava a rebelião da bancada mineira em favor da empreiteira Mendes Junior.,
+	      puxar: No meio da festa americana em Los Gatos, Vangaver, 33, [puxava o coro dos torcedores que também gritavam o nome do Brasil com aquele sotaque típico. ,}
+Chave: COMANDAR <verb.communication>
+ILI: 00727115
+
+Sense 1
+{00727115} <verb.communication> command1 -- (be in command of; "The general commanded a huge army")
+       => {02464207} <verb.social> dominate, master -- (have dominance or the power to defeat over; "Her pain completely mastered her"; "The methods can master the problems")
+           => {02367626} <verb.social> control, command -- (exercise authoritative control or power over; "control the budget"; "Command the military forces")

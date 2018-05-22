@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA0153
+
+DADO O SYNSET:
+
+S='Glosa153'
+{comerciar: Os habitantes originais da área, chamados Swahili, da palavra árabe" sahel" que quer dizer costa, I]comerciou com árabes da península Arábica. ,
+contratar: Os habitantes originais da área, chamados Swahili, da palavra árabe" sahel" que quer dizer costa, I]comerciou com árabes da península Arábica. ,
+negociar: Não faz muito, a Argentina recusou sondagem do governo norte-americano para [negociar diretamente uma eventual vinculação ao Nafta.,
+tratar: Afirmou que ele mesmo pessoalmente é que I]tratou da venda de Ronaldinho para o Barcelona, que pagou ao clube francês cerca de 31 milhões de euros.,}
+A='Glosa1486'
+{desnegociar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa153' = “discutir os termos de uma negociação ou acordo”
+{comerciar: Os habitantes originais da área, chamados Swahili, da palavra árabe" sahel" que quer dizer costa, I]comerciou com árabes da península Arábica. ,
+contratar: Os habitantes originais da área, chamados Swahili, da palavra árabe" sahel" que quer dizer costa, I]comerciou com árabes da península Arábica. ,
+negociar: Não faz muito, a Argentina recusou sondagem do governo norte-americano para [negociar diretamente uma eventual vinculação ao Nafta.,
+tratar: Afirmou que ele mesmo pessoalmente é que I]tratou da venda de Ronaldinho para o Barcelona, que pagou ao clube francês cerca de 31 milhões de euros.,}
+A='Glosa1486'
+{desnegociar}
+Chave: NEGOCIAR <verb.communication>
+ILI: 00736631
+
+Sense 1
+{00736631} <verb.communication> negociate, negotiate, talk terms -- (discuss the terms of an arrangement; "They negotiated the sale of the house")
+       => {00787668} <verb.communication> hash out, discuss, talk over -- (speak with others about (something); talk (something) over in detail; have a discussion; "We discussed our household budget")
+           => {00912516} <verb.communication> talk of, talk about1 -- (discuss or mention; "They spoke of many things")
+               => {00910961} <verb.communication> talk, speak, utter, mouth, verbalize, verbalise -- (express in speech; "She talks a lot of nonsense"; "This depressed patient does not verbalize")
+                   => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                       => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                           => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

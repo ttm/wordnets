@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA1151
+
+DADO O SYNSET:
+
+S='Glosa1151'
+{arruir: x,
+ desaparecer: Nesta época [desapareceram os grandes castelos e a Europa cobriu-se decentenas de territórios que se denominaram feudos,
+ desparecer: x,
+ ruir: Quando começar o tráfego pesado as casas vão [ruir,}
+	  
+A='Glosa2142'
+	    {abotoar, alevantar, aparecer, erguer, exsurgir, levantar, surgir}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1151' = “decrescer rapidamente e desaparecer” 
+{desaparecer: A fronteira entre sonho e vida simplesmente [desapareceu.,
+ ruir: Acabaram-se os muros na Alemanha, [ruiu a União Soviética.,}
+A='Glosa2142'
+	    {abotoar, alevantar, aparecer, erguer, exsurgir, levantar, surgir}
+Chave: DESAPARECER <verb.change>
+ILI: 00147453
+
+Sense 5
+{00147453} <verb.change> vanish1, fly, vaporize4 -- (decrease rapidly and disappear; "the money vanished in las Vegas"; "all my stock assets have vaporized")
+       => {00146081} <verb.change> decrease, diminish, lessen, fall6 -- (decrease in size, extent, or range; "The amount of homework decreased towards the end of the semester"; "The cabin pressure fell dramatically"; "her weight fall to under a hundred pounds"; "his voice fell to a whisper")
+           => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

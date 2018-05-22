@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA3748
+
+DADO O SYNSET:
+
+S='Glosa3748'
+{pendular: A brisa marinha acariciava meu rosto em ondas de frescor que I]pendulavam no ritmo das folhas das palmeiras na avenida beira-mar.,
+	 pendulear: x}
+	
+A ANÁLISE RESULTA EM:
+
+S='Glosa3748' = “mover ou oscilar de um lado para o outro regularmente”
+{pendular: A brisa marinha acariciava meu rosto em ondas de frescor que I]pendulavam no ritmo das folhas das palmeiras na avenida beira-mar.}
+Chave: pendular <verb.motion>
+ILI: 01823920
+
+Sense 2 
+{01823920} <verb.motion> oscillate, vibrate1 -- (move or swing from side to side regularly; "the needle on the meter was oscillating")
+       => {01823209} <verb.motion> swing, sway1 -- (move or walk in a swinging or swaying manner; "He swung back")
+           => {01822383} <verb.motion> move back and forth -- (move in one direction and then into the opposite direction)
+               => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right")
+
+

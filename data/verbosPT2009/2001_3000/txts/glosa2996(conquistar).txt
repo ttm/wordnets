@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA2996
+
+DADO O SYNSET:
+
+S='Glosa2996'
+	    {conquistar: Numa jogada de milhões de dólares, as prioridades acabam invertidas e um clube nascido pra conquistar títulos acaba voltado só pra I]conquistar lucros. ,
+	      gananciar: x,
+	      ganhar: Com o passar dos anos, algumas pessoas tentaram I]ganhar lucros com os rituais Zulu, registraram e gravaram as músicas deles. ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2996' = “Alcançar alguma coisa através de esforço próprio”
+	    {conquistar: A Budweiser, que tem acordo operacional com a Antarctica, [conquistou 0,4 % do mercado.,
+	      ganhar: Há dois meses, a atriz que [ganhou fama fazendo a Juma da novela Pantanal, se mandou para Los Angeles, decidida a tentar a sorte no cinema.,}
+Chave: CONQUISTAR <verb.possession>
+ILI: 02222264
+
+Sense 2
+{02222264} <verb.possession> acquire6, win, gain1 -- (win something through one's efforts; "I acquired a passing knowledge of Chinese"; "Gain an understanding of international finance")
+       => {02147191} <verb.possession> get, acquire -- (come into the possession of something concrete or abstract; "She got a lot of paintings from her uncle"; "They acquired a new pet"; "Get your results the next day"; "Get permission to take a few days off from work") 

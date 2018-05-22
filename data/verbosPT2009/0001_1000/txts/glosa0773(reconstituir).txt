@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA0773
+
+DADO O SYNSET:
+
+S='Glosa773'
+{recompor: Tratava-se de I]recompor parte das estruturas dos prédios, proceder a substituição de todo o sistema elétrico, substituir pisos e esquadrias.,
+reconstituir: Pareamento das duas fitas de DNA que haviam-se separado (total ou parcialmente), de maneira a [reconstituir a molécula original de DNA.,
+refazer: Tivemos que [refazer toda a estrutura do terminal da Praça 15, o que acabou comprometendo o cronograma de obras.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa773' = “construir ou formar novamente ou prover com uma nova estrutura”
+{recompor: Tratava-se de I]recompor parte das estruturas dos prédios, proceder a substituição de todo o sistema elétrico, substituir pisos e esquadrias.,
+reconstituir: Pareamento das duas fitas de DNA que haviam-se separado (total ou parcialmente), de maneira a [reconstituir a molécula original de DNA.,
+refazer: Tivemos que [refazer toda a estrutura do terminal da Praça 15, o que acabou comprometendo o cronograma de obras.,}
+Chave: RECONSTITUIR <verb.change>
+ILI: 00392287
+
+Sense 1
+{00392287} <verb.change> restructure2, reconstitute2 -- (construct or form anew or provide with a new structure; "After his accident, he had to restructure his life"; "The governing board was reconstituted")
+       => {00392108} <verb.change> structure -- (give a structure to; "I need to structure my days")
+           => {00392528} <verb.change> organize, organise, coordinate -- (bring order and organization to; "Can you help me organize my files?")
+               => {01422386} <verb.contact> arrange, set up -- (put into a proper or systematic order; "arrange the books on the shelves in chronological order")
+                   => {01452069} <verb.contact> put, set, place, pose2, position, lay1 -- (put into a certain place or abstract location; "Put your things here"; "Set the tray down"; "Set the dogs on the scent of the missing children"; "Place emphasis on a certain point")
+                       => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

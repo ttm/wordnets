@@ -1,0 +1,37 @@
+ANÁLISE DA GLOSA3982B
+
+DADO O SYNSET:
+	
+S='Glosa3982'
+    	{afigurar-se: DEVIANT,
+      	 apresentar: DEVIANT,
+      	 aproximar-se: A cor das cortinas H]aproxima-se da usada no sofá.,
+      	 assemelhar: Estava linda, H]assemelhava uma atriz.,
+      	 assemelhar-se: Sua cor é profunda e se I]assemelha a cor das cerejas pretas.,
+      	 assimilhar: x,
+      	 lembrar: A elegância de Crockett I]lembra um cantor brega de origem hispânica.,
+      	 parecer: DEVIANT,
+      	 parecer-se: Brigou com a mulher porque só um dos gêmeos se I]parece com o pai. ,
+      	 presentar: DEVIANT,
+      	 puxar: Não é que eu queira me gabar, mas ela I]puxou a mãe nesse gosto pela arte moderna!,
+      	 recordar: O seu aspecto M]recorda o de um hábil guerreiro.,
+      	 sair: O primogênito M]saiu ao pai.,
+      	 semelhar: A última sala do museu de arte instantânea I]semelha uma escadaria, cujos degraus alargam-se para novas criações.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3982B' = “parecer igual; ser similar ou carregar uma semelhança [a]”
+    	{aproximar-se: Quase sempre aquela minoria se [aproxima muito mais - por seus hábitos de consumo, pelo seu padrão de vida, por suas expectativas e exigências, pelos recursos de que dispõe - dos países desenvolvidos do que da própria realidade nacional em que se insere.,
+      	 assemelhar: Feito em xhtml, css e js, sua navegabilidade I]assemelha com interfaces feitas em flash.,
+      	 assemelhar-se: Nas partes mais secas, a vegetação [assemelha-se muito à caatinga.,
+      	 lembrar: Twelve Bar é um instrumental blues que [lembra muito Stoned, uma instrumental dos Rolling Stones gravada na mesma época (as duas bandas trocavam muita figurinha no começo).,
+      	 parecer-se: O Brasil não se [parece com a Rússia.,
+      	 recordar: No início as suas campanhas [recordavam muito cenas de cinema.,
+      	 semelhar: A última sala do museu de arte instantânea I]semelha uma escadaria, cujos degraus alargam-se para novas criações.}
+Chave: ASSEMELHAR-SE <verb.stative>
+ILI: 02585229
+
+Sense 1
+{02585229} <verb.stative> resemble -- (appear like; be similar or bear a likeness to; "She resembles her mother very much"; "This paper resembles my own work")
+       => {02578124} <verb.stative> match, fit4, correspond, check8, jibe, gibe, tally, agree -- (be compatible, similar or consistent; coincide in their characteristics; "The two stories don't agree in many details"; "The handwriting checks with the signature on the check"; "The suspect's fingerprints don't match those on the gun")
+           => {02584716} <verb.stative> equal, be7 -- (be identical or equivalent to; "One dollar equals 1,000 rubles these days!")

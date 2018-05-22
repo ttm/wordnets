@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0716
+
+DADO O SYNSET:
+
+S='Glosa716'
+{custar: I]Custava a chegar a hora em que a luz do lampião punha-se a dançar escurecendo a manga de vidro.,
+demorar: Caso o pedido fosse protocolado, a decisão poderia [demorar 48 horas, dependendo da vara que fosse sorteada para julgar a ação popular,
+tardar: Depois de realizada a investigação e submetido o artigo a uma revista, mesmo que aceito, pode [tardar mais do que um ano para sua publicação.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa716' = “agir ou alguma coisa sair mais tarde ao planejado”
+{custar: I]Custava a chegar a hora em que a luz do lampião punha-se a dançar escurecendo a manga de vidro.,
+demorar: Caso o pedido fosse protocolado, a decisão poderia [demorar 48 horas, dependendo da vara que fosse sorteada para julgar a ação popular,
+tardar: Depois de realizada a investigação e submetido o artigo a uma revista, mesmo que aceito, pode [tardar mais do que um ano para sua publicação.,}
+Chave: DEMORAR <verb.stative>
+ILI: 02563384
+
+Sense 2
+{02563384} <verb.stative> delay -- (act later than planned, scheduled, or required; "Don't delay your application to graduate school or else it won't be considered")
+       => {02562977} <verb.stative> wait1, hold off, hold back -- (wait before acting)
+           => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

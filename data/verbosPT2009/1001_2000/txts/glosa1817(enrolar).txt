@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA1817
+
+DADO O SYNSET:
+
+S=’Glosa1817’
+{arrolar2: O vento H]arrolava as nuvens.,
+ embramar: x,
+ enlinhar: x,
+ enovelar: Lembrará já quando estiver em sua poltrona tomando coragem em frente à caixa repleta da lã por I]enovelar, ouvindo a chuva então ruidosa.,
+ enrolar: Outra boa dica é I]enrolar a borda do tapete. # As nuvens começam a I]enrolar-se como pergaminho.,}
+	  
+A=’Glosa1270’
+{desdobar, desenovelar, desenrolar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1817' = “formar uma espiral ou rolo (enrolando)”
+{enovelar: Várias outras produzem uma DNA girase reversa, que I]enovela o DNA no sentido positivo, que é mais estável que o negativo.,
+ enrolar: Maria Guavaira [enrola um fio que não termina jamais.,}
+	  
+A='Glosa1270'
+{desdobar, desenovelar, desenrolar}
+Chave: ENROLAR <verb.contact>
+ILI: 01474624
+
+Sense 6
+{01474624} <verb.contact> wreathe, wind2 -- (form into a wreath)
+       => {01475424} <verb.contact> intertwine, twine, entwine, enlace, interlace, lace1 -- (spin or twist together so as to form a cord; "intertwine the ribbons"; "Twine the threads into a rope")
+           => {01186160} <verb.contact> twist1, twine4, distort1 -- (form into a spiral shape; "The cord is all twisted")
+               => {00135866} <verb.change> change shape, change form, deform2 -- (assume a different shape or form)
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0213
+
+DADO O SYNSET:
+
+S='Glosa213'
+{acerar1: x,
+avigorar: o leite materno A]avigora o recém-nascido.,
+azeirar: x,
+azerar: x,
+robustecer: Guarda tu a fortaleza, vigia o caminho, I]robustece os lombos, arregimenta bem as tuas forças.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa213' = “tornar forte ou mais forte”
+{avigorar: Uma longa guerra que I]avigorou a animosidade entre os dois povos.,
+robustecer: Guarda tu a fortaleza, vigia o caminho, I]robustece os lombos, arregimenta bem as tuas forças.,}
+Chave: AVIGORAR <verb.change>
+ILI: 00213400
+
+Sense 1
+{00213400} <verb.change> strengthen1, beef up, fortify1 -- (make strong or stronger; "This exercise will strengthen your upper body"; "strenghten the relations between the two countries")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

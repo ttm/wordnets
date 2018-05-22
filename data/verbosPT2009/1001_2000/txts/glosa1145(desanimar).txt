@@ -1,0 +1,35 @@
+ANÁLISE DA GLOSA1145
+
+DADO O SYNSET:
+
+S='Glosa1145'
+{congelar: Não deixe o frio I]congelar seu coração.,
+ consternar: Sancha quis despedir-se do marido, e o desespero daquele lance [consternou a todos,
+ desacorçoar: Fernando Collor de Mello conseguia [desacorçoar muitos repórteres não todos à custa de empáfia e agressividade,
+ desalentar: Kafka via sua obra como um ato de fé e não buscava através dela I]desalentar os homens,
+ desanimar: Em pé à beira do gramado, ele não deixou seu time [desanimar, mesmo diante das adversidades que surgiram durante o jogo,
+ descoraçar: x,
+ descoroçoar: A comadre [descoroçoou completamente com estas últimas declarações,
+ desencorajar: Se os preços destes bons vinhos o [desencorajaram, lembre-se de que há bons vinhos alsacianos por preços muito mais moderados.,}
+	  
+A='Glosa2757'
+	    {acorçoar, alentar, animar, aquecer, aviventar, degelar, encorajar, realentar, reanimar, reerguer}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1145' = “tornar menos animado, intenso ou vigoroso; deteriorar em vigor, força, atividade ou sensação”
+{congelar: Nevasca que se instalou e I]congelou o coração que chorou durante o anoitecer.,
+ consternar: Sancha quis despedir-se do marido, e o desespero daquele lance [consternou a todos.,
+ desacorçoar: Tanta solidão não I]desacorçoou dona Maria.,
+ desalentar: A morte de uma grande amiga I]desalentou ainda mais o coração da ex-moça-feliz.,
+ desanimar: A derrota por 2 a 1 para o Araçatuba, [desanimou os jogadores e o técnico.,
+ descoroçoar: Eis um ponto que I]descoroçoa freqüentemente os amadores.,
+ desencorajar: Isso não [desencorajou a General Magic e a Motorola.,}
+A='Glosa2757'
+	    {acorçoar, alentar, animar, aquecer, aviventar, degelar, encorajar, realentar, reanimar, reerguer}
+Chave: DESANIMAR <verb.change>
+ILI: 00185398 
+
+Sense 6
+{00185398} <verb.change> deaden1, blunt2 -- (make less lively, intense, or vigorous; impair in vigor, force, activity, or sensation; "Terror blunted her feelings"; "deaden a sound")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

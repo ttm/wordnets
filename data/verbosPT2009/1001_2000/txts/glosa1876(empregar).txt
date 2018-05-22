@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA1876
+
+DADO O SYNSET:
+
+S='Glosa1876'
+{empregar: HEmpregou dez anos da vida nas escavações.,
+ encher: As pesquisas I]enchem o seu tempo.  ,
+ entreter: Não tem tarefa que A]entretenha suas horas vagas.  ,
+ ocupar: Esvazia-se o papel dos gestores que I]ocupam todo o seu tempo com o "trabalho".,
+ tomar: A tarefa H]tomará várias horas aos estudantes.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1876' = “usar ou consumir plenamente”
+{empregar: H]Empregou dez anos da vida nas escavações.,
+ entreter: Não tem tarefa que A]entretenha suas horas vagas.,
+ ocupar: Esvazia-se o papel dos gestores que I]ocupam todo o seu tempo com o "trabalho".,
+ tomar: A tarefa H]tomará várias horas aos estudantes.,}
+Chave: OCUPAR <verb.consumption>
+ILI: 01122820
+
+Sense 1
+{01122820} <verb.consumption> use, expend -- (use up, consume fully; "The legislature expended its time on school questions")
+        

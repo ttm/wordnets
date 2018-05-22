@@ -1,0 +1,38 @@
+ANÁLISE DA GLOSA0063
+
+DADO O SYNSET:
+
+S='Glosa63'
+{acelerar: Estes têm financiado e promovido um tipo de «desenvolvimento» que aprofundou a concentração mundial da riqueza, acentuou as desigualdades nacionais, alastrou a pobreza e [acelerou a destruição ambiental em escala global.,
+açodar: A ânsia de terminar H]açodou-a.,
+adiantar: Em visita de quatro dias ao Brasil, Lage espera [adiantar alguns projetos de cooperação técnico-científica também nas áreas petroquímica e de turismo. ,
+apressar: A histeria criada com as denúncias de abuso sexual contra as crianças da escola Base [apressou a edição de uma portaria da Prefeitura de São Paulo. ,
+apressurar: x,
+azafamar: A]Azafamava os empregados para adiantar a obra.,
+estugar: Impossível trocarmos uma palavra que fosse, passar um pelo outro sem desviar a cabeça e I]estugar o passo.,
+picar: Andava H]picando o passo, tinha pressa de chegar.,
+precipitar: Surgiu a questão dos sapatos obrigatórios que [precipitou os acontecimentos.,}
+A='Glosa3726'
+{atrasar, delongar, demorar, entravar, lerdear, pausar, remorar, retardar, retrasar, 	     tardar} 
+	    
+A ANÁLISE RESULTA EM:
+
+S='Glosa63' = “fazer mover(andar) mais rápido”
+{acelerar: Estes têm financiado e promovido um tipo de «desenvolvimento» que aprofundou a concentração mundial da riqueza, acentuou as desigualdades nacionais, alastrou a pobreza e [acelerou a destruição ambiental em escala global.,
+adiantar: Em visita de quatro dias ao Brasil, Lage espera [adiantar alguns projetos de cooperação técnico-científica também nas áreas petroquímica e de turismo. ,
+apressar: A histeria criada com as denúncias de abuso sexual contra as crianças da escola Base [apressou a edição de uma portaria da Prefeitura de São Paulo. ,
+estugar: Impossível trocarmos uma palavra que fosse, passar um pelo outro sem desviar a cabeça e I]estugar o passo.,
+picar: Ao dobrar uma esquina, viu certo movimento no fim da outra rua, e, sempre curioso de aventuras, I]picou o passo a descobrir o que era.,
+precipitar: Privatização da previdência I]precipitou colapso da Argentina.,}
+A='Glosa3726'
+{atrasar, delongar, demorar, entravar, lerdear, pausar, remorar, retardar, retrasar, 	     tardar} 
+Chave: ACELERAR <verb.change>
+ILI: 00426772
+
+Sense 2
+{00426772} <verb.change> accelerate1, speed2, speed up1 -- (cause to move faster; "He accelerated the car")
+       => {00164623} <verb.change> modify1, qualify1 -- (add a modifier to a constituent)
+           => {00176022} <verb.change> add -- (make an addition (to); join or combine or unite with others; increase the quality, quantity, zise or scope of; "We added two students to that dorm room"; "She added a personal note to her letter"; "Add insult to injury"; "Add some extra plates to the dinner table")
+               => {00150804} <verb.change> increase -- (become bigger or greater in amount; "The amount of work increased")
+                   => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+                       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

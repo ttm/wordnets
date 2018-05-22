@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA3147
+
+DADO O SYNSET:
+
+S='Glosa3147'
+{inculcar: As representações eram realizadas com grande carga dramática e com alguns efeitos cênicos, para a maior efetividade da «lição» que as peças procuravam [inculcar nas mentes aborígines. ,
+	 recalcar: Sofria horrivelmente; mas a paixão a dominava; o silêncio de tanto tempo queimava-lhe os lábios; seu amor precisava respirar, expandir-se, embora depois o desprezo e mesmo o ódio o viessem [recalcar no coração.,
+	 repisar: Com essa carga emocional, o problema é constantemente utilizado para [repisar que tudo é culpa do governo, os estoques são dele, a esculhambação é total e por aí a fora. }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3147' = “ensinar e imprimir (no espírito) através de freqüentes repetições ou repreensões”
+{inculcar: As representações eram realizadas com grande carga dramática e com alguns efeitos cênicos, para a maior efetividade da “lição” que as peças procuravam [inculcar nas mentes aborígines.,
+	 recalcar: Sofria horrivelmente; mas a paixão a dominava; seu amor precisava respirar, expandir-se, embora depois o desprezo e mesmo o ódio o viessem [recalcar no coração.,
+	 repisar: Com essa carga emocional, o problema é constantemente utilizado para [repisar que tudo é culpa do governo, os estoques são dele, a esculhambação é total e por aí a fora. }
+Chave: INCULCAR <verb.cognition>
+ILI: 00586785
+
+Sense 1
+{00586785} <verb.cognition> inculcate, instill1, infuse -- (teach and impress by frequent repetitions or admonitions; "inculcate values into the young generation")
+       => {00586520} <verb.cognition> drill1 -- (teach by repetition)
+           => {00801981} <verb.communication> teach, learn, instruct -- (impart skills or knowledge to; "I taught them French"; "He instructed me in building a boat")
+               => {00804489} <verb.communication> inform -- (impart knowledge of some fact, state or affairs, or event to; "I informed him of his rights")
+                   => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                       => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                           => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

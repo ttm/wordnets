@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0010
+
+DADO O SYNSET:
+
+S='Glosa10'
+{animar: Novo técnico [anima time do Santo André.,}
+A='Glosa1745'
+{acanhar, acobardar, acovardar, desacorçoar, desacoroçoar, desanimar, descoroçoar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa10' = “realçar ou intensificar o ânimo”
+{animar: Novo técnico [anima time do Santo André.,}
+A='Glosa1745'
+{acanhar, acobardar, acovardar, desacorçoar, desacoroçoar, desanimar, descoroçoar}
+Chave: ANIMAR <verb.emotion>
+ILI: 01760213
+
+Sense 1
+{01760213} <verb.emotion> inspire, animate, invigorate, enliven, exalt -- (heighten or intensify; "These paintings exalt the imagination")
+       => {01710864} <verb.emotion> stimulate, shake, shake up, excite, stir1 -- (stir the feelings, emotions, or peace of; "These stories shook the community"; "the civil war shook the country")
+           => {01708538} <verb.emotion> arouse, elicit, enkindle, kindle, evoke, fire, raise8, provoke -- (call forth (emotions, feelings, and responses); "arouse pity"; "raise a smile"; "evoke sympathy")
+               => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor"))

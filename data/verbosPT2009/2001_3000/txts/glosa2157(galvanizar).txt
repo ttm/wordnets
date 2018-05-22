@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA2157
+
+DADO O SYNSET:
+
+S='Glosa2157'
+	    {galvanizar: Das substâncias da tabela acima, qual você usaria para I]galvanizar uma tubulação em ferro metálico?,
+	      zincar: Pretendo cromar ou I]zincar os raios das rodas mas estou com medo de quebrar alguns raios.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2157' = “revestir de zinco”
+	    {galvanizar: Das substâncias da tabela acima, qual você usaria para I]galvanizar uma tubulação em ferro metálico?,
+	      zincar: Pretendo cromar ou I]zincar os raios das rodas mas estou com medo de quebrar alguns raios.,}
+
+Chave: GALVANIZAR <verb.contact>
+ILI: 01228735
+
+Sense 2
+{01228735} <verb.contact> galvanize, galvanise -- (cover with zinc; "galvanize steel")
+       => {01226248} <verb.contact> coat, surface -- (put a coat on; cover the surface of; furnish with a surface; "coat the cake with chocolate")
+           => {01293336} <verb.contact> cover -- (provide with a covering or cause to be covered; "cover her face with a handkerchief"; "cover the child with a blanket"; "cover the grave with flowers")

@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA1351
+
+DADO O SYNSET:
+
+S='Glosa1351'
+{descaminhar-se: O cidadão I]desencaminhou-se entre matos e árvores,
+ desencaminhar-se: Os alpinistas H]desencaminharam-se,
+ extraviar-se: O retirante tem medo de [extraviar-se porque seu guia, o rio, cortou com o verão,
+ perder-se: Tinha os olhos fitos em uma vereda que serpejava pela frente da casa até [perder-se no mato.,
+ sumir-se: Álvaro acompanhava as setas a proporção que caiam, e que sabia indicarem elas o lugar onde devia parar, apenas viu a última [sumir-se no arvoredo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1351' = “ficar perdido” 
+{descaminhar-se: O cidadão I]desencaminhou-se entre matos e árvores.,
+ desencaminhar-se: Quantos seringueiros se I]desencaminharam no dédalo das estradas-de-seringa e jamais volveram sobre os seus passos?,
+ extraviar-se: O retirante tem medo de [extraviar-se porque seu guia, o rio, cortou com o verão.,
+ perder-se: Tinha os olhos fitos em uma vereda que serpejava pela frente da casa até [perder-se no mato.,
+ sumir-se: O guerreiro cristão atravessou a cabana e [sumiu-se na treva.,}
+Chave: PERDER-SE <verb.change>
+ILI: 00414775
+
+Sense 1
+{00414775} <verb.change> disappear, vanish, go away -- (get lost, especially without warning or explanation; "He disappeared without a trace")

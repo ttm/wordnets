@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA3832
+
+DADO O SYNSET:
+
+S='Glosa3832'
+{beliscar: Alongando fagueira o colo, com o negro bico alisou-lhe os cabelos e [beliscou a boca mimosa e vermelha como a pitanga.,
+	 bicar: O sabiá I]bicava o pêssego e o canário assobiava. ,
+	 debicar: Há pássaros a I]debicar as sementeiras.,
+	 picar: Cada gloriazinha oculta [picava o ovo, e punha a cabeça de fora, olho aberto, sem penas, em volta da glória máxima do Rubião.,
+	 pinicar: Em seguida, pega-se a mão da criança e, com a ponta do indicador I]pinicando-lhe a palma, pergunta-lhe; - "Cadê o toucinho que estava aqui?" ,
+	 tasquinhar: x,
+	 velicar: x }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3832'=”bicar levemente”
+{beliscar: Alongando fagueira o colo, com o negro bico alisou-lhe os cabelos e [beliscou a boca mimosa e vermelha como a pitanga., 
+	 bicar: O sabiá I]bicava o pêssego e o canário assobiava. , 
+	 debicar: Há pássaros a I]debicar as sementeiras.,
+	 picar: Cada gloriazinha oculta [picava o ovo, e punha a cabeça de fora, olho aberto, sem penas, em volta da glória máxima do Rubião.,
+	 pinicar: Em seguida, pega-se a mão da criança e, com a ponta do indicador I]pinicando-lhe a palma, pergunta-lhe; - "Cadê o toucinho que estava aqui?"}
+Chave: PINICAR <verb.contact>
+ILI: 01205662
+
+Sense 1
+{01205662} <verb.contact> peck1, pick, beak -- (hit lightly with a picking motion)
+       => {01369678} <verb.contact> strike -- (deliver a sharp blow, as with the hand, fist, or weapon; "The teacher struck the child"; "the opponent refused to strike"; "The boxer struck the attacker dead")

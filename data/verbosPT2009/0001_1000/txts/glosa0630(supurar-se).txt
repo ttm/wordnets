@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0630
+
+DADO O SYNSET:
+
+S='Glosa630'
+{aporismar-se: x,
+supurar-se: O tumor H]supurara-se,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa630' = “amadurecer e lançar pus”
+{supurar-se: O tumor H]supurara-se,}
+Chave: SUPURAR-SE <verb.body>
+ILI: 00094436
+
+Sense 1
+{00094436} <verb.body> suppurate1, mature4 -- (cause to ripen and discharge pus; "The oil suppurates the pustules")
+       => {00094286} <verb.body> draw -- (cause to localize at one point; "Draw blood and pus")
+           => {02434992} <verb.social> localize, localise -- (restrict something to a particular area)
+               => {02434378} <verb.social> restrict -- (place under restrictions; limit access to; "This substance is controlled")
+                   => {02435410} <verb.social> control1, hold in, hold15, contain, check8, curb, moderate -- (lessen the intensity of; temper; hold in restraint; hold or keep within limits; "moderate your alcohol intake"; "hold your tongue"; "hold your temper"; "control your anger")
+                       => {02349665} <verb.social> restrain1, suppress3, keep, keep back, hold back -- (keep under control; keep in check; "suppress a smile"; "Keep your temper"; "keep your cool")
+                           => {02377053} <verb.social> prevent, keep1 -- (prevent from doing something or being in a certain state; "We must prevent the cancer from spreading"; "His snoring kept me from falling asleep"; "Keep the child from eating the marbles")

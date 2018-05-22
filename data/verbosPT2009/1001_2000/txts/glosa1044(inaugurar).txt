@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA1044
+
+DADO O SYNSET:
+
+S='Glosa1044'
+{estrear: A Secretaria Municipal do Meio Ambiente do Rio aproveitou o último fim de semana para [estrear seus cinco novos decibelímetros, que medem índices de poluição sonora.,
+ inaugurar: No domingo, [inaugurará a marca Select em mais 45 lojas, dobrando o número de postos com este tipo de serviço ao consumidor.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1044' = “começar oficialmente”
+{estrear: O Palácio do Planalto [estreou 94 de orelha em pé.,
+ inaugurar: Provavelmente pensando nisso, a Edusp [inaugurou uma série de publicações intitulada «Críticas Poéticas».,}
+Chave: INAUGURAR <verb.social>
+ILI: 02324110
+
+Sense 1
+{02324110} <verb.social> inaugurate, kick off -- (commence officially)
+       => {01603709} <verb.creation> start1, start up, embark on, commence -- (get off the ground; "Who started this company?"; "We embarked on an exciting enterprise"; "I start my day with a good breakfast"; "We began the new semester"; "The afternoon session begins at 4 PM"; "The blood shed started when the partisans launched a surprise attack")
+           => {00337587} <verb.change> begin1, lead off, start1, commence1 -- (set in motion, cause to start; "The U.S. started a war in the Middle East"; "The Iraqis began hostilities"; "begin a new chapter in your life")

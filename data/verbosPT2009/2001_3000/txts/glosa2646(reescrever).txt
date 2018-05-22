@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA2646
+
+DADO O SYNSET:
+
+S='Glosa2646'
+	    {reescrever: Quando sentei para I]reescrever este roteiro, sabia que das outras vezes me recusara inconscientemente a mudar a história.,
+	      rescrever: Erros de qualquer natureza (de informação, de linguagem, de estrutura) podem obrigar a I]rescrever o texto.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2646' = “Escrever de modo diferente; alterar o escrito de.”
+	    {reescrever: Quando sentei para I]reescrever este roteiro, sabia que das outras vezes me recusara inconscientemente a mudar a história.,
+	      rescrever: Erros de qualquer natureza (de informação, de linguagem, de estrutura) podem obrigar a I]rescrever o texto.,}
+
+Chave: REESCREVER <verb.communication>
+ILI: 00963450
+
+Sense 1
+{00963450} <verb.communication> rewrite -- (write differently; alter the writing of; "The student rewrote his thesis")
+       => {00960729} <verb.communication> write -- (communicate or express by writing; "Please write to me every week")
+           => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+               => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel") 

@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0550
+
+DADO O SYNSET:
+
+S='Glosa550'
+{amentar2: x,
+encomendar: Cabe também a cada brasileiro cumprir a sua parte, com o que se tornará menos distante e menos utópica a radiosa manhã da ressurreição de um Brasil estável e próspero, justo e generoso», que o ministro [encomendou a Deus. ,
+responsar: H]Responsar alguém a Santo Antônio.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa550' = “fazer um pedido por algo; mandar fazer algo”
+{encomendar: Menina de 13 anos I]encomendou morte da mãe ao colega de 14 por 300 reais.,}
+Chave: ENCOMENDAR <verb.communication>
+ILI: 00720990
+
+Sense 2
+{00720990} <verb.communication> order -- (make a request for something; "Order me some flowers"; "order a work stoppage")
+       => {00727992} <verb.communication> request1, bespeak, call for4, quest1 -- (express the need or desire for; ask for; "She requested an extra bed in her room"; "She called for room service")
+           => {00717906} <verb.communication> communicate1, pass on, pass1, put across -- (transmit information ; "Please communicate this message to all employees")
+               => {02167243} <verb.possession> convey10, transmit10, communicate10 -- (transfer to another; "communicate a disease")
+                   => {02167764} <verb.possession> transfer1 -- (move from one place to another; "transfer the data"; "transmit the news"; "transfer the patient to another hospital")
+                       => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

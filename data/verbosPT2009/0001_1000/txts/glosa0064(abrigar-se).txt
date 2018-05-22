@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA0064
+
+DADO O SYNSET:
+
+S='Glosa64'
+{abrigar-se: Apesar das precauções que tomavam contra os ataques dos índios, em ocasião de perigo, vinham sempre [abrigar-se na casa de D. Antônio de Mariz, a qual fazia as vezes de um castelo feudal na idade Média. ,
+acoitar-se: O presidente do STF, Sepúlveda Pertence, argumentou que PC não apenas se manteve em fuga mas buscou [acoitar-se na Tailândia.,
+acolher-se: Por algum tempo em Mogúncia, I]acolheu-se em 1592 em Lovaina.,
+acorrer-se: x,
+aposentar-se: H]Aposentou-se na casa de um parente.,
+asilar-se: Com o golpe de 64, I]asilou-se na embaixada da Argélia.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa64' = “prover(-se de) abrigo”
+{abrigar-se: Apesar das precauções que tomavam contra os ataques dos índios, em ocasião de perigo, vinham sempre [abrigar-se na casa de D. Antônio de Mariz, a qual fazia as vezes de um castelo feudal na idade Média. ,
+acoitar-se: O presidente do STF, Sepúlveda Pertence, argumentou que PC não apenas se manteve em fuga mas buscou [acoitar-se na Tailândia.,
+acolher-se: Por algum tempo em Mogúncia, I]acolheu-se em 1592 em Lovaina.,
+asilar-se: Com o golpe de 64, I]asilou-se na embaixada da Argélia.,}
+Chave: ABRIGAR-SE <verb.stative>
+ILI: 02577295
+
+Sense 1
+{02577295} <verb.stative> shelter -- (provide shelter for; "After the earthquake, the government could not provide shelter for the thousands of homeless people")
+       => {02259805} <verb.possession> supply, provide, render2, furnish -- (provide or furnish with; "We provided the room with an electrical heater")
+           => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+               => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children")

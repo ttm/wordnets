@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2363
+
+DADO O SYNSET:
+
+S='Glosa2363'
+	    {caracterizar: Como o ponto de fusão varia de uma substância para outra, ele é uma propriedade específica que [caracteriza a matéria.,
+	      caraterizar: Cacau-cabruca é um termo regional empregado para [caraterizar uma forma de plantio de cacauais utilizada pelos colonizadores da região Sudeste da Bahia. # O primeiro é identificar e [caraterizar a postura fiscal dos estados brasileiros durante o período 1985-97.,
+	      configurar: A presença maciça de personagens infantis na série [configura a família espanhola como um dos eixos temáticos da representação goyesca.,
+	      tipificar: O texto [tipifica 24 condutas que caracterizam infração da ordem econômica. #  O substitutivo [tipifica 21 condutas e práticas que constituem crimes de abuso do poder econômico, entre elas cartel e concorrência desleal.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2363' = “Descrever ou retratar o caráter, as qualidades ou as peculiaridades de algo.”
+	    {caracterizar: Como o ponto de fusão varia de uma substância para outra, ele é uma propriedade específica que [caracteriza a matéria.,
+	      caraterizar: Modelo de regulação que I]caraterizou as economias fordistas.,
+	      configurar: A simples realização de um vídeo não [configura nenhum crime.,
+	      tipificar: O substitutivo [tipifica 21 condutas e práticas que constituem crimes de abuso do poder econômico.,}
+
+Chave: CARACTERIZAR <verb.communication>
+ILI: 00924929
+
+Sense 1
+{00924929} <verb.communication> qualify1, characterize, characterise -- (describe or portray the character or the qualities or peculiarities of; "You can characterize his behavior as that of an egotist"; "This poem can be characterized as a lament for a dead lover")
+       => {00589832} <verb.cognition> remember1, think of -- (keep in mind for attention or consideration; "Remember the Alamo"; "Remember to call your mother every day!"; "Think of the starving children in India!") 

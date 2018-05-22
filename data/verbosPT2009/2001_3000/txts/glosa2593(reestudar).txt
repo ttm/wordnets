@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA2593
+
+DADO O SYNSET:
+
+S='Glosa2593'
+	    {reestudar: Para evitar novas fraudes, o presidente do Incra decidiu [reestudar todas as decisões judiciais de processos de desapropriação.# Burle decidiu [reestudar o processo anteontem.,
+	      rever1: Mas até chegar a esses 20 a agência tem que [rever o currículo de quase 3 mil candidatos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2593' = “Ser um estudante de um certo assunto.”
+	    {reestudar: Eles não I]reestudaram o conteúdo do curso.,
+	      rever1: Ele ia ao colégio de manhã e preferia I]rever a matéria à noite por umas duas horas.,}
+
+Chave: REESTUDAR <verb.cognition>
+ILI: EQ_HAS_HYPERONYM - 00580363
+
+Sense 4
+{00580363} <verb.cognition> learn2, study, read5, take2 -- (be a student of a certain subject; "She is reading for the bar exam") 

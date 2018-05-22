@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0728
+
+DADO O SYNSET:
+
+S='Glosa728'
+{freqüentar: A possibilidade de ser reconhecido socialmente como um empresário bem-sucedido, circular tranquilamente pelas ruas, [freqüentar restaurantes e praias são as razões que levam os traficantes a buscarem refúgio no Nordeste.,
+ir: Há os que [vão sempre, mas tem muita gente diferente», afirmou a proprietária Rosana Brito.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa728' = “ser um visitante ou freqüentador regular de um certo lugar”
+{freqüentar: A possibilidade de ser reconhecido socialmente como um empresário bem-sucedido, circular tranquilamente pelas ruas, [freqüentar restaurantes e praias são as razões que levam os traficantes a buscarem refúgio no Nordeste.,
+ir: Há os que [vão sempre, mas tem muita gente diferente», afirmou a proprietária Rosana Brito.,}
+Chave: FREQÜENTAR <verb.motion>
+ILI: 01790880
+
+Sense 2
+{01790880} <verb.motion> frequent, haunt2 -- (be a regular or frequent visitor to a certain place; "She haunts the ballet")
+       => {01790138} <verb.motion> travel to, visit -- (go to certain places as for sightseeing; "Did you ever visit Paris?")
+           => {01789516} <verb.motion> travel1, trip2, jaunt -- (make a trip for pleasure)

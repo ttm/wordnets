@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA1210
+
+DADO O SYNSET:
+
+S='Glosa1210'
+{descamar: A pele pode ficar ressecada e [descamar,
+ escamar: Cuidado apenas para não molhar do pescoço para cima, pois o sal pode I]escamar a pele,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1210' = “remover as escamas [de]”
+{descamar: I]Descame o peixe com uma faca afiada e abra-o na barriga.,
+ escamar: O termo “coelho da Bavária” tende a surgir com freqüência nas discussões sobre a qualidade do ar em meio às velhas senhoras que I]escamam peixes em esquinas,}
+Chave: DESCAMAR <verb.contact>
+ILI: 01226113
+
+Sense 6
+{01226113} <verb.contact> scale, descale -- (remove the scales from; "scale fish")
+       => {00166870} <verb.change> remove, take, take away1, withdraw1 -- (remove something concrete, as by lifting, pushing, taking off, etc. or remove something abstract; "remove a threat"; "remove a wrapper"; "Remove the dirty dishes from the table"; "take the gun from your pocket"; "This machine withdraws heat from the environment")

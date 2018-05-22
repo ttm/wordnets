@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA3017
+
+DADO O SYNSET:
+
+S='Glosa3017'
+	    {
+	      gemelhicar: Ummmm, I]gemelhicou ela ao ler o exame.,
+	      gemer: O cão amigo [gemeu por muito tempo no jardim. # João Luiz Silva [geme no chão da enfermaria.,
+	      gemicar: x,
+	    }
+
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3017' = “indicar dor, desconforto ou desagrado”
+	     {gemelhicar: Ummmm, I]gemelhicou ela ao ler o exame.,
+	      gemer: O cão amigo [gemeu por muito tempo no jardim. # João Luiz Silva [geme no chão da enfermaria.,}
+Chave: GEMER <verb.communication>
+ILI: 01011837
+
+Sense 1
+{01011837} <verb.communication> groan, moan, sough2 -- (indicate pain, discomfort, or displeasure; "The students groaned when the professor got out the exam booklets"; "The ancient door soughed when opened")
+       => {00951670} <verb.communication> utter2, emit, let out2, let loose -- (express audibly; utter sounds (not necessarily words); "She let out a big heavy sigh"; "He uttered strange sounds that nobody could understand") 

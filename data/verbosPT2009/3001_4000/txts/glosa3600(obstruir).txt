@@ -1,0 +1,78 @@
+ANÁLISE DA GLOSA3600
+
+DADO O SYNSET:
+
+S='Glosa3600'
+	    {
+	      abarrancar: Areias arcósicas fluviais e, localmente, conglomerados I]abarrancam os depósitos marinhos.,
+	      abarreirar: x,
+	      abarrocar: x,
+	      apejar: x,
+	      atochar: Carros enguiçados M]atocham a estrada. ,
+	      atrancar: A custo conseguiu evitar a Henrique o tropeçar num carro desaparelhado, numa dorna, numa pia para galinhas, e em outros objectos que I]atrancavam o quinteiro.,
+	      atranqueirar: x,
+	      atrapachar: x,
+	      atravancar: O governo do estado e a prefeitura do Rio não têm como eliminar, a curto ou médio prazo, os congestionametos que [atravancam os caminhos que ligam o bairro à Zona Sul e ao Centro.,
+	      barrar1: Na avenida Paranapuã, pelo menos 2 tanques, 10 carros e 40 homens foram utilizados para [barrar o trânsito. ,
+	      bloquear: O chefe do sindicato dos operários de Gdansk, Jersy Borowczak, disse que os trabalhadores promoverão passeatas e [bloquerão estradas. ,
+	      congestionar: O protesto [congestionou cerca de cinco quilômetros nos dois sentidos da rodovia.,
+	      cortar: Sob pretexto de que os selvagens podem [cortar-nos a entrada da casa por alguns dias, levamos provisão de viveres. ,
+	      dificultar: Nas estradas que ligam a via Dutra ao litoral norte do Estado de São Paulo, a queda de barreiras e pontes deve [dificultar o trâfego pelo menos até a tarde de hoje . ,
+	      embaraçar: É proibido I]embaraçar ou impedir por qualquer meio o livre trânsito de pedestres e veículos nas ruas, praças, passeios, estradas, caminhos e demais. ,
+	      embargar: Quanto a Peri, deixando Cecília, dirigiu-se à escada e achou os mesmos vigias, que depois [embargaram a passagem de Rui Soeiro. ,
+	      empachar: x,
+	      empancar: x,
+	      engarrafar: Em direção à zona sul, os bloqueios no centro [engarrafaram as avenidas 23 de maio e Washington Luís.,
+	      entravar: Uma das características que I]entravou por muito tempo o crescimento do bairro foi a existência de porteiras, localizadas nos cruzamentos em nível das ruas. ,
+	      entupir: Segundo o secretário, os responsáveis pela limpeza pública das administrações regionais estão em estado de alerta por causa da possibilidade de chover, o que poderia [entupir os bueiros da cidade .,
+	      estorvar: É proibido vaguear pelos corredores e afins e I]estorvar a passagem.,
+	      fechar: Manifestantes [fecharam a avenida Rio de Janeiro.,
+	      impedir: Os turcos seldjúcidas tomaram Jerusalém (1055) e [impediram a entrada de peregrinos cristãos na Terra Santa. / A ousadia dos traficantes para [impedir a entrada dos 20 policiais militares que participaram da operação deixou os moradores do Morro do Borel sob fogo cruzado.,
+	      ingurgitar: O bonde descarrilado M]ingurgitava o trânsito.,
+	      obstar: Impedir, I]obstar ou dificultar o acesso de pessoas. ,
+	      obstruir: Em conseqüência do desmoronamento, quase 2 mil toneladas de terra e lama [obstruíram a passagem de veículos, provocando um congestionamento de mais de cinco quilômetros.,
+	      obturar: É permitido I]obturar a passagem de água. ,
+	      pejar: À medida que eu andava, evitava os destroços das casas e os cadáveres que pejavam as ruas.,
+	      tapar: Não chegava a [tapar a minha visão, mas me incomodava um pouco.,
+	      tolher: Toneladas de detritos me I]tolhem a passagem.,
+	      tomar: Este ano só existe uma saída para os carros alegóricos, já que as obras do Teleporto [tomaram o bairro do Estácio, na saída do Sambódromo. ,
+	      travar: As pedras I]travam o caminho. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3600' = “bloquear a passagem” 
+	     {abarrancar: Areias arcósicas fluviais e, localmente, conglomerados I]abarrancam os depósitos marinhos.,
+	      atochar: Carros enguiçados M]atocham a estrada. ,
+	      atrancar: A custo conseguiu evitar a Henrique o tropeçar num carro desaparelhado, numa dorna, numa pia para galinhas, e em outros objectos que I]atrancavam o quinteiro.,
+	      atravancar: O principal argumento é de que o comércio de rua I]atravanca calçadas, força o cidadão a andar no meio da rua, "enfeiando a cidade".,
+	      barrar1: Contornou a árvore caída que I]barrava a passagem. ,
+	      bloquear: As duas prefeituras se juntaram numa operação emergencial de limpeza da comporta do canal, onde o lixo I]bloqueava a passagem. ,
+	      congestionar: Desde às 18 horas, o público I]congestionou o acesso ao parque.,
+	      cortar: Sob pretexto de que os selvagens podem [cortar-nos a entrada da casa por alguns dias, levamos provisão de viveres. ,
+	      dificultar: A areia acumulada nas bordas da avenida e sobre o calçadão I]dificulta a passagem de pedestres e a livre circulação de veículos.,
+	      embaraçar: É proibido I]embaraçar ou impedir por qualquer meio o livre trânsito de pedestres e veículos nas ruas, praças, passeios, estradas, caminhos e demais. ,
+	      embargar: Quanto a Peri, deixando Cecília, dirigiu-se à escada e achou os mesmos vigias, que depois [embargaram a passagem de Rui Soeiro. ,
+	      engarrafar: Em direção à zona sul, os bloqueios no centro [engarrafaram as avenidas 23 de maio e Washington Luís.,
+	      entravar: Ela parou na roleta e travou um diálogo com o cobrador naquela língua estranha, enquanto I]entravava a passagem. ,
+	      entupir: Segundo o secretário, os responsáveis pela limpeza pública das administrações regionais estão em estado de alerta por causa da possibilidade de chover, o que poderia [entupir os bueiros da cidade .,
+	      estorvar: É proibido vaguear pelos corredores e afins e I]estorvar a passagem.,
+	      fechar: Manifestantes [fecharam a avenida Rio de Janeiro.,
+	      impedir: Uma cerca I]impedia o acesso de cães à área de recreação da frente da escola. / A ousadia dos traficantes para [impedir a entrada dos 20 policiais militares que participaram da operação deixou os moradores do Morro do Borel sob fogo cruzado.,
+	      ingurgitar: O bonde descarrilado M]ingurgitava o trânsito.,
+	      obstar: Ariel bocejou, esticou os braços, fez algumas inflexões, estalou os nós dos dedos, chutou um sapato que lhe I]obstava o caminho e entrou no banheiro. ,
+	      obstruir: Em conseqüência do desmoronamento, quase 2 mil toneladas de terra e lama [obstruíram a passagem de veículos, provocando um congestionamento de mais de cinco quilômetros.,
+	      obturar: É permitido I]obturar a passagem de água. ,
+	      pejar: Tropel de populares I]pejava as estreitas e ladeirentas ruas do distrito da Sé.,
+	      tapar: Não chegava a [tapar a minha visão, mas me incomodava um pouco.,
+	      tolher: Toneladas de detritos me I]tolhem a passagem.,
+	      tomar: Este ano só existe uma saída para os carros alegóricos, já que as obras do Teleporto [tomaram o bairro do Estácio, na saída do Sambódromo. ,
+	      travar: As pedras I]travam o caminho. ,}
+
+Chave: OBSTRUIR <verb.contact>
+ILI: 01434634
+
+Sense 2
+{01434634} <verb.contact> obstruct, obturate, impede, occlude, jam2, block12, close up -- (block passage through; "obstruct the path")
+       => {02377880} <verb.social> impede, hinder1 -- (be a hindrance or obstacle to; "She is impeding the progress of our project")
+           => {02377053} <verb.social> prevent, keep1 -- (prevent from doing something or being in a certain state; "We must prevent the cancer from spreading"; "His snoring kept me from falling asleep"; "Keep the child from eating the marbles")

@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA0197
+
+DADO O SYNSET:
+
+S='Glosa197'
+{academiar: São dois candidatos com unidade de pensamento, conduta administrativa de larga experiência na administração acadêmica e titulação completa para a carreira docente, mais que isto, uma nova meta programática para a instituição que é a sua própria essência: I]academiar a UFRN.  ,
+academicizar: Diálogo contínuo e renovado entre saberes acadêmico e escolar, sem que isto signifique escolarizar o saber acadêmico ou I]academicizar o saber escolar.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa197' = “tornar o perfil acadêmico forte ou mais forte”
+{academiar: São dois candidatos com unidade de pensamento, conduta administrativa de larga experiência na administração acadêmica e titulação completa para a carreira docente e deverão I]academiar a UFRN.,
+academicizar: Diálogo contínuo e renovado entre saberes acadêmico e escolar, sem que isto signifique escolarizar o saber acadêmico ou I]academicizar o saber escolar.,}
+Chave: ACADEMICIZAR <verb.change>
+ILI: EQ_HAS_HYPERONYM  – 00213400 
+
+Sense 1
+{00213400} <verb.change> strengthen1, beef up, fortify1 -- (make strong or stronger; "This exercise will strengthen your upper body"; "strenghten the relations between the two countries")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

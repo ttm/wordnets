@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA3054
+
+DADO O SYNSET:
+
+S='Glosa3054'
+	    {
+	      desquietar: x,
+	      encabular: A poluição auditiva é de I]encabular.,
+	      encafifar: O conferencista I]encafifava, mas aprendia, pelo menos em parte, a lição, e da outra vez já tratava de trazer sua palestra arrumada de maneira mais viva.,
+	      grilar: Os assuntos que mais preocupam os pais são muito parecidos com os que I]grilam os jovens.,
+	      impressionar: De maneira fria ou manipulada, os números não deixam de [impressionar.,
+	      inquietar: Um ingrediente fundamental da ciência cognitiva contemporânea é a agenda de questões, e o conjunto de preocupações, que há muito tempo [inquietam os epistemologistas da tradição filosófica ocidental.,
+	      intrigar: Por alguma razão que até hoje me [intriga, nada ne pareceu mais importante num terremoto do que manter os óculos limpos. ,
+	      preocupar: Durante a Guerra Fria, alguns acontecimentos de caráter politico-militar acabaram envolvendo estas duas superpotências, [preocupando o mundo com a deflagração de um novo conflito armado. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3054' = “perturbar o equilíbrio ou a estabilidade”
+	     {encabular: O homem rico em oratória I]encabulava pessoas de todos os tipos e as histórias brotavam soltas, ainda que fossem só de ouvido.,
+	      encafifar: a Agência Brasileira de Inteligência, cuja atuação no caso I]encafifa a própria Polícia Federal – acionada para apurar a corrupção nos Correios e no IRB.,
+	      grilar: Os assuntos que mais preocupam os pais são muito parecidos com os que I]grilam os jovens.,
+	      impressionar: De maneira fria ou manipulada, os números não deixam de [impressionar.,
+	      inquietar: Um ingrediente fundamental da ciência cognitiva contemporânea é a agenda de questões, e o conjunto de preocupações, que há muito tempo [inquietam os epistemologistas da tradição filosófica ocidental.,
+	      intrigar: O achado [intrigou os especialistas porque nos EUA não havia registro da presença desse tipo de vírus e nem de moléstias a ele ligada. ,
+	      preocupar: Como já era esperado, o índice de evasão e repetência foi o que mais [preocupou os especialistas. ,}
+	    
+Chave: INQUIETAR <verb.change>
+ILI: 00363614
+
+Sense 1
+{00363614} <verb.change> upset -- (disturb the balance or stability of; "The hostile talks upset the peaceful relations between the two countries")
+       => {00821875} <verb.contact> touch3, disturb -- (temper with; "Don't touch my CDs!")
+           => {00083947} <verb.change> change1, alter1 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

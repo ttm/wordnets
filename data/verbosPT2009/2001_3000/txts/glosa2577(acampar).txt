@@ -1,0 +1,39 @@
+ANÁLISE DA GLOSA2577
+
+DADO O SYNSET:
+
+  S='Glosa2577'
+	    {abarracar: Passando alguns cerrados nos fomos I]abarracar na cabeceiras de um pequeno corgo que está em cima da dita Serra, 88, depois de termos andado naquele dia mais de 6 léguas.,
+	      acampar: Em muitas ocasiões no entanto isso não é possível, o que nos obriga a [acampar em lugares muitas vezes insólitos, como barcos abandonados, bosques etc.,
+	      arrincoar: x,
+	      arrinconar: x,
+	      barracar: x,
+	      campar: A única alternativa dessas pessoas é junto o que lhe restou e I]campar na beira das estradas.,
+	      enrinconar: x,
+	      estacionar: Sonda vai [estacionar ao lado de asteróide.,
+	      rinconar: x,}
+
+	  A='Glosa1127'
+	    {desacampar: Gregório Mendes se foi lavar na pouca água existente numa cacimba próxima a logo, secamente, mandou o acampamento I]desacampar pois a viagem tinha que prosseguir imediatamente,
+	     desalojar: A Turquia não conseguiu [desalojar os rebeldes de seus acampamentos nas montanhas do norte do Iraque,}
+
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2577' = “Estabelecer ou levantar um acampamento.”
+	    {abarracar: Passando alguns cerrados nós fomos I]abarracar na cabeceiras de um pequeno corgo que está em cima da dita Serra.,
+	      acampar: Em muitas ocasiões no entanto isso não é possível, o que nos obriga a [acampar em lugares muitas vezes insólitos, como barcos abandonados, bosques etc.,
+	      campar: A única alternativa dessas pessoas é I]campar na beira das estradas.,}
+
+  A='Glosa1127'
+	    {Desacampar, desalojar}
+
+Chave: ACAMPAR <verb.contact>
+ILI: 01471907
+
+Sense 2
+{01471907} <verb.contact> camp, camp down -- (establish or set up a camp)
+       => {01471785} <verb.contact> pitch1, set up1 -- (erect and fasten; "pitch a tent")
+           => {01924931} <verb.motion> rear1, erect -- (cause to rise up)
+               => {01916187} <verb.motion> raise, lift, elevate, get up, bring up -- (raise from a lower to a higher position; "Raise your hands"; "Lift a load")
+                   => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant") 

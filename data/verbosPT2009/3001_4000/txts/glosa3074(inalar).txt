@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA3074
+
+DADO O SYNSET:
+
+S='Glosa3074'
+	    {
+	      aspirar: A menina não escutava só; colocando-se longe do fumo e de encontro à brisa que soprava, de vez em quando [aspirava o ar com a finura de olfato com que os cães farejam a caça.,
+	      haurir: A finalidade da respiração: é a de integrar o organismo do ser à atmosfera, I]haurindo dela o nutriente essencial à vida, o oxigênio.,
+	      inalar: O monóxido de carbono, se [inalado em grande quantidade, pode levar a graves doenças respiratórias e até à morte.,
+	      inspirar: I]Inspirar pelas narinas e soltar o ar pela boca.,
+	      puxar: Eu gosto de colocá-lo na boca e ficar I]puxando a fumaça pros meus pulmões, de vez em quando soltá-la no ar.,
+	      sorver: O ato hoje casual de acender um cigarro e I]sorver a fumaça tem sua origem perdida no tempo.,
+	      tomar: Tem duas alternativas: I]tomar ar fresco lá fora, ou o último trago no Purple Bar, só para hóspedes.,
+	      tragar: Já partiu Caubi para a grande taba; o Pajé [traga as baforadas do fumo, que prepara o mistério do rito sagrado.,
+	    }
+
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3074' = “puxar do ar”
+	     {aspirar: A menina não escutava só; colocando-se longe do fumo e de encontro à brisa que soprava, de vez em quando [aspirava o ar com a finura de olfato com que os cães farejam a caça.,
+	      haurir: I]Hauria o ar puro, fresco, da mata, respirava as emanações de guarirova.,
+	      inalar: A doença teve início quando uma pessoa I]inalou o esporo, que posteriormente migrou para o pulmão.,
+	      inspirar: A pessoa [inspira fundo (o máximo que pode) e, depois, expira fundo (também ao máximo) no interior de um tubo.,
+	      puxar: I]Puxou a fumaça pela boca e sentiu-a invadindo os pulmões.,
+	      sorver: Sentiu os pés tocarem o solo e I]sorveu o ar puro, que lhe encheu os pulmões.,
+	      tomar: O idoso I]tomava ar na sacada do edifício de três andares, de sua propriedade, quando a grade de proteção se rompeu e ele acabou caindo.,
+	      tragar: Já partiu Caubi para a grande taba; o Pajé [traga as baforadas do fumo, que prepara o mistério do rito sagrado.,}
+Chave: INALAR <verb.body>
+ILI: 00004923
+
+Sense 2
+{00004923} <verb.body> inhale, inspire, breathe in -- (draw in (air); "Inhale deeply"; "inhale the fresh mountain air"; "The patient has trouble inspiring"; "The lung cancer patient cannot inspire air very well")
+       => {00001740} <verb.body> breathe, take a breath, respire, suspire3 -- (draw air into, and expel out of, the lungs; "I can breathe better when the air is clean"; "The patient is respiring")

@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA2042
+
+DADO O SYNSET:
+	
+S='Glosa2042'
+    	{estampar: Por longos oito minutos, um slide [estampou na tela o rosto de Fábio Jr., astro da trama, com seu repertório como fundo musical.,
+      	 gravar1: Ele I]gravou todas as imagens e organizou sua primeira seqüência sem se preocupar com as inscrições.,
+      	 imprimir: Sobre as cartas, o artista I]imprimiu sua auto-imagem, corpo nu, que por sua vez recebeu algumas interferências com tinta.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2042' = “marcar ou produzir uma impressão [em ou sobre algo]”
+    	{estampar: O Fluminense [estampou em seu uniforme a inscrição Ame o Rio.,
+      	 gravar1: A idéia partiu de um holandês do século 16, Gerardus Mercator, que [gravou no frontispício de uma coleção de mapas a figura do titã condenado a manter os céus suspensos sobre a cabeça.,
+      	 imprimir: Jordan, que no GP da França gozou dos italianos imprimindo em seus carros “Ireland 1 Italy 0”, uma alusão ao jogo das duas equipes na Copa do Mundo dos EUA, recebeu o troco.}
+Chave: ESTAMPAR <verb.contact>
+ILI: EQ_NEAR_SYNONYM – 01234915
+
+Sense 2
+{01234915} <verb.contact> stamp1 -- (to mark, or produce an imprint in or on something; "a man whose name is permanently stamped on our maps")
+       => {01489399} <verb.contact> impress, imprint -- (mark or stamp with or as if with pressure; "To make a batik, you impress a design with wax")
+           => {00345030} <verb.change> change surface -- (undergo or cause to undergo a change in the surface)
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

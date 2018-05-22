@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA2349
+
+DADO O SYNSET:
+
+S='Glosa2349'
+	    {revirar: No capítulo de sexta-feira de Antônio Alves taxista, Mônica, vivida por Guilhermina Guinle , senta-se num degrau da escada de sua casa, [revira os olhinhos e suspira:A vida não devia dar e tirar sem avisar aquilo que mais gostamos. ,
+	      torcer: I]Torcer a toalha como se fosse espremer a última gota da vida.,
+	      virar: Na verdade, é preciso virar a roupa do avesso. #  Para evitar mordida de cachorro, I]virar a roupa pelo avesso quando o cachorro está se aproximando.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2349' = “realizar busca não ordenada” 
+	    {revirar: I]Revirou o casaco e seus bolsos diversas vezes, sem sucesso.,
+	      virar: Para evitar mordida de cachorro, I]virar a roupa pelo avesso quando o cachorro está se aproximando.,}
+
+Chave: REVIRAR <verb.contact>
+ILI: EQ_HAS_HYPERONYM - 01431603
+
+{01431603} <verb.contact> putter1, mess around, potter1, tinker, monkey, monkey around, muck about, muck around -- (do random, unplanned work or activities or spend time idly; "The old lady is usually mucking about in her little house")
+       => {02340529} <verb.social> work2 -- (exert oneself by doing mental or physical work for a purpose or out of necessity; "I will work hard to improve my grades"; "she worked hard for better living conditions for the poor")

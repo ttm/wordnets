@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA
+
+DADO O SYNSET:
+
+S='Glosa1886'
+    	{amuar-se: Chamou-o louco, chorou, I]amuou-se, um sorriso negava, nos olhos não o encarava.,
+      	 arrufar-se: Felizmente a menina, a tal Amélia, compreendeu que perdia seu tempo, e I]arrufou-se na noite do baile por uma ninharia. ,
+      	 emburrar-se: Charlotte I]emburrou-se, repentinamente.,
+      	 emonar-se: x,
+      	 entrombar-se: x,
+      	 entufar-se: x,}
+  
+A='Glosa1272'
+    	{desamuar-se, desemburrar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1886' = “estar ressentido e mostrar desprazer”
+{amuar: O menino endireitou-se na cadeira, I]amuou e fez beicinho.,
+amuar-se: Ela não estava preparada para contradições e se I]amuou.,
+      	arrufar-se: Zé do Egito toda vez que se fala em eleição do Flamengo ele se I]arrufa.,
+      	emburrar: Quando as pessoas vinham me perguntar, eu [emburrava ou simplesmente não respondia.,
+emburrar-se: O menino se I]emburrou e passou o resto da tarde reclamando e brigando com a mãe.,}
+  
+A='Glosa1272'
+    	{desamuar-se, desemburrar-se}
+Chave: EMBURRAR-SE <verb.stative>
+ILI: 02639050
+
+Sense 1
+{02639050} <verb.stative> sulk, pout, brood -- (be in a huff and display one's displeasure; "She is pouting because she didn't get what she wanted")

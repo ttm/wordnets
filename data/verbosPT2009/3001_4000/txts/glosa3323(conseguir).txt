@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA3323
+
+DADO O SYNSET:
+
+S='Glosa3323'
+	    {
+	      adquirir: A idade ideal para uma competição desse porte é entre 25 e 30 anos, quando o atleta já [adquiriu maior capacidade aeróbica, explica o treinador da equipe de triatlo do Botafogo.,
+	      colher: O Exército foi para dentro das favelas, não [colheu o que queria e colheu o que não queria.,
+	      conseguir: Mariza então [conseguiu o que poucas desconhecidas conseguem: uma trilha sonora inédita de Milton Nascimento, a narração de Paulo José e a veiculação do filme completo pelo Fantástico.,
+	      lograr: Desfraldando essa bandeira de arrecadar e gerar dinheiro para mudanças sociais, a pequena WA [logrou um sucesso surpreendente. ,
+	      lucrar: A]Lucrou sair-se bem na difícil tarefa.,
+	      obter: Com seus atos A]obteve convencer o outro.,
+	      vingar: A] Vingou reparar sua falta.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3323' = “ganhar algo através dos próprios esforços”
+	     {adquirir: Assim, o aluno I]adquiriu conhecimento para desenvolver-se como pessoa e profissional.,
+	      colher: Polícia Federal I]colheu informações sobre caseiro a pedido da CPI dos Bingos.,
+	      conseguir: Mariza então [conseguiu o que poucas desconhecidas conseguem: uma trilha sonora inédita de Milton Nascimento, a narração de Paulo José e a veiculação do filme completo pelo Fantástico.,
+	      lograr: Desfraldando essa bandeira de arrecadar e gerar dinheiro para mudanças sociais, a pequena WA [logrou um sucesso surpreendente. ,
+	      lucrar: Economizando turbulências, I]lucrou um título.,
+	      obter: Com seus atos A]obteve convencer o outro.,
+	      vingar: Lutador acérrimo em eleições de deputados, I]vingou levar ao parlamento um sobrinho de Rosa, formado à sua custa.,}
+Chave: CONSEGUIR <verb.possession>
+ILI: 02222264
+
+Sense 1
+{02222264} <verb.possession> acquire6, win, gain1 -- (win something through one's efforts; "I acquired a passing knowledge of Chinese"; "Gain an understanding of international finance")
+       => {02147191} <verb.possession> get, acquire -- (come into the possession of something concrete or abstract; "She got a lot of paintings from her uncle"; "They acquired a new pet"; "Get your results the next day"; "Get permission to take a few days off from work")

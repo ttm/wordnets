@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA0656
+
+DADO O SYNSET:
+
+S='Glosa656'
+{arbitrar: Para Gustavo Franco, «a luta pelo poder envenena», mas considera que o único capaz de [arbitrar certas disputas é o presidente da República.,
+decidir: O poder de um árbitro é tanto, que ele pode [decidir quem deve vencer um jogo.,
+julgar: Cerqueira disse apenas que «o Tribunal de Contas do Estado é o órgão encarregado de fiscalizar as contas da admnistração pública e que cabe apenas ao Tribunal avaliar e [julgar o episódio.,
+sentenciar: O juiz não se exime de [sentenciar ou despachar alegando lacuna ou obscuridade da lei.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa656' = “determinar o resultado de”
+{arbitrar: Para Gustavo Franco, «a luta pelo poder envenena», mas considera que o único capaz de [arbitrar certas disputas é o presidente da República.,
+decidir: O poder de um árbitro é tanto, que ele pode [decidir quem deve vencer um jogo.,
+julgar: Cerqueira disse apenas que «o Tribunal de Contas do Estado é o órgão encarregado de fiscalizar as contas da admnistração pública e que cabe apenas ao Tribunal avaliar e [julgar o episódio.,
+sentenciar: O juiz não se exime de [sentenciar ou despachar alegando lacuna ou obscuridade da lei.,}
+Chave: JULGAR <verb.cognition>
+ILI: 00649877
+
+Sense 1
+{00649877} <verb.cognition> judge2 -- (determine the result of (a competition))
+       => {00675647} <verb.cognition> decide1, settle, resolve1, adjudicate -- (bring to an end; settle conclusively; "The case was decided"; "The judge decided the case in favor of the plaintiff"; "The father adjudicated when the sons were quarreling over their inheritance")
+           => {00341640} <verb.change> end1, terminate1 -- (bring to an end or halt; "She ended their friendship when she found out that he had once been convicted of a crime"; "The attack on Poland terminated the relatively peaceful period after WWI")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA2657
+
+DADO O SYNSET:
+
+S='Glosa2657'
+	    {descansar: Eéia: ilha em que mora Circe, onde os navegantes aportam e jazem a [descansar dois dias e duas noites. # Tentaram [descansar, mas foi impossível, pois o módulo lunar era frio e barulhento. #  Dá para voltar ao perímetro do próprio quarto de dormir, apagar a luz e [descansar em paz. ,
+	      domir: Nenhum dos 195 novos alunos da Escola Naval do Rio de Janeiro vai [dormir esta noite.,
+	      repoisar: Fez ortodoxamente o seu sinal da cruz como qualquer um de nós, tossiu, soprou a luz, e de pança pro ar, num I] repoiso bendito, espojou-se.,
+	      repousar: Mas o rapaz, apesar de fatigado, não conseguiu [repousar.,
+	      ressonar: Ele faz-me I]ressonar para que venhas, do jeito que somente tu sabes.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2657' = “Estar adormecido.”
+	    {descansar: Durante aquela noite, o rei não I]descansou por causa de Daniel. ,
+	      dormir: Ela I]dormiu no berço e continuamos ali.,
+	      repousar: E ali ele I]repousou. Desarriou o seu cavalo. E sua capa pendurou..,
+	      ressonar: Porém no domingo, pela manhã, ele I]ressonava após bebedeira.,}
+
+Chave: DORMIR <verb.body>
+ILI: 00014429
+
+Sense 1
+{00014429} <verb.body> sleep, kip, slumber, log Z's, catch some Z's -- (be asleep)
+       => {00014092} <verb.body> rest -- (be at rest)
+           => {01504618} <verb.contact> recumb, repose2, recline -- (lean in a comfortable resting position; "He was reposing on the couch")
+               => {01504229} <verb.contact> lie -- (be lying, be prostrate; be in a horizontal position; "The sick man lay in bed all day"; "the books are lying on the shelf")
+          Also See-> {00015493} <verb.body> sleep in#1; {00015493} <verb.body> sleep late#1; {01141196} <verb.consumption> sleep in#2; {01141387} <verb.consumption> sleep out#1 

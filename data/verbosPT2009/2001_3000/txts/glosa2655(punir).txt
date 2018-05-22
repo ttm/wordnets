@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA2655
+
+DADO O SYNSET:
+
+S='Glosa2655'
+	    {acoimar: Não pretendíamos I]acoimar os revoltosos.,
+	      castigar: As leis locais [castigam severamente essa prática, mas não são aplicadas, informou Ofélia Calcetas Santos, das Filipinas.# Poucos optam por submeter-se ao tratamento, apesar de as autoridades garantirem que não vão [castigar quem admitir que usa drogas.,
+	      encoimar: x,
+	      punir1: A Polícia Militar do Rio [puniu, com 15 dias de detenção, dois PMs que não multaram um caminhão de entrega de cocos na Avenida Nossa Senhora de Copacabana.# É ele quem deve decidir como [punir os culpados.,
+	      reprimir: Talvez se possa entender a Inquisição como um instrumento não somente de cunho religioso, mas político: uma espécie de instrumento de segurança nacional, desenvolvido pela Espanha (e também por Portugal) para [reprimir os opositores à coroa e aos privilégios de que gozava a Igreja (os bens tomados do infiel passavam à Igreja; esta possuía ainda vastas propriedades na América e tinha participação nos negócios de tráfico de escravos, recebendo um certo percentual ).,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2655' = “Censurar severamente.”
+	    {acoimar: Não pretendíamos I]acoimar os revoltosos.,
+	      castigar: As leis locais [castigam severamente essa prática, mas não são aplicadas, informou Ofélia Calcetas Santos, das Filipinas.,
+	      punir1: A Polícia Militar do Rio [puniu dois PMs que não multaram um caminhão de entrega de cocos na Avenida Nossa Senhora de Copacabana.,
+	      reprimir: Ele nunca I]reprimiu os imigrantes, mesmo os ilegais.,}
+
+Chave: PUNIR <verb.communication>
+ILI: 00797313
+
+Sense 1
+{00797313} <verb.communication> chastise, castigate, objurgate1, chasten, correct -- (censure severely; "She chastised him for his insensitive remarks")
+       => {00797691} <verb.communication> call on the carpet, rebuke, rag, trounce, reproof, lecture, reprimand1, jaw1, dress down, call down, scold, chide, berate, bawl out, remonstrate4, chew out, chew up, have words, lambaste, lambast -- (censure severely or angrily; "The mother scolded the child for entering a stranger's car"; "The deputy ragged the Prime Minister"; "The customer dressed down the waiter for bringing cold soup")
+           => {00799400} <verb.communication> knock2, criticize, criticise, pick apart -- (find fault with; express criticism of; point out real or perceived flaws; "The paper criticized the new movie"; "Don't knock the food--it's free")
+               => {01024792} <verb.communication> comment, notice, remark1, point out1 -- (make or write a comment on; "he commented the paper of his colleague")
+                   => {00987058} <verb.communication> note, observe, mention, remark -- (make mention of; "She observed that his presentation took up too much time"; "They noted that it was a fine day to go sailing")
+                       => {00976600} <verb.communication> state, say, tell4 -- (express in words; "He said that he wanted to marry her"; "tell me what is bothering you"; "state your opinion"; "state your name")
+                           => {00909455} <verb.communication> express, verbalize3, verbalise3, utter1, give tongue to -- (articulate; either verbally or with a cry, shout, or noise; "She expressed her anger"; "He uttered a curse") 

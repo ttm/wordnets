@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA3016
+
+DADO O SYNSET:
+
+S='Glosa3016'
+	    {
+	      gelifazer: x,
+	      gelificar: O produto poderá I]gelificar, tornar-se sólido e perder características de aderência e secagem. # Leve à geladeira e quando começar a I]gelificar espalhe sobre o creme frio.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3016' = “transformar-se em gel”
+	     {gelificar: A iota-carragena I]gelifica mais fortemente com ions de cálcio, formando gel claro, elástico e sem sinérese. # A mistura torna-se progressivamente mais viscosa, I]gelifica e ao completar a reação transforma-se num polímero sólido.,}
+Chave: GELIFICAR <verb.change>
+ILI: 00493501
+
+Sense 1
+{00493501} <verb.change> jellify1, jelly -- (make into jelly; "jellify a liquid")
+       => {00135037} <verb.change> change integrity -- (change in physical make-up)
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

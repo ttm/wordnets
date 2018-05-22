@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA2335
+
+DADO O SYNSET:
+
+S='Glosa2335'
+	    {apeçonhar: x,
+	      apeçonhentar: x,
+	      empeçonhar: Eles I]empeçonham setas, vestes, alimentos, frutos que crescem, a água e rios inteiros, para que matem os homens, vagarosa e paulatinamente, não no mesmo instante.,
+	      empeçonhentar: x,
+	      envenenar: Terroristas podem I]envenenar haxixe do mundo inteiro. ,
+	      enviperar: x,
+	      intoxicar: Maionese [intoxica 100 pessoas no interior de SP.,
+	      toxicar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2335' = “Adicionar veneno em alguma coisa.”
+	    {empeçonhar: Eles I]empeçonham setas, vestes, alimentos, frutos que crescem, a água e rios inteiros, para que matem os homens.,
+	      envenenar: Vazamento de gás [envenenou Gerulaitis.,
+	      intoxicar: o lixo gerado e espalhado irresponsavelmente pela Rhodia em 11 lixões I]intoxicou o solo., }
+
+Chave: ENVENENAR <verb.change> 
+ILI: 00518308
+
+Sense 4
+{00518308} <verb.change> poison, envenom -- (add poison to; "Her husband poisoned her drink in order to kill her")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

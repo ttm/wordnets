@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA3476
+
+DADO O SYNSET:
+
+S='Glosa3476'
+	    {
+	      diminuir: Objetivo é [diminuir gastos e forçar um superávit nas contas públicas para o sucesso do plano econômico/O método, que pode [diminuir pela metade o tempo de regeneração óssea, foi desenvolvido por um brasileiro/Ele quer [diminuir a possibilidade de os parlamentares apresentarem emendas ao projeto,
+	      estreitar: O país deve ser aberto ao comércio internacional de trocas mas não pode, inviabilizar os investimentos internos e, com isto, [estreitar o mercado de trabalho/A recessão [estreitou a base política de Jango,
+	      minuir: x,
+	      reduzir: A fim de [reduzir a superficie de atrito entre o barco e a areia, os pescadores costumam empurrá-los sobre roletes/A estimativa é [reduzir o consumo em 20%,
+	      restringir: Desde a semana passada a diretoria do BC vinha negando a intenção de [restringir a entrada de capital externo/A idéia é [restringir ao máximo o número de DVS,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3476' = “restringir ou limitar”
+	     {diminuir: Objetivo é [diminuir gastos e forçar um superávit nas contas públicas para o sucesso do plano econômico/O método, que pode [diminuir pela metade o tempo de regeneração óssea, foi desenvolvido por um brasileiro/Ele quer [diminuir a possibilidade de os parlamentares apresentarem emendas ao projeto,
+	      estreitar: O país deve ser aberto ao comércio internacional de trocas mas não pode, inviabilizar os investimentos internos e, com isto, [estreitar o mercado de trabalho/A recessão [estreitou a base política de Jango,
+	      reduzir: Isso [reduziu drasticamente a reserva hídrica do solo e afetou as culturas em desenvolvimento sob sequeiro, principalmente as pastagens,
+	      restringir: A Loterj [restringiu o uso das máquinas aos locais onde, hoje, funcionam os bingos convencionais, e exigiu o maior percentual de retorno em jogos no Brasil,}
+Chave: RESTRINGIR <verb.change>
+ILI: 00227757
+
+Sense 2
+{00227757} <verb.change> limit, circumscribe, confine1 -- (restrict or confine, "I limit you to two visits to the pub a day")
+       => {00428838} <verb.change> decrease1, lessen2, minify -- (make smaller; "He decreased his staff")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

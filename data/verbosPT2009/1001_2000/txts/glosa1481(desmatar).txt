@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA1481
+
+DADO O SYNSET:
+
+S='Glosa1481'
+{desarborizar: A EDIA vai continuar a desmatar até a cota 152 e a I]desarborizar até a cota 150 em território nacional.,
+ desflorestar: Nessas circunstâncias, I]desflorestar e queimar a vegetação nativa tornaram-se práticas agrícolas corriqueiras e bastante difundidas.,
+ desmatar: A floresta foi invadida nos anos 50 por fazendeiros que [desmataram a área e colocaram pasto para o gado,
+ desmoitar: Mandou I]desmoitar uma colina,
+ desmoutar: x,}
+	  
+A='Glosa86'
+{arborizar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1481' = “remover as árvores [de]”
+{desarborizar: A EDIA vai continuar a desmatar até a cota 152 e a I]desarborizar até a cota 150 em território nacional.,
+ desflorestar: O Líbano já foi um país rico em florestas, mas a pressão humana ao longo dos séculos I]desflorestou a maior parte do solo.,
+ desmatar: A floresta foi invadida nos anos 50 por fazendeiros que [desmataram a área e colocaram pasto para o gado,
+ desmoitar: Aqui ele (Rei Henrique I.) mandou I]desmoitar uma colina com floresta densa perto do rio Elbe e lá construiu um castelo.,}
+	  
+A='Glosa86'
+{arborizar}
+Chave: DESMATAR <verb.change>
+ILI: 00189229
+
+Sense 1
+{00189229} <verb.change> deforest, disforest, disafforest -- (remove the trees from; "The landscape was deforested by the enemy attacks")
+       => {00188565} <verb.change> clear1 -- (remove; "clear the leaves from the lawn"; "Clear snow from the road")
+           => {00166870} <verb.change> remove, take, take away1, withdraw1 -- (remove something concrete, as by lifting, pushing, taking off, etc. or remove something abstract; "remove a threat"; "remove a wrapper"; "Remove the dirty dishes from the table"; "take the gun from your pocket"; "This machine withdraws heat from the environment")

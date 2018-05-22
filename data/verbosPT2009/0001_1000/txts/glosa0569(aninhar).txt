@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA0569
+
+DADO O SYNSET:
+
+S='Glosa569'
+{anichar: H]Anichou a cabeça no travesseiro.,
+aninhar: O verdadeiro cristão não pode I]aninhar a desesperança em seu coração, porque o Deus que ele professa crer e seguir é o Deus de toda esperança.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa569' = “habitar um abrigo”
+{aninhar: O verdadeiro cristão não pode I]aninhar a desesperança em seu coração, porque o Deus que ele professa crer e seguir é o Deus de toda esperança.,}
+Chave: ANINHAR verb.stative
+ILI: 02575870
+
+Sense 1
+{02575870} <verb.stative> nest -- (inhabit a nest, usually after building; "birds are nesting outside my window every Spring")
+       => {02575263} <verb.stative> inhabit2, occupy2 -- (be present in; be inside of)
+           => {02576058} <verb.stative> be5 -- (occupy a certain position or area; be somewhere; "Where is my umbrella?" "The toolshed is in the back"; "What is behind this behavior?")

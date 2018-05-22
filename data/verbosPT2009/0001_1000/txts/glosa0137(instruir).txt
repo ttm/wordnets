@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0137
+
+DADO O SYNSET:
+
+S='Glosa137'
+{informar: Com exceção das causalidades subjetivas e objetivas que a engendram, inclui um público destinatário a quem o crítico se impõe a tarefa de [informar e de formar. ,
+instruir: Uma das principais artes gregas da Antigüidade foi o teatro, que tinha a função não de divertir, mas sim de [instruir.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa137' = “transmitir habilidades ou conhecimento a alguém”
+{informar: Com exceção das causalidades subjetivas e objetivas que a engendram, inclui um público destinatário a quem o crítico se impõe a tarefa de [informar e de formar. ,
+instruir: Uma das principais artes gregas da Antigüidade foi o teatro, que tinha a função não de divertir, mas sim de [instruir.,}
+
+Chave: INSTRUIR <verb.communication>
+ILI: 00801981
+
+Sense 1
+{00801981} <verb.communication> teach, learn, instruct -- (impart skills or knowledge to; "I taught them French"; "He instructed me in building a boat")
+       => {00804489} <verb.communication> inform -- (impart knowledge of some fact, state or affairs, or event to; "I informed him of his rights")
+           => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+               => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

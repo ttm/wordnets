@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA3455
+
+DADO O SYNSET:
+
+S='Glosa3455'
+	    {
+	      desaguar: Você vai bolar de rir com as histórias deste livro, é de fazer qualquer um ]desaguar de rir,
+	      desbeber: Entretanto, vamos fazer uma pausa nesta aula, podem ir ]desbeber,
+	      mijar: Eles fumam maconha e [mijam no porta de casa/Ele [mijou num balde e jogou na cabeça deles,
+	      urinar: Acorda com frequência para [urinar/Os ladrões, além de levarem dinheiro, rolamentos e brindes, [urinaram no escritório e picharam o estabelecimento,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3455' = “eliminar urina”
+	     {desaguar: Você vai bolar de rir com as histórias deste livro, é de fazer qualquer um ]desaguar de rir,
+	      mijar: Eles fumam maconha e [mijam no porta de casa/Ele [mijou num balde e jogou na cabeça deles,
+	      urinar: Gambá rasgou a bandeira do Brasil e I]urinou sobre o símbolo nacional/Os ladrões, além de levarem dinheiro, rolamentos e brindes, [urinaram no escritório e picharam o estabelecimento,}
+Chave: URINAR <verb.body>
+ILI: 00069858
+
+Sense 2
+{00069858} <verb.body> make1, urinate, piddle, puddle, micturate, piss, pee, pee-pee, make water, relieve oneself, take a leak, spend a penny, wee, wee-wee, pass water -- (eliminate urine; "Again, the cat had made on the expensive rug")
+       => {00070835} <verb.body> excrete, egest, eliminate, pass -- (eliminate from the body; "Pass a kidney stone")
+           => {00102093} <verb.body> discharge, expel, eject, release1 -- (eliminate (substances) from the body)

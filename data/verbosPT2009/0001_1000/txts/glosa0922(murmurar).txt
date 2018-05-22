@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0922
+
+DADO O SYNSET:
+
+S='Glosa922'
+{boquear: Vive a H]boquear com a esposa.,
+boquejar: Ele foi a ordem do dia de muitos dias; apontaram-no a dedo, [boquejaram, por portas travessas, que ia sair um jornalzinho, só para botar os podres do ordinário na rua.,
+murmurar: Eu o observava com cuidado, tentando penetrar o sentido de seus gestos e olhares, das palavras que [murmurava. ,
+roer: M]Roer a vida de alguém.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa922' = “falar indistintamente; geralmente em voz baixa”
+{boquejar: Ele foi a ordem do dia de muitos dias; apontaram-no a dedo, [boquejaram, por portas travessas, que ia sair um jornalzinho, só para botar os podres do ordinário na rua.,
+murmurar: Eu o observava com cuidado, tentando penetrar o sentido de seus gestos e olhares, das palavras que [murmurava.}
+Chave: MURMURAR <verb.communication>
+ILI: 01010969
+
+Sense 1
+{01010969} <verb.communication> mumble, mutter1, maunder, mussitate -- (talk indistinctly; usually in a low voice)
+       => {00910961} <verb.communication> talk, speak, utter, mouth, verbalize, verbalise -- (express in speech; "She talks a lot of nonsense"; "This depressed patient does not verbalize")
+           => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+               => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

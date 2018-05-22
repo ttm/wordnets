@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0558
+
+DADO O SYNSET:
+
+S='Glosa558'
+{amoderar: x,
+dirigir: Desde que assumiu a presidência do Detran sabia que tinha pela frente uma tarefa difícil: [dirigir o órgão mais caótico da administração estadual.,
+moderar: Ontem comecei a I]moderar um fórum, e vi que não é tão fácil.,
+reger: A dupla Toninho Mariutti e Vic Meirelles [rege almoço beneficente hoje no mosteiro do Colégio Santo Américo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa558' = “exercer controle autoritário ou poder sobre”
+{dirigir: Desde que assumiu a presidência do Detran sabia que tinha pela frente uma tarefa difícil: [dirigir o órgão mais caótico da administração estadual.,
+moderar: Ontem comecei a I]moderar um fórum, e vi que não é tão fácil.,
+reger: A dupla Toninho Mariutti e Vic Meirelles [rege almoço beneficente hoje no mosteiro do Colégio Santo Américo.,}
+Chave: REGER <verb.social>
+ILI: 02367626
+
+Sense 5
+{02367626} <verb.social> control, command -- (exercise authoritative control or power over; "control the budget"; "Command the military forces")

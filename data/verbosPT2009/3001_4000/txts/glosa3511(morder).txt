@@ -1,0 +1,37 @@
+ANÁLISE DA GLOSA3511
+
+DADO O SYNSET:
+
+S='Glosa3511'
+	    {
+	      morder: Numa padaria  o soldado Cláudio Luís posou para fotos, [mordendo um pão.   ,
+	      mordicar: Quando éramos jovens, você costumava I]mordicar a minha orelha. / Tinha a pele branca e um belo bigode pequeno muito negro, caido aos cantos, que ele costumava I]mordicar com os dentes.,
+	      mordiscar: Hamsters são conhecidos por I]mordiscar um pouco./ Alguns gatos e cães gostam de mordiscar vegetais.,
+	      ratar: Preciso de objetos para I]ratar de modo a não deixar os meus dentes crescerem demasiado. ,
+	      rilhar: ...soltava exclamações sem ligação alguma com a conversa atual, como também, cerrava os lábios, [rilhava os dentes e crispava raivosamente os punhos. ,
+	      roer: O melhor é chegar em casa e [roer as unhas ou tomar chá de erva cidreira. / Agora deixe-me I]roer um pouco de pão, com licença.,
+	      tascar: O rato M]tascava o queijo.,
+	      trincar: As jovens I]trincavam alho para permanecerem puras.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3511' = “pegar, decepar ou rasgar com ou como se com os dentes ou maxilares”
+	     {morder: Numa padaria o soldado Cláudio Luís posou para fotos, [mordendo um pão.,
+	      mordicar: Quando éramos jovens, você costumava I]mordicar a minha orelha. / Tinha a pele branca e um belo bigode pequeno muito negro, caido aos cantos, que ele costumava I]mordicar com os dentes.,
+	      mordiscar: Hamsters são conhecidos por I]mordiscar um pouco./ Ela nos olhou um pouco surpresa e I]mordiscou o sanduíche.,
+	      ratar: Preciso de objetos para I]ratar de modo a não deixar os meus dentes crescerem demasiado.,
+	      rilhar: ...soltava exclamações sem ligação alguma com a conversa atual, como também, cerrava os lábios, [rilhava os dentes e crispava raivosamente os punhos. ,
+	      roer: O melhor é chegar em casa e [roer as unhas ou tomar chá de erva cidreira. / Agora deixe-me I]roer um pouco de pão, com licença.,
+	      tascar: O rato M]tascava o queijo.,
+	      trincar: As jovens I]trincavam alho para permanecerem puras.,}
+Chave: MORDER <verb.contact>
+ILI: 01404753
+
+Sense 1
+{01404753} <verb.contact> bite, seize with teeth -- (to grip, cut off, or tear with or as if with the teeth or jaws; "Gunny invariably tried to bite her")
+       => {01186979} <verb.contact> grip -- (hold fast or firmly; "He gripped the steering wheel")
+           => {01175818} <verb.contact> seize, prehend, clutch -- (take hold of; grab; "The salesclerk quickly seized the money on the counter"; "She clutched her purse"; "The mother seized her child by the arm"; "Birds of prey often seize small mammals")
+
+               => {01177510} <verb.contact> take, get hold of -- (get into one's hands, take physically; "Take a cookie!"; "Can you take this bag, please")
+          Also See-> {01404577} <verb.contact> bite off#1

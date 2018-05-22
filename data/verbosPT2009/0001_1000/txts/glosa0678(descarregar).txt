@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0678
+
+DADO O SYNSET:
+
+S='Glosa678'
+{arrear2: Mas daí e ele pegou e fomos embora, quando eu estva voltando e parei um sinaleiro a bateria I]arreou novamente.,
+arriar: Na rua que sobe o juramento, I]arriou a bateria do carro.,
+descarregar: Tivemos que andar um pouquinho, eu quase não acho o carro e qdo eu acho olha a surpresa: tinha deixado o farol ligado, e I]descarregou a bateria.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa678' = “ficar vazio ou perder o conteúdo”
+{arrear2: Mas daí e ele pegou e fomos embora, quando eu estva voltando e parei um sinaleiro a bateria I]arreou novamente.,
+arriar: Na rua que sobe o juramento, I]arriou a bateria do carro.,
+descarregar: Tivemos que andar um pouquinho, eu quase não acho o carro e quando eu acho olha a surpresa: tinha deixado o farol ligado, e I]descarregou a bateria.,}
+Chave: DESCARREGAR <verb.change>
+ILI: 00435702
+
+Sense 11
+{00435702} <verb.change> empty, discharge -- (become empty or void of its content; "The room emptied")
+       => {00140715} <verb.change> change state, turn4 -- (undergo a transformation or a change of position or action; "We turned from Socialism to Capitalism"; "The people turned against the President when he stole the election")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

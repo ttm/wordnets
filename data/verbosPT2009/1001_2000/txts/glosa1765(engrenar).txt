@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA1765
+
+DADO O SYNSET:
+
+S='Glosa1765'
+    	{embrear2: Para que o guincho funcione é preciso I]embrear o jeep, engatar a primeira velocidade do câmbio do jeep e soltar a embreagem devagar.,
+      	engrazar: As marchas são virtuais: não há a seleção de um par de engrenagens para se I]engrazar, mas uma posição da corrente entre ângulos nos cones. ,
+      	engrenar: Chegando em casa, ao embicar o carro na garagem, deve-se I]engrenar a ré enquanto se espera a abertura do portão. ,}
+  
+A='Glosa1389'
+    	{debrear, desembrear2, desengrazar, desengrenar, desentrosar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1765' = “fazer [algo] ficar engrenado”
+    	{engrazar: Confeccionador de fecho-ecler une e I]engraza as duas metades estruturais do zíper.,
+      	engrenar: Resta saber se o parafuso do Parafusa será capaz de I]engrenar a máquina industrial do circuito mainstream.,}
+  
+A='Glosa1389'
+    	{debrear, desembrear2, desengrazar, desengrenar, desentrosar}
+Chave: ENGRENAR <verb.contact>
+ILI: 01468558
+
+Sense 1
+{01468558} <verb.contact> engage, mesh1, lock1, operate2 -- (keep engaged; "engaged the gears")
+       => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

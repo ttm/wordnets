@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA3641
+
+DADO O SYNSET:
+
+S='Glosa3641'
+	    {
+	      doutrinar: Não era apenas Cândido de Figueiredo que [doutrinava. / I]Doutrinar sobre o uso racional da água é fácil, usar a água racionalmente é que é difícil. ,
+	      oracular: I]Oraculando segundo o seu sistema de referência, declarou algo fantástico para a nossa teoria. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3641' = “ensinar doutrinas; ensinar sem juulgar”
+	     {doutrinar: Aristóteles I]doutrinava em sua obra “A República” uma ética das virtudes. / O Malleus Maleficarium " ou o Martelo das Feiticeiras " I]doutrinava o mundo contra os "perigos das mulheres de pensamento liberal".,}
+Chave: DOUTRINAR <verb.cognition>
+ILI: 00585271
+
+Sense 1
+{00585271} <verb.cognition> indoctrinate -- (teach doctrines to; teach uncritically; "The Moonies indoctrinate their disciples")
+       => {00801981} <verb.communication> teach, learn, instruct -- (impart skills or knowledge to; "I taught them French"; "He instructed me in building a boat")
+           => {00804489} <verb.communication> inform -- (impart knowledge of some fact, state or affairs, or event to; "I informed him of his rights")
+               => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                   => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                       => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

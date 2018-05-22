@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA2693
+
+DADO O SYNSET:
+
+S='Glosa2693'
+	    {aboiar1: O barco H]aboiou por algum tempo, antes de afundar.,
+	      boiar: Um rapaz de Taipé, Xiao-kang, é arrastado por uma equipa de filmagens para substituir um boneco de plástico e fazer de cadáver a [boiar nas águas poluídas do rio Tamsui que circunda a parte norte da capital de Taiwan.,
+	      bubuiar: São objetos plásticos I]bubuiando, rearranjando continuamente a paisagem, imprimindo a marca da criatividade do homem, no horizonte dos rios e baías.,
+	      flutuar: Esta solução estava a ser tentada ontem ao fim da tarde, após o cadáver do cetáceo ter sido alvejado com disparos efectuados pelo navio-patrulha Limpopo, a cerca de 20 milhas da costa, com o intuito de perfurar o revestimento adiposo do animal e possibilitar a libertação de gases acumulados nas entranhas e que haviam mantido o corpo a I]flutuar durante a noite.,
+	      nadar: O infeliz José Endler, porém, logo desapareceu e os seus companheiros só virão o chapéu que I]nadava na água seis ou oito metros distante do lugar do desastre.,
+	      remar: x,
+	      sobrenadar: O uso do alumínio, adicionado diretamente ao banho de zinco, não permite uma boa homogeneização do mesmo, já que o alumínio tem a densidade muito menor que a do zinco, tendendo, portanto, a I]sobrenadar o banho e, com isso, não agir de forma coesa com o zinco nos revestimentos galvanizados.,}
+
+	  A='Glosa2483'
+	    {submergir: O lago da usina vai [submergir 110 km2 de terras férteis, 2 km2 de Mata Atlântica.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2693' = “Estar flutuante; ficar sobre uma superfície líquida; não afundar.”
+	    {boiar: Numa bela manhã, eu I]boiava tranqüila sobre as ondas do mar, sem ter a mínima idéia do que logo iria acontecer.,
+	      bubuiar: Tudo aquilo que I]bubuiava e que o rio podia arrastar consigo.,
+	      flutuar: I]Eu flutuava sobre um mar branco e azul.,
+	      nadar: Os seus companheiros só viram o chapéu que I]nadava na água.,
+	      sobrenadar: Uma tábua I]sobrenadava ao lado do menino, a que o infeliz pôde agarrar-se.,}
+
+	  A='Glosa2483'
+	    {submergir}
+
+Chave: BOIAR <verb.motion>
+ILI: 01848839
+
+Sense 2
+{01848839} <verb.motion> float1, swim1 -- (be afloat; stay on a liquid surface; not sink)
+       => {01782203} <verb.motion> travel, go, move3, locomote -- (change location; move, travel, or proceed; "How fast does your new car go?"; "We travelled from Rome to Naples by bus"; "The policemen went from door to door looking for the suspect"; "The soldiers moved towards the city in an attempt to take it before night fell") 

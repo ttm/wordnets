@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA1060
+
+DADO O SYNSET:
+
+S='Glosa1060'
+{arruinar-se: Outros nobres [arruinaram-se, ao passo que muitas comunas enriqueceram.,
+ baquear: A empresa H]baqueou devido à crise econômica no país.,
+ degringolar: Quando foi que o Banco do Brasil I]degringolou, chegando a este prejuízo inédito? ,
+ despenhar-se: Com o jogo e a bebida, A]despenhou-se.,
+ empobrecer-se: Privar outrem do que eu lhe poderia dar é [empobrecer-me proporcionalmente, pela recusa de participar do grupo.,
+ falir: As poucas indústrias [faliram, a agricultura está abandonada e os que empobreceram buscam sobreviver invadindo praias do litoral fluminense e as ruas do Rio e Niterói com suas bancas e vendas ambulantes.,
+ quebrar: Seja se insurgindo contra os desmandos dos que [quebraram a empresa, seja assumindo, como na United, o controle da administração para si, temos que tomar alguma providência.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1060' = “tornar-se falido ou insolvente; falir financeiramente e fechar”
+{arruinar-se: Outros nobres [arruinaram-se, ao passo que muitas comunas enriqueceram.,
+ baquear: Ainda assim, o mercado financeiro I]baqueou: a Bolsa arriou 1,95% e os juros recuaram no mercado futuro.,
+ degringolar: Quando foi que o Banco do Brasil I]degringolou, chegando a este prejuízo inédito? ,
+ despenhar-se: Bolsas I]despenham-se com terrorismo de volta a Londres.,
+ empobrecer-se: São José del-Rei I]empobreceu-se completamente em virtude da paralisação dos serviços de mineração.,
+ falir: As poucas indústrias [faliram, a agricultura está abandonada e os que empobreceram buscam sobreviver invadindo praias do litoral fluminense.,
+ quebrar: Um total de 1.195 empresas [quebraram no Japão este ano.,}
+Chave: FALIR <verb.possession>  
+ILI: 02251250 
+
+Sense 9
+{02251250} <verb.possession> fail -- (become bankrupt or insolvent; fail financially and close; "The toy company went bankrupt after the competition hired cheap Mexican labor"; "A number of banks failed that year")

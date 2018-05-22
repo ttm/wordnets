@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA3039
+
+DADO O SYNSET:
+
+S='Glosa3039'
+	    {
+	      amar-se: Os dois tinham sofrido um pelo outro, e era isto uma forte razão para se [amarem cada vez mais. ,
+	      estimar-se: Com efeito, no fim da conversa, as três velhas [estimavam-se mutuamente de uma maneira incrível.,
+	      gostar-se: Está na cara que eles se I]gostam, ela foi fundamental na recuperação dele.,
+	      prezar-se: Os dois, como todos irmãos que se I]prezam, tinham suas rusgas.,
+	    }
+
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3039' = “gostar-se”
+	     {amar-se: Antes de tudo, porém, os dois [amavam-se sinceramente; e a idéia de uma união ilegítima lhes repugnava. ,
+	      estimar-se: Com efeito, no fim da conversa, as três velhas [estimavam-se mutuamente de uma maneira incrível.,
+	      gostar-se: Está na cara que eles se I]gostam, ela foi fundamental na recuperação dele.,
+	      prezar-se: Os dois, como todos irmãos que se I]prezam, tinham suas rusgas.,}
+Chave: ESTIMAR-SE <verb.emotion>
+ILI: 01725490
+
+Sense 3
+{01725490} <verb.emotion> like4 -- (be fond of; "I like my nephews")

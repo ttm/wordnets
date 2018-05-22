@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA1087
+
+DADO O SYNSET:
+
+S='Glosa1087'
+{abiselar: x,
+ biselar: Corta-se a ponta do cateter sem a necessidade de I]biselar.,
+ chanfrar: Temos capacidade de I]chanfrar os compensados em tamanhos gigantes, e de cortar para atender as necessidades especificas dos clientes.,
+ dentar: A.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1087' = “dar forma de chanfro”
+{biselar: Máquina pneumática portátil que corta, I]bisela e faceia tubos simultaneamente.,
+chanfrar: O uso desta cantoneira vem dar fim a esta questão, pois I]chanfra as arestas, conferindo um ótimo efeito estético.,}
+Chave: CHANFRAR <verb.contact> 
+ILI: 01540387 
+
+Sense 1
+{01540387} <verb.contact> bevel, chamfer1 -- (cut a bevel on; shape to a bevel; "bevel the surface")
+       => {01509511} <verb.contact> cut -- (separate with or as if with an instrument; "Cut the rope")
+           => {01513899} <verb.contact> separate1, disunite, divide1, part1 -- (force, take, or pull apart; "He separated the fighting children"; "Moses parted the Red Sea")
+               => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

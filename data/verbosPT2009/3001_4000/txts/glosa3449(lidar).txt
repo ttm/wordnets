@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA3449
+
+DADO O SYNSET:
+
+S='Glosa3449'
+	    {
+	      cuidar: O presidente não consegue [cuidar das reivindicações sociais/A Walt Disney anunciou mundialmente ter contratado o músico, compositor e astro pop Phil Collins para [cuidar da trilha sonora de seu próximo lançamento,
+	      lidar: Escultor acostumado a [lidar com fibras de vidro/A princípio eu queria ]lidar com gado e leite,
+	      mexer: A medicina, por [mexer com o valor mais alto do homem o próprio homem, não pode aceitar que sua saúde fique à mercê da sorte/Começou a [mexer com computadores com dez anos,
+	      ocupar-se: A polícia e o Judiciário devem ocupar-se dos grandes delitos criminais/Caberia à antropologia [ocupar-se e explicar o modo como as pessoas transitam entre as alternativas que a sociedade lhes dispõe,
+	      saber: Toda mulher deveria [saber corte e costura,
+	      tratar: Como [tratar do tema dos direitos humanos num país onde a violência está banalizada?/ O funcionalismo pretendia tratar de um dos dilemas filosóficos mais clássicos,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3449' = “estar em cargo de, agir sobre, ou dispor de” 
+	     {cuidar: Roberto [cuida da área de vendas e marketing e Eduardo, da financeira,
+	      lidar: Nico Assumpção é um apaixonado pela informática, [lida com computadores desde 72,
+	      mexer: Ele I]mexe com vendas,
+	      ocupar-se: A AMR I]ocupa-se, entre outras coisas, da emissão e controle das permissões para importação e exportação,
+	      tratar: Nelas Marcos Amaral I]trata, com a verticalidade desejada, da possibilidade de implantação do ombudsman no Brasil, relacionando-o com o problema institucional do nosso País,}
+Chave: LIDAR <verb.social>
+ILI: 02363018
+
+Sense 7
+{02363018} <verb.social> manage, deal13, care11, handle -- (be in charge of, act on, or dispose of; "I can deal with this crew of workers"; "This blender can't handle nuts"; "She managed her parents' affairs after they got too old")
+       => {02367626} <verb.social> control, command -- (exercise authoritative control or power over; "control the budget"; "Command the military forces")

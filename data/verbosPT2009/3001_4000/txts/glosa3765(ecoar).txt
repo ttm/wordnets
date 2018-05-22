@@ -1,0 +1,43 @@
+ANÁLISE DA GLOSA3765
+
+DADO O SYNSET:
+
+S='Glosa3765'
+{ecoar: O urutau no fundo da mata solta as suas notas graves e sonoras, que, reboando pelas longas crastas de verdura, vão [ecoar ao longe como o toque lento e pausado do ângelus. ,
+	 percutir: O grito I]percutiu algumas vezes.,
+	 reboar: Os gritos e os cantos se confundiram com aqueles sons roucos, e [reboaram pela floresta como o trovão rolando pelas nuvens.,
+	 refletir: O local onde é feita uma narração não pode conter superfícies ao redor que tenham grande facilidade em I]refletir o som. ,
+	 repercutir: A minha própria voz, como um clarim, vinha I]repercutir nos meus ouvidos.,
+	 repetir: Vales e outeiros M]repetiam o troar da artilharia.,
+	 repulsar: É tudo silêncio, somente o mar de rugir não cessa, nem de soar confuso borborinho, imenso como o eco de mil vozes no céu de extensa gruta I]repulsando. ,
+	 ressoar: Os guerreiros ouviam [ressoar a voz plangente da ave amiga e afastavam-se do coqueiro onde cantava a jandaia.,
+	 retinir: Os tacapes, vibrados pela mão pujante dos guerreiros, bateram nos largos escudos [retinindo.,
+	 retumbar: Os instrumentos [retumbaram de novo.,
+	 reverberar: Seja quieto e deixe o som I]reverberar como um eco.,
+	 rolar1: O bramido [rolou pela amplidão da mata e foi morrer longe nas cavernas da montanha.,
+	 rugir: O hóspede é amigo de Tupã: quem ofender o estrangeiro, ouvirá [rugir o trovão.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3765' = “soar ou fazer eco com som”
+{ecoar: O urutau no fundo da mata solta as suas notas graves e sonoras, que, reboando pelas longas crastas de verdura, vão [ecoar ao longe como o toque lento e pausado do ângelus.,
+	 percutir: O grito I]percutiu algumas vezes.,
+	 reboar: Os gritos e os cantos se confundiram com aqueles sons roucos, e [reboaram pela floresta como o trovão rolando pelas nuvens.,
+	 refletir: O local onde é feita uma narração não pode conter superfícies ao redor que tenham grande facilidade em I]refletir o som. ,
+	 repercutir: A minha própria voz, como um clarim, vinha I]repercutir nos meus ouvidos.,
+	 repetir: Vales e outeiros M]repetiam o troar da artilharia.,
+	 repulsar: É tudo silêncio, somente o mar de rugir não cessa, nem de soar confuso borborinho, imenso como o eco de mil vozes no céu de extensa gruta I]repulsando. ,
+	 ressoar: Os guerreiros ouviam [ressoar a voz plangente da ave amiga e afastavam-se do coqueiro onde cantava a jandaia.,
+	 retinir: Os tacapes, vibrados pela mão pujante dos guerreiros, bateram nos largos escudos [retinindo.,
+	 retumbar: Os instrumentos [retumbaram de novo.,
+	 reverberar: Seja quieto e deixe o som I]reverberar como um eco.,
+	 rolar1: O bramido [rolou pela amplidão da mata e foi morrer longe nas cavernas da montanha.,
+	 rugir: O hóspede é amigo de Tupã: quem ofender o estrangeiro, ouvirá [rugir o trovão.}
+
+Chave: ECOAR <verb.perception>
+ILI: 02121142
+
+Sense 1
+{02121142} <verb.perception> resound1, echo, ring4, reverberate -- (ring or echo with sound; "the hall resounded with laughter")
+       => {02113837} <verb.perception> sound, go -- (make a certain noise or sound; "She went `Mmmmm'"; "The gun went `bang'")
+           => {02062507} <verb.perception> cause to be perceived -- (have perceptible qualities)

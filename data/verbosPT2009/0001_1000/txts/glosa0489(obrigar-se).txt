@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0489
+
+DADO O SYNSET:
+
+S='Glosa489'
+{obrigar-se: Devido às necessidades inerentes à comercialização do café e às empresas subsidiárias, os fazendeiros I]obrigaram-se a uma convivência urbana.,
+sujeitar-se: As pessoas que tornaram-se viciadas em tabaco, e que I]sujeitaram-se a riscos desnecessários, possuem o direito de buscar justa indenização dos responsáveis.,}
+A='Glosa2624'
+{absolver-se, aliviar-se, descarregar-se, desobrigar-se, desocupar-se, desonerar-se,     dispensar-se, escusar-se, eximir-se, exonerar-se, isentar-se, livrar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa489' = “forçar (-se) ou compelir (-se) a fazer algo”
+{obrigar-se: Devido às necessidades inerentes à comercialização do café e às empresas subsidiárias, os fazendeiros I]obrigaram-se a uma convivência urbana.,}
+A='Glosa2624'
+{absolver-se, aliviar-se, descarregar-se, desobrigar-se, desocupar-se, desonerar-se,     dispensar-se, escusar-se, eximir-se, exonerar-se, isentar-se, livrar-se}
+Chave: OBRIGAR-SE <verb.social>
+ILI: 02431663
+
+Sense 1
+{02431663} <verb.social> compel, oblige, obligate -- (force or compel somebody to do something; "We compel all students to fill out this form")
+       => {00744964} <verb.communication> induce, stimulate1, cause, have, get, make -- (cause to do; cause to act in a specified manner; "The ads induced me to buy a VCR"; "My children finally got me to buy a computer"; "My wife made me buy a new sofa")

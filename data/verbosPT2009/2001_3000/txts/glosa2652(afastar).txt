@@ -1,0 +1,39 @@
+ANÁLISE DA GLOSA2652
+
+DADO O SYNSET:
+
+S='Glosa2652'
+	    {afastar: De qualquer forma, devem-se [afastar as pessoas das proximidades da antena durante a secagem.,
+	      apartar: Edson Amorim disse à polícia que estava se dirigindo à fazenda Jangada para [apartar bois, quando percebeu uma barricada de tronco de árvores em local próximo ao acampamento dos sem-terra.,
+	      arredar: Há muito que sonho com uma casa em Aliança, no sonho a alma que diz que existe uma casa  na rua Dendê, e nessa casa mora um casal sem filhos, no quintal lá dorme uma cabra, precisamente mais na frente, dentro dum cercado, embaixo do poleiro de galinhas, tem uma pedra, e eu era só I]arredar a pedra e pronto. Tava rico!,
+	      desachegar: H]Desachegou o bebê do colo.,
+	      repulsar: Vale dizer, utiliza os pólos positivos e negativos dos ímãs para atrair ou I]repulsar as formas geométricas que constituem fragmentos de uma estrutura maior a ser armada pelo espectador a partir do uso do bastão magnetizado.,
+	      separar: Se quebrarmos um ímã em vários pedaços, cada pedaço passará a ser um novo ímã, pois não é possível [separar os pólos de um ímã.,
+	      vastar1: x,}
+
+	  A='Glosa2178'
+	    {abeirar: A]Abeirou o animal do regato.,
+	     acaroar: H]Acaroar uma embarcação com outra.,
+	     acercar: H]Acercou do trono os sábios do reino.,
+	     achegar: E Vladin I]achegou mais uma vez a vela aos seus colhões.,
+	     avizinhar: H]Avizinhou a lâmpada do sofá.,
+	     vizinhar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2652' = “x”
+	    {afastar: Também «foi a vida», segundo Sônia, que a [afastou do irmão.,
+	      apartar: Jurandir [apartou as mulheres e disse.,
+	      arredar: Manuel [arredou a filha daquele lugar.,
+	      repulsar: Bem sucedidamente I]repulsou os invasores.,
+	      separar: A situação I]separou os irmãos.,}
+
+	  A='Glosa2178'
+	    {abeirar, acaroar, acercar, achegar, avizinhar, vizinhar}
+
+Chave: AFASTAR <verb.contact>
+ILI: 01513899
+
+Sense 2
+{01513899} <verb.contact> separate1, disunite, divide1, part1 -- (force, take, or pull apart; "He separated the fighting children"; "Moses parted the Red Sea")
+       => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant") 

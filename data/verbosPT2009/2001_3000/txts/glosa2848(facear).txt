@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA2848
+
+DADO O SYNSET:
+
+S='Glosa2848'
+	    {esquadrar: I]Esquadrar um círculo sigifica encontrar um quadrado com área igual ao círculo dado. ,
+	      esquadriar: Realizar trabalhos gerais de carpintaria, analisando desenhos, cortando, armando e reparando peças de madeira, utilizando ferramentas manuais e mecânicas para confeccionar ou recuperar tais peças; reparar portas, janelas, quadros em geral, móveis escolares, de escritório e outros, separando peças de melhor qualidade, medindo, I]esquadriando e, montando com exatidão para formar o conjunto final.,
+	      facear: Neste Tutorial, através dos passos de alisamentode um objeto e aplicando  o “AutoSmooth ” você  consegue rapidamente e facilmentealisar e I]facear polígonos num mesmo objeto.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2848' = “Tornar quadrado”
+	    {facear: : Estas barras foram soldadas nas chapas verticais que I]facearam o elemento de pilar.,}
+Chave: FACEAR
+ILI: 00140025
+
+Sense 2
+{00140025} <verb.change> square, square up -- (make square; "Square the circle"; "square the wood with a file")
+       => {00137090} <verb.change> shape, form1 -- (give a shape or form to; "shape the dough")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0766
+
+DADO O SYNSET:
+
+S='Glosa766'
+{bedelhar: x,
+cavaquear: Entretanto, o Freitas a sacudir-lhe a manga do fraque, ia confessando que estavam em vazante de divertimentos; que a sua distração única era [cavaquear um bocado com os amigos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa766' = “conversar sem compromisso e de modo amigável”
+{cavaquear: Ao chegar a vez do Faisca, este. em vez de dinheiro, lançou-lhe a ponta do cigarro; o matuto, como de costume, I]cavaqueou com a pilhéria e gritou zangado.,}
+Chave: CAVAQUEAR <verb.communication>
+ILI: 01005652
+
+Sense 1
+{01005652} <verb.communication> shmooze, shmoose, schmooze, schmoose, jawbone -- (talk idly or casually and in a friendly way)
+       => {01005204} <verb.communication> chew the fat, shoot the breeze, chat, confabulate, confab, chitchat, chatter1, chaffer, natter, gossip1, jaw, claver, visit -- (talk socially without exchanging too much information; "the men were sitting in the cafe and shooting the breeze")
+           => {00932753} <verb.communication> converse, discourse1 -- (carry on a conversation)
+               => {00930524} <verb.communication> talk1, speak1 -- (exchange thoughts; talk with; "We often talk business"; "Actions talk louder than words")
+                   => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                       => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                           => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

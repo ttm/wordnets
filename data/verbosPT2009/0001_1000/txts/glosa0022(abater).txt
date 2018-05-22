@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0022
+
+DADO O SYNSET:
+
+S='Glosa22'
+{abater: {Infelizmente não houve tempo, a doença o I]abateu, mas com toda certeza o Sr. Décio iria nos propiciar um excelente depoimento.,
+acamar: Diante reconhecimento e da fama vindos de todo o mundo, uma estranha doença o I]acamou, devorando seu corpo aos poucos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa22' = “enfraquecer ou destruir espiritual e mentalmente”
+{abater: Infelizmente não houve tempo, a doença o I]abateu, mas com toda certeza o Sr. Décio iria nos propiciar um excelente depoimento.,
+acamar: Diante reconhecimento e da fama vindos de todo o mundo, uma estranha doença o I]acamou, devorando seu corpo aos poucos.,}
+Chave: ABATER <verb.body>
+ILI: 00029724 
+
+Sense 59
+{00029724} <verb.body> break10 -- (weaken or destroy in spirit or body; "His resistance was broken"; "a man broken by the terrible experience of near-death")
+       => {00217329} <verb.change> weaken1 -- (lessen the strength of; "The fever weakened his body")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

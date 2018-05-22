@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA1551
+
+DADO O SYNSET:
+
+S='Glosa1551'
+{desterrar-se: Tudo o obrigou a I]desterrar-se, indo viver sem destino para o Alentejo. ,
+ emigrar: No Peru, interessados em [emigrar para o Japão têm se submetido a intervenções cirúrgicas para tornar os olhos puxados. ,
+ migrar: Fugindo do jugo egípcio, os hebreus [migraram para Canaã, onde trataram de difundir a crença em um só Deus .,}
+	  
+A='Glosa1863'
+{entrar, imigrar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1551' = “deixar o país de residência para ir a outro”
+{desterrar-se: O tenente-coronel português I]desterrou-se para Buenos Aires.,
+ emigrar: No Peru, interessados em [emigrar para o Japão têm se submetido a intervenções cirúrgicas para tornar os olhos puxados. ,
+ migrar: Fugindo do jugo egípcio, os hebreus [migraram para Canaã, onde trataram de difundir a crença em um só Deus.,}
+	  
+A='Glosa1863'
+{entrar, imigrar}
+Chave: EMIGRAR <verb.change>
+ILI: 00404020
+
+Sense 1
+{00404020} <verb.change> emigrate -- (leave one's country of residence for a new one; "Many people had to emigrate during the Nazi period")
+       => {01802973} <verb.motion> migrate, transmigrate -- (move from one country or region to another and settle there; "Many Germans migrated to South America in the mid-19th century"; "This tribe transmigrated many times over the centuries")
+           => {01801953} <verb.motion> move2 -- (change residence, affiliation, or place of employment; "We moved from Idaho to Nebraska"; "The basketball player moved from one team to another")

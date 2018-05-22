@@ -1,0 +1,46 @@
+ANÁLISE DA GLOSA2736
+
+DADO O SYNSET:
+
+S='Glosa2736'
+	    {atrasar: Os fornecedores habituais foram alertados de que as concorrências estavam em andamento, mas pressionaram o Ministério da Saúde a [atrasar o início oficial do processo enqunato não havia decisão sobre as acusações contra Peres.,
+	      recuar: Segundo o embaixador Amaral, se os senadores estiverem dispostos a apurar todas as irregularidades, terão que [recuar no tempo e investigar os governos anteriores, não se limitando a 1995.,
+	      refugir: x,
+	      retrair: No mercado de ações, o feriado hoje em São Paulo [retraiu os negócios.,
+	      retrasar: x,
+	      retroceder: Em razão de a maioria dos atuais integrantes das Forças Armadas ainda não ter nascido naquela época, impõe-se [retroceder algumas páginas da história recente de nosso País, para configurar o cenário no qual a Revolução foi deflagrada.,
+	      retrogradar: Pode o homem I]retrogradar para o estado de natureza?,
+	      retrosseguir: O tempo não I]retrossegue  com a presença visível. ,
+	      retrotrair: Se havia alguém que representasse intelectual e conscientemente o Brasil, era ele naquela hora, indicando sobretudo a convergência racial, a convergência intelectual que nos faz I]retrotrair até Tobias Barreto na hora do seu concurso no Recife.,}
+
+	  A='Glosa2098'
+	    {adiantar: x,
+	     andar: O Universo HQ conversou com Marcelo de Andrade, para saber como I]andam as negociações.,
+	     avançar: As obras não H]avançam por falta de verbas.,
+	     caminhar: Quem olha para o seu interior, fácil enxergar que as obras I]caminham à passos de lesmas grávidas. ,
+	     evoluir: O projeto tem, à medida em que I]evoluem as obras, agregado novas parcerias.,
+	     ir: Como I]vão as obras por cá?,
+	     marchar: x,
+	     progredir: No leque de situações que as obras desse período apresentam e que I]progridem desde uma aparência discreta até a aspereza, nota-se permanentemente o desejo de superar o confinamento de seus limites fisicos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2736' = “Ficar pior, voltar para uma condição anterior ou pior.”
+	    {atrasar: Pela primeira vez na história temos a chance de nos fecundar com um “americanismo” que tempere com seu timbre protestante um pouco da herança personalista e ibérica que nos [atrasou durante tanto tempo.,
+	      recuar: Em 93 o consumo de sorvete no país [recuou, levando os dois grupos a realizarem mudanças internas e de reorganização societária.,
+	      retrair: No mercado de ações, o feriado hoje em São Paulo [retraiu os negócios.,
+	      retroceder: o processo de integração racial nas escolas americanas emperrou e até [retrocedeu.,
+	      retrogradar: Foi assim que a ordem política I]retrogradou, no Brasil, a partir de dezembro de 1968.,
+	      retrotrair: Tendo em vista que tal diploma I]retrotraiu seus efeitos à data da edição da medida provisória.,}
+
+	  A='Glosa2098'
+	    {andar, avançar, caminhar, evoluir, ir, progredir}
+
+Chave: RETRAIR <verb.change>
+ILI: 00240990
+
+Sense 5
+{00240990} <verb.change> regress, retrograde, retrogress -- (get worse; fall back to a previous or worse condition)
+       => {00196646} <verb.change> worsen, decline1 -- (grow worse; "Conditions in the slum worsened")
+           => {00140715} <verb.change> change state, turn4 -- (undergo a transformation or a change of position or action; "We turned from Socialism to Capitalism"; "The people turned against the President when he stole the election")
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night") 

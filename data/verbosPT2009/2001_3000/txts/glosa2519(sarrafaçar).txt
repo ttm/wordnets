@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA2519
+
+DADO O SYNSET:
+
+S='Glosa2519'
+	    {sarrafaçar: O que matou nenhuma coisa come dele, antes se vai logo deitar na rede, e se faz todo I]sarrafaçar, sangrando, tendo por certo que morrerá.,
+	      sarrafar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2519' = “cortar com instrumento cego”
+	    {sarrafaçar: O que matou nenhuma coisa come dele, antes se vai logo deitar na rede, e se faz todo I]sarrafaçar, sangrando, tendo por certo que morrerá.,}
+
+Chave: SARRAFAÇAR <verb.contact>
+ILI: EQ_HAS_HYPERONYM - 01509511
+
+Sense 1
+{01509511} <verb.contact> cut -- (separate with or as if with an instrument; "Cut the rope")
+       => {01513899} <verb.contact> separate1, disunite, divide1, part1 -- (force, take, or pull apart; "He separated the fighting children"; "Moses parted the Red Sea")
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")
+          Also See-> {01510961} <verb.contact> cut away#2; {01511773} <verb.contact> cut out2#2; {01217895} <verb.contact> cut up#1; {01270650} <verb.contact> cut into1#1; {01221387} <verb.contact> cut off2#5; {01506869} <verb.contact> cut out1#4

@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0254
+
+DADO O SYNSET:
+
+S='Glosa254'
+{abandonar: Por que os srs. [abandonaram a filha?,
+deixar: No último dia, eles me [deixaram sozinho.,
+entregar: DEVIANT,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa254' = “deixar para trás ou desamparado”
+{abandonar: Por que os srs. [abandonaram a filha?,
+deixar: No último dia, eles me [deixaram sozinho.,}
+Chave: ABANDONAR <verb.possession>
+ILI: 02163637
+
+Sense 1
+{02163637} <verb.possession> abandon -- (forsake, leave behind; "We abandoned the old car in the empty parking lot")
+       => {02158552} <verb.possession> discard, fling2, toss, toss out, toss away, chuck out, cast aside, dispose, throw out, cast out, throw away, cast away, put away -- (throw or cast away; "Put away your worries")
+           => {02160141} <verb.possession> get rid of1, remove -- (dispose of; "Get rid of these old shoes!"; "The company got rid of all the dead wood")

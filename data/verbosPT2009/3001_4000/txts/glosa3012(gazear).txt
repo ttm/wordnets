@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA3012
+
+DADO O SYNSET:
+
+S='Glosa3012'
+	    {
+	      gazear2: Seu lábio [gazeou um canto.,
+	      gazilar: x,
+	      gazular: x,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3012' = “fazer som agudo, como pássaros”
+	    {gazear2: Seu lábio [gazeou um canto.,}
+Chave: GAZEAR <verb.communication>
+ILI: 01019893
+
+Sense 1
+{01019893} <verb.communication> chitter, twitter -- (make high-pitched sounds, as of birds)
+       => {01018712} <verb.communication> peep, twirp, cheep, chirp, chirrup -- (make high-pitched sounds; of birds)
+           => {00951670} <verb.communication> utter2, emit, let out2, let loose -- (express audibly; utter sounds (not necessarily words); "She let out a big heavy sigh"; "He uttered strange sounds that nobody could understand") 

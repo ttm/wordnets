@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA1564
+
+DADO O SYNSET:
+
+S='Glosa1564'
+{destrocar: Os dois acidentalmente acabam trocando seus celulares, e o garoto sugere um encontro para que eles possam I]destrocar os aparelhos.,}
+	  
+A='Glosa2266'
+{barganhar, berganhar, negociar, permutar, trocar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1564' = “cancelar, anular ou desfazer a troca”
+{destrocar: Este sistema de destroca cria um circulo virtuoso no qual todas as empresas, grandes e pequenas podem ir aos centros de destroca, que são independentes, e resgatar e I]destrocar seus botijões disponíveis.}
+	  
+A='Glosa2266'
+{barganhar, berganhar, negociar, permutar, trocar}
+Chave: DESTROCAR <verb.possession>
+ILI: EQ_HAS_HYPERONYM – 01477750
+
+Sense 1
+{01477750} <verb.contact> undo -- (cancel, annul, or reverse an action or its effect; "I wish I could undo my actions")
+       => {00133458} <verb.change> change by reversal, turn, reverse -- (change to the contrary; "The trend was reversed"; "the tides turned against him"; "public opinion turned when it was revealed that the president had an affair with a White House intern")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

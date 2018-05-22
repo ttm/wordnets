@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA2271
+
+DADO O SYNSET:
+
+S='Glosa2271'
+	    {prevalecer: Desta vez [prevaleceram o bom senso e a perspectiva democrática.,
+	      triunfar: Acho que ele tem grandes méritos como líder sindical, ele [triunfou.,
+	      vencer: Não existe disputa de primeiro ou segundo lugar, os dois países [venceram., }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2271' = “comprovar superior a outros aspectos”
+	    {prevalecer: Desta vez [prevaleceram o bom senso e a perspectiva democrática.,
+	      triunfar: Acho que ele tem grandes méritos como líder sindical, ele [triunfou.,
+	      vencer: Não existe disputa de primeiro ou segundo lugar, os dois países [venceram.,}
+
+Chave: VENCER <verb.competition>
+ILI: 01066683
+
+Sense 1
+{01066683} <verb.competition> prevail, triumph -- (prove superior; "The champion prevailed, though it was a hard fight")
+       => {01065094} <verb.competition> win -- (be the winner in a contest or competition; be victorious; "He won the Gold Medal in skating"; "Our home team won"; "Win the game") 

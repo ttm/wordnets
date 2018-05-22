@@ -1,0 +1,65 @@
+aANÁLISE DA GLOSA4117
+
+DADO O SYNSET:
+
+S='Glosa4117'
+{altercar: H]Altercou com o comerciante.,
+aporfiar: x,
+arengar: Rivais, H]arengavam o tempo todo.,
+arenguear: x,
+argüir: Ele [argüiu ferozmente com todos no congresso.,
+argumentar: H]Argumentaram durante horas e não houve conciliação.,
+batalhar: Jamais I]batalharam por seus quinze segundos de fama antes.,
+brigar: Agradecemos também a todos os estudantes que I]brigaram por esse direito de resposta.,
+certar: x,
+contender: Ficavam horas a H]contender sobre política.,
+contestar: A elite fazendeira do Rio Grande do Sul I]contestava a centralização política.,
+debater: Secretário [debateu na Assembléia Legislativa os programas que vem desenvolvendo na Educação.,
+digladiar: A Ciência desde a sua instituição oficial I]digladiou com essa verdade.,
+discutir: O grupo I]discutiu sobre os anexos que farão parte integrante da cartilha.,
+disputar: Ele costuma H]disputar até convencer os adversários.,
+gladiar: x,
+lutar: Ele é um sujeito que nunca I]lutou por uma causa.,
+pendeciar: H]Pendenciou com o patrão ao ser demitido.,
+pleitear: Não resolveu o assunto antes de I]pleiteá-lo por horas.,
+porfiar: H]Porfiaram muito e não chegaram a qualquer conclusão.,
+pugnar: Sempre I]pugnou pelos direitos da cidadania.,
+querelar: I]Querelou dele mas acomodou-se com quatro moedas que lhe deu.,
+questionar: Vive a H]questionar coisas sem importância com os vizinhos.,
+renhir: Os mais fortes H]renhiam o amor da garota.,
+rezingar: Com fome, todos H]rezingam, e ninguém tem razão.,
+rusgar: Aquele homem A]rusga a qualquer pretexto.,
+testilhar: x,
+tratar: Viviam sob o mesmo teto, mas I]tratavam sempre que se encontravam..,
+triscar: Esse aí H]trisca por dez-réis de mel coado.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4117' = “ter uma discussão sobre algo”
+{altercar: H]Altercou com o comerciante.,
+arengar: Rivais, H]arengavam o tempo todo.,
+argüir: Ele [argüiu ferozmente com todos no congresso.,
+argumentar: H]Argumentaram durante horas e não houve conciliação.,
+batalhar: Wang I]batalhou com sucesso contra seu sogro pelo multi-bilionário espólio de seu marido Teddy Wang.,
+brigar: Mantido processo contra juíza que I]brigou com vizinhas.,
+contestar: Não M]contesto, pois isso nada resolve.,
+debater: Depois, [debateu com Leonel Brizola, que não estava em seus melhores dias de retórica.,
+digladiar: Mas não só contra o governador I]digladiava Marcos Teixeira.,
+discutir: Só no ano passado, Telê [discutiu com árbitros, dirigentes, torcedores, outros treinadores, imprensa, e até com membros da própria família.,
+disputar: Ele costuma H]disputar até convencer os adversários.,
+pleitear: Não resolveu o assunto antes de I]pleiteá-lo por horas.,
+porfiar: H]Porfiaram muito e não chegaram a qualquer conclusão.,
+pugnar: A]Pugnou com o vizinho, sem razão.,
+querelar: I]Querelou dele mas acomodou-se com quatro moedas que lhe deu.,
+tratar: Viviam sob o mesmo teto, mas I]tratavam sempre que se encontravam..,}
+Chave: DISCUTIR <verb.communication>
+ILI: 00747871
+
+Sense 4
+{00747871} <verb.communication> argue, contend1, debate1, fence -- (have an argument about something)
+       => {00932753} <verb.communication> converse, discourse1 -- (carry on a conversation)
+           => {00930524} <verb.communication> talk1, speak1 -- (exchange thoughts; talk with; "We often talk business"; "Actions talk louder than words")
+               => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                   => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                       => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")
+

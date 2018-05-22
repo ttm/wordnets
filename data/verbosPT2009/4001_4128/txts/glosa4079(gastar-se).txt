@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA4079
+
+DADO O SYNSET:
+
+S='Glosa4079'
+{buir-se: As mangas da camisa acabaram por H]buir-se.,
+desgastar-se: É a peça de uma máquina que se I]desgasta com o uso e precisa ser trocada.,
+	gastar-se: De tanto usar, não tardou o aparelho a A]gastar-se. ,
+puir-se: A roupa rasgou-se, o tecido I]puiu-se. ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4079' = “deteriorar-se por uso ou tensão”
+{buir-se: As mangas da camisa acabaram por H]buir-se.,
+desgastar-se: É a peça de uma máquina que se I]desgasta com o uso e precisa ser trocada.,
+	gastar-se: De tanto usar, não tardou o aparelho a A]gastar-se. ,
+puir-se: A roupa rasgou-se, o tecido I]puiu-se. ,}
+Chave: GASTAR-SE <verb.change>
+ILI: 00456287
+
+Sense 3
+{00456287} <verb.change> wear, wear off, wear out, wear thin -- (deteriorate through use or stress; "The constant friction wore out the cloth")
+       => {00201139} <verb.change> deteriorate -- (become worse or disintegrate; "His mind deteriorated")
+           => {00201478} <verb.change> decay, crumble13, delapidate -- (fall into decay or ruin; "The unoccupied house started to decay")
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

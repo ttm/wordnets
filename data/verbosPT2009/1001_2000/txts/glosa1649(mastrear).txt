@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA1649
+
+DADO O SYNSET:
+
+S='Glosa1649'
+{emastrar: x,
+ emastrear: x,
+ mastrear: Uma pequena vela de ré ainda chegou a ser I]mastreada numa tentativa desesperada de manter a embarcação navegando. ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1649' = “colocar mastro”
+{mastrear: I]Mastreia teu barco, que o vento pode chegar!}
+Chave: MASTREAR<verb.possession 
+ILI: EQ_HAS_HYPERONYM - 02259805
+
+Sense 1
+{02259805} <verb.possession> supply, provide, render2, furnish -- (provide or furnish with; "We provided the room with an electrical heater")
+       => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+           => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children")

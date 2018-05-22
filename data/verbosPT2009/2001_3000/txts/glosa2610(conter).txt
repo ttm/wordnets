@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA2610
+
+DADO O SYNSET:
+
+S='Glosa2610'
+	    {conter: Então José, já não se podendo I]conter diante de todos os assistentes, exclamou: "Fazei sair todo o mundo".,
+	      deter: A Scotland Yard conseguiu identificar um dos assaltantes uma semana depois, mas levou dois meses a deter sete operacionais.,
+	      esbarrar: Parece evidente que qualquer reforma [esbarrará sempre com o problema da lei do arrendamento.,
+	      reter: Para que I]reter um aluno? # I]Reter o ódio, ou liberar perdão?,
+	      suster: Todas essas razões deviam I]suster o fogo da artilharia legalista diante da terceira cidade da América do Sul, mas todas elas desapareceram.,
+	      ter: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2610' = “Manter sob controle.”
+	    {conter: Não [conteve a curiosidade e ligou para o laboratório.,
+	      deter: A custo A]deteve o riso.,
+	      reter: I]Reter o ódio, ou liberar perdão?,
+	      suster: Afinal I]susteve o riso, e até arrependeu-se dele.,}
+
+Chave: CONTER <verb.social>
+ILI: 02349665
+
+Sense 2
+{02349665} <verb.social> restrain1, suppress3, keep, keep back, hold back -- (keep under control; keep in check; "suppress a smile"; "Keep your temper"; "keep your cool")
+       => {02377053} <verb.social> prevent, keep1 -- (prevent from doing something or being in a certain state; "We must prevent the cancer from spreading"; "His snoring kept me from falling asleep"; "Keep the child from eating the marbles") 

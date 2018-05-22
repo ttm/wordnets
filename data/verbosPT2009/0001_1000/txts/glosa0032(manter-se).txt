@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0032
+
+DADO O SYNSET:
+
+S='Glosa32'
+{manter-se: Além da profunda fraqueza muscular que impede, muitas vezes, o indivíduo de [manter-se em pé sozinho, uma pessoa com beribéri apresenta inflamações generalizadas de nervos periféricos. ,
+sustentar-se: Saiba que os cavalos podem dormir em pé, e até possuem ligamentos especiais nos membros posteriores, que os permite I]sustentar-se enquanto dormem.,
+suster-se: Mal podendo I]suster-se em pé, diz.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa32' = “manter(-se) em um certo estado, posição, ou atividade”
+{manter-se: Além da profunda fraqueza muscular que impede, muitas vezes, o indivíduo de [manter-se em pé sozinho, uma pessoa com beribéri apresenta inflamações generalizadas de nervos periféricos. ,
+sustentar-se: Saiba que os cavalos podem dormir em pé, e até possuem ligamentos especiais nos membros posteriores, que os permite I]sustentar-se enquanto dormem.,
+suster-se: O morro vai cair, cai fatalmente, ou o morro pode não cair, pode I]suster-se, pode ser escorado lá em cima?,}
+Chave: MANTER-SE <verb.stative>
+ILI: 02600965
+
+Sense 1
+{02600965} <verb.stative> keep, maintain, hold -- (keep in a certain state, position, or activity; e.g., "keep clean"; "hold in place"; "She always held herself as a lady"; "The students keep me on my toes")
+          Also See-> {02421834} <verb.social> keep in#1; {02375870} <verb.social> keep out#1; {01153560} <verb.consumption> keep off#1; {02598768} <verb.stative> keep up#2; {00785428} <verb.communication> keep off#2; {00228307} <verb.change> keep down#1; {00482407} <verb.change> keep apart#1; {01079026} <verb.competition> keep up#1  

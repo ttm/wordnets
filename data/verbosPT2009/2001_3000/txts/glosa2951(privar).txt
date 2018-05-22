@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA2951
+
+DADO O SYNSET:
+
+S='Glosa2951'
+	    {destituir: Isso é I]destituir o outro da sua liberdade de pensar e considerar.,
+	      fraudar: O destino A]fraudou-a da alegria de rever os pais.,
+	      privar: Nietzsche passou a ser atormentado por crises periódicas de uma doença que nunca mais o abandonou e que o fulminou com uma paralisia que o [privou das luzes da razão.,
+	      tolher: Reaprender a vida, sem preconceitos e tabus que, ao longo dos séculos, cercearam a nossa liberdade corporal e I]tolheram a espontaneidade.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2951' = “Impedir de ter, manter ou obter”
+	    {destituir: Cremos na pecaminosidade do homem, que o I]destituiu da glória de Deus.,
+	      privar: Nietzsche passou a ser atormentado por crises periódicas de uma doença que nunca mais o abandonou e que o fulminou com uma paralisia que o [privou das luzes da razão.,
+	      tolher: Isto é, se as mesmas poderosas forças da repressão já não lhe I]tolheram novamente a liberdade de expressão.,}
+Chave: PRIVAR <verb.possession>
+ILI: 02246094
+
+Sense 2
+{02246094} <verb.possession> deprive -- (keep from having, keeping, or obtaining)
+       => {02149972} <verb.possession> withhold, keep back -- (hold back; refuse to hand over or share; "The father is withholding the allowance until the son cleans his room")
+           => {02149107} <verb.possession> deny, refuse1 -- (refuse to let have; "She denies me every pleasure"; "he denies her her weekly allowance")
+               => {02138940} <verb.possession> keep, hold on -- (retain possession of; "Can I keep my old stuffed animals?"; "She kept her maiden name after she married")
+                   => {02139918} <verb.possession> have, have got, hold -- (have or possess, either in a concrete or an abstract sense; "She has $1,000 in the bank"; "He has got two beautiful daughters"; "She holds a Master's degree from Harvard") 

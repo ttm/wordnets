@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA3046
+
+DADO O SYNSET:
+
+S='Glosa3046'
+	    {apanhar: Depois de tanto [apanhar, a filha mais velha fugiu e se empregou como doméstica.,
+	      gramar: H]Gramou umas cachaporradas na cabeça., }
+
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3046'=”experienciar ou submeter-se a uma surra”
+	     {apanhar: Ele disse à polícia que o garoto [apanhou porque teria pego dinheiro seu sem autorização.,}
+Chave: APANHAR <verb.perception>
+ILI: EQ_HAS_HYPERONYM - 02047959
+
+Sense 15
+{02047959} <verb.perception> take -- (experience or feel or submit to; "Take a test"; "Take the plunge")
+       => {02047097} <verb.perception> experience, receive3, have6, get, undergo -- (of mental or physical states or experiences; "get an idea"; "experience vertigo"; "get nauseous"; "undergo a strange sensation"; "The chemical undergoes a sudden change"; "The fluid undergoes shear"; "receive injuries"; "have a feeling")
+

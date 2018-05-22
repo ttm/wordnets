@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA1896
+
+DADO O SYNSET:
+
+S='Glosa1897'
+{carnear: Lembrei do meu tempo no sítio, onde vovó me ensinou a carnear caça selvagem. ,
+ charquear: Estes lá paravam para I]charquear carne, ou seja, salgá-la e secá-la ao sol. ,
+ enxercar: H]Enxercar bois.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1897' = “abater [animal], retirando suas carnes para secar”
+{carnear: Lembrei do meu tempo no sítio, onde vovó me ensinou a I]carnear caça selvagem. ,
+ charquear: Estes lá paravam para I]charquear carne, ou seja, salgá-la e secá-la ao sol.,}
+Chave: CARNEAR <verb.contact>
+ILI: EQ_HAS_HYPERONYM – 01283599 – “abater (animais) geralmente para consumo na alimentação”
+
+Sense 1
+{01283599} <verb.contact> butcher, slaughter -- (kill (animals) usually for food consumption; "They slaughtered their only goat to survive the winter")
+       => {01284688} <verb.contact> kill -- (cause to die; put to death, usually intentionally or knowingly; "This man killed several people when he tried to rob a bank"; "The farmer killed a pig for the holidays")

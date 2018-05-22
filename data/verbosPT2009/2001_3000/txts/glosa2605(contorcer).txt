@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA2605
+
+DADO O SYNSET:
+
+S='Glosa2605'
+	    {contorcer: Da sua falta, as patas malditas cravadas na minha cabeça: eu vou I]contorcer o pescoço e engoli-las.,
+	      dobrar: Depois de arrumar-se nessa posição, basta I]dobrar o corpo para baixo, tocando o chão com as pontas dos dedos das mãos.,
+	      quebrar: Num movimento ágil de gato, Petronilho I]quebra o corpo e esquiva-se do golpe.,
+	      retorcer: O estomago I]retorce ea boca seca.,
+	      torcer: O cavaleiro [torceu a cabeça, concheando a mão atrás da orelha.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2605' = “Dobrar uma articulação.”
+	    {contorcer: O pequeno misto de primata e quiróptero I]contorceu o corpo para frente.,
+	      dobrar: Depois de arrumar-se nessa posição, basta I]dobrar o corpo para baixo, tocando o chão com as pontas dos dedos das mãos.,
+	      quebrar: Num movimento ágil de gato, Petronilho I]quebra o corpo e esquiva-se do golpe.,
+	      retorcer: É uma escultura em bronze em que uma figura fina e brilhante [retorce as costas para tentar tocar os pés com as mãos.,
+	      torcer: O cavaleiro [torceu a cabeça, concheando a mão atrás da orelha.,}
+
+Chave: CONTORCER <verb.contact>
+ILI: 01242258
+
+Sense 6
+{01242258} <verb.contact> flex3, bend8 -- (bend a joint; "flex your wrists"; "bend your knees")
+       => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right") 

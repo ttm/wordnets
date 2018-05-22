@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA3257
+
+DADO O SYNSET:
+
+S='Glosa3257'
+	    {
+	      acompanhar: A pessoa contra quem foi formulada a queixa pode assistir a declaração das testemunhas, fazendo-se [acompanhar por um advogado. ,
+	      conduzir: Era-lhe vedado [conduzir os vivos ou os mortos insepultos.,
+	      escoltar: Depois de [escoltar Fanny e Jaime Lerner pelos corredores do Plaza de Nova York, Fernando Lima engata semana que vem temporada no Brasil. ,
+	      ladear: Nesse momento, um dos homens que o I]ladeavam passam a revistá-lo e a Brunicik, encontrando a arma com que Tadeusz havia ameaçado Brunick na noite anterior.,
+	      seguir: Agora descubro que, esta viagem concluída, sem saber desde o Sertão, meu próprio enterro eu [seguia; só que devo ter chegado adiantado de uns dias. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3257' = “acompanhar como uma escolta”
+	     {acompanhar: O índio fechou de novo a porta e [acompanhou sua senhora. ,
+	      conduzir: Manuel Firmino dos Santos [conduziu os policiais do DAS até o cativeiro.,
+	      escoltar: No dia 15 de setembro, um esquadrão da cavalaria da Guarda Imperial I]escoltou Napoleão rumo ao Kremlin em meio a ruas fantasmas. ,
+	      ladear: O governador, no entanto, I]ladeou o novo arcebispo durante toda a solenidade.,
+	      seguir: Itaquê I]seguiu o estrangeiro até o terreiro; em torno dele se reuniram os abarés, os moacaras e os guerreiros para assistirem à partida. ,}
+Chave: ACOMPANHAR <verb.motion>
+ILI: 01967873
+
+Sense 1
+{01967873} <verb.motion> escort -- (accompany as an escort; "She asked her older brother to escort her to the ball")
+       => {01967594} <verb.motion> accompany -- (go or travel along with; "The nurse accompanied the old lady everywhere")
+           => {01782203} <verb.motion> travel, go, move3, locomote -- (change location; move, travel, or proceed; "How fast does your new car go?"; "We travelled from Rome to Naples by bus"; "The policemen went from door to door looking for the suspect"; "The soldiers moved towards the city in an attempt to take it before night fell")

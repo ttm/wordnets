@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA0940
+
+DADO O SYNSET:
+
+S='Glosa940'
+{arengar: De uns tempos para cá, autoridades governamentais desandaram a gesticular e I]arengar como se fossem militantes de uma ONG.,
+arenguear: x,
+concionar: Quando ao chamado acudiram e todos se achavam reunidos, alça-se Aquiles, de rápidos pés, I]concionando desta arte.,
+discursar: A idéia é participar de encontros com lideranças locais ou do lançamento de candidaturas onde ele possa [discursar em eventos previamente programados.,
+falar: Antes de Lula, [falaram os candidatos ao Senado João Hermann (PPS) e Luiza Erundina PT).,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa940' = “falar ou argumentar formalmente sobre um tópico ou assunto”
+{arengar: De uns tempos para cá, autoridades governamentais desandaram a gesticular e I]arengar como se fossem militantes de uma ONG.,
+concionar: Quando ao chamado acudiram e todos se achavam reunidos, alça-se Aquiles, de rápidos pés, I]concionando desta arte.,
+discursar: A idéia é participar de encontros com lideranças locais ou do lançamento de candidaturas onde ele possa [discursar em eventos previamente programados.,
+falar: Antes de Lula, [falaram os candidatos ao Senado João Hermann (PPS) e Luiza Erundina PT).}
+Chave: DISCURSAR <verb.communication>
+ILI: 00788309
+
+Sense 3
+{00788309} <verb.communication> discourse, dissertate -- (talk or hold forth formally about a topic; "The speaker dissertated about the social politics in 18th century England")
+       => {00930524} <verb.communication> talk1, speak1 -- (exchange thoughts; talk with; "We often talk business"; "Actions talk louder than words")
+           => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+               => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

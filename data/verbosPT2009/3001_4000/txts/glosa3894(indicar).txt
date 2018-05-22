@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA3894
+
+DADO O SYNSET:
+
+S='Glosa3894'
+    	{apontar: Muito menos satisfaz o [apontar de dedos na direção de quem levou aquela gente à emboscada assassina .,
+      	 dedar: x,
+      	 indicar: Com sorte, um ilhéu pode [indicar o caminho para os tesouros da ilha .,
+      	 indigitar: O porteiro M]indigitou a saída ao visitante. ,
+      	 pontar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3894' = “indicar um local, uma direção, pessoa ou coisa; tanto espacialmente quanto figurativamente”
+    	{apontar: Os navegantes perguntaram à menina em que país estavam, a que rei se obedecia, etc., e esta lhes [aponta o caminho do palácio.,
+      	 indicar: Mas o cativeiro era próximo do sítio de seu pai e foi você quem [indicou o caminho para chegar até lá.,
+      	 indigitar: Wyllys salvou-se do genocídio e I]indigitou o único caminho para a juventude trilhar.}
+Chave: INDICAR <verb.communication>
+ILI: 00893603
+
+Sense 1
+{00893603} <verb.communication> indicate3, point, show1 -- (indicate a place, direction, person, or thing; either spatially or figuratively; "I showed the customer the glove section"; "He pointed to the empty parking space"; "he indicated his opponents")
+       => {00804489} <verb.communication> inform -- (impart knowledge of some fact, state or affairs, or event to; "I informed him of his rights")
+           => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+               => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

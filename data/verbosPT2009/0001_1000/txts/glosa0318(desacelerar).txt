@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA0318
+
+DADO O SYNSET:
+
+S='Glosa318'
+{desacelerar: Seja qual for o valor da constante, a força da gravidade contribui para [desacelerar a expansão do Universo.,}
+A='Glosa3127'
+{acelerar, embalar1, impulsar, impulsionar, propulsionar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa318' = “reduzir a velocidade de”
+{desacelerar: Seja qual for o valor da constante, a força da gravidade contribui para [desacelerar a expansão do Universo.,}
+A='Glosa3127'
+{acelerar, embalar1, impulsar, impulsionar, propulsionar}
+Chave: DESACELERAR <verb.change>
+ILI: 00425924
+
+Sense 2
+{00425924} <verb.change> decelerate1, slow down2 -- (reduce the speed of; "He slowed down the car")
+       => {00164623} <verb.change> modify1, qualify1 -- (add a modifier to a constituent)
+           => {00176022} <verb.change> add -- (make an addition (to); join or combine or unite with others; increase the quality, quantity, zise or scope of; "We added two students to that dorm room"; "She added a personal note to her letter"; "Add insult to injury"; "Add some extra plates to the dinner table")
+               => {00150804} <verb.change> increase -- (become bigger or greater in amount; "The amount of work increased")
+                   => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+                       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

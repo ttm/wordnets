@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA3374
+
+DADO O SYNSET:
+
+S='Glosa3374'
+	    {
+	      maquiar-se: Elas freqüentemente, direcionam suas energias em vestir-se bem, I]maquiar-se, enfim, há todo um esforço em ficar bonita, atraente.,
+	      maquilar-se: Não é permitido pentear-se, I]maquilar-se ou perfumar-se em sala durante a aula.,
+	      pintar-se: Arruma e desarruma os cabelos, I]pinta-se, às vezes até exageradamente, procurando encontrar sua nova identidade, ser mulher.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3374' = “aplicar maquiagem ou cosméticos para parecer mais bonito”
+	     {maquiar-se: Com a ajuda de amigos vestiu-se de vermelho e dourado, I]maquiou-se e penteou-se meticulosamente.,
+	      maquilar-se: Entrou no banho, se I]maquilou e se vestiu.,
+	      pintar-se: Arruma e desarruma os cabelos, I]pinta-se, às vezes até exageradamente, procurando encontrar sua nova identidade, ser mulher.,}
+Chave: MAQUIAR-SE <verb.body>
+ILI: EQ_NEAR_SYNONYM - 00039683
+
+Sense 8
+{00039683} <verb.body> make up -- (apply make-up or cosmetics to one's face to appear prettier; "She makes herself up every morning")
+       => {00039108} <verb.body> groom, neaten -- (care for one's external appearance; "He is always well-groomed")
+           => {00284091} <verb.change> beautify, embellish, prettify -- (make more beautiful)
+               => {00198579} <verb.change> better1, improve1, amend, ameliorate1, meliorate1 -- (to make better; "The editor improved the manuscript with his changes")
+                   => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

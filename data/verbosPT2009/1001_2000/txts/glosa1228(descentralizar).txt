@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA1228
+
+DADO O SYNSET:
+
+S='Glosa1228'
+{decentralizar: Ministro quer I]decentralizar a produção científico-tecnológica,
+ descentralizar: O governo precisa [descentralizar suas compras para estimular a atividade econômica local.,
+ descentrar: Este sistema tende a I]descentrar o poder das estruturas de produção de bens e de serviços para estruturas produtoras de signos.,
+ desconcentrar: Vamos democratizar essas estruturas; vamos descentralizar e I]desconcentrar o poder.,}
+	  
+A='Glosa1046'
+{centralizar, centrar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1228' = “tornar menos central” 
+{decentralizar: A coroa I]decentralizou a administração em quatro vice-reinos.,
+ descentralizar: O direito de voto aos clubes [descentraliza o poder e enfraquece as federações estaduais.,
+ descentrar: Clausen I]descentrou a questão da pobreza, mas manteve a centralidade do tema segurança.,
+ desconcentrar: Vamos democratizar essas estruturas; vamos descentralizar e I]desconcentrar o poder.,}
+A='Glosa1046'
+{centralizar, centrar}
+Chave: DESCENTRALIZAR <verb.change>
+ILI: 00393426
+
+Sense 1
+{00393426} <verb.change> decentralize, deconcentrate, decentralise -- (make less central; "After the revolution, food distribution was decentralized")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

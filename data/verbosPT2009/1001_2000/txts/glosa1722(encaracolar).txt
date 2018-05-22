@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA1722
+
+DADO O SYNSET:
+
+S='Glosa1722'
+{encaracolar: A hera A]encaracola-se no muro.,
+ espiralar: O caule H]espiralou(-se).,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1722' = “formar um espiral, curva ou carapinha”
+{encaracolar: Aos 17 o cabelo de Marina I]encaracolou “de uma hora pra outra” e a diferença entre as pontas e a raiz ficou tão grande que ela teve que cortar bem curtinho.,
+ espiralar: A fumaça que saía da boca de Camus I]espiralou no ar.,}
+Chave: ENCARACOLAR <verb.change>
+ILI: 00350945
+
+Sense 1
+{00350945} <verb.change> curl, curve, kink -- (form a curl, curve, or kink; "the cigar smoke curled up at the ceiling")
+       => {00345030} <verb.change> change surface -- (undergo or cause to undergo a change in the surface)
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

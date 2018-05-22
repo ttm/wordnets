@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2865
+
+DADO O SYNSET:
+
+S='Glosa2865'
+	    {encantar: Com tempo ruim, temperatura baixa e até com chuva, a cidade insiste em [encantar olhares mais atentos e sensíveis com composições de beleza natural que violência alguma irá conspurcar.,
+	      fascinar: Lembram também seus grandes olhos, bastante separados um do outro para darem a impressão de envolver e [fascinar para sempre quem os fitasse.,
+	      hipnotizar: Concentrado e de pouco papo, instigou seus pupilos a darem o máximo de si e I]hipnotizou o público por longo tempo.,
+	      seduzir: A derradeira delas desposou aos trinta anos um oficial de marinha, e foi ainda o que reverdeceu as esperanças à amiga solteira, que não pedia tanto, posto que a farda de aspirante foi a primeira cousa que lhe [seduziu os olhos, aos quinze anos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2865' = “Manter encantado(a)”
+	    {encantar: Mas Anna Polikarpova [encantou a platéia, ao lado do Armand Duval de Lloyd Riggins.,
+	      fascinar: Essa região [fascinou inúmeros escritores russos, a partir de Púchkin e Liérmontov no começo do século 19, e inspirou pelo menos uma obra-prima.,
+	      hipnotizar: Concentrado e de pouco papo, instigou seus pupilos a darem o máximo de si e I]hipnotizou o público por longo tempo.,
+	      seduzir: A nova estratégia [seduziu os consumidores chineses.,}
+Chave: FASCINAR <verb.emotion>
+ILI: 01764443
+
+Sense 1
+{01764443} <verb.emotion> enchant, enrapture, transport, enthrall, ravish, enthral, delight2 -- (hold spellbound)
+       => {01762811} <verb.emotion> please, delight -- (give pleasure to or be pleasing to; "These colors please the senses"; "a pleasing sensation")
+           => {01763578} <verb.emotion> satisfy, gratify -- (make happy or satisfied) 

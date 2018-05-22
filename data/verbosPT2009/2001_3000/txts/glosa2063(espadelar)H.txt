@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA2063
+
+DADO O SYNSET:
+	
+S='Glosa2063'
+    	{espadar: x,
+      	 espadelar: Fitoura é um utensílio próprio para I]espadelar as estrigas de linho depois da dechova.,
+      	 estomentar: x,
+      	 tascar: x,
+      	 tasquinhar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2063' = “limpar (o linho) usando espadela”
+    	{espadelar: Saíam todas de braços dados com a cortiça debaixo do braço e a espadela, que era pra I]espadelar o linho na mão.}
+Chave: ESPADELAR <verb.possession>
+ILI: EQ_HAS_HYPERONYM – 02282816
+
+Sense 12
+{02282816} <verb.possession> clear12 -- (clear from impurities, blemishes, pollution, etc.; "clear the water before it can be drunk")
+       => {02282547} <verb.possession> rid, free2, disembarrass -- (relieve from; "Rid the the house of pests")

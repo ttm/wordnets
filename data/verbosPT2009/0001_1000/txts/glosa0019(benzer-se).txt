@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0019
+
+DADO O SYNSET:
+
+S='Glosa19'
+{abençoar-se: Pierre Barthélemy I]abençoou-se e, vestido apenas com uma simplória túnica, lançou-se sobre o braseiro.,
+benzer-se: Estava-se vendo disso todos os dias, depois que a criatura pediu a um padre um pouco de água benta e [benzeu-se com esta em certos lugares.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa19' = “dar benção para”
+{abençoar-se: Vieram ao meu redor para beijar e I]abençoar-se com a santa.,
+benzer-se: Estava-se vendo disso todos os dias, depois que a criatura pediu a um padre um pouco de água benta e [benzeu-se com esta em certos lugares.,}
+Chave: BENZER-SE <verb.communication>
+ILI: 00837684
+
+Sense 1
+{00837684} <verb.communication> bless -- (give a benediction to; "The dying man blessed his son")
+       => {01583752} <verb.creation> raise1, conjure, conjure up, invoke, evoke2, stir, call down, arouse, bring up, put forward, call forth -- (evoke or call forth, with or as if by magic; "raise the specter of unemployment"; "he conjured wild birds in the air"; "stir a disturbance"; "call down the spirits from the mountain")
+           => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

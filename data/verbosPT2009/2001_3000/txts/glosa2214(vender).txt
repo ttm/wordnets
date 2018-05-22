@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2214
+
+DADO O SYNSET:
+
+S='Glosa2214'
+	    {colocar: Ou seja, sua missão é I]colocar as mercadorias ou os serviços certos no lugar e no instante corretos e na condição desejada, ao menor custo possível. # Veio à cidade para A]colocar as mercadorias.,
+	      negociar: O criador baiano [negociaria a égua em dezembro de 92 para o paulista Luiz Eduardo Batalha por US$ 80 mil .,
+	      vender: O reaparecimeno do comércio e, conseqüentemente, das moedas, nas transações comerciais, favoreceu o camponês, uma vez que podia [vender parte de sua produção agrícola nos mercados do feudo ou das cidades .,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2214' = “fazer negócio, vender como meio de vida””
+	    {colocar: Sua missão é I]colocar as mercadorias ou os serviços certos no lugar e no instante corretos e na condição desejada, ao menor custo possível. # Veio à cidade para A]colocar as mercadorias.,
+	      negociar: As concessionárias I]negociaram 90.930 automóveis e 14.916 comerciais leves.,
+	      vender: O reaparecimento do comércio favoreceu o camponês, uma vez que podia [vender parte de sua produção agrícola nos mercados.,}
+
+Chave: VENDER <verb.possession>
+ILI: 02180066
+
+Sense 3
+{02180066} <verb.possession> deal, sell1, trade11 -- (do business; offer for sale as for one's livelihood; "She deals in gold"; "The brothers sell shoes")
+       => {02180875} <verb.possession> transact14 -- (conduct business; "transact with foreign governments")
+           => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+               => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel") 

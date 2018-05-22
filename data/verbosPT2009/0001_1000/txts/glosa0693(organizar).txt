@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0693
+
+DADO O SYNSET:
+
+S='Glosa693'
+{articular: Acusado de [articular operações ilegais com ouro e títulos públicos ele foi, pessoalmente, fazer sua defesa,
+compor: Os empregados eleitores que forem nomeados para [compor as mesas receptoras,
+organizar: A medula é capaz de [organizar respostas específicas denominadas reflexos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa693' = “planejar e dirigir”
+{articular: Acusado de [articular operações ilegais com ouro e títulos públicos ele foi, pessoalmente, fazer sua defesa,
+compor: Os empregados eleitores que forem nomeados para [compor as mesas receptoras,
+organizar: A medula é capaz de [organizar respostas específicas denominadas reflexos.,}
+Chave: ORGANIZAR <verb.cognition>
+ILI: 00686633
+
+Sense 3
+{00686633} <verb.cognition> mastermind, engineer, direct, organize, organise, orchestrate -- (plan and direct (a complex undertaking); "he masterminded the robbery")
+       => {00681336} <verb.cognition> plan -- (make plans for something; "He is planning a trip with his family")
+           => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA0946
+
+DADO O SYNSET:
+
+
+S='Glosa946'
+{dilatar-se: Ao I]dilatar-se, o mercúrio sobe pelo tubo capilar.,
+expandir-se: Se o gás não encontra limites físicos que o contenham, continua a [se expandir indefinidamente.,
+rarefazer-se: Um gozo imenso havia nessa asfixia de perfumes que se condensavam e [se rarefaziam no ar.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa946' = “ficar mais amplo”
+{dilatar-se: A alma I]dilatou-se tanto que não encontra roupa que lhe sirva.,
+expandir-se: Se o gás não encontra limites físicos que o contenham, continua a [se expandir indefinidamente.,
+rarefazer-se: Um gozo imenso havia nessa asfixia de perfumes que se condensavam e [se rarefaziam no ar.,}
+Chave: DILATAR-SE <verb.change>
+ILI: 00295980
+
+Sense 1
+{00295980} <verb.change> dilate1, distend -- (become wider; "His pupils were dilated")
+       => {00293908} <verb.change> widen -- (become broader or wider or more extensive; "The road widened")
+           => {00150804} <verb.change> increase -- (become bigger or greater in amount; "The amount of work increased")
+               => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

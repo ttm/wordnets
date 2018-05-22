@@ -1,0 +1,37 @@
+ANÁLISE DA GLOSA2735
+
+DADO O SYNSET:
+
+  S='Glosa2735'
+	    {adunar-se: A fama voa, as tribos inimigas I]adunam-se, amotinam-se os guerreiros E as bocas dizem: o Timbira é morto!,
+	      ajuntar-se: O grupo que conseguir I]ajuntar-se primeiro vence a dinâmica.,
+	      coadunar-se: x,
+	      concentrar-se: A cidade é o cenário dessa guerra sempre latente não só pelo óbvio de que é nela que os combatentes [se concentram mas também porque é onde os privilégios de uns e a miséria de outros estão à vista num mesmo emblema.,
+	      conglobar-se: Também as nuvens negras I]conglobam-se nos céus!,
+	      conglomerar-se: Quando o êxodo rural começou a existir, fazendo com que o homem mudasse do campo para a cidade, deixando sua casa espaçosa e suas terras para I]conglomerar-se em edificações idênticas e com intuito apenas de prover moradia e descanso após uma jornada de trabalho, a forma de coexistir na cidade de pedra também mudou.,
+	      congregar-se: O documento, denominado O Rio Unido Contra a Violência, é assinado por 80 entidades empresariais (comércio, indústria e serviços) , organizações não-governamentais, grupos religiosos, entidades trabalhistas, personalidades como o sociólogo Betinho e muitos outros integrantes da chamada sociedade civil que [se congregam no movimento Viva Rio. # Naquele dia especialmente, devem motivar a família na observância do mesmo, e I]congregar-se na casa de oração com os poucos ou os muitos que ali houver.,
+	      juntar-se: No dia 21, os membros da Divisão Sênior da Soka Gakkai da província de Kyoto I]juntaram-se no Salão Internacional de Conferência de Kyoto.,
+	      refundir-se: x,
+	      reunir-se: Por conseqüência, voltaram a [reunir-se no Rio de Janeiro, no Palácio Itamarati, a 2 de setembro de 1947, quando formaram o Tratado Interamericano de Assistência Recíproca (TIAR).,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2735' = “Juntar (-se) ou encontrar (-se) em um centro comum.”
+	    {adunar-se: A princípio, essas turmas I]adunavam-se pelos caminhos, aliando-se a outras, chegando, afinal,. conjuntas, a Canudos,
+	      ajuntar-se: Diga-me, sabia que algumas de nossas fêmeas grávidas I]se ajuntam em maternidades?.,
+	      concentrar-se: Sem teto I]se concentram em frente à Prefeitura de SP após passeata.,
+	      conglobar-se: Também as nuvens negras I]conglobam-se nos céus!,
+	      conglomerar-se: Explorar os momentos nos quais I]se conglomeram pessoas de diferentes origens. sociais, num evento esportivo.,
+	      congregar-se: Personalidades como o sociólogo Betinho e muitos outros integrantes da chamada sociedade civil [se congregam no movimento Viva Rio.
+	      juntar-se: No dia 21, os membros da Divisão Sênior da Soka Gakkai da província de Kyoto I]juntaram-se no Salão Internacional de Conferência de Kyoto.,
+	      reunir-se: Por conseqüência, voltaram a [reunir-se no Rio de Janeiro, no Palácio Itamarati, a 2 de setembro de 1947, quando formaram o Tratado Interamericano de Assistência Recíproca.,}
+
+Chave: CONGLOMERAR-SE <verb.motion>
+ILI: 01974856
+
+Sense 5
+{01974856} <verb.motion> concentrate -- (draw together or meet in one common center; "These groups concentrate in the inner cities")
+       => {01974574} <verb.motion> converge -- (move or draw together at a certain location; "The crowd converged on the movie star")
+           => {02355773} <verb.social> meet, gather, assemble, forgather, foregather -- (collect in one place; "We assembled in the church basement"; "Let's gather in the dining room")
+               => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel") 

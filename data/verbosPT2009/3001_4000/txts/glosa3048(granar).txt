@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA3048
+
+DADO O SYNSET:
+
+S='Glosa3048'
+	    {
+	      granar: Os plantadores de arroz colocam patos na lavoura enquanto não surgem os grãos, pois essas aves comem os insetos e ervas daninhas, protegendo a cultura; quando começam a I]granar, removem os patos. # No estado, foram observadas duas floradas e boa parte dos pés já está começando a I]granar.,
+	      granear: x,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3048' = “formar grãos”
+	     {granar: Os plantadores de arroz colocam patos na lavoura enquanto não surgem os grãos, pois essas aves comem os insetos e ervas daninhas, protegendo a cultura; quando começam a I]granar, removem os patos. # No estado, foram observadas duas floradas e boa parte dos pés já está começando a I]granar.,}
+	    
+Chave: GRANAR <verb.change>
+ILI: 00139051
+
+Sense 3
+{00139051} <verb.change> granulate, grain -- (form into grains)
+       => {00137090} <verb.change> shape, form1 -- (give a shape or form to; "shape the dough")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

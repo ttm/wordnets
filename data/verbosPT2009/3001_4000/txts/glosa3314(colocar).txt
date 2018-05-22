@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA3314
+
+DADO O SYNSET:
+
+S='Glosa3314'
+	    {
+	      colocar: Vamos [colocar as coisas em seu devido lugar.,
+	      localizar: Ajuda o historiador a [localizar o fato histórico no espaço e conhecer o meio físico e o humano.,
+	      locar: x,
+	      situar: Como [situar o conjunto das imagens dos Desastres nessa perspectiva?,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3314' = “colocar em um certo lugar ou localização abstrata”
+	     {colocar: Um documento divulgado na semana passada pelas Nações Unidas [coloca o Brasil ao lado da Colômbia entre os maiores produtores e consumidores de maconha no mundo.,
+	      localizar: Por enquanto, Quércia [localiza suas maiores dificuldades no Paraná e na Paraíba.,
+	      situar: Härter I]situa Pelotas no Projeto Rumos 2015.,}
+Chave: COLOCAR <verb.contact>
+ILI: 01452069
+
+Sense 1
+{01452069} <verb.contact> put, set, place, pose2, position, lay1 -- (put into a certain place or abstract location; "Put your things here"; "Set the tray down"; "Set the dogs on the scent of the missing children"; "Place emphasis on a certain point")
+       => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

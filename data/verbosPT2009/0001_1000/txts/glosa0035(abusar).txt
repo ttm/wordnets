@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0035
+
+DADO O SYNSET:
+
+S='Glosa35'
+{abusar: Hoje, leva uma vida calma e regrada se comparada a dos tempos em que morava numa espécie de comunidade no Recreio dos Bandeirantes, época em que [abusava do álcool e das drogas. ,
+exceder: O moço franzino, aos quatorze anos, já dedilhava como ninguém o violão e também I]excedia nos cigarros e na bebida.,
+exorbitar: Desde pequeno era genioso. Desobediente, quando contrariado [exorbitava dos tiques nervosos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa35' = “mudar a função ou o propósito inerente de algo”
+{abusar: Hoje, leva uma vida calma e regrada se comparada a dos tempos em que morava numa espécie de comunidade no Recreio dos Bandeirantes, época em que [abusava do álcool e das drogas. ,
+exorbitar: Desde pequeno era genioso. Desobediente, quando contrariado [exorbitava dos tiques nervosos.,}
+Chave: ABUSAR <verb.change>
+ILI: 00196176
+
+Sense 3
+{00196176} <verb.change> pervert, misuse, abuse -- (change the inherent purpose or function of something; "Don't abuse the system"; "The director of the factory misused the funds intended for the health care of his workers")
+       => {01122820} <verb.consumption> use, expend -- (use up, consume fully; "The legislature expended its time on school questions")

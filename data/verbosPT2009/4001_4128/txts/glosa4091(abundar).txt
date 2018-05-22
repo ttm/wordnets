@@ -1,0 +1,39 @@
+ANÁLISE DA GLOSA4091
+
+DADO O SYNSET:
+
+S='Glosa4091'
+{abrejar: A feira H]abrejava tal era a quantidade de legumes.,
+abundar: I]Abundam ainda as sombras shakespeareanas claras na história.,
+exuberar: Os pomares A]exuberam no verão. ,
+pulular: A cidade I]pulula de religiões.,
+redundar: Os resultados das suas reuniões não raro I]redundam em publicações.,
+sobejar: Severino não tinha criatividade, mas o dinheiro I]sobejava.,
+sobrar: Embora lhe falte força física para dar forma às figuras na máquina de aço, que outrora manejava, ainda lhe I]sobra energia para criar.,
+superabundar: Os suprimentos H]superabundavam às necessidades.,
+transbordar: Tóquio I]transbordava de gente.,}
+	  
+A='Glosa2852'
+{cansar, escassear, falecer, faltar, minguar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4091' = “existir em grande quantidade”
+{abundar: I]Abundam ainda as sombras shakespeareanas claras na história.,
+exuberar: Os pomares A]exuberam no verão. ,
+pulular: A cidade I]pulula de religiões.,
+redundar: A]Redundam, no texto, os adjetivos.,
+sobejar: Severino não tinha criatividade, mas o dinheiro I]sobejava.,
+sobrar: Embora lhe falte força física para dar forma às figuras na máquina de aço, que outrora manejava, ainda lhe I]sobra energia para criar.,
+superabundar: Nesta colheita a soja H]superabundou.,
+transbordar: O texto de «Antes que Anoiteça» revela uma liberdade absoluta em relação ao sexo, que [transborda num texto sem culpa ou escrúpulos.,}
+	  
+A='Glosa2852'
+{cansar, escassear, falecer, faltar, minguar}
+Chave: ABUNDAR <verb.stative>
+ILI: 02636186
+
+Sense 1
+{02636186} <verb.stative> abound in, teem in, pullulate with -- (exist in large quantity)
+       => {02534502} <verb.stative> occur3 -- (to be found to exist; "sexism occurs in many workplaces"; "precious stones occur in a large area in Brazil")
+           => {00412906} <verb.change> appear2, come along -- (come into being or existence, or appear on the scene; "Then the computer came along and changed our lives"; "Homo sapiens appeared millions of years ago")

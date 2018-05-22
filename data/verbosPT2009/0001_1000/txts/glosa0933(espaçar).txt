@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0932
+
+DADO O SYNSET:
+
+S='Glosa933'
+{compassar: As cartas da italiana, cujos trechos são intercalados ao relato de Tato, mais do que I]compassar a narrativa, dão-lhe densidade e perspectiva.,
+espaçar: Eu ainda tentei [espaçar a cerimônia a ver se tio Cosme sucumbia primeiro à doença, mas parece que esta era mais de aborrecer que de matar.,
+espacear: x,
+espacejar: Para I]espacejar antes e depois de imprimir uma linha, o usuário deve usar a opção espaço duas vezes..,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa933' = “pôr em intervalos”
+{compassar: As cartas da italiana, cujos trechos são intercalados ao relato de Tato, mais do que I]compassar a narrativa, dão-lhe densidade e perspectiva.,
+espaçar: Eu ainda tentei [espaçar a cerimônia a ver se tio Cosme sucumbia primeiro à doença, mas parece que esta era mais de aborrecer que de matar.,
+espacejar: Para I]espacejar antes e depois de imprimir uma linha, o usuário deve usar a opção espaço duas vezes..,}
+Chave: ESPAÇAR <verb.motion>
+ILI: 01930137
+
+Sense 1
+{01930137} <verb.motion> space -- (place at intervals; "Space the interviews so that you have some time between the different candidates")
+       => {01452069} <verb.contact> put, set, place, pose2, position, lay1 -- (put into a certain place or abstract location; "Put your things here"; "Set the tray down"; "Set the dogs on the scent of the missing children"; "Place emphasis on a certain point")
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

@@ -1,0 +1,55 @@
+ANÁLISE DA GLOSA3715
+
+DADO O SYNSET:
+
+S='Glosa3715' = “dar expressão de”
+{amostrar: O senso íntimo A]amostra ao coração a sua ignomínia e miséria.,
+	 dar: M]Dava evidentes sinais de impaciência. ,
+	 demonstrar: Seus resultados devem [demonstrar que os custos totais são inferiores às receitas e seu desempenho será avaliado por indicadores de mercado.,
+	 denotar: Negócios de alta tecnologia I]denotam maior potencial no setor industrial. ,
+	 desembuçar: x,
+	 dizer: Torna-se quase desnecessário [dizer que os transportes exercem um papel decisivo no desenvolvimento das nações.,
+ expressar: Eu queria [expressar um sentimento e a partir daí me dei o direito de subverter.,
+	 inculcar: A pele bonita e a cor rosada M]inculcavam saúde e juventude.,
+	 indicar: O governo havia se preparado para não [indicar os nomes dos representantes do PFL e PSDB na comissão, partidos aliados cujos líderes já anunciaram esta decisão .,
+ manifestar: O artilheiro voltou a [manifestar sua expectativa de ainda fazer parte da Seleção que disputará a Olimpíada.,
+	 mostrar: Ciência é o estudo metódico, preocupado em descrever os fenômenos e em [mostrar as condições em que eles ocorrem.,
+	 patentear: Estou pronto: não sei se poderei dizer quem ele seja, porque ignoro se a luneta mágica estende a tanto o seu poder; mas tenho a certeza de ver, de apreciar e de [patentear o seu caráter, e as suas qualidades boas ou más .,
+	 patentizar: x,
+ revelar: A partir de apresentações no teatro do mesmo nome em Pinheiros, músicos como Itamar Assumpção, Arrigo Barnabé e os do grupo Rumo, tiveram oportunidade de [revelar outras formas de compor.,
+	 rever2: Seu olhar A]revia indignação.,
+	 revir1: x,
+	 testemunhar: São Patrício foi um grande santo, e todos os grandes, como todos os pequenos, sempre lhe A]testemunharam a maior veneração.,
+	 transverberar: Seu permanente sorriso M]transverbera sua gentileza.}
+
+A='Glosa26'
+		{calar1, esconder, guardar, reservar}
+
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3715' = “fornecer evidência; ser prova”
+{amostrar: O senso íntimo A]amostra ao coração a sua ignomínia e miséria.,
+	 demonstrar: Seus resultados devem [demonstrar que os custos totais são inferiores às receitas e seu desempenho será avaliado por indicadores de mercado.,
+	 denotar: Negócios de alta tecnologia I]denotam maior potencial no setor industrial. ,
+	 expressar: Eu queria [expressar um sentimento e a partir daí me dei o direito de subverter.,
+	  indicar: O governo havia se preparado para não [indicar os nomes dos representantes do PFL e PSDB na comissão, partidos aliados cujos líderes já anunciaram esta decisão .,
+ manifestar: O artilheiro voltou a [manifestar sua expectativa de ainda fazer parte da Seleção que disputará a Olimpíada.,
+	 mostrar: Ciência é o estudo metódico, preocupado em descrever os fenômenos e em [mostrar as condições em que eles ocorrem.,
+	 revelar: A partir de apresentações no teatro do mesmo nome em Pinheiros, músicos como Itamar Assumpção, Arrigo Barnabé e os do grupo Rumo, tiveram oportunidade de [revelar outras formas de compor.,
+	 rever2: Seu olhar A]revia indignação.,
+	 testemunhar: São Patrício foi um grande santo, e todos os grandes, como todos os pequenos, sempre lhe A]testemunharam a maior veneração.,}
+
+A='Glosa26'
+		{calar1, esconder, guardar, reservar}
+
+Chave: DEMONSTRAR <verb.communication>
+ILI: 00794126
+
+Sense 3
+{00794126} <verb.communication> attest1, certify, manifest, demonstrate, evidence -- (provide evidence for; stand as proof of; show by one's behavior, attitude, or external attributes; "His high fever attested to his illness"; "The buildings in Rome manifest a high level of architectural sophistication"; "This decision demonstrates his sense of fairness")
+       => {00982423} <verb.communication> testify2, bear witness2, prove, evidence1, show -- (provide evidence for; "The blood test showed that he was the father"; "Her behavior testified to her incompetence")
+           => {00804489} <verb.communication> inform -- (impart knowledge of some fact, state or affairs, or event to; "I informed him of his rights")
+               => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                   => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                       => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

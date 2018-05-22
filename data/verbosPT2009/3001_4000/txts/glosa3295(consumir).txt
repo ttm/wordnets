@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA3295
+
+DADO O SYNSET:
+
+S='Glosa3295'
+	    {
+	      aplicar: M]Aplicou todos os recursos contra a insidiosa enfermidade.,
+	      consumir: Mas todo resultado de suas observações e registros, que [consumiu um dia inteiro de trabalho, pode se perder facilmente. ,
+	      desenvolver: M]Desenvolveu nessa polêmica todos os seus recursos intelectuais.,
+	      despender: Conheci um homem que adoeceu velho, se não de velho, e [despendeu no rompimento final um tempo quase infinito. ,
+	      empregar: Noé dizia que havia de acontecer, e para mostrar sua convicção, I]empregou tempo e fortuna em construir gigantesca embarcação.,
+	      levar: O processo de transformação de Swansea [levou muitos anos de planejamento.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3295' = “gastar (recursos materiais)”
+	     {aplicar: M]Aplicou todos os recursos contra a insidiosa enfermidade.,
+	      consumir: Operação Tapa-Buraco I]consumiu 1.005 toneladas de asfalto. ,
+	      despender: A USP [despende recursos para manter e construir o estacionamento, e chega até ao ponto de colocar guarda para tomar conta dos veículos que estão estacionados.,
+	      empregar: Subprefeitura I]emprega tecnologia de ponta na retomada do programa de arborização.,
+	      levar: O processo de transformação de Swansea [levou muitos anos de planejamento.,}
+
+Chave: CONSUMIR <verb.consumption>
+ILI: 01121801
+
+Sense 5
+{01121801} <verb.consumption> consume1, eat up3, use up, eat13, deplete, exhaust, run through, wipe out -- (use up (resources or materials); "this car consumes a lot of gas"; "We exhausted our savings"; "They run through 20 bottles of wine a week")
+       => {02201591} <verb.possession> spend, expend, drop -- (pay out; "spend money")
+           => {02186811} <verb.possession> pay -- (give money, usually in exchange for goods or services; "I paid four dollars for this sandwich"; "Pay the waitress, please")
+               => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+                   => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children")

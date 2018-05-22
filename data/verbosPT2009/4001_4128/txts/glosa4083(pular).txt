@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA4083
+
+DADO O SYNSET:
+
+  S='Glosa4083'
+{omitir: H]Omitiu dois capítulos da matéria ao preparar-se para o exame.,
+pular: Ele cantou algo totalmente diferente, parece que I]pulou uma parte.,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa4083' = “deixar passar”
+{omitir: H]Omitiu dois capítulos da matéria ao preparar-se para o exame.,
+pular: Ele cantou algo totalmente diferente, parece que I]pulou uma parte.,}
+Chave: PULAR <verb.cognition>
+ILI: 00596255
+
+Sense 1
+{00596255} <verb.cognition> jump, pass over, skip1, skip over -- (bypass; "He skipped a row in the text and so the sentence was incomprehensible")
+       => {00595023} <verb.cognition> neglect, pretermit, omit, drop, miss, leave out, overlook, overleap -- (leave undone or leave out; "How could I miss that typo?"; "The workers on the conveyor belt miss one out of ten")

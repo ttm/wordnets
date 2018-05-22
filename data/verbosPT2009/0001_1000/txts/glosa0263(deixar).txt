@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA0263
+
+DADO O SYNSET:
+
+S='Glosa263'
+{deixar: Já tenho dois mil ingressos vendidos e como a maioria das pessoas [deixa para comprar na hora, acho que vai ser um sucesso.,
+esperar: Você vai se molhar, já lhe pedi não vá embora, I]espere o tempo melhorar.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa263' = “esperar antes de agir, deixar para depois”
+{deixar: Já tenho dois mil ingressos vendidos e como a maioria das pessoas [deixa para comprar na hora, acho que vai ser um sucesso.,
+esperar: Você vai se molhar, já lhe pedi não vá embora, I]espere o tempo melhorar.,}
+Chave: DEIXAR <verb.stative>
+ILI: 02562977
+
+Sense 2
+{02562977} <verb.stative> wait1, hold off, hold back -- (wait before acting)
+       => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

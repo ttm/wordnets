@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA3151
+
+DADO O SYNSET:
+
+S='Glosa3151'
+	    {
+	      acusar: O exame anti-doping realizado no último dia 12 de maio, durante o Campeonato Ibero-Americano, na cidade de Medelin, na Colômbia, [acusou a presença de metabolitos de nandrolona, um tipo de anabolizante. ,
+	      amostrar: Mas esta é apenas uma impressão que a veia artística do escritor teima em I]amostrar.,
+	      denunciar: Na Antonella, uma imensa nota de R$ 1 [denunciava a promoção.,
+	      indiciar: O mundo patriarcal, no romance de Almeida Faria, [indicia a submissão da mulher em relação ao homem, por força não tanto das diferenças individuais, mas de um estatuto estabelecido pela tradição. ,
+	      mostrar: O objetivo de João Lara ainda está longe, como [mostra pesquisa do instituto Datafolha feita em dezembro.,
+	      revelar: A análise química das células que constituem qualquer ser vivo [revela a presença constante de certas substâncias que, nos diversos organismos, desempenham, fundamentalmente, o mesmo papel biológico.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3151' = “fazer claro e visível “
+	     {acusar: O exame anti-doping realizado no último dia 12 de maio, durante o Campeonato Ibero-Americano, na cidade de Medelin, na Colômbia, [acusou a presença de metabolitos de nandrolona, um tipo de anabolizante. ,
+	      amostrar: O Cruzeiro SALVAR em 2005 I]amostrou um hábitat com condições favoráveis.,
+	      denunciar: Na Antonella, uma imensa nota de R$ 1 [denunciava a promoção.,
+	      indiciar: O mundo patriarcal, no romance de Almeida Faria, [indicia a submissão da mulher em relação ao homem, por força não tanto das diferenças individuais, mas de um estatuto estabelecido pela tradição. ,
+	      mostrar: Tudo isso, finalmente, [mostrou a fragilidade da aliança constituída em 1889 para comandar o país.,
+	      revelar: A análise química das células que constituem qualquer ser vivo [revela a presença constante de certas substâncias que, nos diversos organismos, desempenham, fundamentalmente, o mesmo papel biológico.,}
+Chave: INDICAR <verb.perception>
+ILI: 02082130
+
+Sense 8
+{02082130} <verb.perception> reveal1, display1, show4 -- (make clear and visible; "The article revealed the policies of the government")
+       => {00717906} <verb.communication> communicate1, pass on, pass1, put across -- (transmit information ; "Please communicate this message to all employees")
+           => {02167243} <verb.possession> convey10, transmit10, communicate10 -- (transfer to another; "communicate a disease")
+               => {02167764} <verb.possession> transfer1 -- (move from one place to another; "transfer the data"; "transmit the news"; "transfer the patient to another hospital")
+                   => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

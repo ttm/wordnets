@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA3284
+
+DADO O SYNSET:
+
+	  S='Glosa3284'
+	    {
+	      acidentar: O desastre H]acidentou quatro pessoas.,
+	      ferir: Um homem de 29 anos, com evidentes transtornos mentais, matou ontem a tiros 32 pessoas , [feriu 18 e refugiou-se numa casa abandonada com três reféns.,
+	      lesar: O motorista I]lesou o transeunte.,
+	      lesionar: Quanto ao modo de operação, o acidente mais grave foi o que I]lesionou três trabalhadores durante uma partida do sistema de energia.,
+	      machucar: Minha amiga Carla me disse que um avião tinha acabado de bater no World Trade Center, em New York; e eu pensei: um Cessna... será que I]machucou alguém? ,
+	      traumatizar: Passou-se uma década desde o trágico acidente radiológico de Goiânia, em 1987, no qual extensa contaminação radioativa com Césio-137 I]traumatizou uma grande cidade brasileira.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+	  S='Glosa3284' = “ser fonte de dor”
+	     {acidentar: Uma das rajadas I]acidentou o comandante Torben Grael, que luxou o dedão da mão direita ao ser lançado com a força do vento.,
+	      ferir: O acidente [feriu 35 pessoas.,
+	      lesar: A onda de choque resultante da explosão fez seu corpo inchar terrivelmente, destruiu metade de seu nariz e I]lesou gravemente seus pulmões e sua espinha.,
+	      lesionar: Um dos dez acidentes I]lesionou 2 trabalhadores.,
+	      machucar: O acidente I]machucou o nariz e o olho direito do jogador,}
+Chave: FERIR <verb.perception>
+ILI: 02060768
+
+Sense 1
+{02060768} <verb.perception> ache, smart, hurt -- (be the source of pain)
+       => {02062507} <verb.perception> cause to be perceived -- (have perceptible qualities)

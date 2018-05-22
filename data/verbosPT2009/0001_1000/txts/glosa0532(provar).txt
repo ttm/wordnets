@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA0532
+
+DADO O SYNSET:
+
+S='Glosa532'
+{amostrar: x,
+argüir: O réu que, por não [argüir na sua resposta fato impeditivo, será condenado nas custas a partir do saneamento do processo.,
+demonstrar: Pasteur, uns 200 anos mais tarde, [demonstrou que as bactérias não nascem por geração espontânea, mas dependem de outras bactérias preexistentes. ,
+indicar: Mosley [indicou que as alterações obedeciam mais um critério político (uma resposta à opinião pública) do que técnico. ,
+mostrar: Ciência é o estudo metódico, preocupado em descrever os fenômenos e em [mostrar as condições em que eles ocorrem.,
+provar: Apesar disso, Spallanzani não conseguiu [provar que o aquecimento de material orgânico em recipientes fechados alterava a qualidade do ar.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa532' = “estabelecer a validade de algo, como por um exemplo, explanação ou experimento”
+{argüir: Ele I]arguiu que deveria haver simetria na natureza: se um corpúsculo radiante - um fóton - possuia frequência e comprimento de onda.,
+demonstrar: Pasteur, uns 200 anos mais tarde, [demonstrou que as bactérias não nascem por geração espontânea, mas dependem de outras bactérias preexistentes. ,
+indicar: Mosley [indicou que as alterações obedeciam mais um critério político (uma resposta à opinião pública) do que técnico. ,
+mostrar: Ciência é o estudo metódico, preocupado em descrever os fenômenos e em [mostrar as condições em que eles ocorrem.,
+provar: Apesar disso, Spallanzani não conseguiu [provar que o aquecimento de material orgânico em recipientes fechados alterava a qualidade do ar.,}
+Chave: PROVAR <verb.cognition>
+ILI: 00642734
+
+Sense 2
+{00642734} <verb.cognition> prove, demonstrate, establish, show, shew -- (establish the validity of something, as by an example, explanation or experiment; "The experiment demonstrated the instability of the compound"; "The mathematician showed the validity of the conjecture")
+       => {00643814} <verb.cognition> confirm, corroborate, sustain, substantiate, support, affirm -- (establish or strengthen as with new evidence or facts; "his story confirmed my doubts"; "The evidence supports the defendant")

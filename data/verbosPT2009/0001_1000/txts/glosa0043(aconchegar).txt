@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA0043
+
+DADO O SYNSET:
+
+S='Glosa43'
+{acalentar: Iracema cantava docemente, embalando a rede para [acalentar o filho.,
+aconchegar: A manta é essencial para aquecer e I]aconchegar o recém-nascido.,
+aninhar: A agente I]aninhou a filha em seu colo. ,
+conchegar: Valsamos; e não nego que, ao [conchegar ao meu corpo aquele corpo flexível e magnífico, tive uma ótima sensação.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa43' = “manter uma pessoa ou coisa próximo(a), como por afeto, conforto, ou aquecimento”
+{acalentar: Iracema cantava docemente, embalando a rede para [acalentar o filho.,
+aconchegar: A manta é essencial para aquecer e I]aconchegar o recém-nascido.,
+aninhar: I]Aninhou a cabeça do moço no colo, pegou a catar-lhe cafuné até que ele adormeceu.,
+conchegar: Valsamos; e não nego que, ao [conchegar ao meu corpo aquele corpo flexível e magnífico, tive uma ótima sensação.,}
+Chave: ACONCHEGAR <verb.contact>
+ILI: 01384701
+
+Sense 2
+{01384701} <verb.contact> cuddle1 -- (hold (a person or thing) close, as for affection, comfort, or warmth; "I cuddled the baby")
+       => {01383729} <verb.contact> embrace, hug1, bosom, squeeze4 -- (hug, usually with fondness; "Hug me, please"; "They embraced")
+           => {01179612} <verb.contact> clasp -- (hold firmly and tightly)
+               => {01179249} <verb.contact> grasp, hold on -- (hold firmly)
+                   => {01179760} <verb.contact> hold, take hold -- (have or hold in one's hands or grip; "Hold this bowl for a moment, please"; "A crazy idea took hold of him")

@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA1416
+
+DADO O SYNSET:
+
+S='Glosa1416'
+{afear: Não se cansaram os viajantes de afirmar, como adverte Caminha a dom Manuel, que, para alindar nem I]afear, não poriam no seu relato mais do que aquilo que viram e lhes pareceu.,
+ afeiar: Que acto indigno I]afeiou teu rosto ameno?,
+	 desaformosear: x,
+	 desformosear: Os desgostos H]desformosearam aquela mulher.,}
+
+A='Glosa2925'
+{aformosear, alindar, embelecer, embelezar, engrinaldar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1416' = “tornar feio”
+{afear: A classe-que-vive-do-trabalho sofreu a mais aguda crise deste século, que atingiu não só a sua materialidade, mas teve profundas repercussões na sua subjetividade e, no íntimo inter-relacionamento destes níveis, I]afeou a sua forma de ser.,
+ afeiar: E os ridículos terminais de baldeação que I}afeiam nosso município.,}
+
+A='Glosa2925'
+{aformosear, alindar, embelecer, embelezar, engrinaldar}
+Chave: AFEIAR <verb.change>
+ILI: 00284369 
+
+Sense 1
+{00284369} <verb.change> uglify -- (make ugly)
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

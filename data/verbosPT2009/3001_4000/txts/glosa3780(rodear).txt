@@ -1,0 +1,37 @@
+ANÁLISE DA GLOSA3780
+
+DADO O SYNSET:
+
+S='Glosa3780'
+{arrodear: O Maracanã é grande mesmo, e se a pessoa for I]arrodear ele a pé leva bem meia hora.,
+	 circular: A criança aprende a [contornar este terreno movediço, mas, dentro dela, cristaliza-se então uma zona de fragilidade psíquica ,
+	 circundar: Viviane foi aplaudida pelos convidados que [circundavam o túmulo do piloto.,
+	 circunscrever: DEVIANT,
+	 contornar: Até chegar ao Pólo, os esquiadores não utilizaram os botes de borracha nenhuma vez, preferiram [contornar as águas ou aguardar que eles se congelem permitindo passagem.,
+	 costear: Pode-se [costear a Siriba andando sobre as rochas vulcânicas sob o olhar impassível de atobás-brancos.,
+	 perlongar: Navios mandados do Algarve I]perlongaram o litoral marroquino.,
+	 rodar: Preocupada, a mãe levantou-se, I]rodou a casa para ver se encontrava algum dos filhos.,
+	 rodear: Os holandeses usaram no jogo passado o mesmo artifício dos irlandeses: dois membros da comissão técnica [rodearam o campo, arremessando sacos plásticos com água gelada.,
+	 rondar: O aventureiro a quem Loredano mandara [rondar a esplanada, tinha começado o seu giro de uma ponta à outra do pátio.,
+	 rondear: Com o sumiço do cão, Luci e Lili preparam cartazes e I]rondearam o Campo do Galvão.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3780' = “passar ao redor ou em torno [de]; mover-se ao longo da margem”
+{arrodear: O Maracanã é grande mesmo, e se a pessoa for I]arrodear ele a pé leva bem meia hora.,
+	 circular: A criança aprende a [contornar este terreno movediço, mas, dentro dela, cristaliza-se então uma zona de fragilidade psíquica ,
+	 circundar: Viviane foi aplaudida pelos convidados que [circundavam o túmulo do piloto.,
+	 contornar: Até chegar ao Pólo, os esquiadores não utilizaram os botes de borracha nenhuma vez, preferiram [contornar as águas ou aguardar que eles se congelem permitindo passagem.,
+	 costear: Pode-se [costear a Siriba andando sobre as rochas vulcânicas sob o olhar impassível de atobás-brancos.,
+	 perlongar: Navios mandados do Algarve I]perlongaram o litoral marroquino.,
+	 rodar: Preocupada, a mãe levantou-se, I]rodou a casa para ver se encontrava algum dos filhos.,
+	 rodear: Os holandeses usaram no jogo passado o mesmo artifício dos irlandeses: dois membros da comissão técnica [rodearam o campo, arremessando sacos plásticos com água gelada.,
+	 rondar: O aventureiro a quem Loredano mandara [rondar a esplanada, tinha começado o seu giro de uma ponta à outra do pátio.,
+	 rondear: Com o sumiço do cão, Luci e Lili preparam cartazes e I]rondearam o Campo do Galvão.}
+Chave: RODEAR <verb.motion>
+ILI: 01993691
+
+Sense 2 
+{01993691} <verb.motion> skirt -- (pass around or about; move along the border; "The boat skirted the coast")
+       => {01993297} <verb.motion> travel by1, pass by, surpass, go past, go by1, pass5 -- (pass by; "A black limousine passed by when she looked out the window"; "He passed his professor in the hall"; "One line of soldiers surpassed the other")
+           => {01782203} <verb.motion> travel, go, move3, locomote -- (change location; move, travel, or proceed; "How fast does your new car go?"; "We travelled from Rome to Naples by bus"; "The policemen went from door to door looking for the suspect"; "The soldiers moved towards the city in an attempt to take it before night fell")

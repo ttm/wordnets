@@ -1,0 +1,45 @@
+ANÁLISE DA GLOSA1456
+
+DADO O SYNSET:
+
+S='Glosa1456'
+{adjudicar: A CMTC [adjudicou ao consórcio Cowan a operação do sistema de transporte coletivo de passageiros nos chamados corredores segregados para o tráfico de ônibus,
+ agrilhoar: Houve uma pessoa que os [agrilhou, à força de costume ou de natureza, se não foi de ambas as coisas,
+ articular: A Unitrabalho I]articula as universidades a ela agregadas por meio de núcleos de estudos e pesquisas.,
+ associar: Mas se o empresário financia a publicação de um livro ou conservação de acervo, vai [associar sua imagem ao museu de forma permanente,
+ atar: O autor soube habilmente distribuir e [atar um sentido a esses fatos aparentemente díspares,
+ concatenar: Reunir elementos dispersos, I]concatená-los e estruturar-lhes o plano de ação, na ordem superior que nos orienta o idealismo.,
+ conectar: Trata-se de encontrar a força que dá um sentido ao escrito e [conectar o texto a esta força,
+ encadear: Tem como atribuições estimular o envolvimento dos fornecedores e parceiros nas atividades da empresa; e I]encadear as informações relativas ao negócio num conjunto de indicadores balanceados.  ,
+ ligar: Os organizadores querem [ligar a imagem do Cristo Redentor ao congresso e à visita do papa,
+ prender: Você não H]prende esta idéia a nada, no seu conto.,
+ unir: Uma profunda amizade I]uniu Guedes a Vilanova Artigas, o grande mentor da arquitetura paulista.,
+ vincular: Acho que uma boa idéia seria [vincular a contribuição previdenciária das empresas à produtividade e ao faturamento bruto e não ao número de funcionários,}
+	  
+A='Glosa1573'
+{desatar, desconectar, desligar, desunir, desvincular}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1456' = “fazer ficar combinado ou ligado” 
+{adjudicar: No Antigo Testamento, por exemplo, I]adjudicam o título de rei a aquele que deverá nascer da estirpe do Jacó.,
+ agrilhoar: A lei das terras foi o pomo de discórdia entre as duas facções; como o célebre decreto sobre a nomeação e remoção dos juízes de Direito que I]agrilhoou a magistratura aos caprichos dos Ministros.,
+ articular: Nas pesquisas pictóricas que deram origem ao seu painel, ele [articulou elementos de seu universo plástico particular e da estética internacionalista de seu tempo.,
+ associar: Mas se o empresário financia a publicação de um livro ou conservação de acervo, vai [associar sua imagem ao museu de forma permanente.,
+ atar: O autor soube habilmente distribuir e [atar um sentido a esses fatos aparentemente díspares.,
+ concatenar: Na verdade, o menino Autran ainda não [concatenava letras: afiou a imaginação e criou uma história complicadíssima.,
+ conectar: Trata-se de encontrar a força que dá um sentido ao escrito e [conectar o texto a esta força,
+ encadear: Algumas braças d' água e uma pequena distância me retinham e me [encadeavam naquele lugar como a um poste.,
+ ligar: Os organizadores querem [ligar a imagem do Cristo Redentor ao congresso e à visita do papa.,
+ 		prender: O que nos [prende à frente da TV é a graça involuntária que estes programas transmitem.,
+ unir: Uma profunda amizade I]uniu Guedes a Vilanova Artigas, o grande mentor da arquitetura paulista.,
+ vincular: Acho que uma boa idéia seria [vincular a contribuição previdenciária das empresas à produtividade e ao faturamento bruto e não ao número de funcionários.,}
+	  
+A='Glosa1573'
+{desatar, desconectar, desligar, desunir, desvincular}
+Chave: LIGAR <verb.contact>
+ILI: 01256741
+
+Sense 2
+{01256741} <verb.contact> join1, bring together1 -- (cause to become joined or linked; "join these two parts so that they fit together")
+       => {01314764} <verb.contact> connect, link, tie1, link up -- (connect, fasten, or put together two or more pieces; "Can you connect the two loudspeakers?"; "Tie the ropes together"; "Link arms")

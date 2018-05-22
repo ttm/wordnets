@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA1236
+
+DADO O SYNSET:
+
+S='Glosa1236'
+{identificar: Uma testemunha [identificou um táxi em uma batida como sendo verde.,
+ reconhecer: Para Cristina, cinco meninos de rua que [reconheceram Jurandir, Emanuel e o tenente Côrtes, corriam risco de serem mortos se fossem a tribunal para testemunhar.,}
+	  
+A='Glosa1235'
+{desconhecer, estranhar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1236' = “estabelecer a identidade de alguém ou algo”
+{identificar: Uma testemunha [identificou um táxi em uma batida como sendo verde.,
+ reconhecer: Para Cristina, cinco meninos de rua que [reconheceram Jurandir, Emanuel e o tenente Côrtes, corriam risco de serem mortos se fossem a tribunal para testemunhar.,}
+A='Glosa1235'
+{desconhecer, estranhar}
+Chave: RECONHECER <verb.cognition>
+ILI: 00598581
+
+Sense 1
+{00598581} <verb.cognition> identify, place -- (recognize as being; establish the identity of someone or something; "She identified the man on the 'wanted' poster")
+       => {00676553} <verb.cognition> determine1, set4 -- (fix conclusively or authoritatively; "set the rules")

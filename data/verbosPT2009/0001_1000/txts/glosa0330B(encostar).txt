@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0330B
+
+DADO O SYNSET:
+
+S='Glosa330'
+{acostar: Sempre que for possível deve-se [acostar a um iate por estibordo.,
+aproximar: Assim que o fio se molhou, [aproximou a mão da chave; ouviu-se um ruído e viu-se uma centelha saltar.,
+colar: Mal a bola rolou, ele sacou o radinho da bolsa e [colou o ouvido esquerdo nele.,
+coser: M]Coser o ouvido com a parede.,
+encostar: A índia pousou as mãos sobre os ombros de seu filho, e [encostou a fronte na fronte dele.,
+unir: O chefe araguaia pôs as mãos nos ombros de Araci; duas vezes [uniu o seu ao rosto dela.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa330B' = “fazer contato físico com, aproximar-se de forma a ter contato”
+{colar: Mal a bola rolou, ele sacou o radinho da bolsa e [colou o ouvido esquerdo nele.,
+encostar: A índia pousou as mãos sobre os ombros de seu filho, e [encostou a fronte na fronte dele.,
+unir: O chefe Araguaia pôs as mãos nos ombros de Araci; duas vezes [uniu o seu ao rosto dela.,}
+Chave: ENCOSTAR <verb.contact>
+ILI: 01169634
+
+Sense 1
+{01169634} <verb.contact> touch -- (make physical contact with, come in contact with; "Touch the stone for good luck"; "She never touched her husband")
+          Also See-> {01921768} <verb.motion> touch down#1

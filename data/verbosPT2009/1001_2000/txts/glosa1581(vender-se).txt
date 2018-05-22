@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA1581
+
+DADO O SYNSET:
+
+S='Glosa1581'
+{bandear-se: Romualdo Boaventura faz as malas para I]bandear-se para o PFL. ,
+ vender-se: Lula I]vendeu-se a José Alencar por ambicionar vitória rápida, folgada e barata.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1581' = “ceder por um preço ou recompensa” 
+{vender-se: Lula I]vendeu-se a José Alencar por ambicionar vitória rápida, folgada e barata.,}
+Chave: VENDER-SE <verb.possession>
+ILI: 02170809
+
+Sense 5
+{02170809} <verb.possession> sell2 -- (give up for a price or reward; "She sold her principles for a successful career")
+       => {02170372} <verb.possession> surrender, cede, deliver2, give up1 -- (relinquish possession or control over; "The squatters had to surrender the building after the police moved in")
+           => {02137285} <verb.possession> give1, gift, present -- (give as a present; make a gift of; "What will you give her for her birthday?")

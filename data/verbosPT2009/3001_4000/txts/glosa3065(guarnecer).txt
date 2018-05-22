@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA3065
+
+DADO O SYNSET:
+
+S='Glosa3065'
+	    {
+	      guardear: x,
+	      guarnecer: O juiz João Batista Lazzari, da 1ª vara de Chapecó, determinou o deslocamento de um efetivo da PM para I]guarnecer a ponte sobre o rio Uruguai na localidade de Goio-en.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3065' = “x”
+	      {guarnecer: A PM [guarneceu o local com cem policiais.,}
+Chave: GUARNECER <verb.competition>
+ILI: 01054641
+
+Sense 1
+{01054641} <verb.competition> garrison -- (station (troops) in a fort or garrison)
+       => {01054384} <verb.competition> station, post, base, send, place -- (assign to a station)
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

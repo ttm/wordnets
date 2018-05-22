@@ -1,0 +1,51 @@
+ANÁLISE DA GLOSA4127
+
+DADO O SYNSET:
+
+S='Glosa4127'
+{aquinhoar: Os herdeiros H]aquinhoaram os bens do falecido.,
+beneficiar: Além dos estudantes, o programa I]beneficiou 110 detentos da Penitenciária Estadual de Londrina e estudantes da APAE.,
+bonificar: A chuva atrapalhou um pouco, mas a prova do paredão não fazia a equipe perder pontos, só I]bonificava as equipes que conseguiam vencê-lo.,
+dotar: Deus, Em sua infinita sabedoria, I]dotou a natureza de ensinamentos.,
+fadar: A natureza H]fadou-a com raras virtudes.,
+favorecer: A natureza a I]favoreceu com um solo mais fértil.,
+munir: O objetivo é I]munir a comunidade de desenvolvimento de conteúdo das ferramentas.,
+prendar: Os deuses gregos H]prendaram os humanos de vários ofícios e artes.,
+prover: A implantação de equipamentos será para I]prover a cidade de infra-estrutura.,
+quinhoar: O padrinho quer H]quinhoá-lo com uma bela fortuna.,}
+	  
+A='Glosa1123'
+{desajudar, desfavorecer, desprover, prejudicar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4127A' = “conceder um privégio [a]”
+{beneficiar: Projeto já I]beneficiou cerca de 800 recém-nascidos com certidão de nascimento na MHFB.,
+bonificar: Eles até I]bonificaram alguns clientes com 600 reais por terem sido compreensivos.,
+prover: A implantação de equipamentos será para I]prover a cidade de infra-estrutura.,}
+	  
+A='Glosa1123'
+{desajudar, desfavorecer, desprover, prejudicar}
+Chave: BENEFICIAR <verb.social>
+ILI: 02379771
+
+Sense 2
+{02379771} <verb.social> privilege, favor3, favour3 -- (bestow a privilege upon)
+       => {00776433} <verb.communication> permit, allow, let2, countenance -- (consent to, give permission; "She permitted her son to visit her estranged husband"; "I won't let the police search her basement"; "I cannot allow you to see your exam")
+           => {00771887} <verb.communication> accept, consent, go for -- (give an affirmative reply to; respond favorably to; "I cannot accept your invitation"; "I go for this resolution")
+               => {00693825} <verb.cognition> react, respond -- (show a response or a reaction to something)
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")
+
+S='Glosa4127B' = “dar qualidades ou habilidades [a]”
+{dotar: Deus, Em sua infinita sabedoria, I]dotou a natureza de ensinamentos.,
+favorecer: A natureza a I]favoreceu com um solo mais fértil.,
+munir: Sua madrasta, a natureza, lhe I]muniu de uma fabulosa capacidade de adaptação a estranhas e máximas realidades., }
+
+Chave: DOTAR <verb.social>
+ILI: 02400129
+
+Sense 1
+{02400129} <verb.social> endow, indue, gift, empower1, invest3, endue -- (give qualities or abilities to)
+       => {00499201} <verb.change> enable -- (render capable or able for some task; "This skill will enable you to find a job on Wall Street"; "The rope enables you to secure yourself when you climb the mountain")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")
+

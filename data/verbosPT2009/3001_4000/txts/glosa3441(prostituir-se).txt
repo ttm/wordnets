@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA3441
+
+DADO O SYNSET:
+
+S='Glosa3441'
+	    {
+	      meretriciar-se: x,
+	      prostituir-se: Não consegue suportar a idéia de vê-la [prostituir-se/Dono de boate é preso acusado de obrigar menores a [se prostituir,
+	      vender-se: Aquela ]vendeu-se por pouco ao marido/Ela ]vendeu-se para conseguir uma vida de arte dramática contínua,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3441' = “vender o próprio corpo; trocar sexo por dinheiro”
+	     {prostituir-se: Para sobreviver, I]prostituía-se e praticava pequenos furtos,
+	      vender-se: Aquela ]vendeu-se por pouco ao marido/Ela ]vendeu-se para conseguir uma vida de arte dramática contínua,}
+Chave: PROSTITUIR-SE <verb.social>
+ILI: 02478495
+
+Sense 1
+{02478495} <verb.social> prostitute -- (sell one's body; exchange sex for money)
+       => {02177556} <verb.possession> sell -- (exchange or deliver for money or its equivalent; "He sold his house in January"; "She sells her body to survive and support her drug habit")
+           => {02192193} <verb.possession> exchange, change, interchange -- (give to, and receive from, one another; "Would you change places with me?"; "We have been exchanging letters for a year")
+               => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children")

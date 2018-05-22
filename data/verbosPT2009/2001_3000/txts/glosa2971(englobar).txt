@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA2971
+
+DADO O SYNSET:
+
+S='Glosa2971'
+	    {compreender: A região neártica [compreende toda a América do Norte.,
+	      englobar: A região paleártica [engloba a Europa e o norte da Ásia.,
+	      fundir1: Em 21 de novembro, é criado o Instituto Nacional de Previdência Social (INPS), [fundindo uma série de institutos de previdência privados.,
+	      incluir: O grupo conhecido como complexo B [inclui as vitaminas B1 B2, B6, Bl2 e PP.,
+	      incorporar: Estes dois últimos não entrariam na coletânea de Papéis Avulsos, que [incorpora outros contos saídos na Gazeta de Notícias.,}
+
+	  A='Glosa1339'
+	    {desenglobar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2971' = “Incluir ou conter, ter como componente”
+	    {compreender: A região neártica [compreende toda a América do Norte.,
+	      englobar: A região paleártica [engloba a Europa e o norte da Ásia.,
+	      fundir1: O texto I]fundiu, numa só disposição, os embargos de declaração contra acórdão ou contra sentença,.,
+	      incluir: O grupo conhecido como complexo B [inclui as vitaminas B1 B2, B6, Bl2 e PP.,
+	      incorporar: Estes dois últimos não entrariam na coletânea de Papéis Avulsos, que [incorpora outros contos saídos na Gazeta de Notícias.,}
+
+  	A='Glosa1339'
+	    { }
+Chave: ENGLOBAR <verb.stative>
+ILI: 02551275
+
+Sense 2
+{02551275} <verb.stative> incorporate, contain, comprise -- (include or contain; have as a component; "A totally new idea is comprised in this paper"; "The record contains many old songs from the 1930's")
+       => {02554437} <verb.stative> include -- (have as a part, be made up out of; "The list includes the names of many famous writers") 

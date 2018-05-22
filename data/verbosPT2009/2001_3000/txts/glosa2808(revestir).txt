@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2808
+
+DADO O SYNSET:
+
+S='Glosa2808'
+	    {cobrir: Especialistas do instituto filipino de vulcanologia disseram que a explosão do Pinatubo, localizado 90 quilómetros a Noroeste de Manila, [cobriu com lama e pedras incandescentes uma área de doze quilómetros ao redor da sua cratera.,
+	      encher: O vulcão I]encheu o chão de cinzas, os dois hominídeos caminharam por cima e, logo depois, o vulcão cobriu as pegadas com mais cinzas, preservando-as para nós. ,
+	      recamar: Vem, meu querido amor, vem reclinar-te. Neste viçoso leito, que a natura  para nós I]recamou de musgo e flores.,
+	      revestir: O rei I]revestiu de ouro a sala: traves, umbrais, paredes e portas; nas paredes mandou esculpir querubins.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2808' = “Formar uma cobertura sobre”
+	    {cobrir: A explosão do Pinatubo [cobriu com lama e pedras incandescentes uma área de doze quilómetros ao redor da sua cratera.,
+	      encher: O vulcão I]encheu o chão de cinzas, os dois hominídeos caminharam por cima e, logo depois, o vulcão cobriu as pegadas com mais cinzas, preservando-as para nós. ,
+	      recamar: ]Recamou-a de pérolas.,
+	      revestir: O rei I]revestiu de ouro a sala: traves, umbrais, paredes e portas; nas paredes mandou esculpir querubins.,}
+
+Chave: REVESTIR <verb.contact>
+ILI: 01171349
+
+Sense 2
+{01171349} <verb.contact> cover1, spread over -- (form a cover over; "The grass covered the grave")
+       => {01169130} <verb.contact> touch1, adjoin3, meet, contact3 -- (be in direct physical contact with; make contact; "The two buildings touch"; "Their hands touched"; "The wire must not contact the metal cover"; "The surfaces contact at this point") 

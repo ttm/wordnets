@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA3420
+
+DADO O SYNSET:
+
+S='Glosa3420'
+	{maximizar: Os amigos H]maximizaram sua participação nos acontecimentos.,
+	 sobreestimar: x,
+	 superestimar: Eles H]superestimavam aquele cão.}
+
+A='Glosa3460'
+{desconhecer, desdenhar, minimizar, subestimar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3420' = “designar um valor muito alto [para]”
+	{maximizar: Os amigos H]maximizaram sua participação nos acontecimentos.,
+	 superestimar: Eles H]superestimavam aquele cão.}
+
+A='Glosa3460'
+{desconhecer, desdenhar, minimizar, subestimar}
+Chave: SUPERESTIMAR <verb.cognition>
+ILI: 00672356
+
+Sense 2
+{00672356} <verb.cognition> overvalue, overestimate2 -- (assign too high a value to; "You are overestimating the value of your old car")
+       => {00672107} <verb.cognition> value3 -- (fix or determine the value of; assign a value to; "value the jewelry and art work in the estate")
+           => {00676553} <verb.cognition> determine1, set4 -- (fix conclusively or authoritatively; "set the rules")

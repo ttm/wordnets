@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA3782
+
+DADO O SYNSET:
+
+S='Glosa3782'
+{entremear: Algumas questões deveriam fazer parte do dia-a-dia da escola, I]entremear as reuniões para constituir a base de um bom planejamento. ,
+	 entremeter: H]Entremeteu algumas notas no artigo.,
+	 entrepor: x,
+	 intermear: x,
+	 intermediar: Muitas revoltas H]intermediaram esses dois períodos.,
+	 intermeter: x,
+	 interpor: A]Interpôs a razão entre o amor e a paixão.  ,
+	 permear: E a questão da igualdade [permeia todas as mudanças em curso.}
+	
+A ANÁLISE RESULTA EM:
+
+S='Glosa3782' = “acrescentar como um elemento adicional ou parte”
+{entremear: Algumas questões deveriam fazer parte do dia-a-dia da escola, I]entremear as reuniões para constituir a base de um bom planejamento. ,
+	 entremeter: H]Entremeteu algumas notas no artigo.,
+	 intermediar: Muitas revoltas H]intermediaram esses dois períodos.,
+	 interpor: A]Interpôs a razão entre o amor e a paixão.  ,
+	 permear: E a questão da igualdade [permeia todas as mudanças em curso.}
+Chave: ENTREMEAR <verb.change>
+ILI: 00177959
+
+Sense 5 
+{00177959} <verb.change> mix1, mix in1 -- (add as an additional element or part; "mix water into the drink")
+       => {00176022} <verb.change> add -- (make an addition (to); join or combine or unite with others; increase the quality, quantity, zise or scope of; "We added two students to that dorm room"; "She added a personal note to her letter"; "Add insult to injury"; "Add some extra plates to the dinner table")
+           => {00150804} <verb.change> increase -- (become bigger or greater in amount; "The amount of work increased")
+               => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

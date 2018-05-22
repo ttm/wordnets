@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA3521
+
+DADO O SYNSET:
+
+S='Glosa3521'
+	{abalar-se: Raimundo foi o único que não [se abalou. / O mordomo não I]se abalou com o pedido,
+	 comover-se: Ele [se comove com a ingenuidade dela. ,
+	 enternecer-se: Tio Cosme também [se enternecia muito. / Os macacos [se enternecem e resolvem salvá-la.  ,
+	 impressionar-se: Carreras conheceu cerca de 20 crianças afetadas pelo câncer e [se impressionou com a precariedade do Centroda Criança Leucêmica. / Li o livro, que [me impressionou muito. ,
+	 mover-se: Quando ainda estava longe, seu pai o viu, e I]se moveu de intima compaixão e, correndo, abraçou-o e o beijou.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3521' = “ter um impacto emocional ou cognitivo [sobre]”
+	{abalar-se: Raimundo foi o único que não [se abalou.,
+	 comover-se: Ele [se comove com a ingenuidade dela.,
+	 enternecer-se: Tio Cosme também [se enternecia muito.,
+	 impressionar-se: Carreras conheceu cerca de 20 crianças afetadas pelo câncer e [se impressionou com a precariedade do Centroda Criança Leucêmica.,
+	 mover-se: Quando ainda estava longe, seu pai o viu, e I]se moveu de intima compaixão e, correndo, abraçou-o e o beijou.}
+Chave: COMOVER-SE <verb.emotion>
+ILI: 01716999
+
+Sense 9
+{01716999} <verb.emotion> affect, impress1, move, strike -- (have an emotional or cognitive impact upon; "This child impressed me as unusually mature"; "This behavior struck me as odd")

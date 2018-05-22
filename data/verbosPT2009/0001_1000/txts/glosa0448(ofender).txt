@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0448
+
+DADO O SYNSET:
+
+S='Glosa448'
+{ofender: O leitor poderá dizer que clonagem é antiética, além de [ofender princípios religiosos.,
+pecar: Impossível é a Deus [pecar.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa448' = “agir em desrespeito de leis e regras; desacatar”
+{ofender: O leitor poderá dizer que clonagem é antiética, além de [ofender princípios religiosos.,
+pecar: Sendo assim, esta profecia refere-se a quem está influenciando o rei de Tiro, isto é, o anjo querubim que I]pecou contra Deus.,}
+Chave: OFENDER <verb.social>
+ILI: 02490637
+
+Sense 2
+{02490637} <verb.social> transgress, offend, infract, violate, go against, breach, break -- (act in disregard of laws and rules; "offend all laws of humanity"; "violate the basic laws or human civilization"; "break a law")
+       => {02383832} <verb.social> disrespect -- (show a lack of respect for)
+           => {02384110} <verb.social> relate -- (have or establish a relationship to; "She relates well to her peers")
+               => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

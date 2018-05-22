@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA1775
+
+DADO O SYNSET:
+
+S='Glosa1775'
+	{afestoar-se: A mãe H]afestoou-se de tal forma, que ninguém a reconheceu.,
+	 agrinaldar-se: x,
+	 enfestoar-se: x,
+	 engrinaldar-se: O arbusto brotou viçoso e, bafejado pelo calor, enfeitou-se de folhas, I]engrinaldou-se de botões.,
+	 grinaldar-se: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1775' = “adornar-se com faixas de flores ou folhagens”
+	{afestoar-se: Os escassissimos existentes, descolmados pelas ventanias, esburaquentos, I]afestoam-se do melão de São Caetano — a hera rústica das nossas ruínas.,
+	 engrinaldar-se: Dante cai num sono profundo e sonha com uma jovem e bela senhora que vai colhendo flores para se I]engrinaldar: é Lia, símbolo da vida ativa.,}
+Chave: ENGRINALDAR-SE <verb.creation>
+ILI: 01621729
+
+Sense 1
+{01621729} <verb.creation> garland -- (adorn with bands of flowers or leaves; "They garlanded the statue")
+       => {01627899} <verb.creation> decorate, adorn, grace, ornament, embellish, beautify -- (make more attractive by adding ornament, colour, etc.; "Decorate the room for the party"; "beautify yourself for the special day")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

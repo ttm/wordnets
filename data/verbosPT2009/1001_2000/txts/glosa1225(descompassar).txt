@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA1225
+
+DADO O SYNSET:
+
+S='Glosa1225'
+{descompassar: Deve ter mínimo de musicalidade para não cantar desafinado, nem I]descompassar os músicos.,}
+	  
+A='Glosa932'
+{cadenciar, compassar, ritmar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1225' = “executar sem o devido compasso”
+{descompassar: Já tentei corrigir através do delay, mas não adianta, quando chega no final do vídeo ele I]descompassa o som novamente.,}
+A='Glosa932'
+{cadenciar, compassar, ritmar}
+Chave: DESCOMPASSAR <verb.change>
+ILI: EQ_HAS_HYPERONYM – 00552093 – “tornar desprazeroso ao ouvido”
+
+Sense 2
+{00552093} <verb.change> dissonate -- (make harsh and unpleasant-sounding)
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA2455
+
+DADO O SYNSET:
+
+  S='Glosa2455'
+	    {ejacular: _Tubia! - I]ejaculou a mulata muito depressa.,
+	      emitir: As cordas vocais, por exemplo, são responsáveis por podermos [emitir sons.,
+	      entoar: A cumplicidade é tamanha, que ela consegue até induzir seu público a [entoar uma língua que desconhece.,
+	      expirar: Cecília esperava o seu último momento com a sublime resignação evangélica, que só dá a religião do Cristo; morria feliz; Peri tinha confundido as suas almas na derradeira prece que [expirara dos seus lábios. ,
+	      soltar: Apenas o tigre moribundo sentiu o odor da carniça, e o sabor do sangue que filtrando entre as presas caíra na boca, fez uma contorção violenta, e quis [soltar um urro que apenas exalou-se num gemido surdo e abafado.,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2455' = “Expressar em tom audível, emitir sons (não necessariamente palavras).”
+	    {ejacular: _Tubia! - I]ejaculou a mulata muito depressa.,
+	      emitir: O bebê se contorceu, pendurado na mão do pai, mas não [emitiu um único som.,
+	      entoar: Então o chefe pitiguara [entoou o canto da morte.,
+	      expirar: Peri tinha confundido as suas almas na derradeira prece que [expirara dos seus lábios.,
+	      soltar: I]Soltou um berro triste e compungido.,}
+
+Chave: ENTOAR <verb.communication>
+ILI: 00951670
+
+Sense 3
+{00951670} <verb.communication> utter2, emit, let out2, let loose -- (express audibly; utter sounds (not necessarily words); "She let out a big heavy sigh"; "He uttered strange sounds that nobody could understand") 

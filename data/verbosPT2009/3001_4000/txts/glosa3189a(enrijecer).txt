@@ -1,0 +1,38 @@
+ANÁLISE DA GLOSA3189a
+
+DADO O SYNSET:
+
+S='Glosa3189'
+	    {
+	      arrijar: x,
+	      atesar: Se a besta refugava, A]atesando as orelhas, Tomé Saíra, tiritando, persignava-se.,
+	      desbambar: x,
+	      encruar: Caso o vento fique contra a carne, ela poderá I]encruar.,
+	      encruecer: x,
+	      encruentar: x,
+	      endurar: x,
+	      endurecer: Tentam obter grão translúcido e bom de cozimento - um meio-termo entre o arroz que empapa e o que [endurece depois de esfriar. ,
+	      endurentar: x,
+	      enrijecer: As aulas de aeróbica terminam por volta de 22h30, a partir desse horário, só fica na academia quem quiser [enrijecer os músculos com os aparelhos. ,
+	      entesar: Seu Fernando endireitou-se na poltrona, I]entesou o tronco e esticou as pernas curtas e finas, descansando da posição incômoda que assumira por tanto tempo.,
+	      erijar: Foi no Tietê que os moços paulistas encontraram meios de enrijar os músculos.,
+	      esticar: Luisinha, vendo-o, pôs-se nas pontas dos pés, [esticou o pescoço, e encarou-o por muito tempo estática e absorta. ,
+	      inteiriçar: O vento assobiava nas inúmeras fendas da porta da cozinha e entrava em correntes impetuosas pelo tubo da chaminé, indo I]inteiriçar os membros regelados da desditosa criança.,
+	      retesar: No fim desse prazo, Rubião viu-o deixar a pena, [retesar o busto, esticar os braços e passar as mãos pelos olhos. ,
+	      tesar: x,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3189a' = “tornar duro ou mais duro”
+	     {encruar: Na região primária o material I]encrua, tornando-se mais rígido, e a taxa de crescimento da deformação com o tempo diminui.,
+	      endurecer: O material I]endureceu e formou o basalto,uma rocha escura que é muito utilizada, em algumas cidades,no calçamento de avenidas e ruas. ,
+	      enrijecer: A neve, antes muito fofa, agora I]enrijeceu e se transformou em neve em pó, que acumula nas botas. ,
+	      inteiriçar: Ela I]inteiriçou o corpo, espreguiçando-se com um ligeiro frêmito felino e adiantou-se para o cavalete.,
+	      retesar: Tirou a camisa, I]retesou o músculo e fez um pequeno corte no pulso direito. ,}
+Chave: ENRIJECER <verb.change>
+ILI: 00430473
+
+Sense 1
+{00430473} <verb.change> harden, indurate -- (become hard or harder; "The wax hardened")
+       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

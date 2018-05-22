@@ -1,0 +1,46 @@
+ANÁLISE DA GLOSA2470
+
+DADO O SYNSET:
+
+S='Glosa2470'
+	    {adoidar: A moça sentiu-se I]adoidar pelo sofrimento e sua imaginação começou a delirar acordada.,
+	      adoudar: x,
+	      alienar: x,
+	      aloucar: Isto é de assombrá-los e M]aloucá-los.,
+	      alucinar: Um físico nuclear pode I]alucinar com um certo brilho atômico a revestir seus inimigos, enquanto um cidadão menos diferenciado, com um espírito do morto a rondar sua casa, ambos porém, independentemente do nível sócio-cultural têm a mesma probabilidade de alucinar.,
+	      desassisar: Aquela dor H]desassisava-o.,
+	      desatinar: Nas trevas andam às apalpadelas, sem terem luz, e os faz I]desatinar como ébrios.,
+	      desmiolar: A ira I]desmiola, desmemoria., tira a razão, enlouquece o homem.,
+	      desvairar: Concluí de mim para mim que era a antiga paixão que me ofuscava ainda e me fazia [desvairar como sempre.,
+	      desvariar: Ainda que o ciclo do açúcar tenha criado condições favoráveis ao desabrochar do barroco nas cidades da costa, o ouro, tão abundante em todo o século XVIII, I]desvariou a imaginação de nossa devota população.,
+	      embebedar: x,
+	      endoidar: Golpe suficiente para I]endoidar os executivos da poderosa Sony.,
+	      endoidecer: O.J. [endoidece na cadeia com outra notícia chocante de Nicole.,
+	      endoudar: O amor me acalma e I]endouda, o amor me eleva e abate.,
+	      enloucar: x,
+	      enlouquecer: O ambiente político [enlouquece os investidores.,
+	      ensandecer: Por trás das cortinas, espalham boatos terroristas para I]ensandecer a base do Governo.,
+	      girar: x,
+	      perturbar: A chegada de Lucy, uma virgem ansiosa por afirmar-se sexualmente, [perturba profundamente os membros da casa.,
+	      soçobrar: Alguns deles, antes de I]soçobrar no alcoolismo, foram encanadores, eletricistas, cozinheiros, contadores ou marceneiros.,
+	      variar: Ela I]variava.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2470' = “Fazer enlouquecer; fazer alguém perder o juízo.”
+	    {adoidar: A paixão não correspondida H]adoidou-o.,
+	      aloucar: Isto é de assombrá-los e M]aloucá-los.,
+	      alucinar: Porém, sua conspiração I]alucinou os incrédulos.,
+	      desassisar: Aquela dor H]desassisava-o.,
+	      desatinar: Talvez tenha sido a causa da esquizofrenia que o I]desatinou durante o Fórum Social.,
+	      desmiolar: A ira I]desmiola, desmemoria., tira a razão, enlouquece o homem.,
+	      enlouquecer: O ambiente político [enlouquece os investidores.,
+	      ensandecer: O bárbaro crime I]ensandeceu dom Pedro, que pegou em armas contra o pai.,
+	      perturbar: A chegada de Lucy, uma virgem ansiosa por afirmar-se sexualmente, [perturba profundamente os membros da casa.,
+	      soçobrar: Por pouco a notícia desastrosa não o A]soçobrou.,}
+
+Chave: ENLOUQUECER
+ILI: EQ_NEAR_SYNONYM - 01735946
+
+Sense 1
+{01735946} <verb.emotion> madden2, craze -- (cause to go crazy; cause to lose one's mind) 

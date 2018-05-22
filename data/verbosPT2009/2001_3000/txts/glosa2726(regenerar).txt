@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA2726
+
+DADO O SYNSET:
+
+S='Glosa2726'
+	    {regenerar: O pedaço que conservar o núcleo se manterá vivo e até poderá [regenerar a parte perdida.,
+	      regerar: Mas a resposta explicava que com células retiradas dos embriões descobriu-se que era possível fazer I]regerar células mortas e recuperar células do coração.,
+	      reproduzir: Células-mães capazes de reconstituir a pele e o pêlo foram identificadas pela primeira vez em um mamífero adulto, por uma equipe de cientistas franceses, conforme trabalho publicado na revista Cell e que abre os horizontes da dermatologia. O estudo é a "primeira prova direta" da existência dessas células e de sua capacidade de I]reproduzir a pele, disse Yann Barrandon, da Inserm, escola normal superior, em Paris.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2726' = “Substituir (tecido ou uma parte do corpo) através da formação de um novo tecido.”
+	    {regenerar: O pedaço que conservar o núcleo se manterá vivo e até poderá [regenerar a parte perdida.,
+	      regerar: Mas a resposta explicava que com células retiradas dos embriões descobriu-se que era possível fazer I]regerar células mortas e recuperar células do coração.,
+	      reproduzir: O estudo é a "primeira prova direta" da existência dessas células e de sua capacidade de I]reproduzir a pele, disse Yann Barrandon, da Inserm, escola normal superior, em Paris.,}
+
+Chave: REGENERAR <verb.change>
+ILI: 00161943
+
+Sense 5
+{00161943} <verb.change> regenerate2 -- (replace (tissue or a body part) through the formation of new tissue; "The snake regenerated its tail")
+       => {01573613} <verb.creation> re-create -- (create anew; "Re-create the boom of the West on a small scale")
+           => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor") 

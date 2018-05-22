@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA3668
+
+DADO O SYNSET:
+
+S='Glosa3668'
+	    {
+	      empalmar: Se o espectador quiser ver o baralho, retire a carta cortada sem que ele perceba, I]empalmando a carta por exemplo.# Melo Rosa ia [empalmando os cobres que lhe dava o comendador.,
+	      escamotar: x,
+	      escamotear: Tem esperteza com as mãos, na arte de I]escamotear cartas.,
+	      palmar: x,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3668' = “agarrar rapidamente ou avidamente”
+	     {empalmar: Se o espectador quiser ver o baralho, retire a carta cortada sem que ele perceba, I]empalmando a carta por exemplo.# Melo Rosa ia [empalmando os cobres que lhe dava o comendador.,}
+Chave: EMPALMAR <verb.contact>
+ILI: 01398593
+
+Sense 1
+{01398593} <verb.contact> snatch, snatch up, snap -- (to grasp hastily or eagerly; "Before I could stop him the dog snatched the ham bone")
+       => {01175818} <verb.contact> seize, prehend, clutch -- (take hold of; grab; "The salesclerk quickly seized the money on the counter"; "She clutched her purse"; "The mother seized her child by the arm"; "Birds of prey often seize small mammals")
+           => {01177510} <verb.contact> take, get hold of -- (get into one's hands, take physically; "Take a cookie!"; "Can you take this bag, please")

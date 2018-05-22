@@ -1,0 +1,36 @@
+ANÁLISE DA GLOSA3477a
+
+DADO O SYNSET:
+
+S='Glosa3477'
+	    {
+	      arrarar: x,
+	      clarear: ...]clarear um bosque,
+	      desbastar: Os tiras haviam [desbastado a cabeleira de Carioca/Recomenda-se [desbastar preferencialmente as árvores bifurcadas, tortas e fracas,
+	      desbastecer: x,
+	      diminuir: O erro de Capitu foi não deixá-los crescer infinitamente, antes [diminuir até às dimensões normais, e dar-lhe o movimento do costume,
+	      enrarecer: O tempo costuma ]enrarecer os cabelos pretos,
+	      minuir: x,
+	      podar: A Prefeitura de Belo Horizonte vai [podar cerca de 40 mil árvores no próximo mês,
+	      rarear: Nosso colega, Nini, sentiu dificuldades para continuar quando começou a ]rarear a vegetação e ele precisava para se orientar/...a exploração do pau-brasil era monopólio régio e a madeira já começava a ]rarear junto ao litoral,
+	      rarefazer: O processo de ocupação da bacia do Itajaí teve, em grandes extensões, o efeito de ]rarefazer a cobertura vegetal e reduzir a espessura da liteira,
+	      talhar: ...]talhar plantas,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3477A' = “cultivar e aparar o crescimento”
+	     {clarear: H]Clarear um bosque para retirar madeira,
+	      desbastar: Os tiras haviam [desbastado a cabeleira de Carioca/Thoreau não I]desbastou o terreno, mantendo a vegetação agreste à beira da sua porta e janelas,
+	      diminuir: Também denominada poda de galhos ou de poda de madeira antiga, onde você retira e/ou I]diminui galhos, reduz o próprio tronco,
+	      podar: A Prefeitura de Belo Horizonte vai [podar cerca de 40 mil árvores no próximo mês,
+	      talhar: mandou H]talhar as árvores do jardim,}
+Chave: PODAR <verb.contact>
+ILI: 01281815
+
+Sense 1
+{01281815} <verb.contact> snip, clip4, crop, trim2, lop, dress3, prune, cut back -- (cultivate, tend, and cut back the growth of; "dress the plants in the garden")
+       => {00418002} <verb.change> thin out -- (make sparse; "thin out the young plants")
+           => {00416885} <verb.change> reduce, cut down, cut back1, trim, trim down, trim back, cut6, bring down -- (cut down on; make a reduction in; "reduce your daily fat intake"; "The employer wants to cut back health benefits")
+               => {00428838} <verb.change> decrease1, lessen2, minify -- (make smaller; "He decreased his staff")
+                   => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

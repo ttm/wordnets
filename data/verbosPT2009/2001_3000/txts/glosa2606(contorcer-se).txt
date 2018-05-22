@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA2606
+
+DADO O SYNSET:
+
+S='Glosa2606'
+	    {contorcer-se: Essa cena de enforcamento mostra ao fundo condenados que acabaram de cair do patíbulo, e oscilam como pêndulos enquan to seus corpos [se contorcem nos últimos instantes de vida.,
+	      retorcer-se: No exterior um semibalão mostra imagens de rostos que parecem [se retorcer.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2606' = “mover-se de modo contorcido”
+	    {contorcer-se: Essa cena de enforcamento mostra ao fundo condenados que acabaram de cair do patíbulo, e oscilam como pêndulos enquanto seus corpos [se contorcem nos últimos instantes de vida.,
+	      retorcer-se: No exterior um semibalão mostra imagens de rostos que parecem [se retorcer.,}
+
+Chave: CONTORCER-SE <verb.motion>
+ILI: 01814282
+
+Sense 1
+{01814282} <verb.motion> writhe, wrestle, wriggle, worm, squirm, twist1 -- (to move in a twisting or contorted motion, (especially when struggling); "The prisoner writhed in discomfort"; "The child tried to wriggle free from his aunt's embrace")
+       => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right")

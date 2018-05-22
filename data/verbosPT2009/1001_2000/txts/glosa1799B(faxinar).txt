@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA1799B
+
+DADO O SYNSET:
+
+S='Glosa1799'
+{afaxinar: x,
+ enfeixar: São desta categoria os monólogos e cançonetas que os editores resolveram I]enfeixar no presente volume. # O homem H]enfeixou as varas.,
+ engavelar: x,
+ faxinar: I]Faxinar guardados, abrir baús, repor os livros na estante segundo uma ordem particular de afeição por autores ou obras. ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1799'B = “limpar e pôr em ordem a casa”
+{faxinar: Domingão, meu marido passou o dia inteiro estudando e eu, I]faxinando a casa.,}
+Chave: FAXINAR <verb.contact>
+ILI: 01491099
+
+Sense 1
+{01491099} <verb.contact> houseclean, clean house, clean1 -- (clean and tidy up the house; "She housecleans every week")
+       => {00266852} <verb.change> tidy, tidy up, clean up3, neaten, straighten, straighten out, square away -- (put (things or places) in order; "Tidy up your room!")
+           => {00268653} <verb.change> order -- (bring order to or into; "Order these files")
+               => {01422386} <verb.contact> arrange, set up -- (put into a proper or systematic order; "arrange the books on the shelves in chronological order")
+                   => {01452069} <verb.contact> put, set, place, pose2, position, lay1 -- (put into a certain place or abstract location; "Put your things here"; "Set the tray down"; "Set the dogs on the scent of the missing children"; "Place emphasis on a certain point")
+                       => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA1229
+
+DADO O SYNSET:
+
+S='Glosa1229'
+{desconcentrar: A Europa precisa I]desconcentrar sua produção de commodities e liberar-se para outros segmentos econômicos,}
+	  
+A='Glosa1738'
+	    {acumular, armazenar, concentrar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1229' = “abastecer com menor número ou quantidade do que o usual”
+{desconcentrar: A UFPA I]desconcentrou as suas atividades, inicialmente as do ensino de graduação.,}
+A='Glosa1738'
+	    {acumular, armazenar, concentrar}
+Chave: DESCONCENTRAR <verb.possession> 
+ILI: EQ_HAS_HYPERONYM - 02256514 - “abastecer com menor número ou quantidade do que o usual ou desejável”
+
+Sense 1
+{02256514} <verb.possession> understock -- (stock with less than the usual or desirable number or quantity)
+       => {02256133} <verb.possession> stock1, buy in -- (stock up on to keep for future use or sale; "let's stock coffee as long as prices are low")
+           => {02259805} <verb.possession> supply, provide, render2, furnish -- (provide or furnish with; "We provided the room with an electrical heater")
+               => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+                   => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children")

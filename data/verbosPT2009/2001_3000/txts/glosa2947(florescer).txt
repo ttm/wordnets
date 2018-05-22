@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA2947
+
+DADO O SYNSET:
+
+S='Glosa2947'
+	    {enflorar: Cinco anos demoravam os cacaueiros a dar os primeiros frutos, mas aqueles que foram plantados sobre a terra do Sequeiro Grande I]enfloraram no fim do terceiro ano e produziram no quarto.  ,
+	      enflorear: x,
+	      enflorescer: A mocidade em plena floração é fruto sem dano, rosa que I]enfloresceu, para uma esplêndida maioridade. ,
+	      florear: No experimento em vaso com solo argiloso e MB-4, observa-se bem o feijoeiro em pleno vigor, verde com vagens novas, outras já secas e a planta ainda I]floreando.,
+	      florejar: Deitaram-na sobre os capins, sobre um pé de malmequer branco, ramalhudo, que I]florejava ali, como num propósito. ,
+	      florescer: Teu irmão parte para te fazer a vontade, mas ele voltará todas as vezes que o cajueiro [florescer.,
+	      florir: É ótimo poder arrancar o mato de meu jardim, eu me esqueço de todo o resto, além de ter o prazer de ver coisas novas nascendo, quando uma orquídea começa a [florir ou quando brotam os meus jacintos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2947' = “Produzir ou dar flores”
+	    {enflorar: E, após cinco anos, os cacaueiros I]enfloraram.,
+	      enflorescer: A mocidade em plena floração é fruto sem dano, rosa que I]enfloresceu, para uma esplêndida maioridade.,
+	      florear: As quaresmeiras florearam e deram um bonito aspecto à cidade.,
+	      florejar: Deitaram-na sobre os capins, sobre um pé de malmequer branco, ramalhudo, que I]florejava ali, como num propósito.,
+	      florescer: Mas uma mulher que vivia perto da minha casa decretou a morte de um ipê que I]florescia à frente de sua casa porque ele sujava o chão.,
+	      florir: Essa rosa I]floriu em plena primavera.,}
+Chave: FLORESCER <verb.change>
+ILI: 00285185
+
+Sense 1
+{00285185} <verb.change> bloom, blossom1, flower -- (produce or yield flowers; "The cherry tree bloomed")
+       => {00243643} <verb.change> develop -- (grow, progress, unfold, or evolve through a process of evolution, natural growth, differentiation, or a conducive environment; "A flower developed on the branch"; "The country developed into a mighty superpower"; "The embryo develops into a fetus"; "This situation has developed over a long time")
+           => {00223119} <verb.change> grow -- (become larger, greater, or bigger; expand or gain; "The problem grew too large for me"; "Her business grew fast")
+               => {00150804} <verb.change> increase -- (become bigger or greater in amount; "The amount of work increased")
+                   => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+                       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night") 

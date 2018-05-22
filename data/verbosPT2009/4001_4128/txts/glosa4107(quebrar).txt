@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA4107
+
+DADO O SYNSET:
+
+S='Glosa4107'
+{danificar: O operário I]danificou a máquina por omissão.,
+quebrar: Sem querer, I]quebrou a máquina de lavar.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4107' = “arruinar completamente”
+{danificar: O operário I]danificou a máquina por omissão.,
+quebrar: Sem querer, I]quebrou a máquina de lavar.,}
+Chave: QUEBRAR <verb.contact>
+ILI: 01329607
+
+Sense 5
+{01329607} <verb.contact> break1, bust1 -- (ruin completely; "He busted my radio!")
+       => {01520843} <verb.contact> destroy, ruin -- (destroy completely; damage irreparably; "You have ruined my car by pouring sugar in the tank!"; "The tears ruined her make-up")
+          Also See-> {01610787} <verb.creation> break up#8; {01610787} <verb.creation> break apart#1; {01221387} <verb.contact> break off#5; {01517890} <verb.contact> break up1#10; {00622910} <verb.cognition> break down#1

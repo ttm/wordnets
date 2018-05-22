@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA0127
+
+DADO O SYNSET:
+
+S='Glosa127'
+{admitir: Nele, esse filósofo dialogava com as pessoas, mostrando a elas as contradições de seus conceitos, forçando-as a [admitirem sua ignorância.,
+consentir: Quem cala, [consente.,
+permitir: Justiça seja feita, Itamar Franco não I]permitia esse tipo de ação. ,
+tolerar: Na reunião, Marcello afirmou que não vai [tolerar a existência de poder paralelo nas favelas.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa127' = “permitir a presença de ou permitir (uma atividade) sem opor(-se) ou proibir(-se)” 
+{admitir: Extremamente perfeccionista, Vanize I]não admite erros nas pesquisas científicas.,
+consentir: Quem cala, [consente.,
+permitir: Justiça seja feita, Itamar Franco não I]permitia esse tipo de ação. ,
+tolerar: Na reunião, Marcello afirmou que não vai [tolerar a existência de poder paralelo nas favelas.,}
+Chave: PERMITIR <verb.communication>
+ILI: 00777007
+
+Sense 3
+{00777007} <verb.communication> allow6, permit6, tolerate1 -- (allow the presence of or allow (an activity) without opposing or prohibiting; "We don't allow dogs here"; "Children are not permitted beyond this point"; "We cannot tolerate smoking in the hospital")
+       => {00776433} <verb.communication> permit, allow, let2, countenance -- (consent to, give permission; "She permitted her son to visit her estranged husband"; "I won't let the police search her basement"; "I cannot allow you to see your exam")
+           => {00771887} <verb.communication> accept, consent, go for -- (give an affirmative reply to; respond favorably to; "I cannot accept your invitation"; "I go for this resolution")
+               => {00693825} <verb.cognition> react, respond -- (show a response or a reaction to something)
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA2090
+
+DADO O SYNSET:
+	
+S='Glosa2090'
+    	{eternar: Mas quando um diretor quer I]eternar em filme a vida de alguém no mundo das artes, vai buscar não o curador, mas Van Gogh - em várias versões.,
+      	 eternizar: É uma tentativa de [eternizar aqueles privilégios dos servidores que já são privilegiados, criando uma casta de funcionários de primeira classe e relegando todas as centenas de milhares de militares e civis à condição de funcionários de segunda classe.,
+      	 perpetuar: Chamar o Judiciário e o Legislativo de «grupos» que querem [perpetuar privilégios não é sinal de flexibilidade.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2090' = “fazer [algo ou alguém] continuar indefinidamente” 
+    	{eternar: Sei que a mente e o olhar vão I]eternar esse movimento.,
+      	 eternizar: É uma tentativa de [eternizar aqueles privilégios dos servidores que já são privilegiados, criando uma casta de funcionários de primeira classe e relegando todas as centenas de milhares de militares e civis à condição de funcionários de segunda classe.,
+      	 perpetuar: Chamar o Judiciário e o Legislativo de «grupos» que querem [perpetuar privilégios não é sinal de flexibilidade.}
+Chave: ETERNIZAR <verb.stative>
+ILI: 02569796
+
+Sense 1
+{02569796} <verb.stative> eternize -- (cause to continue indefinitely)
+       => {02569643} <verb.stative> perpetuate -- (cause to continue or prevail; "perpetuate a myth")
+           => {02599119} <verb.stative> continue, uphold, carry on, bear on1, preserve -- (keep or maintain in unaltered condition; cause to remain or last; "preserve the peace in the family"; "continue the family tradition"; "Carry on the old traditions")
+               => {02600965} <verb.stative> keep, maintain, hold -- (keep in a certain state, position, or activity; e.g., "keep clean"; "hold in place"; "She always held herself as a lady"; "The students keep me on my toes")

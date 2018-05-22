@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA1402
+
+DADO O SYNSET:
+
+S='Glosa1402'
+{desestribar: Mário Fontoura, no quinto páreo, sentiu que seu cavalo seguia mal e chegou a I]desestribar para se atirar da montaria.,
+ destribar: Aparecido declarou que nos 1.000 metros o seu selim correu para frente e nos 500 metros finais foi obrigado a I]destribar.,}
+	  
+A='Glosa1403'
+{estribar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1402' = “descer do estribo”
+{desestribar: Mário Fontoura, no quinto páreo, sentiu que seu cavalo seguia mal e chegou a I]desestribar para se atirar da montaria.,
+ destribar: Aparecido declarou que nos 1.000 metros o seu selim correu para frente e nos 500 metros finais foi obrigado a I]destribar.}
+	  
+A='Glosa1403'
+{estribar}
+Chave: DESTRIBAR <verb.motion>
+ILI: EQ_HA_HYPERONYM - 01901014
+
+Sense 1
+{01901014} <verb.motion> unhorse, dismount, light1, get off, get down1 -- (get off (a horse))
+       => {01912987} <verb.motion> descend, fall, go down2, come down -- (move downward and lower, but not necessarily all the way; "The temperature is going down"; "The barometer is falling"; "The curtain fell on the diva"; "Her hand went up and then fell again")
+           => {01782203} <verb.motion> travel, go, move3, locomote -- (change location; move, travel, or proceed; "How fast does your new car go?"; "We travelled from Rome to Naples by bus"; "The policemen went from door to door looking for the suspect"; "The soldiers moved towards the city in an attempt to take it before night fell"

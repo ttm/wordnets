@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0923
+
+DADO O SYNSET:
+
+S='Glosa923'
+{comer: Palavras que o tempo I]comeu.,
+deixar: H]Deixou os detalhes e foi direto ao essencial.,
+omitir: O presidente [omitiu detalhes do projeto, mas não negou que a Umbro, patrocinadora do clube, é uma das empresas participantes . ,
+suprimir: [Suprimir essa parte do romance em consideração a uma coerência lógica, essa coerência que buscamos nas coisas que não têm nenhuma lógica.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa923' = “controlar e impedir de demonstrar”
+{comer: Palavras que o tempo I]comeu.,
+omitir: O presidente [omitiu detalhes do projeto, mas não negou que a Umbro, patrocinadora do clube, é uma das empresas participantes . ,
+suprimir: [Suprimir essa parte do romance em consideração a uma coerência lógica, essa coerência que buscamos nas coisas que não têm nenhuma lógica.}
+Chave: SUPRIMIR <verb.social>
+ILI: 02350811
+
+Sense 3
+{02350811} <verb.social> bottle up, suppress -- (control and refrain from showing; of emotions)
+       => {02349665} <verb.social> restrain1, suppress3, keep, keep back, hold back -- (keep under control; keep in check; "suppress a smile"; "Keep your temper"; "keep your cool")
+           => {02377053} <verb.social> prevent, keep1 -- (prevent from doing something or being in a certain state; "We must prevent the cancer from spreading"; "His snoring kept me from falling asleep"; "Keep the child from eating the marbles")

@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA2369
+
+DADO O SYNSET:
+
+S='Glosa2369'
+	    {chumbar: Colocar e I]chumbar as estacas ea tampa, após pelo menos oito dias.,
+	      selar1: Antes de [selar de novo no ponto de vazamento, o cabo deverá ser secado por dentro.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2369' = “Fechar de modo a deixar seguro contra vazamentos.”
+	    {chumbar: Colocar e I]chumbar as estacas e a tampa, após pelo menos oito dias.,
+	      selar1: Antes de [selar de novo no ponto de vazamento, o cabo deverá ser secado por dentro.,}
+
+Chave: CHUMBAR <verb.contact>
+ILI: 01314097
+
+Sense 2
+{01314097} <verb.contact> seal3, seal off -- (make tight; secure against leakage; "seal the windows")
+       => {01305587} <verb.contact> close, shut -- (move so that an opening or passage is obstructed; make shut; "Close the door"; "shut the window") 

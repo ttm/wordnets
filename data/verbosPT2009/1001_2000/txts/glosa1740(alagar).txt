@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA1740
+
+DADO O SYNSET:
+
+S='Glosa1740'
+{alagar: O goaná do lago voa longe, longe, para banhar-se nas águas da chuva que [alagaram a várzea; mas logo volta ao seu ninho, e não se lembra mais da moita onde dormiu .,
+ apaular: As chuvas torrenciais M]apaularam as várzeas. ,
+ empantanar: x,
+ encharcar: A chuva I]encharcou o gramado do estádio Juan Pablo Duarte e provocou a interrupção do jogo aos 24 minutos do primeiro tempo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1740' = “empapar ou submergir, deixando pantanoso” 
+{alagar: O jogo foi cancelado por causa da chuva, que [alagou o gramado.,
+ encharcar: A  partida seria realizada na manhã de ontem (dia 30), mas a chuva I]encharcou as quadras da orla, impedindo a realização da grande final.,}
+Chave: ALAGAR <verb.weather>
+ILI: 02689461
+
+Sense 1
+{02689461} <verb.weather> swamp, drench -- (drench or submerge or be drenched or submerged; "The tsunami swamped every boat in the harbor")
+       => {00209719} <verb.change> flood -- (cover with liquid, usually water; "The swollen river flooded the village"; "The broken vein had flooded blood in her eyes")
+           => {01171349} <verb.contact> cover1, spread over -- (form a cover over; "The grass covered the grave")
+               => {01169130} <verb.contact> touch1, adjoin3, meet, contact3 -- (be in direct physical contact with; make contact; "The two buildings touch"; "Their hands touched"; "The wire must not contact the metal cover"; "The surfaces contact at this point")

@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA3298
+
+DADO O SYNSET:
+
+S='Glosa3298'
+	    {
+	      ceder: Pelas normas internacionais de aviação, eles tinham a preferência para descer e o Lear Jet, depois de desistir do pouso, tinha mesmo de [ceder a vez.,
+	      dar: O escolhido para sair foi Sidney, que I]deu sua vaga para Marciel.,
+	      entregar: O PFL, que tem essa prerrogativa por dividir as posições majoritárias com o PMDB, [entregou o lugar a Mussa Demes. ,
+	      fornecer: Quem [forneceu essas informações aos policiais foi Marco Antônio da Silva, primo de Márcio e irmão de José Roberto. ,
+	      liberar: O governo demitiu Cristovam para colocar em seu lugar o gaúcho Tarso Genro, que assim, abriu espaço para a entrada de Jaques Wagner, atual ministro do Trabalho, que I]liberou a vaga para Berzoini.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3298' = “estar disposto a conceder”
+	     {ceder: Em Goiás, a estatal Furnas [cedeu 91 hectares de terra para o plantio de arroz, gerando 90 empregos.,
+	      dar: O presidente apresentou a nova cara do CNB e I]deu espaço aos parceiros para que apresentassem seus serviços.,
+	      entregar: O PFL, que tem essa prerrogativa por dividir as posições majoritárias com o PMDB, [entregou o lugar a Mussa Demes. ,
+	      fornecer: O Estado apenas [forneceu as informações. ,
+	      liberar: Zinho [liberou espaço para Rivaldo um jogador que não se consegue marcar, dada a sua mobilidade e para o «rush» palmeirense pela esquerda, ao longo do primeiro tempo.,}
+Chave: CEDER <verb.communication>
+ILI: 00779984
+
+Sense 2
+{00779984} <verb.communication> concede1, yield1, grant -- (be willing to concede; "I grant you this much")
+       => {00779329} <verb.communication> agree, hold15, concur, concord -- (be in accord; be in agreement; "We agreed on the terms of the settlement"; "I can't agree with you!"; "I hold with those who say life is sacred"; "Both philosophers concord on this point")

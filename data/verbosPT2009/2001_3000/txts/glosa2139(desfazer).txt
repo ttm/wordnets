@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA2139
+
+DADO O SYNSET:
+
+S='Glosa2139'
+	    {
+	      desfazer: Ao I]desfazer o grupo, Keith procurou manter a mesma formação, convocando Greg Lake, baixista e vocalista do King Crimson e Carl Palmer, que havia tocado com o Atomic Rooster e o bizarro The Crazy World of Arthur Brown.,
+	      diluir: x,
+	      dissolver: Quando o Marechal Deodoro [dissolveu o congresso nacional, em 3 de novembro, Batista recordou o tempo dos manifestos liberais, e quis fazer um..,
+	      esfazer: x,
+	      exsolver: A polícia M]exsolveu o comício.,
+	      extinguir: À Carta adicionou emendas pelas quais [extinguiu o Tribunal de Segurança Nacional, revogou a Lei Malaia e formalizou a transformação do Parlamento a ser eleito em Assembléia Nacional Constituinte.,
+	      resolver: x,
+	      solver: M]Solver o congresso.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2139' = “ terminar uma associação ou fazer acabar”
+	    {desfazer: Ao I]desfazer o grupo, Keith procurou manter a mesma formação,  que havia tocado com o Atomic Rooster.,
+	      dissolver: Quando o Marechal Deodoro [dissolveu o congresso nacional, Batista recordou o tempo dos manifestos liberais.,
+	      exsolver: A polícia M]exsolveu o comício.,
+	      extinguir: À Carta adicionou emendas pelas quais [extinguiu o Tribunal de Segurança Nacional.,
+	      solver: M]Solver o congresso.,}
+
+Chave: DESFAZER <verb.change>
+ILI: 00344727
+
+Sense 10
+{00344727} <verb.change> dissolve8, break up9 -- (bring the association of to an end or cause to break up; "The decree officially dissolved the marriage"; "the judge dissolved the tobacco company")
+       => {00341640} <verb.change> end1, terminate1 -- (bring to an end or halt; "She ended their friendship when she found out that he had once been convicted of a crime"; "The attack on Poland terminated the relatively peaceful period after WWI")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

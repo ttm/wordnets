@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA1816
+
+DADO O SYNSET:
+
+S='Glosa1816'
+    	{encafuar: -Não quero aqui estas francesas sem-vergonha! bradou D. Inácia; e o filho não teve remédio senão I]encafuar a gravura no quartinho em que dormia, e em que não havia luz. ,
+      	 encafurnar: Eu daria tudo para poder me I]encafurnar em casa e deixar o mundo lá fora continuar a corrida desenfreada por não sei o quê. ,
+      	 encavernar: Peguei minha bicicleta dei meia-volta, volver, e fui me I]encavernar!,
+      	 encovilar: x,
+      	 enfurnar: Eu e Aline estávamos quase sempre juntos, mas brigávamos muito, então lá ia eu me I]enfurnar na casa do Daniel. ,
+      	 enlapar: x,
+      	 enlocar: x,
+      	 enlurar: x,
+      	 entocar: Após a fecundação os grandes robalos tendem muito mais a I]entocar em grandes buracos com várias saídas, geralmente com fundo de areão ou areia, onde fazem a desova.,}
+  
+A='Glosa1792'
+    	{desencovilar, desenfurnar, desentocar, destocar1}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1816' = “esconder bem, num lugar [como o] subterrâneo/fechado”
+    	{encafuar: Dante Alighieri I]encafuou o papa Celestino V nas profundas do inferno.,
+      	 encavernar: Essa visão do mundo e da história inspirada pela revelação de um Deus todo outro e de um homem distinto, livre e pessoa, não representa somente a superação de uma certa filosofia clássica que I]encavernava o divino na ordem do mundo (kosmos).,
+      	 enfurnar: Bejarano, por sua vez, demitiu-se de seus cargos mas não disse até agora às autoridades onde I]enfurnou a grana.,
+      	 entocar: Não contente Vovó Blondie comprou um ap e I]entocou a filharada.,}
+  
+A='Glosa1792'
+    	{desencovilar, desenfurnar, desentocar, destocar1}
+Chave: ENFURNAR <verb.perception>
+ILI: EQ_HAS_HYPERONYM - 02083903 - “esconder-se, ficar fora de vista como que para se proteger”
+
+Sense 2
+{02083903} <verb.perception> hide1, hide out -- (be or go into hiding; keep out of sight, as for protection and safety; "Probably his horse would be close to where he was hiding"; "She is hiding out in a cabin in Montana")

@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA3310
+
+DADO O SYNSET:
+
+S='Glosa3310'
+	    {
+	      liquefazer: Coleta-se o líquido seminal e o coágulo com uma seringa de 6ml e coloca-se para I]liquefazer por 30-60 minutos.,
+	      liquescer: x,
+	      liquidificar: I]Liquidificar a polpa, os ovos, creme de leite, sal e pimenta do reino.,
+	      liqüidificar: I]Liqüidificar os morangos, passá-los na peneira e adoçar.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3310' = “tornar líquido”
+	     {liquefazer: A soda cáustica no interior do cilindro I]liquefaz o material sólido e destrói as bactérias, os ovos de helmintos e outros microorganismos.,
+	      liquidificar: Moderno e potente, o Liquidificador Ciclone bate polpas e I]liquidifica alimentos com perfeição.,
+	      liqüidificar: Exclusivas lâminas Sebatier que processam, ralam, fatiam, cortam, misturam e I]liqüidificam desde frutas e legumes até queijos, massas e pães.,}
+
+Chave: LIQUIDIFICAR <verb.weather>
+ILI: 02675421 
+
+Sense 1
+{02675421} <verb.weather> liquefy -- (become liquid; "The garden air overnight liquefied into a morning dew")
+       => {00140715} <verb.change> change state, turn4 -- (undergo a transformation or a change of position or action; "We turned from Socialism to Capitalism"; "The people turned against the President when he stole the election")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

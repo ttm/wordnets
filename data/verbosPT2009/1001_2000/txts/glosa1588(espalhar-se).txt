@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA1588
+
+DADO O SYNSET:
+
+S='Glosa1588'
+{dispersar-se: O novo Judaísmo passou a centrar-se na sinagoga e os judeus começaram a I]dispersar-se pelas terras do Mediterrâneo.,
+ disseminar-se: Durante o Período Terciário, após desaparecer a maior parte dos répteis, os mamíferos I]disseminaram-se por toda a Terra.,
+ espalhar-se: Serguei Ivanov, disse que não valia a pena a Rússia enviar as suas tropas para a Vale de Pankissi, se os terroristas chechenos I]espalharam-se pela região.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1588' = “sair de perto de outros, partindo para diversos pontos”
+{dispersar-se: Há dias fora recolhida a informação de que os identificáveis como criminosos haviam deixado a favela, [dispersando-se pelas cercanias ainda bem dotadas de matas.,
+ disseminar-se: Conforme a resistência iraquiana se I]disseminou de Mossul, no norte, para as áreas dos xiitas, em Najaf e Karbala, no sul do Iraque, Churchill foi perdendo a compostura.,
+ espalhar-se: Serguei Ivanov disse que não valia a pena a Rússia enviar as suas tropas para a Vale de Pankissi, se os terroristas chechenos I]espalharam-se pela região.,}
+Chave: ESPALHAR-SE <verb.motion>
+ILI: 01971038
+
+Sense 3
+{01971038} <verb.motion> disperse, dissipate, scatter, spread out2 -- (move away from each other; "The crowds dispersed"; "The children scattered in all directions when the teacher approached";)
+       => {01972202} <verb.motion> separate, part2, split -- (go one's own away; move apart; "The friends separated after the party")
+           => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right")

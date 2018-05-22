@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0501
+
+DADO O SYNSET:
+
+S='Glosa501'
+{competir: Os investimentos serão para deixar as bicicletas em condições de [competir com as chinesas.,
+disputar: Se Dom Lucas Moreira Neves, que já está praticamente eleito, quiser [disputar comigo para a vaga de Papa, posso até concorrer,
+ombrear: Já temos médicos de primeira ordem, que podem [ombrear com os melhores de outras terras.,
+rivalizar: Juninho e Ronaldinho bem que poderiam [rivalizar com ele, se não estivessem a um oceano dos nossos gramados. # De 1895 a 1915 nenhum país da Europa ocidental pôde [rivalizar com a Rússia nesse particular.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa501' = “concorrer com outrem na mesma pretensão” 
+{competir: Os investimentos serão para deixar as bicicletas em condições de [competir com as chinesas.,
+disputar: Se Dom Lucas Moreira Neves, que já está praticamente eleito, quiser [disputar comigo para a vaga de Papa, posso até concorrer,
+ombrear: Já temos médicos de primeira ordem, que podem [ombrear com os melhores de outras terras.,
+rivalizar: Juninho e Ronaldinho bem que poderiam [rivalizar com ele, se não estivessem a um oceano dos nossos gramados. # De 1895 a 1915 nenhum país da Europa ocidental pôde [rivalizar com a Rússia nesse particular.,}
+Chave: COMPETIR <verb.competition>
+ILI: 01037983
+
+Sense 1
+{01037983} <verb.competition> compete, vie, contend -- (compete for something; engage in a contest; measure oneself against others)

@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA2342
+
+DADO O SYNSET:
+
+S='Glosa2342'
+	    {consistir: O parto [consiste em dar à luz o feto.,
+	      ser: FINEP é a agência de fomento do MC.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2342' = “Ser composto de, ser constituído por partes.”
+	    {consistir: Uma típica aldeia tupi [consistia de quatro ou mais longas tabas, de tetos arredondados, feitas de palha, cercadas por uma paliçada.,
+	      ser: No que diz respeito à "Auto-contenção" I]a regra é definir e explicitar.,}
+
+Chave: CONSISTIR <verb.stative>
+ILI: 02554853
+
+Sense 4
+{02554853} <verb.stative> consist1, comprise1 -- (be composed of; "The land he conquered comprised several provinces"; "What does this dish consist of?")
+       => {02526983} <verb.stative> be3 -- (have the quality of being; (copula, used with an adjective or a predicate noun); "John is rich"; "This is not a good answer") 

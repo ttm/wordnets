@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA2381
+
+DADO O SYNSET:
+
+S='Glosa2381'
+	    {checar: Os desenvolvedores do projeto Debian foram alertados também para I]checar as máquinas.,
+	      ensaiar: O maestro FH [ensaia a afinação do coro.,
+	      experienciar: A superfície do corpo com suas zonas erógenas, escreve Erich Neumann, é a cena principal da experiência tanto de si mesma e de outras; isto é, a criança ainda [experiencia tudo com sua própria pele.,
+	      experimentar: A máquina efetua os cálculos, [experimenta todos os parâmetros, traça a dinâmica das equações e finalmente restitui como resultado conseqüências que podem não ter sido previstas.,
+	      tentear1: M]Tenteou várias maneiras de distrair o filho.,
+	      testar2: Daí, quer [testar novos zagueiros com menos de 23 anos, como Sorlei, para ver se dá certo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2381' = “Conduzir um teste ou uma investigação.”
+	    {checar: O programa entrevistou um arquiteto e [checou com os formandos como é o trabalho final do curso.,
+	      ensaiar: O maestro FH [ensaia a afinação do coro.,
+	      experienciar: A criança ainda [experiencia tudo com sua própria pele.,
+	      experimentar: A máquina [experimenta todos os parâmetros e restitui como resultado conseqüências que podem não ter sido previstas.,
+	      tentear1: M]Tenteou várias maneiras de distrair o filho.,
+	      testar2: Durante os meses de março e abril a tripulação [testou o conjunto.,}
+
+Chave: EXPERIMENTAR <verb.social>
+ILI: 02457358
+
+Sense 1
+{02457358} <verb.social> experiment1 -- (to conduct a test or investigation; "We are experimenting with the new drug in order to fight this disease")
+       => {00763144} <verb.communication> investigate, look into -- (investigate scientifically; "Let's investigate the syntax of Chinese")
+           => {00623929} <verb.cognition> analyze, analyse, study2, examine, canvass2, canvas2 -- (consider in detail and subject to an analysis in order to discover essential features or meaning; "analyze a sonnet by Shakespeare"; "analyze the evidence in a criminal trial"; "analyze your real motives")

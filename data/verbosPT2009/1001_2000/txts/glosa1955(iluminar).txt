@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA1955
+
+DADO O SYNSET:
+
+S='Glosa1955'
+{aclarecer: x,
+ alumbrar: x,
+ alumiar: A lamparina (agora nova) [alumiava o seu quarto de dormir, e a imaginação criara tudo.,
+ clarear: Uma luz azul profundo como a da Lua I]clareava o ambiente com suavidade. ,
+ esclarecer: Do lado oposto, o italiano viu refletir-se sobre as árvores o tênue reflexo da luz que [esclarecia o quarto de Cecília, cujas janelas não podia distinguir por causa do ângulo que formava a esplanada.,
+ escurecer: DEVIANT,
+ escurentar: DEVIANT,
+ iluminar: A peça recria portais, cortinas de seda e móveis do salão, além do lustre de cristal que [iluminava a festa.,}
+	  
+A='Glosa803'
+{embaçar, embaciar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1955' = “tornar (algo) mais iluminado ou claro”
+{alumiar: A lamparina (agora nova) [alumiava o seu quarto de dormir, e a imaginação criara tudo.,
+ clarear: Uma luz azul profundo como a da Lua I]clareava o ambiente com suavidade.,
+ iluminar: A peça recria portais, cortinas de seda e móveis do salão, além do lustre de cristal que [iluminava a festa.,}
+	  
+A='Glosa803'
+{embaçar, embaciar}
+Chave: ILUMINAR <verb.change>
+ILI: 00282678
+
+Sense 2
+{00282678} <verb.change> light, illume, illumine, light up, illuminate3 -- (make lighter or brighter; "This lamp lightens the room a bit")
+       => {00272032} <verb.change> lighten2, lighten up1 -- (become lighter; "The room lightened up")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

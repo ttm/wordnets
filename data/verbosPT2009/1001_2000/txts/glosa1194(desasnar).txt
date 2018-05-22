@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA1194
+
+DADO O SYNSET:
+
+S='Glosa1194'
+{desasnar: São questões que cabe ao novo canal responder, conquistando, a um só tempo, o segmento que se propõe a divulgar e a massa telespectadora que pretende I]desasnar,
+ desbastar: H]Desbastou a rusticidade de um campônio,
+ desbastecer: x,
+ desburrificar: x,
+ desemburrar: Camões não escreveu os "Lusíadas" para I]desemburrar meninos, mas para motivar um povo.,
+ desemburricar: x,}
+	  
+A='Glosa1273'
+	    {emburrar, emburricar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1194' = “dar habilidades ou conhecimento [a]”
+{desasnar: Foi ela, com o giz e o quadro-negro, que I]desasnou os franceses, e desasnando, os faz cidadãos, ao mesmo tempo em que generalizava a educação.,
+ desemburrar: Camões não escreveu os "Lusíadas" para I]desemburrar meninos, mas para motivar um povo.,}
+A='Glosa1273'
+	    {emburrar, emburricar}
+Chave: DESASNAR <verb.communication>
+ILI: EQ_HAS_HYPERONYM - 00801981
+
+Sense 1
+{00801981} <verb.communication> teach, learn, instruct -- (impart skills or knowledge to; "I taught them French"; "He instructed me in building a boat")
+       => {00804489} <verb.communication> inform -- (impart knowledge of some fact, state or affairs, or event to; "I informed him of his rights")
+           => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+               => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

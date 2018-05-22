@@ -1,0 +1,37 @@
+ANÁLISE DA GLOSA1287
+
+DADO O SYNSET:
+
+S='Glosa1287'
+{acanhar: João Paulo II deu 28 voltas em torno da Terra, façanha capaz de I]acanhar aventureiros do quilate de Marco Polo,
+ avergonhar: x,
+ avexar: Se os Paulistas quisessem, teriam escolhido sítios inexpugnáveis donde pudessem [avexar os vassalos,
+ encabular: Cássia fala grosso e, no palco, já fez gestos que [encabulou Jece Valadão,
+ encalistrar: x,
+ envergonhar: Sua nudez, que a amenidade do clima lhes impedia de cobrir, não [envergonhava ninguém.,
+	 humilhar: Em vez de proteger a família da viúva Boudicca, Nero anexou Iceni, [humilhou sua família e pilhou o que pôde . ,
+	 oprimir: Lugares secretos de culto pagãos eram tolerados; o rico I]oprimia o pobre.,
+	 vexar: Também os novos lhe deviam dinheiro, ou em espécie, ou em fiança, no alfaiate, ou endosso de letras, que ele pagava às escondidas, para não [vexar os devedores,}
+	  
+A='Glosa1286'
+{desacanhar, desencabular}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1287' = “fazer alguém ficar envergonhado, tímido”
+{acanhar: João Paulo II deu 28 voltas em torno da Terra, façanha capaz de I]acanhar aventureiros do quilate de Marco Pólo.,
+ avexar: Se os Paulistas quisessem, teriam escolhido sítios inexpugnáveis donde pudessem [avexar os vassalos.,
+ encabular: Cássia fala grosso e, no palco, já fez gestos que [encabulou Jece Valadão.,
+ envergonhar: Sua nudez, que a amenidade do clima lhes impedia de cobrir, não [envergonhava ninguém.,
+	 humilhar: Em um jantar, ele [humilha um nobre empobrecido, que se gabava de ter um próximo parentesco com o rico anfitrião.,
+	 oprimir: A todo tempo se escutam acusações, que os homens [oprimem as mulheres, que os brancos [oprimem os negros, que violamos os direitos dos homossexuais etc etc.,
+	 vexar: Também os novos lhe deviam dinheiro, ou em espécie, ou em fiança, no alfaiate, ou endosso de letras, que ele pagava às escondidas, para não [vexar os devedores,}
+A='Glosa1286'
+{desacanhar, desencabular}
+Chave: ENVERGONHAR <verb.emotion>
+ILI: 01740357
+
+Sense 3
+{01740357} <verb.emotion> shame -- (cause to be ashamed)
+       => {01708538} <verb.emotion> arouse, elicit, enkindle, kindle, evoke, fire, raise8, provoke -- (call forth (emotions, feelings, and responses); "arouse pity"; "raise a smile"; "evoke sympathy")
+           => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

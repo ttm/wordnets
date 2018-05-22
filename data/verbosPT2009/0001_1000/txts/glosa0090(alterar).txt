@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0090
+
+DADO O SYNSET:
+
+S='Glosa90'
+{alterar: Na verdade, o comportamento da platéia [alterou muito a trajetória de Blue Jeans, que era um espetáculo forte, de denúncia . ,
+desarranjar: Ele [desarranjou a paz dos de cima, sua arte de viver, de corromper e de mandar.,
+embaraçar: Entendo que o ato não tolheu a liberdade de ir e vir dos pacientes e sim I]embaraçou o livre exercício do mister profissional dos mesmos.  ,
+estorvar: Essa torre estava sendo construída para ser usada nos satânicos Mistérios Babilônios; Deus I]estorvou esse plano, confundindo as línguas, para que os construtores não pudessem se comunicar uns com os outros.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa90' = “atrapalhar o equilíbrio ou estabilidade”
+{alterar: Na verdade, o comportamento da platéia [alterou muito a trajetória de Blue Jeans, que era um espetáculo forte, de denúncia . ,
+desarranjar: Ele [desarranjou a paz dos de cima, sua arte de viver, de corromper e de mandar.,
+embaraçar: Entendo que o ato não tolheu a liberdade de ir e vir dos pacientes e sim I]embaraçou o livre exercício do mister profissional dos mesmos.  ,
+estorvar: Essa torre estava sendo construída para ser usada nos satânicos Mistérios Babilônios; Deus I]estorvou esse plano, confundindo as línguas, para que os construtores não pudessem se comunicar uns com os outros.,}
+Chave: ALTERAR <verb.emotion>
+ILI: 00507530
+
+Sense 1
+{00507530} <verb.change> upset -- (disturb the balance or stability of; "The hostile talks upset the peaceful relations between the two countries")
+       => {01170925} <verb.contact> touch3, disturb -- (tamper with; "Don't touch my CDs!")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

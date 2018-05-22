@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA2244
+
+DADO O SYNSET:
+
+S='Glosa2244'
+	    {
+	      apoderar-se: Os países industrializados se I]apoderam de parcelas do território e o exploram como bem entendem.,
+	      apossar-se: As regras democráticas copiadas dos Estados Unidos foram logo rompidas pelos militares que se I]apossaram do governo.,
+	      extorquir: Os seqüestradores I]extorquiram a família.,
+	      usurpar: O período durante o qual o tirano H]usurpou o governo foi trágico para a população.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2244' = “obter por ameaça ou intimidação”
+	    {apoderar-se: Os países industrializados se I]apoderam de parcelas do território.,
+	      apossar-se: As regras democráticas foram rompidas pelos militares que se I]apossaram do governo.,
+	      extorquir: Os seqüestradores I]extorquiram a família.,
+	      usurpar: O período durante o qual o tirano H]usurpou o governo foi trágico para a população.,}
+
+Chave: EXTORQUIR <verb.possession>
+ILI: 02176199
+
+Sense 2
+{02176199} <verb.possession> extort, squeeze3, rack, gouge, wring -- (obtain by coercion or intimidation; "They extorted money from the executive by threatening to reveal his past to the company boss"; "They squeezed money from the owner of the business by threatening him")
+       => {02251897} <verb.possession> overcharge, soak, surcharge, gazump, fleece, plume, pluck, rob1, hook2 -- (rip off; ask an unreasonable price)
+           => {02496906} <verb.social> cheat, rip off, chisel1 -- (deprive somebody of something by deceit; "The con-man beat me out of $50"; "This salesman ripped us off!"; "we were cheated by their clever-sounding scheme"; "They chiseled me out of my money")
+               => {02497828} <verb.social> victimize1, victimise1 -- (make a victim of; "I was victimized by this con-man")
+                   => {02438990} <verb.social> wrong -- (treat unjustly; do wrong to)
+                       => {02439188} <verb.social> treat, handle3, do by -- (interact in a certain way; "Do right by her"; "Treat him with caution, please"; "Handle the press reporters gently")
+                           => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                               => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

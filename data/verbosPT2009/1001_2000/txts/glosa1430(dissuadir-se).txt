@@ -1,0 +1,37 @@
+ANÁLISE DA GLOSA1430
+
+DADO O SYNSET:
+
+S='Glosa1430'
+{demover-se: Só este projeto [me demoveria da idéia de parar de dirigir,
+ descapacitar-se: Achava-a generosa, mas H]descapacitou-se ao vê-la tão mesquinha,
+ desconvencer-se: Outras vezes ainda não diz nada e exige do intérprete um esforço energético intenso que o leve a convencer-se ou a I]desconvencer-se da sua aplicação, ,
+ desimaginar-se: A família H]desimaginou-se da viagem,
+	 despersuadir-se: Acabou por H]despersuadir-se da execução do plano.,
+	 dissuadir-se: Colombo, sem I]dissuadir-se de que atingira pelo Ocidente as partes do Oriente, julgou-se em outro mundo ao avistar a costa do Pária.,}
+
+A='Glosa1243'
+{convencer-se, persuadir-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1430' = “desistir [de] por meio de persuasão” 
+{demover-se: O PPS de Arnaldo Jardim e o PL de Valdemar Costa Neto fizeram o PT I]demover-se da idéia de abrir mão da vaga de vice.,
+ desconvencer-se: Mas a influência dos Primeiros nessa história me assusta, e eu me I]desconvenço da idéia.,
+ despersuadir-se: Ostrócio anteviu a estranhez. Queria I]despersuadir-se do fatalismo, mas agosto é mês de desgosto.,
+	 dissuadir-se: Colombo, sem I]dissuadir-se de que atingira pelo Ocidente as partes do Oriente, julgou-se em outro mundo ao avistar a costa do Pária.,}
+
+A='Glosa1243'
+{convencer-se, persuadir-se}
+Chave: DISSUADIR-SE <verb.communication>
+ILI: 00744704
+
+Sense 1
+{00744704} <verb.communication> dissuade, deter -- (turn away from by persuasion; "Negative campaigning will only dissuade people")
+       => {00843872} <verb.communication> advise, counsel -- (give advice to; "The teacher counsels troubled students"; "The lawyer counselled me when I was accused of tax fraud")
+           => {00787668} <verb.communication> hash out, discuss, talk over -- (speak with others about (something); talk (something) over in detail; have a discussion; "We discussed our household budget")
+               => {00912516} <verb.communication> talk of, talk about1 -- (discuss or mention; "They spoke of many things")
+                   => {00910961} <verb.communication> talk, speak, utter, mouth, verbalize, verbalise -- (express in speech; "She talks a lot of nonsense"; "This depressed patient does not verbalize")
+                       => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                           => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                               => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

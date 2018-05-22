@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA3916
+
+DADO O SYNSET:
+
+S='Glosa3916'
+    	{confiar: Outorgam, sabes que para o fim de apertar o vínculo moral da obrigação, [confiou os seus projetos e motivos a parentes e familiares .,
+      	 depositar: M]Depositou nas mãos do tabelião o testamento.,
+      	 entregar: Assim que [entregar as chaves da casa ou melhor, do Palácio do Planalto a Fernando Henrique Cardoso, Itamar Franco vai se dedicar a dolce far niente regado a dendê .,
+     	 fiar2: Partiu, não antes de H]fiar os seus bens ao amigo.,
+      	 pôr: Todo homem que tem dinheiro deveria [pôr esse dinheiro a serviço do país .,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3916' = “conferir um bem a alguém”
+    	{confiar: Noêmia, diante da invasão alemã, [confiou seus quadros e os de Di a uma empresa de transporte.,
+      	 depositar: O senador [deposita suas esperanças na realização de uma prévia dentro do partido.,
+      	 entregar: Quem foi o louco que entregou duas crianças nas mãos de Michael Jackson ?,
+     	 fiar2: No entanto para esse amor as Parcas já I]fiaram seu destino.,
+      	 pôr: Benedita [pôs sua equipe à disposição do pedetista.}
+Chave: DEPOSITAR <verb.possession>
+ILI: 02281584
+
+Sense 5
+{02281584} <verb.possession> entrust, intrust, trust, confide, commit -- (confer a trust upon; "The messenger was entrusted with the general's secret"; "I commit my soul to God")
+       => {02166354} <verb.possession> pass, hand, reach, pass on1, turn over, give6 -- (place into the hands or custody of; "hand me the spoon, please"; "Turn the files over to me, please"; "He turned over the prisoner to his lawyers")
+           => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children")

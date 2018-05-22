@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0244
+
+DADO O SYNSET:
+
+S='Glosa244'
+{afastar-se: Não tinha outra intenção mais que [afastar-se das tabas dos pitiguaras para arrancar a tristeza do coração de Iracema.,
+arredar: Enquanto isso, Elma Farias minguava sem [arredar pé da porta do batalhão de polícia onde o marido é guardado em Brasília. ,
+arredar-se: Diante da sucessão de fugas, fica difícil entender por que o FMI e o Banco Mundial optaram por não I]arredar-se de Washington.,
+recuar: Talvez por não poder [recuar mais, colocou um dos pés adiante e o outro atrás, e fugiu com o busto.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa244' = “sair de perto, distanciar(-se) de um lugar”
+{afastar-se: Não tinha outra intenção mais que [afastar-se das tabas dos pitiguaras para arrancar a tristeza do coração de Iracema.,
+arredar: Enquanto isso, Elma Farias minguava sem [arredar pé da porta do batalhão de polícia onde o marido é guardado em Brasília. ,
+arredar-se: Diante da sucessão de fugas, fica difícil entender por que o FMI e o Banco Mundial optaram por não I]arredar-se de Washington.,
+recuar: Talvez por não poder [recuar mais, colocou um dos pés adiante e o outro atrás, e fugiu com o busto.,}
+Chave: AFASTAR-SE <verb.motion>
+ILI: 01795174
+
+Sense 1
+{01795174} <verb.motion> go1, go away5, depart4 -- (move away from a place into another direction; "Go away before I start to cry"; "The train departs at noon")
+       => {01957725} <verb.motion> exit, go out, get out1, leave -- (move out of or depart from; "leave the room"; "the fugitive has left the country")
+           => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right")

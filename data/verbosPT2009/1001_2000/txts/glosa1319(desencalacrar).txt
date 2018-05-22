@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA1319
+
+DADO O SYNSET:
+
+S='Glosa1319'
+{desencalacrar: x,
+ desencravilhar: x,
+ desentalar: O bombeiro Ivo Augusto Silveira ajudou I]desentalar Gilmar,}
+
+A='Glosa1823'
+{encalacrar, encravelhar, encravilhar, entalar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1319' = “livrar [alguém ou algo] de apuros ou dificuldades” 
+{desencalacrar: O essencial, enfim, é a desconversa sobre a distribuição de ônus e bônus necessária para I]desencalacrar a crise fiscal e a do crescimento.,}
+
+A='Glosa1823'
+{encalacrar, encravelhar, encravilhar, entalar}
+Chave: DESENCALACRAR <verb.social>
+ILI: EQ_HAS_HYPERONYM – 02475565 – “salvar da ruína, destruição ou dano”
+
+Sense 1
+{02475565} <verb.social> salvage, salve, relieve, save1 -- (save from ruin, destruction, or harm)
+       => {02475841} <verb.social> rescue, deliver1 -- (free from harm or evil)
+           => {02476374} <verb.social> save, carry through, pull through, bring through -- (bring into safety; "We pulled through most of the victims of the bomb attack")

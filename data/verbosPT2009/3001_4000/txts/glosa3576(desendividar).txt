@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA
+
+DADO O SYNSET:
+
+S='Glosa3576'
+	    {
+	      desendividar: Nós temos que mudar o modelo de desenvolvimento, I]desendividar o Estado, melhorar o balanço de pagamentos para poder reduzir sustentadamente a taxa de juros. ,
+	    }
+	  A='Glosa3575'
+	    {
+	     endividar: Acusou ainda o prefeito de ser mau administrador e estar [endividando o município. / Emitiu moeda demais e [endividou externamente o país.,
+	     oberar: As constantes lutas nas colônias A]oberavam o tesouro inglês.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3576'=”extinguir dívidas”
+	     {desendividar: Nós temos que mudar o modelo de desenvolvimento e I]desendividar o Estado. ,}
+	  A='Glosa3575'
+	     {endividar: Acusou ainda o prefeito de ser mau administrador e estar [endividando o município. / Emitiu moeda demais e [endividou externamente o país.,
+	     oberar: As constantes lutas nas colônias A]oberavam o tesouro inglês.,}
+Chave: DESENDIVIDAR <verb.possession>
+ILI: 02284395
+Sense 2
+{02284395} <verb.possession> liquidate, pay off -- (eliminate by paying off (debts))
+       => {02187999} <verb.possession> pay up, ante up, pay4 -- (cancel or discharge a debt; "pay up, please!")
+           => {02188222} <verb.possession> pay14 -- (discharge or settle; "pay a debt"; "pay an obligation")
+               => {02189291} <verb.possession> settle -- (dispose of; make a financial settlement)
+                   => {00988646} <verb.communication> arrange4, fix up -- (make arrangements for; "Can you arrange a meeting with the President?")
+                       => {00779329} <verb.communication> agree, hold15, concur, concord -- (be in accord; be in agreement; "We agreed on the terms of the settlement"; "I can't agree with you!"; "I hold with those who say life is sacred"; "Both philosophers concord on this point")

@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0303
+
+DADO O SYNSET:
+
+S='Glosa303'
+{alcunhar: Mário de Andrade [alcunhou Manuel Bandeira como o São João Batista do modernismo, dado o pioneirismo de sua poesia.,
+chamar: E ninguém jamais pensou em [chamá-lo de Niltinho.,
+tratar: Eu vou [tratá-lo por presidente e ele vai me tratar por governador.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa303' = “dar uma apelido (alcunha); denominar”
+{alcunhar: Mário de Andrade [alcunhou Manuel Bandeira como o São João Batista do modernismo, dado o pioneirismo de sua poesia.,
+chamar: E ninguém jamais pensou em [chamá-lo de Niltinho.,
+tratar: Eu vou [tratá-lo por presidente e ele vai me tratar por governador.,}
+Chave: CHAMAR <verb.communication>
+ILI: 00995403
+
+Sense 1
+{00995403} <verb.communication> dub, nickname -- (give a nickname to)
+       => {00995511} <verb.communication> name3, call2 -- (assign a specified, proper name to; "They named their son David"; "The new school was named after the famous Civil Rights leader")
+           => {00996581} <verb.communication> label -- (assign a label to; designate with a label; "These students were labelled `learning disabled'")
+               => {00996861} <verb.communication> designate, denominate -- (assign a name or title to)

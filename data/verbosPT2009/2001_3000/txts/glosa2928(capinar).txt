@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA2928
+
+DADO O SYNSET:
+
+S='Glosa2928'
+	    {cabrocar: x,
+	      cabrucar: Em Aquidabã, meu pai arrendou um casa por 6 meses, comprou uma roça de mandioca, arrendou mais uma terra, brocou (I]cabrucou), queimou.,
+	      capinar: No mês seguinte, mesmo não tendo tempo, deu um jeito de I]capinar o feijoal e, no outro, já fez a colheita, aproveitando uns rabos perdidos do tempo normal.,
+	      ceifar: No dito município, vive um rico e industrioso fazendeiro que observando uma de suas plantações (de aproximadamente um acre e meio de terra que havia semeado com aveia) pronta para colheita, convidou um pobre vizinho, que se sabia trabalhar usualmente no verão no serviço de lavrador, a concordar com ele quanto a I]ceifar ou cortar os ditos pés de aveia. ,
+	      cortar: Um mamão resistente à doença já é plantado no Havaí, no Brasil, a solução do agricultor quando afetado é I]cortar os pés de mamão. ,
+	      derribar: x,
+	      derrubar: As espigas eram colhidas, ajuntadas e batidas para I]derrubar os grãos, e expostas ao vento para a seleção.,
+	      foiçar: x,
+	      forragear: H]Passaram o dia forrageando.,
+	      fouçar: x,
+	      roçar: x,
+	      segar: Lança a tua foice e I]sega a terra! ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2928' = “Cortar com pá ou ceifadeira”
+	    {capinar: O trabalho braçal ficou por conta dos residentes, que I]capinaram e plantaram as primeiras hortaliças.,
+	      ceifar: Vejam, o salário dos trabalhadores que I]ceifaram os seus campos, e que vocês retiveram com fraude, está clamando contra vocês.,
+	      cortar: Na região, Maceno trabalhou de caseiro e I]cortou mato.,
+	      forragear: Ambos os grupos I]forragearam mais na estação seca e locomoveram-se mais na estação chuvosa.,
+	      segar: Ora, os betsamitas I]segavam o trigo no vale,}
+Chave: CAPINAR <verb.contact>
+ILI: 01280509
+
+Sense 1
+{01280509} <verb.contact> mow, cut down1 -- (cut with a blade or mower; "mow the grass")
+       => {01509511} <verb.contact> cut -- (separate with or as if with an instrument; "Cut the rope")
+           => {01513899} <verb.contact> separate1, disunite, divide1, part1 -- (force, take, or pull apart; "He separated the fighting children"; "Moses parted the Red Sea")
+               => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant") 

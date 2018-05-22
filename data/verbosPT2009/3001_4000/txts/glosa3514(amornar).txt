@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA3514
+
+DADO O SYNSET:
+
+S='Glosa3514'
+	    {
+	      amornar: Tampe a panela e deixe descansar até I]amornar.,
+	      amornecer: Isto tá a I]amornecer! /  Sol que I]amornece a pele.,
+	      mornar: Quando a água I]mornar, coloque o chá.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3514' = “tornar aquecido ou mais aquecido”
+	     {amornar: Na mesma lata I]amornou a mamadeira, resto de leite engrossado com farinha, e abancada num cepo com a criança ao colo.,
+	      amornecer: Isto tá a I]amornecer! / Sol que I]amornece a pele.,
+	      mornar: Quando a água I]mornar, coloque o chá.,}
+Chave: AMORNAR <verb.change>
+ILI: 00361837
+
+Sense 1
+{00361837} <verb.change> warm, warm up -- (get warm or warmer; "The soup warmed slowly on the stove")
+       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

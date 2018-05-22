@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA1825
+
+DADO O SYNSET:
+
+S='Glosa1825'
+{acanhar: Mas os minutos corriam e o silêncio I]acanhava-o cada vez mais; enfim, resolveu rompê-lo, e rompê-lo de modo que tirasse daquele minuto ou a salvação ou o naufrágio da vida que ia empreender. ,
+ encolher: x,
+ enregelar: O estranho homem A]enregelou-a.,
+ intimidar: A visão dos nossos tornozelos alvejando por baixo da fímbria, lascivamente subida, I]intimidava o Intendente.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1825' = “tornar [alguém] tímido ou assustado”
+{acanhar: Mas os minutos corriam e o silêncio I]acanhava-o cada vez mais; enfim, resolveu rompê-lo, e rompê-lo de modo que tirasse daquele minuto ou a salvação ou o naufrágio da vida que ia empreender.,
+ intimidar: A visão dos nossos tornozelos alvejando por baixo da fímbria, lascivamente subida, I]intimidava o Intendente.,}
+Chave: INTIMIDAR <verb.emotion>
+ILI: 01729485
+
+Sense 1
+{01729485} <verb.emotion> intimidate -- (make timid or fearful; "Her boss intimidates her")
+       => {01727523} <verb.emotion> frighten, fright, scare, affright -- (cause fear in; "The stranger who hangs around the building frightens me")
+           => {01710864} <verb.emotion> stimulate, shake, shake up, excite, stir1 -- (stir the feelings, emotions, or peace of; "These stories shook the community"; "the civil war shook the country")
+               => {01708538} <verb.emotion> arouse, elicit, enkindle, kindle, evoke, fire, raise8, provoke -- (call forth (emotions, feelings, and responses); "arouse pity"; "raise a smile"; "evoke sympathy")
+                   => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

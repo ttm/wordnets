@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA1543
+
+DADO O SYNSET:
+
+S='Glosa1543'
+{dessecar-se: x,
+ enxugar-se: A chuva, de certo modo, é um meio de a atmosfera I]enxugar-se, livrando-se de água excedente.,
+ secar-se: Vi o rio Nilo I]secar-se. ,}
+	  
+A='Glosa2672'
+{abeberar-se, banhar-se, embeberar-se, embeber-se, empapar-se, encharcar-se, ensopar-se, molhar-se, repassar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1543' = “tornar-se seco ou mais seco”
+{enxugar-se: A chuva, de certo modo, é um meio de a atmosfera I]enxugar-se, livrando-se de água excedente.,
+ secar-se: Vi o rio Nilo I]secar-se.,}
+	  
+A='Glosa2672'
+{abeberar-se, banhar-se, embeberar-se, embeber-se, empapar-se, encharcar-se, ensopar-se, molhar-se, repassar-se}
+Chave: SECAR-SE <verb.change>
+ILI: 00211934
+
+Sense 2
+{00211934} <verb.change> dry, dry out -- (become dry or drier; "The laundry dries in the sun")
+       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

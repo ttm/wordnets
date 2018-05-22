@@ -1,0 +1,36 @@
+ANÁLISE DA GLOSA3215
+
+DADO O SYNSET:
+
+S='Glosa3215'
+	    {
+	      arruinar-se: A pequena capela serviu como sede da matriz até 1660; com o tempo, o prédio I]arruinou-se.,
+	      avariar-se: A troca do tanque, entretanto, levaria dois dias e havia a possibilidade de [avariar-se outros equipamentos vitais. ,
+	      danificar-se: Os serviços estão sendo executados para correção do mecanismo de acionamento de uma das pás, que I]danificou-se durante a operação.,
+	      desconjuntar-se: I]Desconjuntou-se o fecho do arco da capela-mor e partiu-se pelo meio uma pirâmide.,
+	      deteriorar-se: Cabos podem [deteriorar-se depois de anos de uso, quando expostos ao sol e às intempéries.,
+	      estragar-se: O calçado incapaz de resistir a uma marcha tão longa, e por tão maus caminhos, I]estragou-se, ficando um grande numero de praças descalças.,
+	      gastar-se: A cruz dos outros era pesada, de madeira maciça, grande e larga e a do rapaz era estreita, leve e a madeira muito fraca, I]gastou-se, por isso não servia de ponte.,
+	      inutilizar-se: Salvou-se a vida do negrinho, mas as moendas I]inutilizaram-se; rodetes, pescoços, mancais, tudo ficou arrebentado.,
+	      ir-se: Sentou-se em cima de um prego, e A]foi-se a sua saia.,
+	      usar-se: Com o decorrer dos anos, M]usara-se aquela peça.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3215' = “infligir dano”
+	     {arruinar-se: O porto I]arruinou-se e foi abandonado depois da inauguração da Estrada de Ferro Mauá.,
+	      avariar-se: Um dos helicópteros I]avariou-se e explodiu, caindo sobre as barracas já destruídas pelo fogo. ,
+	      danificar-se: O disco rígido I]danificou-se por um incêndio.,
+	      desconjuntar-se: I]Desconjuntou-se o fecho do arco da capela-mor e partiu-se pelo meio uma pirâmide.,
+	      deteriorar-se: O produto I]deteriorou-se para uso.,
+	      estragar-se: O calçado incapaz de resistir a uma marcha tão longa, e por tão maus caminhos, I]estragou-se, ficando um grande numero de praças descalças.,
+	      gastar-se: A fita I]gastou-se.,
+	      inutilizar-se: Salvou-se a vida do negrinho, mas as moendas I]inutilizaram-se; rodetes, pescoços, mancais, tudo ficou arrebentado.,
+	      ir-se: Sentou-se em cima de um prego, e A]foi-se a sua saia.,}
+Chave: DANIFICAR-SE <verb.change>
+ILI: 00250328
+
+Sense 1
+{00250328} <verb.change> damage -- (inflict damage upon; "The snow damaged the roof"; "She damaged the car when she hit the tree")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

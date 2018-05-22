@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA
+
+DADO O SYNSET:
+
+S='Glosa3575'
+	    {
+	      endividar: Acusou ainda o prefeito de ser mau administrador e estar [endividando o município. / Emitiu moeda demais e [endividou externamente o país.,
+	      oberar: As constantes lutas nas colônias A]oberavam o tesouro inglês.,
+	    }
+	  A='Glosa3576'
+	    {
+	     desendividar: Nós temos que mudar o modelo de desenvolvimento, I]desendividar o Estado, melhorar o balanço de pagamentos para poder reduzir sustentadamente a taxa de juros. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3575'= “acumular dívidas”
+	     {endividar: Emitiu moeda demais e [endividou externamente o país.,}
+	  A='Glosa3576'
+	    {desendividar: Nós temos que mudar o modelo de desenvolvimento, I]desendividar o Estado, melhorar o balanço de pagamentos para poder reduzir sustentadamente a taxa de juros. ,}
+Chave: ENDIVIDAR <verb.possession>
+ILI: 02254092
+
+Sense 1
+{02254092} <verb.possession> chalk up, run up -- (accumulate as a debt; "he chalked up $100 in the course of the evening")
+       => {02189188} <verb.possession> owe1 -- (be obliged to pay or repay)

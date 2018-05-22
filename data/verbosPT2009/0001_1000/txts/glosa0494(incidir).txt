@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA0494
+
+DADO O SYNSET:
+
+S='Glosa494'
+{descarregar: Já o tucano José Roberto Arruda, vice-líder no Senado, [descarrega irritação nos DVS.,
+incidir: O golpe-revolução de 25 de abril de 1974 foi o maior desastre que [incidiu sobre Portugal em sua história.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa494' = “cair sobre, recair”
+{descarregar: Já o tucano José Roberto Arruda, vice-líder no Senado, [descarrega irritação nos DVS.,
+incidir: O golpe-revolução de 25 de abril de 1974 foi o maior desastre que [incidiu sobre Portugal em sua história.,}
+Chave: INCIDIR <verb.change>
+ILI: 00333881
+
+Sense 1
+{00333881} <verb.change> befall1, bechance1, betide -- (become of; happen to; "He promised that no harm would befall her"; "What has become of my children?")
+       => {00329254} <verb.change> happen, hap, go on, pass off, occur, pass, fall out, come about, take place -- (come to pass; "What is happening?"; "The meeting took place off without an incidence"; "Nothing occurred that seemed important")

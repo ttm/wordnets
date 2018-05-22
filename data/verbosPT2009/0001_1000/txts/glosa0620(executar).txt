@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA0620
+
+DADO O SYNSET:
+
+S='Glosa620'
+{dar: Grande estrela musical da noite, Milton Nascimento [deu um show à parte com os corais Os Rouxinóis e Os Curumins, com quem cantou, entre outras, Paula e Bebeto, encerrando a cerimônia com Beatriz. ,
+executar: Quando o caixão chegou à sepultura, a banda de clarins do Regimento de Cavalaria Nove de Julho, da Polícia Militar paulista, [executou o toque de silêncio e a marcha fúnebre. ,
+exibir: DEVIANT,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa620' = “realizar ou desempenhar uma ação”
+{dar: Grande estrela musical da noite, Milton Nascimento [deu um show à parte com os corais Os Rouxinóis e Os Curumins, com quem cantou, entre outras, Paula e Bebeto, encerrando a cerimônia com Beatriz. ,
+executar: foi a primeira vez que o conjunto I]executou o show com essa formação.,}
+Chave: EXECUTAR <verb.creation>
+ILI: 01663763
+
+Sense 1
+{01663763} <verb.creation> perform, execute1, do1 -- (carry out or perform an action; "John did the painting, the weeding, and he cleaned out the gutters"; "the skater executed a triple pirouette"; "she did a little dance")

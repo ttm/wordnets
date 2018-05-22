@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA2929
+
+DADO O SYNSET:
+
+S='Glosa2929'
+	    {basculhar: O catamaran I]basculha o lixo flutuante e os garis recolhem o material preso nas margens, explica Euse Vieira. ,
+	      esquadrinhar: Em meio aos espetáculos públicos, em um parque, no futebol, na faculdade, haverá sempre formiguinhas humanas I]esquadrinhando o terreno em busca de latinhas.,
+	      forragear: H]Forrageou no porão da casa relíquias da família.,
+	      procurar: Abriu a bolsa I]procurando o maço de cigarros.,
+	      remexer: Depois desta frase a mulher I]remexeu em suas coisas dentro da bolsa, procurando por algo durante 10 minutos, consternada, abalada, entristecida, enrugada, tolhida, maltratada por uma frase trivial.,
+	      revolver: Abriu a tampa, I]revolveu umas coisas no fundo da arca e apanhou uns retratos amarelos trazendo-os até perto, a fim de que pudesse ver.,
+	      vasculhar: Após a violência sexual, ele [vasculha o consultório e rouba cheques e cartões bancários.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2929' = “Procurar cuidadosamente”
+	    {basculhar: O catamaran I]basculha o lixo flutuante e os garis recolhem o material preso nas margens, explica Euse Vieira.,
+	      esquadrinhar: Rastejando, saiu de baixo do quadro e I]esquadrinhou o ambiente cavernoso, procurando onde se esconder.,
+	      forragear: Tara I]forrageou entre as pedras para marmotas.,
+	      procurar: O autor I]procurou em sites de busca os melhores e mais didáticos tutoriais sobre o Power Poin.,
+	      remexer: Depois desta frase a mulher I]remexeu em suas coisas dentro da bolsa, procurando por algo durante 10 minutos.,
+	      revolver: Abriu a tampa, I]revolveu umas coisas no fundo da arca e apanhou uns retratos amarelos trazendo-os até perto, a fim de que pudesse ver.,
+	      vasculhar: Após a violência sexual, ele [vasculha o consultório e rouba cheques e cartões bancários.,}
+Chave: VASCULHAR <verb.contact>
+ILI: 01280140
+
+Sense 2
+{01280140} <verb.contact> comb, ransack2 -- (search thoroughly; "They combed the area for the missing child")
+       => {01278670} <verb.contact> search1 -- (subject to a search; "The police searched the suspect"; "We searched the whole house for the missing keys")
+           => {02069480} <verb.perception> examine, see13 -- (observe, check out, and look over carefully or inspect; "The customs agent examined the baggage"; "I must see your passport before you can enter the country") 

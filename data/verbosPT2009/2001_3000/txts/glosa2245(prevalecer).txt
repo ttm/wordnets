@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA2245
+
+DADO O SYNSET:
+
+S='Glosa2245'
+	    {predominar: Seria uma grande oportunidade para o Conselho Deliberativo do São Paulo demonstrar que no clube não I]predominam os pensamentos pequenos.,
+	      preponderar: O advento da Constituição da República de 1988 não I]preponderam restrições legais.,
+	      prevalecer: O anedotário vulgar, o falatório impiedoso, a critica maldosa não I]prevalecem, pois não encontram receptividade para expandir-se.,
+	      usucapir: Alguns direitos não H]usucapem.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2245' = “ter supremacia em número, quantidade ou importância”
+	    {predominar: Seria uma oportunidade para o São Paulo demonstrar que no clube não I]predominam os pensamentos pequenos.,
+	      preponderar: : Ao longo de décadas, I]preponderou o autoritarismo no País.,
+	      prevalecer: O anedotário vulgar, o falatório impiedoso, a critica maldosa não I]prevalecem, pois não encontram receptividade para expandir-se.,}
+
+Chave: PREVALECER <verb.stative>
+ILI: 02565617
+
+Sense 1
+{02565617} <verb.stative> predominate, dominate, rule, reign, prevail2 -- (be larger in number, quantity, power, status or importance; "Money reigns supreme here"; "Hispanics predominate in this neighborhood")

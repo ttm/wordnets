@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0832
+
+DADO O SYNSET:
+
+S='Glosa832'
+{arruinar: Com ela, o governo é obrigado a comprar as colheitas sempre que haja superprodução ou mesmo manipulação e os preços cheguem a cair abaixo de determinados níveis, [arruinando o produtor. ,
+despenhar: A vida desregada o A]despenhou.,
+empobrecer: Um déficit externo da ordem de 200 bilhões de dólares foi o preço de uma aventura que I]empobreceu o país, paralisou a economia, fragilizando financeiramente o Brasil perante os credores externos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa832' = “tornar pobre”
+{arruinar: Com ela, o governo é obrigado a comprar as colheitas sempre que haja superprodução ou mesmo manipulação e os preços cheguem a cair abaixo de determinados níveis, [arruinando o produtor. ,
+empobrecer: Um déficit externo da ordem de 200 bilhões de dólares foi o preço de uma aventura que I]empobreceu o país, paralisou a economia, fragilizando financeiramente o Brasil perante os credores externos.,}
+Chave: EMPOBRECER <verb.possession>
+ILI: 02250508
+
+Sense 1
+{02250508} <verb.possession> impoverish -- (make poor)
+       => {02246094} <verb.possession> deprive -- (keep from having, keeping, or obtaining)
+           => {02149972} <verb.possession> withhold, keep back -- (hold back; refuse to hand over or share; "The father is withholding the allowance until the son cleans his room")
+               => {02149107} <verb.possession> deny, refuse1 -- (refuse to let have; "She denies me every pleasure"; "he denies her her weekly allowance")
+                   => {02138940} <verb.possession> keep, hold on -- (retain possession of; "Can I keep my old stuffed animals?"; "She kept her maiden name after she married")
+                       => {02139918} <verb.possession> have, have got, hold -- (have or possess, either in a concrete or an abstract sense; "She has $1,000 in the bank"; "He has got two beautiful daughters"; "She holds a Master's degree from Harvard")

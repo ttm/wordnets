@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA1413
+
+DADO O SYNSET:
+
+S='Glosa1413'
+{desfilar: A Marcha da Família com Deus pela Liberdade reuniu perto de 500 mil pessoas, que [desfilaram pelas ruas da capital paulista em protesto contra a esquerdização do país. ,
+ marchar: Mais de mil pessoas [marcharam pela aldeia, próxima à região do Sul do Líbano ocupada por Israel, levando os caixões enrolados em bandeiras do grupo islâmico.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1413' = “marchar em uma procissão” 
+{desfilar: A Marcha da Família com Deus pela Liberdade reuniu perto de 500 mil pessoas, que [desfilaram pelas ruas da capital paulista em protesto contra a esquerdização do país.,
+ marchar: Mais de mil pessoas [marcharam pela aldeia, próxima à região do Sul do Líbano ocupada por Israel, levando os caixões enrolados em bandeiras do grupo islâmico.,}
+Chave: MARCHAR <verb.motion>
+ILI: 01868544
+
+Sense 2
+{01868544} <verb.motion> parade, troop1, promenade1 -- (march in a procession; "the veterans paraded down the street")
+       => {01938649} <verb.motion> march1, process -- (march in a procession; "They processed into the dining room")
+           => {01849285} <verb.motion> walk -- (use one's feet to advance; advance by steps; "Walk, don't run!"; "We walked instead of driving"; "She walks with a slight limp"; "The patient cannot walk yet"; "Walk over to the cabinet")
+               => {01782203} <verb.motion> travel, go, move3, locomote -- (change location; move, travel, or proceed; "How fast does your new car go?"; "We travelled from Rome to Naples by bus"; "The policemen went from door to door looking for the suspect"; "The soldiers moved towards the city in an attempt to take it before night fell")

@@ -1,0 +1,44 @@
+ANÁLISE DA GLOSA2170
+
+DADO O SYNSET:
+
+S='Glosa2170'
+	    {adjudicar: Não havia a quem H]adjudicar a condecoração.,
+	      arbitrar: x,
+	      assinar: A]Assinou-lhe as honrarias a que faz jus.  ,
+	      atribuir: Os organizadores, que arrecadaram US$ 2,4 milhões para premiar os vencedores e segundos e terceiros colocados, I]atribuíram prêmios de US$ 75 mil para os primeiros nas seis modalidades.,
+	      conceder: A instituição assumiu, até agora, R$ 10,2 bilhões em créditos podres e dívidas dos bancos que faliram e [concedeu empréstimos no valor de R$ 10,9 bilhões, dentro do programa de fortalecimento e apoio a fusões bancárias, o Proer .,
+	      conferir: Cremos que o art. 129, I, da CF, que [conferiu ao Ministério Público a promoção privativa da ação penal pública, não revogou o art. 411 deste Código.,
+	      creditar: I]Creditaram-lhe o título de Estadista do Desenvolvimento, pela sua contribuição na organização das finanças republicanas.,
+	      dar: Seus trabalhos a respeito da teoria dos quanta exerceram decisiva influência na física moderna e I]deram-lhe o prêmio Nobel de Física de 1932. ,
+	      dispensar: A diretoria M]dispensou prêmios aos alunos mais aplicados.,
+	      imprimir: x,
+	      largar: A]Largou ao irmão boa parte da herança. ?,
+	      outorgar: A Associação Brasileira de Estatística (ABE) I]outorgou o Prêmio ABE 2002 ao Professor Clovis de Araújo Peres, Professor Titular aposentado do IME-USP.,
+	      votar: H]Votou grande quantia à caridade pública. ?,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2170' = “oferecer como mérito”
+	    {adjudicar: Não havia a quem H]adjudicar a condecoração.,
+	      assinar: A]Assinou-lhe as honrarias a que faz jus.  ,
+	      atribuir: Os organizadores I]atribuíram prêmios de US$ 75 mil para os primeiros nas seis modalidades.,
+	      conceder: Ministro da Fazenda diz que governo pode [conceder abono para o mínimo.,
+	      conferir: Cremos que o art. 129, I, da CF, que [conferiu ao Ministério Público a promoção privativa da ação penal pública, não revogou o art. 411 deste Código.,
+	      creditar: I]Creditaram-lhe o título de Estadista do Desenvolvimento, pela sua contribuição na organização das finanças republicanas.,
+	      dar: Seus trabalhos a respeito da teoria dos quanta I]deram-lhe o prêmio Nobel de Física de 1932. ,
+	      dispensar: A diretoria M]dispensou prêmios aos alunos mais aplicados.,
+	      largar: A]Largou ao irmão boa parte da herança?,
+	      outorgar: A Associação Brasileira de Estatística (ABE) I]outorgou o Prêmio ABE 2002 ao Professor Clovis de Araújo Peres.,
+	      votar: H]Votou grande quantia à caridade pública. ?,}
+
+Chave: ATRIBUIR <verb.possession>
+ILI: 02196975
+
+Sense 2
+{02196975} <verb.possession> award1, grant3 -- (give on the basis of merit; "Funds are granted to qualified researchers")
+       => {02169266} <verb.possession> allocate, apportion1 -- (distribute according to a plan or set apart for a special purpose; "I am allocating a loaf of bread to everyone on a daily basis"; "I'm allocating the rations for the camping trip")
+           => {02164287} <verb.possession> assign1, allot1, portion -- (give out or allot; "We were assigned new uniforms")
+               => {02228378} <verb.possession> distribute, administer, mete out, deal1, parcel out, lot, dispense, shell out, deal out, dish out, allot2, dole out -- (administer or bestow, as in small portions; "administer critical remarks to everyone present"; "dole out some money"; "shell out pocket money for the children"; "deal a blow to someone")
+                   => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+                       => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children")

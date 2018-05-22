@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA3722 
+
+DADO O SYNSET:
+
+S='Glosa3722'
+{chefiar: Leitão I]chefiou a nau Anunciada a serviço de seus amos.,
+	patroar: Anita, silênciosa, de pé, I]patroando um bote, com dois remadores, passando intimorata pelo setor onde as balas se cruzam, cumpre a missão.,
+	patronear: x }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3722' = “estar no comando de”
+{chefiar: Leitão I]chefiou a nau Anunciada a serviço de seus amos.,
+	patroar: Anita, silenciosa, de pé, I]patroando um bote, com dois remadores, passando intimorata pelo setor onde as balas se cruzam, cumpre a missão.}
+
+Chave: CHEFIAR
+ILI: 01662020
+
+Sense 2   
+{01662020} <verb.social> head, lead -- (be in charge of; "Who is heading this project?")
+       => {01661432} <verb.social> direct -- (be in charge of)
+           => {01658906} <verb.social> manage, deal13, care11, handle -- (be in charge of, act on, or dispose of; "I can deal with this crew of workers"; "This blender can't handle nuts"; "She managed her parents' affairs after they got too old")
+               => {01662860} <verb.social> control, command -- (exercise authoritative control or power over; "control the budget"; "Command the military forces")
+
+ 

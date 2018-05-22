@@ -1,0 +1,44 @@
+ANÁLISE DA GLOSA3235
+
+DADO O SYNSET:
+
+S='Glosa3235'
+	    {
+	      arrancar: Não queria I]arrancar-lhe as ilusões.,
+	      debelar: A incapacidade das grandes potências se unirem para [debelar conjuntamente os efeitos da crise, provocou uma irreversível divisão entre elas. ,
+	      desagregar: Tentou reconstruir, via Estado, a unidade das classes dominantes e I]desagregar a vontade política das classes populares, num movimento convergente. ,
+	      desarraigar: É sistema curioso, para I]desarraigar uma crença, mostrar até que ponto suas raízes são profundas.,
+	      desgregar: x,
+	      desraigar: O processo de I]desraigar estas mentiras nem sempre é fácil.,
+	      desraizar: x,
+	      disgregar: DEVIANT,
+	      erradicar: Uma cruzada que, ao fim, pretende [erradicar o analfabetismo.,
+	      exterminar: O general Augusto Pinochet assume, anunciando medidas que visavam [exterminar o marxismo.,
+	      extinguir: Visaram, com essa medida, pressionar o governo sul-africano a [extinguir a segregação racial e a violação dos direitos humanos. ,
+	      extirpar: Devemos [extirpar este monopólio.,
+	      jugular: A]Jugular uma epidemia.,
+	      sufocar: Usa as armas para [sufocar a liberdade dos negros, famintos não só de justiça mas de alimentos.,
+	      varrer: DEVIANT,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3235' = “destruir completamente, como se fosse pelas raízes”
+	     {debelar: Caxias I]debelou ainda as revoltas liberais de São Paulo e Minas Gerais de 1842. ,
+	      desagregar: O feudalismo I]desagregou de tal forma o poder do Estado que cada feudo pode ser considerado uma soberania local. ,
+	      desarraigar: A oração irá I]desarraigar toda heresia, corrigir mal-entendidos, varrer ciúmes e animosidades, eliminar as imoralidades, trazendo com ela a maré cheia de graça.,
+	      desraigar: O processo de I]desraigar estas mentiras nem sempre é fácil.,
+	      erradicar: O município de Teutônia (RS) praticamente [erradicou o analfabetismo.,
+	      exterminar: Presidente vitalício, a partir de 1964, Duvalier I]exterminou a oposição e perseguiu a Igreja Católica.,
+	      extinguir: O prefeito César Maia [extinguiu ontem a subprefeitura da área e exonerou o subprefeito. ,
+	      extirpar: O Plano Real [extirpou a inércia inflacionária.,
+	      jugular: Cruz, vencendo todas as dificuldades, I]jugulou a febre amarela na grande cidade do Rio, empregando para esse fim a exterminação dos mosquitos (sic).,
+	      sufocar: Estílico I]sufocou a rebelião promovida pelo Conde Gildão na África (396-398) e promoveu o casamento (398) do imperador com sua filha Maria.,}
+
+Chave: ERRADICAR <verb.creation>
+ILI: 01614876
+
+Sense 2
+{01614876} <verb.creation> uproot, eradicate, extirpate, exterminate -- (destroy completely, as if down to the roots; "the vestiges of political democracy were soon uprooted")
+       => {01574188} <verb.creation> destroy, destruct -- (do away with, cause the destruction or undoing of; "The fire destroyed the house")
+           => {01573490} <verb.creation> unmake, undo -- (deprive of certain characteristics)

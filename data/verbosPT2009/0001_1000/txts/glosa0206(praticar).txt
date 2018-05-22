@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA0206
+
+DADO O SYNSET:
+
+S='Glosa206'
+{cumprir: Na solenidade, o general Nilton Cerqueira vai ler um discurso que dará ênfase à necessidade de os policiais [cumprirem a lei, mantendo uma conduta funcional inatacável.,
+guardar: As autoridades da então União Soviética estavam dispostas a [guardar silêncio.,
+praticar: Se uma boa educação moral lhes houvera ensinado a I]praticar a lei de Deus, não teriam caído nos excessos causadores da sua perdição.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa206' = “aprender por repetição”
+{praticar: Se uma boa educação moral lhes houvera ensinado a I]praticar a lei de Deus, não teriam caído nos excessos causadores da sua perdição.,}
+Chave: PRATICAR <verb.cognition>
+ILI: 00586278
+
+Sense 1
+{00586278} <verb.cognition> drill, exercise, practice, practise -- (learn by repetition; "We drilled French verbs every day"; "Pianists practice scales")
+       => {00580363} <verb.cognition> learn2, study, read5, take2 -- (be a student of a certain subject; "She is reading for the bar exam")

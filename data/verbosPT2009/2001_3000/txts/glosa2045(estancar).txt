@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA2045
+
+DADO O SYNSET:
+	
+S='Glosa2045'
+    	{estagnar: Manjericão (Ocymun Basilicum): Combate gases, ezcitante, tônico digestivo, usar em compressas para I]estagnar o sangue. ,
+      	 estancar: A raiz é usada para [estancar hemorragias e contra problemas pulmonares.,
+      	 vedar: A bala passara-lhe de revés a porção muscular do braço esquerdo; mas algum vaso importante rompera, que não bastavam compressas a I]vedar-lhe o sangue.,}
+  
+A='Glosa1401'
+    	{desestagnar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2045' = “parar o escoamento de um líquido”
+    	{estagnar: Quando isto acontece pode ocorrer dilatação dos vasos periféricos, agravando a hipotermia central ao I]estagnar o sangue na periferia do organismo.,
+      	 estancar: A raiz é usada para [estancar hemorragias e contra problemas pulmonares.,
+      	 vedar: A bala passara-lhe de revés a porção muscular do braço esquerdo; mas algum vaso importante rompera, que não bastavam compressas a I]vedar-lhe o sangue.}
+  
+A='Glosa1401'
+    	{desestagnar}
+Chave: ESTANCAR <verb.change>
+ILI: 00343229
+
+Sense 1
+{00343229} <verb.change> stem, stanch, staunch, halt2 -- (stop the flow of a liquid; "staunch the blood flow"; "them the tide")
+       => {00343411} <verb.change> check10 -- (arrest the motion (of something) abruptly; "He checked the flow of water by shutting off the main valve")
+           => {01805309} <verb.motion> stop1 -- (cause to stop; "stop a car"; "stop the thief")

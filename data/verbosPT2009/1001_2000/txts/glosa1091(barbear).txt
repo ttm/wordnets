@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA1091
+
+DADO O SYNSET:
+
+S='Glosa1091'
+{barbear: Quando passou de menino a rapaz, e chegou a saber [barbear e sangrar sofrivelmente, foi obrigado a manter-se à sua custa e a pagar a morada com os ganchos que fazia, porque o produto do mais trabalho pertencia ainda ao mestre.,
+ escanhoar: Recortou a pera, deixou os bigodes, e [escanhoou à vontade, lentamente, amigamente, aborrecidamente, adivinhando com os dedos alguma pontinha imperceptível de cabelo no queixo ou na face,
+ rapar: Começou a não mais rapar a I]barba, nem tão pouco cortar os cabelos,
+ raspar: I]Raspar os pêlos do corpo com exceção da barba e do bigode.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1091' = “remover pêlos do corpo com navalha” 
+{barbear: Acordou com a mão direita, apagou a luz, fechou a janela, colocou o pijama, penteou os dentes, I]barbeou os cabelos, escovou as orelhas, desligou o chuveiro.,
+ escanhoar: Recortou a pera, deixou os bigodes, e [escanhoou à vontade, lentamente, amigamente, aborrecidamente, adivinhando com os dedos alguma pontinha imperceptível de cabelo no queixo ou na face.,
+ rapar: Enéas I]rapou a barba.,
+ raspar: Ao voltar das Cruzadas, o rei Luís I]raspou a barba.,}
+Chave: BARBEAR <verb.body> 
+ILI: 00036063 
+
+Sense 1
+{00036063} <verb.body> shave -- (remove body hair with a razor)
+       => {00039108} <verb.body> groom, neaten -- (care for one's external appearance; "He is always well-groomed")
+           => {00284091} <verb.change> beautify, embellish, prettify -- (make more beautiful)
+               => {00198579} <verb.change> better1, improve1, amend, ameliorate1, meliorate1 -- (to make better; "The editor improved the manuscript with his changes")
+                   => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

@@ -1,0 +1,38 @@
+ANÁLISE DA GLOSA3355
+
+DADO O SYNSET:
+
+S='Glosa3355'
+	    {
+	      ablegar: O pai H]ablegou a filha quando esta engravidou.,
+	      banir: O PKK conseguiu boicotar a ida de milhares de turistas alemães à Turquia, manobra a que o governo de Ancara respondeu pressionando Bonn, que [baniu o PKK do território alemão. ,
+	      degredar: O autor da trapaça foi enviado pelo governador de Santos ao ouvidor geral do Rio de Janeiro, dr. Gregório Dias da Silva, que confiscou todos os seus bens e o I]degredou para Angola.,
+	      deportar: O ex-dirigente soviético, Josef Stálin, que ontem faria 115 anos, [deportou centenas de milhares de tchetchenos em 1944, para puní-los por suposto colaboracionismo com nazistas. ,
+	      desterrar: Pombal enfurecido, mandou queimar o opúsculo e I]desterrou Gabriel para Setúbal.,
+	      exilar: Em 2 de maio de 1792, o governo português [exilou os demais conspiradores para Portugal e África, entre eles o poeta Tomás Antonio Gonzaga. ,
+	      expatriar: O Irã já deteve e I]expatriou vários suspeitos de integrar o grupo terrorista, que teriam entrado de forma ilegal em seu território, por brechas na fronteira com o Paquistão.  ,
+	      exterminar: H]Exterminaram os invasores das margens do rio.,
+	      mandar: O Imperador Domiciano o condenou à morte em uma caldeira de óleo fervendo, mas saiu milagrosamente ileso. Por essa razão, consideraram-no "bruxo" e I]mandaram-no para ilha de Patmos, onde foi submetido a muitos sofrimentos.,
+	      relegar: H] Relegou adversários políticos.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3355' = “expulsar de uma comunidade ou grupo”
+	     {ablegar: O governo M]ablegou seus opositores.,
+	      banir: O rei de Alônia, Clesodor, [baniu os feiticeiros de seu reino, mas acaba vítima de um deles e desaparece. ,
+	      degredar: Já na primeira metade do século 16, a Inquisição I]degredou para a Terra dos Papagaios o primeiro "sodomita" lusitano.,
+	      deportar: O ex-dirigente soviético, Josef Stálin, que ontem faria 115 anos, [deportou centenas de milhares de tchetchenos em 1944, para puní-los por suposto colaboracionismo com nazistas. ,
+	      desterrar: No dia seguinte, o governo [desterrou e aprisionou em fortalezas um grande número de militares, jornalistas, literatos e congressistas amparados pela imunidade parlamentar.,
+	      exilar: Em 2 de maio de 1792, o governo português [exilou os demais conspiradores para Portugal e África, entre eles o poeta Tomás Antonio Gonzaga. ,
+	      expatriar: O Irã já deteve e I]expatriou vários suspeitos de integrar o grupo terrorista, que teriam entrado de forma ilegal em seu território, por brechas na fronteira com o Paquistão.  ,
+	      exterminar: H]Exterminaram os invasores das margens do rio.,
+	      mandar: Depois disso, Zeus vingou-se de Prometeu: I]mandou-o para o deserto da Cítia, onde foi preso à parede de um terrível abismo com correntes inquebráveis.,
+	      relegar: H] Relegou adversários políticos.,}
+Chave: BANIR <verb.social>
+ILI: 02429152
+
+Sense 4
+{02429152} <verb.social> banish1, ban1, ostracize1, ostracise1, shun, cast out, blackball -- (expel from a community or group)
+       => {02426968} <verb.social> expel, throw out1, kick out1 -- (force to leave or move out; "He was expelled from his native country")
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

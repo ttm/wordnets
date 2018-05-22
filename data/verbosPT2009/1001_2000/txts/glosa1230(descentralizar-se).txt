@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA1230
+
+DADO O SYNSET:
+
+S='Glosa1230'
+{descentralizar-se: Uma vez que I]descentralizou-se a capacidade de gasto, descentralizaram-se, por conseqüência, as atribuições na área social.,
+ desconcentrar-se: O poder, na Nova República, admite, deseja I]desconcentrar-se.,}
+	  
+A='Glosa869'
+{centralizar-se, centrar-se, concentrar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1230' = “tornar-se menos central”
+{descentralizar-se: Com o passar dos anos, a Justiça I]descentralizou-se.,
+ desconcentrar-se: O poder, na Nova República, admite, deseja I]desconcentrar-se.,}
+A='Glosa869'
+{centralizar-se, centrar-se, concentrar-se}
+Chave: DESCENTRALIZAR-SE <verb.change>
+ILI: 00393426
+
+Sense 1
+{00393426} <verb.change> decentralize, deconcentrate, decentralise -- (make less central; "After the revolution, food distribution was decentralized")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

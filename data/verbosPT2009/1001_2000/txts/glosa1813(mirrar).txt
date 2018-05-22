@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA1813
+
+DADO O SYNSET:
+
+S='Glosa1813'
+{definhar: O tempo, embora faça desabrochar e I]definhar animais e plantas com assombrosa pontualidade, não tem sobre a alma do homem efeitos tão simples.,
+ encorujar: DEVIANT,
+ enfezar: A falta de sol H]enfezou a planta.,
+ engurujar: O frio H]engurujou as abóboras.,
+ mirrar: É uma planta que está sendo sufocada por espinhos, de fora para dentro, até que começa a I]mirrar, perder as forças e morrer. ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1813' = “refrear o crescimento/desenvolvimento [de]”
+{definhar: O tempo, embora faça desabrochar e I]definhar animais e plantas com assombrosa pontualidade, não tem sobre a alma do homem efeitos tão simples.,
+ enfezar: Como a planta dos trópicos, os climas da Europa I]enfezam-me a existência, que sinto fugir no meio dos tormentos da saudade.,
+ mirrar: Não culpe a pobre florinha, se o vento da tempestade a I]mirrou e cobriu de pó.,}
+Chave: MIRRAR <verb.social>
+ILI: 02378873
+
+Sense 2
+{02378873} <verb.social> dwarf -- (check the growth of; "the lack of sunlight dwarfed these pines")
+       => {02378672} <verb.social> stunt -- (check the growth or development of; "You will stunt your growth by building all these muscles")
+           => {02377880} <verb.social> impede, hinder1 -- (be a hindrance or obstacle to; "She is impeding the progress of our project")
+               => {02377053} <verb.social> prevent, keep1 -- (prevent from doing something or being in a certain state; "We must prevent the cancer from spreading"; "His snoring kept me from falling asleep"; "Keep the child from eating the marbles")

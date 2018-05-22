@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA3826
+
+DADO O SYNSET:
+
+S='Glosa3826'
+{ajoeirar: ...a cabeça azoeirada, onde os miolos dançavam como se os A]ajoeirassem num crivo.,
+	 catar: Vieram [catar talentos até mesmo no Brasil.,
+	 escolher: A Igreja assegurava seu direito de [escolher os ocupantes dos cargos eclesiásticos.,
+	 joeirar: Evoquemos a esse respeito a alegoria paradoxal dos procuradores de partículas peneirando a matéria e que, após o achado de pepitas cada vez mais pesadas, puxam de suas redes, cujas malhas [joeiram o mais fino, o universo inteiro no estado de origem!,
+	 outar: x,
+	 pinçar: O secretário não poderia [pinçar palavra mais apropriada, pelo que sugere de contradições, para este fim de governo.,
+	 selecionar: No final de março, Guilherme vai rodar o país fazendo testes para [selecionar atores.,
+	 seletar: Ao pesquisar as jurisprudências, o autor procurou I]seletar os melhores entendimentos de nossos Tribunais Pátrios.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3826' = “pinçar, selecionar ou escolher entre um número de alternativas”
+{ajoeirar: ...a cabeça azoeirada, onde os miolos dançavam como se os A]ajoeirassem num crivo.,
+	 catar: Vieram [catar talentos até mesmo no Brasil.,
+	 escolher: A Igreja assegurava seu direito de [escolher os ocupantes dos cargos eclesiásticos.,
+	 joeirar: Evoquemos a esse respeito a alegoria paradoxal dos procuradores de partículas peneirando a matéria e que, após o achado de pepitas cada vez mais pesadas, puxam de suas redes, cujas malhas [joeiram o mais fino, o universo inteiro no estado de origem!,
+	 pinçar: O secretário não poderia [pinçar palavra mais apropriada, pelo que sugere de contradições, para este fim de governo.,
+	 selecionar: No final de março, Guilherme vai rodar o país fazendo testes para [selecionar atores.,
+	 seletar: Ao pesquisar as jurisprudências, o autor procurou I]seletar os melhores entendimentos de nossos Tribunais Pátrios.}
+Chave: SELECIONAR <verb.cognition>
+ILI: 00652154
+
+Sense 1 
+{00652154} <verb.cognition> choose, take1, select, pick out -- (pick out, select, or choose from a number of alternatives; "Take any one of these cards"; "Choose a good husband for your daughter"; "She selected a pair of shoes from among the dozen the salesgirl had shown her")
+       => {00674417} <verb.cognition> decide, make up one's mind, determine -- (reach, make, or come to a decision about something; "We finally decided after lengthy deliberations")

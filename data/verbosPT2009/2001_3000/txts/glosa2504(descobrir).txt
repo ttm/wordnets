@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA2504
+
+DADO O SYNSET:
+
+S='Glosa2504'
+	    {atinar: Era difícil [atinar com a verdade.,
+	      dar: Como os acasos que às vezes levam cientistas a [dar sentido a coisas que pareciam não ter sentido.,
+	      descobrir: Ela tinha essa incrível capacidade de [descobrir a graça por trás de qualquer situação, afirma a atriz.,
+	      descortinar: Foi competente em [descortinar propostas do partido que tem, atualmente, o candidato mais bem colocado nas pesquisas eleitorais, e o único que pode sonhar com o segundo turno das eleições.,
+	      desencobrir: Mas como [desencobrir o sentido desse poema envultante, de avassaladora sonoridade, que se propaga com o repetitivo bordão das duas palavras insistentes: maravilha e vento? ,
+	      encontrar: Parte das respostas a essas perguntas você vai [encontrar no texto deste capítulo, mas uma parte é respondida na Leitura Comnlementar.,
+	      notar: No leptóteno, os cromossomos duplicados iniciam a sua condensação, podendo-se [notar a presença de regiões mais condensadas, chamadas cromômeros.,
+	      perceber: Galileu não teria podido [perceber a diferença na queda desses corpos porque para a altura relativamente pequena da torre a resistência do ar é desprezível, e principalmente se tratando de corpos compactos e densos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2504' = “Descobrir ou determinar a existência, presença ou a realidade de.”
+	    {atinar: Era difícil [atinar com a verdade.,
+	      dar: Somente nesse instante I]deu com a presença de Salomé.,
+	      descobrir: Ela tinha essa incrível capacidade de [descobrir a graça por trás de qualquer situação, afirma a atriz.,
+	      descortinar: As experiências com ervilhas, realizadas pelo monge austríaco, Gregor Mendel, não I]descortinou apenas um campo de pesquisa novo dentro da biologia.,
+	      desencobrir: Mas como [desencobrir o sentido desse poema envultante que se propaga com o repetitivo bordão das duas palavras insistentes: maravilha e vento?,
+	      encontrar: Nosso estudo I]encontrou uma diferença estatisticamente significante entre os pacientes com apendicites agudas complicadas e não-complicadas.,
+	      notar: Você I]notou alguma diferença entre a tradição musical norueguesa e a brasileira?.,
+	      perceber: Ao examinar o produto ele I]percebeu um corpo estranho em meio ao gelo, colocou dentro de um saco plástico e esperou descongelar.,}
+
+Chave: DESCOBRIR <verb.perception>
+ILI: 02092480
+
+Sense 1
+{02092480} <verb.perception> detect, observe2, find2, discover3, notice4 -- (discover or determine the existence, presence, or fact of; "She detected high levels of lead in her drinking water"; "We found traces of lead in the paint")
+       => {02101907} <verb.perception> sight -- (catch sight of; to perceive with the eyes; "he caught sight of the king's men coming over the ridge")
+           => {02045668} <verb.perception> perceive, comprehend -- (to become aware of through the senses; "I could perceive the ship coming over the horizon") 

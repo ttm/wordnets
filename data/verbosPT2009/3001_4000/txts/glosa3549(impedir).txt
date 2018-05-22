@@ -1,0 +1,52 @@
+ANÁLISE DA GLOSA3549
+
+DADO O SYNSET:
+
+S='Glosa3549'
+	    {
+	      barrar1: Que um deputados de perfil conservador tente [barrar essas propostas, compreende-se. ,
+	      bloquear: Acusou os políticos que tentam [bloquear seu projeto de serem egoístas. / Ventos do Norte [bloquearam a passagem da massa fria.,
+	      defender: O forte São João I]defendia a entrada da baía.,
+	      empanar: Quando a lembrança de Pedro surgia na cabeça da moça, a tristeza [empanava a alegria.,
+	      impedir: Quando os turcos  tomaram Jerusalém (1055),  [impediram a entrada de peregrinos cristãos na Terra Santa./ Os soberanos nao conseguiram [impedir o estabelecimento do feudalismo.  ,
+	      inibir: A medida vai [inibir novos investimentos no país. ,
+	      interdizer: As câmaras municipais poderão I]interdizer a construção de anexos para instalação de animais nos terrenos vizinhos dos prédios situados em zonas urbanas. ,
+	      negar: É crime I]negar, impedir ou dificultar a inscrição ou ingresso de aluno em estabelecimento de ensino público. ,
+	      proibir: Se fossem [proibir personagens transgressores na telona, o cinema americano estaria frito. ,
+	      quitar: I]Quitar-me-ão as armas e com as mãos defenderei a casa do meu pai.,
+	      tolher: Dois únicos sentimentos ainda me [tolhiam os passos: eram o vexame e o medo. ,
+	      trancar: O juiz não pode [trancar a ação penal por meio de habeas corpus.,
+	      vedar: Choramingava porque lhe [vedavam a entrada no quarto do enfermo. ,
+	      vetar: Quem está negociando não pode impor nem [vetar ninguém. / O presidente Itamar Franco deve [vetar o projeto. ,
+	    }
+A='Glosa57'
+	    {
+	     autorizar: O Banerj [autorizou a abertura de 13 agências no Rio até às 22h de hoje.,
+	     permitir: Ela garantiu ter gostado de tudo, só não [permitiu que as passistas, vestidas com minúsculos biquínis, tirassem fotografias a seu lado. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3549' = “ser um impedimento ou obstáculo” 
+	     {barrar1: Uma manobra do governo [barrou a mudança. ,
+	      bloquear: O INSS [bloqueou o pagamento de 240 aposentadorias rurais no município de Palestina (SP). / Ventos do Norte [bloquearam a passagem da massa fria.,
+	      defender: O forte São João I]defendia a entrada da baía.,
+	      empanar: Quando a lembrança de Pedro surgia na cabeça da moça, a tristeza [empanava a alegria.,
+	      impedir: Quando os turcos  tomaram Jerusalém (1055),  [impediram a entrada de peregrinos cristãos na Terra Santa./ Os soberanos não conseguiram [impedir o estabelecimento do feudalismo.  ,
+	      inibir: A medida vai [inibir novos investimentos no país. ,
+	      interdizer: As câmaras municipais poderão I]interdizer a construção de anexos para instalação de animais nos terrenos vizinhos dos prédios situados em zonas urbanas. ,
+	      negar: Em 2005, Washington I]negou a participação de 96 esportistas americanos em competições organizadas em Cuba.,
+	      proibir: Lucena [proibiu a divulgação da relação, que deve ser levada diretamente aos líderes partidários na próxima semana.,
+	      tolher: O passado colonial e escravocrata I]tolheu o desenvolvimento de empresas no país por 300 anos. ,
+	      trancar: O juiz não pode [trancar a ação penal por meio de habeas corpus.,
+	      vedar: Mesmo sem usar o termo, [vedou a demissão, salvo mediante processo administrativo ou sentença judicial. ,
+	      vetar: Collor [vetou o reajuste bimestral dos benefícios, o cálculo das aposentadorias com base nos últimos três anos de contribuição e a fixação de pelo menos um salário para o aposentado rural. ,}
+A='Glosa57'
+	     {autorizar: O Banerj [autorizou a abertura de 13 agências no Rio até às 22h de hoje.,
+	     permitir: Ela garantiu ter gostado de tudo, só não [permitiu que as passistas, vestidas com minúsculos biquínis, tirassem fotografias a seu lado. ,}
+Chave: IMPEDIR <verb.social>
+ILI: 02377880
+
+Sense 1
+{02377880} <verb.social> impede, hinder1 -- (be a hindrance or obstacle to; "She is impeding the progress of our project")
+       => {02377053} <verb.social> prevent, keep1 -- (prevent from doing something or being in a certain state; "We must prevent the cancer from spreading"; "His snoring kept me from falling asleep"; "Keep the child from eating the marbles")

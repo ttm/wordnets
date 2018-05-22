@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA2137
+
+DADO O SYNSET:
+
+S='Glosa2137'
+	    {cascar: Tina A]cascou o queijo e trouxe ele espetado na faca.,
+	      debulhar: Ela foi para dentro para I]debulhar o arroz com casca.,
+	      desbulhar2: Atrás do carro de mão, uma senhora sexagenária I]desbulhava feijão verde pacientemente.,
+	      descascar: Nele, a criança teria que [descascar uma cebola com um facão, sem derramar sequer uma lágrima.,
+	      esbrugar: x ,
+	      esburgar: Ia I]esburgando a fruta e deitando os pedaços de casca ao focinho do animal, que fazia apenas um movimento de cabeça.,
+	      escascar: x,
+	      expurgar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2137' = “ remover a casca de algo’
+	    {cascar: Tina A]cascou o queijo e trouxe ele espetado na faca.,
+	      debulhar: E I]debulhavam magicamente os feijões postos pra secar no terreiro.,
+	      desbulhar: Atrás do carro de mão, uma senhora sexagenária I]desbulhava feijão verde pacientemente.,
+	      descascar: Nele, a criança teria que [descascar uma cebola com um facão, sem derramar sequer uma lágrima.,
+	      esburgar: Ia I]esburgando a fruta e deitando os pedaços de casca ao focinho do animal, que fazia apenas um movimento de cabeça.,}
+
+Chave: DESCASCAR <verb.contact>
+ILI: 01224865
+
+Sense 1
+{01224865} <verb.contact> skin, peel, pare2 -- (strip the skin off; "pare apples")
+       => {01225426} <verb.contact> strip -- (remove the surface from; "strip wood")
+           => {00166870} <verb.change> remove, take, take away1, withdraw1 -- (remove something concrete, as by lifting, pushing, taking off, etc. or remove something abstract; "remove a threat"; "remove a wrapper"; "Remove the dirty dishes from the table"; "take the gun from your pocket"; "This machine withdraws heat from the environment")

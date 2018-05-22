@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA0309
+
+DADO O SYNSET:
+
+S='Glosa309'
+{alongar: A gente acaba desconfiando que o que querem é sempre [alongar a viagem, o caminho, para que, quando afinal chegarmos, já estejam ocupadas as prometidas terras.,
+prolongar: A Paulista chega a Descalvado, pela estrada do Mogy-Guassú, I]prolongando a linha a partir da estação de Porto Ferreira. ,}
+A='Glosa3463'
+{abreviar, diminuir, encurtar, reduzir}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa309' = “estender (sobre) uma distância, espaço, tempo, ou alcance; aumentar ou continuar entre dois pontos ou além de um certo ponto” 
+{alongar: A gente acaba desconfiando que o que querem é sempre [alongar a viagem, o caminho, para que, quando afinal chegarmos, já estejam ocupadas as prometidas terras.,
+prolongar: A Paulista chega a Descalvado, pela estrada do Mogy-Guassú, I]prolongando a linha a partir da estação de Porto Ferreira. ,}
+A='Glosa3463'
+{abreviar, diminuir, encurtar, reduzir}
+
+Chave: PROLONGAR <verb.stative>
+ILI: 02605113
+
+Sense 2
+{02605113} <verb.stative> run, go, pass8, lead, extend3 -- (stretch out over a distance, space, time, or scope; run or extend between two points or beyond a certain point; "Service runs all the way to Cranbury"; "His knowledge doesn't go very far"; "My memory extends back to my fourth year of life"; "The facts extend beyond a consideration of her personal assets")
+       => {02576058} <verb.stative> be5 -- (occupy a certain position or area; be somewhere; "Where is my umbrella?" "The toolshed is in the back"; "What is behind this behavior?")
+          Also See-> {02604827} <verb.stative> extend to#1

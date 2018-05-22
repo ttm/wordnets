@@ -1,0 +1,36 @@
+ANÁLISE DA GLOSA3446
+
+DADO O SYNSET:
+
+S='Glosa3446'
+	    {
+	      alojar: O bacilo percorre todo o corpo através das vias linfáticas até se [alojar num local onde pode ficar incubado/O haras e fazenda Bonfim [aloja cem animais em 32 piquetes de capim,
+	      armazenar: As plantas apresentam raízes desenvolvidas, para poder retirar o máximo de água do solo; caules suculentos, que [armazenam água/O depósito, que armazenava veículos roubados de outros estados, funcionava na garagem do edifício,
+	      condessar: x, ,
+	      depositar: Terrenos vizinhos foram usados para depositar botijões de gás e objetos que os moradores conseguiam retirar dos barracos/Foi ao armazém, em que mandara, logo ao romper do dia, [depositar as suas malas,
+	      enceleirar: Quem tarda muito em lavrar, pouco há de ]enceleirar,
+	      enlojar: x,
+	      entulhar: Não gostamos de ]entulhar coisas/]Entulhar está fora de moda e, além disso, dificulta a limpeza das áreas,
+	      estocar1: Os palestinos começaram a estocar alimentos/O delegado regional disse ter requisitado a área para [estocar mercadorias estrangeiras apreendidas no contrabando,
+	      guardar: Está faltando garagem para o Banco do Brasil [guardar a grande quantidade de veículos que está arrestando de clientes em atraso com o pagamento de empréstimos/Tinham os indígenas várias espécies de móveis para [guardar objetos,
+	      meter: ]Meteu seu dinheiro todo num banco,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3446' = “armazenar ou manter habitualmente”
+	     {alojar: Ryan I]alojou as bolsas deles/delas no quarto de hóspedes espaçoso, suavizado,
+	      armazenar: Maria I]armazenou as peças de seu museu (discos, livros, partituras) que representam para ele a felicidade,
+	      depositar: I]Depositou o carrinho no fundo do quintal, abriu a tranca da casa, dirigiu-se ao quarto e jogou-se na cama.,
+	      entulhar: Ela I]entulhou tudo num quarto,
+	      estocar1: Ele [estoca o produto em um galpão para depois vendê-lo aos frigoríficos de Brasília,
+	      guardar: O velho poeta [guardou a canção de Urubu-de-Baixo, numa pasta; e foi logo à outra, donde tirou várias folhas de papel,
+	      meter: I]Meteu o livro debaixo da camisa e foi saindo de fininho,}
+Chave: GUARDAR <verb.possession>
+ILI: 02140650
+
+Sense 18
+{02140650} <verb.possession> keep13 -- (store or keep customarily; "Where do you keep your gardening tools?")
+       => {02216509} <verb.possession> store2 -- (find a place for and put away for storage; "where should we stow the vegetables?"; "I couldn't store all the books in the attic so I sold some")
+           => {02138940} <verb.possession> keep, hold on -- (retain possession of; "Can I keep my old stuffed animals?"; "She kept her maiden name after she married")
+               => {02139918} <verb.possession> have, have got, hold -- (have or possess, either in a concrete or an abstract sense; "She has $1,000 in the bank"; "He has got two beautiful daughters"; "She holds a Master's degree from Harvard")

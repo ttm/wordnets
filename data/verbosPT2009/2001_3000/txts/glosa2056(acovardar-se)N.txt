@@ -1,0 +1,45 @@
+ANÁLISE DA GLOSA2056
+
+DADO O SYNSET:
+	
+S='Glosa2056'
+    	{acobardar-se: Belota, sempre cheio da intransigência das ameaças do sargento, I]acobardou-se e contou o caso, amenizando-o com disparatadas justificativas. ,
+      	 acovardar-se: O capitalista vacilou, cedeu, [acovardou-se.,
+      	 agalinhar-se: H]Agalinhou-se diante do adversário.,
+      	 amedrontar-se: A rapariga chegou a suspeitar que o padrinho sabia de tudo, e [amedrontou-se.,
+      	 amoquecar-se: x,
+      	 apavorar-se: I]Apavorou-se diante da possibilidade de ser um fracassado como ícaro e como tantos outros.,
+      	 apoltronar-se2: x,
+      	 assustar-se: O virtual candidato petista [assustou-se com a reação contrária às teses dos setores da Igreja ligados ao PT.,
+      	 atemorizar-se: I]Atemorizou-se no interrogatório, comprometeu os amigos e, por certo desesperado em conseqüência, suicidou-se no cubículo da Casa dos Contos.,
+      	 aterrar-se: A]Aterrava-a a idéia de um encontro com o filho.,
+      	 encobardar-se: x,
+      	 encovardar-se: x,
+      	 estarrecer-se: Salustiano redobrou os uivos, mas A]estarreceu-se logo, pois dois tiros de calibre grosso zuniram nos seus ouvidos.,
+      	 esterrecer-se: x,
+      	 estremecer-se: M]Estremeceram-se perante a visão dantesca.,
+      	 gelar-se: x,
+      	 intimidar-se: O presidente ensaiou passos de dança com June, mas [intimidou-se com a platéia.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2056' = “ficar covarde, medroso”
+    	{acobardar-se: Belota, sempre cheio da intransigência das ameaças do sargento, I]acobardou-se e contou o caso, amenizando-o com disparatadas justificativas.,
+      	 acovardar-se: O capitalista vacilou, cedeu, [acovardou-se.,
+      	 amedrontar-se: A rapariga chegou a suspeitar que o padrinho sabia de tudo, e [amedrontou-se.,
+      	 apavorar-se: Quando a gente se [apavora, começa a ver coisas, a ouvir coisas.,
+      	 assustar-se: O virtual candidato petista [assustou-se com a reação contrária às teses dos setores da Igreja ligados ao PT.,
+      	 atemorizar-se: I]Atemorizou-se no interrogatório, comprometeu os amigos e, por certo desesperado em conseqüência, suicidou-se no cubículo da Casa dos Contos.,
+      	 aterrar-se: A]Aterrava-a a idéia de um encontro com o filho.,
+      	 estarrecer-se: Ao iluminar da luz vermelha, a Figura I]estarreceu-se e fugiu.,
+      	 estremecer-se: Quaderna velho se I]estremece ao ver diante de seus olhos, saindo de uma furna escondida, a Onça vermelha e alada da Morte.,
+      	 intimidar-se: O presidente ensaiou passos de dança com June, mas [intimidou-se com a platéia.}
+Chave: ACOVARDAR-SE <verb.emotion>
+ILI: EQ_NEAR_SYNONYM – 01727523
+
+Sense 1
+{01727523} <verb.emotion> frighten, fright, scare, affright -- (cause fear in; "The stranger who hangs around the building frightens me")
+       => {01710864} <verb.emotion> stimulate, shake, shake up, excite, stir1 -- (stir the feelings, emotions, or peace of; "These stories shook the community"; "the civil war shook the country")
+           => {01708538} <verb.emotion> arouse, elicit, enkindle, kindle, evoke, fire, raise8, provoke -- (call forth (emotions, feelings, and responses); "arouse pity"; "raise a smile"; "evoke sympathy")
+               => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")
+          Also See-> {01734017} <verb.emotion> frighten off#1; {01734017} <verb.emotion> frighten away#1

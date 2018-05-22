@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA1721
+
+DADO O SYNSET:
+
+S='Glosa1721'
+{capsular: x,
+ encapsular: Os pesquisadores estão conseguindo I]encapsular os medicamentos em nanopartículas, que não podem ser vistas a olho nu.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1721' = “encerrar em uma cápsula”
+{encapsular: Nos primórdios da evolução da Terra, a própria natureza I]encapsulou os detritos de. carbono no subsolo.,}
+Chave: ENCAPSULAR <verb.contact>
+ILI: 01537342
+
+Sense 1
+{01537342} <verb.contact> capsule, capsulate, capsulize, capsulise -- (enclose in a capsule)
+       => {01536721} <verb.contact> envelop, enfold, enwrap, wrap1, enclose1 -- (enclose or enfold completely with or as if with a covering; "Fog enveloped the house")
+           => {01293336} <verb.contact> cover -- (provide with a covering or cause to be covered; "cover her face with a handkerchief"; "cover the child with a blanket"; "cover the grave with flowers")

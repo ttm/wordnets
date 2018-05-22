@@ -1,0 +1,46 @@
+ANÁLISE DA GLOSA3646a
+
+DADO O SYNSET:
+
+S='Glosa3646'
+	    {
+	      aguar: Seu trabalho era exatamente I]aguar todo o jardim, grama e plantas.,
+	      lentar: x,
+	      lentejar: No fundo da caverna I]lentejava tristemente uma mina e a cada gota do estilicídio respondia um som lacrimoso.,
+	      lentescer: x,
+	      molhar: Sou capaz de verificar cada pezinho de plantação e [molhar um por um, se estiver na seca.,
+	      orvalhar: O pranto [orvalhou seu lindo semblante.,
+	      regar: Segundo Célia de Assis, se a terra estiver ressecada, é hora de [regar. ,
+	      umedecer: Adivinhava a menor neblina antes que a primeira gota [umedecesse a laje do nosso terraço.,
+	      umidificar: O meio-campista foi correndo perguntar se o colírio com que [umidifica sua lente de contato não poderia ter alguma substância proibida pela Fifa. ,
+	    }
+	  A='Glosa1569'
+	    {
+	     desumedecer: Muitos dos chamados sistemas de ar condicionado domésticos não possuem meios de umedecer e I]desumedecer o ar e assim fazem apenas um serviço parcial. ,
+	     desumidificar: O Desumidificador Secador TERMOFIX é um aparelho elétrico, desenvolvido em 1959, para I]desumidificar o ar em um recinto fechado mediante o seu aquecimento.,
+	     esgotar: A seca H]esgotou as fontes de água.,
+	     ressecar: Além disso, aponta a médica, o equipamento possui como característica a propriedade de esfriar e I]ressecar o ar, o que prejudica pessoas que sofrem de asma.,
+	     secar: O ar condicionado irá como sempre I]secar o ar do local, enquanto isto, o VentiFrio irá compensar o mesmo com umidade, resfriamento, purificação e filtragem.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3646a' = “fazer ficar molhado”
+	     {aguar: Tirou o grande vaso de flores do centro da mesa, baixou-o, I]aguou-o, colocou-o novamente no lugar.,
+	      molhar: Marilda Cruz, 56, [molhou o cabelo e até a roupa.,
+	      regar: Saddam Hussein I]regava plantas no jardim da prisão. ,}
+	  A='Glosa1569'
+	    {desumedecer: Muitos dos chamados sistemas de ar condicionado domésticos não possuem meios de umedecer e I]desumedecer o ar e assim fazem apenas um serviço parcial. ,
+	     desumidificar: O Desumidificador Secador TERMOFIX é um aparelho elétrico, desenvolvido em 1959, para I]desumidificar o ar em um recinto fechado mediante o seu aquecimento.,
+	     esgotar: A seca H]esgotou as fontes de água.,
+	     ressecar: Além disso, aponta a médica, o equipamento possui como característica a propriedade de esfriar e I]ressecar o ar, o que prejudica pessoas que sofrem de asma.,
+	     secar: O ar condicionado irá como sempre I]secar o ar do local, enquanto isto, o VentiFrio irá compensar o mesmo com umidade, resfriamento, purificação e filtragem.,}
+Chave: MOLHAR <verb.change>
+ILI: 00207542
+
+Sense 1
+{00207542} <verb.change> wet -- (cause to become wet; "Wet your face")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")
+
+
+

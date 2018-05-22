@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA3031
+
+DADO O SYNSET:
+
+S='Glosa3031'
+	    {
+	      gloterar: A cegonha I]glotera e a vaca muge pela paralela um som mocho.,
+	      glotorar: x,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3031' = “emitir um grunhido fraco, como um barulho de animal”
+	     {gloterar: A cegonha I]glotera e a vaca muge pela paralela um som mocho.,}
+Chave: GLOTERAR <verb.communication>
+ILI: 01009703
+
+Sense 1
+{01009703} <verb.communication> grunt -- (issue a grunting, low, animal-like noise; "He grunted his reluctant approval")
+       => {00951670} <verb.communication> utter2, emit, let out2, let loose -- (express audibly; utter sounds (not necessarily words); "She let out a big heavy sigh"; "He uttered strange sounds that nobody could understand")

@@ -1,0 +1,38 @@
+ANÁLISE DA GLOSA2733
+
+DADO O SYNSET:
+
+S='Glosa2733'
+	    {abnuir: O diretor deverá H]abnuir o projeto.,
+	      declinar: Infelizmente, terei de [declinar o amável convite.,
+	      desistir: O publicitário Luiz Fernando Furquim, nomeado recentemente subsecretário de Planejamento e Mídia do governo, [desistiu do cargo.,
+	      enjeitar: A Santa mais santa, a virgem mais pura, há instantes em que se daria a Quasímodo; e Messalina era capaz de I]enjeitar Romeu ou Don Juan.,
+	      escorraçar: A]Escorraçou a oportunidade de ser feliz.,
+	      recusar: Poderá igualmente [recusar a queixa quando considerar que haja recurso apropriado no caso, quando evidenciar-se o caráter insignificante da queixa ou má fé do autor, ou quando não houver interesse relevante por parte do reclamante.,
+	      refusar: x,
+	      rejeitar1: Algumas experimentações simples bastariam para você [rejeitar essa hipótese.,
+	      renunciar: Essa lei dá à vítima o direito de [renunciar ao processo, impedindo que o Ministério Público possa oferecer denúncia ao acusado; assim, o caso fica encerrado.,}
+
+	  A='Glosa229'
+	    {aceitar: Régis Faria revela que o criminoso, que receberá 2,5% da renda bruta da produção, [aceitou a proposta em poucas horas.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2733' = “Julgar algo como errado ou inapropriado.”
+	    {declinar: O conselho I]declinou o pedido de demissão de Lee nesta terça.,
+	      enjeitar: O BID I]enjeitou o resultado por julgar que a Construcap não foi convincente sobre sua capacidade técnica para executar os chamados itens relevantes.,
+	      escorraçar: Como quando I]escorraçou a possibilidade de criação de um conselho governamental disposto a tutelar a mídia.,
+	      recusar: A Suprema Corte dos Estados Unidos I]recusou o recurso de um professor secundário do Arizona.,
+	      rejeitar1: Com muito tato, a direção da escola [rejeitou o pedido.,
+	      renunciar: O resultado das negociações não satisfizeram a União Soviética que I]renunciou o pacto de não-agressão assinado em 1932.,}
+
+	  A='Glosa229'
+	    {aceitar}
+
+Chave: ENJEITAR <verb.communication>
+ILI: 00781077
+
+Sense 2
+{00781077} <verb.communication> disapprove, reject -- (deem wrong or inappropriate; "I disapprove of her child rearing methods")
+       => {00647983} <verb.cognition> judge -- (form an opinion of or pass judgment on; "I cannot judge some works of modern art")
+           => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere") 

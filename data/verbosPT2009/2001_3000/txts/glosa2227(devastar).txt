@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA2227
+
+DADO O SYNSET:
+S='Glosa2227'
+	    {desabitar: Construir uma hidroelétrica hoje significa I]desabitar e destruir uma grande área verde.,
+	      desertar: Devido à poluição, os pescadores H]desertaram aquelas praias.,
+	      desolar: A guerra é uma bela arte, a de I]desolar os campos, destruir as casas e fazer morrer muitos homens.,
+	      despovoar: A derrota do movimento e a brutal repressão que se seguiu I]despovoaram o vale.,
+	      devastar: A doença, ainda desconhecida, vinha H]devastando a cidade.,
+	      ermar: O êxodo H]ermou todo o território.,
+	      vastar2: x,}
+
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2227' = “destruir; arruinar”
+	    {desabitar: Construir uma hidroelétrica hoje significa I]desabitar e destruir uma grande área verde.,
+	      desertar: Os pescadores H]desertaram aquelas praias.,
+	      desolar: A guerra é uma bela arte, a de I]desolar os campos, destruir as casas e fazer morrer muitos homens.,
+	      despovoar: A derrota do movimento e a brutal repressão I]despovoaram o vale.,
+	      devastar: A doença vinha H]devastando a cidade.,
+	      ermar: E aquele caminho, então povoado, I]ermou-se.,}
+
+Chave: DEVASTAR <verb.change>
+ILI: 00376759
+
+Sense 3
+{00376759} <verb.change> lay waste to, waste, devastate, desolate1, ravage1, scourge2 -- (devastate or ravage; "The enemy lay waste to the countryside after the invasion")
+       => {01520843} <verb.contact> destroy, ruin -- (destroy completely; damage irreparably; "You have ruined my car by pouring sugar in the tank!"; "The tears ruined her make-up")

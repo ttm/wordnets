@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0125
+
+DADO O SYNSET:
+
+S='Glosa125'
+{confessar-se: O diretor do Detran, coronel Almir Maia, I]confessou-se incapaz de apontar as causas que justificam números tão brutais.,
+outorgar-se: Não se M]outorga por envelhecido.,
+reconhecer-se: O perigo de não inverter essa equação é criar uma sociedade que não se I]reconhece como merecedora de direitos e com potenciais de conquista.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa125' = “declarar como verdadeiro ou admitir a existência ou realidade ou verdade de algo”
+{confessar-se: O diretor do Detran, coronel Almir Maia, I]confessou-se incapaz de apontar as causas que justificam números tão brutais.,
+outorgar-se: As franquias I]outorgar-se-ão de acordo com as disposições estabelecidas pelas autoridades competentes.,
+reconhecer-se: O perigo de não inverter essa equação é criar uma sociedade que não se I]reconhece como merecedora de direitos e com potenciais de conquista.,}
+
+Chave: RECONHECER-SE <verb.communication>
+ILI: 00790973
+
+Sense 1
+{00790973} <verb.communication> admit, acknowledge -- (declare to be true or admit the existence or reality or truth of; "He admitted his errors"; "She acknowledged that she might have forgotten")
+       => {00795481} <verb.communication> declare4, adjudge, hold11 -- (declare to be; "She was declared incompetent"; "judge held that the defendant was innocent")
+           => {00647983} <verb.cognition> judge -- (form an opinion of or pass judgment on; "I cannot judge some works of modern art")
+               => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA0134
+
+DADO O SYNSET:
+
+S='Glosa134'
+{admitir: O carnavalesco da Mocidade Independente Renato Lage, pai de cinco filhos, [admite que a atitude do jogador deveria ser evitada.,
+confessar: Nunca escrevi tão diretamente sobre o amor, [confessa o autor, que esperou a maturidade da palavra para se considerar um escritor. ,
+declarar: Na matéria, a porta-voz da subsidiária da Sony no Brasil [declara que a gravadora já esperava protestos porque sempre ocorre frisson onde quer que Michael vá. ,
+reconhecer: Todos [reconheciam o quanto estes setores importavam para a divulgação deste país no mundo. # Estou animada com esta oportunidade no SBT, [reconhece.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa134' = “declarar ser verdade ou admitir a existência ou realidade ou verdade de algo”
+{admitir: O carnavalesco da Mocidade Independente Renato Lage, pai de cinco filhos, [admite que a atitude do jogador deveria ser evitada.,
+confessar: Nunca escrevi tão diretamente sobre o amor, [confessa o autor, que esperou a maturidade da palavra para se considerar um escritor. ,
+declarar: Na matéria, a porta-voz da subsidiária da Sony no Brasil [declara que a gravadora já esperava protestos porque sempre ocorre frisson onde quer que Michael vá. ,
+reconhecer: Todos [reconheciam o quanto estes setores importavam para a divulgação deste país no mundo. # Estou animada com esta oportunidade no SBT, [reconhece.,}
+
+Chave: ADMITIR <verb.communication>
+ILI: 00790973
+
+Sense 1
+{00790973} <verb.communication> admit, acknowledge -- (declare to be true or admit the existence or reality or truth of; "He admitted his errors"; "She acknowledged that she might have forgotten")
+       => {00795481} <verb.communication> declare4, adjudge, hold11 -- (declare to be; "She was declared incompetent"; "judge held that the defendant was innocent")
+           => {00647983} <verb.cognition> judge -- (form an opinion of or pass judgment on; "I cannot judge some works of modern art")
+               => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

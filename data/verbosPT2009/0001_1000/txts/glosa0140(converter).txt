@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0140
+
+DADO O SYNSET:
+
+S='Glosa140'
+{atrair: DEVIANT,
+converter: O homem, ao levantar-se sobre as duas patas traseiras, ao [converter em machado a primeira pedra afilada, instituiu as bases de sua grandeza mas também as origens de sua angústia.,
+reduzir: Tratou logo de A]reduzir a dinheiro um dos colares.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa140' = “mudar a natureza, propósito, ou função de alguma coisa”
+{converter: O homem, ao levantar-se sobre as duas patas traseiras, ao [converter em machado a primeira pedra afilada, instituiu as bases de sua grandeza mas também as origens de sua angústia.,
+reduzir: Pisado, peneira-se, e o que estiver capaz, se tira à parte, e o mais grosso se torna a pisar, até se I]reduzir em pó.,}
+
+Chave: CONVERTER <verb.change>
+ILI: 00111347
+
+Sense 1
+{00111347} <verb.change> convert3 -- (change the nature, purpose, or function of something; "convert lead into gold"; "convert hotels into jails"; "convert slaves to laborers")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

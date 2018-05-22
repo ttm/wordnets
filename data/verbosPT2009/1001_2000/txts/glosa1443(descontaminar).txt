@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA1443
+
+DADO O SYNSET:
+
+S='Glosa1443'
+{descontaminar: A sala de emergência foi evacuada e uma equipe foi chamada para [descontaminá-la,
+ desempestar: H]Desempestou o vilarejo,
+	 desinfeccionar: Os gregos usavam o anidrido sulfuroso para I]desinfeccionar suas casas,
+ desinfecionar: Interditamos o berçário onde houve as mortes para I]desinfecionar o local,}
+	  
+A='Glosa3808'
+{apestar, contaminar, eivar, empestar, empestear, infeccionar, infectar, infetar, pestear}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1443' = “destruir microorganismos ou patógenos através de limpeza”
+{descontaminar: O processo de assepsia utilizado I]descontaminou 97% das sementes.,
+ desinfeccionar: A partir dai passei a I]desinfeccionar os cortes e tratá-los com uma pomada analgésica.,
+ desinfecionar: Interditamos o berçário onde houve as mortes para I]desinfecionar o local.,}
+	  
+A='Glosa3808'
+{apestar, contaminar, eivar, empestar, empestear, infeccionar, infectar, infetar, pestear}
+Chave: DESCONTAMINAR <verb.body>
+ILI: 00086816
+
+Sense 1
+{00086816} <verb.body> disinfect -- (destroy microorganisms or pathogens by cleansing; "disinfect a wound")
+       => {01490246} <verb.contact> clean, make clean -- (make clean by removing dirt, filth, or unwanted substances from; "Clean the stove!"; "The dentist cleaned my teeth")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

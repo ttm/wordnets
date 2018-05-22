@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA3398
+
+DADO O SYNSET:
+
+S='Glosa3398'
+	    {
+	      bater: H]Bater o ferro em brasa.,
+	      malhar: H]Malhar uma chapa metálica.,
+	      martelar: Esta técnica consiste em aquecer o aço até o rubro e I]martelar, moldando a peça até o seu formato desejado.  ,
+	      martelejar: x,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3398' = “bater com ou como se com um martelo”
+	     {bater: De repente a tampa de um dos caixões se abriu e o combatente pegou um fuzil e I]bateu o prego.,
+	      malhar: H]Malhar uma chapa metálica.,
+	      martelar: O João I]martelou o prego na parede., }
+Chave: MARTELAR <verb.contact>
+ILI: 01375932
+
+Sense 1
+{01375932} <verb.contact> hammer -- (beat with or as if with a hammer; "hammer the metal flat")
+       => {01358385} <verb.contact> beat -- (hit repeatedly; "beat on the door"; "beat the table with his shoe")
+           => {01369678} <verb.contact> strike -- (deliver a sharp blow, as with the hand, fist, or weapon; "The teacher struck the child"; "the opponent refused to strike"; "The boxer struck the attacker dead")
+               => {01169634} <verb.contact> touch -- (make physical contact with, come in contact with; "Touch the stone for good luck"; "She never touched her husband")

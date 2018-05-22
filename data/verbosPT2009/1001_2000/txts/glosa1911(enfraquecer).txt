@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA1911
+
+DADO O SYNSET:
+
+S='Glosa1911'
+{abrandar: Filtros especiais são utilizados para I]abrandar a luz e aumentar o contraste. ,
+ adormecer: E pela lua foi se apaixonar/Luz que banha a noite/ E faz o sol I]adormecer.,
+ atenuar: Ao longo das ruas, geralmente cobertas por treliças ou panos para I]atenuar o sol, sucedem-se pequenas lojas repletas de mercadorias. ,
+ brandear: x,
+ enfraquecer: A chama da fogueira H]enfraquecia aos poucos.,
+ enfraquentar: x,
+ esbater: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1911' = “tornar menos energético ou intenso” 
+{abrandar: Filtros especiais são utilizados para I]abrandar a luz e aumentar o contraste.,
+ adormecer: Uma agonia desceu em sua alma de lombada, nublou os sentidos, I]adormeceu o juízo, teve ânsias de morrer.,
+ atenuar: Ao longo das ruas, geralmente cobertas por treliças ou panos para I]atenuar o sol, sucedem-se pequenas lojas repletas de mercadorias. ,
+ enfraquecer: Te Os fluidos da água formaram um escudo protetor que foi enfraquecendo o desejo que ele tinha de pôr fim à própria vida.,}
+Chave: ENFRAQUECER <verb.change>
+ILI: 00237189
+
+Sense 2
+{00237189} <verb.change> slake, abate1, slack4 -- (make less active or intense)
+       => {00428838} <verb.change> decrease1, lessen2, minify -- (make smaller; "He decreased his staff")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

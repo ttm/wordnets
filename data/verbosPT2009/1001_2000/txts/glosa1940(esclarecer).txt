@@ -1,0 +1,38 @@
+ANÁLISE DA GLOSA1940
+
+DADO O SYNSET:
+
+S='Glosa1940'
+{aclarar: Muito bom ler o seu texto sobre a World Music, me I]aclarou muito sobre esta "gaveta paradoxal" que muitas vezes nos vemos metido e que abarca (ou pretende) ao mesmo tempo músicos tradicionais da Armênia e Milton Nascimento.   ,
+ alumiar: Um dia, considerei que, para o fim de I]alumiar um pouco o entendimento, tinha consumido os meus longos anos, e, aliás, nada chegaria a valer sem a existência de outros homens que me vissem e honrassem; então cogitei se não haveria um modo de obter o mesmo efeito, poupando tais trabalhos.,
+ delucidar: Impõe-se, pois, I]delucidar o que se deve entender por empresa, para, a partir desses lindes, identificar o empresário e a sociedade empresária.,
+ desanuviar: O médico H]desanuviou as dúvidas do paciente.,
+ desemaranhar: x,
+ desembaraçar: x,
+ dilucidar: x,
+ elucidar: O dia começou cedo, alguns alunos distribuíram pelos habitantes da vila de Coruche, panfletos informativos que pretendiam I]elucidar a população, sobre a problemática da desflorestação.,
+ esclarecer: O trabalho deles é o de I]esclarecer os alunos sobre seus direitos e deveres e limita-se à consulta e ao aconselhamento.,
+ iluminar: A tarefa-missão assumida pelo Projeto ganha agora mais luz e calor, geradas pelas telinhas de TV, para I]iluminar os muitos olhares que precisam e desejam ver Ciência. ,
+ ilustrar: No tempestuoso século XIX -  I]ilustra-nos Ada  -  já se deram dois símbolos femininos contrapostos que desde a literatura dão-nos a chave da revolução que representou o exemplo de Ada. ,
+ instruir: A bula H]instrui o consumidor sobre os efeitos colaterais do medicamento.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1940' = “deixar [alguém] ciente [de]”
+{aclarar: Muito bom ler o seu texto sobre a World Music, me I]aclarou muito sobre esta "gaveta paradoxal" que muitas vezes nos vemos metido e que abarca (ou pretende) ao mesmo tempo músicos tradicionais da Armênia e Milton Nascimento.,
+ alumiar: Jesus não nos confiou a verdade para transformá-la numa pedra sobre o crânio alheio e sim num clarão que oriente aos outros e I]alumie a nós.,
+desanuviar: I]Desanuviando os pensamentos para a caçada que se seguiria, Edward respirou fundo.,
+ elucidar: O dia começou cedo, alguns alunos distribuíram pelos habitantes da vila de Coruche, panfletos informativos que pretendiam I]elucidar a população sobre a problemática da desflorestação.,
+ esclarecer: O trabalho deles é o de I]esclarecer os alunos sobre seus direitos e deveres e limita-se à consulta e ao aconselhamento.,
+ iluminar: A Deputada Luciana Genro, apresentará um requerimento ao Presidente da Comissão de Serviços Públicos, solicitando que convoque o Secretário Antônio Berfran Rosado, juntamente com a assessoria que lhe I]iluminou sobre o tema da transferência de servidores, para explicarem a esta Casa o que será feito.,
+ ilustrar: Exupério Cangaçu era também excelente curador e, para consultas, usava o Chernoviz, que, provavelmente, o I]ilustrou sobre as diversas técnicas cirúrgicas, receitas e sangrias.,
+ instruir: Esses fatos são espécies de nós de relações, prenhes de uma dinâmica de unificação, e é a uma pedagogia da análise dos fatos que Poincaré nos incita, começando pelos mais regulares para chegar a uma lei, depois passando à exceção, que nos [instrui sobre uma verdade mais profunda.,}
+Chave: ESCLARECER <verb.communication>
+ILI: 00803912
+
+Sense 3
+{00803912} <verb.communication> instruct2, apprise1, apprize -- (make aware of; "Have the students been apprised of the tuition hike?")
+       => {00804489} <verb.communication> inform -- (impart knowledge of some fact, state or affairs, or event to; "I informed him of his rights")
+           => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+               => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

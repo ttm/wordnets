@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA2690
+
+DADO O SYNSET:
+
+  S='Glosa2690'
+	    {arremessar: À frente, eles têm os torcedores que [arremessam pilhas, tênis e até radinhos portáteis. # O helicópetro da Policia Civil sobrevoava o prédio quando um grupo de cerca de dez detentos subiu no telhado da cadeia e passou a [arremessar telhas no pátio buscando atingir os policiais.,
+	      atirar: Irritado, Paulista tentou [atirar uma picareta em Bira, que reagiu e sacou um revólver calibre 38.,
+	      desembestar: A]Desembestou do arco várias flechas.,
+	      remessar: Com zagaias com pedras se defendem, I]remessam fogo, ao nervo adaptam setas.,
+	      tirar: Poderíamos estudar a influência de Sócrates através dos tempos e a nefesta sombra do pensador sobre a cabeça dos poetas, mas, para não cansar o leitor, lembraríamos de Petrônio em seu Satiricon , louco para I]tirar pedras no poeta que começou a engrolar sua algaravia ininteligível ao comum dos mortais.,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2690' = “Projetar através do ar.”
+	    {arremessar: À frente, eles têm os torcedores que [arremessam pilhas, tênis e até radinhos portáteis..,
+	      atirar: Menina I]atirou uma pedra na cabeça do colega e a mãe da vítima chamou a polícia.,
+	      desembestar: A]Desembestou do arco várias flechas.,
+	      remessar: I]Remessou o arco contra mim, quando me viu, à entrada da floresta.,
+	      tirar: Lembraríamos de Petrônio em seu Satiricon , louco para I]tirar pedras no poeta que começou a engrolar sua algaravia ininteligível ao comum dos mortais.,}
+
+Chave: ARREMESSAR <verb.contact>
+ILI: 01466080
+
+Sense 1
+{01466080} <verb.contact> throw -- (project through the air; "throw a frisbee")
+       => {01469437} <verb.contact> propel, impel -- (cause to move forward with force; "Steam propels this ship")
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant") 

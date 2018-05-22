@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0460
+
+DADO O SYNSET:
+
+S='Glosa460'
+{ajoelhar-se: Em certos dias, a concorrência à missa era tal que até na soleira da porta vinham [ajoelhar-se fiéis.,
+genuflectir-se: Perante o teu corpo inerme vieram I]genuflectir-se e chorar os teus contendores e os teus adversários mais implacáveis.,
+genufletir-se: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa460' = “pôr (-se) de joelhos; dobrar (se) os joelhos ao chão”
+{ajoelhar-se: Em certos dias, a concorrência à missa era tal que até na soleira da porta vinham [ajoelhar-se fiéis.,
+genuflectir-se: Perante o teu corpo inerme vieram I]genuflectir-se e chorar os teus contendores e os teus adversários mais implacáveis.,}
+Chave: AJOELHAR-SE <verb.contact>
+ILI: 01502877
+
+Sense 1
+{01502877} <verb.contact> kneel -- (rest one's weight on one's knees; "In church you have to kneel during parts of the service")
+       => {01503111} <verb.contact> rest -- (not move; be in a resting position)
+           => {02526983} <verb.stative> be3 -- (have the quality of being; (copula, used with an adjective or a predicate noun); "John is rich"; "This is not a good answer")
+

@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA2512
+
+DADO O SYNSET:
+
+S='Glosa2512'
+	    {isolar-se: Unionistas correm risco de [se isolar.,
+	      marginalizar-se: Só resta então uma solução: viver inconsciente e massificado, integrando-se nas estruturas e convenções que o mundo oferece, ou então I]marginalizar-se.,
+	      segregar-se: Forçados a I]segregar-se, aqueles que estão moradores de rua acabam sendo afastados de uma relação social composta de trabalho formal, residência fixa e familiares.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2512' = “Manter-se afastado dos outros.”
+	    {isolar-se: Sua Majestade Rainha Elizabeth II I]isolou-se atrás das paredes do Castelo Balmoral junto com sua família.,
+	      marginalizar-se: Jean Genet, outro dramaturgo, ator, escritor que se viu preso e I]marginalizou-se tantas vezes.,
+	      segregar-se: E o homem I]segregou-se do convívio social, foi transformado em peso morto na balança dos valores da comunidade.,}
+
+Chave: ISOLAR-SE <verb.change>
+ILI: 00482597
+
+Sense 1
+{00482597} <verb.change> seclude, sequester, sequestrate1, withdraw -- (keep away from others; "He sequestered himself in his study to write a book")
+       => {00480883} <verb.change> isolate, insulate -- (place or set apart; "They isolated the political prisoners from the other inmates")
+           => {02437378} <verb.social> discriminate12, separate, single out -- (treat differently on the basis of sex or race)
+               => {00628816} <verb.cognition> distinguish, separate1, differentiate1, secern1, secernate, severalize, severalise, tell1, tell apart -- (mark as different; "We distinguish several kinds of maple")
+                   => {00598581} <verb.cognition> identify, place -- (recognize as being; establish the identity of someone or something; "She identified the man on the 'wanted' poster")
+                       => {00676553} <verb.cognition> determine1, set4 -- (fix conclusively or authoritatively; "set the rules") 

@@ -1,0 +1,42 @@
+ANÁLISE DA GLOSA2998 
+
+DADO O SYNSET:
+
+S='Glosa2998'
+	    {adquirir: Com o aumento da convivência com esses grupos acabei I]adquirindo a simpatia do pessoal.,
+	      alcançar: É costume popular que, para I]alcançar as graças de Santo Onofre, a imagem do Santo tem que ser uma imagem roubada.,
+	      angariar: A maioria dos devotos é de mulheres; e provavelmente por isso, todo homem fica ansioso para I]angariar o afeto de algumas belas devotas.,
+	      atrair: A velha tinha uma expressão de bondade e de sentimento que devia [atrair a simpatia; mas naquele momento essa beleza moral pareceu-me horrível e até repugnante.,
+	      captar: Quando desejamos I]captar o amor de alguém, nós a colocamos à nossa esquerda para que possamos absorver melhor suas vibrações de carinho.,
+	      carear2: H]Carear respeito.,
+	      conciliar: Para I]conciliar as graças de Pombal, o autor compôs o Uraguai, publicado em 1769, em Lisboa.,
+	      conquistar: Santana usou deste mesmo artifício para [conquistar a platéia em outras ocasiões.,
+	      ganhar: Eu tenho apenas que rir, pois ver alguém que não está acostumado com isso fazê-lo para tentar I]ganhar as graças de um milionário, é simplesmente hilário.,
+	      granjear: A sociedade civil era constituída pela oca, onde o varão morava com sua prole, os servos que trabalhavam para [granjear as filhas em casamento; os cativos que fazia da guerra; e os parentes que agregava a si. ,
+	      valer: Com lhaneza M]valera a estima geral.,}
+
+	  A='Glosa3001'
+	    {perder: Saddam disse que se o impasse terminar num banho de sangue, o povo checheno I]perderá a simpatia da Rússia e do povo russo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2998' = “Receber um tratamento específico”
+	    {adquirir: O ComTexto I]adquiriu respeito da comunidade interna e externa.,
+	      alcançar: A empresa I]alcançou respeito e credibilidade no setor imobiliário de todo o Estado.,
+	      angariar: Basta dizer que [angariou admiração de personalidades tão díspares como Neil Diamond e Kurt Cobain.,
+	      atrair: O pólo [atraiu o interesse de produtores filiados à Cooperativa de Holambra.,
+	      captar: A secretária [captou as admirações gerais; era de ébano, um primor de talha, obra severa e forte.,
+	      conciliar: Para I]conciliar as graças de Pombal, o autor compôs o Uraguai, publicado em 1769, em Lisboa.,
+	      conquistar: A agenda inicialmente proposta pelos gregos, e levada adiante durante o século XVII por Descartes, passou a ser fervorosamente debatida entre o grupo de filósofos que [conquistou a admiração de Whitehead.,
+	      ganhar: O álbum I]ganhou admiração e respeito da crítica e do público.,
+	      granjear: Incluída entre as senhoras que formavam uma das subcomissões, Maria Benedita trabalhou com todas, mas [granjeou em especial a estima de uma delas, D. Fernanda, esposa de um deputado. ,
+	      valer: Bem recebida, essa obra lhe [valeu a admiração e proteção do conde Georges de Buffon.,}
+
+	  A='Glosa3001'
+	    {perder}
+Chave: ATRAIR <verb.change>
+ILI: 00508949
+
+Sense 2
+{00508949} <verb.change> receive1, get3, find, obtain, incur -- (receive a specified treatment (abstract); "These aspects of civilization do not find expression or receive an interpretation"; "His movie received a good review"; "I got nothing but trouble for my good intentions")
+       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night") 

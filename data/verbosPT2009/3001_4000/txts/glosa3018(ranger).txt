@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA3018
+
+DADO O SYNSET:
+
+S='Glosa3018'
+	    {
+	      chiar: Despeje o conteúdo da jarra na frigideira até ela [chiar.,
+	      chichiar: x,
+	      gemer: De um casebre miserável, de porta e janela, ouviam-se [gemer os armadores enferrujados de uma rede. # E o piano [gemia.,
+	      ranger: E daí a pouco descia a escada, [rangendo nos degraus os seus sapatos de polimento. # Nisto, [rangeu a fechadura.,
+	      rechinar: I]Rechinam seus sapatos de leve parque a fora.,
+	      ringir: Se o berço I]ringir, aí começa tudo de novo, o bebê abre primeiro os olhos, olha para você, abre a boca e depois ele chora.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3018' = “fazer um som agudo, como de uma porta”
+	     {chiar: A porta I]chiou e o eco repercutiu o gemido na grande casa vazia.,
+	      gemer: A copa frondosa ramalhou, como as palmas do coqueiro ao sopro do vento, e o tronco [gemeu até à raiz. # E o piano [gemia.,
+	      ranger: A estreita porta I]rangeu quando ele a abriu de par em par. # Nisto, [rangeu a fechadura.,
+	      rechinar: I]Rechinam seus sapatos de leve parque a fora.,
+	      ringir: Dali a pouco a porteira do terreiro I]ringiu e apareceu o doutor Caramujo, muito serio.,}
+Chave: RANGER <verb.perception>
+ILI: 02109334
+
+Sense 1
+{02109334} <verb.perception> squeak, screech, creak, screak, skreak -- (make a high-pitched, screeching noise; "The door creaked when I opened it slowly")
+       => {02110511} <verb.perception> make noise, resound, noise -- (emit a noise)
+           => {02113837} <verb.perception> sound, go -- (make a certain noise or sound; "She went `Mmmmm'"; "The gun went `bang'")
+               => {02062507} <verb.perception> cause to be perceived -- (have perceptible qualities)

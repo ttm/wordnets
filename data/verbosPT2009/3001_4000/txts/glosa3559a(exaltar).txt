@@ -1,0 +1,44 @@
+ANÁLISE DA GLOSA3359a
+
+DADO O SYNSET:
+
+S='Glosa3559'
+	    {
+	      afidalgar: As damas I]afidalgavam-se, pareciam até mais amáveis e mimosas.,
+	      elevar: [Elevar a crítica a uma forma solene de arte, igual, se não superior, à poesia. / A menina no seu reconhecimento queria [elevar o amigo e torná-lo digno da estima de todos . ,
+	      embandeirar: Falamos de Paulo Batista, que, aos 35 anos, não se deixa I]embandeirar em euforias. ,
+	      enaltar: x ,
+	      enaltecer: O presidente [enalteceu o poeta. ,
+	      engrandecer: Eis uma das máscaras do machismo: [engrandecer a maternidade através da diminuição da mulher. / O exílio [engrandece a pátria. ,
+	      exalçar: I]Exalçar as virtudes. / Aquele que se I]exalçar será humilhado e o que se humilhar será exalçado.,
+	      exaltar: O ensino [exaltava ou valorizava a cultura européia, a missão civilizadora do branco e desprezava a cultura do colonizado ,
+	      glorificar: Pregam abertamente as teses nazistas e [glorificam Hitler.,
+	      magnificar: Eles [magnificavam os atos da vida cotidiana, encarnavam a alma da cidade. ,
+	      nobilitar: Poucos conheceriam, talvez, o nome desta escritora, que merece ser arquivado como o de uma daquelas que I]nobilitaram a literatura. ,
+	      nobrecer: x,
+	      qualificar: Todavia, até fins do século XVI nobre algum se I]qualificou barão.,
+	      subir: Os chefes militares A]sobem a coragem dos comandados.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3559a' = “louvar, glorificar ou honrar”
+	     {elevar: Ele despojou os exaltados de seus tronos e I]elevou os humildes. / A menina no seu reconhecimento queria [elevar o amigo e torná-lo digno da estima de todos . ,
+	      enaltecer: O presidente [enalteceu o poeta. ,
+	      engrandecer: A fraqueza demonstrada no episódio do dinheiro dos bicheiros [engrandeceu a figura do homem. / O exílio [engrandece a pátria. ,
+	      exalçar: I]Exalçar as virtudes. / O Estado Novo suprimiu o fragmentarismo partidário, I]exalçou as virtudes do governo de um só ainda que de maneira imperfeita.,
+	      exaltar: O ensino [exaltava ou valorizava a cultura européia, a missão civilizadora do branco e desprezava a cultura do colonizado ,
+	      glorificar: Pregam abertamente as teses nazistas e [glorificam Hitler.,
+	      magnificar: Eles [magnificavam os atos da vida cotidiana, encarnavam a alma da cidade. ,
+	      nobilitar: O tributo ao Ministro Carlos Mário I]nobilita a própria Academia. ,
+	      subir: Os chefes militares A]sobem a coragem dos comandados.,}
+
+Chave: EXALTAR <verb.communication>
+ILI: 00832481
+
+Sense 1
+{00832481} <verb.communication> laud, extol, exalt, glorify, proclaim1 -- (praise, glorify, or honor; "extol the virtues of one's children"; "glorify one's spouse's cooking")
+       => {00828989} <verb.communication> praise -- (express approval of; "The parents praised their children for their academic performance")
+           => {00658664} <verb.cognition> measure1, evaluate, valuate, assess, appraise1, value -- (place a value on; judge the worth of something; "I will have the family jewels appraised by a professional")
+               => {00647983} <verb.cognition> judge -- (form an opinion of or pass judgment on; "I cannot judge some works of modern art")
+                   => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

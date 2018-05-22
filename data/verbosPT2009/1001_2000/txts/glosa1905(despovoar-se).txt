@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA1905
+
+DADO O SYNSET:
+
+S='Glosa1905'
+{desolar-se: Para que vivamos e não morramos, e a terra não se M]desole.,
+ despovoar-se: A ilha estava no grave risco de I]despovoar-se. ,
+ ermar-se: Durante aquela quadra fúnebre, se retraem todas as atividades paralisando-se os negócios, I]ermando-se as ruas.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1905' = “reduzir a população”
+{desolar-se: Esse vasto latifúndio de repente se I]desola, quase se intemporaliza , para envolver a sobrevivente numa grande sombra, juntamente com sua mãe.,
+ despovoar-se: A ilha estava no grave risco de I]despovoar-se.}
+Chave: DESPOVOAR-SE <verb.change>
+ILI: 00517199
+
+Sense 1
+{00517199} <verb.change> depopulate, desolate -- (reduce in population; "The epidemic depopulated the countryside")
+       => {00233158} <verb.change> shrink1, reduce5 -- (reduce in size; reduce physically; "Hot water will shrink the sweater"; "Can you shrink this image?")
+           => {00428838} <verb.change> decrease1, lessen2, minify -- (make smaller; "He decreased his staff")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

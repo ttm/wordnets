@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA0266
+
+DADO O SYNSET:
+
+S='Glosa266'
+{arrear1: M]Arrear um apartamento.,
+mobilhar: Chegado o momento de I]mobilhar os espaços de trabalho, o critério de aquisição que determina as decisões das empresas continua a ser o mais barato.,
+mobiliar: Profissionais decoração do Senac estarão orientando o público, das 10h às 22h, a [mobiliar sua casa ou apartamento.,}
+A='Glosa1478'
+{desguarnecer, desmobiliar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa266' = “prover ou equipar com mobília”
+{mobilhar: Chegado o momento de I]mobilhar os espaços de trabalho, o critério de aquisição que determina as decisões das empresas continua a ser o mais barato.,
+mobiliar: Profissionais decoração do Senac estarão orientando o público, das 10h às 22h, a [mobiliar sua casa ou apartamento.,}
+A='Glosa1478'
+{desguarnecer, desmobiliar}
+Chave: MOBILIAR <verb.possession>
+ILI: 02269009
+
+Sense 2
+{02269009} <verb.possession> furnish1 -- (provide or equip with furniture; "We furnished the house in the Biedermeyer style")
+       => {02259805} <verb.possession> supply, provide, render2, furnish -- (provide or furnish with; "We provided the room with an electrical heater")
+           => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+               => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children")

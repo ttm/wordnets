@@ -1,0 +1,36 @@
+ANÁLISE DA GLOSA3675
+
+DADO O SYNSET:
+
+S='Glosa3675'
+	    {
+	      confabular: Conversa vai e conversa vem, Ronaldo, Giovanni e eu começamos a I]confabular sobre nossos textos.,
+	      conversar: Marcello aproveitará a visita ao Rio para [conversar sobre o assunto. ,
+	      falar: Nós estamos habituados a [falar de energia, mas definir energia é um tanto difícil. # Poderia [falar um pouco sobre sua experiência com os índios no Xingu? ,
+	      palavrear: Sempre Zé Bebelo não desistia de [palavrear, a raleza de projetos, como faz-de-conta.,
+	      palestrar: Ricardo e dois convidados outros foram para a sala de jantar [palestrar um pouco.,
+	      palestrear: I]Palestreou a advogada sobre o Constitucionalismo Dirigente em pouco mais de uma hora de conferência. ,
+	      palrar: As mulheres acabaram o chá, I]palraram ainda um bocado de vestidos, depois arrumaram a louça e deitaram-se a dormir. ,
+	      palrear: Quando aceitam I]palrear sobre o que as histórias televisadas sugerem ou mostram, o fazem de modo condescendente.,
+	      tratar: Ao [tratar do tema em pelo menos três oportunidades, Fernando Henrique disse que o programa de privatização está no ritmo certo e não tem manchas de corrupção. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3675' = “trocar idéias, falar com” 
+	     {confabular: Bolão e Tronco, «O Artilheiro», [confabularam entre si, comentando essa nova situação que os relegara a segundo plano.,
+	      conversar: Na sala de visitas, tio Cosme e José Dias [conversavam, um sentado, outro andando e parando. ,
+	      falar: Também [falavam de músicas e teatros, das festas próximas de Petrópolis, da gente que ia naquele ano, e da que só iria em janeiro. ,
+	      palavrear: E assim [palavrearam durante uma boa hora.,
+	      palestrar: Era uma quarta feira do ano de 1941, debaixo dos cajueiros da Praia de Iracema [palestravam quatro pescadores.,
+	      palrar: Os militares I]palravam alegres, e os civis vinham calados e abatidos, e mesmo apavorados. ,
+	      palrear: Quando aceitam I]palrear sobre o que as histórias televisadas sugerem ou mostram, o fazem de modo condescendente.,
+	      tratar: Roseli Tardeli e o petista Dalmo Dallari [trataram do assunto, no Opinião Nacional, anteontem. ,}
+Chave: CONVERSAR <verb.communication>
+ILI: 00930524
+
+Sense 1
+{00930524} <verb.communication> talk1, speak1 -- (exchange thoughts; talk with; "We often talk business"; "Actions talk louder than words")
+       => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+           => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+               => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

@@ -1,0 +1,60 @@
+ANÁLISE DA GLOSA3958
+
+DADO O SYNSET:
+
+S='Glosa3958'
+    	{abarrotar: O teatro infantil, por exemplo, costuma I]abarrotar as salas.,
+      	 apejar: x,
+      	 atestar2: M]Atestou de bom vinho os barris.,
+      	 atochar: I]Teve carta branca para dar festas em casa, para I]atochar a casa com seus parentes.,
+      	 atopetar: Diga-se logo que isto não significa I]atopetar as cidades com obras de arte.,
+      	 atufar: Engolfara nas ondas azuis seus corcéis, e eles ainda a I]atufar de vinho.,
+      	 atulhar: Eo café enegreceu os terreiros, I]atulhou as máquinas, armazéns e depósitos derramou-se da tulhas. ,
+      	 empachar: x,
+      	 empancar: x,
+      	 empanturrar: Pretendia ser uma refeição leve, mas com tantas guloseimas, acabavam por I]empanturrar os visitantes.,
+      	 empanzinar: Invejo o que eles desprezam: a oportunidade de comer até I]empanzinar.,
+      	 encher: Depois que I]encheu a barriga, ele voltou à cama, deitou, dormiu, e começou a roncar muito alto.,
+      	 entaleigar: x,
+      	 entulhar: Os pais I]entulham a geladeira de comida semi pronta industrializada.,
+      	 entupir: Guimarães [entupiu a Vila Isabel de dinheiro, mas acabou perdendo o poder na escola, campeã em 88 já sem a incômoda presença do patrono .,
+      	 fartar: O lauto jantar A]fartou-lhe a fome. ,
+      	 locupletar: Não pretendamos M]locupletar nossos hóspedes; que comam quanto queiram.,
+      	 lotar: As três atrações I]lotaram o teatro. ,
+      	 pejar: Palavrões indecorosos M]pejaram de vergonha as senhoras presentes.,
+      	 preencher: Seus descendentes viviam nela e I]preencheram os quartos. ,
+      	 repimpar: H]Repimpou a barriga com queijos e vinhos. ,}
+  
+A='Glosa2222'
+    	{desentulhar, esvaziar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3958' = “encher completamente”
+    	{abarrotar: Lei dos Crimes Hediondos I]abarrotou presídios e não diminuiu criminalidade.,
+      	 atestar2: B]Atestamos as tulhas com soja e milho.,
+      	 atochar: Ele me mandou Flores no cursinho que eu tava fazendo e sabe-se lá como I]atochou minha casa com uma floricultura inteira.,
+      	 atopetar: O povo entrou mesmo em cena em 11 de agosto, quando dez mil estudantes I]atopetaram o centro de São Paulo.,
+      	 atufar: Tem que ir para o papel para que os advogados possam se esforçar para cumprir prazos, realizar audiências, I]atufar processos de mais e mais documentos.,
+      	 atulhar: Anda, patrão, [atulha a carroça de carga para ganhar o capim de que me alimentas.,
+      	 empanturrar: A Índia I]empanturra os cursos com/de alunos.,
+      	 empanzinar: O bró incha os ventres num enfarte ilusório, [empanzinando o faminto.,
+      	 encher: O fulano riu, [encheu a camisinha com água até o limite, algo como balão de gás.,      	 
+ entulhar: Os pais I]entulham a geladeira de comida semi pronta industrializada.,
+      	 entupir: Guimarães [entupiu a Vila Isabel de dinheiro, mas acabou perdendo o poder na escola, campeã em 88 já sem a incômoda presença do patrono.,
+      	 fartar: A questão do umbigo de Adão e Eva já I]fartou teólogos e até mesmo fóruns da internet com sua duvidosa relevância.,
+      	 locupletar: A imprensa I]locupletou as mentes das pessoas com as mais variadas posições sobre o tema.,
+      	 lotar: As três atrações I]lotaram o teatro.,
+      	 pejar: Mas quando a cidade inteira descobriu estupefata que esteve a um passo de abjurar a fé inabalável, a vergonha – como chaga exposta obrigando o doente à reclusão – I]pejou de rubor todas as faces.,
+      	 preencher: Seus descendentes viviam nela e I]preencheram os quartos.,
+      	 repimpar: Entretanto, meu ilustre colega, suponha que em algum romance eu empregasse aquele idiotismo a meu ver mais elegante do que muita roupa velha com que os puristas I]repimpam suas idéias.}
+  
+A='Glosa2222'
+    	{desentulhar, esvaziar}
+Chave: EMPANTURRAR <verb.contact>
+ILI: 01482593
+
+Sense 1
+{01482593} <verb.contact> stuff -- (fill completely; "The child stuffed his pockets with candy")
+       => {00439460} <verb.change> fill1, fill up, make full -- (make full, also in a metaphorical sense; "fill a container"; "fill the child with pride")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

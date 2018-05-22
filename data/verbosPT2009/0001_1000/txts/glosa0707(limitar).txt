@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0707
+
+DADO O SYNSET:
+
+S='Glosa707'
+{comprimir: A corretora acha que a empresa terá dificuldade em reduzir sua dependência financeira, cujas despesas devem [comprimir a margem de lucros. ,
+estreitar: Tanto Skinner quanto Newton foram culpados de [estreitar o contexto ao ponto em que eles podiam ter um controle preciso sobre o óbvio. ,
+fechar: Após a apresentação desses três mambembes silogismos, os expoentes do setor costumam [fechar o cerco com a seguinte pérola: o fator determinante da fome não é a produção agrícola, mas a péssima distribuição de renda do país. ,
+limitar: A fim de evitar que o dinheiro fique na mão de poucos, vamos [limitar os pedidos a 60 animais por propriedade.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa707' = “restringir ou confinar”
+{comprimir: A corretora acha que a empresa terá dificuldade em reduzir sua dependência financeira, cujas despesas devem [comprimir a margem de lucros.,
+estreitar: Tanto Skinner quanto Newton foram culpados de [estreitar o contexto ao ponto em que eles podiam ter um controle preciso sobre o óbvio.,
+fechar: Após a apresentação desses três mambembes silogismos, os expoentes do setor costumam [fechar o cerco com a seguinte pérola: o fator determinante da fome não é a produção agrícola, mas a péssima distribuição de renda do país.,
+limitar: A fim de evitar que o dinheiro fique na mão de poucos, vamos [limitar os pedidos a 60 animais por propriedade.,}
+Chave: LIMITAR <verb.change>
+ILI: 00227757
+
+Sense 2
+{00227757} <verb.change> limit, circumscribe, confine1 -- (restrict or confine, "I limit you to two visits to the pub a day")
+       => {00428838} <verb.change> decrease1, lessen2, minify -- (make smaller; "He decreased his staff")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

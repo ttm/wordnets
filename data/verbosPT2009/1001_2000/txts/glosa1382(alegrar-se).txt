@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA1382
+
+DADO O SYNSET:
+
+S='Glosa1382'
+{alegrar-se: Se a alma de João de Melo os visse de cima, [alegrar-se-ia do apuro em que eles foram rezar por um pobre escrivão,
+ alvoroçar-se: A denúncia de José Dias [alvoroçara-me, e disso valeu a sensação de um beijo,
+ alvorotar-se: I]Alvorotou-se a vila com essa nova.,
+ desentristecer-se: Para H]desentristecer-se é preciso abandonar velhos ressentimentos.,
+ destristecer-se: x,
+ entusiasmar-se: Artistas [se entusiasmam com o resgate do tropicalismo na decoração do Natal.,}
+	  
+A='Glosa3428'
+{aleijar-se, atristar-se, contristar-se, encaramujar-se, enoitecer, entristecer-se, magoar-se, melancolizar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1382' = “tornar-se alegre” 
+{alegrar-se: O grande chefe [alegrou-se vendo chegar seu hóspede.,
+ alvoroçar-se: Quando foi convidado para dar um curso na Escola Técnica do Exército, Nathan I]alvoroçou-se com a perspectiva de uma oportunidade de ensinar as teorias de sua paixão.,
+ desentristecer-se: Para H]desentristecer-se é preciso abandonar velhos ressentimentos.,
+ entusiasmar-se: Artistas [se entusiasmam com o resgate do tropicalismo na decoração do Natal.,}
+A='Glosa3428'
+{aleijar-se, atristar-se, contristar-se, encaramujar-se, enoitecer, entristecer-se, magoar-se, melancolizar-se}
+Chave: ALEGRAR-SE <verb.communication>
+ILI: 00831123
+
+Sense 2
+{00831123} <verb.communication> cheer, cheer up, chirk up -- (become cheerful)
+       => {01761176} <verb.emotion> rejoice, joy -- (feel happiness or joy)
+           => {01720480} <verb.emotion> feel, experience -- (undergo an emotional sensation; "She felt resentful"; "He felt regret")

@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0824
+
+DADO O SYNSET:
+
+S='Glosa824'
+{ficar: O restaurante árabe Folha de Uva, que [ficava na Bela Cintra, mudou de endereço mas sem sair da mesma rua.,
+localizar-se: Se o imóvel [localizar-se em uma zona residencial, o inquilino pode ter que desocupá-lo e, ainda, pagar multa contratual.,
+situar-se: A Tabela apresenta a relação porcentual referida, no caso do plano assistencial de uma empresa de grande porte, que conta hoje com cerca de 6 mil empregados e [situa-se em São Paulo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa824' = “determiner o lugar de algo”
+{ficar: O restaurante árabe Folha de Uva, que [ficava na Bela Cintra, mudou de endereço mas sem sair da mesma rua.,
+localizar-se: Se o imóvel [localizar-se em uma zona residencial, o inquilino pode ter que desocupá-lo e, ainda, pagar multa contratual.,
+situar-se: A Tabela apresenta a relação porcentual referida, no caso do plano assistencial de uma empresa de grande porte, que conta hoje com cerca de 6 mil empregados e [situa-se em São Paulo.,}
+Chave: LOCALIZAR-SE <verb.creation>
+ILI: 01662808
+
+Sense 10
+{01662808} <verb.creation> set1, localize, localise, place -- (locate; "The film is set in Africa")
+       => {01662504} <verb.creation> stage, present, represent11 -- (perform (a play), especially on a stage; "we are going to stage `Othello'")
+           => {01573613} <verb.creation> re-create -- (create anew; "Re-create the boom of the West on a small scale")
+               => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

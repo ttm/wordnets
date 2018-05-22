@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA2366
+
+DADO O SYNSET:
+
+S='Glosa2366'
+	    {badalejar: x,
+	      tinir: E o jogo foi passando, passando, passando e eu sentadinho no banco I]tinindo de frio, mas firme, com minha chuteira recém comprada no pé.,
+	      tiritar: Sinto-me inerte, a I]tiritar com frio.,
+	      tremelear: O corpo sem tino cambaleia e o lábio sedento I]tremeleia como flácida flor.,
+	      tremelicar: Só então Marcélia desfez-se de sua intrepidez, começou a I]tremelicar e sua voz não conseguia definir-se.,
+	      tremer: Mesmo com a centenas de marcas e tipos de equipamento anti-tempestade, tem muita gente boa que ainda [treme diante de um céu cinzento.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2366' = “Mover ou sacudir rapidamente e involuntariamente, para cima e para baixo ou para os lados.”
+	    {tinir: E o jogo foi passando e eu sentadinho no banco I]tinindo de frio, mas firme, com minha chuteira recém comprada no pé.,
+	      tiritar: Edgar I]tiritou de frio enquanto caminhava trôpego.,
+	      tremelear: O lábio sedento I]tremeleia como flácida flor.,
+	      tremelicar: Meu braço I]tremelicou e um suor frio brotou da testa naquele momento.,
+	      tremer: O velho Simão estendeu sua mão direita a frente e observou que ela [tremia mais do que o de costume.,}
+
+Chave: TREMER <verb.motion>
+ILI: 01834247
+
+Sense 1
+{01834247} <verb.motion> tremble -- (move or jerk quickly and involuntarily up and down or sideways; "His hands were trembling when he signed the document")
+       => {01835310} <verb.motion> shake, agitate1 -- (move or cause to move back and forth; "The chemist shook the flask vigorously"; "My hands were shaking")
+           => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right") 

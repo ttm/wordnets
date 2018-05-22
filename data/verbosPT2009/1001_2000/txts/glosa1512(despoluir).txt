@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA1512
+
+DADO O SYNSET:
+
+S='Glosa1512'
+{descontaminar: Petrobras testa reator para I]descontaminar solo. ,
+ despoluir: O candidato do partido à Presidência da República prometeu [despoluir o rio Subaé.,
+ higienizar: "Reservamos esses dias para [higienizar o local", explica a psicóloga e pedagoga Maria Guimarães Drumond Grupi.,}
+	  
+A='Glosa608'
+{contaminar, poluir}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1512' = “limpar removendo a poluição”
+{descontaminar: Íons Plus purifica e I]descontamina o ar.,
+ despoluir: Uma estação de tratamento de água I]despolui a água bombeada da Baía de Guanabara antes de despejá-la no piscinão.,
+ higienizar: No sábado, Semae I]higienizou reservatórios centrais e de tratamento da água.}
+	  
+A='Glosa608'
+{contaminar, poluir}
+Chave: DESPOLUIR <verb.contact>
+ILI: EQ_HAS_HYPERONYM - 01490246
+
+Sense 1
+{01490246} <verb.contact> clean, make clean -- (make clean by removing dirt, filth, or unwanted substances from; "Clean the stove!"; "The dentist cleaned my teeth")
+      =>{01491650} <verb.contact> dirty, soil, begrime, grime, colly, bemire -- (make soiled, filthy, or dirty; "don't soil your clothes when you play outside!")

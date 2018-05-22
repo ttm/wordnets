@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA3426
+
+DADO O SYNSET:
+
+S='Glosa3426'
+	{decrementar: É possível utilizar o operador para mudar o grau de relevância as palavras procuradas, desta forma incrementando ou I]decrementando sua importância na busca.,
+	 definhar: O volume de recursos destinado pelo Ministério de Educação às federais vem I]definhando a cada ano.}
+
+A='Glosa3425'
+{aumentar, desenvolver, incrementar, medrar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3426' = “tornar menor ou perder substância”
+	{decrementar: É possível utilizar o operador para mudar o grau de relevância as palavras procuradas, desta forma incrementando ou I]decrementando sua importância na busca.,
+	 definhar: O volume de recursos destinado pelo Ministério de Educação às federais vem I]definhando a cada ano.}
+
+A='Glosa3425'
+{aumentar, desenvolver, incrementar, medrar}
+Chave: DEFINHAR <verb.change>
+ILI: 00258801
+
+Sense 1
+{00258801} <verb.change> dwindle, dwindle away, dwindle down -- (become smaller or lose substance; "Her savings dwindled down")
+       => {00146081} <verb.change> decrease, diminish, lessen, fall6 -- (decrease in size, extent, or range; "The amount of homework decreased towards the end of the semester"; "The cabin pressure fell dramatically"; "her weight fall to under a hundred pounds"; "his voice fell to a whisper")
+           => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

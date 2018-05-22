@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0311
+
+DADO O SYNSET:
+
+S='Glosa311'
+{arranjar-se: A]Arranjou-se para sair.,
+ataviar-se: Chama-se noiva de Panóias à mulher que demora muito tempo a [ataviar-se, para depois aparecer toda desarranjada.,
+preparar-se: A formosa virgem fora à cabana do casamento buscar a rede nupcial e [preparar-se para acompanhar o esposo,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa311' = “tornar(-se) pronto ou apropriado para um propósito particular ou algum uso, evento, etc”
+{ataviar-se: Chama-se noiva de Panóias à mulher que demora muito tempo a [ataviar-se, para depois aparecer toda desarranjada.,
+preparar-se: A formosa virgem fora à cabana do casamento buscar a rede nupcial e [preparar-se para acompanhar o esposo,}
+
+Chave: PREPARAR-SE <verb.change>
+ILI: 00394129
+
+Sense 1
+{00394129} <verb.change> fix3, prepare, set up2, ready, gear up, set9 -- (make ready or suitable or equip in advance for a particular purpose or for some use, event, etc; "Get the children ready for school!"; "prepare for war"; "I was fixing to leave town after I paid the hotel bill")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

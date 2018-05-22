@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA2526
+
+DADO O SYNSET:
+
+S='Glosa2526'
+	    {sambar: "Mineiro também sabe [sambar", garantiu a professora Ilza Catarina, de 25 anos, enquanto ensaiava mais um de seus passos na passarela improvisada.# A escola conseguiu arrancar aplausos e fazer o público [sambar ao som de Sapoti.,
+	      sambear: Lembro-me de shows indescritíveis dessa tour, onde a cada dia um detalhe de execução, uma virada, uma condução diferente, fazia com que a bateria do Braga saltasse aos ouvidos de todos, sem contar alguns detalhes como I]sambear e colocar características muito brasileiras (mais do que já eram) em todos os arranjos nos shows fora do Brasil.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2526' = “Dançar o samba.”
+	    {sambar: A cantora Maria Rita I]sambou na Avenida ao som do Império Serrano.,
+	      sambear: Lembro-me de shows indescritíveis, onde a cada dia um detalhe de execução fazia com que a bateria do Braga saltasse aos ouvidos de todos, sem contar alguns detalhes como I]sambear e colocar características muito brasileiras.,}
+
+Chave: SAMBAR <verb.motion>
+ILI: 01842498
+
+Sense 1
+{01842498} <verb.motion> samba -- (dance the samba)
+       => {01659897} <verb.creation> dance, trip the light fantastic, trip the light fantastic toe -- (move in a pattern; usually to musical accompaniment; do or perform a dance; "My husband and I like to dance at home to the radio")
+           => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right") 

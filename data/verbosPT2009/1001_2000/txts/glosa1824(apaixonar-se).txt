@@ -1,0 +1,39 @@
+ANÁLISE DA GLOSA1824
+
+DADO O SYNSET:
+
+S='Glosa1824'
+{afeiçoar-se: Logo após a chegada, o chefe designava uma mulher para casar com ele, mas ela não podia I]afeiçoar-se ao esposo.,
+ amoriscar-se: Por doença, por desilusão, por revolta, por ignorância... Falta-lhes uma janela aberta, o I]amoriscar-se "ad infinitum", e o sentido de namorar o entardecer. ,
+ apaixonar-se: Sabes que terrível cousa é uma cortesã, quando lhe vem o capricho de [apaixonar-se por um homem !,
+ apassionar-se: x,
+ cativar-se: H]Cativou-se da mulher do próximo.,
+ embeiçar-se: Haroldo I]embeiçou-se pela nobre vivenda e sentiu-se imediatamente na pele de um poderoso grão-proprietário.,
+ enamorar-se: Logo que chegou, [enamorou-se de uma viúva, senhora de condição mediana e parcos meios de vida.,
+ enrabichar-se: O rapaz I]enrabichou-se pela minha irmã e eu não aceitei, porque ele era pobretão.,
+ namorar-se: Depois de andar muito foi aportar a um reino muito rico, saltou para terra e I]namorou-se lá das festas e das moças.,}
+
+A='Glosa1148'
+{desapaixonar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1824' = “começar a experimentar sentimentos de amor [voltado para alguém]”
+{afeiçoar-se: Logo após a chegada, o chefe designava uma mulher para casar com ele, mas ela não podia I]afeiçoar-se ao esposo.,
+ apaixonar-se: Um pintor catalão [apaixona-se em Paris por uma cantora de cabaré.,
+ cativar-se: As pessoas não se I]cativam mais, não se enraízam nas outras..,
+ embeiçar-se: Haroldo I]embeiçou-se pela nobre vivenda e sentiu-se imediatamente na pele de um poderoso grão-proprietário.,
+ enamorar-se: Alda e Luiz Carlos Delazari I]enamoraram-se quando ela ainda era normalista em Presidente Prudente.,
+ enrabichar-se: O rapaz I]enrabichou-se pela minha irmã e eu não aceitei, porque ele era pobretão.,
+ namorar-se: D Minha filha Jussara estuda Química na USP, ela e seu filho I]namoraram-se, tinham afinidades, apesar dos currículos com diferentes orientações disciplinares.,}
+
+A='Glosa1148'
+{desapaixonar-se}
+Chave: APAIXONAR-SE <verb.change>
+ILI: 00143043
+
+Sense 1
+{00143043} <verb.change> fall in love -- (begin to experience feelings of love towards; "She fell in love with her former student")
+       => {00142410} <verb.change> fall8 -- (pass suddenly and passively into a state of body or mind; "fall into a trap"; "She fell ill"; "They fell out of favor"; "Fall in love"; "fall asleep"; "fall prey to an imposter"; "fall into a strange way of thinking"; "she fell to pieces after she lost her work")
+           => {00140715} <verb.change> change state, turn4 -- (undergo a transformation or a change of position or action; "We turned from Socialism to Capitalism"; "The people turned against the President when he stole the election")
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

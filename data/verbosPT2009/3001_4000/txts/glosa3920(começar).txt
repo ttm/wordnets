@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA3920
+
+DADO O SYNSET:
+	
+S='Glosa3920'
+    	{começar: Na Idade dos Metais, como o próprio nome indica, o homem [começou a fabricar objetos metálicos, utilizando inicialmente o cobre .,
+      	 iniciar: I]Iniciou a trabalhar aos treze anos de idade em empresas locais em setores administrativos.,
+      	 pôr-se: Quincas Borba procurou com os pés as chinelas; Rubião chegou-lhas, ele calçou-as e [pôs-se a andar para esticar as pernas .,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3920' = “tomar o(s) primeiro(s) passo(s) na realização de uma ação”
+    	{começar: Quando Caetano passou para os boleros mais animados, a sempre agitadíssima Lu de Oliveira [começou a dançar a macarena.,
+      	 iniciar: Neste momento, Louise Bittencourt I]iniciou a fazer movimentos ágeis com a adaga.,
+      	 pôr-se: Então, para espanto de todos, o pássaro [põe-se a falar.}
+Chave: COMEÇAR <verb.change>
+ILI: 00334609
+
+Sense 1
+{00334609} <verb.change> get down, begin, get12, start out, start, set about, set out, commence -- (take the first step or steps in carrying out an action; "We began working at dawn"; "Who will start?"; "Get working as soon as the sun rises!"; "The first tourists began to arrive in Cambodia"; "He began early in the day"; "Let's get down to work now")

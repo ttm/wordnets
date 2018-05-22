@@ -1,0 +1,62 @@
+ANÁLISE DA GLOSA2942
+
+DADO O SYNSET:
+
+S='Glosa2942'
+	    {afelear: Uma traição de amigo é capaz de H]afelear a vida.,
+	      afligir: As mulheres da "geração pílula" resolveram o impasse que tanto I]afligia a geração de suas mães e avós. ,
+	      agoniar: O que te I]agoniava? Saber que eu vou morrer e que talvez não tivesse feito as escolhas certas.,
+	      agonizar: O coração I]agonizava.,
+	      alancear: Essa clausura I]alanceava sua alma para sonhos vagos, cuja expansão ela encontrava nas modinhas e em certas poesias populares. ,
+	      amarar2: x,
+	      amargar: Ele sempre com uma sonda para facilitar a deficiência que o I]amargava.,
+	      amargurar: A indecisão o I]amargurava.,
+	      angustiar: Procurando num mosteiro a saída para os seus problemas pessoais, sobretudo uma espécie de atração pela morte que o I]angustiava, o poeta viu malograrem as suas ilusões. ,
+	      apertar: Quando o olhava, no fundo dos olhos azuis, o coração I]apertava: lembrava do filho morto por bala perdida no infeliz Natal de 1999. ,
+	      apuar: x,
+	      atenazar: x,
+	      atribular: E uma coisa o I]atribulava de maneira particular e dolorosíssima: a doença da mulher. ,
+	      consumir: Estava gamado, mas ela parece que preferia casar com um belga, daí a dor de cotovelo que o I]consumia.,
+	      desesperar: Suas penas o M]desesperavam.,
+	      desgostar: O seu emprego o I]desgostava muito.,
+	      devorar: A melancolia que o I]devorava, consumindo-lhe as forças, fê-lo cair em longa e perigosa enfermidade.,
+	      fraguar: x,
+	      mortificar: Já não era só o passeio de Helena que o I]mortificava; ao passeio juntava-se a carta. ,
+	      remorder: A consciência M]remordera o traidor.,}
+
+	  A='Glosa1480'
+	    {desafligir: A parceria é obtida pelo sistemático empenho de ambos para vencer a doença, e I]desafligir o paciente, o que geralmente sobrepassa a cura.,
+	     desagoniar: x,
+	     desangustiar: Vale a reiteração de decisões, o conhecimento da orientação pretoriana, se isso não está auxiliando a desafligir o aflito, a I]desangustiar o angustiado.,
+	     desapertar: Houve corações fracos que não resistiram à saudades e a única saída encontrada foi soltar lágrimas para I]desapertar o coração,
+	     desmortificar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2942' = “Causar grande infelicidade a; atormentar”
+	    {afligir: As mulheres da "geração pílula" resolveram o impasse que tanto I]afligia a geração de suas mães e avós.,
+	      agoniar: O que te I]agoniava? Saber que eu vou morrer e que talvez não tivesse feito as escolhas certas.,
+	      agonizar: O coração I]agonizava.,
+	      alancear: Essa clausura I]alanceava sua alma para sonhos vagos, cuja expansão ela encontrava nas modinhas e em certas poesias populares.,
+	      amargar: Ele sempre com uma sonda para facilitar a deficiência que o I]amargava.,
+	      amargurar: A indecisão o I]amargurava.,
+	      angustiar: Procurando num mosteiro a saída para os seus problemas pessoais, sobretudo uma espécie de atração pela morte que o I]angustiava, o poeta viu malograrem as suas ilusões.,
+	      apertar: Quando o olhava, no fundo dos olhos azuis, o coração I]apertava: lembrava do filho morto por bala perdida no infeliz Natal de 1999.,
+	      atribular: E uma coisa o I]atribulava de maneira particular e dolorosíssima: a doença da mulher.,
+	      consumir: Estava gamado, mas ela parece que preferia casar com um belga, daí a dor de cotovelo que o I]consumia.,
+	      desesperar: Aquela sensação ainda a I]desesperava.,
+	      desgostar: O que mais a I]desgostava, e o que ela não podia tolerar sem apertos de coração, era ver a pequena endemoninhar-se com champanha depois do jantar.,
+	      devorar: A melancolia que o I]devorava, consumindo-lhe as forças, fê-lo cair em longa e perigosa enfermidade.,
+	      mortificar: Já não era só o passeio de Helena que o I]mortificava; ao passeio juntava-se a carta.,
+	      remorder: Mas lá no íntimo alguma coisa lhe I]remordia quando notava a pertinácia com que o olhar de Horácio procurava a fímbria de seu vestido.,}
+
+	  A='Glosa1480'
+	    {desafligir, desangustiar, desapertar}
+Chave: AFLIGIR <verb.emotion>
+ILI: 01745468
+
+Sense 1
+{01745468} <verb.emotion> afflict -- (cause great unhappiness for; distress; "she was afflicted by the death of her parents")
+       => {01738090} <verb.emotion> upset1, discompose, untune, disconcert1, discomfit -- (cause to lose one's composure)
+           => {01708538} <verb.emotion> arouse, elicit, enkindle, kindle, evoke, fire, raise8, provoke -- (call forth (emotions, feelings, and responses); "arouse pity"; "raise a smile"; "evoke sympathy")
+               => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor") 

@@ -1,0 +1,42 @@
+ANÁLISE DA GLOSA3060
+
+DADO O SYNSET:
+
+S='Glosa3060'
+	    {
+	      agregar: I]Agregar médicos e farmacêuticos, no sentido do desenvolvimento e aprimoramento das áreas de ensino, pesquisa e prestação de serviços em fitoterapia.,
+	      agremiar: I]Agremiar engenheiros, arquitetos, tecnólogos e técnicos de áreas afins. # Veríssimo teve o dom de I]agremiar toda a literatura nacional na Revista.,
+	      agrupar: Lista de contatos: como I]agrupar as pessoas.,
+	      ajuntar: Alguns métodos espalhafatosos de I]ajuntar multidões nas igrejas nem precisam do Espírito Santo.,
+	      associar: Finalmente, outros I]associam positivamente ONGs e democracia.,
+	      consociar: H]Consociar uma pessoa com outra.,
+	      cooptar: O dirigente afirmou que a Casa Civil oferece cargos para tentar I]cooptar parlamentares tucanos.,
+	      emparceirar: I]Emparceirar estados norte-americanos com países ou estados latino-americanos em irmandades estado-estado ou cidade-cidade.,
+	      grupar: Já a análise de grupamentos, ou análise de clusters, visa a I]grupar indivíduos (ou unidades observacionais, ou objetos) segundo determinados critérios.,
+	      juntar: Escola quer I]juntar arte com educação.,
+	      reunir: Ele conquistou a 36ª posição no Battle Creek International Ballon Championship, competição realizada nos Estados Unidos que [reuniu 92 pilotos. # A homenagem, intitulada Um Encontro de Gerações, [reunirá também os novos professores da Universidade. ,
+	      unir: Alguns, como o Partido da Aliança e a Coalizão das Mulheres da Irlanda do Norte, tentam [unir as duas comunidades. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3060' = “agir em comum acordo ou propósito comum”
+	     {agregar: Recentemente I]agregaram-se ao projeto a Companhia Hidro-Elétrica do São Francisco - CHESF, a Empresa de Fomento de Informática do Estado de Pernambuco - FISEPE e a Universidade de Pernambuco - UPE.,
+	      agremiar: Com o intuito de findar o calendário cristão, cinco jovens I]agremiaram-se em um conjunto musical. # Uma pequena multidão se I]agremiou em volta da cena inusitada.,
+	      agrupar: Os conservadores, agora na oposição, se [agruparam na UDN enquanto que, no outro pólo, surgia o primeiro grande partido social-democrata o PTB, ligado à estrutura sindical.,
+	      ajuntar: E todos os midianitas e amalequitas, e povos do oriente se I]ajuntaram, e passaram, e se acamparam no vale de Jezreel.,
+	      associar: Na Inconfidência, os poetas se [associaram ideologicamente aos ricos empresários.,
+	      consociar: Vários profissionais da saúde, do direito e da educação se I]consociaram para escrever artigos referentes à vida humana e seus direitos.,
+	      cooptar: Falam que as políticas afirmativas americanas I]cooptaram negros para o totalitarismo.,
+	      emparceirar: Rotarianos de Mumbai se I]emparceiraram com uma ONG tribal para trazer água de chuva a 100 vilas.,
+	      grupar: Inicialmente, I]gruparam-se os sujeitos segundo cursos com alguma afinidade.,
+	      juntar: Os maiores concorrentes da Microsoft se [juntaram neste projeto.,
+	      reunir: Ele conquistou a 36ª posição no Battle Creek International Ballon Championship, competição realizada nos Estados Unidos que [reuniu 92 pilotos. # A homenagem, intitulada Um Encontro de Gerações, [reunirá também os novos professores da Universidade. ,
+	      unir: A RioArte, a Aliança Francesa e o Consulado da França se [uniram no projeto Fachadas imaginárias, que desembarcará na cidade em outubro para vestir o monumento carioca de modernidade. ,}
+	    
+Chave: UNIR <verb.social>
+ILI: 02395769
+
+Sense 1
+{02395769} <verb.social> unite, unify -- (act in concert or unite in a common purpose or belief)
+       => {02361668} <verb.social> join, fall in, get together2 -- (become part of; become a member of a group or organization; "He joined the Communist Party as a young man")

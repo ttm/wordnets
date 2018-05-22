@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA1612
+
+DADO O SYNSET:
+
+S='Glosa1612'
+{desenrodilhar: Houve um dia que hasteei a bandeira ao contrário e para cúmulo ficou enrodilhada na corda e  ao tentar I]desenrodilhar, a bandeira caiu mesmo em cima de mim. ,
+ desenroscar: Quando  eu olhei, a minha pipa estava com a rabiola enroscada numa outra linha e  como não sou um ótimo pipeiro, não consegui I]desenroscá-la e a pipa enroscou numa árvore. ,
+ destorcer: Outra inovação é o armazenamento do cabo dentro da sua embalagem, que traz a vantagem de não enrolar e, portanto, não há a necessidade do processo efetuado pelos instaladores para I]destorcer o cabo após a retirada da embalagem.,
+ distorcer: Se o fio de bordar ficar torcido, segure o seu trabalho no ar, e deixe a agulha pendurada para o fio se I]distorcer. ,}
+	  
+A='Glosa2572'
+{enrodilhar, enroscar, torcer}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1612' = “fazer ficar destorcido” 
+{desenrodilhar: Ser rio-grandense, meus patrícios, não é só montar bem a cavalo, I]desenrodilhar um laço, apinchar bolas, carnear e charquear gado..,
+ desenroscar: Sano I]desenroscou a faixa dos dedos dela, beijando a mão levemente.,
+ destorcer: Outra inovação é o armazenamento do cabo dentro da sua embalagem, que traz a vantagem de não enrolar e, portanto, não há a necessidade do processo efetuado pelos instaladores para I]destorcer o cabo após a retirada da embalagem.,
+ distorcer: Os parelho de freio oito têm a capacidade de I]distorcer a corda, proporcionando um desgaste mais acelerado da mesma.,}
+	  
+A='Glosa2572'
+{enrodilhar, enroscar, torcer}
+Chave: DESTORCER <verb.contact>
+ILI: 01186486
+
+Sense 1
+{01186486} <verb.contact> untwist -- (cause to become untwisted)
+       => {01328500} <verb.contact> straighten, straighten out -- (make straight)
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

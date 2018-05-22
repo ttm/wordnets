@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0299
+
+DADO O SYNSET:
+
+S='Glosa299'
+{curar: Downey Jr. interpreta um jovem médico, Robert Merivel, que, graças a sua habilidade para [curar doentes, acaba membro da corte do Rei Charles II.,
+medicar: Além de me chamar de hipocondríaca, o pediatra negou-se a [medicar a criança, alegando que ela não tinha febre.,
+tratar: Se ficar limitado ao contato de consultório, não vai conseguir I]tratá-lo adequadamente.,}
+
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa299' = “prover tratamento algúem”
+{curar: Downey Jr. interpreta um jovem médico, Robert Merivel, que, graças a sua habilidade para [curar doentes, acaba membro da corte do Rei Charles II.,
+medicar: Além de me chamar de hipocondríaca, o pediatra negou-se a [medicar a criança, alegando que ela não tinha febre.,
+tratar: Se ficar limitado ao contato de consultório, não vai conseguir I]tratá-lo adequadamente.,}
+Chave: TRATAR <verb.body>
+ILI: 00076458
+
+Sense 3
+{00076458} <verb.body> treat, care for -- (provide treatment for; "The doctor treated my broken leg"; "The nurses cared for the bomb victims"; "The patient must be treated right away or she will die"; "Treat the infection with antibiotics")

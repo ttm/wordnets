@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0880
+
+DADO O SYNSET:
+
+S='Glosa880'
+{chapar: H]Chapei um metal.,
+chapear: Posso I]chapear com outro material que não o ouro.,
+laminar: Eles I]laminaram o níquel e, depois, com o auxílio de uma firma de fabricação de móveis de aço, conseguiram fazer o tubo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa880' = “criar lâmina juntando pequenas chapas de ummaterial”
+{chapear: Posso I]chapear com outro material que não o ouro.,
+laminar: Eles I]laminaram o níquel e, depois, com o auxílio de uma firma de fabricação de móveis de aço, conseguiram fazer o tubo.,}
+Chave: LAMINAR <verb.creation>
+ILI: 01579642
+
+Sense 1
+{01579642} <verb.creation> laminate -- (create laminate by putting together several thin sheets of a material)
+       => {01575778} <verb.creation> produce, make1, create3 -- (create or manufacture a man-made product; "We produce more cars than we can sell"; "The company has been making toys for two centuries")

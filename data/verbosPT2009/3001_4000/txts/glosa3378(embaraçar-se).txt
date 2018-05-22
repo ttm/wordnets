@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA3378
+
+DADO O SYNSET:
+
+S='Glosa3378'
+	    {
+	      emaranhar-se: Essas pontas I]emaranham-se facilmente e geram embaraçamento dos cabelos.,
+	      embaraçar-se: Caracterizam-se pela falta de volume são frágeis, mais sujeitos à quebra, I]embaraçam-se facilmente e, muitas vezes, são elétricos.,
+	      enlear-se: Cipós A]enleavam-se nas árvores.,
+	      enredar-se: Imitavam o ciciar da brisa a correr sobre as ondas espelhadas do oceano a agitar levemente a igara, derivando à tona d'água e a I]enredar-se pelas folhas dos bosques que aromatizavam o litoral.,
+	      enredear-se: x,
+	      enroscar-se: Há ainda o risco de a tartaruga ser morta em redes ou anzóis de pesca, I]enroscar-se em alguma pedra ou rede e perder o transmissor.,
+	      maranhar-se: x,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3378' = “enroscar firmemente”
+	     {emaranhar-se: Essas pontas I]emaranham-se facilmente e geram embaraçamento dos cabelos.,
+	      embaraçar-se: Caracterizam-se pela falta de volume são frágeis, mais sujeitos à quebra, I]embaraçam-se facilmente e, muitas vezes, são elétricos.,
+	      enlear-se: Cipós A]enleavam-se nas árvores.,
+	      enredar-se: Enquanto o peixe lutava e se mantinha no fundo, I]enredou-se em quase todas as linhas dos outros caniços transferindo a cada um parte de toda sua força bruta.,
+	      enroscar-se: I]Enroscou-se no arame e caiu.,}
+Chave: EMBARAÇAR-SE <verb.contact>
+ILI: 01186811
+
+Sense 1
+{01186811} <verb.contact> crimp, crape, frizzle, frizz, kink up, kink -- (curl tightly; "crimp hair")
+       => {01186594} <verb.contact> curl, wave1 -- (twist or roll into coils or ringlets; "curl my hair, please")
+           => {01185645} <verb.contact> twist -- (turn in the opposite direction; "twist a wire")
+               => {01851475} <verb.motion> turn -- (change orientation or direction, also in the abstract sense; "Turn towards me"; "The mugger turned and fled before I could see his face"; "She turned from herself and learned to listen to others' needs")
+
+                   => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right")

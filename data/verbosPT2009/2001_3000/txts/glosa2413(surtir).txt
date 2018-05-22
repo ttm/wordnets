@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA2413
+
+DADO O SYNSET:
+
+S='Glosa2413'
+	    {alcançar: Jersei [alcança média de CR$ 1,4 milhão. # Decisões rápidas e precisas na área de manufatura são fundamentais para uma companhia I]alcançar resultados eficientes.,
+	      produzir: Combinar tratamentos para osteoporose nãoI]produz resultados melhores.,
+	      surtir: Redução do IPI começa a I]surtir efeito no setor automotivo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2413' = “Fazer ocorrer ou existir.”
+	    {alcançar: Decisões rápidas e precisas na área de manufatura são fundamentais para uma companhia I]alcançar resultados eficientes.,
+	      produzir: Combinar tratamentos para osteoporose não I]produz resultados melhores.,
+	      surtir: Redução do IPI começa a I]surtir efeito no setor automotivo.,}
+
+Chave: SURTIR <verb.creation>
+ILI: 01703701
+
+Sense 3
+{01703701} <verb.creation> produce3, bring about3, give rise1 -- (cause to occur or exist; "This procedure produces a curious effect"; "The new law gave rise to many complaints"; "These chemicals produce a noxious vapor")
+       => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor") 

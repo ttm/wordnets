@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA3321
+
+DADO O SYNSET:
+
+S='Glosa3321'
+	    {
+	      azeitar: É hora de [azeitar a máquina e apertar os parafusos.,
+	      engraxar: O importante é colocar grafite (pó de carbono) na canaleta e [engraxar o motor.,
+	      lubricar: x,
+	      lubrificar: Manter o equipamento sempre limpo e l[ubrificar as partes móveis e de vedação com produtos à base de silicone são os principais cuidados de manutenção do acessório . ,
+	      olear: Você deve I]olear levemente as roscas de parafusos e arruelas e colocá-los à mão no cabeçote.,
+	      untar: M]Untar uma peça. M] Untar uma engrenagem.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3321' = “fazer escorregadio ou liso por meio de aplicação de um lubrificante”
+	     {azeitar: Editoras e gráficas I]azeitaram suas máquinas, contrataram pessoal, trabalharam sobreaquecidas.,
+	      engraxar: Desentortou as rodas, I]engraxou a correia, ajeitou o acento, subiu em seu mais novo desafio e caiu pela primeira, de muitas outras vezes que ainda viria a cair.,
+	      lubrificar: O mecânico fez a revisão, conferindo todos os itens operacionais, I]lubrificou as marchas e trocou o óleo da caixa . ,
+	      olear: Então, I]oleava e arrumava a arma, e os seus olhos, de caçador ainda, seguiam a revoada do casal de melros, o trajecto de um coelho, as pegadas da raposa,.,
+	      untar: A moça escondeu-o; I]untou um pilão com cera, embrulhou-o com a tarrafa e deitou-o no mesmo lugar.,}
+Chave: LUBRIFICAR <verb.change>
+ILI: 00211543
+
+Sense 3
+{00211543} <verb.change> lubricate2 -- (make slippery or smooth through the application of a lubricant; "lubricate the key")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

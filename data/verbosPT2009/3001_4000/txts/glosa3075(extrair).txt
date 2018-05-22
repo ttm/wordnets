@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA3075
+
+DADO O SYNSET:
+
+S='Glosa3075'
+	    {
+	      colher: Como as Bacantes que, na tragédia do século quinto, são representadas, por um lado, de maneira idílica, numa paisagem amena [colhendo os frutos abundantes que a terra oferece gratuitamente.,
+	      extrair: Sua economia assenta-se na produção de vinhos e da cortiça, que é [extraída da casca do sobreiro, e na atividade pesqueira.,
+	      haurir: H]Hauriu as melhores águas-marinhas daquela terra.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3075' = “procurar e reunir”
+	     {colher: Com 20 mil vasos, Habu [colheu 150 mil flores em 93, todas vendidas no mercado interno.,
+	      extrair: A Novacap I]extraiu sementes e fez mudas que serão plantadas em outubro.,
+	      haurir: H]Hauriu as melhores águas-marinhas daquela terra.,}
+Chave: EXTRAIR
+ILI: 01341979
+
+Sense 2
+{01341979} <verb.contact> pick1, pluck1, cull -- (look for and gather; "pick mushrooms"; "pick flowers")
+       => {01340552} <verb.contact> gather, garner, collect, pull together -- (assemble or get together; "gather some stones"; "pull your thoughts together")
+          Also See-> {02046356} <verb.perception> pick up1#9; {02056737} <verb.perception> pick up#14; {01899669} <verb.motion> pick up#3; {01548883} <verb.contact> pick off#2; {00654767} <verb.cognition> pick over#1; {00579325} <verb.cognition> pick up#5

@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA2844
+
+DADO O SYNSET:
+
+S='Glosa2844'
+	    {enfrenesiar-se: x,
+	      frenesiar-se: x,
+	      impacientar-se: Os empresários se intranquilizam com a falta de perspectivas para solucionar o problema cambial, os políticos [se impacientam com a falta de resposta às suas sugestões de nomes para o governo.,
+	      rabiar: Quando soube da reprovação, A]rabiou, e foi um deus-nos-acuda.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2844' = “Exasperar ou irritar”
+	    {impacientar-se: Os políticos [se impacientam com a falta de resposta às suas sugestões de nomes para o governo.,}	
+Chave: IMPACIENTAR-SE <verb.emotion>
+ILI: 01768030
+
+Sense 1
+{01768030} <verb.emotion> exacerbate, exasperate, aggravate -- (exasperate or irritate)
+       => {01734240} <verb.emotion> anger -- (make angry; "The news angered him")
+           => {01708538} <verb.emotion> arouse, elicit, enkindle, kindle, evoke, fire, raise8, provoke -- (call forth (emotions, feelings, and responses); "arouse pity"; "raise a smile"; "evoke sympathy")
+               => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor") 

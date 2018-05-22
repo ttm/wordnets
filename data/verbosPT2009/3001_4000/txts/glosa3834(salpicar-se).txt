@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA3834
+
+DADO O SYNSET:
+
+S='Glosa3834'
+{mosquear-se: x,
+	 pintalgar-se: A cidade M]pintalga-se inteira de brasões reluzentes.,
+	 salpicar-se: Na primavera o verde luxuriante I]salpicava-se de rosa, amarelo, roxo e vermelho. ,
+	 sarapintar-se: Ao longo da cidade o verde da água do mar todo se I]sarapinta de amarelo dos botes cheios de laranja madura.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3834' = “marcar-se ou revestir-se com manchas de cor ou textura diferentes; tornar-se parecendo salpicado ou manchado”
+{pintalgar-se: A cidade M]pintalga-se inteira de brasões reluzentes.,
+	 salpicar-se: Na primavera o verde luxuriante I]salpicava-se de rosa, amarelo, roxo e vermelho. ,
+	 sarapintar-se: Ao longo da cidade o verde da água do mar todo se I]sarapinta de amarelo dos botes cheios de laranja madura.}
+Chave: SALPICAR-SE <verb.contact>
+ILI: 01297331
+
+Sense 4 
+{01297331} <verb.contact> splash6 -- (mark or overlay with patches of contrasting color or texture; cause to appear splashed or spattered; "The mountain was splashed with snow")
+       => {01297102} <verb.contact> overlay, cover14 -- (put something on top of something else; "cover the meat with a lot of gravy")

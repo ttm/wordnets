@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA2769
+
+DADO O SYNSET:
+
+S='Glosa2769'
+	    {alargar: Ele se confessa incapaz, por falta de funcionários, para [alargar o campo da investigação.,
+	      ampliar: Trata-se de [ampliar os recursos expressivos do ator com a incorporação da linguagem dos meios audiovisuais.,
+	      aumentar: Portanto é ilusória a idéia que apenas a tecnologia será suficiente para I]aumentar o conhecimento humano. ,
+	      desdobrar: Na tentativa de [desdobrar estas perguntas, o texto recorre num primeiro momento à interrogação das metáforas consagradas do mal, a figuras provenientes de Platão e do platonismo cristão: o mal como «avesso», os «crespos» do homem, ou seja, como dimensão não ainda iluminada pela luz do Bem.,
+	      desenvolver: Gostaria de poder mostrar outras facetas da companhia, pois minha preocupação básica tem sido renovar o balé, [desenvolver a linguagem coreográfica de forma a levar ao público uma obra viva, presente, nunca uma repetição de balés já feitos.,
+	      enfestar2: x,
+	      intensificar: Ele também afirma que já começou a elaborar um projeto para [intensificar as pesquisas na área cultural.,
+	      redobrar: Tanto pedestres como condutores precisam I]redobrar os seus conhecimentos de segurança.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2769' = “Aumentar na extensão ou intensidade”
+	    {alargar: O preconceito I]alargou suas fronteiras, de seu alvo principal - a cor da pele.,
+	      ampliar: A Brasil Telecom I]ampliou suas fronteiras de atuação com as aquisições de Globenet e iBest.,
+	      aumentar: A AIEA confirmou hoje que o Irã continua enriquecendo urânio e I]aumentou suas atividades nucleares.,
+	      desdobrar: O filósofo e epistemólogo francês Stephan Lupasco, I]desdobrou os conceitos originais da Teoria de Sistemas.,
+	      desenvolver: A classe burguesa I]desenvolveu a capacidade de competição aumentando a concorrência.,
+	      intensificar: O aumento da densidade de BRAPL com o decorrer do tempo I]intensificou a capacidade competitiva desta, o que pode explicar a mudança nas curvas de resposta.,
+	      redobrar: Tinham coragem de fazê-lo, e I]redobrou sua combatividade e garra de viver.,}
+
+Chave: AUMENTAR <verb.change>
+ILI: 00281258
+
+Sense 1
+{00281258} <verb.change> escalate, intensify2, step up -- (increase in extent or intensity; "The Allies escalated the bombing")
+       => {00147655} <verb.change> increase2 -- (make bigger or more; "The boss finally increased her salary"; "The university increased the number of students it admitted")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

@@ -1,0 +1,38 @@
+ANÁLISE DA GLOSA3229
+
+DADO O SYNSET:
+
+S='Glosa3229'
+	    {
+	      asperger: Se é grande a infestação de pernilongos em seu bairro, solicite um fog, carro que [asperge inseticida, ao Centro de Controle de Zoonoses. ,
+	      aspergir: É possível I]aspergir produtos para assepsia do ambiente?,
+	      barrufar: Esqueci de dizer que o papagaio de Digai é finado, porque ele enchia a boca de água e I]barrufava o papagaio para ele aprender a falar. # Inquieta, vestiu um vestido decotado, I]barrufou um perfume francês em seu pescoço e em seus braços.,
+	      borrifar: Agora, agentes da Fundação Nacional de Saúde estão [borrifando as piscinas e trocando a água acumulada. ,
+	      despargir: x,
+	      desparzir: x,
+	      esborrifar: Compre logo na entrada um mini-ventilador movido à pilha que I]esborrifa água.,
+	      espargir: Quando assassinaram o pobre homem, o senhor vigário nem quis [espargir-lhe a água benta; mandou o sacristão! ,
+	      esparzir: O jardineiro vinha regar com água fresca a terra em torno dela; depois, com muito cuidado, I]esparzia algumas gotas nas suas pétalas.,
+	      irrorar: x,
+	      orvalhar: O celebrante H]orvalhou água benta na cabeça das crianças.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3229' = “dispersar em uma massa ou jato de gotículas”
+	     {asperger: O robô I]asperge a tinta através de uma seringa, depositando camadas sucessivas, resultando em uma estrutura parecida com um andaime. ,
+	      aspergir: No final da missa o bispo abençoou os motoristas e o padre Claudemir I]aspergiu água benta nas chaves dos veículos.,
+	      barrufar: Esqueci de dizer que o papagaio de Digai é finado, porque ele enchia a boca de água e I]barrufava o papagaio para ele aprender a falar. # Inquieta, vestiu um vestido decotado, I]barrufou um perfume francês em seu pescoço e em seus braços.,
+	      borrifar: No curso de Chai Tikun (uma espécie de "Reiki judaico"), a professora I]borrifou uma essência de uva na sala antes de começar. ,
+	      esborrifar: Helena I]esborrifou tinta vermelha nas mãos e espalhou no cabelo dele, agora sorrindo.,
+	      espargir: O sacerdote católico Australiano Frank Carey I]espargiu água benta sobre a píton sem demonstrar qualquer indício de receio. ,
+	      esparzir: O jardineiro vinha regar com água fresca a terra em torno dela; depois, com muito cuidado, I]esparzia algumas gotas nas suas pétalas.,
+	      orvalhar: O celebrante H]orvalhou água benta na cabeça das crianças.,}
+Chave: BORRIFAR <verb.contact>
+ILI: 01332613
+
+Sense 2
+{01332613} <verb.contact> spray -- (scatter in a mass or jet of droplets; "spray water on someone"; "spray paint on the wall")
+       => {01336176} <verb.contact> scatter, sprinkle1, dot, dust1, disperse -- (distribute loosely; "He scattered gun powder under the wagon")
+           => {01336946} <verb.contact> discharge -- (pour forth or release; "discharge liquids")
+               => {01338470} <verb.contact> spread, distribute1 -- (distribute or disperse widely; "The invaders spread their language all over the country")

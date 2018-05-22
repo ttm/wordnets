@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA
+
+DADO O SYNSET:
+
+S='Glosa1177'
+{abocanhar: Depois de I]abocanhar o seio, os lábios do bebê devem estar virados para fora. ,
+ abocar: A leoa H]abocou o filhote.,
+ aboquejar: x,
+ atassalhar: O cão H]atassalhou as pernas do menino.,
+ bocar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1177' = “apertar, cortar ou rasgar com [ou como se fosse] com dentes ou com maxilar”
+{abocanhar: O tubarão mordeu Heron no braço e na coxa direitas, rasgando sua roupa especial. Também I]abocanhou a prancha, quebrando-a em duas.,
+ abocar: O cão, saindo do esconderijo, I]abocou com rapidez e mastigou sofregamente.,
+ atassalhar: Neste instante um ser que rastejava pelo chão I]atassalhou a perna do Paladino , rasgando violentamente a mesma.,}
+Chave: ABOCANHAR <verb.contact>
+ILI: 01404753
+
+Sense 1
+{01404753} <verb.contact> bite, seize with teeth -- (to grip, cut off, or tear with or as if with the teeth or jaws; "Gunny invariably tried to bite her")
+       => {01186979} <verb.contact> grip -- (hold fast or firmly; "He gripped the steering wheel")
+           => {01175818} <verb.contact> seize, prehend, clutch -- (take hold of; grab; "The salesclerk quickly seized the money on the counter"; "She clutched her purse"; "The mother seized her child by the arm"; "Birds of prey often seize small mammals")
+               => {01177510} <verb.contact> take, get hold of -- (get into one's hands, take physically; "Take a cookie!"; "Can you take this bag, please")
+          Also See-> {01404577} <verb.contact> bite off#1

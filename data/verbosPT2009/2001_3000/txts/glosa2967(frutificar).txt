@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA2967
+
+DADO O SYNSET:
+
+S='Glosa2967'
+	    {afrutar: x,
+	      enfrutecer: É possível que não lhe vejas a florescência, no entanto, a sociedade do amanhã vê-lo-á I]enfrutecer e beneficiar as criaturas que virão depois de ti.,
+	      frutar: x,
+	      frutear: x,
+	      frutescer: No paisagismo nota-se um imenso amor e respeito à natureza quando, diante da prancheta, faz com que um coqueiro, uma mangueira ou um abacateiro continuem I]frutescendo no mesmo local em que germinaram.,
+	      frutificar: As jabuticabeiras estão florescendo, algumas já [frutificaram.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2967' = “Produzir fruto”
+	    {enfrutecer: É possível que não lhe vejas a florescência, no entanto, a sociedade do amanhã vê-lo-á I]enfrutecer e beneficiar as criaturas que virão depois de ti.,
+	      frutescer: No paisagismo nota-se um imenso amor e respeito à natureza quando, diante da prancheta, faz com que um coqueiro, uma mangueira ou um abacateiro continuem I]frutescendo no mesmo local em que germinaram.,
+	      frutificar: Com a maioria das plantas já I]frutificando, começam os trabalhos de identificação das variedades mais promissoras para cada região.,}
+Chave: FRUTIFICAR <verb.creation>
+ILI: 01605794
+
+Sense 2
+{01605794} <verb.creation> fruit -- (bear fruit; "the trees fruited early this year")
+       => {01605202} <verb.creation> bear, turn out -- (bring forth, "The apple tree bore delicious apples this year"; "The unidentified plant bore gorgeous flowers")
+           => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor") 

@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA2900
+
+DADO O SYNSET:
+
+S='Glosa2900'
+	    {comunicar-se: O fogo M]comunicou-se também ao canavial.,
+	      inocular: x,
+	      passar: O fato de que ondas longitudinais originárias de um terremoto I]passam através do centro da terra, enquanto que as ondas tranversas não passam.,
+	      propagar-se: Utilizando-se da compressão e expansão de moléculas de um meio para efetuar sua propagação, os sons não podem [propagar-se no vácuo, onde há inexistência destas condições.,
+	      transmitir: Os grávitons com spin=2, ainda não observados, são quanta do campo associados ao campo gravitacional, são partículas que I]transmitem força entre estrelas e galáxias.  ,
+	      transmitir-se: A distribuição da força motora em uma usina fornece-nos uma imagem patente deste funcionamento dos mecanismos vitais: vemos, efetivamente, a força motora, partindo de focos de produção, I]transmitir-se por meio de correias de transmissão às engrenagens que devem utilizá-la industrialmente.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2900' = “transmitir”
+	    {comunicar-se: A tremura dela I]comunicou-se a Kovrin.,
+	      passar: A barra I]passou todo seu calor à sala.,
+	      propagar-se: As ondas I]propagaram-se por todo Atlântico Norte e atingiu o Brasil.,
+	      transmitir-se: Como o aço é um eficiente condutor de calor, a temperatura elevada das partes expostas e desprotegidas I]transmitiu-se a outros pilares.,}
+Chave: PROPAGAR-SE <verb.contact>
+ILI: 01395025
+
+Sense 3
+{01395025} <verb.contact> propagate -- (transmit; "propagate sound or light through air")
+       => {01394266} <verb.contact> transmit, transfer, transport1, channel, channelize, channelise -- (send from one person or place to another; "transmit a message")
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

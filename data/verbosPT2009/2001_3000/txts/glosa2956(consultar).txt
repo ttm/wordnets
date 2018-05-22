@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA2956
+
+DADO O SYNSET:
+
+S='Glosa2956'
+	    {consultar: O colunista [consultou a Constituição.,
+	      freqüentar: Platão também I]frequentou lições de Aristóteles.,
+	      ler: Monteiro Lobato também [leu Carlos Magno: referindo-se aos "livros fundamentais" para a aquisição de cultura.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2956' = “Procurar informações em”
+	    {consultar: O colunista [consultou a Constituição.,
+	      freqüentar: Platão também I]freqüentou lições de Aristóteles.,
+	      ler: Monteiro Lobato também [leu Carlos Magno: referindo-se aos "livros fundamentais" para a aquisição de cultura.,}
+Chave: CONSULTAR <verb.communication>
+ILI: 00847629
+
+Sense 2
+{00847629} <verb.communication> consult1, refer12, look up -- (seek information from; "You should consult the dictionary"; "refer to your notes")
+       => {00847873} <verb.communication> research -- (attempt to find out in a systematically and scientific manner; "The student researched the history of that word")
+           => {00763144} <verb.communication> investigate, look into -- (investigate scientifically; "Let's investigate the syntax of Chinese")
+               => {00623929} <verb.cognition> analyze, analyse, study2, examine, canvass2, canvas2 -- (consider in detail and subject to an analysis in order to discover essential features or meaning; "analyze a sonnet by Shakespeare"; "analyze the evidence in a criminal trial"; "analyze your real motives") 

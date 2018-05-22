@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA0628
+
+DADO O SYNSET:
+
+S='Glosa628'
+{coser: Viviam o mais do tempo juntas, falando de mim, a propósito do sol e da chuva, ou de nada; Capitu ia lá [coser, às manhãs; alguma vez ficava para jantar. # No primeiro romance, o papel da mulher na sociedade circunscreve-se aos trabalhos dométicos: as Carmas e Branca Volante estão sempre ligadas a tarefas de limpeza e de [coser. ,
+ costurar: Tive que mandar fazer sete manequins de gesso, grudados, e [costurar uma blusa só, com sete cabeças», conta Luciana Cardoso.,}
+A='Glosa629'
+{descoser, descosturar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa628' = “criar (roupas) com tecido”
+{coser: Viviam o mais do tempo juntas, falando de mim, a propósito do sol e da chuva, ou de nada; Capitu ia lá [coser, às manhãs; alguma vez ficava para jantar. # No primeiro romance, o papel da mulher na sociedade circunscreve-se aos trabalhos dométicos: as Carmas e Branca Volante estão sempre ligadas a tarefas de limpeza e de [coser. ,
+ costurar: Tive que mandar fazer sete manequins de gesso, grudados, e [costurar uma blusa só, com sete cabeças», conta Luciana Cardoso.,}
+A='Glosa629'
+{descoser, descosturar}
+Chave: COSTURAR <verb.creation>
+ILI: 01618602
+
+Sense 2
+{01618602} <verb.creation> sew, tailor, tailor-make -- (create (clothes) with cloth; "Can the seamstress sew me a suit by next week?")
+       => {01610998} <verb.creation> fashion, forge2 -- (make out of components (often in an improvising manner); "She fashioned a tent out of a sheet and a few sticks")
+           => {01606879} <verb.creation> make11 -- (make by shaping or bringing together constituents; "make a dress"; "make a cake"; "make a wall of stones")
+               => {01606076} <verb.creation> create from raw material, create from raw stuff -- (make from scratch)
+                   => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

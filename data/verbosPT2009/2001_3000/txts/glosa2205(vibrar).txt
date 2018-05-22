@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA2205
+
+DADO O SYNSET:
+
+S='Glosa2205'
+	    {trepidar: Depois dos 120 km/h o carro tem forte tendência a [trepidar.,
+	      vibrar: Swigert sentiu a espaçonave [vibrar.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2205' = “sacudir, balançar; mover para frente e para trás rapidamente”
+	    {trepidar: Depois dos 120 km/h o carro tem forte tendência a [trepidar.,
+	      vibrar: Swigert sentiu a espaçonave [vibrar.,}
+
+Chave: VIBRAR <verb.motion>
+ILI: 01836948
+
+Sense 1
+{01836948} <verb.motion> vibrate -- (shake, quiver, or throb; move back and forth rapidly, usually in an uncontrolled manner)
+       => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right")

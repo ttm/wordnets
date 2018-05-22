@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA2266
+
+DADO O SYNSET:
+
+S='Glosa2266'
+	    {barganhar: Não adianta tentar [barganhar com presentes ou retirar a chupeta à força.,
+	      berganhar: A nação necessita que o caipira vai servi I]berganhando sua inxada por um sabre e um fuzi.,
+	      negociar: Os trabalhadores devem [negociar com os empresários reajustes menores que os estabelecidos pelos índices, em troca da garantia de que não haverá repasse para os preços. ,
+	      permutar: Mesmo passando este problema para a linguagem coloquial, não vemos como I]permutar um enunciado por outro.,
+	      trocar: O técnico Carlos Alberto Silva [trocou a agilidade de Brener pelo futebol previsível de Nílson. ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2266' = “ trocar ou oferecer algo em troca por alguma coisa”
+	    {barganhar: Irá barganhar a diminuição das alíquotas em troca da tributação do patrimônio líquido das empresas.,
+	      berganhar: A nação necessita que o caipira vai servir I]berganhando sua enxada por um sabre e um fuzil.,
+	      negociar: Os trabalhadores devem [negociar com os empresários reajustes menores em troca da garantia de que não haverá repasse para os preços. ,
+	      permutar: O BC forneceu R$ 1,65 bilhão de ajuda de curto prazo, [permutando títulos do governo federal por papéis da dívida estadual.,
+	      trocar: A primeira fase da campanha [trocou por cestas básicas 2.306 facas e punhais.,}
+
+Chave: NEGOCIAR <verb.possession>
+ILI: 02193712 
+
+Sense 1
+{02193712} <verb.possession> trade2, swap, swop, switch -- (exchange or give (something) in exchange for)
+       => {02192193} <verb.possession> exchange, change, interchange -- (give to, and receive from, one another; "Would you change places with me?"; "We have been exchanging letters for a year")
+           => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children")

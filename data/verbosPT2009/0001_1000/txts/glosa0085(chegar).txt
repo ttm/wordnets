@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA0085
+
+DADO O SYNSET:
+
+S='Glosa85'
+{amontar: A conta H]amontou em duzentos reais.,
+ascender: O débito da empresa H]ascendeu a 20 milhões de dólares.,
+avultar: O custo do iate H]avultou a dez milhões.,
+chegar: Ano passado o volume apreendido não [chegou a 200 quilos, enquanto que só no primeiro semestre de 96 o total já é de 115 kg. ,
+importar: O total dos gastos H]importou em mil reais.,
+montar: Sua conta na loja H]montava o valor de um salário mínimo.,
+subir: A dívida nacional já H]sobe a mais de 100 bilhões de dólares.,}
+A='Glosa3119'
+{exportar}
+
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa85' = “alcançar a um ponto no tempo, ou em um certo estado ou nível”
+{ascender: Affonso Moreira Penna, um dos mais expressivos juristas brasileiros, que há cem anos I]ascendia à Presidência da República.,
+avultar: Mas a realidade I]avultou a seus olhos, e foi então que a alma tentou romper todos os elos e voar.,
+chegar: Ano passado o volume apreendido não [chegou a 200 quilos, enquanto que só no primeiro semestre de 96 o total já é de 115 kg. ,
+montar: O total dessas operações em 31/03/2001 I]montava R$ 136.881 mil.,
+subir: Dólar I]sobe a R$ 2,14 após leilão de títulos cambiais.,}
+A='Glosa3119'
+{exportar}
+Chave: CHEGAR <verb.motion>
+ILI: 01948786
+
+Sense 2
+{01948786} <verb.motion> reach, hit7, attain -- (reach a point in time, or a certain state or level; "The thermometer hit 100 degrees"; "This car can reach a speed of 140 miles per hour")
+       => {01947900} <verb.motion> arrive, get, come4 -- (reach a destination; arrive by movement or progress; "She arrived home at 7 o'clock"; "She didn't get to Chicago until after midnight")

@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA3776
+
+DADO O SYNSET:
+
+S='Glosa3776'
+{afolhear: x,
+	 compulsar: Não pude [compulsar a versão latina reimpressa em Paris, em l744.,
+	 folhar: x,
+	 folhear: Após [folhear boa centena de obras e uma série inumerável de artigos de revistas e jornais, concluímos que a bibliografia aproveitável constitui-se sobretudo de trabalhos consagrados aos aspectos formais da língua do escritor.,
+	 ler: O pauteiro chegava às cinco para [ler todos os jornais e fazer a longa e fundamental relação.,
+	 manusear: Você deve I]manusear textos instrucionais e neles buscar informações para ação.,
+	 perfolhear: I]Perfolheando a clássica obra "O Direito e a vida dos direitos", observamos que Vicente Ráo é judicioso.}
+	
+A ANÁLISE RESULTA EM:
+
+S='Glosa3776' = “examinar do começo ao fim um livro ou outro material escrito”
+{compulsar: Não pude [compulsar a versão latina reimpressa em Paris, em l744.,
+	 folhear: Após [folhear boa centena de obras e uma série inumerável de artigos de revistas e jornais, concluímos que a bibliografia aproveitável constitui-se sobretudo de trabalhos consagrados aos aspectos formais da língua do escritor.,
+	 ler: O pauteiro chegava às cinco para [ler todos os jornais e fazer a longa e fundamental relação.,
+	 manusear: Você deve I]manusear textos instrucionais e neles buscar informações para ação.,
+	 perfolhear: I]Perfolheando a clássica obra "O Direito e a vida dos direitos", observamos que Vicente Ráo é judicioso.}
+Chave: FOLHEAR <verb.perception>
+ILI: 02090995
+
+Sense 1 
+{02090995} <verb.perception> flick10, flip10, thumb10, riffle10, leaf10, riff10 -- (look through a book or other written material; "He thumbed through the report"; "She leafed through the volume")
+       => {02090784} <verb.perception> peruse -- (examine or consider with attention and in detail; "Please peruse this report at your leisure")
+           => {02069480} <verb.perception> examine, see13 -- (observe, check out, and look over carefully or inspect; "The customs agent examined the baggage"; "I must see your passport before you can enter the country")

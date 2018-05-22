@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2740
+
+DADO O SYNSET:
+
+  S='Glosa2740'
+	    {camuflar: Explicação para a aparente contradição: drogas [camuflam sintomas psico-emocionais.,
+	      disfarçar: Fred Suter procurava [disfarçar o nervosismo.,
+	      dissimular: Sócrates soubera bem [dissimular seu pessimismo.,
+	      refolhar: x,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2740' = “Esconder (sentimentos) das outras pessoas”
+	    {camuflar: Fingiu pensar um pouco, I]camuflou o entusiasmo, deu outro bocejo e disse, nonchalance puro: – Onde eu assino?.,
+	      disfarçar: A moça ressentiu-se dessa falta de escrúpulos, mas I]disfarçou o seu sentimento e disse:. - Meu pai, faça o que entender!.,
+	      dissimular: Ela I]dissimulou seu desgosto com uma frivolidade compassiva.,}
+
+Chave: DISSIMULAR <verb.perception>
+ILI: 02085913
+
+Sense 1
+{02085913} <verb.perception> dissimulate -- (hide (feelings) from other people)
+       => {02096669} <verb.perception> disguise -- (make unrecognizable; "The herb disguises the garlic taste"; "We disguised our faces before robbing the bank")
+           => {02082942} <verb.perception> hide, conceal1 -- (prevent from being seen or discovered; "Muslim women hide their faces"; "hide the money") 

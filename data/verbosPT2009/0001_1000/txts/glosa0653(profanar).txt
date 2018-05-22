@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0653
+
+DADO O SYNSET:
+
+S='Glosa653'
+{profanar: Jurei que poderia fazer tudo na vida, violar monjas, [profanar santuários, roubar os vasos do Templo.,
+violar: Se alguém I]violar o templo de Deus, Deus o fará perecer.,}
+A='Glosa1386'
+{desenviolar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa653' = “violar a marca sagradade um lugar ou lingua”
+{profanar: Jurei que poderia fazer tudo na vida, violar monjas, [profanar santuários, roubar os vasos do Templo.,
+violar: Se alguém I]violar o templo de Deus, Deus o fará perecer.,}
+A='Glosa1386'
+{desenviolar}
+Chave: PROFANAR <verb.social>
+ILI: 02492009
+
+Sense 2
+{02492009} <verb.social> desecrate, profane, outrage1, violate2 -- (violate the sacred character of a place or language; "desecrate a cemetary"; "violate the sanctity of the church"; "profane the name of God")
+       => {01085076} <verb.competition> assail, assault, set on, attack2 -- (attack someone physically or emotionally; "The mugger assaulted the woman"; "Nightmares assailed him regularly")

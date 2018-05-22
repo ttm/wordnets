@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA1497
+
+DADO O SYNSET:
+
+S='Glosa1497'
+{desoxidar: Fósforo é frequentemente usado para I]desoxidar cobre líquido.,
+ desoxigenar: H]Desoxigenou o sangue,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1497' = “remover oxigênio de um composto”
+{desoxidar: Fósforo é frequentemente usado para I]desoxidar cobre líquido.,
+ desoxigenar: Todo o vinhoto é canalizado para os cursos d’água e, neste caso, como é extremamente poluente – I]desoxigena a água – pode causar uma situação irreversível.}
+Chave: DESOXIGENAR <verb.change>
+ILI: EQ_NEAR_SYNONYM – 00230051
+
+Sense 1
+{00230051} <verb.change> deoxidize, deoxidise, reduce3 -- (to remove oxygen from a compound, or cause to react with hydrogen or form a hydride, or to undergo an increase in the number of electrons)
+       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

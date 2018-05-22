@@ -1,0 +1,35 @@
+ANÁLISE DA GLOSA3612
+
+DADO O SYNSET:
+
+S='Glosa3612'
+	    {
+	      aposentar: H]Aposenta nesta rua há muito tempo.,
+	      assistir: Manoel I]assiste em Brasília.,
+	      demorar: Sua família A]demora na Europa.,
+	      estanciar: Serei o último a I]estanciar naquela casa. / A corte nunca chegou a i]estanciar duradouramente em Lisboa. ,
+	      habitar: Os camponeses [habitavam casas construídas com argila e palha. / Os deuses [habitavam o monte Olimpo, tendo os mesmos vícios e qualidades dos homens.  -------------------------------------------------------------------------------- ,
+	      morar: É claro que precisamos de um lugar para [morar e de espaço para nossos rebanhos e lavouras./ Não [moraria hoje na Bahia de jeito algum. ,
+	      ocupar: É injusto as casas estarem prontas e a gente não poder [ocupar.,
+	      residir: Ainda na infância, Chico César foi trabalhar numa loja de discos em Catolé e passou a [residir na cidade. ,
+	      viver: Aos 18 anos, deixou Mirandópolis para [viver no Rio.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3612' = “fazer de um lugar sua casa ou viver em”
+	     {aposentar: H]Aposenta nesta rua há muito tempo.,
+	      assistir: Manoel I]assiste em Brasília.,
+	      demorar: Sua família A]demora na Europa.,
+	      estanciar: Serei o último a I]estanciar naquela casa. / Henrique II de Castela invadiu Portugal e I]estanciou na comarca de Viseu. ,
+	      habitar: Os camponeses [habitavam casas construídas com argila e palha. / Os deuses [habitavam o monte Olimpo, tendo os mesmos vícios e qualidades dos homens.,
+	      morar: Filho de um polonês e uma americana, Brickman nasceu e [morou até os dois anos de idade no Rio, onde seu pai, vindo da Polônia com vários irmãos, tinha negócios./ Não [moraria hoje na Bahia de jeito algum. ,
+	      ocupar: É injusto as casas estarem prontas e a gente não poder [ocupar.,
+	      residir: Ainda na infância, Chico César foi trabalhar numa loja de discos em Catolé e passou a [residir na cidade. ,
+	      viver: Aos 18 anos, deixou Mirandópolis para [viver no Rio.,}
+Chave: MORAR <verb.stative>
+ILI: 02571132
+
+Sense 1
+{02571132} <verb.stative> dwell, shack, reside, live8, inhabit, people, populate, domicile, domiciliate -- (make one's home or live in; "She resides officially in Iceland"; "I live in a 200-year old house"; "These people inhabited all the islands that are now deserted"; "The plains are sparsely populated")
+       => {02576058} <verb.stative> be5 -- (occupy a certain position or area; be somewhere; "Where is my umbrella?" "The toolshed is in the back"; "What is behind this behavior?")

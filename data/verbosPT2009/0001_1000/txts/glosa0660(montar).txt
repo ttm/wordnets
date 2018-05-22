@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0660
+
+DADO O SYNSET:
+
+S='Glosa660'
+{armar: Então a virgem se despedirá de Majé; e irá [armar na cabana de seu guerreiro e senhor a rede da esposa.,
+montar: A idéia é [montar exposições - como a do violonista Raphael Rabello (1962-1995), que esteve em cartaz até o início de maio - e transformar em evento as sessões de gravação de depoimentos de personalidades.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa660' = “fazer através de juntar as peças”
+{armar: estudante, I]armou barraca no hospital, onde pernoitava para não perder algum episódio da vida de seus doentes.,
+montar: A idéia é [montar exposições - como a do violonista Raphael Rabello (1962-1995), que esteve em cartaz até o início de maio - e transformar em evento as sessões de gravação de depoimentos de personalidades.,}
+Chave: MONTAR <verb.creation>
+ILI: 01609650
+
+Sense 1
+{01609650} <verb.creation> assemble, piece, put together, set up, tack5, tack together -- (make by putting pieces together; "She pieced a quilt"; "He tacked together some verses")
+       => {01256741} <verb.contact> join1, bring together1 -- (cause to become joined or linked; "join these two parts so that they fit together")
+           => {01314764} <verb.contact> connect, link, tie1, link up -- (connect, fasten, or put together two or more pieces; "Can you connect the two loudspeakers?"; "Tie the ropes together"; "Link arms")
+       => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

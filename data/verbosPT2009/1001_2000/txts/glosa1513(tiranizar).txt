@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA1513
+
+DADO O SYNSET:
+
+S='Glosa1513'
+{despotizar: H]Despotizar o povo é próprio de ditadores.,
+ tiranizar: Napoleão tentou I]tiranizar a Europa do século XIX. ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1513' = “governar um país ou região como um tirano”
+{despotizar: Para realizar-se como estado de classe, ele I]despotiza a sociedade, apropriando-se de modo monopolista a todas as decisões.,
+ tiranizar: Napoleão tentou I]tiranizar a Europa do século XIX.,}
+Chave: TIRANIZAR <verb.social>
+ILI: 02510233
+
+Sense 1
+{02510233} <verb.social> tyrannize, tyrannise, grind down -- (rule a country as a tyrant)
+       => {02510078} <verb.social> dictate -- (rule as a dictator)
+           => {02509613} <verb.social> govern, rule -- (exercise authority over; as of nations; "Who is governing the country now?")
+               => {02367626} <verb.social> control, command -- (exercise authoritative control or power over; "control the budget"; "Command the military forces")

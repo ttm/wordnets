@@ -1,0 +1,47 @@
+ANÁLISE DA GLOSA4071
+
+DADO O SYNSET:
+
+S='Glosa4071'
+{adiar: Não perca as chances e não I]adie decisões para depois do Carnaval.,
+atrasar: Demorou-se nos preparativos e A]atrasou o amigo.,
+delongar: Cercado por tais pessoas, não I]delongou o resultado.,
+diferir: O diretor I]diferiu a decisão de vender a empresa.,
+espaçar: Aquelas manobras visavam a A]espaçar a resolução do problema. ,
+espacejar: x,
+guardar: A Clamp I]guardou esse projeto para o futuro.,
+procrastinar: I]Procrastinou o ajuste fiscal e a flexibilização da política cambial.,
+prorrogar: A nova medida não I]prorrogou o prazo de pagamento das dívidas securitizadas.,
+protelar: O Sindicato dos Jornalistas I]protelou o prazo para inscrições de chapas visando à eleição da nova diretoria.,
+protrair: H]Protraiu a inauguração para o mês que vem.,
+remeter: Não M]remetas para amanhã o que podes fazer hoje.,
+retardar: Novas técnicas I]retardam o envelhecimento.,
+retrasar: x,
+tardar: A revolução I]tardou o completamento de seus estudos.,
+temporizar: H]Temporizou a transação comercial para o ano que vem.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4071' = “reter para um tempo posterior”
+{adiar: Não perca as chances e não I]adie decisões para depois do Carnaval.,
+atrasar: Ainda assim, o coronel garantiu que [atrasou a operação o quanto pôde .,
+delongar: Cercado por tais pessoas, não I]delongou o resultado.,
+diferir: O diretor I]diferiu a decisão de vender a empresa.,
+espaçar: Aquelas manobras visavam a A]espaçar a resolução do problema. ,
+guardar: A Clamp I]guardou esse projeto para o futuro.,
+procrastinar: I]Procrastinou o ajuste fiscal e a flexibilização da política cambial.,
+prorrogar: A nova medida não I]prorrogou o prazo de pagamento das dívidas securitizadas.,
+protelar: O Sindicato dos Jornalistas I]protelou o prazo para inscrições de chapas visando à eleição da nova diretoria.,
+protrair: H]Protraiu a inauguração para o mês que vem.,
+remeter: Não M]remetas para amanhã o que podes fazer hoje.,
+retardar: Novas técnicas I]retardam o envelhecimento.,
+tardar: A revolução I]tardou o completamento de seus estudos.,
+temporizar: H]Temporizou a transação comercial para o ano que vem.,}
+Chave: ADIAR <verb.stative>
+ILI: 02564241
+
+Sense 1
+{02564241} <verb.stative> postpone, prorogue, hold over2, put over, table, shelve, set back1, defer, remit, put off -- (hold back to a later time; "let's postpone the exam")
+       => {02563384} <verb.stative> delay -- (act later than planned, scheduled, or required; "Don't delay your application to graduate school or else it won't be considered")
+           => {02562977} <verb.stative> wait1, hold off, hold back -- (wait before acting)
+               => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel") 

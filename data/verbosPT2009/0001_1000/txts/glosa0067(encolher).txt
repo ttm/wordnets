@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0067
+
+DADO O SYNSET:
+
+S='Glosa67'
+{encolher-se: Raimundo [encolheu-se na rede e insensivelmente se lembrou do revólver que tinha a seu lado.,
+encurtar-se: A roupa M]encurtou-se, depois de lavada.,}
+A='Glosa2032'
+{acompridar-se, alongar-se, arrastar-se, continuar-se, encompridar-se, espichar-se, espraiar-se, estender-se, esticar-se, prolongar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa67' = “reduzir em tamanho ou físicamente”
+{encolher-se: Raimundo [encolheu-se na rede e insensivelmente se lembrou do revólver que tinha a seu lado.,
+encurtar-se: O que mudou, se me perguntarem, é o seguinte: o tempo que nós tínhamos no passado I]encurtou-se e é preciso acelerar o processo.,}
+A='Glosa2032'
+{acompridar-se, alongar-se, arrastar-se, continuar-se, encompridar-se, espichar-se, espraiar-se, estender-se, esticar-se, prolongar-se}
+Chave: ENCOLHER-SE <verb.change>
+ILI: 00233158
+
+Sense 3
+{00233158} <verb.change> shrink1, reduce5 -- (reduce in size; reduce physically; "Hot water will shrink the sweater"; "Can you shrink this image?")
+       => {00428838} <verb.change> decrease1, lessen2, minify -- (make smaller; "He decreased his staff")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

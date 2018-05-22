@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA1839
+
+DADO O SYNSET:
+
+S='Glosa1839'
+{abarrotar-se: De prato em prato, compulsivamente, só queria encher a barriga, I]abarrotar-se. Se uns afogam suas mágoas no copo, ele as enterrava na comida. ,
+ acumular-se: x,
+ atestar-se: H]Atestou-se de vinho.,
+ cumular-se: x,
+ empanturrar-se: Um ladrão que invadiu um restaurante na cidade Lachapelle, I]empanturrou-se de comida e consumiu tanto vinho que acabou por dormir na cozinha, onde foi detido em flagrante.,
+ encher-se: O bem amado comeu e bebeu, engordou e I]encheu-se de comida.,
+ enfartar-se: x,
+ ensurroar-se: x,
+ entulhar-se: Depois de entulhar-se de salgadinhos, não pôde jantar.,
+ entupir-se: Um dia Orlov I]entupiu-se de purê de ervilhas e morreu.,
+ fartar-se: Diferentemente das colegas, que seguem dietas repletas de rúcula, Shirley I]fartou-se com os vinte cortes de carne servidos na casa.,
+ saturar-se: H]Saturou-se de comida.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1839' = “comer demais ou imprudentemente”
+{abarrotar-se: De prato em prato, compulsivamente, ele só queria encher a barriga, I]abarrotar-se.,
+ empanturrar-se: Um ladrão que invadiu um restaurante na cidade Lachapelle, I]empanturrou-se de comida e consumiu tanto vinho que acabou por dormir na cozinha, onde foi detido em flagrante.,
+ encher-se: O bem amado comeu e bebeu, engordou e I]encheu-se de comida.,
+ entulhar-se: Depois de I]entulhar-se de salgadinhos, não pôde jantar.,
+ entupir-se: Um dia Orlov I]entupiu-se de purê de ervilhas e morreu.,
+ fartar-se: Diferentemente das colegas, que seguem dietas repletas de rúcula, Shirley I]fartou-se com os vinte cortes de carne servidos na casa.,}
+Chave: EMPANTURRAR-SE <verb.consumption>
+ILI: 01156771
+
+Sense 1
+{01156771} <verb.consumption> gorge, ingurgitate, overindulge, glut, englut, stuff, engorge, overgorge, overeat, gormandize, gormandise, gourmandize, binge, pig out, satiate1, scarf out -- (overeat or eat immodestly; make a pig of oneself; "She stuffed herself at the dinner"; "The kids binged on icecream")
+       => {01130349} <verb.consumption> eat1 -- (eat a meal; take a meal; "We did not eat until 10 P.M. because there were so many phone calls"; "I didn't eat yet, so I gladly accept your invitation")
+           => {01121136} <verb.consumption> consume, ingest, take in, take, have -- (serve oneself to, or consume regularly; "Have another bowl of chicken soup!"; "I don't take sugar in my coffee")

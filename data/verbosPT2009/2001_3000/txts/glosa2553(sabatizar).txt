@@ -1,0 +1,18 @@
+ANÁLISE DA GLOSA2553
+
+DADO O SYNSET:
+
+S='Glosa2553'
+	    {sabadear: x,
+	      sabatizar: Santo Inácio de Antioquia, no ano 107, diz aos cristãos de seu tempo que "de nenhuma maneira os cristãos devem I]sabatizar.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2553'= “celebrar o sábado”
+	    {sabatizar: Santo Inácio de Antioquia, no ano 107, diz aos cristãos de seu tempo que "de nenhuma maneira os cristãos devem I]sabatizar.,}
+
+Chave: SABATIZAR <verb.social>
+ILI: EQ_HAS_HYPERONYM - 02501739
+
+Sense 1
+{02501739} <verb.social> observe2, celebrate1, keep5 -- (celebrate, as of  holidays or rites; "Keep the commandments"; "celebrate Christmas"; "Observe Yom Kippur")

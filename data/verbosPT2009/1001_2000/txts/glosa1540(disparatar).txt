@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA1540
+
+DADO O SYNSET:
+
+S='Glosa1540'
+{desentoar: Naquela reunião de pessoas sérias só ele A]desentoava.  ,
+ despropositar: Irritado, pôs-se a H]despropositar sem motivo.,
+ destemperar: O militar derrotado pela vida, enfureceu-se e julgando que o Imperador fazia aquilo diretamente para feri-lo, I]destemperou em um grito aos líderes republicanos. ,
+ disparatar: Seria muito fácil ter uns bons milhares de visitas: poderia I]disparatar em todas as direcções, ofender tudo e todos, levantar calúnias, falsos testemunhos. ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1540' = “falar de maneira ruidosa, nervosa ou declamatória”
+{destemperar: O militar derrotado pela vida, enfureceu-se e julgando que o Imperador fazia aquilo diretamente para feri-lo, I]destemperou em um grito aos líderes republicanos.,
+ disparatar: Faro I]disparatou com M. e M. com ele, enquanto a via empolgar-se toda.,}
+Chave: DISPARATAR <verb.communication>
+ILI: 01018367
+
+Sense 1
+{01018367} <verb.communication> rant, mouth off, jabber, spout, rabbit on, rave1 -- (talk in a noisy, excited, or declamatory manner)
+       => {00910961} <verb.communication> talk, speak, utter, mouth, verbalize, verbalise -- (express in speech; "She talks a lot of nonsense"; "This depressed patient does not verbalize")
+           => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+               => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel") 

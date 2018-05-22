@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA1213
+
+DADO O SYNSET:
+
+S='Glosa1213'
+{cantar: Ele ouviu as crianças [cantarem "Atirei o pau no gato" e o discurso de uma menina de 12 anos, recuperada da doença.,
+ descantar: Esta é a sua eterna canção que ela I]descantou,
+ ensoar: Tem inspiração musical para compor as músicas antigas ou I]ensoar.,
+ entoar: Em seguida, fez sinal aos anjos, e eles [entoaram um trecho do cântico,
+ soar: Ao lado de Parker, ela se sente na obrigação de [soar como um instrumento.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1213' = “produzir tons com a voz”
+{cantar: Ele ouviu as crianças [cantarem "Atirei o pau no gato".,
+ descantar: Esta é a sua eterna canção que ela I]descantou.,
+ ensoar: Tem inspiração musical para compor as músicas antigas ou I]ensoar.,
+ entoar: Além de rezar pela alma dos cinco rapazes, a assistência encerrou a missa [entoando a canção Pelados em Santos.,
+ soar: A voz de Armstrong [soou calma, confiante e clara.,}
+Chave: CANTAR <verb.creation>
+ILI: 01680326
+
+Sense 2
+{01680326} <verb.creation> sing -- (produce tones with the voice; "She was singing while she was cooking"; "My brother sings very well")
+       => {00910961} <verb.communication> talk, speak, utter, mouth, verbalize, verbalise -- (express in speech; "She talks a lot of nonsense"; "This depressed patient does not verbalize")
+           => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+               => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

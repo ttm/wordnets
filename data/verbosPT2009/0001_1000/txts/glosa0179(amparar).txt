@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0179
+
+DADO O SYNSET:
+
+S='Glosa179'
+{amparar: A legislação que [ampara estas organizações é muito fluida, muito difícil.,
+auxiliar: Além dos índios, o comitê Imbiribeira também [auxilia 15 meninos de rua de Olinda , que trabalham na reciclagem de papel em troca da garantia de que permanecerão estudando. ,
+defender: O PMDB [defende o trabalhador mais humilde.,
+proteger: Por sua vez, o suzerano deveria [proteger o vassalo contra ataques de inimigos e por ofensas pessoais.,
+socorrer: Dagmar Cupaiolo, do sindicato da indústria de torrefação, diz que o governo não [socorre o consumidor e várias empresas de porte médio estão à beira da falência.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa179' = “dar suporte moral, psicológico, socorro, ou encorajar”
+{amparar: A legislação que [ampara estas organizações é muito fluida, muito difícil.,
+defender: O PMDB [defende o trabalhador mais humilde.,
+proteger: Por sua vez, o suzerano deveria [proteger o vassalo contra ataques de inimigos e por ofensas pessoais.,
+socorrer: Dagmar Cupaiolo, do sindicato da indústria de torrefação, diz que o governo não [socorre o consumidor e várias empresas de porte médio estão à beira da falência.,}
+Chave: AMPARAR <verb.social>
+ILI: 02480483
+
+Sense 1
+{02480483} <verb.social> support, back up -- (give moral or psychological support, aid, or courage to; "She supported him during the illness"; "Her children always backed her up")

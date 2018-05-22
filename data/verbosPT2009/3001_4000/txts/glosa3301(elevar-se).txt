@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA3301
+
+DADO O SYNSET:
+
+S='Glosa3301'
+	    {
+	      alar-se: Era um prazer para ele, abandonando o caminho de subida, agarrar-se às arestas cortantes das grandes pedras e I]alar-se a boa altura para ver. ,
+	      alevantar-se: O monstro negro, de pele luzidia, percebendo a manobra do vaqueiro, freou nos cascos, que barro I]alevantou-se pelo ar.,
+	      elevar-se: Uma nuvem de poeira poderá [elevar-se a milhares de quilômetros de altura, criando em Júpiter anéis como os de Saturno. ,
+	      erguer-se: No ar, perto da praia, grandes pássaros negros faziam giros, avançando ou pairando, e desciam a roçar os pés, na água, e tornavam a [erguer-se para descer novamente. ,
+	      levantar-se: DEVIANT,
+	      librar-se: A águia H]librava-se nos ares.,
+	      suspender-se: DEVIANT,
+	      voar: A estaca bateu a meio no balcão, e metade dela [voou pelos ares em estilhaços que foram quebrar as panelas de barro.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3301' = “mover-se para cima”
+	     {alar-se: Seu espírito I]alou-se às 21 horas. ,
+	      alevantar-se: O monstro negro, de pele luzidia, percebendo a manobra do vaqueiro, freou nos cascos, que barro I]alevantou-se pelo ar.,
+	      elevar-se: Assim, a 5 de agosto de 1709, um pequeno balão de papel, tendo o ar em seu interior sido aquecido por chama, I]elevou-se a 20 palmos de altura. ,
+	      erguer-se: O tucano I]ergueu-se da terra. ,
+	      librar-se: A águia H]librava-se nos ares.,
+	      voar: A estaca bateu a meio no balcão, e metade dela [voou pelos ares em estilhaços que foram quebrar as panelas de barro.,}
+Chave: ELEVAR-SE <verb.motion>
+ILI: 01911030
+
+Sense 5
+{01911030} <verb.motion> rise, lift3, arise4, move up, go up, come up3, uprise1 -- (move upward; "The fog lifted"; "The smoke arose from the forest fire"; "The mist uprose from the meadows")
+       => {01782203} <verb.motion> travel, go, move3, locomote -- (change location; move, travel, or proceed; "How fast does your new car go?"; "We travelled from Rome to Naples by bus"; "The policemen went from door to door looking for the suspect"; "The soldiers moved towards the city in an attempt to take it before night fell")

@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA2613
+
+DADO O SYNSET:
+
+  S='Glosa2613'
+	    {ater-se: Esse estilo configura-se como uma variedade do que se poderia chamar de abstracionismo pedagógico, entendendo-se a expressão como indicativa da veleidade de descrever, explicar ou compreender situações educacionais reais, desconsiderando as determinações específicas de sua concretude, para [ater-se apenas a princípios ou leis gerais que na sua abrangência abstrata seriam, aparentemente, suficientes para dar conta das situações focalizadas.,
+	      circunscrever-se: Até porque a tarefa partidária não deve [circunscrever-se ao apoio ao governo.,
+	      limitar-se: O nexo é óbvio e inegável e serve apenas para documentar que a preocupação com a área de saúde não pode [limitar-se àqueles que nela militam, mas precisa estender-se aos que se ocupam com os destinos e com o futuro da comunidade.,
+	      restringir-se: Se o tribunal se decidisse por uma interpretação rígida da lei, no limite, a propaganda eleitoral gratuita poderia [restringir-se apenas ao candidato e à câmara.,
+	      resumir-se: Longe de [resumir-se a uma peculiaridade inócua, esse cenário reflete uma situação de fraqueza da estrutra partidária que é altamente inquietante.,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2613' = “Reduzir (-se) a um campo de interesse, ao mesmo tempo que mantém os elementos essenciais.”
+	    {ater-se: Bartlett se [ateve a uma abordagem experimental até que ele teve uma conversa com seu amigo Norbert Wiener.,
+	      circunscrever-se: Até porque a tarefa partidária não deve [circunscrever-se ao apoio ao governo.,
+	      limitar-se: A contribuição de Max Factor ao cinema não se [limitou, entretanto, à busca da estética do belo.,
+	      restringir-se: A propaganda eleitoral gratuita poderia [restringir-se apenas ao candidato e à câmara.,
+	      resumir-se: Longe de [resumir-se a uma peculiaridade inócua, esse cenário reflete uma situação de fraqueza da estrutura partidária.,}
+
+Chave: RESTRINGIR-SE <verb.change>
+ILI: 00235800
+
+Sense 1
+{00235800} <verb.change> abridge, foreshorten, abbreviate1, shorten2, cut8, contract5, reduce8 -- (reduce in scope while retaining essential elements; "The manuscript must be shortened")
+       => {00428838} <verb.change> decrease1, lessen2, minify -- (make smaller; "He decreased his staff")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

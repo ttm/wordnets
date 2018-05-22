@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA4120
+
+DADO O SYNSET:
+
+S='Glosa4120'
+{inquirir: O anjo I]inquiriu quanto à razão de sua ira.,
+interrogar: A juíza Cíntia Gonçalvez Costi, que I]interrogou as testemunhas, não concedeu entrevista após o término dos depoimentos.,
+ouvir: Presidiu o trabalho da comissão, que ao longo de 14 meses, [ouviu 260 testemunhas .,
+perguntar: Os advogados da Souza Cruz gastaram boa parte do tempo I]perguntando às testemunhas de acusação se elas já teriam ouvido falar que o cigarro pode fazer mal à saúde. ,
+questionar: Juíza não I]questionou as testemunhas sobre o horário cumprido no período em que ela exercia a função de escriturária.,}
+	  
+A='Glosa1078'
+{atender, responder}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4120' = “colocar uma série de questões [a]”
+{inquirir: Comissão da Assembléia I]inquiriu sindicalistas e técnicos sobre o acidente da estação Pinheiros.,
+interrogar: A juíza Cíntia Gonçalvez Costi, que I]interrogou as testemunhas, não concedeu entrevista após o término dos depoimentos.,
+perguntar: Os advogados da Souza Cruz gastaram boa parte do tempo I]perguntando às testemunhas de acusação se elas já teriam ouvido falar que o cigarro pode fazer mal à saúde. ,
+questionar: Juíza não I]questionou as testemunhas sobre o horário cumprido no período em que ela exercia a função de escriturária.,}
+Chave: INTERROGAR <verb.communication>
+ILI: 00762375
+
+Sense 2
+{00762375} <verb.communication> interrogate, question3 -- (pose a series of questions to; "The suspect was questioned by the police"; "We questioned the survivor about the details of the explosion")
+       => {00868100} <verb.communication> ask4 -- (address a question to and expect an answer from; "Ask your teacher about trigonometry"; "The children asked me about their dead grandmother")
+           => {00867918} <verb.communication> address, turn to1 -- (speak to; "He addressed the crowd outside the window")
+               => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                   => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                       => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

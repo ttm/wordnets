@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA3237
+
+DADO O SYNSET:
+
+S='Glosa3237'
+	    {
+	      domar: Da reforma agrária encarregou o ministro Jungman, com passado no Partido Comunista, para I]domar o MST.,
+	      dominar: As duas organizações tentam [dominar o crime organizado nas favelas do Rio.,
+	      enfrear: Só o indivíduo tem o direito de dirigir seu raciocínio, regular sua linguagem, I]enfrear seu estilo, moderar seu juízo, orientar sua ação.,
+	      enfrenar: x,
+	      jugular: Isso leva o sistema financeiro a praticar juros superiores a 150% ao ano, elevando os custos da produção, ou seja, a inflação, e I]jugulando o crescimento econômico. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3237' = “controlar, estar encarregado”
+	     {domar: Com o Plano Real de julho de 1994, o Brasil finalmente I]domou a inflação.,
+	      dominar: Saddam I]dominou legalmente este povo no período de 1979 a 2003.,
+	      enfrear: O livro dominava-o; a primeira leitura I]enfreava-lhe o espírito.,}
+Chave: DOMINAR <verb.stative>
+ILI: 02568359
+
+Sense 2
+{02568359} <verb.stative> dominate1 -- (be in control; rule the roost; "Her husband completely dominates her")
+       => {02461275} <verb.social> influence, act upon, work10 -- (have and exert influence or effect; "The artist's work influenced the young painter"; "She worked on her friends to support the political candidate")
+           => {00132263} <verb.change> affect, impact, bear upon, bear on, touch on1, touch -- (have an effect upon; "Will the new rules affect me?")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

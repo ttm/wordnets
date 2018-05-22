@@ -1,0 +1,40 @@
+ANÁLISE DA GLOSA3376
+
+DADO O SYNSET:
+
+S='Glosa3376'
+	    {
+	      assanhar: A umidade H]assanha os cabelos crespos.,
+	      desengrenhar: Tentou M]desgrenhar-lhe a cabeleira.,
+	      desgadelhar: x,
+	      desgrenhar: Tudo sem [desgrenhar um único fio de sua plumagem.,
+	      desguedelhar: x,
+	      emaranhar: Para descobrir o lado certo da meada, para puxar um fio e não I]emaranhar, siga os seguintes passos.,
+	      embaraçar: Após os seis meses de idade, seu filho pode usar condicionador de cabelo, caso ele tenha fios crespos, abundantes e que I]embaraçam com facilidade.,
+	      empaçocar: x,
+	      enlear: Grossos cipós M]enleavam as árvores.,
+	      enredar: A bordadeira M]enredou a meada.,
+	      enredear: x,
+	      enriçar: x,
+	      imbramar: x,
+	      maçarocar: x,
+	      maranhar: x,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3376' = “torcer junto ou entrelaçar em uma massa cofusa”
+	     {assanhar: Uma daquelas noites frias, quando o vento bate no rosto, I]assanha os cabelos e provoca calafrios na pele.,
+	      desgrenhar: Um vento cortante impelido em fortes rajadas I]desgrenhava os cabelos das mulheres.,
+	      emaranhar: Certo dia, uma funcionária recém-admitida I]emaranhou os fios.,
+	      embaraçar: O vento aumentara e I]embaraçava agora os seus cabelos.,
+	      enlear: Grossos cipós M]enleavam as árvores.,
+	      enredar: A bordadeira M]enredou a meada.,}
+Chave: EMARANHAR <verb.contact>
+ILI: 01421351
+
+Sense 2
+{01421351} <verb.contact> entangle, tangle, mat, snarl -- (twist together or entwine into a confusing mass; "The child entangled the cord")
+       => {01186160} <verb.contact> twist1, twine4, distort1 -- (form into a spiral shape; "The cord is all twisted")
+           => {00135866} <verb.change> change shape, change form, deform2 -- (assume a different shape or form)
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

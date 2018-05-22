@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA4087
+
+DADO O SYNSET:
+
+S='Glosa4087'
+{ferir: O que encantava no violão de Nelson Cavaquinho não era o fato de tocar "muitíssimo bem" e sim o jeito como I]feria as cordas do violão.,
+pulsar: H]Pulsava as cordas da lira.,
+repenicar: O sacristão A]repenicava o sino todas as manhãs.,
+repicar: Ao tomar conhecimento de sua morte, alguém correu à igrejinha para I]repicar o sino.,
+tanger: No princípio, era gosto ver o fervor e devoção com que acudiam à igreja e quando lhes I]tangiam o sino.,
+tocar: John Hammond [dirá mais da metade dos 4 milhões que tocam guitarra nos EUA .,
+vibrar: Os dedos do guitarrista I]vibram as cordas, esculpem ecos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4087B' = “fazer (sinos) tocarem, geralmente para propósitos de edificação musical”
+repenicar: O sacristão A]repenicava o sino todas as manhãs.,
+repicar: Ao tomar conhecimento de sua morte, alguém correu à igrejinha para I]repicar o sino.,
+tanger: No princípio, era gosto ver o fervor e devoção com que acudiam à igreja e quando lhes I]tangiam o sino.,}
+
+Chave: REPICAR <verb.perception>
+ILI: 02118940
+
+Sense 3
+{02118940} <verb.perception> ring1, knell1 -- (make (bells) ring, often for the purposes of musical edification; "Ring the bells"; "My uncle rings every Sunday at the local church")
+       => {02116920} <verb.perception> sound1 -- (cause to sound; "sound the bell"; "sound a certain note")

@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA1718
+
+DADO O SYNSET:
+
+S='Glosa1718'
+{capear: M]Capeei os cadernos com papel azul.,
+ encapar: Elas usam folhas de papel almaço, cartolinas e novelos de barbante, e aprendem a costurar e [encapar os cadernos.,
+ revestir: I]Revestir ou cobrir de couro, pano ou  papel, a capa de um livro.,}
+	  
+A='Glosa1297'
+{desencapar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1718' = “dispor ou envolver como uma cobertura ou proteção”
+{capear: A peletização consiste em I]capear a semente inoculada com fosfato de rocha e visa proteger o inoculante na fase entre a semeadura e a germinação e formação.,
+ encapar: Elas usam folhas de papel almaço, cartolinas e novelos de barbante, e aprendem a costurar e [encapar os cadernos.,
+ revestir: Coube a James Blinn, quando ainda pesquisador da Universidade de Utah, forjar os algoritmos básicos que permitiram [revestir o objeto com uma «pele» de texturas.,}
+	  
+A='Glosa1297'
+{desencapar}
+Chave: ENCAPAR <verb.contact>
+ILI: 01244978
+
+Sense 1
+{01244978} <verb.contact> wrap, wrap up -- (arrange or fold as a cover or protection; "wrap the baby before taking her out"; "Wrap the present")
+       => {01293336} <verb.contact> cover -- (provide with a covering or cause to be covered; "cover her face with a handkerchief"; "cover the child with a blanket"; "cover the grave with flowers")

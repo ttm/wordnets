@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA1922
+
+DADO O SYNSET:
+
+S='Glosa1922'
+{depredar: Em Moscou, na capital da Rússia, torcedores incendiaram carros e I]depredaram um restaurante. #  Os ladrões A]depredaram a casa.  ,
+ escalar: As cavalgadas cristãs M]escalavam terras de mouros.,
+ pilhar: Mais tarde, soubemos que as tropas de Dustom quebraram a nossa porta principal da casa e I]pilharam tudo o que tínhamos.,
+ saquear: Cem moradores do Conjunto Residencial da USP [saquearam o depósito de alimentos do restaurante universitário, que está fechado por causa da greve de professores e funcionários.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1922' = “roubar mercadorias; tomar como pilhagem”
+{depredar: Manifestantes I]depredam lojas e bancos durante protesto contra Bush.,
+ pilhar: Mais tarde, soubemos que as tropas de Dustom quebraram a nossa porta principal da casa e I]pilharam tudo o que tínhamos.,
+ saquear: Cem moradores do Conjunto Residencial da USP [saquearam o depósito de alimentos do restaurante universitário, que está fechado por causa da greve de professores e funcionários.,}
+Chave: SAQUEAR <verb.possession>
+ILI: 02276958
+
+Sense 2
+{02276958} <verb.possession> plunder, despoil, loot, reave, strip, rifle, ransack, pillage, foray -- (steal goods; take as spoils; "During the earthquake people looted the stores that were deserted by their owners")
+       => {02143102} <verb.possession> take1 -- (take by force; "Hitler took the Baltic Republics"; "The army took the fort on the hill")

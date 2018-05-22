@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA1654
+
+DADO O SYNSET:
+
+S='Glosa1654'
+{abandeirar: Como tribuno dos oprimidos, é imprescindível que o partido leninista tenha que I]abandeirar a luta contra a opressão da mulher.,
+ embandeirar: Uma tal queda poderia facilmente atingir os Estados Unidos se eles continuarem a pavonear-se e a I]embandeirar a questão do seu domínio sobre a ordem mundial.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1654' = “decorar com bandeiras”
+{embandeirar: A maioria dos haitianos se vestiu de verde-amarelo, coloriu ruas, I]embandeirou portas e veículos.,}
+Chave: EMBANDEIRAR
+ILI: 01622258
+
+Sense 4
+{01622258} <verb.creation> flag -- (decorate with flags; "the building was flagged for the holiday")
+       => {01627899} <verb.creation> decorate, adorn, grace, ornament, embellish, beautify -- (make more attractive by adding ornament, colour, etc.; "Decorate the room for the party"; "beautify yourself for the special day")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

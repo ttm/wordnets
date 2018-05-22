@@ -1,0 +1,56 @@
+ANÁLISE DA GLOSA3577
+
+DADO O SYNSET:
+
+S='Glosa3577'
+	    {
+	      arremenicar: x,
+	      calcitrar: x,
+	      contrapontear: x,
+	      contrapor: "Em seus filmes há momentos lindíssimos e inovadores em relação à maneira de narrar, ao enquadramento, mas havia outros muito chatos", contrapôs Zelito Viana. / Para [contrapor as acusações que lhe serão feitas, o ex-governador de São Paulo tem mobilizado prefeitos e vereadores de todos os Estados . ,
+	      devolver: O general, que insistia em desacatar a ordem do presidente e não abria mão do comando do Exército, [devolvia seus explosivos recados. ,
+	      engravitar-se: H]Engravitaram-se contra a nova lei.,
+	      objetar: O doutor, que ouvira toda a frase, não pôde deixar de [objetar.,
+	      recalcitrar: O outro quis ainda [recalcitrar. / O velho quis I]recalcitrar, mas teve de obedecer à voz imperiosa do salvador de Pedro. Antão,
+	      refilar: Faz o que lhe mandam, por vezes a I]refilar baixinho. ,
+	      remenicar: Ouviu passivo, sem A] remenicar.,
+	      replicar: Os wundtianos não aceitaram tantas críticas sem [replicar.,
+	      repontar: O reverendo [repontou, ameaçando-a com uma denúncia a Manuel.,
+	      repostar: Furioso, de imediato I]repostou o poderoso Anaximandro.,
+	      respingar1: Conformava-se, sem [respingar, e em certas ocasiões até satisfeito, graças ao seu bom humor. ,
+	      retorquir: Protágoras poderia [retorquir contra Demócrito e Platão.,
+	      retorqüir: x,
+	      retrucar: Albernaz indignou-se e [retrucou-lhe com certo calor. ,
+	      revidar: Itamar [revida crítica e convoca embaixador./ Foi descartada a possibilidade de FHC aproveitar seu programa de TV para [revidar críticas que tem recebido de seus adversários. ,
+	      rezingar: O quê!? - I]rezingou o pai - tu és doido, ou quê? ,
+	      ripostar: Da próxima vez que se sentir zangada ou magoada, em vez de I]ripostar, partilhe os seus sentimentos.,
+	      voltar: A tantas perguntas nem uma só palavra lhe M]voltou.,
+	      volver: Admira-se, heis? ... [volveu o homem da unha grande.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3577' = “responder de volta”
+	     {contrapor: A esta conclusão, que classificou de pessimista, Fábio I]contrapôs outra, mais otimista/ Para [contrapor as acusações que lhe serão feitas, o ex-governador de São Paulo tem mobilizado prefeitos e vereadores de todos os Estados . ,
+	      devolver: O general, que insistia em desacatar a ordem do presidente e não abria mão do comando do Exército, [devolvia seus explosivos recados. ,
+	      objetar: O doutor, que ouvira toda a frase, não pôde deixar de [objetar.,
+	      recalcitrar: Perseguiu os Profetas, que o chamavam ao temor de Deus e à penitência, e I]recalcitrou contra os flagelos com que Jeová o castigava. / O velho quis I]recalcitrar, mas teve de obedecer à voz imperiosa do salvador de Pedro.,
+	      replicar: A essa objeção, Bohr [replicou muito rapidamente, invocando a inseparabilidade quântica.,
+	      repontar: O reverendo [repontou, ameaçando-a com uma denúncia a Manuel.,
+	      repostar: Furioso, de imediato I]repostou o poderoso Anaximandro.,
+	      respingar1: Conformava-se, sem [respingar, e em certas ocasiões até satisfeito, graças ao seu bom humor. ,
+	      retorquir: Depois de 15 de novembro, Paulo [retorquiu a pergunta, e Pedro respondeu como o irmão, emendando o resto.,
+	      retrucar: Pereira [retrucou as vaias da torcida, que o chamou de «burro», após a marcação do segundo gol carioca. ,
+	      revidar: Itamar [revida crítica e convoca embaixador./ Foi descartada a possibilidade de FHC aproveitar seu programa de TV para [revidar críticas que tem recebido de seus adversários. ,
+	      rezingar: O quê!? - I]rezingou o pai - tu és doido, ou quê? ,
+	      ripostar: Causa imensa tristeza, então, o desbordamento com que o deputado Roque Barbieri I]ripostou a críticas feitas pelo presidente em exercício Orlando Maluf Haddad.,
+	      voltar: à pergunta do patrão, H]voltou que estivera doente.,
+	      volver: H]volver uma injúria.,}
+Chave: DEVOLVER <verb.communication>
+ILI: 00790033
+
+Sense 8
+{00790033} <verb.communication> retort, come back1, repay, return1, riposte, rejoin -- (answer back)
+       => {00789361} <verb.communication> answer, reply, respond -- (reply or respond to; "She didn't want to answer"; "answer the question"; "We answered that we would accept the invitation")
+           => {00976600} <verb.communication> state, say, tell4 -- (express in words; "He said that he wanted to marry her"; "tell me what is bothering you"; "state your opinion"; "state your name")
+               => {00909455} <verb.communication> express, verbalize3, verbalise3, utter1, give tongue to -- (articulate; either verbally or with a cry, shout, or noise; "She expressed her anger"; "He uttered a curse")

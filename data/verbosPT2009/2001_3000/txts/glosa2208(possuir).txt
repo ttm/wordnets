@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA2208
+
+DADO O SYNSET:
+
+S='Glosa2208'
+	    {avezar2: H]Aveza uma imensidão de terras.,
+	      contar: Nos arredores das construções há indícios de que o povoamento I]contava com um aqueduto e no subsolo encontram-se túneis de pedra que serviam como esgoto.,
+	      haver: Aquelas famílias H]houveram de tudo e hoje nada mais possuem.,
+	      possuir: Os bens tomados do infiel passavam à Igreja; esta [possuía ainda vastas propriedades na América e tinha participação nos negócios de tráfico de escravos, recebendo um certo percentual.,
+	      ter: As Forças Armadas [têm armas da Guerra da Coréia (1950-53).,
+	      vezar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2208' = “ter propriedade ou posse de alguma coisa”
+	    {avezar: H]Aveza uma imensidão de terras.,
+	      contar: Famílias compostas de trabalhadores agrícolas sem-terra ou cujos estabelecimentos agropecuários não I]contam com terra suficiente para a sua manutenção.,
+	      haver: Aquelas famílias H]houveram de tudo e hoje nada mais possuem.,
+	      possuir: Os bens tomados do infiel passavam à Igreja; esta [possuía ainda vastas propriedades na América.,
+	      ter: As Forças Armadas [têm armas da Guerra da Coréia (1950-53).,}
+
+Chave: POSSUIR <verb.possession>
+ILI: 02141223
+
+Sense 1
+{02141223} <verb.possession> own, have4, possess -- (have ownership or possession of; "He owns three houses in Florida"; "How many cars does she have?")

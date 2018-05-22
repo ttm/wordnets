@@ -1,0 +1,47 @@
+ANÁLISE DA GLOSA3144
+
+DADO O SYNSET:
+
+S='Glosa3144'
+{abrilhantar: Foi a presença do ex-treinador de Michael Jordan, no entanto, que [abrilhantou o evento.,
+	 avivar: A outra também durava; bastava só [avivar as letras.,
+	 brilhantar: Para I]brilhantar ainda mais a competição; Gustavo Borges, Leonardo Costa e Flávia Renata Delaroli, nadaram como convidados e ganharam suas provas. ,
+	 colorar: A proposta do grupo que assumiu o USC no início do ano era de I]colorar o time de volta na Primeira Divisão, em dois anos, e isso foi conseguido. ,
+	 colorear: Inté consola um cristao ver um rosal chimarrao I]coloreando um banhado.,
+	 colorir: O outro pode vir simplesmente para [colorir o meu mundo, mas não há mais a simbiose.,
+	 colorizar: E o amor deles foi dando um tom vermelho em tudo. É como se fosse I]colorizando aquele momento.,
+	 condecorar: A presença das candidatas ao título de beleza H]condecorou o coquetel.,
+	 engraçar: A inteligência A]engraça as pessoas.,
+	 incrementar: A prioridade é conservar e [incrementar espaços já existentes.,
+	 ornamentar: As primeiras ganharam evidência quando a Globo resolveu [ornamentar suas novelas com caras bonitas mas jamais notadas em um teatro ou set de filmagem. ,
+	 realçar: Ele adora seu trabalho e gosta de [realçar com humor os perigos que enfrenta.}
+
+A='Glosa1224'
+{descolorar, descolorir}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3144' = “tornar animado”
+{abrilhantar: Foi a presença do ex-treinador de Michael Jordan, no entanto, que [abrilhantou o evento.,
+	 avivar: A outra também durava; bastava só [avivar as letras.,
+	 brilhantar: Para I]brilhantar ainda mais a competição; Gustavo Borges, Leonardo Costa e Flávia Renata Delaroli, nadaram como convidados e ganharam suas provas. ,
+	 colorar: A proposta do grupo que assumiu o USC no início do ano era de I]colorar o time de volta na Primeira Divisão, em dois anos, e isso foi conseguido. ,
+	 colorear: Inté consola um cristão ver um rosal chimarrão I]coloreando um banhado.,
+	 colorir: O outro pode vir simplesmente para [colorir o meu mundo, mas não há mais a simbiose.,
+	 colorizar: E o amor deles foi dando um tom vermelho em tudo. É como se fosse I]colorizando aquele momento.,
+	 condecorar: A presença das candidatas ao título de beleza H]condecorou o coquetel.,
+	 engraçar: A inteligência A]engraça as pessoas.,
+	 incrementar: A prioridade é conservar e [incrementar espaços já existentes.,
+	 ornamentar: As primeiras ganharam evidência quando a Globo resolveu [ornamentar suas novelas com caras bonitas mas jamais notadas em um teatro ou set de filmagem. ,
+	 realçar: Ele adora seu trabalho e gosta de [realçar com humor os perigos que enfrenta.}
+
+A='Glosa1224'
+{descolorar, descolorir}
+Chave: AVIVAR <verb.change>
+ILI: 00186189
+
+Sense 2
+{00186189} <verb.change> enliven, liven, liven up, invigorate, animate -- (make lively; "let's liven up this room a bit")
+       => {00022265} <verb.body> stimulate, arouse, brace, energize, energise, perk up1 -- (cause to be alert and energetic; "Coffee and tea stimulate me"; "This herbal infusion doesn't stimulate")
+           => {00019146} <verb.body> affect -- (act physically on; have an effect upon)
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

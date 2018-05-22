@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0007B
+
+DADO O SYNSET:
+
+S='Glosa7A'
+{apurar: Um fator agravante em relação aos impactos ambientais é o uso do mercúrio, que segundo relatos de garimpeiros só é usado para I]apurar o ouro.,
+clarificar: Usava-as para I]clarificar o vinho, ou seja, para decantar as partículas naturais que o turvavam depois da fermentação.,
+limpar: Serve para descarregar energias negativas e [limpar o corpo.,
+purgar: O óleo de mamona bebe-se com igual quantidade de água morna para I]purgar o corpo.,
+purificar: Folhas servem para combater a gripe e [purificar o sangue.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa7B' = “tornar mais claro”
+{clarificar: Usava-as para I]clarificar o vinho, ou seja, para decantar as partículas naturais que o turvavam depois da fermentação.,}
+Chave: CLARIFICAR <verb.change>
+ILI: 00302983
+
+Sense 1
+{00302983} <verb.change> brighten1, lighten up, lighten1 -- (make lighter or brighter; "The paint will brighten the room")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

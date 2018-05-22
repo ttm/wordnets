@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA1990
+
+DADO O SYNSET:
+
+S='Glosa1990'
+{descornar: O tabapuã também tem encontrado boa receptividade entre os adeptos do guzerá. Cada vez mais interessados em I]descornar a raça, eles vêem no cruzamento um método eficiente de fazê-lo.,
+ desguampar: x,
+ desmochar: x,
+ esmochar: x,
+ mochar: Também aprendem a mochar (cortar os chifres do gado), ordenhar, casquear (cortar o casco do animal), tosar, domar.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1990' = “tirar os chifres [de um animal]”
+{descornar: O tabapuã também tem encontrado boa receptividade entre os adeptos do guzerá. Cada vez mais interessados em I]descornar a raça, eles vêem no cruzamento um método eficiente de fazê-lo.,
+ mochar: Também aprendem a mochar (cortar os chifres do gado), ordenhar, casquear (cortar o casco do animal), tosar, domar.,}
+Chave: DESCORNAR <verb.change>
+ILI: 00190394
+
+Sense 2
+{00190394} <verb.change> dehorn -- (take the horns off (an animal))
+       => {00172676} <verb.change> take off -- (take away or remove; "Take that weight off me!")
+           => {00166870} <verb.change> remove, take, take away1, withdraw1 -- (remove something concrete, as by lifting, pushing, taking off, etc. or remove something abstract; "remove a threat"; "remove a wrapper"; "Remove the dirty dishes from the table"; "take the gun from your pocket"; "This machine withdraws heat from the environment")

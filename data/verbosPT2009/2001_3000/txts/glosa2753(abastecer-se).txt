@@ -1,0 +1,36 @@
+ANÁLISE DA GLOSA2753
+
+DADO O SYNSET:
+
+S='Glosa2753'
+	    {abastar-se: Quem almeja uma vida superior, goza felicidade permanente, deve I]abastar-se do álcool, das drogas, e de tudo aquilo que perturba a mente.,
+	      abastecer-se: A Argentina começou a I]abastecer-se ontem da energia vinda do Brasil por meio de uma linha de alta tensão entre os países que pertence à espanhola Endesa.,
+	      açalmar-se: M]Açalmar-se de alimentos.,
+	      aperceber-se: H]Apercebeu-se do indispensável para a viagem.,
+	      fornecer-se: Para se obter energia elétrica há necessidade [fornecer-se de uma outra forma de energia, a ser transformada em eletricidade pois a energia não pode ser criada, em nenhuma de suas formas.,
+	      munir-se: À noite, quando é preciso I]munir-se de cachecóis e luvas, os confortáveis restaurantes da cidade são uma ótima opção.,
+	      prover-se: I]Prover-se de recursos financeiros obtidos através de mensalidades de seus sócios e taxas sobre serviços prestados.,
+	      refazer-se: H]Refez-se de tudo de que precisava.,
+	      restituir-se: H]Restituir-se de alimentos.,
+	      revestir-se: O levantamento fiscal deve I]revestir-se de elementos técnicos e legais para produzir efeitos positivos.,
+	      sortir-se: D. Mariana disse-lhe o que queria: I]sortir-se de vestidos escuros, apropriados ao estado de viúva.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2753' = “Providenciar o que é desejado ou necessário, especialmente apoio, comida ou manutenção”
+	    {abastar-se: Quem almeja uma vida superior, goza felicidade permanente, deve I]abastar-se do álcool, das drogas, e de tudo aquilo que perturba a mente.,
+	      abastecer-se: Os acadêmicos I]abasteceram-se de pranchetas, capacetes, lápis, trenas e iniciaram a medição do local.,
+	      fornecer-se: Para se obter energia elétrica há necessidade [fornecer-se de uma outra forma de energia, a ser transformada em eletricidade pois a energia não pode ser criada, em nenhuma de suas formas.,
+	      munir-se: A publicidade das empresas e o vocabulário da mídia I]muniram-se de caravelas e outros símbolos para noticiar uma nova chegada dos portugueses ao Brasil.,
+	      prover-se: I]Proveram-se de mão-de-obra, escravos em um primeiro tempo, brancos em. um segundo.,
+	      refazer-se: Fechara os poros, I]refizera-se de forças na estação invernosa de 1729.,
+	      revestir-se: A troca, realizada em 27 de março, I]revestiu-se de garantias especiais.,
+	      sortir-se: Os raros lojistas, desde julho, I]sortiram-se de voiles, etamines, opalines, sedas e brins.,}
+
+Chave: ABASTECER-SE <verb.consumption>
+ILI: 01146590
+
+Sense 3
+{01146590} <verb.consumption> provide, supply, ply, cater -- (provide what is desired or needed, especially support, food or sustenance; "The hostess provided lunch for all the guests")
+       => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+           => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children") 

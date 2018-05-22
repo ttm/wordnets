@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA3773
+
+DADO O SYNSET:
+	
+S='Glosa3773'
+{aprumar-se: Ricardo [aprumou-se na cadeira, olhou um pouco a moça e continuou a dissertar sobre a modinha.,
+	 empertigar-se: O dignatário de Paris [empertigou-se diante da assembléia e revelou o verdadeiro desejo de todos.,
+	 endireitar-se: Ana Rosa [endireitou-se na cadeira em que acabava de assentar-se.,
+	 engravitar-se: Os galhos H]engravitavam-se à medida que a árvore crescia.,
+	 engrilar-se: O presidente I]engrilou-se, declarando que estava disposto a fazer tudo, mas guardadas as aparências. ,
+	 perfilar-se: O lacaio desceu, abriu a portinhola, desbarretou-se e [perfilou-se.}
+
+A='Glosa1158'
+{desaprumar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3773'
+{aprumar-se: Ricardo [aprumou-se na cadeira, olhou um pouco a moça e continuou a dissertar sobre a modinha.,
+	 empertigar-se: O dignatário de Paris [empertigou-se diante da assembléia e revelou o verdadeiro desejo de todos.,
+	 endireitar-se: Ana Rosa [endireitou-se na cadeira em que acabava de assentar-se.,
+	 engravitar-se: Os galhos H]engravitavam-se à medida que a árvore crescia.,
+	 engrilar-se: O presidente I]engrilou-se, declarando que estava disposto a fazer tudo, mas guardadas as aparências. ,
+	 perfilar-se: O lacaio desceu, abriu a portinhola, desbarretou-se e [perfilou-se.}
+
+A='Glosa1158'
+{desaprumar-se}
+Chave: ENDIREITAR <verb.motion>
+ILI: 01977616
+
+Sense 1 
+{01977616} <verb.motion> straighten, unbend -- (straighten up or out; make straight)
+       => {01925836} <verb.motion> change posture -- (undergo a change in bodily posture)
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

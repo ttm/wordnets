@@ -1,0 +1,46 @@
+ANÁLISE DA GLOSA3168
+
+DADO O SYNSET:
+
+S='Glosa3168'
+	    {
+	      aborcar: x,
+	      derramar1: Saiu, pois, o primeiro anjo e I]derramou sua taça pela Terra, e, aos homens portadores da marca da besta e adoradores da sua imagem sobrevieram úlceras malignas e perniciosas.,
+	      derribar: DEVIANT,
+	      derrubar: Sentado à mesa de reuniões, Patrício, por duas vezes, [derrubou copos de água sobre documentos da medida provisória. ,
+	      desalforjar: x,
+	      desbocar: A]Desbocar um balde de água.,
+	      desencher: x,
+	      despejar: Apanhou o barril, I]despejou nêle o conteúdo de algumas latas de ‘Radiotox’, mais alguns quilos de cal virgem e sulfato de cobre e começou a mexer tudo. ,
+	      efundir: x,
+	      emborcar: Madalena, quem mandou I]emborcar esses copos?,
+	      emborquilhar: x,
+	      empinar: DEVIANT,
+	      entornar: I]Entornou sobre a cabeça quase todo o líquido da garrafa.,
+	      esvazar: x,
+	      esvaziar: Gritando, Santos [esvaziou dois galões de gasolina no altar e atirou um fósforo aceso.,
+	      infundir: DEVIANT,
+	      transudar: DEVIANT,
+	      transvazar: A] Transvazar a lata de água.,
+	      vazar: Determinou ontem que a seguradora britânica P&I UK Club deposite em juízo, no prazo de 24 horas, US$ 10 milhões para assegurar a realização de obras no navio Protoklitos 4º, que ameaça [vazar, na baía de Angra dos Reis, 120 mil toneladas de minério de ferro. ,
+	      vaziar: x,
+	      verter: DEVIANT,
+	      virar: É que eu estava ordenhando minha cabra de estimação, e quando o balde estava praticamente cheio, ela I]virou o balde com a perna esquerda.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3168' = “causar ou permitir que um líquido flua de um recipiente”
+	     {derramar1: Com a ajuda do motorista, e do guincho munk do caminhão, o funcionário [derramou o conteúdo do saco de vidro, depois do de plástico, de papel e finalmente o de metais na caçamba do caminhão.,
+	      derrubar: Sentado à mesa de reuniões, Patrício, por duas vezes, [derrubou copos de água sobre documentos da medida provisória. ,
+	      despejar: Um homem [despejou álcool no motor e ateou fogo.,
+	      entornar: I]Entornou sobre a cabeça quase todo o líquido da garrafa.,
+	      esvaziar: Gritando, Santos [esvaziou dois galões de gasolina no altar e atirou um fósforo aceso.,
+	      vazar: A gasolina do caminhão [vazou e o Corpo de Bombeiros teve que jogar água no local para evitar um incêndio. ,
+	      virar: É que eu estava ordenhando minha cabra de estimação, e quando o balde estava praticamente cheio, ela I]virou o balde com a perna esquerda.,}
+Chave: DERRAMAR <verb.contact>
+ILI: 01499594
+
+Sense 1
+{01499594} <verb.contact> spill4, slop, splatter -- (cause or allow (a liquid substance) to run or flow from a container; "spill the milk"; "splatter water")
+       => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

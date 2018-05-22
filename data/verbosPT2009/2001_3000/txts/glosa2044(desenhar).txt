@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA2044
+
+DADO O SYNSET:
+	
+S='Glosa2044'
+    	{desenhar: Para honrar a persistência do objetivo da Gemini V, Cooper [desenhou o primeiro emblema da missão, o que se tornou uma tradição da NASA .,
+      	 estampar: x,
+      	 pintar: Se fosse vivo, Portinari estaria comendo os brincos de felicidade; de sua primeira neta, Denise, [pintou mais de 30 retratos.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2044' = “representar, numa superfície, fazendo um desenho [de], como com lápis, giz, etc.”
+    	{desenhar: Chuang-Tsé pegou o pincel e num instante, com um único gesto, [desenhou um caranguejo.,
+      	 pintar: Iracema tomou a rama da pena e [pintou uma abelha sobre folha de árvore.}
+Chave: DESENHAR <verb.creation>
+ILI: 01642108
+
+Sense 6
+{01642108} <verb.creation> draw -- (represent by making a drawing of, as with a pencil, chalk, etc. on a surface; "She drew an elephant"; "Draw me a horse")
+       => {01637996} <verb.creation> represent1, interpret1 -- (create an image or likeness of; "The painter represented his wife as a young girl")
+           => {01573613} <verb.creation> re-create -- (create anew; "Re-create the boom of the West on a small scale")
+               => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

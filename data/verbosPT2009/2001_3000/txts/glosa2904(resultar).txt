@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2904
+
+DADO O SYNSET:
+
+S='Glosa2904'
+	    {dar: As províncias costeiras recebem 90% dos investimentos, isto I]deu origem a uma classe média poderosa.,
+	      findar: A ex-esposa formalizou registro de agressão na 6a. Delegacia da Capital: submeteu-se a exame de lesões corporais, que I]findou em ação de crime contra a pessoa na 3a. Vara Criminal (comprovação em anexo).,
+	      resultar: A soma das infrações, levando em consideração o número total de pacientes (329), pode [resultar em penas que variam entre 150 a mais de 500 anos de prisão para cada um.,
+	      tornar-se: Isto obriga-nos a pensar o problema da condição humana na perspectiva de que uma mandioca boa, nutritiva e saudável pode de repente [tornar-se um alimento mortífero: mandioca brava.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2904' = “Terminar (de uma maneira, estado, específicos), acabar em”
+	    {dar: Tantas cores e modelos, I]deu em tragédia. Pareciam dois espantalhos supercoloridos.,
+	      findar: A ex-esposa formalizou registro de agressão na 6a. Delegacia da Capital: submeteu-se a exame de lesões corporais, que I]findou em ação de crime contra a pessoa na 3a. Vara Criminal.,
+	      resultar: Nesta vila têm ocorrido algumas situações de confronto entre estudantes e grupos de jovens locais, a última das quais teve lugar na madrugada de sábado passado e [resultou em ferimentos com alguma gravidade num aluno.,}
+
+Chave: RESULTAR <verb.stative>
+ILI: 02555744
+
+Sense 1
+{02555744} <verb.stative> result, ensue -- (issue or terminate (in a specified way, state, etc.); end; "result in tragedy")
+       => {02555360} <verb.stative> prove, turn out, turn up3 -- (be shown or be found to be; "She proved to be right"; "The medicine turned out to save her life"; "She turned up HIV positive")
+           => {02526983} <verb.stative> be3 -- (have the quality of being; (copula, used with an adjective or a predicate noun); "John is rich"; "This is not a good answer") 

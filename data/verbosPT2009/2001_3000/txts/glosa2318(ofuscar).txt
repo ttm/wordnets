@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2318
+
+DADO O SYNSET:
+
+S='Glosa2318'
+	    {deslumbrar: Ergue a virgem os olhos, que o sol não [deslumbra sua vista.,
+	      encandear: Montanhas de sal com 50 metros de altura chegam a [encandear de tão brancas.,
+	      ofuscar: A lei tem que ser uniforme no país todo, senão o prefeito de uma cidadezinha do interior vai querer que não se use farol alto à noite porque [ofusca a visão do pedestre, ironiza Vidal.,
+	      translumbrar: Os holofotes H]translumbraram-na.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2318' = “Fazer alguém perder a visão nítida, especialmente por luz intensa.”
+	    {deslumbrar: A terra incendiou-se com a luz de um relâmpago tão forte que o [deslumbrou.,
+	      encandear: A luz muito forte I]encandeou completamente a vista de Alex e o carro bateu em um poste.,
+	      ofuscar: A lei tem que ser uniforme no país todo, senão o prefeito de uma cidadezinha do interior vai querer que não se use farol alto à noite porque [ofusca a visão do pedestre.,
+	      translumbrar: Os holofotes H]translumbraram-na.,}
+
+Chave: OFUSCAR <verb.perception>
+ILI: 02100779
+
+Sense 1
+{02100779} <verb.perception> dazzle, bedazzle, daze1 -- (to cause someone to lose clear vision, especially from intense light; "She was dazzled by the bright headlights")
+       => {02106353} <verb.perception> blind1 -- (render unable to see) 

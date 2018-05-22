@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA3353
+
+DADO O SYNSET:
+
+S='Glosa3353'
+	    {
+	      acertar: O traficante contou que os seqüestradores se reuniam no Buraco Quente, na Mangueira, para [acertar os detalhes dos crimes. ,
+	      aconchavar: x,
+	      ajustar: Há a disponibilidade de experimentar inovações e acompanhar a reação do mercado escolhidoara consumi-los, I]ajustar estratégias, propor mudanças que os posicionem cada vez melhor no mercado.,
+	      arranjar: Turíbio diz a Ana e Pablo que Rogério I]arranjou tudo para que Maria Belém fosse dada como morta.,
+	      combinar: Se for verdade, faltou [combinar com Serra quem afinal terá o apoio de quem para a disputa pelo governo de São Paulo, em 1998. ,
+	      conchavar: Interesseira com classe, Nathália Timberg, a Yolanda de Celebridade, vai I]conchavar com Darlene e dar novos golpes.,
+	      conluiar: Nunca deixaram de H]conluiar contra o regime.,
+	      justar2: x,
+	      mancomunar: O crente músico não poderia fazer qualquer associação má com o mundo, nem tampouco participar do pecado alheio, nem ainda I]mancomunar com os pecadores.  ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3353' = “unir-se por um propósito comum ou em ação comum”
+	     {acertar: O presidente da Comissão de Relações Exteriores da Câmara, deputado Átila Lins, [acertou ontem com o embaixador do Irã, Bahman Taherian Mobarakeh, a realização de um seminário em agosto sobre as relações comerciais entre os dois países. ,
+	      ajustar: A magistrada I]ajustou a data para cumprimento da medida após reunir-se, na tarde de hoje, com Oficial PM responsável pelo apoio à realização da ordem.,
+	      arranjar: Seu baterista Bobby Columby, impressionado com o talento de Jaco, I]arranjou com sua gravadora uma sessão em Nova Iorque, da qual resultou seu primeiro disco.,
+	      combinar: Prefeito I]combinou com empresário a lei municipal que isentou o ITBI. ,
+	      conchavar: O PT I]conchavou com o PFL para colocar Rodrigo Garcia à frente da Assembléia Legislativa do Estado de São Paulo.,
+	      conluiar: Nunca deixaram de H]conluiar contra o regime.,
+	      mancomunar: I]Mancomunou-se com americanos, escanteando parceiros latinos à condição de alianças menores.  ,}
+Chave: COMBINAR <verb.social>
+ILI: 02306866
+
+Sense 5
+{02306866} <verb.social> combine -- (join for a common purpose or in a common action; "These forces combined with others")
+       => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+           => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

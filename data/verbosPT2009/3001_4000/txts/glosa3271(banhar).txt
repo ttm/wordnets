@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA3271
+
+DADO O SYNSET:
+
+S='Glosa3271'
+{banhar: O rio Negro, por exemplo, que [banha a cidade de Manaus, encaixa-se muito bem nessas condições.,
+	 lavar: Os rios que H]lavam a península são bravios.,
+	 regar: O Tejo H]rega Lisboa. }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3271' = “prover com água”
+{banhar: O rio Negro, por exemplo, que [banha a cidade de Manaus, encaixa-se muito bem nessas condições.,
+	 lavar: Os rios que H]lavam a península são bravios.,
+	 regar: O Tejo H]rega Lisboa. }
+Chave: BANHAR <verb.change>
+ILI: 00220663
+
+Sense 1
+{00220663} <verb.change> water, irrigate -- (supply with water, as with channels or ditches or streams; "Water the fields")
+       => {00207542} <verb.change> wet -- (cause to become wet; "Wet your face")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

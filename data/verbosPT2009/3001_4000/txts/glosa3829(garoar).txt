@@ -1,0 +1,39 @@
+ANÁLISE DA GLOSA3829
+
+DADO O SYNSET:
+	
+S='Glosa3829'
+{babujar: Aqui, no inverno, H]babuja todos os dias.,
+	 barrufar: x,
+	 borriçar: x,
+	 borrifar: x,
+	 chuviscar: Começou a [chuviscar grosso.,
+	 esborrifar: x,
+	 garoar: Logo após a cerimônia, começou a [garoar.,
+	 garuar: Então resolvemos rodar até lá mesmo a noite, por azar começou novamente a I]garuar forte o que nos obrigou a parar e colocar a roupa de chuva.,
+	 molinhar: x,
+	 neblinar: Para não dizer que sequer I]neblinou essa semana no Estado, caiu uma chuvinha de 2,2 mm em Arês e passou uma nuvem por Natal.,
+	 peneirar: Iracema dobrou a cabeça sobre a espádua, como a tenra palma da carnaúba, quando a chuva [peneira na várzea.,
+	 pingar: Acrescento que começou a [pingar fino e a ventar fresco.,
+	 pingotear: x,
+	 serenar: Começa a I]serenar e voltamos para casa.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3829' = “chover ligeiramente”
+{babujar: Aqui, no inverno, H]babuja todos os dias.,
+	 chuviscar: Começou a [chuviscar grosso.,
+	 garoar: Logo após a cerimônia, começou a [garoar.,
+	 garuar: Então resolvemos rodar até lá mesmo a noite, por azar começou novamente a I]garuar forte o que nos obrigou a parar e colocar a roupa de chuva.,
+	 neblinar: Para não dizer que sequer I]neblinou essa semana no Estado, caiu uma chuvinha de 2,2 mm em Arês e passou uma nuvem por Natal.,
+	 peneirar: Iracema dobrou a cabeça sobre a espádua, como a tenra palma da carnaúba, quando a chuva [peneira na várzea.,
+	 pingar: Acrescento que começou a [pingar fino e a ventar fresco.,
+	 serenar: Começa a I]serenar e voltamos para casa.}
+Chave: GAROAR <verb.weather>
+ILI: 02675574
+
+Sense 1 
+{02675574} <verb.weather> drizzle, mizzle -- (rain lightly; "When it drizzles in summer, hiking can be pleasant")
+       => {02674675} <verb.weather> rain, rain down -- (precipitate as rain; "If it rains much more, we can expect some flooding")
+           => {02674938} <verb.weather> precipitate, come down, fall -- (fall from clouds; "rain, snow and sleet were falling"; "Vesuvius precipitated its fiery, destructive rage on Herculaneum")
+

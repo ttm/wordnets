@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0798
+
+DADO O SYNSET:
+
+S='Glosa798'
+{botar1: É uma maldade a Liesa [botar uma cabine de jurado para avaliar evolução logo no início da pista.,
+colocar: Qual dos dois homens está fazendo menor esforço para [colocar os barris na plataforma? # Na fórmula devemos [colocar inicialmente o cátion, seguido do ânion.,
+pôr: Sempre que pode, aproveita para [pôr no colo a filha caçula, Maria Luísa, 7.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa798' = “pore m um certo lugar; fazer ficar em um certo lugar”
+{botar1: É uma maldade a Liesa [botar uma cabine de jurado para avaliar evolução logo no início da pista.,
+colocar: Qual dos dois homens está fazendo menor esforço para [colocar os barris na plataforma? # Na fórmula devemos [colocar inicialmente o cátion, seguido do ânion.,
+pôr: Sempre que pode, aproveita para [pôr no colo a filha caçula, Maria Luísa, 7.,}
+Chave: COLOCAR <verb.change>
+ILI: 00289731
+
+Sense 5
+{00289731} <verb.change> set1 -- (put into a certain state; cause to be in a certain state; "set the house afire")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")
+          Also See-> {02637901} <verb.stative> set off#5; {00395680} <verb.change> set up#4; {01596973} <verb.creation> set off#1; {00654906} <verb.cognition> set apart#1; {00700205} <verb.cognition> set aside#1; {00823635} <verb.communication> set off#7

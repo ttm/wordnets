@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA1880
+
+DADO O SYNSET:
+
+S='Glosa1880'
+{entronar: Foi a reunião de sete príncipes chefiados por Adrasto que marcharam em direção a Tebas a fim de derrubar Etéocles e I]entronar seu irmão. ,
+ entronizar: Apenas um rei possui o poder necessário para I]entronizar um sucessor.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1880' = “colocar um monarca no trono”
+{entronar: Foi a reunião de sete príncipes chefiados por Adrasto que marcharam em direção a Tebas a fim de derrubar Etéocles e I]entronar seu irmão.,
+ entronizar: Apenas um rei possui o poder necessário para I]entronizar um sucessor.,}
+Chave: ENTRONIZAR <verb.social>
+ILI: 02319598
+
+Sense 2
+{02319598} <verb.social> enthrone, throne -- (put a monarch on the throne; "The Queen was enthroned more than 50 years ago")
+       => {02314917} <verb.social> invest, vest, enthrone1 -- (provide with power and authority; "They vested the council with special rights")
+           => {02312615} <verb.social> install -- (put into an office or a position; "the new president was installed immediately after the election")

@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA0850
+
+DADO O SYNSET:
+
+S='Glosa850'
+{acariciar: Nestes instantes me invade uma fúria de aniquilação, me deixo [acariciar pela tentação do suicídio, me emborracho, pego prostitutas.,
+acenar: Sua desesperança tal é, foi-lhe tão cruel a desenganadora estrela-rio, que poderia parecer uma falácia, ou cômoda solução [acenar-lhe a esta altura com um júbilo, que já não parece lhe dizer respeito.,
+aliciar: Depois da frustrada tentativa de [aliciar jovens europeus para atuarem no tráfico de cocaína, os chefões da Conexão Nigeriana voltaram a utilizar homens e mulheres nigerianos transportarem a droga.,
+cariciar: x,
+seduzir: A primeira foi a experiência pessoal de um adolescente que usou poemas de Neruda para [seduzir garotas.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa850' = “instigar ou atrair contra o dever, princípios, ou conduta apropriada”
+{acariciar: Nestes instantes me invade uma fúria de aniquilação, me deixo [acariciar pela tentação do suicídio, me emborracho, pego prostitutas.,
+acenar: Sua desesperança tal é, foi-lhe tão cruel a desenganadora estrela-rio, que poderia parecer uma falácia, ou cômoda solução [acenar-lhe a esta altura com um júbilo, que já não parece lhe dizer respeito.,
+aliciar: Depois da frustrada tentativa de [aliciar jovens europeus para atuarem no tráfico de cocaína, os chefões da Conexão Nigeriana voltaram a utilizar homens e mulheres nigerianos transportarem a droga.,
+seduzir: A primeira foi a experiência pessoal de um adolescente que usou poemas de Neruda para [seduzir garotas.,}
+Chave: SEDUZIR <verb.communication>
+ILI: 00757527
+
+Sense 2
+{00757527} <verb.communication> seduce -- (lure or entice away from duty, principles, or proper conduct; "She was seduced by the temptation of easy money and started to work in a massage parlor")
+       => {00756826} <verb.communication> entice, lure, tempt4 -- (provoke someone to do something through (often false or exaggerated) promises or persuasion; "He lured me into temptation")
+           => {00768370} <verb.communication> provoke, stimulate -- (provide the needed stimulus for)
+               => {00839696} <verb.communication> challenge -- (issue a challenge to; "Fischer challenged Spassky to a match")
+                   => {00767907} <verb.communication> invite, bid -- (ask someone in a friendly way to do something)
+                       => {00728656} <verb.communication> request2 -- (ask (a person) to do something; "She asked him to be here at noon"; "I requested that she type the entire manuscript")
+                           => {00727721} <verb.communication> ask1 -- (make a request or demand for something to somebody; "She asked him for a loan")
+                               => {00727992} <verb.communication> request1, bespeak, call for4, quest1 -- (express the need or desire for; ask for; "She requested an extra bed in her room"; "She called for room service")
+                                   => {00717906} <verb.communication> communicate1, pass on, pass1, put across -- (transmit information ; "Please communicate this message to all employees")
+                                       => {02167243} <verb.possession> convey10, transmit10, communicate10 -- (transfer to another; "communicate a disease")
+                                           => {02167764} <verb.possession> transfer1 -- (move from one place to another; "transfer the data"; "transmit the news"; "transfer the patient to another hospital")
+                                               => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

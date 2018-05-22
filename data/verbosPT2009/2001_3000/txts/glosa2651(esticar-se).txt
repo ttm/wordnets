@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA2651
+
+DADO O SYNSET:
+
+S='Glosa2651'
+	    {distender-se: Entre as tênias, a parede do colo é deveras fina, o que explica sua extrema capacidade em I]distender-se em casos de obstrução.,
+	      esticar-se: Duas horas de viagem, logo mais, uma parada para I]esticar-se as pernas, tirando o pó da estrada, passando água pelo rosto, comer o que for de gosto, tomando uma laranjada.,
+	      estiraçar-se: x,
+	      estirar-se: Se houver erro de cálculo e a folga for menor que o necessário, o material repuxado tende a I]estirar-se, podendo até romper-se, como mostra a figura.,
+	      puxar-se: Tânato consegue I]puxar-se para cima.,
+	      repuxar-se: Bochechas e lábios I]repuxam-se como cortinas abrindo espaço para dentes, assinalando o sorriso mais bonito do ano.,
+	      retesar-se: Uma onda de calor se formou naquele toque tão simples e bobo, fazendo seu corpo I]retesar-se inteiro e seu coração parecer que saltaria do peito.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2651' = “Tornar-se maior por ser esticado ou puxado.”
+	    {distender-se: Entre as tênias, a parede do colo é deveras fina, o que explica sua extrema capacidade em I]distender-se em casos de obstrução.,
+	      esticar-se: Foi só quando a corrente I]esticou-se no máximo que o boi parou de correr.,
+	      puxar-se: A pele não consegue I]puxar-se de novo para a frente.,
+	      repuxar-se: Avistando o poeta, I]repuxou-se a barbelha de D. Lourença.,
+	      retesar-se: Pode ser apenas a corrente que I]se retesou.,}
+
+Chave: ESTICAR-SE <verb.change>
+ILI: 00232930
+
+Sense 4
+{00232930} <verb.change> stretch -- (become longer by being stretched and pulled; "The fabric stretches")
+       => {00223119} <verb.change> grow -- (become larger, greater, or bigger; expand or gain; "The problem grew too large for me"; "Her business grew fast")
+           => {00150804} <verb.change> increase -- (become bigger or greater in amount; "The amount of work increased")
+               => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night") 

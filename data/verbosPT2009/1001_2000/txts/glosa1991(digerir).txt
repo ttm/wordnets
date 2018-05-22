@@ -1,0 +1,18 @@
+ANÁLISE DA GLOSA1991
+
+DADO O SYNSET:
+
+S='Glosa1991'
+{digerir: Depois da missa passou na casa do mestre.Foi encontrá-lo a A]esmoer uma bacalhoada, à sombra das macieiras.,
+ esmoer: Os dois porcos continuavam a trincar, a I]esmoer o milho, sem suspeitar da vizinhança de gente.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1991' = “tornar-se assimilado pelo organismo”
+{digerir: Pizza é boa e I]digere bem.,}
+Chave: DIGERIR <verb.change>
+ILI: 00468195
+
+Sense 4
+{00468195} <verb.change> digest2 -- (become assimilated into the body; "Protein digests in a few hours")
+       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

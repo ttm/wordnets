@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA2092
+
+DADO O SYNSET:
+	
+S='Glosa2092'
+    	{etiquetar: Comerciante de embalagens e películas «hot stamp», usadas para [etiquetar roupas e mercadorias, Cavalcante foi baleado com dois tiros, no rosto e no peito.,
+      	 rotular: I]Rotular as embalagens.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2092' = “fixar um rótulo ou etiqueta [em]”
+    	{etiquetar: A empresa proprietária do avião, a Varig, não [etiquetou as bagagens.,
+      	 rotular: Uma das mais conceituadas casas vinícolas da Itália, a Fantinel, [rotulará um grande número de garrafas de vinho branco, tinto e rosé, com a face em grande relevo do ex-camisa 10 da seleção brasileira.}
+Chave: ETIQUETAR <verb.contact>
+ILI: 01545118
+
+Sense 2
+{01545118} <verb.contact> tag, label, mark9 -- (attach a tag or label to; "label these bottles")
+       => {01257892} <verb.contact> attach1 -- (cause to be attached)
+           => {01314764} <verb.contact> connect, link, tie1, link up -- (connect, fasten, or put together two or more pieces; "Can you connect the two loudspeakers?"; "Tie the ropes together"; "Link arms")

@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA1186
+
+DADO O SYNSET:
+
+S='Glosa1186'
+{desaverbar: Necessidade de I]desaverbar referido tempo de serviço e de tornar sem efeito ato de transferência para a reserva remunerada.,}
+	  
+A='Glosa162'
+{anotar, averbar, registar, registrar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1186' = “declarar nulo ou ilegal”
+{desaverbar: O DIRETOR DE RECURSOS HUMANOS, por delegação de competência que lhe foi outorgada R E S O L V E anular o ato que I]Desaverbou a Licença Especial convertida em Tempo de Serviço.,}
+Chave: DESAVERBAR <verb.social>
+ILI: 02403187
+
+Sense 3
+{02403187} <verb.social> cancel, strike down -- (declare null and void; make ineffective; "Cancel the election results"; "strike down a law")
+       => {00795481} <verb.communication> declare4, adjudge, hold11 -- (declare to be; "She was declared incompetent"; "judge held that the defendant was innocent")
+           => {00647983} <verb.cognition> judge -- (form an opinion of or pass judgment on; "I cannot judge some works of modern art")
+               => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA2708
+
+DADO O SYNSET:
+
+S='Glosa2708'
+	    {afrouxar-se: No 6 o e 7 o mês de gestação I]afrouxam-se tecidos devido aos hormônios principalmente a parede abdominal.,
+	      desapertar-se: Os olhos I]desapertaram-se, depois da tentativa com sucesso de reter o choro, e deram com algo que paralisou as pernas de Ilda.,
+	      descomprimir-se: Foi realizado o teste de Allen em cada mão comprimindo-se digitalmente ambas as artérias, com o oxímetro no 2º dedo e observando-se o desaparecimento da onda de pulso. Após isso, I]descomprimiu-se a artéria ulnar retornando a onda de pulso e medindo-se a saturação final.,
+	      distender-se: A musculatura lisa é encontrada em órgãos que se contraem e [se distendem independentemente da nossa vontade, como, por exemplo, esôfago, estômago, intestinos e artérias. # Esta parede celular é delgada nas células jovens que ainda devem [se distender para crescer.,
+	      estiar-se: x,
+	      relaxar-se: A primeira fase do peristaltismo é a contração da camada muscular longitudinal e o relaxamento do músculo circular. Na segunda fase, a camada muscular contrai-se e a camada longitudinal I]relaxa-se.,
+	      releixar-se: x,}
+
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2708' = “Tornar (-se) frouxo ou mais frouxo ou menos firme.”
+	    {afrouxar-se: No 6º e 7º mês de gestação I]afrouxam-se tecidos devido aos hormônios.,
+	      desapertar-se: Os olhos I]desapertaram-se, depois da tentativa com sucesso de reter o choro.,
+	      descomprimir-se: Após isso, I]descomprimiu-se a artéria ulnar retornando a onda de pulso e medindo-se a saturação final.,
+	      distender-se: A musculatura lisa é encontrada em órgãos que se contraem e [se distendem independentemente da nossa vontade., 
+	      relaxar-se: Na segunda fase, a camada muscular contrai-se e a camada longitudinal I]relaxa-se.,}
+
+
+Chave: DISTENDER-SE <verb.change>
+ILI: 00407022
+
+Sense 3
+{00407022} <verb.change> loosen, relax2, loose1 -- (become loose or looser or less tight; "The noose loosened"; "the rope relaxed")
+       => {00216002} <verb.change> weaken -- (become weaker; "The prisoner's resistance weakened after seven days")
+           => {00146081} <verb.change> decrease, diminish, lessen, fall6 -- (decrease in size, extent, or range; "The amount of homework decreased towards the end of the semester"; "The cabin pressure fell dramatically"; "her weight fall to under a hundred pounds"; "his voice fell to a whisper")
+               => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night") 

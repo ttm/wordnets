@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA2156
+
+DADO O SYNSET:
+
+S='Glosa2156'
+	    {grinfar: x,
+	      trinfar: Andorinhão a I]trinfar/ Caboré triste silvou /Cavalo anda a bufar/ O gatinho ronronou...,
+	      trissar: Não A]trissara uma andorinha que fosse.,
+	      zinzilular: x, }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2156' = “produzir sons melodiosos”
+	    {trinfar: Andorinhão a I]trinfar/ Caboré triste silvou /Cavalo anda a bufar/ O gatinho ronronou...,
+	      trissar: Não A]trissara uma andorinha que fosse.,}
+
+Chave: TRINFAR <verb.communication>
+ILI: EQ_HYPERONYM_HAS - 01033947 - “to make melodious sounds”
+
+Sense 3
+{01033947} <verb.communication> sing8 -- (to make melodious sounds; "The nightingale was singing")
+       => {00951670} <verb.communication> utter2, emit, let out2, let loose -- (express audibly; utter sounds (not necessarily words); "She let out a big heavy sigh"; "He uttered strange sounds that nobody could understand")

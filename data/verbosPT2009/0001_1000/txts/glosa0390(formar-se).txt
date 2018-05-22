@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0390
+
+DADO O SYNSET:
+
+S='Glosa390'
+{diplomar-se: Está em condição de I]diplomar-se o aluno que obtiver os créditos em todas as disciplinas do currículo pleno de seu curso de graduação.,
+formar-se: Ao [formar-se, exerceu a magistratura nos Estados de Minas Gerais e do Rio de Janeiro.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa390' = “receber um grau acadêmico após completar os estudos”
+{diplomar-se: Está em condição de I]diplomar-se o aluno que obtiver os créditos em todas as disciplinas do currículo pleno de seu curso de graduação.,
+formar-se: Pediatra e neonatologista, Delcides Ducon I]formou-se em 1984 pela Faculdade de Medicina da Universidade Sul Fluminense, no Rio de Janeiro.,}
+Chave: FORMAR-SE <verb.possession>
+ILI: 02198994
+
+Sense 1
+{02198994} <verb.possession> graduate -- (receive an academic degree upon completion of one's studies; "She graduated in 1990")
+       => {02146575} <verb.possession> receive, have3 -- (get something; come into possession of; "receive payment"; "receive a gift"; "receive letters from the front")
+           => {02147191} <verb.possession> get, acquire -- (come into the possession of something concrete or abstract; "She got a lot of paintings from her uncle"; "They acquired a new pet"; "Get your results the next day"; "Get permission to take a few days off from work")

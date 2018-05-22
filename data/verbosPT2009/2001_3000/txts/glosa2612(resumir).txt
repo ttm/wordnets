@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA2612
+
+DADO O SYNSET:
+
+S='Glosa2612'
+	    {concentrar: Na resposta a ele, Virgílio foi mais loquaz, enquanto Aníbal preferiu [concentrar sua resposta num comentário: «Razão tem o governador Mário Covas quando diz que as questões internas do partido devem ser discutidas internamente no partido.,
+	      resumir: Sem esta, não será possível acabar com as "barganhas políticas em bases patrimoniais e fisiológicas", diz Kandir, que [resumiu seu texto assim: "Acho que consegui interpretar o sentimento de várias pessoas do partido".,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2612' = “Tornar mais conciso.”
+	    {concentrar: Ele I]concentrou sua plataforma em torno de dois itens: o problema de transporte coletivo para os bairros mais distantes e o problema de calçamento.,
+	      resumir: "Não é o jogo que é natural na criança, mas o trabalho", diz Freinet numa das Invariantes, nome que ele deu aos trinta pontos em que I]resumiu sua pedagogia".,}
+
+Chave: RESUMIR <verb.change>
+ILI: 00236525
+
+Sense 2
+{00236525} <verb.change> digest, condense, concentrate7 -- (make more concise; "condense the contents of a book into a summary")
+       => {00235800} <verb.change> abridge, foreshorten, abbreviate1, shorten2, cut8, contract5, reduce8 -- (reduce in scope while retaining essential elements; "The manuscript must be shortened")
+           => {00428838} <verb.change> decrease1, lessen2, minify -- (make smaller; "He decreased his staff")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

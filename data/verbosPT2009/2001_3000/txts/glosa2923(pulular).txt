@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA2923
+
+DADO O SYNSET:
+
+S='Glosa2923'
+	    {fervilhar: Hoje a mesma praia [fervilha de pinguins.,
+	      formigar: A vila em peso, pode-se dizer, participava do folguedo: os senhores de engenho abalavam-se de léguas e o povaréu I]formigava nas estradas.,
+	      formiguejar: x,
+	      pulular: As organizações de luta armada começaram a I]pulular nas grandes cidades: eram organizações de siglas curiosas – Molipo, VPR, Var-Palmares, Colina, PCBR.,
+	      referver: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2923' = “Mover em grandes números”
+	    {fervilhar: Hoje a mesma praia [fervilha de pinguins.,
+	      formigar: A vila em peso, pode-se dizer, participava do folguedo: os senhores de engenho abalavam-se de léguas e o povaréu I]formigava nas estradas.,
+	      pulular: Os bandeirantes I]pululavam por toda a região aurífera.,}
+Chave: PULULAR <verb.motion>
+ILI: 01970410
+
+Sense 2
+{01970410} <verb.motion> pour, swarm, stream3, teem, pullulate -- (move in large numbers; "people were pouring out of the theater"; "beggars pullulated in the plaza")
+       => {01969656} <verb.motion> crowd, crowd together -- (to gather together in large numbers; "men in straw boaters and waxed mustaches crowded the verandah")
+           => {02355773} <verb.social> meet, gather, assemble, forgather, foregather -- (collect in one place; "We assembled in the church basement"; "Let's gather in the dining room")
+               => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel") 

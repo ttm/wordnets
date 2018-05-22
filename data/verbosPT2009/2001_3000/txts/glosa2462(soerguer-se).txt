@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA2462
+
+DADO O SYNSET:
+
+S='Glosa2462'
+	    {soerguer-se: A senhora apoiou as mãos no banco e quis também I]soerguer-se para se sentar mais alto, mas faltaram-lhe forças.,
+	      solevantar-se: O doente H]solevantou-se por um instante na cama.,
+	      solevar-se: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2462' = “Mover para cima.”
+	    {soerguer-se: José Dias I]soergueu-se e olhou para fora.,
+	      solevantar-se: O doente H]solevantou-se por um instante na cama.,}
+
+Chave: SOERGUER-SE <verb.motion>
+ILI: 01915884
+
+Sense 8
+{01915884} <verb.motion> lift1, raise2 -- (move upwards; "lift one's eyes")
+       => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant") 

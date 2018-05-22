@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA3071
+
+DADO O SYNSET:
+
+S='Glosa3071'
+	    {
+	      harpar: O homem não respondeu, apenas disse a ela que se juntasse aos que I]harpam.,
+	      harpear: M]Harpear uma canção.,
+	      harpejar: O poeta descansa na cama das emoções contando estrelas enquanto chove e relampeja o poeta canta e I]harpeja.,
+	    }
+
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3071' = “tocar harpa”
+	     {harpar: O homem não respondeu, apenas disse a ela que se juntasse aos que I]harpam.,
+	      harpear: M]Harpear uma canção.,
+	      harpejar: O poeta descansa na cama das emoções contando estrelas enquanto chove e relampeja o poeta canta e I]harpeja.,}
+Chave: HARPEAR <verb.creation>
+ILI: 01683572
+
+Sense 2
+{01683572} <verb.creation> harp -- (play the harp; "She harped the Saint-Saens beautifully")
+       => {01677078} <verb.creation> play1 -- (perform music on (a musical instrument); "He plays the flute"; "Can you play on this old recorder?")
+           => {02116920} <verb.perception> sound1 -- (cause to sound; "sound the bell"; "sound a certain note")

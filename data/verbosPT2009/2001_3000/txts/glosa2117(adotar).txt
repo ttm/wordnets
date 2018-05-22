@@ -1,0 +1,36 @@
+ANÁLISE DA GLOSA2117
+
+DADO O SYNSET:
+	
+S='Glosa2117'
+    	{abraçar: A bossa-nova, que já encontrava em si mesma duas vertentes (a romântica e a engajada, como observa-se no compositor Marcos Valle, que chegou a [abraçar ambas as tendência) , foi um ponto de partida para tendências bastante diferentes.,
+      	 aceitar: Em lugar de I]aceitar uma religião tradicional de uma igreja organizada, Blake projetou sua própria mitologia (baseada principalmente na Bíblia e na mitologia.,
+      	 adotar: Concomitantemente às modificações na divisão política do continente europeu, ocorridas após o fim da Segunda Guerra Mundial, vários países [adotaram o socialismo como forma de governo.,
+      	 confessar: M]Confessava a fé de republicano.,
+      	 esposar: Se os "progressistas" incoerentemente propõem que o governo deve parar de interferir na vida moral e deve meter a mão no bolso das pessoas, os conservadores são acusados de I]esposar uma filosofia oposta.,
+      	 exercer: x,
+      	 exercitar: M]Exercitar um dom, uma aptidão.,
+      	 perfilhar: Todo mundo sabe que a ciência não é marxista, nem tomista, nem aristotélica, embora dentro dela possam os cientistas I]perfilhar tais doutrinas e inclinações.,
+      	 professar: Em seguida porque, em um continente onde [professar uma doutrina podia significar prisão, tortura e morte, não fazia bem à saúde tomar publicamente a defesa do marxismo.,
+      	 seguir: Cada vez mais, as pessoas se preocupam com ser espiritualizadas sem que isso signifique I]seguir uma religião específica.,
+      	 ter: I]Ter uma religião, qualquer que seja, parece ser um comportamento bem aceito na sociedade de hoje.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2117' = “escolher e seguir (teorias, idéias, políticas, estratégias ou planos)”
+    	{abraçar: A bossa-nova encontrava em si mesma duas vertentes: a romântica e a engajada, como observa-se no compositor Marcos Valle, que chegou a [abraçar ambas as tendências.,
+      	 aceitar: Eu, leitor amigo, [aceito a teoria do meu velho Marcolini, não só pela verossimilhança, que é muita vez toda a verdade, mas porque a minha vida se casa bem à definição.,
+      	 adotar: Vários países [adotaram o socialismo como forma de governo.,
+      	 confessar: Era uma época de grandes lutas, onde I]confessar a fé “luterana” podia custar caro ou até a própria vida.,
+      	 esposar: Se os "progressistas" incoerentemente propõem que o governo deve parar de interferir na vida moral e deve meter a mão no bolso das pessoas, os conservadores são acusados de I]esposar uma filosofia oposta.,
+      	 perfilhar: Maradona decidiu [perfilhar uma tese que interessa a toda a comunidade do futebol.,
+      	 professar: Em um continente onde [professar uma doutrina podia significar prisão, tortura e morte, não fazia bem à saúde tomar publicamente a defesa do marxismo.,
+      	 seguir: Os concretos e neoconcretos dos anos 50 [seguiam os ensinamentos do suíço Max Bill, de Mondrian e da Bauhaus.,
+      	 ter: I]Ter uma religião, qualquer que seja, parece ser um comportamento bem aceito na sociedade de hoje.}
+Chave: ADOTAR <verb.possession>
+ILI: 02279267
+
+Sense 1
+{02279267} <verb.possession> adopt2, follow, espouse -- (choose and follow; as of theories, ideas, policies, strategies or plans; "She followed the feminist movement"; "The candidate espouses Republican ideals")
+       => {00652154} <verb.cognition> choose, take1, select, pick out -- (pick out, select, or choose from a number of alternatives; "Take any one of these cards"; "Choose a good husband for your daughter"; "She selected a pair of shoes from among the dozen the salesgirl had shown her")
+           => {00674417} <verb.cognition> decide, make up one's mind, determine -- (reach, make, or come to a decision about something; "We finally decided after lengthy deliberations")

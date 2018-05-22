@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA0141
+
+DADO O SYNSET:
+
+S='Glosa141'
+{acondimentar: x,
+adubar: H]Adubar a comida.,
+assazoar: x,
+assazonar: x,
+condimentar: Serve para I]condimentar carnes e peixes, assados ou cozidos.,
+sazonar: H]Sazonar o peixe.,
+temperar: Uma dica é [temperar a ciabatta com sal e azeite.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa141' = “dar sabor, pôr tempero”
+{adubar: Administrado com parcimônia e bom senso, ele chegaria, num bom ano, para todas as necessidades - I]adubar a comida, acender a candeia, pagar promessas e favores, alumiar os mortos, conservar os chouriços e os queijos....,
+condimentar: Serve para I]condimentar carnes e peixes, assados ou cozidos.,
+sazonar: Naquele mesmo dia tinha determinado Isac dar a bênção a Esaú, e porque esta solenidade havia de ser sobremesa, quis o bom velho, para mais I]sazonar o gôsto.,
+temperar: Uma dica é [temperar a ciabatta com sal e azeite.,}
+Chave: TEMPERAR <verb.perception>
+ILI: 02129085
+
+Sense 1
+{02129085} <verb.perception> season, flavor, flavour -- (lend flavor to; "Season the chicken breast after roasting it")

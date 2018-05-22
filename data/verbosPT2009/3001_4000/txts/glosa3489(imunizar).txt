@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA3489
+
+DADO O SYNSET:
+
+S='Glosa3489'
+	    {
+	      imunizar: Vacina com HIV vivo imuniza chimpanzés/Pesquisadores chineses e norte-americanos desenvolveram uma vacina capaz não só de imunizar ratos contra câncer mas também de erradicar o tumor,
+	      mitridatizar: ...quem se conseguiu mitridatizar contra a peçonha destes envenenadores,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3489' = “executar vacinações ou produzir imunidade por inoculação”
+	     {imunizar: Vacina com HIV vivo [imuniza chimpanzés/A vacina só [imuniza 30% das crianças menores de 4 anos,
+	      mitridatizar: ...quem se conseguiu M]mitridatizar contra a peçonha destes envenenadores,}
+Chave: IMUNIZAR <verb.body>
+ILI: 00084381
+
+Sense 2
+{00084381} <verb.body> immunize, immunise, inoculate, vaccinate -- (perform vaccinations or produce immunity in by inoculation; "We vaccinate against scarlet fever"; "The nurse vaccinated the children in the school")
+       => {00083884} <verb.body> inject, shoot -- (give an injection to; "We injected the glucose into the patient's vein")
+           => {00078744} <verb.body> administer, dispense -- (give or apply (medications))
+               => {00076458} <verb.body> treat, care for -- (provide treatment for; "The doctor treated my broken leg"; "The nurses cared for the bomb victims"; "The patient must be treated right away or she will die"; "Treat the infection with antibiotics")

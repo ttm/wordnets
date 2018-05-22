@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA2304
+
+DADO O SYNSET:
+
+S='Glosa2304'
+	    {descaminhar: Há algum tempo atrás, na segunda metade da década de 60, o empresário norte-americano Daniel Keith Ludwig I]descaminhou um estoque de madeiras, por via flúvio-marítima, avaliado em 1,2 bilhão de dólares, sem qualquer obstáculo. ,
+	      desencaminhar: H]Desencaminhar papéis, documentos.,
+	      desgarrar: x,
+	      extraviar: Constitui infração disciplinar de sindicato filiado ou de seus representantes: reter, abusivamente, ou I]extraviar documentos recebidos com vista ou em confiança.,
+	      perder-se: É como alegar que I]perdeu-se mala com US$ 10 mil no aeroporto.,
+	      sumir: A sindicância do Palácio do Planalto não apurou nada e ainda I]sumiram os documentos do Waldomiro.,
+	      transviar: Um sobrescrito lacrado que I]transviou no correio, e nos chega sujo — cheio de carimbos, lado a lado. ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2304' = “desaparecer, especialmente sem aviso ou explicação”
+	    {descaminhar: Há algum tempo atrás, o empresário Daniel Keith Ludwig I]descaminhou um estoque de madeiras, por via flúvio-marítima.,
+	      desencaminhar: H]Desencaminhar papéis, documentos.,
+	      extraviar: Constitui infração disciplinar de sindicato filiado ou de seus representantes: reter, abusivamente, ou I]extraviar documentos recebidos com vista ou em confiança.,
+	      perder-se: É como alegar que I]perdeu-se mala com US$ 10 mil no aeroporto.,
+	      sumir: A sindicância do Palácio do Planalto não apurou nada e ainda I]sumiram os documentos do Waldomiro.,
+	      transviar: Um sobrescrito lacrado que I]transviou no correio, e nos chega sujo — cheio de carimbos, lado a lado. ,}
+
+Chave: EXTRAVIAR <verb.change>
+ILI: EQ_HAS_HYPERONYM - 00414775 - “get lost, especially without warning or explanation”
+
+Sense 1
+{00414775} <verb.change> disappear, vanish, go away -- (get lost, especially without warning or explanation; "He disappeared without a trace") 

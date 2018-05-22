@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA2372
+
+DADO O SYNSET:
+
+S='Glosa2372'
+	    {atijolar: x,
+	      tijolar: O prefeito me deu esta possibilidade de ganhar uma casa praticamente pronta, terei só o trabalho de I]tijolar a casa.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2372' = “Murar com tijolos.”
+	    {tijolar: O prefeito me deu esta possibilidade de ganhar uma casa praticamente pronta, terei só o trabalho de I]tijolar a casa.,}
+
+Chave: TIJOLAR <verb.contact>
+ILI: 01349722
+
+Sense 1
+{01349722} <verb.contact> brick in, brick up, brick over -- (wall up with brick)
+       => {01349586} <verb.contact> wall in, wall up -- (enclose with a wall)
+           => {01543739} <verb.contact> enclose, inclose, shut in -- (surround completely; "Darkness enclosed him")
+               => {01425761} <verb.contact> surround, skirt, border1 -- (extend on all sides of simultaneously; encircle; "The forest surrounds my property")
+                   => {01169130} <verb.contact> touch1, adjoin3, meet, contact3 -- (be in direct physical contact with; make contact; "The two buildings touch"; "Their hands touched"; "The wire must not contact the metal cover"; "The surfaces contact at this point") 

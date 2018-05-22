@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA1536
+
+DADO O SYNSET:
+
+S='Glosa1536'
+{dessangrar: Lia tinha pensado várias vezes em suicidar-se, até, já tentou cortar-se os pulsos, mas nunca conseguiu I]dessangrar o bastante para morrer. ,
+ sangrar: Além de descobrir  que a filha morrera, ainda seriam obrigados a identificar um corpo desfigurado: não, esta era uma solução pior do que [sangrar até morrer.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1536' = “fazer [algo ou alguém] perder sangue”
+{dessangrar: Foi a retribuição do cão à gentileza dela em segurá-lo: abocanhou seu pescoço, matou-a, I]dessangrou-a.,
+ sangrar: A atriz acidentalmente I]sangrou o nariz do ator Ben Foster durante a cena.,}
+Chave: SANGRAR <verb.body>
+ILI: 00072626
+
+Sense 1
+{00072626} <verb.body> shed blood, bleed, hemorrhage -- (lose blood from one's body)
+       => {00102093} <verb.body> discharge, expel, eject, release1 -- (eliminate (substances) from the body)

@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA4113
+
+DADO O SYNSET:
+
+S='Glosa4113'
+{cauterizar: H]Cauterizou o prisioneiro a ferro em brasa.,
+queimar: O ferro em brasa I]queima e marca o animal.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4113' = “queimar, chamuscar, ou imobilizar (tecido) usando um ferro quente, corrente elétrica ou agente cáustico”
+{cauterizar: H]Cauterizou o prisioneiro a ferro em brasa.,
+queimar: O ferro em brasa I]queima e marca o animal.,}
+Chave: CAUTERIZAR <verb.change>
+ILI: 00362353
+
+Sense 11
+{00362353} <verb.change> cauterize, cauterise, burn8 -- (burn, sear, or freeze (tissue) using a hot iron or electric current or a caustic agent; "The surgeon cauterized the wart")
+       => {00076458} <verb.body> treat, care for -- (provide treatment for; "The doctor treated my broken leg"; "The nurses cared for the bomb victims"; "The patient must be treated right away or she will die"; "Treat the infection with antibiotics")

@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA1025
+
+DADO O SYNSET:
+
+S='Glosa1025'
+{cruentar: O ataque inimigo H]cruentou a infantaria.,
+ ensangüentar: Usar atos de terrorismo praticado por alguns para empobrecer e I]ensangüentar ainda mais do que já anda a face da terra não vem encontrando respaldo na sociedade.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1025' = “cobrir com sangue”
+{cruentar: Enfileiravam largas bibliotecas de ciências sociais, em louvor da dignidade humana, mas caíram como chacais sobre mulheres e crianças indefesas, I]cruentando populações inermes.,
+ ensangüentar: Só nesse ano tive um dedo torcido, inúmeros hematomas, um estiramento na virilha que me deixou alguns dias de molho, cortes na boca e um ralado no mamilo que I]ensangüentou meu kimono e o tatame.}
+Chave: ENSANGÜENTAR <verb.change>
+ILI: 00220554
+
+Sense 1
+{00220554} <verb.change> bloody -- (cover with blood; "bloody your hands")
+       => {01171349} <verb.contact> cover1, spread over -- (form a cover over; "The grass covered the grave")
+           => {01169130} <verb.contact> touch1, adjoin3, meet, contact3 -- (be in direct physical contact with; make contact; "The two buildings touch"; "Their hands touched"; "The wire must not contact the metal cover"; "The surfaces contact at this point")

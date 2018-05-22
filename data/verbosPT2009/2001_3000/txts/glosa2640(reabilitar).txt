@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA2640
+
+DADO O SYNSET:
+
+S='Glosa2640'
+	    {corrigir: Achar que instituiçoes em regime fechados, vão I]corrigir adolecentes delinquentes é um absurdo.,
+	      reabilitar: O objetivo é desenvolver e [reabilitar as crianças, diz Paula.,
+	      recuperar: A proposta apresentada pelo coordenador de Segurança do Governo estadual, Luiz Eduardo Soares, para I]recuperar criminosos arrependidos tem uma virtude que se reconhece de imediato: a generosidade.,
+	      redimir: O que o obrigará a abandonar o objetivo de dirigir a integração do país no mercado mundial e, muito provavelmente, a adiar o de [redimir as populações marginalizadas.,
+	      regenerar: A princípio contemplei satisfeito o aspecto das oficinas, a excelência das obras que se executavam e sobretudo a importância moral do trabalho, cujo hábito [regenerará os criminosos, fazendo de nocivos que eram, homens úteis à sociedade aqueles desgraçados.,
+	      remir: Adorar o Deus Menino que veio I]remir a gente.,
+	      resgatar: Deve-se promover e implantar políticas de atendimento a Criança e ao Adolescente, para I]resgatar a cidadania destes, previnindo-os das drogas e dos crimes e não julgá-los por seus atos criminosos, que refletem a falta de incentivo e investimento político e cristão nesta área.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2640' = “Levar, induzir ou forçar a abandonar o caminho da vida errado ou ruim, conduzir e adotar o certo.
+	    {corrigir: Achar que instituiçoes em regime fechados, vão I]corrigir adolecentes delinquentes é um absurdo.,
+	      reabilitar: O objetivo é desenvolver e [reabilitar as crianças, diz Paula.,
+	      recuperar: A proposta apresentada pelo coordenador de Segurança do Governo estadual para I]recuperar criminosos  tem uma virtude que se reconhece de imediato: a generosidade.,
+	      redimir: I]Redimiu a raça humana Que vive em marcha ré.,
+	      regenerar: A princípio, contemplei excelência das obras que se executavam e sobretudo a importância moral do trabalho, cujo hábito [regenerará os criminosos.,
+	      remir: Adorar o Deus Menino que veio I]remir a gente.,
+	      resgatar: Cristo nos redimiu e I]resgatou.,}
+
+Chave: REABILITAR <verb.change>
+ILI: 00373052
+
+Sense 3
+{00373052} <verb.change> reform4, reclaim8, regenerate5, rectify8 -- (bring, lead, or force to abandon a wrong or evil course of life, conduct, and adopt a right one; "The Church reformed me"; "reform your conduct")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

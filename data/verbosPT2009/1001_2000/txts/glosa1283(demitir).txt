@@ -1,0 +1,41 @@
+ANÁLISE DA GLOSA1283
+
+DADO O SYNSET:
+
+S='Glosa1283'
+{apear: H]Apearam-no da direção da empresa,
+ demitir: Os nigerianos, que se autoproclamavam a Laranja Mecânica da África, entraram em crise e [demitiram o técnico da seleção, um holandês.,
+ depor: Getúlio Vargas é empossado como chefe do governo provisório pela junta militar que I]depôs o Presidente Washington Luís.,
+ derribar: H]Derribar políticos de cargos de confiança.,
+ derrubar: Em 1961, os Estados Unidos invadiram o país e [derrubaram o presidente Juan Bosch.,
+ desapear: O governador Hugo Napoleão entronizou-se no poder, por força de decisão judicial que I]desapeou o ex, Mão Santa,
+ desempregar: Atlético-MG vence e deve I]desempregar técnico do Cruzeiro,
+ destituir: Em 1832, tentou um golpe para [destituir José Bonifácio do cargo de tutor de D.Pedro II,
+ dispensar: As empresas foram obrigadas a diminuir o rítmo de produção e a [dispensar trabalhadores,
+ exonerar: A intenção do governador era de [exonerar Hélio Luz,}
+	  
+A='Glosa2295'
+{admitir, assalariar, contratar, empregar, tratar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1283' = “terminar com o emprego/ocupação de alguém” 
+{apear: É natural, se se considera que se trata do chefe de governo de um país que passa este ano por 19 eleições, uma das quais geral e que pode [apear Kohl do poder após 12 anos.,
+ demitir: Os nigerianos, que se autoproclamavam a Laranja Mecânica da África, entraram em crise e [demitiram o técnico da seleção, um holandês.,
+ depor: Getúlio Vargas é empossado como chefe do governo provisório pela junta militar que I]depôs o Presidente Washington Luís.,
+ derribar: Quanto à guerra, é certo que continuará e o mesmo ardor com que o povo I]derribou Crispi saudará a vitória próxima.,
+ derrubar: Em 1961, os Estados Unidos invadiram o país e [derrubaram o presidente Juan Bosch.,
+ desapear: O governador Hugo Napoleão entronizou-se no poder, por força de decisão judicial que I]desapeou o ex, Mão Santa.,
+ desempregar: Atlético-MG vence e deve I]desempregar técnico do Cruzeiro.,
+ destituir: O presidente do Haiti, Jean-Bertrand Aristide, [destituiu o chefe das Forças Armadas, general Jean Claude Duperval, e nomeou em seu lugar o general Bernardin Poisson.,
+ dispensar: As empresas foram obrigadas a diminuir o ritmo de produção e a [dispensar trabalhadores.,
+ exonerar: A intenção do governador era de [exonerar Hélio Luz.,}
+
+A='Glosa2295'
+{admitir, assalariar, contratar, empregar, tratar}
+Chave: DEMITIR <verb.social>
+ILI: 02330754 
+
+Sense 4
+{02330754} <verb.social> fire, give notice, can, dismiss, give the axe, send away, sack, force out, give the sack, terminate1 -- (terminate the employment of; "The boss fired his secretary today"; "The company terminated 25% of its workers")
+       => {02331921} <verb.social> remove -- (remove from a position or an office)

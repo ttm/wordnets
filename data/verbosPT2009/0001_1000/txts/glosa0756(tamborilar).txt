@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0756
+
+DADO O SYNSET:
+
+S='Glosa756'
+{baquetar: x,
+baquetear: x,
+tamborilar: Seria interessante que você coloca-se uma fita de tambor para tocar assim que começar a dança, ou peça para alguém I]tamborilar para você.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa756' = “tocar um instrumento de percussão”
+{tamborilar: Seria interessante que você coloca-se uma fita de tambor para tocar assim que começar a dança, ou peça para alguém I]tamborilar para você.,}
+Chave: TAMBORILAR
+ILI: 01683391
+
+Sense 2
+{01683391} <verb.creation> drum -- (play a percussion instrument)
+       => {01677078} <verb.creation> play1 -- (perform music on (a musical instrument); "He plays the flute"; "Can you play on this old recorder?")
+           => {02116920} <verb.perception> sound1 -- (cause to sound; "sound the bell"; "sound a certain note")

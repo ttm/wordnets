@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA1308
+
+DADO O SYNSET:
+
+S='Glosa1308'
+{desempilhar: É como nossa pilha de livros, para retirar um livro do meio, tenho que I]desempilhar todos os que estão acima.,
+ desencastelar: x,}
+	  
+A='Glosa1884'
+{acastelar, acumular, ajuntar, amontoar, empilhar, encastelar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1308' = “desarrumar, tirar do lugar o que estava empilhado” 
+{desempilhar: É como nossa pilha de livros, para retirar um livro do meio, tenho que I]desempilhar todos os que estão acima.,}
+A='Glosa1884'
+{acastelar, acumular, ajuntar, amontoar, empilhar, encastelar}
+Chave: DESEMPILHAR <verb.contact>
+ILI: EQ_HAS_HYPERONYM – 01425124 – “destruir a disposição ou ordem [de]”  
+
+Sense 1
+{01425124} <verb.contact> disarrange -- (destroy the arrangement or order of; "My son disarranged the papers on my desk")
+       => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

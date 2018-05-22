@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA1511
+
+DADO O SYNSET:
+
+S='Glosa1511'
+{despolir: A foscagem ou despolimento é uma forma de I]despolir o vidro, retirando-lhe a transparência.,}
+	  
+A='Glosa3884'
+{brunir, lustrar, polir}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1511' = “remover o polimento ou o brilho”
+{despolir: Um dos locatários tomou o cuidado de I]despolir um vidro de sua cozinha.}
+	  
+A='Glosa3884'
+{brunir, lustrar, polir}
+Chave: DESPOLIR <verb.change>
+ILI: EQ_HAS_HYPERONYM – 00166870
+
+Sense 1
+{00166870} <verb.change> remove, take, take away1, withdraw1 -- (remove something concrete, as by lifting, pushing, taking off, etc. or remove something abstract; "remove a threat"; "remove a wrapper"; "Remove the dirty dishes from the table"; "take the gun from your pocket"; "This machine withdraws heat from the environment")

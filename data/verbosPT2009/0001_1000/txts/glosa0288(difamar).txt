@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0288
+
+DADO O SYNSET:
+
+S='Glosa288'
+{desacreditar-se: A eventual discordância quanto a procedimentos adotados por qualquer membro do Ministério Público não pode servir de pretexto para I]desacreditar-se a instituição perante a opinião pública.,
+difamar-se: Celebraram-se publicamente os assassinos e I]difamaram-se as vítimas. ,
+infamar-se: Míseras criaturas, que por tão pouco se M]infamam!,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa288' = “atacar falsamente ou com intenção maliciosa; atacar o bom nome e reputação de alguém”
+{desacreditar-se: A eventual discordância quanto a procedimentos adotados por qualquer membro do Ministério Público não pode servir de pretexto para I]desacreditar-se a instituição perante a opinião pública.,
+difamar-se: Celebraram-se publicamente os assassinos e I]difamaram-se as vítimas. ,
+infamar-se: Para tanto, condena-se o papel a despencar das mãos adultas e experientes do senhor para I]infamar-se no torvelinho feminino da criadagem,}
+Chave: DIFAMAR <verb.communication>
+ILI: 00818976
+
+Sense 1
+{00818976} <verb.communication> defame, slander, smirch, asperse, denigrate1, calumniate, smear, sully, besmirch -- (charge falsely or with malicious intent; attack the good name and reputation of someone; "The journalists have defamed me!" "The article in the paper sullied my reputation")
+       => {00815975} <verb.communication> charge2, accuse1 -- (blame for, make a claim of wrongdoing or misbehavior against; "he charged me director with indifference")

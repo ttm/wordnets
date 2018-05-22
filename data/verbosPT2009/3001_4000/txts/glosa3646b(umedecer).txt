@@ -1,0 +1,49 @@
+ANÁLISE DA GLOSA3646b
+
+DADO O SYNSET:
+
+S='Glosa3646'
+	    {
+	      aguar: Seu trabalho era exatamente I]aguar todo o jardim, grama e plantas.,
+	      lentar: x,
+	      lentejar: No fundo da caverna I]lentejava tristemente uma mina e a cada gota do estilicídio respondia um som lacrimoso.,
+	      lentescer: x,
+	      molhar: Sou capaz de verificar cada pezinho de plantação e [molhar um por um, se estiver na seca.,
+	      orvalhar: O pranto [orvalhou seu lindo semblante.,
+	      regar: Segundo Célia de Assis, se a terra estiver ressecada, é hora de [regar. ,
+	      umedecer: Adivinhava a menor neblina antes que a primeira gota [umedecesse a laje do nosso terraço.,
+	      umidificar: O meio-campista foi correndo perguntar se o colírio com que [umidifica sua lente de contato não poderia ter alguma substância proibida pela Fifa. ,
+	    }
+	  A='Glosa1569'
+	    {
+	     desumedecer: Muitos dos chamados sistemas de ar condicionado domésticos não possuem meios de umedecer e I]desumedecer o ar e assim fazem apenas um serviço parcial. ,
+	     desumidificar: O Desumidificador Secador TERMOFIX é um aparelho elétrico, desenvolvido em 1959, para I]desumidificar o ar em um recinto fechado mediante o seu aquecimento.,
+	     esgotar: A seca H]esgotou as fontes de água.,
+	     ressecar: Além disso, aponta a médica, o equipamento possui como característica a propriedade de esfriar e I]ressecar o ar, o que prejudica pessoas que sofrem de asma.,
+	     secar: O ar condicionado irá como sempre I]secar o ar do local, enquanto isto, o VentiFrio irá compensar o mesmo com umidade, resfriamento, purificação e filtragem.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3646b' = “umedecer com gotas finas”
+	      {orvalhar: O pranto [orvalhou seu lindo semblante.,
+                    umedecer: Adivinhava a menor neblina antes que a primeira gota [umedecesse a laje do nosso terraço.,
+	      umidificar: O meio-campista foi correndo perguntar se o colírio com que [umidifica sua lente de contato não poderia ter alguma substância proibida pela Fifa,}
+	  A='Glosa1569'
+	    {desumedecer: Muitos dos chamados sistemas de ar condicionado domésticos não possuem meios de umedecer e I]desumedecer o ar e assim fazem apenas um serviço parcial. ,
+	     desumidificar: O Desumidificador Secador TERMOFIX é um aparelho elétrico, desenvolvido em 1959, para I]desumidificar o ar em um recinto fechado mediante o seu aquecimento.,
+	     esgotar: A seca H]esgotou as fontes de água.,
+	     ressecar: Além disso, aponta a médica, o equipamento possui como característica a propriedade de esfriar e I]ressecar o ar, o que prejudica pessoas que sofrem de asma.,
+	     secar: O ar condicionado irá como sempre I]secar o ar do local, enquanto isto, o VentiFrio irá compensar o mesmo com umidade, resfriamento, purificação e filtragem.,}
+Chave: UMEDECER <verb.contact>
+ILI: 01336013
+
+Sense 2
+{01336013} <verb.contact> drizzle, moisten -- (moisten with fine drops; "drizzle the meat with melted butter")
+       => {01334698} <verb.contact> sprinkle, splash1, splosh1 -- (cause (a liquid) to spatter about, especially with force; "She splashed the water around her")
+           => {01336176} <verb.contact> scatter, sprinkle1, dot, dust1, disperse -- (distribute loosely; "He scattered gun powder under the wagon")
+               => {01336946} <verb.contact> discharge -- (pour forth or release; "discharge liquids")
+                   => {01338470} <verb.contact> spread, distribute1 -- (distribute or disperse widely; "The invaders spread their language all over the country")
+
+
+

@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA0321
+
+DADO O SYNSET:
+
+S='Glosa321'
+{aconfradar: x,
+aparceirar: Jorge Luis Borges, por exemplo, se comprazia em I]aparceirar as moçoilas candidatas ao estrelado literário que jamais seriam dignas sequer de beijarem suas sandálias.,
+emparceirar: Aos vinte anos, saiu a meio do curso da Faculdade de Economia do Porto para I]emparceirar com os pais no regresso da família ao negócio do avô.,
+irmanar: É o milagre da música de I]irmanar dois povos tão distantes como o norueguês e o brasileiro!,}
+A='Glosa1275'
+{desirmanar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa321' = “juntar (tornar parceiro) dois objetos, idéias ou pessoas (povos)”
+{aparceirar: Jorge Luis Borges, por exemplo, se comprazia em I]aparceirar as moçoilas candidatas ao estrelado literário que jamais seriam dignas sequer de beijarem suas sandálias.,
+emparceirar: Aos vinte anos, saiu a meio do curso da Faculdade de Economia do Porto para I]emparceirar com os pais no regresso da família ao negócio do avô.,
+irmanar: É o milagre da música de I]irmanar dois povos tão distantes como o norueguês e o brasileiro!,}
+A='Glosa1275'
+{desirmanar}
+Chave: EMPARCEIRAR <verb.contact>
+ILI: 01254405
+
+Sense 2
+{01254405} <verb.contact> match8, mate2, couple2, pair1, twin -- (bring two objects, ideas, or people together; "This fact is coupled to the other one"; "Matchmaker, can you match my daughter with a nice young man?"; "The student was paired with a partner for collaboration on the project")
+       => {01256741} <verb.contact> join1, bring together1 -- (cause to become joined or linked; "join these two parts so that they fit together")
+           => {01314764} <verb.contact> connect, link, tie1, link up -- (connect, fasten, or put together two or more pieces; "Can you connect the two loudspeakers?"; "Tie the ropes together"; "Link arms")

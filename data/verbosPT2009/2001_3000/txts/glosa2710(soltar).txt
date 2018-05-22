@@ -1,0 +1,59 @@
+ANÁLISE DA GLOSA2710
+
+DADO O SYNSET:
+
+S='Glosa2710'
+	    {afroixar: I]Afroixar a corda que estava retesada.,
+	      afrouxar: [Afrouxar a roupa do acidentado. # Depois de passados 50 minutos do início da palestra, pediu licença para tirar o paletó e [afrouxar a gravata.,
+	      alargar: As tradicionais oficinas de reformas fazem desde os mais simples consertos, como trocar um zíper, um botão, [alargar e apertar roupas, até serviços totalmente artesanais como o cerzido invisível.,
+	      bambar: x,
+	      bambear: Sempre que terminar o trabalho, I]bambear a barrigueira e a sela, deixando o animal confortável.,
+	      desapertar: Se o indivíduo está inconsciente I]desapertar as roupas e deitá-lo em posição lateral de segurança.,
+	      desarrochar: x,
+	      descerrar: x,
+	      descomprimir: Cada vez que se colocar de pé depois da cirurgia, alongue-se para I]descomprimir os músculos estomacais e reduzir as aderências.,
+	      desprender: Pelo contrário, quando se faz um esforço físico, como I]desprender um arpão, puxar um peixe grande que tivermos arpoado, etc. esgotamos em muito poucos segundos nossa capacidade de apnéia.,
+	      esbambear: x,
+	      folgar: Trazem um botão da blusa aberto para I]folgar o uniforme, que deveria ser fechado rente ao pescoço.,
+	      folgazar: x,
+	      relaxar: Ele gritou e I]relaxou os braços, eu peguei o fuzil e saí correndo.,
+	      releixar: x,
+	      soltar: Levanta o corpo, disse o perito, para eu I]soltar o laço.,
+	      suxar: A]Suxar um nó.,}
+
+	  A='Glosa3180'
+	    {acochar: Esta peça era tirânica, pois tendia a I]acochar as banhas, diminuindo a vontade dos movimentos, além de que eram feitas com talas de aço.,
+	     adstringir: Regula e I]adstringe o fluxo de Qi, reduz o acúmulo e controla a essência.,
+	     apertar: Hoje o poeta recebe convidados atenciosamente, [aperta a mão com firmeza, olha à sua maneira nos olhos e fala de boas épocas passadas, que se confundem com a cultura espanhola. ,
+	     arrochar: Encarou-a fixamente, e sem despregar dela os olhos, levou as mãos aos atilhos da cintura da saia, que começou a arrochar cada vez com mais força, murmurando certas orações ,
+	     cochar: x,
+	     comprimir: Pode-se formar um hematoma no local da pancada e este [comprimir o cérebro.,
+	     esmagar: E as palavras dos dous andavam-lhe no cérebro, como peixinhos de ouro em globo de vidro, abaixo, acima, rutilantes: aqui é que se deve [esmagar a cabeça da cobra.,
+	     estrangular: Isso ocorre quando o cordão espermático dá voltas sobre seu próprio eixo, I]estrangulando a circulação sangüínea testicular.,
+	     inquerir: x,
+	     oprimir: A pessoa sente como se alguma coisa lhe estivesse I]oprimindo a fronte ea parte superior da cabeça.,
+	     premer: Que força o esmagava, I]premendo-lhe os pés contra o chão?,
+	     premir: Outra técnica relativamente comum consiste em cruzar as pernas e I]premir a região da vulva pela contração dos músculos das coxas.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2710' = “Tornar frouxo diminuindo a tensão ou firmeza.”
+	    {afrouxar: Abaixou-se, I]afrouxou os cadarços das chuteiras Puma, número 39, e voltou a atá-los.,
+	      alargar: Dispensou a gravata, I]alargou o colarinho, à vontade no termo claro.,
+	      bambear: Sempre que terminar o trabalho, I]bambear a barrigueira e a sela, deixando o animal confortável.,
+	      desapertar: Sentou-se no banco de pedra, I]desapertou o nó da gravata e tirou os sapatos.,
+	      folgar: Tremendo nas próprias bases, ele I]folgou o colarinho para deixar o suor escorrer melhor em seu pescoço.,
+	      relaxar: I]Relaxou os elos que mantinham a coesão celular.,
+	      soltar: No bar do aeroporto, pediu um uísque, I]soltou o nó da gravata e decidiu que não dava mais para agüentar.,
+	      suxar: Um dos cavalos, arisco, desviando-se, I]suxou o laço.,}
+
+	  A='Glosa3180'
+	    {acochar, adstringir, apertar, arrochar, comprimir, esmagar, estrangular, primir, premer, premir}
+
+Chave: SOLTAR <verb.change>
+ILI: 00408992
+
+Sense 4
+{00408992} <verb.change> slacken1, remit -- (make slack as by lessening tension or firmness)
+       => {00407260} <verb.change> loosen1, loose2 -- (make loose or looser; "loosen the tension on a rope")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

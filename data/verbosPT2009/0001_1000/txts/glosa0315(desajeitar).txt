@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0315
+
+DADO O SYNSET:
+
+S='Glosa315'
+{desajeitar: Ele balança a cabeça para I]desajeitar os cabelos e coloca um dedo na boca.,
+descompor: H]Descompôs os armários, mas não encontrou o que buscava.,}
+A='Glosa314'
+{aconchegar, ajeitar, compor, conchegar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa315' = “trazer desordem, desarrumar alguma coisa ou algo”
+{desajeitar: Ele balança a cabeça para I]desajeitar os cabelos e coloca um dedo na boca.,}
+A='Glosa314'
+{aconchegar, ajeitar, compor, conchegar}
+Chave: DESAJEITAR <verb.change>
+ILI: 00267382
+
+Sense 1
+{00267382} <verb.change> disorder, disarray -- (bring disorder to)
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

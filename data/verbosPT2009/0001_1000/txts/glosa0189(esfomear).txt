@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA0189
+
+DADO O SYNSET:
+
+S='Glosa189'
+{afaimar: x,
+afomear: x,
+esfaimar: O movimento de militares se recusa a combater na Palestina, alegando que a ocupação israelense violenta valores, corrompe a sociedade  e está destinada a proteger os colonos e a dominar, expulsar, humilhar e I]esfaimar o povo palestino.,
+esfomear: A partir daquele momento, os treinadores dedicavam-se a esgotar, I]esfomear e exasperar os recrutas.,}
+A='Glosa2518'
+{embuchar, encher, enfartar, fartar, saciar, saturar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa189' = “privar de comida; deixar faminto”
+{esfaimar: O movimento de militares se recusa a combater na Palestina, alegando que a ocupação israelense violenta valores, corrompe a sociedade  e está destinada a proteger os colonos e a dominar, expulsar, humilhar e I]esfaimar o povo palestino.,
+esfomear: A partir daquele momento, os treinadores dedicavam-se a esgotar, I]esfomear e exasperar os recrutas.,}
+A='Glosa2518'
+{embuchar, encher, enfartar, fartar, saciar, saturar}
+Chave: ESFOMEAR <verb.consumption>
+ILI: 01151495
+
+Sense 3
+{01151495} <verb.consumption> starve3, famish3 -- (deprive of food; "They starved the prisoners")
+       => {02246094} <verb.possession> deprive -- (keep from having, keeping, or obtaining)
+           => {02149972} <verb.possession> withhold, keep back -- (hold back; refuse to hand over or share; "The father is withholding the allowance until the son cleans his room")
+               => {02149107} <verb.possession> deny, refuse1 -- (refuse to let have; "She denies me every pleasure"; "he denies her her weekly allowance")
+                   => {02138940} <verb.possession> keep, hold on -- (retain possession of; "Can I keep my old stuffed animals?"; "She kept her maiden name after she married")
+                       => {02139918} <verb.possession> have, have got, hold -- (have or possess, either in a concrete or an abstract sense; "She has $1,000 in the bank"; "He has got two beautiful daughters"; "She holds a Master's degree from Harvard")

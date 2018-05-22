@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA1878
+
+DADO O SYNSET:
+
+S='Glosa1878'
+{entrançar: Tu gostavas de seus cabelos negros que arrastam no chão; ela os [entrançará com as plumas vermelhas do guará para que te pareçam mais bonitos.,
+ entrezar: x,
+ trançar: Arlete Nunes, do salão Brasilian' s Black, diz que para [trançar um cabelo de comprimento médio (até os ombros, com pouco volume) , são necessárias dez horas de trabalho.,}
+	  
+A='Glosa49'
+{destrançar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1878' = “tramar em tranças”
+{entrançar: A aranha fez cada um dos fios desta teia I]entrançando seis mil fios de sua seda.,
+ trançar: Arlete Nunes, do salão Brasilian' s Black, diz que para [trançar um cabelo de comprimento médio (até os ombros, com pouco volume) , são necessárias dez horas de trabalho.,}
+	  
+A='Glosa49'
+{destrançar}
+Chave: TRANÇAR <verb.contact>
+ILI: 01347391
+
+Sense 2
+{01347391} <verb.contact> plait -- (weave into plaits; "plait hair")
+       => {01476697} <verb.contact> weave, interweave -- (interlace by or as it by weaving)
+           => {01186160} <verb.contact> twist1, twine4, distort1 -- (form into a spiral shape; "The cord is all twisted")
+               => {00135866} <verb.change> change shape, change form, deform2 -- (assume a different shape or form)
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

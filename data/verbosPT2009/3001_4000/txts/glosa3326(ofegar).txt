@@ -1,0 +1,40 @@
+ANÁLISE DA GLOSA3326
+
+DADO O SYNSET:
+
+S='Glosa3326'
+	    {
+	      aflar: Sempre H]aflava quando subia a ladeira.,
+	      alentar: A infantaria M]alentava no assalto ao cume do monte.,
+	      anelar1: O pobre animal M]anelava, sob aquela carga.,
+	      ansiar: Quando alcançou o fim da ladeira, H]ansiava.,
+	      arfar: Apertada num vestido longo negro, chapiscado de fios prateados, a nova Miss Brasil [arfava dentro de um decote generoso. ,
+	      arquejar1: O índio deu alguns passos para atravessar o campo, parou fazendo um gesto de surpresa; diante dele [arquejava um cãozinho, que reconheceu pela coleira de frutos escarlates que tinha ao pescoço. ,
+	      impar: Ela I]impava inquieta, cravando suas unhas nos músculos das minhas costas e eu sentindo a talhada que suas garras fazia em corpo, arrastando-as com força. ,
+	      latejar: Após a corrida, H]latejava-lhe o peito cansado.,
+	      later: x,
+	      lufar: H]Lufava, enquanto subia a ladeira.,
+	      ofegar: Seu passo era tardo, o peito lhe [ofegava.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3326' = “respirar ruidosamente, como quando se está exausto”
+	     {aflar: Sempre H]aflava quando subia a ladeira.,
+	      alentar: A infantaria M]alentava no assalto ao cume do monte.,
+	      anelar1: O pobre animal M]anelava, sob aquela carga.,
+	      ansiar: Quando alcançou o fim da ladeira, H]ansiava.,
+	      arfar: Apertada num vestido longo negro, chapiscado de fios prateados, a nova Miss Brasil [arfava dentro de um decote generoso. ,
+	      arquejar1: Bush I]arquejava, arfava de impaciência diante das palavras mais complexas do opositor democrata. ,
+	      impar: Minha avó I]impava de emoção quando contava como um soldado alemão brandira sua espada e ameaçara o russo. ,
+	      latejar: Cada um deles; o corpo esticado no chão, o chão esfriava o peito aberto, o peito I]latejava no asfalto molhado.,
+	      lufar: H]Lufava, enquanto subia a ladeira.,
+	      ofegar: Cordulina I]ofegava de cansaço.,}
+Chave: OFEGAR <verb.body>
+ILI: 00005390
+
+Sense 1
+{00005390} <verb.body> pant, puff, gasp, heave1 -- (breathe noisily, as when one is exhausted; "The runners reached the finish line, panting heavily")
+       => {00006911} <verb.body> blow -- (exhale hard; "blow on the soup to cool it down")
+           => {00004127} <verb.body> exhale, expire, breathe out -- (expel air; "Exhale when you lift the weight")
+               => {00001740} <verb.body> breathe, take a breath, respire, suspire3 -- (draw air into, and expel out of, the lungs; "I can breathe better when the air is clean"; "The patient is respiring")

@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA1471
+
+DADO O SYNSET:
+
+S='Glosa1471'
+{desmarcar: Marcar ou [desmarcar um item da lista de verificação como concluído,}
+	  
+A='Glosa2561'
+{abalizar, assinalar, assinar, balizar, carimbar, delimitar, demarcar, dividir, divisar, marcar, rubricar, sinalar, traçar1}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1471' = “remover a marca”
+{desmarcar: Agora I]desmarque os limites clicando na marca que aparece na frente da função Limites.}
+	  
+A='Glosa2561'
+{abalizar, assinalar, assinar, balizar, carimbar, delimitar, demarcar, dividir, divisar, marcar, rubricar, sinalar, traçar1}
+Chave: DESMARCAR <verb.contact>
+ILI: EQ_HAS_HYPERONYM – 01506397
+
+Sense 4
+{01506397} <verb.contact> delete, cancel -- (remove or make invisible; "Please delete my name from your list")
+       => {00166870} <verb.change> remove, take, take away1, withdraw1 -- (remove something concrete, as by lifting, pushing, taking off, etc. or remove something abstract; "remove a threat"; "remove a wrapper"; "Remove the dirty dishes from the table"; "take the gun from your pocket"; "This machine withdraws heat from the environment")

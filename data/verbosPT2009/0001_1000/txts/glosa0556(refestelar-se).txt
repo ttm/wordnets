@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA0556
+
+DADO O SYNSET:
+
+S='Glosa556'
+{amesendar-se: x,
+apoltronar-se1: x,
+refestelar-se: Recebeu sinal verde para [refestelar-se diante da TV e ver Brasil e Rússia.,
+repimpar-se: Mestre Nunes aplicou voluptuosamente os lábios à borda do canjirão, tomou uma vez de vinho, e dando um ligeiro estalinho com a língua no céu da boca, [repimpou-se na tripeça em que estava sentado.,
+repoltrear-se: Desabotoava o colete, dava arrotos, I]repoltreava-se na cadeira de sola um pouco desconfortável, e vaporava grande colunas de fumo que se espiralavam até ao tecto.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa556' = “deitar-se à vontade”
+{refestelar-se: O velho combatente Apolônio de Carvalho comeu à vontade, I]refestelou-se, mas não acostumado com aquele tipo de rancho, passou mal.,
+repimpar-se: Mestre Nunes aplicou voluptuosamente os lábios à borda do canjirão, tomou uma vez de vinho, e dando um ligeiro estalinho com a língua no céu da boca, [repimpou-se na tripeça em que estava sentado.,
+repoltrear-se: O Castro I]repoltreou-se numa cadeira de braços, e batendo com o chicote nas botas, desculpou-se com os preparativos da partida.,}
+Chave: REFESTELAR-SE
+ILI: 01927336
+
+Sense 2
+{01927336} <verb.motion> stretch2, stretch out2 -- (lie down comfortably; "To enjoy the picnic, we stretched out on the grass")
+       => {01927094} <verb.motion> lie down, lie -- (assume a reclining position; "lie down on the bed until you feel better")
+           => {01925836} <verb.motion> change posture -- (undergo a change in bodily posture)
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

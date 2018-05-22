@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA2952
+
+DADO O SYNSET:
+
+S='Glosa2952'
+	    {abalar: Será que pudera continuar dormindo calmamente em meio de um barulho que I]abalava os próprios móveis? ,
+	      agitar: Um vento fresco [agitava as árvores: ameaçava chuva e ouvia-se o surdo e longínquo marulhar da costa.,
+	      aluir: O vento M]alui os penhascos.,
+	      combalir: O terremoto A]combaliu os alicerces do prédio.  ,
+	      concutir: O estampido A]concutiu o casarão.,
+	      estremecer: Lindoca estava cada vez mais redonda, mais boleada; a casa [estremecia cada vez mais com o seu peso.,
+	      fremir: O vento brando mas constante fazia H]fremir as velas do navio.,
+	      sacolejar: Bateu a porta do carro com tanta força que o painel I]sacolejou.,
+	      sacudir: Quando senti o apartamento tremer, lembrei a tragédia do Raimundo Farias que [sacudiu os prédios vizinhos quando desabou.,
+	      tremer: O edifício [tremeu desde os alicerces com o embate da tromba de selvagens que se lançava furiosa no meio do incêndio.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2952' = “Sacudir ou vibrar rapidamente e intensivamente”
+	    {abalar: Será que pudera continuar dormindo calmamente em meio de um barulho que I]abalava os próprios móveis? ,
+	      agitar: Um vento fresco [agitava as árvores: ameaçava chuva e ouvia-se o surdo e longínquo marulhar da costa.,
+	      combalir: A chuva combaliu a ponte.,
+	      estremecer: uma tremenda explosão I]estremeceu o navio.,
+	      sacolejar: Não lhe faltou a companhia de uma monumental baleia cachalote nem a de ventos fortes e vagalhões que I]sacolejaram a casca de noz em que se abrigou.,
+	      sacudir: Quando senti o apartamento tremer, lembrei a tragédia do Raimundo Farias que [sacudiu os prédios vizinhos quando desabou.,
+	      tremer: Nisto I]tremeu o mato com um berro pavoroso.,}
+Chave: ESTREMECER <verb.motion>
+ILI: 01837337
+
+Sense 3
+{01837337} <verb.motion> judder, shake1 -- (shake or vibrate rapidly and intensively; "The old engine was juddering")
+       => {01836948} <verb.motion> vibrate -- (shake, quiver, or throb; move back and forth rapidly, usually in an uncontrolled manner)
+           => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right") 

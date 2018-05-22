@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0757
+
+DADO O SYNSET:
+
+S='Glosa757'
+{barquear: x,
+barquejar: Então era necessario ficarem lá, fazer as peregrinações classicas, subir à Pena, ir beber água à Fonte dos Amores, I]barquejar na varzea.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa757' = “dirigir barco, andar de barco”
+{barquejar: Então era necessario ficarem lá, fazer as peregrinações classicas, subir à Pena, ir beber água à Fonte dos Amores, I]barquejar na varzea.,}
+Chave: BARQUEJAR <verb.motion>
+ILI: 01888016
+
+Sense 1
+{01888016} <verb.motion> boat -- (ride in a boat on water)
+       => {01898556} <verb.motion> ride -- (be carried or travel on or in a vehicle; "I ride to work in a bus"; "He rides the subway downtown every day")
+           => {01787680} <verb.motion> travel3 -- (undergo transportation as in a vehicle; "We travelled North on Rte. 508")
+               => {01782203} <verb.motion> travel, go, move3, locomote -- (change location; move, travel, or proceed; "How fast does your new car go?"; "We travelled from Rome to Naples by bus"; "The policemen went from door to door looking for the suspect"; "The soldiers moved towards the city in an attempt to take it before night fell")

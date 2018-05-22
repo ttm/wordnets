@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA1954
+
+DADO O SYNSET:
+
+S='Glosa1954'
+{adargar: x,
+ defender: E afirmou que a utilização dessa e de outras substâncias, hoje em dia, tem «uma conotação de crítica e rejeição ao sistema», antes de [defender uma ousada posição: «Sou a favor da legalização de todas as drogas como etapa final de um processo que começa com a descriminação do uso. ,
+ escudar: Por seu lado, o executivo romeno I]escudava as suas posições alegando uma quebra na procura de carvão da ordem dos 44 milhões de toneladas em 1996.,
+ proteger: Como não está provado que a doença da vaca louca provoque a doença de Creutzfeldt-Jakob, mortal para os seres humanos, a Grã-Bretanha alega que a medida foi tomada para [proteger os interesses econômicos dos outros países, e não por razões científicas.,}
+
+A='Glosa238'
+{agredir, atacar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1954' = “defender; opor a um ataque”
+{defender: Goya procurou mostrar que o povo [defendeu seu país sozinho. ,
+ escudar: Hoje, as Forças Armadas Brasileiras, mal remuneradas, sucateadas, sem os fundamentalistas que I]escudaram Saddam Hussein, fariam frente a uma invasão externa.,
+ proteger: O kit [protege a parte frontal do capô, cavidade da maçaneta e bocal do tanque.,}
+
+A='Glosa238'
+{agredir, atacar}
+Chave: DEFENDER <verb.competition>
+ILI: 01092732
+
+Sense 2
+{01092732} <verb.competition> defend -- (be on the defensive; act against an attack)
+       => {02377053} <verb.social> prevent, keep1 -- (prevent from doing something or being in a certain state; "We must prevent the cancer from spreading"; "His snoring kept me from falling asleep"; "Keep the child from eating the marbles")

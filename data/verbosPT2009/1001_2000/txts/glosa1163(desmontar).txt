@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA1163
+
+DADO O SYNSET:
+
+S='Glosa1163'
+{desarmar: Os policiais afirmaram que os manifestantes teriam de I]desarmar o palco,
+ desmontar: A polícia [desmontou outras duas em torres de transmissão da Hydro-Québec em Montreal.,}
+	  
+A='Glosa660'
+{armar, montar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1163' = “desmontar [algo] em suas peças constituintes”
+{desarmar: Então ele I]desarmou a proteção do forno e correu para o local mais fortificado da empresa.,
+ desmontar: A polícia [desmontou outras duas em torres de transmissão da Hydro-Québec em Montreal.,}
+A='Glosa660'
+{armar, montar}
+Chave: DESMONTAR <verb.creation>
+ILI: 01610787
+
+Sense 1
+{01610787} <verb.creation> disassemble, dismantle, take apart, break up, break apart -- (take apart into its constituent pieces)
+       => {01574188} <verb.creation> destroy, destruct -- (do away with, cause the destruction or undoing of; "The fire destroyed the house")
+           => {01573490} <verb.creation> unmake, undo -- (deprive of certain characteristics)

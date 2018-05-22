@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA2615
+
+DADO O SYNSET:
+
+  S='Glosa2615'
+	    {decorrer: O CCDM se exime de qualquer responsabilidade pelos danos e prejuízos de toda natureza que possam I]decorrer de defeitos na qualidade dos serviços prestados por terceiros através do site.,
+	      derivar: O Norte Online não se responsabiliza pelos danos e prejuízos de qualquer natureza que possam I]derivar da utilização indevida dos serviços, em especial em decorrência de falhas na rede pública de telefonia e/ou de fornecimento de energia elétrica e, ainda, às falhas no acesso aos diferentes sites existentes na Internet, na transmissão, difusão, armazenagem ou colocação à disposição de terceiros de conteúdos por meio dos serviços disponibilizados ao assinate.,
+	      provir: Das Kcalorias diárias ingeridas pelo diabético, 50% devem I]provir dos carboidratos (açúcares).,
+	      redundar: As execuções por crimes políticos violentos podem I]redundar em uma maior publicidade para os atos de terrorismo, atraindo uma grande atenção da opinião pública para as idéias dos terroristas.,
+	      resultar: Desperdício de água pode I]resultar em racionamento na cidade.,
+	      sair: A premiação I]saiu do antigo protocolo.,
+	      surdir: A palavra definitiva deverá I]surdir de teus lábios.,
+	      vir: O ato sexual I]vem a ser a consubstanciação do amor no organismo psicológico de nossa natureza.,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2615' = “Ser o produto ou o resultado de.”
+	    {decorrer: A aprovação da Lei Eusébio de Queiroz [decorreu das pressões inglesas e das condições internas propícias ao término do comércio negreiro.,
+	      derivar: O ato de acabar legalmente com a escravidão [derivou de um longo processo, no qual muitos pereceram.,
+	      provir: Mas a parte esse processo [provem principalmente de uma forma específica de conceber a organização da produção.,
+	      redundar: A criação da Ordem I]redundou da necessidade imperiosa da organização da mesma.,
+	      resultar: A economia agrária [resultou da decadência do comércio nos fins do Império Romano.,
+	      sair: A premiação I]saiu do antigo protocolo.,
+	      surdir: Purificação e virtude podem M]surdir do sofrimento.,
+	      vir: A idéia I]veio da necessidade de se investir na autoria nacional.,}
+
+Chave: DECORRER <verb.stative>
+ILI: 02547142
+
+Sense 17
+{02547142} <verb.stative> come4, follow4 -- (to be the product or result; "Melons come from a vine"; "Understanding comes from experience")
+       => {02546120} <verb.stative> originate, arise, rise1, develop, uprise2, spring up, grow -- (come into existence; take on form or shape; "A new religious movement originated in that country"; "a love that sprang up from friendship"; "the idea for the book grew out of a short story"; "An interesting phenomenon uprose")
+           => {02545350} <verb.stative> become -- (come into existence; "What becomes has duration") 

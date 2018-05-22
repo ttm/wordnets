@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA2360
+
+DADO O SYNSET:
+
+S='Glosa2360'
+	    {tilintar: O I]tilintar de pequenos sinos, indicava a chamada à nossa primeira alimentação. ,
+	      tirlintar: Percebi o leão de pedra que repousa sobre a terra e o I]tirlintar da lagoa .,
+	      tlintar: x,
+	      trincolejar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2360' = “Fazer ou emitir um som agudo.”
+	    {tilintar: [Tilintou a pesada corrente de ouro.,
+	      tirlintar: Percebi o leão de pedra que repousa sobre a terra e o I]tirlintar da lagoa.,}
+
+Chave: TILINTAR <verb.perception>
+ILI: 02123807
+
+Sense 1
+{02123807} <verb.perception> tinkle, tink, clink, chink -- (make or emit a high sound; "tinkling bells")
+       => {02113837} <verb.perception> sound, go -- (make a certain noise or sound; "She went `Mmmmm'"; "The gun went `bang'")
+           => {02062507} <verb.perception> cause to be perceived -- (have perceptible qualities) 

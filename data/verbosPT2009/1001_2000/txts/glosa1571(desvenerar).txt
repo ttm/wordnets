@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA1571
+
+DADO O SYNSET:
+
+S='Glosa1571'
+{desacatar: Não M]desacato a crença de ninguém.,
+ desrespeitar: Em nenhum momento, tive o objetivo de I]desrespeitar a crença de nenhum cidadão.,
+ desvenerar: Na idade adulta, ele começou a H]desvenerar todos os antigos ídolos. ,}
+	  
+A='Glosa2390'
+{acatar, honrar, respeitar, reverenciar, sagrar, temervenerar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1571' = “faltar ao respeito [a]”
+{desacatar: Machado desconsidera o homem comum, sacrifica o eterno e I]desacata a religião e cria absurdos como se fossem verdade.,
+ desrespeitar: Em nenhum momento, tive o objetivo de I]desrespeitar a crença de nenhum cidadão.,
+ desvenerar: De qualquer maneira, a imagem de que botou iristas para correr do poder grudou e acabou por I]desvenerar o xodó, tornando-o menos celestial.,}
+	  
+A='Glosa2390'
+{acatar, honrar, respeitar, reverenciar, sagrar, temervenerar}
+Chave: DESVENERAR <verb.communication>
+ILI: EQ_HAS_NEAR_SYNONYM - 00838241
+
+Sense 1
+{00838241} <verb.communication> desecrate, deconsecrate -- (remove the consecration from a person or an object)
+       => {00133458} <verb.change> change by reversal, turn, reverse -- (change to the contrary; "The trend was reversed"; "the tides turned against him"; "public opinion turned when it was revealed that the president had an affair with a White House intern")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

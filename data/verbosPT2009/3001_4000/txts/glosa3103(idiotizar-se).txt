@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA3103
+
+DADO O SYNSET:
+
+S='Glosa3103'
+	    {
+	      abobalhar-se: x,
+	      abobar-se: O fato é que a mulher gaguejou mas conseguiu falar no microfone... - Microfone? I]abobou-se Alípio Tonelada, já com os pés no chão.,
+	      aparvalhar-se: x,
+	      apatetar-se: x,
+	      atolar-se2: x,
+	      atoleimar-se: x,
+	      idiotar-se: x,
+	      idiotizar-se: E eu necessitava por isso recordar que pensar é, queira-se ou não, exagerar. Quem prefira não exagerar deve calar-se; mais ainda: tem de paralisar seu intelecto e ver a maneira de I]idiotizar-se.,
+	      imbecilizar-se: O imbecil coletivo não é a mera soma de um certo número de imbecis individuais. É, ao contrário, uma coletividade de pessoas de inteligência normal ou mesmo superior que se reúnem movidas pelo desejo comum de I]imbecilizar-se umas às outras.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3103'
+	     {abobar-se: O fato é que a mulher gaguejou mas conseguiu falar no microfone... - Microfone? I]abobou-se Alípio Tonelada, já com os pés no chão.,
+	      idiotizar-se: O mundo ocidental I]idiotizou-se, não mais sabe o que faz.,
+	      imbecilizar-se: TV, música e mesmo a literatura (povoada, sintomaticamente, por livros de auto-ajuda) I]imbecilizaram-se a um ponto quase incapaz de oferecer um contraponto à imbecilização das drogas.,}
+Chave: IDIOTIZAR-SE <verb.change>
+ILI: EQ_NEAR_SYNONYM - 00518207
+
+Sense 1
+{00518207} <verb.change> dizzy -- (make dizzy or giddy; "a dizzying pace")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

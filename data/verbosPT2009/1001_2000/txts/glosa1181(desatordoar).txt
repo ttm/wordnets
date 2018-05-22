@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA1181
+
+DADO O SYNSET:
+
+S='Glosa1181'
+{desatordoar: O remédio A]desatordoou-o.,}
+	  
+A='Glosa2616'
+{aparvalhar, aparvoar, arvoar, atontar, atontear, atordoar, atroar, aturdir, azamboar, azoratar, azoretar, azuretar, desarvorar, desatremar, desconcertar, desnortear, desorientar, entontecer, enzonzar, estontear, estontecer, perturbar, restrugir, tontear, transtornar, zonzar, zonzear}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1181' = “dar nova vida ou energia”
+{desatordoar: São cápsulas pequenas e fáceis de quebrar. Se forem abertas sob o nariz de um personagem atordoado ou inconsciente, ele será completamente despertado pelo vapor (teste de Vigor para recuperar a consciência, I]desatordoar, etc.).,}
+A='Glosa2616'
+{aparvalhar, aparvoar, arvoar, atontar, atontear, atordoar, atroar, aturdir, azamboar, azoratar, azoretar, azuretar, desarvorar, desatremar, desconcertar, desnortear, desorientar, entontecer, enzonzar, estontear, estontecer, perturbar, restrugir, tontear, transtornar, zonzar, zonzear}
+Chave: DESATORDOAR <verb.body>
+ILI: EQ_HAS_HYPERONYM - 00023840
+
+Sense 4
+{00023840} <verb.body> animate, recreate2, reanimate, revive, renovate, repair3, quicken, vivify, revivify -- (give new life or energy to; "A hot soup will revive me"; "This will renovate my spirits"; "This treatment repaired my health")
+       => {00022265} <verb.body> stimulate, arouse, brace, energize, energise, perk up1 -- (cause to be alert and energetic; "Coffee and tea stimulate me"; "This herbal infusion doesn't stimulate")
+           => {00019146} <verb.body> affect -- (act physically on; have an effect upon)
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

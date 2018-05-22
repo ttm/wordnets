@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA3978
+
+DADO O SYNSET:
+
+S='Glosa3978'
+{aduzir: Segundo o princípio da eventualidade, acolhido pelo CPC, o réu deve [aduzir toda a sua defesa na contestação, ainda que convicto de que bastará esta ou aquela preliminar para pôr termo à ação; pois, eventualmente, a preliminar poderá ser repelida, e já não lhe será mais possível aditar a defesa .,
+ apresentar: As bases da Genética moderna foram estabelecidas pelo monge Gregor Mendel que, em 1865, [apresentou seus trabalhos, realizados através do cruzamento entre ervilhas, à Sociedade de História Natural de Brunn, Áustria .,
+ avançar: Acho que o Rio de Janeiro pode dar uma grande contribuição a este debate, a essa soma de esforços que precisamos fazer para reorientar os debates e impedirmos desastres no campo previdenciário e fazer I]avançar uma proposta  que realmente seja justa.,
+ aventar: Durante o dia, Lula [aventou a possibilidade de tentar restringir a criação de gado em grandes áreas .,
+ expor: Cada um [expôs a sua opinião acerca das graças da pequena, o gesto, a voz, os olhos e as mãos, tudo com tão boa sombra, que excluía a idéia de rivalidade .,
+ presentar: Ryder então I]presentou o roteiro a Francis Ford Coppola., }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3978' = “expor”
+{aduzir: Quando qualquer das partes pretender recusar o juiz, deverá fazê-lo em petição assinada por ela própria ou por procurador com poderes especiais, [aduzindo as suas razões acompanhadas de prova documental ou do rol de testemunhas.,
+ apresentar: As bases da Genética moderna foram estabelecidas pelo monge Gregor Mendel que, em 1865, [apresentou seus trabalhos, realizados através do cruzamento entre ervilhas, à Sociedade de História Natural de Brunn, Áustria.,
+ avançar: Roberto I]avança hipóteses explicativas dessa rarefação.,
+ aventar: Durante o dia, Lula [aventou a possibilidade de tentar restringir a criação de gado em grandes áreas.,
+ expor: Cada um [expôs a sua opinião acerca das graças da pequena, o gesto, a voz, os olhos e as mãos, tudo com tão boa sombra, que excluía a idéia de rivalidade.,
+ presentar: Ryder então I]presentou o roteiro a Francis Ford Coppola.}
+Chave: EXPOR <verb.communication>
+ILI: 00968790
+
+Sense 2
+{00968790} <verb.communication> set forth, expound1, exposit -- (state; "set forth one's reasons")
+       => {00923861} <verb.communication> elaborate, lucubrate, expatiate, exposit1, enlarge4, flesh out, expand10, expound, dilate10 -- (add details, as to an account or idea; clarify the meaning of and discourse in a learned way, usually in writing; "She elaborated on the main ideas in her dissertation")
+           => {00908946} <verb.communication> clarify, clear up, elucidate -- (make clear and (more) comprehensible; "clarify the mystery surrounding her death")
+               => {00908384} <verb.communication> explain, explicate -- (make palin and comprehensible; "He explained the laws of physics to his students")
+                   => {00804489} <verb.communication> inform -- (impart knowledge of some fact, state or affairs, or event to; "I informed him of his rights")
+                       => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                           => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                               => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA2785
+
+DADO O SYNSET:
+
+S='Glosa2785'
+	    {evocar: Ao [evocar o nome de Dioniso para definir-se, Nietzsche reclama que se leve em conta a relação intrínseca entre eles.,
+	      invocar: É o tipo do espalhafato inútil e sem sentido, bem como não existem razões que possam explicar o fato de o próprio presidente ultimamente se deicar à tarefa de [invocar o fantasma de Augusto Pinochet e o exemplo de Alberto Fujimori.,
+	      recorrer: Em certas situações, no entanto, os deuses doentes precisavam I]recorrer ao deus Paiean.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2785' = “chamar em auxílio ou provocar, como ou como se fosse por mágica”
+	    {evocar: Fujiwara-no-Tadanori, chefe conselheiro do imperador, I]evocou os deuses para o santuário e realizou rituais para que os desastres parassem.,
+	      invocar: Um dos Kumaras I]invocou o Raio Azul, o outro invocou o Raio Rosa e o terceiro invocou o Raio Dourado e Sanat Kumara fez uma síntese dos três.,
+	      recorrer: Atena I]recorreu ao deus do mar Poséidon para vingar este sacrilégio.,}
+
+Chave: EVOCAR <verb.creation>
+ILI: 01583752
+
+Sense 2
+{01583752} <verb.creation> raise1, conjure, conjure up, invoke, evoke2, stir, call down, arouse, bring up, put forward, call forth -- (evoke or call forth, with or as if by magic; "raise the specter of unemployment"; "he conjured wild birds in the air"; "stir a disturbance"; "call down the spirits from the mountain")
+       => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor") 

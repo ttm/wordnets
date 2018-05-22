@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA0884
+
+DADO O SYNSET:
+
+S='Glosa884'
+{enfaixar: Para I]enfaixar o corpo eram utilizadas tiras de roupas usadas, o tecido mais usado era o linho.,
+envolver: Os métodos consistiam basicamente em banhar o doente, enrolá-lo em lençóis molhados, ou [envolver-lhe a testa e o peito em panos úmidos. ,
+faixar: I]Faixar a carne, colocar num refratário e jogar o molho por cima.,}
+A='Glosa885'
+{desenfaixar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa884' = “enrolar em volta com algo de forma que cubra ou aperte”
+{enfaixar: Para I]enfaixar o corpo eram utilizadas tiras de roupas usadas, o tecido mais usado era o linho.,
+envolver: Os métodos consistiam basicamente em banhar o doente, enrolá-lo em lençóis molhados, ou [envolver-lhe a testa e o peito em panos úmidos. ,
+faixar: I]Faixar a carne, colocar num refratário e jogar o molho por cima.,}
+A='Glosa885'
+{desenfaixar}
+Chave: ENFAIXAR <verb.contact>
+ILI: 01264551
+
+Sense 1
+{01264551} <verb.contact> bind8, bandage3 -- (wrap around with something so as to cover or enclose)
+       => {01300906} <verb.contact> fasten1, fix, secure1 -- (cause to be firmly attached; "fasten the lock onto the door"; "she fixed her gaze on the man")
+           => {01257892} <verb.contact> attach1 -- (cause to be attached)
+               => {01314764} <verb.contact> connect, link, tie1, link up -- (connect, fasten, or put together two or more pieces; "Can you connect the two loudspeakers?"; "Tie the ropes together"; "Link arms")

@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA14
+
+DADO O SYNSET:
+
+S='Glosa14'
+{bastar: Por isso, a dedução e a indução não [bastam, pois não inovam.,
+satisfazer: Os velhos modos de fazer as coisas já não [satisfazem os clientes, que querem satisfazer suas expectativas.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa14' = “preencher ou alcançar uma necessidade ou desejo”
+{bastar: ao povo brasileiro não [bastam os santos do Flos Sanctorum e sua cabocla reatualização.,
+satisfazer: Bens ou serviços que [satisfazem as necessidades similares.,}
+Chave: SATISFAZER <verb.consumption>
+ILI: 01147457
+
+Sense 4
+{01147457} <verb.consumption> meet, satisfy1, fill2, fulfill, fulfil -- (fill or meet a want or need)
+       => {01146590} <verb.consumption> provide, supply, ply, cater -- (provide what is desired or needed, especially support, food or sustenance; "The hostess provided lunch for all the guests")
+           => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+               => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children")

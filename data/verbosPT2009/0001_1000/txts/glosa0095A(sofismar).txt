@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0095A	
+
+DADO O SYNSET:
+
+S='Glosa95'
+{arguciar: x,
+sofismar: Ela queria esticar o assunto, mas eu não estava num momento de I]sofismar sobre o amor.,
+sofisticar: Em vez de argumentar solidamente, preferiu H]sofisticar.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa95A' = “mudar o sentido; alterar com a intenção de enganar”
+{sofismar: I]Sofismou também quanto à questão dos juros altos e da forma como vem fazendo a manutenção da obscena dívida externa.,}
+Chave: SOFISMAR <verb.change>
+ILI: 00902104
+
+Sense 2
+{00902104} <verb.communication> twist, twist around, pervert, convolute, sophisticate -- (practice sophistry; change the meaning of or be vague about in order to mislead or deceive)
+       => {00900863} <verb.communication> denote, refer -- (have as a meaning; "`multi-' denotes `many' ")
+           => {00923390} <verb.communication> mean1, intend -- (mean or intend to express or convey; "You never understand what I mean!"; "what do his words intend?")
+               => {00898144} <verb.communication> convey, impart1 -- (make known; pass on, of information)
+                   => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                       => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                           => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

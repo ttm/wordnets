@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA0237A
+
+DADO O SYNSET:
+
+S='Glosa237'
+{acusar: O chefe de polícia civil, delegado Hélio Luz, que comandou a ação, não quis [acusar nenhuma pessoa ligada à Fábrica de ser a responsável pela droga apreendida.,
+agredir: Romário é um craque, não precisava [agredir a torcida para provar que é bom.,
+atacar: E como poeta, Waly não perdoa uma nova mania de [atacar letristas mais populares ou poetas que usam vários meios de expressão.,
+hostilizar: Os árabes residentes na área, dramaticamente contra o fluxo de imigrantes, passam a [hostilizar os judeus.,}
+A='Glosa360'
+{defender}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa237A' = “fazer(realizar) uma acusação contra”
+{acusar: O chefe de polícia civil, delegado Hélio Luz, que comandou a ação, não quis [acusar nenhuma pessoa ligada à Fábrica de ser a responsável pela droga apreendida.,
+atacar: E como poeta, Waly não perdoa uma nova mania de [atacar letristas mais populares ou poetas que usam vários meios de expressão.,}
+A='Glosa360'
+{defender}
+Chave: ACUSAR <verb.communication>
+ILI: 00815577
+
+Sense 1
+{00815577} <verb.communication> accuse, impeach, incriminate, criminate -- (bring an accusation against; level a charge against; "He charged the man with spousal abuse")
+       => {00815975} <verb.communication> charge2, accuse1 -- (blame for, make a claim of wrongdoing or misbehavior against; "he charged me director with indifference")

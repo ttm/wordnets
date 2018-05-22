@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA0570
+
+DADO O SYNSET:
+
+S='Glosa570'
+{anilar: H]Anilou as fronhas,
+azular: Lâmpadas de flash mais simples (baratas) não são corrigidas e tendem a I]azular a foto.,
+azulear: x,
+azulecer: É a nossa única estação de matiz e crepúsculo: adoçam-se os tons violentos, a névoa I]azulece e doira-se.,
+azulejar: Eu não sei se vem de Deus do céu ficar azul, ou virá dos olhos teus essa cor que I]azuleja o dia.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa570' = “dar cor azul”
+{anilar: A pele branca do rosto I]anilava as olheiras profundas,
+azular: Lâmpadas de flash mais simples (baratas) não são corrigidas e tendem a I]azular a foto.,
+azulecer: É a nossa única estação de matiz e crepúsculo: adoçam-se os tons violentos, a névoa I]azulece e doira-se.,
+azulejar: Eu não sei se vem de Deus do céu ficar azul, ou virá dos olhos teus essa cor que I]azuleja o dia.,}
+Chave: AZULAR
+ILI: 00507875
+
+Sense 1
+{00507875} <verb.change> blue -- (turn blue)
+       => {00272185} <verb.change> discolor, discolour, colour, color1 -- (change color, often in an undesired manner; "The shirts discolored")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

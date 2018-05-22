@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA1620
+
+DADO O SYNSET:
+
+S='Glosa1620'
+{doar: A Arisco vai [doar 50 toneladas de amido de milho um produto de sua linha infantil que pode ser usado para fazer, por exemplo, bolo e mingau.,
+ ofertar: Minha pobreza tal é que coisa não posso [ofertar: somente o leite que tenho para o meu filho amamentar; aqui são todos irmãos, de leite, de lama, de ar .,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1620' = “dar para a caridade ou para uma boa causa”
+{doar: O laboratório Roche [doou ontem ao Grupo de Apoio ao Adolescente e à Criança com Câncer Graacc um prédio onde será construído o futuro Instituto de Oncologia de São Paulo.,
+ ofertar: A implantação de um sistema de habitação de aluguel social colocará o governo numa posição confortável para negociar com o mercado de locação, pois estará dentro desse mercado, [ofertando também unidades à população de baixa renda.,}
+Chave: DOAR <verb.possession>
+ILI: 02197606
+
+Sense 1
+{02197606} <verb.possession> donate -- (give to a charity or good cause; "I donated blood to the Red Cross for the victims of the earthquake"; "donate money to the orphanage"; "She donates to her favorite charity every month")
+       => {02137285} <verb.possession> give1, gift, present -- (give as a present; make a gift of; "What will you give her for her birthday?")

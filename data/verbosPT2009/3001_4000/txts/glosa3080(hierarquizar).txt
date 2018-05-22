@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA3080
+
+DADO O SYNSET:
+
+S='Glosa3080'
+	    {
+	      hierarquizar: O primeiro passo será [hierarquizar todas as funções, dentro de cada órgão.,
+	      jerarquizar: x,
+	    }
+
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3080' = “x”
+	     {hierarquizar: O primeiro passo será [hierarquizar todas as funções, dentro de cada órgão.,}
+Chave: HIERARQUIZAR
+ILI: 00636119
+
+Sense 2
+{00636119} <verb.cognition> rate, rank, range, order, grade3, place1 -- (assign a rank or rating to; "how would you rank these students?"; "The restaurant is rated highly in the food guide")
+       => {00647983} <verb.cognition> judge -- (form an opinion of or pass judgment on; "I cannot judge some works of modern art")
+           => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

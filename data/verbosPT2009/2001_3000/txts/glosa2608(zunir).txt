@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA2608
+
+DADO O SYNSET:
+
+S='Glosa2608'
+	    { retinir: Esse é o mundo de Peter Pan - o I]retinir das espadas de rivais furiosos, a instável prancha na amurada do navio Jolly Roger, a emoção transcendente de voar e o poder mágico de um beijo furtivo.,
+	      sibilar: A imaginação sãocarlense se deliciava em esperanças de que, pouco mais tarde, o estridente I]sibilar da locomotiva impeliria a carreiras vertiginosas os veados e as emas dos campos do Feijão.,
+	      sussurrar: Ele fazia a I]caixa sussurrar com o jeito que batia nela. Usando vassouras e com a esteira “desligada”, Papa Jo trazia à vida o som dos sapateadores com quem trabalhou em sua juventude.,
+	      tinir: As vozes confusas dos vigias, misturadas com o I]tinir do ferro, responderam, como uivar de feras, às palavras do ostiário.,
+	      zinir: A não ser pelo I]zinir das sementes secas, que as vagens secas das unhas-de-gato, dos mororós, das faveiras, tremendo, ao tropel da refrega, abriam-se.,
+	      zuir: O caminhão I]zuiu o velho motor com os silenciosos danificados e desapareceu na primeira esquina.,
+	      zumbir: Ainda fresca na memória a lembrança do ranger de estruturas metálicas, o repicar da marreta na talhadeira, o I]zumbir de serras elétricas, todos esses barulhos infernais e muito familiares que fizeram parte de sua paisagem sonora, enquanto erguia castelos e catedrais pela cidade afora.,
+	      zunir: Um tiro no escuro, louca disparada do carro a I]zunir dentro da noite.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2608' = “Produzir um som monótono, baixo e vagaroso.”
+	    {retinir: Esta palavra [retiniu ali por muito tempo.,
+	      sibilar: O arco de Pahã [sibilou duas vezes.,
+	      sussurrar: Ele fazia a I]caixa sussurrar com o jeito que batia nela.,
+	      tinir: A um canto, entre tocos de bambu, [tiniram garrafas.,
+	      zinir: As cigarras I]ziniam longamente no mormaço.,
+	      zuir: "Ao retumbar de castanhedas e de guizos, / De zabumbas e fanfarras, / De timbales retinindo / E de assovios A]zuindo".,
+	      zumbir: As praganas aloiravam, as cigarras [zumbiam, as águas de regadio corriam docemente nas caleiras.,
+	      zunir: Então Ubirajara levantou o grande arco, e a corda [zuniu como o vento na floresta.,}
+
+Chave: ZUNIR <verb.perception>
+ILI: 02125743
+
+Sense 1
+{02125743} <verb.perception> drone -- (make a monotonous low dull sound; "The harmonium was droning on")
+       => {02113837} <verb.perception> sound, go -- (make a certain noise or sound; "She went `Mmmmm'"; "The gun went `bang'")
+           => {02062507} <verb.perception> cause to be perceived -- (have perceptible qualities)

@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA2668
+
+DADO O SYNSET:
+
+S='Glosa2668'
+	    {recapar: Com Camelback é possível I]recapar ou remoldar um pneu.,
+	      recauchutar: No caso da recapagem, gasta-se menos petróleo, pois consegue-se I]recauchutar 10 pneus com um barril.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2668' = “Dar novas bandas de rodagem (a um pneu).”
+	    {recapar: Com Camelback é possível I]recapar ou remoldar um pneu.,
+	      recauchutar: No caso da recapagem, gasta-se menos petróleo, pois consegue-se I]recauchutar 10 pneus com um barril.,}
+
+Chave: RECAUCHUTAR <verb.change>
+ILI: 00158079
+
+Sense 3
+{00158079} <verb.change> retread, remold, remould -- (give new treads to (a tire))
+       => {01584867} <verb.creation> regenerate, renew -- (re-establish on a new, usually improved, basis or make new or like new; "We renewed our friendship after a hiatus of twenty years"; "They renewed their membership")
+           => {01573613} <verb.creation> re-create -- (create anew; "Re-create the boom of the West on a small scale")
+               => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor") 

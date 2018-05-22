@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA0224
+
+DADO O SYNSET:
+
+S='Glosa224'
+{apanhar: Quando voltei à Argentina para dar-te um abraço e [apanhar o barco que me traria à Europa, em minhas malas os guardinhas buscaram uma mercadoria específica. ,
+embarcar: A tripulante sul-africana, de 29 anos, tentava [embarcar no vôo 205 de sua companhia com destino a Johanesburgo, mas agentes federais detectaram, com aparelhos de raio-X, os dois envelopes com a droga.,
+pegar: Tenho um amigo que teve dificuldades em [pegar o avião só de mochila.,
+tomar: Para sair do hotel, era preciso [tomar um ônibus que passava de 45 em 45 minutos e o deixava no aeroporto.,}
+A='Glosa2531'
+{apear, descer, desembarcar, saltar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa224' = “ir a bordo em (trens, ônibus, navios, aeronaves, etc.)
+{apanhar: Quando voltei à Argentina para dar-te um abraço e [apanhar o barco que me traria à Europa, em minhas malas os guardinhas buscaram uma mercadoria específica. ,
+embarcar: A tripulante sul-africana, de 29 anos, tentava [embarcar no vôo 205 de sua companhia com destino a Johanesburgo, mas agentes federais detectaram, com aparelhos de raio-X, os dois envelopes com a droga.,
+pegar: Tenho um amigo que teve dificuldades em [pegar o avião só de mochila.,
+tomar: Para sair do hotel, era preciso [tomar um ônibus que passava de 45 em 45 minutos e o deixava no aeroporto.,}
+A='Glosa2531'
+{apear, descer, desembarcar, saltar}
+Chave: EMBARCAR <verb.motion>
+ILI: 01960176
+
+Sense 1
+{01960176} <verb.motion> board, get on3 -- (get on board of (trains, buses, ships, aircraft, etc.))
+       => {01958650} <verb.motion> enter, come in2, get into, get in1, go into, go in, move into -- (to come or go into; "the boat entered an area of shallow marshes")

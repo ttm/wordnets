@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSAXXXX
+
+DADO O SYNSET:
+	
+S='GlosaXXXX'
+{preludiar: No coro a orquestra I]preludiava os intróitos da missa solene.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4137' = “tocar como um prelúdio”
+{preludiar: No coro a orquestra I]preludiava os intróitos da missa solene.}
+Chave: PRELUDIAR <verb.creation>
+ILI: 01676521
+
+Sense 2
+{01676521} <verb.creation> prelude -- (play as a prelude)
+       => {01675383} <verb.creation> play, spiel -- (replay (as a melody); "Play it again, Sam"; "She played the third movement very beautifully")
+           => {01573613} <verb.creation> re-create -- (create anew; "Re-create the boom of the West on a small scale")
+               => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

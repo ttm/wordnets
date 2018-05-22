@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA3553
+
+DADO O SYNSET:
+
+S='Glosa3553'
+	    {
+	      branquear-se: Depois de mais um ano , os seus cabelos I]branquearam-se.,
+	      branquejar-se: Eu não arriscaria nem um fio de cabelo de minha cabeça, a não ser algum desses que começam a I]branquejar-me. / . I]Branquejaram-se-lhe os cabelos.,
+	      embranquecer-se: Parece que só esperavam que [me embranquecessem de todo os cabelos, para insultarem esta batina, que foi sempre recebida de chapéu na mão !,
+	      encanecer-se: Começavam a I]encanecer-lhe as têmporas.,
+	      grisalhar-se: O suor das agonias I]nos grisalhou os cabelos antes do tempo.,
+	      nevar-se: Seus cabelos H]nevaram-se ainda na juventude.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3553' = “tornar branco”
+	     {branquear-se: Depois de mais um ano, os seus cabelos I]branquearam-se.,
+	      branquejar-se: Eu não arriscaria nem um fio de cabelo de minha cabeça, a não ser algum desses que começam a I]branquejar-me. /I]Branquejaram-se-lhe os cabelos.,
+	      embranquecer-se: a esse pobre querido Dom Pedro cujo cabelo louro se I]embranqueceu todo,
+	      encanecer-se: Mirrou-se e I]encaneceu-se-me o cabelo.,
+	      nevar-se: Seus cabelos H]nevaram-se ainda na juventude.,}
+Chave: BRANQUEAR-SE <verb.change>
+ILI: 00271295
+
+Sense 1
+{00271295} <verb.change> whiten, white -- (turn white; "This detergent will whiten your laundry")
+       => {00272185} <verb.change> discolor, discolour, colour, color1 -- (change color, often in an undesired manner; "The shirts discolored")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

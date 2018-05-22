@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA0337A
+
+DADO O SYNSET:
+
+S='Glosa337'
+{acovar: x,
+aterrar1: x,
+cravar: DEVIANT,
+encovar: A]encovou todo o dinheiro roubado.,
+enterrar: Ela [enterrou o filho recém-nascido, depois de ter escondido a gravidez dos pais.,
+sepultar: A primeira estrela do «shabat» ainda não brilhou, os judeus ainda não pediram que Pilatos mandasse [sepultar os corpos.,
+soterrar: A queda de um prédio de seis andares, em Foggia, na Itália, matou ontem pelo menos 13 pessoas e I]soterrou outras 50.,
+subterrar: Cidade situada junto ao vulcão Vesúvio, que no ano 79 I]subterrou a Cidade de Pompéia.,}
+A='Glosa1374'
+{desenterrar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa337A' = “colocar em um túmulo ou tumba”
+{enterrar: Ela [enterrou o filho recém-nascido, depois de ter escondido a gravidez dos pais.,
+sepultar: A primeira estrela do «shabat» ainda não brilhou, os judeus ainda não pediram que Pilatos mandasse [sepultar os corpos.,}
+A='Glosa1374'
+{desenterrar}
+Chave: SEPULTAR <verb.social>
+ILI: 02382555
+
+Sense 2
+{02382555} <verb.social> bury, entomb, inhume, inter, lay to rest -- (place in a grave or tomb; "Stalin was buried behind the Kremlin wall on Red Square"; "The pharaos were entombed in the pyramids"; "My grandfather was laid to rest last Sunday")
+       => {01501920} <verb.contact> lay, put down, repose1 -- (put in a horizontal position; "lay the books on the table"; "lay the patient carefully onto the bed")
+           => {01452069} <verb.contact> put, set, place, pose2, position, lay1 -- (put into a certain place or abstract location; "Put your things here"; "Set the tray down"; "Set the dogs on the scent of the missing children"; "Place emphasis on a certain point")
+               => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

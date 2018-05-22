@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0675
+
+DADO O SYNSET:
+
+S='Glosa675'
+{arrear2: x,
+arriar: Perdida a batalha, os sobreviventes H]arriaram os armamentos.,
+depor: Ninguém acredita que o IRA [depôs suas armas de repente, disse o pastor Ian Paisley, líder do Partido Unionista Democrático (de maioria protestante).,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa675' = “forçar abandonar; deixar”
+{depor: Ninguém acredita que o IRA [depôs suas armas de repente, disse o pastor Ian Paisley, líder do Partido Unionista Democrático (de maioria protestante).,}
+Chave: DEPOR <verb.social>
+ILI: 02332949
+
+Sense 1
+{02332949} <verb.social> depose, force out1 -- (force to leave (an office))
+       => {02329756} <verb.social> oust, throw out, drum out, boot out, kick out, expel1 -- (remove from a position or office; "The chairman was ousted after he misappropriated funds")
+           => {02331921} <verb.social> remove -- (remove from a position or an office)

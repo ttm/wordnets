@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA1343
+
+DADO O SYNSET:
+
+S='Glosa1343'
+{engomar: I]Engomava golas da camisa branca.,
+ gomar1: x,
+ passar: Fazer o jantar, I]passar as camisas do marido ou mesmo limpar a casa com o auxílio das máquinas maravilhosas que temos hoje, de lavar, de aspirar.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1343' = “prensar e amaciar com um ferro (de passar) quente” 
+{engomar: Vizinhos contaram que a vítima estava I]engomando algumas roupas com o ferro em cima da cama.,
+ passar: Elaine estava [passando roupa no andar superior quando os assaltantes entraram na sua casa.,}
+Chave: PASSAR <verb.contact>
+ILI: 01350477
+
+Sense 1
+{01350477} <verb.contact> iron, iron out -- (press and smooth with a heated iron; "press your shirts")
+       => {01350260} <verb.contact> press1 -- (place between two surfaces and apply weight or pressure; "pressed flowers")
+           => {00450410} <verb.change> flatten, flatten out -- (become flat or flatter; "The landscape flattened")
+               => {00135866} <verb.change> change shape, change form, deform2 -- (assume a different shape or form)
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

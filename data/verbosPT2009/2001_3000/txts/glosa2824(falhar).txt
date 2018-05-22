@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA2824
+
+DADO O SYNSET:
+
+S='Glosa2824'
+	    {falhar: Nos dois treinos, o motor I]falhou na subida que leva à reta dos boxes.,
+	      ratear2: Podemos acelerar sem nos preocuparmos com a marcha que está engatada, pois sempre há resposta e o motor se recupera facilmente dos mais baixos giros, e sem I]ratear. # O motor da RE5 tendia a I]ratear, estourar e oscilar como resultado do sistema duplo de ignição instalado.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2824' = “Parar de operar ou funcionar”
+	    {falhar: Nos dois treinos, o motor I]falhou na subida que leva à reta dos boxes.,
+	      ratear2: acabei tendo problemas também com a CRF230 que ficou parada mais de 2 minutos na segunda volta e I]rateou o resto da prova.,}
+Chave: FALHAR <verb.change>
+ILI: 00422006
+
+Sense 4
+{00422006} <verb.change> fail, go bad1, give way, die4, give out, conk out, go3, break5, break down -- (stop operating or functioning; "The engine finally went"; "The car died on the road"; "The bus we travelled in broke down on the way to town"; "The coffee maker broke"; "The engine failed on the way to town"; "her eyesight went after the accident")
+       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night") 

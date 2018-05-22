@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA3989
+
+DADO O SYNSET:
+
+S='Glosa3989'
+    	{presidir: Leis imutáveis e harmônicas M]presidem à evolução da humanidade.,
+      	 reger: Qual é o artigo da lei, o qual M]rege esta matéria? ,
+      	 regimentar: x,
+      	 regulamentar: O diretor A]regularizou a compra do material.,
+      	 regular: Este código I]regula os direitos e obrigações particulares concernentes às pessoas.,
+      	 regularizar: Quem não I]regularizou sua posição militar no Brasil não poderá requerer o passaporte italiano.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3989' = “trazer em conformidade com as regras, princípios ou uso; impor regulamentos”
+    	{presidir: Por isso os pesquisadores utilizaram a sintase do óxido nítrico, enzima que [preside a formação do gás nas células nervosas e endoteliais ..,
+      	 reger: Ela dependia de alterações na legislação que [rege o sistema financeiro e o próprio Banco Central.,
+      	 regulamentar: Na região das minas, uma nova legislação [regulamentou a exploração do ouro e dos diamantes.,
+      	 regular: A lei 8.713, que [regula as eleições deste ano, proíbe que candidatos a cargos majoritários sejam excluídos de debates transmitidos por emissoras de radiodifusão.,
+      	 regularizar: O prefeito nega que as doações sejam eleitoreiras e diz que [regularizou a situação de moradores que ocupavam terrenos da prefeitura.}
+Chave: REGULAMENTAR <verb.social> 
+ILI: 02436624
+
+Sense 1
+{02436624} <verb.social> regulate1, regularize, regularise, order1, govern2 -- (bring into conformity with rules or principles or usage; impose regulations; "We cannot regulate the way people dress"; "This town likes to regulate")
+       => {00674417} <verb.cognition> decide, make up one's mind, determine -- (reach, make, or come to a decision about something; "We finally decided after lengthy deliberations")

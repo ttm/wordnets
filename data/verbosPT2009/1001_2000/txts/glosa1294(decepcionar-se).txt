@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA1294
+
+DADO O SYNSET:
+
+S='Glosa1294'
+{decepcionar-se: Muitos poderão [decepcionar-se com os menores valores nominais em um período de estabilidade da moeda.,
+ desencantar-se: Mas o decano dos psicólogos americanos neste período, William James, logo se [desencantou com Wundt.,
+ desenganar-se: O autor se desenganará de mais esse gênero de literatura, como já [se desenganou do teatro e dos versos,
+ desiludir-se: Muitos casais [se desiludiram com seu estressante ritmo de vida. # Os dois [se desiludiram com a religião,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1294' = “libertar-se de encanto, encantamento” 
+{decepcionar-se: Muitos poderão [decepcionar-se com os menores valores nominais em um período de estabilidade da moeda.,
+ desencantar-se: Mas o decano dos psicólogos americanos neste período, William James, logo se [desencantou com Wundt.,
+ desenganar-se: Jardel Filho se enganava e se I]desenganava com o populismo de esquerda.,
+ desiludir-se: Os dois [se desiludiram com a religião.,}
+Chave: DECEPCIONAR-SE <verb.emotion>
+ILI: 01764884
+
+Sense 1
+{01764884} <verb.emotion> disenchant, disillusion -- (free from enchantment)
+       => {01746656} <verb.emotion> disappoint, let down -- (fail to meet the hopes or expectations of; "Her boyfriend let her down when he did not propose marriage")
+           => {02482511} <verb.social> thwart, queer, spoil, scotch, foil, cross, frustrate, baffle, bilk1 -- (hinder or prevent (the efforts, plans, or desires) of; "What ultimately frustrated every challenger was Ruth's amazing September surge"; "foil your opponent")
+               => {02379144} <verb.social> prevent1, forestall1, foreclose, preclude, forbid3 -- (keep from happening or arising; have the effect of preventing; "My sense of tact forbids an honest answer")

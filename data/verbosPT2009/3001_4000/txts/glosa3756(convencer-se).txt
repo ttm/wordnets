@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA3756
+
+DADO O SYNSET:
+
+S='Glosa3756'
+{compenetrar-se: Para viver um amor, na realidade, há que I]compenetrar-se da verdade de que não existe amor sem fidelidade.,
+	 convencer-se: Se o Defensor do Povo [convencer-se de que o cumprimento rigoroso da norma pode provocar situações injustas ou prejudiciais para os administrados, poderá sugerir ao órgão legislativo a modificação da mesma.,
+	 penetrar-se: A]Penetrou-se, por fim, da conveniência de seu afastamento.  ,
+	 possuir-se: Em 1889, só pequena parte do povo brasileiro se A]possuíra das idéias republicanas.}	
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3756' = “fazer (alguém) concordar, entender ou perceber a verdade ou a validade de alguma coisa”
+{compenetrar-se: Para viver um amor, na realidade, há que I]compenetrar-se da verdade de que não existe amor sem fidelidade.,
+	 convencer-se: Se o Defensor do Povo [convencer-se de que o cumprimento rigoroso da norma pode provocar situações injustas ou prejudiciais para os administrados, poderá sugerir ao órgão legislativo a modificação da mesma.,
+	 penetrar-se: A]Penetrou-se, por fim, da conveniência de seu afastamento.  ,
+	 possuir-se: Em 1889, só pequena parte do povo brasileiro se A]possuíra das idéias republicanas.}
+Chave: CONVENCER-SE <verb.communication>
+ILI: 00744116
+
+Sense 1 
+{00744116} <verb.communication> convert, win over, convince -- (make (someone) agree, understand, or realize the truth or validity of something; "He had finally convinced several customers of the advantages of his product")
+       => {00741138} <verb.communication> persuade -- (cause somebody to adopt a certain position, belief, or course of action; twist somebody's arm; "You can't persuade me to buy this ugly vase!")
+           => {00744964} <verb.communication> induce, stimulate1, cause, have, get, make -- (cause to do; cause to act in a specified manner; "The ads induced me to buy a VCR"; "My children finally got me to buy a computer"; "My wife made me buy a new sofa")

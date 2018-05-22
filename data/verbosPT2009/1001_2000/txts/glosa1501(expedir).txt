@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA1501
+
+DADO O SYNSET:
+
+S='Glosa1501'
+{aviar: Para [aviar encomendas do interior não havia outro! ,
+ despachar: O brigadeiro Picorelli explicou que preferiu aproveitar a disponibilidade de espaço de um avião militar para [despachar caixas com roupas de inverno e livros sobre a vida de Cristo.,
+ despedir: O presidente só H]despediu assuntos prioritários.,
+ expedir: A autoridade que ordenar a prisão fará [expedir o respectivo mandado.,}
+	  
+A ANÁLISE RESULTA EM:
+
+S='Glosa1501' = “enviar em direção a um destino designado” 
+{despachar: O brigadeiro Picorelli explicou que preferiu aproveitar a disponibilidade de espaço de um avião militar para [despachar caixas com roupas de inverno e livros sobre a vida de Cristo.,
+ despedir: Enganada pelo sogro, que a I]despediu para a casa do pai, Tamar ainda se apresentava resignada às leis de seu tempo.,
+ expedir: Ele picotou a namorada em várias partes e colocou-a dentro de uma mala e a I]expediu para a Itália.,}
+Chave: EXPEDIR <verb.motion>
+ILI: 01897699
+
+Sense 1
+{01897699} <verb.motion> dispatch, despatch, send off -- (send away towards a designated goal)
+       => {01893524} <verb.motion> transport1, send, ship -- (transport commercially)
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

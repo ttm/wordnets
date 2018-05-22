@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA1223
+
+DADO O SYNSET:
+
+S='Glosa1223'
+{descolocar-se: As dificuldades encontradas pelos moradores do Bairro de Comendador Soares para I]descolocar-se até os seus Bairros vizinho são inúmeras,
+ deslocar-se: As massas de ar tendem a [deslocar-se das áreas de mais alta pressão para aquelas de mais baixa pressão.,
+ ir: Clara Maria, normalmente, não levaria mais que 20 minutos para [ir de casa ao escritório, no Leblon, Zona Sul do Rio. ,
+ mover-se: Os elétrons dos átomos [movem-se em uma direção e passam a mover-se na direção oposta # O trem começou a [mover-se e ele não pôde pegá-lo,}
+	  
+A='Glosa725'
+{estacionar, parar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1223' = “pôr-se em movimento”
+{descolocar-se: No final do show , Hebe desceu do palco e I]se descolocou até a platéia.,
+ deslocar-se: O carro I]se desloca quando é iniciada a soldagem.,
+ ir: Depois do coquetel no Estação, os amigos I]foram para a casa de Monique.,
+ mover-se: O trem começou a [mover-se e ele não pôde pegá-lo.,}
+A='Glosa725'
+{estacionar, parar}
+Chave: MOVER-SE <verb.motion>
+ILI: 01810311
+
+Sense 9
+{01810311} <verb.motion> start, go9, get going -- (begin or set in motion; "I start at eight in the morning"; "Ready, set, go!")

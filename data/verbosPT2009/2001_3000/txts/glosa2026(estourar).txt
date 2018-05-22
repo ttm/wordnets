@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA2026
+
+DADO O SYNSET:
+	
+S='Glosa2026'
+    	{espocar: Por ele, sua chegada a um local para fazer comício ou corpo-a-corpo com eleitores não seria precedida do [espocar de fogos de artifício .,
+      	 estalar: Bravô! Hurrah! gritam todos numa trovoada e aplausos - o véu desaba, ao som dos hinos, I]estalar de foguetes, guinchos de lanchas, repiques de sinos e salvas de artilharia. ,
+      	 estalejar: Um sipaio acaba de enfeitar os paus com fiadas de panchões (foguetes) encarnados que deveriam I]estalejar, quando fosse dado o sinal. ,
+      	 estoirar: Depois é I]estoirar uns foguetes pela noite fora, ruidosa tradição que desce dos montes até ao centro da cidade.,
+      	 estourar: Ele foi detido por [estourar um rojão (proibido nos EUA) na partida Grécia x Bulgária.,
+      	 estralar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2026' = “estourar, geralmente com barulho”
+    	{espocar: Ele e seus amigos vagueavam sossegados pela penumbra da floresta quando I]espocou o primeiro tiro.,
+      	 estalar: Ao ser jogada no chão, a “biribinha” [estala.,
+      	 estalejar: Busca-pés, espadas, pitus, vulcões luziam e I]estalejavam proporcionando um espetáculo fantasmagórico, tendo o clarão das fogueiras como moldura incandescente.,
+      	 estoirar: Já decorria o julgamento quando outra bomba I]estoirou.,
+      	 estourar: No final da cerimônia, um beijo longuíssimo, mais beijos, abraços e champanhe [estourando.}
+Chave: ESTOURAR <verb.change>
+ILI: 00296442
+
+Sense 3
+{00296442} <verb.change> explode, burst9 -- (burst outward, usually with noise; "The champagne bottle exploded")
+       => {00135037} <verb.change> change integrity -- (change in physical make-up)
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

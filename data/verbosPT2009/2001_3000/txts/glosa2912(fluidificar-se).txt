@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA2912
+
+DADO O SYNSET:
+
+S='Glosa2912'
+	    {diluir-se: Na maior parte dos casos, é suficiente com 10 - 20 g de Etingal L por1.000 litros de banho. Se a agitação do banho for baixa, éconveniente I]diluir-se o produto antes da adição do mesmo ao banho,numa relação de uma parte de Etingal L para 10 partes de água.,
+	      fluidificar-se: A bentonita trata-se de um material tixotrópico que em dispersão muda seu estado físico por efeito da agitação, em repouso é gelatinosa com ação anti-infiltrante; agitada I]fluidifica-se.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2912' = “Reduzir a força ou sabor de um solução ou mistura”
+	    {diluir-se: Uma gota de tinta que I]se dilui na água, é um exemplo. de difusão no interior de um líquido.,
+	      fluidificar-se: A bentonita trata-se de um material tixotrópico que em dispersão muda seu estado físico por efeito da agitação, em repouso é gelatinosa com ação anti-infiltrante; agitada I]fluidifica-se.,}
+Chave: FLUIDIFICAR-SE <verb.change>
+ILI: 00218499
+
+Sense 1
+{00218499} <verb.change> dilute, thin2, thin out2, reduce9, cut5 -- (lessen the strength or flavor of a solution or mixture; "cut bourbon")
+       => {00217329} <verb.change> weaken1 -- (lessen the strength of; "The fever weakened his body")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

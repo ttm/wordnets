@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2747
+
+DADO O SYNSET:
+
+S='Glosa2747'
+	    {refletir-se: É claro que a ressonância da queda da inflação, já esperável dos jornais e TVs, tende a [refletir-se no eleitorado em alguma dose.,
+	      repercutir-se: Uma vez que os fatores de risco das doenças cardiovasculares (DCV) estão já presentes na infância e adolescência e porque os níveis de AF habitual parecem exercer alguma influência nesses fatores, índices mais elevados de AF nesses períodos de vida poderão I]repercutir-se na redução da morbidade e mortalidade das DCV em idades adultas. ,
+	      repetir-se: Enquanto o governo continuar de frente para o Primeiro Mundo e de costas para o Terceiro, essa cena euclideana continuará a [se repetir, afirma.,
+	      reproduzir-se: Para manter as sanções, seria preciso aceitar-se medido com os mesmo critérios aplicados à Áustria. E na precipitação então estas medidas foram suspensas, um ato tão simbólico quanto a sua instauração: cauciona pesadamente uma aliança que amanhã poderá I]se reproduzir em qualquer outro lugar.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2747' = “Acontecer ou ocorrer novamente”
+	    {refletir-se: O aumento da produção I]refletiu-se em outros setores econômicos.,
+	      repercutir-se: E o caso I]repercutiu-se logo nas escolas públicas, tanto preparatória com superiores de Filosofia e Teologia.,
+	      repetir-se: O ritmo eleitoral que dominou o ano I]repetiu-se na Assembléia Legislativa, que encerrou o período elegendo.,
+	      reproduzir-se: Esse padrão I]reproduziu-se em todas as macrorregiões do País.,}
+
+Chave: REPERCUTIR-SE <verb.change>
+ILI: 00332458 
+
+Sense 3
+{00332458} <verb.change> recur, repeat -- (happen or occur again; "This is a recurring story")
+       => {00329254} <verb.change> happen, hap, go on, pass off, occur, pass, fall out, come about, take place -- (come to pass; "What is happening?"; "The meeting took place off without an incidence"; "Nothing occurred that seemed important") 

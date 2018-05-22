@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA2978
+
+DADO O SYNSET:
+
+S='Glosa2978'
+	    {afundar: O problema é um poço agora, já ganhei os canos, o poço já tem 7 metros furado, mas falta a bomba e I]afundar mais. ,
+	      aprofundar: A corrida do ouro teve início há oito meses, quando empresas mineradoras e garimpeiros começaram a usar dinamites para [aprofundar as betas (túneis cavados por garimpeiros do século 18) . ,
+	      descavar: x,
+	      escavar: Ele I]escavou o fundo do poço com as unhas.,
+	      fundir2: x,
+	      profundar: M] Profundar um poço.,
+	      refundar: Os operários A]refundam mais a escavação.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2978' = “Tornar mais profundo”
+	    {afundar: O problema é um poço agora, já ganhei os canos, o poço já tem 7 metros furado, mas falta a bomba e I]afundar mais.,
+	      aprofundar: Alargaram, I]aprofundaram o buraco. Afastaram as pedras e os troncos esburgados como ossadas acumuladas num túmulo. Cavaram mais.,
+	      escavar: Ele I]escavou o fundo do poço com as unhas.,
+	      profundar: Robustos I]profundava os alicerces.,}
+Chave: APROFUNDAR <verb.change>
+ILI: 00554961
+
+Sense 3
+{00554961} <verb.change> deepen3 -- (make deeper; "They deepened the lake so that bigger pleasure boats could use it")
+       => {00148978} <verb.change> enlarge3 -- (make larger; "She enlarged the flower beds")
+           => {00147655} <verb.change> increase2 -- (make bigger or more; "The boss finally increased her salary"; "The university increased the number of students it admitted")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

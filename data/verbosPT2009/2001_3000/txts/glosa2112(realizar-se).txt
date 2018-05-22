@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA2112
+
+DADO O SYNSET:
+	
+S='Glosa2112'
+    	{cumprir-se: Aproximadamente 700 anos depois, a profecia I]cumpriu-se literalmente quando o Senhor Jesus foi crucificado no meio de dois malfeitores.,
+      	 dar-se: Há quase 2001 anos I]deu-se o cumprimento de uma profecia antiga.,
+      	 efeituar-se: x,
+      	 efetuar-se: Todos os seus sonhos se A]efetuaram. # A separação H]efetuou-se sem grandes traumas.,
+      	 executar-se: I]Executou-se em Cristo o plano de redenção.,
+      	 realizar-se: O mistério de sofrimento e de redenção anunciado pela figura do Servo de Javé I]realizou-se plenamente em Cristo. # A previsão A]realizou-se.,
+      	 verificar-se: Tal situação era inacreditável, mas o cumprimento da profecia [verificou-se de maneira notável.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2112' = “tomar forma; tornar-se realidade”
+    	{cumprir-se: Aproximadamente 700 anos depois, a profecia I]cumpriu-se literalmente quando o Senhor Jesus foi crucificado no meio de dois malfeitores.,
+      	 dar-se: Há quase 2001 anos I]deu-se o cumprimento de uma profecia antiga.,
+      	 efetuar-se: Minha união com Jesus não se I]efetuou entre trovões e relâmpagos
+      	 executar-se: I]Executou-se em Cristo o plano de redenção.,
+      	 realizar-se: O mistério de sofrimento e de redenção anunciado pela figura do Servo de Javé I]realizou-se plenamente em Cristo.,
+      	 verificar-se: Tal situação era inacreditável, mas o cumprimento da profecia [verificou-se de maneira notável.}
+Chave: REALIZAR-SE <verb.change>
+ILI: 00333055
+
+Sense 4
+{00333055} <verb.change> happen1, materialize, materialise -- (come into being; become reality; "Her dream really materialized")
+       => {00329254} <verb.change> happen, hap, go on, pass off, occur, pass, fall out, come about, take place -- (come to pass; "What is happening?"; "The meeting took place off without an incidence"; "Nothing occurred that seemed important")

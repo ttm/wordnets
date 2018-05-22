@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA
+
+DADO O SYNSET:
+
+S='Glosa944'
+{apezinhar: x,
+conculcar: Os imperantes são vingadores dos Sagrados Cânones e protetores natos da Igreja; contudo, quer que sejam os imperantes os primeiros a I]conculcar os cânones relativos ao placet régio.,
+espezinhar: Na arquibancada, o presidente Carlos Augusto Montenegro aproveitava para [espezinhar. #  A revista americana Allure, só para [espezinhar, publicou uma reportagem sobre Madonna em que o lugar das fotos ficava em branco.,
+pisar: Para Tertuliano não basta convencer o adversário: arrasa-o, I]pisa-o, humilha-o.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa944' = “olhar com desdém”
+{conculcar: Os imperantes são vingadores dos Sagrados Cânones e protetores natos da Igreja; contudo, quer que sejam os imperantes os primeiros a I]conculcar os cânones relativos ao placet régio.,
+espezinhar: Na arquibancada, o presidente Carlos Augusto Montenegro aproveitava para [espezinhar. #  A revista americana Allure, só para [espezinhar, publicou uma reportagem sobre Madonna em que o lugar das fotos ficava em branco.,
+pisar: Para Tertuliano não basta convencer o adversário: arrasa-o, I]pisa-o, humilha-o.,}
+Chave: ESPEZINHAR <verb.emotion>
+ILI: 01723427
+
+Sense 1
+{01723427} <verb.emotion> contemn, despise, scorn, disdain -- (look down on with disdain; "He despises the people he has to work for"; "The professor scorns the students who don't catch on immediately")
+       => {01722800} <verb.emotion> hate, detest -- (dislike intensely; feel antipathy or aversion towards; "I hate Mexican food"; "She detests politicians")
+           => {01725265} <verb.emotion> dislike -- (have or feel a dislike or distaste for; "I really dislike this salesman")1

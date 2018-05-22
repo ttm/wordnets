@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA1951
+
+DADO O SYNSET:
+
+S='Glosa1951'
+{alistar-se: Ao estalar a Primeira Guerra Mundial, [alistou-se no exército alemão.,
+ escrever-se: x,
+ inscrever-se: No ano passado, [inscreveu-se no Festival do Minuto com «Eva Jones», filme que contava a história de uma lavadeira que comia sabão.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1951' = “ficar registrado formalmente como participante ou membro”
+{alistar-se: Na Palestina, Shamir se [alistou no Irgun e depois no Lehi (ou Stern) , grupos clandestinos judaicos responsáveis por atos terroristas contra a britânicos e árabes.,
+ inscrever-se: Até lá, só as pessoas que se [inscreveram no seminário poderão conhecer as novidades.,}
+Chave: INSCREVER-SE <verb.social>
+ILI: 02397243
+
+Sense 1
+{02397243} <verb.social> enroll, inscribe, enter6, enrol, recruit1 -- (register formally as a participant or member; "The party recruited many new members")
+       => {02397606} <verb.social> register -- (record in writing; enter into a book of names or events or transactions)
+           => {00967710} <verb.communication> record, enter4, put down5 -- (make a record of; set down in permanent form)
+               => {02161122} <verb.possession> save, preserve1 -- (to keep up and reserve for personal or special use; "She saved the old family photographs in a drawer")
+                   => {02138940} <verb.possession> keep, hold on -- (retain possession of; "Can I keep my old stuffed animals?"; "She kept her maiden name after she married")
+                       => {02139918} <verb.possession> have, have got, hold -- (have or possess, either in a concrete or an abstract sense; "She has $1,000 in the bank"; "He has got two beautiful daughters"; "She holds a Master's degree from Harvard")

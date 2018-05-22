@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA3472
+
+DADO O SYNSET:
+
+S='Glosa3472'
+	    {
+	      apoucar: x,
+	      desbastar: não tardavam em mudar de figura, encher ou [desbastar o corpo,
+	      desbastecer: x,
+	      desengrossar: ...]desengrossar uma peça/Plainas : Utilizadas para aplainar, desbastar, aparar e ]desengrossar com precisão madeiras maciças,
+	      diminuir: Para [diminuir as dimensões de minha pança.../Podemos ]diminuir as espessuras dos vidros e economizar/...]diminuir a espessura da cicatriz,
+	      minguar: A cabeleira começa a ]minguar,
+	      minuir: x,
+	      reduzir: x,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3472' = “tornar menor ou perder substância”
+	     {desbastar: Ele I]desbastou a vasta cabeleira loura e deu um adeus ao rabinho de cavalo,
+	      desengrossar: Com a dieta, sua cintura H]desengrossou bastante,
+	      diminuir: Para [diminuir as dimensões de minha pança.../ a recomendação aos pacientes é [diminuir o peso (se for obeso) , reduzir a ingestão de sal e álcool, deixar de fumar e passar a fazer exercícios regularmente,
+	      minguar: A cabeleira começa a I]minguar,}
+Chave: DIMINUIR <verb.change>
+ILI: 00258801
+
+Sense 1
+{00258801} <verb.change> dwindle, dwindle away, dwindle down -- (become smaller or lose substance; "Her savings dwindled down")
+       => {00146081} <verb.change> decrease, diminish, lessen, fall6 -- (decrease in size, extent, or range; "The amount of homework decreased towards the end of the semester"; "The cabin pressure fell dramatically"; "her weight fall to under a hundred pounds"; "his voice fell to a whisper")
+           => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

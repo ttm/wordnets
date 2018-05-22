@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA2131
+
+DADO O SYNSET:
+
+	  S='Glosa2131'
+	    {arrebentar: x,
+	      detonar: Os terroristas se assustaram e [detonaram a bomba, que atingiu diretamente o sargento.,
+	      estoirar: Deitaram-se foguetes que I]estoiraram no ar.,
+	      estourar: Bombas e foguetes I]estouraram pela madrugada defronte ao hotel da delegação e todos os jogadores perderam o sono. ,
+	      explodir: A tranqüila e pacata Tandil está amedrontada - e tudo por causa de uma bomba que [explodiu, na madrugada de ontem, na boate Yamo.,
+	      expluir: x,
+	      rebentar: I]Rebentaram os foguetes, as bancadas explodiram de alegria e até o resultado do encontro ajudou à festa. # As bombas A]rebentaram, destruindo a ferrovia.,
+	      voar: As primeiras bombas I]voaram sobre os "terroristas" talebans. # M]Voou pelos ares o depósito de armas.,}
+
+A ANÁLISE RESULTA EM:
+
+	  S='Glosa2131' = “lançar-se para fora sob efeito de explosão, fazendo barulho”
+	    {detonar: Momentos depois dessa explosão, outra I]bomba detonou na casa de força do Riocentro, sem maiores conseqüências.,
+	      estoirar: Deitaram-se foguetes que I]estoiraram no ar.,
+	      estourar: Bombas e foguetes I]estouraram pela madrugada defronte ao hotel da delegação. ,
+	      explodir: E tudo por causa de uma bomba que [explodiu, na madrugada de ontem.,
+	      rebentar: I]Rebentaram os foguetes, as bancadas explodiram de alegria e até o resultado do encontro ajudou à festa. # As bombas A]rebentaram, destruindo a ferrovia.,
+	      voar: As primeiras bombas I]voaram sobre os "terroristas" talebans. # M]Voou pelos ares o depósito de armas.,}
+Chave: EXPLODIR <verb.change>
+ILI: 00296442
+
+Sense 2
+{00296442} <verb.change> explode, burst9 -- (burst outward, usually with noise; "The champagne bottle exploded")
+       => {00135037} <verb.change> change integrity -- (change in physical make-up)
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA4046
+
+DADO O SYNSET:
+
+S='Glosa4046'
+{facilitar-se: M]Facilitou-se a colaborar conosco.,
+oferecer-se: Há no entanto alguns pacientes que num ato de nobreza se I]oferecem a ajudar aqueles que estão sofrendo com a decisão de operar ou não.,
+prestar-se: É muito mais fácil e gratificante quando todos se I]prestam a ajudar.,
+prontificar-se: Algumas pessoas da lista se I]prontificaram a ajudar e outras deram sugestões para melhorar a busca do anônimo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4046' = “concordar livremente”
+{facilitar-se: M]Facilitou-se a colaborar conosco.,
+oferecer-se: Há no entanto alguns pacientes que num ato de nobreza se I]oferecem a ajudar aqueles que estão sofrendo com a decisão de operar ou não.,
+prestar-se: É muito mais fácil e gratificante quando todos se I]prestam a ajudar.,
+prontificar-se: Algumas pessoas da lista se I]prontificaram a ajudar e outras deram sugestões para melhorar a busca do anônimo.,}
+Chave: OFERECER-SE <verb.social>
+ILI: 02352029
+
+ Sense 2
+{02352029} <verb.social> volunteer1, offer -- (agree freely; "She volunteered to drive the old lady home"; "I offered to help with the dishes but the hostess would not hear of it")
+       => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

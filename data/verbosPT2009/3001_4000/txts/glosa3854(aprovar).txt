@@ -1,0 +1,39 @@
+ANÁLISE DA GLOSA3854
+
+DADO O SYNSET:
+	
+S='Glosa3854'
+{aprovar: Se precisar do apoio da Comissão de Trabalho da Câmara para [aprovar modificações na legislação trabalhista, o governo vai ter de suar a camisa.,
+	 autorizar: Romildo Canhim vem sendo pressionado pela Justiça do Trabalho para [autorizar um aumento de 693% aos servidores da Ceplac de Rondônia.,
+	 consagrar: Os países mais ricos se opõem a [consagrar no relatório do Cairo o direito de imigrantes de se reunirem com suas famílias.,
+	 placitar: Terminou-se por I]placitar mudança de base de cálculo do tributo, desconhecendo-se aquela definida em lei complementar.,
+	 ratificar: Em 1993, líderes do Congresso Nacional Africano, de Mandela, e do Partido Nacional concordam em [ratificar uma nova Constituição, que garantiria a todas as raças o direito de voto.,
+	 sancionar: O governador Marcello Alencar vai [sancionar dia 7 de maio a lei que cria no estado os juizados especiais.,
+	 subscrever: Tinham, todos, o direito de [subscrever tal escolha e Marco Maciel o de aceitá-la.}
+
+A='Glosa3124'
+{condenar, desadorar1, desaprovar, enjeitar, improbar, improvar, refutar, reprovar, vetar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3854' = “dar sanção [a]”
+{aprovar: Se precisar do apoio da Comissão de Trabalho da Câmara para [aprovar modificações na legislação trabalhista, o governo vai ter de suar a camisa.,
+	 autorizar: Romildo Canhim vem sendo pressionado pela Justiça do Trabalho para [autorizar um aumento de 693% aos servidores da Ceplac de Rondônia.,
+	 consagrar: Os países mais ricos se opõem a [consagrar no relatório do Cairo o direito de imigrantes de se reunirem com suas famílias.,
+	 placitar: Terminou-se por I]placitar mudança de base de cálculo do tributo, desconhecendo-se aquela definida em lei complementar.,
+	 ratificar: Em 1993, líderes do Congresso Nacional Africano, de Mandela, e do Partido Nacional concordam em [ratificar uma nova Constituição, que garantiria a todas as raças o direito de voto.,
+	 sancionar: O governador Marcello Alencar vai [sancionar dia 7 de maio a lei que cria no estado os juizados especiais.,
+	 subscrever: Tinham, todos, o direito de [subscrever tal escolha e Marco Maciel o de aceitá-la.}
+
+A='Glosa3124'
+{condenar, desadorar1, desaprovar, enjeitar, improbar, improvar, refutar, reprovar, vetar}
+Chave: APROVAR <verb.communication>
+ILI: 00780419 
+
+Sense 1 
+{00780419} <verb.communication> approve, O.K., okay, sanction1 -- (give sanction to; "I approve of his educational policies")
+       => {00777368} <verb.communication> authorize, authorise, pass, clear1 -- (grant authorization or clearance for; "Clear the manuscript for publication"; "The rock star never authorized this slanderous biography")
+           => {00776433} <verb.communication> permit, allow, let2, countenance -- (consent to, give permission; "She permitted her son to visit her estranged husband"; "I won't let the police search her basement"; "I cannot allow you to see your exam")
+               => {00771887} <verb.communication> accept, consent, go for -- (give an affirmative reply to; respond favorably to; "I cannot accept your invitation"; "I go for this resolution")
+                   => {00693825} <verb.cognition> react, respond -- (show a response or a reaction to something)
+                       => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

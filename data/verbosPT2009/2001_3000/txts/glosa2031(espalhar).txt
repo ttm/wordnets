@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2031
+
+DADO O SYNSET:
+	
+S='Glosa2031'
+    	{dispersar: O vento I]dispersou milhares e milhares de sacos de plástico por centenas de metros em redor. ,
+      	 disseminar: O vento H]dissemina os esporos.,
+      	 espalhar: A presença do Leonardo foi uma aura benfazeja que [espalhou as nuvens de uma grossa tormenta, que tendo começado a roncar quando Leonardo foi preso com aquelas palavras -- foi malsinação -- viera desabar de todo em casa, e prometia durar muito tempo .,
+      	 espraiar: x,
+      	 tresmalhar: A tempestade H]tresmalhou as naus.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2031' = “fazer com que algo como um grupo/conjunto separe-se indo em diferentes direções” 
+    	{dispersar: O vento I]dispersou milhares e milhares de sacos de plástico por centenas de metros em redor. ,
+      	 disseminar: O fungo libera seus esporos para o meio ambiente I]disseminando-os a longas distâncias.,
+      	 espalhar: A presença do Leonardo foi uma aura benfazeja que [espalhou as nuvens de uma grossa tormenta.,
+      	 tresmalhar: Dá-me somente, Jesus, tua graça para que eles voltem ao aprisco da Santa Igreja e reconduzam consigo as pobres ovelhinhas que seus maus exemplos I]tresmalharam.}
+Chave: ESPALHAR <verb.motion>
+ILI: 01972469
+
+Sense 2
+{01972469} <verb.motion> disperse1, dissipate1, dispel1, break up1, scatter1 -- (to cause to separate and go in different directions; "She waved her hand and scattered the crowds")
+       => {01973194} <verb.motion> separate1, divide -- (make a division or separation)

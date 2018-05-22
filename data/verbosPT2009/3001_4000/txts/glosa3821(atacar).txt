@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA3821
+
+DADO O SYNSET:
+
+S='Glosa3821'
+{acometer: Pode ser causada por acidentes ou pelo envelhecimento e [acometer qualquer articulação.,
+	 atacar: É uma espécie de dupla personalidade que costuma [atacar cantores e atletas.,
+	 pilhar: x }
+	
+A ANÁLISE RESULTA EM:
+
+S='Glosa3821' = “atacar alguém fisicamente ou emocionalmente”
+{acometer: Pode ser causada por acidentes ou pelo envelhecimento e [acometer qualquer articulação.,
+	 atacar: É uma espécie de dupla personalidade que costuma [atacar cantores e atletas.}
+Chave: ATACAR <verb.competition>
+ILI: 01085076
+
+Sense 1
+{01085076} <verb.competition> assail, assault, set on, attack2 -- (attack someone physically or emotionally; "The mugger assaulted the woman"; "Nightmares assailed him regularly")

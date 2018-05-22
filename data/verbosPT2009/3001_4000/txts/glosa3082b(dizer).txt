@@ -1,0 +1,38 @@
+ANÁLISE DA GLOSA3082b
+
+DADO O SYNSET:
+
+S='Glosa3082'
+	    {
+	      consignar: DEVIANT,
+	      contar: Isto é, deslocava sempre a narração, [contando os fatos a partir de um personagem, depois de outro, em seguida de um terceiro.,
+	      declarar: Ao [declarar tamanha sandice, Romário deve estar se achando esperto, malandro, carioquíssimo, quando está sendo apenas infantil. ,
+	      desfiar: No encontro, Amazonino vai aproveitar para [desfiar todos os seus ideais liberais, e na quinta-feira assina ficha no PFL, na presença de Maciel, é claro.,
+	      dizer: Continuam nos [dizendo que todas as mães são loiras, que todas as famílias são felizes, que nosso carro representa nosso poder e nossa potência até física e social.,
+	      enarrar: Assim, tudo em silencio, o padre Enéas divinos fados I]enarrava, e expunha.,
+	      esfiar: Para quê I]esfiar miudamente o lance lamentável?,
+	      expor: O modo de [expor o monólogo interior torna instigantes os «fantasmas», temores e hesitações de Devinne.,
+	      historiar: E quero já adiantar antes de [historiar alguns fatos que podem não ser do conhecimento geral que o juízo dos leitores é devastador.,
+	      mencionar: Num outro plano devemos [mencionar as dificuldades de modernização das relações de trabalho.,
+	      narrar: Rapina [narrará fatos reais e recentes do mercado financeiro no Brasil, mas os personagens terão nomes fictícios.,
+	      recontar: Isso não significa [recontar a história espanhola através das gravuras goyescas, nem tampouco contemporâneas de representação da guerra.transcendendo o nível factual circunscrito à Guerra de Independência.,
+	      referir: Cabe ao serviço responsável pala apresentação I]referir os fatos relevantes da história clínica e apenas citar os exames laboratoriais e de imagem que tenham sido realizados.,
+	      relatar: O Poema da Criação [relata a formação do mundo, o triunfo do deus Marduk sobre todos os deuses e a criação do homem com barro e sangue de dragão.,
+	      soletrar: I]Soletrar as diferentes histórias que, ao serem contadas, organizam e legitimam visões de mundo e, enfim, soletrar as repetições simplificadas e apaziguadoras dessas histórias, que reforçam e banalizam versões, transformando-as em verdades. ,
+	    }
+
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3082b' = “expressar algo em palavras”
+	     {declarar: Nélson Cunha [declarou que só matou um menor durante a expedição criminosa na Candelária, quando a criança tentou correr da fuzilaria promovida por Sexta-feira 13, Alcântara e Emanoel. ,
+	      dizer: Ela [disse que, numa situação normal, não aceitaria a proposta de Cruz, que promete colocar o exército nas ruas.,
+	      expor: Malan [expôs ainda que as irregularidades descobertas apontavam para crimes previstos nos artigos 6°, 10° e 11° da Lei do Colarinho Branco.,
+	      mencionar: Righi [mencionou que tinha feito «uma única transação comercial» com João Alves .,
+	      referir: Houve um instante de silêncio, depois do qual Peri concluiu a sua narração, e [referiu como D. Antônio de Mariz o tinha batizado, e lhe havia confiado a salvação de sua filha.,}
+Chave: DIZER <verb.communication>
+ILI: 00976600
+
+Sense 1
+{00976600} <verb.communication> state, say, tell4 -- (express in words; "He said that he wanted to marry her"; "tell me what is bothering you"; "state your opinion"; "state your name")
+       => {00909455} <verb.communication> express, verbalize3, verbalise3, utter1, give tongue to -- (articulate; either verbally or with a cry, shout, or noise; "She expressed her anger"; "He uttered a curse")")

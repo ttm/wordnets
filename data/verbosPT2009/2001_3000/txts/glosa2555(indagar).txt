@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA2555
+
+DADO O SYNSET:
+
+S='Glosa2555'
+	    {indagar: Antes de [indagar se a denunciação é obrigatória, será necessário saber se ela é cabível em todos os casos. # Todos se precipitaram para [indagar o que se passava.,
+	      perguntar: Tancredo dizia que, em política, se deve [perguntar o mínimo possível.,
+	      saber: Eles queriam [saber minhas impressões sobre o episódio e como meu pai se comportou durante o seqüestro. # O que queremos [saber é se a torre de controle tinha consciência do perigo que o avião corria, e que atitude tomou nessa hora, ressalta. # A polícia vai ouvir vizinhos do restaurante para [saber se havia mais alguém dando cobertura ao seqüestro do lado de fora.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2555' = “Fazer uma pergunta.”
+	    {indagar: Lauro Ramos (BNB) I]indagou sobre quais seriam os projetos passíveis de apoio.,
+	      perguntar: Tancredo dizia que, em política, se deve [perguntar o mínimo possível.,
+	      saber: Eles queriam [saber minhas impressões sobre o episódio e como meu pai se comportou durante o seqüestro.,}
+
+Chave: INDAGAR <verb.communication>
+ILI: 00759271
+
+Sense 3
+{00759271} <verb.communication> question, query -- (pose a question)
+       => {00868100} <verb.communication> ask4 -- (address a question to and expect an answer from; "Ask your teacher about trigonometry"; "The children asked me about their dead grandmother")
+           => {00867918} <verb.communication> address, turn to1 -- (speak to; "He addressed the crowd outside the window")
+               => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                   => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                       => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel") 

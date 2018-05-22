@@ -1,0 +1,44 @@
+ANÁLISE DA GLOSA3447
+
+DADO O SYNSET:
+
+S='Glosa3447'
+	    {
+	      acravar: O peso da carga pode ]acravar o caminhão,
+	      afincar: E quando encantou-se ]afincou a espada na pedra/O mendigo sacara a espada que um bondoso deu pra ele pôr pena e a ]afincou no terreno agreste, ,
+	      afixar: x,
+	      bater: Se eu [bater a minha espada/...]bater as estacas,
+	      cravar: [Cravei a faca muitas meses em seu peito e seu ventre/A vontade que me dava era [cravar-lhe as unhas no pescoço, enterrá-las bem, até ver-lhe sair a vida com o sangue,
+	      embeber: As setas dos pitiguaras já caem do céu, já voam da terra, e se [embebem todas no seio do inimigo,
+	      encravar: Lembrou-se de [encravar na sua recente coroa aquela pequena jóia alentejana,
+	      enfincar: ]Enfincar uma estaca no coração de um Vampiro tem sido uma das melhores formas de matar Vampiros por centenas de anos/]Enfincar no terreiro um pau de sebo com uma nota na ponta para quem tiver o fôlego de chegar lá, ,
+	      espetar: Com uma calma feroz, [espetou o ferro da lança no corpo do assassino de seu pai/...[espetar os pauzinhos na tigela de arroz,
+	      fincar: [Fincaram cercas de estacas entre os barrancos da várzea que ia morrer à margem do rio/Um dos guerreiros adiantou-se e fincou na extrema do campo uma estaca destinada a receber a cabeça do inimigo, logo que ela fosse decepada do corpo,
+	      fixar: Antes, eu tinha o defeito de [fixar a vara no solo com o braço baixo demais/...para ]fixar na parede, ,
+	      meter: ...]meter a estaca/ ]Meter a espada nele,
+	      pregar1: ... Seu pai lhe deu um pacote de pregos e lhe disse que cada vez que perdesse a paciência, deveria ]pregar um prego atrás da porta/Como um caçador maluco de vampiros, se esforça para ]pregar estacas  no coração,
+	      travar: ...recomendado para ]travar pequenos parafusos,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3447' = “penetrar ou cortar com instrumento pontiagudo”
+	     {afincar: E quando encantou-se I]afincou a espada na pedra/O mendigo sacara a espada que um bondoso deu pra ele pôr pena e a I]afincou no terreno agreste, ,
+	      bater: I]Batia prego e usava o serrote para cortar a madeira’,
+	      cravar: Gaius Cassius Longinus, capitão da guarda do templo, I]cravou a sua lança no peito de Jesus,
+	      embeber: I]Embebeu lhe no peito, sem hesitar, antes com a firmeza de cínico sicário, a folha de sua faca, que lhe atravessou o coração,
+	      encravar: Ele I]encravou uma faca no pescoço da namorada e a golpeou com um espeto de assar frango,
+	      enfincar: Esticou os fios e I]enfincou a antena lá no alto, ,
+	      espetar: Com uma calma feroz, [espetou o ferro da lança no corpo do assassino de seu pai/Para espantar seu sono, I]espetou sua faca profundamente em sua coxa, de modo que a dor aguda o mantivesse acordado,
+	      fincar: [Fincaram cercas de estacas entre os barrancos da várzea que ia morrer à margem do rio/ Antes de morrer I]fincou a sua espada mágica numa pedra,
+	      fixar: Só em 1836 é que ela se abeirou do cais Pharoux e lá I]fixou as primeiras estacas das primitivas cabanas, ,
+	      meter: Ninguém joga fora a chave de fenda ou o martelo depois que apertou o parafuso ou I]meteu o prego na parede,
+	      pregar1: No primeiro dia, o menino I]pregou 37 pregos na cerca /Como um caçador maluco de vampiros, se esforça para ]pregar estacas  no coração,}
+
+Chave: CRAVAR <verb.contact>
+ILI: 01400358
+
+Sense 5
+{01400358} <verb.contact> pierce1, thrust1 -- (penetrate or cut through with a sharp instrument)
+       => {01190419} <verb.contact> penetrate, perforate3 -- (pass into or through, often by overcoming resistance; "The bullet penetrated her chest")
+           => {01958650} <verb.motion> enter, come in2, get into, get in1, go into, go in, move into -- (to come or go into; "the boat entered an area of shallow marshes")

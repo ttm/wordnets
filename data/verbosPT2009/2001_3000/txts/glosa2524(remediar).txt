@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA2524
+
+DADO O SYNSET:
+
+  S='Glosa2524'
+	    {remediar: É esta formulação arcaica e totalizante do pensamento primitivo e mítico que permitirá a Riobaldo [remediar a falha de Zé Bebelo - a abstração racional - e pôr fim ao círculo vicioso da guerra infinita e estéril. # Admirei essa dedicação do pobre velho, que procurava remediar a sua falta por um sacrifício que eu supunha inútil: não era possível que um homem [nadasse assim por muito tempo.,
+	      reparar: Não obstante esta limitação legal, a função do provedor de justiça não se restringe à defesa da legalidade, cabendo-lhe providenciar e [reparar injustiças praticadas, quer por ilegalidade, quer por parcialidade ou má administração.,
+	      sanar: Esperamos, portanto, [sanar as falhas numa próxima edição. # No ano seguinte foi adotada uma política econômica de choque, visando [sanar os vícios socialistas e dar ao país condições de receber ajuda financeira das potências capitalistas ocidentais.,
+	      sanear: O Banco Central está fazendo um grande esforço para [sanear as finanças brasileiras.,
+	      sanificar: É bom também reconhecer que esse golpe (de misericórdia ou de astúcia) é antes um sintoma do que a moléstia, pois há um vício institucional a I]sanificar.,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2524' = “Corrigir ou adequar.”
+	    {remediar: Mas Calígula I]remediou esta falta, aproveitando os primeiros espectadores que se apresentaram, mandando-lhes antes cortar as línguas para não poderem manifestar a sua desgraça.,
+	      reparar: Até hoje a sociedade brasileira não I]reparou este erro.,
+	      sanar: Alega, também, que a apresentação posterior da procuração, inclusive ratificando os atos já praticados, I]sanou qualquer irregularidade porventura existente.,
+	      sanear: A empresa I]saneou a irregularidade antes do julgamento pelo Conselho Diretor da SUSEP.,
+	      sanificar: É bom também reconhecer que esse golpe (de misericórdia ou de astúcia) é antes um sintoma do que a moléstia, pois há um vício institucional a I]sanificar.,}
+
+Chave: REMEDIAR <verb.change>
+ILI: 00192935
+
+Sense 1
+{00192935} <verb.change> rectify, remediate, remedy, repair2, amend1 -- (set straight or right; "remedy these deficiencies"; "rectify the inequities in salaries"; "repair an oversight")
+       => {00192682} <verb.change> correct, rectify2, right -- (make right or correct; "Correct the mistakes"; "rectify the calculation")
+           => {00133458} <verb.change> change by reversal, turn, reverse -- (change to the contrary; "The trend was reversed"; "the tides turned against him"; "public opinion turned when it was revealed that the president had an affair with a White House intern")
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night") 

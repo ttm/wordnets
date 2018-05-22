@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA2104
+
+DADO O SYNSET:
+	
+S='Glosa2104'
+    	{acabar: Vou H]acabar esse trabalho.,
+      	 ensecar: H]Ensecar todas as tarefas.,
+      	 esgotar: Não se tem a pretensão de I]esgotar o assunto, porém é o início de um trabalho maior, mostrando as relações entre campo e cidade.,
+      	 exaurir: A maioria das empresas já I]exauriu as possibilidades de aumentar o lucro por meio de corte de custos, reengenharias e melhora da eficiência", disse Hamel. ,
+      	 exaustar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2104' = “esgotar toda a provisão [de]” 
+    	{acabar: O que aconteceria se alguns cientistas resolvessem [acabar com toda a energia nuclear existente?,
+      	 esgotar: Espero que o Agnaldo já tenha [esgotado seu estoque de gols.,
+ esterilizar: Esta medida praticamente I]esterilizou os recursos do FGTS.,
+      	 exaurir: Sua opinião é que as empresas internacionais que passarem a atuar no setor vão [exaurir as reservas brasileiras, extraindo o óleo em larga escala “para satisfazer as necessidades do Hemisfério Norte”.}
+Chave: EXAURIR <verb.change>
+ILI: 00438039
+
+Sense 4
+{00438039} <verb.change> exhaust -- (use up the whole supply of; "We have exhausted the food supplies")
+       => {00436730} <verb.change> empty1 -- (make void or empty of contents; "Empty the box"; "The alarm emptied the building")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

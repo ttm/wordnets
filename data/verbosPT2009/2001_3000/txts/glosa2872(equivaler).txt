@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA2872
+
+DADO O SYNSET:
+
+S='Glosa2872'
+	    {equivaler: Já foram renegociados 112 mil contratos, que [equivalem a R$ 2,8 bilhões.,
+	      eqüivaler: Em valores monetários, os salários passaram a I]eqüivaler a R$ 539 eR$ 295, respectivamente.,
+	      fazer: x,
+	      importar: O contrato de manutenção preventivo dos veículos em 15 meses importou em R$ 692 mil reais, valor suficiente para a aquisição de 27 veículos pick up, F1000, 0 km,
+	      somar: As cervejas importadas já [somam 3,3% do mercado nacional, segundo o levantamento da consultoria Nielsen nos meses de fevereiro e março.,
+	      valer: O fundo de investimento Kleiner Perkins decidiu comprar US$ 5 milhões em ações da empresa e esses papéis hoje [valem US$ 450 milhões, lembra Apostel.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2872' = “Ser equivalente ou paralelo, em matemática”
+	    {equivaler: Já foram renegociados 112 mil contratos, que [equivalem a R$ 2,8 bilhões.,
+	      importar: O contrato de manutenção preventivo dos veículos em 15 meses importou em R$ 692 mil reais, valor suficiente para a aquisição de 27 veículos pick up, F1000, 0 km,
+	      somar: As cervejas importadas já [somam 3,3% do mercado nacional, segundo o levantamento da consultoria Nielsen nos meses de fevereiro e março.,
+	      valer: O fundo de investimento Kleiner Perkins decidiu comprar US$ 5 milhões em ações da empresa e esses papéis hoje [valem US$ 450 milhões, lembra Apostel.,}
+Chave: EQUIVALER <verb.stative>
+ILI: 02555031
+
+Sense 2
+{02555031} <verb.stative> equate, correspond4 -- (be equivalent or parallel, in mathematics)
+       => {02584716} <verb.stative> equal, be7 -- (be identical or equivalent to; "One dollar equals 1,000 rubles these days!") 

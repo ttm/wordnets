@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA1148
+
+DADO O SYNSET:
+
+S='Glosa1148'
+{desapaixonar-se: O casal I]se desapaixona provisoriamente para se apaixonar pela criança,}
+	  
+A='Glosa1824'
+{afeiçoar-se, amoriscar-se, apaixonar-se, apassionar-se, cativar-se, embeiçar-se, enamorar-se, enrabichar-se, namorar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1148' = “livrar-se da paixão”
+{desapaixonar-se: Quanto ao Igor, era apaixonado por outra menina, vizinha nossa, mas I]desapaixonou-se quando ela apareceu com um corte de cabelo esquisito.,}
+A='Glosa1824'
+{afeiçoar-se, amoriscar-se, apaixonar-se, apassionar-se, cativar-se, embeiçar-se, enamorar-se, enrabichar-se, namorar-se}
+Chave: DESAPAIXONAR-SE 
+ILI: EQ_HAS_HYPERONYM - 01764884 - “livrar-se de encantamento”
+
+Sense 1
+{01764884} <verb.emotion> disenchant, disillusion -- (free from enchantment)
+       => {01746656} <verb.emotion> disappoint, let down -- (fail to meet the hopes or expectations of; "Her boyfriend let her down when he did not propose marriage")
+           => {02482511} <verb.social> thwart, queer, spoil, scotch, foil, cross, frustrate, baffle, bilk1 -- (hinder or prevent (the efforts, plans, or desires) of; "What ultimately frustrated every challenger was Ruth's amazing September surge"; "foil your opponent")
+               => {02379144} <verb.social> prevent1, forestall1, foreclose, preclude, forbid3 -- (keep from happening or arising; have the effect of preventing; "My sense of tact forbids an honest answer")

@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA0123
+
+DADO O SYNSET:
+
+S='Glosa123'
+{anteceder: A Fase G1 é a etapa que [antecede a duplicação do DNA, caracterizando-se por uma intensa produção de RNA e proteínas diversas.,
+antepassar: x,
+preceder: Parece que o seu suicídio [precedeu sua obra.,}
+A='Glosa2489'
+{advir, seguir, sobrechegar, sobrevir, suceder}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa123' = “ser anterior; vir antes”
+{anteceder: A Fase G1 é a etapa que [antecede a duplicação do DNA, caracterizando-se por uma intensa produção de RNA e proteínas diversas.,
+preceder: Parece que o seu suicídio [precedeu sua obra.,}
+A='Glosa2489'
+{advir, seguir, sobrechegar, sobrevir, suceder}
+Chave: ANTECEDER <verb.stative>
+ILI: 02611603
+
+Sense 2
+{02611603} <verb.stative> precede1, predate1 -- (come before; "Most English adjectives precede the noun they modify")
+       => {02609765} <verb.stative> lie -- (be located or situated somewhere; occupy a certain position)
+           => {02576058} <verb.stative> be5 -- (occupy a certain position or area; be somewhere; "Where is my umbrella?" "The toolshed is in the back"; "What is behind this behavior?")

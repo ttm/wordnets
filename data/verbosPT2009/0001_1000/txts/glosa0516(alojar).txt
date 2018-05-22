@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA0516
+
+DADO O SYNSET:
+
+S='Glosa516'
+{aboletar: Rosa Veado, que se encarregara de prepará-la para I]aboletar os hóspedes, persignou-se e balbuciou uma Ave-Maria.,
+alojar: O Colégio Municipal Lopes Trovão cedeu o refeitório para [alojar dezenas de pessoas.,
+aquartelar: As áreas de aquartelamento devem ter uma estrutura de funcionamento gerida superiormente, com capacidade de I]aquartelar até 1.600 efetivos.,}
+A='Glosa1159'
+{desalojar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa516' = “hospedar, abrigar, dar teto a alguem”
+{aboletar: Rosa Veado, que se encarregara de prepará-la para I]aboletar os hóspedes, persignou-se e balbuciou uma Ave-Maria.,
+alojar: O Colégio Municipal Lopes Trovão cedeu o refeitório para [alojar dezenas de pessoas.,
+aquartelar: As áreas de aquartelamento devem ter uma estrutura de funcionamento gerida superiormente, com capacidade de I]aquartelar até 1.600 efetivos.,}
+A='Glosa1159'
+{desalojar}
+Chave: ALOJAR <verb.stative>
+ILI: 02577295
+
+Sense 1
+{02577295} <verb.stative> shelter -- (provide shelter for; "After the earthquake, the government could not provide shelter for the thousands of homeless people")
+       => {02259805} <verb.possession> supply, provide, render2, furnish -- (provide or furnish with; "We provided the room with an electrical heater")
+           => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+               => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children")

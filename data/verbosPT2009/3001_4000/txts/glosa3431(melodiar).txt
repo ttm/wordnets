@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA3431
+
+DADO O SYNSET:
+
+S='Glosa3431'
+	{melodiar: O divino pianista [melodiava ao piano/...]melodiar, uma canção suave,
+	 melodizar: x }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3431' = “tocar sentindo o ritmo de modo sutil e intuitivo”
+	{melodiar: O divino pianista [melodiava ao piano. }
+Chave: MELODIAR <verb.creation>
+ILI: 01676281
+
+Sense 12
+{01676281} <verb.creation> swing3 -- (play with a subtle and intuitively felt sense of rhythm)
+       => {01675975} <verb.creation> play12 -- (play on an instrument; "The band played all night long")
+           => {01665285} <verb.creation> perform1 -- (give a performance (of something); "Horowitz is performing at Carnegie Hall tonight"; "We performed a popular Gilbert and Sullivan opera")
+               => {01573613} <verb.creation> re-create -- (create anew; "Re-create the boom of the West on a small scale")
+                   => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

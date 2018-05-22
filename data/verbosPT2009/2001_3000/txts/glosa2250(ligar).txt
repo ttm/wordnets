@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA2250
+
+DADO O SYNSET:
+
+S='Glosa2250'
+	    {consolidar: Nesse período, já I]consolidou dois projetos semelhantes e que podem servir como suporte para novas pesquisas do gênero.,
+	      consubstanciar: Os projetos que [consubstanciam as reformas principais terão que ser elaborados nos três meses finais deste ano .,
+	      liar: x,
+	      ligar: Tudo o que I]ligares na terra será ligado nos céus.,
+	      unificar: O novo carro pequeno da Ford é o quarto projeto desenvolvido em conjunto com a Volkswagen desde a criação da Autolatina em 86, que [unificou as operações das marcas .,
+	      unir: O que Deus I]uniu, o homem não separe.,}
+
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2250' = “unir algo em um mesmo sistema”
+	    {consolidar: A Volkswagen vai reduzir em 43% o número de vendedores nos EUA e Canadá, [consolidando as operações nos dois países .,	      
+                  consubstanciar: Os projetos que [consubstanciam as reformas principais terão que ser elaborados nos três meses finais deste ano .,
+	      ligar: O contrato de seis anos que [ligava as duas partes expirou e não foi renovado.,
+	      unificar: O novo carro da Ford é o quarto projeto desenvolvido em conjunto com a Volkswagen desde a criação da Autolatina em 86, que [unificou as operações das marcas .,
+	      unir: Os 50 anos da Sadia [uniu duas grandes agências concorrentes na produção dos filmes da campanha.,}
+
+Chave: CONSOLIDAR <verb.change>
+ILI: 00234683
+
+Sense 3
+{00234683} <verb.change> consolidate1 -- (bring together into a single whole or system; "The town and county schools are being consolidated")
+       => {00235024} <verb.change> unite2, unify1, merge2 -- (join or combine; "We merged our resources")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

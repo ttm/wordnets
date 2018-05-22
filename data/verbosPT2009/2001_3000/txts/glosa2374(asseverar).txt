@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA2374
+
+DADO O SYNSET:
+
+S='Glosa2374'
+	    {asseverar: Grondona [assevera ter remetido a tal lista por fax, o mais depressa que pôde.,
+	      atestar1: Como [atesta este acúmulo de mecanismos e conceitos, o sistema de Anderson é complexo, assim como as evidências que ele tornou válidas . # Todo mundo trabalhou para a reforma, [atesta o diretor.,
+	      testar1: M]Testar a salvação em Cristo.,
+	      testemunhar: É um talento desde menina moça, [testemunha Luiz Carlos Barreto, o modelo de produtor cinematográfico bem-sucedido no Brasil.,
+	      testificar: Juntamente com estas e muitas outras testemunhas, podemos I]testificar que estudamos a fim de conhecê-lo experimentalmente.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2374' = “Afrimar com absoluta certeza.”
+	    {asseverar: Grondona [assevera ter remetido a tal lista por fax, o mais depressa que pôde.,
+	      atestar1: Um laudo psiquiátrico [atestou que Amin Helou estava com a saúde mental abalada.,
+	      testar1: M]Testar a salvação em Cristo.,
+	      testemunhar: Um talento desde menina moça, [testemunha Luiz Carlos Barreto, o modelo de produtor cinematográfico bem-sucedido no Brasil.,
+	      testificar: I]Testificou que os carregamentos não eram conferidos na portaria.,}
+
+Chave: ASSEVERAR <verb.communication>
+ILI: 00983921
+
+Sense 1
+{00983921} <verb.communication> assert1, asseverate, maintain -- (state categorically)
+       => {00792187} <verb.communication> insist, take a firm stand -- (be insistent and refuse to budge; "I must insist!") 

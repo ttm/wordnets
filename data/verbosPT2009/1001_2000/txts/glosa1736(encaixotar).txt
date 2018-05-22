@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA1736
+
+DADO O SYNSET:
+
+S='Glosa1736'
+{encaixar: Indiscreto, logo se M]encaixava nas conversas alheias.,
+ encaixotar: Desse jeito entrajada se A]encaixotou na liteira.,
+ encasar: Lições que a vida M]encasou no espírito da gente. ,
+ encavar: x,}
+	  
+A='Glosa1302'
+{desencaixar, desencaixotar, desencasar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1736' = “colocar numa caixa”
+{encaixotar: Enquanto Malan [encaixota seus documentos para levá-los à Fazenda, as divisórias são recolocadas para surgir o gabinete de Chico Lopes, futuro diretor do banco,}
+	  
+A='Glosa1302'
+{desencaixar, desencaixotar, desencasar}
+Chave: ENCAIXOTAR <verb.contact>
+ILI: 01443171
+
+Sense 1
+{01443171} <verb.contact> box2, package -- (put into a box; "box the gift, please")
+       => {01444327} <verb.contact> encase, incase, case1 -- (enclose in, or as if in, a case; "my feet were encased in mud")
+           => {01543739} <verb.contact> enclose, inclose, shut in -- (surround completely; "Darkness enclosed him")
+               => {01425761} <verb.contact> surround, skirt, border1 -- (extend on all sides of simultaneously; encircle; "The forest surrounds my property")
+                   => {01169130} <verb.contact> touch1, adjoin3, meet, contact3 -- (be in direct physical contact with; make contact; "The two buildings touch"; "Their hands touched"; "The wire must not contact the metal cover"; "The surfaces contact at this point")

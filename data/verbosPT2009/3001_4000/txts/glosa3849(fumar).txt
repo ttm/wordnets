@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA3849
+
+DADO O SYNSET:
+
+S='Glosa3849'
+{cachimbar: Não é difícil assinar este ou aquele manifesto, contra ou a favor de um regime político nas antípodas, quando se está na Rive Gauche, [cachimbando em uma poltrona.,
+	 cachimbear: x,
+	 fumar: As senhoras ficavam quase todas nos camarotes, enquanto os homens iam [fumar. ,
+	 pitar: Nessas horas, lá na beira do rio, o preto-velho sorri enigmaticamente e fica I]pitando, pitando, pitando com os olhos pregados no céu azul que aparece aqui e ali nos retalhos do arvoredo.,
+	 tabaquear: Era caso de I]tabaquear, para quem fez tão pouco caso da vida.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3849' = “inalar e exalar fumaça de cigarros, charutos ou cachimbos”
+{cachimbar: Não é difícil assinar este ou aquele manifesto, contra ou a favor de um regime político nas antípodas, quando se está na Rive Gauche, [cachimbando em uma poltrona.,
+	 fumar: As senhoras ficavam quase todas nos camarotes, enquanto os homens iam [fumar. ,
+	 pitar: Nessas horas, lá na beira do rio, o preto-velho sorri enigmaticamente e fica I]pitando, pitando, pitando com os olhos pregados no céu azul que aparece aqui e ali nos retalhos do arvoredo.,
+	 tabaquear: Era caso de I]tabaquear, para quem fez tão pouco caso da vida.}
+Chave: FUMAR <verb.consumption>
+ILI: 01161785
+
+Sense 1
+{01161785} <verb.consumption> smoke -- (inhale and exhale smoke from cigarettes, cigars, pipes; "We never smoked marijuana"; "Do you smoke?")
+       => {01121136} <verb.consumption> consume, ingest, take in, take, have -- (serve oneself to, or consume regularly; "Have another bowl of chicken soup!"; "I don't take sugar in my coffee")

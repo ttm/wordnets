@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA1661
+
+DADO O SYNSET:
+
+S='Glosa1661'
+{abeberar: Se o transporte durar mais de uma noite, o delegado e os seus auxiliares deverão alimentar e I]abeberar os pombos uma vez por dia, de preferência ao fim da tarde.,
+ abrevar: Nessa hora da manhã o resto da manada I]abrevava ou estava ainda por acordar.,
+ beberar: Em fila, a boiada volta dos pastos, cansada e farta, e vai ainda I]beberar ao tanque, onde o gotejar da água sob a cruz é mais preguiçoso.,
+ desalterar: Quando o caminho se tornou mais deserto até os condutores do esquife deixavam-no na borda da estrada e iam à taverna I]desalterar. ,
+ dessedentar: Ontem mesmo, depois de andar pela Lagoa, tive a audácia de comprar um coco para me [dessedentar.,
+ embeberar: H]Embeberava os animais., }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1661' = “satisfazer a sede”
+{abeberar: Se o transporte durar mais de uma noite, o delegado e os seus auxiliares deverão alimentar e I]abeberar os pombos uma vez por dia, de preferência ao fim da tarde.,
+ beberar: O Bicho Urucutum é uma coletânea de trechos das memórias de Pedro Nava, com a grata finalidade de reviver o autor àqueles que já o conheciam e apresentá-lo aos que ainda não beberaram no exuberante manancial de suas memórias.
+ desalterar: Uma água clara e fresca de fonte, que nos I]desaltera dos ácidos, amargos e ardidos artigos de quem adora falar mal do nosso país e do nosso povo.. ,
+ dessedentar: Cabe-nos esclarecer que a edilidade paulistana legislou sobre um assunto que diz respeito não apenas aos outros 37 municípios da Grande São Paulo, como, igualmente, aos moradores das regiões de Campinas, Piracicaba e até de municipalidades mineiras que administram nascentes e fontes que [dessedentam São Paulo.,}
+Chave: DESSEDENTAR <verb.consumption>
+ILI: 01167509
+
+Sense 1
+{01167509} <verb.consumption> quench, slake, allay, assuage -- (satisfy (thirst); "The cold water quenched his thirst")
+       => {01147457} <verb.consumption> meet, satisfy1, fill2, fulfill, fulfil -- (fill or meet a want or need)
+           => {01146590} <verb.consumption> provide, supply, ply, cater -- (provide what is desired or needed, especially support, food or sustenance; "The hostess provided lunch for all the guests")
+               => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+                   => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children")

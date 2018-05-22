@@ -1,0 +1,35 @@
+ANÁLISE DA GLOSA2078
+
+DADO O SYNSET:
+	
+S='Glosa2078'
+    	{amar: Somente que este mito surge degradado no romance: Penélope tecia de boa vontade, esperando o marido que [amava; Branca o faz por imposição de Pássaro Volante; Ulisses metia-se com sereias; Pássaro Volante, com suas mulas.,
+      	 bem-querer: Em mesmo eu quase reconheci um surdo prestígio de, sendo preciso, ir lá, por mim, reduzir a velha - só não podia maltratar era Nhorinhá, que, ao tanto afeto, eu, eu [bem-queria.,
+      	 estimar: Sabia que a [estimava muito.,
+      	 estremecer: A]Estremecia aquele menino como se lhe fora filho.  ,
+      	 gostar: Também eu [gostava dela.,
+      	 prezar: A baronesa [prezava-o muito, disse ele.,
+      	 querer: Já me habituei tanto a ver estas árvores, este rio, estes montes, que [quero-lhes como se me tivessem visto nascer. # A]Quero-lhe muito.,}
+  
+A='Glosa3340'
+    	{abominar, aborrecer, amaldiçoar, arrenegar, desadorar1, desamar, desquerer, detestar, execrar, malquerer, odiar, ojerizar, renegar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2078' = “gostar [de]; ser ligado [a]”
+    	{amar: Tom [ama seus tipos; nos faz amar o Brasil dos anônimos, a galeria dos desgraçados.,
+      	 bem-querer: Em só não podia maltratar era Nhorinhá, que, ao tanto afeto, eu, eu [bem-queria.,
+      	 estimar: Sei que [estima sua mãe; ela o merece.,
+      	 estremecer: Contra os inimigos da Pátria que I]estremecemos, e de Cristo que adoramos, os católicos brasileiros saberão mostrar sempre uma invencível resistência.,
+      	 gostar: Também eu [gostava dela.,
+      	 prezar: A baronesa [prezava-o muito.,
+      	 querer: Já me habituei tanto a ver estas árvores, este rio, estes montes, que [quero-lhes como se me tivessem visto nascer.}
+  
+A='Glosa3340'
+    	{abominar, aborrecer, amaldiçoar, arrenegar, desadorar1, desamar, desquerer, detestar, execrar, malquerer, odiar, ojerizar, renegar}
+Chave: ESTIMAR <verb.emotion>
+ILI: 01724752
+
+Sense 2
+{01724752} <verb.emotion> care for8, cherish, hold dear, treasure -- (be fond of; be attached to)
+       => {01723774} <verb.emotion> love -- (have a great affection or liking for; "I love French food"; "She loves her boss and works hard for him")

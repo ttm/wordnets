@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA1387
+
+DADO O SYNSET:
+
+S='Glosa1387'
+{desembalar: Após I]desembalar o produto, verifique se o mesmo está completo, ,
+ desembrulhar: Seguindo seu faro, eles [desembrulharam um pacote envolto num plástico de cobrir assentos.,
+ desempacotar: Você simplesmente não pode I]desempacotar os equipamentos, fazer algumas fotos, proteger e empacotar tudo.,
+ desencapar: Ao final de sua permanência na Lua, a tripulação [desencapou uma placa da perna do módulo lunar que permaneceria em solo lunar,
+ desenfardar: H]Desenfardar a paina,
+	 desenvolver: Depôs o presente sobre a mesa, sem H]desenvolvê-lo,}
+	  
+A='Glosa1896'
+{acondicionar, emaçar, emalar, embalar2, embrulhar, empacotar, enfardar, enrolar, ensacar, entrouxar, envolver}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1387' = “retirar [algo] de seu recipiente” 
+{desembalar: O cara vai para casa, I]desembala o CD e põe para tocar.,
+ desembrulhar: Seguindo seu faro, eles [desembrulharam um pacote envolto num plástico de cobrir assentos.,
+ desempacotar: Você simplesmente não pode I]desempacotar os equipamentos, fazer algumas fotos, proteger e empacotar tudo.,}
+A='Glosa1896'
+{acondicionar, emaçar, emalar, embalar2, embrulhar, empacotar, enfardar, enrolar, ensacar, entrouxar, envolver}
+Chave: DESEMBALAR <verb.contact>
+ILI: 01443526
+
+Sense 1
+{01443526} <verb.contact> unpack, take out1 -- (remove from its packing; "unpack the presents")
+       => {00166870} <verb.change> remove, take, take away1, withdraw1 -- (remove something concrete, as by lifting, pushing, taking off, etc. or remove something abstract; "remove a threat"; "remove a wrapper"; "Remove the dirty dishes from the table"; "take the gun from your pocket"; "This machine withdraws heat from the environment")

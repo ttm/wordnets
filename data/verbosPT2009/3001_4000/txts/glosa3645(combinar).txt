@@ -1,0 +1,52 @@
+ANÁLISE DA GLOSA3645
+
+DADO O SYNSET:
+
+S='Glosa3645'
+	    {
+	      betar: A fina educação da moça H]betava com a sua beleza.  ,
+	      cair: Uma combinação de rosa e negro [cairia bem.,
+	      coadunar: A ferocidade não se [coaduna com a calma e comedimento desse proceder. ,
+	      combinar: As mulheres estavam quase todas de preto, mas Lúcia vestia um tailleur de cetim verde radioso, para [combinar com suas lindas esmeraldas.,
+	      condizer: A moldura ornamental azul com ziquezaque vermelho I]condiz bem com a natureza decorativa do retrato sobre um fundo amarelo e laranja. ,
+	      convir: O verde era recomendado por Auguste Comte como a cor que mais I]convém aos homens do porvir, fazendo parte da bandeira do Partido Republicano Português.,
+	      engrenar: Ele verá que às costas do protagonista de uma história banal de aprendizado intelectual alguma coisa se encadeou, [engrenando os mais disparatados e remotos ingredientes.,
+	      enquadrar: Os textos utilizados nas canções se [enquadravam nos padrões da poesia medieval francesa, a balada e o rondó. ,
+	      harmonizar: García [harmoniza rigor e fantasia.,
+	      ornar: Não recomendável para dondocas que queiram encadernações para [ornar com o sofá./Não adianta nada querer fazer o corte da Luciana Gimenez se ele não I]ornar com suas características.,
+	      quadrar: E foi adiante pelo corredor, num passo resoluto, que não I]quadrava com nenhuma longevidade.,
+	      toar: Os móveis M]toam com o aposento.,
+	    }
+	  A='Glosa1553'
+	    {
+	     desarmonizar: Quando se descobrem a sós, muitas vezes, os cônjuges passam a se I]desarmonizar.,
+	     descombinar: Mas meu amado casal de namorados se  I]descombinam muito.,
+	     destoar: O receio de [destoar da opinião de seu público foi um dos motivos para a demora dos rabinos em anunciar a quem apoiariam. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3645' = “ser apropriado, acordante ou harmonioso”
+	     {cair: Uma combinação de rosa e negro [cairia bem.,
+	      coadunar: A ferocidade não se [coaduna com a calma e comedimento desse proceder. ,
+	      combinar: Tudo I]combina com sua voz suave e melodiosa, tanto a música quanto a letra.,
+	      condizer: A moldura ornamental azul com ziguezague vermelho I]condiz bem com a natureza decorativa do retrato sobre um fundo amarelo e laranja.,
+	      convir: na hora de escolher o sabonete, deve-se levar em conta o tipo de pele, a finalidade e até mesmo se o aroma I]convém com o momento.,
+	      engrenar: Ele verá que às costas do protagonista de uma história banal de aprendizado intelectual alguma coisa se encadeou, [engrenando os mais disparatados e remotos ingredientes.,
+	      enquadrar: Os textos utilizados nas canções se [enquadravam nos padrões da poesia medieval francesa, a balada e o rondó. ,
+	      harmonizar: García [harmoniza rigor e fantasia.,
+	      ornar: O figurino I]ornava com a decoração do local./ Uma cama, cujo escuro baldaquino I]ornava com o restante dos objetos espalhados aqui e ali.,
+	      quadrar: E foi adiante pelo corredor, num passo resoluto, que não I]quadrava com nenhuma longevidade.,
+	      toar: Os móveis M]toam com o aposento.,}
+	  A='Glosa1553'
+	    {desarmonizar: Quando se descobrem a sós, muitas vezes, os cônjuges passam a se I]desarmonizar.,
+	     descombinar: Mas meu amado casal de namorados se  I]descombinam muito.,
+	     destoar: O receio de [destoar da opinião de seu público foi um dos motivos para a demora dos rabinos em anunciar a quem apoiariam. ,}
+Chave: COMBINAR <verb.stative>
+
+ILI: 02618887
+
+Sense 1
+{02618887} <verb.stative> harmonize, harmonise, consort, accord, concord, fit in, agree1 -- (go together; "The colors don't harmonize"; "Their ideas concorded")
+       => {02578124} <verb.stative> match, fit4, correspond, check8, jibe, gibe, tally, agree -- (be compatible, similar or consistent; coincide in their characteristics; "The two stories don't agree in many details"; "The handwriting checks with the signature on the check"; "The suspect's fingerprints don't match those on the gun")
+           => {02584716} <verb.stative> equal, be7 -- (be identical or equivalent to; "One dollar equals 1,000 rubles these days!")

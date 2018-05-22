@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA1083
+
+DADO O SYNSET:
+
+S='Glosa1083'
+{demonetizar: x,
+ desamoedar: x,
+ desmonetizar: Tudo que fizeram os governos que dolarizaram foi I]desmonetizar oficialmente o padrão monetário nacional,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1083' = “privar de valor de pagamento”
+{desmonetizar: A redução das reservas, por conseguinte, I]desmonetiza a economia.,}
+Chave: DESMONETIZAR <verb.change>
+ILI: 00480717 
+
+Sense 1
+{00480717} <verb.change> demonetize, demonetise -- (deprive of value for payment; "demonetize a coin")
+       => {00480543} <verb.change> devalue2, devaluate1 -- (remove the value from; deprive of its value)
+           => {00200370} <verb.change> degrade, cheapen -- (lower the grade of something; reduce its worth)
+               => {00200852} <verb.change> worsen1, aggravate, exacerbate, exasperate -- (make worse; "This drug aggravates the pain")
+                   => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

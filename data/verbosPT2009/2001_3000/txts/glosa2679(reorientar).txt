@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA2679
+
+DADO O SYNSET:
+
+S='Glosa2679'
+	    {redirigir: A reorganização quase completa da escola por Hannes Meyer refletia o desejo do novo diretor de I]redirigir as intenções sociais e políticas da Bauhaus que herdara de Gropius.,
+	      reencaminhar: Poucos heróis anti-aparato-estatal tomam a si a dificultosa incumbência de I]reencaminhar o mundo do caos em que se encontra na direção da verdadeira ordem em paz, felicidade e muita liberdade.,
+	      reorientar: O projeto é fundamentado na necessidade de I]reorientar o enfoque da ação pública para os resultados esperados pela sociedade e não para os processos e procedimentos com é feito hoje.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2679' = “Encaminhar para uma nova direção.”
+	    {redirigir: A reorganização quase completa da escola refletia o desejo do novo diretor de I]redirigir as intenções sociais e políticas da Bauhaus que herdara de Gropius.,
+	      reencaminhar: Poucos heróis anti-aparato-estatal tomam a si a dificultosa incumbência de I]reencaminhar o mundo do caos na direção da verdadeira ordem.,
+	      reorientar: O projeto é fundamentado na necessidade de I]reorientar o enfoque da ação pública.,}
+
+Chave: REORIENTAR <verb.motion>
+ILI: 01895924
+
+Sense 1
+{01895924} <verb.motion> redirect, airt -- (channel into a new direction; "redirect your attention to the danger from the fundamentalists")
+       => {01894071} <verb.motion> send1, direct1 -- (cause to go somewhere; "The explosion sent the car flying in the air"; "She sent her children to camp"; "He directed all his energies into his dissertation")
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant") 

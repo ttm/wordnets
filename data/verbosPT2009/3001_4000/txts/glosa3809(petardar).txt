@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA3809
+
+DADO O SYNSET:
+	
+S='Glosa3809'
+{petardar: A]Petardar uma porta.,
+	 petardear: H]Petardear uma porta.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3809' = “um explosivo…”
+{petardar: A]Petardar uma porta.,
+	 petardear: H]Petardear uma porta.}
+Chave: PETARDAR <noun.artifact>
+ILI: 03771968
+ 
+Sense 1 
+{03771968} <noun.artifact> petard -- (a explosive device used to break down a gate or wall)
+       => {03185523} <noun.artifact> explosive device -- (device that bursts with sudden violence from internal energy)
+           => {03068033} <noun.artifact> device -- (an instrumentality invented for a particular purpose; "the device is small enough to wear on your wrist"; "a device intended to conserve water")
+               => {03443493} <noun.artifact> instrumentality, instrumentation -- (an artifact (or system of artifacts) that is instrumental in accomplishing some end)
+                   => {00019244} <noun.Tops> artifact, artefact -- (a man-made object taken as a whole)
+                       => {00016236} <noun.Tops> object, physical object -- (a tangible and visible entity; an entity that can cast a shadow; "it was full of rackets, balls and other objects")
+                           => {00001740} <noun.Tops> entity -- (that which is perceived or known or inferred to have its own distinct existence (living or nonliving))
+                       => {00002645} <noun.Tops> whole, whole thing, unit -- (an assemblage of parts that is regarded as a single entity; "how big is that part compared to the whole?"; "the team is a unit")
+                           => {00016236} <noun.Tops> object, physical object -- (a tangible and visible entity; an entity that can cast a shadow; "it was full of rackets, balls and other objects")
+                               => {00001740} <noun.Tops> entity -- (that which is perceived or known or inferred to have its own distinct existence (living or nonliving))

@@ -1,0 +1,37 @@
+ANÁLISE DA GLOSA3424
+
+DADO O SYNSET:
+
+S='Glosa3424'
+	{cogitar: I]Cogitava, principalmente, ir à Suprema Corte para conseguir de lá uma decisão mais rigorosa que dificultasse ao máximo as interrupções de gravidez.,
+	 desejar: Em um vilarejo chileno onde um homem I]desejava concluir seus 20 poemas de amor.,
+	 intencionar: A denúncia baseou-se no auto de prisão em flagrante onde consta a confissão do acusado de que I]intencionava roubar a vítima.,
+	 intentar: O Partido, em seu IV Encontro Nacional, I]intentava propor uma política externa independente e soberana.,
+	 maquinar: Enquanto trabalhava, minha mente I]maquinava uma maneira de dar-lhe uma lição.,
+	 matutar: Eu I]matutava uma forma de desforra e quem seria a vítima.,
+	 meditar: Era verdade, o rei estava distraído e preocupado; I]meditava uma tragédia.,
+	 pretender: Você I]pretende solicitar uma bolsa? ,
+	 projetar: O Ministério da Educação I]projeta a criação de um milhão de vagas nos cursos técnicos em todo o País até 2006.,
+	 querer: Al Qaeda I]queria cometer atentado no Japão durante a Copa.,
+	 tencionar: Não I]tencionava fazer um filme sobre a Revolução, nem gosto de ser identificado como um aficcionado pelo século XVIII.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3424' = “ter em mente como um propósito”
+	{cogitar: I]Cogitava, principalmente, ir à Suprema Corte para conseguir de lá uma decisão mais rigorosa que dificultasse ao máximo as interrupções de gravidez.,
+	 desejar: Em um vilarejo chileno onde um homem I]desejava concluir seus 20 poemas de amor.,
+	 intencionar: A denúncia baseou-se no auto de prisão em flagrante onde consta a confissão do acusado de que I]intencionava roubar a vítima.,
+	 intentar: O Partido, em seu IV Encontro Nacional, I]intentava propor uma política externa independente e soberana.,
+	 maquinar: Enquanto trabalhava, minha mente I]maquinava uma maneira de dar-lhe uma lição.,
+	 matutar: Eu I]matutava uma forma de desforra e quem seria a vítima.,
+	 meditar: Era verdade, o rei estava distraído e preocupado; I]meditava uma tragédia.,
+	 pretender: Você I]pretende solicitar uma bolsa? ,
+	 projetar: O Ministério da Educação I]projeta a criação de um milhão de vagas nos cursos técnicos em todo o País até 2006.,
+	 querer: Al Qaeda I]queria cometer atentado no Japão durante a Copa.,
+	 tencionar: Não I]tencionava fazer um filme sobre a Revolução, nem gosto de ser identificado como um aficcionado pelo século XVIII.}
+Chave: DESEJAR <verb.cognition>
+ILI: 00684988
+
+Sense 1
+{00684988} <verb.cognition> intend, mean, think6 -- (have in mind as a purpose; "I mean no harm"; "I only meant to help you"; "She didn't think to harm me"; "We thought to return early that night")
+       => {00685673} <verb.cognition> will, wish -- (have in mind; "I will take the exam tomorrow")

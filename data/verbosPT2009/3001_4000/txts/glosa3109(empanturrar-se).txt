@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA3109
+
+DADO O SYNSET:
+
+S='Glosa3109'
+	    {
+	      embuchar-se: x,
+	      empanturrar-se: Linus havia sugerido que o pingüim deveria ser gordinho e com um ar de satisfação depois de I]empanturrar-se com peixes. ,
+	      empanzinar-se: Todos que a experimentavam acabavam por I]empanzinar-se até não mais poder. Era algo de lambuzar-se, mas com muita dignidade.,
+	      encher-se: O deus, conhecido por seu grande apetite, I]encheu-se com laddoos, um doce indiano.,
+	      fartar-se: No Vietnam, I]fartou-se com os rolinhos da primavera e esquiou com o imperador Bao Dai.,
+	      impar: Os convivas H]impavam durante o lauto banquete.,
+	      locupletar-se: Gosta o malandro de M]locupletar-se em mesa alheia.,
+	      repimpar-se: H]Repimpar-se com frutos do mar.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3109' = “comer demais”
+	     {empanturrar-se: Soube que a Alice I]empanturrou-se de arroz e feijão e dançou na festa do avô. ,
+	      empanzinar-se: O café da manhã fora fabuloso, I]empanzinara-se com um sortimento inédito de derivados de leite e de ovos e também com uma variedades impressionantes de pães.,
+	      encher-se: O deus, conhecido por seu grande apetite, I]encheu-se com laddoos, um doce indiano.,
+	      fartar-se: No Vietnam, I]fartou-se com os rolinhos da primavera e esquiou com o imperador Bao Dai.,
+	      impar: Os convivas H]impavam durante o lauto banquete.,
+	      locupletar-se: Gosta o malandro de M]locupletar-se em mesa alheia.,
+	      repimpar-se: H]Repimpar-se com frutos do mar.,}
+Chave: EMPANTURRAR-SE <verb.consumption>
+ILI: 01156771
+
+Sense 1
+{01156771} <verb.consumption> gorge, ingurgitate, overindulge, glut, englut, stuff, engorge, overgorge, overeat, gormandize, gormandise, gourmandize, binge, pig out, satiate1, scarf out -- (overeat or eat immodestly; make a pig of oneself; "She stuffed herself at the dinner"; "The kids binged on icecream")
+       => {01130349} <verb.consumption> eat1 -- (eat a meal; take a meal; "We did not eat until 10 P.M. because there were so many phone calls"; "I didn't eat yet, so I gladly accept your invitation")
+           => {01121136} <verb.consumption> consume, ingest, take in, take, have -- (serve oneself to, or consume regularly; "Have another bowl of chicken soup!"; "I don't take sugar in my coffee")

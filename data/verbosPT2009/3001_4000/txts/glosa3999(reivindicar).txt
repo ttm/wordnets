@@ -1,0 +1,46 @@
+ANÁLISE DA GLOSA3999
+
+DADO O SYNSET:
+	
+S='Glosa3999'
+    	{clamar: Ao reconhecer que talvez a classe média tenha perdido mais nessa etapa do Plano Real, o presidente Fernando Henrique [clamou por paciência.,
+      	 cobrar: O presidente do Tribunal, Marcos Vilaça, [cobrou ação política para redução das desigualdades sociais no Brasil .,
+      	 declamar: Revoltado, chegava a M]declamar contra Deus.,
+      	 exigir: Em outro comunicado, o Hamas propôs um cessar-fogo de três meses e [exigiu a libertação de seus militantes que estão em prisões israelenses .,
+      	 gritar: M]Grita o povo contra os exploradores.,
+      	 pedir: As audiências ministeriais continuam: para A guerra de Canudos, ela [pediu apoio ao ministro do Exército .,
+      	 pretender: M]Pretendeu o filho pródigo sua parte da herança paterna.,
+      	 protestar: Pelo acordo, a CBF não [protestou junto à Fifa, entidade que organiza o futebol mundial, contra a recusa dos clubes em ceder os atletas para a partida de hoje do Brasil contra a Islândia .,
+      	 reclamar: Galdino também [reclamou ao TSE dos direitos de resposta não concedidos pelo TRE (Tribunal Regional Eleitoral) de Tocantins .,
+      	 reivindicar: O governo Geisel foi marcado por movimentos populares, que [reivindicaram melhores condições de vida e respeito aos direitos humanos .,
+      	 requerer: Luiz e Elaine associados ao plano de saúde do hospital desde 1989 [requereram na Justiça a inclusão dos filhos como dependentes, após terem seu pedido negado pela gerência do hospital .,
+      	 requisitar: Na verdade, a CBF [requisitou os passaportes porque tem direito de inscrever 60 atletas para a Olimpíada até o dia 2 e não quer deixar de fora da lista possíveis candidatos como o craque do Flamengo .,
+      	 vindicar: I]Vindicou, em sede de liminar, que fosse determinado ao Estado Piauí que se abstivesse de contratar trabalhadores sem prévia aprovação em concurso.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3999' = “solicitar [algo] como devido ou justo”
+    	{clamar: Ao reconhecer que talvez a classe média tenha perdido mais nessa etapa do Plano Real, o presidente Fernando Henrique [clamou por paciência.,
+      	 cobrar: O presidente do Tribunal, Marcos Vilaça, [cobrou ação política para redução das desigualdades sociais no Brasil.,
+      	 declamar: Rela ainda declama contra a sanha sanguinária de Luís XVI.,
+      	 exigir: Em outro comunicado, o Hamas propôs um cessar-fogo de três meses e [exigiu a libertação de seus militantes que estão em prisões israelenses.,
+      	 gritar: Grandes sistemas brasileiros estão [gritando por racionalização e informatização.,
+      	 pedir: As audiências ministeriais continuam: para A guerra de Canudos, ela [pediu apoio ao ministro do Exército.,
+      	 pretender: Os cidadãos pretendem indenização.,
+      	 protestar: Cerca de 20 mil párias foram ontem à ruas de Nova Déli [protestar por quotas mínimas de empregos nas empresas privadas por lei, eles já têm reserva de 22,5 % no setor público.,
+      	 reclamar: Devido às suas acusações de que foi procurado por um dirigente para não se esforçar no jogo Corinthians x Flamengo, o vice-presidente de futebol do clube, Paulo Dantas, afirmou que o jogador deverá [reclamar seus direitos na Justiça do Trabalho.,
+      	 reivindicar: O governo Geisel foi marcado por movimentos populares, que [reivindicaram melhores condições de vida e respeito aos direitos humanos.,
+      	 requerer: Luiz e Elaine associados ao plano de saúde do hospital desde 1989 [requereram na Justiça a inclusão dos filhos como dependentes, após terem seu pedido negado pela gerência do hospital.,
+      	 requisitar: Essa é a primeira vez que um cemitério particular [requisita policiamento militar para o Dia de Finados na cidade.,
+      	 vindicar: Fixados os marcos da linha de demarcação, os confinantes considerar-se-ão terceiros quanto ao processo divisório, e fica-lhes ressalvado o direito de [vindicarem os terrenos de que se julguem despojados.}
+Chave: REIVINDICAR <verb.communication>
+ILI: 00984897
+
+Sense 3
+{00984897} <verb.communication> demand2, exact -- (claim as due or just; "The bank demanded payment of the loan")
+       => {00985423} <verb.communication> claim2 -- (ask for legally or make a legal claim to, as of debts, for example; "They claimed on the maximum allowable amount")
+           => {00727992} <verb.communication> request1, bespeak, call for4, quest1 -- (express the need or desire for; ask for; "She requested an extra bed in her room"; "She called for room service")
+               => {00717906} <verb.communication> communicate1, pass on, pass1, put across -- (transmit information ; "Please communicate this message to all employees")
+                   => {02167243} <verb.possession> convey10, transmit10, communicate10 -- (transfer to another; "communicate a disease")
+                       => {02167764} <verb.possession> transfer1 -- (move from one place to another; "transfer the data"; "transmit the news"; "transfer the patient to another hospital")
+                           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0914
+
+DADO O SYNSET:
+
+S='Glosa914'
+{dependurar: x,
+empenhar: Tive de I]empenhar minhas jóias para organizar o evento.,
+empenhorar: No horário do almoço fui à Caixa Econômica levar umas joias minhas para I]empenhorar.,
+pendurar: Tentei M]pendurar meu relógio.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa914' = “deixar como uma garantia em retorno por dinheiro”
+{empenhar: Tive de I]empenhar minhas jóias para organizar o evento.,
+empenhorar: No horário do almoço fui à Caixa Econômica levar umas joias minhas para I]empenhorar.,}
+Chave: EMPENHAR <verb.possession>
+ILI: 02279592
+
+Sense 1
+{02279592} <verb.possession> pawn, soak3, hock -- (leave as a guarantee in return for money; "pawn your grandfather's gold watch")
+       => {02280009} <verb.possession> consign, charge4 -- (give over to another for care or safekeeping; "consign your baggage")
+           => {02281584} <verb.possession> entrust, intrust, trust, confide, commit -- (confer a trust upon; "The messenger was entrusted with the general's secret"; "I commit my soul to God")
+               => {02166354} <verb.possession> pass, hand, reach, pass on1, turn over, give6 -- (place into the hands or custody of; "hand me the spoon, please"; "Turn the files over to me, please"; "He turned over the prisoner to his lawyers")
+                   => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children")

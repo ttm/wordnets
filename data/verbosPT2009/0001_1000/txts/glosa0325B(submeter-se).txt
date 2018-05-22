@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0325B
+
+DADO O SYNSET:
+
+S='Glosa325'
+{acorrentar-se: Se examinarmos a vida deste indivíduo veremos que I]acorrentou-se a uma existência muito prosaica de trabalho apenas.,
+algemar-se: DEVIANT,
+atar-se: Não é portanto prioritário para o governo brasileiro [atar-se a um esforço comercial com um bloco que seria dominado fortemente pelos Estados Unidos.,
+obrigar-se: H]Obrigava-se aos caprichos dos amantes.,
+prender-se: A responsabilidade do Estado se vincula, necessariamente, à ação dos seus agentes, não podendo I]prender-se à inadimplência dos particulares no cumprimento das suas obrigações legais.,
+submeter-se: Na qualidade de Sócio Efetivo, declara desde já que I]submete-se aos deveres e direitos emanados do Estatuto desta entidade.,
+sujeitar-se: Como a internação em um spa, o uso do objeto reflete um prazer em [sujeitar-se a uma autoridade legítima.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa325' = “render(-se) aos controles de alguém” 
+{submeter-se: Na qualidade de Sócio Efetivo, declara desde já que I]submete-se aos deveres e direitos emanados do Estatuto desta entidade.,
+sujeitar-se: Como a internação em um spa, o uso do objeto reflete um prazer em [sujeitar-se a uma autoridade legítima.,}
+Chave: SUBMETER-SE <verb.communication>
+ILI: 01083160
+
+Sense 3
+{01083160} <verb.competition> submit -- (yield to the control of another)

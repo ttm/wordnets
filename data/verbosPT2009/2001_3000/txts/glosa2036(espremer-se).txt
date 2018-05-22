@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA2036
+
+DADO O SYNSET:
+	
+S='Glosa2036'
+    	{apertar-se: 'Era em plena rua do Ouvidor. Não se podia andar. A multidão I]apertava-se, sufocada.,
+      	 arrochar-se: Ela M]arrochava-se muito, para fazer delgada a cintura,
+      	 comprimir-se: Enquanto os restos de Monteiro Lobato seguiam para o cemiterio da Consolação, grande numero de pessoas I]comprimia-se à entrada daquele campo santo, notando-se homens, mulheres, velhos e crianças que ali permaneciam numa derradeira homenagem.,
+      	 espremer-se: O povo, confortado de religião, mas estalando pelo almoço [espremia-se sôfrego pelas largas portas da matriz .,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2036' = “reunir-se em grandes números”
+    	{apertar-se: A multidão I]apertava-se, sufocada.,
+      	 arrochar-se: Quando morei em Tóquio, eu gostava de ver os japoneses no metrô, antiguíssimo, se I]arrochando.,
+      	 comprimir-se: Enquanto os restos de Monteiro Lobato seguiam para o cemitério da Consolação, grande número de pessoas I]comprimia-se à entrada daquele campo santo numa derradeira homenagem.,
+      	 espremer-se: O povo, confortado de religião, mas estalando pelo almoço [espremia-se sôfrego pelas largas portas da matriz.}
+Chave: ESPREMER-SE <verb.motion>
+ILI: 01969656
+
+Sense 3
+{01969656} <verb.motion> crowd, crowd together -- (to gather together in large numbers; "men in straw boaters and waxed mustaches crowded the verandah")
+       => {02355773} <verb.social> meet, gather, assemble, forgather, foregather -- (collect in one place; "We assembled in the church basement"; "Let's gather in the dining room")
+           => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+               => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

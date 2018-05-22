@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA2071
+
+DADO O SYNSET:
+	
+S='Glosa2071'
+    	{conduzir: O assalto ao prospector bancário começou na manhã do crime, quando um dos indivíduos I]conduziu outros dois até junto ao restaurante do Galanta.,
+      	 direcionar: o governo direcionou sua política para a educação,
+      	 dirigir: Não se sabe ainda quem A]dirigiu o assalto.,
+      	 encalar: x,
+      	 encaminhar: O Procon I]encaminhou um documento aos shoppings da cidade.,
+      	 estradear: x,
+      	 induzir: x,
+      	 levar: O lançamento dos primeiros cinco livros das coleções Perfis do Rio e Arenas do Rio, produzidas em parceria pelo instituto Rioarte e pela editora Relume-Dumará, [levou uma multidão ao Espaço Cultural Sérgio Porto, no Humaitá, na noite de quarta-feira.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2071' = “direcionar o curso [de]; guiar ou controlar”
+    	{conduzir: O repórter praticamente induz a resposta através da maneira como [conduz as entrevistas.,
+      	 direcionar: O Iraque passa a [direcionar sua política externa aos interesses soviéticos,
+      	 dirigir: Com o único objetivo de provocar o 2º turno, José Dirceu (PT) [dirige sua campanha na reta final aos eleitores de Lula em São Paulo.,
+      	 encaminhar: Lula diz em conversas com amigos que, se perceber o risco de [encaminharem sua campanha para o gueto, dará um ultimato ao partido.,
+      	 levar: As eleições é que estão pesando mais nas ausências e [levando o governo à derrota.}
+Chave: CONDUZIR <verb.social>
+ILI: 02372059
+
+Sense 1
+{02372059} <verb.social> conduct, carry on, deal2 -- (direct the course of; manage or control; "You cannot conduct business like this")
+       => {02363018} <verb.social> manage, deal13, care11, handle -- (be in charge of, act on, or dispose of; "I can deal with this crew of workers"; "This blender can't handle nuts"; "She managed her parents' affairs after they got too old")
+           => {02367626} <verb.social> control, command -- (exercise authoritative control or power over; "control the budget"; "Command the military forces")

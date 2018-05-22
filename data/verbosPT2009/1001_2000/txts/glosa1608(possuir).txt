@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA1608
+
+DADO O SYNSET:
+
+S='Glosa1608'
+{apossuir: x,
+ dispor: Segundo José Geraldo Santana, diretor da Hidrogel, empresa de Santo André (Grande São Paulo) especializada na construção de poços artesianos, é preciso [dispor de uma área mínima de 60 m2 para iniciar a obra .,
+ dominar: O Império Khmer passou a [dominar um reino anterior que já havia estendido seus domínios comerciais e políticos até os territórios persas .,
+ possuir: Por algum tempo os visigodos (povo germânico),  I]possuíram o território depois denominado de Portugal. ,
+ ter: Um país pode I]ter um grande território; pode ter florestas, rios, lagos, montanhas e terras cultiváveis; pode ter cidades, vilas, grandes propriedades; e ser politicamente uma colônia.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1608' = “ter domínio ou posse [de]”
+{dispor: Ao lado do excelente serviço ferroviário, o Japão [dispõe de um sistema de metrô, o segundo mais movimentado do mundo, superado apenas pelo de Moscou.,
+ dominar: O Parlamento Europeu quer ampliar os mecanismos de proteção à indústria audiovisual européia para lutar contra a concorrência estrangeira encabeçada por Hollywood, que já [domina mais de 80% do mercado comunitário.,
+ possuir: Raríssimas fazendas [possuem um exemplar mangalarga em seu plantel.,
+ ter: O Bruno [tem mais de dez moletons, mas como são de outra estação, ele diz que não tem nenhum que dê para usar.,}
+Chave: POSSUIR <verb.possession>
+ILI: 02141223
+
+Sense 2
+{02141223} <verb.possession> own, have4, possess -- (have ownership or possession of; "He owns three houses in Florida"; "How many cars does she have?") 

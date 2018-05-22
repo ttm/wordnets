@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA3987
+
+DADO O SYNSET:
+	
+S='Glosa3987'
+{apresentar-se: H]Apresentou-se como o novo aluno.,
+ declarar-se: H]Declarou-se ciente dos termos do contrato.,
+ dizer-se: H]Diz-se muito velha para ir a uma danceteria.,
+ presentar-se: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3987' = “dar-se um título ou nome”
+{apresentar-se: Ciro [apresenta-se como salvador do Real.,
+ declarar-se: O tema da desmedida oceânica não é estranho às ameaças de devastação do delirante Orion quando este [declara-se rei das florestas de Artemisa, arrogando-se o direito e o poder de destruir todos os animais.,
+ dizer-se: Brancoy se [diz carioca, mas se comunica melhor em inglês que em português e nunca ouviu falar de Copacabana ou do Flamengo.}
+Chave: DECLARAR-SE <verb.communication>
+ILI: 00996861
+
+Sense 1
+{00996861} <verb.communication> designate, denominate -- (assign a name or title to)

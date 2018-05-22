@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA2405
+
+DADO O SYNSET:
+
+S='Glosa2405'
+	    {atafulhar: I]Atalhufava o pedaço de pão inchado e escorrente de café com leite nas profundezas da grande boca escancarada.,
+	      atapulhar: x,
+	      tafulhar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2405' = “introduzir à força” 
+	    {atafulhar: I]Atafulhava o pedaço de pão inchado e escorrente de café com leite nas profundezas da grande boca escancarada.,}
+
+Chave: ATAFULHAR <verb.motion>
+ILI: 02035069
+
+Sense 1
+{02035069} <verb.motion> thrust2, stuff, shove1, squeeze -- (press or force; "Stuff money into an envelope"; "She thrust the letter into his hand")
+       => {01817891} <verb.motion> push, force -- (move with force, "He pushed the table into a corner")
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

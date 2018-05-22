@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA2348
+
+DADO O SYNSET:
+
+S='Glosa2348'
+	    {adormecer-se: Pavlov deu aos estados fásicos, originados no momento de I]adormecer-se ou despertar-se, o nome de estados hipnóticos. ,
+	      entorpecer-se: Sentia-se I]entorpecer-se por seu próprio sono.,
+	      torpecer-se: x.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2348' = “Tornar entorpecido ou insensível.”
+	    {adormecer-se: Pavlov deu aos estados fásicos, originados no momento de I]adormecer-se ou despertar-se, o nome de estados hipnóticos. ,
+	      entorpecer-se: Sentia-se I]entorpecer-se por seu próprio sono.,}
+
+Chave: ADORMECER-SE <verb.perception>
+ILI: 02054134
+
+Sense 1
+{02054134} <verb.perception> numb, benumb, blunt, dull1 -- (make numb or insensitive; "The shock numbed her senses")
+       => {02053785} <verb.perception> desensitize, desensitise -- (cause not to be sensitive; "The war desensitized many soldiers"; "The photographic plate was desensitized")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

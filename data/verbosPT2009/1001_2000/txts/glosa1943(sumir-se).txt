@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA1943
+
+DADO O SYNSET:
+
+S='Glosa1943'
+{desaparecer: A matriarca Leda, que afastou o filho caçula da empresa e deixou caminho livre ao outro, também [desapareceu.,
+ escoar-se: A cidade foi fundada , como seu próprio nome diz, por Alexandre, o Grande , entre 331 e 330 aC e I]escoou-se quase mil anos antes de a biblioteca ser destruída.,
+ sumir-se: O guerreiro cristão atravessou a cabana e [sumiu-se na treva.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1943' = “ausentar-se clandestinamente ou furtivamente”
+{desaparecer: Alguém que estava na sala abriu precipitadamente a janela, saltou por ela para a rua, e [desapareceu.,
+ escoar-se: Apagando os passos, atordoado, Carlos I]escoou-se pelo portão.,
+ sumir-se: Ele beijou as pistolas ainda fumegantes e ia responder, quando a dois passos surgiu de entre a touça o vulto de uma índia que [sumiu-se ligeiramente no mato.,}
+Chave: SUMIR-SE <verb.motion>
+ILI: 02017278
+
+Sense 1
+{02017278} <verb.motion> slip away1, steal away, sneak away, sneak off, sneak out -- (leave furtively and stealthily; "The lecture was boring and many students slipped out when the instructor turned towards the balckboard")
+       => {01951556} <verb.motion> leave1, go forth, go away -- (go away from a place; "At what time does your train leave?"; "She didn't leave until midnight"; "The ship leaves at midnight")

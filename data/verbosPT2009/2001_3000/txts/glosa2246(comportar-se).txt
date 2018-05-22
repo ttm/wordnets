@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA2246
+
+DADO O SYNSET:
+
+S='Glosa2246'
+	    {comportar-se: O executivo deve se I]comportar bem nos eventos sociais.,
+	      conduzir-se: O próprio raciocínio lhe indicará a maneira mais certa e segura de se I]conduzir.,
+	      fazer-se: H]Fez-se de vítima.,
+	      haver-se: Elas se H]houveram com elegância na discussão.,
+	      portar-se: Os alunos se I]portaram com muita discrição na visita que fizemos ao museu.,
+	      proceder: Ela foi sincera, disse o que pensava e, só porque ambos I]procederam com sinceridade, houve possibilidade de um entendimento.,
+	      usar: H]Usou mal com a ex-mulher, que então passou a evitá-lo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2246' = “proceder de uma certa maneira, mostrar um certo comportamento”
+	    {comportar-se: O executivo deve se I]comportar bem nos eventos sociais.,
+	      conduzir-se: O próprio raciocínio lhe indicará a maneira mais certa e segura de se I]conduzir.,
+	      fazer-se: H]Fez-se de vítima.,
+	      haver-se: Elas se H]houveram com elegância na discussão.,
+	      portar-se: Os alunos se I]portaram com muita discrição na visita que fizemos ao museu.,
+	      proceder: Ela foi sincera, disse o que pensava e, só porque ambos I]procederam com sinceridade, houve possibilidade de um entendimento.,
+	      usar: H]Usou mal com a ex-mulher, que então passou a evitá-lo.,}
+
+Chave: COMPORTAR-SE <verb.body>
+
+ILI: 00010141
+
+Sense 1
+{00010141} <verb.body> act, behave, do9 -- (behave in a certain manner; show a certain behavior; conduct or comport oneself; "You should act like an adult"; "Don't behave like a fool"; "What makes her do this way?"; "The dog acts ferocious, but he is really afraid of people")

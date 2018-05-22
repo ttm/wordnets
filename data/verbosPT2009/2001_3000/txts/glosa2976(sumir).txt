@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA2976
+
+DADO O SYNSET:
+
+S='Glosa2976'
+	    {afundar: Quem teve a desgraça de ficar doente do mal, o melhor que tem a fazer é I]afundar no mato e passar com carne de onça sem sal.,
+	      desabalar: Ela H]desabalou pelos corredores da casa.,
+	      desaparecer: Uma vez quebrou o camarim numa briga com outro ator, que [desapareceu do mapa.,
+	      desparecer: O índio [despareceu de novo nas sombras da noite que avançava rapidamente.,
+	      enlapar: x,
+	      evadir: Alguns alunos procuram I]evadir das situações para outra atividade, não deixando de apresentar desculpas evasivas.,
+	      fugir: Ao [fugir do local do acidente, o condutor do trator assumiu a culpa.,
+	      fundir2: x,
+	      sumir: A violência fez o público [sumir dos estádios.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2976' = “Sumir, especialmente sem aviso ou explicação”
+	    {afundar: Quem teve a desgraça de ficar doente do mal, o melhor que tem a fazer é I]afundar no mato e passar com carne de onça sem sal.,
+	      desabalar: Agarrou o dinheiro com um desespero voraz e I]desabalou calçada afora.,
+	      desaparecer: A virgem disse e I]desapareceu na selva.,
+	      desparecer: O índio [despareceu de novo nas sombras da noite que avançava rapidamente.,
+	      evadir-se: Aproveitando o empenho dos lutadores pela disputa de sua arma, o caçador I]evadiu-se na floresta.,
+	      fugir: E a virgem morena I]fugiu no costeiro.,
+	      sumir: Ele voltou para a guerrilha e I]sumiu no mundo.,}
+Chave: SUMIR <verb.change>
+ILI: 00414775
+
+Sense 1
+{00414775} <verb.change> disappear, vanish, go away -- (get lost, especially without warning or explanation; "He disappeared without a trace") 

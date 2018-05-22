@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2130
+
+DADO O SYNSET:
+	
+S='Glosa2130'
+    	{arrazoar: x,
+      	 explicar: Os funcionários demitidos estavam sem função e entraram na companhia sem concurso», [explicou, frisando que os estudos de reformulação da companhia começaram há um ano .,
+      	 fundamentar: A equipe [fundamentou esta afirmação com alguns protocolos que havia coletado sobre sujeitos humanos empenhados nas mesmas tarefas.,
+      	 justificar: Ele [justificou que o preço final do produto, mais elevado que o de mercado, deve-se ao fato da moto já vir equipada com rádio e outros acessórios.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2130' = “mostrar que algo está correto provendo justificativa ou prova”
+    	{explicar: No processo de inscrição nós exigimos apenas uma página, que deve I]explicar sua idéia e citar um mínimo de literatura que a sustente.,
+      	 fundamentar: A equipe [fundamentou esta afirmação com alguns protocolos que havia coletado sobre sujeitos humanos empenhados nas mesmas tarefas.,
+      	 justificar: Tomasco [justifica as isenções, dizendo que só de ICMS, nos primeiros cinco anos de operação da fábrica, deve ser gerado o dobro da arrecadação atual de Juiz de Fora.}
+Chave: JUSTIFICAR <verb.communication>
+ILI: 00866621
+
+Sense 2
+{00866621} <verb.communication> justify, vindicate -- (show to be right by providing justification or proof; "vindicate a claim")
+       => {00866905} <verb.communication> uphold2, maintain3 -- (support against an opponent; "The appellate court upheld the verdict")
+           => {00979343} <verb.communication> confirm, reassert -- (strengthen or make more firm; "The witnesses confirmed the victim's account")
+               => {00979031} <verb.communication> affirm1 -- (say yes to)

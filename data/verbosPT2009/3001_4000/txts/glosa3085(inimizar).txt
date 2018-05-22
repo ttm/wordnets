@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA3085
+
+DADO O SYNSET:
+
+S='Glosa3085'
+	    {
+	      alienar: Até agora, tais partidos ou grupos estão longe de representar o pensamento majoritário, mas seu êxito tende a influenciar indiretamente os partidos tradicionais, que não desejam [alienar a simpatia de um bloco importante de eleitores.,
+	      homiziar: Seus adversários queriam H]homiziá-lo com o chefe.,
+	      indispor: E ao [indispor a sociedade contra os mesmos, prenuncia cenários difíceis para a atividade rural.,
+	      inimistar: x,
+	      inimizar: Acerca de gostos e de cores não se disputa, razão porque você não pode I]inimizar com alguém só porque ele gosta do amarelo e você, do verde.,
+	      intrigar: Dornelles, saiba que um inimigo seu na Receita quer nos [intrigar.,
+	      malquistar: Para I]malquistar seus inimigos com os portugueses: primeiro, Aruãs não usavam antropofagia, porém foram vítimas dela em mãos de seus inimigos Galibi.,
+	      odiar: Perverso, A]odiou o filho com o pai.,
+	    }
+
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3085'
+	     {indispor: Ele tinha dificuldades para dormir, I]indispôs-se com os amigos, e no final do verão de 1693 sofreu um colapso nervoso.,
+	      inimizar: Tipper se I]inimizou com parte da indústria fonográfica.,
+	      intrigar: José Bonifácio nos I]intrigou com o Imperador.,
+	      malquistar: Seu gênio rixento I]malquistou-o com os compatriotas.,}
+Chave: INIMIZAR <verb.emotion>
+ILI: 01770621
+
+Sense 1
+{01770621} <verb.emotion> estrange, alienate, alien, disaffect -- (arouse hostility or indifference in where there had formerly been love, affection, or friendliness)
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

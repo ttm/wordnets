@@ -1,0 +1,38 @@
+ANÁLISE DA GLOSA3416
+
+DADO O SYNSET:
+
+S='Glosa3416'
+	    {
+	      adestrar: Recrutou e I]adestrou agentes, criou repartições, destinou verbas, imaginou aparelhos e instrumentos, fiscalizou a perfeita execução dos serviços.,
+	      amaestrar: x,
+	      amestrar: Então, trazem pessoas com perfis diferentes; com o tempo, entretanto, o próprio sistema os expele ou então os I]amestra.,
+	      disciplinar: Os exercícios mentais devem ser praticados desde cedo para I]disciplinar a memória, e podem ser, por exemplo, jogos de cartas ou de encaixe.,
+	      ensinar: A idéia é [ensinar os professores a lidar com o portador de deficiência, usando os computadores para desenvolver o potencial destes alunos especiais. ,
+	      escolar: x,
+	      habilitar: Também busca I]habilitar os alunos a realizar análises empíricas com base em dados observáveis.,
+	      instituir: H]Instituíram-na nos mistérios da fé.,
+	      instruir: um velho marinheiro H]instruiu-o no manejo dos barcos.,
+	      matraquear: H]Matraqueou o rapaz nos segredos das cartas.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3416' = “fazer saber habilidades ou conhecimento”
+	     {adestrar: Recrutou e I]adestrou agentes, criou repartições, destinou verbas, imaginou aparelhos e instrumentos, fiscalizou a perfeita execução dos serviços.,
+	      amestrar: I]Amestrou jornalistas, amenizou dificuldades deles, as duas coisas pertencem ao passado.,
+	      disciplinar: A escola ao mesmo tempo atendia aos princípios liberais de igualdade, através de seu conteúdo, e I]disciplinava moralmente cada indivíduo nos preceitos da democracia burguesa.,
+	      ensinar: E [ensinava ao Cincinato inexperiente o jeito de servir-se do velho instrumento de trabalho. ,
+	      habilitar: Na visão de Lees, o livro de Chomsky [habilitou os lingüistas a cruzarem a fronteira entre uma pré-ciência descritiva e uma ciência axiomática.,
+	      instituir: H]Instituíram-na nos mistérios da fé.,
+	      instruir: I]Instruiu seus diretores e officers na cooptação de clientes e participou de diversas reuniões do comitê.,
+	      matraquear: H]Matraqueou o rapaz nos segredos das cartas.,}
+Chave: ENSINAR
+ILI: 00801981
+
+Sense 1
+{00801981} <verb.communication> teach, learn, instruct -- (impart skills or knowledge to; "I taught them French"; "He instructed me in building a boat")
+       => {00804489} <verb.communication> inform -- (impart knowledge of some fact, state or affairs, or event to; "I informed him of his rights")
+           => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+               => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

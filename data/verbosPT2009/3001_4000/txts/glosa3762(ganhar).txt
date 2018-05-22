@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA3762
+
+DADO O SYNSET:
+
+S='Glosa3762'
+{embolsar: Agricultores vão I]embolsar R$ 56,5 bi com nova safra. ,
+	 ganhar: Dicas de como I]ganhar dinheiro com seu computador.,
+	 perceber: H]Percebia cinco mil reais por mês.,
+	 receber: Mitterrand é acusado de I]receber dinheiro em troca de favores.}	
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3762' = “ganhar em alguma transação de negócios ou comercial; receber como salário ou recompensa”
+{embolsar: Agricultores vão I]embolsar R$ 56,5 bi com nova safra. ,
+	 ganhar: Dicas de como I]ganhar dinheiro com seu computador.,
+	 perceber: H]Percebia cinco mil reais por mês.,
+	 receber: Mitterrand é acusado de I]receber dinheiro em troca de favores.}	
+Chave: GANHAR <verb.possession>
+ILI: 02223264
+
+Sense 1 
+{02223264} <verb.possession> gain, take in, clear, make1, earn1, realize1, realise1, pull in, bring in1 -- (earn on some commercial or business transaction; earn as salary or wages; "How much do you make a month in your new job?"; "She earns a lot in her new job"; "this merger brought in lots of money"; "He clears $5,000 each month")
+       => {02147191} <verb.possession> get, acquire -- (come into the possession of something concrete or abstract; "She got a lot of paintings from her uncle"; "They acquired a new pet"; "Get your results the next day"; "Get permission to take a few days off from work")

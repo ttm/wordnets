@@ -1,0 +1,42 @@
+ANÁLISE DA GLOSA2561
+
+DADO O SYNSET:
+
+S='Glosa2561'
+	    {abalizar: Uma cruz A]abalizava o local do desastre.,
+	      assinalar: No referente à posição dos Estados que fixaram setores na Antártida e aqueles que não reconhecem reclamações territoriais, o Tratado Antártico se limita a [assinalar a existência das reclamações e a dizer que tais posições não se verão afetadas pela vigência do Tratado, porém que não poderão ser criados novos direitos de soberania a partir da vigência do mesmo.,
+	      assinar: Existe uma suspeita de que Portugal já sabia da existência deste novo continente ao I]assinar o tratado de Tordesilhas de 1494.,
+	      balizar: Hoje é dificil levantar com precisão os limites primitivos e I]balizar o local.,
+	      carimbar: Trata-se de escolher entre deixar um rastro ou [carimbar o ambiente todo.,
+	      delimitar: Para começar, utiliza-se uma armação de meio metro de comprimento por largura equivalente à da plataforma de corte da colheitadeira para [delimitar a área cujo desperdício será avaliado.,
+	      demarcar: O povo indígena Deni começou hoje a abertura de trilhas na floresta amazônica para I]demarcar fisicamente seu território.,
+	      dividir: A idéia do plano é a de [dividir a área do município em cinco parques, um dos quais destinado a indústrias leves.,
+	      divisar: Você teria de ter um sistema capaz de I]divisar bem distâncias de 1cm em 1000 metros, ou seja, que seja capaz de resolver melhor que 2 segundos de arco.,
+	      marcar: Até então, o desenho de mapas pelos povos antigos tinha uma função principalmente prática: I]marcar fronteiras, indicar as terras férteis e a localização. ,
+	      rubricar: Representantes do governo de Angola e da guerrilha Unita devem [rubricar neste fim-de-semana o acordo de paz para encerrar 19 anos de guerra civil na ex-colônia portuguesa. # O responsável pelos dados deveI] rubricar todas as páginas assinar e datar.,
+	      sinalar: O juiz deu sentença que os frades fossem obrigados a I]sinalar dentro da sua cerca sítio competente para vivenda das formigas, e que elas, sob pena de excomunhão, mudassem logo habitação, visto que ambas as partes podiam ficar acomodadas sem mútuo prejuízo, maiormente porque eles, religiosos, tinham vindo ali, por obediência, a semear o grão evangélico e era digno o operário do seu sustento, e o das formigas podia consignar-se em outra parte, por meio da sua indústria, a menos custo.,
+	      traçar1: Na grande maioria das gravuras em metal elaboradas na Espanha da época, era utilizada exclusivamente a técnica do buril - um instrumento de aço com ponta em forma de losango, utilizado para [traçar linhas na chapa de cobre.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2561' = “Pôr,  marcar ou traçar os limites de alguma coisa.”
+	    {abalizar: M]Abalizar um sítio.,
+	      assinalar: Assinalaram os limites para o funcionamento do Estado interventor e desenvolvimentista.,
+	      assinar: H]Assinou a região a ser tombada.,
+	      balizar: Hoje é difícil levantar com precisão os limites primitivos e I]balizar o local.,
+	      delimitar: Juca Ladeira I]delimitou o terreno do arraial e iniciou a construção da capela.,
+	      demarcar: Programa de proteção das florestas já I]demarcou 30 milhões de hectares de terras.,
+	      dividir: A atual legislação que I]dividiu a área em 18 cidades está desatualizada.,
+	      divisar: H]Divisou os limites de uma propriedade.,
+	      marcar: Ele só reconhece como próprio o quintal onde I]marcou limites.,
+	      sinalar: O juiz deu sentença que os frades fossem obrigados a I]sinalar dentro da sua cerca sítio competente para vivenda das formigas.,
+	      traçar1: Se necessário com o auxílio do professor Aziz Ab'Saber, que I}traçou os limites geográficos da cidade.,}
+
+Chave: DELIMITAR <verb.cognition>
+ILI: 00706122
+
+Sense 2
+{00706122} <verb.cognition> demarcate, delimit, delimitate -- (set, mark, or draw the boundaries of something)
+       => {00227757} <verb.change> limit, circumscribe, confine1 -- (restrict or confine, "I limit you to two visits to the pub a day")
+           => {00428838} <verb.change> decrease1, lessen2, minify -- (make smaller; "He decreased his staff")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

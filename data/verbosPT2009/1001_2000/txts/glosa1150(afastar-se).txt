@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA1150
+
+DADO O SYNSET:
+
+S='Glosa1150'
+{abalar: Para não pagar a despesa, M]abalaram furtivamente,
+ abalar-se: M]Abalou-se da pátria que muito amava,
+ abandonar: Foi um delírio ainda que o fez [abandonar o Rio por uns tempos,
+ afastar-se: O sítio empolgara-o, o calor ia passar, vinha a época das chuvas, das semeaduras, e não queria [afastar-se de suas terras/No interior, e não é preciso [afastar-se muito do Rio de Janeiro, as duas medicinas coexistem sem raiva e ambas atendem às necessidades mentais e econômicas da população,
+ desaparecer: Os músicos vão [desaparecer para que ela fique sozinha na cena/Todos [desapareceram,
+ desparecer: Se ele [desparecer, terei de chamar outro,
+ retirar-se: A comadre, assim que viu o negócio neste pé, foi tratando de [retirar-se,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1150' = “ir embora ou afastar-se [de]”
+{abalar: Ele, não, pois no dia seguinte I]abalou da cidade e nunca mais deu notícia,
+ abalar-se: O Papai Noel nunca I]se abalou do Polo Norte para entrar pela lareira da sua casa.,
+ abandonar: O Imperador [abandonou o país sob o duplo assédio do inverno e dos exércitos russos.,
+ afastar-se: A frente fria que provocou a queda na temperatura da região Sudeste do país já se afastou de São Paulo.,
+ desaparecer: Ana Lúcia Duarte, [desapareceu de sua casa há uma semana, um dia após ter denunciado um suposto esquema de corrupção entre a empresa e parlamentares.,
+ desparecer: Teresa tem um estilo que há muito I]despareceu da MPB.,
+ retirar-se: Logo depois de dar entrada na Santa Casa, Restini [retirou-se do local sem prestar esclarecimentos.,}
+Chave: AFASTAR-SE <verb.motion>
+ILI: 01957725
+
+Sense 5
+{01957725} <verb.motion> exit, go out, get out1, leave -- (move out of or depart from; "leave the room"; "the fugitive has left the country")
+       => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right")

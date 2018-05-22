@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA1185
+
+DADO O SYNSET:
+
+S='Glosa1185'
+{denegar: Retomado o julgamento, a Turma, por maioria, I]denegou a ordem.,
+ desautorizar: Somos levados a concluir que a ausência de um discernimento entre a ficção e o fato I]desautoriza qualquer artigo Gonzo como uma peça jornalística. ,
+ desmentir: Os fatos A]desmentiram as teorias.,
+ negar: A 8ª Turma I]negou a ordem sob o argumento de que a prisão preventiva precisava ser mantida para garantir a ordem pública.,}
+	  
+A='Glosa4042'
+{afiançar, afirmar, assegurar, asseverar, caucionar, garantir, jurar, penhorar, prometer, testificar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1185' = “provar ser negativo, falso”
+{denegar: Mas curiosamente, nessa mesma carta, Flaubert [denega a presença desse desejo em Herodías.,
+ desautorizar: Franco afirmou que [desautoriza «totalmente» o que foi divulgado pelo comitê. ,
+ desmentir: Documentos [desmentem suspeita de falsificação.,
+ negar: Apresentando-se como um dos líderes do tráfico na favela, um homem que se identificou como M.G. também [negou a afirmação.,}
+A='Glosa4042'
+{afiançar, afirmar, assegurar, asseverar, caucionar, garantir, jurar, penhorar, prometer, testificar}
+Chave: NEGAR <verb.cognition>
+ILI: 00644688
+
+Sense 3
+{00644688} <verb.cognition> negate, contradict -- (prove negative; show to be false)
+       => {00642734} <verb.cognition> prove, demonstrate, establish, show, shew -- (establish the validity of something, as by an example, explanation or experiment; "The experiment demonstrated the instability of the compound"; "The mathematician showed the validity of the conjecture")
+           => {00643814} <verb.cognition> confirm, corroborate, sustain, substantiate, support, affirm -- (establish or strengthen as with new evidence or facts; "his story confirmed my doubts"; "The evidence supports the defendant")

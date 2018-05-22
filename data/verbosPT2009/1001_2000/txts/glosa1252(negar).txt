@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA1252
+
+DADO O SYNSET:
+
+S='Glosa1252'
+{contradizer: Umas completam as outras, as corrigem ou as repetem e inclusive as [contradizem. # A conclusão do relatório [contradiz afirmações do secretário de Segurança Pública.,
+ contrariar: Não posso [contrariar a opinião pública.,
+ contrastar: Modos que H]contrastam as regras da boa educação.,
+ desdizer: Citando salmos, ele foi embora tentando [desdizer o que disse, para não prejudicar amigos.,
+ desmentir: Testemunhas que não quiseram se identificar [desmentiram esta versão. # PC estava pronto para [desmentir a principal acusação feita à ex-ministra.,
+ negar: O texto seguinte retoma alguns pontos do debate de Valladolid, em 1550, sobre a condição de servilidade natural do indígena, que a [negava, e Sepúlveda, que a defendia. ,
+ rebater: Não conseguiu [rebater os argumentos de Needham,
+ refutar: Como a senhora [refutaria estes argumentos?,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1252' = “negar a verdade [de]”
+{contradizer: A conclusão do relatório [contradiz afirmações do secretário de Segurança Pública.,
+ contrariar: Não posso [contrariar a opinião pública.,
+ contrastar: Thompson (1987)  I]contrasta o sucesso de Owen como empresário.,
+ desdizer: Citando salmos, ele foi embora tentando [desdizer o que disse, para não prejudicar amigos.,
+ desmentir: Testemunhas que não quiseram se identificar [desmentiram esta versão.,
+ negar: O texto seguinte retoma alguns pontos do debate de Valladolid, em 1550, sobre a condição de servilidade natural do indígena, que a [negava, e Sepúlveda, que a defendia.,
+ rebater: Não conseguiu [rebater os argumentos de Needham.,
+ refutar: Como a senhora [refutaria estes argumentos?,}
+Chave: NEGAR <verb.communication>
+ILI: 00796537
+
+Sense 2
+{00796537} <verb.communication> contradict, negate, contravene -- (deny the truth of)
+       => {00778773} <verb.communication> disagree, differ, dissent1, take issue -- (be of different opinions; "I beg to differ!"; "She disagrees with her husband on many questions")

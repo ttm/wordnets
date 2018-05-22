@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA1699
+
+DADO O SYNSET:
+
+S='Glosa1699'
+{alçar: No meio da semana, o treinador Silva deu sinais de que [alçaria Marques ao time titular no lugar de Rivaldo.,
+ empoleirar: x,
+ escolher: Outra interpretação era de que o presidente Fernando Henrique Cardoso [escolheria Mendonça de Barros para o ministério. ,
+ nomear: O governador Marcello Alencar deve explicações ao procurador geral da República, no Rio, Níveo de Freitas, por ter deixado de [nomear o procurador Alex Miranda para o Conselho Penitenciário do estado.,
+ promover: Em junho de 1985, o Conselho Diretor [promoveu Paulo Renato para o nível da carreira que permitiria sua candidatura a professor-titular, o MS-5 .,}
+	  
+A='Glosa1183'
+{degradar, desautorar, exautorar, rebaixar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1699' = “dar uma promoção [a] ou nomear para um posto mais elevado”
+{alçar: No meio da semana, o treinador Silva deu sinais de que [alçaria Marques ao time titular no lugar de Rivaldo.,
+ escolher: Outra interpretação era de que o presidente Fernando Henrique Cardoso [escolheria Mendonça de Barros para o ministério.,
+ nomear: O BC [nomeou um funcionário de carreira, José Maria Fabrício, como liquidante do banco.,
+ promover: Em junho de 1985, o Conselho Diretor [promoveu Paulo Renato para o nível da carreira que permitiria sua candidatura a professor-titular, o MS-5.,}
+	  
+A='Glosa1183'
+{degradar, desautorar, exautorar, rebaixar}
+Chave: PROMOVER <verb.social>
+ILI: 02325893
+
+Sense 2
+{02325893} <verb.social> promote, upgrade, advance, kick upstairs, raise4, elevate -- (give a promotion to or assign to a higher position; "John was kicked upstairs when a replacement was hired"; "Women tend not to advance in the major law firms"; "I got promoted after many years of hard work")
+       => {02320208} <verb.social> delegate, designate, depute3, assign -- (give an assignment to (a person) to a post, or assign a task to (a person))
+           => {02401814} <verb.social> appoint, charge -- (assign a duty, responsibility or obligation to; "He was appointed deputy manager"; "She was charged with supervising the creation of a concordance")

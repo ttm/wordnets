@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0336
+
+DADO O SYNSET:
+
+S='Glosa336'
+{desabrigar: As ressacas, comuns em agosto, [desabrigaram 15 famílias em Olinda em 93.,
+desacoitar: H]Desacoitaram as lebres de sua lapa.,
+desagasalhar: A demolição H]desagasalhou várias famílias.,}
+A='Glosa3005'
+{abrigar, acolher, agasalhar, albergar, aposentar, recolher}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa336' = “remover ou forçar a saída de uma habitação”
+{desabrigar: As ressacas, comuns em agosto, [desabrigaram 15 famílias em Olinda em 93.,}
+A='Glosa3005'
+{abrigar, acolher, agasalhar, albergar, aposentar, recolher}
+Chave: DESABRIGAR <verb.contact>
+ILI: 01485191
+
+Sense 3
+{01485191} <verb.contact> dislodge1, displace, bump1 -- (remove or force from a position of dwelling previously occupied; "The new employee dislodged her by moving into her office space")
+       => {01426914} <verb.contact> expel, eject1, chuck out, exclude, throw out, kick out, turf out, boot out, turn out -- (put out or expel from a place; "The child was expelled from the classroom")
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

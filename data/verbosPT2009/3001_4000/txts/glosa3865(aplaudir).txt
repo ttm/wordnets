@@ -1,0 +1,36 @@
+ANÁLISE DA GLOSA3865
+
+DADO O SYNSET:
+
+S='Glosa3865'
+{aclamar: O melhor de tudo era logo [aclamar o imperador .,
+ aplaudir: Em noite de Fernanda Abreu, pop português é [aplaudido por 50 mil,
+ festejar: os passistas H]festejaram o presidente de honra da escola,
+ ovacionar: Quando o candidato desceu do carro, foi [ovacionado com bandeirinhas do PT . ,
+ plaudir: x,
+ saudar: Faixas foram preparadas para [saudar a chegada da caravana ,
+ vitoriar: Junto do Santo vê-se esculpida uma açucena, cujas hastes caem tão lânguidas e pois tão naturalmente que por isso não se pode deixar de I]vitoriar o artista,}
+	  
+A='Glosa3415'
+{apupar, assobiar, assoviar, matraquear, vaiar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3865' = “bater palmas ou gritar após uma performance de modo a indicar aprovação”  
+{aclamar: Pudemos contatar alguns destaques que o público [aclamou durante as apresentações, que foram a o grupo de gospel norte-americano, o Mount Moriah Baptist Church, e Os Derviches Dançantes, da Turquia.,
+ aplaudir: Os 225 lugares do teatro estavam quase todos tomados por uma platéia que, 50 minutos depois, [aplaudiria a performance de pé, vibrando com o habitual carisma de Marco Nanini.,
+ ovacionar: A torcida [ovacionou a bela voz da cantora verde-amarela.,
+ saudar: Os manifestantes [saudaram o discurso com palavras de ordem como “o povo votou, Cárdenas ganhou”,
+ vitoriar: Centenas de estudantes I]vitoriaram hoje Jorge Sampaio à sua chegada a Gleno.}
+	  
+A='Glosa3415'
+{apupar, assobiar, assoviar, matraquear, vaiar}
+Chave: APLAUDIR <verb.communication>
+ILI: 00833736
+
+Sense 1
+{00833736} <verb.communication> applaud1, clap, spat1, acclaim1 -- (clap one's hands or shout after performances to indicate approval)
+       => {00959756} <verb.communication> gesticulate, gesture, motion -- (show, express or direct through movement; "He gestured his desire to leave")
+           => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+               => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

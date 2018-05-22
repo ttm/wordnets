@@ -1,0 +1,51 @@
+ANÁLISE DA GLOSA2448
+
+DADO O SYNSET:
+S='Glosa2448'
+	    {aferir: Outra atitude própria da cidadania é a de consolidar a democracia participativa, encontrando modos de acompanhar o desempenho dos que forem eleitos, descobrindo processos para [aferir a administração pública e a atuação do Congresso. ,
+	      ajuizar: Somente uma perspectiva histórica permitirá [ajuizar em situações concretas se eventuais falhas metodológicas afetaram ou não o valor científico da investigação.,
+	      apreciar: Não cabe ao tribunal, quando [aprecia o conflito, manifestar-se sobre outras questões que não as relativas à competência.,
+	      aquilatar: Simeão, sujeito severoso, veio do Sobradinho I]aquilatar o grau de safadeza do neto.,
+	      avaliar: Temos [avaliar os dois lados da questão, explicou.,
+	      bitolar: x,
+	      conhecer: É tudo uma questão de tempo e ainda falta [conhecer os resultados do congresso do PSD e saber a altura exacta em que o Presidente da República tomará decisão relativamente ao Governo.,
+	      considerar: Muitos o [consideram o melhor entre todos os atores da geração brat pack - o grupo de talentos, hoje na casa dos 30, que surgiu no meio dos anos 80, como Matt Dillon, Emilio Estevez, Demi Moore e Tom Cruise.,
+	      discernir: Palavras como ética e moral apenas evocam nossos esforços para I]discernir o que é certo ou errado.,
+	      enxergar: O adulto tende a I]enxergar o mundo e seus acontecimentos de forma mais objetiva, de modo que pode tomar decisões movidos mais pela razão.,
+	      examinar: Clinton apelou ainda à Bielorrússia para [examinar atentamente a oferta da para aderir à Parceria para a Paz, destinada a permitir a todos os países europeus não membros da Aliança que cooperem com ela.,
+	      julgar: Então, este jovem de Mangualde, pai de um menina de três anos, lembra-se que lhe destinaram [julgar o que aquelas fotos podem significar.,
+	      medir: Um jovem carpinteiro poderá não saber [medir as palavras, mas não se pode dizer que tenha falta de autoconsciência. # Só que, hoje em dia, as coisas já não são tão simples e uma simples escala deixou de ser suficiente para [medir a relação entre público e cientistas, que se tornou rica de matizes, complexidades e paradoxos.,
+	      ponderar: Tal acontecerá se as disposições orçamentais sobre o financiamento das autarquias se mantiverem e não forem alteradas durante a análise na especialidade, situação que o PSD agora pondera.,
+	      quilatar: Impossível H]quilatar uma grande amizade.,
+	      sopesar: A palavra avaliação significa etimologicamente determinar o valor e, este determinar leva às atitudes de pesar e I]sopesar o que se vê, o que se ouve, o que se sente enfim.,
+	      tomar: Vocês [tomam a criança por parva.,
+	      ver: Por outras palavras, o que a arte nos dá é mais possibilidades de [ver as coisas de diferentes maneiras.,}
+
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2448' = “Refletir profundamente sobre um assunto.”
+	    {aferir: A VII Pesquisa I]aferiu dados referente ao ano de 2006 de 3.110 empresas.,
+	      ajuizar: A]Ajuizar a verdadeira importância de um fato.,
+	      apreciar: Não cabe ao tribunal, quando [aprecia o conflito, manifestar-se sobre outras questões que não as relativas à competência.,
+	      aquilatar: I]Aquilatava perfeitamente o merecimento dos candidatos.,
+	      avaliar: O governo I]avaliou que o anúncio das medidas poderia trazer alguns problemas políticos no momento em que o Congresso discute a CPI dos bancos.,
+	      conhecer: Worth I]conheceu resultados interessantes.,
+	      considerar: Muitos o [consideram o melhor entre todos os atores da geração brat pack.,
+	      discernir: E então I]discerniram que este é um valor salgado.,
+	      enxergar: A partir daqui já I]enxergava o mundo de outra maneira.,
+	      examinar: Sócrates, como se vê, I]examinou suas alternativas.,
+	      julgar: O BC tomou as medidas que I]julgou adequadas, no momento justo.,
+	      medir: I]Mediu as conseqüências, sentiu e assimilou o golpe, e recolheu o trem de pouso.,
+	      ponderar: Maria Inês de Almeida ponderou que a Assembléia foi muito tumultuada.,
+	      quilatar: Já I]quilatava o significado de sua obra.,
+	      sopesar: O Tribunal de origem I]sopesou adequadamente a culpa do motorista da ré.,
+	      tomar: Vocês [tomam a criança por parva.,
+	      ver: Por outras palavras, o que a arte nos dá é mais possibilidades de [ver as coisas de diferentes maneiras.,}
+
+Chave: PONDERAR <verb.cognition>
+ILI: 00610468
+
+Sense 1
+{00610468} <verb.cognition> chew over, think over, meditate, ponder, excogitate, contemplate1, muse, reflect, mull, mull over, ruminate, speculate -- (reflect deeply on a subject; "I mulled over the events of the afternoon"; "philosophers have speculated on the question of God for thousands of years"; "The scientist must stop to observe and start to excogitate")
+       => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere") 

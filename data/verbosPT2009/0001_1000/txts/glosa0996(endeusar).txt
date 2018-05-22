@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA0996
+
+DADO O SYNSET:
+
+S='Glosa996'
+{adeusar: x,
+apoteosar: Só ele, dentre todos os seres vivos da natureza, habilita-se a I]apoteosar e cultuar a divindade trina.,
+apoteotizar: x,
+deificar: Sempre houve uma tendência na crítica em [deificar o texto, em concebê-lo como o verdadeiro paradigma da experiência.,
+divinizar: Bebi somente um cálix de vinho; aquele que Nicota [divinizara com o contato da sua boca mimosa.,
+endeusar: É verdade que vocês vão [endeusar um bandido? # Hostilizar um e [endeusar o outro não leva a nada.,}
+A='Glosa1321'
+{desendeusar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa996' = “exaltar à posição de Deus”
+{apoteosar: Só ele, dentre todos os seres vivos da natureza, habilita-se a I]apoteosar e cultuar a divindade trina.,
+deificar: Sempre houve uma tendência na crítica em [deificar o texto, em concebê-lo como o verdadeiro paradigma da experiência.,
+divinizar: Bebi somente um cálix de vinho; aquele que Nicota [divinizara com o contato da sua boca mimosa.,
+endeusar: É verdade que vocês vão [endeusar um bandido? # Hostilizar um e [endeusar o outro não leva a nada.,}
+A='Glosa1321'
+{desendeusar}
+Chave: ENDEUSAR <verb.change>
+ILI: 00530443
+
+Sense 2
+{00530443} <verb.change> deify1 -- (exalt to the position of a God; "the people deified their King")
+       => {00530239} <verb.change> exalt -- (raise in rank, character, or status; "exalted the humble shoemaker to the rank of King's adviser")
+           => {00529852} <verb.change> lift7, raise2, elevate -- (raise in rank or condition; "The new law lifted many people from poverty")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

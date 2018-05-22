@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA100
+
+DADO O SYNSET:
+
+S='Glosa100'
+{afear: É muito freqüente M]afearmos a intenção alheia.,
+afeiar: I]Afeiar as suas graças, parecia-lhe um crime; tirar orgulho delas, frivolidade.,
+esfear: Gastada a primeira impressão, procurou corrigir os erros cometidos, o que foi tarefa penosa, pois teve de recorrer a vários originais e consultar pessoas que entendiam do assunto, no empenho de não I]desfear a obra.,
+desfigurar: Foi o livro que mais contribuiu para [desfigurar o verdadeiro perfil do filósofo - uma parábola incompreensível para muitos.,
+deturpar: Dizer isso não é imputar nenhuma inferioridade aos negros, nem é [deturpar a história brasileira.,
+enfear: Queria H]enfear o ato do marido com relatos falsos.,}
+A='Glosa101'
+{embelezar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa100' = “tornar ou fazer feio”
+{afear: Nenhuma ruga lhe I]afeiou o rosto: nenhum abalo lhe fraqueou o pulso.,
+afeiar: I]Afeiar as suas graças, parecia-lhe um crime; tirar orgulho delas, frivolidade.,
+esfear: Gastada a primeira impressão, procurou corrigir os erros cometidos, o que foi tarefa penosa, pois teve de recorrer a vários originais e consultar pessoas que entendiam do assunto, no empenho de não I]desfear a obra.,
+desfigurar: Foi o livro que mais contribuiu para [desfigurar o verdadeiro perfil do filósofo - uma parábola incompreensível para muitos.,
+deturpar: Dizer isso não é imputar nenhuma inferioridade aos negros, nem é [deturpar a história brasileira.,
+enfear: Os técnicos do nosso futebol, que tanto têm contribuído para I]enfear o espetáculo do esporte do século, armando mais as defesas do que os ataques.,}
+A='Glosa101'
+{embelezar}
+Chave: ENFEAR
+ILI: 00284369
+
+Sense 1
+{00284369} <verb.change> uglify -- (make ugly)
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA2270
+
+DADO O SYNSET:
+
+  S='Glosa2270'
+	    {bradar: O armênio levantou-se e [bradou: Uriel !,
+	      clamar: Estava grávida, e I]clamava com dores de parto e sofria tormentos para dar à luz.,
+	      gritar: Procurei imitar o menino que subia nos galhos mais altos e [gritava.,
+	      troar: Bramiu Irapuã; o grito ronco [troou nas arcas do peito.,
+	      trovejar: A Argentina é abençoada por uma coisa, e apenas uma coisa, [troveja o ator. ,
+	      trovoar: Um tambor no silêncio I]trovoou.,
+	      vozear: Bastava [vozear curto e mandar. ,
+	      vozeirar: Anselmo procurava descobrir Amélia, mas a atriz não havia ainda aparecido, o coro apenas I]vozeirava.,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2270' = “pronunciar gritos altos e repentinos”
+	    {bradar: O armênio levantou-se e [bradou: Uriel !,
+	      clamar: E I]clamava com dores de parto e sofria tormentos para dar à luz.,
+	      gritar: Procurei imitar o menino que subia nos galhos mais altos e [gritava.,
+	      troar: O grito rouco [troou nas arcas do peito.,
+	      trovejar: A Argentina é abençoada por uma coisa [troveja o ator. ,
+	      trovoar: Abençoado pelas estrelas quase I]trovoava quando falava , mas tinha uma aura calma e pacífica.,
+	      vozear: Bastava [vozear curto e mandar. ,
+	      vozeirar: Anselmo procurava descobrir Amélia, mas a atriz não havia ainda aparecido, o coro apenas I]vozeirava.,}
+
+Chave: GRITAR <verb.communication>
+ILI: 00882998
+
+Sense 2
+{00882998} <verb.communication> shout1, shout out, cry1, call9, yell1, scream1, holler5, hollo, squall -- (utter a sudden loud cry; "she cried with pain when the doctor inserted the needle"; "I yelled to her from the window but she couldn't hear me")
+       => {00951670} <verb.communication> utter2, emit, let out2, let loose -- (express audibly; utter sounds (not necessarily words); "She let out a big heavy sigh"; "He uttered strange sounds that nobody could understand") 

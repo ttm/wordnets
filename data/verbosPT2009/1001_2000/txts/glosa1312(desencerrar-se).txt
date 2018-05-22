@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA1312
+
+DADO O SYNSET:
+
+S='Glosa1312'
+{desencerrar-se: H]Desencerrou-se da prisão,}
+	  
+A='Glosa711'
+{encerrar-se, fechar-se, trancar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1312' = “tornar-se aberto, destrancado”
+{desencerrar-se: Estas mesmas “fábricas de conteúdos e talentos” I]desencerram-se de um mundo restrito das quatro paredes das Universidades e Instituições,}
+A='Glosa711'
+{encerrar-se, fechar-se, trancar-se}
+Chave: DESENCERRAR-SE <verb.change> 
+ILI: 00212494
+
+Sense 3
+{00212494} <verb.change> unlock -- (become unlocked; "The door unlocked from the inside")
+       => {00212807} <verb.change> disengage -- (become free; "in neutral, the gears disengage")
+           => {00140715} <verb.change> change state, turn4 -- (undergo a transformation or a change of position or action; "We turned from Socialism to Capitalism"; "The people turned against the President when he stole the election")
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

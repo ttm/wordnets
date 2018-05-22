@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA2167
+
+DADO O SYNSET:
+
+S='Glosa2167'
+	    {axadrezar: H]Axadrezar um tecido.,
+	      enxadrezar: H]Enxadrezar um piso com mármore preto e branco.,
+	      enxaquetar: x,
+	      enxequetar: x,
+	      escaquear: x,
+	      xadrezar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2167' = “marcar com quadrados ou desenhar com os mesmos; desenhar linhas cruzando uma sobre as outras”
+	    {axadrezar: H]Axadrezar um tecido.,
+	      enxadrezar: H]Enxadrezar um piso com mármore preto e branco.,}
+
+Chave: AXADREZAR <verb.creation>
+ILI: 01644581
+
+Sense 16
+{01644581} <verb.creation> check, checker, chequer -- (mark into squares or draw squares on; draw crossed lines on)
+       => {01642108} <verb.creation> draw -- (represent by making a drawing of, as with a pencil, chalk, etc. on a surface; "She drew an elephant"; "Draw me a horse")
+           => {01637996} <verb.creation> represent1, interpret1 -- (create an image or likeness of; "The painter represented his wife as a young girl")
+               => {01573613} <verb.creation> re-create -- (create anew; "Re-create the boom of the West on a small scale")
+                   => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

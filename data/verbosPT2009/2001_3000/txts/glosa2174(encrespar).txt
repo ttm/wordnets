@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA2174
+
+DADO O SYNSET:
+
+S='Glosa2174'
+	    {avolumar: "A onda de lama A]avoluma, / Não tem vazante a maré".,
+	      empolar: x,
+	      encapelar: O vento principiava a soltar-se das usas amarras para I]encapelar o mar, romper a vela, espalhar em volta da casa os seus destroços. ,
+	      encarneirar: A Baía de S. Vicente resplandecia um céu azul de brigadeiro, com milhares de luzinhas que brilhavam sobre o mar verde esmeralda, revelando uma superfície picada por um forte vento leste, que chegava a I]encarneirar as ondas.,
+	      encrespar: Aos poucos também o mar começa a I]encrespar e o tempo fica fechado.,
+	      enfurecer: x,
+	      enfuriar: x,
+	      volumar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2174' = “agitar, especificamente a água, até formar ondulações”
+	    {encapelar: O vento principiava a soltar-se das usas amarras para I]encapelar o mar, romper a vela, espalhar em volta da casa os seus destroços. ,
+	      encarneirar: Um forte vento leste chegava a I]encarneirar as ondas.,
+	      encrespar: O I]vento encrespa as ondas com espuma branca, visível à distância.,}
+
+Chave: ENCRESPAR <verb.motion>
+ILI: 01981817
+
+Sense 1
+{01981817} <verb.motion> ripple, ruffle, riffle, cockle, undulate1 -- (stir up (water) so as to form ripples)
+       => {02007935} <verb.motion> flow1, flux -- (move or progress freely as if in a stream; "The crowd flowed out of the stadium")
+           => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right")

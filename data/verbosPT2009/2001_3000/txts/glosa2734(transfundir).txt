@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA2834
+
+DADO O SYNSET:
+
+  S='Glosa2734'
+	    {refundir: Esta modalidade tem a desvantagem de perda de liquidez e segurança, em virtude do custo de I]refundir o ouro no momento de nova negociação, com o objetivo de se certificar de seu grau de pureza.,
+	      transfundir: M]Transfundir aguardente, vinho.,
+	      transvasar: Não se permite medir ou I]transvasar leite de cabra em ambiente que o exponha a contaminações.,
+	      trasfegar: Ao despejar, I]trasfegar ou encher recipientes com mercúrio, deve utilizar-se um sistema fechado, e com aspiração, especialmente previsto para isto.,
+	      trasvasar: x,
+	      versar1: M]Versar um líquido.,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2734' = “Despejar de um recipiente para outro.”
+	    {transfundir: M]Transfundir aguardente, vinho.,
+	      transvasar: Não se permite medir ou I]transvasar leite de cabra em ambiente que o exponha a contaminações.,
+	      trasfegar: Ao despejar, I]trasfegar ou encher recipientes com mercúrio, deve utilizar-se um sistema fechado, e com aspiração, especialmente previsto para isto.,}
+
+Chave: TRANSFUNDIR <verb.motion>
+ILI: 01799787
+
+Sense 2
+{01799787} <verb.motion> transfuse -- (pour out of one vessel into another)
+       => {02010968} <verb.motion> pour3 -- (cause to run; "pour water over the floor")
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant") 

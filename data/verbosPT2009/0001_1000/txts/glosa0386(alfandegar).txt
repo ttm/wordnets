@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0386
+
+DADO O SYNSET:
+
+S='Glosa386'
+{aduanar: x,
+alfandegar: Regular o comércio internacional bem como o dos estados entre si e com o Distrito Federal, I]alfandegar portos, criar ou suprimir entrepostos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa386' = “cobrar taxa alfandegária”
+{alfandegar: Regular o comércio internacional bem como o dos estados entre si e com o Distrito Federal, I]alfandegar portos, criar ou suprimir entrepostos.,}
+
+Chave: ALFANDEGAR <verb.possession>
+ILI: EQ_HAS_HYPERONYM - 02241102
+
+Sense 1
+{02241102} <verb.possession> tariff -- (charge a tariff; "tariff imported goods")
+       => {02240674} <verb.possession> tax -- (levy a tax on; "The State taxes alcohol heavily"; "Clothing is not taxed in our state")
+           => {02239588} <verb.possession> levy, impose -- (impose and collect; "levy a fine")
+               => {02253221} <verb.possession> charge3, bill -- (demand payment; "Will I get charged for this service?"; "We were billed for 4 nights in the hotel, although we stayed only 3 nights")
+                   => {02199815} <verb.possession> account, calculate -- (keep an account of)

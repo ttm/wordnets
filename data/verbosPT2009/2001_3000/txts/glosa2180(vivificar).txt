@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA2180
+
+DADO O SYNSET:
+
+S='Glosa2180'
+	    {fecundar: De como as ficções imaginadas por senhoras e solteironas inglesas do século XVIII embalaram as imaginações novecentistas brasileiras e [fecundarem vocações do porte da de um Machado de Assis .,
+	      fertilizar: Os nomes mais óbvios vão de Eça de Queiroz a Ernest Hemingway, mostrando que o batente de jornalista pode I]fertilizar as nossas letras.,
+	      vivificar: O combate ao desperdício, às injunções políticas no cotidiano das empresas, a busca enfim da racionalidade e eficiência econômicas são objetivos que encontram terreno fértil para [vivificar quando não se tem a ingerência do Estado .,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2180' = “tornar produtivo ou desenvolver”
+	    {fecundar: De como as ficções imaginadas por senhoras e solteironas inglesas do século XVIII embalaram as imaginações novecentistas brasileiras a [fecundarem vocações do porte da de um Machado de Assis .,
+	      fertilizar: Os nomes mais óbvios vão de Eça de Queiroz a Ernest Hemingway, mostrando que o batente de jornalista pode I]fertilizar as nossas letras.,
+	      vivificar: É durante as comemorações do grupo que memória e identidade são celebradas – as relações sociais I]vivificam estas noções.,}
+
+Chave: VIVIFICAR <verb.change>
+ILI: 00490725
+
+Sense 2
+{00490725} <verb.change> fertilize1, fecundate, fertilise1 -- (make fertile or productive; "The course fertilized her imagination")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

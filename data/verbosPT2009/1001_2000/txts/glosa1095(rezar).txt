@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA1095
+
+DADO O SYNSET:
+
+S='Glosa1095'
+{deprecar: No mesmo dia, estando já parte do povo na igreja [deprecando a Deus nosso pai, todo o povo fez o mesmo,
+ orar: Foi obrigado a ajoelhar-se em todos os ângulos da casa, e recitar as orações que já sabia e mais algumas que lhe foram ensinadas na ocasião, depois foi [orar junto da fogueira.,
+ pedir: Se tão danada tentação nos tomasse, [pediríamos a Deus que nos livrasse dela,
+ rezar: Um padre rezou junto com a família de Samuel e Sérgio Reoli, enquanto os parentes de Alberto Hinoto, o Bento, que também era católico, faziam uma corrente para [rezar à parte,
+ rogar: Este beijou a moeda; eu pedi-lhe que [rogasse a Deus por mim, a fim de que eu pudesse satisfazer todos os meus desejos,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1095' = “dirigir-se a Deus; dizer uma oração”
+{deprecar: No mesmo dia, estando já parte do povo na igreja [deprecando a Deus nosso pai, todo o povo fez o mesmo,
+ orar: Ela afirmou que estava [orando a Deus para que tocasse o coração dos sequestradores.,
+ pedir: Se tão danada tentação nos tomasse, [pediríamos a Deus que nos livrasse dela.,
+ rezar: e [reza à Virgem Santíssima para que te proteja e te dê juízo!,
+ rogar: Este beijou a moeda; eu pedi-lhe que [rogasse a Deus por mim.,}
+Chave: REZAR <verb.communication>
+ILI: 00734981
+
+Sense 1
+{00734981} <verb.communication> pray -- (address God; say a prayer)
+       => {00735156} <verb.communication> commune2 -- (communicate intimately with; be in a state of heightened, intimate receptivity; "He seemed to commune with nature")
+           => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+               => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

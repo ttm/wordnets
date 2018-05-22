@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA1899
+
+DADO O SYNSET:
+
+S='Glosa1899'
+{entrar: Foi quando um rapaz alto, que acabava de deixar a mesa de sinuca, I]entrou na conversa para dizer que não aprovava os métodos empregados por ele. ,
+ enxerir-se: "E, num sei se tu sabes, mas mulher gosta mesmo é de dinheiro", I]enxeriu-se Cláudio Cronemberg, um perobo sertanejo da nossa estima, sempre com maldade de sobra.,
+ interferir: Ela disse que quando estava conversando com a jovem, Wendell aproximou-se, acompanhado de outros homens, e I]interferiu na conversa. ,
+ intrometer-se: Dona Adelaide, calada, seguia com atenção o crochet que estava fazendo; Ricardo ouvia, com os olhos arregalados; e Olga [intrometeu-se na conversa.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1899' = “intrometer-se nos assuntos ou negócios de outros”
+{entrar: Foi quando um rapaz alto, que acabava de deixar a mesa de sinuca, I]entrou na conversa para dizer que não aprovava os métodos empregados por ele.,
+ enxerir-se: "E, num sei se tu sabes, mas mulher gosta mesmo é de dinheiro", I]enxeriu-se Cláudio Cronemberg, um perobo sertanejo da nossa estima, sempre com maldade de sobra.,
+ interferir: Ela disse que quando estava conversando com a jovem, Wendell aproximou-se, acompanhado de outros homens, e I]interferiu na conversa.,
+ intrometer-se: Dona Adelaide, calada, seguia com atenção o crochet que estava fazendo; Ricardo ouvia, com os olhos arregalados; e Olga [intrometeu-se na conversa.,}
+Chave: INTROMETER-SE <verb.social>
+ILI: 02463974
+
+Sense 1
+{02463974} <verb.social> meddle, tamper -- (intrude in other people's affairs or business; interfere unwantedly; "Don't meddle in my affairs!")
+       => {02463620} <verb.social> intervene, step in, interfere, interpose -- (get involved, so as to alter or hinder an action, or through force or threat of force; "Why did the U.S. not intervene earlier in WW II?")
+           => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+               => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

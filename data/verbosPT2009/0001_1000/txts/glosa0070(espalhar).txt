@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0070
+
+DADO O SYNSET:
+
+S='Glosa70'
+{distender: A sensitiva M]distende suas tênues folhas.,
+espalhar: Moura vestiu a fantasia prateada, [espalhou purpurina pelo corpo e saiu quinta à noite no bloco Unidos da Maria Antônia.,
+estender: I]Estendeu a massa em cima do balcão e deu-lhe três cortes com a faca.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa70' = “espalhar ou distribuir sobre uma área”
+{distender: Prepara a mesa, coloca água pura, abre o Evangelho, I]distende a mensagem da fé.,
+espalhar: Moura vestiu a fantasia prateada, [espalhou purpurina pelo corpo e saiu quinta à noite no bloco Unidos da Maria Antônia.,
+estender: I]Estendeu a massa em cima do balcão e deu-lhe três cortes com a faca.,}
+Chave: ESPALHAR <verb.motion>
+ILI: 02023514
+
+Sense 7
+{02023514} <verb.motion> spread, scatter2, spread out4 -- (strew or distribute over an area; "He spread fertilizer over the lawn"; "scatter cards across the table")
+       => {01984927} <verb.motion> circulate3, pass around, pass on, distribute -- (cause to be distributed; "This letter is circulating among the faculty")
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

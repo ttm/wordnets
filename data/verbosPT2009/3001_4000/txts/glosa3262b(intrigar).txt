@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA3262b
+
+DADO O SYNSET:
+
+S='Glosa3262'
+	    {
+	      cabalar: Artur Virgilio, que I]cabalava contra, disse para um amigo: candidato ao governo também sou.,
+	      carambolar: x,
+	      conspirar: Ele participava de programas de TV patrocinados pelo Ibad (Instituto Brasileiro de Ação Democrática), entidade que [conspirava contra o governo de João Goulart. ,
+	      enredar: Desfiguram os atos praticados, [enredam e perturbam as testemunhas, tornam o processo caos com o fim de arrastar o júri a decisões contrárias à verdade e à justiça.,
+	      enredear: x,
+	      fradejar: Essas comadres só sabem M]fradejar.,
+	      intrigar: Quércia não perde a chance de [intrigar PFL e PSDB.,
+	      lambancear: x,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3262b' = “formar intrigas de forma secreta” 
+	     {enredar: Um passado belicista I]enredou outrora todas as nações européias em confrontos sangrentos.,
+	      intrigar: José Bonifácio nos I]intrigou com o Imperador.,}
+
+Chave: INTRIGAR <verb.cognition>
+ILI: 00684406
+
+Sense 2
+{00684406} <verb.cognition> scheme, intrigue, connive -- (form intrigues (for) in an underhand manner)
+       => {00684578} <verb.cognition> plot -- (plan secretly, usually something illegal; "They plotted the overthrow fo the government")
+           => {00681336} <verb.cognition> plan -- (make plans for something; "He is planning a trip with his family")
+               => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")
+
+

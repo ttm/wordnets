@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA1407
+
+DADO O SYNSET:
+
+S='Glosa1407'
+{abrir: Dantas entregou seu revólver Rossi, calibre 38, e [abriu o cofre.,
+ desbarrar: H]Desbarrar uma porta,
+	 desfechar: H]Desfechar uma janela,
+	 destrancar: Muitas pessoas tiveram que pedir socorro aos funcionários do hotel para [destrancar a porta de seus quartos,}
+	  
+A='Glosa881'
+{chavear, fechar, trancar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1407' = “abrir a fechadura [de]”
+{abrir: Dantas entregou seu revólver Rossi, calibre 38, e [abriu o cofre.,
+	 destrancar: Muitas pessoas tiveram que pedir socorro aos funcionários do hotel para [destrancar a porta de seus quartos.,}
+	  
+A='Glosa881'
+{chavear, fechar, trancar}
+Chave: DESTRANCAR <verb.contact>
+ILI: 01308990
+
+Sense 1
+{01308990} <verb.contact> unlock -- (open the lock of; "unlock the door")
+       => {01306283} <verb.contact> open, open up -- (cause to open or to become open; "Mary opened the car door")

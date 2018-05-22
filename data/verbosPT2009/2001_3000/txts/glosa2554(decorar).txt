@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA2554
+
+DADO O SYNSET:
+
+S='Glosa2554'
+	    {decorar2: Fora [decorar texto, você acaba parando para estudar, fica pensando no que o personagem quer, como ele pensa, age, fala. # Mas conseguiu [decorar novamente a letra da música que entra agora no bis do show que estréia dia 10 de março no Palace.,
+	      saber: Para [saber, leia com atenção o texto a seguir e depois procure interpretá-lo, respondendo as questões.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2554' = “Memorizar; saber de cor.”
+	    {decorar2: Deixou para trás o colombiano Jaime García Serrano, que [decorou 200 dígitos.,
+	      saber: Ao final do processo, cada ator I]sabe todo o texto, cada. fala de todas as personagens.,}
+
+Chave: DECORAR <verb.cognition>
+ILI: 00584743 
+
+Sense 1
+{00584743} <verb.cognition> memorize, memorise, con, learn3 -- (commit to memory; learn by heart; "Have you memorized your lines for the play yet?")
+       => {00587299} <verb.cognition> study1, hit the books -- (learn by reading books; "He is studying geology in his room"; "I have an exam next week; I must hit the books now")
+           => {00578275} <verb.cognition> learn, larn, acquire -- (acquire or gain knowledge or skills; "She learned dancing from her sister"; "I learned Sanskrit"; "Children acquire language at an amazing rate") 

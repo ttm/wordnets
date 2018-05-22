@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA1432
+
+DADO O SYNSET:
+
+S='Glosa1432'
+{imanar: x,
+ imanizar: x,
+	 imantar: Aparelho magnético para I]imantar ou magnetizar água através de magnetos,
+ magnetizar: A presença de corrente elétrica [magnetiza o eletroímã,}
+	  
+A='Glosa1431'
+{desimantar, desmagnetizar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1432' = “tornar magnético”
+{imantar: Eu montei um imantador de chaves... e I]imantei algumas chaves que eu tenho.,
+ magnetizar: A presença de corrente elétrica [magnetiza o eletroímã.,}
+	  
+A='Glosa1431'
+{desimantar, desmagnetizar}
+Chave: MAGNETIZAR <verb.change>
+ILI: 00387675
+
+Sense 2
+{00387675} <verb.change> magnetize, magnetise -- (make magnetic; "The strong magnet magnetized the iron shavings")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

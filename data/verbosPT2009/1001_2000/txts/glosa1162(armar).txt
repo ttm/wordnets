@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA1162
+
+DADO O SYNSET:
+
+S='Glosa1162'
+{amuniciar: x,
+ amunicionar: x,
+ armar: O objetivo era o de isolar as FARCs dentro da zona desmilitarizada e ao mesmo tempo treinar, I]armar e acumular tropas nas fronteiras.,
+ municiar: H]Municiaram as tropas.,
+ municionar: x,
+ munir: O general Ladário Teles, comandante do 3º Exército, disse que tinha armas para I]munir 11 mil civis.,}
+	  
+A='Glosa1482'
+{desarmar, desmuniciar, desmunicionar, desmunir}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1162' = “abastecer com armas”
+{armar: Foram eles que [armaram os afegãos e também os argelinos que estavam entre eles.,
+ municiar: A Entente o I]municiou com grandes quantidades de armas.,
+ munir: Sabemos muito bem que sempre foi o comércio clandestino, oriundo do contrabando e do tráfico ilícito de entorpecentes, que I]muniu a criminalidade com armas de grosso calibre.,}
+A='Glosa1482'
+{desarmar, desmuniciar, desmunicionar, desmunir}
+Chave: ARMAR <verb.possession>
+ILI: 02267393
+
+Sense 2
+{02267393} <verb.possession> arm -- (supply with arms; "The U.S. armed the freedom fighters in Afghanistan")
+       => {02259805} <verb.possession> supply, provide, render2, furnish -- (provide or furnish with; "We provided the room with an electrical heater")
+           => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+               => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children")

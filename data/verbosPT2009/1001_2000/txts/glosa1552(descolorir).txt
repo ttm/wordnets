@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA1552
+
+DADO O SYNSET:
+
+S='Glosa1552'
+{decolorar: x,
+ descolorar: A água oxigenada é empregada como anti-séptico e para I]descolorar o cabelo. ,
+ descolorir: A atração promete ser a presença de um cabeleireiro, pronto a [descolorir de graça o cabelo escuro de quem se aventurar a entrar para a turma .,
+ descorar: O sol M]descorou este vestido.,
+ desmerecer: As cores A]desmereceram com o uso do vestido. ,
+ destingir: As lavagens sucessivas H]destingiram-lhe o vestido.,}
+	  
+A='Glosa3818'
+{colorar, colorir, colorizar, corar, matizar, pigmentar, pintar, tingir, vestir}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1552' = “remover a cor [de]”
+{descolorar: O ponto final é alcançado quando um pequeno excesso do açúcar redutor I]descolora o azul de metileno.,
+ descolorir: Glaucia saiu do Krawitz, entrou para a companhia de street dance Dance Division, cortou e [descoloriu os cabelos.,
+ descorar: Um dos isômeros I]descorou o reativo.,}
+	  
+A='Glosa3818'
+{colorar, colorir, colorizar, corar, matizar, pigmentar, pintar, tingir, vestir}
+Chave: DESCOLORIR <verb.change>
+ILI: 00270816
+
+Sense 1
+{00270816} <verb.change> bleach1, bleach out, decolor, decolour, decolorize, decolourize, decolorise, decolourise, discolorize, discolourise, discolorise -- (remove color from; "The sun bleached the red shirt")
+       => {00273160} <verb.change> discolor2 -- (cause to lose or change color; "The detergent discolored my shirts")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

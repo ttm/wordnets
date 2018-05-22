@@ -1,0 +1,35 @@
+ANÁLISE DA GLOSA3583
+
+DADO O SYNSET:
+
+S='Glosa3583'
+	    {
+	      apagar-se: Chegando à esplanada Peri olhou as estrelas que começavam a [apagar-se, e viu que o dia pouco tardaria a raiar. / E muitos olhos já[se apagaram nos brilhos dos paetês.  ,
+	      desaparecer: Imediatamente, todas as informações acumuladas na memória começam a [desaparecer./ O escritor [desaparecerá no decorrer das redações sucessivas para deixar lugar ao autor.,
+	      desparecer: Mas, como passar do tempo, o que se sofreu ou o que se viveu em alegria vai ficando só como murmúrios e como sopros e, num determinado momento, [desparece mesmo. ,
+	      eclipsar-se: Seu segredo e seu nome ora parecem desvendar-se, ora [eclipsam-se de novo. ,
+	      obliterar-se: De tanto que a vida me surrou ea ciência política subverteu-se que a minha fé ficou estagnada e minha esperança I]obliterou-se.,
+	      ofuscar-se: Essa verdade [se ofusca com a privatização da medicina, que submete o médico a exploração intensa e desgaste brutal da concomitância de empregos. / Essa noite tambén I]se ofuscou nas minhas memórias molhadas pelo álcool.,
+	      riscar-se: Antigos afetos, que o tempo não I]nos riscou da memória, ressurgem, de improviso, envolvendo-nos na melodia da ventura ideal.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3583' = “remover completamente do reconhecimento ou da memória”
+	     {apagar-se: O rumor estranho que saía das profundezas da terra [apagou-se de repente. / O assunto I]apagou-se em pouco tempo.  ,
+	      desaparecer: Imediatamente, todas as informações acumuladas na memória começam a [desaparecer./ O escritor [desaparecerá no decorrer das redações sucessivas para deixar lugar ao autor.,
+	      desparecer: E o índio [despareceu de novo nas sombras da noite que avançava rapidamente. ,
+	      eclipsar-se: Seu segredo e seu nome ora parecem desvendar-se, ora [eclipsam-se de novo. ,
+	      obliterar-se: De tanto que a vida me surrou e a ciência política subverteu-se que a minha fé ficou estagnada e minha esperança I]obliterou-se.,
+	      ofuscar-se: Essa verdade [se ofusca com a privatização da medicina, que submete o médico a exploração intensa e desgaste brutal da concomitância de empregos. / Essa noite também I]se ofuscou nas minhas memórias molhadas pelo álcool.,
+	      riscar-se: Antigos afetos, que o tempo não I]nos riscou da memória, ressurgem, de improviso, envolvendo-nos na melodia da ventura ideal.,}
+Chave: APAGAR-SE <verb.change>
+ILI: 00301502
+
+Sense 1
+{00301502} <verb.change> obliterate, efface -- (remove completely from recognition or memory; "efface the memory of the time in the camps")
+       => {00301277} <verb.change> blur, dim4, slur -- (become vague or indistinct; "The distinction between the two theories blurred")
+           => {00216002} <verb.change> weaken -- (become weaker; "The prisoner's resistance weakened after seven days")
+               => {00146081} <verb.change> decrease, diminish, lessen, fall6 -- (decrease in size, extent, or range; "The amount of homework decreased towards the end of the semester"; "The cabin pressure fell dramatically"; "her weight fall to under a hundred pounds"; "his voice fell to a whisper")
+                   => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+                       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

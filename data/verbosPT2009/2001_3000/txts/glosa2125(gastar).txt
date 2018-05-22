@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA2125
+
+DADO O SYNSET:
+	
+S='Glosa2125'
+    	{desembolsar: O BNDES [desembolsou no ano passado US$ 798 milhões para financiar empreendimentos no Rio de Janeiro. ,
+      	 despender: Para [despender mais do que CR$ 2 milhões com aluguel, a renda familiar deve superar CR$ 6 milhões (considerando-se um comprometimento da renda de cerca de 30% com a despesa de locação) .,
+      	 expender: H]Expendeu grandes quantias em sua viagem.,
+      	 gastar: Seu marido, o comerciante Rafael Arieta, 75, [gastou R$ 15 mil com internações e remédios e pretende acionar a prefeitura na Justiça.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2125' = “gastar”
+    	{desembolsar: O BNDES [desembolsou no ano passado US$ 798 milhões para financiar empreendimentos no Rio de Janeiro.,
+      	 despender: Para [despender mais do que CR$ 2 milhões com aluguel, a renda familiar deve superar CR$ 6 milhões.,
+      	 expender: De um orçamento próximo a R$ 20 Bilhões a União somente I]expendeu menos de 0,5% disso com rubricas irrelevantes como Saúde.,
+      	 gastar: Rafael [gastou R$ 15 mil com internações e remédios e pretende acionar a prefeitura na Justiça.}
+Chave: GASTAR <verb.possession>
+ILI: 02201591
+
+Sense 2
+{02201591} <verb.possession> spend, expend, drop -- (pay out; "spend money")
+       => {02186811} <verb.possession> pay -- (give money, usually in exchange for goods or services; "I paid four dollars for this sandwich"; "Pay the waitress, please")
+           => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+               => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children")

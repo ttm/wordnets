@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA1112
+
+DADO O SYNSET:
+
+S='Glosa1112'
+{desaferrar: Um sistema de frotas perturbava um dos aspectos essenciais das rotas brasileiras: a possibilidade do navio I]desaferrar em qualquer época do ano,
+ desancorar: Ao tentarem I]desancorar a jangada, a fateixa estava presa no fundo do mar e alguém precisava soltá-la,
+ desatracar: O navio deverá estar apto para I]desatracar na programação de atracação efetuada as 10:00 horas do mesmo dia,}
+
+A='Glosa395'
+	    {aferrar, ancorar, aportar, atracar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1112' = “levantar âncora em preparação para a partida do navio”
+{desaferrar: Cada armada significava uma "empresa" coordenada pela Coroa, I]desaferrando anualmente de Lisboa.,
+ desancorar: I]Desancoramos ainda noite, na presença de estrelas, lua, sereno e de um friozinho cortante.,
+ desatracar: O segundo navio, Stellar Cupid, I]desatracou com uma carga de 30.003 GMT de cavacos de eucalipto.,}
+
+A='Glosa395'
+	    {aferrar, ancorar, aportar, atracar}
+Chave: DESATRACAR <verb.contact>
+ILI: 01414901 
+
+Sense 1
+{01414901} <verb.contact> weigh anchor, weigh the anchor -- (heave up an anchor in preparation for sailing)
+       => {01414568} <verb.contact> heave, heave up, heft, heft up -- (lift or elevate)
+           => {01535407} <verb.contact> lift -- (take hold of something and move it to a different location; "lift the box onto the table")
+               => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

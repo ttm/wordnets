@@ -1,0 +1,49 @@
+ANÁLISE DA GLOSA3632
+
+DADO O SYNSET:
+
+S='Glosa3632'
+	    {
+	      abolsar-se: x,
+	      avolumar-se: As dívidas [se avolumavam. ,
+	      encher-se: Os pulmões, como dois foles, [se enchem, aspirando o ar de fora.,
+	      enfunar-se: Faltou vento para I]enfunar-lhes as velas.,
+	      estufar-se: Nunca exagere na sua alimentação a ponto de I]se estufar. / A rã i]estufou-se mais um bocado.,
+	      inchar-se: Quando os sons cresciam num trovão insistente, o pescoço do intérprete [se inchava.,
+	      inflar-se: frase_exemplo,
+	      intumescer-se: frase_exemplo,
+	      opar-se: frase_exemplo,
+	      tufar-se: frase_exemplo,
+	      tumefazer-se: frase_exemplo,
+	      tumeficar-se: frase_exemplo,
+	    }
+	  A='Glosa293'
+	    {
+	     desinchar-se: A doente H]desinchava-se ao amanhecer.,
+	     esvaziar-se: DEVIANT,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3632' = “expandir-se anormalmente”
+	     {avolumar-se: Por causa da retenção de líquidos, a parte superior do tronco I]avoluma-se, assim como braços e rosto. ,
+	      encher-se: Os pulmões, como dois foles, [se enchem, aspirando o ar de fora.,
+	      enfunar-se: ao vê-la ele se tornara mais brilhante que de hábito, seu torso se I]enfunou.,
+	      estufar-se: Os lábios de Mychelle se apertaram e uma bochecha se I]estufou. / A rã I]estufou-se mais um bocado.,
+	      inchar-se: Quando os sons cresciam num trovão insistente, o pescoço do intérprete [se inchava.,
+	      inflar-se: Em um instante a enorme vela colorida subiu e I]inflou-se com o vento,
+	      intumescer-se: Tendo chegado, e estando lá havia algum tempo, seu ventre se I]intumesceu, incharam-se as pernas e os pés, e o estômago piorou cada vez mais,
+	      tufar-se: I]tufou o peito para maior ficar,
+	      tumefazer-se: Quinze dias apos instalação de poli quimioterapia, a lesão inicial se I]tumefaz,}
+	  A='Glosa293'
+	    {desinchar-se: A doente H]desinchava-se ao amanhecer.,}
+Chave: INCHAR-SE <verb.change>
+ILI: 00248093
+
+Sense 3
+{00248093} <verb.change> swell, swell up, intumesce, tumefy, tumesce -- (expand abnormally; "The bellies of the starving children are swelling")
+       => {00248837} <verb.change> expand7 -- (become larger in size or volume or quantity; "his business expanded rapidly")
+           => {00223119} <verb.change> grow -- (become larger, greater, or bigger; expand or gain; "The problem grew too large for me"; "Her business grew fast")
+               => {00150804} <verb.change> increase -- (become bigger or greater in amount; "The amount of work increased")
+                   => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+                       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

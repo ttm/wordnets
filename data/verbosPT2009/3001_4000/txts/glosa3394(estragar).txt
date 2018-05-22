@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA3394
+
+DADO O SYNSET:
+
+S='Glosa3394'
+	    {
+	      arruinar: A garota deve ter dado marcha à ré com os olhos vendados e o pé atolado no acelerador, porque acertou bem a quininha do carro, I]arruinando o pisca-pisca, o pára-choques e o pára lama.  ,
+	      desbaratar: DEVIANT,
+	      destroçar: Em 20 de maio de 1521 uma bala de canhão I]destroçou sua perna direita, abaixo da virilha, e feriu a outra.,
+	      escangalhar: H]Escangalharam o carro ao jogá-lo do barranco.,
+	      esculhambar: Em poucos minutos o pequeno A]esculhambou o carrinho.,
+	      estragar: As chuvas freqüentes H]estragaram toda a madeira.,
+	      estroçar: x,
+	      marretar: x,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3394' = “destruir completamente; danificar irreparavelmente”
+	     {arruinar: O sal [arruinou as raízes e o gramado ficou impraticável.  ,
+	      destroçar: Em 20 de maio de 1521 uma bala de canhão I]destroçou sua perna direita, abaixo da virilha, e feriu a outra.,
+	      escangalhar: O vendaval I]escangalhou tudo.,
+	      esculhambar: I]Esculhambou o motor do carro com aquela correria toda.,
+	      estragar: A umidade I]estragou o aparelho.,}
+Chave: ESTRAGAR <verb.contact>
+ILI: 01520843
+
+Sense 1
+{01520843} <verb.contact> destroy, ruin -- (destroy completely; damage irreparably; "You have ruined my car by pouring sugar in the tank!"; "The tears ruined her make-up")

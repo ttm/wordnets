@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0151
+
+DADO O SYNSET:
+
+S='Glosa151'
+{desajustar: I]Desajustar esses controles faz a potência subir um pouquinho, mas aí já se foi a vida útil dos transistores.,
+desregular: O sono é leve, não recupera o cansaço e ainda por cima [desregula o relógio biológico., }
+A='Glosa3245'
+{acertar, ajustar, consertar, regular}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa151' = “tirar a ordem; modificar de algo que estava regulado ou ajustado”
+{desajustar: I]Desajustar esses controles faz a potência subir um pouquinho, mas aí já se foi a vida útil dos transistores.,
+desregular: O sono é leve, não recupera o cansaço e ainda por cima [desregula o relógio biológico., }
+A='Glosa3245'
+{acertar, ajustar, consertar, regular}
+
+Chave: DESREGULAR <verb.change>
+ILI: EQ_HAS_HYPERONYM - 00267382 - “trazer desordem a”
+
+Sense 2
+{00267382} <verb.change> disorder, disarray -- (bring disorder to)
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

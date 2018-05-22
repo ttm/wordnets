@@ -1,0 +1,35 @@
+ANÁLISE DA GLOSA2527
+
+DADO O SYNSET:
+
+S='Glosa2527'
+	    {abrigar-se: A utilização daquelas áreas, não apenas para estacionamento mas também para outras finalidades, sob o controle de entidades sociais e filantrópicas, significará um importante passo para o equacionamento do problema dos indigentes que hoje nelas [se abrigam.,
+	      cobrir-se: A âncora Lillian Witte Fibe, para conter o impacto da cena, disse que ele [se cobriu apenas para não ser reconhecido.,
+	      livrar-se: Passa por sérias dificuldades financeiras, em Boston, onde se refugiou para [se livrar das ameaças de morte que recebia no Rio, o sociólogo Caio Ferraz, fundador da Casa da Paz.,
+	      preservar-se: Homeostásis é a tendência de qualquer sistema de se automanter ou de se preservar; de retornar ao status quo se for perturbado.# A lei vetou ao ombudsman a apreciação de matéria relativa a atos dos juízes e de seus funcionários, em função da preocupação de [se preservar a independência da magistratura.,
+	      proteger-se: Em pânico, as pessoas corriam ou se jogavam em baixo das mesas dos bares, para tentar [se proteger dos tiros.,
+	      refugiar-se: Os dois estavam conversando no trailer de Luciana e tentaram [se refugiar dos tiros atrás de um monte de areia.,
+	      reparar-se: A síntese do DNA e da divisão celular aparece com os radioprotetores tempo para a célula [reparar-se. ,
+	      resguardar-se: Para [se resguardar, reservou uma suíte no Sheraton para a noite, caso não conseguisse chegar em casa.,
+	      salvaguardar-se: Também pessoas com sensibilidade ocular devem salvaguardar-se, nadando sempre com óculos próprios.,
+	      salvar-se: As outras três pessoas que entraram no carro conseguiram [se salvar.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2527' = “Proteger-se de um perigo, dano, destruição ou prejuízo.”
+	    { abrigar-se: Um pescador I]abrigou-se da chuva em uma dessas cavernas e notou uma pilha de pedras arrumadas.,
+                   livrar-se: Ele I]se livrou dos tiros porque abaixou-se para pegar o toca-fitas do carro.,
+	      preservar-se: A comissão apenas I]preservou-se do vexame de contestar imagens incontestáveis.,
+	      proteger-se: I]Se protegeu de umas pancadas, defendeu algumas, com menos estilo ainda do que eu.,
+	      refugiar-se: Os dois estavam conversando no trailer de Luciana e tentaram [se refugiar dos tiros atrás de um monte de areia.,
+	      resguardar-se: O segundo, pelo contrário, I]resguardou-se em uma fortaleza natural formada por grandes rios, bosques e serras.,
+	      salvaguardar-se: Também pessoas com sensibilidade ocular devem salvaguardar-se, nadando sempre com óculos próprios.,
+	      salvar-se: I]Salvou-se do assalto e com os 4 bandidos foram o carro e a bolsa com o valor que retirou para as despesas da sogra que está doente.,}
+
+Chave: PROTEGER-SE <verb.competition>
+ILI: 01093094
+
+Sense 1
+{01093094} <verb.competition> protect -- (shield from danger, injury, destruction, or damage; "Weatherbeater protects your roof from the rain")
+       => {01092732} <verb.competition> defend -- (be on the defensive; act against an attack)
+           => {02377053} <verb.social> prevent, keep1 -- (prevent from doing something or being in a certain state; "We must prevent the cancer from spreading"; "His snoring kept me from falling asleep"; "Keep the child from eating the marbles") 

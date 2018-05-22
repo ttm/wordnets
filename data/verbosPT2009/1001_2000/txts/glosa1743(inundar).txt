@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA1743
+
+DADO O SYNSET:
+	  
+S='Glosa1743'
+{alagar: A partir do século IV os germânicos A]alagaram o Império Romano.,
+ encharcar: x,
+ inundar: Os portugueses I]inundaram a Europa, via Lisboa.,
+ invadir: Sob o comando do rei Xerxes, os persas [invadiram os Balcãs, pelo Norte.,
+ ocupar: Os militares [ocuparam a favela no morro do Borel.,
+ tomar: Também ao final da Segunda Guerra Mundial, com a saída dos japoneses da Indochina, uma organização de caráter socialista [tomou a cidade de Hanói, onde proclamou a República Popular do Vietnã do Norte ., }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1743' = “chegar em grandes números”
+{alagar: Uma verdadeira enxurrada de e-mails I]alagou a caixa postal do nosso editor.,
+ inundar: Os portugueses I]inundaram a Europa, via Lisboa.,
+ invadir: No final da tarde de ontem os fãs [invadiram a Câmara antes da chegada dos corpos, o que fez os policiais temerem tumultos.,
+ ocupar: O trânsito quase não foi prejudicado pois os carros [ocuparam só uma das faixas da Paulista.,
+ tomar: Os surrealistas e os expressionistas [tomaram a cidade e fizeram com que fosse vista de maneira completamente diversa, com uma poesia e um mistério equivalentes aos que a natureza despertava.,}
+Chave: INUNDAR <verb.motion>
+ILI: 01949614
+
+Sense 1
+{01949614} <verb.motion> flood in -- (arrive in great numbers)
+       => {01947900} <verb.motion> arrive, get, come4 -- (reach a destination; arrive by movement or progress; "She arrived home at 7 o'clock"; "She didn't get to Chicago until after midnight")

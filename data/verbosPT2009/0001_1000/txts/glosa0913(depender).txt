@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0913
+
+DADO O SYNSET:
+
+S='Glosa913'
+{depender: Existem problemas cujas causas são bem mais profundas e complexas e cuja solução [depende de um longo processo.,
+dependurar: x,
+pender: O destino da nação A] pendia das palavras de seu chefe.,
+pendurar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa913' = “ser dependente de”
+{depender: Existem problemas cujas causas são bem mais profundas e complexas e cuja solução [depende de um longo processo.,}
+Chave: DEPENDER <verb.stative>
+ILI: 02632551
+
+Sense 1
+{02632551} <verb.stative> depend on, devolve on, depend upon, ride7, turn on, hinge on, hinge upon -- (be contingent on; "The outcomes rides on the results of the electin"; "Your grade will depends on your homework")
+       => {02584011} <verb.stative> repose on, rest on, build on, build upon -- (be based on; of theories and claims, for example; "What's this new evidence based on?")
+           => {02651506} <verb.stative> owe -- (be indebted to, in an abstract or intellectual sense; "This new theory owes much to Einstein's Relativity Theory")

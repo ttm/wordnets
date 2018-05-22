@@ -1,0 +1,36 @@
+ANÁLISE DA GLOSA2536
+
+DADO O SYNSET:
+
+S='Glosa2536'
+	    {afastar-se: É o que acontece com os astronautas quando [se afastam da Terra, pois experimentam uma sensação conhecida como ausência de peso.,
+	      apartar-se: É difícil I]apartar-se daquele aconchegante refletor no banco, bem abaixo da árvore, junto a uma dúzia de flores, mas passaram-se 15 minutos desde que finalizei meu almoço e estava justamente a regozijar meu Si e é hora de voltar à minha "baia".,
+	      declinar: O Sol, transmontando, já começava a [declinar para o ocidente, quando o irmão de Iracema tornou da grande taba.,
+	      deixar: Tim ignorou a regra de receber o troféu e [deixar o palco sem fazer comentários.,
+	      desertar: Recentemente fui obrigado a I]desertar do ambiente universitário local, porque meu trabalho foi considerado uma ameaça à perda de tempo.,
+	      desguiar-se: x,
+	      deslizar: Essas placas, com a atividade vulcânica das camadas interiores, [deslizam constantemente, provocando então atividade sísmica quando há choque entre as placas.,
+	      desviar-se: A família de Abraham Berestezky, de 83 anos, que morreu atropelado na Rua Visconde Pirajá, ao tentar [se desviar de um tapume da obra, declarou guerra ao prefeito César Maia.,
+	      fugir: Perdoado e restabelecido em seus poderes, voltou a proceder como antes e perseguiu Gregório VII de tal forma, que este teve de [fugir de Roma e acabou morrendo no exílio.,
+	      largar: Enquanto isso, Tande se esforça para [largar a cadeira de rodas que o acompanha nos aeroportos, exercitando seu tornozelo esquerdo, torcido há uma semana.,
+	      retirar-se: Só depois de quatro anos e meio de visita de Sadat o falecido presidente egípcio a Jerusalém é que começamos a [nos retirar do Sinai.,
+	      sair: Além disso, o Governo da África do Sul, que queria fazer com que este país, pouco a pouco, fosse apenas dos brancos, criou diversos pequenos Estados, como Lesotho e Swaziland, para que a população negra tenha mais dificuldades em [sair.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2536' = “Deslocar-se para fora de; afastar-se de.”
+	    {afastar-se: Crabbe I]se afastou do lugar da inspeção e começou a andar pelo aeroporto.,
+	      apartar-se: Podemos dizer que Platão I]se apartou do mundo dos sentidos.,
+	      deixar: Sadie tomou as dores do amado e I]deixou o lugar furiosa.,
+	      desertar: Recentemente fui obrigado a I]desertar do ambiente universitário local, porque meu trabalho foi considerado uma ameaça à perda de tempo.,
+	      fugir: Certa noite, cansada da situação, pegou todos seus pertences, que não eram muitos, e I]fugiu daquele lugar retornando para sua antiga casa.,
+	      largar: Ela I]largou seu país para tentar oportunidade de emprego no exterior.,
+	      retirar-se: O marido com a aprovação da mulher I]se retirou de casa a procura de trabalho, dizendo que só voltaria quando tivesse condições de lhe oferecer uma vida melhor.,
+	      sair: O pernambucano Roberto Silva I]saiu do Brasil em 1992 para estudar inglês em Londres.,}
+
+Chave: RETIRAR-SE <verb.motion>
+ILI: 01957725
+
+Sense 5
+{01957725} <verb.motion> exit, go out, get out1, leave -- (move out of or depart from; "leave the room"; "the fugitive has left the country")
+       => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right") 

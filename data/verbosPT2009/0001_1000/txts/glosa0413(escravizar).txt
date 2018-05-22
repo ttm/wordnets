@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0413
+
+DADO O SYNSET:
+
+S='Glosa413'
+{escravizar: Araújo foi acusado de [escravizar 49 trabalhadores nas fazendas Pau Preto e Acapu.,}
+A='Glosa2930'
+{aforrar1, alforriar, descravizar, emancipar, forrar2, libertar, manumitir, redimir,     remir, resgatar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa413' = “tornar escravo de; tornar servo de”
+{escravizar: Araújo foi acusado de [escravizar 49 trabalhadores nas fazendas Pau Preto e Acapu.,}
+A='Glosa2930'
+{aforrar1, alforriar, descravizar, emancipar, forrar2, libertar, manumitir, redimir,     remir, resgatar}
+Chave: ESCRAVIZAR <verb.social>
+ILI: 02422124
+
+Sense 1
+{02422124} <verb.social> enslave -- (make a slave of; bring into servitude)
+       => {02422244} <verb.social> subjugate, subject -- (make subservient; force to submit or subdue)
+           => {02464207} <verb.social> dominate, master -- (have dominance or the power to defeat over; "Her pain completely mastered her"; "The methods can master the problems")
+               => {02367626} <verb.social> control, command -- (exercise authoritative control or power over; "control the budget"; "Command the military forces")

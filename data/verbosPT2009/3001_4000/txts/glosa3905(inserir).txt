@@ -1,0 +1,36 @@
+ANÁLISE DA GLOSA3905
+
+DADO O SYNSET:
+	
+S='Glosa3905'
+    	{acrescentar: A partir daí, cada posto irá [acrescentar ao preço o custo com o transporte do produto, que será cobrado do consumidor .,
+      	 adicionar: Para prevenir o bócio, doença comum em certos estados do Brasil, como Goiás e Minas Gerais, é medida obrigatória [adicionar iodo ao sal de cozinha .,
+      	 enxertar: Transcrevi um pequeno trecho do artigo para mostrar como Ricupero entendeu a tarefa que lhe confiara o presidente da República, que era a de [enxertar o Brasil na Amazônia .,
+      	 inserir: No conjunto das quarenta e cinco narrativas dos dois volumes publicados (vinte e três dos Contos e vinte e duas dos Novos contos) , [insere o autor numerosos personagens que, embora pertençam a uma mesma classe social e em grande número exerçam os mesmos ofícios, são muito diversos entre si, escapando à monotonia, já que não são nunca estereótipos, mas seres humanos, em sua rica diversidade .,
+      	 pôr: «Então, [põe o meu nome lá», pediu o deputado .,
+      	 suplementar: I]Suplementa o nutricional com antioxidantes naturais: efeito da rutina na concentra o de colesterol-HDL.,}
+  
+A='Glosa3030'
+    	{cancelar, ceifar, cortar, derriscar, elidir, eliminar, excluir, glosar, jarretar, riscar, suprimir, tirar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3905' = “interpolar ou inserir (palavras) numa sentença ou história”
+    	{acrescentar: A redação do § 6º está de acordo com a Lei 5.925, de 1.10.73, que lhe [acrescentou as palavras «a que se refere o parágrafo anterior».,
+      	 adicionar: Kraepelin [adiciona as seguintes notas a sua descrição.,
+      	 enxertar: A Folha de S. Paulo impôs à análise sobre a crise do sistema educacional brasileiro um vigoroso ponto de vista e I]enxertou no texto, com relevância gráfica, duas tabelas de sabor infográfico, iluminando a argumentação com dados que ajudam o leitor a compreender e a pensar a questão em análise.,
+      	 inserir: No parecer que entregará a Jobim, ele vai [inserir no artigo 21 da Constituição um dispositivo que torna o subsolo nacional patrimônio da União.,
+      	 pôr: Os argentinos [puseram na nova Constituição que as Malvinas são deles.,
+      	 suplementar: O Professor John W. F. Dulles I]suplementou a primeira versão do trabalho com diversas informações e cópias de depoimentos realizados por ele com alguns ex-combatentes.}
+  
+A='Glosa3030'
+    	{cancelar, ceifar, cortar, derriscar, elidir, eliminar, excluir, glosar, jarretar, riscar, suprimir, tirar}
+Chave: INSERIR <verb.creation>
+ILI: 01593056
+
+Sense 2
+{01593056} <verb.creation> spatchcock -- (interpolate or insert (words) into a sentence or story)
+       => {00992600} <verb.communication> slip in, stick in, sneak in, insert -- (insert casually; "She slipped in a reference to her own work")
+           => {00994154} <verb.communication> add1, append, supply -- (state or say further; "`It doesn't matter,' he supplied")
+               => {00976600} <verb.communication> state, say, tell4 -- (express in words; "He said that he wanted to marry her"; "tell me what is bothering you"; "state your opinion"; "state your name")
+                   => {00909455} <verb.communication> express, verbalize3, verbalise3, utter1, give tongue to -- (articulate; either verbally or with a cry, shout, or noise; "She expressed her anger"; "He uttered a curse")

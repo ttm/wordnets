@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0066A
+
+DADO O SYNSET:
+
+S='Glosa66'
+{apanhar: Ele [apanhou as duas cuias de cascas do coco e correu na direção do Lago que mais uma vez mostraria sua grande importância. ,
+guardar: O departamento de achados e perdidos também já [guardou uma cadeira de rodas e um fogão abandonados nas estações . ,
+recolher: A fita ainda mostra o momento em que o segurança recuperou o malote e [recolheu o dinheiro que estava espalhado no chão. ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa66A' = “pegar algo e mover para um lugar diferentente”
+{apanhar: Ele [apanhou as duas cuias de cascas do coco e correu na direção do Lago que mais uma vez mostraria sua grande importância. ,
+recolher: A fita ainda mostra o momento em que o segurança recuperou o malote e [recolheu o dinheiro que estava espalhado no chão. ,}
+
+Chave: APANHAR <verb.contact>
+ILI: 01535407
+
+Sense 2
+{01535407} <verb.contact> lift -- (take hold of something and move it to a different location; "lift the box onto the table")
+       => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

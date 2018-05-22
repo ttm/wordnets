@@ -1,0 +1,38 @@
+ANÁLISE DA GLOSA1891
+
+DADO O SYNSET:
+
+S='Glosa1891'
+{andar: É verdade que o romance não A]andava, encrencando miseravelmente no segundo capítulo. Acabou descendo para a rua e I]andou no meio dos carros para ultrapassar os pedestres.,
+ continuar: A narrativa torna-se menos densa e convida o leitor a I]continuar na leitura. ,
+ enveredar: Era perigoso I]enveredar por um caminho contrário à fé tradicional.,
+ ir: Todos os dias, aliás, eles arrumam um tempinho para entrar no Site da Imobiliária e ver como vão as I]obras. ,
+ proceder: A marcha A]procedeu, dura e incessante.  ,
+ prosseguir: Agora, as obras I]prosseguem pelas ruas Nova, Imperatriz e praça da Independência.,
+ seguir: Campanha Lula pode vir ao Recife nas próximas semanas, ver como I]andam as obras de Brasília Teimosa. ,}
+	  
+A='Glosa3200'
+{cessar, deixar, descontinuar, interromper, parar, suspender}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1891' = “continuar com uma atividade” 
+{andar: Por falar nisso, a quantas [anda a investigação do crime do domador?,
+ continuar: A narrativa torna-se menos densa e convida o leitor a I]continuar na leitura.,
+ enveredar: Os músicos norte-americanos e o maestro alemão [enveredaram com desenvoltura pelas melodias apoiados na homogeneidade das cordas.,
+ ir: Todos os dias, aliás, eles arrumam um tempinho para entrar no Site da Imobiliária e ver como vão as I]obras.,
+ proceder: À medida que o escrivão [procede à chamada, o jurado deverá consignar seu comparecimento.,
+ prosseguir: Agora, as obras I]prosseguem pelas ruas Nova, Imperatriz e praça da Independência.,
+ seguir: Campanha Lula pode vir ao Recife nas próximas semanas, ver como I]andam as obras de Brasília Teimosa.,}
+	  
+A='Glosa3200'
+{cessar, deixar, descontinuar, interromper, parar, suspender}
+Chave: CONTINUAR <verb.communication>
+ILI: 00755285
+
+Sense 2
+{00755285} <verb.communication> continue, go on, carry on, proceed -- (continue with one's activities; "I know it's hard," he continued, "but there is no choice"; "carry on--pretend we are not in the room")
+       => {00930524} <verb.communication> talk1, speak1 -- (exchange thoughts; talk with; "We often talk business"; "Actions talk louder than words")
+           => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+               => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

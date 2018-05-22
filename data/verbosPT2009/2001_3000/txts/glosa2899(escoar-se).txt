@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2899
+
+DADO O SYNSET:
+
+S='Glosa2899'
+	    {acoar-se: x,
+	      coar-se: Em seguida os caroços do açaí são amassados com água em alguidar de barro ou máquina própria, I]coando-se então a mistura em peneiras especiais para que se obtenha um líquido roxo, espesso e de sabor característico incomparável. ,
+	      escoar-se: Mergulham-se os frutos em água fervente; espera-se que atinjam a fervura novamente, deixando-se mais 5 ou 10 minutos, I]escoando-se, então, a água das frutas.,
+	      filtrar-se: O ácido resinoso curiuvo obtêm-se, tratando-se o resinato de chumbo pelo álcool e decompondo-o pelo gás ácido sulfidrico, I]filtrando-se; o líquido, evaporado e seco como o antecedente, constitui uma massa dura, de cor castanha clara que se amolece ao calor da mão, sem aroma, sem sabor, solúvel no éter, no álcool e na amônia, insolúvel na soda e na potassa. ,
+	      passar-se: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2899' = “Passar gradualmente ou verter através de aberturas pequenas, ou como se fosse através de aberturas pequenas”
+	    {coar-se: Passadas as 24 horas, I]coou-se a solução, e por final completou-se com água até o volume de um litro.,
+	      escoar-se: I]Escoava-se a água pelos furos e na peneira aparecia uma porção de vidinhas aquáticas, a saltar e a espernejar.,
+	      filtrar-se: A seguir I]filtrou-se o líquido em um pedaço de gaze, sendo o volume completado para 1000mL,.,}
+Chave: ESCOAR-SE <verb.motion>
+ILI: 02013373
+
+Sense 1
+{02013373} <verb.motion> seep, ooze -- (pass gradually or leak through or as if through small openings)
+       => {02008364} <verb.motion> run1, flow, feed4, course -- (move along, of liquids; "Water flowed into the cave"; "the Missouri feeds into the Mississippi")
+           => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right") 

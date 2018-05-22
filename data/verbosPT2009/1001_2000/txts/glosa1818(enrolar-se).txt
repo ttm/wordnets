@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA
+
+DADO O SYNSET:
+
+S='Glosa1818'
+{enlinhar-se: x,
+ enovelar-se: O italiano sentia já o fogo que se aproximava e a fumaça, que, [enovelando-se, envolvia-o numa névoa espessa; é impossível descrever a raiva, a cólera e o furor que se apossaram dele nesses momentos que precederam o suplício.,
+ enrolar-se: A luz frouxa e suave do ocaso, deslizando pela verde alcatifa, [enrolava-se como ondas de ouro e de púrpura sobre a folhagem das árvores.,}
+	  
+A='Glosa1255'
+{desenovelar-se, desenrolar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1818' = “tomar a forma de um rolo ou cilindro”
+{enovelar-se: Para Pollack, o encurtamento do sarcômero ocorre devido à ligação do cálcio liberado do retículo sarcoplasmático à titina, alterando sua conformação de modo que a molécula I]enovela-se.,
+ enrolar-se: Os prolongamentos [enrolam-se, formando uma bainha de mielina.,}
+	  
+A='Glosa1255'
+{desenovelar-se, desenrolar-se}
+Chave: ENROLAR-SE <verb.change>
+ILI: 00120455
+
+Sense 17
+{00120455} <verb.change> roll6 -- (take the shape of a roll or cylinder; "the carpet rolled out"; "Yarn rolls well")
+       => {00135866} <verb.change> change shape, change form, deform2 -- (assume a different shape or form)
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

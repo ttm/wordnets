@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0465
+
+DADO O SYNSET:
+
+S='Glosa465'
+{alambrar: O prefeito Walter do Posto, de Embu Guaçu, cumprindo mais uma promessa de campanha, determinou o início das obras para I]alambrar o Campo do Juzão.,
+aramar: Enfie a ponta do arame no solo e comece a I]aramar com capricho e cuidado. # Com o mesmo arame você pode I]aramar dois ramos distintos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa465' = “cercar com alambrado”
+{alambrar: O prefeito Walter do Posto, de Embu Guaçu, cumprindo mais uma promessa de campanha, determinou o início das obras para I]alambrar o Campo do Juzão.,
+aramar: Enfie a ponta do arame no solo e comece a I]aramar com capricho e cuidado. # Com o mesmo arame você pode I]aramar dois ramos distintos.,}
+Chave: ALAMBRAR <verb.contact>
+ILI: EQ_HAS_HYPERONYM – 01544759  – “fechar com cerca”
+
+Sense 1
+{01544759} <verb.contact> fence, fence in -- (enclose with a fence; "we fenced in our yard")
+       => {01543739} <verb.contact> enclose, inclose, shut in -- (surround completely; "Darkness enclosed him")
+           => {01425761} <verb.contact> surround, skirt, border1 -- (extend on all sides of simultaneously; encircle; "The forest surrounds my property")
+               => {01169130} <verb.contact> touch1, adjoin3, meet, contact3 -- (be in direct physical contact with; make contact; "The two buildings touch"; "Their hands touched"; "The wire must not contact the metal cover"; "The surfaces contact at this point")

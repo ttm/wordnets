@@ -1,0 +1,64 @@
+ANÁLISE DA GLOSA3348
+
+DADO O SYNSET:
+
+S='Glosa3348'
+{amolestar: x,
+	 apodrecer: Sua máquina [apodreceu em várias partes.,
+	 arruinar: O sal [arruinou as raízes e o gramado ficou impraticável.,
+	 assolapar: x,
+	 avariar: Os funcionários da agência espacial americana deixaram passar oito oportunidades para solucionar o problema da espuma isolante que [avariou a nave espacial. ,
+	 combalir: x,
+	 danar: A ferrugem A]danou os metais.,
+	 danificar: Uma descarga elétrica [danificou os cabos de alimentação de energia da estação às 23h46 de quarta-feira.,
+	 daninhar: O gambá H]daninhou o galinheiro.,
+	 desconsertar: Aqueles dedinhos H]desconsertavam qualquer brinquedo mecânico.,
+	 desmelhorar: x,
+	 deteriorar: Agora, todos os esqueletos estão guardados em proteções de gesso para não [deteriorar.,
+	 escalavrar: O álcool A]escalavra as vísceras.,
+	 estragar: Chega a Versalhes decidido a conseguir o apoio do rei para drenar o pântano que [estraga as suas terras e provoca doenças em camponeses. ,
+	 estrompar: M]Estrompar sapatos. # M]estrompar utensílios.,
+	 gastar: O que o tempo H]gasta jamais recuperamos.,
+	 inutilizar: O produtor Gilbert Cates e sua equipe já tiveram que enfrentar um terremoto que [inutilizou um andar inteiro da Academia e atrasou a preparação da festa. ,
+	 maleficiar: x,
+	 maltratar: As crianças A]maltratam qualquer objeto.,
+	 minar: A doença A]minava implacavelmente aquela carcaça de d´Artagna.,
+	 molestar: O excesso de chuva M]molestara as plantações.,
+	 prejudicar: A continuidade de altas precipitações no estado na semana passada [prejudicou as práticas de colheita e aplicação de agrotóxicos. ,
+	 solapar: A água da enchente H]solapou os alicerces de várias casas.,
+	 vitimar: Está a seca M]vitimando as plantações.}
+
+A='Glosa2793'
+{arranjar, arrumar, beneficiar, consertar, recompor, recuperar, refazer, reformar, regenerar, remontar, renovar, reparar, restabelecer, restaurar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3348' = “infligir dano [a]”
+{apodrecer: Sua máquina [apodreceu em várias partes.,
+	 arruinar: O sal [arruinou as raízes e o gramado ficou impraticável.,
+	 avariar: Os funcionários da agência espacial americana deixaram passar oito oportunidades para solucionar o problema da espuma isolante que [avariou a nave espacial.,
+	 danar: A ferrugem A]danou os metais.,
+	 danificar: Uma descarga elétrica [danificou os cabos de alimentação de energia da estação às 23h46 de quarta-feira.,
+	 daninhar: O gambá H]daninhou o galinheiro.,
+	 desconsertar: Aqueles dedinhos H]desconsertavam qualquer brinquedo mecânico.,
+	 deteriorar: Agora, todos os esqueletos estão guardados em proteções de gesso para não [deteriorar.,
+	 escalavrar: O álcool A]escalavra as vísceras.,
+	 estragar: Chega a Versalhes decidido a conseguir o apoio do rei para drenar o pântano que [estraga as suas terras e provoca doenças em camponeses.,
+	 estrompar: M]Estrompar sapatos. # M]estrompar utensílios.,
+	 gastar: O que o tempo H]gasta jamais recuperamos.,
+	 inutilizar: O produtor Gilbert Cates e sua equipe já tiveram que enfrentar um terremoto que [inutilizou um andar inteiro da Academia e atrasou a preparação da festa.,
+	 maltratar: As crianças A]maltratam qualquer objeto.,
+	 minar: A doença A]minava implacavelmente aquela carcaça de d´Artagna.,
+	 molestar: O excesso de chuva M]molestara as plantações.,
+	 prejudicar: A continuidade de altas precipitações no estado na semana passada [prejudicou as práticas de colheita e aplicação de agrotóxicos.,
+	 solapar: A água da enchente H]solapou os alicerces de várias casas.,
+	 vitimar: Está a seca M]vitimando as plantações.}
+
+A='Glosa2793'
+{arranjar, arrumar, beneficiar, consertar, recompor, recuperar, refazer, reformar, regenerar, remontar, renovar, reparar, restabelecer, restaurar}
+Chave: DANIFICAR <verb.change>
+ILI: 00250328
+
+Sense 1 
+{00250328} <verb.change> damage -- (inflict damage upon; "The snow damaged the roof"; "She damaged the car when she hit the tree")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA3290
+
+DADO O SYNSET:
+
+S='Glosa3290'
+	    {
+	      alegrar: Sua filha, D. Cecília, tinha dezoito anos e era a deusa desse pequeno mundo que ela iluminava com o seu sorriso, e [alegrava com o seu gênio travesso e a sua mimosa feceirice. ,
+	      animar: Enquanto Denise [animava o Roda Viva, a mediadora Roseli Tardeli, esfriava a entrevista com intervenções inoportunas. ,
+	      jovializar: E D. Pedro, moço democrático, inteiramente sem protocolos, I]jovializava a mesa com a irrequieta folgazanice dos seus dezoito anos.,
+	      letificar: x,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3290' = “exaltar ou intensificar”
+	     {alegrar: Aquele paulistano acariocado, numa brejeirice mineira, I]alegrava um pedaço do Chapadão de Palmério. ,
+	      animar: Aos treze, junto com o Conjunto Meia-Noite, I]animava festas e bailes da região. ,
+	      jovializar: E D. Pedro, moço democrático, inteiramente sem protocolos, I]jovializava a mesa com a irrequieta folgazanice dos seus dezoito anos.,}
+
+Chave: ANIMAR <verb.emotion>
+ILI: 01760213
+
+Sense 1
+{01760213} <verb.emotion> inspire, animate, invigorate, enliven, exalt -- (heighten or intensify; "These paintings exalt the imagination")
+       => {01710864} <verb.emotion> stimulate, shake, shake up, excite, stir1 -- (stir the feelings, emotions, or peace of; "These stories shook the community"; "the civil war shook the country")
+           => {01708538} <verb.emotion> arouse, elicit, enkindle, kindle, evoke, fire, raise8, provoke -- (call forth (emotions, feelings, and responses); "arouse pity"; "raise a smile"; "evoke sympathy")
+               => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

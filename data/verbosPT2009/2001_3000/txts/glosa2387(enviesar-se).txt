@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2387
+
+DADO O SYNSET:
+
+S='Glosa2387'
+	    {enviesar-se: À tarde, o motorista, não sabendo exatamente onde era o endereço, I]enviesou-se por uma rua errada.,
+	      tender: Portanto, as massas de ar mais frias e pesadas [tendem ao deslocamento para as regiões de massas quentes e leves.,
+	      virar-se: Ao [virar-se viu o Menino arrastando com grande dificuldade o amigo tronco pelo quintal.,
+	      voltar-se: Ao [voltar-se para pegar a água, Cláudio foi alvejado por vários tiros, muitos na cabeça.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2387' = “Mover-se ao longo de um eixo ou para uma nova direção.”
+	    {enviesar-se: I]Enviesavam-se na direção de Queirós.,
+	      tender: O navio H]tendeu para a esquerda.,
+	      virar-se: Ao [virar-se viu o Menino arrastando com grande dificuldade o amigo tronco pelo quintal.,
+	      voltar-se: Ao [voltar-se para pegar a água, Cláudio foi alvejado por vários tiros.,}
+
+Chave: ENVIESAR-SE <verb.motion>
+ILI: 02031145
+
+Sense 20
+{02031145} <verb.motion> turn13 -- (cause to move along an axis or into a new direction; "turn your face to the wall"; "turn the car around"; "turn your dance partner around")
+       => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant") 

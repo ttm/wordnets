@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA1354
+
+DADO O SYNSET:
+
+S='Glosa1354'
+{demonstrar: O major Gacia se esquivou em comprometer Jecy Sarmento e tentou [demonstrar que sua participação no episódio se deveu a motivos técnicos,
+ descrever: Não é fácil para ela [descrever sua sensação durante a entrega do prêmio. # Robson de Aguiar mal conseguiu [descrever sua tragédia pessoal,
+ desenhar: M]Desenhou bem sua personalidade,
+ explicar: Lara convidou Maurílio para [explicar a razão da proibição numa entrevista ao vivo na rádio#Gerente de empreiteira se atrapalha ao [explicar a vereadores obras incompletas do Rio Cidade, ,
+ falar: Ninguém M]fala, completamente, os mistérios das doutrinas religiosas.,
+ pintar: O escritor H]pintou toda a realidade humana daquela aldeia.,
+	 reproduzir: M]Reproduziu em páginas memoráveis as peripécias da campanha.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1354' = “definir” 
+{demonstrar: Essa experiência [demonstrou a importância do núcleo para a manutenção das atividades normais de uma célula.,
+ descrever: Robson de Aguiar mal conseguiu [descrever sua tragédia pessoal.,
+ explicar: Gerente de empreiteira se atrapalha ao [explicar a vereadores obras incompletas do Rio Cidade. ,
+ falar: O responsável pelo grupo que se prontificou a ceder uma entrevista ao Portal DGoL, I]falou os motivos reais que levou a atacar o Portal.,}
+Chave: EXPLICAR <verb.communication>
+ILI: 01031588
+
+Sense 2
+{01031588} <verb.communication> explain1 -- (define; "The committe explained their plan for fund-raising to the Dean")
+       => {00976600} <verb.communication> state, say, tell4 -- (express in words; "He said that he wanted to marry her"; "tell me what is bothering you"; "state your opinion"; "state your name")
+           => {00909455} <verb.communication> express, verbalize3, verbalise3, utter1, give tongue to -- (articulate; either verbally or with a cry, shout, or noise; "She expressed her anger"; "He uttered a curse")

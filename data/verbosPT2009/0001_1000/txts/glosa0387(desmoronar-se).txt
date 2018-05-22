@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA0387
+
+DADO O SYNSET:
+
+S='Glosa387'
+{desmoronar-se: Sobre o montão de ruínas formado pela parede que [se desmoronara, desenhavam-se as figuras sinistras dos selvagens.,
+esbarrondar-se: A velha ponte H]esbarrondou-se, levada pelas águas.,
+esboroar-se: A construção H]esboroou-se em segundos.,
+esfarelar-se: O edifício caiu e H]esfarelou-se.,
+esfarinhar-se: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa387' = “derrubar (-se); demolir (-se), como por colapso”
+{desmoronar-se: Sobre o montão de ruínas formado pela parede que [se desmoronara, desenhavam-se as figuras sinistras dos selvagens.,
+esbarrondar-se: Esse plano, tão sinistro quanto ingênuo, I]esbarrondou-se. A delação de Carlos Lacerda, então governador do Estado da Guanabara, precipitou a aventura.,
+esboroar-se: Presidida por um experiente senador e tendo como relator outro parlamentar de já longa trajetória política, em que se inclui até o cargo de ministro da Justiça, a comissão I]esboroou-se de forma lamentável.,
+esfarelar-se: Em Maçangana, o engenho da meninice de Nabuco, a antiga casa-grande desapareceu; I]esfarelou-se a senzala; só a capelinha antiga de São Mateus continua de pé com os seus santos e as suas catacumbas.,}
+Chave: DESMORONAR-SE <verb.motion>
+ILI: 01918609
+
+Sense 1
+{01918609} <verb.motion> tumble, topple -- (fall down, as if collapsing; "The tower of the World Trade Center tumbled after the plane hit it")
+       => {01912987} <verb.motion> descend, fall, go down2, come down -- (move downward and lower, but not necessarily all the way; "The temperature is going down"; "The barometer is falling"; "The curtain fell on the diva"; "Her hand went up and then fell again")
+           => {01782203} <verb.motion> travel, go, move3, locomote -- (change location; move, travel, or proceed; "How fast does your new car go?"; "We travelled from Rome to Naples by bus"; "The policemen went from door to door looking for the suspect"; "The soldiers moved towards the city in an attempt to take it before night fell")

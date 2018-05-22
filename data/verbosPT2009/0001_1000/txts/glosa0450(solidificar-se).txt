@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0450
+
+DADO O SYNSET:
+
+S='Glosa450'
+{solidar-se: x,
+solidificar-se: A partir daí I]solidificaram-se os elos de amizade e os objetivos comuns entre nós e o grupo.,}
+A='Glosa3311'
+{derreter-se, dissolver-se, fundir-se1, liquefazer-se, liquidificar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa450' = “ficar, tornar (-se) sólido (também no sentido metafórico)”
+{solidificar-se: A partir daí I]solidificaram-se os elos de amizade e os objetivos comuns entre nós e o grupo.,}
+A='Glosa3311'
+{derreter-se, dissolver-se, fundir-se1, liquefazer-se, liquidificar-se}
+Chave: SOLIDIFICAR-SE <verb.change>
+ILI: 00432423
+
+Sense 2
+{00432423} <verb.change> solidify -- (become solid; "The metal solidified when it cooled")
+       => {00135037} <verb.change> change integrity -- (change in physical make-up)
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

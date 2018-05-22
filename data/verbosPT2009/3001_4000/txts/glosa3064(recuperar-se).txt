@@ -1,0 +1,36 @@
+ANÁLISE DA GLOSA3064
+
+DADO O SYNSET:
+
+S='Glosa3064'
+	    {
+	      curar-se: Se a pessoa for tratada, pode [curar-se.,
+	      guarecer-se: M]Guarecera-se de bronquite.,
+	      guarir-se: x,
+	      recobrar-se: Ele então, ao invés de I]recobrar-se, fica cada vez mais fraco e cansado. # Sei que outros técnicos preconizam apenas duas semanas de repouso, mas eu acredito que o atleta precisa de mais tempo para I]recobrar-se da fadiga mental.,
+	      recuperar-se: No fim da tarde de ontem, foi transferido, em ambulância do Corpo de Bombeiros, para o Hospital Penitenciário, no Complexo da Frei Caneca, onde ficará até [recuperar-se do ferimento. # Recolhido em Brasília há três meses, [recuperando-se de um infarto, o deputado Roberto Magalhães desembarca, domingo, em Pernambuco.,
+	      reerguer-se: Conheci uma vez uma mulher cujo marido, um sagaz banqueiro, ficou doente e impressionava a todo mundo com a maneira dura com que lutava para se [reerguer, para ficar bom de novo.,
+	      refazer-se: Após I]refazer-se fisicamente, as condições psicológicas se tornam outras. # Muitos remédios de nada adiantaram, mas ele se I]refez instantâneamente ao compreender a verdade básica. ,
+	      restabelecer-se: Desde esse dia foi pouco a pouco [restabelecendo-se, ganhando as forças e a saúde; sua beleza.,
+	      restaurar-se: Ajuda o enfermo a I]restaurar-se.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3064' = “acabar uma doença ou choque”
+	     {curar-se: O diagnóstico não se cumpriu e a atriz I]curou-se da doença.,
+	      guarecer-se: M]Guarecera-se de bronquite.,
+	      recobrar-se: Desenganado pelos médicos, os pais fizeram uma promessa a São Francisco, e assim I]recobrou a saúde. # Um homem que estava praticamente inconsciente por quase 20 anos I]recobrou a fala e os movimentos.,
+	      recuperar-se: Fomin, um dos melhores jogadores do mundo, [recuperou-se de uma contusão que o tirou das finais da Liga Mundial. # O ex-presidente [recupera-se de uma cirurgia na vista.,
+	      reerguer-se: Aos 45 anos, a carioca de voz rouca e sexy superou uma forte depressão, I]reergueu-se e lança, nesta semana, o disco Sissi na Sua.,
+	      refazer-se: De volta a ilha socialista, Che I]refez-se das doenças e da fraqueza, mas não possuía os mesmos espaços políticos. # Muitos remédios de nada adiantaram, mas ele se I]refez instantâneamente ao compreender a verdade básica. ,
+	      restabelecer-se: O italiano I]restabeleceu-se do violento abalo que sofrera, deu um passo, e inclinou-se sobre o leito.,
+	      restaurar-se: Desde esse momento, Francisco se curou da tifóide e sua saúde se I]restaurou por completo.,}
+Chave: RECUPERAR-SE <verb.body>
+ILI: 00090110
+
+Sense 4
+{00090110} <verb.body> recuperate, recover, convalesce -- (get over an illness or shock; "The patient is recuperating")
+       => {00197826} <verb.change> better, improve, ameliorate, meliorate -- (get better; "The weather improved toward evening")
+           => {00140715} <verb.change> change state, turn4 -- (undergo a transformation or a change of position or action; "We turned from Socialism to Capitalism"; "The people turned against the President when he stole the election")
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA2152
+
+DADO O SYNSET:
+
+S='Glosa2152'
+	    {afastar-se: Ubirayr I]afastou-se do tema que lhe foi proposto.,
+	      desviar-se: Para Mineiro, Bira Rocha I]desviou-se do tema central da CPI do Leite, "fazendo a junção de uma coisa com outra".,
+	      distrair-se: O orador M]distraiu-se do tema proposto.,
+	      divagar: DEVIANT,
+	      extavagar: A]Extravagava em citações incompreensíveis.,}	
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2152' = “mudar o propósito, a idéia”
+	    {afastar-se: Ubirayr I]afastou-se do tema que lhe foi proposto.,
+	      desviar-se: Bira Rocha I]desviou-se do tema central da CPI do Leite.,
+	      distrair-se: O orador M]distraiu-se do tema proposto.,
+	      extravagar: A]Extravagava em citações incompreensíveis.,}
+
+Chave: DESVIAR-SE <verb.motion>
+ILI: 01975727
+
+Sense 3
+{01975727} <verb.motion> deflect, deviate3 -- (turn aside)
+       => {01851475} <verb.motion> turn -- (change orientation or direction, also in the abstract sense; "Turn towards me"; "The mugger turned and fled before I could see his face"; "She turned from herself and learned to listen to others' needs")
+           => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right")

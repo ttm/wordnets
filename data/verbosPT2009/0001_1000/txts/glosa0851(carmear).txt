@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0851
+
+DADO O SYNSET:
+
+S='Glosa851'
+{caramiar: x,
+carmear: O tênue sopro da brisa [carmeava, como frocos de algodão, os compridos e raros cabelos brancos.,
+carpear: A linha do dorso nessa raça é reta, horizontal e livre de qualquer tendência a ceder ou I]carpear.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa851' = “desfazer os nós (de lã); mechas de cabelo”
+{carmear: O tênue sopro da brisa [carmeava, como flocos de algodão, os compridos e raros cabelos brancos.,
+carpear: A linha do dorso nessa raça é reta, horizontal e livre de qualquer tendência a ceder ou I]carpear.,}
+Chave: CARMEAR <verb.body>
+ILI: 00037112
+
+Sense 5
+{00037112} <verb.body> comb, comb out, disentangle -- (smoothen and neaten with or as with a comb; "comb your hair before dinner"; "comb the wool")
+       => {00039108} <verb.body> groom, neaten -- (care for one's external appearance; "He is always well-groomed")
+           => {00284091} <verb.change> beautify, embellish, prettify -- (make more beautiful)
+               => {00198579} <verb.change> better1, improve1, amend, ameliorate1, meliorate1 -- (to make better; "The editor improved the manuscript with his changes")
+                   => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

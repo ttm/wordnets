@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA1053
+
+DADO O SYNSET:
+
+S='Glosa1053'
+{enfiar: Eles [enfiam a lâmina, que é afiadíssima, lá dentro, sem intenção de cortar, mas qualquer descuido pode causar ferimentos.,
+ introduzir: Basta que se consiga extrair um único espermatozóide para, com a ajuda de uma agulha mais fina do que um fio de cabelo, [introduzi-lo no interior do óvulo.,
+ meter: Nóbrega [meteu a mão no bolso do colete e pegou um níquel, entre dous que lá havia, um de tostão, outro de dous.,
+ passar: Ao I]passar a linha na máquina, procure usar sempre o mesmo tipo de linha na agulha e na bobina, com exceção da linha de pespontar.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1053' = “fazer entrar”
+{enfiar: Eles [enfiam a lâmina, que é afiadíssima, lá dentro, sem intenção de cortar, mas qualquer descuido pode causar ferimentos.,
+ introduzir: Basta que se consiga extrair um único espermatozóide para, com a ajuda de uma agulha mais fina do que um fio de cabelo, [introduzi-lo no interior do óvulo.,
+ meter: Jurandir [meteu a mão no vaso.,
+ passar: Ao I]passar a linha na máquina, procure usar sempre o mesmo tipo de linha na agulha e na bobina, com exceção da linha de pespontar.,}
+Chave: INTRODUZIR <verb.change>
+ILI: 00181348
+
+Sense 3
+{00181348} <verb.change> insert, enclose, inclose, stick in, put in, introduce3 -- (introduce; "Insert your ticket here")
+       => {01452069} <verb.contact> put, set, place, pose2, position, lay1 -- (put into a certain place or abstract location; "Put your things here"; "Set the tray down"; "Set the dogs on the scent of the missing children"; "Place emphasis on a certain point")
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant") 
+		   

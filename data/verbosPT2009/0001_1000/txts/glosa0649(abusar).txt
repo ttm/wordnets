@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA0649
+
+DADO O SYNSET:
+
+S='Glosa649'
+{abusar: O governador Marcello Alencar entrou na polêmica criticando Michael e lembrando que o cantor foi acusado de [abusar de menores.,
+aproveitar-se: Ele foi safado, I]aproveitou-se dela.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa649' = “forçar (alguém) a ter relações sexuais contra a vontade”
+{abusar: O governador Marcello Alencar entrou na polêmica criticando Michael e lembrando que o cantor foi acusado de [abusar de menores.,
+aproveitar-se: Ele foi safado, I]aproveitou-se dela.,}
+Chave: ABUSAR <verb.social>
+ILI: 02491481
+
+Sense 5
+{02491481} <verb.social> rape, ravish, violate1, assault3, dishonor2, dishonour2, outrage -- (force (someone) to have sex against their will; "The woman was raped on her way home at night")
+       => {01085076} <verb.competition> assail, assault, set on, attack2 -- (attack someone physically or emotionally; "The mugger assaulted the woman"; "Nightmares assailed him regularly")

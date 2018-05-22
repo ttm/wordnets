@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA3122
+
+DADO O SYNSET:
+
+S='Glosa3122'
+	    {
+	      imprestabilizar-se: x,
+	      inutilizar-se: I]Inutilizar-se por causa de uma fraqueza fardada que vadiava na feita e insultava os pobres!,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3122' = “tornar-se incapaz de executar certa ação”
+	    {inutilizar-se: Um número mais ou menos avultado de indivíduos I]inutiliza-se, perde suas raízes e base vital de subsistência,}
+Chave: INUTILIZAR-SE <verb.change>
+ILI: EQ_NEAR_SYNONYM - 00498510
+
+Sense 1
+{00498510} <verb.change> disable, disenable, incapacitate -- (make unable to perform a certain action; "disable this command on your computer")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

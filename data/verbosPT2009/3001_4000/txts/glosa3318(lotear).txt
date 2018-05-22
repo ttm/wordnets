@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA3318
+
+DADO O SYNSET:
+
+S='Glosa3318'
+	    {
+	      lotar: x,
+	      lotear: Pelo menos outros cem imóveis estão irregulares nos Jardins e terão que se adaptar à urbanização desenvolvida pela Companhia City, empresa imobiliária que fez o traçado das ruas e [loteou o bairro. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3318' = “dividir em lotes, como de terra, por exemplo”
+	     {lotear: O INCRA I]loteou áreas de florestas próximas a Cumuruxatiba e na faixa de terra entre os Parques Nacionais Monte Pascoal e Descobrimento. ,}
+Chave: LOTEAR <verb.social>
+ILI: 02394899
+
+Sense 1
+{02394899} <verb.social> lot -- (divide into lots, as of land, for example)
+       => {02393614} <verb.social> divide, split3, split up2, separate1, dissever, carve up -- (separate into parts or portions; "divide the cake into three equal parts"; "The British carved up the Ottoman Empire after World War I")
+           => {00135037} <verb.change> change integrity -- (change in physical make-up)
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

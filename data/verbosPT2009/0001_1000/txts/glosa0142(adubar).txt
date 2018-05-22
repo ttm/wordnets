@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0142
+
+DADO O SYNSET:
+
+S='Glosa142'
+{adubar: Para obter bons resultados, o produtor deve plantar a bananeira em solos livres de nematóides, [adubar bem a terra e fazer uma boa pós-colheita.,
+estercar: Na pior das hipóteses, vão contribuir para I]estercar os jardins dos palácios presidenciais.,
+estrumar: O fogo, a encoivaração hão de ser substituídos pelo arado e pela grade; a incineração resultante da queima, por outros meios de I]estrumar a terra.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa142' = “prover com fertilizantes (adubo) ou adicionar nutrientes a”
+{adubar: Para obter bons resultados, o produtor deve plantar a bananeira em solos livres de nematóides, [adubar bem a terra e fazer uma boa pós-colheita.,
+estercar: Na pior das hipóteses, vão contribuir para I]estercar os jardins dos palácios presidenciais.,
+estrumar: O fogo, a encoivaração hão de ser substituídos pelo arado e pela grade; a incineração resultante da queima, por outros meios de I]estrumar a terra.,}
+Chave: ADUBAR <verb.change>
+ILI: 00489302
+
+Sense 1
+{00489302} <verb.change> fertilize, fertilise, feed -- (provide with fertilizers or add nutrients to; "We should fertilize soil if we want to grow healthy plants")
+       => {00165118} <verb.change> enrich -- (make better or improve in quality; "The experience enriched her understanding"; "enriched foods")
+           => {00198579} <verb.change> better1, improve1, amend, ameliorate1, meliorate1 -- (to make better; "The editor improved the manuscript with his changes")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

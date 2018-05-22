@@ -1,0 +1,43 @@
+ANÁLISE DA GLOSA2386
+
+DADO O SYNSET:
+
+S='Glosa2386'
+	    {abeirar-se: Ao I]abeirar-se das rancharias dos tropeiros aquele velho singular, de pouco mais de trinta anos, fazia que cessassem os improvisos e as violas festivas.,
+	      acercar-se: Como que atraídos pela melodia da flauta, eles começam a [se acercar do balaio.,
+	      achegar-se: É preciso I]achegar-se à natureza para conhecer um desporto maravilhoso, ou seja, percorrer caminhos em bosques.,
+	      aconchegar-se: O gado, que costumava I]aconchegar-se na estrada logo após a porteira de entrada, disparou em direção contrária, subindo pelo pasto, assustado.,
+	      ajuntar-se: Desceram os dois à margem a I]ajuntar-se a Teodósio, conforme o convencionado, mas a sua expectativa foi iludida; não havia aí vivalma.,
+	      aprochegar-se: Isso percebendo, Andrócles tenta dela I]aprochegar-se, cautelosamente, sem que fosse pelo leão rechaçado.,
+	      aproximar-se: Quando [se aproxima o pólo norte de um ímã do pólo norte de outro ímã, ocorre uma forte repulsão.# Bem me diziam que a terra se faz mais branda e macia quanto mais do litoral a viagem [se aproxima.,
+	      avizinhar-se: Então, abeirar também é isso: chegar à beira de algum lugar, I]avizinhar-se, aproximar-se de. # Queria I]avizinhar-se do Paraguai, lá penetrar e se fixar.,
+	      conchegar-se: A juruti, que divaga pela floresta, ouve o terno arrulho do companheiro; bate as asas, e voa a I]conchegar-se ao tépido ninho.,
+	      confinar: A Região Sul I]confina com três países do Cone Sul: Paraguai, Uruguai e Argentina, com quem partilhamos um intercâmbio comercial.,
+	      tender: Atijolado, indica o vinho tinto cuja cor I]tende ao ocre, lembrando o vermelho-tijolo e apresentando uma tonalidade pouco vivaz.,
+	      unir-se: O módulo vai ser adaptado ao ônibus espacial Atlantis, previsto para I]se unir à estação russa Mir em maio do ano que vem.,
+	      vir: Se não podemos ir perto de vós, podeis I]vir perto de nós.,
+	      vizinhar-se: Os barcos H]vizinharam-se da praia.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2386' = “Mover-se ou deslocar-se em direção a.”
+	    {abeirar-se: I]Abeirou-se do desconhecido e falou:.,
+	      acercar-se: Cipriana I]acercou-se dele.,
+	      achegar-se: Uma mulher I]achegou-se por trás e lhe tocou a borda do manto.,
+	      aconchegar-se: I]Aconchegou-se ao fogo.,
+	      ajuntar-se: Enquanto isso I]ajuntou-se uma multidão de milhares de pessoas.,
+	      aprochegar-se: Uma colega I]aprochegou-se no meio de uma festa e confessou ser a "fã" que me mandava cartas enormes.,
+	      aproximar-se: Quando [se aproxima o pólo norte de um ímã do pólo norte de outro ímã, ocorre uma forte repulsão.,
+	      avizinhar-se: Não sei se o planeta que I]se avizinha chocará com a Terra ou se apenas passará próximo	      
+                   conchegar-se: A menina, por um movimento instintivo de terror, I]conchegou-se ao seu amigo.,
+	      unir-se: Os transeuntes, esparsos, M]uniram-se pouco a pouco.,
+	      vir: Nadia I]veio até mim e perguntou se estava gostando.,
+	      vizinhar-se: Os barcos H]vizinharam-se da praia.,}
+
+Chave: APROXIMAR-SE <verb.motion>
+ILI: 01995535
+
+Sense 1
+{01995535} <verb.motion> approach, near, come on, go up3, draw near, draw close, come near -- (move towards; "We were approaching our destination"; "They are drawing near"; "The enemy army came nearer and nearer")
+       => {01795677} <verb.motion> come, come up2 -- (move toward, travel toward something or somebody or approach something or somebody; "He came singing down the road"; "Come with me to the Casbah"; "come down here!"; "come out of the closet!"; "come into the room")
+           => {01782203} <verb.motion> travel, go, move3, locomote -- (change location; move, travel, or proceed; "How fast does your new car go?"; "We travelled from Rome to Naples by bus"; "The policemen went from door to door looking for the suspect"; "The soldiers moved towards the city in an attempt to take it before night fell")

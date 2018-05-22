@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA3324
+
+DADO O SYNSET:
+
+S='Glosa3324'
+	    {
+	      desfruir: x,
+	      desfrutar: Ilzamar também quer evitar que Darli continue [desfrutando das mordomias que mantinha durante os dois anos que permaneceu na Penitenciária de Rio Branco.,
+	      fruir: José não perderá sua condição de segurado do regime geral da previdência social no período referido, podendo, inclusive, I]fruir o benefício do auxílio-doença.,
+	      gozar: Ele [goza da regalia de manter um telefone celular na cela.,
+	      lograr: Apesar de seus esforços, não A]logrou o cargo a que aspirava.,
+	      lucrar: De sua atividade I]lucrou o Paiz beneficios que não se medem e ao nome do mestre adveio justo e compensador prestígio.,
+	      usufruir: Sua alternativa era tentar esconder a doença durante este período para [usufruir as vantagens de um plano.,
+	      usufrutar: Democratizar e descentralizar os meios de comunicação e produção cultural para que a população tenha acesso e I]usufruta do conhecimento.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3324' = “ter beneficio”
+	     {desfrutar: Quando não tem jogo, Romário [desfruta de um tratamento especial.,
+	      fruir: Cornélio I]fruiu da amizade o do apreço do poeta Martins Fontes.,
+	      gozar: Ele [goza da regalia de manter um telefone celular na cela.,
+	      lograr: Eleitoral I]logrou de grande êxito, contando com as honrosas presenças de Desembargadores de outros. estados, servidores desta Casa e de outras Ouvidorias.,
+	      lucrar: De sua atividade I]lucrou o Paiz beneficios que não se medem e ao nome do mestre adveio justo e compensador prestígio.,
+	      usufruir: João [usufrui da herança que deixou a Alexandre.,
+	      usufrutar: Democratizar e descentralizar os meios de comunicação e produção cultural para que a população tenha acesso e I]usufruta do conhecimento.,}
+Chave: USUFRUIR <verb.consumption>
+ILI: 01156182
+
+Sense 2
+{01156182} <verb.consumption> enjoy1 -- (have benefit from; "enjoy privileges")
+       => {01123102} <verb.consumption> use1, utilize, utilise, apply, employ -- (put into service; make work or employ (something) for a particular purpose or for its inherent or natural purpose; "use your head!"; "we only use Spanish at home"; "I can't make use of this tool"; "Apply a magnetic field here"; "This thinking was applied to many projects"; "How do you utilize this tool?"; "I apply this rule to get good results"; "use the plastic bags to store the food"; "He doesn't know how to use a computer")

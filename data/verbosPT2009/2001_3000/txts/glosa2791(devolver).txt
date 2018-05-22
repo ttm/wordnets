@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA2791
+
+DADO O SYNSET:
+
+  S='Glosa2791'
+	    {devolver: Já mandou [devolver o material.,
+	      recambiar: I]Recambiar os restos mortais de Anita Garibaldi para Laguna, há de ser o maior empenho dos que organizam grandiosos festejos em sua memória nos 150 anos de sua morte.,
+	      reconduzir: x,
+	      reenviar: Entrar em contato com nossa central de atendimento antes de I]reenviar o produto para o Nosso Centro de Distribuição.,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2791' = “Trazer de volta ao ponto de saída”
+	    {devolver: Em segundos retornou com a carteira na mão e a I]devolveu ao empresário que comentou.,
+	      recambiar: Com isso ele foi levado ao hospital, medicado e apresentado ao Delegado de Polícia que o I]recambiou à sua cela.,
+	      reenviar: Atendendo a um pedido meu, I]reenviou a encomenda.,}
+
+Chave: DEVOLVER <verb.motion>
+ILI: 02019189
+
+Sense 5
+{02019189} <verb.motion> return12, take back3, bring back -- (bring back to the point of departure)
+       => {02018551} <verb.motion> bring, convey, take10 -- (take something or somebody with oneself somewhere; "Bring me the box from the other room"; "Take these letters to the boss"; "This brings me to the main point")
+           => {01408676} <verb.contact> transport, carry2 -- (move while supporting, either in a vehicle or in one's hands or on one's body; "You must carry your camping gear"; "carry the suitcases to the car"; "This train is carrying nuclear waste"; "These pipes carry waste water into the river")
+               => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant") 

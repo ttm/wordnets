@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0393
+
+DADO O SYNSET:
+
+S='Glosa393'
+{afermentar: Junte o fermento, o açúcar e o leite morno e deixe I]afermentar.,
+fermentar: Demora de 3 a 5 horas para ficar pronto, porque a massa tem que [fermentar duas vezes.,
+levedar: Amasse tudo até que a massa se descole da forma, polvilhe com farinha e abafe com um pano grosso para I]levedar até obter o dobro do volume.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa393' = “produzir fermentação em”
+{afermentar: Junte o fermento, o açúcar e o leite morno e deixe I]afermentar.,
+fermentar: Demora de 3 a 5 horas para ficar pronto, porque a massa tem que [fermentar duas vezes.,
+levedar: Amasse tudo até que a massa se descole da forma, polvilhe com farinha e abafe com um pano grosso para I]levedar até obter o dobro do volume.,}
+Chave: FERMENTAR <verb.change>
+ILI: 00445694
+
+Sense 3
+{00445694} <verb.change> ferment1, work14 -- (cause to undergo fermentation; "We ferment the grapes for a very long time to achieve high alcohol content"; "The vintner worked the wine in big oak vats")
+       => {00111347} <verb.change> convert3 -- (change the nature, purpose, or function of something; "convert lead into gold"; "convert hotels into jails"; "convert slaves to laborers")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

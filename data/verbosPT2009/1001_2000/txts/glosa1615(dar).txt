@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA1615
+
+DADO O SYNSET:
+
+S='Glosa1615'
+{abonar: I]Abonar extra-judicialmente a indemnização reclamada ou adiantar dinheiro, por conta, em nome ou sob a responsabilidade da Seguradora, sem sua expressa autorização.,
+ administrar: Se o crime for muito horrendo, eu acho que o assassino deve permanecer na cadeia para poder sofrer, mas se o crime não for tão violento, o melhor que se pode fazer é I]administrar-lhe a pena de morte para que o seu sofrimento não se prolongue durante muito tempo.,
+ conferir: Deve-se rever e melhorar a legislação comunitária em vigor no domínio do direito dos contratos de forma a I]conferir-lhe uma maior coerência ou adaptá-la para que possa abranger situações que não estavam previstas no momento em que foi aprovada.,
+ dar: Mas quem já pensou em I]dar a outros homens o direito de tirar-lhes a vida?,
+ distribuir: Não é o bastante I]distribuir lotes de terra a famílias carentes, mas também fiscalizar o destino das terras e sua utilização, viabilizar economicamente seu cultivo, bem como favorecer o comércio dos alimentos ali produzidos. ,
+ ministrar: E foi aí que o arcebispo de Paris A]ministrou os últimos sacramentos à veneranda anciã.,
+ oferecer: Os prédios, do tipo inteligente, vão [oferecer serviços como acesso imediato à Internet.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1615' = “conceder, especialmente oficialmente”  
+{abonar: A administradora de meu prédio I]abonou o pagamento de nosso condomínio.,
+ conferir: A procuração para o foro em geral não [confere ao advogado poder para, em nome do constituinte, oferecer lanços e arrematar bens em hasta pública.,
+ dar: A confederação argumenta, ainda, que a lei [deu ao Cade o poder de revogar atos que caracterizam direitos adquiridos
+ distribuir: Marcos Nusdeo I]distribuiu ao conselheiro Manoel Francisco Pinho a relatoria do único recurso contra a lista de antiguidade já divulgada.,
+ oferecer: A Trace [ofereceu ao governo paranaense em ofício datado de 14 de fevereiro de 1990 uma «fórmula alternativa» para agilizar a importação.,}
+Chave: DAR <verb.possession>
+ILI: 02249941
+
+Sense 5
+{02249941} <verb.possession> grant5, give11 -- (bestow, especially officially; "grant a degree"; "give a divorce"; "This bill grants us new rights") 

@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA0937
+
+DADO O SYNSET:
+
+S='Glosa937'
+{comprometer: O motorista fez mais duas revelações que [comprometem a polícia e indicam que mais agricultores podem ter sido mortos no massacre. ,
+compromissar: JK ainda é um grande talento e o Jamiroquai, sem I]compromissar sua integridade musical, vai expandindo uma força musical mundo afora como sua marca. ,
+deslustrar: Uma pequena história sobre as fotografias da entrevista evidencia bem o nosso desejo de não I]deslustrar o entrevistado.,
+envergonhar: Mas Deus escolheu o que para o mundo é loucura para I]envergonhar os sábios, e escolheu o que para o mundo é fraqueza para I]envergonhar o que é forte.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa937' = “expor ou deixar tangível ao perigo, suspeita, ou desrespeito”
+{comprometer: O motorista fez mais duas revelações que [comprometem a polícia e indicam que mais agricultores podem ter sido mortos no massacre. ,
+compromissar: JK ainda é um grande talento e o Jamiroquai, sem I]compromissar sua integridade musical, vai expandindo uma força musical mundo afora como sua marca.,
+deslustrar: Uma pequena história sobre as fotografias da entrevista evidencia bem o nosso desejo de não I]deslustrar o entrevistado.,
+envergonhar: Mas Deus escolheu o que para o mundo é loucura para I]envergonhar os sábios, e escolheu o que para o mundo é fraqueza para I]envergonhar o que é forte.}
+Chave: COMPROMETER <verb.communication>
+ILI: 01003130
+
+Sense 3
+{01003130} <verb.communication> compromise3 -- (expose or make liable to danger, suspicion, or disrepute; "The nuclear secrets of the state were compromised by the spy")
+       => {01002857} <verb.communication> queer, expose2, scupper, endanger, peril -- (put in a dangerous, disadvantageous, or difficult position)
+           => {00132263} <verb.change> affect, impact, bear upon, bear on, touch on1, touch -- (have an effect upon; "Will the new rules affect me?")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

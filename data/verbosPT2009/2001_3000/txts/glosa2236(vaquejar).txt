@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA2236
+
+DADO O SYNSET:
+
+S='Glosa2236'
+	    {costear: Certa tarde montei a cavalo e saí a I]costear banhados.,
+	      vaquejar: Meu destino é I]vaquejar com a mão no laço.,}
+
+
+A ANÁLISE RESULTA EM:
+S='Glosa2236' = “manter em movimento; conduzir animais”
+	    {costear: Certa tarde montei a cavalo e saí a I]costear banhados.,
+	      vaquejar: Meu destino é I]vaquejar com a mão no laço.,}
+
+
+Chave: VAQUEJAR <verb.stative>
+ILI: 02573032
+
+Sense 3
+{02573032} <verb.stative> herd -- (keep, move, or drive animals; "Who will be herding the cattle when the cowboy dies?")
+       => {02572890} <verb.stative> keep12 -- (raise; "She keeps a few chickens in the yard"; "he keeps bees")
+           => {01690645} <verb.creation> grow, raise3, farm, produce5 -- (cultivate by growing, often involving improvements by means of agricultural techniques; "The Bordeaux region produces great red wines"; "They produce good ham in Parma"; "We grow wheat here"; "We raise hogs here")
+               => {01693557} <verb.creation> cultivate -- (foster the growth of)

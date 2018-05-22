@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA
+
+DADO O SYNSET:
+
+S='Glosa625'
+{apolvilhar: x,
+empoar: Nenhum europeu jamais tentou fazer o mesmo sem I]empoar o rosto e a roupa, com grande divertimento para os selvagens,
+enfarinhar: Untar e I]enfarinhar uma forma, colocar a massa e levar a assar em forno pré-aquecido. ,
+polvilhar: O açúcar pode ser usado para adoçar o café ou [polvilhar o chantilly,
+pulverizar: I]Pulverizar com noz moscada.,
+salpicar: E é de bom alvitre [salpicar um pouco desse pó de pirlimpimpim em nossos próprios ombros, através de homenagens e agradecimentos,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa625' = “cobrir com farinha”
+{empoar: Nenhum europeu jamais tentou fazer o mesmo sem I]empoar o rosto e a roupa, com grande divertimento para os selvagens,
+enfarinhar: Farinha para I]enfarinhar a superfície Modo de Preparo Em uma tigela, misture os ingredientes do recheio e reserve.,
+polvilhar: O açúcar pode ser usado para adoçar o café ou [polvilhar o chantilly,
+salpicar: E é de bom alvitre [salpicar um pouco desse pó de pirlimpimpim em nossos próprios ombros, através de homenagens e agradecimentos,}
+Chave: POLVILHAR <verb.contact>
+ILI: 01223879
+
+Sense 1
+{01223879} <verb.contact> flour -- (cover with flour; "flour fish or meat before frying it")
+       => {01223702} <verb.contact> dredge3 -- (cover before cooking; "dredge the chicken in flour before frying it")
+           => {01226248} <verb.contact> coat, surface -- (put a coat on; cover the surface of; furnish with a surface; "coat the cake with chocolate")
+               => {01293336} <verb.contact> cover -- (provide with a covering or cause to be covered; "cover her face with a handkerchief"; "cover the child with a blanket"; "cover the grave with flowers")

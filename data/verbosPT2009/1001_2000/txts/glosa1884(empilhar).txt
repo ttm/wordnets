@@ -1,0 +1,37 @@
+ANÁLISE DA GLOSA1884
+
+DADO O SYNSET:
+
+S='Glosa1884'
+{acastelar: Na parte da tarde, uma multiplicidade de tarefas o espera: partir, carregar e I]acastelar lenha; ir ao monte buscar fetos e fagulha para a cama dos animais.,
+ acumular: Manter limpos quintais e terrenos baldios, não deixando I]acumular muito entulho e lixo.,
+ ajuntar: Limpar ou capinas a área, I]ajuntando todo o mato em um canto. ,
+ amontoar: Simplesmente não usa o serviço oferecido pela Ecofor e passa a I]amontoar o lixo em calçadas e terrenos baldios próximos de sua casa.  ,
+ cumular: x,
+ empilhar: Prepare o seu próprio lixo orgânico (adubo), é só I]empilhar as folhas, restos de gramas e alimentos num canto do quintal que entrará em decomposição.,
+ encastelar: H]Encastelava moedas em pilhas perfeitas.,
+ entroixar: x,
+ entrouxar: x, }
+	  
+A='Glosa1308'
+{desempilhar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1884' = “dispor em pilhas”
+{acumular: Várias vezes já vi inscritas em seus muros (até na lixeira que I]acumula tudo o que do alto do morro vem), frases encimando uma bandeira nacional.,
+ ajuntar: I]Ajuntem todos os despojos no meio da praça pública e queimem.,
+ amontoar: Simplesmente não usa o serviço oferecido pela Ecofor e passa a I]amontoar o lixo em calçadas e terrenos baldios próximos de sua casa.,
+ empilhar: Os apuradores costumam [empilhar as cédulas em montinhos de dez, para facilitar o cômputo de cada urna.,}
+	  
+A='Glosa1308'
+{desempilhar}
+Chave: EMPILHAR <verb.contact>
+ILI: 01461170
+
+Sense 1
+{01461170} <verb.contact> stack, pile, heap -- (arrange in stacks; "heap firewood around the fireplace"; "stack your books up on the shelves")
+       => {01422386} <verb.contact> arrange, set up -- (put into a proper or systematic order; "arrange the books on the shelves in chronological order")
+           => {01452069} <verb.contact> put, set, place, pose2, position, lay1 -- (put into a certain place or abstract location; "Put your things here"; "Set the tray down"; "Set the dogs on the scent of the missing children"; "Place emphasis on a certain point")
+               => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")
+          Also See-> {01462064} <verb.contact> pile up#2

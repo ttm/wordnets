@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA1397
+
+DADO O SYNSET:
+
+S='Glosa1397'
+{equilibrar: Os órgãos que compõem esses sistemas possuem meios de regular e [equilibrar os demais, permitindo que o organismo funcione como um todo harmônico,
+ estabilizar: Eles foram capazes de [estabilizar a nave e de fazer uma reentrada de emergência, mergulhando então no Pacífico,}
+	  
+A='Glosa1398'
+{desequilibrar, desestabilizar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1397' = “tornar estável e salvo de instabilidade ou colocar em equilíbrio” 
+{equilibrar: Os órgãos que compõem esses sistemas possuem meios de regular e [equilibrar os demais, permitindo que o organismo funcione como um todo harmônico.,
+ estabilizar: Eles foram capazes de [estabilizar a nave e de fazer uma reentrada de emergência, mergulhando então no Pacífico.,}
+A='Glosa1398'
+{desequilibrar, desestabilizar}
+Chave: ESTABILIZAR <verb.change>
+ILI: 00261930
+
+Sense 1
+{00261930} <verb.change> stabilize1, stabilise1 -- (make stable and keep from fluctuating or put into an equilibrium; "The drug stabilized her blood pressure"; "stabilize prices")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

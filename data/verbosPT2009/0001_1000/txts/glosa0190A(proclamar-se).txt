@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0190A
+
+DADO O SYNSET:
+
+S='Glosa190'
+{aclamar-se: Em 11 de agosto de 1492, Roderigo Bórgia I]aclamou-se Papa Alexandre VI.,
+eleger-se: Ele teve exatamente os 11 votos que reuniu para [se eleger presidente do Senado há mais de um ano, o que significa dizer que nem tão alta posição o fez avançar um único voto dentro do partido.,
+proclamar-se: Em 1139, após vencer os inimigos na importante Batalha de Ourique, [proclamou-se rei e fez a independência de seus domínios.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa190A' = “declarar um cargo ou posição formalmente; de títulos”
+{aclamar-se: Em 11 de agosto de 1492, Roderigo Bórgia I]aclamou-se Papa Alexandre VI.,
+proclamar-se: Em 1139, após vencer os inimigos na importante Batalha de Ourique, [proclamou-se rei e fez a independência de seus domínios.,}
+Chave: PROCLAMAR-SE
+ILI: 00946105
+
+Sense 1
+{00946105} <verb.communication> proclaim2 -- (declare formally; declare someone to be something; of titles; "He was proclaimed King")
+       => {00996229} <verb.communication> entitle, title -- (give a title to)
+           => {00995511} <verb.communication> name3, call2 -- (assign a specified, proper name to; "They named their son David"; "The new school was named after the famous Civil Rights leader")
+               => {00996581} <verb.communication> label -- (assign a label to; designate with a label; "These students were labelled `learning disabled'")
+                   => {00996861} <verb.communication> designate, denominate -- (assign a name or title to)

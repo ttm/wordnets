@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA2748
+
+DADO O SYNSET:
+
+  S='Glosa2748'
+	    {endossar: Dado o fascismo ter se revelado capaz de revitalizar a economia capitalista e de calar todos os oponentes, fazia-se necessário e urgente, então, unir todas as forças políticas dispostas a [endossar um programa democrático antifascista.,
+	      referendar: Assembléia Geral da Companhia Paraibuna de Metais amanhã - que agora se chama Companhia de Empreendimentos Industriais - trocará seu Conselho de Administração, [referendará a nova diretoria e decidirá por um aumento de capital de R$ 60 milhões.,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2748' = “Dar suporte ou aprovação a”
+	    {endossar: A Moody’s I]endossou publicamente o Código IOSCO.,
+	      referendar: O Tribunal, por unanimidade, I]referendou a decisão que aprovou as instruções, nos termos do voto do Relator.,}
+
+Chave: ENDOSSAR <verb.social>
+ILI: 02481156
+
+Sense 2
+{02481156} <verb.social> second, back1, endorse2, indorse2 -- (give support or one's approval to; "I'll second that motion"; "I can't back this plan"; "endorse a new project")
+       => {02480483} <verb.social> support, back up -- (give moral or psychological support, aid, or courage to; "She supported him during the illness"; "Her children always backed her up") 

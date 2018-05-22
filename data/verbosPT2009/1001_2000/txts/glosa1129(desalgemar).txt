@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA1129
+
+DADO O SYNSET:
+
+S='Glosa1129'
+{desalgemar: Após tomar ciência do ocorrido, ela teria mandado I]desalgemar os acusados, sem tomar-lhes depoimento,}
+	  
+A='Glosa3360'
+{algemar, maniatar, manietar, prender}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1129' = “libertar das algemas”
+{desalgemar: O homem I]desalgemou os pulsos da Fátima.,}
+A='Glosa3360'
+{algemar, maniatar, manietar, prender}
+Chave: DESALGEMAR <verb.contact>
+ILI: EQ_HAS_HYPERONYM - 01469020
+
+Sense 1
+{01469020} <verb.contact> unlock1 -- (set free or release)
+       => {01469111} <verb.contact> disengage, withdraw -- (release from something that holds fast, connects, or entangles; "I want to disengage myself from his influence"; "disengage the gears")
+           => {01432719} <verb.contact> let go of, let go, release, relinquish2 -- (release, as from one's grip; "Let go of the door handle, please!"; "relinquish your grip on the rope--you won't fall")

@@ -1,0 +1,69 @@
+ANÁLISE DA GLOSA3427
+
+DADO O SYNSET:
+
+S='Glosa3427'
+	{aflechar: x,
+	 aleijar: x,
+	 amelindrar: x,
+	 amolestar: x,
+	 apunhalar: A palavra covarde o I]apunhalava.,
+	 atristar: x,
+	 chocar1: O crime I]chocou a população e foi encarado como um cerceamento à liberdade de imprensa.,
+	 compungir: O sentimento de culpa que o impedia de dormir noites tranqüilas, desde que fora preso, I]compungia-o profundamente.,
+	 contristar: O seu passamento, após longa e fecunda existência, I]contristou, sobremaneira, a todos que tiveram a felicidade de conhecê-lo.,
+	 desagradar: É o dia de receber o perdão de Deus, por tudo que se tenha feito e que o I]desagradou.,
+	 embruscar: Fundo ressentimento M]embruscava a jovem.,
+	 entristecer: O que me I]entristeceu profundamente era algo que eu já sabia.,
+	 escandalizar: O acinte M]escandalizou-o. ,
+	 estomagar: As críticas, as perfídias o H]estomagaram.,
+	 ferir: Se alguém o I]feriu no passado, a compaixão pode ser um bálsamo eficiente para auxiliar na cura.,
+	 flechar: A]Flechou-o com injúrias.,
+	 frechar: x,
+	 machucar: Perdão não significa esquecimento, significa deixar de dar importância àquilo que um dia nos I]machucou.,
+	 magoar: Estou falando de alguém que I]magoou você de verdade.,
+	 mazelar: Más notícias o M]mazelaram.,
+	 melancolizar: E ainda me I]melancoliza mais estar imaginando que eles não conseguiram também erguer a cerca prá nós.,
+	 melindrar: De acordo com os analistas de plantão, o discurso de Alfredo foi forte e I]melindrou os vereadores.,
+	 molestar: M]Molestou a colega falando rudemente.,
+	 ofender: É claro que a pessoa que o I]ofendeu está errada, entretanto, isso não é motivo para ficarmos ressentidos.,
+	 susceptibilizar: Também uma conversa não deverá provocar discussões sobre assuntos políticos, religiosos ou de qualquer natureza que possam de algum modo I]susceptibilizar algum dos presentes.,
+	 suscetibilizar: Só por dever de honestidade, teria a observar que chamar a era em que estamos de vulgar poderia I]suscetibilizar seus amigos cristãos.,
+	 vulnerar: O impacto da doença é medonho e limita o paciente, I]vulnerando-o física, moral, social e psicologicamente.}
+
+A='Glosa3288'
+{agradar, alegrar, alvoroçar, alvorotar, contentar, desentristecer, dourar, entusiamar, exultar, iluminar, jubilar, recrear, regozijar, satisfazer, triunfar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3427' = “tornar infeliz”
+	{apunhalar: A palavra covarde o I]apunhalava.,
+	 chocar1: O crime I]chocou a população e foi encarado como um cerceamento à liberdade de imprensa.,
+	 compungir: O sentimento de culpa que o impedia de dormir noites tranqüilas, desde que fora preso, I]compungia-o profundamente.,
+	 contristar: O seu passamento, após longa e fecunda existência, I]contristou, sobremaneira, a todos que tiveram a felicidade de conhecê-lo.,
+	 desagradar: É o dia de receber o perdão de Deus, por tudo que se tenha feito e que o I]desagradou.,
+	 embruscar: Fundo ressentimento M]embruscava a jovem.,
+	 entristecer: O que me I]entristeceu profundamente era algo que eu já sabia.,
+	 escandalizar: O acinte M]escandalizou-o. ,
+	 estomagar: As críticas, as perfídias o H]estomagaram.,
+	 ferir: Se alguém o I]feriu no passado, a compaixão pode ser um bálsamo eficiente para auxiliar na cura.,
+	 flechar: A]Flechou-o com injúrias.,
+	 machucar: Perdão não significa esquecimento, significa deixar de dar importância àquilo que um dia nos I]machucou.,
+	 magoar: Estou falando de alguém que I]magoou você de verdade.,
+	 mazelar: Más notícias o M]mazelaram.,
+	 melancolizar: E ainda me I]melancoliza mais estar imaginando que eles não conseguiram também erguer a cerca pra nós.,
+	 melindrar: De acordo com os analistas de plantão, o discurso de Alfredo foi forte e I]melindrou os vereadores.,
+	 molestar: M]Molestou a colega falando rudemente.,
+	 ofender: É claro que a pessoa que o I]ofendeu está errada, entretanto, isso não é motivo para ficarmos ressentidos.,
+	 susceptibilizar: Também uma conversa não deverá provocar discussões sobre assuntos políticos, religiosos ou de qualquer natureza que possam de algum modo I]susceptibilizar algum dos presentes.,
+	 suscetibilizar: Só por dever de honestidade, teria a observar que chamar a era em que estamos de vulgar poderia I]suscetibilizar seus amigos cristãos.,
+	 vulnerar: O impacto da doença é medonho e limita o paciente, I]vulnerando-o física, moral, social e psicologicamente.}
+
+A='Glosa3288'
+{agradar, alegrar, alvoroçar, alvorotar, contentar, desentristecer, dourar, entusiamar, exultar, iluminar, jubilar, recrear, regozijar, satisfazer, triunfar}
+Chave: ENTRISTECER <verb.emotion>
+ILI: 01760546
+
+Sense 1
+{01760546} <verb.emotion> sadden1 -- (make unhappy; `The news of her death saddened me')
+       => {01716999} <verb.emotion> affect, impress1, move, strike -- (have an emotional or cognitive impact upon; "This child impressed me as unusually mature"; "This behavior struck me as odd")

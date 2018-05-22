@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA3730
+
+DADO O SYNSET:
+
+S='Glosa3730'
+{dirigir-se: x,
+	governar-se: O conhecimento científico parece viver agora o seu state of the art, libertando-se de uma realidade objetiva absoluta e determinista e passando a [governar-se, por exemplo, pelas mesmas noções de caos e acaso com que opera o artista.,
+	guiar-se: O que importa é a surpresa: e ironicamente, nestes tempos pós-modernos, [guiar-se pela mais absoluta fidelidade ao original já é um fator de novidade.,
+	pautar-se: Os conflitos advindos da aplicação da norma são analisados pelo Judiciário, que deve [pautar-se pela Justiça.,
+	reger-se: O Mestrado Profissional será realizado de forma independente ao Mestrado Acadêmico, devendo I]reger-se por normas específicas.,
+	regrar-se: Só o homem é capaz de atuar, de conduzir-se; mas esse agir, sem peias ao livre arbítrio da criatura, não pode deixar de I]regrar-se segundo o ordenamento da vida em sociedade.,
+	regular-se: O condomínio por meação de parede, soalhos e tetos das unidades isoladas I]regular-se-á pelo disposto no Código Civil, no que lhe for aplicável. }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3730' = “usar como um guia”
+{governar-se: O conhecimento científico parece viver agora o seu state of the art, libertando-se de uma realidade objetiva absoluta e determinista e passando a [governar-se, por exemplo, pelas mesmas noções de caos e acaso com que opera o artista.,
+	guiar-se: O que importa é a surpresa: e ironicamente, nestes tempos pós-modernos, [guiar-se pela mais absoluta fidelidade ao original já é um fator de novidade.,
+	pautar-se: Os conflitos advindos da aplicação da norma são analisados pelo Judiciário, que deve [pautar-se pela Justiça.,
+	reger-se: O Mestrado Profissional será realizado de forma independente ao Mestrado Acadêmico, devendo I]reger-se por normas específicas.,
+	regrar-se: Só o homem é capaz de atuar, de conduzir-se; mas esse agir, sem peias ao livre arbítrio da criatura, não pode deixar de I]regrar-se segundo o ordenamento da vida em sociedade.,
+	regular-se: O condomínio por meação de parede, soalhos e tetos das unidades isoladas I]regular-se-á pelo disposto no Código Civil, no que lhe for aplicável. }
+Chave: GUIAR-SE <verb.perception>
+ILI: 01477851
+
+Sense 4
+{01477851} <verb.perception> guide, guide on -- (use as a guide; "They had the lights to guide on")
+       => {01477665} <verb.perception> orient, orientate -- (determine one's position with reference to another point)
+           => {00471542} <verb.cognition> decide, make up one's mind, determine -- (reach, make, or come to a decision about something; "We finally decided after lengthy deliberations")

@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA1506
+
+DADO O SYNSET:
+
+S='Glosa1506'
+{chamar: Não logrou A]chamar a atenção dos presentes para o que se passava.  ,
+ despertar: A intenção dos bicheiros é [despertar a atenção da sociedade para a legalização do jogo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1506' = “indicar meticulosa e claramente”
+{chamar: Uma entrevista de Wagner a uma TV Globo, porém, [chamou a atenção de Sônia.,
+ despertar: Como o filme [despertou o planeta para seus contornos, Stone deixou a questão de lado e aproveitou o sucesso.,}
+Chave: CHAMAR <verb.communication>
+ILI: 00894216
+
+Sense 1
+{00894216} <verb.communication> signalize2, signalise2, point out3, call attention -- (point out carefully and clearly)
+       => {00893603} <verb.communication> indicate3, point, show1 -- (indicate a place, direction, person, or thing; either spatially or figuratively; "I showed the customer the glove section"; "He pointed to the empty parking space"; "he indicated his opponents")
+           => {00804489} <verb.communication> inform -- (impart knowledge of some fact, state or affairs, or event to; "I informed him of his rights")
+               => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                   => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                       => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA1723
+
+DADO O SYNSET:
+
+S='Glosa1723'
+{encarangar-se: Nos dias úmidos, suas pernas H]encarangam-se.,
+ encaranguejar-se: x,
+ entrevar-se1: Vislumbro apenas enormes manchas sombrosas; o corpo I]entrevou-se deitado, e cansa-me endireitar a postura da carcaça para narrar ao gravador. # Sem motivo aparente, a criança H]entrevou-se.,
+ entrevecer-se1: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1723' = “ficar paralisado, imóvel”
+{encarangar: Quem mora em lugar muito frio sabe que cobra I]encaranga. De manhã muito cedo, naqueles dias de geada braba, daquelas de “renguear cusco”, é comum encontrar cobra parada como morta.,
+ entrevar: Era uma velhinha linda, super meiga e boazinha. Mas quando adoeceu e I]entrevou, todos a evitavam dizendo: “não agüento ver Madrinha assim... prefiro guardar a imagem que eu tenho dela com saúde
+ entrevar-se1: Destes personagens que já se foram, quem venceu finalmente? O poeta e sua obra lida e admirada no mundo inteiro ou o outro que se I]entreva em cadeiras de roda numa insanidade já verificada anteriormente?,
+ paralisar: Quando a criança lê pela primeira vez, parece que o coração da professora pára, e o mundo I]paralisa diante do som das primeiras letras.,
+ paralisar-se: A população brasileira I]paralisou-se diante da TV ao assistir ao excelente, porém contundente, documentário “Falcão”.,}
+Chave: ENTRAVAR <verb.change>
+ILI: 00259579
+
+Sense 2
+{00259579} <verb.change> paralyze, paralyse -- (cause to be paralyzed and immobile; "The poison paralyzed him"; "Fear paralyzed her")
+       => {00260242} <verb.change> immobilize, immobilise -- (cause to be unable to move; "The sudden storm immobilized the traffic")
+           => {00228980} <verb.change> restrict2, curtail, curb, cut back -- (place restrictions on; "curtail drinking in school")
+               => {00227757} <verb.change> limit, circumscribe, confine1 -- (restrict or confine, "I limit you to two visits to the pub a day")
+                   => {00428838} <verb.change> decrease1, lessen2, minify -- (make smaller; "He decreased his staff")
+                       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

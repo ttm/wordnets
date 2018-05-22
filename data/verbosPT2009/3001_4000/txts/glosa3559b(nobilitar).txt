@@ -1,0 +1,36 @@
+ANÁLISE DA GLOSA3359b
+
+DADO O SYNSET:
+
+S='Glosa3559'
+	    {
+	      afidalgar: As damas I]afidalgavam-se, pareciam até mais amáveis e mimosas.,
+	      elevar: [Elevar a crítica a uma forma solene de arte, igual, se não superior, à poesia. / A menina no seu reconhecimento queria [elevar o amigo e torná-lo digno da estima de todos . ,
+	      embandeirar: Falamos de Paulo Batista, que, aos 35 anos, não se deixa I]embandeirar em euforias. ,
+	      enaltar: x ,
+	      enaltecer: O presidente [enalteceu o poeta. ,
+	      engrandecer: Eis uma das máscaras do machismo: [engrandecer a maternidade através da diminuição da mulher. / O exílio [engrandece a pátria. ,
+	      exalçar: I]Exalçar as virtudes. / Aquele que se I]exalçar será humilhado e o que se humilhar será exalçado.,
+	      exaltar: O ensino [exaltava ou valorizava a cultura européia, a missão civilizadora do branco e desprezava a cultura do colonizado ,
+	      glorificar: Pregam abertamente as teses nazistas e [glorificam Hitler.,
+	      magnificar: Eles [magnificavam os atos da vida cotidiana, encarnavam a alma da cidade. ,
+	      nobilitar: Poucos conheceriam, talvez, o nome desta escritora, que merece ser arquivado como o de uma daquelas que I]nobilitaram a literatura. ,
+	      nobrecer: x,
+	      qualificar: Todavia, até fins do século XVI nobre algum se I]qualificou barão.,
+	      subir: Os chefes militares A]sobem a coragem dos comandados.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3559b' = “dar um título a alguém; fazer alguém um membro as nobreza” 
+	     {afidalgar: Felipe Camarão, cacique de alto renome, bugre latinista que o Rei I]afidalgara com o título de Dom, marchava a pé, carrancudo e grave.,
+	      nobilitar: Mais tarde, os reis da Boemia, ao instalarem uma indústria nos seus domínios, igualmente I]nobilitaram os artistas vidreiros, concedendo o direito ao uso da espada.,
+	      qualificar: Todavia, até fins do século XVI nobre algum se I]qualificou barão.,}
+Chave: NOBILITAR <verb.communication>
+ILI: 02326719
+
+Sense 2
+{02326719} <verb.social> ennoble, gentle, entitle1 -- (give a title to someone; make someone a member of the nobility)
+       => {02325893} <verb.social> promote, upgrade, advance, kick upstairs, raise4, elevate -- (give a promotion to or assign to a higher position; "John was kicked upstairs when a replacement was hired"; "Women tend not to advance in the major law firms"; "I got promoted after many years of hard work")
+           => {02320208} <verb.social> delegate, designate, depute3, assign -- (give an assignment to (a person) to a post, or assign a task to (a person))
+               => {02401814} <verb.social> appoint, charge -- (assign a duty, responsibility or obligation to; "He was appointed deputy manager"; "She was charged with supervising the creation of a concordance")

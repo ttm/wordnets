@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0862
+
+DADO O SYNSET:
+
+S='Glosa862'
+{acautelar: A nós, padres, cabe I]acautelar ou ao menos atenuar a celebração do casamento, que é o fulcro de toda esta roda e tende a ser desvalorizada.,
+cautelar: x,
+evitar: O horário não é estendido por mais tempo para [evitar problemas aos alunos das escolas dos estados da região Sul. # Com a cobiça, nosso povo não tem como [evitar a guerra.,
+premunir: M]Premunir males.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa862' = “prevenir a ocorrência de; prevenir de acontecer”
+{acautelar: A nós, padres, cabe I]acautelar ou ao menos atenuar a celebração do casamento, que é o fulcro de toda esta roda e tende a ser desvalorizada.,
+evitar: O horário não é estendido por mais tempo para [evitar problemas aos alunos das escolas dos estados da região Sul. # Com a cobiça, nosso povo não tem como [evitar a guerra.,}
+Chave: EVITAR <verb.social>
+ILI: 02379475
+
+Sense 2
+{02379475} <verb.social> debar, obviate, deflect, avert, head off, stave off, fend off, avoid1, ward off -- (prevent the occurrence of; prevent from happening; "Let's avoid a confrontation"; "head off a confrontation"; "avert a strike")
+       => {02379144} <verb.social> prevent1, forestall1, foreclose, preclude, forbid3 -- (keep from happening or arising; have the effect of preventing; "My sense of tact forbids an honest answer")

@@ -1,0 +1,43 @@
+ANÁLISE DA GLOSA2225
+
+DADO O SYNSET:
+S='Glosa2225'
+	    {ablegar: Pretendia I]ablegar os adversários políticos.,
+	      afastar: A mãe I]afastou o menino do pai por considerá-lo agressivo.,
+	      alongar: Não queria A]alongar de si o filho.,
+	      alonginquar: x,
+	      apartar: D. Maria, depois de declarar que José Manuel se tinha queixado da comadre, atribuindo-lhe tudo que se havia passado, que não era mais do que uma intriga urdida com o fim de o [apartar de sua casa, porque tinham sobre ele caído suspeitas, que confessava justas...,
+	      desaliar: x,
+	      desapartar: Foi difícil H]desapartar a criança do pai na partida.,
+	      desaproximar: H]Desaproximar duas pessoas.,
+	      desgrudar: Jane Bezerra, de cabelos mais curtos, estava elegantérrima, páreo duro com Carla Souza Lima; as duas, aliás, não [desgrudaram um só minuto. Sem I]desgrudar da sua boneca, ela sorri para a nossa equipe.,
+	      despegar: Quando o aborrecia, o Zé, para me arreliar, chamava-me ruço de má-pelo, quer casar e não tem cabelo, mas eu não I]despegava dele.,
+	      desunir: Eles tentam enfraquecer e [desunir os pilotos. # Não tem falta de dinheiro que justifique I]desunir uma família desse jeito, cada um para um lado, as crianças sendo tratadas por estranhos.,
+	      dissidiar: x,
+	      dissidir: x,
+	      distanciar: Nós terminamos por nos [distanciar deles; e então somos obrigados a enfrentar a solidão, as surpresas com as curvas desconhecidas, os problemas com a bicicleta .,
+	      divorciar: As brigas A]divorciavam a família.,
+	      separar: Mas a grande amizade entre os dois escritores não foi abalada, pelo menos até por volta de 1929, quando uma divergência, até hoje não muito bem esclarecida, os [separou de vez .,
+	      vastar1: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2225' = “suspender ou interromper uma relação”
+	    {ablegar: Pretendia I]ablegar os adversários políticos.,
+	      afastar: A mãe I]afastou o menino do pai por considerá-lo agressivo.,
+	      alongar: Não queria A]alongar de si o filho.,
+	      apartar: Maria atribuindo-lhe tudo que se havia passado, que não era mais do que uma intriga urdida com o fim de o [apartar de sua casa,
+	      desapartar: Foi difícil H]desapartar a criança do pai na partida.,
+	      desaproximar: H]Desaproximar duas pessoas.,
+	      desgrudar: Jane Bezerra estava elegantérrima, páreo duro com Carla Souza Lima; as duas, aliás, não [desgrudaram um só minuto. Sem I]desgrudar da sua boneca, ela sorri para a nossa equipe.,
+	      despegar: Zé, para me arreliar, chamava-me ruço de má-pelo, quer casar e não tem cabelo, mas eu não I]despegava dele.,
+	      desunir: Eles tentam enfraquecer e [desunir os pilotos. # Não tem falta de dinheiro que justifique I]desunir uma família desse jeito.,
+	      distanciar: Nós terminamos por nos [distanciar deles; e então somos obrigados a enfrentar a solidão.,
+	      divorciar: O nosso presidente se I]divorciou do partido para tentar escapar da pecha de estar envolvido na corrupção.,
+	      separar: Mas a grande amizade entre os dois escritores não foi abalada, pelo menos até quando uma divergência os [separou de vez ., }
+Chave: SEPARAR <verb.social>
+ILI: 02357429
+
+Sense 1
+{02357429} <verb.social> disassociate, dissociate, divorce1, disunite, disjoint -- (part; cease or break association with; "She disassociated herself from the organization when she found out the identity of the president")
+       => {02358151} <verb.social> separate2, part, split up1, split, break13, break up -- (discontinue an association or relation; go different ways; "The business partners broke over a tax question"; "The couple separated after 25 years of marriage"; "My friend and I split up")

@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0864
+
+DADO O SYNSET:
+
+S='Glosa864'
+{cavalear: x,
+cavalgar: H] Cavalgou rapidamente o muro.,
+cavaloar: x,
+encavalgar: x,
+galgar: Saltou as corcovas, [galgou as caiçaras, e subiu pelos galhos que estrepavam o chão.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa864' = “ir para o topo com progresso gradual ou contínuo”
+{galgar: Saltou as corcovas, [galgou as caiçaras, e subiu pelos galhos que estrepavam o chão.,}
+Chave: GALGAR <verb.motion>
+ILI: 01865999
+
+Sense 1
+{01865999} <verb.motion> climb, climb up, mount, go up1 -- (go upward with gradual or continuous progress; "Did you ever climb up the hill behind your house?")
+       => {01911030} <verb.motion> rise, lift3, arise4, move up, go up, come up3, uprise1 -- (move upward; "The fog lifted"; "The smoke arose from the forest fire"; "The mist uprose from the meadows")
+           => {01782203} <verb.motion> travel, go, move3, locomote -- (change location; move, travel, or proceed; "How fast does your new car go?"; "We travelled from Rome to Naples by bus"; "The policemen went from door to door looking for the suspect"; "The soldiers moved towards the city in an attempt to take it before night fell")
+          Also See-> {01867456} <verb.motion> climb on#1; {01920642} <verb.motion> climb down#1

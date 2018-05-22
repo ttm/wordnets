@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA
+
+DADO O SYNSET:
+
+S='Glosa1290'
+{aquecer: No dia em que ele aparecer para jantar, põe-se no fogo, é só [aquecer, e daremos um jantarzinho melhor,
+ encalmar: O sol do meio-dia A]encalmava os viajantes,
+ esquentar: Mantenha essa água num recipiente largo e aberto, em local claro mas que não receba sol diretamente para não [esquentar demais,}
+	  
+A='Glosa1289'
+{afrescar, arrefecer, desafoguear, desaquecer, desencalmar, refecer, refrescar, refrigerar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1290' = “tornar quente ou mais quente”
+{aquecer: A radiação infravermelha é uma forma de energia térmica, pois [aquece as superfícies onde incide.,
+ esquentar: O gás [esquenta o ar, que se espalha e vai para o alto do forno.,}
+A='Glosa1289'
+{afrescar, arrefecer, desafoguear, desaquecer, desencalmar, refecer, refrescar, refrigerar}
+Chave: AQUECER <verb.change>
+ILI: 00359947
+
+Sense 1
+{00359947} <verb.change> heat1, heat up -- (make hot or hotter; "heat the soup")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

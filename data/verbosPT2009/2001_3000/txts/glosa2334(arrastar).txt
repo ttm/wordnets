@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA2334
+
+DADO O SYNSET:
+
+S='Glosa2334'
+	    {arrastar: A cidade possui dois portos de estreita embocadura; lá, cada nauta [arrasta para o abrigo do chão firme a respectiva nau.,
+	      arrastrar: x,
+	      arrojar: Amo o furor do mar tempestuoso, nas praias a I]arrojar violento as vagas.,
+	      empuxar: x,
+	      induzir: DEVIANT,
+	      levar: Uma carruagem [leva o prefeito, acompanhada por lanceiros e mosqueteiros com uniformes do século 17. # Um passeio de sete quilômetros pelo rio Oise [leva o viajante de Pontoise a Auvers-sur-Oise.,
+	      mover: Seu radar está ligado, e ele sempre [move nosso avião para longe de coisas que não conhece.,
+	      pregar1: A mãe A]pregou com a criança no quintal.,
+	      puxar: Quando o operador pressiona o manipulador, fecha-se o circuito e o eletroímã [puxa a lâmina para baixo .,
+	      tracionar: Quando não puxa nas quatro rodas, a Sidekick [traciona apenas as rodas traseiras.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2334' = “Mover algo usando de força.”
+	    {arrastar: A cidade possui dois portos de estreita embocadura; lá, cada nauta [arrasta para o abrigo do chão firme a respectiva nau.,
+	      arrojar: Sobreveio fortíssima tempestade, que I]arrojou a nau a quatrocentas milhas dali.,
+	      levar: Em Jacarepaguá, a enxurrada [levou casas e empilhou carros pelas ruas.,
+	      pregar1: Os cavalos M]pregaram conosco no morro da Capelinha..,
+	      puxar: Quando o operador pressiona o manipulador, fecha-se o circuito e o eletroímã [puxa a lâmina para baixo .,
+	      tracionar: Entre outras atividades na Central do Brasil, tracionou os trens expressos entre São Paulo e Rio de Janeiro.,}
+
+Chave: ARRASTAR <verb.contact>
+ILI: 01411958
+
+Sense 5
+{01411958} <verb.contact> tug2 -- (move by pulling hard; "The horse finally tugged the cart out of the mud")
+       => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant") 

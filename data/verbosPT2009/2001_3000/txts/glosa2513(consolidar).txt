@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA2513
+
+DADO O SYNSET:
+
+S='Glosa2513'
+	    {consolidar: Essa expansão serviu para [consolidar ainda mais o desenvolvimento industrial dos países centrais e sua acumulação capitalista.,
+	      fortalecer: Para [fortalecer esta tese, o secretário lembrou episódio ocorrido há 34 anos: "Na década de 60, um senador da República atirou num outro parlamentar no plenário, quando tentava atingir outra pessoa". # Na pauta, as medidas que devem ser tomadas para [fortalecer o Banco do Brasil.,
+	      reforçar: Mas há ainda outros dados que[reforçam a mesma tese. # Na sua opinião, as informações [reforçam a posição do PT a favor da criação de uma CPI do sistema financeiro.,
+	      sedimentar: Peres e Arafat querem bilhões para [sedimentar acordo de paz. # Para [sedimentar essa polêmica, acontece hoje às 16h30 o terceiro e último debate do projeto Atitude 1 Ano, no auditório da Folha.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2513' = “Tornar firme ou seguro, fortificar.”
+	    {consolidar: A divisão entre os radicais foi a causa do surgimento de um Diretório moderado, que [consolidou vitórias militares.,
+	      fortalecer: A prosperidade econômica de alguns países da Europa Ocidental [fortaleceu a classe social conhecida pelo nome de burguesia.,
+	      reforçar: As informações [reforçam a posição do PT a favor da criação de uma CPI do sistema financeiro.,
+	      sedimentar: É o lento correr do tempo que [sedimenta ou desfaz impressões, aparências em «O Eclipse».,}
+
+Chave: CONSOLIDAR <verb.change>
+ILI: 00159421
+
+Sense 2
+{00159421} <verb.change> consolidate2 -- (make firm or secure; strengthen; "consolidate one's gains"; "consolidate one's hold on first place")
+       => {00212992} <verb.change> strengthen -- (gain strength; "His body strengthened")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night") 

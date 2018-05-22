@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA2051
+
+DADO O SYNSET:
+	
+S='Glosa2051'
+    	{andar: O meu marido não me procurava mais, o desejo pelo sexo havia se acabado, ele rejeitava-me, como devem imaginar isso para mim foi o motivo de muito desgosto, pensei que ele I]andava com outras mulheres.,
+      	 copular: Eduardo refletiu que era a primeira vez que I]copulava com uma mulher grávida.,
+      	 estar: Em um só dia A]esteve com duas mulheres.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2051' = “ter relações sexuais [com]”
+    	{andar: O meu marido não me procurava mais, o desejo pelo sexo havia se acabado, ele rejeitava-me, como devem imaginar isso para mim foi o motivo de muito desgosto, pensei que ele I]andava com outras mulheres.,
+      	 copular: Eduardo refletiu que era a primeira vez que I]copulava com uma mulher grávida.,
+      	 estar: Alexandre fala que gostaria de fazer sexo todos os dias e revela que já I]esteve com duas mulheres ao mesmo tempo..}
+Chave: ANDAR <verb.contact>
+ILI: 01385612
+
+Sense 1
+{01385612} <verb.contact> roll in the hay, love, make out, make love, sleep with, get laid, have sex, know, do it, be intimate, have intercourse, have it away, have it off, screw4, fuck, jazz, eff, hump, lie with, bed, have a go at it, bang4, get it on, bonk1 -- (have sexual intercourse with; "This student sleeps with everyone in her dorm"; "Adam knew Eve"; "Were you ever intimate with this man?")
+       => {01388051} <verb.contact> copulate, mate, pair, couple -- (make love; "Birds mate in the Spring")
+           => {01252764} <verb.contact> join, conjoin -- (make contact or come together; "The two roads join here")
+               => {01314764} <verb.contact> connect, link, tie1, link up -- (connect, fasten, or put together two or more pieces; "Can you connect the two loudspeakers?"; "Tie the ropes together"; "Link arms")

@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA2301
+
+DADO O SYNSET:
+
+S='Glosa2301'
+	    {debuxar-se: Olhos fitos no velho a moça aguarda a sentença da sorte; empalidece ou ri, conforme do ancião no rosto ocultas impressões vêm I]debuxar-se. ,
+	      desenhar-se: Vi um sorriso tristonho I]desenhar-se, em seu rosto envelhecido.,
+	      representar-se: x,
+	      transladar-se: As suas feições H]transladaram-se com o luto.,
+	      trasladar-se: M]Traslada-se-lhe no rosto a saúde.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2301' = “dar expressão a algo”
+	    {debuxar-se: Nos lábios de Paula I]debuxou-se um sorriso de contentamento. ,
+	      desenhar-se: Vi um sorriso tristonho I]desenhar-se, em seu rosto envelhecido.,
+	      transladar-se: As suas feições H]transladaram-se com o luto.,
+	      trasladar-se: M]Traslada-se-lhe no rosto a saúde.,}
+
+Chave: DESENHAR-SE <verb.communication>
+ILI: 00912790
+
+Sense 6
+{00912790} <verb.communication> express1, show2, evince -- (give expression to; "She showed her disappointment")
+       => {00898144} <verb.communication> convey, impart1 -- (make known; pass on, of information)
+           => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+               => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

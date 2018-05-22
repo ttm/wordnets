@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA1135
+
+DADO O SYNSET:
+
+S='Glosa1135'
+{desacorrentar: Os organizadores do sistema resolveram I]desacorrentar o último colocado e tentar tirar-lhes os pesos, porém nada adiantou, pois suas pernas e seus músculos estavam atrofiados.,}
+	  
+A='Glosa1756'
+{acorrentar, agrilhoar, encorrentar, escravizar, subjugar, sujeitar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1135' = “remover as correntes [de]”
+{desacorrentar: O último país a abolir a escravatura I]desacorrentou os negros do pelourinho, mas não os integrou à sociedade.,}
+A='Glosa1757'
+	    {acorrentar, agrilhoar, encadear, encorrentar, prender}
+Chave: DESACORRENTAR <verb.contact> 
+ILI: 01250545
+
+Sense 1
+{01250545} <verb.contact> unchain -- (remove the chains from)
+       => {01304771} <verb.contact> unfasten1 -- (cause to become undone; "unfasten your belt")
+           => {01477750} <verb.contact> undo -- (cancel, annul, or reverse an action or its effect; "I wish I could undo my actions")
+               => {00133458} <verb.change> change by reversal, turn, reverse -- (change to the contrary; "The trend was reversed"; "the tides turned against him"; "public opinion turned when it was revealed that the president had an affair with a White House intern")
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

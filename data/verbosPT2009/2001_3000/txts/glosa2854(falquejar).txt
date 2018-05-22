@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA2854
+
+DADO O SYNSET:
+
+S='Glosa2854'
+	    {falquear: O edifício em construção, um exótico arraial de latadas, de choupanas, de ranchos improvisados, onde trabalhavam carpinteiros I]falqueando longas vigas de pau.,
+	      falquejar: Pedro Garcia. Naquela serra e matas, Pedro Garcia chegou a ter 500 homens cortando e I]falquejando madeira, só madeira de lei.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2854' = “Desbastar asperamente, sem dar acabamento à superfície”
+	    {falquear: O edifício em construção, um exótico arraial de latadas, de choupanas, de ranchos improvisados, onde trabalhavam carpinteiros I]falqueando longas vigas de pau.,
+	      falquejar: Pedro Garcia chegou a ter 500 homens cortando e I]falquejando madeira, só madeira de lei.,}
+Chave: FALQUEJAR <verb.contact>
+ILI: 01222779
+
+Sense 1
+{01222779} <verb.contact> rough-hew, roughcast -- (hew roughly, without finishing the surface; "rough-hew stone or timber")
+       => {01222614} <verb.contact> hew2, hew out -- (make or shape as with an axe; "hew out a path in the rock")
+           => {01218103} <verb.contact> carve1 -- (form by carving; "Carve a flower from the ice")
+               => {01509511} <verb.contact> cut -- (separate with or as if with an instrument; "Cut the rope")
+                   => {01513899} <verb.contact> separate1, disunite, divide1, part1 -- (force, take, or pull apart; "He separated the fighting children"; "Moses parted the Red Sea")
+                       => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")
+               => {01612040} <verb.creation> shape, form, work12, mold1, mould1, forge3 -- (make something, usually for a specific function; "She molded the riceballs carefully"; "Form cylinders from the dough"; "shape a figure"; "Work the metal into a sword")
+                   => {01606076} <verb.creation> create from raw material, create from raw stuff -- (make from scratch)
+                       => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor") 

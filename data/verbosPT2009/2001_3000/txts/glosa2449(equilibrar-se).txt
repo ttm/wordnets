@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA2449
+
+DADO O SYNSET:
+
+S='Glosa2449'
+	    {agüentar-se: Auréliun se vira para voltar ao encalço do oponente mas acaba sendo atacado por uma granada amarela que abre novamente os seus ferimentos, deixando-o sem forças para I]agüentar-se em pé.,
+	      equilibrar-se: O cão é capaz de se mover e coordenar seus movimentos com destreza, como nos esportes onde o animal precisa saltar em altura e largura, I]equilibrar-se sobre uma gangorra, executar um slalom ou participar de concursos de dança com coreografia.,  
+	      firmar-se: Depois indolente ela I]firmou-se em meu braço.,
+	      sopesar-se: O equilibrista H]sopesava-se no arame.,
+	      sustentar-se: O que hoje sabemos é que são as propriedades aerodinâmicas dos pássaros que lhes permitem alçar vôos e I]sustentar-se no ar.,
+	      suster-se: Jonas se sentia bem e quando se deu conta já estava tão bêbado que mal podia I]suster-se sobre o banco.,
+	      ter-se: Estes cambaleiam por causa do vinho, e não podem I]ter-se em pé por causa da bebida forte.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2449' = “Estar em equilíbrio.”
+	    {agüentar-se: Quando a Delegada abraçou fortemente Victória, esta sentiu um abalo sísmico sob seus pés mas, I]agüentou-se em pé.,
+	      equilibrar-se: Ela fez que sim com a cabeça e I]equilibrou-se na ponta dos pés para um abraço.,
+	      firmar-se: Depois indolente ela I]firmou-se em meu braço.,
+	      sopesar-se: O equilibrista H]sopesava-se no arame.,
+	      sustentar-se: Com um esforço supremo I]sustentou-se apenas com a mão direita.,
+	      suster-se: Mal I]sustinha-se em pé.,
+	      ter-se: Estes cambaleiam por causa do vinho, e não podem I]ter-se em pé por causa da bebida forte.,}
+
+Chave: EQUILIBRAR-SE <verb.stative>
+ILI: 02662771
+
+Sense 4
+{02662771} <verb.stative> balance1 -- (be in equilibrium; "He was balancing on one foot")
+       => {02526983} <verb.stative> be3 -- (have the quality of being; (copula, used with an adjective or a predicate noun); "John is rich"; "This is not a good answer") 

@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA1838
+
+DADO O SYNSET:
+
+S='Glosa1838'
+{emouquecer-se: x,
+ ensurdecer: A criança surda, ou a que I]ensurdeceu muito cedo, vai traduzir em inúmeros aspectos, sua deficiência.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1838' = “causar ensurdecimento”
+{ensurdecer: A criança surda, ou a que I]ensurdeceu muito cedo, vai traduzir em inúmeros aspectos, sua deficiência.,
+ ensurdecer-se: Ela até tentou me dar uma justificativa plausível, mas a adrenalina já gritava na veia, as pernas bambearam e os ouvidos I]ensurdeceram-se.}
+Chave: ENSURDECER <verb.perception>
+ILI: 02127241
+
+Sense 2
+{02127241} <verb.perception> deafen, deaf -- (make or render deaf; "a deafening noise")
+       => {02053785} <verb.perception> desensitize, desensitise -- (cause not to be sensitive; "The war desensitized many soldiers"; "The photographic plate was desensitized")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

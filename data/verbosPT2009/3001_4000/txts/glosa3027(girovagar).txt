@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA3027
+
+DADO O SYNSET:
+
+S='Glosa3027'
+	    {
+	      girogirar: x,
+	      girovagar: Daqui por diante é girar, I]girovagar, a combater o erro, o falso, o mal de mil semblantes.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3027' = “mover-se sem objetivo ou sem destino, em busca de comida ou emprego”
+	     {girovagar: como leão prisioneiro I]girovaga na fossa quando fareja no ar o aroma das silvas ou o cheiro morno dos areais.,}
+Chave: GIROVAGAR <verb.motion>
+ILI: 01827001
+
+Sense 1
+{01827001} <verb.motion> roll9, wander, swan, stray1, tramp2, roam, cast1, ramble1, rove, range, drift1, vagabond -- (move about aimlessly or without any destination, often in search of food or employment; "The gypsies roamed the woods"; "roving vagabonds"; "the wandering Jew"; "The cattle roam across the prairie"; "the laborers drift from one town to the next"; "They rolled from town to town")
+       => {01782203} <verb.motion> travel, go, move3, locomote -- (change location; move, travel, or proceed; "How fast does your new car go?"; "We travelled from Rome to Naples by bus"; "The policemen went from door to door looking for the suspect"; "The soldiers moved towards the city in an attempt to take it before night fell")

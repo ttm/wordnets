@@ -1,0 +1,37 @@
+ANÁLISE DA GLOSA3055
+
+DADO O SYNSET:
+
+S='Glosa3055'
+	    {
+	      calcitrar: x,
+	      coicear: Use somente os animais mansos e treinados, e não aqueles com hábito de morder e I]coicear.,
+	      coicinhar: x,
+	      coucear: O cavalo firmava-se, recuava, pulava, empacava-se, mas não entrava; a cacete, então era pior: empinava-se, I]couceava, mordia.,
+	      escoicear: As zebras vítimas de leões geralmente são mortas, mas não desistem de I]escoicear.,
+	      escoicinhar: I]Escoicinhando, a Girafa esganiçou-se.,
+	      escoucear: Apóie a anca contra o curvilhão do cavalo, para o impedi-lo de I]escoucear.,
+	      grimpar: Lá no infinito, onde I]grimpam corcéis dourados à espera de mim como um a monge.,
+	      recalcitrar: O cavalo H]recalcitra toda vez que o cavaleiro tenta montá-lo.,
+	      respingar1: O cavalo H]respingou uma violenta patada.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3055' = “saltar para trás, como de um empurrão”
+	     {coicear: O cavalo revoltou-se; I]coiceou no ar , levantou as patas dianteiras, relinchou.,
+	      coucear: O potrilho I]couceou, na marca.,
+	      escoicear: Durante alguns minutos, a égua I]escoiceou, galopou e nadou; depois Dick soltou um suspiro.,
+	      escoicinhar: I]Escoicinhando, a Girafa esganiçou-se.,
+	      escoucear: Depois, ainda viram com admiração e comoção o gaúcho montar em pêlo um cavalo chucro: o animal corcoveava, relinchava, I]escouceava, mas não conseguiu deitar.,
+	      grimpar: O gato, que já não podia achar a porta de saída, corria ao longo do recinto, I]grimpava às paredes, deslizava sobre os bancos, esvencilhava, enganava.,
+	      recalcitrar: O cavalo H]recalcitra toda vez que o cavaleiro tenta montá-lo.,
+	      respingar1: O cavalo H]respingou uma violenta patada.,}
+Chave: ESCOICEAR <verb.contact>
+ILI: 01331256
+
+Sense 5
+{01331256} <verb.contact> kick back, recoil, kick8 -- (spring back, as from a forceful thrust; "The gun kicked back into my shoulder")
+       => {01837803} <verb.motion> bounce, resile, take a hop, spring, bound, rebound, recoil1, reverberate3, ricochet -- (spring back; spring away from an impact; "The rubber ball bounced"; "These particles do not resile but they unite after they collide")
+           => {01906445} <verb.motion> jump, leap, bound1, spring1 -- (move forward by leaps and bounds; "The horse bounded across the meadow"; "The child leapt across the puddle"; "Can you jump over the fence?")
+               => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right"))

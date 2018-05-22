@@ -1,0 +1,51 @@
+ANÁLISE DA GLOSA2677
+
+DADO O SYNSET:
+
+S='Glosa2677'
+	    {ababadar-se: x,
+	      arrepanhar-se: Por momentos, I]arrepanharam-se-lhe os cantos da boca, e como que um relâmpago de alegria lhe iluminara o semblante, invejei por um momento quem inventara isso que então a entretinha.,
+	      corrugar-se: Na maceração, a pele se torna esbranquiçada, friável, I]corruga-se e faz com que a epiderme se solte da derme e possa até se rasgar em grandes fragmentos.,
+	      crispar-se: Em seguida,porque tanto e mais precisa I]crispar-se os dedos de tuas crucificadas mãos,tu te apressas e colocas na água.,
+	      dobrar-se: Existem também rugas de expressão que aparecem nos locais em que a pele I]se dobra freqüentemente.,
+	      embabadar-se: x,
+	      encorrear-se: x,
+	      encorrilhar-se: x,
+	      encoscorar-se: x,
+	      encrespar-se: Ó tosão que até a nuca I]encrespa-se em cachoeira.,
+	      engelhar-se: Nenhuma pessoa, nenhuma das coisas com que lidamos pode satisfazer plenamente o nosso desejo de bem, de felicidade, de beleza. Em primeiro lugar porque não são perfeitas (só a ilusão pode, temporariamente, fazer-nos ver nelas a perfeição). Depois, porque não são incorruptíveis nem eternas: apodrecem, gastam-se, I]engelham-se, engordam, quebram-se.,
+	      enrugar-se: x,
+	      franzir-se: Sua testa I]franziu-se de preocupação quando deu-se conta de que tudo que havia construído nos últimos anos estava sendo destruído.,
+	      repanhar-se: x,}
+
+	  A='Glosa1463'
+	    {alisar-se: DEVIANT,
+	     desarrugar-se: x,
+	     desencoscorar-se: x,
+	     desenrugar-se: A pele A]desenrugou-se com o uso de cosméticos.,
+	     desfranzir-se: Com a boa notícia seu rosto se A]desfranziu.,
+	     deslisar-se: Duas rugas que lhe desciam da fronte e se uniam entre os sobrolhos, contraindo-se e A]deslisando-se rapidamente.,
+	     desrugar-se: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2677' = “Contrair-se ou encolher-se formando rugas ou dobras.”
+	    {arrepanhar-se: Por momentos, I]arrepanharam-se-lhe os cantos da boca.,
+	      corrugar-se: Na maceração, a pele se torna esbranquiçada, friável, I]corruga-se e faz com que a epiderme se solte da derme e possa até se rasgar em grandes fragmentos.,
+	      crispar-se: E a pele crispou-se toda em um calafrio de febre.,
+	      dobrar-se: Existem também rugas de expressão que aparecem nos locais em que a pele I]se dobra freqüentemente.,
+	      engelhar-se: Nenhuma pessoa pode satisfazer plenamente o nosso desejo de felicidade e de beleza. Em primeiro lugar porque não são perfeitas. Depois, porque não são incorruptíveis nem eternas: apodrecem, I]engelham-se, engordam, quebram-se.,
+	      franzir-se: Sua testa I]franziu-se de preocupação quando deu-se conta de que tudo que havia construído nos últimos anos estava sendo destruído.,}
+
+	  A='Glosa1463'
+	    {alisar-se, desarrugar-se, desencoscorar-se, desenrugar-se, desfranzir-se	     deslisar-se, desrugar-se}
+
+Chave: FRANZIR-SE <verb.contact>
+ILI: 01241111 
+
+Sense 1
+{01241111} <verb.contact> purse, wrinkle1 -- (gather or contract into wrinkles or folds; pucker; "purse ones's lips")
+       => {01241280} <verb.contact> contract -- (make smaller; "The heat contracted the woollen garment")
+           => {00233158} <verb.change> shrink1, reduce5 -- (reduce in size; reduce physically; "Hot water will shrink the sweater"; "Can you shrink this image?")
+               => {00428838} <verb.change> decrease1, lessen2, minify -- (make smaller; "He decreased his staff")
+                   => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

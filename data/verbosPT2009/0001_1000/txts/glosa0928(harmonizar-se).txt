@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA0928
+
+DADO O SYNSET:
+
+S='Glosa928'
+{compadecer-se: Esse raciocínio não se [compadece, porém, com a lógica, que classifica as proposições em três categorias: universais; particulares e singulares. ,
+compatibilizar-se: Para o desembargador Jorge Tanus, o zelo pelo meio-ambiente deve [compatibilizar-se com as necessidades da população.,
+conformar-se: Riobaldo nunca parece [conformar-se com as conclusões inevitavelmente conciliadoras e edificantes do catecismo de compadre Quelémem.,
+harmonizar-se: No entanto, é difícil que propostas que não são coincidentes possam a curto prazo [se harmonizar.,}
+A='Glosa3142'
+{incompatibilizar-se, indispor-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa928' = “trazer em consonância ou relatar harmoniosamente”
+{compadecer-se: Esse raciocínio não se [compadece, porém, com a lógica, que classifica as proposições em três categorias: universais; particulares e singulares. ,
+compatibilizar-se: Para o desembargador Jorge Tanus, o zelo pelo meio-ambiente deve [compatibilizar-se com as necessidades da população.,
+conformar-se: Riobaldo nunca parece [conformar-se com as conclusões inevitavelmente conciliadoras e edificantes do catecismo de compadre Quelémem.,
+harmonizar-se: No entanto, é difícil que propostas que não são coincidentes possam a curto prazo [se harmonizar.,}
+A='Glosa3142'
+{incompatibilizar-se, indispor-se}
+Chave: HARMONIZAR-SE <verb.change>
+ILI: 00469762
+
+Sense 4
+{00469762} <verb.change> harmonize3, harmonise3 -- (bring into consonance or relate harmoniously; "harmonize the different interests")
+       => {02384110} <verb.social> relate -- (have or establish a relationship to; "She relates well to her peers")
+           => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+               => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

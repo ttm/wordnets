@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA1630
+
+DADO O SYNSET:
+
+S='Glosa1630'
+{drogar: O enfermeiro A]drogou o doente.  ,
+ medicar: Foi levado por sua mãe ao Pronto Socorro, e após exames físicos sem anormalidades, o médico plantonista, I]medicou o paciente com diazepan.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1630' = “tratar medicinalmente, tratar com medicamentos”
+{drogar: Tal princípio, na relação médico-paciente, é extremamente relevante, na medida em que o médico deve ter em mente que somente pode manipular, I]drogar, receitar, conduzir, etc., seus pacientes, se eles de fato estiverem aptos e cientes de aceitar tais procedimentos e atitudes. ,
+ medicar: A mesma enfermeira faz o aleitamento, [medica e limpa bebês com doenças diferentes, propiciando o surgimento de endemias, que são epidemias localizadas.,}
+Chave: MEDICAR <verb.body>
+ILI: 00081830
+
+Sense 2
+{00081830} <verb.body> medicate, medicine -- (treat medicinally, treat with medicine)
+       => {00076458} <verb.body> treat, care for -- (provide treatment for; "The doctor treated my broken leg"; "The nurses cared for the bomb victims"; "The patient must be treated right away or she will die"; "Treat the infection with antibiotics")

@@ -1,0 +1,44 @@
+ANÁLISE DA GLOSA3390
+
+DADO O SYNSET:
+
+S='Glosa3390'
+	    {
+	      abolar: x,
+	      achatar: DEVIANT,
+	      amachucar: I]Amachucar um chapéu.,
+	      amarfanhar: Os mais velhos facilmente associam ao do comediante italiano Lando Buzzanca, cavanhaque e uma bandana que ajuda ainda mais a I]amarfanhar seu cabelo.,
+	      amarrotar: De repente, ouviu abrir a cancela em cima, e uns passos rápidos; ele, mais rápido, [amarrotou a nota e meteu-a na algibeira das calças.,
+	      amassar: Isto funciona quando ao mudar de idéia tudo que você precisa fazer é [amassar uma folha de papel que pesa cinco gramas. ,
+	      amolegar: x,
+	      amolgar: E andei uma tarde inteira de velocípede sem I]amolgar o aro da roda graças àquela espontânea habilidade.,
+	      amorfanhar: x,
+	      empaçocar: x,
+	      enrugar: H]Enrugou toda a saia ao dobrá-la descuidadamente.,
+	      enxovalhar: Descuidado, H]enxovalhou as folhas do caderno.,
+	      machucar: Tinha nas mãos um lenço que H]machucava sem parar.,
+	      manusear: M]Manuseara a blusa.,
+	      marlotar: x,
+	      rugar: x,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3390' = “fazer rugas ou vincos em uma superfície lisa”
+	     {amachucar: Ele I]amachuca a nota com força e pergunta : "Então, sempre querem esta nota ?".,
+	      amarfanhar: Em pé, ao lado da mesa, I]amarfanhou o papel amarelo e jogou-o no cinzeiro.,
+	      amarrotar: De repente, ouviu abrir a cancela em cima, e uns passos rápidos; ele, mais rápido, [amarrotou a nota e meteu-a na algibeira das calças.,
+	      amassar: Marieta I]amassou o telegrama contra o peito e jurou matar o marido se ele ainda não estivesse morto. ,
+	      amolgar: Escondida no meio destas, uma pedra I]amolgou o “carter” e a bomba do óleo deixou de funcionar.,
+	      enrugar: Uma lágrima derramada sobre a carta borrava a letra e I]enrugava o papel, deixando registrado o testemunho do fluxo de sentimentos que a gerou.,
+	      enxovalhar: Descuidado, H]enxovalhou as folhas do caderno.,
+	      machucar: Tinha nas mãos um lenço que H]machucava sem parar.,
+	      manusear: M]Manuseara a blusa.,}
+Chave: AMASSAR <verb.contact>
+ILI: 01240321
+
+Sense 1
+{01240321} <verb.contact> wrinkle, ruckle, crease, crinkle, scrunch, scrunch up, crisp -- (make wrinkles or creases into a smooth surface; "The dress got wrinkled")
+       => {01239868} <verb.contact> fold, fold up, turn up -- (bend or lay so that one part covers the other; "fold up the newspaper"; "turn up your collar")
+           => {00345030} <verb.change> change surface -- (undergo or cause to undergo a change in the surface)
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

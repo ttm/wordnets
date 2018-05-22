@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0378
+
+DADO O SYNSET:
+
+S='Glosa378'
+{comandar: Elas transmitem os impulsos nervosos que vão ao cérebro e nos permitem sentir as coisas, bem como conduzem as ordens que vêm do cérebro para [comandar os movimentos musculares.,
+conduzir: O presidente Fernando Henrique vai precisar, além do talento, de muita sorte para [conduzir a política econômica, este ano.,
+dirigir: O Estado [dirige toda a vida econômica, servindo-se de planejamentos elaborados por órgãos constituídos para tal fim. ,
+reger: A lei de hidrocarbonetos [regerá todas as atividades do setor, as diretrizes da transição entre o regime de monopólio e o de livre mercado.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa378' = “estar no comando; fazer funcionar; acionar”
+{comandar: Elas transmitem os impulsos nervosos que vão ao cérebro e nos permitem sentir as coisas, bem como conduzem as ordens que vêm do cérebro para [comandar os movimentos musculares.,
+conduzir: O presidente Fernando Henrique vai precisar, além do talento, de muita sorte para [conduzir a política econômica, este ano.,
+dirigir: O Estado [dirige toda a vida econômica, servindo-se de planejamentos elaborados por órgãos constituídos para tal fim. ,
+reger: A lei de hidrocarbonetos [regerá todas as atividades do setor, as diretrizes da transição entre o regime de monopólio e o de livre mercado.,}
+Chave: COMANDAR <verb.communication>
+ILI: 00727115
+
+Sense 1
+{00727115} <verb.communication> command1 -- (be in command of; "The general commanded a huge army")
+       => {02464207} <verb.social> dominate, master -- (have dominance or the power to defeat over; "Her pain completely mastered her"; "The methods can master the problems")
+           => {02367626} <verb.social> control, command -- (exercise authoritative control or power over; "control the budget"; "Command the military forces")

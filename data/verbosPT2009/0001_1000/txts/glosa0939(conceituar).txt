@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA0939
+
+DADO O SYNSET:
+
+S='Glosa939'
+{conceitar: O desembargador I]conceitou que o segundo momento é o que se chama o uso alternativo do Direito, que é a experiência italiana.,
+conceituar: Na apresentação, Magalhães trata de [conceituar temas como a ética e a honestidade.,}
+A='Glosa1227'
+	    {desconceituar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa939' = “ter a idéia de; formar um conceito sobre algo”
+{conceitar: O desembargador I]conceitou que o segundo momento é o que se chama o uso alternativo do Direito, que é a experiência italiana.,
+conceituar: Na apresentação, Magalhães trata de [conceituar temas como a ética e a honestidade.}
+
+A='Glosa1227'
+	    {desconceituar}
+Chave: CONCEITUAR <verb.creation>
+ILI: 01587102
+
+Sense 1
+{01587102} <verb.creation> gestate3, conceive, conceptualize, conceptualise -- (have the idea for; "He conceived of a robot that would help paralyzed patients"; "This library was well conceived")
+       => {01585330} <verb.creation> create by mental act, create mentally -- (create mentally and abstractly rather than with one's hands)
+           => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

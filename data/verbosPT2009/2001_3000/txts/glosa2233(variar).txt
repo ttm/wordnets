@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2233
+
+DADO O SYNSET:
+
+S='Glosa2233'
+	    {alternar: Minhas emoções I]alternavam entre o medo e a vergonha.,
+	      revezar: Os plantonistas A]revezavam.,
+	      variar: Agora eu vou I]variar o cardápio.,
+	      variegar: x, }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2233' = “diversificar ou mudar algo”
+	    {alternar: Dia Internacional do Trabalho [alternou canções e protestos.,
+	      revezar: Jogou tranquilo, com o técnico Nelson [revezando os jogadores.,
+	      variar: Agora eu vou I]variar o cardápio.,}
+
+Chave: VARIAR  <verb.change>
+ILI: 00424501
+
+Sense 4
+{00424501} <verb.change> vary4, variegate, motley1 -- (make something more diverse and varied; "Vary the menu")
+       => {00424711} <verb.change> diversify2 -- (make (more) diverse; "diversify a course of study")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

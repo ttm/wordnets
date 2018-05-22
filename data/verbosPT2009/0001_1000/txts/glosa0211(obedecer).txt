@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0211
+
+DADO O SYNSET:
+
+S='Glosa211'
+{obedecer: Sua opção [obedece a um impulso mais emocional do que racional, como se vê nesta confissão a Grenier.,
+render-se: Depois, a mesma imprensa [rende-se a um temor supersticioso, anunciando qualquer episódio banal como se fosse a ressurreição de Quércia.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa211' = “ser obediente; submeter(-se) à vontade”
+{obedecer: Sua opção [obedece a um impulso mais emocional do que racional, como se vê nesta confissão a Grenier.,
+render-se: Depois, a mesma imprensa [rende-se a um temor supersticioso, anunciando qualquer episódio banal como se fosse a ressurreição de Quércia.,}
+Chave: OBEDECER <verb.social>
+ILI: 02467663
+
+Sense 1
+{02467663} <verb.social> obey -- (be obedient to)
+       => {00144751} <verb.change> adjust1, conform1, adapt2 -- (adapt or conform oneself to new or different conditions; "We must adjust to the bad economic situation")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

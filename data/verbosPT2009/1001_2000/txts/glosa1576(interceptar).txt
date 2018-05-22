@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA1576
+
+DADO O SYNSET:
+
+S='Glosa1576'
+{cortar: Algumas das vantagens que o usuário do IRC tem é a total autonomia para [cortar uma conversa chata e poder conversar com alguém especial sem ser interrompido .,
+ decepar: As vaias H]deceparam-lhe o discurso.,
+ deter: Uma barragem A]detinha o curso do rio.,
+ interceptar: O delegado da PF disse que o objetivo era [interceptar o comboio dos traficantes.,
+ interromper: O interruptor tem esse nome por causa da função que ele tem: a de [interromper a corrente do circuito elétrico .,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1576' = “ser interrompido no meio do caminho”
+{cortar: O I]carro cortou a frente do ônibus e entrou à direita, pegando o pneu traseiro da bicicleta de Mariana.,
+ deter: O espadachim japonês, Hiroyuki Sanada, I]deteu a espada a dois centímetros de tocar sua nuca.,
+ interceptar: O delegado da PF disse que o objetivo era [interceptar o comboio dos traficantes.,
+ interromper: A eclosão do dano se deve a dois fatores: "a manobra arriscada da motocicleta que I]interrompeu o movimento do primeiro e o excesso de velocidade do segundo".}
+Chave: INTERCEPTAR <verb.contact>
+ILI: 01399226
+
+Sense 1
+{01399226} <verb.contact> intercept, stop -- (seize on its way; "The fighter plane was ordered to intercept an aircraft that had entered the country's airspace")
+       => {01398038} <verb.contact> catch, grab, take hold of1 -- (take hold of so as to seize or restrain or stop the motion of; "Catch the ball!"; "Grab the elevator door!")
+           => {01175818} <verb.contact> seize, prehend, clutch -- (take hold of; grab; "The salesclerk quickly seized the money on the counter"; "She clutched her purse"; "The mother seized her child by the arm"; "Birds of prey often seize small mammals")
+
+               => {01177510} <verb.contact> take, get hold of -- (get into one's hands, take physically; "Take a cookie!"; "Can you take this bag, please")

@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA0325A
+
+DADO O SYNSET:
+
+S='Glosa325'
+{acorrentar-se: Se examinarmos a vida deste indivíduo veremos que I]acorrentou-se a uma existência muito prosaica de trabalho apenas.,
+algemar-se: DEVIANT,
+atar-se: Não é portanto prioritário para o governo brasileiro [atar-se a um esforço comercial com um bloco que seria dominado fortemente pelos Estados Unidos.,
+obrigar-se: H]Obrigava-se aos caprichos dos amantes.,
+prender-se: A responsabilidade do Estado se vincula, necessariamente, à ação dos seus agentes, não podendo I]prender-se à inadimplência dos particulares no cumprimento das suas obrigações legais.,
+submeter-se: Na qualidade de Sócio Efetivo, declara desde já que I]submete-se aos deveres e direitos emanados do Estatuto desta entidade.,
+sujeitar-se: Como a internação em um spa, o uso do objeto reflete um prazer em [sujeitar-se a uma autoridade legítima.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa325A' = “ficar preso, vinculado de forma obrigatória a uma obrigação” 
+{acorrentar-se: Se examinarmos a vida deste indivíduo veremos que I]acorrentou-se a uma existência muito prosaica de trabalho apenas.,
+atar-se: Não é portanto prioritário para o governo brasileiro [atar-se a um esforço comercial com um bloco que seria dominado fortemente pelos Estados Unidos.,
+prender-se: A responsabilidade do Estado se vincula, necessariamente, à ação dos seus agentes, não podendo I]prender-se à inadimplência dos particulares no cumprimento das suas obrigações legais.,}
+Chave: PRENDER-SE <verb.communication>
+ILI: 00855820
+
+Sense 6
+{00855820} <verb.communication> oblige, bind, hold13, obligate -- (bind by an obligation; cause to be indebted; "He's held by a contract"; "I'll hold you by your promise")
+       => {02384110} <verb.social> relate -- (have or establish a relationship to; "She relates well to her peers")
+           => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+               => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

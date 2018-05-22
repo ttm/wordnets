@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA1048
+
+DADO O SYNSET:
+
+S='Glosa1048'
+{decidir: O tráfico de escravos cresceu vertiginosamente no início do século XVI, depois que as potências européias [decidiram colonizar o continente americano.,
+ escolher: O carrossel gira de forma constante, ou seja, se você [escolher um dos cavalinhos e acompanhar seu movimento, verá que ele leva sempre o mesmo tempo para dar uma volta.,
+ optar: Após a independência, algumas nações africanas têm buscado reorganizar sua atividade agrícola, principalmente aquelas que [optaram pelo socialismo, como Angola, Moçambique, Benin, Congo e Tanzania.,
+ preferir: Há ainda os cineastas que [preferiram aproveitar a iniciativa para oferecer ao espectador um retrato 3X4 de suas preocupações autorais.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1048' = “selecionar como uma alternativa”
+{decidir: O A Light praticamente já [decidiu qual será seu primeiro investimento.,
+ escolher: Michael Mann [escolheu a música ouvindo o nosso programa.,
+ optar: Após a independência, algumas nações africanas têm buscado reorganizar sua atividade agrícola, principalmente aquelas que [optaram pelo socialismo.,
+ preferir: O papa não revelou por que [preferiu o Rio entre várias outras opções.,}
+Chave: ESCOLHER <verb.cognition> 
+ILI: 00656613 
+
+Sense 2
+{00656613} <verb.cognition> choose2, prefer, opt -- (select as an alternative; choose instead; prefer as an alternative; "I always choose the fish over the meat courses in this restaurant"; "She opted for the job on the East coast")

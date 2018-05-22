@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA4007
+
+DADO O SYNSET:
+
+S='Glosa4007'
+{adulterar: Jesus falando às multidões faz referência ao adultério e foi taxativo ao afirmar: "Quem olhar uma mulher (homem) com desejo sexual, já I]adulterou com ela (ele)". ,
+prevaricar: O público americano acha que Clinton I]prevaricou, mas a imprensa não precisava pôr um sismógrafo no zíper do presidente.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4007' = “ser sexualmente infiel ao cônjuge”
+{adulterar: Jesus falando às multidões faz referência ao adultério e foi taxativo ao afirmar: "Quem olhar uma mulher (homem) com desejo sexual, já I]adulterou com ela (ele)". ,
+prevaricar: O público americano acha que Clinton I]prevaricou, mas a imprensa não precisava pôr um sismógrafo no zíper do presidente.,}
+Chave: ADULTERAR <verb.social>
+ILI: 02499754
+
+Sense 1
+{02499754} <verb.social> cheat on, cheat9, cuckold, betray1, wander -- (be sexually unfaithful to one's partner in marriage; "She cheats on her husband"; "Might her husband be wandering?")
+       => {02498705} <verb.social> deceive, lead on, delude, cozen1 -- (be false to; be dishonest with)
+           => {02497828} <verb.social> victimize1, victimise1 -- (make a victim of; "I was victimized by this con-man")
+               => {02438990} <verb.social> wrong -- (treat unjustly; do wrong to)
+                   => {02439188} <verb.social> treat, handle3, do by -- (interact in a certain way; "Do right by her"; "Treat him with caution, please"; "Handle the press reporters gently")
+                       => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                           => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

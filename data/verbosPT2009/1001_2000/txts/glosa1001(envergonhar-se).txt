@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA1001
+
+DADO O SYNSET:
+
+S='Glosa1001'
+	{afrontar-se: Não tem ele de que M]afrontar-se.,
+	 avexar-se: Eu não tenho nada com isso, eu nunca tenho nada com isso, mas sempre há de I]me avexar a tristeza alheia.,
+	 confundir-se: x,
+	 corar-se: Ele I]cora-se quando está encabulado ou com raiva ou se empalidece quando está com medo ou ansioso.,
+	 correr-se: H]Correu-se de uma asneira proferida.,
+	 envergonhar-se: João não vai precisar [se envergonhar pela poluição da Lagoa diante dos remadores de outros países.,
+	 pejar-se: A censura A]pejou-lhe vivamente.,
+	 vexar-se: Naturalmente ia-se embora do Rio de Janeiro; era o castigo que a si mesmo impunha, pela ação ruim que praticara, em Santa Teresa; logo, [vexara-se, arrependera-se.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1001' = “ficar constrangido por vergonha”  
+	{avexar-se: A própria gravadora I]avexa-se em dizer que ele é admirado por nomes como Chico César, Lenine, Alceu Valença e Elba Ramalho.,
+	 corar-se: Ele I]cora-se quando está encabulado ou com raiva ou se empalidece quando está com medo ou ansioso.,
+	 envergonhar-se: Ai o seu coração foi impelido pela força invencível que o arrastava; mas depois, [envergonhando-se de ter cedido tão depressa, procurou desculpar-se a si mesma.,
+	 pejar-se: Tão à vontade se sentem eles, que um deputado, um desconhecido Jonas Pinheiro, nem ao menos se [peja de dizer que afanou, mesmo, como um gatuno qualquer, um documento da Subcomissão de Patrimônio.,
+	 vexar-se: Se a velhice chega, e eles não se [vexam dos cabelos brancos, tomam conta do mundo.,}
+Chave: ENVERGONHAR-SE <verb.social>
+ILI: EQ_NEAR_SYNONYM - 02433187 
+
+Sense 2
+{02433187} <verb.social> shame1 -- (compel through a sense of shame; "She shamed him into making amends")
+       => {02431663} <verb.social> compel, oblige, obligate -- (force or compel somebody to do something; "We compel all students to fill out this form")
+           => {00744964} <verb.communication> induce, stimulate1, cause, have, get, make -- (cause to do; cause to act in a specified manner; "The ads induced me to buy a VCR"; "My children finally got me to buy a computer"; "My wife made me buy a new sofa")

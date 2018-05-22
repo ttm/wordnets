@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA1051
+
+DADO O SYNSET:
+
+S='Glosa1051'
+{decolar: x,
+ descolar: Por meio de um motor, enrola o papel de apoio para I]descolar cada etiqueta que é detectada por uma fotocélula, ou por um microcontacto no caso de etiquetas,}
+	  
+A='Glosa3874'
+{aterrar1, aterrissar, aterrizar, descer, poisar, pousar}  
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1051' = “afastar-se do solo”
+{decolar: Às 14h33 o helicóptero [decolou para o hospital Maggiore, em Bolonha.,}
+A='Glosa3874'
+{aterrar1, aterrissar, aterrizar, descer, poisar, pousar}  
+Chave: DECOLAR <verb.motion>  
+ILI: 01956681 
+
+Sense 3
+{01956681} <verb.motion> take off2, lift off -- (depart from the ground; "The plane took off two hours late")
+       => {01956293} <verb.motion> depart1, part, start2, start out, set forth, set off, set out, take off -- (leave; "The family took off for Florida")
+           => {01951556} <verb.motion> leave1, go forth, go away -- (go away from a place; "At what time does your train leave?"; "She didn't leave until midnight"; "The ship leaves at midnight")

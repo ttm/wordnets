@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA1155
+
+DADO O SYNSET:
+
+S='Glosa1155'
+{abotoar: Vieram sentar-se nos dois bancos fronteiros ao do Rubião, acomodaram as cestinhas e embrulhos de lembranças que traziam de Vassouras, [abotoaram o guarda-pó e trocaram algumas palavras,}
+	  
+A='Glosa1557'
+	    {abrir, desabotoar, desapertar, desbotoar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1155' = “prender com botões”
+{abotoar: Vestiu o colete, e foi [abotoá-lo diante de uma das janelas.,}
+A='Glosa1557'
+	    {abrir, desabotoar, desapertar, desbotoar}
+Chave: ABOTOAR <verb.contact>
+ILI: 01327852
+
+Sense 2
+{01327852} <verb.contact> button -- (fasten with buttons; "button the dress")
+       => {01300906} <verb.contact> fasten1, fix, secure1 -- (cause to be firmly attached; "fasten the lock onto the door"; "she fixed her gaze on the man")
+           => {01257892} <verb.contact> attach1 -- (cause to be attached)
+               => {01314764} <verb.contact> connect, link, tie1, link up -- (connect, fasten, or put together two or more pieces; "Can you connect the two loudspeakers?"; "Tie the ropes together"; "Link arms")

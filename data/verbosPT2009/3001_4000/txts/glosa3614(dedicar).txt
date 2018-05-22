@@ -1,0 +1,35 @@
+ANÁLISE DA GLOSA3614
+
+DADO O SYNSET:
+
+S='Glosa3614'
+	    {
+	      consagrar: [Consagrou vários anos de estudo da paralisia progressiva, dos quais resultou uma tese sobre a constituição física dos paralíticos gerais.,
+	      consignar: Desejo I]consignar uma palavra de felicitação à Presidência. ,
+	      dar: Chegou a hora de eu parar de reclamar dos políticos tradicionais e começar a [dar o meu trabalho para o país.,
+	      dedicar: Kieslowski [dedicou sua vida a investigar os mais recônditos aspectos do amor e da morte.,
+	      doar: [Doar tempo, amor e esperança vale mais que doar alimentos. /I]Doou a sua vida a ti. ,
+	      entregar: Tinha perdido o domínio de sua vida, a qual ele [entregara à comunidade. ,
+	      oferecer: Na última ceia, Jesus Cristo [ofereceu sua vida por amor. ,
+	      sacrificar: Ele [sacrificava sem hesitar a sua existência para salvar aquele a quem amava. ,
+	      votar: Hei de I]votar minha vida ao serviço da generosa raça negra.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3614' = “doar inteiramente a uma pessoa, atividade ou causa”
+	     {consagrar: Dirigiu-se a Paris, onde I]consagrou dois anos ao estudo da química com Fourcroy.,
+	      consignar: O presidente Bush I]consignou US$ 15 bilhões nos próximos cinco anos para o combate ao HIV/Aids. ,
+	      dar: Chegou a hora de eu parar de reclamar dos políticos tradicionais e começar a [dar o meu trabalho para o país.,
+	      dedicar: Kieslowski [dedicou sua vida a investigar os mais recônditos aspectos do amor e da morte.,
+	      doar: [Doar tempo, amor e esperança vale mais que doar alimentos. /I]Doou a sua vida a ti.,
+	      entregar: Tinha perdido o domínio de sua vida, a qual ele [entregara à comunidade. ,
+	      oferecer: A]Ofereceu a vida à pátria. ,
+	      sacrificar: Fernando I]sacrificou seu tempo, esculpindo um Sagrado Coração de Jesus em mármore Carrara. ,
+	      votar: Hei de I]votar minha vida ao serviço da generosa raça negra.,}
+Chave: DEDICAR <verb.communication>
+ILI: 00858050 
+
+Sense 1
+{00858050} <verb.communication> give3, dedicate, consecrate4, commit1, devote -- (give entirely to a specific person, activity, or cause; "She committed herself to the work of God"; "give one's talents to a good cause"; "consecrate your life to the church")
+       => {01123102} <verb.consumption> use1, utilize, utilise, apply, employ -- (put into service; make work or employ (something) for a particular purpose or for its inherent or natural purpose; "use your head!"; "we only use Spanish at home"; "I can't make use of this tool"; "Apply a magnetic field here"; "This thinking was applied to many projects"; "How do you utilize this tool?"; "I apply this rule to get good results"; "use the plastic bags to store the food"; "He doesn't know how to use a computer") 

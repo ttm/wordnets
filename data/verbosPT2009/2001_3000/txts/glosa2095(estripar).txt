@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA2095
+
+DADO O SYNSET:
+	
+S='Glosa2095'
+    	{arrancar: DEVIANT,
+      	 desentranhar: Uma vez abatido o animal, começaram a H]desentranhá-lo.,
+      	 destripar: Cervo-do-pantanal é o único veado que -acua- ou seja prende num canto, é de realmente temer, pelo perigo de suas formidáveis galhadas pontiagudas com elas em riste, fecha sobre o inimigo e não é raro vê-lo I]destripar a barriga do animal.,
+      	 desventrar: Com uma sovela, I]desventrava um pedação de estopa do ventre de uma ancestral e bojuda pipa, eo vinho jorrava em arco, cachoando na malga.,
+      	 desvicerar: Dando uns espasmos violentos, ele conseguiu arrancar a cabeça, I]desvicerar o peixe e cuspir o resto da carcaça para eu jogar fora.,
+      	 deventrar: x,
+      	 estripar: Deve-se ter um cuidado especial ao limpar e I]estripar o peixe. # O leão H]estripou a presa.,
+      	 esviscerar: x,
+      	 eventrar: x,
+      	 eviscerar: A fórmula da conservação é fácil, após I]eviscerar o peixe, elimina-se aquilo que não for filé e procede-se a desidratação.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2095' = “remover as vísceras ou entranhas de”
+    	{desentranhar: Em “Juliette” (de 1797), a heroína mais monstruosa de Sade faz uma missa negra com o Padre, I]desentranhando uma pária grávida no altar do Vaticano.,
+      	 destripar: Fecha sobre o inimigo e não é raro vê-lo I]destripar a barriga do animal.,
+      	 desventrar: Antes que você acabe de ler o convite para o duelo, o atacante já o I]desventrou com uma punhalada.,
+      	 desvicerar: Dando uns espasmos violentos, ele conseguiu arrancar a cabeça, I]desvicerar o peixe e cuspir o resto da carcaça para eu jogar fora.,
+      	 estripar: Ele matou e I]estripou cinco prostitutas entre agosto e novembro de 1888, em Londres.,
+      	 eviscerar: A fórmula da conservação é fácil, após I]eviscerar o peixe, elimina-se aquilo que não for filé e procede-se a desidratação.}
+Chave: ESTRIPAR <verb.change>
+ILI: 00190778
+
+Sense 1
+{00190778} <verb.change> disembowel, eviscerate, draw5 -- (remove the entrails of; "draw a chicken")
+       => {00166870} <verb.change> remove, take, take away1, withdraw1 -- (remove something concrete, as by lifting, pushing, taking off, etc. or remove something abstract; "remove a threat"; "remove a wrapper"; "Remove the dirty dishes from the table"; "take the gun from your pocket"; "This machine withdraws heat from the environment")

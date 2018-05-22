@@ -1,0 +1,36 @@
+ANÁLISE DA GLOSA4081
+
+DADO O SYNSET:
+
+S='Glosa4081'
+{amolgar: A adversidade jamais o H]amolgou.,
+bater: I]Bateu o inimigo e recuperou a tropa valiosa.,
+derrotar1: A guerra fria travada contra os comunistas não I]derrotou o inimigo.,
+desbaratar: O ímpeto do ataque alemão I]desbaratou as forças fronteiriças e destruiu, quase toda a força aérea soviética.,
+destruir: Atacou e I]destruiu o inimigo com o auxilio das tropas aliadas.,
+encostar: x,
+ganhar: Os produtores europeus estão convencidos de que a cana-de-açúcar I]ganhou a batalha e, prova disso, é a chegada de investimentos externos.,
+pujar: x,
+sobrepujar: H]Sobrepujou o inimigo sem piedade.,
+superar: Tímido fora das pistas, ele se transforma durante a competição e I]superou o adversário nas duas descidas.,
+triunfar: Os investidores internacionais que I]triunfaram no Brasil são os que se esforçaram para entender as singularidades do País.,
+vencer: I]Venceu o inimigo na sétima batalha.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4081' = “obter vitória [sobre]”
+{amolgar: A adversidade jamais o H]amolgou.,
+bater: I]Bateu o inimigo e recuperou a tropa valiosa.,
+derrotar1: A guerra fria travada contra os comunistas não I]derrotou o inimigo.,
+desbaratar: O ímpeto do ataque alemão I]desbaratou as forças fronteiriças e destruiu, quase toda a força aérea soviética.,
+destruir: Atacou e I]destruiu o inimigo com o auxilio das tropas aliadas.,
+ganhar: Os produtores europeus estão convencidos de que a cana-de-açúcar I]ganhou a batalha e, prova disso, é a chegada de investimentos externos.,
+sobrepujar: H]Sobrepujou o inimigo sem piedade.,
+superar: Tímido fora das pistas, ele se transforma durante a competição e I]superou o adversário nas duas descidas.,
+triunfar: Ali, a razão, o direito e a justiça finalmente I]triunfaram sobre a força bruta.,
+vencer: I]Venceu o inimigo na sétima batalha.,}
+Chave: VENCER <verb.competition>
+ILI: 01072989
+
+Sense 1
+{01072989} <verb.competition> get the better of, overcome3, defeat -- (win a victory over; "You must overcome all difficulties"; "defeat your enemies"; "He overcame his shyness"; "She conquered here fear of mice"; "He overcame his infirmity"; "Her anger got the better of her and she blew up")

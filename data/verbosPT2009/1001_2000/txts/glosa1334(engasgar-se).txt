@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA1334
+
+DADO O SYNSET:
+
+S='Glosa1334'
+{engasgar-se: Ele pode comer porcarias, I]engasgar-se com eventuais ossos de galinha,
+ sufocar-se: A criança que mama deitada corre o risco de I]sufocar-se,}
+	  
+A='Glosa1335'
+{desengasgar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1334' = “esforçar-se para respirar; ter entrada de oxigênio insuficiente” 
+{engasgar-se: Ele pode comer porcarias, I]engasgar-se com eventuais ossos de galinha.,
+ sufocar-se: A criança que mama deitada corre o risco de I]sufocar-se.,}
+A='Glosa1335'
+{desengasgar-se}
+Chave: ENGASGAR-SE <verb.body>
+ILI: 00075399
+
+Sense 5
+{00075399} <verb.body> gag, choke3, strangle3, suffocate1 -- (struggle for breath; have insufficient oxygen intake; "he swallowed a fishbone and gagged")
+       => {00062917} <verb.body> suffer, hurt2 -- (feel pain or be in pain)
+           => {02526983} <verb.stative> be3 -- (have the quality of being; (copula, used with an adjective or a predicate noun); "John is rich"; "This is not a good answer")

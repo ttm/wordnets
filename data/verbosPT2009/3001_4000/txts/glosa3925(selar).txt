@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA3925
+
+DADO O SYNSET:
+	
+S='Glosa3925'
+    	{estampilhar: x,
+      	 portear: Os selos do Centenário continuaram a I]portear cartas por anos a fora.,
+      	 selar1: Não é preciso endereçar ao Correio e nem I]selar a carta.,
+      	 sigilar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3925' = “colocar um selo em”
+    	{portear: Vendo 3 Selos do REICH que I]portearam carta Europa X América.,
+      	 selar1: Cecília [selou a carta.,}
+Chave: SELAR 
+ILI: 01235713
+
+Sense 4
+{01235713} <verb.contact> stamp2 -- (affix a stamp to; "Are the letters properly stamped?")
+       => {01316461} <verb.contact> affix, stick on -- (attach to; "affix the seal here")
+           => {01257892} <verb.contact> attach1 -- (cause to be attached)
+               => {01314764} <verb.contact> connect, link, tie1, link up -- (connect, fasten, or put together two or more pieces; "Can you connect the two loudspeakers?"; "Tie the ropes together"; "Link arms")

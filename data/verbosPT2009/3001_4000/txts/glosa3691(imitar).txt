@@ -1,0 +1,38 @@
+ANÁLISE DA GLOSA3691
+
+DADO O SYNSET:
+
+S='Glosa3691'
+	    {
+	      amacacar: Ela costuma H]amacacar a irmã em tudo.,
+	      arremedar: [Arremedava perfeitamente a fala dos meninos da roça.,
+	      contrafazer: O demônio sempre tentou I]contrafazer a obra de Deus.# O mestiço arremedava e I]contrafazia os usos da Igreja.,
+	      copiar: Depp diz que inspirou-se no guitarrista do Rolling Stones, Keith Richards, I]copiando seu andar e trejeitos físicos. ,
+	      imitar: Ela [imita com perfeição o vocal roufenho de Armstrong.,
+	      macacar: I]Macacando movimentos estrangeiros, não condizem ou colaboram em nada com os anseios das reais vítimas dos governos neo-liberais de nosso país.,
+	      macaquear: Gadda [macaqueia modos de falar, perde-se na linguagem alheia e na própria língua.,
+	      parodiar: Pelé [parodiou Chico Anísio em seu personagem na "Escolinha do professor Raimundo".,
+	      remedar: Houve até os que ousaram I]remedar o conferencista.,
+	      repetir: O próprio ratinho da Disney virá ao festival numa versão devidamente autorizada, com intérprete especializado em i]repetir seus trejeitos.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3691' = “reproduzir o comportamento ou a aparência de alguém”
+	     {amacacar: Ela costuma H]amacacar a irmã em tudo.,
+	      arremedar: [Arremedava perfeitamente a fala dos meninos da roça.,
+	      contrafazer: Sejam exemplos os conceitos de 'democracia' e de 'paz', que ele I]contrafaz e disturba esvaziando e inutilizando as palavras.# O mestiço arremedava e I]contrafazia os usos da Igreja.,
+	      copiar: Por muito tempo a gente analisou e [copiou o trabalho dos outros.,
+	      imitar: Ela [imita com perfeição o vocal roufenho de Armstrong.,
+	      macacar: I]Macacando movimentos estrangeiros, não condizem ou colaboram em nada com os anseios das reais vítimas dos governos neo-liberais de nosso país.,
+	      macaquear: Gadda [macaqueia modos de falar, perde-se na linguagem alheia e na própria língua.,
+	      parodiar: Pelé [parodiou Chico Anísio em seu personagem na "Escolinha do professor Raimundo".,
+	      remedar: Aderaldo Moché I]remedou o professor, torcendo a cara e escapulindo um risinho motejo.,
+	      repetir: [repetia seus gestos e adotava, com solicitude, seus modelos.,}
+Chave: IMITAR <verb.creation>
+ILI: 01693699
+
+Sense 1
+{01693699} <verb.creation> imitate, copy, simulate4 -- (reproduce someone's behavior or looks; "The mime imitated the passers-by"; "Children often copy their parents or older siblings")
+       => {01687654} <verb.creation> reproduce -- (make a copy or equivalent of; "reproduce the painting")
+           => {01575778} <verb.creation> produce, make1, create3 -- (create or manufacture a man-made product; "We produce more cars than we can sell"; "The company has been making toys for two centuries")

@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0016
+
+DADO O SYNSET:
+
+S='Glosa16'
+{armar-se: Retornou até a sua residência, localizada em terreno confinante com o do ofendido e ali, I]armou-se de uma espingarda.,
+munir-se: I]Muniu-se de uma faca e partiu.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa16' = “prover(-se) com armas”
+{armar-se: Retornou até a sua residência, localizada em terreno confinante com o do ofendido e ali, I]armou-se de uma espingarda.,
+munir-se: I]Muniu-se de uma faca e partiu.,}
+Chave: ARMAR-SE <verb.possession>
+ILI: 02267393
+
+Sense 2
+{02267393} <verb.possession> arm -- (supply with arms; "The U.S. armed the freedom fighters in Afghanistan")
+       => {02259805} <verb.possession> supply, provide, render2, furnish -- (provide or furnish with; "We provided the room with an electrical heater")
+           => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+               => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children")

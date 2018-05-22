@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA1340
+
+DADO O SYNSET:
+
+S='Glosa1340'
+      {decepcionar: A notícia, segundo ele, [decepcionou o grupo. # Na opinião das campeãs americanas, cujo desempenho [decepcionou a torcida brasileira, estarão numa forma bem melhor na Olimpíada de Atlanta,
+       desencantar: O que será que o Renato Gaúcho fez no vestiário para I]desencantar o time?,
+       desenganar: Hoje ela disse que o senhor estaria aqui à sua espera às oito horas...mas que o deixaria esperar em vão, para I]desenganá-lo.,
+       desengodar: x,
+       desiludir: A Eurostar é confortável, mas [desilude passageiros. # Goldenberg [desilude o leitor sobre a possibilidade de se traçar uma moral psicanalítica em bases kantianas.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1340' = “livrar de encantamento”
+      {decepcionar: A notícia, segundo ele, [decepcionou o grupo.,,
+       desencantar: O que será que o Renato Gaúcho fez no vestiário para I]desencantar o time?,
+       desenganar: Apesar de insistir na sua tese, Salinas I]desenganou os bósnios que acham que no país está a única pirâmide existente em solo europeu.,
+       desiludir: Apesar de estar a 900 km ao norte de Helsinque de trem, são dez horas de viagem, Rovaniemi [desilude quem espera ver bandos de renas selvagens pelos campos assim que desembarca.,}
+Chave: DESILUDIR <verb.emotion>
+ILI: 01764884
+
+Sense 1
+{01764884} <verb.emotion> disenchant, disillusion -- (free from enchantment)
+       => {01746656} <verb.emotion> disappoint, let down -- (fail to meet the hopes or expectations of; "Her boyfriend let her down when he did not propose marriage")
+           => {02482511} <verb.social> thwart, queer, spoil, scotch, foil, cross, frustrate, baffle, bilk1 -- (hinder or prevent (the efforts, plans, or desires) of; "What ultimately frustrated every challenger was Ruth's amazing September surge"; "foil your opponent")
+               => {02379144} <verb.social> prevent1, forestall1, foreclose, preclude, forbid3 -- (keep from happening or arising; have the effect of preventing; "My sense of tact forbids an honest answer")

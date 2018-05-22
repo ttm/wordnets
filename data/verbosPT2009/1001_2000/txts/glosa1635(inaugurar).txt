@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA1635
+
+DADO O SYNSET:
+
+S='Glosa1635'
+{abrir: Casa do Pão de Queijo vai I]abrir loja internacional. # Casa Amorim vai I]abrir nova loja de materiais para construção. ,
+ inaugurar: As Faculdades Veiga de Almeida vão [inaugurar dois novos campi: um em Miguel Pereira e outro na Barra, ambos para 1.500 estudantes .,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1635' = “ser precursor [de], introduzir”
+{abrir: A Alemanha permaneceu nas primeiras posições entre os investidores e I]abriu a nova frente de interesse no país: a defesa do meio ambiente e a indústria ambiental.,
+ inaugurar: A expansão marítimo-comercial européia [inaugurou um novo momento histórico com as seguintes características.}
+Chave: INAUGURAR <verb.change>
+ILI: 00338435
+
+Sense 3
+{00338435} <verb.change> inaugurate, usher in, introduce -- (be a precursor of; "The fall of the Berlin Wall ushered in the post-Cold War period")
+       => {00337587} <verb.change> begin1, lead off, start1, commence1 -- (set in motion, cause to start; "The U.S. started a war in the Middle East"; "The Iraqis began hostilities"; "begin a new chapter in your life") 

@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA1618
+
+DADO O SYNSET:
+
+S='Glosa1618'
+{celebrar: O religioso convidado para [celebrar a missa, padre Fernando da Igreja Nossa Senhora de Fátima de Jacarepaguá, teve um contratempo, o que acabou atrasando o ato .,
+dizer: Mesmo num estado debilitado, o padre não desiste e promete I]dizer missa até que a morte o leve.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1618' = “executar uma cerimônia”
+{celebrar: O papa Silvestre II [celebrou a missa da meia-noite na basílica de São Pedro.,
+dizer: O padre que tem amante, antes de subir ao altar para I]dizer a missa, excomunga as mulheres.,}
+Chave: CELEBRAR <verb.social>
+ILI: 02303902
+
+Sense 2
+{02303902} <verb.social> perform2 -- (perform a function; "Who will perform the wedding?")
+       => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

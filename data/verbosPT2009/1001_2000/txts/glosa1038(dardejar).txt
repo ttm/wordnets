@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA1038
+
+DADO O SYNSET:
+
+S='Glosa1038'
+{dardar: x,
+ dardejar: Os pretos aproximavam-se, [dardejando os fenos, iam alcançá-los.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1038' = “projetar através do ar”
+{dardejar: O esposo, tomando-a por um javali, que por ele vinha sendo perseguido, I]dardejou um seta, ferindo mortalmente a sua companheira.,}
+Chave: DARDEJAR <verb.contact> 
+ILI: 01466080 
+
+Sense 1
+{01466080} <verb.contact> throw -- (project through the air; "throw a frisbee")
+       => {01469437} <verb.contact> propel, impel -- (cause to move forward with force; "Steam propels this ship")
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0194
+
+DADO O SYNSET:
+
+S='Glosa194'
+{arrebatar: Fugindo, os tabajaras [arrebataram seu chefe ao ódio da filha de Araquém que o podia abater.,
+raptar: Sua intenção era ganhar o fundo da casa, pronunciar a senha convencionada, e senhor do campo voltar com seus cúmplices, [raptar a menina, e vingar-se de Peri.,
+roubar: Ele quer esclarecer quem I]roubou o bebê na Maternidade de Maio, Vilma ou alguém que ela indicou.,
+seqüestrar: Fui obrigada a [seqüestrar a menina.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa194' = “tirar violentamente e ilegalmente” 
+{arrebatar: Fugindo, os tabajaras [arrebataram seu chefe ao ódio da filha de Araquém que o podia abater.,
+raptar: Sua intenção era ganhar o fundo da casa, pronunciar a senha convencionada, e senhor do campo voltar com seus cúmplices, [raptar a menina, e vingar-se de Peri.,
+roubar: Ele quer esclarecer quem I]roubou o bebê na Maternidade de Maio, Vilma ou alguém que ela indicou.,
+seqüestrar: Fui obrigada a [seqüestrar a menina.,}
+Chave: SEQUESTRAR <verb.possession>
+ILI: 02208081
+
+Sense 1
+{02208081} <verb.possession> sequester1 -- (requisition forcibly, as of enemy property; "the estate was sequestered")
+       => {02141767} <verb.possession> take -- (take into one's possession; "We are taking an orphan from Romania"; "I'll take three salmon steaks")

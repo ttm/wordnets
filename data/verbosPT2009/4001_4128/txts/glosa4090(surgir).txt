@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA4090
+
+DADO O SYNSET:
+
+S='Glosa4090'
+{emergir: Nesse processo I]emergem obstáculos de várias naturezas.,
+insurgir: Seu vulto A]insurgia das trevas. ,
+irromper: Alguns raios I]irrompem das nuvens.,
+pulular: Independências posteriores à parte, I]pululam no país concursos criados para brindar jornalistas com dinheiro público.,
+sair: Ia falar alguma coisa para ela e um carro I]saiu do nada fechando nosso carro.,
+surdir: I]Surdiu-lhe em frente o vulto de face tristonha e branca.,
+surgir: Fiquei olhando a porta do edifício à espera de que I]surgisse o seu vulto lá embaixo.,}
+	  
+A='Glosa1175'
+{imergir}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4090' = “sair [de]”
+{emergir: O pai só [emergiu do quarto ao lado quando chegou a hora de segurar o bebê de cabeça para baixo.,
+insurgir: Seu vulto A]insurgia das trevas. ,
+irromper: Alguns raios I]irrompem das nuvens.,
+pulular: O assunto I]pulula diante de seus olhos como uma Amazônia a ser conquistada.,
+sair: Ia falar alguma coisa para ela e um carro I]saiu do nada fechando nosso carro.,
+surdir: I]Surdiu-lhe em frente o vulto de face tristonha e branca.,
+surgir: Fiquei olhando a porta do edifício à espera de que I]surgisse o seu vulto lá embaixo.,}
+	  
+A='Glosa1175'
+{imergir}
+Chave: SURGIR <verb.change>
+ILI: 00515094
+
+Sense 2
+{00515094} <verb.change> issue, emerge2, come out4, come forth, go forth, egress -- (come out of; "Water issued from the hole in the wall"; "The words seemed to come out by themselves")

@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2560
+
+DADO O SYNSET:
+
+S='Glosa2560'
+	    {assinar: Pode I]assinar a rubrica, porém, escrever com estereotipado de fôrma o nome para facilmente ser identificado, esse é um direito constitucional de qualquer cidadão, ter identificada qualquer autoridade que lhe imputa qualquer conduta infensa à lei que, lhe causa de imediato ou lhe ameaça de qualquer lesão à sua pessoa ou ao seu patrimônio. # Recursos humanos trabalhando no projeto devem I]assinar folhas de ponto.,
+	      rubricar: O escrivão numerará e [rubricará todas as folhas dos autos, procedendo da mesma forma quanto aos suplementares.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2560' = “Assinar com uma marca ao invés de um nome.”
+	    {assinar: I]Assinou todas as folhas do processo ontem.,
+	      rubricar: O escrivão numerará e [rubricará todas as folhas dos autos.,}
+
+Chave: RUBRICAR <verb.communication>
+ILI: 00964404
+
+Sense 4
+{00964404} <verb.communication> rubricate -- (sign with a mark instead of a name)
+       => {00964079} <verb.communication> sign2, subscribe2 -- (mark with one's signature; write one's name (on); "She signed the letter and sent it off"; "Please sign here")
+           => {00960729} <verb.communication> write -- (communicate or express by writing; "Please write to me every week")
+               => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                   => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                       => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel") 

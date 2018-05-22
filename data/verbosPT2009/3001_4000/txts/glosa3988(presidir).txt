@@ -1,0 +1,41 @@
+ANÁLISE DA GLOSA3988
+
+DADO O SYNSET:
+
+S='Glosa3988'
+    	{administrar: Ronald, economista, [administrava a indústria de seu sogro e uma rede de lanchonetes e bufê .,
+      	 chefiar: Na época da negociação entre o governo do Estado e a Trace, o coronel [chefiava o Centro de Suprimento e Manutenção de Telecomunicações da PM .,
+      	 comandar: Orlando da Conceição, o «Orlando Jogador», 37, [comandava o tráfico de drogas nos subúrbios do Rio de Janeiro há pelo menos 12 anos, segundo a polícia .,
+      	 dirigir: O colonizador instalou-se nas cidades, de onde [dirigia seus negócios: agricultura, exploração mineral, indústria, serviços, portos.,
+      	 encabeçar: Mário de Andrade foi o escritor que [encabeçou o movimento modernista .,
+      	 gerenciar: Com experiência na criação de sistemas de remuneração no «chão de fábrica», Nelson já [gerenciou mais de cem projetos .,
+      	 gerir: Hariri transferiu a direção de seus negócios para os filhos e passou a dedicar-se exclusivamente à tarefa de reconstruir o país, com a mesma competência com que I]geriu suas empresas.,
+      	 intender: Precisa de um bom diretor para H]intender sua empresa.,
+      	 manear: x,
+      	 manejar: H]Manejava os negócios da família com toda capacidade.,
+      	 menear: H]Meneou a política de um governo autoritário sem medo.,
+      	 presidir: Eleito vice-lider do PSD, [presidiu a Comissão Parlamentar de Inquérito (CPI) sobre o petróleo e a Comissão de Constituição e Justiça da Câmara .,
+      	 sobreintender: x,
+      	 superintender: Ele era, afinal, quem I]superintendia a casa, olhando desde a sala de visitas até os problemas de limpeza.,
+      	 zelar: Sempre H]zelava a honra e os bens da família.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3988' = “desempenhar o papel de presidente”
+    	{administrar: Ronald, economista, [administrava a indústria de seu sogro e uma rede de lanchonetes e bufê.,
+      	 chefiar: Na época da negociação entre o governo do Estado e a Trace, o coronel [chefiava o Centro de Suprimento e Manutenção de Telecomunicações da PM.,
+      	 comandar: Hoje são dois diretores que [comandam a empresa inteira.,
+      	 dirigir: O colonizador instalou-se nas cidades, de onde [dirigia seus negócios: agricultura, exploração mineral, indústria, serviços, portos.,
+      	 encabeçar: Walesa, que [encabeçou o “Solidariedade” por 10 anos, chegou à presidência da República em 1990.,
+      	 gerenciar: O Centro Tecnológico da Aeronáutica (CTA) , que até o início do mês [gerenciava o aeroporto, sustenta que desde 5 de abril esta tarefa cabe à Infraero.,
+      	 gerir: Hariri transferiu a direção de seus negócios para os filhos e passou a dedicar-se exclusivamente à tarefa de reconstruir o país, com a mesma competência com que I]geriu suas empresas.,
+      	 manejar: Álvaro está sem I]manejar o negócio com o auxílio do filho.,
+      	 menear: O deputado B]meneia a política do partido com habilidade.,
+      	 presidir: Ele [preside a Rede Cultura.,
+      	 superintender: O comandante do «Cruzeiro do Sul», o Bustamante da barba mosaica, continua no quartel, [superintendendo a vida do batalhão.}
+Chave: PRESIDIR <verb.social>
+ILI: 02370177
+
+Sense 1
+{02370177} <verb.social> preside -- (act as president; "preside over companies and corporations")
+       => {02367626} <verb.social> control, command -- (exercise authoritative control or power over; "control the budget"; "Command the military forces")

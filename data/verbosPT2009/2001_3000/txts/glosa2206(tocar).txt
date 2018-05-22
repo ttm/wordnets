@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA2206
+DADO O SYNSET:
+
+S='Glosa2206'
+	    {conduzir: Com uma batida diferente e um jeito peculiar de [conduzir o violão, o gênio da Bossa conquistou a admiração popular.,
+	      tanger: A diferença entre eles e os profetas é que, ao cabo de uma semana, pegariam outra vez dos instrumentos, e os [tangeriam com a mesma graça e força; cantariam os velhos hinos, tão novos como no primeiro dia .,
+	      tocar: Cada um destes meninos levava um instrumento pastoril em que [tocavam, pandeiro, machete e tamboril .,
+	      vibrar: Entregou-se precocemente à música, mas não houve jeito de aprender como as notas funcionam numa pauta ou que cordas [vibrar num violão.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2206' = “executar um instrumento musical”
+	    {conduzir: Com uma batida diferente e um jeito peculiar de [conduzir o violão, o gênio da Bossa conquistou a admiração popular.,
+	      tanger: A diferença entre eles e os profetas é que, ao cabo de uma semana, pegariam outra vez dos instrumentos, e os [tangeriam com a mesma graça e força; cantariam os velhos hinos, tão novos como no primeiro dia .,
+	      tocar: Cada um destes meninos levava um instrumento pastoril em que [tocavam, pandeiro, machete e tamboril .,
+	      vibrar: Entregou-se precocemente à música, mas não houve jeito de aprender como as notas funcionam numa pauta ou que cordas [vibrar num violão.,}
+
+Chave: TOCAR <verb.creation>
+ILI: 01675975
+
+Sense 3
+{01675975} <verb.creation> play12 -- (play on an instrument; "The band played all night long")
+       => {01665285} <verb.creation> perform1 -- (give a performance (of something); "Horowitz is performing at Carnegie Hall tonight"; "We performed a popular Gilbert and Sullivan opera")
+           => {01573613} <verb.creation> re-create -- (create anew; "Re-create the boom of the West on a small scale")
+               => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

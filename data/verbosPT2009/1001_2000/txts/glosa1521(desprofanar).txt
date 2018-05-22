@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA1521
+
+DADO O SYNSET:
+
+S='Glosa1521'
+{desprofanar: E o mister se deu de o templo I]desprofanar.,
+ reconsagrar: Ao I]reconsagrar o templo, os Macabeus descobriram ter azeite para acender a lamparina do altar por apenas 1 dia e, milagrosamente, a chama permaneceu por 8 dias.,}
+	  
+A='Glosa1534'
+{desconsagrar, dessagrar, profanar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1521' = “consagrar novamente”
+{desprofanar: Eu vou desempalhar os meus bichos, I]desprofanar o meu túmulo.,
+ reconsagrar: Porém, quando o regime comunista ganhou poder, o mesmo bispo Colan confiscou e I]reconsagrou a catedral do bispo que havia sido seu benfeitor.,}
+	  
+A='Glosa1534'
+{desconsagrar, dessagrar, profanar}
+Chave: DESPROFANAR <verb.communication>
+ILI: 00838132
+
+Sense 1
+{00838132} <verb.communication> reconsecrate -- (consecrate anew, as after a desecration)
+       => {00837881} <verb.communication> consecrate, bless1, hallow, sanctify -- (render holy by means of religious rites)
+           => {00977478} <verb.communication> declare -- (state emphatically and authoritatively; "He declared that he needed more money to carry out the task he was charged with")
+               => {00976600} <verb.communication> state, say, tell4 -- (express in words; "He said that he wanted to marry her"; "tell me what is bothering you"; "state your opinion"; "state your name")
+                   => {00909455} <verb.communication> express, verbalize3, verbalise3, utter1, give tongue to -- (articulate; either verbally or with a cry, shout, or noise; "She expressed her anger"; "He uttered a curse")

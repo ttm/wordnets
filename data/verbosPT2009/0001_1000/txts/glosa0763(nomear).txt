@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA0763
+
+DADO O SYNSET:
+
+S='Glosa763'
+	{alcunhar: Mário de Andrade [alcunhou Manuel Bandeira como o «São João Batista» do modernismo, dado o pioneirismo de sua poesia.,
+apelidar: I]Apelidar o órgão sexual masculino de Bráulio não ofende.,
+batizar: Honrado com a visita, Edu da Lena, um dos sócios, prometeu [batizar o estabelecimento com o título de seu filme favorito da Disney: Aladim.,
+chamar: Ganhou o apelido por seu hábito de [chamar todos os homens de coronel.,
+nomear: No Presto e no Allegretto con variazioni, o Ysaye rendeu outra homenagem ao histórico violinista Eugene Ysae, além de ter o sobrenome escolhido para [nomear o grupo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa763' = “designar um específico, apropriado nome a”
+	{alcunhar: Mário de Andrade [alcunhou Manuel Bandeira como o «São João Batista» do modernismo, dado o pioneirismo de sua poesia.,
+apelidar: I]Apelidar o órgão sexual masculino de Bráulio não ofende.,
+batizar: Honrado com a visita, Edu da Lena, um dos sócios, prometeu [batizar o estabelecimento com o título de seu filme favorito da Disney: Aladim.,
+chamar: Ganhou o apelido por seu hábito de [chamar todos os homens de coronel.,
+nomear: No Presto e no Allegretto con variazioni, o Ysaye rendeu outra homenagem ao histórico violinista Eugene Ysae, além de ter o sobrenome escolhido para [nomear o grupo.,}
+Chave: NOMEAR <verb.communication>
+ILI: 00995511
+
+Sense 1
+{00995511} <verb.communication> name3, call2 -- (assign a specified, proper name to; "They named their son David"; "The new school was named after the famous Civil Rights leader")
+       => {00996581} <verb.communication> label -- (assign a label to; designate with a label; "These students were labelled `learning disabled'")
+           => {00996861} <verb.communication> designate, denominate -- (assign a name or title to)

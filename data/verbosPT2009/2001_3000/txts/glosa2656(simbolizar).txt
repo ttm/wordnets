@@ -1,0 +1,36 @@
+ANÁLISE DA GLOSA2656
+
+DADO O SYNSET:
+
+  S='Glosa2656'
+	    {denotar: Lula e Itamar [denotam a má consciência daqueles que têm o sentimento da culpa e do erro.,
+	      designar: O filósofo, cientista político e psicanalista greco-francês Cornelius Castoriadis, 74 anos, acredita que vivemos em uma época de conformismo generalizado e que pós-modernismo é um termo pomposo para [designar a decadência da modernidade.,
+	      emblemar: A literatura não é só uma notícia que nunca deixa de ser novidade, mas um ensaio com os sortilégios intransferíveis da ficção e personagens capazes de sintetizar e I]emblemar idéias que retórica alguma consegue emular. ,
+	      figurar: Através da análise de sua linguagem plástica e dos temas que [figuram, essas imagens podem revelar relações originais entre forma de tratar as imagens.,
+	      representar: Tundra, taiga, floresta temperada, floresta tropical, campos e desertos [representam os biomas em que se divide o biociclo terrestre.,
+	      significar: O termo "gene" foi utilizado, pela primeira vez, por Johannsen para [significar algo contido nos gametas e que determinava certa característica do organismo.,
+	      simbolizar: Isso reforça a idéia de que na série goyesca a guerra deixa de significar a glorificação dos generais e dos soldados e passa a [simbolizar a desgraça coletiva do povo.,
+	      traduzir: Ninguém, dizia Wagner a seus adeptos, havia como Nietzsche conseguido [traduzir em palavras aquilo que ele sentia ao compor seus dramas musicais.,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2656' = “Expressar indiretamente por uma imagem, forma ou modelo; ser um símbolo.”
+	    {denotar: Lula e Itamar [denotam a má consciência daqueles que têm o sentimento da culpa e do erro.,
+	      designar: As linhas I]designam as possíveis transições, com as taxas indicadas.,
+	      emblemar: Nesse sentido, os símbolos I]emblemam a integração psicológica ou mística do ser humano.,
+	      figurar: Para muitos, I]ele figura a ameaça representada pelo Conde Dooku, o carismático líder dos campos de batalha políticos da Confederação.,
+	      representar: Tudo I]isso representa os avanços constantes dos regimes de democracia.,
+	      significar: Isso I]significa o compromisso da interpretação com a realidade.,
+	      simbolizar: A guerra deixa de significar a glorificação dos generais e dos soldados e passa a [simbolizar a desgraça coletiva do povo.,
+	      traduzir: Poste-se na cadeira de forma ereta, I]isso traduz segurança e concentração.,}
+
+Chave: SIMBOLIZAR <verb.communication>
+ILI: 00809002
+
+Sense 2
+{00809002} <verb.communication> typify, symbolize, symbolise, stand for1, represent2 -- (express indirectly by an image, form, or model; be a symbol; "What does the Statue of Liberty symbolize?")
+       => {00923390} <verb.communication> mean1, intend -- (mean or intend to express or convey; "You never understand what I mean!"; "what do his words intend?")
+           => {00898144} <verb.communication> convey, impart1 -- (make known; pass on, of information)
+               => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                   => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                       => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel") 

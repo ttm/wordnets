@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA0855
+
+DADO O SYNSET:
+
+S='Glosa855'
+{acasalar: M]Acasalar pares de meias.,
+casalar: x,
+emparelhar: Chegou a I]emparelhar as rimas nas quadras ou mesmo por todo o soneto. # Jogos de loto de I]emparelhar figuras.,
+irmanar: O que ele fez foi colocar a coroa que levava no lado correspondente aos pés da defunta, para não a [irmanar com a outra, que estava do lado da cabeça.,}
+A='Glosa1215'
+{desacasalar, descasalar, desemparelhar, desirmanar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa855' = “formar um par ou pares de”
+{emparelhar: Chegou a I]emparelhar as rimas nas quadras ou mesmo por todo o soneto. # Jogos de loto de I]emparelhar figuras.,
+irmanar: O que ele fez foi colocar a coroa que levava no lado correspondente aos pés da defunta, para não a [irmanar com a outra, que estava do lado da cabeça.,}
+A='Glosa1215'
+{desacasalar, descasalar, desemparelhar, desirmanar}
+Chave: EMPARELHAR <verb.social>
+ILI: 02416120
+
+Sense 1
+{02416120} <verb.social> pair, pair off, partner off, couple -- (form a pair or pairs; "The two old friends paired off")
+       => {02395769} <verb.social> unite, unify -- (act in concert or unite in a common purpose or belief)
+           => {02361668} <verb.social> join, fall in, get together2 -- (become part of; become a member of a group or organization; "He joined the Communist Party as a young man")

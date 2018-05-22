@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA2523
+
+DADO O SYNSET:
+
+S='Glosa2523'
+	    {extorquir: O conteúdo de cinco fitas magnéticas com três horas de gravação telefônica transcritas por peritos da Universidade de Campinas (Unicamp) revela que dentro dos quartéis da Polícia Militar do Rio há quadrilhas de policiais especializadas em prender traficantes com o único objetivo de [extorquir dinheiro.,
+	      sangrar: Em documento de 19 páginas encaminhado na semana passada ao Ministério Público Federal, o Banco Central revela as práticas usadas pelo ex-banqueiro Ângelo Calmon de Sá para [sangrar o Banco Econômico ao longo dos últimos onze anos.,
+	      subtrair: Não se configura o tipo penal, pois, apesar do comportamento do agente, não se trata, na realidade, de coisas, de matar alguém, de [subtrair para si ou para outrem coisa alheia móvel.,
+	      sugar: O credo que já então o inspirava era a convicção de que o Brasil é um gigante adormecido, que se deixa [sugar pelo imperialismo.# Enquanto o povão comemorava o tetracampeonato de futebol, uma de suas poucas, legítimas e sadias paixões, agentes do FMI tramavam novas formas de [sugar as parcas economias do Brasil, como gafanhotos vorazes na horta do roceiro miserável.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2523' = “Obter através de coação ou intimidação.”
+	    {extorquir: Um ferreiro esperto e que se apresentava como engenheiro lhe I]extorquiu belas somas.,
+	      sangrar: O governador falou da multa mensal – uma retenção sobre o Fundo de Participação dos Estados e que já I]sangrou o Paraná em R$ 39,1 milhões desde dezembro.,
+	      subtrair: O esquema de fraude na folha de pagamentos de salários de Roraima I]subtraiu quantias astronômicas dos cofres públicos,
+	      sugar: Durante anos, I]sugou milhões de reais dos cofres do Instituto Nacional do Seguro.,}
+
+Chave: EXTORQUIR <verb.possession>
+ILI: 02176199
+
+Sense 2
+{02176199} <verb.possession> extort, squeeze3, rack, gouge, wring -- (obtain by coercion or intimidation; "They extorted money from the executive by threatening to reveal his past to the company boss"; "They squeezed money from the owner of the business by threatening him")
+       => {02251897} <verb.possession> overcharge, soak, surcharge, gazump, fleece, plume, pluck, rob1, hook2 -- (rip off; ask an unreasonable price)
+           => {02496906} <verb.social> cheat, rip off, chisel1 -- (deprive somebody of something by deceit; "The con-man beat me out of $50"; "This salesman ripped us off!"; "we were cheated by their clever-sounding scheme"; "They chiseled me out of my money")
+               => {02497828} <verb.social> victimize1, victimise1 -- (make a victim of; "I was victimized by this con-man")
+                   => {02438990} <verb.social> wrong -- (treat unjustly; do wrong to)
+                       => {02439188} <verb.social> treat, handle3, do by -- (interact in a certain way; "Do right by her"; "Treat him with caution, please"; "Handle the press reporters gently")
+                           => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                               => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel") 

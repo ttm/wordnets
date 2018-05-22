@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA3221
+
+DADO O SYNSET:
+
+S='Glosa3221'
+	    {
+	      iriar: Aquele salão de baile I]iriava de cores matizadas nas flores de papel crepom que singelas, decoravam as mesas. ,
+	      irisar: Meio encoberto já, o sol coava sua luz triste através das nuvens, I]irisando-as de uma faixa multicor e brilhante, espécie de auréola, que descia para o mar.,
+	      matizar: As vezes sobe aos ramos da árvore e de lá chama a virgem pelo nome; outras remexe o uru te palha matizada, onde traz as agulhas da juçara com que tece a renda e as tintas de que [matiza o algodão.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3221' = “adquirir cor ou tornar-se colorido”
+	     {iriar: Aquele salão de baile I]iriava de cores matizadas nas flores de papel crepom que singelas, decoravam as mesas. ,
+	      irisar: I]Irisavam as ruas as roupas variegadas e vivas dos moradores do interior, e os transeuntes apenas cortejavam-se.,
+	      matizar: O vermelho rubro I]matiza em azul venoso.,}
+Chave: MATIZAR <verb.change>
+ILI: 00278973
+
+Sense 1
+{00278973} <verb.change> hue1 -- (take on color or become colored; "In highlights it hued to a dull silver-grey")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

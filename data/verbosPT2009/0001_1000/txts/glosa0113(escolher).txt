@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA0113
+
+DADO O SYNSET:
+
+S='Glosa113'
+{adotar: Na maioria dos países, por motivos de compatibilidade, a administração das telecomunicações [adotou como modelo os regulamentos da FCC norte-americana. ,
+eleger: Mas não foi certamente por acaso que o capitão português, tendo corrido toda a costa conhecida dos demônios portugueses na América, I]elegeu aquele ponto para penetrar o sertão.,
+escolher: Otávio Mesquita explica que quando optou por anunciar um telesexo, [escolheu aquele que achava ter mais qualidade, por trabalhar com computadores. ,
+preferir: O papa não revelou por que [preferiu o Rio entre várias outras opções, mas Dom Rafael acredita que ele tinha pelo menos dois bons motivos para isso. ,
+tomar: H]Tomei-o como testemunha.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa113' = “decidir, selecionar, ou escolher de um número de alternativas”
+{adotar: Na maioria dos países, por motivos de compatibilidade, a administração das telecomunicações [adotou como modelo os regulamentos da FCC norte-americana. ,
+eleger: Mas não foi certamente por acaso que o capitão português, tendo corrido toda a costa conhecida dos demônios portugueses na América, I]elegeu aquele ponto para penetrar o sertão.,
+escolher: Otávio Mesquita explica que quando optou por anunciar um telesexo, [escolheu aquele que achava ter mais qualidade, por trabalhar com computadores. ,
+preferir: O papa não revelou por que [preferiu o Rio entre várias outras opções, mas Dom Rafael acredita que ele tinha pelo menos dois bons motivos para isso. ,
+tomar: Se não quiser ir muito fundo, faz de um mês típico e I]toma-o por base para a gestão.,}
+
+Chave: ESCOLHER <verb.cognition>
+ILI: 00652154
+
+Sense 1
+{00652154} <verb.cognition> choose, take1, select, pick out -- (pick out, select, or choose from a number of alternatives; "Take any one of these cards"; "Choose a good husband for your daughter"; "She selected a pair of shoes from among the dozen the salesgirl had shown her")
+       => {00674417} <verb.cognition> decide, make up one's mind, determine -- (reach, make, or come to a decision about something; "We finally decided after lengthy deliberations")

@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA1013
+
+DADO O SYNSET:
+
+S='Glosa1013'
+	    { cravar-se: Uma rosa I]cravou-se na nuca dele.,
+	      encravar-se: A semente de laranja ao ser extraída do brônquio de criança de 19 meses I]encravou-se na glote determinando asfixia.,
+	      engastar-se: A velha malha de tricô I]engastou-se numa aresta e os pontos começaram a se desfazer., }
+	  
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1013' = “torna-se afixado”  
+	    { cravar-se: Uma rosa I]cravou-se na nuca dele.,
+	      encravar-se: A semente de laranja ao ser extraída do brônquio de criança de 19 meses I]encravou-se na glote determinando asfixia.,
+	      engastar-se: A velha malha de tricô I]engastou-se numa aresta e os pontos começaram a se desfazer., }
+Chave: ENGASTAR-SE <verb.contact>
+ILI: EQ_HAS_HYPERONYM - 01252135
+
+Sense 1
+{01252135} <verb.contact> attach -- (become attached; "The spider's thread attached to the window sill")
+       => {01252764} <verb.contact> join, conjoin -- (make contact or come together; "The two roads join here")
+           => {01314764} <verb.contact> connect, link, tie1, link up -- (connect, fasten, or put together two or more pieces; "Can you connect the two loudspeakers?"; "Tie the ropes together"; "Link arms")
+          Also See-> {02636434} <verb.stative> attach to1#1

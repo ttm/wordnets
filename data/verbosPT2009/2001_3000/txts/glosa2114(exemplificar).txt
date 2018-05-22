@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA2114
+
+DADO O SYNSET:
+	
+S='Glosa2114'
+    	{exemplificar: Klotz [exemplificou que as faturas são emitidas em uma data e pagas 30 dias depois.,
+      	 ilustrar: Numa visão de conjunto, entretanto, essa obra não pode ser descrita apenas como um panfleto que utiliza as cenas de destruição para [ilustrar um discurso político.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2114' = “tornar claro ou mais claro dando exemplos”
+    	{exemplificar: Para [exemplificar a influência do senador entre seus conterrâneos, os gaúchos do PPR evocam um episódio ocorrido em 1984.,
+      	 ilustrar: Baseando-se no exemplo de como indivíduos de diferentes culturas dão nomes às cores, estes autores [ilustraram como diferentes disciplinas combinam seus insights.}
+Chave: EXEMPLIFICAR <verb.communication>
+ILI: 00988181
+
+Sense 1
+{00988181} <verb.communication> exemplify, illustrate, instance -- (clarify by giving an example of)
+       => {00923861} <verb.communication> elaborate, lucubrate, expatiate, exposit1, enlarge4, flesh out, expand10, expound, dilate10 -- (add details, as to an account or idea; clarify the meaning of and discourse in a learned way, usually in writing; "She elaborated on the main ideas in her dissertation")
+           => {00908946} <verb.communication> clarify, clear up, elucidate -- (make clear and (more) comprehensible; "clarify the mystery surrounding her death")
+               => {00908384} <verb.communication> explain, explicate -- (make palin and comprehensible; "He explained the laws of physics to his students")
+                   => {00804489} <verb.communication> inform -- (impart knowledge of some fact, state or affairs, or event to; "I informed him of his rights")
+                       => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                           => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                               => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

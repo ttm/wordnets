@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA1144
+
+DADO O SYNSET:
+
+S='Glosa1144'
+{catingar: Duas laboriosas classes que enquanto labutam, suam às bicas, e não raro acabam fedendo às pampas, quer dizer, I]catingam se não usarem desodorante.,
+ feder: Piscinas superlotadas com água que I]fedem a cloro.,
+ tresandar: São poucos os sanitários, os espaços livres e os corredores mal iluminados I]tresandam a azedo.,}
+	  
+A='Glosa882'
+	    {recender}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1144' = “cheirar mal”
+{catingar: O Periquito estava todo cagado, I]catingava tanto, que até hoje sinto aquele cheiro nojento.,
+ feder: A garagem [fedia e era conhecida por isso.,
+ tresandar: O local I]tresandava quase insuportavelmente.,}
+A='Glosa882'
+	    {recender}
+Chave: FEDER <verb.perception>
+ILI: 02062936
+
+Sense 3
+{02062936} <verb.perception> smell2 -- (smell bad; "He rarely washes, and he smells")
+       => {02062276} <verb.perception> smell -- (emit an odor; "The soup smells good")
+           => {02062507} <verb.perception> cause to be perceived -- (have perceptible qualities)

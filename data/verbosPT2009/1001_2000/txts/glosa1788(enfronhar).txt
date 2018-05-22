@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA1788
+
+DADO O SYNSET:
+
+S='Glosa1788'
+{encapar: Vale tudo na hora de provocar uma revolução doméstica: pintar paredes com cores vivas, revestir ou I]encapar o sofá, ressuscitar a cristaleira da vovó.,
+ enfronhar: H]Enfronhou uma almofada para usar como travesseiro.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1788' = “revestir com [ou como se fosse com] uma fronha”
+{encapar: Dia 20 de dezembro, 14:30, lá estávamos nós na plataforma 50, I]encapando as mochilas com sacos de lixo.,
+ enfronhar: Passamos depois pela secagem com ar e por último nos I]enfronharam nas camisolas que vestíamos quando acordamos.,}
+Chave: ENFRONHAR <verb.contact>
+ILI: EQ_HAS_HYPERONYM – 01536721 – “envolver completamente com [ou como se fosse com] um revestimento”
+
+Sense 3
+{01536721} <verb.contact> envelop, enfold, enwrap, wrap1, enclose1 -- (enclose or enfold completely with or as if with a covering; "Fog enveloped the house")
+       => {01293336} <verb.contact> cover -- (provide with a covering or cause to be covered; "cover her face with a handkerchief"; "cover the child with a blanket"; "cover the grave with flowers")

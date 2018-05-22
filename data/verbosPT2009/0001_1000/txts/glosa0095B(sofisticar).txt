@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0095B
+
+DADO O SYNSET:
+
+S='Glosa95'
+{arguciar: x,
+sofismar: Ela queria esticar o assunto, mas eu não estava num momento de I]sofismar sobre o amor.,
+sofisticar: Em vez de argumentar solidamente, preferiu H]sofisticar.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa95B' = “fazer ou tonar mais complexo ou refinado”
+{sofisticar: Na última década, o terceiro setor cresceu e se I]sofisticou de tal forma no Brasil que sobrou pouco espaço para iniciativas movidas só pela boa vontade.,}
+Chave: SOFISTICAR <verb.change>
+ILI: 00390275
+
+Sense 4
+{00390275} <verb.change> sophisticate -- (make more complex or refined; "a sophisticated design")
+       => {00388769} <verb.change> complicate1, refine6, rarify, elaborate -- (make more complex, intricate, or richer; "refine a design or pattern")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

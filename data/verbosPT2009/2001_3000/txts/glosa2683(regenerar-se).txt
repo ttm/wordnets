@@ -1,0 +1,40 @@
+ANÁLISE DA GLOSA2683
+
+DADO O SYNSET:
+
+S='Glosa2683'
+	    {arrepender-se: Não tenho de que me arrepender, disse ele; e prefiro que me não perdoe. # Ontem, Itamar começou a [se arrepender.,
+	      corrigir-se: O santo diz que não “basta fazer uma lista de pecados” para ser dita na hora da Confissão. “É preciso querer não comete-los”, junto com a “intenção de I]corrigir-se na medida da possibilidade.,
+	      desentortar-se: Procurava H]desentortar-se a fim de alegrar a avó.,
+	      doer-se: Acabou por H]doer-se do que dissera à amiga.,
+	      emendar-se: Os políticos brasileiros não [se emendam.,
+	      endireitar-se: Seu amigo teve juízo suficiente para fazer penitência antes de morrer; abandonou o caminho do mal, e I]endireitou-se pelo resto de sua vida.,
+	      reformar-se: As sociedades sempre estiveram conflitando com as universidades, e estas sempre estiveram se autocriticando e buscando I]reformar-se.,
+	      regenerar-se: Pela morte o escravo é livre, a criança e a virgem são anjos, a esposa jovem, a matrona e a velha santas, a mundanaria é Madalena purificada, o malvado, o celerado são arrependidos que [se regeneram, o desgraçado é feliz, o mudo tem voz, o paralítico voa, o surdo ouve segredos, o cego vê nas trevas, o desgraçado é perfeitamente feliz! ,
+	      renascer: Na novela das oito, a personagem bem-nascida Mel drogou-se, rejeitou a família, rejeitou o namorado e roubou, mas I]renasceu, depois de muito sofrimento.,}
+
+	  A='Glosa1379'
+	    {degenerar-se: Automaticamente, I]degeneraram-se e passaram a viver em gangs, para garantir sua sobrevivência, possibilitando a criação de duelos.,
+	     entortar-se: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2683' = “Levar, guiar ou forçar a abandonar o rumo da vida errado ou mau, conduzir e adotar o certo.”
+	    {arrepender-se: O rapaz I]arrependeu-se da vida que levara até ali e entrou no caminho da penitência. ,
+	      corrigir-se: O santo diz que não “basta fazer uma lista de pecados” para ser dita na hora da Confissão. “É preciso querer não cometê-los”, junto com a “intenção de I]corrigir-se.,
+	      desentortar-se: Procurava H]desentortar-se a fim de alegrar a avó.,
+	      emendar-se: Os políticos brasileiros não [se emendam.,
+	      endireitar-se: Seu amigo teve juízo suficiente para fazer penitência antes de morrer; abandonou o caminho do mal, e I]endireitou-se pelo resto de sua vida.,
+	      reformar-se: As sociedades sempre estiveram conflitando com as universidades, e estas sempre estiveram se autocriticando e buscando I]reformar-se.,
+	      regenerar-se: O malvado, o celerado são arrependidos que [se regeneram.,
+	      renascer: Na novela das oito, a personagem bem-nascida Mel drogou-se, rejeitou a família, rejeitou o namorado e roubou, mas I]renasceu, depois de muito sofrimento.,}
+
+	  A='Glosa1379'
+	    {degenerar-se}
+
+Chave: REGENERAR-SE <verb.change>
+ILI: 00373052
+
+Sense 3
+{00373052} <verb.change> reform4, reclaim8, regenerate5, rectify8 -- (bring, lead, or force to abandon a wrong or evil course of life, conduct, and adopt a right one; "The Church reformed me"; "reform your conduct")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

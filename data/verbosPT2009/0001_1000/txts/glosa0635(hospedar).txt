@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0635
+
+DADO O SYNSET:
+
+S='Glosa635'
+{hospedar: A Confederação Nacional da Indústria chegou a reservar quartos em motéis para conseguir [hospedar os mais de dois mil empresários esperados para o encontro nacional hoje.,
+receber: A empresa se preparou para [receber Caetano Veloso, Zeca Pagodinho, Nana Caymmi, Zizi Possi, Neguinho da Beija-Flor, entre outros, promoveram uma noite inesquecível,
+ter: I]Tenho convidados em casa e preparo o peru.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa635' = “prover abrigo; dar hospedagem a”
+{hospedar: A Confederação Nacional da Indústria chegou a reservar quartos em motéis para conseguir [hospedar os mais de dois mil empresários esperados para o encontro nacional hoje.,
+receber: A empresa se preparou para [receber Caetano Veloso, Zeca Pagodinho, Nana Caymmi, Zizi Possi, Neguinho da Beija-Flor, entre outros, promoveram uma noite inesquecível,}
+Chave: HOSPEDAR <verb.social>
+ILI: 02385180
+
+Sense 2
+{02385180} <verb.social> house, put up, domiciliate -- (provide housing for; "The immigrants were housed in a new development outside the town")
+       => {02577295} <verb.stative> shelter -- (provide shelter for; "After the earthquake, the government could not provide shelter for the thousands of homeless people")
+           => {02259805} <verb.possession> supply, provide, render2, furnish -- (provide or furnish with; "We provided the room with an electrical heater")
+               => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+                   => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children")

@@ -1,0 +1,35 @@
+ANÁLISE DA GLOSA1733
+
+DADO O SYNSET:
+
+S='Glosa1733'
+    	{cravar: O ourives H]cravou uma pequena safira no anel.,
+      	 cravejar: Apenas 200 pares da Melissa couture, aquela que a inglesa J.Maskrey I]cravejou de cristais e jurou ter tido a idéia do século, chegarão ao Brasil. ,
+      	 embutir: Cofres para I]embutir em armários, guarda-roupas e paredes.,
+      	 encastoar: A técnica do mosaico consiste em I]encastoar pedrinhas coloridas num campo úmido de argamassa, de modo a formarem desenhos geométricos. #  H]Encastoava as pedras na tiara.,
+      	 encastrar: Ao I]encastrar o forno num módulo de coluna, este estará à altura dos olhos e poderá abrir-se num só esticar de braço. ,
+      	 encravar: A]Encravou a pedra no anel.  ,
+      	 engastar: Mandou H]engastar uma pérola no anel de ouro.,}
+  
+A='Glosa1479'
+{descravejar, desembutir, desencastoar, desengastar, desmontar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1733' = “fixar [materiais como pedras preciosas] em armações”
+    	{cravar: Para dar forma às jóias e I]cravar as pedras preciosas e semipreciosas nas peças,  os joalheiros e lapidadores de gemas baseiam-se em desenhos e especificações de outros profissionais ou superiores.,
+      	 cravejar: Apenas 200 pares da Melissa couture, aquela que a inglesa J.Maskrey I]cravejou de cristais e jurou ter tido a idéia do século, chegarão ao Brasil. ,
+      	 encastoar: A técnica do mosaico consiste em I]encastoar pedrinhas coloridas num campo úmido de argamassa, de modo a formarem desenhos geométricos.,
+      	 encastrar: O curso de Ourives proporcionará uma formação completa nos seguintes temas: traçar, furar, cortar e I]encastrar pedras com fixadores variados.,
+      	 engastar: O rei não foi ingrato para com quem I]engastou na coroa portuguesa jóias de tão subido preço.}
+  
+A='Glosa1479'
+{descravejar, desembutir, desencastoar, desengastar, desmontar}
+Chave: ENGASTAR <verb.contact>
+ILI: 01563508
+
+Sense 6
+{01563508} <verb.contact> set2 -- (fix in a border; "The goldsmith set the diamond")
+       => {01422386} <verb.contact> arrange, set up -- (put into a proper or systematic order; "arrange the books on the shelves in chronological order")
+           => {01452069} <verb.contact> put, set, place, pose2, position, lay1 -- (put into a certain place or abstract location; "Put your things here"; "Set the tray down"; "Set the dogs on the scent of the missing children"; "Place emphasis on a certain point")
+               => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

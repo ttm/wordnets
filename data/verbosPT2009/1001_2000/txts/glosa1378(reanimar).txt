@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA1378
+
+DADO O SYNSET:
+
+S='Glosa1378'
+{desentorpecer: É uma ocupação inútil, perturbadora, vergonhosa e ilegítima, mas considero-a saudável; própria para I]desentorpecer um espírito e um corpo envenenado,
+ destolher: x,
+ destorpecer: x,
+	 reanimar: Olaria tratou de [reanimar os ânimos.,}
+	  
+A='Glosa2514'
+{anestesiar, entorpecer, narcotizar, sedar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1378' = “trazer de volta à consciência”
+{desentorpecer: Podemos pensar no vazamento de bichos vivos que acontece na pintura e na escrita literária como num modo de captação de forças subversivas que tentam I]desentorpecer o homem automatizado.,
+ reanimar: Minha esposa me I]reanimou, porém, em seguida estava sentado no sofá, desmaiei de novo.,}
+A='Glosa2514'
+{anestesiar, entorpecer, narcotizar, sedar}
+Chave: REANIMAR <verb.body>
+ILI: 00021692
+
+Sense 2
+{00021692} <verb.body> bring to, bring back, bring round, bring around -- (bring back to consciousness; "These pictures bring back sad memories")
+       => {00018508} <verb.body> awaken, wake2, waken1, rouse2, wake up1, arouse1 -- (cause to become awake or conscious; "He was roused by the drunken men in the street"; "Please wake me at 6 AM.")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

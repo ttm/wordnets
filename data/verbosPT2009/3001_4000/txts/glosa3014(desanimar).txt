@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA3014
+
+DADO O SYNSET:
+
+S='Glosa3014'
+	    {
+	      desanimar: A dificuldade de entendimento, em alguns trechos, [desanima o leitor comum.,
+	      desestimular: Hoje, o prazo dos consórcios está limitado a, no mínino, 50 meses, o que tem [desestimulado os consumidores.,
+	      gelar: Aquelas críticas H]gelaram-no.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3014' = “tirar o entusiasmo”
+	    { desanimar: A dificuldade de entendimento, em alguns trechos, [desanima o leitor comum.,
+	      desestimular: A vantagem [desestimulou os gaúchos que controlaram a partida apenas para evitar a goleada.,
+	      gelar: Aquelas críticas H]gelaram-no.,}
+Chave: DESANIMAR <verb.emotion>
+ILI: 01766516
+
+Sense 1
+{01766516} <verb.emotion> dishearten, put off -- (take away the enthusiasm of)
+       => {01766276} <verb.emotion> discourage -- (deprive of courage or hope; take away hope from; cause to feel discouraged) 

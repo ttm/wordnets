@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA0196
+
+DADO O SYNSET:
+
+S='Glosa196'
+{laborar: x,
+ labutar: A]Labutou uma vida penosa, e não teve qualquer recompensa.,
+ levar: Fresh, escrito e dirigido por Boaz Yakin, conta a complexa história de um garoto de 12 anos que [leva uma vida de cão, em meio a pobreza e as drogas.,
+ suportar: I]Suportar a nossa sina é vencê-la.,
+ viver: Em janeiro de 1928, pediu demissão e retornou à Europa, onde I]viveu um período difícil, mendigando e trabalhando como lavador de pratos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa196' = “tolerar alguém ou algo desagradável”
+{levar: Fresh, escrito e dirigido por Boaz Yakin, conta a complexa história de um garoto de 12 anos que [leva uma vida de cão, em meio a pobreza e as drogas.,
+ suportar: I]Suportar a nossa sina é vencê-la.,
+ viver: Em janeiro de 1928, pediu demissão e retornou à Europa, onde I]viveu um período difícil, mendigando e trabalhando como lavador de pratos.,}
+Chave:  SUPORTAR <verb.cognition>
+ILI: 00645847
+
+Sense 3
+{00645847} <verb.cognition> digest3, endure, stick out, stomach, bear, stand, tolerate, support4, brook, abide, suffer, put up -- (put up with something or somebody unpleasant; "I cannot bear his constant criticism"; "The new secretary had to endure a lot of unprofessional remarks"; "he learned to tolerate the heat"; "She stuck out two years in a miserable marriage")
+       => {00776433} <verb.communication> permit, allow, let2, countenance -- (consent to, give permission; "She permitted her son to visit her estranged husband"; "I won't let the police search her basement"; "I cannot allow you to see your exam")
+           => {00771887} <verb.communication> accept, consent, go for -- (give an affirmative reply to; respond favorably to; "I cannot accept your invitation"; "I go for this resolution")
+               => {00693825} <verb.cognition> react, respond -- (show a response or a reaction to something)
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel") 

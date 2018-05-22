@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA2422
+
+DADO O SYNSET:
+
+S='Glosa2422'
+	    {sobreexcitar: Com efeito, se se observam os resultados de todos os vícios e, mesmo, dos simples defeitos, reconhecer-se-á nenhum haver que não altere mais ou menos o sentimento da caridade, porque todos têm seu princípio no egoísmo e no orgulho, que lhes são a negação; e isso porque tudo o que I]sobreexcita o sentimento da personalidade destrói, ou, pelo menos, enfraquece os elementos da verdadeira caridade, que são: a benevolência, a indulgência, a abnegação e o devotamento.,
+	      superexcitar: O ponto importante é I]superexcitar suficientemente a bexiga, até determinar a dor quando da emissão da urina; de inflamar, se necessário, este órgão para mudar seus modos de vitalidade pervertida ou de seu esfincter e de retorná-los ao seu estado normal.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2422' = “Atuar como um estimulante”
+	    {sobreexcitar: E isso porque tudo o que I]sobreexcita o sentimento da personalidade destrói, ou, pelo menos, enfraquece os elementos da verdadeira caridade, que são: a benevolência, a indulgência, a abnegação e o devotamento.,
+	      superexcitar: Ela I]superexcitou os apetites, a avidezl,}
+Chave: SUPEREXCITAR <verb.change>
+ILI: EQ_HAS_HYPERONYM - 00489709
+
+Sense 2
+{00489709} <verb.change> stimulate, excite -- (act as a stimulant; "The book stimulated her imagination"; "This play stimulates")
+       => {00132263} <verb.change> affect, impact, bear upon, bear on, touch on1, touch -- (have an effect upon; "Will the new rules affect me?")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

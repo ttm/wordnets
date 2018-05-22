@@ -1,0 +1,37 @@
+ANÁLISE DA GLOSA3299
+
+DADO O SYNSET:
+
+S='Glosa3299'
+	    {
+	      balançar: Trabalhava mais algumas horas no dia seguinte para M]balançar a falta.,
+	      balancear: Para [balancear rentabilidade e liquidez, recomenda aos investidores colocar o dinheiro nos próximos dias numa cesta composta de conta remunerada, fundo carteira livre, fundo hedge e fundo de ações. ,
+	      compensar: Se o governo pagar aos proprietários de carro a conversão para a gasolina, poderá, em dois anos e meio, [compensar o gasto que está querendo financiar com um imposto novo. ,
+	      contrabalançar: Para [contrabalançar este efeito, há a necessidade de ganhos em outras áreas, como redução de impostos e de juros que dependem exclusivamente da reforma do Estado.,
+	      contrapesar: Para I]contrapesar estas pressões até sua inversão, necessitamos de um novo partido anticapitalista, cujas esperanças se construam no chamado aos trabalhadores confiarem apenas nas suas próprias forças.,
+	      encontrar: A] Encontrar o débito com o crédito.,
+	      equilibrar: Na prática, quando um banco vai ao redesconto num determinado dia, o faz para [equilibrar seu caixa, que, naquele dia, sofreu mais saques do que depósitos. ,
+	      eqüiponderar: x,
+	      librar: x,
+	      sopesar: A adequação da norma aos influxos sociais torna inevitável que o operador do direito venha a I]sopesar os valores comuns a determinado grupamento com o fim de integrar as lacunas normativas.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3299' = “trazer para estabilidade ou equilibrio”
+	     {balançar: “O seu senso de justiça A]balançava a excessiva autoridade”.,
+	      balancear: A sua filosofia social I]balanceava novas noções de individualismo, originalidade e igualdade entre homens e entre os sexos com estruturas hierárquicas. ,
+	      compensar: E [compensa a desvalorização da gravura no mercado de arte com a aposentadoria de taquígrafa na Assembléia Legislativa. ,
+	      contrabalançar: A união federativa I]contrabalanceia a centralidade administrativa (agora na União), concomitantemente com a expansão de parcelas de autonomia política das partes, dos Estados-Membros.,
+	      contrapesar: As pequenas alegrias H]contrapesam as agruras do dia-a-dia.,
+	      encontrar: A] Encontrar o débito com o crédito.,
+	      equilibrar: Engenheira [equilibra pouca experiência com boa formação. ,
+	      sopesar: Ives Gandra da Silva Martins, em artigo na Folha de S. Paulo, I]sopesa os vários pontos da Constituição que tratam do direito à vida.,}
+Chave: BALANCEAR <verb.stative>
+ILI: 02592539
+
+Sense 1
+{02592539} <verb.stative> balance, equilibrate, equilibrize, equilibrise -- (bring into balance or equilibrium; "She has to balance work and her domestic duties"; "balance the two weights")
+       => {00443662} <verb.change> match1, fit -- (make correspond or harmonize; "Match my sweater")
+           => {00287086} <verb.change> adjust, set, correct9 -- (alter or regulate so as to achieve accuracy or conform to a standard; "Adjust the clock, please"; "correct the alignment of the front wheels")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

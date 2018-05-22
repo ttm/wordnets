@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA4045
+
+DADO O SYNSET:
+
+S='Glosa4045'
+{dar: Dias, que assistiu à estréia acompanhado de todo o elenco da novela e depois [deu uma festa em sua casa, rejeita, para início de conversa, a repetição das falecidas Irmãs Cajazeira na pele das atuais irmãs Zizi e Fafá, de O fim do mundo .,
+ministrar: M]Ministrava o remédio aos enfermos.,
+oferecer: Sábado à noite, o traficante Nei Maluco chefe do tráfico na favela Vila Cruzeiro, na Penha (zona norte) [ofereceu uma festa de aniversário para 300 amigos, com muitos fogos de artifício .,
+prontificar: H]Prontificou sua casa ao amigo.,
+servir: M]Serviu um coquetel para a comemoração.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4045' = “organizar ou ser responsável [por]”
+{dar: Dias, que assistiu à estréia acompanhado de todo o elenco da novela e depois [deu uma festa em sua casa, rejeita, para início de conversa, a repetição das falecidas Irmãs Cajazeira na pele das atuais irmãs Zizi e Fafá, de O fim do mundo .,
+ministrar: Em seguida, Crosby veio ao Brasil e [ministrou o curso para cem executivos.,
+oferecer: Sábado à noite, o traficante Nei Maluco chefe do tráfico na favela Vila Cruzeiro, na Penha (zona norte) [ofereceu uma festa de aniversário para 300 amigos, com muitos fogos de artifício .,
+prontificar: O Governo A]prontificou recursos.,
+servir: M]Serviu um coquetel para a comemoração.,}
+Chave: DAR <verb.creation>
+ILI: 01684337
+
+Sense 11
+{01684337} <verb.creation> hold, throw8, have, make4, give2 -- (organize or be responsible for; "hold a reception"; "have, throw, or make a party"; "give a course")
+       => {02366135} <verb.social> direct -- (be in charge of)
+           => {02363018} <verb.social> manage, deal13, care11, handle -- (be in charge of, act on, or dispose of; "I can deal with this crew of workers"; "This blender can't handle nuts"; "She managed her parents' affairs after they got too old")
+               => {02367626} <verb.social> control, command -- (exercise authoritative control or power over; "control the budget"; "Command the military forces")
+ 
+
+
+Apresentar, servir:
+pôr(-se) à disposição; oferecer(-se)

@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0481
+
+DADO O SYNSET:
+
+S='Glosa481'
+{aligeirar: Tendo em conta a necessidade de I]aligeirar a entrada e saída dos cidadãos da CPLP nos principais postos fronteiriços.,
+apressar: A subprefeitura criou teias burocráticas que em vez de [apressar, atrasaram as decisões, afirmou o prefeito, ,
+atropelar: Essa comissão da Câmara pode [atropelar um projeto do senador Affonso Camargo (PPR-PR) , que também legaliza os jogos de azar,}
+A='Glosa480'
+{alentecer, alerdar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa481' = “agir ou mover em velocidade fora do normal (mais rápido)”
+{aligeirar: Tendo em conta a necessidade de I]aligeirar a entrada e saída dos cidadãos da CPLP nos principais postos fronteiriços.,
+apressar: A subprefeitura criou teias burocráticas que em vez de [apressar, atrasaram as decisões, afirmou o prefeito,}
+A='Glosa480'
+{alentecer, alerdar}
+Chave: APRESSAR <verb.change>
+ILI: 00446474
+
+Sense 2
+{00446474} <verb.change> rush, hasten, hurry, look sharp, festinate -- (act or move at high speed; "We have to rush!"; "hurry--it's late!")
+       => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

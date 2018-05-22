@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0464B
+
+DADO O SYNSET:
+
+S='Glosa464'
+{banhar: As águas do rio [banharam o corpo casto da recente esposa. # Raimundo não mudara de roupa, apenas [banhara o rosto e as mãos e penteara os cabelos.,
+inundar: Sangue que transborda e I]inunda a minha camisa.,
+molhar: Num erro de operação, a mangueira de gasolina [molhou o piloto e o carro.,
+umedecer: Segundo o gerente regional da Cetesb de Cubatão, indústrias de fertilizantes e a Cosipa, principais poluidoras, reduziram a produção e [umedeceram as áreas internas.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa464B' = “ficar úmido, suavemente molhado”
+{umedecer: Segundo o gerente regional da Cetesb de Cubatão, indústrias de fertilizantes e a Cosipa, principais poluidoras, reduziram a produção e [umedeceram as áreas internas.,}
+Chave: UMEDECER <verb.change>
+ILI: 00210487
+
+Sense 1
+{00210487} <verb.change> moisten, wash6, dampen1 -- (make moist; "The dew moistened the meadows")
+       => {00207542} <verb.change> wet -- (cause to become wet; "Wet your face")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

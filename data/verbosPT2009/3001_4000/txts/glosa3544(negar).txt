@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA3544
+
+DADO O SYNSET:
+
+S='Glosa3544'
+	    {
+	      mesquinhar: Não faz o menor sentido uma empresa do porte da Kopenhagen ficar conhecida por I]mesquinhar papel de presente.,
+	      negacear: I]Negaceou o pagamento correto. / Raimundo I]negaceava ainda um pouco; mas afinal entregava a lembrança guardada. ,
+	      negar: Os adversários da emenda afirmaram que [negar escolas para os filhos de imigrantes poderá jogar milhares de jovens nos braços das gangues de rua. / Um grupo de agricultores ousou I]negar dinheiro ao MST.  ,
+	      recusar: A partir de hoje, os bancos não poderão mais [recusar novos empréstimos às micro e pequenas empresas.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3544' = “recusar dar, como de uma petição ou pedido”
+	     {mesquinhar: Não faz o menor sentido uma empresa do porte da Kopenhagen ficar conhecida por I]mesquinhar papel de presente.,
+	      negacear: I]Negaceou o pagamento correto. / Raimundo I]negaceava ainda um pouco; mas afinal entregava a lembrança guardada. ,
+	      negar: Pojucã [negou a Itaquê esta última consolação. / Um grupo de agricultores ousou I]negar dinheiro ao MST.  ,
+	      recusar: A partir de hoje, os bancos não poderão mais [recusar novos empréstimos às micro e pequenas empresas.,}
+Chave: NEGAR <verb.possession>
+ILI: 02150473
+
+Sense 3
+{02150473} <verb.possession> deny1 -- (refuse to grant, as of a petition or request; "The dean denied the students' request for more physics courses"; "the prisoners were denied the right to exercise for more than 2 hours a day")
+       => {02149972} <verb.possession> withhold, keep back -- (hold back; refuse to hand over or share; "The father is withholding the allowance until the son cleans his room")
+           => {02149107} <verb.possession> deny, refuse1 -- (refuse to let have; "She denies me every pleasure"; "he denies her her weekly allowance")
+               => {02138940} <verb.possession> keep, hold on -- (retain possession of; "Can I keep my old stuffed animals?"; "She kept her maiden name after she married")
+                   => {02139918} <verb.possession> have, have got, hold -- (have or possess, either in a concrete or an abstract sense; "She has $1,000 in the bank"; "He has got two beautiful daughters"; "She holds a Master's degree from Harvard")

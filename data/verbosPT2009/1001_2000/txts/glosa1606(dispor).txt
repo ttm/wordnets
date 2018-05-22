@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA1606
+
+DADO O SYNSET:
+
+S='Glosa1606'
+{coordenar: Após a queda do Império Romano do Ocidente, a Igreja Católica aproveitou-se do aperfeiçoado sistema de administração romano, utilizando-o para [coordenar uma vasta área de sua influência .,
+ dispor: Os países signatários poderão revisar, de comum acordo e desde que o considere pertinente, os requisitos específicos de origem estabelecidas no presente Protocolo, bem como [dispor a adoção de novos requisitos, caso necessário .,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1606' = “colocar em ordem adequada ou sistemática”
+{coordenar: A forma particular com que Villanueva I]coordena as “peças” ou elementos arquitetônicos de elaborada singularidade, conformando um conjunto convertem a visita em uma experiência múltipla.,
+ dispor: Paul Virilio (1989:64) observa que Rybczinski [dispõe as linhas de varredura no quadro tal como as camadas geológicas de um terreno: cada linha e cada camada exprimem um tempo distinto, as mais baixas correspondendo aos períodos mais antigos e as mais altas às posições mais recentes.,}
+Chave: DISPOR <verb.contact>
+ILI: 01422386
+
+Sense 1
+{01422386} <verb.contact> arrange, set up -- (put into a proper or systematic order; "arrange the books on the shelves in chronological order")
+       => {01452069} <verb.contact> put, set, place, pose2, position, lay1 -- (put into a certain place or abstract location; "Put your things here"; "Set the tray down"; "Set the dogs on the scent of the missing children"; "Place emphasis on a certain point")
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant") 

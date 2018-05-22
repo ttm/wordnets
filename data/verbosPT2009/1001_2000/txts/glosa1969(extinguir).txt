@@ -1,0 +1,45 @@
+ANÁLISE DA GLOSA1969
+
+DADO O SYNSET:
+
+S='Glosa1969'
+{acabar: As coisas se tornaram difíceis, e as divergências entre os revolucionários no exílio I]acabaram com as suas esperanças. ,
+ ajarretar: x,
+ amortalhar: A desgraça não conseguiu H]amortalhar seu ânimo.,
+ aniquilar: Ele vê todos os canalhas do planeta cometendo atrocidades, conhece todos os métodos do poder para I]aniquilar esperanças.,
+ assassinar: Mas como é que ele age para matar, para I]assassinar os nossos sonhos? ,
+ desfolhar: O desespero A]desfolhou-lhe as esperanças. ,
+ destruir: Ouvindo esta palavra que I]destruía todas as suas esperanças, que o impossibilitava de salvar sua senhora, o índio retraindo-se deu um salto, e caiu no meio da sala .,
+ enterrar: Ana Maria acreditou que reencontraria a filha. No entanto, oito dias depois, numa manhã de domingo, o telefonema de um policial enterrava suas esperanças.,
+ esfarelar: Como é frequente, o período autoritário atomizou socialmente o país, [esfarelou a solidariedade, exceto a defensiva, individualizou os projetos.,
+ esfarinhar: x,
+ esfolhar: x,
+ exterminar: Quando a maldição a opressão [exterminou.,
+ extinguir: Com uma palavra I]extinguia qualquer irritação que as extravagâncias de Carlos pudessem ter produzido no ânimo de Mr. Fichard.,
+ jarretar: Coisa impossível é M]jarretar a verdade.,
+ matar: Mal despontava para a vida inquieta, logo ao nascer, I]mataram-lhe os ideais.,
+ pulverizar: x, }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1969' = “dar um fim [a]; matar”
+{acabar: As coisas se tornaram difíceis, e as divergências entre os revolucionários no exílio I]acabaram com as suas esperanças.,
+ amortalhar: Conheço hospitais, unidades de atendimentos à saúde que foram criados por ele. Agora, os últimos meses I]amortalharam tudo o que foi criado.,
+ aniquilar: Ele vê todos os canalhas do planeta cometendo atrocidades, conhece todos os métodos do poder para I]aniquilar esperanças.,
+ assassinar: Mas como é que ele age para matar, para I]assassinar os nossos sonhos?,
+ desfolhar: Xavier I]desfolhou a sua vaidade caracense aos pés daquela síntese oficial de exigências. E estudou com afinco.,
+ destruir: Essa guerra maldita me perdeu; ela dividiu minhas forças, multiplicou meus inimigos e [destruiu meu moral na Europa.,
+ enterrar: Com um simples par de prismas polidos, Newton [enterrou milênios de fantasias sobre as causas do arco-íris.,
+ esfarelar: Como é freqüente, o período autoritário atomizou socialmente o país, [esfarelou a solidariedade, exceto a defensiva, individualizou os projetos.,
+ exterminar: Quando a maldição a opressão [exterminou.,
+ extinguir: Com uma palavra I]extinguia qualquer irritação que as extravagâncias de Carlos pudessem ter produzido no ânimo de Mr. Fichard.,
+ jarretar: Custa-me esta confissão, mas não posso suprimi-la; era [jarretar a verdade.,
+ matar: Mal despontava para a vida inquieta, logo ao nascer, I]mataram-lhe os ideais.,}
+Chave: EXTINGUIR <verb.change>
+ILI: 00464910
+
+Sense 1
+{00464910} <verb.change> snuff out, extinguish -- (put an end to; kill; "The Nazis snuffed out the life of many Jewish children")
+       => {00458531} <verb.change> eliminate1, get rid of, do away with -- (terminate or take out; "Let's eliminate the course on Akkadian hieroglyphics")
+           => {01574188} <verb.creation> destroy, destruct -- (do away with, cause the destruction or undoing of; "The fire destroyed the house")
+               => {01573490} <verb.creation> unmake, undo -- (deprive of certain characteristics)

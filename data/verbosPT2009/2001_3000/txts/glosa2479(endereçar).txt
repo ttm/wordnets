@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA2479
+
+DADO O SYNSET:
+
+S='Glosa2479'
+	    {adereçar2: A]Adereçei-lhe ontem uma carta.,
+	      dirigir: O responsável do DREC convidou mesmo para ocupar o cargo o vereador da Câmara de Ílhavo, José Luís Malaquias, que por sua vez [dirigiu convites a diversos professores para integrarem a sua equipa.,
+	      endereçar: Aí cheguei em casa dei uma arrumada no quarto e começei a I]endereçar os cartães para minhas amigas.,
+	      passar: Ela disse para [passar um cheque.,
+	      sobrescrever: I]Sobrescreve envelopes.,
+	      sobrescritar: Na hora de I]sobrescritar os pacotes para você, ela os trocou.,}
+A ANÁLISE RESULTA EM:
+
+S='Glosa2479' = “Colocar um endereço em (um envelope, por exemplo).”
+	    {adereçar2: A]Adereçei-lhe ontem uma carta.,
+	      dirigir: José Luís Malaquias [dirigiu convites a diversos professores para integrarem a sua equipa.,
+	      endereçar: Eles I]endereçavam bilhetes à direção do banco indicando o nome das pessoas que deveriam ser nomeadas.,
+	      passar: I]Passou um telegrama pedindo desculpas.,
+	      sobrescritar: Na hora de I]sobrescritar os pacotes para você, ela os trocou.,}
+Chave: ENDEREÇAR <verb.communication>
+ILI: 00958514
+
+Sense 3
+{00958514} <verb.communication> address3, direct2 -- (put an address on (an envelope, for example))
+       => {00996581} <verb.communication> label -- (assign a label to; designate with a label; "These students were labelled `learning disabled'")
+           => {00996861} <verb.communication> designate, denominate -- (assign a name or title to) 

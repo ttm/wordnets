@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA1023
+
+DADO O SYNSET:
+
+S='Glosa1023'
+{aspar: x,
+ cruciar: Não é a dor acerba, é o desalento supremo; tédio, fastio moral, o mais requintado tormento, que pode I]cruciar o homem.,
+ crucificar: Não encontrando nada sobre o presidente, a comissão decidiu [crucificar sua mulher com fins eleitoreiros.,
+ crucifixar: Muitas pessoas I]crucifixam João pelas coisas que ele diz.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1023' = “matar pregando numa cruz”
+{crucificar: Padre que I]crucificou religiosa é indiciado por homicídio.,
+ crucifixar: É inadmissível essa campanha crucificatória hipócrita, criada e alimentada pelos legítimos sucessores dos que I]crucifixaram Jesus Cristo há dois mil anos.}
+Chave: CRUCIFICAR <verb.social> 
+ILI: 02409762
+
+Sense 1
+{02409762} <verb.social> crucify -- (kill by nailing onto a cross; "Jesus Christ was crucified")
+       => {02408980} <verb.social> execute, put to death -- (kill as a means of socially sanctioned punishment; "In some states, criminals are executed")
+           => {01284688} <verb.contact> kill -- (cause to die; put to death, usually intentionally or knowingly; "This man killed several people when he tried to rob a bank"; "The farmer killed a pig for the holidays")
+           => {02424949} <verb.social> punish, penalize, penalise -- (impose a penalty on; inflict punishment on; "The students were penalized for showing up late for class"; "we had to punish the dog for soiling the floor again") 

@@ -1,0 +1,43 @@
+ANÁLISE DA GLOSA3755
+
+DADO O SYNSET:
+
+S='Glosa3755'
+{avistar: Quem acreditou na promessa de [avistar um cometa na madrugada de ontem teve a oportunidade de testemunhar um espetáculo único.,
+	 deparar: Lançou os olhos ao redor e M]deparou o que não esperava.,
+	 descobrir: Do alto do terreno pode-se conferir a bela paisagem do lugar, sentir o cheiro das algas e I]descobrir um pequeno túnel formado pelas pedras.,
+	 descortinar: As idéias vão atrás dos fatos, diferentemente dos tempos do Iluminismo, quando o pensamento [descortinava paisagens novas para a vida.,
+	 desencobrir: x,
+	 distinguir: Foi graças a um relâmpago mais demorado que [distingui a figura de meu amigo.,
+	 divisar: Ao [divisar o barco vermelho, ele desceu a colina e aproximou-se da canoa.,
+	 enxergar: O piloto levaria o avião a uma distância de cerca de 240 km do Pólo, o bastante para que os aviadores quase pudessem [enxergar o topo do mundo.,
+	 penetrar: DEVIANT,
+	 perceber: Muitos animais, mesmo mamíferos, não conseguem [perceber as cores.,
+	 ver: Os jogadores torcem para [ver novamente a arquibancada do Maracanã colorida de preto e branco.,
+	 visualizar: Na área médica, a síntese da imagem permite [visualizar o interior do corpo, modelando órgãos através de dados numéricos obtidos com recursos variados. }
+
+A='Glosa1189'
+{desavistar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3755' = “perceber através da visão ou ter o poder perceber através da visão”
+{avistar: Quem acreditou na promessa de [avistar um cometa na madrugada de ontem teve a oportunidade de testemunhar um espetáculo único.,
+	 deparar: Lançou os olhos ao redor e M]deparou o que não esperava.,
+	 descobrir: Do alto do terreno pode-se conferir a bela paisagem do lugar, sentir o cheiro das algas e I]descobrir um pequeno túnel formado pelas pedras.,
+	 descortinar: As idéias vão atrás dos fatos, diferentemente dos tempos do Iluminismo, quando o pensamento [descortinava paisagens novas para a vida.,
+	 distinguir: Foi graças a um relâmpago mais demorado que [distingui a figura de meu amigo.,
+	 divisar: Ao [divisar o barco vermelho, ele desceu a colina e aproximou-se da canoa.,
+	 enxergar: O piloto levaria o avião a uma distância de cerca de 240 km do Pólo, o bastante para que os aviadores quase pudessem [enxergar o topo do mundo.,
+	 perceber: Muitos animais, mesmo mamíferos, não conseguem [perceber as cores.,
+	 ver: Os jogadores torcem para [ver novamente a arquibancada do Maracanã colorida de preto e branco.,
+	 visualizar: Na área médica, a síntese da imagem permite [visualizar o interior do corpo, modelando órgãos através de dados numéricos obtidos com recursos variados. }
+
+A='Glosa1189'
+{desavistar}
+Chave: VER <verb.perception>
+ILI: 02067665
+
+Sense 1 
+{02067665} <verb.perception> see -- (perceive by sight or have the power to perceive by sight; "You have to be a good observer to see all the details"; "Can you see the bird in that tree?"; "He is blind--he cannot see")
+       => {02045668} <verb.perception> perceive, comprehend -- (to become aware of through the senses; "I could perceive the ship coming over the horizon")

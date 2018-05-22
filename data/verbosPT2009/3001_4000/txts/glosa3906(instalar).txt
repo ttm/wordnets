@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA3906
+
+DADO O SYNSET:
+	
+S='Glosa3906'
+{instalar: E ainda há fortes indícios de que NET tenha queimado etapas burocráticas para [instalar seus cabos junto com as obras do Rio Cidade .,
+ ligar: Para que a pilha gere eletricidade e, assim, realize um trabalho qualquer, há necessidade de se [ligar o pólo positivo ao negativo, o que pode ser feito com um fio metálico .,
+ pôr: I]Puseram lâmpada mais forte no banheiro.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3906' = “preparar para uso”
+{instalar: Até agora, a Telesp já investiu US$ 600 milhões e [instalou 1.500 aparelhos em 220 cidades.,
+ ligar: Um amigo I]ligou esse sistema na TV de Plasma e não tirou nunca mais.,
+ pôr: I]Puseram lâmpada mais forte no banheiro.}
+Chave: INSTALAR <verb.contact>
+ILI: 01526111
+
+Sense 1
+{01526111} <verb.contact> install, instal, put in, set up2 -- (set up for use; "install the washer and dryer"; "We put in a new sink")
+       => {01452069} <verb.contact> put, set, place, pose2, position, lay1 -- (put into a certain place or abstract location; "Put your things here"; "Set the tray down"; "Set the dogs on the scent of the missing children"; "Place emphasis on a certain point")
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

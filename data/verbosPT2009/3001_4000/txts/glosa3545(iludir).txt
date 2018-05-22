@@ -1,0 +1,57 @@
+ANÁLISE DA GLOSA3545
+
+DADO O SYNSET:
+
+S='Glosa3545'
+	    {
+	      deludir: A]Deludiu a vigilância do sentinela e fugiu.,
+	      embair: Disse-lhe logo que este título era enfático, um modo de [embair a gente.,
+	      embalar1: Promessas e sonhos de Hollywood I]embalam mullheres.,
+	      embelecar: Com o seu palavrório ]A embelecava os ouvintes.,
+	      empapar: Deixar-se I]empapar pelas circunstâncias. /  Foram poucos os homens que se deixaram I]empapar pelas dúvidas e esperanças de sua época ,
+	      encantar: Itamar se deixou [encantar pelas modelos. ,
+	      encravar: Mostrei-te afeto único, você nem, ao menos, afeiçoou-se,  apenas I]encravou-me.,
+	      enganar: As crianças poderão aprender como [enganar os goleiros. / O governo não fará milagres nem [enganará ninguém.  ,
+	      engodar: Quando o padrinho voltou de novo a buscá-lo achou-o de tenção firme e decidida de não se deixar [engodar por outra vez.,
+	      engrampar: x,
+	      engranzar: x,
+	      engrazar: x,
+	      engrolar: São mulheres de virtude a I]engrolar os pacóvios. / É com este engodo que os senhores comentaristas e correlativos nos pretendem I]engrolar.,
+	      enloisar: x,
+	      enlousar: x,
+	      entreter: Pela sua parte não queria mudar de maneiras com ela, para não [entreter um sentimento condenado.,
+	      enviscar: Fujamos logo todos, porque este que vedes, não quer mais que I]enviscar-nos e prender-nos.,
+	      ilaquear: Nossos políticos outra coisa não fazem senão I]ilaquear a boa fé. ,
+	      iludir: Vi que ele fazia prodígios de habilidade sofista para [iludir os jurados. ,
+	      negacear: Gente desconfiada, é preciso saber [negacear.,
+	      seduzir: Os membros da expedição branca tentavam [seduzir os índios. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3545' = “fazer alguém acreditar numa mentira”
+	     {embair: É evidente a utilização de expediente abusivo e espúrio por parte da ré, que, por meio de um ‘sorteio’, I]embaiu a boa-fé do autor.,
+	      embalar1: Promessas e sonhos de Hollywood I]embalam mulheres.,
+	      empapar: Deixar-se I]empapar pelas circunstâncias. /  Foram poucos os homens que se deixaram I]empapar pelas dúvidas e esperanças de sua época ,
+	      encantar: Itamar se deixou [encantar pelas modelos. ,
+	      encravar: Mostrei-te afeto único, você nem, ao menos, afeiçoou-se,  apenas I]encravou-me.,
+	      enganar: As crianças poderão aprender como [enganar os goleiros./Nacional [enganou BC com fraude eletrônica.  ,
+	      engodar: Quando o padrinho voltou de novo a buscá-lo achou-o de tenção firme e decidida de não se deixar [engodar por outra vez.,
+	      engrolar: São mulheres de virtude a I]engrolar os pacóvios. / É com este engodo que os senhores comentaristas e correlativos nos pretendem I]engrolar.,
+	      entreter: Uma prostituta I]entretia a guarda de outra viatura na Manoel Dias e o coletivo pôde agir sem problemas no BankBoston.,
+	      enviscar: Fujamos logo todos, porque este que vedes, não quer mais que I]enviscar-nos e prender-nos.,
+	      ilaquear: Nossos políticos outra coisa não fazem senão I]ilaquear a boa fé. ,
+	      iludir: Vi que ele fazia prodígios de habilidade sofista para [iludir os jurados. ,
+	      negacear: Gente desconfiada, é preciso saber [negacear.,
+	      seduzir: Os membros da expedição branca tentavam [seduzir os índios. ,}
+
+Chave: ILUDIR <verb.communication>
+ILI: 00826744
+
+Sense 2
+{00826744} <verb.communication> deceive, betray3, lead astray -- (cause someone to believe an untruth; "The insurance company deceived me when they told me they were covering my house")
+       => {00806775} <verb.communication> misinform, mislead -- (give false or misleading information to)
+           => {00804489} <verb.communication> inform -- (impart knowledge of some fact, state or affairs, or event to; "I informed him of his rights")
+               => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                   => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                       => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

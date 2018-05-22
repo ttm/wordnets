@@ -1,0 +1,18 @@
+ANÁLISE DA GLOSA1533
+
+DADO O SYNSET:
+
+S='Glosa1533'
+{dessaborar: Dá que os romancistas nos digam o que elas comem, quantas papas insípidas de proteínas ingerem para I]dessaborar o estômago. ,
+ dessaborear: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1533' = “tirar o sabor [de]”
+{dessaborear: Vou ter que I]dessaborear os chocolates.}
+Chave: DESSABOREAR <verb.perception>
+ILI: EQ_HAS_HYPERONYM – 02134036
+
+Sense 1
+{02134036} <verb.perception> change taste -- (alter the flavor of)
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

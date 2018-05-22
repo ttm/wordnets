@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA3673
+
+DADO O SYNSET:
+
+S='Glosa3673'
+	    {
+	      arengar: Então, tu falas tão bem o português e estiveste a I]arengar em inglês o tempo todo? ,
+	      arenguear: x,
+	      chalrar: Gente escoava em massa para o largo, I]chalrando.,
+	      chalrear: Era preciso repreender alguma mucama que deixava a miúdo os bilros e a almofada para I]chalrear no gineceu.,
+	      palrar: Os militares [palravam alegres, e os civis vinham calados e abatidos. ,
+	      palrear: Ao lado fica a dos Senadores, também a I]palrear; não se escuta muito porque o vozerio dos Deputados abafa o taramelar dos Senadores.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3673' = “falar (sobre assuntos sem importância) rápida e incessantemente”
+	     {arengar: Então, tu falas tão bem o português e estiveste a I]arengar em inglês o tempo todo? ,
+	      chalrar: Mas se o seu filho I]chalrava ao lado - era para ele que os seus braços corriam com um ardor mais feliz.,
+	      chalrear: Bem em frente a mim, diversas moças I]chalreavam, numa expansão contente e alegre.,
+	      palrar: Os militares [palravam alegres, e os civis vinham calados e abatidos. ,
+	      palrear: Ao lado fica a dos Senadores, também a I]palrear; não se escuta muito porque o vozerio dos Deputados abafa o taramelar dos Senadores.,}
+Chave: ARENGAR <verb.communication>
+ILI: 01003342 
+
+Sense 2
+{01003342} <verb.communication> chatter, piffle, palaver2, prate, tittle-tattle, twaddle, clack, maunder1, prattle, blab2, gibber, tattle, blabber, gabble -- (speak (about unimportant matters) rapidly and incessantly)
+       => {00910961} <verb.communication> talk, speak, utter, mouth, verbalize, verbalise -- (express in speech; "She talks a lot of nonsense"; "This depressed patient does not verbalize")
+           => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+               => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

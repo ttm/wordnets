@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA3366
+
+DADO O SYNSET:
+
+S='Glosa3366'
+	{claudicar: Na década de 40, a disputa aumentou com os super-heróis publicados em revistas, com histórias completas; nos anos 50, a periodicidade começou a I]claudicar.,
+	 falhar: Além de não atendermos o mercado interno e não arrecadarmos impostos, vamos [falhar no fornecimento internacional, perdendo com isso credibilidade.,
+	 manquejar: O raciocínio do filósofo A]manqueja em muitos pontos.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3366' = “parar de operar ou funcionar”
+	{claudicar: Na década de 40, a disputa aumentou com os super-heróis publicados em revistas, com histórias completas; nos anos 50, a periodicidade começou a I]claudicar.,
+	 falhar: Além de não atendermos o mercado interno e não arrecadarmos impostos, vamos [falhar no fornecimento internacional, perdendo com isso credibilidade.,
+	 manquejar: O raciocínio do filósofo A]manqueja em muitos pontos.}
+Chave: FALHAR <verb.change>
+ILI: 00422006
+
+Sense 4
+{00422006} <verb.change> fail, go bad1, give way, die4, give out, conk out, go3, break5, break down -- (stop operating or functioning; "The engine finally went"; "The car died on the road"; "The bus we travelled in broke down on the way to town"; "The coffee maker broke"; "The engine failed on the way to town"; "her eyesight went after the accident")
+       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

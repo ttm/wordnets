@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA1137
+
+DADO O SYNSET:
+
+S='Glosa1137'
+{desacreditar: Os filósofos queriam [desacreditar a noção do sintético a priori do conhecimento matemático como sendo dependente da experiência.,
+ descreditar: Alguns sites de notícias chegaram a [descreditar o potencial da praga.,}
+	  
+A='Glosa286'
+{acreditar, engolir, tragar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1137' = “rejeitar como falso/incorreto; recusar aceitar”
+{desacreditar: Quando pensou no projeto, a própria Lina [desacreditou de sua viabilidade.,
+ descreditar: Desnecessário dizer que os próprios fãs que postam opiniões no fórum I]descreditaram da afirmação.,}
+A='Glosa286'
+{acreditar, engolir, tragar}
+Chave: DESACREDITAR <verb.cognition>
+ILI: 00661714
+
+Sense 1
+{00661714} <verb.cognition> disbelieve, discredit -- (reject as false; refuse to accept)
+       => {00662708} <verb.cognition> reject -- (refuse to accept or acknowledge; "I reject the idea of starting a war"; "The journal rejected the student's paper")
+           => {00647983} <verb.cognition> judge -- (form an opinion of or pass judgment on; "I cannot judge some works of modern art")
+               => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

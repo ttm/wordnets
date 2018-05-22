@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA1786
+
+DADO O SYNSET:
+
+S='Glosa1786'
+{defumar-se: Nunca me deito sem me M]defumar com as mais deliciosas essências.,
+ embalsamar-se: I]Embalsamava-se a atmosfera de inebriante perfume. # H]Embalsamou-se com água-de-colônia.,
+ enfrascar-se: x,
+ perfumar-se: Acabado o jogo, tomava banho, [perfumava-se, metia a camisa de seda, o terno impecável, sapatos rebrilhando e descia para o saguão do hotel.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1786' = “impregnar-se de aroma”
+{embalsamar-se: I]Embalsamava-se a atmosfera de inebriante perfume.,
+ perfumar-se: Quando ela se despia no canto obscuro do quarto, o ar parecia se [perfumar e tudo se iluminava.,}
+Chave: PERFUMAR-SE <verb.perception>
+ILI: 02064244 
+
+Sense 1
+{02064244} <verb.perception> odorize, odourise, scent2 -- (cause to smell or be smelly)
+       => {02062507} <verb.perception> cause to be perceived -- (have perceptible qualities)

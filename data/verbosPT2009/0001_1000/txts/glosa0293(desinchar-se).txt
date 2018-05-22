@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0293
+
+DADO O SYNSET:
+
+S='Glosa293'
+{desinchar-se: A doente H]desinchava-se ao amanhecer.,
+esvaziar-se: DEVIANT,}
+A='Glosa3632'
+	    {avolumar-se, encher-se, enfunar-se, estufar-se, inchar-se, inflar-se,      intumescer-se, opar-se, tufar-se, tumefazer-se, tumeficar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa293' = “diminuir o tamanho, extensão ou alcance”
+{desinchar-se: De nada adianta submeter-se à mesoterapia para eliminar celulite, à estimulação russa para enrijecer o corpo e à drenagem linfática para I]desinchar-se não houver um acompanhamento posterior em casa.,}
+A='Glosa3632'
+	    {avolumar-se, encher-se, enfunar-se, estufar-se, inchar-se, inflar-se,      intumescer-se, opar-se, tufar-se, tumefazer-se, tumeficar-se}
+
+Chave: DESINCHAR-SE <verb.change>
+ILI: 00146081
+
+Sense 1
+{00146081} <verb.change> decrease, diminish, lessen, fall6 -- (decrease in size, extent, or range; "The amount of homework decreased towards the end of the semester"; "The cabin pressure fell dramatically"; "her weight fall to under a hundred pounds"; "his voice fell to a whisper")
+       => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA4020
+
+DADO O SYNSET:
+
+S='Glosa4020'
+{financiar: Empresários vão I]financiar o show pirotécnico com duração de seis minutos, composto de 2.300 bombas.,
+produzir: Temos que nos preparar para I]produzir o show sob estas circunstâncias.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4020' = “dar apoio financeiro [a]”
+{financiar: Empresários vão I]financiar o show pirotécnico com duração de seis minutos, composto de 2.300 bombas.,
+produzir: Temos que nos preparar para I]produzir o show sob estas circunstâncias.,}
+Chave: FINANCIAR <verb.possession>
+ILI: 02154126
+
+Sense 5
+{02154126} <verb.possession> back -- (support financial backing for; "back this enterprise")
+       => {02153697} <verb.possession> finance -- (obtain or provide money for; "Can we finance the addition to our home?")
+           => {02186811} <verb.possession> pay -- (give money, usually in exchange for goods or services; "I paid four dollars for this sandwich"; "Pay the waitress, please")
+               => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+                   => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children")
+

@@ -1,0 +1,35 @@
+ANÁLISE DA GLOSA3688
+
+DADO O SYNSET:
+
+S='Glosa3688'
+	    {
+	      criar: Os terroristas querem nos assustar, [criar ódio e discriminação.,
+	      dar: Queria experimentar outras coisas ligadas à moda, apesar de [dar muito trabalho.,
+	      engendrar: Períodos de controvérsia intelectual são suscetíveis de [engendrar esclarecimentos metodológicos.,
+	      fazer: A criança tem retorno imediato do som que [faz.,
+	      fornecer: A função dos alimentos energéticos é [fornecer energia para as atividades do organismo. ,
+	      gerar: Em 1830, Michael Faraday descobriu como [gerar corrente elétrica movimentando um imã no interior de uma bobina. ,
+	      parir: Minha imaginação atormentada I]paria absurdos.,
+	      produzir: Uma planta da espécie juçara [produz um quilo de palmito por ano.,
+	      ter: São Nicolau [tem água em abundância.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3688' = “fazer ocorrer ou existir”
+	     {criar: A versão de que uma coisa dependeria da outra [criou dois problemas para a diretoria do Flamengo.,
+	      dar: Mas o microscópio eletrônico [dá aumentos de 500.000 x ou mais.,
+	      engendrar: Uma suspeita [engendra outra suspeita.,
+	      fazer: A criança tem retorno imediato do som que [faz.,
+	      fornecer: O equipamento [fornece imagens panorâmicas e nítidas. ,
+	      gerar: Essa vibração [gera uma onda de pressão, à qual denominamos onda sonora. ,
+	      parir: Minha imaginação atormentada I]paria absurdos.,
+	      produzir: Uma planta da espécie juçara [produz um quilo de palmito por ano.,
+	      ter: São Nicolau [tem água em abundância.,}
+Chave: PRODUZIR <verb.creation>
+ILI: 01703701
+
+Sense 3
+{01703701} <verb.creation> produce3, bring about3, give rise1 -- (cause to occur or exist; "This procedure produces a curious effect"; "The new law gave rise to many complaints"; "These chemicals produce a noxious vapor")
+       => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

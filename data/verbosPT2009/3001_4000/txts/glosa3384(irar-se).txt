@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA3384
+
+DADO O SYNSET:
+
+S='Glosa3384'
+	    {
+	      enraivecer-se: Ao ouvir essas palavras, Dioscuro I]enraiveceu-se ainda mais e ordenou que fechassem sua filha na nova torre.,
+	      irar-se: Então Herodes, vendo que fora iludido pelos magos, I]irou-se grandemente e mandou matar todos os meninos de dois anos para baixo que havia em Belém.,
+	      marfar-se: x,
+	      raivar: O Diabo I]raivou do que via, eo homem, tocado por um pontapé, mal pôde ater-se nas palmas e nas plantas à margem de onde as águas tinham fugido.,
+	      raivecer: x,
+	      raivejar: x,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3384' = “tornar-se irritado”
+	     {enraivecer-se: Ao ouvir essas palavras, Dioscuro I]enraiveceu-se ainda mais e ordenou que fechassem sua filha na nova torre.,
+	      irar-se: Então Herodes, vendo que fora iludido pelos magos, I]irou-se grandemente e mandou matar todos os meninos de dois anos para baixo que havia em Belém.,
+	      raivar: O Diabo I]raivou do que via, e o homem, tocado por um pontapé, mal pôde ater-se nas palmas e nas plantas à margem de onde as águas tinham fugido.,}
+Chave: IRAR-SE <verb.emotion>
+ILI: 01735248
+
+Sense 2
+{01735248} <verb.emotion> anger1, see red -- (become angry; "He angers easily")
+       => {01720480} <verb.emotion> feel, experience -- (undergo an emotional sensation; "She felt resentful"; "He felt regret")

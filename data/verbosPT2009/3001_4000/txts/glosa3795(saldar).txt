@@ -1,0 +1,40 @@
+ANÁLISE DA GLOSA3795
+
+DADO O SYNSET:
+	
+S='Glosa3795'
+{cobrir: Nós tivemos muita sorte porque o nosso seguro [cobriu praticamente todas as despesas.,
+	 exsolver: M]Exsolvemos nossas dívidas.,
+	 liquidar: Recebi do meu irmão uma doação em espécie, com parte dela I]liquidei compromissos, e o resto depositei em caderneta de poupança.,
+	 liqüidar: O Fluminense forçou mais e Vampeta [liqüidou a fatura.,
+	 pagar: Não interessa quem [pagou a conta.,
+	 persolver: H]Persolveu suas dívidas rapidamente.,
+	 quitar: O reclamante [quitou as contas atrasadas e o valor estipulado pelo furto do hidrômetro, possibilitando a religação da água.,
+	 saldar: Depois de várias intimações, a Bingool [saldou uma dívida de R$ 10 mil para poder continuar funcionando.,
+	 satisfazer: Não se aplica esta multa se o devedor [satisfez o total do débito, porque, no caso, nenhum prejuízo houve para o exeqüente.,
+	 solver: Chama-se sub-rogação a transferência da qualidade creditória para aquele que I]solveu a obrigação de outrem ou emprestou o necessário para isto. ,
+	 zerar: Através de um programa de recuperação capitaneado por Rizzioli, a empresa, em 92, já [zerou os débitos.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3795' = “solver ou saldar”
+{cobrir: Nós tivemos muita sorte porque o nosso seguro [cobriu praticamente todas as despesas.,
+	 exsolver: M]Exsolvemos nossas dívidas.,
+	 liquidar: Recebi do meu irmão uma doação em espécie, com parte dela I]liquidei compromissos, e o resto depositei em caderneta de poupança.,
+	 liqüidar: O Fluminense forçou mais e Vampeta [liqüidou a fatura.,
+	 pagar: Não interessa quem [pagou a conta.,
+	 persolver: H]Persolveu suas dívidas rapidamente.,
+	 quitar: O reclamante [quitou as contas atrasadas e o valor estipulado pelo furto do hidrômetro, possibilitando a religação da água.,
+	 saldar: Depois de várias intimações, a Bingool [saldou uma dívida de R$ 10 mil para poder continuar funcionando.,
+	 satisfazer: Não se aplica esta multa se o devedor [satisfez o total do débito, porque, no caso, nenhum prejuízo houve para o exeqüente.,
+	 solver: Chama-se sub-rogação a transferência da qualidade creditória para aquele que I]solveu a obrigação de outrem ou emprestou o necessário para isto. ,
+	 zerar: Através de um programa de recuperação capitaneado por Rizzioli, a empresa, em 92, já [zerou os débitos.}
+Chave: SALDAR <verb.possession>
+ILI: 02188222
+
+Sense 10 
+{02188222} <verb.possession> pay14 -- (discharge or settle; "pay a debt"; "pay an obligation")
+       => {02189291} <verb.possession> settle -- (dispose of; make a financial settlement)
+           => {00988646} <verb.communication> arrange4, fix up -- (make arrangements for; "Can you arrange a meeting with the President?")
+               => {00779329} <verb.communication> agree, hold15, concur, concord -- (be in accord; be in agreement; "We agreed on the terms of the settlement"; "I can't agree with you!"; "I hold with those who say life is sacred"; "Both philosophers concord on this point")
+

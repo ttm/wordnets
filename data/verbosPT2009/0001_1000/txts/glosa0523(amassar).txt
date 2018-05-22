@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0523
+
+DADO O SYNSET:
+
+S='Glosa523'
+{amarfanhar-se: O traje H]amarfanhou-se,
+amarrotar-se: Os seus músculos crisparam-se eo caderno começou a I]amarrotar-se-lhe nas mãos,
+amassar: Um modo rápido de passar a sua roupa que I]amassou na viagem até o hotel é pendurá-la em um cabide no banheiro e tomar um banho muito quente.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa523' = “fazer rugas em superfície lisa; esmagar”
+{amarfanhar-se: A fita I]amarfanhou-se com os mecanismos e o resultado foram 10 cm de filme completamente estragados
+amarrotar-se: Os seus músculos crisparam-se e o caderno começou a I]amarrotar-se-lhe nas mãos,
+amassar: Um modo rápido de passar a sua roupa que I]amassou na viagem até o hotel é pendurá-la em um cabide no banheiro e tomar um banho muito quente.,}
+Chave: AMASSAR <verb.contact>
+ILI: 01240321
+
+Sense 2
+{01240321} <verb.contact> wrinkle, ruckle, crease, crinkle, scrunch, scrunch up, crisp -- (make wrinkles or creases into a smooth surface; "The dress got wrinkled")
+       => {01239868} <verb.contact> fold, fold up, turn up -- (bend or lay so that one part covers the other; "fold up the newspaper"; "turn up your collar")
+           => {00345030} <verb.change> change surface -- (undergo or cause to undergo a change in the surface)
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

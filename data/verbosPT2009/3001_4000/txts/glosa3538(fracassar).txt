@@ -1,0 +1,55 @@
+ANÁLISE DA GLOSA3538
+
+DADO O SYNSET:
+
+S='Glosa3538'
+	    {
+	      abortar: A mais leve suspeita faria [abortar o seu plano. / Proporão soluções que já [abortaram no passado.,
+	      bromar: Apesar das dificuldades, o projeto não H]bromou.,
+	      cortar: Vamos ter de cortar ou readaptar drasticamente os programas. / A Argentina teve que  ser contemplada pelo FMI com US$ 40 bilhões para não ter de  privatizar os programas de saúde e previdência social e I]cortar os planos de obras públicas. ,
+	      falhar: Não posso [falhar diante do povo ou de Deus. /O problema é se o plano [falhar.,
+	      fracassar: O governo não poderia deixar o leilão [fracassar.,
+	      frustrar: Assassinatos políticos [frustraram as eleições locais./ a ignóbil propaganda e os fatos delituosos buscam [frustrar a grande tentativa. ,
+	      furar: Minha programação de férias em São Paulo já I]furou.,
+	      gorar: Os jornalistas descontentes encontraram pela frente um corpo coerente de pessoas que fez [gorar o golpe preparado no exterior. / O plano pode [gorar.  ,
+	      malograr: Depois de uma falha em 29 de julho de 1972, ao mandar um satélite civil em órbita, a estação Cosmos 557 também termina por [malograr na missão. / Esta campanha estava e está fadada a [malograr.,
+	      naufragar: Ele fez [naufragar o último e milagroso acordo do governo com os sindicalistas.,
+	      rodar: Estudei e ainda acho que I]rodei nas provas.,
+	    }
+A='Glosa2217'
+	    {
+	     desenvolver: DEVIANT,
+	     enflorescer: x,
+	     espigar: DEVIANT,
+	     florescer: A democracia [floresceu na Grécia nos séculos 5º e 4º AC.,
+	     medrar: No Brasil, a burocracia cresceu com a diversificação das funções do Estado e a tecnocracia [medrou em todos os setores, todavia mais em tarefas intrincadas do aparelho estatal e das grandes empresas e corporações.,
+	     prosperar: Engano que fez [prosperar o populismo econômico, uma forma perversa de politização da economia que se exprimiu, sobretudo nos países em desenvolvimento, num «ethos» nacionalista protecionista e antimercado.,
+	     vegetar: DEVIANT,
+	     vingar: O Parnasianismo é uma escola literária que [vingou na segunda metade do século XIX, ao lado de tendências realistas e naturalistas.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3538' = “ser mal-sucedido”
+	     {abortar: O plano I]abortou pois ele foi preso em 12 de setembro de 89 acusado de estupro. / Proporão soluções que já [abortaram no passado.,
+	      bromar: Apesar das dificuldades, o projeto não H]bromou.,
+	      cortar: A morte M]cortou seus planos ambiciosos. ,
+	      falhar: A tática [falhou. /O problema é se o plano [falhar.,
+	      fracassar: A missão [fracassou e Giuseppe Garibaldi foi condenado à morte por traição, indo para o exílio na América do Sul.,
+	      frustrar: A decisão de Pertence [frustrou um acordo que vinha sendo negociado entre o presidente da Câmara, Inocêncio de Oliveira (PFL-PE) , e o advogado de Moreira, Valmor Giavarina. ,
+	      furar: Minha programação de férias em São Paulo já I]furou.,
+	      gorar: O negócio [gorou porque Elliott não foi aprovado nos exames médicos. / O plano pode [gorar.  ,
+	      malograr: A invasão [malogrou e, em 1281, Kublai Khan enviou 4.400 navios para uma segunda tentativa. / Esta campanha estava e está fadada a [malograr.,
+	      naufragar: De fato, a revisão [naufragou, entre outros motivos, porque os parlamentares, acovardaram-se e preferiram não tomar decisões que pudessem parecer impopulares ou que contrariassem os objetivos dos grupos econômicos que os financiam.,
+	      rodar: Estudei e ainda acho que I]rodei nas provas.,} 
+
+A='Glosa2217'
+	    {florescer: A democracia [floresceu na Grécia nos séculos 5º e 4º AC.,
+	     medrar: No Brasil, a burocracia cresceu com a diversificação das funções do Estado e a tecnocracia [medrou em todos os setores, todavia mais em tarefas intrincadas do aparelho estatal e das grandes empresas e corporações.,
+	     prosperar: Engano que fez [prosperar o populismo econômico, uma forma perversa de politização da economia que se exprimiu, sobretudo nos países em desenvolvimento, num «ethos» nacionalista protecionista e antimercado.,
+	     vingar: O Parnasianismo é uma escola literária que [vingou na segunda metade do século XIX, ao lado de tendências realistas e naturalistas., }
+Chave: FRACASSAR <verb.social>
+ILI: 02453161
+
+Sense 2
+{02453161} <verb.social> fail, go wrong, miscarry -- (be unsuccessful; "Where do today's public schools fail?"; "The attempt to rescue the hostages failed miserably") 

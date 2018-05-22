@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA1302
+
+DADO O SYNSET:
+
+S='Glosa1302'
+{desencaixar: H]Desencaixar os cristais,
+ desencaixotar: Técnicos do Inpe e da empresa japonesa Nec começaram ontem a [desencaixotar as 50 toneladas de equipamentos que vão compor o supercomputador SX-3.,
+ desencasar: H]Desencasar as peças de um jogo.,}
+	  
+A='Glosa1736'
+{encaixar, encaixotar, encasar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1302' = “retirar de uma caixa”
+{desencaixar: O tempo: remove a cor da seda, apodrece frutos, apaga o giz da rua, absolve erros, I]desencaixa sapatos, seca lagos; deve esclarecer as dúvidas de um homem.
+ desencaixotar: Técnicos do Inpe e da empresa japonesa Nec começaram ontem a [desencaixotar as 50 toneladas de equipamentos que vão compor o supercomputador SX-3.,}
+A='Glosa1736'
+{encaixar, encaixotar, encasar}
+Chave: DESENCAIXOTAR <verb.contact>
+ILI: 01443406
+
+Sense 1
+{01443406} <verb.contact> unbox -- (remove from a box; "unbox the presents")
+       => {01443526} <verb.contact> unpack, take out1 -- (remove from its packing; "unpack the presents")
+           => {00166870} <verb.change> remove, take, take away1, withdraw1 -- (remove something concrete, as by lifting, pushing, taking off, etc. or remove something abstract; "remove a threat"; "remove a wrapper"; "Remove the dirty dishes from the table"; "take the gun from your pocket"; "This machine withdraws heat from the environment")

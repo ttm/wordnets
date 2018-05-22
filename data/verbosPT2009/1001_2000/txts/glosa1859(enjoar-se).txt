@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA1859
+
+DADO O SYNSET:
+
+S='Glosa1859'
+{anojar-se: H]Anojou-se ao ver a comida.,
+ enausear-se: x,
+ enjoar-se: O "patrão" I]enjoou-se dela e "vendeu-a" para cinco traficantes. ,
+ enojar-se: Conscientizar-se dos males do cigarro e pensar negativamente nele, realmente I]enojar-se.,
+ nausear-se: E os peixes que estão no rio morrerão, e o rio cheirará mal; e os egípcios I]nausear-se-ão.,
+ repugnar-se: Ao lá chegar e I]repugnar-se com a carnificina feita, lamentou a queda da casa de Príamo-Conselheiro, enaltecendo a valentia suicida dos jagunços.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1859' = “ficar enjoado”
+{enjoar-se: Esse navegante se I]enjoa no vai-e-vem das águas.,
+ nausear-se: Ocorre um acidente de teor escatológico do qual me I]nauseio só de lembrar.,}
+Chave: ENJOAR-SE <verb.perception>
+ILI: 02132278
+
+Sense 1
+{02132278} <verb.perception> sicken, nauseate, turn one's stomach -- (upset and make nauseated; "The smell of the foood turned the pregnant woman's stomach"; "The mold ont he food sickened the diners")
+       => {02132090} <verb.perception> disgust, gross out, revolt, repel -- (fill with distaste; "This spoilt food disgusts me")
+           => {02054979} <verb.perception> stimulate, excite, stir -- (stir feelings in; "stimulate my appetite"; "excite the audience"; "stir emotions")
+               => {02054639} <verb.perception> sensitize, sensitise -- (cause to sense; make sensitive; "She sensitized me with respect to gender differences in this traditional male-dominated society"; "My tongue became sensitized to good wine")

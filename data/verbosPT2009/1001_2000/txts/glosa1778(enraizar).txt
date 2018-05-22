@@ -1,0 +1,37 @@
+ANÁLISE DA GLOSA1778
+
+DADO O SYNSET:
+
+S='Glosa1778'
+    	{afixar: O vereador Antonio Carlos Caruso (PMDB) apresentou anteontem projeto de lei na Câmara Municipal permitindo ao Masp  [afixar um painel eletrônico no teto do museu.,
+      	 arraigar: Não deixe as ervas daninhas H]arraigarem aqui.,
+      	 arreigar: x,
+      	 chantar: x,
+      	 enfincar: Enfincar no terreiro um pau de sebo com uma nota na ponta para quem tiver o fôlego de chegar lá.,
+      	 enraizar: A grama havia sido plantada poucos dias antes do jogo e não houve tempo para ela [enraizar.,
+ fincar: Depois os mancebos guerreiros espalharam pelo campo, troncos de árvores cortadas com as ramas e as folhas; e [fincaram cercas de estacas entre os barrancos da várzea que ia morrer à margem do rio.,
+      	 fixar: Enxadas e arados voltam a sulcar a terra para nela [fixarem as sementes e renovar as esperanças de reduzir a fome e a penúria.,}
+  
+A='Glosa1528'
+   	{arrancar, derrancar1, desarraigar, desenraizar, desraizar, erradicar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1778' = “cravar, meter à força ou implantar”” 
+    	{arraigar: A corte portuguesa I]arraigou a tradição culinária, no Brasil, no século XIX.,
+      	 enfincar: Quando Ramirez encontrou com Paulo , Ramirez fez questão de devolver a espada de ouro e I]enfincou a de ferro no chão o chamando para o duelo.,
+      	 enraizar: A Deus I]enraizou em mim um forte desejo de orar.,
+ fincar: Depois os mancebos guerreiros espalharam pelo campo, troncos de árvores cortadas com as ramas e as folhas; e [fincaram cercas de estacas entre os barrancos da várzea que ia morrer à margem do rio.,
+      	 fixar: Enxadas e arados voltam a sulcar a terra para nela [fixarem as sementes e renovar as esperanças de reduzir a fome e a penúria.,}
+  
+A='Glosa1528'
+   	{arrancar, derrancar1, desarraigar, desenraizar, desraizar, erradicar}
+Chave: ENRAIZAR <verb.contact>
+ILI: 01485763
+
+Sense 1
+{01485763} <verb.contact> lodge, wedge1, stick2, deposit -- (fix, force, or implant; "lodge a bullet in the table")
+       => {01300906} <verb.contact> fasten1, fix, secure1 -- (cause to be firmly attached; "fasten the lock onto the door"; "she fixed her gaze on the man")
+           => {01257892} <verb.contact> attach1 -- (cause to be attached)
+               => {01314764} <verb.contact> connect, link, tie1, link up -- (connect, fasten, or put together two or more pieces; "Can you connect the two loudspeakers?"; "Tie the ropes together"; "Link arms")
+          Also See-> {02633873} <verb.stative> stick out1#1

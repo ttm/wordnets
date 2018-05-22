@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA1441
+
+DADO O SYNSET:
+
+S='Glosa1441'
+{encarregar-se: É nesse universo vinculado que vive a Física, [se encarregando permanentemente de estabelecer as relações que regem sua harmonia ou caos, ,
+ incumbir-se: Quem poderia [se incumbir dessa tarefa senão os artistas, operadores por excelência das linguagens, exploradores de fronteiras, reinventores de formas?,}
+	  
+A='Glosa1442'
+{desencarregar-se, desincumbir-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1441' = “aceitar como uma responsabilidade” 
+{encarregar-se: Vieira, presidente da junta de freguesia, foi um dos voluntários madrugadores que, por volta das 8h00, se [encarregou de iniciar as tarefas de limpeza.,
+ incumbir-se: Quem poderia se [incumbir dessa tarefa senão os artistas, operadores por excelência das linguagens, exploradores de fronteiras, reinventores de formas?,}
+	  
+A='Glosa1442'
+{desencarregar-se, desincumbir-se}
+Chave: ENCARREGAR-SE <verb.social>
+ILI: 02464541
+
+Sense 1
+{02464541} <verb.social> undertake, take in charge -- (accept as a charge)
+       => {00771887} <verb.communication> accept, consent, go for -- (give an affirmative reply to; respond favorably to; "I cannot accept your invitation"; "I go for this resolution")
+           => {00693825} <verb.cognition> react, respond -- (show a response or a reaction to something)
+               => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA2272
+
+DADO O SYNSET:
+
+S='Glosa2272'
+	    {atomizar: O revólver de pulverização têm a finalidade de pulverizar ou I]atomizar tinta ou outro material a ser depositado sobre uma superfície de forma ordenada e constante.,
+	      pulverizar: Pesar e I]pulverizar os comprimidos.,
+	      triturar: Em 90, quando foi internado em um centro de recuperação, ele costumava I]triturar 120 comprimidos no liquidificador todas as manhãs, para facilitar a ingestão.,
+	      vaporizar: O encontro eletrifica as moléculas e produz um grande calor, que acaba por I]vaporizar a poeira e formar uma trilha de luz da energia liberada.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2272' = “desmanchar em pequenas partículas ou transformar em pó”
+	    {atomizar: Utiliza um cristal que I]atomiza a água através de ondas ultra-sônicas transformando-a numa finíssima névoa fria.,
+	      pulverizar: Pesar e I]pulverizar os comprimidos.,
+	      triturar: Ele costumava I]triturar 120 comprimidos no liquidificador todas as manhãs.,}
+
+Chave: PULVERIZAR <verb.change>
+ILI: 00321792
+
+Sense 1
+{00321792} <verb.change> powderize, powderise, powder, pulverize, pulverise -- (make into a powder by breaking up or cause to become dust; "pulverize the grains")
+       => {00385553} <verb.change> disintegrate -- (break into parts or components or lose cohesion or unity; "The material disintegrated"; "the group disintegrated after the leader died")
+           => {00135037} <verb.change> change integrity -- (change in physical make-up)
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

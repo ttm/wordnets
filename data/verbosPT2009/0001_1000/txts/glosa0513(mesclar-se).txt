@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0513
+
+DADO O SYNSET:
+
+S='Glosa513'
+{caldear-se: Os imigrantes H]caldearam-se com os indígenas da região.,
+mesclar-se: Agora I]mesclam-se mais com a população, mas apegam-se à sua fé judaica e têm orgulho de serem judeus.,
+mestiçar-se: O branco e o negro H]mestiçaram-se.,
+miscigenar-se: Enfatizou que os germanos não tinham o hábito de I]miscigenar-se com outros povos, nem construíam cidades,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa513' = “cruzar (-se) em raça ou outro elemento”
+{mesclar-se: Agora I]mesclam-se mais com a população, mas apegam-se à sua fé judaica e têm orgulho de serem judeus.,
+miscigenar-se: Enfatizou que os germanos não tinham o hábito de I]miscigenar-se com outros povos, nem construíam cidades,}
+Chave: MESCLAR-SE <verb.change>
+ILI: 00382880
+
+Sense 1
+{00382880} <verb.change> blend, flux, mix, conflate, commingle, immix, fuse, coalesce, meld, combine, merge1 -- (mix together different elements; "The colors blend well")
+       => {00135037} <verb.change> change integrity -- (change in physical make-up)
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")
+          Also See-> {00600082} <verb.cognition> mix up#2

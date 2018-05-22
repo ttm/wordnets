@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0580
+
+DADO O SYNSET:
+
+S='Glosa580'
+{pós-datar: Se o emitente I]pós-datar o cheque para dias que ainda hão de vir, o vendedor corre o risco de neste interstício o emitente tornar-se interditado.,}
+A='Glosa579'
+{antedatar: Se quisermos uma tendência de descoberta genuína, necessitamos I]antedatar as revisões relativas à descoberta do campo,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa580' = “estabelecer algo como sendo posterior em relação a algo mais”
+{pós-datar: Se o emitente I]pós-datar o cheque para dias que ainda hão de vir, o vendedor corre o risco de neste interstício o emitente tornar-se interditado.,}
+A='Glosa579'
+{antedatar}
+
+Chave: PÓS-DATAR
+ILI: 00268248
+
+Sense 2
+{00268248} <verb.change> postdate -- (establish something as being later relative to something else)
+       => {00268393} <verb.change> chronologize, chronologise -- (establish the order in time of something; "The archivist chronologized the documents")
+           => {00598868} <verb.cognition> date -- (assign a date to; determine the (probable) date of; "Scientists often cannot date precisely archeological or prehistorical findings")
+               => {00676553} <verb.cognition> determine1, set4 -- (fix conclusively or authoritatively; "set the rules")

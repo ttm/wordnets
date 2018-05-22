@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2880
+
+DADO O SYNSET:
+
+S='Glosa2880'
+	    {feitorar: Durante os longos anos que esteve I]feitorando a fazenda do comendador e de outros, não se dera senão uma ou outra fuga insignificante de escravos.,
+	      feitoriar: x,
+	      feitorizar: Para contentar os enviados da fé da Companhia de Jesus, os jesuítas que purgavam a contradição entre os ensinamentos cristãos e a rudeza com que os colonos e a Coroa I]feitorizavam a comunidade americana, exigiram do rei Dom Sebastião [1554-1578] a renúncia à escravatura índigena, pela salvação da missão evangelizadora.” ,
+	      superintender: Ao Diretor-Presidente da Fundação compete I]superintender todos os serviços e interesses da Diretoria Administrativa.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2880' = “Vigiar e comandar”
+	    {feitorar: É Danilo quem feitora as empresas da família Lobo..,
+	      feitorizar: Para contentar os enviados da fé da Companhia de Jesus, os jesuítas que purgavam a contradição entre os ensinamentos cristãos e a rudeza com que os colonos e a Coroa I]feitorizavam a comunidade americana, exigiram do rei Dom Sebastião [1554-1578] a renúncia à escravatura índigena, pela salvação da missão evangelizadora.” ,
+	      superintender: Segundo os melhores autores da época, Bartolomeu Dias em pessoa I]superintendeu a construção das naus São Gabriel e São Rafael.,}
+Chave: SUPERINTENDER <verb.social>
+ILI: 02369653
+
+Sense 1
+{02369653} <verb.social> oversee, supervise, superintend, manage1 -- (watch and direct; "Who is overseeing this project?")
+       => {02358802} <verb.social> administer, administrate -- (work in an administrative capacity; supervise; "administer a program")
+           => {02363018} <verb.social> manage, deal13, care11, handle -- (be in charge of, act on, or dispose of; "I can deal with this crew of workers"; "This blender can't handle nuts"; "She managed her parents' affairs after they got too old")
+               => {02367626} <verb.social> control, command -- (exercise authoritative control or power over; "control the budget"; "Command the military forces") 

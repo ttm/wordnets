@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0657
+
+DADO O SYNSET:
+
+S='Glosa657'
+{arcabuzar: A Coroa portuguesa mandou enforcar ou [arcabuzar os principais dirigentes da insurreição pernambucana,
+arcabuzear: x,
+espingardar: Enquanto os EUA estão entretidos com manobras de diversão, deixem-me lá I]espingardar o Saddam, pois com certeza os outros gigantes se estão a mexer.,
+espingardear: Muitos dos entroncados nas viagens por canoas lançou ele nos rios, e outros muitos mandou I]espingardear nos calabouços.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa657' = “matar com tiros de espingarda”
+{arcabuzar: A Coroa portuguesa mandou enforcar ou [arcabuzar os principais dirigentes da insurreição pernambucana,
+espingardar: Enquanto os EUA estão entretidos com manobras de diversão, deixem-me lá I]espingardar o Saddam, pois com certeza os outros gigantes se estão a mexer.,
+espingardear: Muitos dos entroncados nas viagens por canoas lançou ele nos rios, e outros muitos mandou I]espingardear nos calabouços.,}
+Chave: ESPINGARDAR <verb.social>
+ILI: EQ_HAS_HYPERONYM - 02410278
+
+Sense 1
+{02410278} <verb.social> shoot, pip -- (kill by firing a missile)
+       => {01284688} <verb.contact> kill -- (cause to die; put to death, usually intentionally or knowingly; "This man killed several people when he tried to rob a bank"; "The farmer killed a pig for the holidays")

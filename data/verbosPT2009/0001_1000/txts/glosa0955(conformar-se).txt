@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0955
+
+DADO O SYNSET:
+
+S='Glosa955'
+{conformar-se: Com índices de rejeição muito altos nas pesquisas, Lula parece [conformar-se com uma evidência: o voto da imensa massa de eleitores indecisos está mais próximo do colo de Fernando Henrique.,
+consolar-se: Cada miséria esquecia-se, o que era melhor que [consolar-se; mas o esquecimento durava um relâmpago.,
+encolher-se: O mundo faliu e o homem I]encolheu-se. # I]Encolheu-se ao ponto de fazer o trabalho de um simples pescador.,
+resignar-se: Leonardo achava-se já disposto a atender às súplicas de Vidinha e das outras moças que o não queriam por modo algum fora de casa: os dois rivais derrotados pareciam [resignar-se.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa955' = “adaptar (-se) ou conformar (-se) a condições novas ou diferentes”
+{conformar-se: Com índices de rejeição muito altos nas pesquisas, Lula parece [conformar-se com uma evidência: o voto da imensa massa de eleitores indecisos está mais próximo do colo de Fernando Henrique.,
+consolar-se: Cada miséria esquecia-se, o que era melhor que [consolar-se; mas o esquecimento durava um relâmpago.,
+encolher-se: O mundo faliu e o homem I]encolheu-se. # I]Encolheu-se ao ponto de fazer o trabalho de um simples pescador.,
+resignar-se: Leonardo achava-se já disposto a atender às súplicas de Vidinha e das outras moças que o não queriam por modo algum fora de casa: os dois rivais derrotados pareciam [resignar-se.}
+Chave: CONFORMAR-SE <verb.change>
+ILI: 00144751
+
+Sense 2
+{00144751} <verb.change> adjust1, conform1, adapt2 -- (adapt or conform oneself to new or different conditions; "We must adjust to the bad economic situation")
+       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

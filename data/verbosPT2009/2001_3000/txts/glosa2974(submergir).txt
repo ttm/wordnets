@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA2974
+
+DADO O SYNSET:
+
+S='Glosa2974'
+	    {absorver: O edifício de vinte andares desmorona ereto como um manequim, sem perder sua compostura vertical, como se descesse num alçapão e sua própria superfície no solo I]absorvesse os escombros. ,
+	      afundar: Era como areia movediça, quanto mais se debatia, mais I]afundava.,
+	      afundir: O pessoal costuma dizer que é estranho o fato de as botas dos astronautas criarem marcas profundas no solo arenoso da Lua, enquanto que o módulo lunar, de 6 toneladas, não I]afundava na areia.,
+	      alagar: x,
+	      convelir: x,
+	      engolir: Chuva provocou cratera-monstro, que I]engoliu ônibus de motorista português.,
+	      fundir2: x,
+	      sorver: A onda do rio I]sorvia o cais do Terreiro do Paço, com os barcos atracados coalhados de gente.,
+	      submergir: Estima-se que Hercólubus deslocará a orientação do eixo da Terra, causando verdadeiros cataclismos, I]submergindo consideráveis porções de terra firme nas tumultuosas águas dos oceanos.,
+	      subverter: Que o demo o M]subverta consigo no inferno.,
+	      tragar: O rapagão estacou e o carro também; de dentro falaram, deviam ter falado, porque o marinheiro aproximou-se da portinhola que se abriu, I]tragando-o.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2974' = “Envolver ou cobrir completamente, como se engolindo”
+	    {absorver: O edifício de vinte andares desmorona ereto como um manequim, sem perder sua compostura vertical, como se descesse num alçapão e sua própria superfície no solo I]absorvesse os escombros.,
+	      afundar: Steve passava muito tempo tirando aquele carro das pilhas de neve em que o I]afundava.,
+	      engolir: Chuva provocou uma cratera-monstro, que I]engoliu ônibus de motorista português.,
+	      sorver: A onda do rio I]sorvia o cais do Terreiro do Paço, com os barcos atracados coalhados de gente.,
+	      submergir: No primeiro instante, chuvas devastadoras deslocaram cenários e os I]submergiram.,
+	      tragar: Nos demos boa-noite e, já de pé na estrada, vi o ônibus se afastar, enquanto a imensa pálpebra turva o I]tragava para dentro, para o esconjuro da escuridão.,}
+Chave: SUBMERGIR <verb.contact>
+ILI: 01538803
+
+Sense 3
+{01538803} <verb.contact> immerse1, swallow, swallow up, bury2, eat up -- (enclose or envelop completely, as if by swallowing; "The huge waves swallowed the small boat and it sank shortly thereafter")
+       => {01543739} <verb.contact> enclose, inclose, shut in -- (surround completely; "Darkness enclosed him")
+           => {01425761} <verb.contact> surround, skirt, border1 -- (extend on all sides of simultaneously; encircle; "The forest surrounds my property")
+               => {01169130} <verb.contact> touch1, adjoin3, meet, contact3 -- (be in direct physical contact with; make contact; "The two buildings touch"; "Their hands touched"; "The wire must not contact the metal cover"; "The surfaces contact at this point") 

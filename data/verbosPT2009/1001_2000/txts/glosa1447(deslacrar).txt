@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA1447
+
+DADO O SYNSET:
+
+S='Glosa1447'
+{deslacrar: Chegando a carga a Paranaguá, os fiscais paranaenses deveriam I]deslacrar os conteineres.,}
+	  
+A='Glosa3254'
+{lacrar, selar1}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1447' = “quebrar, romper o lacre [de]”
+{deslacrar: Chegando a carga a Paranaguá, os fiscais paranaenses deveriam I]deslacrar os conteineres.,}
+	  
+A='Glosa3254'
+{lacrar, selar1}
+Chave: DESLACRAR <verb.contact>
+ILI: 01313964
+
+Sense 1
+{01313964} <verb.contact> unseal -- (break the seal of; "He unsealed the letter")
+       => {01306283} <verb.contact> open, open up -- (cause to open or to become open; "Mary opened the car door")

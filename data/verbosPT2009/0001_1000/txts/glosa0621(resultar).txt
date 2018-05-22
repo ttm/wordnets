@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0621
+
+DADO O SYNSET:
+
+S='Glosa621'
+{resultar: A Associação de Bancos Argentinos considera que isso [resultará num processo de fusão e absorções no sistema financeiro,
+tornar-se: O interessante é que essas derrotas no curto prazo I]tornaram-se, em vários casos, vitórias em um prazo mais longo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa621' = “acarretar, terminar (em uma maneira específica, estado, etc).”
+{resultar: A Associação de Bancos Argentinos considera que isso [resultará num processo de fusão e absorções no sistema financeiro,
+tornar-se: O interessante é que essas derrotas no curto prazo I]tornaram-se, em vários casos, vitórias em um prazo mais longo.,}
+Chave: RESULTAR <verb.stative>
+ILI: 02555744
+
+Sense 1
+{02555744} <verb.stative> result, ensue -- (issue or terminate (in a specified way, state, etc.); end; "result in tragedy")
+       => {02555360} <verb.stative> prove, turn out, turn up3 -- (be shown or be found to be; "She proved to be right"; "The medicine turned out to save her life"; "She turned up HIV positive")
+           => {02526983} <verb.stative> be3 -- (have the quality of being; (copula, used with an adjective or a predicate noun); "John is rich"; "This is not a good answer")

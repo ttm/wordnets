@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA3767
+
+DADO O SYNSET:
+	
+S='Glosa3767'
+{abortar: Jacyra I]abortou o filho.,
+	 malparir: x,
+	 perder: A moça I]perdeu o filho e depois veio a falecer. }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3767' = “perda natural de um feto”
+{abortar: Jacyra I]abortou o filho.,
+	 perder: A moça I]perdeu o filho e depois veio a falecer. }
+Chave: ABORTAR
+ILI: 00057995
+
+Sense 2
+{00057995} <verb.body> abort -- (terminate a pregnancy by undergoing an abortion)
+       => {00102093} <verb.body> discharge, expel, eject, release1 -- (eliminate (substances) from the body)

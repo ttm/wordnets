@@ -1,0 +1,41 @@
+ANÁLISE DA GLOSA3900
+
+DADO O SYNSET:
+
+S='Glosa3900'
+    	{amostrar: x,
+      	 apontar: Na última sexta-feira, depois da confissão do ex-PM Nélson Cunha, que também o [apontou como um dos participantes da chacina, o assassino usou a máscara de inocente: «Querem jogar toda a culpa em cima de mim para inocentar outros», disse ele a dois jornalistas, em entrevista no 5° Batalhão da Polícia Militar (Harmonia) , onde estava preso .,
+      	 assinalar: Como ele [assinalou, podemos pegar o mesmo conjunto de elementos, ou sons, e produzir uma melodia totalmente diferente .,
+      	 assinar: M]Assinou Deus um lugar no firmamento para cada astro.,
+      	 designar: A expressão «Mundo Tropical» é geralmente utilizada para [designar a faixa do globo terrestre compreendida entre os trópicos de Câncer, ao norte do Equador,e Capricórnio, ao Sul .,
+      	 indicar: Primeiro formam rabiscos incertos para [indicar um lugar importante, uma árvore sagrada, o caminho para uma gruta misteriosa ou a trilha para recuperar um tesouro enterrado .,
+      	 indigitar: O porteiro M]indigitou a saída ao visitante.,
+      	 marcar: Desde esse dia, Raimundo prestou atenção a todos os objetos que deixava no quarto; [marcou o ponto em que ficava o álbum, o despertador um livro, o estojo de barba ou qualquer coisa, que o moleque não precisasse tirar do lugar para fazer a limpeza .,
+      	 mostrar: Antônia [mostrou o lugar exato onde jazia o corpo de Igor, pois as buscas estavam sendo feitas em local errado .,
+      	 pontar: x,
+      	 sinalar: É importante I]sinalar que quem faz o sistema sistematizar eo significado significar são os intérpretes.,
+      	 sinalizar: A Secretaria de Transportes, através da CET (Companhia de Engenharia de Tráfego) [sinalizou a região com oito faixas, 13 placas de orientação e tapumes .,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3900' = “mostrar clara e meticulosamente”
+    	{apontar: O trabalho [apontou o trecho entre a serra de Arujá (km 205) e o município de Caçapava (km 130) como o mais perigoso e com risco de acidentes fatais.,
+      	 assinalar: Zé Roberto [assinalou dois detalhes que influenciaram na derrota brasileira para Cuba: a contusão de Marcelo Negrão e as falhas nos contra-ataques.,
+      	 assinar: Um porta-voz iraquiano afirmou que o Iraque apenas I]assinou seus mísseis e unidades antiaéreas de defesa e que a atitude foi uma resposta ao ataque dos aviões norte-americanos e britânicos.,
+      	 designar: Em L'Archéologie savoir, Foucault [designa a área entre a consciência e a não-consciência como o domínio do «énoncé».,
+      	 indicar: Nós mesmos divulgamos os números através do mapa da fome, que [indicou a existência de 32 milhões de famintos.,
+      	 indigitar: A Declaração reconhece a diversidade de pobrezas, mas, ao mesmo tempo I]indigita a pobreza material como aquela que exige nossa atenção especial.,
+      	 marcar: Desde esse dia, Raimundo prestou atenção a todos os objetos que deixava no quarto; [marcou o ponto em que ficava o álbum, o despertador um livro, o estojo de barba ou qualquer coisa, que o moleque não precisasse tirar do lugar para fazer a limpeza .,
+      	 mostrar: Antônia [mostrou o lugar exato onde jazia o corpo de Igor, pois as buscas estavam sendo feitas em local errado.,
+      	 sinalar: Simão Mago I]sinalou o dia em que aos olhos de toda Roma havia de subir ao Céu.,
+      	 sinalizar: Durante a sessão do Congresso de anteontem, Serra [sinalizou que a revisão não é prioridade do PSDB.}
+Chave: SINALIZAR <verb.communication>
+ILI: 00894216
+
+Sense 2
+{00894216} <verb.communication> signalize2, signalise2, point out3, call attention -- (point out carefully and clearly)
+       => {00893603} <verb.communication> indicate3, point, show1 -- (indicate a place, direction, person, or thing; either spatially or figuratively; "I showed the customer the glove section"; "He pointed to the empty parking space"; "he indicated his opponents")
+           => {00804489} <verb.communication> inform -- (impart knowledge of some fact, state or affairs, or event to; "I informed him of his rights")
+               => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                   => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                       => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

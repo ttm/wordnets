@@ -1,0 +1,35 @@
+ANÁLISE DA GLOSA4017
+
+DADO O SYNSET:
+
+S='Glosa4017'
+{procurar: Para inspirar-se, [procurou o autor, em suas campanhas pelo interior de São Paulo, Minas, Goiás e Mato Grosso.,
+ver: Ela revelou esta semana que Romário foi à Holanda para [vê-la e que ele não tinha contusão alguma .,
+visitar: Depois, Juliana [visitou-o no camarim, onde recebeu o convite para participar da gravação .,}
+  
+A ANÁLISE RESULTA EM:
+
+S='Glosa4017A' = “fazer uma breve visita”
+{ver: Ela revelou esta semana que Romário foi à Holanda para [vê-la e que ele não tinha contusão alguma .,
+visitar: Depois, Juliana [visitou-o no camarim, onde recebeu o convite para participar da gravação .,}
+Chave: VISITAR <verb.social>
+ILI: 02413281
+
+Sense 3
+{02413281} <verb.social> visit, call in, call -- (pay a brief visit; "The mayor likes to call on some of the prominent citizens")
+       => {02412640} <verb.social> meet1, get together1 -- (get together socially or for a specific purpose)
+
+S='Glosa4017B' = “recorrer [a] para fazer um pedido, pedir ajuda ou informação [a]”
+{procurar: Para inspirar-se, [procurou o autor, em suas campanhas pelo interior de São Paulo, Minas, Goiás e Mato Grosso., }
+Chave: PROCURAR <verb.communication>
+ILI: 00768895
+
+Sense 1
+{00768895} <verb.communication> call on, turn14 -- (have recourse to or make an appeal or request for help or information to; "She called on her Representative to help her"; "She turned to her relatives for help")
+       => {00730627} <verb.communication> appeal, invoke4 -- (request earnestly (something from somebody); ask for aid or protection; "appeal to somebody for help"; "Invoke God in times of trouble")
+           => {00727992} <verb.communication> request1, bespeak, call for4, quest1 -- (express the need or desire for; ask for; "She requested an extra bed in her room"; "She called for room service")
+               => {00717906} <verb.communication> communicate1, pass on, pass1, put across -- (transmit information ; "Please communicate this message to all employees")
+                   => {02167243} <verb.possession> convey10, transmit10, communicate10 -- (transfer to another; "communicate a disease")
+                       => {02167764} <verb.possession> transfer1 -- (move from one place to another; "transfer the data"; "transmit the news"; "transfer the patient to another hospital")
+                           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")
+

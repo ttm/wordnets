@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0704
+
+DADO O SYNSET:
+
+S='Glosa704'
+{atascar: Infelizmente, escolhemos o pior percurso para passar numa zona de dunas e acabamos por I]atascar, o que nos fez perder cerca de 4 minutos.,
+atolar1: Pescadores de primeira viagem e visitantes em geral têm que tomar cuidado: a hélice do motor do barco pode facilmente [atolar no mangue.,
+envasar: x, }
+A='Glosa1384'
+{desatascar, desatolar, desembarrancar, desenvasar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa704' = “estar impossibilitado de mover (-se) adiante; meter (-se) em atoleiro”
+{atascar: Infelizmente, escolhemos o pior percurso para passar numa zona de dunas e acabamos por I]atascar, o que nos fez perder cerca de 4 minutos.,
+atolar1: Pescadores de primeira viagem e visitantes em geral têm que tomar cuidado: a hélice do motor do barco pode facilmente [atolar no mangue.,}
+A='Glosa1384'
+{desatascar, desatolar, desembarrancar, desenvasar}
+Chave: ATOLAR <verb.motion>
+ILI: 01781511
+
+Sense 3
+{01781511} <verb.motion> grind to a halt, get stuck, bog down, mire -- (be unable to move further; "The car bogged down in the sand")
+       => {01781100} <verb.motion> stand still -- (remain in place; hold still; remain fixed or immobile; "Traffic stood still when the funeral procession passed by")

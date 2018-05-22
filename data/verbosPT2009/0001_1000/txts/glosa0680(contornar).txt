@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0680
+
+DADO O SYNSET:
+
+S='Glosa680'
+{contornar: Ao [contornar o cabo Hermoso na costa do Haiti, Cristóvão Colombo extasiou-se com o odor tão bom e suave de flores ou árvores, que era a coisa mais doce do mundo. ,
+quebrar: Estou aqui escondido I]quebrando a esquina feito animal ferido que quer comer a presa.,
+virar: I]Virou a esquina e ergueu os olhos cançados, à procura da lua, mas não conseguiu ver além das nuvens espessas.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa680' = “passar ao outro lado de; andar em volta de”
+{contornar: Ao [contornar o cabo Hermoso na costa do Haiti, Cristóvão Colombo extasiou-se com o odor tão bom e suave de flores ou árvores, que era a coisa mais doce do mundo.,
+quebrar: Estou aqui escondido I]quebrando a esquina feito animal ferido que quer comer a presa.,
+virar: Assim que ele I]virou a esquina, ele suspirou nervoso e aliviado. Ela estava lá. Parada.,}
+Chave: CONTORNAR <verb.motion>
+ILI: 01854029
+
+Sense 7
+{01854029} <verb.motion> turn3, move around3 -- (pass to the other side of; "turn the corner"; "move around the obstacle")
+       => {01782203} <verb.motion> travel, go, move3, locomote -- (change location; move, travel, or proceed; "How fast does your new car go?"; "We travelled from Rome to Naples by bus"; "The policemen went from door to door looking for the suspect"; "The soldiers moved towards the city in an attempt to take it before night fell")

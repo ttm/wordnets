@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA2931
+
+DADO O SYNSET:
+
+S='Glosa2931'
+	    {forrar2: x,
+	      libertar: Joana D' Arc disse ter recebido um aviso dos céus para liderar os exércitos franceses e [libertar a França do domínio inglês.,
+	      livrar: Muitos juízes são incrivelmente preguiçosos, encarando sua posição como uma espécie de tranquila aposentadoria que os [livrou das dificuldades da advocacia.,
+	      resgatar: Ele conseguiu [resgatar dos escombros duas crianças, João Pedro e Messias de Freitas.,
+	      retirar: Mecânicos e bombeiros começaram a extinguir o fogo e [retirar o piloto do carro.,
+	      roubar: Henrique veio para Paris, onde o estudo da teologia não tardou a I]roubá-lo a todas as outras ciências.,
+	      salvar: São mais do que ridículos os métodos que propõem nossos retóricos para [salvar a humanidade dessa queda fatal e iminente.,
+	      tirar: Para [tirar os meninos das minas, o ministro Reinhold Stephanes anuncia amanhã, na cidade, que o governo oferecerá três mil bolsas de R$ 50 para crianças que deixarem o trabalho.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2931' = “Salvar da ruína, destruição ou mal”
+	    {libertar: Nenhuma sociedade conseguiu abolir as tristezas, nenhuma política nos [libertou do mal-estar existencial, do nosso medo da morte, da nossa sede de absoluto ..,
+	      livrar: Muitos juízes são incrivelmente preguiçosos, encarando sua posição como uma espécie de tranqüila aposentadoria que os [livrou das dificuldades da advocacia.,
+	      resgatar: Você me I]resgatou da frigidez dos relacionamentos, mas em troca eu só soube mentir para você.,
+	      salvar: Ele te roubou a vista; mas não [salvou o pai de tua mão terrível.,
+	      tirar: Foi essa capacidade de reter o passado e de agir no presente tendo em vista o futuro que nos I]tirou da condição de bestas sadias e errantes.,}
+Chave: LIVRAR <verb.social>
+ILI: 02475565
+
+Sense 1
+{02475565} <verb.social> salvage, salve, relieve, save1 -- (save from ruin, destruction, or harm)
+       => {02475841} <verb.social> rescue, deliver1 -- (free from harm or evil)
+           => {02476374} <verb.social> save, carry through, pull through, bring through -- (bring into safety; "We pulled through most of the victims of the bomb attack") 

@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0360
+
+DADO O SYNSET:
+
+S='Glosa360'
+{defender: Está em estudos uma campanha para explicar à população que o plano vai [defender o cidadão, e não os bandidos.,}
+A='Glosa237'
+{acusar, agredir, atacar, hostilizar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa360' = “proteger contra ataque”
+{defender: Está em estudos uma campanha para explicar à população que o plano vai [defender o cidadão, e não os bandidos.,}
+A='Glosa237'
+{acusar, agredir, atacar, hostilizar}
+Chave: DEFENDER <verb.competition>
+ILI: 01094741
+
+Sense 3
+{01094741} <verb.competition> defend2, guard3, hold5 -- (protect against a challenge or attack; "Hold that position behind the trees!"; "Hold the bridge against the enemy's attacks")
+       => {01093094} <verb.competition> protect -- (shield from danger, injury, destruction, or damage; "Weatherbeater protects your roof from the rain")
+           => {01092732} <verb.competition> defend -- (be on the defensive; act against an attack)
+               => {02377053} <verb.social> prevent, keep1 -- (prevent from doing something or being in a certain state; "We must prevent the cancer from spreading"; "His snoring kept me from falling asleep"; "Keep the child from eating the marbles")

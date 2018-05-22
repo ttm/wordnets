@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA3639
+
+DADO O SYNSET:
+
+S='Glosa3639'
+	    {
+	      engrandecer: O exílio [engrandece a pátria. / Algumas obras [engrandecem a música brasileira.,
+	      glorificar: O procurador e seus jovens auxiliares têm uma tarefa que pode [glorificá-los. ,
+	      ilustrar: É no exílio que o escritor latino-americano redescobre o rosto de sua pátria, a vontade de assumi-la e [ilustrá-la. ,
+	      opulentar: A Providência fez o escritor viver bastante para I]opulentar o tesouro do idioma natal. / Muitos ensaístas usam verbos do grande poeta português sem citar a fonte para I]opulentar seus trabalhos.,
+	      ornar: A calúnia que atingiu em cheio o Exército é o que não se pode tolerar, inclusive para preservar a auréola de dignidade que sempre pareceu I]ornar o caráter do Sr. Roberto Marinho. ,
+	      reputar: Insigne brasileiro, que M]reputou sua pátria.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3639' = “louvar, glorificar ou honrar”
+	     {engrandecer: O exílio [engrandece a pátria. / Algumas obras [engrandecem a música brasileira.,
+	      glorificar: O documentário [glorifica Hitler. ,
+	      ilustrar: A cultura A]ilustra um país. ,
+	      opulentar: Com as Memórias póstumas de Brás Cubas, inicia-se a segunda fase da evolução literária de Machado de Assis, que I]opulentou o nosso patrimônio de arte.,
+	      ornar: A calúnia que atingiu em cheio o Exército é o que não se pode tolerar, inclusive para preservar a auréola de dignidade que sempre pareceu I]ornar o caráter do Sr. Roberto Marinho. ,
+	      reputar: Insigne brasileiro, que M]reputou sua pátria.,}
+Chave: ENGRANDECER <verb.communication>
+ILI: 00832481
+
+Sense 1
+{00832481} <verb.communication> laud, extol, exalt, glorify, proclaim1 -- (praise, glorify, or honor; "extol the virtues of one's children"; "glorify one's spouse's cooking")
+       => {00828989} <verb.communication> praise -- (express approval of; "The parents praised their children for their academic performance")
+           => {00658664} <verb.cognition> measure1, evaluate, valuate, assess, appraise1, value -- (place a value on; judge the worth of something; "I will have the family jewels appraised by a professional")
+               => {00647983} <verb.cognition> judge -- (form an opinion of or pass judgment on; "I cannot judge some works of modern art")
+                   => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

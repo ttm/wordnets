@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA1659
+
+DADO O SYNSET:
+
+S='Glosa1659'
+{acumular: x,
+ cobrir: As chagas A]cobrem-lhe o corpo.,
+ cumular: Portanto, o mencionado Sumo Pontífice, com a Carta de 23 de Abril de 1718, instituiu canonicamente uma sede de estudos e I]cumulou-a de privilégios. ,
+ embatumar: x,
+ encher: Ela correu à Tijuca, [encheu de beijos a mãe e a criança, deu a mão a beijar a Carlos Maria.,}
+	  
+A='Glosa1140'
+{desacumular}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1659' = “tornar cheio/completo, também em sentido metafórico”
+{acumular: Herla descobriu um palácio maravilhoso, sendo recebido como um irmão pelo Rei dos mortos, que novamente o I]acumulou de riquezas.,
+ cobrir: A liberação dos gens do império da política reacionária [cobriu de ridículo o stalinismo e não poucos intelectuais do Ocidente.,
+ cumular: O jantar em homenagem ao ministro José Dirceu teve como brinde extra uma homenagem pública feita pela anfitriã, que o cumulou de elogios.,
+ encher: O placar, de triste lembrança para o tricolor, [encheu de orgulho o peito vermelho e preto.,}
+	  
+A='Glosa1140'
+{desacumular}
+Chave: ENCHER <verb.change>
+ILI: 00439460
+
+Sense 1
+{00439460} <verb.change> fill1, fill up, make full -- (make full, also in a metaphorical sense; "fill a container"; "fill the child with pride")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")
+          Also See-> {01647134} <verb.creation> fill in#2; {01158573} <verb.consumption> fill out#5

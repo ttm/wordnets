@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA1703B
+
+DADO O SYNSET:
+
+S='Glosa1703'
+{emulsificar: A bile serve para I]emulsificar gorduras, aumentando a superfície de contato, facilitando a ação das lipases pancreáticas e entéricas. ,
+ emulsionar: A lecitina é usada em muitas rações animais devido suas propriedades nutricionais e funcionais, com aplicações principais em I]emulsionar a gordura para melhorar a digestão e a eficiência da alimentação animal.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1703'B = “transformar-se numa emulsão”
+{emulsificar: O produto emulsifica em água.,
+ emulsificar-se: No novo processo o betume se I]emulsifica a temperatura ambiente pela ação de uma espécie de sabão, formando gotas que tornam o sistema mais fluido.,
+ emulsionar: O Óleo Tantric pode ser aplicado diretamente na pele seca ou úmida, I]emulsiona imediatamente quando em contato com a água.,
+ emulsionar-se: Como o óleo aromático puro não se I]emulsiona na água, dissolva 6 a 10 gotas de óleo.,} 
+Chave: EMULSIONAR <verb.change>
+ILI: 00487183
+
+Sense 2
+{00487183} <verb.change> emulsify -- (form into or become an emulsion; "The solution emulsified")
+       => {00140715} <verb.change> change state, turn4 -- (undergo a transformation or a change of position or action; "We turned from Socialism to Capitalism"; "The people turned against the President when he stole the election")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA1353
+
+DADO O SYNSET:
+
+S='Glosa1353'
+{desengulhar: x,
+ desenjoar: Normalmente isso acontece depois de uma hora andando de bicicleta ou quando acabam de comer uma barra enorme de chocolate e precisam da água para I]desenjoar. # A passagem da tripulação pelas Ilhas Galápagos é, de resto, o único conjunto de cenas filmadas em terra, servindo para I]desenjoar da arajem marítima,}
+	  
+A='Glosa1858'
+{anojar, engulhar, enjoar, enojar, entojar, nausear, repugnar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1353' = “tirar o enjôo [a]”
+{desenjoar: Nana – essa erva é muito comum, parece-se com a erva babosa, a fruta é muito cheirosa, gostosa, também se fazem em conserva, e cruas I]desenjoam muito no mar.,}
+A='Glosa1858'
+{anojar, engulhar, enjoar, enojar, entojar, nausear, repugnar}
+Chave: DESENJOAR <verb.body>
+ILI: EQ_HAS_HYPERONYM – 00062014 – “promover conforto físico, como se fosse de uma dor”
+
+Sense 1
+{00062014} <verb.body> relieve, alleviate, palliate, assuage -- (provide physical relief, as from pain; "This pill will relieve your headaches")
+       => {00198579} <verb.change> better1, improve1, amend, ameliorate1, meliorate1 -- (to make better; "The editor improved the manuscript with his changes")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

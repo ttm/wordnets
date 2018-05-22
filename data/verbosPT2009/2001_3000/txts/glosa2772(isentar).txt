@@ -1,0 +1,63 @@
+ANÁLISE DA GLOSA2772
+
+DADO O SYNSET:
+
+S='Glosa2772'
+	    {absolver: Passou uma noite horrível à procura de um motivo, um pretexto qualquer para [absolver o amante, sentia uma irresistível vontade de fazer de si uma vitima resignada capaz de comover o coração menos humano.,
+	      desatar: x,
+	      descarregar: H]Descarregaram-no da dívida,
+	      descometer: A]Descometeu-o da tarefa.,
+	      desculpar: Solicitou que a H]desculpassem de ir ao jantar.,
+	      desencarregar: A ideologia do neoliberalismo, I]desencarregando o Estado da sua responsabilidade social, ea rápida capitalização externa do país trazem consigo inúmeros custos sociais.,
+	      desobrigar: Primeiro, em caso de um modelo privatizante, isto significa [desobrigar o Estado de prover a educação pública e de qualidade; implica a criação de padrões diferenciados de qualidade.,
+	      desonerar: É preciso [desonerar os agentes econômicos da imposição de normas indexadores e taxas oficiais.,
+	      desquitar: A noiva H]desquitou-o do compromisso.,
+	      dispensar: O Imperador revoltou-se contra a decisão de Gregório VII, e este o excomungou, além de [dispensar seus vassalos das obrigações que tinham para com ele.,
+	      escusar: Não quero I]escusar a responsabilidade do governo como tal.,
+	      exculpar: O sr. tem se dedicado nos últimos tempos a I]exculpar de toda a responsabilidade o Exército do Chile e seu Comandante em Chefe pela morte de seu pai. Por que?,
+	      eximir: Azeredo queixou-se do "oportunismo autoritário" dos manifestantes e procurou [eximir o governador Almir Gabriel da responsabilidade pelos acontecimentos no seu estado, lembrando que a disputa pela terra "é um problema social que existe no Brasil todo, independente do estado e do partido do governador".,
+	      exonerar: Cessada a obrigação de prestar alimentos, o juiz mandará, conforme o caso, cancelar a cláusula de inalienabilidade e impenhorabilidade ou [exonerar da caução o devedor.,
+	      isentar: Na tentativa de [isentar Bisol de qualquer deslize ético ao se aproveitar de empréstimos bancários em condições inacessíveis ao cidadão comum, Falcão afirmou ainda que foram movidas ações populares contra as transações e que elas foram consideradas improcedentes.,
+	      liberar: Proposta é I]liberar trabalhador de pagar pena de cinco anos, caso deixe de contribuir por dois anos com a aposentadoria.,
+	      livrar: Na opinião de alguns, essa transferência do passivo previdenciário seria uma preparação para a privatização do BB no futuro; uma espécie de jogada para I]livrar o Banco da obrigação trabalhista existente, sem o aporte devido das contribuições respectivas (conforme se confirmou posteriormente).,
+	      quitar: H]quitou-o da obrigação.,
+	      redimir: Ao construir personagens que, em não sendo perdedores natos tampouco são vencedores, parece querer I]redimir a humanidade das suas  obrigações.,
+	      remir: Em qualquer fase da execução tem o devedor o direito de ver atualizada a sua dívida para [remir a execução ou efetivar o seu pagamento, sem que este procedimento possa ser considerado protelatório.,
+	      ressalvar: H]Ressalvar de culpa os menores abandonados.,}
+
+	  A='Glosa490'
+	    {obrigar: A Lei de Terras impedia o livre acesso dos imigrantes que chegavam ao Império I]obrigando-os à venda de sua força de trabalho.,
+	     onerar: Acabar com as famosas e trabalhosas responsabilidades acessórias que infernizam a vida de todos os contribuintes, além de I]onerá-los com custos.,
+	     sujeitar: Os países capitalistas dominaram africanos, asiáticos e latino-americanos, I]sujeitando-os à miséria, à humilhação e ao preconceito.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2772' = “Conceder dispensa ou exoneração de”
+	    {absolver: O I]absolveu de um fato a ele imputado em denúncia do Ministério Público.,
+	      desculpar: A pequenez do seu talento não o I]desculpou de não fazer uso dele.,
+	      desencarregar: Ele os I]desencarregou de todas as suas obrigações.,
+	      desobrigar: Na segunda, ele conseguiu liminar no STF que o I]desobrigou de ir à CPI.,
+	      desonerar:  O I]desonerou de suas responsabilidades funcionais e o punha a salvo de qualquer. punição.,
+	      dispensar: Ao ouvir as queixas do filho, a mãe o I]dispensou de ir às missas dominicais.,
+	      exculpar: Penal o I]exculpou da imputação que lhe havia sido infringida.,
+	      eximir: Lembrou que o presidente da CPI dos Correios, que o I]eximiu de responsabilidade em seu relatório, tinha sido o senador Delcídio Amaral.,
+	      exonerar: A Abril tivera antes, a seu favor, sentença que a I]exonerou de indenizar a ex-prefeita por causa de outra reportagem r.,
+	      isentar: Boa parte dos franceses o I]isentou de culpa.,
+	      liberar: Comovida com a situação financeira do cliente, o liberou de pagar os US$ 0,75 que faltavam para inteirar sua conta.,
+	      livrar: A afinidade, entretanto, não o I]livrou de uma pequena dúvida.,
+	      redimir: Bruna parece achar que sua atual e estratégica solteirice, a I]redimiu de qualquer responsabilidade com o emparedamento dos dois mais fortes jogadores.,
+	      remir: Pagou a dívida de todos eles e I]remiu-os todos, sem exceção.,
+	      ressalvar: O julgamento da decisão rescindenda I]ressalvou da movimentação os servidores que estivessem na última referência de sua classe funcional.,}
+
+	  A='Glosa490'
+	    {obrigar, onerar, sujeitar}
+
+Chave: ISENTAR <verb.communication>
+ILI: 00864448
+
+Sense 11
+{00864448} <verb.communication> excuse4, relieve1, let off, exempt -- (grant exemption or release to; "Please excuse me from this class")
+       => {00872741} <verb.communication> absolve, justify3, free -- (let off the hook; "I absolve you from this responsibility")
+           => {00873684} <verb.communication> forgive -- (stop blaming or grant forgiveness; "I forgave him his infidelity"; "She cannot forgive him for forgetting her birthday")
+               => {00779984} <verb.communication> concede1, yield1, grant -- (be willing to concede; "I grant you this much")
+                   => {00779329} <verb.communication> agree, hold15, concur, concord -- (be in accord; be in agreement; "We agreed on the terms of the settlement"; "I can't agree with you!"; "I hold with those who say life is sacred"; "Both philosophers concord on this point") 

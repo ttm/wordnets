@@ -1,0 +1,50 @@
+ANÁLISE DA GLOSA2792
+
+DADO O SYNSET:
+
+S='Glosa2792'
+	    {alterar: Após dois dias de reuniões, Konno ficou irritado com a falta de proposta para [alterar a Medida Provisória (MP) que fixou em 70% a alíquota de importação de carros para montadoras não instaladas no Brasil.,
+	      consertar: O ministro da Educação, Murílio Hingel, disse ontem à Folha que as editoras terão até julho para [consertar os erros e distorções dos livros didáticos adquiridos pelo Governo Federal. # "Vamos [consertar as falhas da primeira edição", diz Yazbek. ,
+	      corrigir: Tive tempo de rever diversas vezes o roteiro e de [corrigir falhas.,
+	      curar: x,
+	      desentortar: Ter caligrafia caprichada pode render mais ainda: sobrescritar convites elegantes virou um serviço bem pago. Eis um excelente motivo para você I]desentortar seus garranchos.,
+	      emendar: Revia absorvido um artigo e não queria distrair-se de modo a perder a menor regra gramatical com que pudesse [emendar o original.,
+	      endireitar: Começava a compreender o segredo do ritmo na poesia. Era tão difícil no início que eu às vezes passava uma semana para I]endireitar os versos de um poema.,
+	      esmondar: x,
+	      expurgar: A]Expurgar um texto.,
+	      mondar: x,
+	      recondicionar: x,
+	      refazer: O sapateiro escutou calmamente a reclamação, pediu desculpas, e prometeu [refazer o erro. # O vice, Bisol, e lideranças locais vão [refazer parte do itinerário de Lula.,
+	      reformar: Em sentido próprio e estrito, Emenda Constitucional é I]reformar ou retificar o texto da Constituição, conforme o art. 58 da Constituição Estadual. ,
+	      refundir: Prefaciou, anotou, traduziu e [refundiu vários trabalhos e documentos históricos e geográficos.,
+	      remediar: É pacífico no Supremo Tribunal Federal que uma lei revoga tratado anterior, sem prejuízo de quebra de compromisso internacional, fato que resulta da culpa dos poderes políticos a que o Judiciário não tem como I]remediar.,
+	      reparar: O Comissário pdoerá resumir em sua resposta suas revelações e assinalar, ante a pessoa envolvida na queixa e ante seu superior, a necessidade de [reparar o erro revelado pela investigação e a forma de repará-lo.,
+	      retificar: Por essa razão, peço-lhe [retificar o depoimento que fez a meu respeito, de forma a corrigir a falsa impressão que dele ficou sobre o meu passado e a minha honra.,}
+
+	  A='Glosa2350'
+	    {empenar1: Uma das restrições para o uso economicamente praticável da espécie de eucalipto na indústria brasileira de madeira é a tendência de rachar, I]empenar e colapsar dessa madeira. ,
+	     entortar: Sabe-se que sem tratamento a madeira racha, empena, I]entorta e, por isso, é sempre tratada.,
+	     torcer: A umidade também pode danificar as partes coladas do instrumento musical e causar deformações no braço empenar ou I]torcer.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2792' = “Tornar certo ou correto”
+	    {alterar: A oposição protestou e Jucá I]alterou o texto.,
+	      consertar: Tudo bem, I]consertou o que disse. Sou da Paraíba.,
+	      corrigir: Admitiu o erro, I]corrigiu o texto e publicou ontem pedido de desculpas.,
+	      emendar: A plenária final não I]emendou os textos.,
+	      expurgar: A obra saiu apenas em 1895, editada por sua irmã, que I]expurgou algumas passagens.,
+	      refazer: Voltou ao escritório e I]refez a apresentação.,
+	      reformar: O tribunal de Roma I]reformou a sentença, sob o argumento de que o dano decorrente da perda da chance não seria indenizável.,
+	      refundir: Prefaciou, anotou, traduziu e [refundiu vários trabalhos e documentos históricos e geográficos.,
+	      remediar: Nunca ouvimos falar dela, mas essa viagem logo I]remediou essa situação.,
+	      reparar: Mr. Barnard, I]reparou o seu equívoco com novas chapas, cujas emissões ficaram igualmente famosas como a primeira.,
+	      retificar: Para ele, o ato que I]retificou o edital do concurso teria afrontado os princípios da moralidade e da segurança jurídica.,}
+
+Chave: CORRIGIR <verb.change>
+ILI: 00192682
+
+Sense 5
+{00192682} <verb.change> correct, rectify2, right -- (make right or correct; "Correct the mistakes"; "rectify the calculation")
+       => {00133458} <verb.change> change by reversal, turn, reverse -- (change to the contrary; "The trend was reversed"; "the tides turned against him"; "public opinion turned when it was revealed that the president had an affair with a White House intern")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night") 

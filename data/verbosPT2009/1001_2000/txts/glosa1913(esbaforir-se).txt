@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA1913
+
+DADO O SYNSET:
+
+S='Glosa1913'
+{esbaforir-se: Nos escritos populares sobre assuntos científicos, a maltratada Estatística está quase substituindo a figura do herói de guarda-pó branco, esbaforindo-se sem parar, sem ganhar horas-extras, num sombrio laboratório. ,
+ esbofar-se: O velho que dirigia o caminhão se A]esbofou escada acima, sob o peso dos colchões. # H]Esbofou-se todo ao levantar a mesa da cozinha.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1913' = “respirar ruidosamente, como quando em exaustão”
+{esbaforir-se: Estou me I]esbaforando de tanto estudar, de tanto pensar em design de sites, de pensar em cenas...,}
+Chave: ESBAFORIR-SE <verb.body>
+ILI: 00005390
+
+Sense 1
+{00005390} <verb.body> pant, puff, gasp, heave1 -- (breathe noisily, as when one is exhausted; "The runners reached the finish line, panting heavily")
+       => {00006911} <verb.body> blow -- (exhale hard; "blow on the soup to cool it down")
+           => {00004127} <verb.body> exhale, expire, breathe out -- (expel air; "Exhale when you lift the weight")
+               => {00001740} <verb.body> breathe, take a breath, respire, suspire3 -- (draw air into, and expel out of, the lungs; "I can breathe better when the air is clean"; "The patient is respiring")

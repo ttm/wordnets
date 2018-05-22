@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0452
+
+DADO O SYNSET:
+
+S='Glosa452'
+{irrigar: Porém, como a previsão indica entrada de frente fria, deve-se aguardar até quarta-feira e [irrigar somente se o total de chuva for inferior a 30 mm.,
+regar: Segundo Célia de Assis, se a terra estiver ressecada, é hora de [regar,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa452' = “suprir com água; molhar; passar um curso de água através de”
+{irrigar: Porém, como a previsão indica entrada de frente fria, deve-se aguardar até quarta-feira e [irrigar somente se o total de chuva for inferior a 30 mm.,
+regar: Segundo Célia de Assis, se a terra estiver ressecada, é hora de [regar,}
+Chave: REGAR <verb.change>
+ILI: 00220663
+
+Sense 1
+{00220663} <verb.change> water, irrigate -- (supply with water, as with channels or ditches or streams; "Water the fields")
+       => {00207542} <verb.change> wet -- (cause to become wet; "Wet your face")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

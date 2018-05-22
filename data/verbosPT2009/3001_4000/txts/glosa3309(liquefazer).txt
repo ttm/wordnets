@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA3309
+
+DADO O SYNSET:
+
+S='Glosa3309'
+	    {
+	      coliquar: x,
+	      delir: H]Delir o açúcar (em água).,
+	      derreter: Há quem creia que esse aquecimento poderia [derreter o gelo dos pólos, aumentando o nível dos oceanos e inundando extensas áreas costeiras. ,
+	      dissolver: Em situações de emergência, José Amino recomenda tomar uma aspirina diluída em água para [dissolver o coágulo.,
+	      fundir1: Duas hastes metálicas sustentam um filamen to de tungstênio, que pode atingir temperaturas de até 3 000°C, sem [fundir. ,
+	      liquefazer: Esta degradação dirigida evita o mau odor provocado pela ação das bactérias anaeróbias e I]liquefaz a matéria orgânica contida nas tubulações. ,
+	      liquescer: x,
+	      liquidificar: O físico alemão Franz Ernnest Neumann no século XIX conseguiu I]liquidificar sangue humano que estava coagulado.,
+	      liqüidificar: x,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3309' = “tornar líquido ou fluido quando aquecido”
+	     {delir: H]Delir o açúcar (em água).,
+	      derreter: Fonseca [derreteu o busto bigodudo e caboclo do compositor para refundi-lo na estátua equestre do garanhão mulato. ,
+	      dissolver: Em mais de 13 anos de trabalho, a equipe de Colalucci retirou camadas de pó, cola e fumaça, [dissolveu sais minerais e preencheu rachas e lascas para descobrir, sob o depósito dos tempos, novas cores e humores no mais famoso dos afrescos da história da arte.,
+	      fundir1: Em seguida I]fundiu dois capitéis de bronze para os colocar no alto das colunas; a altura de cada capitel era de dois metros e meio. ,
+	      liquefazer: Com mais facilidade ainda, ele I]liquefez o zinco do telhado, controlou-o de forma que envolvesse todo o oponente e em seguida solidificou-o. ,
+	      liquidificar: O tesouro de ouro fundiu-se e I]liquidificou-se transformando-se na Lagoa Dourada.,}
+Chave: LIQUEFAZER <verb.change>
+ILI: 00431323
+
+Sense 3
+{00431323} <verb.change> liquefy, flux1, liquify -- (become liquid or fluid when heated; "the frozen fat liquefied")
+       => {00135037} <verb.change> change integrity -- (change in physical make-up)
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

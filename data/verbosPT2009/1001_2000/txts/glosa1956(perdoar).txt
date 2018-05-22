@@ -1,0 +1,37 @@
+ANÁLISE DA GLOSA1956
+
+DADO O SYNSET:
+
+S='Glosa1956'
+    	{absolver: Para eles o lucro justifica todos os meios, I]absolve de todos os crimes e pecados.,
+      	 descriminar: x,
+      	 desculpar: Podia-se aparentemente esquecer que Pauline aceitara participar em uma farsa pública para [desculpar seu homem, e pior ainda que ela devia então querer seguir vivendo com o assassino de sua filha.,
+      	 escusar: Não será de auxílio I]escusar Ellen White por endossá-lo com base no fato de que ela estava sendo honestamente enganada por ele. ,
+      	 exculpar: No entanto, usa-se como argumento a insanidade temporária - que é uma excludente da criminalidade - para I]exculpar maridos que matam as mulheres por mera suspeita de infidelidade.,
+      	 inocentar: Ele disse que os dados pareciam [inocentar Byrd da acusação feita por um antigo colega, em 1971, de que ele sequer havia tentado seriamente atingir o Pólo .,
+      	 perdoar: A sociedade consegue [perdoar o criminoso, e jamais perdoa o sonhador» diz Oscar Wilde.,
+      	 purificar: O dinheiro M]purifica os criminosos.,}
+  
+A='Glosa1750'
+    	{acoimar, acusar, criminar, culpar, incriminar, responsabilizar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1956' = “livrar [alguém] de responsabilidade/culpa”
+    	{absolver: Eu acho que essa afirmação nesse livro me [absolve historicamente, prova que eu estava certo.,
+      	 desculpar: Que me [desculpem os fãs do Golden State Warriors, mas não o considero o homem ideal para dirigir uma seleção da NBA.,
+      	 escusar: Estas considerações explicam e até I]escusam o comentário do sr. Miguel.,
+      	 exculpar: O Brasil inteiro observou as declarações do Sr. Antônio Vedoin imputando a inúmeros Parlamentares condutas não condizentes com o exercício do mandato popular. Pretendendo-se, desde já, a postura do mesmo em meio às suas declarações, I]excusando vários Parlamentares que antes tinham sido objeto de suas imputações nefastas.,
+      	 inocentar: Em sua entrevista, Borjão procurou também [inocentar o tenente Marcelo Côrtes e o soldado Cláudio Luiz dos Santos.,
+      	 perdoar: A família da estudante Andréia Joaquina do Nascimento, 15, [perdoou o investigador Guilherme Fera pelo tiro que lhe deu em dezembro do ano passado, quando perseguia o traficante «Toby».,}
+  
+A='Glosa1750'
+    	{acoimar, acusar, criminar, culpar, incriminar, responsabilizar}
+Chave: PERDOAR <verb.communication>
+ILI: 00872741
+
+Sense 2
+{00872741} <verb.communication> absolve, justify3, free -- (let off the hook; "I absolve you from this responsibility")
+       => {00873684} <verb.communication> forgive -- (stop blaming or grant forgiveness; "I forgave him his infidelity"; "She cannot forgive him for forgetting her birthday")
+           => {00779984} <verb.communication> concede1, yield1, grant -- (be willing to concede; "I grant you this much")
+               => {00779329} <verb.communication> agree, hold15, concur, concord -- (be in accord; be in agreement; "We agreed on the terms of the settlement"; "I can't agree with you!"; "I hold with those who say life is sacred"; "Both philosophers concord on this point")

@@ -1,0 +1,38 @@
+ANÁLISE DA GLOSA3619 
+
+DADO O SYNSET:
+
+S='Glosa3619'
+	    {
+	      arrepiar: Uma cutia tímida e arisca apareceu na lezira da mata e  escondeu-se [arrepiando o seu pêlo vermelho e afogueado. ,
+	      arriçar: x,
+	      arrufar: Ergueu ela os olhos e viu entre as folhas da palmeira sua linda jandaia, que batia as asas, e [arrufava as penas com o prazer de vê-la,
+	      arrupiar: Meu cabelo I]arrupiou e meu chapéu ficou no ar.,
+	      encrespar: Conseguiu enfurecer o animal que I]encrespou o pelo, e saltou-lhe às pernas.,
+	      enoiriçar: x,
+	      enouriçar: x,
+	      eriçar: Então o animal, lançando ao redor um olhar injetado de sangue, [eriçou o pêlo, e ficou imóvel no mesmo lugar, hesitando se devia arriscar o ataque. ,
+	      erriçar: A planta respira; um suave arrepio [erriça a verde coma da floresta.,
+	      espetar: Nossa, fechem as janelas porque meu cabelo vai I]espetar.,
+	      oiriçar: x,
+	      ouriçar: Podemos até mesmo ouvir gemidos em nossos ouvidos, o calor da respiração em nosso pescoço fazendo I]ouriçar nossos pêlos de cima em baixo.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3619' = “eriçar ou afofar”
+	     {arrepiar: As estrelas perdiam o brilho, a brisa I]arrepiava os pêlos dos braços. ,
+	      arrufar: Ergueu ela os olhos e viu entre as folhas da palmeira sua linda jandaia, que batia as asas, e [arrufava as penas com o prazer de vê-la,
+	      arrupiar: Meu cabelo I]arrupiou e meu chapéu ficou no ar.,
+	      encrespar: Conseguiu enfurecer o animal que I]encrespou o pelo, e saltou-lhe às pernas.,
+	      eriçar: Então o animal, lançando ao redor um olhar injetado de sangue, [eriçou o pêlo, e ficou imóvel no mesmo lugar, hesitando se devia arriscar o ataque. ,
+	      erriçar: De repente o brioso cavalo que relinchava de alegria, I]erriçou a crina e soltou do peito um ornejo surdo.,
+	      espetar: Nossa, fechem as janelas porque meu cabelo vai I]espetar.,
+	      ouriçar: Um silvo chamou a atenção de Igor e lhe I]ouriçou os pelos do corpo.,}
+Chave: ARREPIAR <verb.contact>
+ILI: 01351415
+
+Sense 7
+{01351415} <verb.contact> ruffle1, fluff -- (erect or fluff up; "the bird ruffled its feathers")
+       => {01237410} <verb.contact> loosen -- (make less dense; "loosen the soil")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

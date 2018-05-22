@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA2402
+
+DADO O SYNSET:
+
+S='Glosa2402'
+	    {taramelar: M]Taramelamos o portão.,
+	      tramelar: I]Tramelou a porta do quarto e, segurando a lamparina, olhou-se no espelhinho pregado na parede.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2402' = “fechar com tramela”
+	    {taramelar: M]Taramelamos o portão.,
+	      tramelar: I]Tramelou a porta do quarto e, segurando a lamparina, olhou-se no espelhinho pregado na parede.,}
+
+Chave: TRAMELAR <verb.contact>
+ILI: 01248534
+
+{01248534} <verb.contact> latch -- (fasten with a latch; "latch the door")
+       => {01300906} <verb.contact> fasten1, fix, secure1 -- (cause to be firmly attached; "fasten the lock onto the door"; "she fixed her gaze on the man")
+           => {01257892} <verb.contact> attach1 -- (cause to be attached)
+               => {01314764} <verb.contact> connect, link, tie1, link up -- (connect, fasten, or put together two or more pieces; "Can you connect the two loudspeakers?"; "Tie the ropes together"; "Link arms")

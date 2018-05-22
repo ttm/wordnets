@@ -1,0 +1,39 @@
+ANÁLISE DA GLOSA3825
+
+DADO O SYNSET:
+
+S='Glosa3825'
+{afiambrar: H]Afiambrou o filho para a festa.,
+	 ajanotar: Por isso insistia muito com ela em que se I]ajanotasse aos domingos, à missa.,
+	 aperaltar: x,
+	 casquilhar: x,
+	 galanar: x,
+	 galanear: x,
+	 galear: Também se vêem as casadas que porque querem brilhar trazer jóias e I]galear e serem mui regaladas as honras trazem manchadas.,
+	 janotar: x,
+	 janotear: Ele gosta de M]janotear.,
+	 peraltar: x,
+	 peraltear: x,
+	 peralvilhar: O Peralvilho pudera de vos tomar lições de I]peralvilhar, para ser reperalvilho.,
+	 pimpar: Foi, depois, fazer figura, ao I]pimpar entre os pavões.,
+	 pimponar: Aquilo M]pimponava aí que nem a mais pintada fidalga.,
+	 pimponear: x }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3825' = “vestir ou arrumar [alguém] com cuidados elaborados”
+{afiambrar: H]Afiambrou o filho para a festa.,
+	 ajanotar: Por isso insistia muito com ela em que se I]ajanotasse aos domingos, à missa.,
+	 galear: Também se vêem as casadas que porque querem brilhar trazer jóias e I]galear e serem mui regaladas as honras trazem manchadas.,
+	 janotear: Ele gosta de M]janotear.,
+	 peralvilhar: O Peralvilho pudera de vos tomar lições de I]peralvilhar, para ser reperalvilho.,
+	 pimpar: Foi, depois, fazer figura, ao I]pimpar entre os pavões.,
+	 pimponar: Aquilo M]pimponava aí que nem a mais pintada fidalga.}
+Chave: GALEAR <verb.body>
+ILI: 00042209
+
+Sense 5 
+{00042209} <verb.body> preen, primp, plume, dress5 -- (dress or groom with elaborate care; "She likes to dress when going to the opera")
+       => {00042675} <verb.body> dress up, fig out, fig up, deck up, gussy up, fancy up, trick up, deck out, trick out, prink, attire, get up2, rig out, tog up, tog out, overdress -- (put on special clothes to appear particularly appealing and attractive; "She never dresses up, even when she goes to the opera"; "The young girls were all fancied up for the party")
+           => {00045016} <verb.body> dress, get dressed -- (put on clothes; "we had to dress quickly"; "dress the patient"; "Can the child dress by herself?")
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

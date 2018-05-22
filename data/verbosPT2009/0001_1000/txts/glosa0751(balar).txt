@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0751
+
+DADO O SYNSET:
+
+S='Glosa751'
+{balar: Oh, quem pudera ser feliz como mansa ovelha a pascer e I]balar tranquilo em verde prado!,
+balir: O carneiro começou de novo a I]balir suas partituras queixosas. # Aprendeu a I]balir e a pastar capim, embora isso fose muito ruim para seu sistema digestivo.,
+berregar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa751' = “dar balidos (como ovelhas)”
+{balar: Oh, quem pudera ser feliz como mansa ovelha a pascer e I]balar tranquilo em verde prado!,
+balir: O carneiro começou de novo a I]balir suas partituras queixosas. # Aprendeu a I]balir e a pastar capim, embora isso fose muito ruim para seu sistema digestivo.,}
+Chave: BALAR <verb.communication>
+ILI: 01014741
+
+Sense 2
+{01014741} <verb.communication> bleat, blate, blat, baa -- (cry plaintively; "The lambs were bleating")
+       => {00951670} <verb.communication> utter2, emit, let out2, let loose -- (express audibly; utter sounds (not necessarily words); "She let out a big heavy sigh"; "He uttered strange sounds that nobody could understand")

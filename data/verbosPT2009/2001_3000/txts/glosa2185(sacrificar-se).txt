@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA2185
+
+DADO O SYNSET:
+
+S='Glosa2185'
+	    {imolar-se: Se levarmos em conta que Alejandra acabará por matar seu pai e amante e imolar-se pelo fogo, tal ameaça adquire outras dimensões.,
+	      sacrificar-se: O Senhor I]sacrificou-se a si mesmo como vítima imolada de paz sobre o altar da Cruz.,
+	      vitimar-se: M]Vitimou-se Cristo pelos pecadores.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2185' =”ofercer-se como sacrifício ou entregar-se para a destruição”
+	    {imolar-se: Pessoas dispostas a I]imolar-se e que acreditam numa recompensa eterna por seus atos.,
+	      sacrificar-se: O Senhor I]sacrificou-se a si mesmo como vítima imolada de paz sobre o altar da Cruz.,
+	      vitimar-se: M]Vitimou-se Cristo pelos pecadores.,}
+
+Chave: SACRIFICAR-SE <verb.possession>
+ILI: 02258341
+
+Sense 1
+{02258341} <verb.possession> immolate -- (offer as a sacrifice by killing or by giving up to destruction; "The Aztecs immolated human victims"; "immolate the valuables at the temple")
+       => {02258163} <verb.possession> sacrifice1 -- (make a sacrifice of; in religious rituals)
+           => {02535621} <verb.stative> offer, offer up -- (present as an act of worship; "offer prayers to the gods")
+               => {02535409} <verb.stative> worship -- (attend religious services; "They worship in the traditional manner")
+                   => {02534896} <verb.stative> attend, go to -- (be present at (meetings, church services, university), etc.; "She attends class regularly"; "I rarely attend services at my church"; "did you go to the meeting?")
+                       => {02576058} <verb.stative> be5 -- (occupy a certain position or area; be somewhere; "Where is my umbrella?" "The toolshed is in the back"; "What is behind this behavior?")

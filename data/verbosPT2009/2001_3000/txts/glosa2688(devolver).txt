@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA2688
+
+DADO O SYNSET:
+
+S='Glosa2688'
+	    {devolver: Depois de ter ficado algumas semanas com a vitória de Al Unser Jr. em Portland-95 e ser obrigado a [devolver o troféu. ,
+	      entregar: O usuário que I]entregar o material em atraso, não poderá ter o seu empréstimo renovado.,
+	      remitir: Na obrigação indivisível, se um dos credores I]remitir a dívida, a obrigação ficará extinta para com os outros credores.,
+	      restituir: É bem provável, inclusive, que eles queiram devolvê-lo antes do término do empréstimo, disse, explicando que, nesse caso, o Flamengo teria que [restituir o clube paulista em US$ 400 mil.,
+	      tornar: A]Tornou o anel à sua dona.,
+	      voltar: O rapaz I]voltou com o dinheiro no dia seguinte, tinha-o tomado emprestado ao próprio marido dela, sob pretexto de abrir um pequeno negócio.,
+	      volver: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2688' = “Entregar ou levar de volta.”
+	    {devolver: O papai até já I]devolveu o carro e não é mais amigo daquelas pessoas ruins.,
+	      entregar: O usuário que I]entregar o material em atraso, não poderá ter o seu empréstimo renovado.,
+	      restituir: Além disso, o acusado nãoI] restituiu o produto e nem pagou o equivalente.,
+	      tornar: A]Tornou o anel à sua dona.,
+	      voltar: Num determinado município da Bahia o prefeito andou utilizando, para pagar o gari, o dinheiro da saúde e no fim voltou o dinheiro.,}
+
+Chave: DEVOLVER <verb.possession>
+ILI: 02243546
+
+Sense 1
+{02243546} <verb.possession> restore, restitute -- (give or bring back; "Restore the stolen painting to its rightful owner")
+       => {02218920} <verb.possession> refund, return, repay, give back -- (pay back; "Please refund me my money")
+           => {02186811} <verb.possession> pay -- (give money, usually in exchange for goods or services; "I paid four dollars for this sandwich"; "Pay the waitress, please")
+               => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+                   => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children") 

@@ -1,0 +1,36 @@
+ANÁLISE DA GLOSA2477
+
+DADO O SYNSET:
+
+S='Glosa2477'
+	    {apanhar: Mas quinta-feira era, decididamente, um dia mau para [apanhar a classe política em calções de banho.,
+	      assaltar: Garoto tenta I]assaltar jornalista usando um rato.,
+	      assaltear: x,
+	      encontrar: Só se o [encontrar na mesa ao lado com a minha mulher.,
+	      pegar: A PEC 574 amplia a base de cálculo para repasses ao Legislativo e pode I]pegar de surpresa a maior parte dos prefeitos de Goiás.,
+	      sobressaltar: Tornar-se a primeira-dama, a partir de 1 de janeiro, portanto, é uma hipótese que não chega a I]sobressaltar essa neta de italianos, mãe de quatro filhos, avó de dois netos, que começou a ganhar a vida muito cedo.,
+	      sobressaltear: Em fúria, a horda bárbara H]sobressalteou a cidade.,
+	      surpreender: Marcelle preparada para I]surpreender mais uma vez a defesa japonesa.,
+	      surpresar: Devo esclarecer que I]surpresei ao receber esta resposta.,
+	      tomar: Algumas estações são completamente fechadas durante o final de semana, por isto não precisa I]tomar susto se o metrô não parar nelas.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2477' = “Descobrir ou acometer acidentalmente, de repente, ou inesperadamente; surpreender alguém fazendo alguma coisa e uma certa condição.”
+	    {apanhar: De resto, ele chegou sem cólera, todo meigo, apesar do gesto duvidoso em que nos [apanhou.,
+	      assaltar: Não foi sem algum esforço que ela conseguiu dominar os primeiros temores que a [assaltaram.,
+	      encontrar: I]Encontrou Sofia com uma senhora idosa e outra moça ..,
+	      pegar: Um guarda, como não poderia deixar de ser, os I]pegou em flagrante.,
+	      sobressaltar: Gripe asiática, que I]sobressaltou o mundo no ano passado.,
+	      sobressaltear: Em fúria, a horda bárbara H]sobressalteou a cidade.,
+	      surpreender: Um insurgente morreu e outro se suicidou enquanto eram perseguidos pela Polícia, que os I]surpreendeu quando tentavam colocar uma bomba em uma estrada.,
+	      surpresar: Devo esclarecer que I]surpresei ao receber esta resposta.,
+	      tomar: Ficaram indignados com a ação da Prefeitura, que os I]tomou de surpresa na manhã deste sábado.,}
+
+Chave: APANHAR <verb.cognition>
+ILI: 00701750
+
+Sense 1
+{00701750} <verb.cognition> catch1 -- (discover or come upon accidentally, suddenly, or unexpectedly; catch somebody doing something or in a certain state; "She caught her son eating candy"; "She was caught shoplifting")
+       => {00701276} <verb.cognition> surprise -- (cause to be surprised; "The news really surprised me")
+           => {01716999} <verb.emotion> affect, impress1, move, strike -- (have an emotional or cognitive impact upon; "This child impressed me as unusually mature"; "This behavior struck me as odd") 

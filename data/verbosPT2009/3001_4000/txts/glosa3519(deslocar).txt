@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA3519
+
+DADO O SYNSET:
+
+S='Glosa3519'
+	    {
+	      afastar: Usamos pedaços de bancos da praça de alimentação como alavanca para [afastar o entulho de cima dela.,
+	      demover: Perversa, a raposa não desanimava na cantada, tudo fazendo para I]demover o burro do lugar onde se encontrava.,
+	      descolocar: I]Descolocando  o Centro de Gravidade para a frente, o aeromodelo vôou muito bem.,
+	      deslocar: Você notará que deve aplicar mais força para [deslocar o livro no chão do que para deslocá-lo sobre a mesa./ Os presos [deslocaram algumas peças de concreto, retiraram a tampa e chegaram à rua.  ,
+	      mexer: Ninguem I]mexe uma palha. ,
+	      mover: Para pegar uma banana que estava fora de seu alcance, um macaco teria de [mover uma cadeira de um lugar para outro.,
+	      mudar: Ele conseguiu I]mudar o sofá de lugar umas três vezes.,
+	      remover: Apanhou a foice e acabou de cortar um galho que enleava o tronco a [remover. / Quaresma ficou um instante pensativo, deixando de [remover os galhos cortados.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3519' = “fazer mover, em sentido concreto ou abstrato”
+	     {afastar: Usamos pedaços de bancos da praça de alimentação como alavanca para [afastar o entulho de cima dela.,
+	      demover: Perversa, a raposa não desanimava na cantada, tudo fazendo para I]demover o burro do lugar onde se encontrava.,
+	      descolocar: I]Descolocando  o Centro de Gravidade para a frente, o aeromodelo vôou muito bem.,
+	      deslocar: Você notará que deve aplicar mais força para [deslocar o livro no chão do que para deslocá-lo sobre a mesa./ Os presos [deslocaram algumas peças de concreto, retiraram a tampa e chegaram à rua.  ,
+	      mexer: Juba e Iru seguem as pistas de Jaci, mas percebem que Brandão I]mexeu nas pedras, e voltam para o caminho correto. ,
+	      mover: Ela I]moveu seu peão duas casas para a frente, assistiu enquanto ele movia seu cavaleiro, então ela moveu seu cavaleiro.,
+	      mudar: Ele conseguiu I]mudar o sofá de lugar umas três vezes.,
+	      remover: Um dia qualquer, a prefeitura [removeu o pessoal todo e ergueu grades junto ao muro. / Quaresma ficou um instante pensativo, deixando de [remover os galhos cortados.,}
+Chave: DESLOCAR <verb.motion>
+ILI: 01796771
+
+Sense 4
+{01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

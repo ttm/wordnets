@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA2308
+
+DADO O SYNSET:
+
+S='Glosa2308'
+	    {transluzir: O sol I]transluzia por entre as folhas e esquentava o ar impiedosamente.,
+	      transverberar: Através das árvores, a claridade solar H]transverberava na floresta.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2308' = “refletir como calor, som, luz, ou ondas”
+	    {transluzir: O sol I]transluzia por entre as folhas e esquentava o ar impiedosamente.,
+	      transverberar: Através das árvores, a claridade solar H]transverberava na floresta.,}
+
+Chave: REVERBERAR <verb.perception>
+ILI: 02074733
+
+{02074733} <verb.perception> reverberate6 -- (be reflected as heat, sound, or light or shock waves; "the waves reverberate as far away as the end of the building")
+       => {02074416} <verb.perception> reflect, reverberate4 -- (to throw or bend back or reflect (from a surface); "A mirror in the sun can reflect light into a person's eyes"; "Sound is reflected well in this auditorium")

@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0133B
+
+DADO O SYNSET:
+
+S='Glosa133B'
+{acusar: No balanço da Receita Federal, que I]acusa o recebimento de 31.694 declarações no Maranhão, constam as declarações recebidas em meio magnético (disquete) e internet.,
+confessar: O outro foi D.F., 17 anos, que I]confessou ter participado do homicídio.,
+declarar: Quantos já desviaram dinheiro, estão como homens de bem e aparecem nos jornais?, [declarou o desembargador. ,
+revelar: A comissão de sindicância [revelou ainda indícios de falsificação de documentos, formação de cartéis familiares da fraude e conivência.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa133B' = “anunciar publicamente ou oficialmente”
+{confessar: O outro foi D.F., 17 anos, que I]confessou ter participado do homicídio.,
+declarar: Quantos já desviaram dinheiro, estão como homens de bem e aparecem nos jornais?, [declarou o desembargador. ,}
+Chave: DECLARAR <verb.communication>
+ILI: 00933912
+
+Sense 2
+{00933912} <verb.communication> announce2, declare5 -- (announce publicly or officially; "The President declared war")
+       => {00976600} <verb.communication> state, say, tell4 -- (express in words; "He said that he wanted to marry her"; "tell me what is bothering you"; "state your opinion"; "state your name")
+           => {00909455} <verb.communication> express, verbalize3, verbalise3, utter1, give tongue to -- (articulate; either verbally or with a cry, shout, or noise; "She expressed her anger"; "He uttered a curse")

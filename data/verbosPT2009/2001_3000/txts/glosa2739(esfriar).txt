@@ -1,0 +1,38 @@
+ANÁLISE DA GLOSA2739
+
+DADO O SYNSET:
+
+S='Glosa2739'
+	    {esfriar: Tentam obter grão translúcido e bom de cozimento - um meio-termo entre o arroz que empapa e o que endurece depois de [esfriar.,
+	      gelar: Pela avaliação, a chopeira parece mais útil para [gelar com rapidez chá, sucos ou refrigerantes.,
+	      refrigerar: O engenheiro Ari Ferreira de Abreu, aluno da USP, descobriu que o calor dos gases de escapamentos pode [refrigerar a carga de caminhões frigoríficos.,
+	      resfriar: As frentes frias entram na cidade pelo sul e a vegetação e as represas destas áreas ajudam a [resfriar o ar ainda mais.,}
+
+	  A='Glosa4115'
+	    {abrasar: O sol H]abrasava o solo.,
+	     acalorar: A água fervente H]acalora as marmitas.,
+	     aquecer: Era o fogão à lenha num canto da sala, o qual, além de esquentar a comida, I]aquecia o ambiente .,
+	     aquentar: x,
+	     cozinhar: H]Cozinhou o pudim em banho-maria.,
+	     desenregelhar: x,
+	     encalmar: O sol do meio-dia A]encalmava os caminhantes.,
+	     esquentar: Diego I]esquentou a comida para os dois.,
+	     quentar: Senta, a comida já I]quentou.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2739' = “Tornar fresco ou mais fresco”
+	    {esfriar: O mecânico I]esfriou o conjunto (parafuso+suporte), já que o coeficiente de dilatação. linear do alumínio é maior que o do ferro.,
+	      gelar: Coloquei um ventilador funcionando com ele aberto e I]gelou o pc.,
+	      refrigerar: Rouba pouca potência do motor e [refrigera a cabine com eficiência.,
+	      resfriar: As cinzas e gases do Pinatubo [resfriaram a atmosfera e também atacaram a camada de ozônio.,}
+
+	  A='Glosa4115'
+	    {abrasar, acalorar, aquecer, cozinhar, encalmar, esquentar, quentar}
+
+Chave: ESFRIAR <verb.change>
+ILI: 00359141
+
+Sense 1
+{00359141} <verb.change> cool1, chill1, cool down -- (make cool or cooler; "Chill the food")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

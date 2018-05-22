@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA3291
+
+DADO O SYNSET:
+
+S='Glosa3291'
+	    {
+	      deletrar: O dono do sítio não sabia ler nem escrever, assim mesmo possuía um livro, capeado de couro, que se chamava o Senclér das Ilhas, e que pedi para [deletrar nos meus descansos. ,
+	      deletrear: Roger é usado para I]deletrear a letra R quando utilizada no sentido de se perguntar, ou afirmar, que ou se, entendeu a mensagem corretamente. ,
+	      letrear: x,
+	      soletrar: Somente quando terminou de [soletrar a última sílaba o Menino largou suas pernas.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3291' = “recitar as letras ou dar a ortografia”
+	     {soletrar: A sertaneja I]soletrou o primeiro nome.,}
+Chave: SOLETRAR <verb.communication>
+ILI: 00907085
+
+Sense 1
+{00907085} <verb.communication> spell -- (recite the letters of or give the spelling of; "How do you spell this word?")
+       => {00914118} <verb.communication> recite -- (repeat aloud from memory; "she recited a poem"; "The pupil recited his lesson for the day")
+           => {00925921} <verb.communication> repeat1, echo -- (to say again or imitate; "followers echoing the cries of their leaders")
+               => {00951670} <verb.communication> utter2, emit, let out2, let loose -- (express audibly; utter sounds (not necessarily words); "She let out a big heavy sigh"; "He uttered strange sounds that nobody could understand")
+          Also See-> {00606025} <verb.cognition> spell out#2

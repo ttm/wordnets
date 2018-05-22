@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA2465
+
+DADO O SYNSET:
+
+S='Glosa2465'
+	    {inquietar-se: Sem [se inquietar com a cena tumultuosa que deixava após si, o índio ganhou a encosta oposta, e segurando com uma mão nos galhos da árvore, conseguiu tocar a terra sem o menor acidente. ,
+	      preocupar-se: Sei que vou chegar atrasado, tento não [me preocupar, observo a paisagem, a multidão lagarteando na praia.,
+	      sofrer: Wagner relatou tudo o que [sofreu na madrugada de 23 de julho de 93, quando seguia com dois meninos de rua da Candelária para a Praça Mauá. ,
+	      temer: Moradores [temem o caos do trânsito na Gávea.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2465' = “Incomodar a paz da mente de; Afligir com agitação mental ou angustiar.”
+	    {inquietar-se: Já prejudicada com a concorrência industrial e comercial alemã, I]inquietou-se com os planos do Kaiser no sentido de criar uma poderosa marinha de guerra.,
+	      preocupar-se: O legislador I]preocupou-se com a tutela penal da publicidade., quando seguia com dois meninos de rua da Candelária para a Praça Mauá. ,
+	      temer: Moradores [temem o caos do trânsito na Gávea.,}
+
+Chave: PREOCUPAR-SE <verb.emotion>
+ILI: 01714958
+
+Sense 3
+{01714958} <verb.emotion> worry1, vex2 -- (disturb the peace of mind of; afflict with mental agitation or distress; "I cannot sleep--my daughter's health is worrying me")
+       => {01713293} <verb.emotion> perturb, unhinge, disquiet, trouble, cark, distract2, disorder -- (disturb in mind or make uneasy or cause to be worried or alarmed; "She was rather perturbed by the news that her father was seriously ill")
+           => {01719446} <verb.emotion> disturb, upset, trouble1 -- (move deeply; "This book upset me"; "A troubling thought")
+               => {01716999} <verb.emotion> affect, impress1, move, strike -- (have an emotional or cognitive impact upon; "This child impressed me as unusually mature"; "This behavior struck me as odd") 

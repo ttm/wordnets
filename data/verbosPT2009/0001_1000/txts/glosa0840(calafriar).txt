@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0840
+
+DADO O SYNSET:
+
+S='Glosa840'
+{calafriar: São as mesmas emoções que escorrem por meu esôfago, enosam o estômago e I]calafriam a espinha.,
+calefriar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa840' = “estremecer convulsivamente, assim como de medo ou excitação”
+{calafriar: São as mesmas emoções que escorrem por meu esôfago, enosam o estômago e I]calafriam a espinha.,}
+Chave: CALAFRIAR <verb.motion>
+ILI: 01834682
+
+Sense 1
+{01834682} <verb.motion> shudder, shiver, throb, thrill -- (tremble convulsively, as from fear or excitement)
+       => {01834247} <verb.motion> tremble -- (move or jerk quickly and involuntarily up and down or sideways; "His hands were trembling when he signed the document")
+           => {01835310} <verb.motion> shake, agitate1 -- (move or cause to move back and forth; "The chemist shook the flask vigorously"; "My hands were shaking")
+               => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right")

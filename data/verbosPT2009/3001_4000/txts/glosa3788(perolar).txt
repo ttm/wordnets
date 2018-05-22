@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA3788
+
+DADO O SYNSET:
+
+S='Glosa3788'
+{emperlar: x,
+	 perlar: De seus olhos saltaram grossas lágrimas que correram junto do nariz e hesitaram na saliência dos lábios, I]perlando. ,
+	 perolar: Ao som do tango que amamos, lágrimas surgem I]perolando minhas faces.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3788' = “tornar cor de pérola”
+{perlar: De seus olhos saltaram grossas lágrimas que correram junto do nariz e hesitaram na saliência dos lábios, I]perlando.,
+	 perolar: Ao som do tango que amamos, lágrimas surgem I]perolando minhas faces.}
+Chave: PEROLAR <verb.change>
+ILI: EQ_HAS_HYPERONYM - 00106479
+
+Sense 1
+{00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

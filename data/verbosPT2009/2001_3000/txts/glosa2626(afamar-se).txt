@@ -1,0 +1,37 @@
+ANÁLISE DA GLOSA2626
+
+DADO O SYNSET:
+
+S='Glosa2626'
+	    {afamar-se: I]Afamou-se negociando e diminuindo as dívidas da Inglaterra com seus credores estrangeiros - manipulando diferenças cambiais.,
+	      brilhar: O Brasil I]brilhou no Parapanamericano de tênis de mesa, realizado em Brasília, na última semana. # Na década de 70, Nonato Buzar I]brilhou em palcos parisienses como o Olympia, Dicovage e Cave Du Poi.  ,
+	      celebrizar-se: Escrevo essas reflexões na noite de um 7 de setembro, momento em que fica clara a interdependência entre a história nacional, os rituais cívicos das grandes datas, a memória das batalhas, tratados e heróis que delimitam o lugar do conhecimento do passado; é um momento que faz evocar o Marx do 18 Brumário, quando mostra a figura patética de Luis Bonaparte aproveitando-se da conjuntura para atingir o poder e I]celebrizar-se.,
+	      enflorescer: x,
+	      esplandecer: x,
+	      esplendecer: x,
+	      esplender: As religiões são como os vaga-lumes; precisam das trevas para I]esplender.,
+	      esplendorar: x,
+	      florescer: Por volta de 700 aC, o reinado de Tartésos I]floresceu na Andaluzia e, um século depois, navegadores gregos fundaram também rotas comerciais no litoral.,
+	      notabilizar-se: O general N'Gueto, um jovem de pouco mais de 30 anos que já [se notabilizara na batalha do Cuito Canaval, há três anos, foi o verdadeiro estratego da resistência das tropas governamentais contra o assalto da máquina de guerra da Unita no Huambo.,
+	      resplandecer: Emilinha Borba I]resplandeceu no Cassino da Urca.,
+	      resplendecer: Os heróis I]resplendecem a distância num passado impossível de se ver com os olhos da fé ou os da ânsia.,
+	      resplender: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2626' = “Assumir um certo estado ou condição.”
+	    {afamar-se: I]Afamou-se negociando e diminuindo as dívidas da Inglaterra com seus credores estrangeiros.,
+	      brilhar: Na década de 70, Nonato Buzar I]brilhou em palcos parisienses como o Olympia, Dicovage e Cave Du Poi.,
+	      celebrizar-se: Autor de Espumas Flutuantes e do poema Navio Negreiro, ele I]celebrizou-se pela força lírica dos poemas em favor da libertação dos escravos.,
+	      esplender: Se Roma I]esplendeu como um grande centro de cultura, não menos se denegriu com a corrupção e vandalismo.,
+	      florescer: Que me perdoem os cariocas, que juram que o samba nasceu nos morros do Rio, mas a história mostra que I]ele floresceu em meio às senzalas.,
+	      notabilizar-se: O general N'Gueto, um jovem de pouco mais de 30 anos já [se notabilizara na batalha do Cuito Canaval.,
+	      resplandecer: Emilinha Borba I]resplandeceu no Cassino da Urca.,}
+
+Chave: AFAMAR-SE <verb.change>
+ILI: EQ_HAS_HYPERONYM - 00144029
+
+Sense 1
+{00144029} <verb.change> become, go4, get -- (enter or assume a certain state or condition; "He became annoyed when he heard the bad news"; "It must be getting more serious"; "her face went red with anger"; "She went into ecstasy"; "Get going!")
+       => {00140715} <verb.change> change state, turn4 -- (undergo a transformation or a change of position or action; "We turned from Socialism to Capitalism"; "The people turned against the President when he stole the election")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night") 

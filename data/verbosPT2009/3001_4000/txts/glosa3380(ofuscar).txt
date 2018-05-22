@@ -1,0 +1,42 @@
+ANÁLISE DA GLOSA3380
+
+DADO O SYNSET:
+
+S='Glosa3380'
+	    {
+	      apagar: Seus conquistadores implacáveis tentaram I]apagar seu brilho e toda sua grandeza e dignidade.,
+	      deslustrar: A História do Brasil vem sofrendo, por parte de historiadores inescrupulosos, deturpações de natureza político-ideológica, com o nítido objetivo de I]deslustrar alguns heróis nacionais.,
+	      despolir: x,
+	      embaçar: O episódio I]embaçou o prestígio de Mr. da Silva na Maison Rockefeller.,
+	      embaciar: Nada fez que lhe M]embaciasse o nome.,
+	      empanar: O escândalo H]empanou a festa.,
+	      enfuscar: x,
+	      escurecer: H]Escurecia seu glorioso passado com realizações medíocres.,
+	      escurentar: x,
+	      marear: H]Mareou a glória de um poeta.,
+	      obscurecer: A tragédia de O. J. Simpson, uma das personalidades públicas mais admiradas dos EUA, [obscureceu por completo o já limitado interesse dos meios de comunicação pela abertura da Copa do Mundo em Chicago. ,
+	      ofuscar: Alcir, Pingo, Amoroso e Iranildo deram tudo para suprir a ausência dos titulares, mas o brilho do artilheiro [ofuscou até mesmo o comportamento tático do Flamengo. ,
+	      vidrar: x,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3380' = “embaciar ou manchar”
+	     {apagar: O resultado do feminino I]apagou o brilho da baiana Ana Marcela, de apenas 14 anos e promessa já consumada na categoria de maratonas aquáticas.,
+	      deslustrar: A fama de cidade suja I]deslustrou, por muitos anos, o nome da capital.,
+	      embaçar: O episódio I]embaçou o prestígio de Mr. da Silva na Maison Rockefeller.,
+	      embaciar: Nada fez que lhe M]embaciasse o nome.,
+	      empanar: O mau tempo nunca I]empanou o entusiasmo das festas, nem tampouco diminuiu o ardor dos que iam compartilhar da alegria e do teto da família Pereira.,
+	      escurecer: H]Escurecia seu glorioso passado com realizações medíocres.,
+	      marear: A incredulidade I]mareou sua felicidade, enfraqueceu-lhe os princípios e degradou-lhe a vida.,
+	      obscurecer: A tragédia de O. J. Simpson, uma das personalidades públicas mais admiradas dos EUA, [obscureceu por completo o já limitado interesse dos meios de comunicação pela abertura da Copa do Mundo em Chicago. ,
+	      ofuscar: Alcir, Pingo, Amoroso e Iranildo deram tudo para suprir a ausência dos titulares, mas o brilho do artilheiro [ofuscou até mesmo o comportamento tático do Flamengo. ,}
+Chave: OFUSCAR <verb.contact>
+ILI: 01495332
+
+Sense 3
+{01495332} <verb.contact> darken -- (tarnish or stain; "a scandal that darkened the family's good name")
+       => {01494912} <verb.contact> tarnish, stain5, maculate, sully, defile -- (make dirty or spotty, as by exposure to air; also used metaphorically; "The silver was tarnished by the long exposure to the air"; "Her reputation was sullied after the affair with a married man")
+           => {01489655} <verb.contact> spot, fleck, blob, blot1 -- (make a spot or mark onto; "The wine spotted the tablecloth")
+               => {00345030} <verb.change> change surface -- (undergo or cause to undergo a change in the surface)
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

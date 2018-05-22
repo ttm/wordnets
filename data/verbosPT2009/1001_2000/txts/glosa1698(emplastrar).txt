@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA1698
+
+DADO O SYNSET:
+
+S='Glosa1698'
+{emplastar: Foi assim que aprendi quando obrigavam-me a vestir calça azul-marinho, usar meias brancas estilo três quartos, e I]emplastar os cabelos.,
+ emplastrar: I]Emplastrar pés e mãos com cremes ultra-oleosos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1698' = “tratar de ferimentos cobrindo-os com uma substância terapêutica”
+{emplastar: Utilize, sobre a úlcera, somente a medicação indicada pelo médico, evitando I]emplastar com muita pomada ou creme.,
+ emplastrar: O outro xamã, com outro galho na mão, I]emplastrou as minúsculas queimaduras com o veneno gosmento.,}
+Chave: EMPLASTRAR <verb.body>
+ILI: 00080547
+
+Sense 6
+{00080547} <verb.body> poultice, plaster -- (dress by covering with a therapeutic substance)
+       => {00080332} <verb.body> dress2 -- (apply a bandage or medication to; "dress the victim's wounds")
+           => {00076458} <verb.body> treat, care for -- (provide treatment for; "The doctor treated my broken leg"; "The nurses cared for the bomb victims"; "The patient must be treated right away or she will die"; "Treat the infection with antibiotics")

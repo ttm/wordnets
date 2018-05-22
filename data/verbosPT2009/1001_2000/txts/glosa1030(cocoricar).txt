@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA1030
+
+DADO O SYNSET:
+
+S='Glosa1030'
+{cocoriar: x,
+ cocoricar: O galo teimava em I]cocoricar nas horas mais improváveis da madrugada.,
+ cucuricar: x,
+ cucuritar: Na alvorada lua, A]cucuritam os galos, pensando que é madrugada.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1030' = “emitir sons estridentes (característico do galo)”
+{cocoricar: A galinha do lado direito mostra que também I]cocorica.}
+Chave: COCORICAR <verb.communication>
+ILI: 00829818
+
+Sense 3
+{00829818} <verb.communication> crow2 -- (utter shrill sounds; "The cocks crowed all morning")
+       => {00951670} <verb.communication> utter2, emit, let out2, let loose -- (express audibly; utter sounds (not necessarily words); "She let out a big heavy sigh"; "He uttered strange sounds that nobody could understand")

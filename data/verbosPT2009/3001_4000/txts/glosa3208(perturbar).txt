@@ -1,0 +1,58 @@
+ANÁLISE DA GLOSA3208
+
+DADO O SYNSET:
+
+S='Glosa3208'
+	    {
+	      abalar: Naquele ano, o Sindicato Solidariedade seria reconhecido por força de uma greve geral que [abalou o governo comunista. ,
+	      agitar: A questão dos pronomes pessoais [agitou os grandes vernaculistas da época (Rui, Carneiro Ribeiro, Cândido de Figueiredo). ,
+	      alborotar: x,
+	      alterar: A notícia da tragédia H]alterou toda a família.,
+	      alvoroçar: O anúncio, feito uma hora após a partida, I]alvoroçou o mundo.,
+	      alvorotar: A notícia de um Conde italiano visitando a colônia I]alvorotou todo mundo.,
+	      azougar: As indefinições H]azougaram-no.,
+	      conturbar: A querela entre os armínios e os gomaristas I]conturbou os países baixos de 1610 a 1650.,
+	      convulsionar: A posição brasileira no primeiro grande conflito que I]convulsionou o mundo no século passado estava respaldada pela Convenção de Haya.,
+	      desacomodar: O barulho ensurdecedor H]desacomodou todos os presentes.,
+	      desassossegar: A instituição I]desassossegou porque ela constitui um engajamento na experiência de prova que a escola promove, suporta, garante como formação.,
+	      desquietar: x,
+	      dessossegar: x,
+	      deturbar: x,
+	      disturbar: E assim, vai digerindo os acontecimentos e malabariando os sentimentos até que a pasmaceira I]disturba essa linha de pensamento.,
+	      estrompar: DEVIANT,
+	      excitar: DEVIANT,
+	      inquietar: Em decorrência da Revolução Industrial, só há dez anos esse fenômeno começou a [inquietar os ecologistas, para se converter, nos dias de hoje, numa de suas mais obsessivas preocupações. ,
+	      intranqüilizar: Alertaram para a possibilidade de estar existindo um movimento orquestrado de ambientalistas e indigenistas para I]intranqüilizar a sociedade. ,
+	      perturbar: Nenhuma obra da arte, nenhum manuscrito precioso da História ou do pensamento humano podia empolgar a imaginação, tocar o coração e [perturbar a alma quanto as duas peças toscas que haviam fabricado. ,
+	      preocupar: Desde a antiguidade o problema da origem da vida e dos seres vivos [preocupa o ser humano.,
+	      transtornar: O calor e a beleza da Itália vão [transtornar os sentidos de Nepomuceno.,
+	      vascolejar: O remorso lhe M]vascolejava a consciência.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3208' = “alterar o equilíbrio ou a estabilidade”
+	     {abalar: A morte de Smith [abalou o sistema político britânico. ,
+	      agitar: A questão dos pronomes pessoais [agitou os grandes vernaculistas da época (Rui, Carneiro Ribeiro, Cândido de Figueiredo). ,
+	      alterar: A notícia da tragédia H]alterou toda a família.,
+	      alvoroçar: O anúncio, feito uma hora após a partida, I]alvoroçou o mundo.,
+	      alvorotar: A notícia de um Conde italiano visitando a colônia I]alvorotou todo mundo.,
+	      azougar: As indefinições H]azougaram-no.,
+	      conturbar: A querela entre os armínios e os gomaristas I]conturbou os países baixos de 1610 a 1650.,
+	      convulsionar: O atentado da Toneleros, como ficou conhecido, I]convulsionou a Aeronáutica e os meios políticos do país.,
+	      desacomodar: A inclusão I]desacomodou a todos nós e provocou um maior diálogo entre as áreas. da educação, educação especial e da saúde/reabilitação.,
+	      desassossegar: A instituição I]desassossegou porque ela constitui um engajamento na experiência de prova que a escola promove, suporta, garante como formação.,
+	      disturbar: A falsa interpretação do Nirvana I]disturbou as elevadas possibilidades criadoras do espírito chinês.,
+	      inquietar: O pensamento de Hannah Arendt I]inquietou e inquieta, ao conjugar de forma original e contundente política e poesia. ,
+	      intranqüilizar: A previsão de estiagem para os próximos três meses I]intranqüiliza os produtores rurais de Santa Catarina. ,
+	      perturbar: A crise mundial de 1929 agravou a situação e [perturbou ainda mais o ambiente político, já afetado pelas disputas eleitorais. ,
+	      preocupar: A inflação em real [preocupa as financeiras.,
+	      transtornar: Há algumas semanas, uma «revolução popular» eletrônica [transtornou a vida das poucas centenas de pessoas que vivem no encrave deleuziano da Internet.,
+	      vascolejar: Para mim, o espetáculo daquele prodígio foi uma nota vibrante, I]vascolejou-me a emoção eo entendimento, com um exagero convizinho do arrebatamento.,}
+Chave: PERTURBAR <verb.change>
+ILI: 00507530
+
+Sense 1
+{00507530} <verb.change> upset -- (disturb the balance or stability of; "The hostile talks upset the peaceful relations between the two countries")
+       => {01170925} <verb.contact> touch3, disturb -- (tamper with; "Don't touch my CDs!")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

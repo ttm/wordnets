@@ -1,0 +1,46 @@
+ANÁLISE DA GLOSA3963
+
+DADO O SYNSET:
+
+S='Glosa3963'
+    	{adoutrinar: x,
+      	 catequizar: Steven Spielberg, Clint Eastwood e Jonathan Demme lançam filmes para [catequizar platéias nos EUA.,
+      	 doutrinar: Por filósofo, compreendia-se na época, não autores de tratados teóricos, ou mestres-pregadores a [doutrinar discípulos, mas sim aquele que dá o exemplo vivo de liberdade, de independência e de audácia no exercício cotidiano do discernimento e da razão .,
+      	 educar: As duas a ajudaram a escrever um livro sobre os desafios de [educar as crianças .,
+      	 enfronhar: H]Enfronhou o genro nos negócios.,
+      	 ensinar: Mais tarde, quando o Padre Cabral me [ensinava latim, doutrina e história sagrada, ele assistia às lições.,
+      	 explicar: DEVIANT,
+      	 iniciar: M]Iniciava os discípulos nos rudimentos da poesia e da eloqüência.,
+      	 instituir: I]Instituíra os filhos no Evangelho.,
+     	 instruir: D. Eufrasinha [instruiu a sua nova amiga em muitas coisas que esta mal sonhava.,
+      	 lecionar: Idéias, materiais, dicas e atividades para I]lecionar crianças pequenas.,
+      	 prelecionar: I]Prelecionar aos alunos as condições anormais que podem ser desenvolvidas na cavidade bucal.,}
+  
+A='Glosa1370'
+    	{deseducar, desensinar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3963' = “ensinar habilidades ou conhecimentos (a)”
+    	{catequizar: Marcella Hazan falou sobre alcachofras e [catequizou o público sobre a supremacia do óleo de oliva extra virgem para cozinhar, apesar da exorbitância do preço.,
+      	 doutrinar: Quero fazer as pessoas crescerem e não ficar [doutrinando ninguém.,
+      	 educar: Ainda hoje preservo, grato, a excelente e benéfica lembrança daquele homem que me [educou nessa disciplina.,
+      	 enfronhar: O centro I]enfronhou-o na leitura de tudo o que encontra sobre religiões comparadas.,
+      	 ensinar: Mais tarde, quando o Padre Cabral me [ensinava latim, doutrina e história sagrada, ele assistia às lições.,
+      	 iniciar: Ricardo Ferreira o I]iniciou em temas próximos à biologia.,
+      	 instituir: I]Instituíra os filhos no Evangelho.,
+     	 instruir: D. Eufrasinha [instruiu a sua nova amiga em muitas coisas que esta mal sonhava.,
+      	 lecionar: A professora que I]leciona crianças, mesmo que não queira, vai precisa ouvir às mães.,
+      	 prelecionar: A Professora Odete Medauar I]preleciona e exemplifica com proficiência peculiar.}
+  
+A='Glosa1370'
+    	{deseducar, desensinar}
+Chave: INSTRUIR <verb.communication>
+ILI: 00801981
+
+Sense 1
+{00801981} <verb.communication> teach, learn, instruct -- (impart skills or knowledge to; "I taught them French"; "He instructed me in building a boat")
+       => {00804489} <verb.communication> inform -- (impart knowledge of some fact, state or affairs, or event to; "I informed him of his rights")
+           => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+               => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

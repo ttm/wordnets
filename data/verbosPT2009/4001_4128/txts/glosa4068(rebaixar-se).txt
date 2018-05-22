@@ -1,0 +1,36 @@
+ANÁLISE DA GLOSA4068
+
+DADO O SYNSET:
+
+S='Glosa4068'
+{abaixar-se: Não me importo, o que eu não vou é me I]abaixar pra Globo.,
+aviltar-se: O Homem se I]aviltou e a suja sociedade sucumbiu.,
+degradar-se: É certo que ele se I]degradou, por aberração dessa racionalidade de que tanto se orgulha. ,
+desautorar-se: Muitos homens públicos M]desautoram-se a si próprios.,
+descer: Jesus I]desceu à condição humana para sofrer até a morte para salvar a humanidade.,
+emporcalhar-se: I]Emporcalhou-se a honra e respeitabilidade da Suprema Corte.,
+emporcar-se: x,
+prostituir-se: M]Prostitui-se a arte para o artista não morrer de fome.,
+rebaixar-se: Não é rei, e nem sei se ele se I]rebaixaria a sê-lo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4068' = “reduzir-se em valor ou caráter, geralmente verbalmente”
+{abaixar-se: Não me importo, o que eu não vou é me I]abaixar pra Globo.,
+aviltar-se: O Homem se I]aviltou e a suja sociedade sucumbiu.,
+degradar-se: É certo que ele se I]degradou, por aberração dessa racionalidade de que tanto se orgulha. ,
+desautorar-se: Muitos homens públicos M]desautoram-se a si próprios.,
+descer: Jesus I]desceu à condição humana para sofrer até a morte para salvar a humanidade.,
+emporcalhar-se: I]Emporcalhou-se a honra e respeitabilidade da Suprema Corte.,
+prostituir-se: M]Prostitui-se a arte para o artista não morrer de fome.,
+rebaixar-se: Não é rei, e nem sei se ele se I]rebaixaria a sê-lo.,}
+Chave: REBAIXAR-SE <verb.emotion>
+ILI: 01748142
+
+Sense 1
+{01748142} <verb.emotion> take down, degrade, disgrace, demean, put down -- (reduce in worth or character, usually verbally; "She tends to put down younger women colleagues"; "His critics took him down after the lecture")
+       => {01747514} <verb.emotion> humiliate, mortify1, chagrin1, humble, abase -- (cause to feel shame; hurt the pride of; "He humiliated his colleague by criticising him in front of the boss")
+           => {01741003} <verb.emotion> hurt, wound, injure, bruise, offend, spite -- (hurt the feelings of; "She hurt me when she did not include me among her guests"; "This remark really bruised me ego")
+               => {01708538} <verb.emotion> arouse, elicit, enkindle, kindle, evoke, fire, raise8, provoke -- (call forth (emotions, feelings, and responses); "arouse pity"; "raise a smile"; "evoke sympathy")
+                   => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")
+

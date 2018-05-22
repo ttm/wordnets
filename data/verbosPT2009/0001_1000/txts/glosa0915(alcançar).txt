@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA0915
+
+DADO O SYNSET:
+
+S='Glosa915'
+{alcançar: Orientados por um traidor, [alcançaram a retaguarda dos espartanos, que lhes barravam a passagem no desfiladeiro das Termópilas,
+atingir: Ao [atingir a maturidade, aproximadamente dois terços das mulheres mantêm regularidade menstrual.,
+chegar: Há três anos, a GM, Ford e Chrysler [chegaram ao fundo do poço, com menos de 70% das vendas de carros nos EUA e prejuízos recordes nas suas operações.,
+colher: O som I]colheu-o no estômago, na cabeça, na pele.,
+tocar: Um interesse por processamento independente de contexto certamente é justificável, mas inúmeras vezes ele parece não [tocar no âmago do processamento psicológico humano.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa915' = “alcançar um ponto no tempo, ou um certo estado ou nível”
+{alcançar: Orientados por um traidor, [alcançaram a retaguarda dos espartanos, que lhes barravam a passagem no desfiladeiro das Termópilas,
+atingir: Ao [atingir a maturidade, aproximadamente dois terços das mulheres mantêm regularidade menstrual.,
+chegar: Há três anos, a GM, Ford e Chrysler [chegaram ao fundo do poço, com menos de 70% das vendas de carros nos EUA e prejuízos recordes nas suas operações.,
+colher: O som I]colheu-o no estômago, na cabeça, na pele.,
+tocar: Um interesse por processamento independente de contexto certamente é justificável, mas inúmeras vezes ele parece não [tocar no âmago do processamento psicológico humano.,}
+Chave: ATINGIR <verb.motion>
+ILI: 01948786
+
+Sense 2
+{01948786} <verb.motion> reach, hit7, attain -- (reach a point in time, or a certain state or level; "The thermometer hit 100 degrees"; "This car can reach a speed of 140 miles per hour")
+       => {01947900} <verb.motion> arrive, get, come4 -- (reach a destination; arrive by movement or progress; "She arrived home at 7 o'clock"; "She didn't get to Chicago until after midnight")

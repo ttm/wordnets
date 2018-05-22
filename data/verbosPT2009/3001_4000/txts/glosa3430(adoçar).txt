@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA3430
+
+DADO O SYNSET:
+
+S='Glosa3430'
+	{adoçar: Bastava não carregar tanto, nem [adoçar muito, um meio-termo./ O açúcar pode ser usado para [adoçar o café ou polvilhar o chantilly.,
+	 emelar: ]emelar o café, o chá. ,
+	 melar: Posso] melar a farofa?,
+	 melificar: ]Melificar o leite. }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3430' = “tornar o sabor mais doce”
+	{adoçar: O açúcar pode ser usado para [adoçar o café ou polvilhar o chantilly.,
+	 emelar: A]Emelar o café, o chá.,
+	 melar: H]Melar um refresco.,
+	 melificar: M]Melificar o leite. }
+Chave: ADOÇAR <verb.perception>
+ILI: 02132558
+
+Sense 1
+{02132558} <verb.perception> sweeten, dulcify, edulcorate, dulcorate -- (make sweeter in taste)
+       => {02134036} <verb.perception> change taste -- (alter the flavor of)
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

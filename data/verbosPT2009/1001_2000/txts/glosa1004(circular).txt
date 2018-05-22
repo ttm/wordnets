@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA1004
+
+DADO O SYNSET:
+
+S='Glosa1004'
+{circuitar: Este discurso que é exterior ao campo dos professores, pretende [circuitar uma série de questões que estão na origem de velhos contenciosos que animam a vida institucional e profissional dos professores,
+ circular: Capacidade vital é a quantidade máxima de ar que se pode fazer [circular de uma só vez pelos pulmões. # É tão forte a contração do coração que o sangue [circula por todo o corpo e ainda volta ao coração com certa pressão. ,
+ girar: O que posso dizer no momento é que a questão central deste filme irá [girar em torno da validade ou não de se viver num mundo onde tudo é absolutamente possível.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1004' = “mover-se em círculos”
+{circular: É tão forte a contração do coração que o sangue [circula por todo o corpo e ainda volta ao coração com certa pressão.,
+ girar: Corpo celeste compacto, relativamente frio, que [gira em torno de uma estrela em órbita quase sempre elíptica.,}
+Chave: CIRCULAR <verb.motion>
+ILI: 01986007 
+
+Sense 5
+{01986007} <verb.motion> circle, circulate2 -- (move in circles)
+       => {01782203} <verb.motion> travel, go, move3, locomote -- (change location; move, travel, or proceed; "How fast does your new car go?"; "We travelled from Rome to Naples by bus"; "The policemen went from door to door looking for the suspect"; "The soldiers moved towards the city in an attempt to take it before night fell")

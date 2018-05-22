@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA1419
+
+DADO O SYNSET:
+
+S='Glosa1419'
+{atingir: No nosso Hospital apenas 11% dos chefes de serviço são mulheres; somente uma I]atingiu o posto de diretora clínica.,
+ elevar-se: Não parecesse acertado publicar-se, quando houve, sobre este projeto, a fim de fazer emudecer por uma vez garrulos impostores que, com mentiras e imposturas, procuram I]elevar-se ao grau eminente, em que não os colocou o talento e o gênio. ,
+ galgar: Na primeira situação, o ombudsman deixa o cargo para [galgar posições mais importantes da magistratura sueca.,
+ vingar: DEVIANT,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1419' = “alcançar um certo estado ou nível”
+{atingir: No nosso Hospital apenas 11% dos chefes de serviço são mulheres; somente uma I]atingiu o posto de diretora clínica.,
+ elevar-se: Este valor se [eleva para R$ 1,054 bilhão caso a opção seja por manter os direitos adquiridos e o pagamento dos benefícios pelos próximos 40 anos,
+ galgar: Parcela significativa dos chefes I]galgou para postos ocupacionais de status.,}
+Chave: ATINGIR <verb.motion>
+ILI: 01948786
+
+Sense 2
+{01948786} <verb.motion> reach, hit7, attain -- (reach a point in time, or a certain state or level; "The thermometer hit 100 degrees"; "This car can reach a speed of 140 miles per hour")
+       => {01947900} <verb.motion> arrive, get, come4 -- (reach a destination; arrive by movement or progress; "She arrived home at 7 o'clock"; "She didn't get to Chicago until after midnight")

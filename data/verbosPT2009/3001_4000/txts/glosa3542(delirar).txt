@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA3542
+
+DADO O SYNSET:
+
+S='Glosa3542'
+	    {
+	      delirar: [Deliraram em torno de complexos modelos políticos./ Para nosso desespero, a moça começa a I]delirar em voz alta. ,
+	      desarrazoar: Ao vermos um louco [desarrazoar, pensamos logo que já não é ele quem fala, é  alguém que vê por ele, interpreta as coisas por ele, está atrás dele, invisível! ,
+	      disparatar: O outro ia [disparatar sem mais considerações, quando, felizmente, acudiram todos à varanda. ,
+	      necear: x,
+	      tontear: x,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3542' = “falar de maneira ruidosa, excitada ou declamatória”
+	     {delirar: [Deliraram em torno de complexos modelos políticos./ Para nosso desespero, a moça começa a I]delirar em voz alta. ,
+	      desarrazoar: Ao vermos um louco [desarrazoar, pensamos logo que já não é ele quem fala, é  alguém que vê por ele, interpreta as coisas por ele, está atrás dele, invisível! ,
+	      disparatar: O outro ia [disparatar sem mais considerações, quando, felizmente, acudiram todos à varanda. ,}
+Chave: DELIRAR <verb.communication>
+ILI: 01018367
+
+Sense 2
+{01018367} <verb.communication> rant, mouth off, jabber, spout, rabbit on, rave1 -- (talk in a noisy, excited, or declamatory manner)
+       => {00910961} <verb.communication> talk, speak, utter, mouth, verbalize, verbalise -- (express in speech; "She talks a lot of nonsense"; "This depressed patient does not verbalize")
+           => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+               => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

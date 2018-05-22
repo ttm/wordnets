@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0242
+
+DADO O SYNSET:
+
+S='Glosa242'
+{empossar-se: O Presidente Dutra [empossou-se no dia 31 de janeiro de 1946.,
+ investir-se: Hugo de Aquino Leão I]investiu-se no cargo de delegado de carreira de secretaria de segurança pública do Estado de Minas Gerais.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa242' = “tomar posse em títulos, cargos, funções, responsabilidades”
+{empossar-se: O Presidente Dutra [empossou-se no dia 31 de janeiro de 1946.,
+ investir-se: Hugo de Aquino Leão I]investiu-se no cargo de delegado de carreira de secretaria de segurança pública do Estado de Minas Gerais.,}
+Chave: EMPOSSAR-SE <verb.social>
+ILI: 02310584
+
+Sense 2
+{02310584} <verb.social> assume, adopt1, take on1, take over1 -- (take on titles, offices, duties, responsibilities; "When will the new President assume office?")
+       => {02312416} <verb.social> take office -- (assume an office, duty, or title; "When will the new President take office?")
+           => {02308403} <verb.social> start, take up -- (begin work or acting in a certain capacity, office or job; "Take up a position"; "start a new job")

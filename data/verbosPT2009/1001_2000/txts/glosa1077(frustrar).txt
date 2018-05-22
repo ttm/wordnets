@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA1077
+
+DADO O SYNSET:
+
+S='Glosa1077'
+{defraudar: Os preços das apresentações vão I]defraudar os fãs, que vão pagar sete libras nos concertos,
+ deludir: A]Deludiu a vigilância do sentinela e fugiu.,
+ frustrar: O time corintiano chegou diversas vezes ao gol, mas apenas para [frustar os mais de 15 mil torcedores que foram ao estádio.,
+ iludir: Homens que, por covardia, procuram se iludir e [iludir os outros e por isso se esquivam a qualquer exame mais completo, evitando fazer penetrar mais fundo o bisturi da análise,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1077' = “não satisfazer as esperanças ou expectativas”
+{defraudar: Evo Morales não I]“defraudou” seu povo. Todos esperavam por isso.,
+ frustrar: O «Jornal do SBT» [frusta o telespectador que liga a televisão antes de dormir em busca de notícias e comentários originais.,
+ iludir: A valentia verbal já se sabe que não amedronta o empresariado, nem [ilude mais a opinião pública.,}
+Chave: FRUSTRAR <verb.emotion>
+ILI: 01746656 
+
+Sense 1
+{01746656} <verb.emotion> disappoint, let down -- (fail to meet the hopes or expectations of; "Her boyfriend let her down when he did not propose marriage")
+       => {02482511} <verb.social> thwart, queer, spoil, scotch, foil, cross, frustrate, baffle, bilk1 -- (hinder or prevent (the efforts, plans, or desires) of; "What ultimately frustrated every challenger was Ruth's amazing September surge"; "foil your opponent")
+           => {02379144} <verb.social> prevent1, forestall1, foreclose, preclude, forbid3 -- (keep from happening or arising; have the effect of preventing; "My sense of tact forbids an honest answer")
+

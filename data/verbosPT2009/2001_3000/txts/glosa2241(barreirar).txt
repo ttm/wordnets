@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA2241
+
+DADO O SYNSET:
+
+S='Glosa2241'
+	    {abarreirar: O comandante mandou H]abarreirar a área em torno do quartel.,
+	      atrincheirar: x,
+	      barreirar: Os traficantes I]barreiraram a favela para impedir a entrada da PM.,
+	      embarreirar: Foram os próprios moradores que I]embarreiraram o bairro.,
+	      entranqueirar: x,
+	      entrincheirar: Os revoltosos H]entrincheiraram todas as entradas da cidade.,
+	      envalar: x,
+	      fortificar: A população I]fortificou a área com os muros erguidos.,
+	      valar: O rei I]valou seu castelo e não queria saber de mais nada., }
+
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2241' = “ impedir acesso colocando barreiras”
+	    {abarreirar: O comandante mandou H]abarreirar a área em torno do quartel.,
+	      barreirar: Os traficantes I]barreiraram a favela.,
+	      embarreirar: Os próprios moradores que I]embarreiraram o bairro.,
+	      entrincheirar: Os revoltosos H]entrincheiraram as entradas da cidade.,
+	      fortificar: A população I]fortificou a área com os muros.,
+	      valar: O rei I]valou seu castelo e não queria saber de mais nada.,}
+
+Chave: BARREIRAR <verb.competition>
+ILI: 01092170
+
+Sense 2
+{01092170} <verb.competition> barricade1 -- (prevent access to by barricading; "The street where the President lives is always barricaded")
+       => {01434634} <verb.contact> obstruct, obturate, impede, occlude, jam2, block12, close up -- (block passage through; "obstruct the path")
+           => {02377880} <verb.social> impede, hinder1 -- (be a hindrance or obstacle to; "She is impeding the progress of our project")
+               => {02377053} <verb.social> prevent, keep1 -- (prevent from doing something or being in a certain state; "We must prevent the cancer from spreading"; "His snoring kept me from falling asleep"; "Keep the child from eating the marbles")

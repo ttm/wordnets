@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0418
+
+DADO O SYNSET:
+
+S='Glosa418'
+{aproveitar: Com os altos custos da produção de suínos, cresce em importância a qualidade dos animais utilizados como reprodutores, devendo-se portanto, I]aproveitar aqueles que possuam o melhor potencial genético.,
+apurar: Na parte técnica, o campeonato por pontos corridos permite [apurar, sem dúvida, o melhor time.,
+escolher: Junto com especialistas de dez instituições de pesquisa do Brasil e da Argentina, os produtores vão [escolher as melhores máquinas e implementos agrícolas inscritas para a categoria destaque. ,
+tirar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa418' = “eleger, citar ou separar algo segundo qualidades específicas”
+{apurar: Na parte técnica, o campeonato por pontos corridos permite [apurar, sem dúvida, o melhor time.,
+escolher: Junto com especialistas de dez instituições de pesquisa do Brasil e da Argentina, os produtores vão [escolher as melhores máquinas e implementos agrícolas inscritas para a categoria destaque.,}
+Chave: ESCOLHER <verb.cognition>
+ILI: 00652154
+
+Sense 1
+{00652154} <verb.cognition> choose, take1, select, pick out -- (pick out, select, or choose from a number of alternatives; "Take any one of these cards"; "Choose a good husband for your daughter"; "She selected a pair of shoes from among the dozen the salesgirl had shown her")
+       => {00674417} <verb.cognition> decide, make up one's mind, determine -- (reach, make, or come to a decision about something; "We finally decided after lengthy deliberation

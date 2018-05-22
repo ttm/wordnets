@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA2659
+
+DADO O SYNSET:
+
+S='Glosa2659'
+	    {replicar: Os wundtianos não aceitaram tantas críticas sem [replicar.,
+	      repostar: Vou aproveitar e I]repostar sua pergunta lá, e  vou responde-la lá.,
+	      responder: Needham  [respondeu as críticas de Spallanzani, afirmando que esse cientista ao ferver recipientes hermeticamente fechados, estava destruindo a«força vital e tornando o ar desfavorável ao aparecimento da vida.,
+	      secundar: Os dois calaram-se e, silenciosos, se puseram a fumar. Ambos pensavam numa mesma coisa: em encontrar remédio para um tão deplorável estado de coisas. Mal acabavam de fumar, Ponciano disse desalentado: - E não há remédio. Hildegardo I]secundou-o.- Não acho nenhum.,
+	      segundar: Mas, tenho de I]segundar, e quero. Se ele riscou, eu talho.,
+	      tornar: Não, hoje não poderemos ir, H]tornou o marido.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2659' = “Responder de modo imediato.”
+	    {replicar: O imperador I]replicou: "Quem diz isso?,
+	      repostar: E Silvino lhe I]respostou: - Eu sou Antônio Silvino E você, cabra mofino Quem é?.,
+	      responder: E ele I]respondeu: “Se o presidente falou, tá falado”..,
+	      secundar: “Uma sugestão é que selecionem melhor os pôsteres”, I]secundou-a um colega de escola.,
+	      segundar: E o Craro I]segundou a ameaça:. – Não chega não, cachaça braba, que eu te bebo! Decidiram porém, fugir:..,
+	      tornar: Não, hoje não poderemos ir, H]tornou o marido.,}
+
+Chave: RESPONDER <verb.communication>
+ILI: 00790033
+
+Sense 1
+{00790033} <verb.communication> retort, come back1, repay, return1, riposte, rejoin -- (answer back)
+       => {00789361} <verb.communication> answer, reply, respond -- (reply or respond to; "She didn't want to answer"; "answer the question"; "We answered that we would accept the invitation")
+           => {00976600} <verb.communication> state, say, tell4 -- (express in words; "He said that he wanted to marry her"; "tell me what is bothering you"; "state your opinion"; "state your name")
+               => {00909455} <verb.communication> express, verbalize3, verbalise3, utter1, give tongue to -- (articulate; either verbally or with a cry, shout, or noise; "She expressed her anger"; "He uttered a curse") 

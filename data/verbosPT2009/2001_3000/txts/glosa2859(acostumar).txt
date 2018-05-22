@@ -1,0 +1,38 @@
+ANÁLISE DA GLOSA2859
+
+DADO O SYNSET:
+
+S='Glosa2859'
+	    {acostumar: Até então, os treinos do Brasil vinham sendo realizados às 13h, com o objetivo de [acostumar os jogadores ao horário em que a seleção fará as suas duas primeiras partidas na Copa do Mundo, contra Rússia, dia 20, e Camarões, dia 24.,
+	      afazer: A princípio, nada vi; depois, à medida que meus olhos se iam I]afazendo à penumbra, verifiquei, com um arrepio pelo corpo, que qualquer coisa movia ao longo.,
+	      avezar1: A escravidão, resumo de todos os crimes, supressão organizada do sentimento moral pela covardia e pelo roubo, I]aveza os povos à promiscuidade habitual com a ignorância, a miséria, a violência, a malversação.,
+	      costumar: A fim de reduzir a superficie de atrito entre o barco e a areia, os pescadores [costumam empurrá-los sobre roletes, o que reduz o esforço necessário.,
+	      familiarizar: Ela vai resolver muitas das suas dúvidas, vai [familiarizar você com o novo tempo que começa em 1º de julho, com a chegada do real.,
+	      habituar: Em casa, no Recreio dos Bandeirantes (zona oeste do Rio) , anda ouvindo Itamar Assumpção e Beatles, ao mesmo tempo em que [habitua o filhote ao barulho de sua bateria.,
+	      usar: Em Moçambique, as pessoas H]usam mascar mulala para limpar os dentes.,}
+
+	  A='Glosa1187'
+	    {desabituar: Exige de fato algum trabalho e, antes, I]desabituar a mente em relação aos paradigmas vigentes na organização.,
+	     desacostumar: É necessário a pessoa I]desacostumar seu organismo do café, - deixar passar uns trinta dias sem tomá-lo.,
+	     desafazer: A vida fácil H]desafaz o indivíduo de se esforçar.,
+	     desavezar: x,
+	     desvezar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2859' = “Tornar psicologicamente ou fisicamente acostumado a alguma coisa”
+	    {acostumar: Desde cedo, elas já I]acostumam o bebê com mamadeiras e chupetas.,
+	      afazer: O viver das antigas províncias não as I]afez à moderação na despesa.,
+	      avezar1: A escravidão, resumo de todos os crimes, supressão organizada do sentimento moral pela covardia e pelo roubo, I]aveza os povos à promiscuidade habitual com a ignorância, a miséria, a violência, a malversação.,
+	      costumar: A fim de reduzir a superficie de atrito entre o barco e a areia, os pescadores [costumam empurrá-los sobre roletes, o que reduz o esforço necessário.,
+	      familiarizar: A invenção do cinema e muitas outras geringonças, hoje esquecidas, I]familiarizaram o homem a ver imagens reais projetadas.,
+	      habituar: Em casa, no Recreio dos Bandeirantes, anda ouvindo Itamar Assumpção e Beatles, ao mesmo tempo em que [habitua o filhote ao barulho de sua bateria.,}
+
+	  A='Glosa1187'
+	    {desabituar, desacostumar, desafazer}
+Chave: ACOSTUMAR <verb.change>
+ILI: 00264554
+
+Sense 1
+{00264554} <verb.change> habituate, accustom -- (make psychologically or physically used (to something); "She became habituated to the background music")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

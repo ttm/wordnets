@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA4102
+
+DADO O SYNSET:
+
+S='Glosa4102'
+{quantificar: A Previdência não I]quantificou o aumento.,
+quantizar: As energias quantizadas são obtidas I]quantizando o movimento de dois corpos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4102' = “expressar como um número ou medida ou quantidade”
+{quantificar: A Previdência não I]quantificou o aumento.,
+quantizar: As energias quantizadas são obtidas I]quantizando o movimento de dois corpos.,}
+Chave: QUANTIFICAR <verb.change>
+ILI: 00476505
+
+Sense 2
+{00476505} <verb.change> quantify, measure -- (express as a number or measure or quantity; "Can you quantify your results?")
+       => {01027221} <verb.communication> carry2, convey1, express2 -- (serve as a means for expressing something; "The painting of Mary carries motherly love"; "His voice carried a lot af anger")
+           => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+               => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")
+

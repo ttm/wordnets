@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA2858
+
+DADO O SYNSET:
+
+S='Glosa2858'
+	    {alterar: Não apenas a censura política dos países capitalistas, mas também a da própria URSS, que tinha o péssimo hábito de [alterar todos os seus filmes históricos (e inclusive acrescentar imagens não pertencentes ao filme) cada vez que mudava a linha política oficial.,
+	      desvirtuar: Sobre a defesa de Ibsen, Máximo afirmou que o deputado tentou distorcer os fatos e [desvirtuar o conteúdo do relatório.,
+	      distorcer: Os leitores gostaram da proposta da ombudsman de procurar e apontar os piores títulos do jornal -- aqueles que [distorcem o sentido da notícia, desinformam ou mesmo enganam o leitor.,
+	      envenenar: x,
+	      falsear: O movimento das Mães da Praça de Maio (parentes dos mais de 9.000 "desaparecidos" do regime militar) acusou o presidente de [falsear a verdade histórica e exigiu uma "retratação imediata".,
+	      forçar: Este recorte, feito de leituras e memórias, está atento ao alerta de Hayden White sobre os perigos do texto, onde o historiador/escritor cria as premissas para I]forçar as conclusões e confundi-las com a verdade.,
+	      malsinar: M] Malsinar palavras, escritos, intenções.,
+	      torcer: Assim, devemos trabalhar na TB sempre em diálogo consciente com a teologia sistemática, perguntando se o sistema teológico não ultrapassou os limites do texto ou I]torceu o texto em função de seus pressupostos.,
+	      violentar: Quem não for capaz de entender isso que siga dizendo que o Espiritismo é "o cristianismo redivivo", "a terceira revelação divina", etc., mas que o faça sem I]violentar a verdade dos fatos e sem distorcer palavras alheias, mantendo postura minimamente ética no debate de idéias.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2858' = “Tornar falso por deformação ou acréscimo, uma mensagem ou história”
+	    {alterar: Greg admite que I]alterou orçamentos, superfaturou contas, para ser mais bem remunerado e que Márcia talvez faça o mesmo no futuro.,
+	      desvirtuar: Contudo, essa tomada de posição, conforme salientado acima, I]desvirtuou a medida provisória, aproximando-a do decreto-lei.,
+	      distorcer: Os leitores gostaram da proposta da ombudsman de procurar e apontar os piores títulos do jornal -- aqueles que [distorcem o sentido da notícia, desinformam ou mesmo enganam o leitor.,
+	      falsear: As matérias jornalísticas veiculadas não I]falsearam a realidade.,
+	      forçar: Mas foram os próprios sindicalistas que I]forçaram essa comparação.,
+	      torcer: Assim, devemos trabalhar na TB sempre em diálogo consciente com a teologia sistemática, perguntando se o sistema teológico não ultrapassou os limites do texto ou I]torceu o texto em função de seus pressupostos.,
+	      violentar: Embora reconhecendo que Schleicher I]violentava a realidade ao ver na língua uma coisa orgânica que trazia em si própria a sua lei de evolução, continuamos, sem vacilar, a querer fazer dela uma coisa orgânica em outro sentido.,}
+Chave: DISTORCER <verb.communication>
+ILI: 00808669
+
+Sense 1
+{00808669} <verb.communication> falsify, distort, garble, warp -- (make false by mutilation or addition; as of a message or story)
+       => {00809453} <verb.communication> misrepresent, belie -- (represent falsely; "This statement misrepresents my intentions")
+           => {00955766} <verb.communication> represent -- (serve as a means of expressing something; "The flower represents a young girl")
+               => {00909455} <verb.communication> express, verbalize3, verbalise3, utter1, give tongue to -- (articulate; either verbally or with a cry, shout, or noise; "She expressed her anger"; "He uttered a curse") 

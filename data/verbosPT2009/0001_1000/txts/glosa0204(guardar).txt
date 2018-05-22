@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0204
+
+DADO O SYNSET:
+
+S='Glosa204'
+{acondicionar: Podem ser camas com gavetas embutidas, sofás dimensionados para [acondicionar objetos debaixo das almofadas e estantes com várias finalidades.,
+arrecadar: H]Arrecadou as pedras preciosas para evitar possíveis roubos.,
+guardar: Os viajantes terão apenas que [guardar esses documentos por até um ano após a viagem, caso o BC desconfie de alguma irregularidade. ,
+preservar: O trabalho faz parte de um convênio assinado pela Fundação Parques e Jardins e a ASPM, associação que [preserva obras feitas em ferro e bronze na região do Vale do Rio Osne.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa204' = “reter ou manter posse de”
+{acondicionar: Podem ser camas com gavetas embutidas, sofás dimensionados para [acondicionar objetos debaixo das almofadas e estantes com várias finalidades.,
+guardar: Os viajantes terão apenas que [guardar esses documentos por até um ano após a viagem, caso o BC desconfie de alguma irregularidade. ,
+preservar: Há quem se pergunte sobre a necessidade da criação de um acervo escolar, que abrigue e I]preserve os documentos da instituição escolar.,}
+Chave: GUARDAR <verb.possession>
+ILI: 02138940
+
+Sense 3
+{02138940} <verb.possession> keep, hold on -- (retain possession of; "Can I keep my old stuffed animals?"; "She kept her maiden name after she married")
+       => {02139918} <verb.possession> have, have got, hold -- (have or possess, either in a concrete or an abstract sense; "She has $1,000 in the bank"; "He has got two beautiful daughters"; "She holds a Master's degree from Harvard")
+          Also See-> {02149972} <verb.possession> keep back#3; {02217329} <verb.possession> keep back1#2

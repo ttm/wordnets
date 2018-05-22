@@ -1,0 +1,38 @@
+ANÁLISE DA GLOSA3580
+
+DADO O SYNSET:
+
+S='Glosa3580'
+	    {
+	      acoimar: Não se pode [acoimar de suspeito o perito que, em obediência à determinação do juiz, quantifica, no processo, os honorários a serem auferidos.,
+	      acusar: Outros críticos [acusaram-no de ser um místico, anticientífico, antitecnológico, ou apenas mais um filósofo extraviado. ,
+	      argüir: Perguntaria pela carta, [argüi-lo-ia de indiscreto, de delator.,
+	      encoimar: De estafador de anáforas me I]encoima.,
+	      increpar: Grande defensor da moral católica e santidade do matrimônio, foi assassinado pelo rei Boleslau II por I]increpar-lhe de levar vida desregrada.,
+	      invectivar: O senhor é um malvado, [invectivou o pobre pai, afastando se para um canto a soluçar. ,
+	      notar: A]Notou como esnobismo o uso de certas expressões estrangeiras da obra.,
+	      objurgar: I]Objurgando-o diz-lhe:- Você novamente, já deveria tê-lo matado seu traidor vagabundo.,
+	      reconvir: É possível I]reconvir sem contestar.,
+	      recriminar: I]Recriminar à Igreja Católica sua intolerância dogmática.,
+	      redargüir: Da fé, que se deve dar aos instrumentos públicos ea outras escrituras, e como se podem I]redarguir de falsas. ,
+	      tachar: O governo preferiu [tachá-lo de comunista. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3580' = “incriminar ou condenar ou abertamente ou formalmente ou estigmatizar como desonroso”
+	     {acoimar: Não se pode [acoimar de suspeito o perito que, em obediência à determinação do juiz, quantifica, no processo, os honorários a serem auferidos.,
+	      acusar: Outros críticos [acusaram-no de ser um místico, anticientífico, antitecnológico, ou apenas mais um filósofo extraviado. ,
+	      argüir: Perguntaria pela carta, [argüi-lo-ia de indiscreto, de delator.,
+	      increpar: Saudou os juízes e depois, com ar severo, I]increpou os mentirosos que negavam ter recebido o dinheiro.,
+	      invectivar: O senhor é um malvado, [invectivou o pobre pai, afastando se para um canto a soluçar. ,
+	      notar: A]Notou como esnobismo o uso de certas expressões estrangeiras da obra.,
+	      recriminar: O homem [recriminou o usuário da droga por conversar com jornalistas e o obrigou a deixar o local.,
+	      tachar: O governo preferiu [tachá-lo de comunista. ,}
+Chave: ACUSAR <verb.social>
+ILI: 02433354
+
+Sense 1
+{02433354} <verb.social> stigmatize, stigmatise, brand, denounce, mark -- (to accuse or condemn or openly or formally or brand as disgraceful; "He denounced the government action"; "She was stigmatized by society because she had a child out of wedlock")
+       => {00996581} <verb.communication> label -- (assign a label to; designate with a label; "These students were labelled `learning disabled'")
+           => {00996861} <verb.communication> designate, denominate -- (assign a name or title to)

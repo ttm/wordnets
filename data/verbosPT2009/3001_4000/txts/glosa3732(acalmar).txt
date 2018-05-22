@@ -1,0 +1,51 @@
+ANÁLISE DA GLOSA3732
+
+DADO O SYNSET:
+
+S='Glosa3732'
+{abonançar: Agora que I]abonançou a tempestade da guerra, que leis tencionas impor a esses povos selvagens? ,
+	 acalentar: Iracema cantava docemente, embalando a rede para [acalentar o filho.,
+	 acalmar: Depois de uma semana estressante, só mesmo um jogo da Seleção Brasileira para [acalmar os ânimos.,
+	 achanar: Ladeando entendimentos contrários e favoráveis, uma compreensão é inafastável: a nova lei veio I]achanar dissensões pontuais que ainda fomentavam dúvidas e reticências na sociedade e que, modernamente, restaram pacificadas pela novel lei.,
+	 amansar: Agora, para [amansar a turma, que tal dar uma garibada no repertório que você interpreta ao piano?,
+	 apacificar: Os padres celtas realizavam seus rituais oferecendo sacrifícios para I]apacificar os deuses; assegurando-se que o sol voltaria depois do inverno; e amedrontando espíritos demoníacos.,
+	 apaziguar: Tenho que lhe trazer uma garrafa de vinho de 2 mil dólares para [apaziguar nossos ânimos.,
+	 calmar: Preciso A]calmar a minha febre e começar pelo começo.,
+	 contentar: Para [contentar o Exército, Hitler teve de eliminar Rohm, segundo alguns, matando-o pessoalmente, na Noite dos Longos Punhais.,
+	 descansar: A boa notícia A]descansou-o.,
+	 pacificar: Basile está tranquilo, principalmente porque conseguiu [pacificar os dois principais líderes do seu elenco, o meio-campista Maradona e o zagueiro Ruggeri.,
+	 paziguar: x,
+	 repoisar: x,
+	 repousar: Esta música suave A]repousa o espírito.,
+	 sossegar: Antes de partir ele queria [sossegar o espírito da esposa.,
+	 tranqüilizar: A direção do Excel Econômico tem se empenhado nos últimos dias em [tranquilizar a clientela e convencê-la de que faz parte de um banco sólido e confiável. }
+
+A='Glosa2883'
+{abalar, agitar, alterar, azougar, desassossegar, desquietar, dessossegar, exagitar, excitar, fermentar, inquietar, perturbar, preocupar, revolucionar}
+	
+A ANÁLISE RESULTA EM:
+
+S='Glosa3732' = “tornar calmo ou tranqüilo”
+{abonançar: Agora que I]abonançou a tempestade da guerra, que leis tencionas impor a esses povos selvagens? ,
+	 acalentar: Iracema cantava docemente, embalando a rede para [acalentar o filho.,
+	 acalmar: Depois de uma semana estressante, só mesmo um jogo da Seleção Brasileira para [acalmar os ânimos.,
+	 achanar: Ladeando entendimentos contrários e favoráveis, uma compreensão é inafastável: a nova lei veio I]achanar dissensões pontuais que ainda fomentavam dúvidas e reticências na sociedade e que, modernamente, restaram pacificadas pela novel lei.,
+	 amansar: Agora, para [amansar a turma, que tal dar uma garibada no repertório que você interpreta ao piano?,
+	 apacificar: Os padres celtas realizavam seus rituais oferecendo sacrifícios para I]apacificar os deuses; assegurando-se que o sol voltaria depois do inverno; e amedrontando espíritos demoníacos.,
+	 apaziguar: Tenho que lhe trazer uma garrafa de vinho de 2 mil dólares para [apaziguar nossos ânimos.,
+	 calmar: Preciso A]calmar a minha febre e começar pelo começo.,
+	 contentar: Para [contentar o Exército, Hitler teve de eliminar Rohm, segundo alguns, matando-o pessoalmente, na Noite dos Longos Punhais.,
+	 descansar: A boa notícia A]descansou-o.,
+	 pacificar: Basile está tranquilo, principalmente porque conseguiu [pacificar os dois principais líderes do seu elenco, o meio-campista Maradona e o zagueiro Ruggeri.,
+	 repousar: Esta música suave A]repousa o espírito.,
+	 sossegar: Antes de partir ele queria [sossegar o espírito da esposa.,
+	 tranqüilizar: A direção do Excel Econômico tem se empenhado nos últimos dias em [tranquilizar a clientela e convencê-la de que faz parte de um banco sólido e confiável. }
+
+A='Glosa2883'
+{abalar, agitar, alterar, azougar, desassossegar, desquietar, dessossegar, exagitar, excitar, fermentar, inquietar, perturbar, preocupar, revolucionar}
+Chave: ACALMAR <verb.emotion>
+ILI: 01204371
+
+Sense 1
+{01204371} <verb.emotion> calm, calm down, quiet, tranquilize, tranquillize, quieten, lull, still -- (make calm or still; "quiet the dragons of worry and fear")
+       => {01238399} <verb.emotion> comfort1, soothe, console, solace -- (give moral or emotional strength to)

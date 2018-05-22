@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2892
+
+DADO O SYNSET:
+
+S='Glosa2892'
+	    {ater-se: O médico pode, usando qualquer meio de divulgação leiga, prestar informações, dar entrevistas e publicar artigos versando sobre assuntos médicos que sejam estritamente de fins educativos; em tais casos deverá I]ater-se aos postulados éticos contidos no Código de Ética Médica em vigor e nas Resoluções do Conselho Federal de Medicina. ,
+	      confiar-se: Sua obediência incluiu deixar seu lar e sua pátria e I]confiar-se ao cuidado de DEUS, na sua orientação divina e nas suas promessas.,
+	      entregar-se: Nos momentos difíceis, quando é tomado por fortes emoções negativas, só há um caminho para o homem: descontrair e I]entregar-se completamente ao poder de Deus. ,
+	      fiar-se: Mas negar certos fundamentos lógicos é [fiar-se a idéias milenares que não encontram mais um lugar no mundo contemporâneo, se o deseja interpretar à luz da razão e não da superstição.,
+	      ter-se: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2892' = “Conferir confiança para”
+	    {confiar-se: I]Confiou-se inteiramente aos cuidados da Divina Providência.,
+	      entregar-se: Sem medo, I]entregou-se às mais ternas promessas de felicidade.,
+	      fiar-se: I]Fiou-se em um pacto político firmado por diversos partidos que pretendem garantir a chamada "governabilidade".,}
+Chave: CONFIAR-SE <verb.possession>
+ILI: 02281584
+
+Sense 5
+{02281584} <verb.possession> entrust, intrust, trust, confide, commit -- (confer a trust upon; "The messenger was entrusted with the general's secret"; "I commit my soul to God")
+       => {02166354} <verb.possession> pass, hand, reach, pass on1, turn over, give6 -- (place into the hands or custody of; "hand me the spoon, please"; "Turn the files over to me, please"; "He turned over the prisoner to his lawyers")
+           => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children") 

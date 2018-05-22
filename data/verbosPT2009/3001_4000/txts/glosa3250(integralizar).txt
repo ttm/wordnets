@@ -1,0 +1,36 @@
+ANÁLISE DA GLOSA3250
+
+DADO O SYNSET:
+
+S='Glosa3250'
+	    {
+	      ajustar: A retenção forçada dos recursos pode até contribuir com a necessidade de [ajustar o Orçamento, o que deverá ser feito para eliminar o déficit potencial estimado em R$ 10 bilhões. ,
+	      arredondar: Conseguiu com sua economia, A]arredondar pequena fortuna.,
+	      completar: Fui procurado por um homem, com uma criança no colo, que me pedia R$ 1 mil para [completar o pagamento de uma cirurgia para a criança.,
+	      integralizar: Essas cotas, que começam a ser vendidas amanhã, deverão [integralizar o total necessário nos 31 meses de duração da construção. ,
+	      integrar: Pouco falta para M]integrarmos US$ 7.000,00. ,
+	      inteirar: Era para [inteirar a passagem de R$ 15,00.,
+	      justar2: x,
+	      perfazer: Para legalizar este dinheiro, o partido vai ter que emitir um bônus no nome de vários eleitores até [perfazer o total de CR$ 100 mil. ,
+	      redondear: DEVIANT,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3250' = “fazer um todo ou fazer parte de um todo”
+	     {ajustar: O Banco Central [ajustou na semana passada o juro real, de 1,85% (over de 42,74% e URV de 40,15%) para 2,7% (44% e 40,22%). ,
+	      arredondar: Conseguiu com sua economia, A]arredondar pequena fortuna.,
+	      completar: Com o ato assinado hoje, o Rio Grande do Sul I]completa o pagamento de 1173 processos de indenização de presos políticos na ditadura militar.,
+	      integralizar: Benedito, na mesma oportunidade, I]integralizou todas as 30 (trinta) cotas que subscreveu. ,
+	      integrar: Pouco falta para M]integrarmos US$ 7.000,00. ,
+	      inteirar: Ela até I]inteirou a quantia para o empreendimento , que consumiu mais que as economias do jovem e o dinheiro da venda do carro.,
+	      perfazer: a soma dos PIBs dos 10 maiores municípios gaúchos em PIB I]perfaz 41,5% do total. , }
+
+Chave: INTEGRALIZAR <verb.change>
+ILI: 00453592
+
+Sense 1
+{00453592} <verb.change> integrate, incorporate -- (make into a whole or make part of a whole; "She incorporated his suggestions into her proposal")
+       => {01419805} <verb.contact> compound, combine1 -- (combine so as to form a whole; mix; "compound the ingredients")
+           => {01420446} <verb.contact> mix, mingle, commix, unify, amalgamate -- (to bring or combine together or with something else; "resourcefully he mingled music and dance")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

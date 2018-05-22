@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA2595
+
+DADO O SYNSET:
+
+S='Glosa2595'
+	    {adorar: Precisamos [adorar o Brasil.,
+	      revenerar: Impossível também aqui falar sem I]revenerar a lembrança de PEDRO MILTON DE BRITO, os dois dignos patronos desta Conferência.,
+	      reverenciar: Os homens o [reverenciam no palco, as mulheres o cortejam com uma admiração que ultrapassa os cânones musicais. # A história é a do senador (Stewart) que vem a uma pequena cidade [reverenciar um obscuro pistoleiro (Wayne) que acaba de morrer.,
+	      venerar: O fã é um ser onipresente, sempre pronto a [venerar seu artista favorito independente de momento ou lugar.,}
+
+A='Glosa385'
+	    {desadorar1: Hoje, eles H]desadoram as divindades que já foram de seu culto.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2595' = “Amar incontestavelmente e indiscutivelmente ou excessivamente; venerar com um ídolo.”
+	    {adorar: O eleitorado esqueceu-se de tudo: [adorou Sarney durante o Cruzado, execrou-o, perdoou-o.,
+	      revenerar: Esperar a ajuda daquela pessoa que você sempre I]revenerou e colocou em meu lugar.,
+	      reverenciar: Os homens o [reverenciam no palco, as mulheres o cortejam com uma admiração que ultrapassa os cânones musicais.,
+	      venerar: Terezinha [venera Agatha Christie.,}
+
+ A='Glosa385'
+	    {desadorar1}
+
+Chave: VENERAR <verb.emotion>
+ILI: 01726447
+
+Sense 1
+{01726447} <verb.emotion> idolize, idolise, worship, hero-worship, revere1 -- (love unquestioningly and uncritically or to excess; venerate as an idol; "Many teenagers idolized the Beatles")
+       => {01726283} <verb.emotion> adore -- (love intensely; "he just adored his wife")
+           => {01723774} <verb.emotion> love -- (have a great affection or liking for; "I love French food"; "She loves her boss and works hard for him") 

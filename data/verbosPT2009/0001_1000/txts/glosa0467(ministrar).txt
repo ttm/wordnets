@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0467
+
+DADO O SYNSET:
+
+S='Glosa467'
+{adminicular: x,
+ministrar: Além de conhecidas pesquisas sobre Aids e malária, Carl Alving, do Instituto de Pesquisa do Exército Walter Reed, dedica-se a investigar meios de [ministrar medicamentos.,
+propinar: Não me deixarei induzir por súplicas de quem quer que seja a I]propinar veneno ou ensinar como se envenena.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa467' = “dar medicamentos” 
+{ministrar: Além de conhecidas pesquisas sobre Aids e malária, Carl Alving, do Instituto de Pesquisa do Exército Walter Reed, dedica-se a investigar meios de [ministrar medicamentos.,
+propinar: Não me deixarei induzir por súplicas de quem quer que seja a I]propinar veneno ou ensinar como se envenena.,}
+Chave: MINISTRAR <verb.possession
+ILI: 02242465
+
+Sense 1
+{02242465} <verb.possession> give13 -- (give (as medicine); "I gave him the drug")
+       => {00078744} <verb.body> administer, dispense -- (give or apply (medications))
+           => {00076458} <verb.body> treat, care for -- (provide treatment for; "The doctor treated my broken leg"; "The nurses cared for the bomb victims"; "The patient must be treated right away or she will die"; "Treat the infection with antibiotics")

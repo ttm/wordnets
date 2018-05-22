@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA3939
+
+DADO O SYNSET:
+
+S='Glosa3939'
+    	{aleiloar: x,
+      	 almoedar: M]Almoedam prédios.,
+      	 leiloar: Durante 25 anos ele [leiloou objetos artísticos no Brasil e no exterior, como o famoso quadro «A Ultima Ceia», de Portinari, vendido em 1976 em São Paulo para o empresário Aldo Narcisi por US$ 450 mil .,
+      	 pracear: M]Pracearam os móveis da casa.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3939' = “vender num leilão”
+    	{leiloar: Durante 25 anos ele [leiloou objetos artísticos no Brasil e no exterior.,
+ pracear: Segundo o senhor Ministro Cordeiro Guerra, do STF, “não é certo, nem legítimo, I]pracear o Estado um bem, receber o preço da arrematação, e exigir do arrematante que responda, também, sobre os débitos do executado.}
+Chave: LEILOAR <verb.possession>
+ILI: 02179883
+
+Sense 1
+{02179883} <verb.possession> auction, auction off, auctioneer -- (sell at an auction)
+       => {02177556} <verb.possession> sell -- (exchange or deliver for money or its equivalent; "He sold his house in January"; "She sells her body to survive and support her drug habit")
+           => {02192193} <verb.possession> exchange, change, interchange -- (give to, and receive from, one another; "Would you change places with me?"; "We have been exchanging letters for a year")
+               => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children") 

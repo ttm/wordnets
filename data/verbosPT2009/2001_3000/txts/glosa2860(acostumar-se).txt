@@ -1,0 +1,42 @@
+ANÁLISE DA GLOSA2860
+
+DADO O SYNSET:
+
+S='Glosa2860'
+	    {acostumar-se: Na segunda-feira, ficou apenas duas horas na escola para [se acostumar com os novos colegas e com o novo ambiente .,
+	      afazer-se: E porque ele, nenhum outro até então, foi o que sentiu até fisicamente na sua carne nova e ciliciada, trêmula de amor e pronta para o sacrifício, a precisão de aprofundar o mistério fascinante da grande coisa informe e desconhecida; de entrar a terra e tateá-la com carinho; de experimentar de perto a violência excitante da sua luz quente e da sua cor brutal; de provar a convivência difícil da gente solta e bronca e inculta que aí vegetava; de I]afazer-se ao ambiente monstruoso e nele e por ele viver e morrer.  ,
+	      avezar-se: É interessante notar que os Estados Unidos da América mesmo I]avezando-se ao amiudado discurso liberal - têm sido não pouco freqüente acusados de protegerem seu mercado com a utilização de medidas não tarifárias.,
+	      costumar-se: Que nehuma pessoa nas matas do rocio desta Povoação faça roças de lavouras do uso do pais, pôr que I]costumando-se estas destrumas com as cinzas dos arvoredos cortados e queimados em breves annos destroem-se bosques inteiros, resultando daqui virem a faltas pelo tempo em diante as madeiras de construção e até mesmo a lenha para o fogo diario. ,
+	      familiarizar-se: Segundo Carlos André De Laurantis, diretor da Mesbla, a idéia é fazer o consumidor [se familiarizar com o real antes da entrada da nova moeda.,
+	      habituar-se: Só depois de [habituar-se a ele, deixou que crescesse a barba.,
+	      identificar-se: Waldemar Henrique I]identificou-se definitivamente com esta casa.,}
+
+	  A='Glosa1111'
+	    {deixar: Fernando Henrique alega que o governo não pode [deixar de fazer suas inaugurações só porque é época eleitoral,
+	     desabituar-se: O Estado deve I]desabituar-se de ter o monopólio do ensino/O povo, que se habituara àquela figura, não conseguiria I]desabituar-se,
+	     desacostumar-se: A partir do fim da Guerra Fria, o mundo começava [desacostumar-se de assistir às tétricas cenas de pessoas inocentes sendo friamente assassinadas e seus corpos atirados sobre as pistas de aeroportos,
+	     desafazer-se: É preciso algum método para bem observar e analisar o que se passa, I]desafazer-se dos pré-julgamentos, vislumbrar novos caminhos, formular hipóteses,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2860' = “Tornar familiar ou conhecido”
+	    {acostumar-se: Você já I]se acostumou com os tapetes vermelhos e as premiações?,
+	      afazer-se: Dócil, como era, para escravizar-se aos hábitos, I]afez-se pouco a pouco àquele duro vagabundear.,
+	      avezar-se: I]Avezou-se muito cedo com os livros.,
+	      costumar-se: Máquinas de escrever para aqueles colegas que não I]se costumaram com os computadores.,
+	      familiarizar-se: É muito bom também I]familizarizar-se com as diferenças tonais entre "distorção", "overdrive" e "fuzz".,
+	      habituar-se: Infelizmente a população já I]habituou-se com essa dificuldade mas, independente disso, solicitam a pintura de uma faixa de segurança para pedestres.,
+	      identificar-se: Waldemar Henrique I]identificou-se definitivamente com esta casa.,}
+
+	  A='Glosa1111'
+	    {deixar, desabituar-se, desacostumar-se, desafazer-se}
+
+Chave: ACOSTUMAR-SE <verb.communication>
+ILI: 00845081
+
+Sense 1
+{00845081} <verb.communication> familiarize, familiarise, acquaint1 -- (make familiar or acquainted; "you should acquaint yourself with your new computer"; "We familiarized ourselves with the new surroundings")
+       => {00804489} <verb.communication> inform -- (impart knowledge of some fact, state or affairs, or event to; "I informed him of his rights")
+           => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+               => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel") 

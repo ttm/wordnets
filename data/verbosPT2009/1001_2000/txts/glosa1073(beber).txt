@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA1073
+
+DADO O SYNSET:
+
+S='Glosa1073'
+{beber: Essa propriedade é utilizada para obtermos água mais fresca para [beber/O calor lá é violento e você tem sempre que estar buscando sombra, chapéu e [beber litros e litros de água,
+engolir: Na volta para a casa, deveriam I]engolir o tenebroso caldo preto.,
+ ingerir: Para comer, negociar uma barganha, [ingerir um café, tostar um cabo de foice, fazê-lo noutra posição será desastre infalível,
+ libar: Martim lho arrebatou das mãos, e I]libou as gotas do verde e amargo licor,
+ tomar: Faz 50 anos que ele [toma sucos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1073' = “consumir em líquidos” 
+{beber: Na feira, comeu banana e [bebeu garapa.,
+ engolir: Freitas [engoliu sofregamente três goles de água e voltou-se logo.,
+ ingerir: As vítimas [ingeriram álcool industrial.,
+ libar: Martim lho arrebatou das mãos, e [libou as gotas do verde e amargo licor.,
+ tomar: Para cumprir sua missão de divulgar o real em Salvador, Ricupero [tomou cerveja, cumprimentou pessoas, distribuiu autógrafos e abraçou crianças.,}
+Chave: BEBEU <verb.consumption> 
+ILI: 01134068
+
+Sense 1
+{01134068} <verb.consumption> drink, imbibe -- (take in liquids; "The patient must drink several liters each day"; "The children like to drink soda")
+       => {01121136} <verb.consumption> consume, ingest, take in, take, have -- (serve oneself to, or consume regularly; "Have another bowl of chicken soup!"; "I don't take sugar in my coffee")
+          Also See-> {01139819} <verb.consumption> drink up#1; {01165898} <verb.consumption> drink down#1

@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA3902
+
+DADO O SYNSET:
+
+S='Glosa3902'
+{pontilhar: O João Marreca olhou para o animal que todo se I]pontilhava de verrugas pretas, encaroçando-lhe o úbere, as pernas, o corpo inteiro.,
+ pontoar: Tudo o que fez foi H]pontoar um trajeto num mapa.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3902' = “marcar com pontos”
+{pontilhar: Ela elevou a pena dela e I]pontilhou um “i” tão ferozmente que perfurou um buraco no pergaminho.}
+Chave: PONTILHAR <verb.change>
+ILI: 00494271
+
+Sense 4
+{00494271} <verb.change> dot -- (mark with a dot; "dot your `i's")
+       => {00494390} <verb.change> mark -- (make or leave a mark on; "mark the trail so that we can find our way back")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

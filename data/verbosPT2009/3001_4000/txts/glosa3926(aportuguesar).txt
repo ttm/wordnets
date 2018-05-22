@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA3926
+
+DADO O SYNSET:
+	
+S='Glosa3926'
+    	{aportuguesar: Em Portugal, há, sempre houve, a preocupação de tudo I]aportuguesar. Mas nisto, como em tudo, é o povo que faz a língua,
+      	 lusitanizar: Tentaram nos I]lusitanizar mas essa cultura, que nasce de um encontro mundial, incorporando depois o africano, virou um ser social poderoso que seduz e faz todo o sistema se apaixonar por ele. ,
+      	 portugalizar: Referindo-se ao fenômeno português na Península, disse algures Unamuno que seria necessário I]portugalizar a Espanha.,
+      	 portuguesar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3926' = “dar o caráter português”
+    	{aportuguesar: Esse movimento criou laços morais e afetivos profundos, iberizando e I]aportuguesando ainda mais o meu modo de ser.,
+      	 lusitanizar: Marquês de Pombal fazia o maior esforço para I]lusitanizar a região.,
+      	 portugalizar: Referindo-se ao fenômeno português na Península, disse algures Unamuno que seria necessário I]portugalizar a Espanha.}
+Chave: APORTUGUESAR
+ILI: EQ_HAS_HYPERONYM - 00121430
+
+Sense 1
+{00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

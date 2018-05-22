@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA0934
+
+DADO O SYNSET:
+
+S='Glosa934'
+{compelir: A Lei dos Direitos Civis define molestamento sexual como prática de tentar [compelir uma subordinada funcional a aceitar avanços sexuais de seu superior. # Aliás, burguês e imperialista, o século 19 [compeliu muito seus homens de sucesso a montar imperiozinhos particulares.,
+empurrar: Jecy é integrante do brizolismo ortodoxo que tenta [empurrar a candidatura de Brizola à prefeitura do Rio, para abafar a candidatura do deputado Miro Teixeira.,
+empuxar: Fico feliz em saber que você conseguiu tirar alguma lição das minhas palavras e que esse processo o I]empuxou para um estágio mais elevado.,
+impelir: Novos dados indicam que o perfeccionismo aumenta o risco de suicídio muito mais que a atitude de inutilidade, que os médicos acreditaram por muitos anos ser a única atitude emocional a [impelir os pacientes depressivos a se matarem.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa934' = “estimular, incitar, ou induzir (alguém) a agir (à força)”
+{compelir: A Lei dos Direitos Civis define molestamento sexual como prática de tentar [compelir uma subordinada funcional a aceitar avanços sexuais de seu superior. # Aliás, burguês e imperialista, o século 19 [compeliu muito seus homens de sucesso a montar imperiozinhos particulares.,
+empurrar: Jecy é integrante do brizolismo ortodoxo que tenta [empurrar a candidatura de Brizola à prefeitura do Rio, para abafar a candidatura do deputado Miro Teixeira.,
+empuxar: Fico feliz em saber que você conseguiu tirar alguma lição das minhas palavras e que esse processo o I]empuxou para um estágio mais elevado.,
+impelir: Novos dados indicam que o perfeccionismo aumenta o risco de suicídio muito mais que a atitude de inutilidade, que os médicos acreditaram por muitos anos ser a única atitude emocional a [impelir os pacientes depressivos a se matarem.,}
+Chave: EMPURRAR <verb.communication>
+ILI: 00740697
+
+Sense 2
+{00740697} <verb.communication> push1, bear on -- (press, drive, or impel (someone) to action or completion of an action; "He pushed her to finish her doctorate")
+       => {00740405} <verb.communication> urge, urge on, press, exhort -- (force or impel in an indicated direction; "I urged him to finish his studies")
+           => {00843872} <verb.communication> advise, counsel -- (give advice to; "The teacher counsels troubled students"; "The lawyer counselled me when I was accused of tax fraud")
+               => {00787668} <verb.communication> hash out, discuss, talk over -- (speak with others about (something); talk (something) over in detail; have a discussion; "We discussed our household budget")
+                   => {00912516} <verb.communication> talk of, talk about1 -- (discuss or mention; "They spoke of many things")
+                       => {00910961} <verb.communication> talk, speak, utter, mouth, verbalize, verbalise -- (express in speech; "She talks a lot of nonsense"; "This depressed patient does not verbalize")
+                           => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                               => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

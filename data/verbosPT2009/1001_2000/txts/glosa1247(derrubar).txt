@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA1247
+
+DADO O SYNSET:
+
+S='Glosa1247'
+{derribar: Não é bom ter respeito a pessoa do ímpio para I]derribar o justo em juízo. ,
+ derrubar: Em todos os campos da atividade humana, a inexperiência, o despreparo, a falta de vivência acumulada castiga os neófitos, tanto quanto a pretensão costuma [derrubar os arrogantes.,
+ desmascarar: Ainda é cedo para Lula I]desmascarar FHC,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1247' = “expor a má conduta ou escândalos de alguém” 
+{derribar: As provas trazidas aos autos pelo réu não são suficientemente robustas para I]derribar a presunção da existência da dívida retratada nas cártulas emitidas.,
+ derrubar: Mas Tarde dá um passo além neste papel, ao afirmar que o jornal I]derrubou a monarquia.,
+ desmascarar: Ainda é cedo para Lula I]desmascarar FHC.,}
+Chave: DERRUBAR
+ILI: EQ_HAS_HYPONYM – 00904020 – “explorar e expor a má conduta ou escândalos com referência a figuras públicas”
+
+Sense 1
+{00904020} <verb.communication> muckrake -- (explore and expose misconduct and scandals concerning public figures; "This reporter was well-known for his muckraking")
+       => {00903103} <verb.communication> disclose, let on, bring out6, reveal, discover4, expose1, divulge, impart, break, give away, let out -- (make known to the public information that was previously known only to a few people or that was meant to be kept a secret; "The auction house would not disclose the price at which the van Gogh had sold"; "The actress won't reveal how old she is"; "bring out the truth"; "he broke the news to her")
+           => {00920928} <verb.communication> tell -- (let something be known; "Tell them that you will be late")
+               => {00804489} <verb.communication> inform -- (impart knowledge of some fact, state or affairs, or event to; "I informed him of his rights")
+                   => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                       => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                           => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

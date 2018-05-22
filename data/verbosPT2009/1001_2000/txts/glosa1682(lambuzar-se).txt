@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA1682
+
+DADO O SYNSET:
+
+S='Glosa1682'
+{emelar-se: x,
+ enlambuzar-se: x,
+ labuzar-se: x,
+ lambuçar-se: x,
+ lambuzar-se: Experimente ouvir Maria Rita (filha da Elis), pisar na lama, beber leite no curral, lambuzar-se de mel, e ver um por-do-sol no Arpoador.,
+ melar-se: A criançada tanto comia quanto se H]melava.,
+ sujar-se: É admirar as conchas na praia, olhar os peixes no rio, sentir o gosto da chuva no rosto, I]sujar-se na lama, entrar em cavernas. ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1682' = “macular-se com substância suja”
+{lambuzar-se: Leitura e imitação das reinações de Narizinho, compartilhadas com as da desastrada Sofia, se [lambuzando de manga com Pedrinho, cheirando o capim gordura do sítio de Dona Benta.,
+ melar-se: O bloco de sujos Os Pretinhos do Mangue destaca a feliz proposta de preservação do meio ambiente e leva seus integrantes ao Manguezal, onde se I]melam com a lama (tijuco) para desfilar pelas ruas da cidade.,
+ sujar-se: Chegou a hora de uma atividade com sucata, ele gostou tanto de participar que até se I]sujou com cola.}
+Chave: LAMBUZAR-SE <verb.contact>
+ILI: 01214555
+
+Sense 1
+{01214555} <verb.contact> smear2 -- (stain by smearing or daubing with a dirty substance)
+       => {01491650} <verb.contact> dirty, soil, begrime, grime, colly, bemire -- (make soiled, filthy, or dirty; "don't soil your clothes when you play outside!")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA0076
+
+DADO O SYNSET:
+
+S='Glosa76'
+{altear: Só aceitou a causa quando seu futuro cliente I]alteou a voz e disse: Agora, sim, reconheço a voz da um homem que foi realmente agredido.,
+aumentar: Os fertilizantes produzidos pela indústria química melhoraram a qualidade do solo e conseqüentemente [aumentou a produção. ,
+avantajar: A ventania A]avantajava as ondas.,
+avultar: Sua produção I]avultou numericamente e em qualidade.,
+crescer: O faturamento global [cresceu, no mesmo período, de 0,93 para 1,6, em bilhões de dólares.,
+subir: O preço do trigo no mercado internacional já [subiu mais de 40% este mês.,}
+A='Glosa3466'
+{abaixar, diminuir}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa76' = “aumentar o nível ou a quantidade de alguma coisa”
+{altear: Só aceitou a causa quando seu futuro cliente I]alteou a voz e disse: Agora, sim, reconheço a voz da um homem que foi realmente agredido.,
+aumentar: Os fertilizantes produzidos pela indústria química melhoraram a qualidade do solo e conseqüentemente [aumentou a produção. ,
+avantajar: a sistematização naquela parte da Europa, que também I]avantajou o zelo pelas sabedorias populares.,
+avultar: Sua produção I]avultou numericamente e em qualidade.,
+crescer: O faturamento global [cresceu, no mesmo período, de 0,93 para 1,6, em bilhões de dólares.,
+subir: O preço do trigo no mercado internacional já [subiu mais de 40% este mês.,}
+A='Glosa3466'
+{abaixar, diminuir}
+Chave: SUBIR <verb.change>
+ILI: 00152639
+
+Sense 1
+{00152639} <verb.change> raise1 -- (raise the level or amount of something; "raise my salary"; "raise the price of bread")
+       => {00147655} <verb.change> increase2 -- (make bigger or more; "The boss finally increased her salary"; "The university increased the number of students it admitted")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

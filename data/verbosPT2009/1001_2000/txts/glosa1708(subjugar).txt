@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA1708
+
+DADO O SYNSET:
+
+S='Glosa1708'
+{disciplinar: Com elas, o partido [disciplinava adeptos e convencia adversários.,
+ encabrestar: Negócio fechado, Joaquim Paletó saiu no terreiro para I]encabrestar a mula. ,
+ reduzir: O general A]reduziu os exércitos inimigos.  ,
+ subjugar: Os reinos medo e persa surgiram no século 7º a.C. Ciro, o aquemênida, [subjugou a Anatólia e a Mesopotâmia.,
+ submeter: As forças egípcias [submeteram a Síria e a Palestina, atingiram o Eufrates, a Núbia e a Etiópia.,
+ sujeitar: Segundo o corregedor, ajuda de sindicato constitui crime eleitoral e [sujeita os candidatos envolvidos à cassação do registro eleitoral.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1708' = “tornar [alguém] subserviente; forçar [alguém] a se submeter ou se sujeitar”
+{disciplinar: Com elas, o partido [disciplinava adeptos e convencia adversários.,
+ encabrestar: Existem religiões, mas são como as ocidentais, que I]encabrestam os fiéis para que venerem alguém e fiquem escravizados nesta veneração.,
+ reduzir: O homem absorveu essas mudanças de bom grado e começa a se libertar da couraça patriarcal que o I]reduziu.,
+ subjugar: O outro mostra a cantora, já com o status de pop star, [subjugando a platéia numa versão morna de «What' s Love Got to Do with It», no Ritz de NY.,
+ submeter: O dragão-bordado é um símbolo não só da prisão que [submete a mulher ao desejo do marido, mas também da tarefa doméstica massacrante que a impede de sonhar, ou ainda de afastar a mente do espaço restritivo do lar.,
+ sujeitar: Enfim o senhor é o divertimento de muitos, e o objeto da compaixão dos homens graves, que acreditam indispensável que sua família o [sujeite a mais zelosa curadoria...,}
+Chave: SUBJUGAR <verb.social>
+ILI: 02422244 
+
+Sense 2
+{02422244} <verb.social> subjugate, subject -- (make subservient; force to submit or subdue)
+       => {02464207} <verb.social> dominate, master -- (have dominance or the power to defeat over; "Her pain completely mastered her"; "The methods can master the problems")
+           => {02367626} <verb.social> control, command -- (exercise authoritative control or power over; "control the budget"; "Command the military forces")

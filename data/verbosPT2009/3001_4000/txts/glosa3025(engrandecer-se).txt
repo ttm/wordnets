@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA3025
+
+DADO O SYNSET:
+
+S='Glosa3025'
+	    {
+	      agigantar-se: Na mesma seqüência já anteriormente citada em que a arquitetura do Reich se [agiganta ao redor do servidor do Führer, a trilha sonora nos faz ouvir o célebre registro de Natal.,
+	      agigantear-se: x,
+	      engrandecer-se: Ao final do romance, Júlia se apercebe de que a ajuda que a amiga lhe dá não passa de um jogo sutil para [engrandecer-se ou mesmo para exercer o poder.,
+	      gigantear: x,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3025' = “ crescer ou intensificar-se”
+	     {agigantar-se: Na mesma seqüência já anteriormente citada em que a arquitetura do Reich se [agiganta ao redor do servidor do Führer, a trilha sonora nos faz ouvir o célebre registro de Natal.,
+	      engrandecer-se: A galeria de personagens I]engrandeceu-se com homens monstruosos e monstros quase humanos, com mutantes ferozes ou superinteligentes.,}
+Chave: ENGRANDECER-SE <verb.change>
+ILI: 00152104
+
+Sense 2
+{00152104} <verb.change> augment -- (grow or intensify; "The pressure augmented")
+       => {00223119} <verb.change> grow -- (become larger, greater, or bigger; expand or gain; "The problem grew too large for me"; "Her business grew fast")
+           => {00150804} <verb.change> increase -- (become bigger or greater in amount; "The amount of work increased")
+               => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

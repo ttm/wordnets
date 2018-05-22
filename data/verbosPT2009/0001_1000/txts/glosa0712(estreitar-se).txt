@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0712
+
+DADO O SYNSET:
+
+S='Glosa712'
+{comprimir-se: De maneira geral, as cotações dos grãos, que se haviam elevado continuamente durante todo o ano de 1995 e atingido patamares recordes no segundo trimestre do ano passado, I]comprimiram-se vigorosamente a partir de então.,
+estreitar-se: Conclui-se que, em comparação ao passado, não apenas I]estreitaram-se as possibilidades financeiras de contemplar variadas demandas, como também ampliou-se a divergência quanto à utilidade e legitimidade de contemplá-las.  ,
+fechar-se: Assim, I]fechava-se o cerco da política da República Velha: numa ponta, os Coronéis fazendeiros; na outra, os membros da Comissão. ,
+limitar-se: Se assim for concebido, I]limitam-se as possibilidades de identificação honesta de seus méritos e falhas.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa712' = “fazer ou ficar mais estreito ou restrito”
+{comprimir-se: De maneira geral, as cotações dos grãos, que se haviam elevado continuamente durante todo o ano de 1995 e atingido patamares recordes no segundo trimestre do ano passado, I]comprimiram-se vigorosamente a partir de então.,
+estreitar-se: Conclui-se que, em comparação ao passado, não apenas I]estreitaram-se as possibilidades financeiras de contemplar variadas demandas, como também ampliou-se a divergência quanto à utilidade e legitimidade de contemplá-las.  ,
+fechar-se: Assim, I]fechava-se o cerco da política da República Velha: numa ponta, os Coronéis fazendeiros; na outra, os membros da Comissão. ,
+limitar-se: Se assim for concebido, I]limitam-se as possibilidades de identificação honesta de seus méritos e falhas.,}
+Chave: ESTREITAR-SE <verb.change>
+ILI: 00295534
+
+Sense 1
+{00295534} <verb.change> narrow, contract -- (make or become more narrow or restricted; "The selection was narrowed"; "The road narrowed")
+       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")
+          Also See-> {00473257} <verb.change> narrow down#2; {00425035} <verb.change> narrow down1#3

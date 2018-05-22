@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA1809
+
+DADO O SYNSET:
+
+S='Glosa1809'
+    	{encrencar: Quando o motorista I]encrencava o carro e o deixava na estrada, chamava o Pedro para consertá-lo. ,
+     	 engasgar: O carro falhou, I]engasgou e cobriu de fumaça o rosto do presidente. ,
+      	 engripar: O motor do carro H]engripou de repente.,
+      	 enguiçar: Arriscados a ver o carro [enguiçar na estrada, os jovens proprietários trataram de se familiarizar com macetes escondidos no capô.,
+     	 quebrar: Que viagem horrível! O carro I]quebrou duas vezes na volta para casa. ,}
+  
+A='Glosa1352'
+    	{desenguiçar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1809' = “parar de operar ou funcionar”
+    	{encrencar: Mas isso é como erro em jornal: o leitor não quer saber se o redator estava passando mal, ou se a máquina I]encrencou. Vale o escrito.,
+     	 engasgar: Então, de repente, o Romeo I]engasgou - e o motor parou.,
+      	 engripar: Se a válvula [engripar, ela deve ser substituída por outra original, mas jamais eliminada.,
+      	 enguiçar: Arriscados a ver o carro [enguiçar na estrada, os jovens proprietários trataram de se familiarizar com macetes escondidos no capô.,
+     	 quebrar: Fazia uma corrida impecável e brigava pelo quinto lugar quando o câmbio de seu Penske-Mercedes [quebrou.,}
+  
+A='Glosa1352'
+    	{desenguiçar}
+Chave: QUEBRAR <verb.change>
+ILI: 00422006
+
+Sense 4
+{00422006} <verb.change> fail, go bad1, give way, die4, give out, conk out, go3, break5, break down -- (stop operating or functioning; "The engine finally went"; "The car died on the road"; "The bus we travelled in broke down on the way to town"; "The coffee maker broke"; "The engine failed on the way to town"; "her eyesight went after the accident")
+       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

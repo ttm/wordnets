@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA2113
+
+DADO O SYNSET:
+	
+S='Glosa2113'
+    	{castigar: Já houve uma senhora que [castigou um moleque a chicote, lá mesmo no largo !,
+      	 corrigir: Não deixe de I]corrigir a criança. Umas palmadas não a matarão. ,
+      	 disciplinar: Não descarregue o peso de sua mão de adulto num corpo frágil e indefeso de uma criança: isso é covardia, não disciplina. A vara ajuda I]disciplinar, educar, estabelecer limites, quando aplicada com brandura e por aquele que o faz para o bem do faltoso, jamais por ódio.,
+      	 emendar: x,
+      	 ensinar: A]Ensinou o filho, dando-lhe boas palmadas.,
+      	 escaldar: x,
+      	 escarmentar: x,
+      	 exemplar: M]Exemplou-o com uma bordoada. ,
+      	 retificar: M]Retifica-te primeiramente a ti mesmo.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2113' = “punir a fim de ganhar controle ou impor obediência”
+    	{castigar: Já houve uma senhora que [castigou um moleque a chicote, lá mesmo no largo.,
+      	 corrigir: Não deixe de I]corrigir a criança, umas palmadas não a matarão.,
+      	 disciplinar: A vara ajuda I]disciplinar, educar, estabelecer limites, quando aplicada com brandura e por aquele que o faz para o bem do faltoso, jamais por ódio.,
+      	 ensinar: A sociedade moderna trouxe de volta o "homem bicho", a lógica do cada um por si, a lógica do Deus cruel, vingativo e julgador, que I]ensina com palmadas.,
+      	 exemplar: Os patrões, com os longos domingos e dias santificados gastos nas diversões, nos dias comuns, ordenando o trabalho escravo, fiscalizando-o, I]exemplando negros rebeldes.}
+Chave: DISCIPLINAR <verb.social>
+ILI: 02477917
+
+Sense 2
+{02477917} <verb.social> discipline, correct, sort out -- (punish in order to gain control or enforce obedience; "The teacher disciplined the pupils rather frequently")
+       => {02424949} <verb.social> punish, penalize, penalise -- (impose a penalty on; inflict punishment on; "The students were penalized for showing up late for class"; "we had to punish the dog for soiling the floor again")

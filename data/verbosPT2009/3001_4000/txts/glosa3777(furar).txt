@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA3777
+
+DADO O SYNSET:
+
+S='Glosa3777'
+{atravessar: DEVIANT,
+	 cavar: Cientistas na Califórnia sintetizaram uma nova classe de moléculas capazes de I]cavar buracos na parede celular de bactérias.,
+	 descavar: x,
+	 escavar: Ele usou uma colher para I]escavar a parede.,
+	 furar: A surgência é um tipo de fonte onde a água brota sem ser necessário I]furar um poço. ,
+	 perfurar: Wintershall se prepara para I]perfurar seu primeiro poço no Brasil a poucos quilômetros da megadescoberta do BS-400. ,
+	 travessar: DEVIANT,
+	 vazar: A]Vazar uma peça de madeira.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3777' = “penetrar ou cortar através [de] com um instrumento agudo”
+{cavar: Cientistas na Califórnia sintetizaram uma nova classe de moléculas capazes de I]cavar buracos na parede celular de bactérias.,
+	 escavar: Ele usou uma colher para I]escavar a parede.,
+	 furar: A surgência é um tipo de fonte onde a água brota sem ser necessário I]furar um poço.,
+	 perfurar: Wintershall se prepara para I]perfurar seu primeiro poço no Brasil a poucos quilômetros da megadescoberta do BS-400.,
+	 vazar: A]Vazar uma peça de madeira.}
+Chave: FURAR <verb.contact>
+ILI: 01400358
+
+Sense 4 
+{01400358} <verb.contact> pierce1, thrust1 -- (penetrate or cut through with a sharp instrument)
+       => {01190419} <verb.contact> penetrate, perforate3 -- (pass into or through, often by overcoming resistance; "The bullet penetrated her chest")
+           => {01958650} <verb.motion> enter, come in2, get into, get in1, go into, go in, move into -- (to come or go into; "the boat entered an area of shallow marshes")
+

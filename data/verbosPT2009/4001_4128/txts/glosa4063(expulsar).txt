@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA4063
+
+DADO O SYNSET:
+
+S='Glosa4063'
+{afastar: O verdadeiro depósito humano I]afastou os moradores de suas regiões, famílias, escolas de samba e, muitas vezes, juntou rivais no mesmo espaço.,
+despedir: Recebida a mensagem, fez um gesto H]despedindo o portador.,
+expulsar: Aser I]expulsou os moradores de Aco.,
+proscrever: H]Proscreveu os índios de suas terras.,
+vastar1: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4063' = “forçar a ir embora, usado com sentido concreto e metafórico”
+{afastar: Com um sinal o cônego [afastou Mana Bárbara e Mônica.,
+despedir: Recebida a mensagem, fez um gesto H]despedindo o portador.,
+expulsar: Aser I]expulsou os moradores de Aco.,
+proscrever: H]Proscreveu os índios de suas terras.,}
+Chave: EXPULSAR <verb.motion>
+ILI: 01944734
+
+Sense 1
+{01944734} <verb.motion> chase away, drive out1, turn back2, drive away, dispel, drive off6, run off -- (force to go away; used both with concrete and metaphoric meanings; "Drive away potential burglars"; "drive away bad thoughts"; "dispel doubts"; "The supermarket had to turn back many disappointed customers")
+       => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

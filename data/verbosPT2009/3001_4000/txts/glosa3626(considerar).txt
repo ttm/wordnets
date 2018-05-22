@@ -1,0 +1,35 @@
+ANÁLISE DA GLOSA3626
+
+DADO O SYNSET:
+
+S='Glosa3626'
+	    {
+	      considerar: [Considerou os resultados do estudo preocupantes.,
+	      dar: Hill, da Williams, se [deu por satisfeito com o segundo tempo.,
+	      interpretar: Vários juristas [interpretam de formas diferentes as conseqüências da sentença.,
+	      julgar: O então ministro afirmou [julgar injusta sua própria condição de aposentado e disse que ela não o inibia de prosseguir na defesa da tese do limite de idade para aposentadoria.,
+	      olhar: Todas as pessoas devem se I]olhar como iguais.,
+	      reputar: Se o réu não contestar a ação, [reputar-se-ão verdadeiros os fatos afirmados pelo autor./ Tenho razão para [reputá las, e reputá los dignos de toda a consideração.,
+	      saber: Foi atingido mortalmente ao tentar forçar uma porta que I]sabia fácil de entrar.,
+	      ter: O réu não agiu de conformidade com os princípios de probidade administrativa, não se podendo I]ter por honesto seu comportamento. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3626' = “julgar ser”
+	     {considerar: [Considerou os resultados do estudo preocupantes.,
+	      dar: Hill, da Williams, se [deu por satisfeito com o segundo tempo.,
+	      interpretar: Vários juristas [interpretam de formas diferentes as conseqüências da sentença.,
+	      julgar: O então ministro afirmou [julgar injusta sua própria condição de aposentado e disse que ela não o inibia de prosseguir na defesa da tese do limite de idade para aposentadoria.,
+	      olhar: Todas as pessoas devem se I]olhar como iguais.,
+	      reputar: Se o réu não contestar a ação, [reputar-se-ão verdadeiros os fatos afirmados pelo autor./ Tenho razão para [reputá las, e reputá los dignos de toda a consideração.,
+	      saber: Foi atingido mortalmente ao tentar forçar uma porta que I]sabia fácil de entrar.,
+	      ter: O réu não agiu de conformidade com os princípios de probidade administrativa, não se podendo I]ter por honesto seu comportamento. ,}
+Chave: CONSIDERAR <verb.cognition>
+ILI: 00667530
+
+Sense 1
+{00667530} <verb.cognition> see, consider, reckon, view, regard -- (deem to be; "She views this quite differently from me"; "I consider her to be shallow"; "I don't see the situation quite as negatively as you do")
+       => {00666260} <verb.cognition> think1, believe4, consider8, conceive -- (judge or regard; look upon; judge; "I think he is very smart"; "I believe her to be very smart"; "I think that he is her boyfriend"; "The racist conceives such people to be inferior")
+           => {00647983} <verb.cognition> judge -- (form an opinion of or pass judgment on; "I cannot judge some works of modern art")
+               => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

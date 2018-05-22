@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA4070
+
+DADO O SYNSET:
+
+S='Glosa4070'
+{protocolar: Após esgotados todos os recursos a União I]protocolou petição sobre o título de objeção.,
+protocolizar: Em 2002, o Unafisco I]protocolizou na Justiça Federal de Alagoas petições nos três processos já transitados em julgado.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4070' = “registrar em repartição pública ou em um tribunal”
+{protocolar: Após esgotados todos os recursos a União I]protocolou petição sobre o título de objeção.,
+protocolizar: Em 2002, o Unafisco I]protocolizou na Justiça Federal de Alagoas petições nos três processos já transitados em julgado.,}
+Chave: PROTOCOLAR <verb.communication>
+ILI: 00969353
+
+Sense 2
+{00969353} <verb.communication> file2, register3 -- (record in a public office or in a court of law; "file for divorce"; "file a complaint")
+       => {02397606} <verb.social> register -- (record in writing; enter into a book of names or events or transactions)
+           => {00967710} <verb.communication> record, enter4, put down5 -- (make a record of; set down in permanent form)
+               => {02161122} <verb.possession> save, preserve1 -- (to keep up and reserve for personal or special use; "She saved the old family photographs in a drawer")
+                   => {02138940} <verb.possession> keep, hold on -- (retain possession of; "Can I keep my old stuffed animals?"; "She kept her maiden name after she married")
+                       => {02139918} <verb.possession> have, have got, hold -- (have or possess, either in a concrete or an abstract sense; "She has $1,000 in the bank"; "He has got two beautiful daughters"; "She holds a Master's degree from Harvard")

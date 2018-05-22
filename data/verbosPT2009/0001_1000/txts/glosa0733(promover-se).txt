@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0733
+
+DADO O SYNSET:
+
+S='Glosa733'
+{autopromover-se: Não há dúvida de que o ex-governador é popular: até porque foi generoso na distribuição de verbas publicitárias para [se autopromover.,
+badalar-se: Eis a diferença entre, por exemplo, um ator, que gasta muito em "books" para valorizar-se e um poeta, que acha que se, pela web I]se badala de graça.,
+promover-se: Ivonilo considerou o episódio no Sambódromo uma estratégia de Lílian para [se promover.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa733' = “dar (-se) uma promoção, elevar (-se)”
+{autopromover-se: Não há dúvida de que o ex-governador é popular: até porque foi generoso na distribuição de verbas publicitárias para [se autopromover.,
+badalar-se: Eis a diferença entre, por exemplo, um ator, que gasta muito em "books" para valorizar-se e um poeta, que acha que se, pela web I]se badala de graça.,
+promover-se: Ivonilo considerou o episódio no Sambódromo uma estratégia de Lílian para [se promover.,}
+Chave: PROMOVER-SE <verb.social>
+ILI: 02325893
+
+Sense 2
+{02325893} <verb.social> promote, upgrade, advance, kick upstairs, raise4, elevate -- (give a promotion to or assign to a higher position; "John was kicked upstairs when a replacement was hired"; "Women tend not to advance in the major law firms"; "I got promoted after many years of hard work")
+       => {02320208} <verb.social> delegate, designate, depute3, assign -- (give an assignment to (a person) to a post, or assign a task to (a person))
+           => {02401814} <verb.social> appoint, charge -- (assign a duty, responsibility or obligation to; "He was appointed deputy manager"; "She was charged with supervising the creation of a concordance")

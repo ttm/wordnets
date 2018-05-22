@@ -1,0 +1,37 @@
+ANÁLISE DA GLOSA2751
+
+DADO O SYNSET:
+
+S='Glosa2751'
+	    {arrefecer: Se a comida não for servida imediatamente, vai I]arrefecer.,
+	      arrefentar: x,
+	      esfriar: Tentam obter grão translúcido e bom de cozimento - um meio-termo entre o arroz que empapa e o que endurece depois de [esfriar.,
+	      refecer: x,
+	      resfriar: Todos conhecem e apreciam no nordeste, as batidas de engenho. São feitas com o mel já do último tacho, depois de I]resfriar, quando então é batido com uma pá e adicionado de canela, cravo e erva-doce.,}
+
+	  A='Glosa4116'
+	    {abrasar: A grande paixão por Eugênia Câmara I]abrasou-o de alto a baixo.,
+	     acalorar: As eleições nos sindicatos I]acaloraram as discussões .,
+	     aquecer: A discussão H]aquecera os ânimos.,
+	     aquentar: x,
+	     encalmar: x,
+	     esquentar: A recente polêmica da novela I]esquentou a discussão do tema aborto na mídia.,
+	     quentar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2751' = “Perder calor”
+	    {arrefecer: Se a comida não for servida imediatamente, vai I]arrefecer.,
+	      esfriar: Tentam obter grão translúcido e bom de cozimento - um meio-termo entre o arroz que empapa e o que endurece depois de [esfriar.,
+	      resfriar: Todos conhecem e apreciam no nordeste, as batidas de engenho. São feitas com o mel já do último tacho, depois de I]resfriar}
+
+	  A='Glosa4116'
+	    {abrasar, acalorar, aquecer, esquentar}
+
+Chave: ESFRIAR <verb.change>
+ILI: 00358593
+
+Sense 2
+{00358593} <verb.change> cool, chill, cool down1 -- (loose heat; "The air cooled considerably after the thunderstorm")
+       => {00140715} <verb.change> change state, turn4 -- (undergo a transformation or a change of position or action; "We turned from Socialism to Capitalism"; "The people turned against the President when he stole the election")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night") 

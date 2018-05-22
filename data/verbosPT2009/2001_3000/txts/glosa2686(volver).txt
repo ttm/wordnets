@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA2686
+
+DADO O SYNSET:
+
+S='Glosa2686'
+	    {remontar: Em 1962, a Espanha declara o Caminho de Santiago patrimônio histórico e artístico do país, por abrigar igrejas e monumentos que [remontam ao século 10.,
+	      volver: O homem tem que progredir incessantemente e não pode I]volver ao estado de infância.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2686' = “Voltar em pensamento ou pelo discurso à alguma coisa.”
+	    {remontar: Primeiramente, o deputado I]remontou aos tempos da Grécia Antiga, quando surgiram os legisladores, com a função de fixar regras para o jogo social.,
+	      volver: O homem tem que progredir incessantemente e não pode I]volver ao estado de infância.,}
+
+Chave: VOLVER <verb.communication>
+ILI: 00927920
+
+Sense 3
+{00927920} <verb.communication> recur, go back -- (return in thought or speech to something)
+       => {00927730} <verb.communication> hark back, return, come back, recall -- (go back to something earlier; "This harks back to a previous remark of his")
+           => {00900863} <verb.communication> denote, refer -- (have as a meaning; "`multi-' denotes `many' ")
+               => {00923390} <verb.communication> mean1, intend -- (mean or intend to express or convey; "You never understand what I mean!"; "what do his words intend?")
+                   => {00898144} <verb.communication> convey, impart1 -- (make known; pass on, of information)
+                       => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                           => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                               => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel") 

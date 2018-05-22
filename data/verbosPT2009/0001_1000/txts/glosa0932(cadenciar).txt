@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA0932
+
+DADO O SYNSET:
+
+S='Glosa932'
+{cadenciar: Soube ser rápido quando necessário, depois soube [cadenciar o ritmo. # O São Paulo costuma dominar o meio-campo e [cadenciar o jogo.,
+compassar: A noiva e seu acompanhante devem conservar o mesmo I]compassar durante o percurso até junto à escada do altar, onde o noivo a espera.,
+ritmar: Zuza designa uma espécie de chocalho usado na dança para [ritmar e acentuar o movimento extático.,}
+A='Glosa1225'
+	    {descompassar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa932' = “fazer prosseguir mais vagarosamente”
+{cadenciar: Soube ser rápido quando necessário, depois soube [cadenciar o ritmo. # O São Paulo costuma dominar o meio-campo e [cadenciar o jogo.,
+compassar: A noiva e seu acompanhante devem conservar o mesmo I]compassar durante o percurso até junto à escada do altar, onde o noivo a espera.,
+ritmar: Zuza designa uma espécie de chocalho usado na dança para [ritmar e acentuar o movimento extático.,}
+A='Glosa1225'
+	    {descompassar}
+Chave: CADENCIAR <verb.change>
+ILI: 00428179
+
+Sense 3
+{00428179} <verb.change> slow5, slow down4, slow up2 -- (cause to proceed more slowly; "The illness slowed him down")
+       => {00427351} <verb.change> decelerate, slow, slow down, slow up1, retard -- (lose velocity; move more slowly; "The car decelerated")
+           => {00146081} <verb.change> decrease, diminish, lessen, fall6 -- (decrease in size, extent, or range; "The amount of homework decreased towards the end of the semester"; "The cabin pressure fell dramatically"; "her weight fall to under a hundred pounds"; "his voice fell to a whisper")
+               => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

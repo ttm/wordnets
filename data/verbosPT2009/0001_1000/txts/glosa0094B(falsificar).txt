@@ -1,0 +1,18 @@
+ANÁLISE DA GLOSA0094B
+
+DADO O SYNSET:
+
+S='Glosa94B'
+      {desvirtuar: Estão querendo [desvirtuar as investigações.,
+      falsificar: Quem reler cartas que escreveu muitos anos atrás verificará a maneira coma sua memória I]falsificou acontecimentos pretéritos.,}
+       
+A ANÁLISE RESULTA EM:
+
+S='Glosa94B' = “falsificar intencionalmente”
+      {falsificar: Vários policiais que vigiaram o brasileiro Jean Charles de Menezes, I]falsificaram provas para ocultar os erros que causaram a execução.,}
+Chave: FALSIFICAR <verb.social>
+ILI: 00195189 
+Sense 4
+{00195189} <verb.change> falsify -- (falsify knowingly; "She falsified the records")
+       => {00133458} <verb.change> change by reversal, turn, reverse -- (change to the contrary; "The trend was reversed"; "the tides turned against him"; "public opinion turned when it was revealed that the president had an affair with a White House intern")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

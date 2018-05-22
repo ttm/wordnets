@@ -1,0 +1,35 @@
+Para fazer o agrupamento proposto (do 1374 e 1375) excluí o synset 1374 (desenterrar), 
+pois o 1375 (desencavar, desenterrar) já englobava o verbo comum aos dois (desenterrar). 
+O mesmo fiz no outro agrupamento (337 e 1376), pois o 1376 (encovar, enterrar) já estava 
+incluído no 337 (encovar, enterrar, sepultar, soterrar, subterrar); logo, excluí o 1376 
+preservando o 337 como representando desse significado. Estou enviando tudo de novo, 
+cada um em seu respectivo grupo de glosas que eu já havia enviado (incluí o 337 no grupo 
+gloss_1376_1381(337, 1770).zip).
+
+ANÁLISE DA GLOSA1376
+
+DADO O SYNSET:
+
+S='Glosa1376'
+{encovar: Na tarde seguinte, com o pretexto de tirar uma abelha e I]encovar tatus, encaminhou-se para a mata, acompanhado de seus dois amigos,
+ enterrar: Seus discípulos levam seu corpo novamente para a Espanha e o [enterram no bosque de Libredón,}
+	  
+A='Glosa1375'
+	    {desencavar, desenterrar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1376' = “colocar na terra e cobrir com terra”
+{encovar: Mãe da clareza, cava e I]encova cobres na areia.,
+ enterrar: Durante todo o mês de março, a prefeitura [enterrou o lixo reciclável.,}
+	  
+A='Glosa1375'
+	    {desencavar, desenterrar}
+Chave: ENTERRAR <verb.contact>
+ILI: 01197062
+
+Sense 3
+{01197062} <verb.contact> bury -- (place in the earth and cover with soil; "They buried the stolen goods")
+       => {01532141} <verb.contact> situate, fix1, posit, deposit1 -- (put (something somewhere) firmly; "She posited her hand on his shoulder"; "deposit the suitcase on the bench"; "fix your eyes on this spot")
+           => {01452069} <verb.contact> put, set, place, pose2, position, lay1 -- (put into a certain place or abstract location; "Put your things here"; "Set the tray down"; "Set the dogs on the scent of the missing children"; "Place emphasis on a certain point")
+               => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

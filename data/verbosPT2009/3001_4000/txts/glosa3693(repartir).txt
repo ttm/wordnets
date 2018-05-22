@@ -1,0 +1,35 @@
+ANÁLISE DA GLOSA3963
+
+DADO O SYNSET:
+
+S='Glosa3693'
+	    {
+	      compartilhar: Eles devem passar a [compartilhar a direção da empresa.#As telefônicas não querem I]compartilhar lucro com os provedores .,
+	      compartir: Como estou indo viajar sozinho, existe a possibilidade de I]compartir meu quarto com outra pessoa? ,
+	      departir: A]Departir a propriedade.,
+	      derramar1: Agora, partiu para a África, com intenções de I]derramar dinheiro (nosso) para cooptar mais países para seu eixo do mal contra os Estados Unidos.,
+	      distribuir: Ocorre que se sobrar dinheiro no fim do ano, pode-se [distribuí-lo. ,
+	      dividir: Eu protejo você no poder e você protege os meus interesses junto a sua nação, e [dividiremos os lucros entre nós.,
+	      partilhar: O marido fora casado duas vezes, e tinha filhos do primeiro leito; mas os bens a [partilhar eram os mesmos.,
+	      partir: Vamos I]partir os lucros.,
+	      repartir: Como [repartir os escassos recursos do Estado à educação básica e superior? ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3693' = “distribuir como parte ou porção”
+	     {compartilhar: Na última ceia, Jesus Cristo I]compartilhou com os apóstolos o pão e o vinho.,
+	      compartir: O patrão M]compartiu os lucros com os seus empregados.,
+	      derramar1: Da mesma forma, o Estado I]derramou dinheiro público no Rio de Janeiro, com o intuito de permitir a realização dos Jogos Panamericanos.,
+	      distribuir: Venceu seus defensores e [distribuiu as terras dos senhores anglo-saxões que haviam lutado contra ele entre senhores feudais normandos. ,
+	      dividir: Eu protejo você no poder e você protege os meus interesses junto a sua nação, e [dividiremos os lucros entre nós.,
+	      partilhar: Edman Altheman I]partilhou com a equipe, os diversos prêmios conquistados pelas FRB.,
+	      partir: Ele I]partiu o pão e o dividiu com seus discípulos.,
+	      repartir: Apenas olhou para os mais pobres e I]repartiu os recursos de forma mais justa.,}
+Chave: REPARTIR <verb.possession>
+ILI: 02228139
+
+Sense 4
+{02228139} <verb.possession> share, divvy up, portion out, apportion, deal7 -- (give out as one's portion or share)
+       => {02138243} <verb.possession> distribute1, give out, hand out -- (give out; "The teacher handed out the exams")
+           => {02137285} <verb.possession> give1, gift, present -- (give as a present; make a gift of; "What will you give her for her birthday?")

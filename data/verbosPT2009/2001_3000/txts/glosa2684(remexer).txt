@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA2684
+
+DADO O SYNSET:
+
+S='Glosa2684'
+	    {fuçar: No SISCAL que o CNPSA vem acompanhando, tem se verificado que os reprodutores, especialmente na fase da gestação, passam boa parte do tempo ingerindo forragens existentes nos piquetes e, quando essas se tornam escassas, começam a I]fuçar o solo.,
+	      mexer: Estudos arqueológicos, etnográficos e históricos mostram que ao mesmo tempo, em várias partes do mundo, o homem passou a I]mexer na terra com o objetivo de se alimentar, que é o que conhecemos como Agricultura: uma arte, a arte de cultivar a terra.,
+	      remexer: É preciso I]remexer o solo, para que nele entre o ar, com oxigênio. Isso facilita a germinação das sementes plantadas.,
+	      remover: Embora a minhoca seja frágil, ela pode I]remover material (terra) em quantidade de até 60 vezes o seu próprio peso.,
+	      revolver: Isso pode ocorrer quando, após I]revolver a terra, o trator, devido ao seu peso, faça a compactação do solo, o que é muito prejudicial às raízes.,
+	      voltar: Antes de semear, H]volta o terreno cuidadosamente.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2684' = “Desprender (-se) ou remover terra.”
+	    {fuçar: Os reprodutores, especialmente na fase da gestação, passam boa parte do tempo ingerindo forragens existentes nos piquetes e, quando essas se tornam escassas, começam a I]fuçar o solo.,
+	      mexer: O homem passou a I]mexer na terra com o objetivo de se alimentar, que é o que conhecemos como Agricultura: uma arte, a arte de cultivar a terra.,
+	      remexer: É preciso I]remexer o solo, para que nele entre o ar, com oxigênio. Isso facilita a germinação das sementes plantadas.,
+	      remover: Sem entender por quê estava sozinho, ficou atônito, latiu mais alto, correu, I]removeu a terra do jardim, chorou.,
+	      revolver: Isso pode ocorrer quando, após I]revolver a terra, o trator faça a compactação do solo, o que é muito prejudicial às raízes.,
+	      voltar: Antes de semear, H]volta o terreno cuidadosamente.,}
+
+Chave: REMEXER <verb.contact>
+ILI: 01270650
+
+Sense 4
+{01270650} <verb.contact> dig, delve, cut into1, turn over -- (turn up, loosen, or remove earth; "Dig we must"; "turn over the soil for aeration")
+       => {00166870} <verb.change> remove, take, take away1, withdraw1 -- (remove something concrete, as by lifting, pushing, taking off, etc. or remove something abstract; "remove a threat"; "remove a wrapper"; "Remove the dirty dishes from the table"; "take the gun from your pocket"; "This machine withdraws heat from the environment") 

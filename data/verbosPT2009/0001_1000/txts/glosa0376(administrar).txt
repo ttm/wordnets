@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0376
+
+DADO O SYNSET:
+
+S='Glosa376'
+{administrar: Não se pode [administrar uma quantidade de remédio que mate o doente.,
+aplicar: No São José, um enfermeiro [aplicou soro misturado ao remédio Buscopan.,
+ministrar: Chabot [ministrou uma dose letal de pílulas para dormir à paciente.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa376' = “dar ou aplicar (medicamentos)
+{administrar: Não se pode [administrar uma quantidade de remédio que mate o doente.,
+aplicar: No São José, um enfermeiro [aplicou soro misturado ao remédio Buscopan.,
+ministrar: Chabot [ministrou uma dose letal de pílulas para dormir à paciente.,}
+Chave: ADMINISTRAR <verb.body>
+ILI: 00078744
+
+Sense 4
+{00078744} <verb.body> administer, dispense -- (give or apply (medications))
+       => {00076458} <verb.body> treat, care for -- (provide treatment for; "The doctor treated my broken leg"; "The nurses cared for the bomb victims"; "The patient must be treated right away or she will die"; "Treat the infection with antibiotics")

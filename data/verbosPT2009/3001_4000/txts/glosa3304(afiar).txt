@@ -1,0 +1,35 @@
+ANÁLISE DA GLOSA3304
+
+DADO O SYNSET:
+
+S='Glosa3304'
+{aceirar: x,
+	 acerar1: As tramas, que urdes, e os punhais, que A]aceras.,
+	 acuminar: H]Acuminar os moirões da cerca.,
+	 afiar: O diabo da máquina permite [afiar desde um canivete de escoteiro até uma lâmina de guilhotina de gráfica.,
+	 aguçar: H]Aguçar a faca.,
+	 agudar: x,
+	 amolar: Para I]amolar uma faca, tesoura ou alicate, ele cobra R$ 3.,
+	 azeirar: x,
+	 azerar: x,
+	 desembotar: H]Desembotar um facão.# H]Desembotou os dentes.,
+	 limar: O martelo era forte, o parafuso unia e dava força, a lixa era especial para I]limar e afinar asperezas.}
+
+A='Glosa1669'
+{amolgar, botar2, cegar, desafiar2, despontar, embotar, rebotar1}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3304' = “tornar afiado ou mais afiado”
+{ afiar: O diabo da máquina permite [afiar desde um canivete de escoteiro até uma lâmina de guilhotina de gráfica.,
+	 aguçar: A miséria temperou o aço da lâmina, I]aguçou o fio e me preparou pro desatino.,
+	 amolar: Para I]amolar uma faca, tesoura ou alicate, ele cobra R$ 3.,}
+
+A='Glosa1669'
+{amolgar, botar2, cegar, desafiar2, despontar, embotar, rebotar1}
+Chave: AFIAR <verb.contact>
+ILI: 01208916
+
+Sense 1
+{01208916} <verb.contact> sharpen -- (make sharp or sharper; "sharpen the knives")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

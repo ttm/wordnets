@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA2371
+
+DADO O SYNSET:
+
+S='Glosa2371'
+	    {arrear1: Foi cozinheiro de tropa, depois aprendeu a I]arrear e a ferrar cavalos, costurar e fazer arreios.,
+	      desencilhar: synset com má formação.,
+	      selar2: Mandei [selar o meu cavalo, meti alguma roupa em um saco de viagem, embrulhei-me no meu capote e saí, sem me importar com a manhã de chuva que fazia.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2371' = “Colocar sela em.”
+	    {arrear: Foi cozinheiro de tropa, depois aprendeu a I]arrear e a ferrar cavalos, costurar e fazer arreios.,
+	      selar: Mandei [selar o meu cavalo e saí, sem me importar com a manhã de chuva que fazia.,}
+
+Chave: ARREAR <verb.contact>
+ILI: 01450192
+
+Sense 1
+{01450192} <verb.contact> saddle1 -- (put a saddle on; "saddle the horses")
+       => {01257892} <verb.contact> attach1 -- (cause to be attached)
+           => {01314764} <verb.contact> connect, link, tie1, link up -- (connect, fasten, or put together two or more pieces; "Can you connect the two loudspeakers?"; "Tie the ropes together"; "Link arms") 

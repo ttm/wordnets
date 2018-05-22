@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA2696
+
+DADO O SYNSET:
+
+  S='Glosa2696'
+	    {redistribuir: Leia o arquivo bdedeploy.txt na pasta BDE do seu computador. Ele contém informações sobre quais arquivos você necessitará I]redistribuir para suportar bancos-de-dados SQL.,
+	      remanejar: A introdução da pesquisa levou o museu a especializar-se por áreas do saber e a I]remanejar as coleções, mas o museu ainda era voltado para si mesmo.,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2696' = “Distribuir novamente.”
+	    {redistribuir: A globalização não I]redistribuiu renda nem poder econômico.,
+	      remanejar: A administração Celso Pitta I]remanejou os expositores para locais como a Av. Tiradentes e a Praça Roosevelt.,}
+
+Chave: REDISTRIBUIR <verb.contact>
+ILI: 01339879
+
+Sense 1
+{01339879} <verb.contact> redistribute -- (distribute anew; "redistribute the troops more strategically")
+       => {01338470} <verb.contact> spread, distribute1 -- (distribute or disperse widely; "The invaders spread their language all over the country") 

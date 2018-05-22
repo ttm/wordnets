@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA3026
+
+DADO O SYNSET:
+
+S='Glosa3026'
+	    {
+	      corcovar: x,
+	      corcovear: Precisam observar se o cavalo tem força para I]corcovear, se ele corcoveia em linha reta ou se consegue dar voltas.,
+	      curvetar: x,
+	      curvetear: A égua nova, que ainda não deu cria, I]curveteia, no tabuleiro verde, e a raposa uiva e gargalha.,
+	      espinotar: x,
+	      espinotear: E tão forte é a vergastada que o homem se encolhe todo sobre a cilha, quase a cair, e o animal, se a recebe, I]espinoteia e abala em corrida desenfreada.,
+	      ginetear: Mas se ele tirar o cavalo de número dez, será o décimo a I]ginetear.,
+	      pinotear: diz ainda que o animal, mesmo com o sedenho amarrado, é capaz de parar de I]pinotear. # Houve uma ocasião  que o cocheiro avançou mais do que das outras vezes e, durante sua ausência, os animais começaram a relinchar e I]pinotear, apavorados.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3026' = “pular verticalmente, com pernas duras e dorso arqueado, como cavalo”
+	     {corcovear: Mas, quando o herói tentou montar o cavalo de novo, ele I]corcoveou, atirou Belerofonte longe e subiu para os céus.,
+	      curvetear: A égua nova, que ainda não deu cria, I]curveteia, no tabuleiro verde, e a raposa uiva e gargalha.,
+	      espinotear: E tão forte é a vergastada que o homem se encolhe todo sobre a cilha, quase a cair, e o animal, se a recebe, I]espinoteia e abala em corrida desenfreada.,
+	      pinotear: O cavalo de Isamu I]pinoteou e desceu novamente, fazendo espirrar lama nas roupas vermelhas do primogênito do Shogun. # O boi tenteia, se esforça, I]pinoteia, recalcitra mas acaba imobilizado.,}
+Chave: PINOTEAR <verb.motion>
+ILI: 01830186
+
+Sense 4
+{01830186} <verb.motion> buck, jerk1, hitch2 -- (jump vertically, with legs stiff and back arched; "the yung filly bucked")
+       => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right")

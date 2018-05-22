@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA3411
+
+DADO O SYNSET:
+
+S='Glosa3411'
+	    {
+	      bestializar-se: Nós alimentamos o coração com fantasias, e o coração I]bestializou-se com essa dieta.,
+	      burrificar-se: De tanto malandrar, acabou H]burrificando-se.,
+	      embrutecer-se: I]Embruteceu-se todo homem, de modo que não tem conhecimento.,
+	      estultificar-se: x,
+	      estupidificar-se: Nestes casos é preciso I]estupidificar-se completamente, ocupando a mente com uma atividade totalmente inútil e desprovida de qualquer sentido lógico.,
+	      materializar-se: M]Materializara-se por presenciar os horrores da guerra e deles participar.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3411' = “fazer-se brutal, insensível ou desumano”
+	     {bestializar-se: O homem cega-se e I]bestializa-se nesta estrada de dupla direção, sempre na ufana petulância de dizer: eu preciso ser isso, saber aquilo.,
+	      burrificar-se: De tanto malandrar, acabou H]burrificando-se.,
+	      embrutecer-se: I]Embruteceu-se todo homem, de modo que não tem conhecimento.,
+	      estupidificar-se: Nestes casos é preciso I]estupidificar-se completamente, ocupando a mente com uma atividade totalmente inútil e desprovida de qualquer sentido lógico.,
+	      materializar-se: M]Materializara-se por presenciar os horrores da guerra e deles participar.,}
+Chave: ESTUPIDIFICAR-SE <verb.change>
+ILI: 00110419
+
+Sense 2
+{00110419} <verb.change> brutalize1, brutalise1, animalize1, animalise1 -- (make brutal, unfeeling, or inhuman; "Life in the camps had brutalized him")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

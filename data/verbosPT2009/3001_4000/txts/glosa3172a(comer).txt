@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA3172a
+
+DADO O SYNSET:
+
+S='Glosa3172'
+	    {
+	      abocanhar: I]Abocanhou outro biscoito. ,
+	      abocar: O cão, saindo do esconderijo, I]abocou com rapidez e mastigou sofregamente, auxiliando a deglutição com movimentos rápidos e impulsivos de cabeça.,
+	      bocar: Que linda minhoca, exclama o sapo avançando para comê-la. Mas a minhoca abriu a goela e I]bocou-o.,
+	      comer: Durante a campanha, JK enfrentou colossais arapucas, leitões trufados, tatus recheados, [comeu até veado num churrasco incrementado, ali pelos sítios de Marajó. ,
+	      devorar: O capitão da seleção atendeu de imediato a recomendação do técnico Zé Roberto: [devorou uma maçã em poucos segundos, enquanto Maurício foi direto para o quarto em busca de comida mais consistente. ,
+	      engolir: Passou no McDonald' s e [engoliu oito McChickens!,
+	      ingurgitar: Corina trincou um biscoito e sorveu alguns goles de leite, enquanto o marido I]ingurgitava o cheiroso e negro café da sua canequinha branca.,
+	      tragar: H]Tragou o assado num abrir e fechar de olhos.,
+	      trincar: A]Trincar um bife.,
+	    }
+
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3172a' = “consumir comida sólida”
+	     {comer: O garçom chegou, Gérson [comeu o sanduíche e Agnaldo dormiu com a barriga roncando. ,
+                   trincar: A]Trincar um bife.,}
+Chave: COMER <verb.consumption>
+ILI: 01132466
+
+Sense 1
+{01132466} <verb.consumption> eat -- (take in solid food; "She was eating a banana"; "What did you eat for dinner last night?")
+       => {01130349} <verb.consumption> eat1 -- (eat a meal; take a meal; "We did not eat until 10 P.M. because there were so many phone calls"; "I didn't eat yet, so I gladly accept your invitation")
+           => {01121136} <verb.consumption> consume, ingest, take in, take, have -- (serve oneself to, or consume regularly; "Have another bowl of chicken soup!"; "I don't take sugar in my coffee")
+       => {01121136} <verb.consumption> consume, ingest, take in, take, have -- (serve oneself to, or consume regularly; "Have another bowl of chicken soup!"; "I don't take sugar in my coffee")

@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA2500
+
+DADO O SYNSET:
+
+S='Glosa2500'
+	    {calhar: Suas expressões ficam bem num comício, mas não [calham na economia.,
+	      convir: Em todas as lojas o consumidor também pode montar sua própria cesta, escolhendo os itens um a um, no tamanho e valor que mais lhe [convir. ,
+	      quadrar: Muitas das poesias que agora publico não têm uniformidade nas estrofes, porque menosprezo regras de mera convenção; adotei todos os ritmos da metrificação portuguesa, e usei deles como me pareceram I]quadrar melhor com o que eu pretendia exprimir.,
+	      ser: Muitos leram, mas não comentaram nada, ou porque acharam que eu não gostaria de saber, ou porque acharam que não [era conveniente comentar isso. ,
+	      servir: Sua construção [serviu de forma admirável à indústria européia, assegurando encomendas em momentos de crise da economia dos países industriais.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2500' = “Corresponder ou estar de acordo com.”
+	    {calhar: Suas expressões ficam bem num comício, mas não [calham na economia.,
+	      convir: Autocensura da mídia I]convém aos ideais da guerra. ,
+	      quadrar: Quanto ao seu protegido, também não lhe [quadrou dizer-lhe a verdade.,
+	      ser: Muitos leram, mas não comentaram nada, ou porque acharam que eu não gostaria de saber, ou porque acharam que não [era conveniente comentar isso. ,
+	      servir: Sua construção [serviu de forma admirável à indústria européia, assegurando encomendas em momentos de crise da economia dos países industriais.,}
+
+Chave: CONVIR <verb.stative>
+ILI: 02618724
+
+Sense 3
+{02618724} <verb.stative> befit, suit, beseem -- (accord or comport with; "This kind of behavior does not suit a young woman!")
+       => {02578124} <verb.stative> match, fit4, correspond, check8, jibe, gibe, tally, agree -- (be compatible, similar or consistent; coincide in their characteristics; "The two stories don't agree in many details"; "The handwriting checks with the signature on the check"; "The suspect's fingerprints don't match those on the gun")
+           => {02584716} <verb.stative> equal, be7 -- (be identical or equivalent to; "One dollar equals 1,000 rubles these days!") 

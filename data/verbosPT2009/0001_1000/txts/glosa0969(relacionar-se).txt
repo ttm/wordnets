@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA0969
+
+DADO O SYNSET:
+
+S='Glosa969'
+{aproximar-se: Neste período, a poesia e a música muito se [aproximavam, e poemas de Castro Alves foram musicados, como Gondoleiro do Amor, musicado por Salvador Fábregas.,
+conjugar-se: No universo do conhecimento há um tempo único, indivisível, onde se [conjugam, em harmonia, passado, presente e futuro; toda a idéia é fruto próximo de outra idéia.,
+ligar-se: Entendida como manifestação da vida em sociedade, o estudo da língua pode [ligar-se à Sociologia, abrindo-se, a partir daí, campos novos de pesquisa, em especial o da Sociolingüística.,
+relacionar-se: No Brasil, política e urbanismo se [relacionam intimamente.,
+tocar-se: Os extremos se I]tocam; todas as verdades são meias-verdades.,
+unir-se: Supostamente, todos esses estímulos I]se unem para dar origem aos impulsos mais importantes e atuantes da sua arte.,}
+A='Glosa2077'
+{ablegar-se, afastar-se, alongar-se, apartar-se, arredar-se, desgrudar-se,    desligar-se, distanciar-se, divorciar-se, estremar-se, separar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa969' = “fazer relações, manter compania com”
+{aproximar-se: Neste período, a poesia e a música muito se [aproximavam, e poemas de Castro Alves foram musicados, como Gondoleiro do Amor, musicado por Salvador Fábregas.,
+conjugar-se: No universo do conhecimento há um tempo único, indivisível, onde se [conjugam, em harmonia, passado, presente e futuro; toda a idéia é fruto próximo de outra idéia.,
+ligar-se: Entendida como manifestação da vida em sociedade, o estudo da língua pode [ligar-se à Sociologia, abrindo-se, a partir daí, campos novos de pesquisa, em especial o da Sociolingüística.,
+relacionar-se: No Brasil, política e urbanismo se [relacionam intimamente.,
+tocar-se: Os extremos se I]tocam; todas as verdades são meias-verdades.,
+unir-se: Supostamente, todos esses estímulos I]se unem para dar origem aos impulsos mais importantes e atuantes da sua arte.,}
+A='Glosa2077'
+{ablegar-se, afastar-se, alongar-se, apartar-se, arredar-se, desgrudar-se,    desligar-se, distanciar-se, divorciar-se, estremar-se, separar-se}
+Chave: RELACIONAR-SE <verb.social>
+ILI: 02512288
+
+Sense 2
+{02512288} <verb.social> consort12, associate2, affiliate12, assort12 -- (keep company with; hang out with; "He associates with strange people"; "She affiliates with her colleagues")
+       => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+           => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA3744
+
+DADO O SYNSET:
+
+S='Glosa3744'
+{curtir: Ela pressentia que não podia realizar seu sonho sem sofrer pela falta do conchegozinho de família, sem [curtir grandes saudades por aquela irmã, sua amiga, franca e delicada.,
+	 expiar: Jesus não foi o primeiro herói mítico a [expiar a angústia da humanidade na própria carne.,
+	 padecer: Há consolação maiores, decerto uma das mais excelentes é não [padecer esse nem outro mal.,
+	 penar: Não tivemos que I]penar quase nada para instalar novas coisas. ,
+	 receber: Acho que ele deve I]receber o castigo final por aquilo que fez a seu povo.,
+	 sofrer: Nós somos curados pelo castigo que Jesus I]sofreu, somos sarados pelos ferimentos que ele recebeu.,
+	 suportar: A vocação conduz-nos pela senda do heroísmo legítimo, ainda que tenhamos de I]suportar todo tipo de infâmias, traições e calúnias. ,
+	 ter: Telê [teve um mal súbito, ontem, quando participava de um churrasco em seu sítio.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3744'= “tolerar algo desagradável”
+{curtir: Ela pressentia que não podia realizar seu sonho sem sofrer pela falta do conchegozinho de família, sem [curtir grandes saudades por aquela irmã, sua amiga, franca e delicada.,
+	 expiar: Jesus não foi o primeiro herói mítico a [expiar a angústia da humanidade na própria carne.,
+	 padecer: Há consolação maiores, decerto uma das mais excelentes é não [padecer esse nem outro mal.,}
+Chave: PADECER <verb.cognition>
+ILI: 00645847
+
+Sense 1
+{00645847} <verb.cognition> digest3, endure, stick out, stomach, bear, stand, tolerate, support4, brook, abide, suffer, put up -- (put up with something or somebody unpleasant; "I cannot bear his constant criticism"; "The new secretary had to endure a lot of unprofessional remarks"; "he learned to tolerate the heat"; "She stuck out two years in a miserable marriage")
+       => {00776433} <verb.communication> permit, allow, let2, countenance -- (consent to, give permission; "She permitted her son to visit her estranged husband"; "I won't let the police search her basement"; "I cannot allow you to see your exam")
+           => {00771887} <verb.communication> accept, consent, go for -- (give an affirmative reply to; respond favorably to; "I cannot accept your invitation"; "I go for this resolution")
+               => {00693825} <verb.cognition> react, respond -- (show a response or a reaction to something)
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

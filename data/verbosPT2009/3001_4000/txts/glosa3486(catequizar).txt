@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA3486
+
+DADO O SYNSET:
+
+S='Glosa3486'
+	    {
+	      anunciar: Sempre que a Igreja, na celebração litúrgica, ]anuncia e proclama a Palavra de Deus, se reconhece a si mesma como o povo da nova aliança/O pregador é o que ]anuncia a palavra certa no tempo certo,
+	      catequizar: Ordenou-se sacerdote em 1635, mas mesmo antes disso já rezava missas e [catequizava índios/Estão longe dos tempos de Anchieta e Nóbrega que aqui vieram [catequizar os índios,
+	      ensinar: Está na Bíblia que as mulheres não podem [ensinar religião a homens, nem ao menos falar na igreja,
+	      falar: Deus que quer que vocês e tantos outros também ouçam e ]falem a sua palavra,
+	      missionar: Não cessava, contudo, de ]missionar na cidade e nas aldeias circunvizinhas/De muita ajuda foi o estudo do diretório das missões dos frades capuchinhos, bem como o jeito de ]missionar de frei Paulo Canicale,
+	      pregar3: Kierkegaard acreditava que viera ao mundo para [pregar a mensagem de Cristo/Eu, se fosse padre, havia de [pregar também,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3486' = “dar instruções religiosas”
+	     {anunciar: Por um lado, I]anuncia a Palavra de Deus revelada no passado atualizada para o presente e, por outro, anuncia um futuro de libertação,
+	      catequizar: Ordenou-se sacerdote em 1635, mas mesmo antes disso já rezava missas e [catequizava índios/Estão longe dos tempos de Anchieta e Nóbrega que aqui vieram [catequizar os índios,
+	      ensinar: Está na Bíblia que as mulheres não podem [ensinar religião a homens, nem ao menos falar na igreja,
+	      falar: O profeta I]fala a palavra de Deus com precisão,
+	      missionar: Ordenado sacerdote I]missionou a província de Maduré, das mais difíceis,
+	      pregar3: Kierkegaard acreditava que viera ao mundo para [pregar a mensagem de Cristo/Eu, se fosse padre, havia de [pregar também,}
+Chave: CATEQUIZAR <verb.communication>
+ILI: 00761706
+
+Sense 2
+{00761706} <verb.communication> catechize1, catechise1 -- (give religious instructions to)
+       => {00801981} <verb.communication> teach, learn, instruct -- (impart skills or knowledge to; "I taught them French"; "He instructed me in building a boat")
+           => {00804489} <verb.communication> inform -- (impart knowledge of some fact, state or affairs, or event to; "I informed him of his rights")
+               => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                   => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                       => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

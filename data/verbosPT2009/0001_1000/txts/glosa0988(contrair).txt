@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0988
+
+DADO O SYNSET:
+
+S='Glosa988'
+{contrair: Como parece que repórteres e redatores atuais não sabem mais conjugar verbos, combinar e o que dirá I]contrair preposição e artigo.,
+fundir1: É impossível resistir à tentação de I]fundir "de" e "o" (do), "de" e "ele" (dele).,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa988' = “tornar (-se) menor, aproximar ou unir”
+{contrair: Como parece que repórteres e redatores atuais não sabem mais conjugar verbos, combinar e o que dirá I]contrair preposição e artigo.,
+fundir1: É impossível resistir à tentação de I]fundir "de" e "o" (do), "de" e "ele" (dele).}
+Chave: CONTRAIR <verb.change>
+ILI: 00232691
+
+Sense 4
+{00232691} <verb.change> shrink, contract4 -- (become smaller or draw together; "The fabric shrank"; "The balloon shrank")
+       => {00146081} <verb.change> decrease, diminish, lessen, fall6 -- (decrease in size, extent, or range; "The amount of homework decreased towards the end of the semester"; "The cabin pressure fell dramatically"; "her weight fall to under a hundred pounds"; "his voice fell to a whisper")
+           => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

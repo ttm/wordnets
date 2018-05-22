@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA
+
+DADO O SYNSET:
+
+S='Glosa1296'
+{desanelar: H]Desanelar madeixas,
+ desencanudar: H]Desencanudou os cabelos,
+ desencaracolar: Arranjei um pente e dei um jeito no cabelo, ao menos para [desencaracolar as pontas,}
+	  
+A='Glosa1295'
+{anelar2, cachear, encanudar, encaracolar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1296' = “tirar da forma espiralada ou cacheada” 
+{desencaracolar: Arranjei um pente e dei um jeito no cabelo, ao menos para [desencaracolar as pontas,}
+A='Glosa1295'
+{anelar2, cachear, encanudar, encaracolar}
+Chave: DESENCARACOLAR <verb.change>
+ILI: 00423103
+
+Sense 1
+{00423103} <verb.change> unfurl, unroll -- (unroll, unfold, or spread out or be unrolled, unfolded, or spread out from a furled state; "unfurl a banner")
+       => {00345030} <verb.change> change surface -- (undergo or cause to undergo a change in the surface)
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

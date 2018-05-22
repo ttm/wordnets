@@ -1,0 +1,50 @@
+ANÁLISE DA GLOSA3406
+
+DADO O SYNSET:
+
+S='Glosa3406'
+	{afadigar: As 12 horas de trabalho diário A]afadigam-no.,
+	 afrontar: As supostas delícias do jantar H]afrontaram-no.,
+	 alanhar: DEVIANT,
+	 aplastar: x,
+	 cansar: O campo é menor, o peso da bola é diferente e acho que [cansa mais que o tradicional porque corremos o tempo todo.,
+	 esbofar: A corrida H]esbofou o velho atleta.,
+	 esfalfar: x,
+	 estafar: Uma programação paralela à cerimônia de posse, que, por orientação dos médicos, será um ato breve e simples, para não I]estafar o governador.,
+	 estrompar: Aquela tarefa H]estrompava-o.,
+	 estropiar: O trabalho H]estropiou-o.,
+	 fadigar: Em termos de fadiga, um velocista pode I]fadigar em segundos em associação com elevados níveis de lactato.,
+	 fatigar: As transpaleteiras elétricas são particularmente indicadas para velocidade na movimentação e grandes deslocamentos, para não I]fatigar o operador.,
+	 malaxar: x,
+	 matar: Aquele trabalho o H]matava.,
+	 moer: A tensão H]moía-lhe o corpo.,
+	 pregar1: O galope forçado H]pregou os cavalos.}
+
+A='Glosa2705'
+{acarrar, descansar, desfadigar, relaxar, repousar, vacar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3406' = “exaurir ou cansar através de uso excessivo ou grande esforço ou tensão”
+	{afadigar: As 12 horas de trabalho diário A]afadigam-no.,
+	 afrontar: As supostas delícias do jantar H]afrontaram-no.,
+	 cansar: O campo é menor, o peso da bola é diferente e acho que [cansa mais que o tradicional porque corremos o tempo todo.,
+	 esbofar: A corrida H]esbofou o velho atleta.,
+	 estafar: Uma programação paralela à cerimônia de posse, que, por orientação dos médicos, será um ato breve e simples, para não I]estafar o governador.,
+	 estrompar: Aquela tarefa H]estrompava-o.,
+	 estropiar: O trabalho H]estropiou-o.,
+	 fadigar: Em termos de fadiga, um velocista pode I]fadigar em segundos em associação com elevados níveis de lactato.,
+	 fatigar: As transpaleteiras elétricas são particularmente indicadas para velocidade na movimentação e grandes deslocamentos, para não I]fatigar o operador.,
+	 matar: Aquele trabalho o H]matava.,
+	 moer: A tensão H]moía-lhe o corpo.,
+	 pregar1: O galope forçado H]pregou os cavalos.}
+
+A='Glosa2705'
+{acarrar, descansar, desfadigar, relaxar, repousar, vacar}
+Chave: CANSAR <verb.body>
+ILI: 00072813
+
+Sense 2 
+{00072813} <verb.body> tire1, wear upon, tire out, wear3, weary, jade1, wear out, outwear, wear down, fag out, fag, fatigue -- (exhaust or tire through overuse or great strain or stress; "We wore ourselves out on this hike")
+       => {00062736} <verb.body> indispose -- (cause to feel unwell; "She was indisposed")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

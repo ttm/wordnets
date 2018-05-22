@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA1623
+
+DADO O SYNSET:
+
+S='Glosa1623'
+{dobrar: Faz-se necessário que o aluno compreenda que dobrar para frente não significa I]dobrar a coluna e sim dobrar apenas o quadril.,
+ flectir: A partir da posição de sentado I]flectir o tronco até tocar os pés com as mãos.,
+ fletir: I]Fletir o corpo para frente.# Ao calçar sapatos, procure sentar ou ajoelhar ao invés de I]fletir o tronco. ,
+ flexionar: O recomendado é dar entre quatro e seis passos, esticar o braço para trás, [flexionar as pernas (a da frente desliza suavemente) , arquear levemente o braço e, com a mão quase espalmada, rolar a bola.,
+ vergar: Ao levantar-se um peso do chão, deve-se abaixar-se fletindo (dobrando) as pernas e nunca as costas, aproximá-lo do corpo e levantar-se ereto, sem I]vergar as costas.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1623' = “fazer com que algo assuma forma torta ou angular”
+{dobrar: Temos, por exemplo, uma empresa que corta e I]dobra o metal.,
+ flectir: Então aquele humilde cristão acercou-se do altar, I]flectiu reverente os joelhos, fez o sinal da cruz e pediu para falar com o Deus Todo Poderoso.,
+ fletir: Quando o paciente I]fletiu o pescoço para a direita, a LIO voltou a sua posição centrada. ,
+ flexionar: Orestes Quércia espalhou outdoors para convocar a prévia do PMDB nos quais que aparece discursando com o braço esquerdo [flexionando e punho cerrado.,
+ vergar: O grande chefe [vergou a cabeça ao peito.,}
+Chave: FLEXIONAR <verb.contact>
+ILI: 01241820
+
+Sense 3
+{01241820} <verb.contact> flex2, bend, deform1, twist2, turn11 -- (cause (a plastic object) to assume a crooked or angular form; "bend the rod"; "twist the dough into a braid"; "the strong man could turn an iron bar")
+       => {00135866} <verb.change> change shape, change form, deform2 -- (assume a different shape or form)
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

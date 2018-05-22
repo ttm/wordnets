@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA2702
+
+DADO O SYNSET:
+
+S='Glosa2702'
+	    {aljofarar: x,
+	      aljofrar: Consolador ilumina a mente e arranca, pelas raízes, os males que geram aflições, evitando que futuras lágrimas de dor venham I]aljofrar os olhos dos homens. ,
+	      arrociar: x,
+	      barrufar: Dá voltinhas na frente do espelho. Olha frente e costas. I]Barrufa perfume no sovaco.,
+	      borrifar: Para exterminar a praga, aviões I]borrifam veneno por toda a cidade.,
+	      esborrifar: Muitas vezes o uso indiscriminado de inseticidas pode promover, além da contaminação do ambiente, a fragmentação das colônias, aumentando o nível de infestação. Desta forma, I]esborrifar inseticidas em forma de aerossol nas formigas aparentes pode promover a dispersão das demais que estão no interior do ninho para outras áreas na residência ou residências vizinhas.,
+	      orvalhar: Então ajoelhava-se, e fazia uma oração, no meio da qual suas lágrimas vinham de novo I]orvalhar-lhe as faces.,
+	      relentar: x,
+	      rociar: Os rios, durante a noite do teu repouso, não cessaram de I]rociar as extensas margens campestres com frescor e fertilidade.,
+	      rorejar: Os grandes olhos negros, fitos nos recortes da floresta e rasos de pranto, estão naqueles olhares longos e trêmulos enfiando e desfiando os alfajôres das lágrimas, que I]rorejam as faces.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2702' = “Esparzir um líquido, umedecer levemente.”
+	    {aljofrar: Seca o orvalho que a I]aljofrava.,
+	      barrufar: Dá voltinhas na frente do espelho. Olha frente e costas. I]Barrufa perfume no sovaco.,
+	      borrifar: Para exterminar a praga, aviões I]borrifam veneno por toda a cidade.,
+	      esborrifar: E Kadine gritou como criança mesmo, quando a irmã I]esborrifou o mertiolato sobre o ferimento.,
+	      orvalhar: Abraçou-o, I]orvalhou-lhe de lágrimas o rosto.,
+	      rociar: Os rios, durante a noite do teu repouso, não cessaram de I]rociar as extensas margens campestres com frescor e fertilidade.,
+	      rorejar: degolou alguns cativos romanos diante dele, com o sangue dos quais lhe I]rociou as armas e insígnias militares.,}
+
+Chave: BORRIFAR <verb.change>
+ILI: 00221082
+
+Sense 4
+{00221082} <verb.change> sprinkle, sparge, besprinkle -- (scatter with liquid; wet lightly; "Sprinkle the lawn")
+       => {00207542} <verb.change> wet -- (cause to become wet; "Wet your face")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

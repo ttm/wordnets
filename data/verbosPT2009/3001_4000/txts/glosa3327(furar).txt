@@ -1,0 +1,38 @@
+ANÁLISE DA GLOSA3327
+
+DADO O SYNSET:
+
+S='Glosa3327'
+	    {
+	      aburacar: As chuvas M]aburacaram os caminhos. ,
+	      brocar: Após esta etapa cirúrgica, é necessário I]brocar uma depressão na forma do aparelho receptor, posteriormente à cavidade mastoídea.,
+	      broquear: A Eletronorte mandou I]broquear as seringueiras e castanheiras e injetar o herbicida Tordon.,
+	      esburacar: Gross criou um espaço de estranhamento ao decidir [esburacar com britadeiras o único chão intacto de uma das salas.,
+	      esfuracar: Carlos, ainda com frio, remexeu, I]esfuracou os carvões.,
+	      espicaçar: H]Espicaçar o pernil para temperá-lo.,
+	      furacar: x,
+	      furar: Com dardos, [furava ou não dependendo do arremesso, mas as varizes estouraram.,
+	      lurar: Acelerando a reprodução das sementes, atrasa o surto dos ramos, encarquilha as folhas e obriga as raízes a A]lurarem o subsolo em busca de reservas de seiva.,
+	      perfurar: Uma delas, Amanda Fielding, se fez filmar enquanto [perfurava sua própria testa.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3327' = “perfurar com objeto pontiagudo, fazer um buraco”
+	     {aburacar: As chuvas M]aburacaram os caminhos. ,
+	      brocar: Ela I]brocou a parte lateral, onde colocava a lenha, e a superior, onde botava a panela, e, na parte do fundo, fez um suspiro.,
+	      broquear: A Eletronorte mandou I]broquear as seringueiras e castanheiras e injetar o herbicida Tordon.,
+	      esburacar: Iniciadas as obras, a CEDAE I]esburacou a rua José Gomes da Costa Jr logo depois da entrada da Granja Florestal até um pouco antes da entrada do Clube do Lago.,
+	      esfuracar: Carlos, ainda com frio, remexeu, I]esfuracou os carvões.,
+	      espicaçar: H]Espicaçar o pernil para temperá-lo.,
+	      furar: O tiro na verdade não o atingiu: I]furou a perna da calça boca-de-sino Soft Machine dele, que, naquela época, se usava muito.,
+	      lurar: Acelerando a reprodução das sementes, atrasa o surto dos ramos, encarquilha as folhas e obriga as raízes a A]lurarem o subsolo em busca de reservas de seiva.,
+	      perfurar: A outra [perfurou a boca do acusado.,}
+Chave: FURAR <verb.contact>
+ILI: 01236870
+
+Sense 1
+{01236870} <verb.contact> puncture -- (pierce with a pointed object; make a hole into; "puncture a tire")
+       => {01399948} <verb.contact> pierce -- (make a hole into; "The needle pierced her flesh")
+           => {01190419} <verb.contact> penetrate, perforate3 -- (pass into or through, often by overcoming resistance; "The bullet penetrated her chest")
+               => {01958650} <verb.motion> enter, come in2, get into, get in1, go into, go in, move into -- (to come or go into; "the boat entered an area of shallow marshes")

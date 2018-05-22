@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0428
+
+DADO O SYNSET:
+
+S='Glosa428'
+{reforçar: O jornalista Mario Rosa foi contratado pela agência DM-9 para [reforçar a campanha do ex-ministro José Serra.,
+refrescar: M]Refrescou o batalhão com novos contingentes.,
+socorrer: O TSE entretanto, considerou o assunto de economia interna partidária e não I]socorreu a Democracia Cristã.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa428' = “tornar mais forte”
+{reforçar: O jornalista Mario Rosa foi contratado pela agência DM-9 para [reforçar a campanha do ex-ministro José Serra.,}
+Chave: REFORÇAR <verb.change>
+ILI: 00214974
+
+Sense 1
+{00214974} <verb.change> reinforce, reenforce -- (make stronger; "he reinforced the concrete")
+       => {00213400} <verb.change> strengthen1, beef up, fortify1 -- (make strong or stronger; "This exercise will strengthen your upper body"; "strenghten the relations between the two countries")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

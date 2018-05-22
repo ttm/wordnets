@@ -1,0 +1,39 @@
+ANÁLISE DA GLOSA3098
+
+DADO O SYNSET:
+
+S='Glosa3098'
+	    {
+	      contestar: Em carta à Comissão de Assuntos Econômicos, Clarimundo alega que não pode sair do Rio de Janeiro, onde, segundo ele, reúne provas para [contestar as acusações do inquérito do Banco Central sobre a quebra do Nacional.,
+	      contradizer: A referência dos economistas clássicos a causas perturbadoras capazes de [contradizer as conclusões de teorias econômicas encontra eco na atração dos economistas modernos pelas cláusulas ceteris paribus invariavelmente ligadas a proposições econômicas gerais. ,
+	      ilidir: Apuradas as diferenças pelo fisco, somente argumentos convincentes e provas materiais são instrumentos hábeis para I]ilidir a acusação.,
+	      rebater: Não conseguiu [rebater os argumentos de Needham.,
+	      redargüir: Se aí replicarem "Bom, então como o mundo se tornou o que é?", poderíamos I]redargüir que o mundo não se tornou de modo algum, o que repudiaria toda a estrutura de pensamento do interlocutor.,
+	      refutar: Provavelmente seu opositor mais tenaz e meticuloso seja o cientista da computação e psicólogo canadense Zenon Pylyshyn, que publicou aproximadamente doze artigos importantes, todos destinados a [refutar a afirmação de que a imagética merece ser considerada como uma forma particular de representação mental. ,
+	      replicar: O que poderia muito bem ter induzido Newton a [replicar que as previsões são tudo e que as hipóteses são nada. ,
+	      repostar: A senhora não se esqueça que eu sou o presidente. E ela I]repostou: Nem o senhor esqueça que eu sou eleitora.,
+	      responder: A maioria dos deputados e líderes dos partidos governistas discursou contra Jabor, pedindo a apreciação imediata da Lei de Imprensa e sugerindo até que Luís Eduardo convocasse cadeia nacional de rádio e televisão para responder às [críticas do comentarista. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3098' = “discordar de algo”
+	     {contestar: O advogado de Nader [contestou a legalidade da cassação.,
+	      contradizer: O ex-presidente norte-americano Jimmy Carter [contradisse e criticou seu sucessor Bill Clinton depois de ter fechado o acordo que evitou a invasão do Haiti. ,
+	      ilidir: O réu I]ilidiu todas as acusações feitas pelas testemunhas.,
+	      rebater: O executivo I]rebateu os argumentos das concessionárias fixas alegando que a Anatel tem direito de impor as regras do leilão e zelar pela competição.,
+	      redargüir: O Deputado Dionilson Marcon I]redargüiu as afirmações anteriores, argumentando que o processo eleitoral serviu para demonstrar que quem define, internamente, os rumos do Partido, são os militantes.,
+	      refutar: Haddad I]refutou as análises de "especialistas", lembrando que o sistema de cotas já existe em 14 universidades federais e não houve prejuízo acadêmico. ,
+	      replicar: ACM [replicou, dizendo que esse lançamento era apenas uma «colocação hábil» do prefeito. ,
+	      responder: Porém, o governo I]respondeu às acusações, dizendo que "estipulou um cronograma claro para a reforma e que não havia motivos para pisar no acelerador".. ,}
+Chave: CONTESTAR <verb.communication>
+ILI: 00749559
+
+Sense 1
+{00749559} <verb.communication> quarrel, dispute1, scrap, argufy, altercate -- (have a disagreement over something; "We quarreled over the question as to who discovered America"; "These tewo fellows are always scrapping over something")
+       => {00747871} <verb.communication> argue, contend1, debate1, fence -- (have an argument about something)
+           => {00932753} <verb.communication> converse, discourse1 -- (carry on a conversation)
+               => {00930524} <verb.communication> talk1, speak1 -- (exchange thoughts; talk with; "We often talk business"; "Actions talk louder than words")
+                   => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                       => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                           => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

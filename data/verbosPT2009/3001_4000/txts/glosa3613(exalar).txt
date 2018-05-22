@@ -1,0 +1,35 @@
+ANÁLISE DA GLOSA3613
+
+DADO O SYNSET:
+
+S='Glosa3613'
+	    {
+	      cheirar: Abra aquela janela, disse esta ao criado; tudo [cheira a mofo. / O ambiente [cheira a fritura, mas não é repulsivo e nem hostil.  ,
+	      desprender: O seu traje cinza [desprende uma fragância cara.,
+	      espirar: I]Espira a rosa de opulento clima.,
+	      exalar: Após dois anos, o animal começou a [exalar um cheiro terrível e os índios foram obrigados a soltá-lo.,
+	      odorar: O suor dela I]odorava tão fresco quanto a brisa do mar.,
+	      respirar: Lá fora tudo I]respirava perfume. ,
+	      transmitir: Esta combinação I]transmite um aroma sexy e profundo que invade todos os sentidos.,
+	      trescalar: Seu corpo I]trescalava o quente e vivo aroma da alfazema.,
+	    }
+
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3613' = “emitir (respiração ou um odor)”
+	     {cheirar: Abra aquela janela, disse esta ao criado; tudo [cheira a mofo. / O ambiente [cheira a fritura, mas não é repulsivo e nem hostil.,
+	      desprender: O seu traje cinza [desprende uma fragrância cara.,
+	      espirar: I]Espira a rosa de opulento clima.,
+	      exalar: Após dois anos, o animal começou a [exalar um cheiro terrível e os índios foram obrigados a soltá-lo.,
+	      odorar: O suor dela I]odorava tão fresco quanto a brisa do mar.,
+	      respirar: Lá fora tudo I]respirava perfume.,
+	      transmitir: Esta combinação I]transmite um aroma sexy e profundo que invade todos os sentidos.,
+	      trescalar: Seu corpo I]trescalava o quente e vivo aroma da alfazema.,}
+Chave: EXALAR <verb.body>
+ILI: 00004487
+
+Sense 2
+{00004487} <verb.body> exhale1, give forth, emanate -- (give out (breath or an odor); "The chimney exhales a thick smoke")
+       => {00102482} <verb.body> emit, breathe1, pass off -- (expel (gases or odors))
+           => {00102093} <verb.body> discharge, expel, eject, release1 -- (eliminate (substances) from the body) 

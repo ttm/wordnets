@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA2277
+
+DADO O SYNSET:
+
+S='Glosa2277'
+	    {debagar: H]Debagar o milho.,
+	      debulhar: Então, a galinha ruiva foi preparar tudo sozinha: colheu as espigas, I]debulhou o milho, moeu a farinha, preparou o bolo e colocou no forno.,
+	      desbagoar: Seu grande defeito é a facilidade de I]desbagoar, pela baixa aderência das bagas ao pedicelo.,
+	      desbulhar2: Pela primeira vez andava de carro-de-boi, ajudava a tirar água do poço, I]desbulhava feijão verde. ,
+	      esbagoar: As pessoas andavam à jorna, partiam muitas amêndoas, I]esbagoavam bagos.,
+	      escarolar: Um bando alvoraçado e palreiro de mulheres depenava frangos, batia ovos, I]escarolava arroz.,
+	      machucar: M]Machucar trigo.,
+	      trilhar: Completadas as operações de colher, I]trilhar, abanar e secar, o arroz está pronto para ser vendido.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2277' = “separar os grãos de um sabugo ou espiga” 
+	    {debagar: H]Debagar o milho.,
+	      debulhar: Colheu as espigas, I]debulhou o milho, moeu a farinha, preparou o bolo e colocou no forno.,
+	      desbagoar: Seu grande defeito é a facilidade de I]desbagoar, pela baixa aderência das bagas ao pedicelo.,
+	      desbulhar2: Pela primeira vez ajudava a tirar água do poço e I]desbulhava feijão verde. ,
+	      esbagoar: Partiam muitas amêndoas e I]esbagoavam bagos.,
+	      escarolar: Um bando de mulheres depenava frangos, batia ovos, I]escarolava arroz.,
+	      machucar: M]Machucar trigo.,
+	      trilhar: Completadas as operações de colher, I]trilhar, abanar e secar, o arroz está pronto para ser vendido.,}
+
+Chave: DEBULHAR <verb.change>
+ILI: 00174874
+
+Sense 7
+{00174874} <verb.change> husk, shell6 -- (remove the husks from; "husk corn")
+       => {00166870} <verb.change> remove, take, take away1, withdraw1 -- (remove something concrete, as by lifting, pushing, taking off, etc. or remove something abstract; "remove a threat"; "remove a wrapper"; "Remove the dirty dishes from the table"; "take the gun from your pocket"; "This machine withdraws heat from the environment")

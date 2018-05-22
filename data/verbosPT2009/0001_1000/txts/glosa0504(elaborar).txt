@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0504
+
+DADO O SYNSET:
+
+S='Glosa504'
+{elaborar: Os primeiros resultados do trabalho já permitiram à comissão [elaborar uma lista inicial com os níveis de ruído de vinte das mais barulhentas ruas do Rio.,
+preparar: Ele acaba de [preparar um detalhado estudo sobre o comportamento das empresas no Plano Real.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa504' = “trabalhar em detalhe” 
+{elaborar: Os primeiros resultados do trabalho já permitiram à comissão [elaborar uma lista inicial com os níveis de ruído de vinte das mais barulhentas ruas do Rio.,
+preparar: Ele acaba de [preparar um detalhado estudo sobre o comportamento das empresas no Plano Real.,}
+Chave: ELABORAR <verb.change>
+ILI: 00243111
+
+Sense 4
+{00243111} <verb.change> elaborate1, work out1 -- (work out in detail; "elaborate a plan")
+       => {00245331} <verb.change> develop1, make grow -- (cause to grow and differentiate in ways conforming to its natural development; "The perfect climate here develops the grain"; "He developed a new kind of apple")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

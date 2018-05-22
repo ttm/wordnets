@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA3145
+
+DADO O SYNSET:
+
+S='Glosa3145'
+{embutir: Mandou H]embutir a tampa da caixinha de jóias com pedras semipreciosas.,
+	 engastar: E em lapidar pedras para I]engastar, e em entalhes de madeira, para trabalhar em todo o lavor.,
+	 incrustar: O joalheiro Thales Pereira dos Santos também pode I]incrustrar outra pedra se o cliente preferir.,
+	 marchetar: Ficaria melhor utilizar uma lâmina para I]marchetar seguindo a moda, como o muito utilizado Wenge?,
+	 tauxiar: x }
+
+A='Glosa1348'
+{desembutir}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3145' = “decorar a superfície [de] através da inserção de madeira, pedra ou metal”
+{embutir: Mandou H]embutir a tampa da caixinha de jóias com pedras semipreciosas.,
+	 engastar: E em lapidar pedras para I]engastar, e em entalhes de madeira, para trabalhar em todo o lavor.,
+	 incrustar: O joalheiro Thales Pereira dos Santos também pode I]incrustrar outra pedra se o cliente preferir.,
+	 marchetar: Ficaria melhor utilizar uma lâmina para I]marchetar seguindo a moda, como o muito utilizado Wenge?}
+
+A='Glosa1348'
+{desembutir}
+Chave: EMBUTIR <verb.creation>
+ILI: 01633940
+
+Sense 1
+{01633940} <verb.creation> inlay -- (decorate the surface of by inserting wood, stone, and metal)
+       => {01627899} <verb.creation> decorate, adorn, grace, ornament, embellish, beautify -- (make more attractive by adding ornament, colour, etc.; "Decorate the room for the party"; "beautify yourself for the special day")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA2585
+
+DADO O SYNSET:
+
+S='Glosa2585'
+	    {agradar-se: Além disso ninguém como ela se empenha tanto e mais habilmente em [agradar-me; sabendo que quase não vivo pelos olhos, procura recomendar se, açucarando a voz, e usando de perfumes suavíssimos.,
+	      aprazer-se: Gostaria de ter aclarado ao meu amigo que algumas pessoas têm prazeres sutis e singelos, como: molhar os pés enquanto caminha na praia ao nascer da manhã ou cair da tarde, admirar a lua e suas companheiras distantes, as estrelas, respirar a brisa noturna como se tragasse mais vida, escrever, ler, parolar com os amigos, beijar a mulher que ama como se a beijasse sempre pela primeira vez, I]aprazer-se por estar com a família, seu bem mais precioso; enfim, ter o prazer de fazer quase tudo o que gostaria de estar fazendo, já que nem tudo que se quer se é possível fazer.,
+	      comprazer-se: Não sou homem de [me comprazer com a desgraça alheia.,
+	      contentar-se: Se não houver uma queda mais agressiva das taxas de juros nos próximos meses, permitindo um crescimento econômico mais robusto no segundo semestre deste ano, o país vai ter que [se contentar mesmo com os 2% de variação do PIB.,
+	      deleitar-se: Cinéfilos de carteirinha podem [se deleitar com esse banco de dados em multimídia sobre cinema e vídeo.,
+	      refestelar-se: Quem estava de tênis era o cineasta -- como é mesmo o nome dele? -- que, ao saber da boca-livre, convidara-se e [se refestelara.,
+	      rever-se: Depois que assim repassou-se das reminiscências que lhe acordavam esses objetos, foi [rever-se no espelho, e enviou à sua feiticeira imagem reproduzida no cristal, um sorriso de indefinível expressão.,
+	      revir-se: Essas raras encomendas, o Matos as executava com enlevo; I]revia-se em sua obra, verdadeiro primor.,
+	      satisfazer-se: Pelas mesmas razões, também o governo dos EUA tende a [se satisfazer com o comunicado do FMI e concordar com a emissão para o Brasil dos seus bônus zero, que servem como garantia para o principal da dívida brasileira em sua reestruturação com os bancos particulares.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2585' = “Ser tomado(a) de satisfação, deleite.”
+	    {agradar-se: I]Pois agradou-se com a praia.,
+	      aprazer-se: I]Apraz-se em ouvir os gemidos do soldado que morre.,
+	      comprazer-se: Não sou homem de [me comprazer com a desgraça alheia.,
+	      contentar-se: I]Contentou-se com uma esmola miserável.,
+	      deleitar-se: Cinéfilos de carteirinha podem [se deleitar com esse banco de dados em multimídia sobre cinema e vídeo.,
+	      refestelar-se: Ao saber da boca-livre, convidara-se e [se refestelara.,
+	      rever-se: Essas raras encomendas, o Matos as executava com enlevo; I]revia-se em sua obra, verdadeiro primor.,
+	      satisfazer-se: A Warner I]satisfez-se com projetos comerciais de valor duvidoso.,}
+
+Chave: COMPRAZER-SE <verb.consumption>
+ILI: 01154667
+
+Sense 2
+{01154667} <verb.consumption> delight, enjoy, revel -- (take delight in; "he delights in his granddaughter") 

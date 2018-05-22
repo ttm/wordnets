@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA1768
+
+DADO O SYNSET:
+
+S='Glosa1768'
+	{alhear-se: H]Alheou-se completamente dos fatos da realidade.,
+	 alienar-se: Depois de internado, H]alienou-se.,
+	 aloucar-se: M]Aloucava-se por pouca coisa.,
+	 aluar-se: H]Alua-se ao ver as pernas das moças. ,
+	 alucinar-se: Ao desmaiar de vez, I]alucinou-se, reduzido a um monte de pele humana encadernando enormes livros jogados ao pó de uma biblioteca deserta. ,
+	 amalucar-se: A]Amalucou-se, coitado, desde que perdeu a mãe.  ,
+	 endoidar-se: Riobaldo quase I]endoidou-se ao saber que Diadorim era uma mulher. ,
+	 endoidecer-se: x,
+	 enlouquecer-se: Adianta I]enlouquecer-se com Bianca? # Ausência de calor inerte que busca as sombras sem querer aquietar-se, desejando I]enlouquecer-se da ébria luxúria e da vã parceira tentação de carne.,
+	 perturbar-se: O moço, a despeito de toda a sua energia moral, [ perturbou-se -- esteve a desabar -- um fogo subiu-lhe à cabeça; latejaram-lhe as fontes. # H]Perturbou-se quando foi ofendido pelo filho.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1768' = “ficar louco”
+	{endoidar: O Botafogo [endoidou de vez, subiu todo e Gonçalves perdeu um gol na pequena área.,
+ endoidar-se: Não há perigo algum para o ser humano mergulhar-se no desconhecido sem saber o que vai encontrar? A gente não corre o risco de se I]endoidar de vez?,
+ endoidecer: O.J. [endoidece na cadeia com outra notícia chocante de Nicole,
+ endoidecer-se: Mas ele se I]endoidece no dia em que volta a sua cidade para rezar a sua primeira missa e se depara, na igreja, com um cadáver.,
+	 enlouquecer: O filme é todo metafilme, metAndré, pois fala de um homem que [enlouquece e dentro do hospício sequestra uma comissão de direitos humanos que só libertará em troca da produção de um roteiro que está dentro dele como um vírus
+ enlouquecer-se: Mas teve um dia que ele se I]enlouqueceu.,
+	 perturbar-se: Sua memória se I]perturbou com a bala encravada na cabeça e a queda do telhado.}
+Chave: ENLOUQUECER-SE <verb.emotion>
+ILI: 01735946
+
+Sense 1
+{01735946} <verb.emotion> madden2, craze -- (cause to go crazy; cause to lose one's mind)

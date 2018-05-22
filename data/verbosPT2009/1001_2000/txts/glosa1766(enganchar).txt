@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA1766
+
+DADO O SYNSET:
+
+S='Glosa1766'
+	{endentar: H]Endentou uma peça na outra.,
+	 enganchar: Quando o incêndio amainou, a solução foi [enganchar escadas ao parapeito das janelas para ir a andares superiores.,
+	 ganchar: x,
+	 travar: As peças soltas podem I]travar na broca e causar acidentes. ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1766' = “travar os dentes de (de uma roda) com os de outra”
+	{endentar: O relógio continuava ali, empoado, estático. Mostrador, ponteiros, corda e até aquelas rodas que I]endentavam umas às outras num maquinismo.,
+	 enganchar: Em caso em que a ajustagem do mancal no alojamento torna difícil completa remoção, será necessário introduzir as castanhas do extrator através do centro do mancal e I]enganchar as suas arestas na extremidade do mancal..,
+	 travar: Essas mulheres começaram a I]travar as engrenagens do tão bem organizado Império Romano.,}
+Chave: ENGANCHAR <verb.contact>
+ILI: EQ_HAS_HYPERONYM – 01468558 – “manter engrenado”
+
+Sense 1
+{01468558} <verb.contact> engage, mesh1, lock1, operate2 -- (keep engaged; "engaged the gears")
+       => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

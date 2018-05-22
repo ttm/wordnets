@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA0778
+
+DADO O SYNSET:
+
+S='Glosa778'
+{betumar: A partir daqui seguiu-se um trabalho de I]betumar as fissuras com cola e serradura e rebaixar o tampo.,
+betuminizar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa778' = “cobrir com liga ou betume”
+{betumar: A partir daqui seguiu-se um trabalho de I]betumar as fissuras com cola e serradura e rebaixar o tampo.,}
+Chave: BETUMAR <verb.contact>
+ILI: 01234355
+
+Sense 1
+{01234355} <verb.contact> tar -- (coat with tar; "tar the roof"; "tar the roads")
+       => {01226248} <verb.contact> coat, surface -- (put a coat on; cover the surface of; furnish with a surface; "coat the cake with chocolate")
+           => {01293336} <verb.contact> cover -- (provide with a covering or cause to be covered; "cover her face with a handkerchief"; "cover the child with a blanket"; "cover the grave with flowers")

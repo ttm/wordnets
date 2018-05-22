@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA1313
+
+DADO O SYNSET:
+
+S='Glosa1313'
+{desarrear: Ele acabara de chegar e entrar em casa antes de I]desarrear o cavalo para tirar a roupa e vestir uma capa,
+ encilhar: Temos que fazer uma seleção criteriosa para não [encilhar o cavalo errado,}
+
+A='Glosa2371'
+{arrear1, desencilhar, selar2}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1313' = “remover os arreios [de]”
+{desarrear: Ele acabara de chegar e entrar em casa antes de I]desarrear o cavalo para tirar a roupa e vestir uma capa.,
+ desencilhar: Com pena dos bichos, a mãe I]desencilhou e libertou o cavalo do homem.,}
+
+A='Glosa2371'
+{arrear1, desencilhar, selar2}
+Chave: ENCILHAR <verb.contact>
+ILI: 01449656
+
+Sense 1
+{01449656} <verb.contact> unharness -- (remove the harness from; "unharness a horse")
+       => {01288977} <verb.contact> unhitch -- (unfasten or release from or as if from a hitch)
+           => {01477750} <verb.contact> undo -- (cancel, annul, or reverse an action or its effect; "I wish I could undo my actions")
+               => {00133458} <verb.change> change by reversal, turn, reverse -- (change to the contrary; "The trend was reversed"; "the tides turned against him"; "public opinion turned when it was revealed that the president had an affair with a White House intern")
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

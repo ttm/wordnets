@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA1510
+
+DADO O SYNSET:
+
+S='Glosa1510'
+{transferir: Willian foi acusado de  [transferir os presos para uma cela desativada, onde eles abriram um buraco na parede.,
+ transplantar: Akihito [transplantará as mudas germinadas para canteiro no palácio, em cumprimento a ritual imperial.,
+ transportar: Ele ia [transportar crianças de uma outra escola, pois nós não tínhamos serviço de Kombi.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1510' = “retirar e recolocar em outro solo ou situação” 
+{transferir: De oito a dez dias antes de I]transferir as mudas para o canteiro, ele deve receber adubação.,
+ transplantar: Akihito [transplantará as mudas germinadas para canteiro no palácio, em cumprimento a ritual imperial.,
+ transportar: Antes, pode-se também colocar as sementes entre duas mantas úmidas de papel grossos ou tecido até que os cotilédones iniciem sua saída da casca (cerca de sete dias depois) e depois I]transportar as sementes para os sacos plásticos.,}
+Chave: TRANSPLANTAR <verb.motion>
+ILI: 01801502
+
+Sense 4
+{01801502} <verb.motion> transplant, transfer5 -- (lift and reset in another soil or situation; "Transplant the young rice plants")
+       => {01955676} <verb.motion> displace, force out -- (force to move; "the refugees were displaced by the war")
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0284
+
+DADO O SYNSET:
+
+S='Glosa284'
+{cobiçar: Há um mandamento para não [cobiçar a mulher do próximo.,
+devorar: Convidado para jantar, Marcelo não disfarçava, não tirava os olhos de Bárbara um só instante. I]Devorava-a com os olhos, insinuava mil diabruras com os olhinhos apertados ao fitá-la longamente.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa284' = “desejar (ardentemente) ou ansiar por algo ou alguém”
+{cobiçar: Há um mandamento para não [cobiçar a mulher do próximo.,
+devorar: Convidado para jantar, Marcelo não disfarçava, não tirava os olhos de Bárbara um só instante. I]Devorava-a com os olhos, insinuava mil diabruras com os olhinhos apertados ao fitá-la longamente.,}
+Chave: COBIÇAR <verb.emotion>
+ILI: 01774096
+
+Sense 1
+{01774096} <verb.emotion> covet -- (wish, long, or crave for (something, especially the property of another person); "She covets her sister's house")
+       => {01773928} <verb.emotion> envy, begrudge1 -- (be envious of; set one's heart on)
+           => {01772101} <verb.emotion> desire, want -- (feel or have a desire for; want strongly; "I want to go home now"; "I want my own room")

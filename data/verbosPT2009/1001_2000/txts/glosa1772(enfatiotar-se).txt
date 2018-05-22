@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA1772
+
+DADO O SYNSET:
+
+S='Glosa1772'
+	{afiambrar-se: H]Afiambrou-se para ir ao baile.,
+	 ajanotar-se: Ele H]ajanotou-se com aquele terno.,
+	 aperaltar-se: x,
+	 casquilhar-se: x,
+	 encasquilhar-se: x,
+	 enfatiotar-se: H]Enfatiotou-se para ir ao casamento.,
+	 janotar-se: x,
+	 janotear-se: x,
+	 peralvilhar-se: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1772' = “vestir-se como um janota”
+	{enfatiotar-se: A benzedeira passou a manhã inteira se I]enfatiotando para a solenidade do neto.,}
+Chave: ENFATIOTAR-SE <verb.body>
+ILI: 00050167
+
+Sense 1
+{00050167} <verb.body> dandify -- (dress like a dandy)
+       => {00045016} <verb.body> dress, get dressed -- (put on clothes; "we had to dress quickly"; "dress the patient"; "Can the child dress by herself?")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

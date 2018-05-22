@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0908
+
+DADO O SYNSET:
+
+S='Glosa908'
+      {coivarar: Quando a madeira era maneira, eu usava para fazer a cerca, o resto eu I]coivarava, juntava os tocos e colocava fogo,
+     encoivarar: Apenas 4% dos produtores I]encoivaram e deixam o material passar pelo processo de decomposição,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa908' = “amontoar em pilhas ou coivaras”
+{coivarar: Quando a madeira era maneira, eu usava para fazer a cerca, o resto eu I]coivarava, juntava os tocos e colocava fogo,
+encoivarar: Apenas 4% dos produtores I]encoivaram e deixam o material passar pelo processo de decomposição,}
+Chave: ENCOIVARAR <verb.contact>
+ILI: EQ_HAS_HYPERONYM - 01461607
+
+Sense 1
+{01461607} <verb.contact> cord -- (stack in cords; "cord firewood")
+       => {01461170} <verb.contact> stack, pile, heap -- (arrange in stacks; "heap firewood around the fireplace"; "stack your books up on the shelves")
+           => {01422386} <verb.contact> arrange, set up -- (put into a proper or systematic order; "arrange the books on the shelves in chronological order")
+               => {01452069} <verb.contact> put, set, place, pose2, position, lay1 -- (put into a certain place or abstract location; "Put your things here"; "Set the tray down"; "Set the dogs on the scent of the missing children"; "Place emphasis on a certain point")
+                   => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

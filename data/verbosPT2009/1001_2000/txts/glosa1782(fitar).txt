@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA1782
+
+DADO O SYNSET:
+
+S='Glosa1782'
+{enfitar: x,
+ fitar: Momento houve que os olhos de Capitu [fitaram o defunto, quais os da viúva, sem o pranto nem palavras desta, mas grandes e abertos, como a vaga do mar lá fora, como se quisesse tragar também o nadador da manhã.,
+ olhar: O sujeito [olhou-me admirado; porque, a falar a verdade, os seus arreios nada valiam.,}
+	  
+A='Glosa1249'
+{desfitar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1782' = “olhar com os olhos fixados”
+{fitar: Mas, como diria o imparcialíssimo e insuspeito Roberto Avallone, olhos rútilos [fitando as câmeras, com o Corinthians não se brinca.,
+ olhar: Gandhi [olhou bem fundo nos olhos do garoto e disse: «não coma açúcar».,}
+	  
+A='Glosa1249'
+{desfitar}
+Chave: FITAR <verb.perception>
+ILI: 02070946
+
+Sense 1
+{02070946} <verb.perception> gaze, stare -- (look at with fixed eyes; "The students stared at the teacher with amazement")
+       => {02068725} <verb.perception> look -- (perceive with attention; direct one's gaze towards; "She looked over the expanse of land"; "Look at your child!"; "Look--a deer in the backyard!")

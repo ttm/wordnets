@@ -1,0 +1,36 @@
+ANÁLISE DA GLOSA2067
+
+DADO O SYNSET:
+	
+S='Glosa2067'
+    	{descabelar: O vento A]descabelou-a.,
+      	 desengrenhar: x,
+      	 desfrisar: Tanto afago acabou por H]desfrisar o seu cabelo.,
+      	 desgadelhar: x,
+      	 desgrenhar: Para que se maquiar, colocar roupas elegantes, fazer chapinha, e tantas outras coisas se dançar só faz a sua maquiagem derreter, a roupa amassar e o cabelo I]desgrenhar?,
+      	 desguedelhar: x,
+      	 despentear: I]Despenteou os cabelos, vestiu uma das camisas de botão do (ex) namorado, e deitou na cama como se por ali houvesse estado durante a noite inteira.,
+      	 escabelar: x,
+      	 esgadelhar: x,
+      	 esguedelhar: x,
+      	 estopetar: x,}
+  
+A='Glosa1936'
+    	{escarrapichar, frisar1, pentear}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2067' = “desarrumar ou amarrotar; despentear”
+    	{descabelar: Os dias passam, o vento passa a I]descabelar-nos, e os meus pentes, os meus pentes também passam.,
+      	 desgrenhar: A essa altura o vento I]desgrenhou o meu cabelo, e estou parecendo um vagabundo que vive em um arbusto.,
+      	 despentear: Se formos campeões, vou [despentear Pat Riley (técnico do time).}  
+
+A='Glosa1936'
+    	{escarrapichar, frisar1, pentear}
+Chave: DESPENTEAR <verb.contact>
+ILI: 01432291
+
+Sense 1
+{01432291} <verb.contact> tousle, dishevel, tangle1 -- (disarrange or rumple; dishevel; "The strong wind tousled my hair")
+       => {01425124} <verb.contact> disarrange -- (destroy the arrangement or order of; "My son disarranged the papers on my desk")
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

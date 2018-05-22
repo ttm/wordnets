@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0830
+
+DADO O SYNSET:
+
+S='Glosa830'
+{reconsiderar: Os países árabes seriam forçados a [reconsiderar os passos dados em direção a Israel no cenário do processo de paz e o governo de Israel terá que assumir sozinho total responsabilidade.,
+recuar: Para o líder do PFL na Câmara, Inocêncio de Oliveira, o Planalto emite sinais de que irá [recuar na proposta do plebiscito da reeleição.,
+tornar: Não posso M]tornar do meu parecer.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa830' = “retroceder em uma certa posição tomada”
+{reconsiderar: Os países árabes seriam forçados a [reconsiderar os passos dados em direção a Israel no cenário do processo de paz e o governo de Israel terá que assumir sozinho total responsabilidade.,
+recuar: Para o líder do PFL na Câmara, Inocêncio de Oliveira, o Planalto emite sinais de que irá [recuar na proposta do plebiscito da reeleição.,}
+Chave: RECUAR <verb.motion>
+ILI: 01939594
+
+Sense 2
+{01939594} <verb.motion> back up, back off, back down -- (move backwards from a certain position; "The bully had to back down")
+       => {01936392} <verb.motion> withdraw, retreat, pull away, draw back, recede1, pull back, retire, move back -- (pull back or move away or backward; "The enemy withdrew"; "The limo pulled away from the curb")
+           => {01782203} <verb.motion> travel, go, move3, locomote -- (change location; move, travel, or proceed; "How fast does your new car go?"; "We travelled from Rome to Naples by bus"; "The policemen went from door to door looking for the suspect"; "The soldiers moved towards the city in an attempt to take it before night fell")

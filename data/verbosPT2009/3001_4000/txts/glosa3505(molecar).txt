@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA3505
+
+DADO O SYNSET:
+
+S='Glosa3505'
+	    {
+	      molecar: Meu pai não gostava que, depois da aula, eu ficasse ]molecando pela cidade,
+	      molequear: x,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3505'
+	     {molecar: Vivia no meio da rua I]molecando com meus amigos, caçando velórios.,/ Eu quero viver I]molecando, farreando, tocando meus ganzás,}
+Chave: MOLECAR <verb.social>
+ILI: 02345648
+
+Sense 5
+{02345648} <verb.social> play3 -- (be at play; be engaged in playful activity; amuse oneself in a way characteristic of children; "The kids were playing outside all day"; "I used to play with trucks as a little girl")
+       => {02346017} <verb.social> act7 -- (be engaged in an activity, often for no particular purpose other than pleasure)

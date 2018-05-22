@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA2673
+
+DADO O SYNSET:
+
+S='Glosa2673'
+	    {reaparecer: Chuva deve dar trégua e o sol I]reaparece amanhã em SP.,
+	      reparecer: Depois de anos sem estampar uma capa de revista feminina de moda e beleza, a musa Vera Fischer vai I]reparecer estonteante, na revista "Estilo de Vida".,
+	      voltar: A lua I]voltou a aparecer por um instante, agora mais alta no céu.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2673' = “Aparecer novamente.”
+	    {reaparecer: Chuva deve dar trégua e o sol I]reaparece amanhã em SP.,
+	      reparecer: Depois de anos sem estampar uma capa de revista feminina de moda e beleza, a musa Vera Fischer vai I]reparecer estonteante, na revista "Estilo de Vida".,
+	      voltar: Afastada desde o final da novela América, Silvia Buarque I]voltou na última fase da minissérie Amazônia para viver Mary Alleghrete.,}
+
+Chave: REAPARECER <verb.change>
+ILI: 00414118
+
+Sense 1
+{00414118} <verb.change> reappear, re-emerge -- (appear again; "The sores reappeared on her body"; "Her husband reappeared after having left her years ago")
+       => {00409939} <verb.change> appear -- (come into sight or view; "He suddenly appeared at the wedding"; "A new star appeared on the horizon") 

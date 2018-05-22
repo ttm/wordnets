@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA2587
+
+DADO O SYNSET:
+
+S='Glosa2587'
+	    {render: Natalia Makarova, a última bailarina de uma geração que [rendeu Rudolf Nureyev, Mikhail Baryshnikov, Alexander Gudonov, Maya Plisetskaya, não dança mais.,
+	      revezar: Os dois aventureiros saíram para ir [revezar os outros, que era costume ficarem de sentinela à noite; medida esta necessária naquele tempo.,
+	      substituir: A operação em Acari foi montada pelos policiais civis do chamado Grupo Astra e visa impedir que os traficantes se reorganizem para [substituir Jorge Luis.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2587' = “Trocar pessoas temporariamente para cumprir certos trabalhos e funções.”
+	    {render: Natalia Makarova, a última bailarina de uma geração que [rendeu Rudolf Nureyev e Mikhail Baryshnikov, não dança mais.,
+	      revezar: Os dois aventureiros saíram para ir [revezar os outros, que era costume ficarem de sentinela à noite.,
+	      substituir: A operação em Acari foi montada pelos policiais civis do chamado Grupo Astra e visa impedir que os traficantes se reorganizem para [substituir Jorge Luis.,}
+
+Chave: SUBSTITUIR <verb.social>
+ILI: 02322132
+
+Sense 2
+{02322132} <verb.social> alternate -- (exchange people temporarily to fulfill certain jobs and functions)
+       => {02321894} <verb.social> exchange -- (hand over one and receive another, approximately equivalent; "exchange prisoners"; "exchange employees between branches of the company")
+           => {02321491} <verb.social> transfer, reassign -- (transfer somebody to a different position or location of work)
+               => {02320208} <verb.social> delegate, designate, depute3, assign -- (give an assignment to (a person) to a post, or assign a task to (a person))
+                   => {02401814} <verb.social> appoint, charge -- (assign a duty, responsibility or obligation to; "He was appointed deputy manager"; "She was charged with supervising the creation of a concordance") 

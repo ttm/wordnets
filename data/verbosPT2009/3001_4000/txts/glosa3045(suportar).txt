@@ -1,0 +1,41 @@
+ANÁLISE DA GLOSA3045
+
+DADO O SYNSET:
+
+S='Glosa3045'
+	    {
+	      agüentar: Será que vamos ter de [aguentar isso por 19 semanas?,
+	      aturar: O sofrido Vavá de Luiz Gustavo foi obrigado a [aturar uma família italiana ainda mais impertinente que a dele . ,
+	      beber: A]Beber desgostos.,
+	      digerir: Não é fácil [digerir a derrota.,
+	      engolir: Os líderes do PMDB que preparam a oficialização do apoio a FHC tiveram que [engolir ontem, na reunião regional do partido em São Paulo, a ruidosa manifestação do MR-8. ,
+	      entuchar: Teve de H]entuchar os desaforos do amigo.,
+	      gramar: Não vale a pena, por conseguinte, I]gramar seis anos de academia e curtir as maçadas que estou suportando, sabe Deus como. # Os melhores vão ganhar bem, ter casa confortável, carro, e os outros vão I]gramar a sua mediocridade. ,
+	      suportar: Mas consegui [suportar tudo sem calmante.,
+	      sustentar: M]Sustentar os rigores do inverno.,
+	      tolerar: Na reunião, Marcello afirmou que não vai [tolerar a existência de poder paralelo nas favelas.,
+	      tragar: Muito da audiência americano conhecedora de arte não pode I]tragar sua insistência em dizer que criatividade pode ser aplicada a problemas além de arte.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3045' = “tolerar algo desagradável”
+	     {agüentar: Ele não [aguentou a balbúrdia, largou o jogo no meio.,
+	      aturar: Paulo Moura nao I]aturou a pressão de Pancho Sullivan e perdeu. ,
+	      digerir: Fernanda Lima I]digere críticas e encara outra novela.,
+	      engolir: - E o Judiciário [engole esta manobra - critica Urbano. ,
+	      entuchar: Teve de H]entuchar os desaforos do amigo.,
+	      gramar: O engenheiro, com 23 anos de ficha limpa no serviço público, I]gramou quatro noites na cadeia. # Os melhores vão ganhar bem, ter casa confortável, carro, e os outros vão I]gramar a sua mediocridade. ,
+	      suportar: O sistema de águas pluviais mais uma vez não [suportou o volume das águas.,
+	      sustentar: O mercado do café não [sustentou o preço obtido na terça-feira o maior em cinco anos.,
+	      tolerar: O governo não [tolerou essa iniciativa de independência e logo mandou tropas para controlar os «fanáticos».,
+	      tragar: A crise do movimento sindical I]tragou parte dos votos democratas e moveu o pêndulo de Ohio para o lado de Bush.,}
+Chave: SUPORTAR <verb.cognition>
+ILI: 00645847
+
+Sense 1
+{00645847} <verb.cognition> digest3, endure, stick out, stomach, bear, stand, tolerate, support4, brook, abide, suffer, put up -- (put up with something or somebody unpleasant; "I cannot bear his constant criticism"; "The new secretary had to endure a lot of unprofessional remarks"; "he learned to tolerate the heat"; "She stuck out two years in a miserable marriage")
+       => {00776433} <verb.communication> permit, allow, let2, countenance -- (consent to, give permission; "She permitted her son to visit her estranged husband"; "I won't let the police search her basement"; "I cannot allow you to see your exam")
+           => {00771887} <verb.communication> accept, consent, go for -- (give an affirmative reply to; respond favorably to; "I cannot accept your invitation"; "I go for this resolution")
+               => {00693825} <verb.cognition> react, respond -- (show a response or a reaction to something)
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA1349
+
+DADO O SYNSET:
+
+S='Glosa1349'
+{desemoldurar: H]Desemoldurar um retrato,
+ desencaixilhar: Mandou H]desencaixilhar o óleo de Portinari para restaurar.,
+ desenquadrar: x,}
+	  
+A='Glosa3502'
+{emoldar, emoldurar, encaixilhar, enquadrar, moldurar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1349' = “remover a moldura [de]”
+{desemoldurar: Compraria a gravura de S. Clemente dos Dinamarqueses, I]desemoldurando-a e levando-a para casa escondida dentro do macacão.,}
+A='Glosa3502'
+{emoldar, emoldurar, encaixilhar, enquadrar, moldurar}
+Chave: DESEMOLDURAR <verb.contact>
+ILI: EQ_HAS_HYPERONYM – 01441655 – “remover a cobertura [de]”
+
+Sense 3
+{01441655} <verb.contact> unveil1 -- (remove the cover from; "unveil a painting")
+       => {00166870} <verb.change> remove, take, take away1, withdraw1 -- (remove something concrete, as by lifting, pushing, taking off, etc. or remove something abstract; "remove a threat"; "remove a wrapper"; "Remove the dirty dishes from the table"; "take the gun from your pocket"; "This machine withdraws heat from the environment")

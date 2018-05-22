@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA1591
+
+DADO O SYNSET:
+	
+S='Glosa1591'
+    	{ativar-se: Segundo as áreas do cérebro analisadas, até 10% dos neurônios podem ativar-se diante da visão ou da lembrança de um rosto. ,
+      	 dinamizar-se: A menor energia que escapa de nosso pensamento é um átomo que vai I]dinamizar-se no Cósmos e retornar potencializado. ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1591' = “tornar-se/ficar dinâmico”
+    	{ativar-se: O comércio se [ativou, assim como as práticas profissionais.,
+      	 dinamizar-se: A agricultura se [dinamizou nos EUA em razão de um “pacto político” pelo qual a superprodução foi propositalmente gerada para derrubar o preço dos alimentos.}
+Chave: DINAMIZAR-SE <verb.change>
+ILI: EQ_NEAR_SYNONYM – 00536592
+
+Sense 1
+{00536592} <verb.change> dynamize1, dynamise1 -- (make more dynamic; "She was dynamized by her desire to go to grad school")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

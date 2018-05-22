@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA2661
+
+DADO O SYNSET:
+
+S='Glosa2661'
+	    {devolver: Já mandou [devolver o material.,
+	      repor: O bispo levou dez meses para [repor o dinheiro, mas a dívida recebeu aval de Magalhães Pinto.,
+	      restituir: É bem provável, inclusive, que eles queiram devolvê-lo antes do término do empréstimo, disse, explicando que, nesse caso, o Flamengo teria que [restituir o clube paulista em US$ 400 mil.,
+	      revocar: "Graças a você, Dumbledore pôde I]revocar a Ordem da Fênix cerca de uma hora depois que Voldemort retornou”, disse Sirius. ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2661' = “Devolver a alguém o dinheiro gasto.”
+	    {devolver: O ex-vereador Edílson Gomes I]devolveu o dinheiro recebido em 2002 e está disposto a restituir ao município os R$ 6 mil.,
+	      repor: O bispo levou dez meses para [repor o dinheiro.,
+	      restituir: O Flamengo teria que [restituir o clube paulista em US$ 400 mil.,}
+
+Chave: RESTITUIR <verb.possession>
+ILI: 02218920
+
+Sense 1
+{02218920} <verb.possession> refund, return, repay, give back -- (pay back; "Please refund me my money")
+       => {02186811} <verb.possession> pay -- (give money, usually in exchange for goods or services; "I paid four dollars for this sandwich"; "Pay the waitress, please")
+           => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+               => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children") 

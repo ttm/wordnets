@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA1338
+
+DADO O SYNSET:
+
+S='Glosa1338'
+{desaperrar: Segundo fora apurado em inquérito policial, um criado da Marquesa e seu mandatário foi quem I]desaperrara o trabuco.,
+ desengatilhar: Cuidado ao I]desengatilhar sua arma.,}
+	  
+A='Glosa1919'
+{aperrar, engatilhar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1338' = “liberar o gatilho”
+{desengatilhar: Juliane I]desengatilhou a arma e a guardou sob o casaco.}
+A='Glosa1919'
+{aperrar, engatilhar}
+Chave: DESENGATILHAR <verb.contact>
+ILI: EQ_HAS_HYPERONYM - 01432719
+
+Sense 1
+{01432719} <verb.contact> let go of, let go, release, relinquish2 -- (release, as from one's grip; "Let go of the door handle, please!"; "relinquish your grip on the rope--you won't fall")

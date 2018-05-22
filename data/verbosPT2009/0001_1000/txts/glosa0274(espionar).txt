@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0274
+
+DADO O SYNSET:
+
+S='Glosa274'
+{espionar: A China expulsou ontem cinco jornalistas de Formosa e Hong Kong, acusando-os de estarem [espionando perto da área costeira no sul do país onde estão sendo realizados os exercícios militares. ,
+sondar: Executivos da instituição estão no exterior para [sondar possibilidades de negócios.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa274' = “assistir, observer, ou investigar secretamente”
+{espionar: A China expulsou ontem cinco jornalistas de Formosa e Hong Kong, acusando-os de estarem [espionando perto da área costeira no sul do país onde estão sendo realizados os exercícios militares. ,
+sondar: Dorival Sardinha Costa I]sondou a casa da vítima, seguiu-o por algumas horas e voltou para Goiânia.,}
+Chave: ESPIONAR <verb.communication>
+ILI: 00759953
+
+Sense 2
+{00759953} <verb.communication> spy1, stag1, snoop, sleuth -- (watch, observe, or inquire secretly)
+       => {02101646} <verb.perception> monitor, supervise, ride herd on -- (keep tabs on; keep an eye on; keep under surveillance)
+           => {02107130} <verb.perception> observe -- (watch attentively; "Please observe the reaction of these two chemicals")
+               => {02088598} <verb.perception> watch -- (look attentively; "watch a basketball game")

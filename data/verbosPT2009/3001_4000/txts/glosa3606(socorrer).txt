@@ -1,0 +1,42 @@
+ANÁLISE DA GLOSA3606
+
+DADO O SYNSET:
+
+S='Glosa3606'
+	    {
+	      acorrer: Ao pai [acorreu, depois do tiro de Toneleros, e lhe fez companhia assídua nos dias agônicos. ,
+	      acudir: Foram arcanjos que nos [acudiram.,
+	      atender: Os Estados Unidos para [atender às necessidades dos países europeus arrasados pela Guerra, passaram a conhecer um outro período de grande desenvolvimento econômico. / Existem também os setores de serviços (educação, saúde, lazer, tec) , que visam [atender à população de cada comuna.  ,
+	      correr: Em poucos instantes, vizinhos [correram para prestar os primeiros socorros, assustados com o barulho.,
+	      ocorrer: H]Ocorreu com presteza ao doente.,
+	      prover: Ele I]provê às necessidades humanas não na medida do valor moral ou do fervor das pessoas mas levando em conta suas necessidades.,
+	      providenciar: Don José foi obrigado a reconhecer que lutava por uma batalha perdida, nos seus esforços para I]providenciar às necessidades familiares.,
+	      remediar: Jesus sim I]remediou aos enfermos, e curou aos cegos e os surdos. ,
+	      socorrer: O fidalgo os recebia como um rico-homem que devia proteção e asilo aos seus vassalos; [socorria-os em todas as suas necessidades.,
+	      suprir: Em geral, a área de terra fértil para o desenvolvimento da agricultura era pequena para [suprir as necessidades da população.,
+	      valer: Em que lhe posso [valer, anjo do céu? /  Insisti, pedindo que me I]valesse por caridade.,
+	      vir: Pelo menos agora eu posso dormir tranquilo, graças a esta gente que [veio nos salvar.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3606' = “ajudar numa situação difícil”
+	     {acorrer: Ao pai [acorreu, depois do tiro de Toneleros, e lhe fez companhia assídua nos dias agônicos. ,
+	      acudir: Foram arcanjos que nos [acudiram.,
+	      atender: O tratamento no hospital paulista foi custeado pela Sociedade Beneficente de Senhoras do Sírio Libanês a pedido do médico Miguel Srougi, que I]atendeu o artista, já que ele não tinha recursos para pagar a internação. / Existem também os setores de serviços (educação, saúde, lazer, etc) , que visam [atender à população de cada comuna.  ,
+	      correr: Em poucos instantes, vizinhos [correram para prestar os primeiros socorros, assustados com o barulho.,
+	      ocorrer: H]Ocorreu com presteza ao doente.,
+	      prover: Ele I]provê às necessidades humanas não na medida do valor moral ou do fervor das pessoas mas levando em conta suas necessidades.,
+	      providenciar: Don José foi obrigado a reconhecer que lutava por uma batalha perdida, nos seus esforços para I]providenciar às necessidades familiares.,
+	      remediar: Jesus sim I]remediou aos enfermos, e curou aos cegos e os surdos. ,
+	      socorrer: O fidalgo os recebia como um rico-homem que devia proteção e asilo aos seus vassalos; [socorria-os em todas as suas necessidades.,
+	      suprir: Em geral, a área de terra fértil para o desenvolvimento da agricultura era pequena para [suprir as necessidades da população.,
+	      valer: M]Valeu-lhe, na apertura, o velho amigo /  Insisti, pedindo que me I]valesse por caridade.,
+	      vir: Pelo menos agora eu posso dormir tranqüilo, graças a esta gente que [veio nos salvar.,}
+Chave: SOCORRER <verb.social>
+ILI: 02473443
+
+Sense 1
+{02473443} <verb.social> succor, succour -- (help in a difficult situation)
+       => {02472355} <verb.social> help, assist2, aid -- (give help or assistance; be of service; "Everyone helped out during the earthquake"; "Can you help me carry this table?"; "She never helps around the house")
+           => {02480483} <verb.social> support, back up -- (give moral or psychological support, aid, or courage to; "She supported him during the illness"; "Her children always backed her up")

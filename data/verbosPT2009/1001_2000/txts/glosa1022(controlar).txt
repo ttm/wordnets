@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA1022
+
+DADO O SYNSET:
+
+S='Glosa1022'
+{controlar: Pode o homem [controlar seu próprio envelhecimento ou, pelo menos, participar da determinação da duração da vida? # Os notívagos gregos estão indignados com a decisão do governo de [controlar o horário de fechamento das discotecas locais.,
+ cronometrar: Sua mente parecia [cronometrar o tempo que o separava da chegada da amiga e a ansiedade o envolvia a cada dia mais.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1022' = “manter [algo ou alguém] dentro dos limites”
+{controlar: O Partido Socialista, o único que existe por aqui, I]controla os passos dos estrangeiros de perto.,
+ cronometrar: Eu sempre elogiei o trabalho dela, agradeço sempre que posso sua contribuição em nossa equipe, mas ela vive I]cronometrando meus passos.}
+Chave: CONTROLAR <verb.social>
+ILI: 02435410
+
+Sense 2
+{02435410} <verb.social> control1, hold in, hold15, contain, check8, curb, moderate -- (lessen the intensity of; temper; hold in restraint; hold or keep within limits; "moderate your alcohol intake"; "hold your tongue"; "hold your temper"; "control your anger")
+       => {02349665} <verb.social> restrain1, suppress3, keep, keep back, hold back -- (keep under control; keep in check; "suppress a smile"; "Keep your temper"; "keep your cool")
+           => {02377053} <verb.social> prevent, keep1 -- (prevent from doing something or being in a certain state; "We must prevent the cancer from spreading"; "His snoring kept me from falling asleep"; "Keep the child from eating the marbles")

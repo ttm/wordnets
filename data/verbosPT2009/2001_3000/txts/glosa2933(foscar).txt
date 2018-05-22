@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA2933
+
+DADO O SYNSET:
+
+S='Glosa2933'
+	    {embaciar: O brilho fulvo do metal precioso ia, pouco a pouco, I]embaciando, tomava uma alva cor de carne, quente e tenra.,
+	      foscar: O verniz impermeabilizante é ideal para I]foscar vidros, espelhos e metais.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2933' = “Tornar turvo ou sem brilho”
+	    {embaciar: Entrou o comandante com uma lâmpada, e aproximou-lha da respiração, que não I]embaciou levemente o vidro.,
+	      foscar: A poeira levantada pelos cascos I]foscava o ar, que ao redor era muito claro, e assim tudo se via como numa pintura antiga.,}
+Chave: FOSCAR <verb.change>
+ILI: 00303523
+
+Sense 4
+{00303523} <verb.change> dim -- (make dim or lusterless; "Time had dimmed the silver")
+       => {00301705} <verb.change> darken1 -- (make dark or darker; "darken a room")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

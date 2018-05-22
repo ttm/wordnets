@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA2695
+
+DADO O SYNSET:
+
+  S='Glosa2695'
+	    {remanejar: O presidente do BB inclusive já garantiu publicamente que, caso precise fechá-las, teria condições de [remanejar os funcionários pra outras funções no banco.,
+	      remover: O patrão pode nomear e [remover livremente os empregados de sua imediata dependência.,
+	      transferir: O novo presidente da entidade, Cícero Bezerra da Silva, [transferiu dois diretores das subsedes de São Caetano e Mauá para São Bernardo.,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2695' = “Despachar alguém para uma posição ou um local de trabalho diferente.”
+	    {remanejar: A direção do banco Real I]remanejou funcionários de agências de outras cidades da região.,
+	      remover: Em 2003, I]removeu 12 dos 16 comandantes da Gendarmeríae nomeou Pasteris chefe da força.,
+	      transferir: O novo presidente da entidade, Cícero Bezerra da Silva, [transferiu dois diretores das subsedes de São Caetano e Mauá para São Bernardo.,}
+
+Chave: REMANEJAR <verb.social>
+ILI: 02321491
+
+Sense 2
+{02321491} <verb.social> transfer, reassign -- (transfer somebody to a different position or location of work)
+       => {02320208} <verb.social> delegate, designate, depute3, assign -- (give an assignment to (a person) to a post, or assign a task to (a person))
+           => {02401814} <verb.social> appoint, charge -- (assign a duty, responsibility or obligation to; "He was appointed deputy manager"; "She was charged with supervising the creation of a concordance") 

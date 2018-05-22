@@ -1,0 +1,53 @@
+ANÁLISE DA GLOSA2163
+
+DADO O SYNSET:
+
+S='Glosa2163'
+	    {acouçar: x,
+	      acoucear: x,
+	      afrontar: Ele simplesmente I]afrontou o governador naquele restaurante chiquérrimo da zona sul, qualificando-o de chifrudo.,
+	      agredir: Agora, se o senhor diz que não falou nada, apenas resmungou, e quem o I]agrediu com palavras fui eu, então eu lhe digo o mesmo. ,
+	      apedrejar: Palavras ríspidas que M]apedrejam mais do que pedras.,
+	      baldoar: M]Baldoar uma reputação. ,
+	      desfeitear: Em minha casa ninguém tem coragem de I]desfeitear você.,
+	      destratar: Fiquei pensando que as pessoas preferem as palavras para I]destratar as outras. #  A]Destratou cruelmente a pobre senhora.   ,
+	      doestar: H]doestar um adversário.,
+	      enojar: H]Enojavam-no os modos escandalosos da filha.,
+	      enxovalhar: Explorando o fato de ser membro da Comissão de Segurança Pública da Assembléia Legislativa o que só aumentaria sua responsabilidade caso fosse assíduo às reuniões, o que não corre, ele se outorga o direito de [enxovalhar a dignidade do padre Julio Lancelotti, atingindo também pessoas e instituição que defendem nossas crianças .,
+	      escoicear: Aquele gerente gosta de H]escoicear os subalternos.,
+	      escoicinhar: x,
+	      escoucear: x,
+	      injuriar: Ninguém consegue nada destruindo, blasfemando, xingando, [injuriando, humilhando.,
+	      insultar: Na versão de Mitford, Kotsuké no Suké [insultou seu visitante, Takumi no Kami, que ficou com tanta raiva que atirou sua espada e acertou Kotsuké na cabeça; este, porém, estava protegido pelo chapéu que usava e, assim, «a ferida foi apenas um arranhão, então ele fugiu».,
+	      ofender: Me [ofendeu e fez acusações que as pessoas que me conhecem sabem ser infudadas.,
+	      profanar: Ele não quis [profanar o jovem deus em meio ao alvoroço de Tróia. # Essa piada lhe M]profanou os ouvidos puritanos.,
+	      ultrajar: Abaixava a cabeça, pedia desculpas, fazia o que fosse preciso para não I]ultrajar àquilo e àqueles que amava. ,
+	      xingar: Muller [xingou Parreira depois do jogo contra os Estados Unidos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2163' = “magoar os sentimentos de alguém”
+	    {afrontar: Ele simplesmente I]afrontou o governador naquele restaurante chiquérrimo da zona sul, qualificando-o de chifrudo.,
+	      agredir: O pintor foi ameaçado com um processo por [agredir o Santo Ofício e a moralidade pública . ,
+	      apedrejar: Se alguém te I]apedrejou o coração, Não plantes ódio na alma contundida.,
+	      baldoar: M]Baldoar uma reputação. ,
+	      desfeitear: Em minha casa ninguém tem coragem de I]desfeitear você.,
+	      destratar: Fiquei pensando que as pessoas preferem as palavras para I]destratar as outras. #  A]Destratou cruelmente a pobre senhora.   ,
+	      doestar: H]doestar um adversário.,
+	      enojar: H]Enojavam-no os modos escandalosos da filha.,
+	      enxovalhar: Ele se outorga o direito de [enxovalhar a dignidade do padre Julio Lancelotti.,
+	      escoicear: Aquele gerente gosta de H]escoicear os subalternos.,
+	      injuriar: Ele acrescenta que Romano não tinha a intenção de [injuriar ou difamar Cardoso Alves.,
+	      insultar: Kotsuké no Suké [insultou seu visitante, Takumi no Kami, que ficou com tanta raiva que atirou sua espada e acertou Kotsuké na cabeça.,
+	      ofender: Me [ofendeu e fez acusações que as pessoas que me conhecem sabem ser infudadas.,
+	      profanar: Ele não quis [profanar o jovem deus em meio ao alvoroço de Tróia. # Essa piada lhe M]profanou os ouvidos puritanos.,
+	      ultrajar: Um tipo de conduta que, para além de [ultrajar a inteligência do eleitor, assalta os bolsos do contribuinte. ,
+	      xingar: O tribunal negou recurso de um trabalhador que foi despedido em Bielefeld por [xingar colegas estrangeiros.,}
+
+Chave: OFENDER <verb.emotion>
+ILI: 01741003
+
+Sense 4
+{01741003} <verb.emotion> hurt, wound, injure, bruise, offend, spite -- (hurt the feelings of; "She hurt me when she did not include me among her guests"; "This remark really bruised me ego")
+       => {01708538} <verb.emotion> arouse, elicit, enkindle, kindle, evoke, fire, raise8, provoke -- (call forth (emotions, feelings, and responses); "arouse pity"; "raise a smile"; "evoke sympathy")
+           => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor") 

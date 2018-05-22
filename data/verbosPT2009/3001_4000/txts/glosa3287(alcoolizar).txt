@@ -1,0 +1,35 @@
+ANÁLISE DA GLOSA3287
+
+DADO O SYNSET:
+
+S='Glosa3287'
+	    {
+	      alcoolizar: Além de I]alcoolizar as crianças, o pai as privou de liberdade.,
+	      alegrar: Basta uma dose de gim para M]alegrá-lo.,
+	      avinhar: x,
+	      embebedar: Estão tentando [embebedar o presidente para ver se ele solta verba.,
+	      emborrachar: x,
+	      embriagar: Os realizadores [embriagaram o entrevistado, iludiram-no sobre as verdadeiras finalidades do filme e por fim manipularam a montagem, alterando o sentido de suas palavras.,
+	      encharcar: x,
+	      inebriar: Seu doce aroma entrava por suas narinas, I]inebriando-o.,
+	      letificar: x,
+	      mamar: DEVIANT,
+	      xumbergar: x,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3287' = “sujeitar-se à influência do álcool”
+	     {alcoolizar: Ela contou que o suspeito a I]alcoolizou e em seguida a violentou.,
+	      embebedar: Jornalista de Veja I]embebedou entrevistado.,
+	      embriagar: Os realizadores [embriagaram o entrevistado, iludiram-no sobre as verdadeiras finalidades do filme e por fim manipularam a montagem, alterando o sentido de suas palavras.,
+	      inebriar: os vapores do álcool H]inebriaram-no.,}
+Chave: ALCOOLIZAR <verb.consumption>
+ILI: 01140616
+
+Sense 1
+{01140616} <verb.consumption> alcoholize -- (subject to the influence of alcohol; "After we finished dinner, we were thoroughyl alcoholized")
+       => {01140114} <verb.consumption> regale, treat -- (provide with choice or abundant food or drink; "Don't worry about the expensive wine--I'm treating"; "She treated her houseguests with good food every night")
+           => {01146590} <verb.consumption> provide, supply, ply, cater -- (provide what is desired or needed, especially support, food or sustenance; "The hostess provided lunch for all the guests")
+               => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+                   => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children")

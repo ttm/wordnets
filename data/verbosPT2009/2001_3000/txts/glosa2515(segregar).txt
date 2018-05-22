@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA2515
+
+DADO O SYNSET:
+
+S='Glosa2515'
+	    {isolar: Classifica como demagogos os que vêem na proteção aos consumidores de drogas uma forma de [isolar os traficantes.,
+	      marginalizar: Cerca de mil flagelados ocuparam o prédio da Sudene, organizados pelas Federações dos Trabalhadores na Agricultura dos Estados nordestinos, para protestar contra o Programa de Convívio com a Seca e Inclusão Social, que é criticado por I]marginalizar as populações urbanas de minúsculas cidades cercadas pela caatinga.,
+	      secretar: x,
+	      segregar: O Estado deve I]segregar adolescentes delinqüentes do convívio social.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2515' = “Colocar à parte, de lado.”
+	    {isolar: O governo de Cingapura I]isolou os manifestantes em uma área distante.,
+	      marginalizar: Cerca de mil flagelados ocuparam o prédio da Sudene para protestar contra o Programa de Convívio com a Seca e Inclusão Social, que é criticado por I]marginalizar as populações urbanas de minúsculas cidades cercadas pela caatinga.,
+	      segregar: Portanto, o modelo imposto pelo planejamento urbano moderno da cidade foi um modelo excludente, que I]segregou as classes populares.,}
+
+Chave: SEGREGAR <verb.change>
+ILI: 00480883
+
+Sense 1
+{00480883} <verb.change> isolate, insulate -- (place or set apart; "They isolated the political prisoners from the other inmates")
+       => {02437378} <verb.social> discriminate12, separate, single out -- (treat differently on the basis of sex or race)
+           => {00628816} <verb.cognition> distinguish, separate1, differentiate1, secern1, secernate, severalize, severalise, tell1, tell apart -- (mark as different; "We distinguish several kinds of maple")
+               => {00598581} <verb.cognition> identify, place -- (recognize as being; establish the identity of someone or something; "She identified the man on the 'wanted' poster")
+                   => {00676553} <verb.cognition> determine1, set4 -- (fix conclusively or authoritatively; "set the rules") 

@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA1634
+
+DADO O SYNSET:
+
+S='Glosa1634'
+{desaparecer: Um livro raro H]desapareceu da bibilioteca.# Um dia, o livro I]desapareceu da estante.,
+ desparecer: Preciso comprar um novo exemplar do livro  Morangos Mofados. Tinha dois. O primeiro, da Editora Brasiliense, com a capa vermelha e azul, foi autografado, mas I]despareceu. ,
+ eclipsar: x,
+ eclipsar-se: Assim a aristocracia dos Cipiões e Metelos I]eclipsou-se perante escravos, como Licino, Crisógono, Palas, etc. #  Evadiu-se, M]eclipsou-se. ,
+ extraviar-se: O retirante tem medo de [extraviar-se porque seu guia, o rio, cortou com o verão.,
+ perder-se: I]Perdeu-se o anel.   ,
+ sumir-se: A jangada H]sumiu(-se) nas ondas.# O navio I]sumiu-se.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1634' = “sumir, especialmente sem aviso ou explicação”
+{desaparecer: Pois esse bichinho, que ficara com a criada na casa para onde se haviam mudado pouco antes da viagem, [desapareceu um dia, malgrado a vigilância da empregada.,
+ desparecer: Após a criação do real, a URV [desparece e a remuneração será prefixada. ,
+ eclipsar-se: Travassos e Medeiros já morreram, Vladimir se I]eclipsou, mas Dirceu, mesmo cassado e indiciado por aparelhar o Estado e chefiar a quadrilha do mensalão, continua dominando o PT.,
+ perder-se: Os lenços [perderam-se.,
+ sumir-se: Paulo ergueu-se e [sumiu-se pela outra porta.,}
+Chave: DESAPARECER <verb.change>
+ILI: 00414775
+
+Sense 1
+{00414775} <verb.change> disappear, vanish, go away -- (get lost, especially without warning or explanation; "He disappeared without a trace")

@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2822
+
+DADO O SYNSET:
+
+S='Glosa2822'
+	    {reacender: A Ilha do Fogo tem este nome porque os seus primeiros habitantes mantinham fogueiras acesas, que ao contrário do que muitos pensam, não por não saber I]reacender o fogo (isso eles sabiam), mas porque o tempo todo era muito frio.,
+	      reatear: H]Reatearam a fogueira.,
+	      reatiçar: H]Reatiçar o fogo.,
+	      reavivar: Na verdade, ainda dormiam os campos nos braços da noite - silêncio sepulcral apenas cortado, de quando em vez, pelos quero-queros alertando a solidão - quando o peão caseiro abrindo com as alpargatas dois caminhos no orvalho esbranquiçado, se dirigira ao galpão, para I]reavivar o fogo esmaecido.,
+	      reespertar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2822' = “tornar mais claro ou mais brilhante”
+	    {reacender: Ele sentou-se em uma delas e I]reacendeu o fogo. Logo um Duegar entrou e sentou-se à sua frente. Ali ficaram até o fogo apagar.,
+	      reavivar: Num vapt Baucis ajuntou os carvões e reavivou o fogo.,}
+
+Chave: REACENDER <verb.change>
+ILI: 00282678
+
+Sense 1
+{00282678} <verb.change> light, illume, illumine, light up, illuminate3 -- (make lighter or brighter; "This lamp lightens the room a bit")
+       => {00272032} <verb.change> lighten2, lighten up1 -- (become lighter; "The room lightened up")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

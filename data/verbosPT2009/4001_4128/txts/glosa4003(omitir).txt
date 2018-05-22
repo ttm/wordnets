@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA4003
+
+DADO O SYNSET:
+
+S='Glosa4003'
+{omitir: O presidente [omitiu detalhes do projeto, mas não negou que a Umbro, patrocinadora do clube, é uma das empresas participantes .,
+pospor: O verdadeiro pesquisador H]pospõe suas opiniões pessoais e busca a verdade nos fatos.,
+postergar: M]Postergam pontos importantes do trabalho, coagidos pela pressa.,
+preterir: A justiça não pode A]preterir as provas.,
+pretermitir: x,
+sotopor: A humildade não M]sotopõe a dignidade.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4003' = “desviar-se [de] e pôr de lado, talvez temporariamente”
+{omitir: Tentamos facilitá-lo ao máximo organizando o texto de tal modo que os detalhes relativamente técnicos, que se podem [omitir numa primeira leitura, sejam remetidos às notas, permitindo manter uma certa fluência do texto principal.,
+pospor: “Viver o outro”significa esquecer a si mesmo, I]pospor a si mesmo para pensar no outro, para "fazer-se um" com quem quer que seja.,
+preterir: M]Preterindo particularidades pessoais, o caso torna-se diferente. }
+Chave: OMITIR <verb.communication>
+ILI: 00753217
+
+Sense 6
+{00753217} <verb.communication> put away -- (turn away from and put aside, perhaps temporarily; "She turned away from her painting")
+       => {00752607} <verb.communication> interrupt, disrupt, break up, cut off -- (make a break in; "We interrupt the program for the following messages")
+           => {00351165} <verb.change> break2, break off, discontinue, stop5 -- (prevent completion; "stop the project"; "break off the negociations")
+               => {00341640} <verb.change> end1, terminate1 -- (bring to an end or halt; "She ended their friendship when she found out that he had once been convicted of a crime"; "The attack on Poland terminated the relatively peaceful period after WWI")
+                   => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")
+
+
+
+
+
+

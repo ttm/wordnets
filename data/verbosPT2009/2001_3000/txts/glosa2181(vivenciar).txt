@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA2181
+
+DADO O SYNSET:
+
+S='Glosa2181'
+	    {chincar1: x,
+	      experienciar: Todas estas situações podem ultrapassar o limiar de tolerância de uma pessoa em relação ao que ela I]experienciou. ,
+	      experimentar: Tendo em vista que você vive num país que praticamente desbravou o mundo, que [experimentou a aventura em alto grau, fale um pouco desse contraste.,
+	      passar: Durante seu mandato, I]passou momentos difíceis a frente da GRES São Clemente, ficando marcado em sua memória o dia em que a escola foi despejada da quadra.,
+	      provar: Nós não deixaremos mais eles terem paz nem mesmo em sonhos e agora eles vão I]provar uma guerra dentro de seu próprio país. # M]Provar os sofrimentos da guerra.,
+	      ver: Podemos ver que, até quando descreveu a terra, tinha as imagens obsessivas que ele I]viu na guerra.,
+	      vivenciar: Depois de três meses trabalhando com refugiados em Ruanda e, nos últimos dois meses, envolvido em diversos projetos no Zaire, com os Médicos Sem Fronteiras (Holanda) , não acreditava poder [vivenciar algo tão avassalador .,
+	      viver: Mas o compositor garante que ele e sua mulher, Malena, [viveram momentos místicos no Caminho: «Nos perdemos duas vezes.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2181' = “passar ou viver por algum tipo de experiência”
+	    {experienciar: Essas imagens são metáforas do que ele [experienciava nas viagens de seu espírito individual. ,
+	      experimentar: Tendo em vista que você vive num país que praticamente desbravou o mundo, que [experimentou a aventura em alto grau, fale um pouco desse contraste.,
+	      passar: Durante seu mandato, I]passou momentos difíceis a frente da GRES São Clemente.,
+	      provar: Agora eles vão I]provar uma guerra dentro de seu próprio país. # M]Provar os sofrimentos da guerra.,
+	      ver: Podemos ver que, até quando descreveu a terra, tinha as imagens obsessivas que ele I]viu na guerra.,
+	      vivenciar: Depois de três meses trabalhando com refugiados não acreditava poder [vivenciar algo tão avassalador .,
+	      viver: Mas o compositor garante que ele e sua mulher [viveram momentos místicos no Caminho.,}
+
+Chave: VIVENCIAR <verb.perception>
+ILI: 02049107
+
+Sense 1
+{02049107} <verb.perception> experience1, undergo2, see12, go through -- (go or live through; "We had many trials to go through"; "he saw action in Viet Nam")
+       => {02376786} <verb.social> participate, take part -- (share in something)
+           => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

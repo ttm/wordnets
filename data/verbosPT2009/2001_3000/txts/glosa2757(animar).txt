@@ -1,0 +1,44 @@
+ANÁLISE DA GLOSA2757
+
+DADO O SYNSET:
+
+S='Glosa2757'
+	    {acorçoar: x,
+	      alentar: Isto exigia a construção de uma ordem econômica internacional capaz de [alentar o desenvolvimento, sem obstáculos, do comércio entre as nações, dentro de regras monetárias que garantissem a confiança na moeda-reserva, o ajustamento deflacionário do balanço de pagamentos e o abastecimento de liquidez requerido pelas transações em expansão.,
+	      animar: "Vamos [animar e articular as instituições que atuam com crianças para que possam conseguir resultados mais concretos", diz Jairo Fonseca, coordenador do Conselho de Cidadania da OAB.,
+	      aquecer: x,
+	      aviventar: A intervenção urgentíssima do Governo Federal impõe-se como dever elementaríssimo de I]aviventar e reunir tantos esforços parcelados.,
+	      degelar: x,
+	      encorajar: Deve haver políticas públicas para [encorajar o engajamento cívico em todas as classes.,
+	      realentar: A derrocada do socialismo burocrático, que durante várias décadas apareceu aos olhos dos trabalhadores como herdeiro da tradição marxista, I]realentou em partidos de esquerda de todo o mundo os valores do mercado, e a idéia de que o desenvolvimento social poderia ser alcançado sem confrontos entre as classes.,
+	      reanimar: x,
+	      reerguer: x,}
+
+	  A='Glosa1145'
+	    {congelar: Não deixe o frio I]congelar seu coração.,
+	     consternar: Sancha quis despedir-se do marido, e o desespero daquele lance [consternou a todos,
+	     desacorçoar: Fernando Collor de Mello conseguia [desacorçoar muitos repórteres não todos à custa de empáfia e agressividade,
+	     desalentar: Kafka via sua obra como um ato de fé e não buscava através dela I]desalentar os homens,
+	     desanimar: Em pé à beira do gramado, ele não deixou seu time [desanimar, mesmo diante das adversidades que surgiram durante o jogo,
+	     descoraçar: x,
+	     descoroçoar: A comadre [descoroçoou completamente com estas últimas declarações,
+	     desencorajar: Se os preços destes bons vinhos o [desencorajaram, lembre-se de que há bons vinhos alsacianos por preços muito mais moderados.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2757' = “Estimular, despertar o ânimo de”
+	    {alentar: João Paulo II I]alentou esta terça-feira os católicos de rito oriental a promover contatos com as Igrejas ortodoxas.,
+	      animar: Visita de Hu aos EUA frustrou políticos e I]animou empresários.,
+	      aviventar: Máxime na tertúlia dos problemas jurídicos que I]aviventaram nossas discussões.,
+	      encorajar: Rabi DovBer I]encorajou fortemente seus discípulos a se reunirem em farbrenguens informais para inspirar, admoestar e consultar um ao outro.,
+	      realentar: Livros como O Cabreiro Tresmalhado I]realentam meu sonho e minha esperança.,}
+
+	  A='Glosa1145'
+	    {congelar, consternar, desacorçoar, desalentar, desanimar, descoroçoar, desencorajar}
+
+Chave: ANIMAR <verb.communication>
+ILI: 00745832
+
+Sense 3
+{00745832} <verb.communication> encourage -- (spur on; "His financial success encouraged him to look for a wife")
+       => {00744964} <verb.communication> induce, stimulate1, cause, have, get, make -- (cause to do; cause to act in a specified manner; "The ads induced me to buy a VCR"; "My children finally got me to buy a computer"; "My wife made me buy a new sofa") 

@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA1052
+
+DADO O SYNSET:
+
+S='Glosa1052'
+{acoar: x,
+ coar: Depois de I]coar o café, deixe o papel escorrer e não retire a borra.,
+ filtrar: O órgão não está conseguindo [filtrar o sangue adequadamente e há acúmulo de água nos tecidos de seu organismo.,
+ passar: No fogão de lenha, ferve a água em um chamado para I]passar o café, o mesmo café que é símbolo da capital do norte.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1052' = “remover pela passagem por um filtro”
+{coar: Bateu o caldo de cascas no liquidificador, I]coou e reservou.,
+ filtrar: O sistema urinário tem como finalidade [filtrar as impurezas do sangue.,
+ passar: Hoje ele mesmo I]passou o café e comeu uns biscoitinhos de água e sal.,}
+Chave: FILTRAR <verb.contact>  
+ILI: 01417203 
+
+Sense 1
+{01417203} <verb.contact> filter, filtrate, strain, separate out, filter out -- (remove by passing through a filter; "filter out the impurities")
+       => {01417512} <verb.contact> separate2 -- (divide into components or constituents; "Separate the wheat from the chaff")
+           => {00135037} <verb.change> change integrity -- (change in physical make-up)
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

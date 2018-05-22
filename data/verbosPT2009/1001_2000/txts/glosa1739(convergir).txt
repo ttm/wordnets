@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA1739
+
+DADO O SYNSET:
+
+S='Glosa1739'
+    	{concentrar: Aparelho que A]concentra os raios luminosos.,
+      	 convergir: As pregas da sala M]convergiam na cintura.,
+      	 encentrar: x,}
+  
+A='Glosa1565'
+    	{debandar, destroçar, dispersar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1739' = “deslocar de modo a reunir em um certo local”
+    	{concentrar: O modelo imposto pelo planejamento urbano moderno da cidade foi um modelo excludente, que segregou as classes populares para os bairros da periferia e I]concentrou os funcionários do governo no centro.,
+      	 convergir: O programa TEMPO foi o catalisador desse prêmio, na medida em que I]convergiu voluntários e parcerias para ações colaborativas concretas em benefício da cidade.,}
+  
+A='Glosa1565'
+    	{debandar, destroçar, dispersar}
+Chave: CONVERGIR <verb.motion>
+ILI: 01974574
+
+Sense 3
+{01974574} <verb.motion> converge -- (move or draw together at a certain location; "The crowd converged on the movie star")
+       => {02355773} <verb.social> meet, gather, assemble, forgather, foregather -- (collect in one place; "We assembled in the church basement"; "Let's gather in the dining room")
+           => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+               => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0506
+
+DADO O SYNSET:
+
+S='Glosa506'
+{aprontar: Nós estávamos certos de que eles [aprontariam alguma coisa.,
+armar: Jair Pereira errou ao tentar [armar uma jogada em cima de Índio.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa506' = “ato ou efeito de realizar algo artificial ou falso, forjar algo”
+{aprontar: Nós estávamos certos de que eles [aprontariam alguma coisa.,
+armar: Jair Pereira errou ao tentar [armar uma jogada em cima de Índio.,}
+Chave: APRONTAR <verb.creation>
+ILI: 01588165
+
+Sense 5
+{01588165} <verb.creation> fabricate, manufacture1, cook up, make up1, invent1 -- (make up something artificial or untrue)
+       => {01587883} <verb.creation> think up, think of, dream up, hatch, concoct -- (devise or invent; "He thought up a plan to get rich quickly"; "no-one had ever thought of such a clever piece of software")
+           => {01585330} <verb.creation> create by mental act, create mentally -- (create mentally and abstractly rather than with one's hands)
+               => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

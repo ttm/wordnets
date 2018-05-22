@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA1638
+
+DADO O SYNSET:
+
+S='Glosa1638'
+{afumar: Os foguetes A]afumavam o ar.  ,
+ efumear: H]Efumeou o recinto.,
+ esfumar: Ao fazer um bife, H]esfumou a cozinha.,
+ fumear: Chão porém que A]fumeia um vaporzinho leve, / a si recolhe o humor, ou dá que ao ar se eleve.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1638' = “desenhar, traçar ou representar usando carvão”
+{esfumar: Pegou um coto de carvão e I]esfumou seu nome na parede branca, envelhecida.}
+Chave: ESFUMAR <verb.creation>
+ILI: 01644741
+
+Sense 1
+{01644741} <verb.creation> charcoal -- (draw, trace, or represent with charcoal)
+       => {01642108} <verb.creation> draw -- (represent by making a drawing of, as with a pencil, chalk, etc. on a surface; "She drew an elephant"; "Draw me a horse")
+           => {01637996} <verb.creation> represent1, interpret1 -- (create an image or likeness of; "The painter represented his wife as a young girl")
+               => {01573613} <verb.creation> re-create -- (create anew; "Re-create the boom of the West on a small scale")
+                   => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA
+
+DADO O SYNSET:
+
+S='Glosa2870'
+	    {estabelecer-se: A confusão que [se estabeleceu com o domínio do Delta do Nilo, as dificuldades de comunicação e o poder dos "nomarcas" contribuíram-para que os nobres se tornassem independentes do poder central.,
+	      fazer: Um fato é inquestionável: ao mesmo tempo em que o presidente da República e um dos fundadores do partido, senador Artur da Távola, eram vaiados a cada citação de Ronaldo, as duas vezes em que apareceu no discurso o nome de Leonel Brizola, [fez-se um silêncio respeitoso.,
+	      reinar: A tensão que passou a [reinar na Europa era grande, pouco faltando para uma guerra.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2870' = “ser maior em número, quantidade, poder, status ou importância”
+	    {estabelecer-se: A confusão que [se estabeleceu com o domínio do Delta do Nilo, as dificuldades de comunicação e o poder dos "nomarcas" contribuíram para que os nobres se tornassem independentes do poder central.,
+	      reinar: Depois muita tensão, I]reinou a tranqüilidade no bloqueio da MS-306.,}
+Chave: REINAR <verb.stative>
+ILI: 02565617
+
+Sense 1
+{02565617} <verb.stative> predominate, dominate, rule, reign, prevail2 -- (be larger in number, quantity, power, status or importance; "Money reigns supreme here"; "Hispanics predominate in this neighborhood")

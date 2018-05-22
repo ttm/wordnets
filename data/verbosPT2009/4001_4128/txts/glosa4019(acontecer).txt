@@ -1,0 +1,51 @@
+ANÁLISE DA GLOSA4019
+
+DADO O SYNSET:
+
+S='Glosa4019'
+{acontecer: Após a estréia, o espetáculo vai virar livro, como [aconteceu com outros shows .,
+advir: O serviço de atendimento médico da Festa do Peão Boiadeiro está pronto para acudir no caso de qualquer acidente que possa [advir a um peão boiadeiro .,
+chegar: Uma desgraça nunca M]chega só.,
+dar-se: I]Deu-se ali a recepção e hospedagem da comitiva encarregada de estudar o sítio para a localização da nova capital do Brasil.,
+decorrer: É a história de três pecadores e de tudo o que I]decorreu de seus erros na cidade de Boston.,
+efeituar-se: x,
+efetuar-se: Essa construção parece [efetuar-se segundo um esquema que reduz a diversidade dos objetos, ou das leis ou regras consideradas, a algumas propriedades fundamentais.,
+ir: O que I]vai pelo mundo da Ciência.,
+ocasionar-se: I]Ocasiona-se então, um aumento excessivo no consumo de combustível, embora o desempenho do motor fique aparentemente normal.,
+ocorrer: Atenas exemplificava o que [ocorreu às cidades do seu tipo e chegou a conhecer a democracia, ao final de quatro fases políticas.,
+operar-se: Essa unificação [operou-se, no essencial, em torno da teoria atômica, por ocasião da aproximação até a identificação da matéria e da irradiação .,
+passar-se: M]Passaram-se escândalos no hotel.,
+proceder-se: A intoxicação pode I]proceder-se de forma direta ou indireta.,
+produzir-se: Se a ocasião se H]produzir, não a perca.,
+realizar-se: Infelizmente o seu sonho não se I]realizou.,
+redundar: Grave crise M]redundou ao país.,
+sair: Nem tudo I]sai como o planejado.,
+ser: Teria ele quarenta anos quando M]foi do seu segundo casamento.,
+sobrechegar: x,
+sobrevir: Um furacão M]sobrevém ali às vezes.,
+suceder: Naquele ano, uma noite de agosto, como estivessem algumas pessoas na casa de Botafogo, [sucedeu que uma delas, não sei se homem ou mulher, perguntou aos dous irmãos que idade tinham .,
+suscitar-se: Lá chegando, I]suscitaram-se dúvidas quanto ao atendimento do pedido, remetendo-se os autos ao Grupo de Legislação de Pessoal da Secretaria de Governo.,
+vir: Tudo augurava ao novo matrimônio um brilhante futuro, mas a tragédia I]veio logo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4019' = “vir a passar”
+{acontecer: Após a estréia, o espetáculo vai virar livro, como [aconteceu com outros shows .,
+advir: O serviço de atendimento médico da Festa do Peão Boiadeiro está pronto para acudir no caso de qualquer acidente que possa [advir a um peão boiadeiro .,
+dar-se: I]Deu-se ali a recepção e hospedagem da comitiva encarregada de estudar o sítio para a localização da nova capital do Brasil.,
+efetuar-se: O transporte [efetua-se sem que a membrana exerça qualquer influência, a não ser no seu aspecto seletivo.,
+ir: Não sei explicar I]o que ia dentro de mim quando sai da porcaria do gabinete do pediatra!,
+ocasionar-se: I]Ocasiona-se então, um aumento excessivo no consumo de combustível, embora o desempenho do motor fique aparentemente normal.,
+ocorrer: Atenas exemplificava o que [ocorreu às cidades do seu tipo e chegou a conhecer a democracia, ao final de quatro fases políticas.,
+operar-se: Uma transformação, lenta e profunda, I]operava-se nele, dia a dia, hora a hora, reviscerando-lhe o corpo e alando-lhe os sentidos.,
+passar-se: M]Passaram-se escândalos no hotel.,
+proceder-se: A intoxicação pode I]proceder-se de forma direta ou indireta.,
+produzir-se: Se a ocasião se H]produzir, não a perca.,
+sair: Futebol é um dos grandes assuntos da esquina, mas nunca I]saiu briga séria por este lado.,
+ser: Teria ele quarenta anos quando M]foi do seu segundo casamento.,
+suceder: Naquele ano, uma noite de agosto, como estivessem algumas pessoas na casa de Botafogo, [sucedeu que uma delas, não sei se homem ou mulher, perguntou aos dous irmãos que idade tinham .,}
+Chave: ACONTECER <verb.change>
+ILI: 00329254
+
+Sense 1
+{00329254} <verb.change> happen, hap, go on, pass off, occur, pass, fall out, come about, take place -- (come to pass; "What is happening?"; "The meeting took place off without an incidence"; "Nothing occurred that seemed important")

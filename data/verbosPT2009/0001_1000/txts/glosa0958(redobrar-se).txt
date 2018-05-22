@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA0958
+
+DADO O SYNSET:
+
+S='Glosa958'
+{congeminar-se: A desesperança que a música transmite na mesma intensidade do texto poético motivador, I]congeminando-se numa atmosfera de tristeza dominante e uma expressiva dissonância.,
+dobrar-se: Em quatro anos, I]dobrou-se o número de escolas de teologia da Igreja.,
+multiplicar-se: O efeito avestruz é tenaz e [multiplicam-se as enquetes e denúncias tentando provar o quanto a encenação de violências nas tevês e nos cinemas provoca violências na vida real . # Enquanto esse dia não chega, [multiplicam-se as histórias em torno da fortaleza. ,
+redobrar-se: Para compensar a pobreza de recursos, [redobravam-se os esforços na prática de um exaustivo didatismo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa958' = “dobrar (-se), aumentar (-se) em magnitude, extensão, ou intensidade”
+{congeminar-se: A desesperança que a música transmite na mesma intensidade do texto poético motivador, I]congeminando-se numa atmosfera de tristeza dominante e uma expressiva dissonância.,
+dobrar-se: Em quatro anos, I]dobrou-se o número de escolas de teologia da Igreja.,
+multiplicar-se: Enquanto esse dia não chega, [multiplicam-se as histórias em torno da fortaleza.,
+redobrar-se: Para compensar a pobreza de recursos, [redobravam-se os esforços na prática de um exaustivo didatismo.}
+Chave: REDOBRAR-SE <verb.change>
+ILI: 00281537
+
+Sense 1
+{00281537} <verb.change> redouble -- (double in magnitude, extent, or intensity; "The enemy redoubled their screaming on the radio")
+       => {00281258} <verb.change> escalate, intensify2, step up -- (increase in extent or intensity; "The Allies escalated the bombing")
+           => {00147655} <verb.change> increase2 -- (make bigger or more; "The boss finally increased her salary"; "The university increased the number of students it admitted")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

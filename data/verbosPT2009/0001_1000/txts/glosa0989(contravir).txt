@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA0989
+
+DADO O SYNSET:
+
+S='Glosa989'
+{acudir: Podem [acudir ante a Defesa, desde que pessoalmente, os estudantes e os membros do pessoal acadêmico da UNAM.,
+contravir: O interrogatório há de ser secreto: não há testemunhas que divulguem este ato impreterível de justiça, I]contraveio a autoridade.,
+redargüir: No fim de alguns minutos, não tendo esquecido as minhas últimas palavras, [redargüiu com ironia e tristeza. # Há de perdoar, mas é que esta outra gravura custou-me mais caro, [redargüiu o velho lojista.,
+responder: Instado por Sóerates a definir a virtude, Menon [responde, sem hesitar, que a virtude consiste em ser capaz de comandar os homens.,
+retorquir: Eles [retorquiram que as mulheres sabem dar fruto, o que não sabem os homens, e por isso na mão delas as sementes nasciam e se multiplicavam.,
+retorqüir: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa989' = “ir contra algo; assim como regras ou leis”
+{acudir: Podem [acudir ante a Defesa, desde que pessoalmente, os estudantes e os membros do pessoal acadêmico da UNAM.,
+contravir: O interrogatório há de ser secreto: não há testemunhas que divulguem este ato impreterível de justiça, I]contraveio a autoridade.,
+redargüir: No fim de alguns minutos, não tendo esquecido as minhas últimas palavras, [redargüiu com ironia e tristeza. # Há de perdoar, mas é que esta outra gravura custou-me mais caro, [redargüiu o velho lojista.,
+responder: Instado por Sóerates a definir a virtude, Menon [responde, sem hesitar, que a virtude consiste em ser capaz de comandar os homens.,
+retorquir: Eles [retorquiram que as mulheres sabem dar fruto, o que não sabem os homens, e por isso na mão delas as sementes nasciam e se multiplicavam.}
+Chave: CONTRAVIR <verb.social>
+ILI: 02491108
+
+Sense 1
+{02491108} <verb.social> conflict11, run afoul11, infringe, contravene -- (go against, as of rules and laws; "He ran afould of the law"; "This behavior conflicts with our rules")
+       => {02490637} <verb.social> transgress, offend, infract, violate, go against, breach, break -- (act in disregard of laws and rules; "offend all laws of humanity"; "violate the basic laws or human civilization"; "break a law")
+           => {02383832} <verb.social> disrespect -- (show a lack of respect for)
+               => {02384110} <verb.social> relate -- (have or establish a relationship to; "She relates well to her peers")
+                   => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                       => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

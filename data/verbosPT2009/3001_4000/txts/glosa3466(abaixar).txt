@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA3466
+
+DADO O SYNSET:
+
+S='Glosa3466'
+	    {
+	      abaixar: A Lei do Genérico pode ]abaixar o preço dos medicamentos,
+	      diminuir: Estão a patrulhar as principais estradas do país numa tentativa de [diminuir o número de acidentes que se registam habitualmente nas épocas festivas/...preocupação dos responsáveis da empresa em [diminuir substancialmente o número de empregados,
+	      minuir: x,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3466' = “reduzir, fazer uma redução”
+	     {abaixar: A Varig I]abaixou o preço da ponte aérea Rio-São Paulo ao finais de semana e, durante a semana, entre 10 e 16h,
+	      diminuir: Em 1992, o Executivo [diminuiu para três o número de tabelas de salários,}
+Chave: BAIXAR <verb.change>
+ILI: 00416885
+
+Sense 1
+{00416885} <verb.change> reduce, cut down, cut back1, trim, trim down, trim back, cut6, bring down -- (cut down on; make a reduction in; "reduce your daily fat intake"; "The employer wants to cut back health benefits")
+       => {00428838} <verb.change> decrease1, lessen2, minify -- (make smaller; "He decreased his staff")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

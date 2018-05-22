@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA3252a
+
+DADO O SYNSET:
+
+S='Glosa3252'
+	    {
+	      afogar-se: x,
+	      asfixiar-se: Fixo a si, Sísifo I]asfixia-se.,
+	      enforcar-se: Peritos dizem que Jorge Luís, de Acari, [enforcou-se com a camisa na Divisão de Recursos Especiais, após ser trazido da Bahia.,
+	      esganar-se: Não tem muito estilo, nem drama, I]esganar-se alguém, parece briga de rua.,
+	      esgoelar-se: DEVIANT,
+	      estrangular-se: Crianças podem I]estrangular-se com as cordas da cortina ou cair de janelas que estejam acessíveis da cama ou berço.,
+	      laçar-se: x,
+	      sufocar-se: Nunca deixe seu cão acorrentado, ele pode ferir-se ou I]sufocar-se ao tentar escapar.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3252a' = “privar de oxigênio e impedir a respiração”
+	     {asfixiar-se: Escreveu cartas justificando o seu gesto, fechou todo o apartamento e I]asfixiou-se com gás de cozinha.,
+	      sufocar-se: A criança I]sufocou-se com um saco plástico.,}
+Chave: SUFOCAR-SE <verb.contact>
+ILI: 01525726
+
+Sense 1
+{01525726} <verb.contact> smother, asphyxiate, suffocate -- (deprive of oxygen and prevent from breathing; "Othello smothered Desdemona with a pillow"; "The child suffocated herself with a plastic bag that the parents had left on the floor")
+       => {01284688} <verb.contact> kill -- (cause to die; put to death, usually intentionally or knowingly; "This man killed several people when he tried to rob a bank"; "The farmer killed a pig for the holidays")

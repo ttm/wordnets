@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0827
+
+DADO O SYNSET:
+
+S='Glosa827'
+{adquirir: A distribuidora Look tentou [adquirir o filme Transpotting, de Danny Boyle, um dos mais aclamados no festival, por US$ 250 mil.,
+comprar: Certa vez, fui [comprar um quadrinho de Picasso por US$ 40 mil.,
+ficar: Prado pretende [ficar com o Peugeot e vender seu carro atual, um Fusca 85.,}
+A='Glosa2214'
+{colocar, negociar, vender}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa827' = “tomar posse, obter algo concreto ou abstrato”
+{adquirir: A distribuidora Look tentou [adquirir o filme Transpotting, de Danny Boyle, um dos mais aclamados no festival, por US$ 250 mil.,
+comprar: Certa vez, fui [comprar um quadrinho de Picasso por US$ 40 mil.,
+ficar: Prado pretende [ficar com o Peugeot e vender seu carro atual, um Fusca 85.,}
+A='Glosa2214'
+{colocar, negociar, vender}
+Chave: ADQUIRIR <verb.possession>
+ILI: 02147191
+
+Sense 1
+{02147191} <verb.possession> get, acquire -- (come into the possession of something concrete or abstract; "She got a lot of paintings from her uncle"; "They acquired a new pet"; "Get your results the next day"; "Get permission to take a few days off from work")

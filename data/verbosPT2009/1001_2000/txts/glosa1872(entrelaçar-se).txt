@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA1872
+
+DADO O SYNSET:
+
+S='Glosa1872'
+{entrelaçar-se: As mãos de ambos como que se procuravam no escuro: encontraram-se, I]entrelaçaram-se. ,
+ interlaçar-se: x,
+ rabraçar-se: x,
+ sobraçar-se: H]Sobraçavam-se, enquanto caminhavam.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1872' = “ficar enlaçado [dedos, mãos...] com outro”
+{entrelaçar-se: Mãos se [entrelaçam em orações.,}
+Chave: ENTRELAÇAR-SE <verb.contact>
+ILI: 01562099
+
+Sense 3
+{01562099} <verb.contact> interlock, lock3 -- (become engaged or intermeshed with one another; "They were locked in embrace")
+       => {01383729} <verb.contact> embrace, hug1, bosom, squeeze4 -- (hug, usually with fondness; "Hug me, please"; "They embraced")
+           => {01179612} <verb.contact> clasp -- (hold firmly and tightly)
+               => {01179249} <verb.contact> grasp, hold on -- (hold firmly)
+                   => {01179760} <verb.contact> hold, take hold -- (have or hold in one's hands or grip; "Hold this bowl for a moment, please"; "A crazy idea took hold of him")

@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA1577
+
+DADO O SYNSET:
+
+S='Glosa1577'
+{alterar-se: O vinho H]alterou-se com o tempo.,
+ corromper-se: Os alimentos expostos H]corrompem-se facilmente.,
+ decompor-se: A matéria orgânica ( fruta, pão, alface, mesmo animais e plantas mortas) enterrada começa a I]decompor-se.,
+ degenerar-se: Em tal ambiente, M]degeneravam-se os melhores elementos.,
+ deperecer-se: DEVIANT,
+ derrancar-se: O feijão H]derrancou-se fora da geladeira.,
+ desperecer-se: DEVIANT,
+ deteriorar-se: Em temperaturas normais de viveiros de 25 a 30oC, o camarão começa a I]deteriorar-se minutos após a morte. ,
+ deturpar-se: DEVIANT,
+ estragar-se: Um alimento mal armazenado pode I]estragar-se facilmente, por isso guarde os alimentos em geladeira, e as frutas, verduras e legumes em sacos plásticos. # A comida [estragou-se no primeiro dia .,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1577' = “tornar-se inadequado para consumo ou uso”
+{alterar-se: Os processos de subdivisão dos alimentos facilitam o crescimento microrgânico; quanto maior é o grau de subdivisão, mais facilmente o alimento se I]altera.,
+ decompor-se: A matéria orgânica ( fruta, pão, alface, mesmo animais e plantas mortas) enterrada começa a I]decompor-se.,
+ degenerar-se: O ouro não se deteriora e não se I]degenera; os tesouros de ouro da América do Sul, do Egito, da Pérsia, da Índia e da Gália antiga, que têm milhares de anos, ainda são tão encantadores quanto no tempo em que foram criados pelos grandes artistas.,
+ deteriorar-se: Em temperaturas normais de viveiros de 25 a 30oC, o camarão começa a I]deteriorar-se minutos após a morte.,
+ estragar-se: Um alimento mal armazenado pode I]estragar-se facilmente, por isso guarde os alimentos em geladeira, e as frutas, verduras e legumes em sacos plásticos.,}
+Chave: ESTRAGAR-SE <verb.change>
+ILI: 00202877
+
+Sense 2
+{00202877} <verb.change> spoil, go bad -- (become unfit for consumption or use; "the meat must be eaten before it spoils")
+       => {00537495} <verb.change> decay2 -- (undergo decay or decomposition; "The body started to decay and needed to be cremated")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

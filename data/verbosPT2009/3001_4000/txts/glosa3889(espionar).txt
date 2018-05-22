@@ -1,0 +1,42 @@
+ANÁLISE DA GLOSA
+
+DADO O SYNSET:
+
+S='Glosa3889'
+    	{acampanar: O detetive H]acampanava o malfeitor.,
+      	 atocaiar: A estratégia dos quilombolas, era de I]atocaiar as milícias em uma clareira feita para o treinamento das lutas, um mato cortado que chamavam de capoeira.,
+      	 cocar: Gosta de A]cocar o que se passa na casa do vizinho.,
+      	 espevitar: As comadres M]espevitam a vizinhança.,
+      	 espiar: Mas o Saci, xereta como ele só, foi pulandinho atrás dele, pra [espiar o que o Caipora ia fazer.,
+      	 espionar: Depois da fácil vitória sobre as suíças, o técnico Bernardinho voltou ao ginásio para [espionar as outras seleções que participam do torneio .,
+      	 espreitar: Guiado pelo mestre, o imbecil nunca tinha deixado de [espreitar, sempre desconfiado e atento, sondando tudo aquilo que lhe parecia suspeito, acordando, muita vez, por alta noite, para ir, tenteando as trevas, espiar e escutar, na esperança de descobrir alguma coisa .,
+      	 esquadrinhar: Pôs-se a [esquadrinhar o que lá havia, não com a curiosidade amorosa da primitiva bisbilhoteira, porém frio, calculado, com a prudência de quem sabe que está cometendo uma baixeza .,
+      	 excogitar: x,
+      	 observar: Sentada num banco de cimento diante do túmulo, Ivanilde apenas [observava os fãs, na maioria crianças, rezando, chorando e até cantando parabéns a Dinho .,
+      	 pombear: A polícia H]pombeava os fugitivos.,
+      	 pombeirar: x,
+      	 tocaiar: Algumas brincadeiras, como a de I]tocaiar e capturar, que eles adoram fazer, permitem-lhes exercitar as habilidades de caçador.,
+      	 vigiar: De espaço em espaço erguem-se do chão os que primeiro vieram para [vigiar o inimigo .,
+      	 vigilar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3889' = “vigiar, observar ou investigar secretamente”
+    	{acampanar: A polícia, para a descoberta e prisão de Meneghetti, I]acampanou incessantemente as seguintes casas.,
+      	 atocaiar: Outro poema se aquece enquanto o medo I]atocaia a verdade na ponta da língua..,
+      	 espiar: Ninguém me perguntou quem eu era, nem me [espiou os passos.,
+      	 espionar: Dizem que Volga também os [espionou disfarçado de pássaro.,
+      	 espreitar: Estarreci-me com a quantidade de carolas que me [espreitavam por detrás dos bancos de areia.,
+      	 esquadrinhar: Com um olhar atento, Fred I]esquadrinhou o ambiente ao seu redor.,
+      	 observar: O tigre, que [observava os cavaleiros, imóvel, com o pêlo eriçado, não ousara investir nem retirar-se, temendo expor-se aos tiros dos arcabuzes.,
+      	 pombear: Meu caro, vamos I]pombear os passos de Clódia.,
+      	 tocaiar: Ele I]tocaiava um carro e, em seguida, se atirava na frente... coisas de bêbado.,
+      	 vigiar: Pressenti que alguém tinha vindo por detrás de mim, me [vigiava.}
+Chave: ESPIONAR <verb.communication>
+ILI: 00759953
+
+Sense 2
+{00759953} <verb.communication> spy1, stag1, snoop, sleuth -- (watch, observe, or inquire secretly)
+       => {02101646} <verb.perception> monitor, supervise, ride herd on -- (keep tabs on; keep an eye on; keep under surveillance)
+           => {02107130} <verb.perception> observe -- (watch attentively; "Please observe the reaction of these two chemicals")
+               => {02088598} <verb.perception> watch -- (look attentively; "watch a basketball game")

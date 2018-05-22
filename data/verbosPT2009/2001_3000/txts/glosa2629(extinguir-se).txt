@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA2629
+
+DADO O SYNSET:
+
+  S='Glosa2629'
+	    {desaparecer: Os anéis de Saturno não I]desaparecem completamente por que a borda dos anéis reflete a luz solar.# Repentinamente cessam a chuva e os ventos, e as nuvens I]desaparecem.,
+	      desfazer-se: As frentes frias geralmente [se desfazem sobre o mar.,
+	      desparecer: E o índio [despareceu de novo nas sombras da noite que avançava rapidamente.,
+	      diluir-se: Dos raios mesmos de lua que vinham I]diluir-se aos pés de sua casa começou a surgir uma tenue e delicada visão.,
+	      dissolver-se: Segundo o meteorologista da Funceme, José Brabo,"as chuvas de janeiro são provocadas por uma massa de ar que deverá [se dissolver nos próximos três dias.",
+	      esfazer-se: x,
+	      extinguir-se: Imediatamente a flama da lâmpada [se extinguiu, como ao sopro de um gênio invisível; reinou outra vez no gabinete profunda escuridão, e logo ao começarem as trevas, pareceu que um suspiro quase imperceptível movera o ar, mas tão de leve, tão sutilmente, como vôo de uma borboleta.,
+	      rarefazer-se: Os astros nascem da terra, porque a umidade que dela se levanta, ao I]se rarefazer, se torna fogo, e deste fogo, no alto, se formam os astros.,
+	      resolver: O edema H]resolveu.,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2629' = “Ficar mais fraco.”
+	    {desaparecer: Repentinamente cessam a chuva e os ventos, e as nuvens I]desaparecem.,
+	      desfazer-se: As frentes frias geralmente [se desfazem sobre o mar.,
+	      desparecer: Era um fantasma que I]despareceu do nada.,
+	      diluir-se: Dos raios mesmos de lua que vinham I]diluir-se aos pés de sua casa começou a surgir uma tênue e delicada visão.,
+	      dissolver-se: As chuvas de janeiro são provocadas por uma massa de ar que deverá [se dissolver nos próximos três dias".,
+	      extinguir-se: Imediatamente a flama da lâmpada [se extinguiu, como ao sopro de um gênio invisível.,
+	      rarefazer-se: Os astros nascem da terra, porque a umidade que dela se levanta, ao I]se rarefazer, se torna fogo, e deste fogo, no alto, se formam os astros.,
+	      resolver: O edema H]resolveu.,}
+
+Chave: EXTINGUIR-SE <verb.change>
+ILI: 00435007
+
+Sense 3
+{00435007} <verb.change> dissolve3, fade out, fade away -- (become weaker; "The sound faded out")
+       => {00140715} <verb.change> change state, turn4 -- (undergo a transformation or a change of position or action; "We turned from Socialism to Capitalism"; "The people turned against the President when he stole the election")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night") 

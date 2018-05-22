@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA1478
+
+DADO O SYNSET:
+
+S='Glosa1478'
+{desguarnecer: H]Desguarnecer um aposento,
+ desmobilhar: x,
+	 desmobiliar: Os membros do Conselho tentaram I]desmobiliar a mansão de Kerenski recrutando os soldados das Forças da Liga Estelas.,}
+	  
+A='Glosa266'
+{arrear1, mobilhar, mobiliar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1478' = “remover a mobília”
+{desmobiliar: Os membros do Conselho tentaram I]desmobiliar a mansão de Kerenski recrutando os soldados das Forças da Liga Estelas.,}
+	  
+A='Glosa266'
+{arrear1, mobilhar, mobiliar}
+Chave: DESMOBILIAR <verb.change>
+ILI:EQ_HAS_HYPERONYM - 00166870
+
+Sense 1
+{00166870} <verb.change> remove, take, take away1, withdraw1 -- (remove something concrete, as by lifting, pushing, taking off, etc. or remove something abstract; "remove a threat"; "remove a wrapper"; "Remove the dirty dishes from the table"; "take the gun from your pocket"; "This machine withdraws heat from the environment")

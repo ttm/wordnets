@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA1040
+
+DADO O SYNSET:
+
+S='Glosa1040'
+{corar: Ferva o caldo de assado da carne com 1 xícara de creme de leite, deixe-a fritar, virando-a de vez em quando e regando-a com o molho, deixe I]corar bem, retire e sirva. # Retire a cebola e coloque a carne, virando sempre até I]corar de todos os lados.,
+ doirar: Esmague o dente de alho e faça-o I]doirar numa colher de óleo numa caçarolinha juntamente com a cebola.,
+ dourar: Nada de [dourar os frangos: eram servidos na água e sal, esbranquiçados, patibulares, cadavérico.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1040' = “fritar até mudar a cor”
+{corar: O reclamante, como auxiliar de padeiro, I]corava a massa dos pães, batia a massa na batedeira, alimentava o forno industrial, e executava outras tarefas.,
+ doirar: Também é possível utilizá-la na parte final da cozedura de pratos que necessitarem I]doirar a superfície.,
+ dourar: Na mesma frigideira em que I]dourou o coelho, coloque os pedaços de toucinho.,}
+Chave: DOURAR <verb.change>
+ILI: 00310145 
+
+Sense 1
+{00310145} <verb.change> brown -- (fry in a pan until it changes color; "brown the meat in the pan")
+       => {00312547} <verb.change> cook -- (transform and make suitable for consumption by heating; "These potatoes have to cook for 20 minutes")
+           => {00135037} <verb.change> change integrity -- (change in physical make-up)
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA0853
+
+DADO O SYNSET:
+
+S='Glosa853'
+{aderir: É feito com produtos cosméticos que contém ingredientes esfoliantes em sua composição, ideais para remover as substâncias que I]aderem à pele.,
+carrapatar-se: x,
+colar-se: Isso porque esses ovinhos são bem duros e se I]colam aos fios de cabelo.,
+grudar-se: Inicialmente, elas serão atraídas por um bastão eletrizado de borracha e [se grudarão nele.,
+pegar: Começou a ferver, controle a altura da chama e dê sempre uma mexidinha com uma colher de pau para ver se o feijão não I]pegou no fundo.  ,
+prender-se: O tecido muscular estriado esquelético forma os músculos que se [prendem aos ossos e dão os movimentos ao corpo.,
+unir-se: Nelas, as paredes de árvores e o solo de tábuas de madeira se I]unem umas às outras. ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa853' = “ligar alguma coisa em algo ou algo em alguém”
+{aderir: É feito com produtos cosméticos que contém ingredientes esfoliantes em sua composição, ideais para remover as substâncias que I]aderem à pele.,
+colar-se: Isso porque esses ovinhos são bem duros e se I]colam aos fios de cabelo.,
+grudar-se: Inicialmente, elas serão atraídas por um bastão eletrizado de borracha e [se grudarão nele.,
+pegar: Começou a ferver, controle a altura da chama e dê sempre uma mexidinha com uma colher de pau para ver se o feijão não I]pegou no fundo.  ,
+prender-se: O tecido muscular estriado esquelético forma os músculos que se [prendem aos ossos e dão os movimentos ao corpo.,
+unir-se: Nelas, as paredes de árvores e o solo de tábuas de madeira se I]unem umas às outras.,}
+Chave: GRUDAR-SE <verb.contact>
+ILI: 01251986
+
+Sense 2
+{01251986} <verb.contact> attach2 -- (be attached; be in contact with)
+       => {01169130} <verb.contact> touch1, adjoin3, meet, contact3 -- (be in direct physical contact with; make contact; "The two buildings touch"; "Their hands touched"; "The wire must not contact the metal cover"; "The surfaces contact at this point")
+          Also See-> {02624183} <verb.stative> attach to#2

@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA2234
+
+DADO O SYNSET:
+
+S='Glosa2234'
+	    {cruzar: As naus H]cruzaram os mares desconhecidos.,
+	      percorrer: I]Percorreu tortuosos caminhos e veredas.,
+	      seguir: Em um momento da vida I]seguiram caminhos diferentes.,
+	      varar: H]Varou a planície a cavalo., }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2234' = “atravessar passar ao longo de algum lugar”
+	    {cruzar: As naus H]cruzaram os mares desconhecidos.,
+	      percorrer: I]Percorreu tortuosos caminhos e veredas.,
+	      seguir: Em um momento da vida I]seguiram caminhos diferentes.,
+	      varar: H]Varou a planície a cavalo.,}
+Chave: PERCORRER <verb.motion>
+ILI: 01991747
+
+Sense 3
+{01991747} <verb.motion> pass, go through, go across -- (go across or through; "We passed the point where the police car had parked"; "A terrible thought went through his mind")
+       => {01782203} <verb.motion> travel, go, move3, locomote -- (change location; move, travel, or proceed; "How fast does your new car go?"; "We travelled from Rome to Naples by bus"; "The policemen went from door to door looking for the suspect"; "The soldiers moved towards the city in an attempt to take it before night fell")

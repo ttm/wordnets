@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA1923
+
+DADO O SYNSET:
+
+S='Glosa1923'
+{designar: O Defensor Federal poderá [designar delegados para representá-lo na solução de problemas circunscritos a não mais que os limites do Estado.,
+ escalar: Mas existem sinais, que vão além de José Genoíno - um dialogador sempre alerta -, de que talvez já esteja passando da hora de [escalar alguém para a tarefa.,
+ escolher: A Igreja assegurava seu direito de [escolher os ocupantes dos cargos eclesiásticos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1923' = “dar uma designação para [uma pessoa] ocupar um posto;  ou designar uma tarefa [a uma pessoa]” 
+{designar: O Defensor Federal poderá [designar delegados para representá-lo na solução de problemas circunscritos a não mais que os limites do Estado.,
+ escalar: Mas existem sinais, que vão além de José Genoíno - um dialogador sempre alerta -, de que talvez já esteja passando da hora de [escalar alguém para a tarefa.,
+ escolher: A Igreja assegurava seu direito de [escolher os ocupantes dos cargos eclesiásticos.,}
+Chave: ESCALAR <verb.social>
+ILI: 02320208
+
+Sense 1
+{02320208} <verb.social> delegate, designate, depute3, assign -- (give an assignment to (a person) to a post, or assign a task to (a person))
+       => {02401814} <verb.social> appoint, charge -- (assign a duty, responsibility or obligation to; "He was appointed deputy manager"; "She was charged with supervising the creation of a concordance")

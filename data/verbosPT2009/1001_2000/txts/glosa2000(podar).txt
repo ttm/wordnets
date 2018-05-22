@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA2000
+
+DADO O SYNSET:
+
+S='Glosa2000'
+{chapodar: x,
+ chapotar: x,
+ derramar2: A]Derramar os arbustos.,
+ desenramar: x,
+ desgalhar: Colheita: após 12 meses de plantio, I]desgalhar uma vez por ano, para destilação das folhas, deixando o terço superior da copa. ,
+ desmochar: H]Desmochar um arbusto.,
+ desramar: Naturalmente era impossível que, na qualidade de jardineiro, indo e vindo pelo gramado, sob as janelas da casa, ceifando, varrendo, I]desramando, e podando, e mais isto e aquilo, não se inteirasse dos assuntos da família. ,
+ esfrançar: x,
+ esnocar: x,
+ mutilar: O mau jardineiro M]mutilou as árvores.,
+ podar: Também não se deve [podar ou remover as azaléias, que entram em floração nas próximas semanas.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2000' = “cortar ramos/folhas [de]”
+{derramar2: O jardineiro B]derramava as roseiras com uma tesoura.,
+ desgalhar: Meterorito de Putinga I]desgalhou os pinheiros e as árvores de erva-mate.,
+ desramar: Com um serrote manual, um operador, do chão, pode I]desramar troncos até alturas de 2 a 2,5 m.,
+ podar: Também não se deve [podar ou remover as azaléias, que entram em floração nas próximas semanas.,}
+Chave: PODAR <verb.contact>
+ILI: EQ_HAS_NEAR_SYNONYM – 01281815
+
+Sense 1
+{01281815} <verb.contact> snip, clip4, crop, trim2, lop, dress3, prune, cut back -- (cultivate, tend, and cut back the growth of; "dress the plants in the garden")
+       => {00418002} <verb.change> thin out -- (make sparse; "thin out the young plants")
+           => {00416885} <verb.change> reduce, cut down, cut back1, trim, trim down, trim back, cut6, bring down -- (cut down on; make a reduction in; "reduce your daily fat intake"; "The employer wants to cut back health benefits")
+               => {00428838} <verb.change> decrease1, lessen2, minify -- (make smaller; "He decreased his staff")
+                   => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

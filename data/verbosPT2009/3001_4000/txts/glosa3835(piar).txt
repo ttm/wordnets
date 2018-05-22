@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA3835
+
+DADO O SYNSET:
+
+S='Glosa3835'
+{piar: A cauã [piou, além, na extrema do vale. ,
+	 pipiar: Os pardais, aconchegados na acácia que a Primavera enchera já de folhas tenras, começavam a mexer-se e a I]pipiar docemente.,
+	 pipilar: Pássaros saltavam de um lado para outro, [pipilando um madrigal.,
+	 pipitar: As aves que A]pipitam docemente.,
+	 taralhar: x }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3835' = “produzir sons altamente entoados; os pássaros”
+{piar: A cauã [piou, além, na extrema do vale.,
+	 pipiar: Os pardais, aconchegados na acácia que a Primavera enchera já de folhas tenras, começavam a mexer-se e a I]pipiar docemente.,
+	 pipilar: Pássaros saltavam de um lado para outro, [pipilando um madrigal.,
+	 pipitar: As aves que A]pipitam docemente. }
+Chave: PIAR <verb.communication>
+ILI: 01018712
+
+Sense 3
+{01018712} <verb.communication> peep, twirp, cheep, chirp, chirrup -- (make high-pitched sounds; of birds)
+       => {00951670} <verb.communication> utter2, emit, let out2, let loose -- (express audibly; utter sounds (not necessarily words); "She let out a big heavy sigh"; "He uttered strange sounds that nobody could understand")

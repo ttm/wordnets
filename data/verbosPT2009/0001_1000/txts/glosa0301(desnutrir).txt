@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0301
+
+DADO O SYNSET:
+
+S='Glosa301'
+{desnutrir: Existe estudo para cuidar do solo, assim, devemos tomar cuidado para não plantar algo que vá I]desnutrir a terra.,}
+A='Glosa2428'
+{alentar, alimentar, criar, nutrir, substanciar, sustentar, suster, tratar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa301' = “prove com qualidade ou quantidade de alimento insuficiente, ou não nutrir(-se)”
+{desnutrir: Existe estudo para cuidar do solo, assim, devemos tomar cuidado para não plantar algo que vá I]desnutrir a terra.,}
+A='Glosa2428'
+{alentar, alimentar, criar, nutrir, substanciar, sustentar, suster, tratar}
+Chave: DESNUTRIR <verb.consumption>
+ILI: 01143157
+
+Sense 1
+{01143157} <verb.consumption> undernourish, malnourish -- (provide with insufficient quality or quantity of nourishment; "The stunted growth of these children shows that they are undernourished")
+       => {01142446} <verb.consumption> feed1, give -- (give food to; "Feed the starving children in India"; "don't give the child this tough meat")
+           => {01146590} <verb.consumption> provide, supply, ply, cater -- (provide what is desired or needed, especially support, food or sustenance; "The hostess provided lunch for all the guests")
+               => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+                   => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children")

@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0502
+
+DADO O SYNSET:
+
+S='Glosa502'
+{alinhavar: Para [alinhavar a proposta, a produção chamou Fernando Morais por ser ele uma importante testemunha dos fatos.,
+aprontar: Rezende Moura está decidido a concluir em 20 dias a revisão do projeto de Orçamento e a [aprontar até esta sexta-feira a Lei de Diretrizes Orçamentárias. ,
+preparar: Em São Paulo, abriu uma empresa de consultoria e começou a [preparar sua candidatura a deputado pelo PSDB.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa502' = “tornar pronto ou apropriado para a realização de alguma atividade ou propósito particular”
+{alinhavar: Para [alinhavar a proposta, a produção chamou Fernando Morais por ser ele uma importante testemunha dos fatos.,
+aprontar: Rezende Moura está decidido a concluir em 20 dias a revisão do projeto de Orçamento e a [aprontar até esta sexta-feira a Lei de Diretrizes Orçamentárias. ,
+preparar: Em São Paulo, abriu uma empresa de consultoria e começou a [preparar sua candidatura a deputado pelo PSDB.,}
+Chave: PREPARAR <verb.change>
+ILI: 00394129
+
+Sense 1
+{00394129} <verb.change> fix3, prepare, set up2, ready, gear up, set9 -- (make ready or suitable or equip in advance for a particular purpose or for some use, event, etc; "Get the children ready for school!"; "prepare for war"; "I was fixing to leave town after I paid the hotel bill")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

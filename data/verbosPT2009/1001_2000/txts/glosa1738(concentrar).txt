@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA1738
+
+DADO O SYNSET:
+
+S='Glosa1738'
+{acumular: Somente com o resfriamento progressivo da Terra é que foi possível [acumular água líqüida sobre a superfície, originando, assim, os mares primitivos. # O Corcel II, por exemplo, ficou mais de três meses estacionado na garagem interna do prédio, chegando a I]acumular poeira sobre a lataria.,
+ armazenar: Podemos condensar, isto é, [armazenar grandes quantidades de energia elétrica em aparelhos chamados condensadores .,
+ concentrar: Algas microscópicas H]concentram-se na superfície do mar.,
+ cumular: x,
+ encentrar: x,}
+	  
+A='Glosa1229'
+{desconcentrar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1738' = “concentrar tudo junto”
+{acumular: O presidente Itamar Franco [acumulou um amplo repertório de cenas amorosas., 
+ armazenar: Podemos condensar, isto é, [armazenar grandes quantidades de energia elétrica em aparelhos chamados condensadores.,
+ concentrar: Goya [concentrou deliberadamente todas as imagens monstruosas dos «Caprichos Enfáticos» no epílogo de sua obra.,}
+	  
+A='Glosa1229'
+{desconcentrar}
+Chave: CONCENTRAR-SE <verb.possession>
+ILI: 02238144
+
+Sense 3
+{02238144} <verb.possession> roll up3, collect, accumulate, pile up, amass, compile, hoard -- (get or gather together; "I am accumulating evidence for the man's unfaithfulness to his wife"; "She is amassing a lot of data for her thesis"; "She rolled up a small fortune")
+       => {02215096} <verb.possession> store, hive away, lay in, put in, salt away, stack away, stash away -- (keep or lay aside for future use; "store grain for the winter"; "The bear stores fat for the period of hibernation when he doesn't eat")
+           => {02138940} <verb.possession> keep, hold on -- (retain possession of; "Can I keep my old stuffed animals?"; "She kept her maiden name after she married")
+               => {02139918} <verb.possession> have, have got, hold -- (have or possess, either in a concrete or an abstract sense; "She has $1,000 in the bank"; "He has got two beautiful daughters"; "She holds a Master's degree from Harvard")

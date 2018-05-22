@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2264
+
+DADO O SYNSET:
+
+S='Glosa2264'
+	    {bater: Ao descer do carro, ele caiu e [bateu com a cabeça na porta. ,
+	      esbarrar: Máquinas e tratores da Comlurb costumavam [esbarrar no muro.,
+	      trombar: Um dos navios encalhou em um banco de areia e derramou óleo nas praias e o outro [trombou contra o atracadouro.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2264' = “passar por algum prejuízo ou destruição por impacto”
+	    {bater: O carro do bandido [bateu num orelhão e foi cercado por 10 policiais civis.,
+	      esbarrar: Máquinas e tratores costumavam [esbarrar no muro.,
+	      trombar: Um dos navios encalhou em um banco de areia e o outro [trombou contra o atracadouro.,}
+
+Chave: BATER <verb.contact>
+ILI: 01518725
+
+Sense 3
+{01518725} <verb.contact> crash, ram1 -- (undergo damage or destruction on impact; "the plane crashed into the ocean"; "The car crashed into the lamp post")
+       => {01518049} <verb.contact> collide, clash -- (crash together with violent impact; "The cars collided"; "Two meteors clashed")
+           => {01198410} <verb.contact> hit1, strike1, impinge on, run into1, collide with -- (hit against; come into sudden contact with; "The car hit a tree"; "He struck the table with his elbow")
+               => {01169634} <verb.contact> touch -- (make physical contact with, come in contact with; "Touch the stone for good luck"; "She never touched her husband")

@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0430
+
+DADO O SYNSET:
+
+S='Glosa430'
+{abrasar: x,
+acender: Não há quem não lembre da chuvarada que despencou bem na hora de [acender a fogueira, no ano retrasado.,
+atear: Já estava cansado de sair pelo mundo apagando os incêndios queaquele desvairado I]ateava pelas redondezas.,}
+A='Glosa2144'
+{apagar, extinguir: Mecânicos e bombeiros começaram a [extinguir o fogo e retirar o piloto do carro.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa430' = “x”
+{acender: Não há quem não lembre da chuvarada que despencou bem na hora de [acender a fogueira, no ano retrasado.,
+atear: Já estava cansado de sair pelo mundo apagando os incêndios que aquele desvairado I]ateava pelas redondezas.,}
+A='Glosa2144'
+{apagar}
+Chave: ACENDER <verb.weather>
+ILI: 02677713
+
+Sense 4
+{02677713} <verb.weather> ignite, light -- (cause to start burning; subject to fire or great heat; "Great heat can ignite almost any dry matter"; "Light a cigarette")
+       => {02680593} <verb.weather> burn2, combust2 -- (cause to burn or combust; "The sun burned off the fog"; "We combust coal and other fossil fuels")

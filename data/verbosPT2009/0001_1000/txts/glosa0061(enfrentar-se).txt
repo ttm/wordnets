@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0061
+
+DADO O SYNSET:
+
+S='Glosa61'
+{confrontar-se: Os dois armazéns M]confrontavam-se. ,
+defrontar-se: A suspensão permite boa estabilidade ao carrinho mesmo em velocidades altas, mas transmite ruídos excessivos aos ocupantes ao [defrontar-se com trechos de piso irregular. ,
+enfrentar-se: H]Enfrentavam(-se), no jardim, duas enormes paineiras.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa61' = “confrontar(-se) de cara; lidar”
+{confrontar-se: Como parte de seu trabalho, lingüistas forenses I]confrontam - se com desigualdades lingüísticas impostas por grandes corporações ou por outros grupos.,
+defrontar-se: Os ministros da Fazenda, ao I]defrontar-se com dificuldades fiscais, foram unânimes ao declarar que é necessário reestruturar 
+enfrentar-se: As grandes metrópoles do mundo I]enfrentam-se diariamente com problemas de transporte..,}
+Chave: ENFRENTAR-SE <verb.communication>
+ILI: 00786006
+
+Sense 2
+{00786006} <verb.communication> confront, face up3, face -- (deal with (something unpleasant) head on; "You must confront your problems"; "He faced the terrible consequences of his mistakes")
+       => {02365915} <verb.social> set about, go about, approach -- (begin to deal with; "approach a task"; "go about a difficult problem"; "approach a new project")
+           => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA3211
+
+DADO O SYNSET:
+
+S='Glosa3211'
+	    {
+	      iniciar: Um orador não deixa de ser brilhante, eloqüente ou inteligente quando, para vencer um certo retraimento ou inibição, necessita tomar um copo de cerveja ou de vinho antes de [iniciar o seu discurso. ,
+	      introduzir: Uma boa forma de [introduzir o assunto é comentar o que vocês vêem na TV.,
+	      principiar: Estudantes participantes do Congresso esperam I]principiar um diálogo entre a juventude, jovens profissionais e autônomos sobre como aumentar as administrações das áreas extensas protegidas.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3211' = “dar o primeiro passo em realizar uma ação”
+	     {iniciar: O Hamas [iniciou sua onda de terror em represália ao assassinato em janeiro, pelo serviço secreto israelense, do terrorista Ahia Ayash, o Engenheiro . ,
+	      introduzir: Eliseu Visconti, pintor e desenhista, atravessou vários estilos e [introduziu o impressionismo na pintura brasileira.,
+	      principiar: A hegemonia americana I]principiou durante a Segunda Guerra Mundial e atingiu um pico cerca de trinta anos mais tarde.,}
+Chave: INICIAR <verb.change>
+ILI: 00334609
+
+Sense 1
+{00334609} <verb.change> get down, begin, get12, start out, start, set about, set out, commence -- (take the first step or steps in carrying out an action; "We began working at dawn"; "Who will start?"; "Get working as soon as the sun rises!"; "The first tourists began to arrive in Cambodia"; "He began early in the day"; "Let's get down to work now")

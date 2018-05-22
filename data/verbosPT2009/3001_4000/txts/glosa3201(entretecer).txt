@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA3201
+
+DADO O SYNSET:
+
+S='Glosa3201'
+{costurar: DEVIANT,
+	 entecer: H]Enteceu guirlandas para enfeitar a festa.,
+	 entretecer: H]Entretecer alamares.,
+	 intertecer: x,
+	 liar: Costumava H]liar bem as linhas do bordado.,
+	 ligar: A]Ligar uma meia.}
+
+A='Glosa1381'
+{desentretecer}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3201' = “fazer por trançado ou entrelaçamento”
+{entecer: H]Enteceu guirlandas para enfeitar a festa.,
+	 entretecer: H]Entretecer alamares.,
+	 liar: Costumava H]liar bem as linhas do bordado.,
+	 ligar: A]Ligar uma meia.}
+
+A='Glosa1381'
+{desentretecer}
+Chave: ENTRETECER <verb.creation>
+ILI: 01626670
+
+Sense 1 
+{01626670} <verb.creation> braid, lace1, plait -- (make by braiding or interlacing; "lace a tablecloth")
+       => {01625862} <verb.creation> weave, tissue -- (create a piece of cloth by interlacing strands of fabric, such as wool or cotton; "tissue textiles")
+           => {01606076} <verb.creation> create from raw material, create from raw stuff -- (make from scratch)
+               => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

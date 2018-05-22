@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA0023B
+
+DADO O SYNSET:
+
+S='Glosa23'
+{abalar: Vítima de um gravíssimo atentado nos primeiros anos de seu pontificado, coisa que lhe I]abalou gravemente a saúde e tem conseqüências até hoje.,
+destruir: O tempo [destrói os lugares onde a gente viveu e só a imaginação, o trabalho da criação artística e literária, permitem reencontrar o tempo passado e se ligar à eternidade. ,
+gastar: O que o tempo H]gasta jamais recuperamos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa23B' = “causar a destruição ou desfazer de”
+{destruir: O tempo [destrói os lugares onde a gente viveu e só a imaginação, o trabalho da criação artística e literária, permitem reencontrar o tempo passado e se ligar à eternidade.,}
+Chave: DESTRUIR <verb.creation>
+ILI: 01574188
+
+Sense 1
+{01574188} <verb.creation> destroy, destruct -- (do away with, cause the destruction or undoing of; "The fire destroyed the house")
+       => {01573490} <verb.creation> unmake, undo -- (deprive of certain characteristics)

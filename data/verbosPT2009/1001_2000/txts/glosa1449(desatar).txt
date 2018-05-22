@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA1449
+
+DADO O SYNSET:
+
+S='Glosa1449'
+{desatar: No cemitério tive de repetir a cerimônia da casa, [desatar as correias, e ajudar a levar o féretro à cova.,
+ descingir: A]Descingir o cinto.,
+	 desenlear: Caso se deseje I]desenlear o cabo do tambor, basta puxá-lo em sentido contrário ao enleamento.,
+	 desliar: Costumava H]desliar as linhas antes de bordar.,
+	 desligar: H]Desligar os vagões da locomotiva.,
+	 desprender: A absorção de energia pode ser suficiente para [desprender completamente o elétron de seu átomo,}
+	  
+A='Glosa3099'
+{ajoujar, atar, cingir, enlear, liar, ligar, prender, unir}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1449' = “fazer ficar desfeito, solto”
+{desatar: Tão logo surgiram as labaredas, Rosberg I]desatou o cinto e saltou de seu Williams.,
+ descingir: Deve,assim, o discurso jurídico I]discingir os nós do positivismo.,
+	 desenlear: Caso se deseje I]desenlear o cabo do tambor, basta puxá-lo em sentido contrário ao enleamento.,
+	 desligar: As vossas igrejas hediondas conspiram para que todas as leis sociais impeçam o mais possível aos homens que tentem I]desligar os laços matrimoniais.,
+	 desprender: A absorção de energia pode ser suficiente para [desprender completamente o elétron de seu átomo,}
+	  
+A='Glosa3099'
+{ajoujar, atar, cingir, enlear, liar, ligar, prender, unir}
+Chave: DESATAR <verb.contact>
+ILI: 01304771
+
+Sense 1
+{01304771} <verb.contact> unfasten1 -- (cause to become undone; "unfasten your belt")
+       => {01477750} <verb.contact> undo -- (cancel, annul, or reverse an action or its effect; "I wish I could undo my actions")
+           => {00133458} <verb.change> change by reversal, turn, reverse -- (change to the contrary; "The trend was reversed"; "the tides turned against him"; "public opinion turned when it was revealed that the president had an affair with a White House intern")
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night") 

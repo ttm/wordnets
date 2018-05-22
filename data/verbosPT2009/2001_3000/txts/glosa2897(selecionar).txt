@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA2897
+
+DADO O SYNSET:
+
+S='Glosa2897'
+	    {classificar: O critério a ser adotado para I]classificar os candidatos para ingressar na 1ª série do Ensino Médio é a idade menor.,
+	      escolher: A Igreja assegurava seu direito de [escolher os ocupantes dos cargos eclesiásticos.,
+	      filtrar: O que tenho visto freqüentemente é o que chamo de Síndrome do Bingo Classificado, onde um anúncio é feito no jornal da cidade, dezenas de candidatos aparecem, uma pessoa completamente despreparada faz a análise superficial para I]filtrar os candidatos, e um diretor ou gerente entrevista o pessoal, usando e abusando de todos os preconceitos que inevitavelmente carregamos.,
+	      procurar: Os head hunters são especializados em I]procurar profissionais, geralmente para cargos de diretoria.,
+	      selecionar: As letras não mentem -  empresas apelam à interpretação da personalidade através da escrita para [selecionar novos funcionários.,
+	      seletar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2897' = “Escolher de um número de alternativas”
+	    {classificar: Dória [classificou os deputados eleitos.,
+	      escolher: Uma equipe dirigida por Fábio Ferreira e Ana Bernsteins, [escolheu as 28 companhias teatrais a partir de uma lista de mais de 40.,
+	      filtrar: Transparência Brasil, I]filtrou dados da Câmara, de diversos tribunais e da própria ONG para criar perfis detalhados dos candidatos a deputado federal.,
+	      procurar: Para os cargos escolhidos, o comitê de nomeação I]procurou candidatos enquadrados nos critérios de seleção da Icann.,
+	      selecionar: Segundo Kátia Lund, da produtora Skylight, quem [selecionou os moradores foi a associação.,}
+Chave: SELECIONAR <verb.cognition>
+ILI: 00652154
+
+Sense 1
+{00652154} <verb.cognition> choose, take1, select, pick out -- (pick out, select, or choose from a number of alternatives; "Take any one of these cards"; "Choose a good husband for your daughter"; "She selected a pair of shoes from among the dozen the salesgirl had shown her")
+       => {00674417} <verb.cognition> decide, make up one's mind, determine -- (reach, make, or come to a decision about something; "We finally decided after lengthy deliberations") 

@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA1605
+
+DADO O SYNSET:
+
+S='Glosa1605'
+{apartar-se: O índio tinha remado sem descansar um momento; não ignorava que D. Antônio de Mariz na sua terrível vingança havia exterminado a tribo dos Aimorés, mas desejava [apartar-se do teatro da catástrofe, e aproximar-se dos seus campos nativos.,
+ desagregar-se: Verás sua família I]desagregar-se.,
+ desgregar-se: x,
+ desmembrar-se: Os Estados podem incorporar-se entre si, subdividir-se ou I]desmembrar-se para se anexarem a outros ou formarem novos Estados.,
+ desunir-se: As bocas ameaçavam jamais I]desunir-se.,
+ dispartir-se: x,
+ separar-se: Um chefe dos índios cris, que querem impedir a expansão de hidrelétricas no norte do Québec, declarou recentemente diante de um Comitê das Nações Unidas que os cris se separariam do Québec no dia em que este decidisse [separar-se do restante do Canadá.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1605' = “ir para seu próprio caminho”
+{apartar-se: E a descendência de Israel se I]apartou de todos os estrangeiros.,
+ desagregar-se: Imaginemos o império russo, demasiado vasto, debilitando-se e [desagregando-se, tendo como corolário a emancipação dos povos.,
+ desmembrar-se: Tocantins i]desmembrou-se de Goiás.,
+ desunir-se: A sociedade acadêmica I]desuniu-se e perdeu a força.,
+ separar-se: Em 1944, a Islândia [separa-se da Dinamarca.,}
+Chave: SEPARAR-SE <verb.motion>
+ILI: 01972202
+
+Sense 1
+{01972202} <verb.motion> separate, part2, split -- (go one's own away; move apart; "The friends separated after the party")
+       => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right")

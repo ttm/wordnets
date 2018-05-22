@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA3164
+
+DADO O SYNSET:
+
+S='Glosa3164'
+{avergar: x,
+	 curvar: O outro então, cheio de dignidade, apenas I]curvou a cabeça, e abalou, com as outras onze casacas.,
+	 derrear: O homem soltou um berro; abriu os braços como se quisesse abraçar o vento, e I]derreou pra trás.,
+	 encouchar: x,
+	 inclinar: I]Inclinou a cabeça, olhou de perto, cada vez mais perto, aqueles lábios úmidos que se descerravam.,
+	 inflectir: Introduzem o leitor para dentro do mundo estranho criado pelo autor, fazendo-o sentar-se na mesa com os convivas I]inflectindo sobre o texto. ,
+	 infletir: o viajante que, saindo da Bahia (Salvador), pretendesse chegar à grande curva do Rio São Francisco, seria logo obrigado, vencidas algumas léguas da caminhada, a I]infletir para o ocidente, quando então se extingue a "miragem do litoral opulento". ,
+	 prostrar: DEVIANT,
+	 vergar: Soprou-o de leve, ele encolheu-se e I]vergou o corpo para o lado do sopro, corno faz uma pessoa na ventania.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3164' = “inclinar ou curvar de uma posição vertical”
+{curvar: O outro então, cheio de dignidade, apenas I]curvou a cabeça, e abalou, com as outras onze casacas.,
+	 derrear: O homem soltou um berro; abriu os braços como se quisesse abraçar o vento, e I]derreou pra trás.,
+	 inclinar: I]Inclinou a cabeça, olhou de perto, cada vez mais perto, aqueles lábios úmidos que se descerravam.,
+	 inflectir: Introduzem o leitor para dentro do mundo estranho criado pelo autor, fazendo-o sentar-se na mesa com os convivas I]inflectindo sobre o texto.,
+	 infletir: O viajante que, saindo da Bahia (Salvador), pretendesse chegar à grande curva do Rio São Francisco, seria logo obrigado, vencidas algumas léguas da caminhada, a I]infletir para o ocidente, quando então se extingue a "miragem do litoral opulento".,
+	 vergar: Soprou-o de leve, ele encolheu-se e I]vergou o corpo para o lado do sopro, corno faz uma pessoa na ventania.}
+Chave: CURVAR <verb.motion>
+ILI: 01980120
+
+Sense 1 
+{01980120} <verb.motion> lean, tilt, tip1, slant, angle -- (to incline or bend from a vertical position; "She leaned over the banister")
+       => {01977754} <verb.motion> bend, flex -- (form a curve; "The stick does not bend")
+           => {00135866} <verb.change> change shape, change form, deform2 -- (assume a different shape or form)
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")
+          Also See-> {02005035} <verb.motion> bow down#1

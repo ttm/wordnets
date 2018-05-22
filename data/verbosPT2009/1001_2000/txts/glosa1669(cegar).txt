@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA1669
+
+DADO O SYNSET:
+
+S='Glosa1669'
+{amolgar: H]Amolgou o fio da espada. # O corte da baioneta H]amolgou-se.,
+ botar2: H]Botou o gume da tesoura cortando papelão.,
+ cegar: Nunca raspe o espremedor de alho, casca de verduras ou qualquer outra coisa com o lado do fio da faca, pois  isso vai I]cegar sua faca.,
+ desafiar2: A]Desafiar uma navalha.,
+ despontar: O profissional que corta meu cabelo me contou dos problemas que surgem quando um talento da tesoura começa a I]despontar.,
+ embotar: O excesso de uso H]embotou a navalha.,
+ rebotar1: O uso impróprio M]rebotou o canivete.,}
+	  
+A='Glosa3304'
+{acerar1, acuminar, afiar, aguçar, amolar, desembotar, limar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1669' = “deixar sem fio, embotado”
+{cegar: Mas isso só aconteceu depois que você I]cegou o MEU aparelho de barbear elétrico raspando as SUAS pernas!.,
+ embotar: Mas não foi apenas esta cafungada que I]embotou o fio das tesouras.,}
+	  
+A='Glosa3304'
+{acerar1, acuminar, afiar, aguçar, amolar, desembotar, limar}
+Chave: CEGAR <verb.contact>
+ILI: 01208759
+
+Sense 5
+{01208759} <verb.contact> dull2, blunt -- (make dull or blunt; "Too much cutting dulls the knife's edge")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

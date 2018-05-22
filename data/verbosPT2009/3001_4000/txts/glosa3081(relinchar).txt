@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA3081
+
+DADO O SYNSET:
+
+S='Glosa3081'
+	    {
+	      hinir: x,
+	      nitrir: Vozes se levantam do teclado, onde ele improvisava uma valsa. Lá fora, sôfregos I]nitriam os árdegos cavalos.,
+	      relinchar: Terei talvez uma telha a menos, mas meu corcel [relincha há quarenta anos.,
+	      rinchar: Como aqueles animais que vivem a I]rinchar nos verdes (e nem tão verdes assim) pastos desta imensa província chamada Brasil.,
+	      trinir: x,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3081' = “som característico de cavalos”
+	     {nitrir: Vozes se levantam do teclado, onde ele improvisava uma valsa. Lá fora, sôfregos I]nitriam os árdegos cavalos.,
+	      relinchar: Terei talvez uma telha a menos, mas meu corcel [relincha há quarenta anos.,
+	      rinchar: E eis que veio o meu cavalo, e colocou sua cabeça sobre o meu ombro, e I]rinchou.,}
+Chave: RELINCHAR <verb.communication>
+ILI: 01025961
+
+Sense 1
+{01025961} <verb.communication> neigh, nicker, whicker, whinny -- (characteristic of horses)
+       => {00951670} <verb.communication> utter2, emit, let out2, let loose -- (express audibly; utter sounds (not necessarily words); "She let out a big heavy sigh"; "He uttered strange sounds that nobody could understand")

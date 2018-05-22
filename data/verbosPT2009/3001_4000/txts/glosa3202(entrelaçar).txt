@@ -1,0 +1,36 @@
+ANÁLISE DA GLOSA3202
+
+DADO O SYNSET:
+
+S='Glosa3202'
+	    {
+	      enastrar: M]Enastraram ternamente as mãos.,
+	      encanastrar: x,
+	      entrançar: Entre uma e outra costuma I]entrançar dois ou três arcos, também de cipós, varando o número delas segundo a capacidade da arapuca.,
+	      entrecruzar: DEVIANT,
+	      entrelaçar: O alongamento chama-se megahair e consiste em [entrelaçar fios artificiais e naturais, a partir da raiz.,
+	      entretecer: É possível desfibrar e I]entretecer a matéria-prima, convertê-la em polpa e em papel.,
+	      entrezar: x,
+	      interlaçar: Tumor maligno caracterizado pela formação de células fusiformes malignas e bandas de colágeno que I]interlaçam as fibras.,
+	      intertecer: x,
+	      trançar: Só um número muito reduzido de mulheres, com idades que variam de 60 a 80 anos, se dispõe a I]trançar a palha da piaçava.,
+	      travar: M]Travar os fios da rede.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3202' = “trançar ou entremear”
+	     {enastrar: M]Enastraram ternamente as mãos.,
+	      entrançar: Mais do que depressa Pierre novamente I]entrançou a bengala nos raios da bicicleta.,
+	      entrelaçar: I]Entrelaçou seus dedos nos cabelos molhados dele.,
+	      interlaçar: Tumor maligno caracterizado pela formação de células fusiformes malignas e bandas de colágeno que I]interlaçam as fibras.,
+	      trançar: Durante três noites I]trançou com fios de seus cabelos uma rede de ouro.,
+	      travar: M]Travar os fios da rede.,}
+Chave: ENTRELAÇAR <verb.creation>
+ILI: 01626670
+
+Sense 1
+{01626670} <verb.creation> braid, lace1, plait -- (make by braiding or interlacing; "lace a tablecloth")
+       => {01625862} <verb.creation> weave, tissue -- (create a piece of cloth by interlacing strands of fabric, such as wool or cotton; "tissue textiles")
+           => {01606076} <verb.creation> create from raw material, create from raw stuff -- (make from scratch)
+               => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

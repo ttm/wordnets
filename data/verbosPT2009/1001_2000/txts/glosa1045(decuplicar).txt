@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA1045
+
+DADO O SYNSET:
+
+S='Glosa1045'
+{decemplicar: x,
+ decuplar: Ao I]decuplar a planilha de preços, vemos que 40% dos valores de uma fatura representam impostos que o governo não reinvestiu para prevenir crises. ,
+ decuplicar: A Nielsen pretende, em dois anos, I]decuplicar seu serviço de medição de audiência na China, que atualmente funciona em 11 cidades.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1045' = “combinar ou aumentar multiplicando-se por dez”
+{decuplar: Em apenas um século e meio de mineração a população do Brasil mais que I]decuplou.,
+ decuplicar: Nos últimos 20 anos, o número de bolsas de doutorado do CNPq sextuplicou enquanto o número de doutores titulados por ano I]decuplicou.,}
+Chave: DECUPLICAR <verb.change>
+ILI: EQ_HAS_HYPERONYM - 00239103
+
+Sense 1
+{00239103} <verb.change> multiply, manifold1 -- (combine or increase by multiplication; "He managed to multiply his profits")
+       => {00147655} <verb.change> increase2 -- (make bigger or more; "The boss finally increased her salary"; "The university increased the number of students it admitted")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

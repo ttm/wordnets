@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA1542
+
+DADO O SYNSET:
+
+S='Glosa1542'
+{desaguar: H]Desaguar um terreno.,
+ desempapar: Precisa H]desempapar a camisa antes de pôr no cesto de roupa suja.  ,
+ desencharcar: Para I]desencharcar a madeira, sol de leve.,
+ desensopar: Tentei limpar e I]desensopar o mais possível a minha cadeira.,
+ dessecar: Recolhe a matéria e fá-la I]dessecar ao calor do sol.,
+ enxugar: A língua seca da esponja que tem o vento terral veio [enxugar a umidade do encharcado lamaçal .,
+ secar: O pátio, já sem as cordas de [secar ao sol a roupa, servia para a instrução dos recrutas.,}
+	  
+A='Glosa1662'
+{abeberar, banhar, beberar, embeber, embeberar, empapar, encharcar, ensopar, molhar, regar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1542' = “remover a umidade [de] e tornar seco”
+{desencharcar: Todos os órgãos competentes conhecem essa situação e devem saber que está tudo errado. E não fazem nada para I]desencharcar essa inundação curricular.,
+ desensopar: Tentei limpar e I]desensopar o mais possível a minha cadeira.,
+ dessecar: O domínio da economia sobre estes mundos de vida e a intervenção da tecnologia na própria vida, não só I]dessecou a terra como também espremeu o suco dos sabores para deixar só a forma sedutora de frutos e legumes que atraem pela vista.,
+ enxugar: A língua seca da esponja que tem o vento terral veio [enxugar a umidade do encharcado lamaçal.,
+ secar: Certa vez ele viu um personagem que I]secou as orelhas atravessando uma toalha de lado a lado.,}
+	  
+A='Glosa1662'
+{abeberar, banhar, beberar, embeber, embeberar, empapar, encharcar, ensopar, molhar, regar}
+Chave: ENXUGAR <verb.change>
+ILI: 00211006
+
+Sense 1
+{00211006} <verb.change> dry1, dry out5 -- (remove the moisture from and make dry; "dry clothes"; "dry hair")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

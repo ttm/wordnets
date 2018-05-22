@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA2592
+
+DADO O SYNSET:
+
+S='Glosa2592'
+	    {corrigir: Tive tempo de rever diversas vezes o roteiro e de [corrigir falhas.,
+	      rever1: A posição de Rama em face de problemas desse tipo se manifestou em estudos de grande força sugestiva e, poderíamos dizer, cada vez mais corretos e precisos, pois ele costumava [rever os próprios escritos, elaborava versões diferentes e ampliava tanto a capacidade de penetração quanto o ânimo integrador.,
+	      revisar: Todo profissional deve redobrar cuidados ao [revisar seu currículo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2592' = “Fazer revisão em.”
+	    {corrigir: Na verdade, seu funcionamento não era lá muito perfeito e a gente gastava muito tempo para I]corrigir o texto copiado.,
+	      rever1: Paulo já I]reviu o texto e está pronto para ser enviado.,
+	      revisar: o Comitê I]revisou as seções relacionadas a potencial conflito.,}
+
+Chave: REVISAR <verb.communication>
+ILI: 00963714
+
+Sense 1
+{00963714} <verb.communication> revise -- (make revisions in; "revise a thesis")
+       => {00963450} <verb.communication> rewrite -- (write differently; alter the writing of; "The student rewrote his thesis")
+           => {00960729} <verb.communication> write -- (communicate or express by writing; "Please write to me every week")
+               => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                   => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                       => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel") 

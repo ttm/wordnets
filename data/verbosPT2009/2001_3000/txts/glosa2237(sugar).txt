@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA2237
+
+DADO O SYNSET:
+
+S='Glosa2237'
+	    {chupar: A]Chupou toda a herança da família.,
+	      sugar: O sistema I]suga nossa alma.,
+	      vampirar: x,
+	      vampirizar: O chantagista H]vampiriza sua vítima., }
+
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2237' = “absorver algo de modo a prejudicar alguém”
+	    {chupar: A]Chupou toda a herança da família.,
+	      sugar: O sistema I]suga nossa alma.,
+	      vampirizar: O chantagista H]vampiriza sua vítima., }
+
+Chave: SUGAR <verb.change>
+ILI: 00377738
+
+Sense 1
+{00377738} <verb.change> enfeeble, debilitate, drain4 -- (make weak; "Life in the camp drained him")
+       => {00217329} <verb.change> weaken1 -- (lessen the strength of; "The fever weakened his body")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

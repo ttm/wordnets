@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA0225
+
+DADO O SYNSET:
+
+S='Glosa225'
+{abaixar: Na hora do acidente, me pareceu que a traseira [abaixou e tocou no asfalto.,
+baixar: No momento em que o caixão [baixou, houve choro, gritaria e desmaios.,
+baixar-se: Botou-se a vara para ele saltar e ele esbarrou; I]baixou-se a vara e ele esbarrou de novo.,
+descer: Há teclas no painel central para ativar o aquecimento dos assentos, subir e I]descer a cortina do vidro traseiro.,}
+A='Glosa220'
+{alevantar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa225' = “mover(-se) para uma posição inferior, para baixo”
+{abaixar: Na hora do acidente, me pareceu que a traseira [abaixou e tocou no asfalto.,
+baixar: No momento em que o caixão [baixou, houve choro, gritaria e desmaios.,
+baixar-se: Botou-se a vara para ele saltar e ele esbarrou; I]baixou-se a vara e ele esbarrou de novo.,
+descer: Há teclas no painel central para ativar o aquecimento dos assentos, subir e I]descer a cortina do vidro traseiro.,}
+A='Glosa220'
+{alevantar}
+Chave: ABAIXAR <verb.motion>
+ILI: 01915250
+
+Sense 1
+{01915250} <verb.motion> lower, take down, let down, get down, bring down1 -- (move something or somebody to a lower position; "take down the vase from the shelf")
+       => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

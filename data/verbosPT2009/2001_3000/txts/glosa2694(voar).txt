@@ -1,0 +1,42 @@
+ANÁLISE DA GLOSA2694
+
+DADO O SYNSET:
+
+  S='Glosa2694'
+	    {adejar: A floresta goza uns estremecimentos, que passam-se em silêncio como o I]adejar das corujas.,
+	      avoaçar: Chegou a apanhar uma hipótese, espécie de andorinha, que I]avoaça entre árvores, abaixo e acima, pousa aqui, pousa ali, arranca de novo um surto e toda se despeja em movimentos.,
+	      avoar: Ei, Rosa menina, para onde vai? - Vou ver o passarinho I]avoar! - Virgem, que coisa mais besta!,
+	      avoejar: x,
+	      esvoaçar: De manhã, não se ouvia mais o cacarejar das aves no galinheiro, o [esvoaçar dos pombos -- todo esse hino matinal de vida, de trabalho, de fartura não mais se casava com as auroras rosadas e com o chilreio álacre do passaredo; e ninguém sabia ver as paineiras em flor, com as suas lindas flores rosadas e brancas que, a espaços, caíam docemente como aves feridas.,
+	      esvoejar: Por ali, vi também que I]esvoejava um beija-flor, distribuindo carícias, deixando coradas as corolas e manchadas de roxo vinoso os cálices das flores.,
+	      remar: Os pardais A]remavam velozmente.,
+	      revoar: Eu ficava observando a passarada [revoar.,
+	      voar: A cada instante, o barco é interceptado por socós, marrecas e uma infinidade de aves que [voam de uma margem a outra dos rios.,
+	      voejar: As aves, dando repouso ás asas fatigadas do contínuo I]voejar pelos pomares, prados e balsedos vizinhos, começavam a preludiar seus cantos vespertinos.,
+	      volatear: Um barzinho num oitão treliçado de carnaubeiras, um violão e a cachaça para "matar o bicho", além de um beija-flor dourado I]volateando oitavas aceleradas ao redor das abelhas tricotando flores para nos ofertar o mel da saudade.,
+	      volitar: Cessada a tempestade, voltam as aves a I]volitar em torno daquelles que puderam observar os factos.,
+	      voltear: O pardal bateu asas, I]volteando sobre a cabeça da Cientista.,
+	      voltejar: Ea patroa fica mirando os céus, as corcovas dos montes verdes, as aves que I]voltejam nas árvores vizinhas.,
+	      volutear: Morcegos A]voluteavam possessos, assoviando sobre minha cabeça.,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2694' = “Percorrer através do ar, ser aerotransportado.”
+	    {adejar: Os olhos do menino tinham se desviado e estavam seguindo uma borboleta de vívido colorido que pairava e I]adejava sobre as flores.,
+	      avoaçar: Chegou a apanhar uma hipótese, espécie de andorinha, que I]avoaça entre árvores.,
+	      avoar: Enquanto discutiam como um casal, o outro casal, o de pombinhos I]avoava para longe dali, batendo as asinhas.,
+	      esvoaçar: Uma borboleta amarela I]esvoaçava em plena uma da tarde na Avenida Presidente Antônio Carlos.,
+	      esvoejar: Vi também que I]esvoejava um beija-flor, distribuindo carícias.,
+	      revoar: O pássaro-preto I]revoava no vento de outono.,
+	      voar: A cada instante, o barco é interceptado por socós, marrecas e uma infinidade de aves que [voam de uma margem a outra dos rios.,
+	      voejar: Sonhei que era uma borboleta, que I]voejava de um lado para o outro.,
+	      volitar: I]Volitavam mudas as aves da noite no céu.,
+	      voltear: Gaivotas I]volteavam, soltando pequenos gritos.,
+	      voltejar: E a patroa fica mirando os céus, as corcovas dos montes verdes, as aves que I]voltejam nas árvores vizinhas.,}
+
+Chave: VOAR <verb.motion>
+ILI: 01883780
+
+Sense 1
+{01883780} <verb.motion> fly, wing -- (travel through the air; be airborne; "Man cannot fly")
+       => {01782203} <verb.motion> travel, go, move3, locomote -- (change location; move, travel, or proceed; "How fast does your new car go?"; "We travelled from Rome to Naples by bus"; "The policemen went from door to door looking for the suspect"; "The soldiers moved towards the city in an attempt to take it before night fell") 

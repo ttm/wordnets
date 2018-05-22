@@ -1,0 +1,42 @@
+ANÁLISE DA GLOSA3450
+
+DADO O SYNSET:
+
+S='Glosa3450'
+	    {
+	      açodar-se: O PTB, após ]se açodar em apoio a Ciro Gomes, já começa a repensá-lo,
+	      afainar-se: Desde os tempos antigos até as tentativas da vanguarda, a Literatura ]se afaina na representação de alguma coisa/Quando a ceifa ]se afaina,
+	      afanar-se: ...a suprema instrução, é algo ativo, que o homem deve ]afanar-se em consquistar,
+	      afarvar-se: x,
+	      afobar-se: Não [se afobe, não saia comprando tudo o que encontra só porque o preço ficou parado uma semana/Os inimigos disseram que Senna [se afobou,
+	      apressar-se: Por favor, [se apressem porque estou morrendo de dor/Um bispo encomenda o corpo enquanto dois coveiros [se apressam a cobri-lo com terra,
+	      apressurar-se: ]Apressuraram-se as concessões aos jesuítas/...]apressurou-se em me explicar,
+	      atropelar-se: x,
+	      aviar-se: Como era de seu feitio, ]aviou-se imediatamente até à Escola de Medicina,
+	      mexer-se: ]Mexam-se, do contrário não chegaremos hoje,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3450' = “apressar-se com velocidade anormal”
+	     {açodar-se: Galgada ao poder por certos artifícios publicitários, a esquerda I]açodou-se em implantar as políticas ditas "sociais", inspiradas por seu utopismo nivelador,
+	      afainar-se: A doutrina, então, I]afainou-se para compreendê-la,
+	      afanar-se: I]Afanava-se para que não houvesse demasiada burguesia, demasiados desvios ideológicos, demasiada devoção religiosa, em resumo, tentava formar as pessoas,
+	      afobar-se: A Folha, embora no caso a complexidade fosse maior, I]afobou-se, correu, certamente temendo que a emenda da reeleição fosse aprovada em todas as instâncias,
+	      apressar-se: A afilhada [apressou-se em responder ao padrinho, com alvoroço e alegria,
+	      apressurar-se: I]apressurou-se em me explicar,
+	      aviar-se: Como era de seu feitio, I]aviou-se imediatamente até à Escola de Medicina,
+	      mexer-se: H]Mexam-se, do contrário não chegaremos hoje,}
+Chave: APRESSAR-SE <verb.change>
+ILI: 00446272
+
+Sense 3
+{00446272} <verb.change> rush1, hurry1 -- (urge to an unnatural speed; "Don't rush me, please!")
+       => {00740405} <verb.communication> urge, urge on, press, exhort -- (force or impel in an indicated direction; "I urged him to finish his studies")
+           => {00843872} <verb.communication> advise, counsel -- (give advice to; "The teacher counsels troubled students"; "The lawyer counselled me when I was accused of tax fraud")
+               => {00787668} <verb.communication> hash out, discuss, talk over -- (speak with others about (something); talk (something) over in detail; have a discussion; "We discussed our household budget")
+                   => {00912516} <verb.communication> talk of, talk about1 -- (discuss or mention; "They spoke of many things")
+                       => {00910961} <verb.communication> talk, speak, utter, mouth, verbalize, verbalise -- (express in speech; "She talks a lot of nonsense"; "This depressed patient does not verbalize")
+                           => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                               => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA3275
+
+DADO O SYNSET:
+
+S='Glosa3275'
+{chapar: M]Chapar moedas.,
+	 cunhar: Na Argentina, sete empresas estrangeiras participam da concorrência para [cunhar a nova moeda de um peso que deve entrar em circulação em julho. ,
+	 lavrar: M]Lavrar moeda.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3275' = “formar através de cunhagem, perfuração ou impressão”
+{chapar: M]Chapar moedas.,
+	 cunhar: Na Argentina, sete empresas estrangeiras participam da concorrência para [cunhar a nova moeda de um peso que deve entrar em circulação em julho.,
+	 lavrar: M]Lavrar moeda.}
+Chave: CUNHAR <verb.creation>
+ILI: 01592569
+
+Sense 2
+{01592569} <verb.creation> mint, coin, strike2 -- (form by stamping, punching, or printing; "strike coins"; "strike a medal")
+       => {01606076} <verb.creation> create from raw material, create from raw stuff -- (make from scratch)
+           => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

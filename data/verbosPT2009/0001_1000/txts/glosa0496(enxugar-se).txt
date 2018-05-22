@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0496
+
+DADO O SYNSET:
+
+S='Glosa496'
+{alimpar-se: x,
+enxugar-se: Beijou as crianças com lágrimas nos olhos e I]enxugou-se com a tolha felpuda.,
+limpar-se: Em caso de desastre maior como derramar a sopa inteira, peça licença a todos e vá I]limpar-se no banheiro.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa496' = “remover (-se) a umidade de e torna (-se) seco”
+{enxugar-se: Beijou as crianças com lágrimas nos olhos e I]enxugou-se com a tolha felpuda.,
+limpar-se: Em caso de desastre maior como derramar a sopa inteira, peça licença a todos e vá I]limpar-se no banheiro.,}
+Chave: ENXUGAR-SE <verb.change>
+ILI: 00211006
+
+Sense 1
+{00211006} <verb.change> dry1, dry out5 -- (remove the moisture from and make dry; "dry clothes"; "dry hair")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

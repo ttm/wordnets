@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA1589
+
+DADO O SYNSET:
+
+S='Glosa1589'
+{ampliar: Como já deve ser de seu conhecimento, desde o dia 5 de janeiro o nosso Sindicato está de casa nova, para podermos [ampliar as atividades culturais e sociais destinadas à nossa categoria .,
+ amplificar: Douglas Engelbart deu forma computadorizada ao sistema de Bush, através de um programa hipertextual a que ele deu o nome de Augment, pois destinava-se a [amplificar a capacidade de raciocínio do homem.,
+ dilatar: Sentiram que dilatar a vida dos homens era I]dilatar a sua agonia e multiplicar o número das suas mortes. ,
+ 	 intensificar: A Secretaria Estadual de Segurança está concluindo um projeto para [intensificar o policiamento nos dois principais eixos viários da cidade: Avenida Brasil e Linha Vermelha ., }
+	  
+A='Glosa3476'
+{diminuir, estreitar, reduzir, restringir}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1589' = “tornar mais intenso, forte ou mais marcado”
+{ampliar: Como já deve ser de seu conhecimento, desde o dia 5 de janeiro o nosso Sindicato está de casa nova, para podermos [ampliar as atividades culturais e sociais destinadas à nossa categoria.,
+ amplificar: Douglas Engelbart deu forma computadorizada ao sistema de Bush, através de um programa hipertextual a que ele deu o nome de Augment, pois destinava-se a [amplificar a capacidade de raciocínio do homem.,
+ dilatar: O valor do título será regido, naturalmente, pelo potencial do mercado imobiliário advindo da operação urbana realizada e dos incentivos que [dilatam o potencial construtivo da região.,
+ 	 intensificar: A Secretaria Estadual de Segurança está concluindo um projeto para [intensificar o policiamento nos dois principais eixos viários da cidade: Avenida Brasil e Linha Vermelha .,}
+	  
+A='Glosa3476'
+{diminuir, estreitar, reduzir, restringir}
+Chave: INTENSIFICAR <verb.change>
+ILI: 00219593
+
+Sense 2
+{00219593} <verb.change> intensify1, compound1, heighten4, deepen1 -- (make more intense, stronger, or more marked; "The efforts were intensified", "Her rudeness intensified his dislike for her"; "Potsmokers claim it heightens their awareness"; "This event only deepened my convictions")
+       => {00150804} <verb.change> increase -- (become bigger or greater in amount; "The amount of work increased")
+           => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

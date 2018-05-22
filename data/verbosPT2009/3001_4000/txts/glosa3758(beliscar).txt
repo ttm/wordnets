@@ -1,0 +1,37 @@
+ANÁLISE DA GLOSA3758
+
+DADO O SYNSET:
+	
+S='Glosa3758'
+{beliscar: O hábito de dar uma parada no bar para [beliscar e tomar um chope antes do jantar é uma instituição madrilenha.,
+	 debicar: Se a mulher era gorda, quando comparecia a uma festa onde não podia comer, tinha de I]debicar como passarinho.,
+	 depenicar: Lembram-se de Ugo I]depenicando o pão.,
+	 gulosear: x,
+	 lambiscar: Para conservar a energia, é preferível I]lambiscar com freqüência alimentos de qualidade, como sementes, uvas passas ou frutas secas, a fazer duas refeições completas ao dia.,
+	 paparicar: H]Paparicar é com ele, mas bebe muito.,
+	 peniscar: x,
+	 petiscar: O doente está sem apetite: A]petisca o alimento e logo o rejeita.  ,
+	 provar: O poeta Murilo Mendes Iprovou um pedacinho.,
+	 velicar: x }
+
+A ANÁLISE RESULTA EM:
+ 
+S='Glosa3758' = “comer intermitentemente; pegar pequenos pedaços de”
+{beliscar: O hábito de dar uma parada no bar para [beliscar e tomar um chope antes do jantar é uma instituição madrilenha.,
+	 debicar: Se a mulher era gorda, quando comparecia a uma festa onde não podia comer, tinha de I]debicar como passarinho.,
+	 depenicar: Lembram-se de Ugo I]depenicando o pão.,
+	 lambiscar: Para conservar a energia, é preferível I]lambiscar com freqüência alimentos de qualidade, como sementes, uvas passas ou frutas secas, a fazer duas refeições completas ao dia.,
+	 paparicar: H]Paparicar é com ele, mas bebe muito.,
+	 petiscar: O doente está sem apetite: A]petisca o alimento e logo o rejeita.  ,
+	 provar: O poeta Murilo Mendes Iprovou um pedacinho. }
+Chave: BELISCAR <verb.consumption>
+ILI: 01138194
+
+Sense 3 
+{01138194} <verb.consumption> nibble1, pick, piece -- (eat intermittently; take small bites of; "He pieced at the sandwich all morning"; "She never eats a full meal--she just nibbles")
+       => {01132466} <verb.consumption> eat -- (take in solid food; "She was eating a banana"; "What did you eat for dinner last night?")
+           => {01130349} <verb.consumption> eat1 -- (eat a meal; take a meal; "We did not eat until 10 P.M. because there were so many phone calls"; "I didn't eat yet, so I gladly accept your invitation")
+               => {01121136} <verb.consumption> consume, ingest, take in, take, have -- (serve oneself to, or consume regularly; "Have another bowl of chicken soup!"; "I don't take sugar in my coffee")
+
+           => {01121136} <verb.consumption> consume, ingest, take in, take, have -- (serve oneself to, or consume regularly; "Have another bowl of chicken soup!"; "I don't take sugar in my coffee")
+

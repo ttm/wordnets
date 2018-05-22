@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA2403
+
+DADO O SYNSET:
+
+S='Glosa2403'
+	    {acarpetar: Famoso pelo talento em gastar quantias fabulosas de dinheiro com excentricidades, como I]acarpetar todo o Clube de Golfe do qual é sócio com grama sintética.,
+	      alcatifar: x,
+	      alfombrar: Magnífica peça M]alfombrava o aposento.,
+	      atapetar: Grama em forma de tapetes para I]atapetar o seu jardim.,
+	      carpetar: Se essa rua fosse minha, eu mandava I]carpetar com carpete bem fofinho.,
+	      entapetar: Resolveu H]etapetar a casa toda.,
+	      entapizar: x,
+	      tapeçar: O chão fora A]tapeçado com uma grande alcatifa muorisca.,
+	      tapizar: No fundo do gabinete uma mesa servia de altar da magia; junto a ela uma pele de leão I]tapizava o chão.,
+	      vestir: Tapetes persas A]vestiam o chão.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2403' = “Cobrir com um tapete.”
+	    {acarpetar: I]Acarpetou a sala.,
+	      alfombrar: Magnífica peça M]alfombrava o aposento.,
+	      atapetar: I]Atapetou salas de estar.,
+	      carpetar: Se essa rua fosse minha, eu mandava I]carpetar com carpete bem fofinho.,
+	      entapetar: Resolveu H]entapetar a casa toda.,
+	      tapeçar: O chão fora A]tapeçado com uma grande alcatifa.,
+	      tapizar: No fundo do gabinete uma mesa servia de altar da magia; junto a ela uma pele de leão I]tapizava o chão.,
+	      vestir: Tapetes persas A]vestiam o chão.,}
+
+Chave: ATAPETAR <verb.contact>
+ILI: 01197357
+
+{01197357} <verb.contact> carpet -- (cover with a carpet; "carpet the floors of the house")
+       => {01293336} <verb.contact> cover -- (provide with a covering or cause to be covered; "cover her face with a handkerchief"; "cover the child with a blanket"; "cover the grave with flowers") 

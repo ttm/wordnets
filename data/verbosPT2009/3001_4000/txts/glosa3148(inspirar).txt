@@ -1,0 +1,37 @@
+ANÁLISE DA GLOSA3148
+
+DADO O SYNSET:
+
+S='Glosa3148'
+{bacorejar: Eis que agora volta-se a I]bacorejar por aí que o pato está escasso.,
+	  ditar: A saudade da pátria H]ditou ao poeta belas poesias.,
+	  encasar: H]Encasar uma desconfiança no marido.,
+	  inculcar: A revista visa I]inculcar a boa prática social de forma democrática.,
+	  insinuar: Não era intenção [insinuar discórdias que não existem, nem creio que o texto aludido permitisse essa leitura, mas, em todo o caso, fica o esclarecimento. ,
+	  inspirar: Como é que a sobrinha de D. Maria, que a principio tanto desafiara a sua hilaridade por esquisita e feia, lhe viera depois a [inspirar amor, é isso segredo do coração do rapaz que nos não é dado penetrar: o fato é que ele a amava, e isto nos basta. ,
+	  instilar: Imagine que se comece de novo a [instilar, nas crianças, o valor do civismo.,
+	  insuflar: Se houver um arrefecimento do crescimento econômico, mesmo que temporariamente, os demagogos irão [insuflar os ódios étnicos por toda a região. ,
+	  ministrar: O assunto A]ministrou-lhe um conto.,
+	  soprar: Mandaram Saturno [soprar algumas instruções no ouvido de Catê.,
+	  sugerir: Reunidos com a equipe econômica de Caldera, os brasileiros puderam expor suas experiências e [sugerir caminhos para o plano venezuelano. }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3148' = “servir como a causa estimulante [de]”
+{bacorejar: Eis que agora volta-se a I]bacorejar por aí que o pato está escasso.,
+	  ditar: A saudade da pátria H]ditou ao poeta belas poesias.,
+	  encasar: H]Encasar uma desconfiança no marido.,
+	  inculcar: A revista visa I]inculcar a boa prática social de forma democrática.,
+	  insinuar: Não era intenção [insinuar discórdias que não existem, nem creio que o texto aludido permitisse essa leitura, mas, em todo o caso, fica o esclarecimento. ,
+	  inspirar: Como é que a sobrinha de D. Maria, que a principio tanto desafiara a sua hilaridade por esquisita e feia, lhe viera depois a [inspirar amor, é isso segredo do coração do rapaz que nos não é dado penetrar: o fato é que ele a amava, e isto nos basta. ,
+	  instilar: Imagine que se comece de novo a [instilar, nas crianças, o valor do civismo.,
+	  insuflar: Se houver um arrefecimento do crescimento econômico, mesmo que temporariamente, os demagogos irão [insuflar os ódios étnicos por toda a região. ,
+	  ministrar: O assunto A]ministrou-lhe um conto.,
+	  soprar: Mandaram Saturno [soprar algumas instruções no ouvido de Catê.,
+	  sugerir: Reunidos com a equipe econômica de Caldera, os brasileiros puderam expor suas experiências e [sugerir caminhos para o plano venezuelano. }
+Chave:INSPIRAR <verb.communication>
+ILI: 00746436
+
+Sense 3 
+{00746436} <verb.communication> prompt, inspire, instigate1 -- (serve as the inciting cause of; "She prompted me to call my relatives")
+       => {00744964} <verb.communication> induce, stimulate1, cause, have, get, make -- (cause to do; cause to act in a specified manner; "The ads induced me to buy a VCR"; "My children finally got me to buy a computer"; "My wife made me buy a new sofa")

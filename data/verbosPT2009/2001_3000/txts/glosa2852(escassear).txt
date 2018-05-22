@@ -1,0 +1,44 @@
+ANÁLISE DA GLOSA2852
+
+DADO O SYNSET:
+
+S='Glosa2852'
+	    {cansar: Para a diversão nunca lhe H]cansa dinheiro.,
+	      escassear: A conversão no setor acontecerá na boca da entressafra, quando a oferta de leite começa a [escassear, afirma.,
+	      falecer: A imperícia é erro próprio dos profissionais ou técnicos cuja inabilidade se manifestou, ou de todo aquele que se diz hábil para um serviço, e não o faz com a habilidade, que seria mister, porque Ihe I]falecem os conhecimentos necessários.,
+	      falir: x,
+	      faltar: Márcio de Queiroz também alegou que faltam à prefeitura recursos para atacar os congestionamentos da Barra e iniciar qualquer projeto de transporte coletivo.,
+	      minguar: O ciclo de alta das taxas só se rompe se a demanda por crédito [minguar.,}
+
+	  A='Glosa4091'
+	    {abrejar: A feira H]abrejava tal era a quantidade de legumes.,
+	     abundar: I]Abundam ainda as sombras shakespeareanas claras na história.,
+	     exuberar: Os pomares A]exuberam no verão.,
+	     pulular: A cidade I]pulula de religiões.,
+	     redundar: Os resultados das suas reuniões não raro I]redundam em publicações.,
+	     sobejar: Severino não tinha criatividade, mas o dinheiro I]sobejava.,
+	     sobrar: Embora lhe falte força física para dar forma às figuras na máquina de aço, que outrora manejava, ainda lhe I]sobra energia para criar.,
+	     sobreabundar: x,
+	     superabundar: Os suprimentos H]superabundavam às necessidades.,
+	     transbordar: Tóquio I]transbordava de gente.,
+	     trasbordar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2852' = “Tornar menor ou perder substância”
+	    {escassear: Mas somente quando o material externo I]escasseou pudemos reparar e extrair nosso ouro interno.,
+	      falecer: Não o faz com a habilidade, que seria mister, porque Ihe I]falecem os conhecimentos necessários.,
+	      faltar: As palavras I]faltaram ou se tomaram incapazes de traduzir naquele momento o verdadeiro impacto que todos sentimos.,
+	      minguar: Depois que o patrocínio da prefeitura I]mingou, foi demonstrado que o São Caetano é mais um típico clube brasileiro.,}
+
+	  A='Glosa4091'
+	    {abrejar, abundar, exuberar, pulular, redundar, sobejar, sobrar, superabundar, transbordar}
+
+Chave: ESCASSEAR <verb.change>
+ILI: 00258801 
+
+Sense 1
+{00258801} <verb.change> dwindle, dwindle away, dwindle down -- (become smaller or lose substance; "Her savings dwindled down")
+       => {00146081} <verb.change> decrease, diminish, lessen, fall6 -- (decrease in size, extent, or range; "The amount of homework decreased towards the end of the semester"; "The cabin pressure fell dramatically"; "her weight fall to under a hundred pounds"; "his voice fell to a whisper")
+           => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night") 

@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA3360
+
+DADO O SYNSET:
+
+S='Glosa3360'
+	    {
+	      algemar: Antes de fugir em dois carros roubados, eles [algemaram os policiais e levaram duas pistolas 380 e um revólver calibre 38, pertencentes ao delegado e aos detetives. ,
+	      maniatar: Ninguém pode roubar os bens do valente, entrando-lhe em sua casa, se primeiro não I]maniatar o valente.,
+	      manietar: Depois eles I]manietaram Moh'd no chão, suspeitando que ele tinha um cinto de bombas atado a si.,
+	      prender: Lutei até que alguém se sentou em cima da minha cabeça e eu o mordi e então me amordaçaram a boca e [prenderam meus braços atrás da cabeça.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3360' = “confinar ou prender com ou como se com grilhões ou algemas”
+	     {algemar: Antes de fugir em dois carros roubados, eles [algemaram os policiais e levaram duas pistolas 380 e um revólver calibre 38, pertencentes ao delegado e aos detetives.,
+	      maniatar: Certo dia, num descuido seu, os tupinambás, inimigos dos lusos, o I]maniataram, dando início então ao seu calvário.,
+	      manietar: Depois eles I]manietaram Moh'd no chão, suspeitando que ele tinha um cinto de bombas atado a si.,
+	      prender: Sem hesitar, pegou uma algema, I]prendeu suas mãos e o conduziu para o banco detrás de um Corsa marrom-metálico, de quatro portas.,}
+Chave: ALGEMAR <verb.contact>
+ILI: 01249938
+
+Sense 1
+{01249938} <verb.contact> manacle, cuff1, handcuff -- (confine or restrain with or as if with manacles or handcuffs; "The police handcuffed the suspect at the scene of the crime")
+       => {01249789} <verb.contact> fetter, shackle -- (restrain with fetters)
+           => {01262432} <verb.contact> restrain, confine1, hold3 -- (to close within bounds, limit or hold back from movement; "This holds the local until the express passengers change trains"; "About a dozen animals were held inside the stockade"; "The illegal immigrants were held at a detention center"; "The terrorists held the journalists for ransom")
+               => {00498510} <verb.change> disable, disenable, incapacitate -- (make unable to perform a certain action; "disable this command on your computer")
+                   => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

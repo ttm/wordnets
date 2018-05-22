@@ -1,0 +1,44 @@
+ANÁLISE DA GLOSA2547
+
+DADO O SYNSET:
+
+S='Glosa2547'
+	    {acordar1: Mãos na cabeça, Joel Santana não sabia o que fazer para acordar o Flamengo. # O amor profundo, veemente, que dormia no intimo de sua alma, a paixão abafada e reprimida, por tanto tempo, [acordara, e quebrando as cadeias que a retinham, erguia-se impetuosa e indomável.,
+	      arriçar: x,
+	      assanhar: As comemorações do Dia D [assanham todos os veteranos de guerra que lutaram na Normandia.,
+	      ativar: Se um único impulso nervoso é desviado de seu trajeto normal, ele pode acabar [ativando outros circuitos, que ativam outros, e assim sucessivamente.,
+	      despertar: Na realidade, essa noção tem servido admiravelmente aos interesses dos grupos econômicos dominantes dos países industrializados, além de [despertar o sentimento de inferioridade de africanos, asiáticos e latino-americanos em relação aos países desenvolvidos e aos seus altos níveis de produção e de consumo de bens materiais.,
+	      encarniçar: Os revolucionários A]encarniçaram o povo.,
+	      eriçar: Eleito senador, já seria das principais lideranças políticas de São Paulo o que, certamente, vai [eriçar Mário Covas.,
+	      erriçar: Não venho para ver o opaco averno, nem para agrilhoar as três gargantas do monstro Meduseu, que I]erriçam cobras.,
+	      espertar: Sei que escrevi algumas cartas, comprei uma substancia, que não digo, para não [espertar o desejo de prová-la. # Rubião abriu os olhos, meio fechados, e deu com o cocheiro que sacudia ao de leve a pontinha do chicote para [espertar o animal.,
+	      excitar: Entretanto fora passavam-se coisas que deviam [excitar a atenção do digno escudeiro.,
+	      promover: Não podemos perder esta oportunidade de [promover uma mudança.,
+	      provocar: Entretanto, esse grande desenvolvimento alcançado por esses países começou a [provocar uma série de rivalidades entre eles.,
+	      sacudir: Tomara que isto sirva para [sacudir um pouco a letargia das autoridades.,
+	      suscitar: Uma palavra que haverá de [suscitar novos descobridores literários e levar muitos a querer concretizar materialmente a viagem: as gaiolas do S. Francisco sobem e descem, adernadas por turistas esperançosos de vislumbrar Diadorim, neblina, Donzela Guerreira.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2547' = “Fazer ficar agitado, excitado ou estimulado.”
+	    {acordar1: I]Acordou meus desejos.,
+	      assanhar: Tudo isso serviu para espairecer um pouco os ânimos, mas também I]assanhou os estudantes.,
+	      ativar: A luz externa I]ativou todos os sentidos da jovem moça.,
+	      despertar: Esses relataram que a reação sobre essa confidência I]despertou sentimentos que foram da incredulidade à compreensão.,
+	      encarniçar: Os revolucionários A]encarniçaram o povo.,
+	      eriçar: uma constatação I]eriçou novamente a oposição na Assembléia Legislativa.,
+	      erriçar: Disputa das presidências da Câmara e do Senado I]eriçou os brios do PMDB.,
+	      espertar: Um dos resultados obtidos com o projeto de implantação das mini-indústrias é que a massa de cacau que vier a ser produzida já I]espertou o interesse de indústrias do sul do Brasil.,
+	      excitar: Não eram nove horas; esta circunstância mais entristeceu Amélia, e mais I]excitou a atenção da moça maliciosa.,
+	      promover: O fornecimento de monensina sódica a novilhos holandeses diminuiu o consumo de matéria seca e I]promoveu mudança nos produtos da fermentação ruminal.,
+	      provocar: Produziu efeitos significativos na qualidade do trabalho o que I]provocou sentimentos de insegurança, angústia e solidão nos orientandos.,
+	      sacudir: A declaração do ministro I]sacudiu a polícia porto-segurense.,
+	      suscitar: Se o homem não compreende essa dinâmica, cai no erro de deter-se na realidade que I]suscitou o desejo.,}
+
+Chave: ASSANHAR <verb.emotion>
+ILI: 01711686
+
+Sense 5
+{01711686} <verb.emotion> agitate, rouse4, turn on2, charge5, commove, excite3, charge up -- (cause to be agitated, excited, or roused; "The speaker charged up the crowd with his inflammatory remarks")
+       => {01719446} <verb.emotion> disturb, upset, trouble1 -- (move deeply; "This book upset me"; "A troubling thought")
+           => {01716999} <verb.emotion> affect, impress1, move, strike -- (have an emotional or cognitive impact upon; "This child impressed me as unusually mature"; "This behavior struck me as odd") 

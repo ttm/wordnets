@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA3929
+
+DADO O SYNSET:
+	
+S='Glosa3929'
+{confirmar-se: As possibilidades de que isto venha a [confirmar-se dependem do sucesso do programa de estabilização .,
+ positivar-se: Por outro lado, I]positivou-se a ausência de labor no horário noturno.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3929' = “tornar-se certo/real/positivo”
+{confirmar-se: “Jeanne La Pucelle” [confirmou-se desde anteontem à noite como um dos filmes-evento de Berlim-94.,
+ positivar-se: O resultado da ação cautelar de busca e apreensão I]positivou-se, ou seja, ficou cabalmente demonstrado que o acusado Marcos tinha posse de cópias de programas cuja autoria é de propriedade das querelantes, cópias essas não originais.}
+Chave: CONFIRMAR-SE <verb.change>
+ILI: EQ_HAS_HYPERONYM – 00215611 – “estabelecer como válido ou genuíno”
+
+Sense 3
+{00215611} <verb.change> back, back up -- (establish as valid or genuine; "Can you back up your claims?")
+       => {00643814} <verb.cognition> confirm, corroborate, sustain, substantiate, support, affirm -- (establish or strengthen as with new evidence or facts; "his story confirmed my doubts"; "The evidence supports the defendant")

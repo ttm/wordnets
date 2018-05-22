@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA2803
+
+DADO O SYNSET:
+
+S='Glosa2803'
+	    {reaproveitar: Muitas cidades já tem usinas de reciclagem e por isso o ambiente é melhor; se cada um de nós I]reaproveitar o lixo, o meio ambiente seria menos poluído.,
+	      reciclar: Índios vão aprender a I]reciclar lixo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2803' = “Usar novamente depois de algum processo”
+	    {reaproveitar: Além dos AISAs e da artesã Lucivãnia que trouxe amostras do que ela I]reaproveitou do que poderia ir para o Lixo.,
+	      reciclar: Programa da CMTU já I]reciclou 60 mil toneladas de lixo.,}
+
+Chave: RECICLAR <verb.consumption>
+ILI: 01126495
+
+Sense 2
+{01126495} <verb.consumption> recycle, reprocess, reuse -- (use again after processing; "We must recycle the cardboard boxes")
+       => {01123102} <verb.consumption> use1, utilize, utilise, apply, employ -- (put into service; make work or employ (something) for a particular purpose or for its inherent or natural purpose; "use your head!"; "we only use Spanish at home"; "I can't make use of this tool"; "Apply a magnetic field here"; "This thinking was applied to many projects"; "How do you utilize this tool?"; "I apply this rule to get good results"; "use the plastic bags to store the food"; "He doesn't know how to use a computer") 

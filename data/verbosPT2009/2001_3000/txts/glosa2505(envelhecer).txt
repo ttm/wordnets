@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA2505
+
+DADO O SYNSET:
+
+S='Glosa2505'
+	    {avelhecer: Ela foi afetada por uma doença genética que a I]avelhecia rapidamente.,
+	      avelhentar: O sofrimento A]avelhentou-a.,
+	      encanecer: Eis porque o marido começara de precocemente I]encanecer, entretendo os seus ócios com aprender jogos chineses, coleccionar pássaros e armas brancas, estudar dialectos ou outras futilidades semelhantes.,
+	      envelhecer: Entenda-se que, se nas viagens que fiz à Europa, José Dias não foi comigo, não é que lhe faltasse vontade; ficava de companhia a tio Cosme, quase inválido e a minha mãe, que [envelheceu depressa.,
+	      senilizar: A moléstia e os desgostos A]senelizaram-no bem cedo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2505' = “Fazer ficar mais velho.”
+	    {avelhecer: Ela foi afetada por uma doença genética que a I]avelhecia rapidamente.,
+	      avelhentar: O sofrimento A]avelhentou-a.,
+	      encanecer: As preocupações o A]encaneceram antes do tempo.,
+	      envelhecer: Ás vezes acha que o sofrimento da partida o I]envelheceu seu rosto em muitos anos.,
+	      senilizar: A moléstia e os desgostos A]senelizaram-no bem cedo.,}
+
+Chave: ENVELHECER <verb.change>
+ILI: 00241327
+
+Sense 3
+{00241327} <verb.change> age2 -- (make older; "The death of his child aged him tremendously")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

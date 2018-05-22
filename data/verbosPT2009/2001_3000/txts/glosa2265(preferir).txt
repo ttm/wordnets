@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA2265
+
+DADO O SYNSET:
+
+S='Glosa2265'
+	    {
+	      preferir: Por isso, há autores que [preferem o uso da expressão «envoltório nuclear» em vez de simples membrana.,
+	      trocar: Por que você [trocou Madri por Miami tão cedo?,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2265' = “selecionar uma alternativa; escolher no lugar de algo”
+	    {preferir: Há autores que [preferem o uso da expressão «envoltório nuclear» em vez de simples membrana.,
+	      trocar: Por que você [trocou Madri por Miami tão cedo?.,}
+
+Chave: PREFERIR <verb.cognition>
+ILI: 00656613
+
+Sense 2
+{00656613} <verb.cognition> choose2, prefer, opt -- (select as an alternative; choose instead; prefer as an alternative; "I always choose the fish over the meat courses in this restaurant"; "She opted for the job on the East coast")

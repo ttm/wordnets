@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA3556
+
+DADO O SYNSET:
+
+S='Glosa3556'
+	    {
+	      comensurar: O senhor feudal ocupava uma área exponencialmente bem mais ampla do que hoje se pode I]comensurar observando apenas. / I]Comensurando-se as colocações acima, fácil é concluir que o Direito vivo não é composto de normas, mas antes de realidades sociais normatizadas.,
+	      comparar: O quadro seguinte permite visualizar e [comparar a potência de algumas hidrelétricas brasileiras.,
+	      emular: É o tipo de romancista que admiro e [emulo, o romancista que compete com Deus.,
+	      equiparar: A situação dos funcionários aposentados começou a melhorar em julho de 1988, quando o então reitor José Goldemberg [equiparou seus salários com o do pessoal da ativa.,
+	      igualar: Não é possível [igualar a posição dos dois réus. ,
+	      igualizar: I]Igualizar os estudantes entre si. / I]Igualizava, em modo e intensidade, os fenômenos geológicos que ocorrem atualmente com aqueles que ocorreram no passado.,
+	      nivelar: Não é só a morte que [nivela os homens; a loucura, o crime e a moléstia passam também a sua rasoura pelas distinções que inventamos. ,
+	      semelhar: O movimento de Turistas estava bem fraco e o lugar I]semelhava com Ubatuba. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3556' = “fazer igual, uniforme, correspondente ou semelhante”
+	     {comensurar: Assim, poder-se-ia I]comensurar diferentes regimes, por mais incompatíveis que pareçam ser seus. fundamentos. / I]Comensurando-se as colocações acima, fácil é concluir que o Direito vivo não é composto de normas, mas antes de realidades sociais normatizadas.,
+	      comparar: O quadro seguinte permite visualizar e [comparar a potência de algumas hidrelétricas brasileiras.,
+	      emular: H]emula(-se) com a amiga em beleza.,
+	      equiparar: A situação dos funcionários aposentados começou a melhorar em julho de 1988, quando o então reitor José Goldemberg [equiparou seus salários com o do pessoal da ativa.,
+	      igualar: Não é possível [igualar a posição dos dois réus. ,
+	      igualizar: I]Igualizar os estudantes entre si. / I]Igualizava, em modo e intensidade, os fenômenos geológicos que ocorrem atualmente com aqueles que ocorreram no passado.,
+	      nivelar: Não é só a morte que [nivela os homens; a loucura, o crime e a moléstia passam também a sua rasoura pelas distinções que inventamos. ,
+	      semelhar: O movimento de Turistas estava bem fraco e o lugar I]semelhava com Ubatuba. ,}
+Chave: EQUIPARAR <verb.change>
+ILI: 00404886
+
+Sense 3
+{00404886} <verb.change> equal, match7, equalize, equalise, equate -- (make equal, uniform, corresponding, or matching; "let's equalize the duties among all employees in this office"; "The company matched the discount policy of its competitors")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

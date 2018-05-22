@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0121
+
+DADO O SYNSET:
+
+S='Glosa121'
+{avaliar: Você pode [avaliar o aumento que está tendo a célula vista ao microscópio pelo seguinte cálculo.,
+calcular: Você pode [calcular quanto ar pode entrar e sair de uma só vez nos pulmões.,
+medir: Como o peso dos corpos depende de uma força de gravidade, podemos [medir o peso usando unidades de força. ,
+tomar: M]Tomar as dimensões de um objeto.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa121' = “medir por meio de um cálculo matemático ou computar”
+{avaliar: Você pode [avaliar o aumento que está tendo a célula vista ao microscópio pelo seguinte cálculo.,
+calcular: Você pode [calcular quanto ar pode entrar e sair de uma só vez nos pulmões.,
+medir: Como o peso dos corpos depende de uma força de gravidade, podemos [medir o peso usando unidades de força. ,
+tomar: I]Tomou as dimensões da sola, do tornozelo e pôs-se a medir a barriga da perna.,}
+Chave: CALCULAR <verb.cognition>
+ILI: 00617041
+
+Sense 1
+{00617041} <verb.cognition> calculate, cipher, cypher, compute, work out6, reckon1, figure -- (make a mathematical calculation or computation)
+       => {00612517} <verb.cognition> reason -- (think logically; "The children must learn to reason")
+           => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA3344
+
+DADO O SYNSET:
+
+S='Glosa3344'
+	    {
+	      coaxar: Indiferente, I]coaxava cada vez mais alto, pinoteando formidáveis saltos no ar.,
+	      malhar: Os sapos coaxavam, gargarejavam, M]malhavam.,
+	      relar2: x,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3344' = “emitir som rouco, como o do corvo, sapo”
+	     {coaxar: Indiferente, I]coaxava cada vez mais alto, pinoteando formidáveis saltos no ar.,
+	      malhar: Os sapos coaxavam, gargarejavam, M]malhavam.,}
+
+Chave: COAXAR <verb.communication>
+ILI: 01030533
+
+Sense 1
+{01030533} <verb.communication> croak1, cronk -- (utter a hoarse sound, like a raven)
+       => {00951670} <verb.communication> utter2, emit, let out2, let loose -- (express audibly; utter sounds (not necessarily words); "She let out a big heavy sigh"; "He uttered strange sounds that nobody could understand")

@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA4037
+
+DADO O SYNSET:
+
+S='Glosa4037'
+{atirar-se: Elisabeta, acreditando-o morto, I]atirou-se no rio.,
+cair: Um I]caiu no chão mas o outro continuou voando.,
+derrocar-se: A montanha se H]derrocou no terremoto.,
+despenhar-se: O presidente empurrou Ivan Ivanovitch tão desajeitadamente que este se I]despenhou sobre uma senhora vestida de noiva.,
+jogar-se: Antes de se iniciar o show, mas já no palco, o ex- baterista se I]jogou no chão em posição fetal e chorou compulsivamente.,
+precipitar-se: Entusiasmado pelo poder de voar, elevou-se tanto no ar que perdeu as asas e I]precipitou-se no mar.,
+projetar-se: Sobrevoavam a costa brasileira, quando o D-217 I]projetou-se no mar.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4037' = “mover violentamente, energicamente ou sem cuidado”
+{atirar-se: Elisabeta, acreditando-o morto, I]atirou-se no rio.,
+despenhar-se: O presidente empurrou Ivan Ivanovitch tão desajeitadamente que este se I]despenhou sobre uma senhora vestida de noiva.,
+jogar-se: Antes de se iniciar o show, mas já no palco, o ex- baterista se I]jogou no chão em posição fetal e chorou compulsivamente.,
+precipitar-se: Entusiasmado pelo poder de voar, elevou-se tanto no ar que perdeu as asas e I]precipitou-se no mar.,
+projetar-se: Sobrevoavam a costa brasileira, quando o D-217 I]projetou-se no mar.,}
+Chave: ATIRAR-SE <verb.motion>
+ILI: 02037652
+
+Sense 2
+{02037652} <verb.motion> throw -- (move violently, energetically, or carelessly; "She threw herself forwards")
+       => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right")

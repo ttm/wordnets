@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA1212
+
+DADO O SYNSET:
+
+S='Glosa1212'
+{apoiar: Você pode I]apoiar os braços numa mureta,
+ arrimar: Muito idoso, M]arrimava o corpo numa bengala,
+ descansar: Leonardo sentou-se junto de uma mesa, I]descansou o rosto numa das mãos, conservando sempre o chapéu armado atravessado na cabeça.,
+ encostar: Os melhores lugares ainda são as próximas das janelas, onde se pode I]encostar a cabeça com o travesseiro na parede,
+ escorar: A axila é o lugar de I]escorar a muleta,
+ firmar: H]Firmou o corpo contra a parede.,}
+	  
+A='Glosa1317'
+	    {desapoiar, desarrimar, desencostar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1212' = “encostar(se) de modo a apoiar(se)”
+{apoiar: Você pode I]apoiar os braços numa mureta.,
+ arrimar: Avençal I]arrimou o corpo a um galho a prumo.,
+ descansar: Cleber I]descansou um pé no assento de uma cadeira.,
+ encostar: Os melhores lugares ainda são as próximas das janelas, onde se pode I]encostar a cabeça com o travesseiro na parede.,
+ escorar: O que sai caro, é comprar o pisca lateral esquerdo que quebrou porque alguma madame I]escorou o carrinho do supermercado na lateral do seu carro.,
+ firmar: I]Firmei meu tênis "Nike" do Paraguai na mureta.,}
+A='Glosa1317'
+	    {desapoiar, desarrimar, desencostar}
+Chave: ENCOSTAR <verb.contact>
+ILI: 01546434
+
+Sense 1
+{01546434} <verb.contact> lean on, rest on, lean against -- (rest on for support; "you can lean on me if you get tired")
+       => {01169130} <verb.contact> touch1, adjoin3, meet, contact3 -- (be in direct physical contact with; make contact; "The two buildings touch"; "Their hands touched"; "The wire must not contact the metal cover"; "The surfaces contact at this point")

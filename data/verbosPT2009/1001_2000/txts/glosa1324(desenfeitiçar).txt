@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA
+
+DADO O SYNSET:
+
+S='Glosa1324'
+{desembruxar: x,
+              desencantar: Ninguém conseguiu até agora I]desencantá-lo e ele continua aparecendo, já velho, de barbas brandas à luz do luar.,
+              desenfeitiçar: A bruxa brinca lhona não conseguiu I]desenfeitiçá-lo.,}
+  
+A='Glosa3357'
+{embruxar, encantar, enfeitiçar, mandingar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1324' = “libertar de um feitiço”
+{desencantar: Eu te dei os poderes de São Marcos e São Diogo, tu vai lá e I]desencanta a bruxa.,
+              desenfeitiçar: A bruxa brincalhona não conseguiu I]desenfeitiçá-lo.,}
+A='Glosa3357'
+{embruxar, encantar, enfeitiçar, mandingar}
+Chave: DESENFEITIÇAR <verb.communication>
+ILI: 01030828
+
+Sense 1
+{01030828} <verb.communication> unspell -- (release from a spell)
+       => {02348394} <verb.social> free, liberate2, release, unloose, unloosen, loose -- (grant freedom to; free from confinement)

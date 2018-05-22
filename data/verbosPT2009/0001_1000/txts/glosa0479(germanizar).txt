@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0479
+
+DADO O SYNSET:
+
+S='Glosa479'
+{alemanizar: Ninguém foi à festa de inauguração, em sinal de protesto contra a tentativa de I]alemanizar a Alsácia e sua história.,
+alemoar: x,
+germanizar: Esta é a principal razão pela qual a Europa Ocidental avançou ainda mais seu processo de unificação, além, obviamente, do velho temor de que uma Alemanha ainda mais forte pudesse [germanizar grande parte da Europa Central e da Ocidental.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa479' = “assumir o estado ou condição de ser alemão” 
+{alemanizar: Ninguém foi à festa de inauguração, em sinal de protesto contra a tentativa de I]alemanizar a Alsácia.,
+germanizar: A Europa Ocidental avançou o processo de unificação diante do velho temor de que uma Alemanha ainda mais forte pudesse [germanizar grande parte da Europa Central e da Ocidental.,}
+Chave: GERMANIZAR <verb.change>
+ILI: EQ_HAS_HYPERONYM  - 00144029
+
+Sense 1
+{00144029} <verb.change> become, go4, get -- (enter or assume a certain state or condition; "He became annoyed when he heard the bad news"; "It must be getting more serious"; "her face went red with anger"; "She went into ecstasy"; "Get going!")
+       => {00140715} <verb.change> change state, turn4 -- (undergo a transformation or a change of position or action; "We turned from Socialism to Capitalism"; "The people turned against the President when he stole the election")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

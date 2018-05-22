@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0911
+
+DADO O SYNSET:
+
+S='Glosa911'
+{coletar: Nas duas horas seguintes eles [coletaram amostras do solo, ergueram uma bandeira americana, tiraram fotos enquanto 600 milhões de pessoas os assistiam da Terra.,
+colher: Para [colher mais dados, os representantes do Fórum Nacional contra a Violência no Campo se reunirão, em maio, em João Pessoa.,
+recolher: A internação mobilizou vários amigos, que montaram um bazar de artes plásticas para [recolher fundos, faz parte do passado.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa911' = “juntar ou reunir algo”
+{coletar: Nas duas horas seguintes eles [coletaram amostras do solo, ergueram uma bandeira americana, tiraram fotos enquanto 600 milhões de pessoas os assistiam da Terra.,
+colher: Para [colher mais dados, os representantes do Fórum Nacional contra a Violência no Campo se reunirão, em maio, em João Pessoa.,
+recolher: A internação mobilizou vários amigos, que montaram um bazar de artes plásticas para [recolher fundos, faz parte do passado.}
+Chave: RECOLHER <verb.change>
+ILI: 00152940
+
+Sense 3
+{00152940} <verb.change> accumulate, cumulate, conglomerate, pile up, gather, amass -- (collect or gather; "Journals are accumulating in my office"; "The work keeps piling up")
+       => {00150804} <verb.change> increase -- (become bigger or greater in amount; "The amount of work increased")
+           => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

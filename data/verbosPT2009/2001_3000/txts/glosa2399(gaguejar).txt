@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA2399
+
+DADO O SYNSET:
+
+S='Glosa2399'
+	    {bodejar: O vereador cheiroso começou a I]bodejar.,
+	      gaguejar: O apresentador também [gagueja.,
+	      tartamelar: x,
+	      tartamelear: x,
+	      tartamudear: A esta altura comecei a I]tartamudear, imaginando que talvez a professora estivesse tentando justificar minha mezuzá desaparecida, mas ela simplesmente sorriu.,
+	      tremelear: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2399' = “Falar defeituosamente, repetindo várias vezes algumas sílabas.”
+	    {bodejar: O vereador cheiroso começou a I]bodejar.,
+	      gaguejar: O apresentador também [gagueja.,
+	      tartamudear: Ele olhava em volta e I]tartamudeava:. - Mas, meu Deus... Eu... eu... eu não po... isso não, eu... peço. desculpa.,}
+
+Chave: GAGUEJAR <verb.communication>
+ILI: 00949404
+
+Sense 1
+{00949404} <verb.communication> bumble, stutter, stammer, falter -- (speak haltingly; "The speaker faltered when he saw his opponent enter the room")
+       => {00910961} <verb.communication> talk, speak, utter, mouth, verbalize, verbalise -- (express in speech; "She talks a lot of nonsense"; "This depressed patient does not verbalize")
+           => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+               => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel") 

@@ -1,0 +1,38 @@
+ANÁLISE DA GLOSA3620
+
+DADO O SYNSET:
+
+S='Glosa3620'
+	    {
+	      arrepiar-se: Às vezes [me arrepio toda cantando. ,
+	      arriçar-se: x,
+	      arrufar-se: Era o balido do companheiro; à cerva, [arrufando-se, ganhou o doce aprisco. ,
+	      enchoiriçar-se: x,
+	      enchouriçar-se: x,
+	      encrespar-se: Não seria surpresa verem-se-lhe surgir e I]encrespar-se os bigodes.,
+	      eriçar-se: Os animais ferozes ao menor desagrado [se eriçam e vociferam.,
+	      erriçar-se: Fernando só reparou na mutação quando seus lábios roçavam a fria cútis, cuja pubescência I]erriçava-se como o pêlo áspero do feltro.,
+	      espetar-se: É uma raça extremamente parecida com os humanos, a única diferença é que eles são bem mais fortes,tem cauda e seus cabelos I]se espetam com facilidade.,
+	      hispidar-se: Tremores súbitos percorriam os membros da moça; seus pêlos todos I]hispidavam-se em uma irritação mordente e lasciva.,
+	      oiriçar-se: x,
+	      ouriçar-se: Gabriel sentiu I]ouriçar-lhe o cabelo à vista da terrível cena que se patenteava a seus olhos.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3620' = “eriçar-se ou afofar-se”
+	     {arrepiar-se: Às vezes [me arrepio toda cantando. ,
+	      arrufar-se: Zeus, sempre sereno e magnífico, contendo a águia, que se I]arrufara, estalando o bico e batendo as asas em menção hostil, interrogou-o com palavras harmoniosas.,
+	      encrespar-se: I]Encrespou-se todo, cantou, afastou outro da mesma espécie que por lá pousou, avançou sobre os demais pássaros.,
+	      eriçar-se: Os animais ferozes ao menor desagrado [se eriçam e vociferam.,
+	      erriçar-se: Fernando só reparou na mutação quando seus lábios roçavam a fria cútis, cuja pubescência I]erriçava-se como o pêlo áspero do feltro.,
+	      espetar-se: É uma raça extremamente parecida com os humanos, a única diferença é que eles são bem mais fortes,tem cauda e seus cabelos I]se espetam com facilidade.,
+	      hispidar-se: Tremores súbitos percorriam os membros da moça; seus pêlos todos I]hispidavam-se em uma irritação mordente e lasciva.,
+	      ouriçar-se: O porco-espinho de Jakk também se I]ouriçou em seu bolso.,}
+Chave: ARREPIAR-SE <verb.contact>
+ILI: EQ_NEAR_SYNONYM - 01351415
+
+Sense 7
+{01351415} <verb.contact> ruffle1, fluff -- (erect or fluff up; "the bird ruffled its feathers")
+       => {01237410} <verb.contact> loosen -- (make less dense; "loosen the soil")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

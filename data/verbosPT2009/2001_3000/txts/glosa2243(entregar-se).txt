@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2243
+
+DADO O SYNSET:
+
+S='Glosa2243'
+	    {dar-se: x,
+	      entregar-se: Alfredo se I]entregou às preocupações diárias.,
+	      ocupar-se: Era uma simples lavadeira que gostava de se I]ocupar cantando músicas velhas e antiquadas.,
+	      vagar2: Gosta de A]vagar às leituras.,}
+
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2243' = “manter-se ocupado com algo”
+	    {entregar-se: Alfredo se I]entregou às preocupações diárias.,
+	      ocupar-se: Vai ter muita velhinha fazendo palestra, se [ocupando de coisas sociais.,
+	      vagar2: Gosta de A]vagar às leituras.,}
+
+Chave: ENTREGAR-SE <verb.social>
+ILI: 02342844
+
+Sense 2
+{02342844} <verb.social> busy, occupy -- (keep busy with; "She busies herself with her butterfly collection")
+       => {02340529} <verb.social> work2 -- (exert oneself by doing mental or physical work for a purpose or out of necessity; "I will work hard to improve my grades"; "she worked hard for better living conditions for the poor")

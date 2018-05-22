@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA2346
+
+DADO O SYNSET:
+
+S='Glosa2346'
+	    {adormecer: Estava sentado no chão desde aquele momento, e suas pernas I]adormeceram.,
+	      adormentar: Deitava-se, aconchegava-se, procurava I]adormentar o cérebro, repelindo, baralhando as idéias que se apresentavam.,
+	      amortecer: Neste momento uma nova esperança se derramou sobre mim, que como bálsamo divino I]amorteceu meus músculos me atirando de joelhos sobre as rasas águas. ,
+	      amortificar: x,
+	      emortecer: x,
+	      entorpecer: As garçonetes I]entorpeceram seus corpos com as bandejas nas mãos, esperando.,
+	      torpecer: Aos olhos tristes meus, que a dor I]torpece.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2346' = “Tornar calmo ou tranqüilo.”
+	    {adormecer: Meu I]cérebro adormeceu e eu não conseguia acordá-lo.,
+	      adormentar: Deitava-se, aconchegava-se, procurava I]adormentar o cérebro.,
+	      amortecer: Política de abastecimento I]amortecia conflitos nas Minas setecentistas.,
+	      entorpecer: Era uma voz que paralisava e I]entorpecia.,}
+
+Chave: ENTORPECER <verb.emotion>
+ILI: 01713922
+
+Sense 3
+{01713922} <verb.emotion> calm, calm down, quiet, tranquilize, tranquillize, tranquillise, quieten, lull, still -- (make calm or still; "quiet the dragons of worry and fear")
+       => {01762034} <verb.emotion> comfort1, soothe, console, solace -- (give moral or emotional strength to) 

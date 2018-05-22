@@ -1,0 +1,18 @@
+ANÁLISE DA GLOSA1535
+
+DADO O SYNSET:
+
+S='Glosa1535'
+{dessalificar: x,
+ dessalinizar: Um engenheiro pretende montar um sistema para I]dessalinizar a água.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1535' = “remover sal [de]”
+{dessalinizar: A Arábia Saudita I]dessaliniza três milhões de toneladas de água do mar por dia.,}
+Chave: DESSALINIZAR
+ILI: 00517801
+
+Sense 1
+{00517801} <verb.change> desalinate, desalt, desalinize, desalinise -- (remove salt from; "desalinate water")
+       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA3710
+
+DADO O SYNSET:
+
+S='Glosa3710'
+	{indicar: Se não se consegue transformar o veneno em remédio e se o remédio se transforma em vício, ninguém poderá [indicar e administrar a terapia autêntica, capaz de quebrar essa dependência, sem o apoio firme da própria sociedade . ,
+	 passar: A médica me I]passou remédio porque em uma das vezes que senti esses movimentos involuntários, não consegui me controlar, estava de pé e acabei caindo.,
+	 prescrever: De 15 em 15 dias tem uma consulta com o professor Andrade que lhe [prescreve diferentes exercícios diários.,
+	 receitar: Procurou um médico que r[eceitou um antibiótico.}
+	
+A ANÁLISE RESULTA EM:
+
+S='Glosa3710' = “dar ordens ou indicações”
+	{indicar: Se não se consegue transformar o veneno em remédio e se o remédio se transforma em vício, ninguém poderá [indicar e administrar a terapia autêntica, capaz de quebrar essa dependência, sem o apoio firme da própria sociedade.,
+	 passar: A médica me I]passou remédio porque em uma das vezes que senti esses movimentos involuntários, não consegui me controlar, estava de pé e acabei caindo.,
+	 prescrever: De 15 em 15 dias tem uma consulta com o professor Andrade que lhe [prescreve diferentes exercícios diários.,
+	 receitar: Procurou um médico que [receitou um antibiótico.}
+Chave: RECEITAR <verb.communication>
+ILI: 00722626
+
+Sense 1
+{00722626} <verb.communication> order2, prescribe, dictate -- (issue commands or orders for)
+       => {00723747} <verb.communication> inflict, bring down, visit1, impose -- (impose something unpleasant; "The principal visited his rage on the students")
+           => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+               => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

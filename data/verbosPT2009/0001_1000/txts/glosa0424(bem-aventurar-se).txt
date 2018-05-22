@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA0424
+
+DADO O SYNSET:
+
+S='Glosa424'
+{afortunar-se: O sujeito zapeador carece de encontros reais mas I]afortuna-se na amplitude do intercâmbio de possibilidades.,
+bem-aventurar-se: Estas atitudes, porém, acabam por restringir a ação da Igreja aos arredores do altar e da sacristia, coibindo os fiéis leigos de I]bem aventurar-se no mundo.,
+felicitar-se: A mediocridade produtiva acabava levando o autor a se contaminar com os aplausos de seus idólatras e I]felicitar-se por seus enganos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa424' = “conferir (-se) prosperidade ou alegria”
+{afortunar-se: O sujeito zapeador carece de encontros reais mas I]afortuna-se na amplitude do intercâmbio de possibilidades.,
+bem-aventurar-se: Estas atitudes, porém, acabam por restringir a ação da Igreja aos arredores do altar e da sacristia, coibindo os fiéis leigos de I]bem aventurar-se no mundo.,
+felicitar-se: A mediocridade produtiva acabava levando o autor a se contaminar com os aplausos de seus idólatras e I]felicitar-se por seus enganos.,}
+Chave: BEM-AVENTURAR-SE <verb.possession>
+ILI: 02198672
+
+Sense 2
+{02198672} <verb.possession> bless -- (confer prosperity or happiness on)
+       => {02197925} <verb.possession> confer, bestow -- (present; "The university conferred a degree on its most famous former student, who never graduated"; "bestow an honor on someone")
+           => {02196595} <verb.possession> award, present2 -- (give, especially as a reward; "bestow honors and prizes at graduation")
+               => {02169266} <verb.possession> allocate, apportion1 -- (distribute according to a plan or set apart for a special purpose; "I am allocating a loaf of bread to everyone on a daily basis"; "I'm allocating the rations for the camping trip")
+                   => {02164287} <verb.possession> assign1, allot1, portion -- (give out or allot; "We were assigned new uniforms")
+                       => {02228378} <verb.possession> distribute, administer, mete out, deal1, parcel out, lot, dispense, shell out, deal out, dish out, allot2, dole out -- (administer or bestow, as in small portions; "administer critical remarks to everyone present"; "dole out some money"; "shell out pocket money for the children"; "deal a blow to someone")
+                           => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+                               => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children")

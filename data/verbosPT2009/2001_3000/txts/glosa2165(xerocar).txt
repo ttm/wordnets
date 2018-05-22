@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2165
+
+DADO O SYNSET:
+
+S='Glosa2165'
+	    {xerocar: É só [xerocar a primeira página !,
+	      xerocopiar: Caso seja necessário, favor I]xerocopiar esta ficha. ,
+	      xerografar: Você pode procurar nas Bibliotecas da USP, UNICAMP e UNESP, através do PROBE e WEB of Science, ou procurar os periódicos em papel e I]xerografar os artigos. ,
+	      xeroxar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2165' = “reproduzir por meio de xerocópias” 
+	    {xerocar: É só [xerocar a primeira página !,
+	      xerocopiar: Caso seja necessário, favor I]xerocopiar esta ficha. ,
+	      xerografar: Você pode procurar nas Bibliotecas da USP, UNICAMP e UNESP, através do PROBE e WEB of Science, ou procurar os periódicos em papel e I]xerografar os artigos. ,}
+
+Chave: XEROCAR <verb.creation>
+ILI: 01687131
+
+Sense 1
+{01687131} <verb.creation> photocopy, run off, xerox -- (reproduce by xerography)
+       => {01687654} <verb.creation> reproduce -- (make a copy or equivalent of; "reproduce the painting")
+           => {01575778} <verb.creation> produce, make1, create3 -- (create or manufacture a man-made product; "We produce more cars than we can sell"; "The company has been making toys for two centuries")

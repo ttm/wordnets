@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA3947
+
+DADO O SYNSET:
+
+S='Glosa3947'
+    	{precautelar: x,
+      	 precaver: A Mione já te I]precaveu quanto a doenças infecto-contagiosas.,
+      	 prevenir: Os pesquisadores descobriram que o uso das vitaminas não [preveniu a formação de novos pólipos.,
+      	 resguardar: Acho que o Instituto de Resseguros do Brasil não é imprescindível, mas penso que alguma coisa deve ser feita para [resguardar os interesses das pequenas e médias seguradoras neste campo.»,
+      	 salvaguardar: Este artigo prevê a obrigação de se eleger um ombudsman militar e a respectiva extenção de suas funções: deve ser designado para [salvaguardar os direitos básicos e assistir ao Bundestag no exercício do controle parlamentar .,
+      	 salvar: Eduardo conseguiu convencer D. Maria do perigo que ela estava correndo e a I]salvou do pior.,
+      	 segurar: M]Segurou o êxito daquele empreendimento.,}
+  
+A='Glosa1517'
+    	{descuidar, desprevenir}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3947' = “pôr a salvo”
+    	{resguardar: Este extraordinário administrador I]resguardou o indígena de seus perseguidores.,
+      	 salvaguardar: Se isto isolou o PDT, também assegurou a sua posição coerente de esquerda, o que o I]salvaguardou das tentativas de cooptação e de descaracterização de suas bandeiras.,
+      	 salvar: Negociou um acordo que [salvou o setor da extinção e garantiu reajustes mensais para sua categoria.,
+      	 segurar: O mesmo mar no mesmo ponto os I]segurou de todo o perigo.}
+  
+A='Glosa1517'
+    	{descuidar, desprevenir}
+Chave: SALVAR <verb.social>
+ILI: 02476374
+
+Sense 3
+{02476374} <verb.social> save, carry through, pull through, bring through -- (bring into safety; "We pulled through most of the victims of the bomb attack")

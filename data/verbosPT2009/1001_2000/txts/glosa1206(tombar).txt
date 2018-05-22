@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA1206
+
+DADO O SYNSET:
+
+S='Glosa1206'
+{cair: No número 96 da Rua Saint Roman, outro muro [caiu sobre um táxi Fiat Prêmio, que estava estacionado na calçada. ,
+ descair: Dai só dei umas voltas pelo bairro e treinei parar e arrancar em aclive sem I]descair.,
+ descambar: olhava para o sol que subia ou I]descambava.,
+ pender: Uma grande barba ruiva I]pende-lhe sobre o peito.,
+ recair: A cabeça M]recai-lhe sobre o peito.,
+ tombar1: Mas não inevitável como um meteorito que [tombou sobre a terra,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1206' = “cair inclinando de uma posição mais elevada para uma menos elevada”
+{cair: No número 96 da Rua Saint Roman, outro muro [caiu sobre um táxi Fiat Prêmio, que estava estacionado na calçada.,
+ descair: A bola I]descaiu no meio do gol e Diego desviou para escanteio.,
+ descambar: Perdeu o pedal do meio. I]Descambou ladeira abaixo.,
+ pender: Isso indica que a cabeça [pendeu para o lado direito, o mesmo para o qual o corpo foi lançado.,
+ recair: O vento I]recaiu para o sudoeste.,
+ tombar1: Cruz [tombou para o lado e se apoiou na mesa.,}
+Chave: TOMBAR <verb.motion>
+ILI: 01979602
+
+Sense 22
+{01979602} <verb.motion> fall11 -- (slope downward; "The hills around here fall towards the ocean")
+       => {01978907} <verb.motion> slope, incline, pitch1 -- (be at an angle; "The terrain sloped down")
+           => {01980120} <verb.motion> lean, tilt, tip1, slant, angle -- (to incline or bend from a vertical position; "She leaned over the banister")
+               => {01977754} <verb.motion> bend, flex -- (form a curve; "The stick does not bend")
+                   => {00135866} <verb.change> change shape, change form, deform2 -- (assume a different shape or form)
+                       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

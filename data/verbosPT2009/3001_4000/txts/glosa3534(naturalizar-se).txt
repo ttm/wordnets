@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA3534
+
+DADO O SYNSET:
+
+S='Glosa3534'
+	    {
+	      nacionalizar-se: Levado por um sentimento patriótico, Marconi recusara I]nacionalizar-se inglês.,
+	      naturalizar-se: A emenda permite que os filhos de brasileiros nascidos no estrangeiro possam [se naturalizar brasileiros em qualquer momento de suas vidas.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3534' = “tornar-se cidadão”
+	     {nacionalizar-se: Nascido em Motol, Rússia, I]nacionalizou-se britânico em 1910.,
+	      naturalizar-se: Após a guerra, von Braun [naturalizou-se cidadão dos Estados Unidos da América e passou a trabalhar para a Comissão Nacional de Aeronáutica e Espaço (NASA).,}
+Chave: NATURALIZAR-SE <verb.change>
+ILI: 00400166
+
+Sense 3
+{00400166} <verb.change> naturalize, naturalise -- (make into a citizen; "The French family was naturalized last year")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

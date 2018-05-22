@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA2484
+
+DADO O SYNSET:
+
+  S='Glosa2484'
+	    {sobrelotar: Pena de morte para não I]sobrelotar os presídios e para segurança do povo.,
+	      superlotar: Americanos enfrentam calor e [superlotam estádio para assistir à vitória por 1 a 0 sobre a Bolívia. # A maior parte das novas celas deverá ser ocupada por presos que [superlotam os distritos policiais da capital, com preferência para os que cumprem pena pela primeira vez.,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2484' = “Aglomerar demasiadamente.”
+	    {sobrelotar: A sala da cinemateca I]sobrelotou para assisir à estreia do então documentário.,
+	      superlotar: A maior parte das novas celas deverá ser ocupada por presos que [superlotam os distritos policiais da capital.,}
+
+Chave: SUPERLOTAR <verb.motion>
+ILI: 01969970
+
+Sense 2
+{01969970} <verb.motion> overcrowd -- (crowd together too much)
+       => {01969656} <verb.motion> crowd, crowd together -- (to gather together in large numbers; "men in straw boaters and waxed mustaches crowded the verandah")
+           => {02355773} <verb.social> meet, gather, assemble, forgather, foregather -- (collect in one place; "We assembled in the church basement"; "Let's gather in the dining room")
+               => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel") 

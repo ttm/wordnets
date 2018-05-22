@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA1398
+
+DADO O SYNSET:
+
+S='Glosa1398'
+{desequilibrar: A entrada dos investidores estrangeiros [desequilibrou esse mercado, ainda restrito para tanto dinheiro.,
+ desestabilizar: Hoje o narcotráfico conseguiu montar uma estrutura tão forte que pode até [desestabilizar a economia tradicional no ano 2000,}
+	  
+A='Glosa1397'
+{equilibrar, estabilizar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1398' = “tornar desequilibrado, desestabilizado” 
+{desequilibrar: A entrada dos investidores estrangeiros [desequilibrou esse mercado, ainda restrito para tanto dinheiro.,
+ desestabilizar: Ele acredita que houve uma tentativa de sequestro com fins políticos para [desestabilizar o governo do Rio e a candidatura de Leonel Brizola à Presidência.,}
+A='Glosa1397'
+{equilibrar, estabilizar}
+Chave: DESESTABILIZAR <verb.change>
+ILI: 00262820
+
+Sense 2
+{00262820} <verb.change> destabilize, destabilise -- (make unstable; "Terrorism destabilized the government")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

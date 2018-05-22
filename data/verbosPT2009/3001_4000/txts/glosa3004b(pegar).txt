@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA3004b
+
+DADO O SYNSET:
+
+S='Glosa3004'
+	     {aferrar: H]Aferrou o gatuno pelo ombro.,
+	      agarrar: Ele I]agarrou o meu braço e me puxou e então saímos correndo sem nunca olhar para trás. ,
+	      atracar: x,
+	      ferrar: H]Ferrou alguém pelo braço.,
+	      garrear: x,
+	      pegar: O comerciante foi até seu Passat, [pegou o macaco e entregou ao homem.,
+	      prender: Vendo a atitude de Mulder, Krycek sacou a arma e foi atrás dele, prendendo-o pelo braço e encostando a arma em suas costelas. ,
+	      segurar: O Menino ainda [segurando suas pernas, não deixou que ele se virasse.,
+	      tomar: Vamos para a missa, ordenou Ovalle, [tomando-o pelo braço. ,
+	      travar: Com a mão esquerda, o cara I]travou o braço do Jonesy.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3004b' = “envolver nas mãos, tomar fisicamente”
+	    {pegar: O comerciante foi até seu Passat, [pegou o macaco e entregou ao homem.,}
+Chave: PEGAR <verb.contact>
+ILI: 01177510
+
+Sense 4
+{01177510} <verb.contact> take, get hold of -- (get into one's hands, take physically; "Take a cookie!"; "Can you take this bag, please")
+          Also See-> {02418238} <verb.social> take in#4; {02493557} <verb.social> take on#3; {01273320} <verb.contact> take up#9; {01393164} <verb.contact> take away#1; {01178031} <verb.contact> take in#8; {01529028} <verb.contact> take apart#2

@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA3454
+
+DADO O SYNSET:
+
+S='Glosa3454'
+	{afarelar: x,
+	 desfarelar: ...]desfarelo e faço papa para insectívoros,
+	 desmiuçar: Eu queria ]desmiuçar a arma, porque tem muita criança aqui dentro de casa,
+	 esfarelar: A madeira costuma ]esfarelar em contato freqüente com a umidade/Cuidado para não ]esfarelar o biscoito!,
+	 esfarinhar: Amasse as balas em um pirex grande até ]esfarinhar tudo,
+	 esmigalhar: A primeira máquina de ]esmigalhar grãos de milho deve ter sido uma pedra grande onde se colocavam os grãos de milho, e uma pedra menor, arredondada,
+	 esmiuçar: ...esmiuçar os alimentos,
+	 esmiudar: x,
+	 migalhar: x,
+	 migar: O feijão era cozido logo pela manhã e quando se chegava ao fim do dia, era só ]migar a salada de almeirão miudinha e adicionar o feijão amornado}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3454' = “quebrar ou cair aos pedaços”
+	{desfarelar: I]Desfarelo e faço papa para insectívoros.,
+	 desmiuçar: Eu queria I]desmiuçar a arma, porque tem muita criança aqui dentro de casa.,
+	 esfarelar: A madeira costuma I]esfarelar em contato freqüente com a umidade/Cuidado para não ]esfarelar o biscoito!,
+	 esfarinhar: Amasse as balas em um pirex grande até ]esfarinhar tudo,
+	 esmigalhar: A primeira máquina de ]esmigalhar grãos de milho deve ter sido uma pedra grande onde se colocavam os grãos de milho, e uma pedra menor, arredondada,
+	 esmiuçar: ...esmiuçar os alimentos,
+	 migar: O feijão era cozido logo pela manhã e quando se chegava ao fim do dia, era só ]migar a salada de almeirão miudinha e adicionar o feijão amornado}
+Chave: ESFARELAR <verb.change>
+ILI: 00385382
+
+Sense 2
+{00385382} <verb.change> crumble, fall apart4 -- (break or fall apart into fragments; "The cookies crumbled"; "The Sphinx is crumbling")
+       => {00385553} <verb.change> disintegrate -- (break into parts or components or lose cohesion or unity; "The material disintegrated"; "the group disintegrated after the leader died")
+           => {00135037} <verb.change> change integrity -- (change in physical make-up)
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA3422
+
+DADO O SYNSET:
+
+S='Glosa3422'
+	    {
+	      bater: Creio que I]bater máquina é uma arte compatível à de pintar.,
+	      dactilografar: O funcionário responsável por I]dactilografar o comunicado tinha escrito "mosqueteiro" em vez de "mosquiteiro.,
+	      datilografar: O expediente já havia terminado e eles precisavam dramaticamente de uma pessoa para I]datilografar três linhas em um contrato que tinham elaborado.,
+	      mecanografar: M]Mecanografar um ofício.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3422' = “escrever por meio de teclado com  tipos”
+	     {bater: Ele mesmo I]bateu à máquina muitos carbonos da carta e os distribuiu nas ruas.,
+	      dactilografar: Ana Maria Cardoso I]dactilografou o texto com a sua habitual eficiência.,
+	      datilografar: Durante anos, Zélia I]datilografou os textos originais do marido.,
+	      mecanografar: M]Mecanografar um ofício.,}
+Chave: DATILOGRAFAR <verb.communication>
+ILI: 00972034
+
+Sense 1
+{00972034} <verb.communication> type, typewrite -- (write by means of a keyboard with types; "type the acceptance letter, please")
+       => {00960729} <verb.communication> write -- (communicate or express by writing; "Please write to me every week")
+           => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+               => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

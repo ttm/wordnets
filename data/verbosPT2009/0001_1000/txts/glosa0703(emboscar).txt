@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0703
+
+DADO O SYNSET:
+
+S='Glosa703'
+{atocaiar: Charles não pensou nem um pouco resolveu se esconder e I]atocaiar as freiras,
+emboscar: Os rebeldes da Unita [emboscaram no fim-de-semana alguns carros e mataram oito civis, entre eles dois portugueses,
+tocaiar: Segundo ele, 10 homens o [tocaiaram e deram tiros de escopeta no seu carro,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa703' = “armar cilada; esperar escondido para atacar”
+{atocaiar: Charles não pensou nem um pouco resolveu se esconder e I]atocaiar as freiras,
+emboscar: Os rebeldes da Unita [emboscaram no fim-de-semana alguns carros e mataram oito civis, entre eles dois portugueses,
+tocaiar: Segundo ele, 10 homens o [tocaiaram e deram tiros de escopeta no seu carro,}
+Chave: EMBOSCAR <verb.competition>
+ILI: 01102940
+
+Sense 1
+{01102940} <verb.competition> ambush, scupper, bushwhack, waylay, lurk, ambuscade, lie in wait -- (wait in hiding to attack)
+       => {02559470} <verb.stative> wait -- (stay in one place and anticipate or expect something; "I had to wait on line for an hour to get the tickets")

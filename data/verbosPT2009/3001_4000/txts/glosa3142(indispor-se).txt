@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA3142
+
+DADO O SYNSET:
+
+S='Glosa3142'
+	    {
+	      incompatibilizar-se: Como já aconteceu no passado, o presidente da RFFSA I]incompatibilizou-se com o ministro dos Transportes e saiu dos trilhos.,
+	      indispor-se: Em 1946, [indispôs-se com o peronismo.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3142' = “ser de opinião diferente”
+	     {incompatibilizar-se: Como já aconteceu no passado, o presidente da RFFSA I]incompatibilizou-se com o ministro dos Transportes e saiu dos trilhos.,
+	      indispor-se: Panizzi I]indispôs-se com o governo ducal de Modena, cidade onde nasceu na Itália.,}
+Chave: INDISPOR-SE <verb.communication>
+ILI: 00778773
+
+Sense 1
+{00778773} <verb.communication> disagree, differ, dissent1, take issue -- (be of different opinions; "I beg to differ!"; "She disagrees with her husband on many questions")

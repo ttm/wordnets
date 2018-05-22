@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA1671
+
+DADO O SYNSET:
+
+S='Glosa1671'
+{atrofiar-se: Esta liberdade de imaginar mundos possíveis I]atrofiou-se espantosamente na Idade Média, cabendo à Escolástica determinar o que seria da vida dos homens.,
+ embotar-se: Minha memória embotava-se. Afinal, já não era só a palavra falada que nos fugia; era também a palavra concebida,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1671' = “sofrer atrofia”
+{atrofiar: Aristeu tinha também mente saudável, mas que entrou no comodismo e I]atrofiou.,
+ atrofiar-se: Crescem os ramos em que as exportações são competitivas e se [atrofiam.,
+ embotar-se: Vê-se que neste caso se I]embotaram os sentimentos delicados.,}
+Chave: ATROFIAR-SE <verb.body>
+ILI: 00091170
+
+Sense 1
+{00091170} <verb.body> atrophy -- (undergo atrophy; "Muscles that are not used will atrophy")
+       => {00233791} <verb.change> shrivel, shrivel up, shrink2, wither -- (wither, especially with a loss of moisture; "The fruit dried and shriveled")
+           => {00146081} <verb.change> decrease, diminish, lessen, fall6 -- (decrease in size, extent, or range; "The amount of homework decreased towards the end of the semester"; "The cabin pressure fell dramatically"; "her weight fall to under a hundred pounds"; "his voice fell to a whisper")
+               => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

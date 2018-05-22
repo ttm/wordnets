@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA3231
+
+DADO O SYNSET:
+
+S='Glosa3231'
+	    {
+	      cultivar: E Cândido chega à luminosa conclusão de que o homem nasceu para [cultivar seu jardim.,
+	      jardinar: O mais do tempo é gasto em hortar, [jardinar e ler; como bem e não durmo mal.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3231' = “trabalhar no jardim”
+	     {cultivar: Ela cresceu em fazenda, I]cultiva rosas em casa e sente um grande prazer ao plantar uma árvore.,
+	      jardinar: A prefeitura através da Secretaria de Habitação e Infra-Estrutura já I]jardinou todos os canteiros defronte ao prédio.,}
+Chave: JARDINAR <verb.creation>
+ILI: 01691800
+
+Sense 1
+{01691800} <verb.creation> garden -- (work in the garden; "My hobby is gardening")
+       => {02474544} <verb.social> tend -- (have care of or look after; "She tends to the children")
+           => {02474278} <verb.social> attend12, take care11, look13, see14 -- (take charge of or deal with; "Could you see about lunch?"; "I must attend to this matter"; "She took care of this business")
+               => {02474993} <verb.social> care13, give care -- (provide care for; "The nurse was caring for the wounded")
+                   => {02472355} <verb.social> help, assist2, aid -- (give help or assistance; be of service; "Everyone helped out during the earthquake"; "Can you help me carry this table?"; "She never helps around the house")
+                       => {02480483} <verb.social> support, back up -- (give moral or psychological support, aid, or courage to; "She supported him during the illness"; "Her children always backed her up")

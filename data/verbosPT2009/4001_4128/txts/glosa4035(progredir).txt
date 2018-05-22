@@ -1,0 +1,40 @@
+ANÁLISE DA GLOSA4035
+
+DADO O SYNSET:
+
+S='Glosa4035'
+{adiantar-se: Existe um índice significativo de alunos que se I]adiantam em relação à turma, pois são alunos que realizaram novo vestibular.,
+aumentar: A empresa H]aumentou em influência.,
+crescer: Com o deslocamento das pessoas para aquela área, o comércio I]cresceu para atender às necessidades básicas dos moradores.,
+desenvolver-se: Diferentes estilos de Kung Fu se I]desenvolveram quando as personalidades e as nuanças dos monges emergiram.,
+expandir-se: Enquanto que as vendas no varejo se I]expandiram 2,1%, a produção industrial cresceu 0,8% em novembro.,
+medrar: H]Medram as artes e as ciências.,
+melhorar: Porém, cabe ressaltar que operacionalmente a empresa I]melhorou.,
+progredir: Nos anos 50, com a entrada na sociedade do Sr. Kern, responsável pelo setor de embutidos e doceiria a empresa I]progrediu rapidamente.,
+prosperar: O município I]prosperou a partir do final do século XVIII.,}
+	  
+A='Glosa2466'
+{decair, desandar, regredir, retroceder, retrogradar, sofrer}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4035' = “desenvolver de modo positivo”
+{adiantar-se: Existe um índice significativo de alunos que se I]adiantam em relação à turma, pois são alunos que realizaram novo vestibular.,
+crescer: Luis Carlos Santos sempre se bateu pela tese, é um dos líderes cuja avaliação não esconde do governo os perigos iminentes e, por causa disso, desde o final do ano passado [cresceu na confiança do presidente.,
+medrar: H]Medram as artes e as ciências.,
+melhorar: Porém, cabe ressaltar que operacionalmente a empresa I]melhorou.,
+progredir: Nos anos 50, com a entrada na sociedade do Sr. Kern, responsável pelo setor de embutidos e doceiria a empresa I]progrediu rapidamente.,
+prosperar: O município I]prosperou a partir do final do século XVIII.,}
+	  
+A='Glosa2466'
+{decair, desandar, regredir, retroceder, retrogradar, sofrer}
+Chave: PROGREDIR <verb.change>
+ILI: 00240336
+
+Sense 1
+{00240336} <verb.change> progress, come on2, come along1, advance, get on, get along, shape up -- (develop in a positive way; "He progressed well in school"; "My plants are coming along"; "Plans are shaping up")
+       => {00243643} <verb.change> develop -- (grow, progress, unfold, or evolve through a process of evolution, natural growth, differentiation, or a conducive environment; "A flower developed on the branch"; "The country developed into a mighty superpower"; "The embryo develops into a fetus"; "This situation has developed over a long time")
+           => {00223119} <verb.change> grow -- (become larger, greater, or bigger; expand or gain; "The problem grew too large for me"; "Her business grew fast")
+               => {00150804} <verb.change> increase -- (become bigger or greater in amount; "The amount of work increased")
+                   => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+                       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

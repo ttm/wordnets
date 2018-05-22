@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA1306
+
+DADO O SYNSET:
+
+S='Glosa1306'
+{desencasquetar: x,
+ despreocupar: O professor é assistido, durante as preleções, por uma pequena equipe técnica cujas funções incluem, entre outras, a de I]despreocupá-lo quanto a aspectos de apresentação visual das aulas. ,}
+	  
+A='Glosa3054'
+	    {encabular, encafifar, grilar, impressionar, inquietar, intrigar, preocupar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1306' = “infundir confiança, fazendo alguém sentir-se confiante, seguro” 
+{despreocupar: O professor é assistido, durante as preleções, por uma pequena equipe técnica cujas funções incluem, entre outras, a de I]despreocupá-lo quanto a aspectos de apresentação visual das aulas.,}
+A='Glosa3054'
+	    {encabular, encafifar, grilar, impressionar, inquietar, intrigar, preocupar}
+Chave: DESPREOCUPAR <verb.emotion>
+ILI: 01715457
+
+Sense 1
+{01715457} <verb.emotion> reassure, assure -- (cause to feel sure; give reassurance to; "The airline tried to reassure the customers that the planes were safe")
+       => {01713922} <verb.emotion> calm, calm down, quiet, tranquilize, tranquillize, tranquillise, quieten, lull, still -- (make calm or still; "quiet the dragons of worry and fear")
+           => {01762034} <verb.emotion> comfort1, soothe, console, solace -- (give moral or emotional strength to)

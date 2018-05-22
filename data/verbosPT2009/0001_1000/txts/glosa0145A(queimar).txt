@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0145A
+
+DADO O SYNSET:
+
+S='Glosa145'
+{ardejar: x,
+arder: Durante o inverno, nas casas [ardem enormes lareiras, e ferve sempre o samovar para os hóspedes,
+escaldar: Quase que se não podia sair à rua: as pedras [escaldavam; as vidraças e os lampiões faiscavam ao sol como enormes diamantes.,
+queimar: Ontem, mais de 36 horas depois do acidente, um dos tanques ainda [queimava.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa145A' = “realizar combustão”
+{arder: Durante o inverno, nas casas [ardem enormes lareiras, e ferve sempre o samovar para os hóspedes,
+queimar: O carvão ele produzia cavando fossos no chão onde I]queimava a madeira os "fornos".,}
+Chave: QUEIMAR <verb.change>
+ILI: 00365423
+
+Sense 3
+{00365423} <verb.change> burn, combust -- (undergo combustion; "Maple wood burns well")
+       => {00140715} <verb.change> change state, turn4 -- (undergo a transformation or a change of position or action; "We turned from Socialism to Capitalism"; "The people turned against the President when he stole the election")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

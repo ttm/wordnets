@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA3774
+
+DADO O SYNSET:
+
+S='Glosa3774'
+{alinhar: Dos 84 carros inscritos na classificação, apenas 60 teriam o direito de [alinhar na largada.,
+	 encarreirar: x,
+	 enfieirar: H]Enfieirou cajus para vender na feira.,
+	 enfileirar: Trata-se de uma minúscula embarcação, seria possível [enfileirar 10 mil delas em um milímetro.,
+	 enrenquear: H]Enrenquear árvores.,
+	 perfilar: I]Perfilar os animais pela ordem final desta etapa e confirmar a classificação.}
+
+A='Glosa1126'
+{desalinhar, desenfileirar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3774' = “dispor em ordem de uma linha”
+{alinhar: Dos 84 carros inscritos na classificação, apenas 60 teriam o direito de [alinhar na largada.,
+	 enfieirar: H]Enfieirou cajus para vender na feira.,
+	 enfileirar: Trata-se de uma minúscula embarcação, seria possível [enfileirar 10 mil delas em um milímetro.,
+	 enrenquear: H]Enrenquear árvores.,
+	 perfilar: I]Perfilar os animais pela ordem final desta etapa e confirmar a classificação.}
+
+A='Glosa1126'
+{desalinhar, desenfileirar}
+Chave: ENFILEIRAR <verb.contact>
+ILI: 01432466
+
+Sense 5 
+{01432466} <verb.contact> range, array, lay out, set out -- (lay out in a line)
+       => {01422386} <verb.contact> arrange, set up -- (put into a proper or systematic order; "arrange the books on the shelves in chronological order")
+           => {01452069} <verb.contact> put, set, place, pose2, position, lay1 -- (put into a certain place or abstract location; "Put your things here"; "Set the tray down"; "Set the dogs on the scent of the missing children"; "Place emphasis on a certain point")
+               => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

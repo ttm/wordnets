@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA2667
+
+DADO O SYNSET:
+
+S='Glosa2667'
+	    {recapear: Na opinião de Silveira, somente através do Plano de Contribuição de Melhorias (PCM) seria possível I]recapear as ruas do Jardim Cruzeiro imediatamente.,
+	      repavimentar: Acontece que até agora a Casan tem se negado a repassar os recursos conveniados com a Prefeitura de Joinville para I]repavimentar a rua Monsenhor Gercino.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2667' = “Cobrir com um material como pedra ou concreto para tornar apropriado para o tráfego de veículos.
+	    {recapear: Somente através do Plano de Contribuição de Melhorias seria possível I]recapear as ruas do Jardim Cruzeiro.,
+	      repavimentar: Acontece que até agora a Casan tem se negado a repassar os recursos conveniados com a Prefeitura de Joinville para I]repavimentar a rua Monsenhor Gercino.,}
+
+Chave: RECAPEAR <verb.contact>
+ILI: 01228938 
+
+Sense 1
+{01228938} <verb.contact> pave -- (cover with a material such as stone or concrete to make suitable for vehicle traffic; "pave the roads in the village")
+       => {01226248} <verb.contact> coat, surface -- (put a coat on; cover the surface of; furnish with a surface; "coat the cake with chocolate")
+           => {01293336} <verb.contact> cover -- (provide with a covering or cause to be covered; "cover her face with a handkerchief"; "cover the child with a blanket"; "cover the grave with flowers") 

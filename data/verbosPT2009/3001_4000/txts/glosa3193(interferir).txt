@@ -1,0 +1,35 @@
+ANÁLISE DA GLOSA3193
+
+DADO O SYNSET:
+
+S='Glosa3193'
+	    {
+	      entremeter-se: H]Entremeter-se em um projeto.,
+	      interceder: Um deputado do Chile pediu ontem para o governo do presidente Eduardo Frei [interceder a favor de cinco guerrilheiros urbanos chilenos que estão presos no Brasil . ,
+	      interferir: O governador Mário Covas chegou a ser chamado para [interferir junto a Gabriel - a quem é muito ligado - em favor da tese da troca de comando na segurança pública paraense. ,
+	      intermediar: A Comissão Técnica da Faesp pediu a intervenção do governo, para [intermediar as negociações com a indústria.,
+	      intervir: O MP não pode recusar-se a [intervir no processo, quando assim for ordenado pelo juiz. # Ninguém me dava direito de presumir intenções e [intervir nos negócios particulares de uma família que, de mais a mais, enchia-me de obséquios. ,
+	      terçar: A]Terçeu pelo amigo preso.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3193' = “agir entre duas partes com intenção de reconciliar as diferenças”
+	     {entremeter-se: O problema foi que o príncipe da Pérsia I]entremeteu-se no esforço divino e influencio o rei da Pérsia.,
+	      interceder: O senador Antônio Carlos I]intercedeu no caso em nome do bom relacionamento entre os parlamentos dos dois países e de um passado definitivamente enterrado. ,
+	      interferir: O governo também [interferiu no processo de escolha do relator e do presidente da comissão especial do Congresso que analisará previamente a MP. ,
+	      intermediar: Galvão Cesar I]intermediou junto ao prefeito o apoio para pavimentação das ruas do Santa Clara pelo Governo do Estado.,
+	      intervir: A Polícia Militar [interveio na noite de anteontem em um protesto de funcionários da indústria Milfra, de Santo André. # Há poucas semanas, o ministro Ciro Gomes [interveio nas negociações entre metalúrgicos e montadoras para tentar impedir uma majoração salarial inferior a 15%. ,
+	      terçar: Também em outras reuniões culturais, I]terçava com doutores em medicina pelo direito de candidata feminina prestar o pré-vestibular da especialidade.,}
+Chave: INTERFERIR <verb.communication>
+ILI: 00735928
+
+Sense 1
+{00735928} <verb.communication> intercede, mediate, intermediate, liaise, arbitrate -- (act between parties with a view to reconciling differences; "He interceded in the family dispute"; "He mediated a settlement")
+       => {00736631} <verb.communication> negociate, negotiate, talk terms -- (discuss the terms of an arrangement; "They negotiated the sale of the house")
+           => {00787668} <verb.communication> hash out, discuss, talk over -- (speak with others about (something); talk (something) over in detail; have a discussion; "We discussed our household budget")
+               => {00912516} <verb.communication> talk of, talk about1 -- (discuss or mention; "They spoke of many things")
+                   => {00910961} <verb.communication> talk, speak, utter, mouth, verbalize, verbalise -- (express in speech; "She talks a lot of nonsense"; "This depressed patient does not verbalize")
+                       => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                           => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                               => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

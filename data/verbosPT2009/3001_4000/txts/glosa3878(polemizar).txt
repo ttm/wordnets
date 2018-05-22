@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA3878
+
+DADO O SYNSET:
+
+S='Glosa3878'
+{polemicar: é ano de eleições, tempo de polêmica. Polêmica quer I]polemicar com o que muito provavelmente será objeto de disputa, o gozo. ,
+ polemizar: As únicas interferências do cineasta se dão através dos intertítulos, com os quais ele cita frases de outros autores ou joga com dados históricos objetivos para [polemizar com as palavras da mulher .,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3878' = “travar polêmica”
+{polemicar: Frederico Figner I]polemicou com o Padre Florêncio Dubois pela “Folha do Norte”, do Pará.,
+ polemizar: Depois de dizer que não [polemiza com quem fez sua riqueza às custas de novelas de televisão e faz promessas impossíveis de cumprir ao povo italiano, Romano Prodi foi muito pouco cristão, quase impiedoso com Berlusconi.}
+Chave: POLEMIZAR <verb.communication>
+ILI: 00749335
+
+Sense 1
+{00749335} <verb.communication> polemize, polemise, polemicize, polemicise -- (engage in a controversy; "The two historians polemicized for years")
+       => {00749559} <verb.communication> quarrel, dispute1, scrap, argufy, altercate -- (have a disagreement over something; "We quarreled over the question as to who discovered America"; "These tewo fellows are always scrapping over something")
+           => {00747871} <verb.communication> argue, contend1, debate1, fence -- (have an argument about something)
+               => {00932753} <verb.communication> converse, discourse1 -- (carry on a conversation)
+                   => {00930524} <verb.communication> talk1, speak1 -- (exchange thoughts; talk with; "We often talk business"; "Actions talk louder than words")
+                       => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                           => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                               => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

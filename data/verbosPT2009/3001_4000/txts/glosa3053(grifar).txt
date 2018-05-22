@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA3053
+
+DADO O SYNSET:
+
+S='Glosa3053'
+	    {
+	      grifar: Da página 200 em diante, começou a I]grifar ao acaso uma ou outra passagem.,
+	      sublinhar: Lia e I]sublinhava detidamente um livro em francês.,
+	    }
+
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3053' = “dar ênfase”
+	   {grifar: Sentimos que o autor, intencionalmente, «recheou» o diálogo com termos e expressões locais, que ele mesmo [grifou, para que funcionassem como um verdadeiro índice da personagem.,
+	    sublinhar: Lia e I]sublinhava detidamente um livro em francês.,}
+
+Chave: GRIFAR <verb.communication>
+ILI: 00686083
+
+Sense 1
+{00686083} <verb.communication> underscore, underline, emphasize3 -- (give extra weight to (a communication); "Her gesture emphasized her words")
+       => {00685448} <verb.communication> stress, emphasize, punctuate, accent1, accentuate -- (to stress, single out as important: "Dr. Jones emphasizes exercise in addition to a change in diet.")
+           => {00639232} <verb.communication> express1, show2, evince -- (give expression to; "She showed her disappointment")
+               => {00628262} <verb.communication> convey, impart1 -- (make known; pass on, of information)
+                   => {00502333} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                       => {01619317} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                           => {01612822} <verb.social> act, move -- (perform an action; "think before you act"; "We must move quickly")

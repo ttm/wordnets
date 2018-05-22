@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA2177
+
+DADO O SYNSET:
+
+S='Glosa2177'
+	    {dicionariar: x,
+	      dicionarizar: O método permite à obra I]dicionarizar palavras que realmente aparecem com freqüência na vida dos falantes do inglês. ,
+	      vocabularizar: Por isso decidi I]vocabularizar esses verbos, dando vários sinônimos para o leitor poder aplicá-los e também passar a gostar mais de "Os Sertões".,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2177' = “colocar uma nova palavra no dicionário”
+	    {dicionarizar: O método permite à obra I]dicionarizar palavras que realmente aparecem com freqüência na vida dos falantes do inglês. ,
+	      vocabularizar: Por isso decidi I]vocabularizar esses verbos, dando vários sinônimos para o leitor poder aplicá-los e também passar a gostar mais de "Os Sertões".,}
+
+Chave: DICIONARIZAR <verb.communication>
+ILI: EQ_HAS_HYPERONYM - 00930267
+
+
+{00930267} <verb.communication> lexicalize, lexicalise -- (make or coin into a word or accept a new word into the lexicon of a language; "The concept expressed by German `Gemuetlichkeit' is not lexicalized in English")
+       => {00948313} <verb.communication> give voice, formulate, word, phrase, articulate2 -- (put into words or an expression; "He formulated his concerns to the board of trustees")
+           => {00912790} <verb.communication> express1, show2, evince -- (give expression to; "She showed her disappointment")
+               => {00898144} <verb.communication> convey, impart1 -- (make known; pass on, of information)
+                   => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                       => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                           => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA1469
+
+DADO O SYNSET:
+
+S='Glosa1469'
+{combinar: Os dois [combinaram encontros informais daqui para frente, prevendo discutir aspectos jurídicos do plano econômico,
+ marcar: Os policiais, que também tentavam capturar o contador, [marcaram encontro com Avelino,}
+	  
+A='Glosa1470'
+	    {descombinar, desmarcar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1469' = “criar (um plano) por meio de acordo mútuo” 
+{combinar: Os dois [combinaram encontros informais daqui para frente, prevendo discutir aspectos jurídicos do plano econômico,
+ marcar: Os policiais, que também tentavam capturar o contador, [marcaram encontro com Avelino,}
+	  
+A='Glosa1470'
+	    {descombinar, desmarcar}
+Chave: COMBINAR <verb.creation>
+ILI: 01592467
+
+Sense 1
+{01592467} <verb.creation> concert -- (contrive (a plan) by mutual agreement)
+       => {01592028} <verb.creation> plan, project1, contrive1, design2 -- (make or work out a plan for; devise; "They contrived to murder their boss"; "design a new sales strategy"; "plan an attack")
+           => {01585330} <verb.creation> create by mental act, create mentally -- (create mentally and abstractly rather than with one's hands)
+               => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

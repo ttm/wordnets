@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA0131B
+
+DADO O SYNSET:
+
+S='Glosa131'
+{abonar-se: Vive a M]abonar-se de suas qualidades.,
+gabar-se: Fundador do Projeto Plantar, Chut [gaba-se de ser autor do plantio de mais de 5.000 árvores de São Paulo.,
+orgulhar-se: Marquinho Drumond, 28, [orgulha-se de ser filho de quem é, criado como foi no meio da contravenção.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa131B' = “sentir orgulho”
+{orgulhar-se: Marquinho Drumond, 28, [orgulha-se de ser filho de quem é, criado como foi no meio da contravenção.,}
+Chave: ORGULHAR-SE <verb.emotion>
+ILI: 01721198
+
+Sense 1
+{01721198} <verb.emotion> pride, plume, congratulate -- (be proud of; "He prides himself on making it into law school")
+       => {01720480} <verb.emotion> feel, experience -- (undergo an emotional sensation; "She felt resentful"; "He felt regret")

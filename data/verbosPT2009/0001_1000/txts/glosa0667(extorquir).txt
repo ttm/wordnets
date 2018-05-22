@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA0667
+
+DADO O SYNSET:
+
+S='Glosa667'
+{arrancar: Dois procuradores e um coronel dos 'carabinieri' tentarão [arrancar do ex-chefão Antonino Salamone segredos da Cosa Nostra.,
+extorquir: O detetive Guimarães pretendia [extorquir dinheiro dele.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa667' = “obter por meio de intimidação ”
+{arrancar: Dois procuradores e um coronel dos 'carabinieri' tentarão [arrancar do ex-chefão Antonino Salamone segredos da Cosa Nostra.,
+extorquir: O detetive Guimarães pretendia [extorquir dinheiro dele.,}
+Chave: EXTORQUIR <verb.possession>
+ILI: 02176713
+
+Sense 1
+{02176713} <verb.possession> extort1 -- (obtain through intimidation)
+       => {02143102} <verb.possession> take1 -- (take by force; "Hitler took the Baltic Republics"; "The army took the fort on the hill")

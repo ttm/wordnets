@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA3095
+
+DADO O SYNSET:
+
+S='Glosa3095'
+	    {
+	      inovar: Mas não basta [inovar os gestos. # Para que ela se estabilizasse, foi preciso e foi possível que o presidente da República desse um apoio em todos os momentos em todos os momentos, eu repito àqueles que estavam tentando [inovar os caminhos do Brasil . ,
+	      renovar: Opção de Pavarotti, Domingo e Carreras pelo popular ajuda a [renovar cena lírica.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3095' = “trazer algo novo”
+	     {inovar: José Genoino (PT) [inovou na arrecadação de fundos eleitorais. # Graças a uma rede de 40 micros interligados, a loja [inovou também no estilo de vender  . ,
+	      renovar: Seu legado [renovou completamente a música vocal, desenvolveu a música instrumental aperfeiçoando conceitos e técnicas que foram utilizadas mais tarde por todos os grandes compositores que lhe sucederam.,}
+Chave: INOVAR <verb.creation>
+ILI: 01595800
+
+Sense 1
+{01595800} <verb.creation> introduce, innovate -- (bring something new to an environment; "A new word processor was introduced")
+       => {01595277} <verb.creation> initiate, pioneer1 -- (take the lead or initiative in; participate in the development of; "This South African surgeon pioneered heart transplants")
+           => {01598809} <verb.creation> cause, do2, make8 -- (give rise to; cause to happen or occur, not always intentionally; "cause a commotion"; "make a stir"; "cause an accident")
+               => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

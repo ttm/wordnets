@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA1027
+
+DADO O SYNSET:
+
+S='Glosa1027'
+{acasalar: O verão também marca a visita dos pinguins, que vêm para a ilha de Gabel, no canal de Beagle, para [acasalar e trocar as penas.,
+ castiçar: Vi uma cobra I]castiçar com um pato.,
+ copular: O biólogo acredita que novos ataques de tubarões podem ocorrer no verão, época em que os tubarões se aproximam da faixa de areia para parir e [copular.,
+ cruzar: Alguns machos não deveriam I]cruzar antes de 18 meses de idade, quando normalmente eles já estão maduros física e emocionalmente.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1027' = “juntar animais (para que acasalem)”
+{acasalar: Álvaro Rebelo refere que há vários anos I]acasalou dois Gloster corona porque não dispunha de momento de uma ave consorte para acasalar.,
+ cruzar: A culpa não é da raça nem do animal, é das pessoas que I]cruzam os animais conforme sua agressividade.}
+Chave: ACASALAR <verb.contact> 
+ILI: 01254405
+
+Sense 2
+{01254405} <verb.contact> match8, mate2, couple2, pair1, twin -- (bring two objects, ideas, or people together; "This fact is coupled to the other one"; "Matchmaker, can you match my daughter with a nice young man?"; "The student was paired with a partner for collaboration on the project")
+       => {01256741} <verb.contact> join1, bring together1 -- (cause to become joined or linked; "join these two parts so that they fit together")
+           => {01314764} <verb.contact> connect, link, tie1, link up -- (connect, fasten, or put together two or more pieces; "Can you connect the two loudspeakers?"; "Tie the ropes together"; "Link arms")

@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA1509
+
+DADO O SYNSET:
+
+S='Glosa1509'
+{desnortear: Viram grandes faixos de luz para I]desnortear os navegantes. ,
+ desorientar: O céu encoberto H]desorientou-os.,
+ despistar: A resposta que obtiveram H]despistou-os.,}
+	  
+A='Glosa811'
+{anortear, bussolar, dirigir, guiar, nortear, orientar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1509' = “fazer [alguém ou algo] se perder ou ficar desorientado”
+{desnortear: Viram grandes faixos de luz para I]desnortear os navegantes.,
+ desorientar: Névoa [desorienta visitantes.,
+ despistar: Por quê a solidão sempre I]despista a vida?,}
+	  
+A='Glosa811'
+{anortear, bussolar, dirigir, guiar, nortear, orientar}
+Chave: DESORIENTAR <verb.perception>
+ILI: 02097775
+
+Sense 1
+{02097775} <verb.perception> disorient, disorientate -- (cause to be lost or disoriented)
+       => {00601611} <verb.cognition> confuse3, throw, fox, befuddle, fuddle, bedevil, confound2, discombobulate -- (be confusing or perplexing to; cause to be unable to think clearly; "These questions confuse even the experts"; "This question completely threw me"; "This question befuddled even the teacher")
+           => {02526983} <verb.stative> be3 -- (have the quality of being; (copula, used with an adjective or a predicate noun); "John is rich"; "This is not a good answer")

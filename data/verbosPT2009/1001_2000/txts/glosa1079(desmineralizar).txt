@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA1079
+
+DADO O SYNSET:
+
+S='Glosa1079'
+{demineralizar: É ótima opção para substituir os açúcares refinados, que I]demineralizam o organismo para que sua sacarose seja metabolizada,
+ desmineralizar: Quando comemos açúcar, as bactérias dos nossos dentes produzem ácidos que os I]desmineralizam, mas a saliva repõe a camada removida,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1079' = “retirar os minerais ou sais [de]”
+{demineralizar: É ótima opção para substituir os açúcares refinados, que I]demineralizam o organismo para que sua sacarose seja metabolizada.,
+ desmineralizar: Quando comemos açúcar, as bactérias dos nossos dentes produzem ácidos que os I]desmineralizam, mas a saliva repõe a camada removida.,}
+Chave: DESMINERALIZAR <verb.change>
+ILI: 00558933
+
+Sense 1
+{00558933} <verb.change> demineralize, demineralise -- (remove the minerals or salts from; "demineralize water")
+       => {00166870} <verb.change> remove, take, take away1, withdraw1 -- (remove something concrete, as by lifting, pushing, taking off, etc. or remove something abstract; "remove a threat"; "remove a wrapper"; "Remove the dirty dishes from the table"; "take the gun from your pocket"; "This machine withdraws heat from the environment")

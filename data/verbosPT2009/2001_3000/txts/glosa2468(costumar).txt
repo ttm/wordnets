@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA2468
+
+DADO O SYNSET:
+
+S='Glosa2468'
+	    {costumar: Como os ganhos de antenas [costumam ser expressos em decibéis, vamos transformar esses valores de transferência também em decibéis.,
+	      soer: Na calçada da gare pessoas acenavam em despedida e como I]soer acontecer: algumas mulheres choravam.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2468' = “Fazer algo costumeiramente.”
+	    {costumar: Os ganhos de antenas [costumam ser expressos em decibéis.,
+	      soer: As confidências que fazer I]soíamos.,}
+
+Chave: COSTUMAR <verb.social>
+ILI: 02299341
+
+Sense 6
+{02299341} <verb.social> use3 -- (habitually do something (use only in the past tense); "She used to call her mother every week but now she calls only occasionally"; "I used to get sick when I ate in that dining hall"; "They used to vacation in the Bahamas")
+       => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel") 

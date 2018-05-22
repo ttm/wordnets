@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA2053
+
+DADO O SYNSET:
+	
+S='Glosa2053'
+    	{aguardar: Os soldados M]aguardavam angustiados. ,
+      	 atender: A]Atende, e obterás o que pretendes.,
+      	 esperar: De todas as tribos, idades, culturas e origens geográficas, os fãns (abreviação de fanático) [esperavam angustiados pela oportunidade de ver, tocar, ouvir, cheirar e conferir se seus idolatrados artistas eram mesmo gente de carne e osso.,
+      	 estar: A]Esteja aí um momento que eu já volto.,
+      	 ficar: Pois [fique aí que já volto.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2053' = “permanecer num certo estado, posição ou condição”
+    	{aguardar: Quanto a matérias com os ídolos da MPB, [aguarde.,
+      	 esperar: Compadre, respondia a comadre, já-lhe disse que não é bom a quem está neste estado estar ouvindo voz de homem: esteja calado e [espere lá.,
+      	 estar: I]Esteja aí, em algum lugar, por mim.,
+      	 ficar: Pois [fique aí que já volto.}
+Chave: FICAR <verb.stative>
+ILI: 02602636
+
+Sense 10
+{02602636} <verb.stative> hold1 -- (remain in a certain state, position, or condition; "The weather held"; "They held on the road and kept marching")
+       => {02604086} <verb.stative> continue1, go on, proceed, go along, keep7 -- (continue a certain state, condition, or activity; "Keep on working!"; "We continued to work into the night"; "Keep smiling"; "We went on working until well past midnight")
+           => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

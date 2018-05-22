@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0871
+
+DADO O SYNSET:
+
+S='Glosa871'
+{cercar: Os problemas que I]cercam Felipão não se esgotam no atraso de Rivaldo.,
+perseguir: Desgraça [persegue muitos personagens associados a Collor.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa871' = “estar em volta”
+{cercar: Os problemas que I]cercam Felipão não se esgotam no atraso de Rivaldo.,
+perseguir: Desgraça [persegue muitos personagens associados a Collor.,}
+Chave: CERCAR <verb.stative>
+ILI: 02626954
+
+Sense 1
+{02626954} <verb.stative> surround, environ, encircle, circle, round, ring -- (be around; "Developments surround the town"; "The river encircles the village")
+       => {02619614} <verb.stative> hold13, bear14, carry3, contain13 -- (contain or hold; have within; "The jar carries wine"; "The canteen holds fresh water"; "This can contains water")
+           => {02554437} <verb.stative> include -- (have as a part, be made up out of; "The list includes the names of many famous writers")

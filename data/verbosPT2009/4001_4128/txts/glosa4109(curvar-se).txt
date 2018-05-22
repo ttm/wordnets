@@ -1,0 +1,47 @@
+ANÁLISE DA GLOSA4109
+
+DADO O SYNSET:
+
+S='Glosa4109'
+{arquear-se: I]Arqueou-se com violência imprevista.,
+avergar-se: x,
+corcovar-se: A senhora se I]corcovou em busca dos óculos no chão.,
+curvar-se: O moço sentiu as lágrimas borbulharem nos olhos, mas não balbuciou uma palavra; [curvou-se e beijou respeitosamente a mão de seu pai .,
+debruçar-se: Vendo-o calmo e impassível, a menina [debruçou-se sobre o ombro do selvagem, e tocando-lhe de leve na cabeça, disse-lhe uma palavra ao ouvido .,
+derrear-se: A cabeça H]derreou-se, pesada de sono.,
+dobrar-se: H]Dobrou-se até o chão.,
+enconchar-se: x,
+encurvar-se: Constrangido, deixando escorrer gotas de suor da cabeça, I]encurvou-se para falar com o convidado.,
+envergar-se: I]Envergou-se o quanto pôde para um lado e para o outro mostrando grande elasticidade em suas fibras.,
+inclinar-se: D. Antônia fez-lhe uma careta de escárnio, [inclinou-se e beijou-lhe a testa com tanta ternura, que me deu ciúmes pela outra .,
+prostrar-se: Diz o texto que ela I]prostrou-se aos pés de Jesus.,
+quebrar-se: Ele se I]quebrou diante do Senhor.,
+recurvar-se: Viu-o H]recurvar-se num espasmo de dor.,
+tornejar-se: x,
+vergar-se: Ele [vergou-se sobre ela, depois de contemplá-la muito .,
+zumbrir-se: Os ciprestes H]zumbem-se à passagem da ventania.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4109' = “vergar as costas para frente e para baixo”
+{arquear-se: I]Arqueou-se com violência imprevista.,
+corcovar-se: A senhora se I]corcovou em busca dos óculos no chão.,
+curvar-se: O moço sentiu as lágrimas borbulharem nos olhos, mas não balbuciou uma palavra; [curvou-se e beijou respeitosamente a mão de seu pai .,
+debruçar-se: Vendo-o calmo e impassível, a menina [debruçou-se sobre o ombro do selvagem, e tocando-lhe de leve na cabeça, disse-lhe uma palavra ao ouvido .,
+derrear-se: José Pereira I]derreou-se na cadeira de espaldar.,
+dobrar-se: H]Dobrou-se até o chão.,
+encurvar-se: Constrangido, deixando escorrer gotas de suor da cabeça, I]encurvou-se para falar com o convidado.,
+envergar-se: I]Envergou-se o quanto pôde para um lado e para o outro mostrando grande elasticidade em suas fibras.,
+inclinar-se: D. Antônia fez-lhe uma careta de escárnio, [inclinou-se e beijou-lhe a testa com tanta ternura, que me deu ciúmes pela outra .,
+prostrar-se: Diz o texto que ela I]prostrou-se aos pés de Jesus.,
+quebrar-se: Ele se I]quebrou diante do Senhor.,
+recurvar-se: Viu-o H]recurvar-se num espasmo de dor.,
+vergar-se: Ele [vergou-se sobre ela, depois de contemplá-la muito.,}
+Chave: CURVAR-SE <verb.motion>
+ILI: 02004057
+
+Sense 4
+{02004057} <verb.motion> crouch, stoop, bend3, bow1 -- (bend one's back forward from the waist on down; "he crouched down"; "She bowed before the Queen"; "The young man stooped to pick up the girl's purse")
+       => {01977754} <verb.motion> bend, flex -- (form a curve; "The stick does not bend")
+           => {00135866} <verb.change> change shape, change form, deform2 -- (assume a different shape or form)
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

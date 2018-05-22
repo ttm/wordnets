@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA2300
+
+DADO O SYNSET:
+
+S='Glosa2300'
+	    {adiar: Sandra disse ontem que vai passar toda a manhã no Fórum a fim de conseguir uma liminar para [adiar o julgamento, com um desembargador.,
+	      transferir: Uma vez inscrito, não poderemos cancelar ou I]transferir a data de sua participação no Workshop, nem mesmo efetuar o reembolso da taxa de participação.,
+	      transladar: H]transladar um congresso.,
+	      transpor: Vamos I]transpor a data do Natal e inaugurar o “G7 beneficente”.,
+	      transportar: Em 1999, o dia da imprensa foi oficialmente I]transportado para o dia 1º de junho, em reconhecimento ao pioneirismo do Correio Braziliense.,
+	      trasladar: A]trasladou o passeio.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2300' = “deixar para um tempo posterior”
+	    {adiar: Sandra disse ontem que vai conseguir uma liminar para [adiar o julgamento.,
+	      transferir: Uma vez inscrito, não poderemos cancelar ou I]transferir a data de sua participação no Workshop.,
+	      transladar: H]transladar um congresso.,
+	      transpor: Vamos I]transpor a data do Natal e inaugurar o “G7 beneficente”.,
+	      transportar: O dia da imprensa foi oficialmente I]transportado para o dia 1º de junho.,
+	      trasladar: A]trasladou o passeio.,}
+
+Chave: ADIAR <verb.stative>
+ILI: 02564241
+
+Sense 1
+{02564241} <verb.stative> postpone, prorogue, hold over2, put over, table, shelve, set back1, defer, remit, put off -- (hold back to a later time; "let's postpone the exam")
+       => {02563384} <verb.stative> delay -- (act later than planned, scheduled, or required; "Don't delay your application to graduate school or else it won't be considered")
+           => {02562977} <verb.stative> wait1, hold off, hold back -- (wait before acting)
+               => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel") 

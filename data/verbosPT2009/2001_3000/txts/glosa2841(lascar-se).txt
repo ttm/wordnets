@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA2841
+
+DADO O SYNSET:
+
+S='Glosa2841'
+	    {eivar-se: O vaso caiu e H]eivou-se.,
+	      fender-se: Mas estas cisternas sempre acabavam por I]fender-se, a água ir embora, eo povo continuar com sede.,
+	      gretar-se: x,
+	      lascar-se: A panela, apesar de pesada, não é forte e poderá I]lascar-se sob o impacto de colheres na borda quando manuseadas com força.,
+	      rachar-se: Por que é mais provável I]rachar-se um vaso de vidro espêsso quando nêle se põe água quente que quando esta é posta em um vaso de vidro fino.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2841' = “Quebrar abrindo ou quebrar separando de repente”
+	    {fender-se: Os tijolos da cobertura I]se fenderam , e a terra do interior espalhou-se em montões.,
+	      lascar-se: Alguns rechaçam essas pesquisas, acreditando que a fogueira possa ser restos de madeira incinerada por um raio e que as rochas I]lascaram-se durante a queda.,
+	      rachar-se: Trata-se de um sino de bronze, com 120 quilos de peso, que I]rachou-se após ter sido tocado euforicamente pelos castrenses.,}
+Chave: LASCAR-SE <verb.change>
+ILI: 00299567
+
+Sense 5
+{00299567} <verb.change> burst, split1, break open1 -- (break open or apart suddenly; "The bubble burst")
+       => {00323679} <verb.change> break, separate3, split up, fall apart3, come apart -- (become separated into pieces or fragments; "The figurine broke"; "The freshly baked loaf fell apart")
+           => {00135037} <verb.change> change integrity -- (change in physical make-up)
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night") 

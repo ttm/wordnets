@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA2575
+
+DADO O SYNSET:
+
+S='Glosa2575'
+	    {comprovar: Na Sereno Automóveis, os policiais apreenderam vários documentos, como notas fiscais e livros-caixa, que vão servir para [comprovar a fraude.,
+	      corroborar: O advogado Miguel Reale Júnior diz que a denúncia contra o ex-governador Orestes Quércia vem [corroborar nossa convicção jurídica de que houve estelionato.,
+	      demonstrar: A entrada para a cavalaria se fazia por cerimônia especial: o senhor concedia arma ao jovem e lhe batia na nuca com a palma da mão para [demonstrar que o cavaleiro seria capaz de resistir aos golpes do inimigo.,
+	      evidenciar: A História, na verdade, é precondicionada pela existência de documentações que [evidenciam os acontecimentos passados de um determinado povo de uma região.,
+	      provar: O oficial soube através do JORNAL DO BRASIL que ainda havia um garoto baleado e disse que isto será importante para [provar que não foi a PM que atingiu nenhum dos dois meninos.,
+	      roborar: Como forma de I]roborar as suas afirmações, mencionam e explanam, de forma sucinta, a teoria “tri-partidi” de Montesquieu, bem como a regra contida no art. 688 do RICMS/97.,
+	      roborizar: A honestidade I]roboriza as instituições permanentes de um país.,
+	      testemunhar: Pois, coincidindo com o fenomenal sucesso da segunda parte dos Direitos do Homem de Tom Payne, as sucessivas reedições [testemunham também o sucesso do livro de miss Roche: pregando a harmonia das classes, a visão idílica da vida rural, o respeito pelos valores morais, matrimoniais e financeiros da aristocracia, que corresponde a seu fabuloso enriquecimento (ver Raymond Williams).,}	
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2575' = “Demonstrar a verdade de algo com evidências ou autoridade ou tornar mais certo ou confirmar.
+	    {comprovar: Policiais apreenderam vários documentos, como notas fiscais e livros-caixa, que vão servir para [comprovar a fraude.,
+	      corroborar: A denúncia contra o ex-governador Orestes Quércia vem [corroborar nossa convicção jurídica de que houve estelionato.,
+	      demonstrar: A entrada para a cavalaria se fazia por cerimônia especial: o senhor concedia arma ao jovem e lhe batia na nuca com a palma da mão para [demonstrar que o cavaleiro seria capaz de resistir aos golpes do inimigo.,
+	      evidenciar: A História, na verdade, é precondicionada pela existência de documentações que [evidenciam os acontecimentos passados de um determinado povo de uma região.,
+	      provar: O oficial soube que ainda havia um garoto baleado e disse que isto será importante para [provar que não foi a PM que atingiu nenhum dos dois meninos.,
+	      roborar: A Assessoria Jurídica de Controle Externo I]roborou a conclusão de AUD.,
+	      roborizar: A honestidade I]roboriza as instituições permanentes de um país.,
+	      testemunhar: As sucessivas reedições [testemunham também o sucesso do livro de miss Roche.,}
+
+Chave: COMPROVAR <verb.stative>
+ILI: 02583744
+
+Sense 3
+{02583744} <verb.stative> corroborate, underpin, bear out, support -- (support with evidence or authority or make more certain or confirm; "The stories and claims were born out by the evidence")
+       => {02578124} <verb.stative> match, fit4, correspond, check8, jibe, gibe, tally, agree -- (be compatible, similar or consistent; coincide in their characteristics; "The two stories don't agree in many details"; "The handwriting checks with the signature on the check"; "The suspect's fingerprints don't match those on the gun")
+           => {02584716} <verb.stative> equal, be7 -- (be identical or equivalent to; "One dollar equals 1,000 rubles these days!") 

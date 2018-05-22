@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA3663
+
+DADO O SYNSET:
+
+S='Glosa3663'
+	    {
+	      compensar-se: A única maneira de [se compensar esse defeito da visão é usando lentes divergentes. # Tendia a I]compensar-se da sua desgraça procurando mutilações ao seu redor.,
+	      indenizar-se: Ttraição não I]se indeniza, se vive. # Não I]se indeniza o sofrimento nem a humilhação de milhões de homens e mulheres, durante quase cinco séculos.,
+	      pagar-se: Luís Garcia I]pagava-se do sacrifício, contemplando a satisfação da filha. ,
+	      recuperar-se: Quanto mais rápido as organizações reconhecerem um incidente, mais fácil limita-se o estrago e I]recupera-se do prejuízo.,
+	      reparar-se: Dificilmente poderia I]reparar-se das perdas. ,
+	      ressarcir-se: A Bolsa vai tentar [se ressarcir do prejuízo com o bloqueio dos bens dos acusados.,
+	      restituir-se: Não basta honestidade para que [se restitua credibilidade às instituições. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3663' = “recompensar-se por, pagar recompensa por”
+	     {compensar-se: A única maneira de [se compensar esse defeito da visão é usando lentes divergentes. # Tendia a I]compensar-se da sua desgraça procurando mutilações ao seu redor.,
+	      indenizar-se: o apelante I]indenizou-se matando o semelhante. # estes funcionários se I]indenizaram amplamente.,
+	      pagar-se: Luís Garcia I]pagava-se do sacrifício, contemplando a satisfação da filha.,
+	      recuperar-se: Quanto mais rápido as organizações reconhecerem um incidente, mais fácil limita-se o estrago e I]recupera-se do prejuízo.,
+	      reparar-se: Dificilmente poderia I]reparar-se das perdas. ,
+	      ressarcir-se: A Bolsa vai tentar [se ressarcir do prejuízo com o bloqueio dos bens dos acusados.,
+	      restituir-se: Através dessa "ajuda" a família de Lúcia se I]restituiu da doença.,}
+Chave: COMPENSAR-SE <verb.possession>
+ILI: 02185693
+
+Sense 2
+{02185693} <verb.possession> compensate1, recompense1, repair, indemnify -- (make amends for; pay compensation for; "One can never fully repair the suffering and losses of the Jews in the Third Reich"; "She was compensated for the loss of her arm in the accident")
+       => {02186811} <verb.possession> pay -- (give money, usually in exchange for goods or services; "I paid four dollars for this sandwich"; "Pay the waitress, please")
+           => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+               => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children")

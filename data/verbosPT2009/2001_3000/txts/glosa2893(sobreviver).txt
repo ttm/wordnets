@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA2893
+
+DADO O SYNSET:
+
+S='Glosa2893'
+	    {escapar: A delegada Darcinaura Alves de Assis I]escapou por pouco do acidente.,
+	      ficar: I]Ficaram apenas alguns resquícios dessa floresta original nos locais de difícil acesso.,
+	      restar: Da família Kennedy só I]restou o governador da Califórnia.,
+	      sobre-restar: O Carma, que de tantos povos escolheu aquele para I]sobre-restar ao grande desastre mundial.,
+	      sobreviver: Muitas tribos vivem, atualmente, em regiões inispitas da Austrália, levando uma vida nômade para [sobreviver.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2893' = “Continuar a existir depois (de uma adversidade, etc)”
+	    {escapar:  A única sobrevivente I]escapou porque se fingiu de morta.,
+	      ficar: Depois do massacre, só ficaram velhos e crianças.,
+	      restar: Da família Kennedy só I]restou o governador da Califórnia.,
+	      sobre-restar: Suportou com energia aos vários secretários de turismo “importados/estrangeiros” que por aqui passaram, e, apesar dos pesares, I]sobre-restou da luta intensa.,
+	      sobreviver: Governador encontra médica que I]sobreviveu a acidente aéreo.,}
+Chave: SOBREVIVER <verb.stative>
+ILI: 02541974
+
+Sense 2
+{02541974} <verb.stative> survive2, pull through, pull round, come through, make it -- (continue in existence after (an adversity, etc.); "He survived the cancer against all odds")
+       => {01072989} <verb.competition> get the better of, overcome3, defeat -- (win a victory over; "You must overcome all difficulties"; "defeat your enemies"; "He overcame his shyness"; "She conquered here fear of mice"; "He overcame his infirmity"; "Her anger got the better of her and she blew up") 

@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0980
+
+DADO O SYNSET:
+
+S='Glosa980'
+{conceber: Não se deve [conceber uma imagem como uma coisa, pois que tipo de coisa ela é ?,
+construir: Não é como [construir um personagem de Shakespeare.# E assim foi [construindo uma imagem mitificada diante da imprensa e, por tabela, de seu público.,
+criar: A Biônica é um ramo avançado da Engenharia moderna que procura [criar instrumentos inspirados nos modelos oferecidos pela Natureza e funcionantes nos seres vivos.,
+elaborar: Os primeiros resultados do trabalho já permitiram à comissão [elaborar uma lista inicial com os níveis de ruído de vinte das mais barulhentas ruas do Rio.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa980' = “criar por meios artísticos”
+{conceber: Não se deve [conceber uma imagem como uma coisa, pois que tipo de coisa ela é ?,
+construir: Não é como [construir um personagem de Shakespeare.# E assim foi [construindo uma imagem mitificada diante da imprensa e, por tabela, de seu público.,
+criar: A Biônica é um ramo avançado da Engenharia moderna que procura [criar instrumentos inspirados nos modelos oferecidos pela Natureza e funcionantes nos seres vivos.,
+elaborar: Os primeiros resultados do trabalho já permitiram à comissão [elaborar uma lista inicial com os níveis de ruído de vinte das mais barulhentas ruas do Rio.}
+Chave: CRIAR <verb.creation>
+ILI: 01593671
+
+Sense 5
+{01593671} <verb.creation> create13, make9 -- (create by artistic means; "create a poem"; "Schoenberg created twelve-tone music"; "Picasso created Cubism"; "Auden made verses")
+       => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA1088
+
+DADO O SYNSET:
+
+S='Glosa1088'
+{departir: A testemunha H]departiu-lhes o crime sem omitir nenhum fato.,
+ minuciar: Você poderia I]minuciar as relações pessoais e empresariais de ACM com o Grupo Globo?,
+ minudar: x,
+ minudenciar: Dispensamo-nos de I]minudenciar a respeito do que vai das coerências flagrantes e das deficiências notórias da atual estrutura dos órgãos diretores,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1088' = “prover detalhes”
+{minuciar: Como a TV Globo em seu comunicado não I]minuciou questões internas, o Boni agora tenta limpar a barra condenando a "apelação" e "baixaria".,
+ minudenciar: Leis estaduais e municipais I]minudenciaram esses aspectos.,}
+Chave: MINUCIAR <verb.communication>  
+ILI: 00924492 
+
+Sense 1
+{00924492} <verb.communication> detail -- (provide details for)
+       => {00923861} <verb.communication> elaborate, lucubrate, expatiate, exposit1, enlarge4, flesh out, expand10, expound, dilate10 -- (add details, as to an account or idea; clarify the meaning of and discourse in a learned way, usually in writing; "She elaborated on the main ideas in her dissertation")
+           => {00908946} <verb.communication> clarify, clear up, elucidate -- (make clear and (more) comprehensible; "clarify the mystery surrounding her death")
+               => {00908384} <verb.communication> explain, explicate -- (make palin and comprehensible; "He explained the laws of physics to his students")
+                   => {00804489} <verb.communication> inform -- (impart knowledge of some fact, state or affairs, or event to; "I informed him of his rights")
+                       => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                           => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                               => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

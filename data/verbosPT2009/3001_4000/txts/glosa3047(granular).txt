@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA3047
+
+DADO O SYNSET:
+
+S='Glosa3047'
+	    {
+	      granar: Com isso, os cafezais se encontram bastante carregados e com grãos I]granando.,
+	      granular: Moinho indicado para moer produtos farmacêuticos e para I]granular grãos para testes de toxinas.,
+	    }
+
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3047' = “tornar-se granular”
+	     {granar: A cevada I]granou e amadureceu, multiplicando bastante.,
+	      granular: É um equipamento que seca e I]granula o lodo, reduzindo seu volume em até cinco vezes.,}
+
+Chave: GRANULAR <verb.change>
+ILI: 00136423
+
+Sense 4
+{00136423} <verb.change> granulate1, grain1 -- (become granular)
+       => {00135866} <verb.change> change shape, change form, deform2 -- (assume a different shape or form)
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

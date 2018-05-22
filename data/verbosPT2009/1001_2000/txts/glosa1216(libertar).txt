@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA1216
+
+DADO O SYNSET:
+
+S='Glosa1216'
+{descativar: Os policiais H]descativaram os prisioneiros,
+ libertar: Márcia afirmou que quando o valor exigido era muito alto, os soldados do tráfico recolhiam doações dos moradores para [libertar o marido,
+ soltar: Os policiais do RPMont, de Campo Grande, que [soltaram dois estudantes do cativeiro no ano passado, não foram promovidos,}
+	  
+A='Glosa2888'
+	    {aferrolhar, aprisionar, encadear, encarcerar, engaiolar, enjaular, prear, prender, subjugar, trancafiar, trancar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1216' = “conceder liberdade [a]”
+{descativar: Que todo o ser cuja boca eu beijar nunca mais me esqueça e seja devotadamente meu para todo o sempre. Que eu possa cativar, depois I]descativar, depois chutar e ainda querer que eles sejam meus escravos.,
+ libertar: O oficial fugiu pelos telhados, e a população queimou arquivos, destruiu as balanças e [libertou os presos.,
+ soltar: Os policiais do RPMont, de Campo Grande, que [soltaram dois estudantes do cativeiro no ano passado, não foram promovidos.,}
+A='Glosa2888'
+	    {aferrolhar, aprisionar, encadear, encarcerar, engaiolar, enjaular, prear, prender, subjugar, trancafiar, trancar}
+Chave: LIBERTAR <verb.social>
+ILI: 02348394
+
+Sense 2
+{02348394} <verb.social> free, liberate2, release, unloose, unloosen, loose -- (grant freedom to; free from confinement)

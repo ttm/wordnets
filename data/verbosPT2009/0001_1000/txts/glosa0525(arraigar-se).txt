@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA0525
+
+DADO O SYNSET:
+
+S='Glosa525'
+{arraigar-se: O recurso ao endividamento irresponsável e o descompromisso com a política econômica do país [arraigaram-se, lamentavelmente, ao longo do tempo,
+arreigar-se: É nessas zonas suburbanas que mais tendem a I]arreigar-se estilos de vida marcados pelo consumismo, a indiferença face aos outros e à política em geral,
+cravar-se: Chegou-me o cansaço infinito a I]cravar-se em meus olhos; enfim, o cansaço do dia.,
+entranhar-se: A chave é, aqui, o símbolo, a imagem que vai crescendo, perturbando, tomando conta do leitor até I]entranhar-se nele, correr em suas veias.,
+introduzir-se: A ficção não pode ocupar o lugar da História, apenas [introduzir-se nela para a fazer viver, como um fio de água numa terra tornada árida.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa525' = “juntar (-se), plantar (-se) pela raiz em algo (também metaforicamente)
+{arraigar-se: O recurso ao endividamento irresponsável e o descompromisso com a política econômica do país [arraigaram-se, lamentavelmente, ao longo do tempo,
+arreigar-se: É nessas zonas suburbanas que mais tendem a I]arreigar-se estilos de vida marcados pelo consumismo, a indiferença face aos outros e à política em geral,
+cravar-se: Chegou-me o cansaço infinito a I]cravar-se em meus olhos; enfim, o cansaço do dia.,
+entranhar-se: A chave é, aqui, o símbolo, a imagem que vai crescendo, perturbando, tomando conta do leitor até I]entranhar-se nele, correr em suas veias.,
+introduzir-se: A ficção não pode ocupar o lugar da História, apenas [introduzir-se nela para a fazer viver, como um fio de água numa terra tornada árida.,}
+Chave: ARRAIGAR-SE
+ILI: 01523846
+
+Sense 3
+{01486850} <verb.contact> root4 -- (plant by the roots)
+       => {01523846} <verb.contact> plant, set9 -- (put or set (seeds or seedlings) into the ground; "Let's plant flowers in the garden")
+           => {01452069} <verb.contact> put, set, place, pose2, position, lay1 -- (put into a certain place or abstract location; "Put your things here"; "Set the tray down"; "Set the dogs on the scent of the missing children"; "Place emphasis on a certain point")
+               => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

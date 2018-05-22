@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA2715
+
+DADO O SYNSET:
+
+  S='Glosa2715'
+	    {campear: Enquanto I]campear a incerteza de seus resultados e for incerta a atuação política, encontrar-se-á a revolta justa e a insatisfação crescente dos menos favorecidos nos contextos econômico, social e político do Brasil. ,
+	      dominar: Enquanto ao norte, em Hokkaido, dominam as coníferas como o cedro e o pinho japoneses, na parte meridional [dominam as florestas temperadas mistas, onde aparecem ciprestes, bambus e até palmeiras. # Há muito tempo os elementos mais radicais, mais fanáticos, mais extremos de neocapitalismo [dominam. ,
+	      imperar: O comando e o controle não mais [imperam. # Se a realidade não basta ou se as frustrações [imperam, os protagonistas procuram a solução para esse mal-estar lá atrás, na infância, num determinado momento, ou mesmo regredindo primitivamente.,
+	      predominar: No Japão [predominam o budismo e o xintoísmo. # Quanto ao aspecto econômico, [predominam o subdesenvolvimento nos países dessa faixa tropical, gerando condições de vida bastante precárias para a maioria das populações. # Frustração e medo são os sentimentos que [predominam no morro da Mangueira desde o Carnaval.,
+	      prevalecer: Ao contrário, abordagens conjuntas na lingüística computacional - onde os aspectos pragmáticos e comunicativos da linguagem são francamente admitidos e as interações entre os fatores semânticos e sintáticos são pressupostas - podem prevalecer. # O behaviorismo [prevaleceu nos Estados Unidos e em menor medida no exterior no período entre 1920 e 1950. ,
+	      reinar: A tensão que passou a [reinar na Europa era grande, pouco faltando para uma guerra. # De todos os modos, reivindico o mérito de abandonar esta clara cidade das torres –onde [reinam a segurança e a ordem– em busca de um continente cheio de perigos, onde domina a conjetura.,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2715' = “Ser maior em número, quantidade, poder, status ou importância.”
+	    {campear: Lá a corrupção I]campeou por cem anos.,
+	      dominar: Há muito tempo os elementos mais radicais, mais fanáticos, mais extremos de neocapitalismo [dominam. ,
+	      imperar: Se a realidade não basta ou se as frustrações [imperam, os protagonistas procuram a solução para esse mal-estar lá atrás, na infância.,
+	      predominar: Frustração e medo são os sentimentos que [predominam no morro da Mangueira desde o Carnaval.,
+	      prevalecer: O behaviorismo [prevaleceu nos Estados Unidos e em menor medida no exterior no período entre 1920 e 1950. ,
+	      reinar: De todos os modos, reivindico o mérito de abandonar esta clara cidade das torres –onde [reinam a segurança e a ordem.,}
+
+Chave: PREDOMINAR <verb.stative>
+ILI: 02565617
+
+Sense 1
+{02565617} <verb.stative> predominate, dominate, rule, reign, prevail2 -- (be larger in number, quantity, power, status or importance; "Money reigns supreme here"; "Hispanics predominate in this neighborhood") 

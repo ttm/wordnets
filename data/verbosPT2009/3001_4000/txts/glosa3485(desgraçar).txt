@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA3485
+
+DADO O SYNSET:
+
+S='Glosa3485'
+	    {
+	      desgraçar: Você [desgraçou a família dos meus amigos.,
+	      desventurar: Amou e [desventurou.,
+	      infelicitar: Vamos ao combate à miséria e disparidades regionais que tanto [infelicitam o Brasil / Algumas crenças podem ]infelicitar muito o casal.,
+	      infortunar: Tiveram a posição, naquela oportunidade, de coerência no sentido de assegurar um critério de justiça com a legislação que não ]infortunasse o conjunto,
+	      malfadar: A maior decepção de um povo, é perceber a impunidade de grandes vultos contemporâneos,a ]malfadar os cofres, a moral, e a paixão de terceiro mundistas,
+	      miserar: Ele não tem remorsos por ]miserar as pessoas.,
+	    }
+
+
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3485' = “destruir ou causar fracasso”
+	     {desgraçar: Você [desgraçou a família dos meus amigos.,
+	      desventurar: Amou e [desventurou.,
+	      infelicitar: Vamos ao combate à miséria e disparidades regionais que tanto [infelicitam o Brasil / O golpe de 64 I]infelicitou a nação e destruiu esse trabalho.,}
+Chave: DESGRAÇAR <verb.social>
+ILI: 02483272
+
+Sense 2
+{02483272} <verb.social> ruin -- (destroy or cause to fail; "This behavior will ruin your chances of winning the election")
+       => {02482511} <verb.social> thwart, queer, spoil, scotch, foil, cross, frustrate, baffle, bilk1 -- (hinder or prevent (the efforts, plans, or desires) of; "What ultimately frustrated every challenger was Ruth's amazing September surge"; "foil your opponent")
+           => {02379144} <verb.social> prevent1, forestall1, foreclose, preclude, forbid3 -- (keep from happening or arising; have the effect of preventing; "My sense of tact forbids an honest answer")

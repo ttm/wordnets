@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA0080
+
+DADO O SYNSET:
+
+S='Glosa80'
+{alevantar: x,
+alvitrar: I]Alvitraram a substituição da representação do sócio, e se acolhida a dissolução parcial, com sua retirada, o pagamento de seus haveres deveria ocorrer nos termos do disposto na letra contratual.,
+aventar: Conheço pouco a novelística cubana mais recente, essa que fala da Revolução, e a minha pergunta vai um pouco na direção do que Walnice [aventou aqui.,
+lembrar: A]Lembrou que fossem à cidade mais próxima chamar um médico.,
+levantar: O filme [levantou uma discussão sobre preconceito.,
+propor: Ao romper com a introspecção enquanto fonte única de informação e ao [propor novos métodos de análise estatística, Ebbinghaus conseguiu reorientar a psicologia de uma maneira muito produtiva,
+sugerir: O deputado José Carlos Aleluia [sugeriu que fosse encaminhado ao TCU um pedido de instalação de um inquérito administrativo na empresa. ,
+suscitar: "Assassinos por Natureza", que estréia hoje em São Paulo, [suscitou pelo menos duas discussões que merecem atenção.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa80' = “fazer uma proposta, declarar um plano para algo”
+{alvitrar: I]Alvitraram a substituição da representação do sócio, e se acolhida a dissolução parcial, com sua retirada, o pagamento de seus haveres deveria ocorrer nos termos do disposto na letra contratual.,
+aventar: Imprensa I]aventou a possibilidade de documentário não participar do Oscar.,
+lembrar: A]Lembrou que fossem à cidade mais próxima chamar um médico.,
+levantar: O filme [levantou uma discussão sobre preconceito.,
+propor: Ao romper com a introspecção enquanto fonte única de informação e ao [propor novos métodos de análise estatística, Ebbinghaus conseguiu reorientar a psicologia de uma maneira muito produtiva,
+sugerir: O deputado José Carlos Aleluia [sugeriu que fosse encaminhado ao TCU um pedido de instalação de um inquérito administrativo na empresa. ,
+suscitar: "Assassinos por Natureza", que estréia hoje em São Paulo, [suscitou pelo menos duas discussões que merecem atenção.,}
+Chave: SUGERIR <verb.communication>
+ILI: 00846061
+
+Sense 1
+{00846061} <verb.communication> propose, suggest, advise2 -- (make a proposal, declare a plan for something)
+       => {00977478} <verb.communication> declare -- (state emphatically and authoritatively; "He declared that he needed more money to carry out the task he was charged with")
+           => {00976600} <verb.communication> state, say, tell4 -- (express in words; "He said that he wanted to marry her"; "tell me what is bothering you"; "state your opinion"; "state your name")
+               => {00909455} <verb.communication> express, verbalize3, verbalise3, utter1, give tongue to -- (articulate; either verbally or with a cry, shout, or noise; "She expressed her anger"; "He uttered a curse")               => {00636716} <verb.communication> express, utter1, give tongue to -- (articulate; either verbally or with a cry, shout, or noise; "She expressed her anger"; "He uttered a curse")

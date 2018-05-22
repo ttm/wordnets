@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA2910
+
+DADO O SYNSET:
+
+S='Glosa2910'
+	    {acordar2: Diplomacia é uma forma de solução que visa I]acordar as partes conflituosas.,
+	      harmonizar: O grupo dos 33, que tentava [harmonizar a questão tributária na revisão, partiu-se. # Para ele, mesmo com a dificuldade de [harmonizar propostas não-coincidentes entre PSDB e PFL, a coligação é um desafio que vale a pena ser enfrentado.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2910' = “Pôr em harmonia ou acordo”
+	    {acordar-se: Na Rio-92, I]acordaram-se obrigações e valores que os países desenvolvidos deveriam investir em conservação.,
+	      harmonizar: I]Harmonizaram os critérios e procedimentos para a oferta.,}
+Chave: HARMONIZAR <verb.change>
+ILI: 00469076
+
+Sense 5
+{00469076} <verb.change> harmonize2, harmonise2, reconcile -- (bring into consonance or accord; "harmonize one's goals with one's abilities")
+       => {00287086} <verb.change> adjust, set, correct9 -- (alter or regulate so as to achieve accuracy or conform to a standard; "Adjust the clock, please"; "correct the alignment of the front wheels")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

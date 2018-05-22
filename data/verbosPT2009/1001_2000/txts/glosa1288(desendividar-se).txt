@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA1288
+
+DADO O SYNSET:
+
+S='Glosa1288'
+{desencalacrar-se: H]Desencalacrou-se com o dinheiro do jogo.,
+ desendividar-se: Na fase recessiva do ciclo anterior, o setor público endividou-se para o setor privado I]desendividar-se.,}
+	  
+A='Glosa1784'
+{encalacrar-se, endividar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1288' = “sair da dívida por meio da quitação ou cancelamento”  
+{desencalacrar-se: O professor de direito de Harvard diz que o Brasil depende de três fatores para se I]desencalacrar.,
+ desendividar-se: Na fase recessiva do ciclo anterior, o setor público endividou-se para o setor privado I]desendividar-se.,}
+A='Glosa1784'
+{encalacrar-se, endividar-se}
+Chave: DESENDIVIDAR-SE <verb.possession>
+ILI: 02187999
+
+Sense 1
+{02187999} <verb.possession> pay up, ante up, pay4 -- (cancel or discharge a debt; "pay up, please!")
+       => {02188222} <verb.possession> pay14 -- (discharge or settle; "pay a debt"; "pay an obligation")
+           => {02189291} <verb.possession> settle -- (dispose of; make a financial settlement)
+               => {00988646} <verb.communication> arrange4, fix up -- (make arrangements for; "Can you arrange a meeting with the President?")
+                   => {00779329} <verb.communication> agree, hold15, concur, concord -- (be in accord; be in agreement; "We agreed on the terms of the settlement"; "I can't agree with you!"; "I hold with those who say life is sacred"; "Both philosophers concord on this point")

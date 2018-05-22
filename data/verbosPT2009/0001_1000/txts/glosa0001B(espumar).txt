@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0001B
+
+DADO O SYNSET:
+S='Glosa1'
+{ababalhar: x,
+	babar: Alguns doentes H]babam.,
+	escumar: O touro, bravio e enfurecido, M]escumava. ,
+	espumar: O cavalo está H]espumando.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1B' = “fazer espuma ou bolha”
+{escumar: O touro, bravio e enfurecido, M]escumava. ,
+espumar: O cavalo está H]espumando.,}
+Chave: ESPUMAR <verb.change>
+ILI: 00505670
+
+Sense 1
+{00505670} <verb.change> foam5, froth, fizz, effervesce, sparkle -- (form bubbles; "The boiling soup was frothing"; "The river was foaming"; "Sparkling water")
+       => {00505497} <verb.change> bubble -- (form, produce, or emit bubbles; "The soup was bubbling")
+           => {00102482} <verb.body> emit, breathe1, pass off -- (expel (gases or odors))
+               => {00102093} <verb.body> discharge, expel, eject, release1 -- (eliminate (substances) from the body)

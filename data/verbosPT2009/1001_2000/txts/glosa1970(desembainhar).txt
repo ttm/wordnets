@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA1970
+
+DADO O SYNSET:
+
+S='Glosa1970'
+{descascar: "Uma indiana macanuda, capaz de bolear a perna e I]descascar o facão até pra Cristo, salvo seja!...",
+ desembainhar: Sem [desembainhar a espada, o guerreiro o convence que não é seu inimigo.,
+ desfolhar: x,
+ escarnar1: x,
+ escascar: x,
+ esfolhar: x,
+ pelar1: E furioso, largou o braço da morena mas agarrou-lhe os cabelos, e puxou pra trás a cabeça da cabocla; com a outra mão I]pelou a faca, afiada, faiscando e procurou o pescoço da falsa., }
+	  
+A='Glosa1261'
+{embainhar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1970' = “retirar [algo] da bainha”
+{desembainhar: Sem [desembainhar a espada, o guerreiro o convence que não é seu inimigo.,}
+	  
+A='Glosa1261'
+{embainhar}
+Chave: DESEMBAINHAR <verb.contact>
+ILI: 01537878
+
+Sense 1
+{01537878} <verb.contact> unsheathe -- (draw from a sheathe or scabbard; "the knight unsheathed his sword")
+       => {01937125} <verb.motion> draw1, pull3, pull out3, get out2, take out10 -- (bring, take, or pull out of a container or from under a cover; "draw a weapon"; "pull out a gun"; "The mugger pulled a knife on his victim")
+           => {00166870} <verb.change> remove, take, take away1, withdraw1 -- (remove something concrete, as by lifting, pushing, taking off, etc. or remove something abstract; "remove a threat"; "remove a wrapper"; "Remove the dirty dishes from the table"; "take the gun from your pocket"; "This machine withdraws heat from the environment")

@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA0650
+
+DADO O SYNSET:
+
+S='Glosa650'
+{fraturar: Pensava que em alguma falha mecânica ele poderia [fraturar algum osso, no máximo/O jogador teve um choque com o zagueiro Henrique e quebrou dois dentes, além de [fraturar um osso da face,
+partir: E na queda uma perna [partiu.,
+quebrar: Ao cair num buraco, teve fraturas múltiplas nos dois pulsos, além de [quebrar o nariz e sofrer diversas escoriações no rosto,
+romper: O acúmulo de óleo acaba por [romper a cutícula, causando o extravasamento do óleo para a superficie epidérmica.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa650' = “separar em pedaços ou fragmentos”
+{fraturar: Pensava que em alguma falha mecânica ele poderia [fraturar algum osso, no máximo/O jogador teve um choque com o zagueiro Henrique e quebrou dois dentes, além de [fraturar um osso da face,
+partir: ele caiu daquele jeito chorando, I]partiu o osso
+quebrar: Ao cair num buraco, teve fraturas múltiplas nos dois pulsos, além de [quebrar o nariz e sofrer diversas escoriações no rosto,
+romper: O acúmulo de óleo acaba por [romper a cutícula, causando o extravasamento do óleo para a superficie epidérmica.,}
+Chave: QUEBRAR <verb.change>
+ILI: 00323679
+
+Sense 2
+{00323679} <verb.change> break, separate3, split up, fall apart3, come apart -- (become separated into pieces or fragments; "The figurine broke"; "The freshly baked loaf fell apart")
+       => {00135037} <verb.change> change integrity -- (change in physical make-up)
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")
+          Also See-> {00201816} <verb.change> break up2#18

@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA1314
+
+DADO O SYNSET:
+
+S='Glosa1314'
+{achar: Mas com ‘Te Amo Pra Sempre’ a gente sentiu que I]achou um caminho interessante para ela e diferente do original.,
+ adivinhar: Quer tentar I]adivinhar onde fui passear no domingo passado?,
+ descobrir: Em 1830, Michael Faraday [descobriu como gerar corrente elétrica movimentando um imã no interior de uma bobina. ,
+ desencobrir: É o acontecimento da presença daquele que é o único que pode I]desencobrir o mistério das coisas, ou seja, o mistério do Ser.,
+ farejar: Siqueira era indiscreto em [farejar e indagar dos negócios alheios,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1314' = “fazer uma descoberta” 
+{achar: Mas com ‘Te Amo Pra Sempre’ a gente sentiu que I]achou um caminho interessante para ela e diferente do original.,
+ adivinhar: Quer tentar I]adivinhar onde fui passear no domingo passado?,
+ descobrir: Em 1830, Michael Faraday [descobriu como gerar corrente elétrica movimentando um imã no interior de uma bobina. ,
+ desencobrir: É o acontecimento da presença daquele que é o único que pode I]desencobrir o mistério das coisas, ou seja, o mistério do Ser.,
+ farejar: Um executivo chamado Robert Stein viu o tetris feito pelos húngaros e na hora I]farejou que aquilo era uma mina de ouro.,}
+Chave: DESCOBRIR <verb.cognition>
+ILI: 00697510
+
+Sense 9
+{00697510} <verb.cognition> discover, find9 -- (make a discovery; "She found that he had lied to her"; "The story is false, so far as I can discover")
+       => {00579325} <verb.cognition> learn1, hear, get word, get wind1, pick up, find out, get a line, discover1, see2 -- (get to know or become aware of, usually accidentally; "I learned that she has two grown-up children"; "I see that you have been promoted")
+          Also See-> {00579325} <verb.cognition> find out#2

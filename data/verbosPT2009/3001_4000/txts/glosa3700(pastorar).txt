@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA3700
+
+DADO O SYNSET:
+
+S='Glosa3700'
+	    {
+	      apascentar: É proibido I]apascentar gado de qualquer natureza nas margens, cômoros, valados e diques dos lagos, rios, valas, canais, esteiros e mais correntes de água do domínio do Estado.,
+	      apastorar: I]Apastorar gado miúdo. ,
+	      pascentar: A palavra igreja, significa assembléia; e a palavra bispo, pastor, o encarregado de I]pascentar as ovelhas. ,
+	      pastorar: Resolveram dançar com as bengalas que elas usavam para I]pastorar as cabras.,
+	      pastorear: Plantavam milho e trigo com as mãos, [pastoreavam o gado, carregavam água e sacos de cereais de até 80 quilos. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3700' = “tomar conta como um pastor, como de carneiros ou bodes”
+	     {apascentar: Por anos I]apascentou os rebanhos de seu sogro, na paz daquela terra livre.,
+	      pastorar: Com 8 anos já ajudava meu pai na roça e I]pastorava o gado do meu avô Bernardo Xavier de Santana.,
+	      pastorear: Plantavam milho e trigo com as mãos, [pastoreavam o gado, carregavam água e sacos de cereais de até 80 quilos.,}
+Chave: PASTORAR <verb.social>
+ILI: 02474741
+
+Sense 2
+{02474741} <verb.social> shepherd -- (tend as a shepherd, as of sheep or goats)
+       => {02474544} <verb.social> tend -- (have care of or look after; "She tends to the children")
+           => {02474278} <verb.social> attend12, take care11, look13, see14 -- (take charge of or deal with; "Could you see about lunch?"; "I must attend to this matter"; "She took care of this business")
+               => {02474993} <verb.social> care13, give care -- (provide care for; "The nurse was caring for the wounded")
+                   => {02472355} <verb.social> help, assist2, aid -- (give help or assistance; be of service; "Everyone helped out during the earthquake"; "Can you help me carry this table?"; "She never helps around the house")
+                       => {02480483} <verb.social> support, back up -- (give moral or psychological support, aid, or courage to; "She supported him during the illness"; "Her children always backed her up")

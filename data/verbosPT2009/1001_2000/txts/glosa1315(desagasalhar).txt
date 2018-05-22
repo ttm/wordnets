@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA1315
+
+DADO O SYNSET:
+
+S='Glosa1315'
+{desabafar: Está muito calor, é melhor H]desabafar essa criança,
+desagasalhar: Antes de mais, há que tomar medidas básicas; colocar um antipirético, I]desagasalhar a criança, dar-lhe água para beber e um banho, ,
+desatabafar: H]Desatabafar um bebê,
+descobrir: Lucinha I]descobriu a cabeça e olhou devagar para a maca.,
+desencobrir: x,}
+	  
+A='Glosa3007'
+{abafar, acobertar, agasalhar, cobrir, enroupar, recobrir, resguardar, revestir, roupar, tapar, velar2}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1315' = “remover as roupas de alguém”
+{desagasalhar: Antes de mais, há que tomar medidas básicas; colocar um antipirético, I]desagasalhar a criança, dar-lhe água para beber e um banho.,
+descobrir: O cobertor é curto: I]descobriu os pés para cobrir a cabeça.,}
+A='Glosa3007'
+{abafar, acobertar, agasalhar, cobrir, enroupar, recobrir, resguardar, revestir, roupar, tapar, velar2}
+Chave: DESAGASALHAR <verb.change>
+ILI: 00170777
+
+Sense 2
+{00170777} <verb.change> strip12, undress, divest13, disinvest -- (remove (someone's or one's own) clothes; "The nurse quickly undressed the accident victim"; "She divested herself of her outdoor clothes"; "He disinvested himself of his garments")
+       => {00166870} <verb.change> remove, take, take away1, withdraw1 -- (remove something concrete, as by lifting, pushing, taking off, etc. or remove something abstract; "remove a threat"; "remove a wrapper"; "Remove the dirty dishes from the table"; "take the gun from your pocket"; "This machine withdraws heat from the environment")

@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA3738
+
+DADO O SYNSET:
+	
+S='Glosa3738'
+{antipatizar: Como cronista, Sarney toma o cuidado de não indignar ninguém, e é difícil [antipatizar com ele.,
+	 dessimpatizar: A]Dessimpatizo com os pedantes.,
+	 embirrar: Chiquinha começou a [embirrar com o filho adotivo; este que, como dissemos, não simpatizara muito com ela, começou uma balbúrdia de todos os pecados.,
+	 impeticar: Marta ia nos catorze quando o pai a quis tirar da mestra, pois chegara-lhe aos ouvidos que os estudantes I]impeticavam com a filha.,
+	 implicar: E o demônio da mulher sempre a ralhar, sempre zangada, batendo nos negros e a [implicar com ele, Raimundo, a quem, todas as vezes que lhe dava a mão a beijar.,
+	 ojerizar: Não sei por que M]ojeriza comigo.,
+	 peguinhar: M]Peguinha com os estrangeiros. }
+
+A='Glosa784'
+{aprovar, gostar, simpatizar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3738' = “ter ou sentir antipatia ou aversão por”
+{antipatizar: Como cronista, Sarney toma o cuidado de não indignar ninguém, e é difícil [antipatizar com ele.,
+	 dessimpatizar: A]Dessimpatizo com os pedantes.,
+	 embirrar: Chiquinha começou a [embirrar com o filho adotivo; este que, como dissemos, não simpatizara muito com ela, começou uma balbúrdia de todos os pecados.,
+	 impeticar: Marta ia nos catorze quando o pai a quis tirar da mestra, pois chegara-lhe aos ouvidos que os estudantes I]impeticavam com a filha.,
+	 implicar: E o demônio da mulher sempre a ralhar, sempre zangada, batendo nos negros e a [implicar com ele, Raimundo, a quem, todas as vezes que lhe dava a mão a beijar.,
+	 ojerizar: Não sei por que M]ojeriza comigo.,
+	 peguinhar: M]Peguinha com os estrangeiros. }
+
+A='Glosa784'
+{aprovar, gostar, simpatizar}
+Chave: ANTIPATIZAR <verb.emotion>
+ILI: 01212998
+
+Sense 1
+{01212998} <verb.emotion> dislike -- (have or feel a dislike or distaste for; "I really dislike this salesman")

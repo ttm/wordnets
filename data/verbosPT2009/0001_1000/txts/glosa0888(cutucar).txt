@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0888
+
+DADO O SYNSET:
+
+S='Glosa888'
+{catucar: Imediatamente, Dona Maricota olhando por baixo do velho óculos e [catucou a amiga.,
+chuchar: Tostão I]chuchou a onça com vara curta.,
+cutucar: Gracinhas como essa são marca registrada do presidente, pois em 1995 ele fez uma secretária pular da cadeira ao [cutucar suas costas.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa888' = “chamar a atenção de alguém por meio de toque; dar um leve toque”
+{catucar: Imediatamente, Dona Maricota olhando por baixo do velho óculos e [catucou a amiga.,
+chuchar: Tostão I]chuchou a onça com vara curta.,
+cutucar: Gracinhas como essa são marca registrada do presidente, pois em 1995 ele fez uma secretária pular da cadeira ao [cutucar suas costas.}
+Chave: CUTUCAR <verb.contact>
+ILI: 01192555
+
+Sense 1
+{01192555} <verb.contact> jab, prod1, stab1, poke1, dig3 -- (poke or thrust abruptly; "he jabbed his finger into her ribs")
+       => {01844087} <verb.motion> thrust -- (push forcefully; "He thrust his chin forward")
+           => {01817891} <verb.motion> push, force -- (move with force, "He pushed the table into a corner")
+               => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")
+          Also See-> {02463494} <verb.social> poke into#2

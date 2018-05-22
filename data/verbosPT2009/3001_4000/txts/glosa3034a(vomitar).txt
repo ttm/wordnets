@@ -1,0 +1,36 @@
+ANÁLISE DA GLOSA3034a
+
+DADO O SYNSET:
+
+S='Glosa3034'
+	    {
+	      baldear: I]Baldeou muito, passou mal, mas agora já tá melhor; dizem que tava anêmico.,
+	      bofar: H]Bofou sangue pela boca.,
+	      bofejar: x,
+	      chorrar: x,
+	      chorrilhar: x,
+	      desfolegar: x,
+	      golfar: O bebê não pára de I]golfar, é normal? # Na primeira seqüência Isabelle apanha tanto, que acaba passando mal, chegando a I]golfar líquidos incessantemente.,
+	      golfejar: Ele ainda tentou dizer alguma coisa, mas o sangue purulento já lhe I]golfejava da boca e caía-lhe em jorro pelo corpo.,
+	      jorrar: Segue também uma tourada, a lancinante e insuportável agonia do touro, que [jorra sangue pela boca.,
+	      resfolegar: As mãos dela foram relaxando, Jorge I]resfolegava e estava ainda meio tonto com a falta de ar.,
+	      resfolgar: Bradou, erguendo-se, o conde de Barcelos, com voz afogada da cólera, que já não podia conter, se não queres que seja eu quem te faça I]resfolgar sangue, em vez de injúrias.,
+	      verter: Tão depressa as [verteu como as engoliu. # Foi para isso que Jesus I]verteu seu sangue no calvário.,
+	      vomitar: O monstro marinho, rugindo corno uma cratera, [vomitando fumo e devorando o espaço com os seus flancos negros, lançou-se.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3034a' = “expelir conteúdos do estômago pela boca” 
+	     {baldear: I]Baldeou muito, passou mal, mas agora já tá melhor; dizem que tava anêmico.,
+	      golfar: A primeira vez que ela I]golfou liguei para meu marido, Sérgio Magalhães, chorando # Na primeira seqüência Isabelle apanha tanto, que acaba passando mal, chegando a I]golfar líquidos incessantemente.,
+	      golfejar: Ele ainda tentou dizer alguma coisa, mas o sangue purulento já lhe I]golfejava da boca e caía-lhe em jorro pelo corpo.,
+	      resfolegar: As mãos dela foram relaxando, Jorge I]resfolegava e estava ainda meio tonto com a falta de ar.,
+	      vomitar: Reclamava de dores de estômago, [vomitava; os médicos chegaram a pensar em gastrite, mas o diagnóstico foi outro: esquizofrenia.,}
+Chave: VOMITAR <verb.body>
+ILI: 00074101
+
+Sense 1
+{00074101} <verb.body> vomit, vomit up, purge4, cast, sick, cat, be sick1, disgorge, regorge, retch, puke, barf, spew, spue, chuck, upchuck, honk, regurgitate, throw up -- (eject the contents of the stomach through the mouth; "After drinking too much, the students vomited"; "He purged continuously"; "The patient regurgitated the food we gave him last night")
+       => {00070835} <verb.body> excrete, egest, eliminate, pass -- (eliminate from the body; "Pass a kidney stone")
+           => {00102093} <verb.body> discharge, expel, eject, release1 -- (eliminate (substances) from the body)

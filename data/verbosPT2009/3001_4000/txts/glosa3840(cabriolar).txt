@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA3840
+
+DADO O SYNSET:
+
+S='Glosa3840'
+{cabriolar: O bichinho I]cabriolava contente, dando viravoltas a esmo.,
+	 cambalhotar: Todavia, seu oponente era muito ágil, e enquanto corria, conseguia I]cambalhotar no ar e arremessar mais lâminas.,
+	 piruetar: Sorriu longamente para a vida, para os pombos que ali voavam, I]piruetavam nos ares, vezes fazendo arcos, vezes círculos...,
+	 piruetear: Por ali rolava bamboleando ou I]pirueteava nos ares como visão fantástica de voluptuosa acrobacia a Fortuna, levíssima nos movimentos felinos e nas inesperadas cabriolas.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3840' = “saltar de um lado para outro alegremente”
+{cabriolar: O bichinho I]cabriolava contente, dando viravoltas a esmo.,
+	 cambalhotar: Todavia, seu oponente era muito ágil, e enquanto corria, conseguia I]cambalhotar no ar e arremessar mais lâminas.,
+	 piruetar: Sorriu longamente para a vida, para os pombos que ali voavam, I]piruetavam nos ares, vezes fazendo arcos, vezes círculos...,
+	 piruetear: Por ali rolava bamboleando ou I]pirueteava nos ares como visão fantástica de voluptuosa acrobacia a Fortuna, levíssima nos movimentos felinos e nas inesperadas cabriolas.}
+Chave: CABRIOLAR <verb.motion>
+ILI: 01909591
+
+Sense 1 
+{01909591} <verb.motion> caper -- (jump about playfully)
+       => {01906445} <verb.motion> jump, leap, bound1, spring1 -- (move forward by leaps and bounds; "The horse bounded across the meadow"; "The child leapt across the puddle"; "Can you jump over the fence?")
+           => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right")

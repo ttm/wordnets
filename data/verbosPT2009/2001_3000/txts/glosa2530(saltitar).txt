@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA2530
+
+DADO O SYNSET:
+
+S='Glosa2530'
+	    {saltarelar: x,
+	      saltaricar: Um ribeiro flúi por entre os bosques, deixando ver através da transparência os seixos que, ao saltar brincando em línguas de água, I]saltaricam em gotas que se entretecem, se deslaçam e logo se reúnem sem quebrar o encanto em que discorrem.,
+	      saltarilhar: x,
+	      saltarinhar: x,
+	      saltitar: A Menina que observara todo o acontecimento começou a [saltitar, tamanho seu nervosismo, indo imediatamente ao encontro do amigo, demonstrando profunda preocupação com a sua dor.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2530' = “Avançar pulando ou saltando.”
+	    {saltitar: Lá chegando, I]saltitou feliz escada acima até a entrada da casa.,}
+
+Chave: SALTITAR <verb.motion>
+ILI: 01906445
+
+Sense 1
+{01906445} <verb.motion> jump, leap, bound1, spring1 -- (move forward by leaps and bounds; "The horse bounded across the meadow"; "The child leapt across the puddle"; "Can you jump over the fence?")
+       => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right") 

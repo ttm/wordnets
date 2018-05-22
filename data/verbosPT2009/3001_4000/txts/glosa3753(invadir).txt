@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA3753
+
+DADO O SYNSET:
+
+S='Glosa3753'
+{entrar: Quando um dos bandidos partiu para os fundos da agência, a fim de [entrar no cofre, o segurança que estava no segundo pavimento reagiu atirando.,
+	 invadir: A quadrilha da Mineira já havia tentado [invadir o morro na madrugada de sexta-feira passada.,
+	 penetrar: Agentes poderão [penetrar no território de jurisdição alheia, ainda que de outro Estado.,
+	 transpor: Edson disse que acelerou o veículo, na tentativa de [transpor a barricada e fugir, quando vários tiros foram disparados.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3753' = “ser intruso, invadir, passar os limites de, violar”
+{entrar: Quando um dos bandidos partiu para os fundos da agência, a fim de [entrar no cofre, o segurança que estava no segundo pavimento reagiu atirando.,
+	 invadir: A quadrilha da Mineira já havia tentado [invadir o morro na madrugada de sexta-feira passada.,
+	 penetrar: Agentes poderão [penetrar no território de jurisdição alheia, ainda que de outro Estado.,
+	 transpor: Edson disse que acelerou o veículo, na tentativa de [transpor a barricada e fugir, quando vários tiros foram disparados.}
+Chave: INVADIR <verb.motion>
+ILI: 01961825
+
+Sense 2 
+{01961825} <verb.motion> intrude on, invade, obtrude upon, encroach upon -- (to intrude upon, infringe, encroach on, violate; "This new colleague invades my territory"; "The neighbors intrude on your privacy")
+       => {01958650} <verb.motion> enter, come in2, get into, get in1, go into, go in, move into -- (to come or go into; "the boat entered an area of shallow marshes")

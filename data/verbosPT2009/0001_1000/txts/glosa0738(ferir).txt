@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0738
+
+DADO O SYNSET:
+
+S='Glosa738'
+{ferir: Tinha gostado de muitas, acompanhou algumas, mas esta foi a primeira que o [feriu deveras.,
+torturar: Os policiais humilharam e [torturaram psicologicamente os freqüentadores.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa738' = “causar ferimentos ou dano corporal a”
+{ferir: Ela não I]feriu nem matou ninguém, e aprendeu a lição", diz a petição.,
+torturar: Os policiais humilharam e [torturaram psicologicamente os freqüentadores.,}
+Chave: FERIR <verb.body>
+ILI: 00067690
+
+Sense 1
+{00067690} <verb.body> injure, wound -- (cause injuries or bodily harm to)
+       => {00062508} <verb.body> hurt1 -- (give trouble or pain to; "This exercise will hurt your back")
+           => {00062736} <verb.body> indispose -- (cause to feel unwell; "She was indisposed")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

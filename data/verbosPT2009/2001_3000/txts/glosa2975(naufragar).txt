@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA2975
+
+DADO O SYNSET:
+
+S='Glosa2975'
+	    {afundar: O comandante do 1º Distrito Naval disse não ter certeza se há sobreviventes do naufrágio do navio Iron Antonis, que [afundou a 3.400 km da costa do Rio.,
+	      fundir2: x,
+	      naufragar: O navio de bandeira cipriota [naufragou no dia 3 de setembro.,
+	      perder-se: Uma desgraça abateu sobre Antonio: todos os seus navios I]perderam-se em águas oceânicas.,
+	      soçobrar: Uma antiga lenda árabe dizia que certa "Mão de Satanás", postada na entrada da barra (o Pão de Açúcar), de uma Ilha chamada Brasil, fazia I]soçobrar as embarcações que ousassem atravessá-la.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2975' = “Fazer ir a pique”
+	    {afundar: Manobra após incêndio I]afundou o navio egípcio..,
+	      naufragar: Uma tempestade I]naufragou o barco e os imigrantes foram descobertos por militares.,
+	      soçobrar: Quase lhe I]soçobrou o navio nas pontas Abrolhos.,}
+Chave: NAUFRAGAR <verb.motion>
+ILI: 01928931
+
+Sense 2
+{01928931} <verb.motion> sink2 -- (cause to sink; "The Japanese sank American ships in Pearl Harbor")
+       => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant") 

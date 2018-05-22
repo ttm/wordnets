@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA2489
+
+DADO O SYNSET:
+
+S='Glosa2489'
+	    {advir: A Prefeitura Municipal, através do vice-prefeito doutor Gilberto Ramos solicitou ao comandante militar do Leste a cooperação do Exército brasileiro na distribuição de folhetos explicativos à população daquela área carente, vítima das enchentes com esclarecimentos sobre a leptospirose e outras doenças que poderia [advir, bem como no atendimento médico de emergência aos mais necessitados.,
+	      seguir: Durante a festa que [seguiu a première mundial de Missão impossível, em Los Angeles, na segunda-feira, Tom Cruise parecia um homem realizado, apesar do cerco dos musculosos seguranças que o protegiam do assédio dos fãs.,
+	      sobrechegar: x,
+	      sobrevir: Com esta herança parece porém que tinha ele tido também uma outra, e era a de lhe [sobrevir sempre uma contrariedade em casos semelhantes.,
+	      suceder: O primeiro-ministro Shimon Peres, que [sucedeu Rabin no posto, considerou a punição menor do que o crime. # O seu terror particular era a idéia de causalidade como uma ligação privilegiada entre dois eventos que regularmente [sucedem um ao outro.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2489' = “Vir depois no tempo, como um resultado.”
+	    {advir: Sofrem até hoje com as conseqüências que I]advieram.,
+	      seguir: Durante a festa que [seguiu a première mundial de Missão impossível Tom Cruise parecia um homem realizado.,
+	      sobrevir: Na seqüência, I]sobreveio sentença de procedência da ação de cobrança.,
+	      suceder: O seu terror particular era a idéia de causalidade como uma ligação privilegiada entre dois eventos que regularmente [sucedem um ao outro.,}
+
+Chave: ADVIR <verb.stative>
+ILI: 02640315
+
+Sense 6
+{02640315} <verb.stative> follow1, come after -- (come after in time, as a result; "A terrible tsunami followed the earthquake")
+       => {02555744} <verb.stative> result, ensue -- (issue or terminate (in a specified way, state, etc.); end; "result in tragedy")
+           => {02555360} <verb.stative> prove, turn out, turn up3 -- (be shown or be found to be; "She proved to be right"; "The medicine turned out to save her life"; "She turned up HIV positive")
+               => {02526983} <verb.stative> be3 -- (have the quality of being; (copula, used with an adjective or a predicate noun); "John is rich"; "This is not a good answer") 

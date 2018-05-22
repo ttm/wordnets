@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA2850
+
+DADO O SYNSET:
+
+S='Glosa2850'
+	    {ajeitar: Com posição pública firmada, agora é questão de [ajeitar as coisas.,
+	      arranjar: Se ele for candidato (a presidente) , eu também posso [arranjar uns três votinhos para ele, afirmou o governador.,
+	      facultar: Em 1997 ganhou o prêmio anual de Direitos Humanos do Departamento de Estado dos EUA, cuja bolsa I]facultou-lhe o acesso às principais fontes do FBI, DEA, ATF.,
+	      ocasionar: O Sr. Ohashi administrava uma loja de venda de guarda-chuvas por atacado, mas a falência de um sócio I]ocasionou-lhe uma enorme dívida.,
+	      oferecer: Os ministros Sérgio Motta e José Serra seguem para o Japão na comitiva presidencial para uma missão especial; os tucanos - cada um na sua área - farão uma maratona de palestras para [oferecer aos empresários japoneses as estatais brasileiras privatizáveis.,
+	      propiciar: Ele julgava que o Partido podia [propiciar uma carreira válida a um novo Julien Sorel.,
+	      proporcionar: Esta firma I]proporcionou-lhe uma "bolsa" para um curso de Administração de Empresa na Fundação Getúlio Vargas em São Paulo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2850' = “Tornar disponível ou acessível, prover ou fornecer”
+	    {ajeitar: Foi o pessoal da prefeitura que I]ajeitou para mim.,
+	      arranjar: Meu pai, então, I]arranjou um emprego para mim na torrefação da qual tinha se tornado sócio, a Café Palheta.,
+	      facultar: Em 1997 ganhou o prêmio anual de Direitos Humanos do Departamento de Estado dos EUA, cuja bolsa I]facultou-lhe o acesso às principais fontes do FBI, DEA, ATF.,
+	      ocasionar: O Sr. Ohashi administrava uma loja de venda de guarda-chuvas por atacado, mas a falência de um sócio I]ocasionou-lhe uma enorme dívida.,
+	      oferecer: Fui colaborador de Vuelta porque Paz I]ofereceu a mim uma coluna mensal para falar de poesia.,
+	      propiciar: Vale lembrar, aqui, a contribuição da Assembléia Legislativa de Minas Gerais, que I]propiciou oportunidade de discussão do assunto.,
+	      proporcionar: Esta firma I]proporcionou-lhe uma "bolsa" para um curso de Administração de Empresa na Fundação Getúlio Vargas em São Paulo.,}
+
+Chave: OFERECER <verb.possession>
+ILI: 02230548
+
+Sense 1
+{02230548} <verb.possession> offer2 -- (make available or accessible, provide or furnish; "The conference center offers a health spa"; "The hotel offers private meeting rooms")
+       => {02259805} <verb.possession> supply, provide, render2, furnish -- (provide or furnish with; "We provided the room with an electrical heater")
+           => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+               => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children") 

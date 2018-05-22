@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA3069
+
+DADO O SYNSET:
+
+S='Glosa3069'
+	    {
+	      guinchar: O Corpo de Bombeiros e o Dersa (Desenvolvimento Rodoviário S/A) foram chamados às 17h24 para [guinchar o carro. ,
+	      rebocar: Os responsáveis estariam propondo [rebocar a embarcação.,
+	      reboquear: x,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3069' = puxar contra uma resistência”
+	     {guinchar: Diante da falta de explicações para o abandono do veículo, a equipe da Polícia Militar I]guinchou o que sobrou da Kombi. ,
+	      rebocar: Ainda nessa madrugada de Agosto de 1989, a Polícia Judiciária I]rebocou o carro com o corpo lá dentro para o Instituto de Medicina Legal.,}
+Chave: REBOCAR <verb.contact>
+ILI: 01412135
+
+Sense 1
+{01412135} <verb.contact> drag -- (pull, as against a resistance; "He dragged the big suitcase behind him"; "These worries were dragging at him")
+       => {01406785} <verb.contact> pull, draw3, force1 -- (cause to move along the ground by pulling; "draw a wagon"; "pull a sled")
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")
+          Also See-> {02597040} <verb.stative> drag in#1

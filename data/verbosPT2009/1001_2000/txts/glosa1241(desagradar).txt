@@ -1,0 +1,36 @@
+ANÁLISE DA GLOSA1241
+
+DADO O SYNSET:
+
+S='Glosa1241'
+{aborrecer: Beja extrapola o direito que todo mundo tem de [aborrecer o semelhante.,
+ contrariar: Policarpo, eu não quero [contrariar você; continue lá com as suas manias.# O padrinho desesperava com isso vinte vezes em cada dia por ver frustrado seu belo sonho, porém não se animava mais a [contrariar o afilhado.,
+ desagradar: Fosse o que fosse, fiquei amuado; no dia seguinte, pensando no motivo, não me [desagradou; mais tarde achei-lhe um sabor particular.  ,
+ descontentar: Simon conseguiu I]descontentar os dois jogadores,
+ desgostar: Ele tem receio de I]desgostar o pai,
+ desprazer: Sua atitude rebelde sempre H]desprazia à mãe,
+ molestar: M]Molestou a colega falando rudemente,
+	 ofender: Só abrimos mão disso para não [ofender os nossos aliados. # Romário reagiu às agressões, mas sem a intenção de [ofender qualquer pessoa.,}
+
+A='Glosa3943'
+{agradar, apetecer, aprazer, comprazer, contentar, deleitar, deliciar, lisonjear, prazer, repastar, satisfazer}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1241' = “dar desprazer [a]”
+{aborrecer: E essas comparações me [aborrecem.,
+ contrariar: Isto [contrariou o mais que era possível ao barbeiro.,
+ desagradar: Fosse o que fosse, fiquei amuado; no dia seguinte, pensando no motivo, não me [desagradou; mais tarde achei-lhe um sabor particular.,
+ descontentar: Simon conseguiu I]descontentar os dois jogadores.,
+ desgostar: Ele tem receio de I]desgostar o pai.,
+ desprazer: O contrato não lhe I]desprouve, mas agradou a ele.,
+ molestar: Seria alguma mensagem amorosa? Esta idéia I]molestou-o muito.,
+	 ofender: Só abrimos mão disso para não [ofender os nossos aliados.}
+
+A='Glosa3943'
+{agradar, apetecer, aprazer, comprazer, contentar, deleitar, deliciar, lisonjear, prazer, repastar, satisfazer}
+Chave: DESAGRADAR <verb.emotion>
+ILI: 01764259
+
+Sense 1
+{01764259} <verb.emotion> displease -- (give displeasure to)

@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0512
+
+DADO O SYNSET:
+
+S='Glosa512'
+{caldear: A] Caldear raças.,
+mesclar: A experiência Pitcairn, de I]mesclar a raça branca ea raça polinésia, deu resultados bastante bons.,
+mestiçar: Sendo a de maior porte, sempre foi utilizada para I]mestiçar toda sorte de raças.,
+miscigenar: Devido as circunstâncias impostas, as diversas tribos e culturas tribais começaram a I]miscigenar uma com as outras.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa512' = “cruzar raças ou elementos diferentes”
+{mesclar: A experiência Pitcairn, de I]mesclar a raça branca ea raça polinésia, deu resultados bastante bons.,
+mestiçar: Sendo a de maior porte, sempre foi utilizada para I]mestiçar toda sorte de raças.,
+miscigenar: Devido as circunstâncias impostas, as diversas tribos e culturas tribais começaram a I]miscigenar uma com as outras.,}
+Chave: MESCLAR <verb.change>
+ILI: 00382880
+
+Sense 1
+{00382880} <verb.change> blend, flux, mix, conflate, commingle, immix, fuse, coalesce, meld, combine, merge1 -- (mix together different elements; "The colors blend well")
+       => {00135037} <verb.change> change integrity -- (change in physical make-up)
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")
+          Also See-> {00600082} <verb.cognition> mix up#2

@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA0966
+
+DADO O SYNSET:
+
+S='Glosa966'
+{aceitar: Seus reis, a princípio, [aceitaram o feudalismo, mas, a partir do século XII, passaram a cuidar do fortalecimento do próprio poder.,
+admitir: Esta semelhança estrutural levou a maioria dos pesquisadores a [admitir a possibilidade de centríolos e corpúsculos basais serem variações de um mesmo organóide.,
+adotar: Concomitantemente às modificações na divisão política do continente europeu, ocorridas após o fim da Segunda Guerra Mundial, vários países [adotaram o socialismo como forma de governo.,
+conhecer: Atenas exemplificava o que ocorreu às cidades do seu tipo e chegou a [conhecer a democracia, ao final de quatro fases políticas.,
+receber: Os encarregados de segurança norte-americanos de Dallas colocam em prática o treinamento antiterrorista que [receberam.,
+reconhecer: O apogeu medieval chinês foi alcançado sob a Dinastia Tang (618-907), durante a qual vários povos asiáticos [reconheceram a supremacia do Império.,
+tomar: Eis, então, que as respostas das jovens gerações [tomam caminhos discordantes.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa966' = “declarar ser verdade ou admitir a existência ou realidade ou verdade de”
+{aceitar: Seus reis, a princípio, [aceitaram o feudalismo, mas, a partir do século XII, passaram a cuidar do fortalecimento do próprio poder.,
+admitir: Esta semelhança estrutural levou a maioria dos pesquisadores a [admitir a possibilidade de centríolos e corpúsculos basais serem variações de um mesmo organóide.,
+adotar: Concomitantemente às modificações na divisão política do continente europeu, ocorridas após o fim da Segunda Guerra Mundial, vários países [adotaram o socialismo como forma de governo.,
+conhecer: Atenas exemplificava o que ocorreu às cidades do seu tipo e chegou a [conhecer a democracia, ao final de quatro fases políticas.,
+receber: Os encarregados de segurança norte-americanos de Dallas colocam em prática o treinamento antiterrorista que [receberam.,
+reconhecer: O apogeu medieval chinês foi alcançado sob a Dinastia Tang (618-907), durante a qual vários povos asiáticos [reconheceram a supremacia do Império.,
+tomar: Eis, então, que as respostas das jovens gerações [tomam caminhos discordantes.}
+Chave: ADMITIR <verb.communication>
+ILI: 00790973
+
+Sense 1
+{00790973} <verb.communication> admit, acknowledge -- (declare to be true or admit the existence or reality or truth of; "He admitted his errors"; "She acknowledged that she might have forgotten")
+       => {00795481} <verb.communication> declare4, adjudge, hold11 -- (declare to be; "She was declared incompetent"; "judge held that the defendant was innocent")
+           => {00647983} <verb.cognition> judge -- (form an opinion of or pass judgment on; "I cannot judge some works of modern art")
+               => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

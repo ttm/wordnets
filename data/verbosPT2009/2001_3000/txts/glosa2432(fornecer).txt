@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA2432
+
+DADO O SYNSET:
+
+  S='Glosa2432'
+	    {conferir: O cerebelo computa esses dados e [confere a noção de equilíbrio ao indivíduo.,
+	      dar: Quércia tentou [dar uma característica suprapartidária à sua candidatura.,
+	      dispensar: A idéia, segundo um executivo do BC, é [dispensar à família Magalhães Pinto, controladora do Nacional, o mesmo tratamento dado a Ângelo Calmon de Sá - o ex-controlador do Banco Econômico acusado de ter cometido crime contra o sistema financeiro.,
+	      emprestar: Nele, alguns dos principais nomes do soul e do pop foram convidados para [emprestar suas vozes a arranjos previamente programados de músicas de Gaye.,
+	      fornecer: Além disso, os fosfatos fazem parte da molécula de ATP, verdadeira «bateria energética» que [fornece a energia necessária para o desenvolvimento do metabolismo celular.,
+	      ministrar: A comissão pretende ministrar as aulas de direitos humanos para todos os 1.500 alunos até o final do ano.,
+	      prestar: Era obrigação dos vassalos [prestar auxílio ao suzerano durante quarenta dias por ano.,
+	      subministrar: Receber dádivas antes ou depois de iniciado o processo; aconselhar alguma das partes acerca do objeto da causa, ou [subministrar meios para atender às despesas do litígio.,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2432' = “Ser a origem ou a fonte de.”
+	    {conferir: O cerebelo computa esses dados e [confere a noção de equilíbrio ao indivíduo.,
+	      dar: Mas é preciso que lhes I]demos meios suficientes para a sua sustentação e decoro.,
+	      dispensar: O Senhor I]dispensou cuidados especiais a esse pequeno grupo de servos designados para essa obra específica.,
+	      emprestar: Dias [emprestou seu apoio ao tucano.,
+	      fornecer: Os fosfatos fazem parte da molécula de ATP, que [fornece a energia necessária para o desenvolvimento do metabolismo celular.,
+	      ministrar: O enfermeiro sugere e I]ministra informações sobre alimentação.,
+	      prestar: I]Prestou informação sobre a cerimônia que marcaria o início das atividades do programa.,
+	      subministrar: A leitura do livro em apreço mostra que a pesquisa lhe I]subministrou os dados e os ingredientes básicos.,}
+
+Chave: FORNECER <verb.possession>
+ILI: 02271697
+
+Sense 2
+{02271697} <verb.possession> yield2, give5, afford -- (be the cause or source of; "He gave me a lot of trouble"; "Our meeting afforded much interesting information")
+       => {02259805} <verb.possession> supply, provide, render2, furnish -- (provide or furnish with; "We provided the room with an electrical heater")
+           => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+               => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children") 

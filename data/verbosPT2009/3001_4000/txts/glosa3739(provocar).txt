@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA3739
+
+DADO O SYNSET:
+	
+S='Glosa3739'
+{desafiar1: Jaguar lembra de uma viagem pelo Sul em que a dupla ganhou dinheiro [desafiando os bons bebedores e os valentões de cada cidade.,
+	  meter-se: A]Meteu-se com o atleta, e saiu-se mal.,
+	  peguilhar: Tem o sangue a ferver, tem A]peguilhado por tudo!,
+	  peguinhar: De mau humor, H]peguinhava com a mulher.,
+	  provocar: Joel Santana sai do banco e grita para o time evitar o toque de bola para não [provocar o adversário. }
+	
+A ANÁLISE RESULTA EM:
+
+S='Glosa3739' = “incitar ou provocar, como por exemplo, com críticas constantes”
+{desafiar1: Jaguar lembra de uma viagem pelo Sul em que a dupla ganhou dinheiro [desafiando os bons bebedores e os valentões de cada cidade.,
+	  meter-se: A]Meteu-se com o atleta, e saiu-se mal.,
+	  peguilhar: Tem o sangue a ferver, tem A]peguilhado por tudo!,
+	  peguinhar: De mau humor, H]peguinhava com a mulher.,
+	  provocar: Joel Santana sai do banco e grita para o time evitar o toque de bola para não [provocar o adversário. }
+Chave: PROVOCAR <verb.communication>
+ILI: 00577495
+
+Sense 1
+{00577495} <verb.communication> nettle, needle, goad1 -- (goad or provoke,as by constant criticism; "He needled her with his sarcastic remarks")
+       => {01221988} <verb.emotion> harass, hassle, harry, chivy, chivvy, chevy, chevvy, beset, plague, molest, provoke1 -- (annoy continually or chronically; "He is known to harry his staff when he is overworked")
+           => {01221002} <verb.emotion> annoy, rag1, get to, bother, get at, irritate, rile, nark, nettle, gravel, vex, devil -- (cause annoyance in; disturb, esp. by minor irritations: "Mosquitoes buzzing in my ear really bothers me"; "It irritates me that she never closes the door after she leaves")
+               => {01239708} <verb.emotion> displease -- (give displeasure to)

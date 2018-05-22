@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA1746
+
+DADO O SYNSET:
+
+S='Glosa1746'
+{acobertar: Para o líder do PT na Assembléia, Luiz Azevedo, a CPI pode ser usada para [acobertar os deputados suspeitos de recebimento de propinas dos bicheiros paulistas.,
+ cobrir: Para cobrir seu erro fatal, os generais dão uma ordem de prisão à 3 soldados inocentes os culpados por covardia e motim. ,
+ defender: "Como o delegado não pediu, achei melhor acautelar as armas", disse o coronel Marcos Paes, que voltou a [defender seus homens.,
+ encobertar: A imunidade parlamentar não pode I]encobertar um deputado como ele que comete loucuras como fez.,
+ proteger: «Mesmo assim, os seguranças pareciam que estavam querendo [proteger os caras que estavam batendo no Sandro, porque levaram o grupo para um canto da boate», comentou um dos amigos que acompanhava Sandro.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1746' = “providenciar uma desculpa ou álibi para alguém a fim de cobrir uma culpa”
+{acobertar: No depoimento, Dalmo confessou que [acobertava os sobrinhos Ricardo e Rogério Miranda, acusados de interceptarem os veículos.,
+ cobrir: Para I]cobrir seu erro fatal, os generais dão uma ordem de prisão à 3 soldados inocentes os culpados por covardia e motim.,
+ defender: "Como o delegado não pediu, achei melhor acautelar as armas", disse o coronel Marcos Paes, que voltou a [defender seus homens.,
+ encobertar: A imunidade parlamentar não pode I]encobertar um deputado como ele que comete loucuras como fez.,
+ proteger: Ele [protegeu muita gente e escondeu nomes.,}
+Chave: ACOBERTAR <verb.communication>
+ILI: 00866335
+
+Sense 1
+{00866335} <verb.communication> cover for1 -- (provide an excuse or alibi for someone so as to cover up guilt; "I won't lie and cover for you")
+       => {01093094} <verb.competition> protect -- (shield from danger, injury, destruction, or damage; "Weatherbeater protects your roof from the rain")
+           => {01092732} <verb.competition> defend -- (be on the defensive; act against an attack)
+               => {02377053} <verb.social> prevent, keep1 -- (prevent from doing something or being in a certain state; "We must prevent the cancer from spreading"; "His snoring kept me from falling asleep"; "Keep the child from eating the marbles") 

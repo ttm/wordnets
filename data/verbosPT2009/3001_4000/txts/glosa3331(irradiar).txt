@@ -1,0 +1,42 @@
+ANÁLISE DA GLOSA3331
+
+DADO O SYNSET:
+
+S='Glosa3331'
+	    {
+	      despargir: x,
+	      desparzir: x,
+	      difundir: Cada material (ferro, vidro, carvão etc.) transmite, absorve, reflete e [difunde diferentemente a luz.,
+	      emanar: Seu corpo [emana um halo de luz que espanta os seres monstruosos para a escuridão.,
+	      emitir: Quando ela atinge o filamento de uma lâmpada comum, ele fica incandescente e [emite luz.,
+	      espalhar: Marcelo Ferraz explica que o farol de neblina [espalha um facho de luz baixo, iluminando inclusive as laterais da estrada. ,
+	      espargir: Oastro-rei I]esparge seus raios dourados pela fímbria do horizonte e amanhece um novo e estimulante dia de trabalho.,
+	      esparzir: Tristonho, Narciso percorre o vidro. I]Esparze a luz.,
+	      irradiar: Dificilmente uma pessoa poderá perceber, do calor irradiado, que seu aquecedor elétrico [irradia 25% menos de calor.,
+	      lançar: Acordei com o sol H]lançando os seus primeiros raios.,
+	      luzir: No verão, a aurora A]luz mais cedo os seus primeiros clarões.,
+	      radiar: Astrônomos descobriram que estrelas e nebulosas I]radiam além da luz violeta, conseqüentemente surgiu o termo ultravioleta.,
+	      raiar1: O velho lampião M]raiava uma tênue claridade.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3331' = “lançar raios de luz”
+	     {difundir: Cada material (ferro, vidro, carvão etc.) transmite, absorve, reflete e [difunde diferentemente a luz.,
+	      emanar: Seu corpo [emana um halo de luz que espanta os seres monstruosos para a escuridão.,
+	      emitir: Quando ela atinge o filamento de uma lâmpada comum, ele fica incandescente e [emite luz.,
+	      espalhar: Marcelo Ferraz explica que o farol de neblina [espalha um facho de luz baixo, iluminando inclusive as laterais da estrada. ,
+	      espargir: Oastro-rei I]esparge seus raios dourados pela fímbria do horizonte e amanhece um novo e estimulante dia de trabalho.,
+	      esparzir: Tristonho, Narciso percorre o vidro. I]Esparze a luz.,
+	      irradiar: Dificilmente uma pessoa poderá perceber, do calor irradiado, que seu aquecedor elétrico [irradia 25% menos de calor.,
+	      lançar: Acordei com o sol H]lançando os seus primeiros raios.,
+	      luzir: No verão, a aurora A]luz mais cedo os seus primeiros clarões.,
+	      radiar: Assim, o Sol I]irradia luz própria, diferindo dos planetas e seus satélites que brilham porque refletem a luz do Sol que incide neles.,
+	      raiar1: O sol I]raiava sobre as montanhas e sombreava o lago, com aquele contraste entre o lago e as montanhas.,}
+Chave: IRRADIAR <verb.change>
+ILI: 00282562
+
+Sense 2
+{00282562} <verb.change> irradiate1 -- (cast rays of light upon)
+       => {00272032} <verb.change> lighten2, lighten up1 -- (become lighter; "The room lightened up")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA3634
+
+DADO O SYNSET:
+
+S='Glosa3634'
+	    {
+	      opinar: Lula, por telefone, [opinou a favor da liberação da bancada. ,
+	      votar: Eu nunca [votaria a favor da separação da região sul do resto do Brasil.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3634' = “expressar preferência por um candidato ou por uma medida ou resolução; depositar um voto”
+	     {opinar: Lula, por telefone, [opinou a favor da liberação da bancada. ,
+	      votar: Eu nunca [votaria a favor da separação da região sul do resto do Brasil.,}
+Chave: VOTAR <verb.social>
+ILI: 02387321
+
+Sense 1
+{02387321} <verb.social> vote13 -- (express one's preference for a candidate or for a measure or resolution; cast a vote; "He voted for the motion"; "None of the Democrats voted last night")
+       => {00652154} <verb.cognition> choose, take1, select, pick out -- (pick out, select, or choose from a number of alternatives; "Take any one of these cards"; "Choose a good husband for your daughter"; "She selected a pair of shoes from among the dozen the salesgirl had shown her")
+           => {00674417} <verb.cognition> decide, make up one's mind, determine -- (reach, make, or come to a decision about something; "We finally decided after lengthy deliberations")
+          Also See-> {02328666} <verb.social> vote in#1; {02399578} <verb.social> vote out#1

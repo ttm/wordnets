@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA
+
+DADO O SYNSET:
+
+  S='Glosa2754'
+	    {recriar: Os governadores de Pernambuco, Alagoas, Sergipe e Bahia querem [recriar, artificialmente, a Cachoeira de Paulo Afonso, extinta há alguns anos pelo desvio das àguas do São Francisco na construção das hidrelétricas de Paulo Afonso e Xingó.,
+	      refazer: Tivemos que [refazer toda a estrutura do terminal da Praça 15, o que acabou comprometendo o cronograma de obras, explica o diretor da Transtur.,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2754' = “Criar novamente”
+	    {recriar: Martin Childs (desenhista de produção) e sua equipe de talento, que I]recriou a Londres de Shakespeare para John Madden em Shakespeare Apaixonado.,
+	      refazer: Emílio Ibrahim I]Refez o Maracanã.,}
+
+Chave: REFAZER <verb.creation>
+ILI: 01688448
+
+Sense 4
+{01688448} <verb.creation> recreate5 -- (create anew; "she recreated the feeling of the 1920's with her stage setting")
+       => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor") 

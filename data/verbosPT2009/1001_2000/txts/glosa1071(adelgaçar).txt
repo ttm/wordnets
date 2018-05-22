@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA1071
+
+DADO O SYNSET:
+
+S='Glosa1071'
+{adelgaçar: No século XIX, o espartilho tinha como principal objectivo I]adelgaçar a cintura, já que nessa época estava na moda a cintura fina,
+ afilar2: Através das técnicas do blush e traços no maxilar é possível arredondar ou I]afilar mais o rosto e harmonizar ainda mais seus traços. ,
+ delgaçar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1071' = “fazer ou tornar mais estreito ou restrito”
+{adelgaçar: Pierre-Adolpho Piorry I]adelgaçou o tubo à espessura de um dedo e introduziu na extremidade torácica.,
+ afilar2: Através das técnicas do blush e traços no maxilar é possível arredondar ou I]afilar mais o rosto e harmonizar ainda mais seus traços.,}
+Chave: ADELGAÇAR <verb.change>
+ILI: 00295534 
+
+Sense 1
+{00295534} <verb.change> narrow, contract -- (make or become more narrow or restricted; "The selection was narrowed"; "The road narrowed")
+       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")
+          Also See-> {00473257} <verb.change> narrow down#2; {00425035} <verb.change> narrow down1#3

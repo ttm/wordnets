@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA3281
+
+DADO O SYNSET:
+
+S='Glosa3281'
+	    {
+	      desbastardar: x,
+	      justificar: Muitos, senão a maioria, dos filósofos sentiram a necessidade tanto de manter-se a par das descobertas científicas como de [justificar suas atividades de uma maneira cientificamente respeitável. ,
+	      legitimar: Nietzsche precisava ousar a dose de verdade que seu espírito não poderia suportar, para coroar, para autenticar, para [legitimar sua obra. ,
+	      lidimar: x,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3281' = “defender, explicar, retirar, ou dar desculpas”
+	     {justificar: Christian [justificou a sua derrota pela falta de potência dos motores Ford. ,
+	      legitimar: Bin Laden I]legitimou as operações lançadas contra ele em nome de um direito de legítima defesa. ,}
+
+Chave: JUSTIFICAR <verb.communication>
+ILI: 00865308
+
+Sense 3
+{00865308} <verb.communication> apologize1, apologise1, excuse1, justify2, rationalize, rationalise -- (defend, explain, clear away, or make excuses for by reasoning; "rationalize the child's seemingly crazy behavior"; "he rationalized his lack of success")
+       => {00865802} <verb.communication> defend, support1, fend for -- (argue or speak in defense of; "She supported the motion to strike")
+           => {00746664} <verb.communication> argue2, reason -- (present reasons and arguments)
+               => {00747406} <verb.communication> present, represent11, lay out -- (bring forward and present to the mind; "We presented the arguments to him"; "We cannot represent this knowledge to our formal reason")
+                   => {00976600} <verb.communication> state, say, tell4 -- (express in words; "He said that he wanted to marry her"; "tell me what is bothering you"; "state your opinion"; "state your name")
+                       => {00909455} <verb.communication> express, verbalize3, verbalise3, utter1, give tongue to -- (articulate; either verbally or with a cry, shout, or noise; "She expressed her anger"; "He uttered a curse")

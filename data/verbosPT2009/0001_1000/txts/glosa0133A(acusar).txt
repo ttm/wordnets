@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0133A
+
+DADO O SYNSET:
+
+S='Glosa133'
+{acusar: No balanço da Receita Federal, que I]acusa o recebimento de 31.694 declarações no Maranhão, constam as declarações recebidas em meio magnético (disquete) e internet.,
+confessar: O outro foi D.F., 17 anos, que I]confessou ter participado do homicídio.,
+declarar: Quantos já desviaram dinheiro, estão como homens de bem e aparecem nos jornais?, [declarou o desembargador. ,
+revelar: A comissão de sindicância [revelou ainda indícios de falsificação de documentos, formação de cartéis familiares da fraude e conivência.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa133A' = “trazer uma acusação contra”
+{acusar: No balanço da Receita Federal, que I]acusa o recebimento de 31.694 declarações no Maranhão, constam as declarações recebidas em meio magnético (disquete) e internet.,}
+
+Chave: ACUSAR <verb.communication>
+ILI: 00815577
+
+Sense 1
+{00815577} <verb.communication> accuse, impeach, incriminate, criminate -- (bring an accusation against; level a charge against; "He charged the man with spousal abuse")
+       => {00815975} <verb.communication> charge2, accuse1 -- (blame for, make a claim of wrongdoing or misbehavior against; "he charged me director with indifference")

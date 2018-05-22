@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0285
+
+DADO O SYNSET:
+
+S='Glosa285'
+{deglutir: Você pode [deglutir o chilli con carne com margaritas, tequila sunrises, ou tequila pura.,
+engolir: Alguns têm boca e estômago capazes de [engolir e digerir presas com o dobro do seu tamanho.,
+ingerir: Eles concluíram que aquelas que tomaram suplementos multivitamínicos tiveram mais gestações múltiplas que as que [ingeriram tabletes sem vitaminas.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa285' = “x”
+{deglutir: Você pode [deglutir o chilli con carne com margaritas, tequila sunrises, ou tequila pura.,
+engolir: Alguns têm boca e estômago capazes de [engolir e digerir presas com o dobro do seu tamanho.,
+ingerir: Eles concluíram que aquelas que tomaram suplementos multivitamínicos tiveram mais gestações múltiplas que as que [ingeriram tabletes sem vitaminas.,}
+Chave: INGERIR <verb.consumption>
+ILI: 01165380
+
+Sense 1
+{01165380} <verb.consumption> swallow, get down -- (pass through the esophagus as part of eating or drinking; "Swallow the raw fish--it won't kill you!")
+       => {01121136} <verb.consumption> consume, ingest, take in, take, have -- (serve oneself to, or consume regularly; "Have another bowl of chicken soup!"; "I don't take sugar in my coffee")

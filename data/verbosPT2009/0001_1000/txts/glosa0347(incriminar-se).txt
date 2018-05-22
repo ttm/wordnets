@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0347
+
+DADO O SYNSET:
+
+S='Glosa347'
+{criminar-se: H]Criminou-se com aquela hesitação.,
+incriminar-se: Para PF, Mattos se I]incriminou ainda mais.,
+inculpar-se: Quase se I]inculpou a vítima de suicida.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa347' = “trazer (-se), levantar (-se) uma acusação” 
+{incriminar-se: Para PF, Mattos se I]incriminou ainda mais.,
+inculpar-se: Os que se recusavam à responder apelando para a 5ª Emenda (que impedia o cidadão de I]inculpar-se) eram detidos por desacato.,}
+Chave: INCRIMINAR-SE <verb.communication>
+ILI: 00815577
+
+Sense 2
+{00815577} <verb.communication> accuse, impeach, incriminate, criminate -- (bring an accusation against; level a charge against; "He charged the man with spousal abuse")
+       => {00815975} <verb.communication> charge2, accuse1 -- (blame for, make a claim of wrongdoing or misbehavior against; "he charged me director with indifference")

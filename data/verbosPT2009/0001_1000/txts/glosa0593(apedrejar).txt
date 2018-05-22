@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0593
+
+DADO O SYNSET:
+
+S='Glosa593'
+{apedrar: x,
+apedrejar: Com o fim do show, o público se revoltou e [apedrejou os policiais.,
+lapidar: Assim, a população local I]lapidou os acuados e para evitar mais mortes, o governo publicou as fotos em tamanho gigante.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa593' = “jogar pedras em”
+{apedrejar: Com o fim do show, o público se revoltou e [apedrejou os policiais.,}
+Chave: APEDREJAR <verb.contact>
+ILI: 01195050
+
+Sense 2
+{01195050} <verb.contact> lapidate1 -- (throw stones at)
+       => {01465626} <verb.contact> pelt, bombard -- (cast, hurl, or throw repeatedly with some missile; "They pelted each other with snowballs")
+           => {01466080} <verb.contact> throw -- (project through the air; "throw a frisbee")
+               => {01469437} <verb.contact> propel, impel -- (cause to move forward with force; "Steam propels this ship")
+                   => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

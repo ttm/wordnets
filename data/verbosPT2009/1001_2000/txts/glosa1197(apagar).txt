@@ -1,0 +1,37 @@
+ANÁLISE DA GLOSA1197
+
+DADO O SYNSET:
+
+S='Glosa1197'
+{apagar: Ele já não tem mais as impressões digitais dos dedos das mãos; o ácido cítrico da fruta I]apagou as marcas. ,
+ borrar: Suas palavras eram tão desesperadamente indecifráveis como as de uma carta que sabemos ser decisiva para nosso destino, mas que o tempo e a umidade [borraram e a tornaram ilegível.,
+ cegar: A pátina H]cegara a inscrição do bronze,
+ debotar: x,
+ delir: O tempo H]deliu a pintura.,
+ desapagar: x,
+ desbotar: Todo em brocado cor-de-rosa, estilo Farah Diba; I]desbotou um pouco o rosa do pano junto ao ruivo do cabelo.,
+ esvaecer: A]Esvaecer uma mancha.,
+ esvanecer: DEVIANT,
+ expungir: H]Expungiu da carta a dolorosa palavra.,
+ obliterar: A branquidão turbilhonante I]obliterou qualquer rastro, obrigando-oa guiar-se apenas pelo instinto.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1197' = “tornar menos nítido ou distinto visivelmente; desaparecer gradualmente ou aparentemente”  
+{apagar: O bicarbonato de amônia em combinação com o de sódio serviria para restituir à pintura o efeito cromático real: enquanto aquele [apaga as cores, este as acentua.,
+ borrar: Suas palavras eram tão desesperadamente indecifráveis como as de uma carta que sabemos ser decisiva para nosso destino, mas que o tempo e a umidade [borraram e a tornaram ilegível.,
+ cegar: Meu dia foi feliz e I[cegou a vontade de que a vida ande mais depressa do que ela pode,
+ delir: Excessivo era o meu afeto; mas ela quebrou -o, I]deliu-o do meu coração.,
+ desbotar: A proprietária Sandra Carta diz que a loja só trabalha uma flanela «que não encolhe, é mais macia e não [desbota com facilidade».,
+ esvaecer: Retrato de meu Pai, moço no sonho, que o nimbo de tais anos I]esvaece.,
+ expungir: Retirou parte da proposição do Senador Eduardo Suplicy visto que I]expungiu do texto o debate que ocorreria após a fala do Presidente da República.,
+ obliterar: A branquidão turbilhonante I]obliterou qualquer rastro, obrigando-o a guiar-se apenas pelo instinto.,}
+Chave: APAGAR <verb.change>
+ILI: 00217079
+
+Sense 1
+{00217079} <verb.change> fade2, melt5 -- (become less clearly visible or distinguishable; disappear gradually or seemingly; "The scene begins to fade"; "The tree trunks are melting into the forest at dusk")
+       => {00216002} <verb.change> weaken -- (become weaker; "The prisoner's resistance weakened after seven days")
+           => {00146081} <verb.change> decrease, diminish, lessen, fall6 -- (decrease in size, extent, or range; "The amount of homework decreased towards the end of the semester"; "The cabin pressure fell dramatically"; "her weight fall to under a hundred pounds"; "his voice fell to a whisper")
+               => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

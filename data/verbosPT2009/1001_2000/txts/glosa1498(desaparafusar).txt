@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA1498
+
+DADO O SYNSET:
+
+S='Glosa1498'
+{desandar: H]Desandar um parafuso.,
+ desaparafusar: Para fazer isso, use a chave phillips para I]desaparafusar a tampa.,
+ desapertar: Nesse caso, I]desapertar em primeiro lugar os parafusos curtos e só depois, devagar e uniformemente, os longos,
+ desatarraxar: Não havia nenhuma e em seguida ele desativou a mina de fabricação soviética [desatarraxando o detonador,
+ desentarraxar: x,
+ desparafusar: Utilize a chave philips que acompanha o produto para I]desparafusar a tampa do alojamento da bateria e liguar o fio preto da bateria.,}
+	  
+A='Glosa1844'
+{aparafusar, apertar, atarraxar, parafusar, tarraxar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1498' = “soltar ou desprender [algo] desaparafusando”
+{desaparafusar: O técnico I]desaparafusou a parte preta do painel sobre o volante e puxou o conjunto todo para fora.,
+ desapertar: Solte o pára-choques, I]desapertando os parafusos e soltando as buchas,
+ desatarraxar: Ele desativou a mina de fabricação soviética [desatarraxando o detonador.,
+ desparafusar: Um hóspede I]desparafusou da parede de mármore um suporte de metal utilizado para apoiar o pé.}
+	  
+A='Glosa1844'
+{aparafusar, apertar, atarraxar, parafusar, tarraxar}
+Chave: DESAPARAFUSAR <verb.contact>
+ILI: 01312619
+
+Sense 1
+{01312619} <verb.contact> unscrew -- (loosen something by unscrewing it; "unscrew the outlet plate")
+       => {00407260} <verb.change> loosen1, loose2 -- (make loose or looser; "loosen the tension on a rope")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

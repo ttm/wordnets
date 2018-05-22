@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA2986
+
+DADO O SYNSET:
+
+S='Glosa2986'
+	    {amolestar: x,
+	      fustigar: Fleury não cansa de [fustigar Quércia.,
+	      magoar: Evite o espírito crítico exagerado, para não [magoar as pessoas.,
+	      molestar: Nunca mais I]molestou alguém com uma pergunta assustadora.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2986' = “Causar aborrecimento em, incomodar, especialmente por irritações de pouca importância”
+	    {fustigar: Jan Ullrich, então com 23 anos, I]fustigou seu parceiro e predileto na equipe, o campeão Bjarne Riis.,
+	      magoar: Ao notar que criou um mal-estar, prontifica-se a se desculpar com alguém que I]magoou.,
+	      molestar: Nunca mais I]molestou alguém com uma pergunta assustadora.,}
+Chave: FUSTIGAR <verb.emotion>
+ILI: 01736079
+
+Sense 1
+{01736079} <verb.emotion> annoy, rag1, get to, bother, get at, irritate, rile, nark, nettle, gravel, vex, chafe, devil -- (cause annoyance in; disturb, especially by minor irritations; "Mosquitoes buzzing in my ear really bothers me"; "It irritates me that she never closes the door after she leaves")
+       => {01764259} <verb.emotion> displease -- (give displeasure to) 

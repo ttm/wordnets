@@ -1,0 +1,35 @@
+ANÁLISE DA GLOSA3317
+
+DADO O SYNSET:
+
+S='Glosa3317'
+	    {
+	      aglomerar: Apresentando uma natureza híbrida, pois I]aglomera estudos acerca das línguas, das literaturas e das culturas estrangeiras, não perde de vista a natural.,
+	      apinhar: A mania que Lucas tem em I]apinhar de detalhes cada cena causa uma certa deformidade na imagem, como se nunca acreditássemos naquilo que estamos vendo.,
+	      encher: Acredito que o futebol espetáculo, bonito, que o público gosta de ver, que [enche estádios e conquista torcedores, depende disso: de não se jogar para não perder. ,
+	      glomerar: x,
+	      lotar: Foi feito com sucesso no Centro Cultural Banco do Brasil (CCBB) , edifício que serviu durante anos apenas como banco e hoje [lota de visitantes, com restaurantes, galerias de arte e salas de vídeo. ,
+	      ocupar: Em companhia dos pais e de nada menos que 60 amigos,  André [ocupou todo o segundo andar da churrascaria Mariu"s, no Leme, para um jantar de comemoração. ,
+	      preencher: Com o inchamento, o gel formado I]preenche todos os espaços, bloqueando assim a passagem da água.,
+	      repletar: Pesquisas demonstraram que dietas enriquecidas com glutamina podem I]repletar os estoques e manter o metabolismo muscular da glutamina sem estimular o crescimento tumoral. ,
+	      tomar: Com uma ampliação de 30.000 vezes já póderá ver algumas células [tomando todo o campo microscópico.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3317' = “tornar cheio, também em sentido metafórico”
+	     {aglomerar: População I]aglomera o local do crime.,
+	      apinhar: No mesmo dia, uma multidão de curiosos I]apinhou o corredor para ver o segredo.,
+	      encher: Uma grande multidão I]encheu a Praça Cristiano para ouvir o Presidente da República. ,
+	      lotar: A torcida [lotou as arquibancadas e o calçadão da Praia do Leme para esperar o vencedor da prova. ,
+	      ocupar: Os alunos do Projeto Guri I]ocuparam todo palco do CLTB. ,
+	      preencher: Com o inchamento, o gel formado I]preenche todos os espaços, bloqueando assim a passagem da água.,
+	      repletar: Pesquisas demonstraram que dietas enriquecidas com glutamina podem I]repletar os estoques e manter o metabolismo muscular da glutamina sem estimular o crescimento tumoral. ,
+	      tomar: Em São Paulo, servidores I]tomaram o prédio da Superintendência do INSS.,}
+Chave: ENCHER <verb.change>
+ILI: 00439460
+
+Sense 1
+{00439460} <verb.change> fill1, fill up, make full -- (make full, also in a metaphorical sense; "fill a container"; "fill the child with pride")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")
+          Also See-> {01647134} <verb.creation> fill in#2; {01158573} <verb.consumption> fill out#5

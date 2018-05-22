@@ -1,0 +1,39 @@
+ANÁLISE DA GLOSA2796
+
+DADO O SYNSET:
+
+S='Glosa2796'
+	    {ajuntar: A Internet foi projetada para I]ajuntar redes pequenas, convertendo-as numa rede única.,
+	      antologiar: É nesse sentido que os organizadores conseguiram o mais difícil, ou seja, I]antologiar sem privilegiar tendências ou grupos, documentando de forma clara e geralmente correta o perfil de cada poeta. ,
+	      codificar: Um sistema para classificar e I]codificar os trabalhos que relacionam o controle da produção e o controle da qualidade.,
+	      colecionar: Aprenda a reconhecer e I]colecionar livros raros. ,
+	      coligir: À Coordenação-Geral de Assuntos Administrativos e Execuções Judiciais compete: supervisionar o fornecimento de subsídios para a defesa da União e I]coligir os elementos de fato e de direito, nas informações que devem ser prestadas pelas autoridades do Ministério.,
+	      compilar: A função collect do PowerGREP é muito útil quando você pretende I]compilar dados em estado bruto de arquivos e pastas.,
+	      copilar: Atribuições: efetuar levantamento das necessidades de capacitação no Tribunal de Justiça; diagnosticar e I]copilar dados de levantamentos realizados.,
+	      recolher: As deputadas querem I]recolher dados técnicos sobre a pobreza entre as mulheres brasileiras.,
+	      recopilar: Os organizadores do workshop objetivam, também, promover a análise de uma ou mais das bases de dados que se enumeram mais adiante, e que são fruto de esforços recentes para I]recopilar informação sobre o envelhecimento em diversas regiões do mundo, inclusive, América Latina e o Caribe, EE.UU. e Ásia.,
+	      respigar: Procurarei I]respigar alguns tópicos que nos ajudem a participar dessa celebração e, com novo ânimo, aperfeiçoar a aplicação das diretrizes dadas pelo Vaticano II a tão relevante assunto.,
+	      reunir: Paralelamente, a base de dados documentais sobre a arte contemporânea espanhola e latino- americana, englobada na Arcodata pela primeira vez apresentada em 1992 e que então [reunia o registo de quatro mil artistas plásticos e profissionais do mundo da arte, será ampliada.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2796' = “Agrupar em coleção”
+	    {ajuntar: Por muitos anos I]ajuntou idéias.,
+	      codificar: Escoffer, rei dos cozinheiros e cozinheiro dos reis, o homem que no fim do século 19 [codificou a culinária moderna.,
+	      colecionar: Carlos Antonio [colecionou os 115 principais balanços publicados nas últimas semanas mostrando o resultado das sociedades anônimas no ano passado.,
+	      coligir: Vê-se que a Reclamada I]coligiu os comprovantes de depósito recursal e de custas em via fax, sem qualquer autenticação.,
+	      compilar: É uma reunião de elementos visuais, literários, fílmicos, em que cada um dos participantes [compilou memórias de infância, encontros e emoções.,
+	      copilar: Nos últimos dois anos, ela já I]copilou cerca de 40 receitas que têm como base a rã.,
+	      recolher: A Previdência Social [recolheu indícios em todo o país de envolvimento de funcionários dos Correios nas fraudes em aposentadorias rurais.,
+	      recopilar: Também I]recopilou seus diários e memórias e, inclusive, escreveu rascunhos para uma auto-biografia do ministro da Defesa.,
+	      respigar: A Autora I]respigou na seara do pensamento moderno aquilo que pode levar-nos à mudança da consciência e do comportamento perante o mundo natural.,
+	      reunir: Parte da revalorização, isenta e livre, de formulações de José Ortega y Gasset, em um livro esquecido e não raro difamado - A rebelião das massas, de 1929, que [reuniu ensaios dos anos anteriores.,}
+
+Chave: COMPILAR <verb.possession>
+ILI: 02238144
+
+Sense 1
+{02238144} <verb.possession> roll up3, collect, accumulate, pile up, amass, compile, hoard -- (get or gather together; "I am accumulating evidence for the man's unfaithfulness to his wife"; "She is amassing a lot of data for her thesis"; "She rolled up a small fortune")
+       => {02215096} <verb.possession> store, hive away, lay in, put in, salt away, stack away, stash away -- (keep or lay aside for future use; "store grain for the winter"; "The bear stores fat for the period of hibernation when he doesn't eat")
+           => {02138940} <verb.possession> keep, hold on -- (retain possession of; "Can I keep my old stuffed animals?"; "She kept her maiden name after she married")
+               => {02139918} <verb.possession> have, have got, hold -- (have or possess, either in a concrete or an abstract sense; "She has $1,000 in the bank"; "He has got two beautiful daughters"; "She holds a Master's degree from Harvard") 

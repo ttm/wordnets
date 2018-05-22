@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA2485
+
+DADO O SYNSET:
+
+S='Glosa2485'
+	    {inspecionar: IBPC [inspeciona obra em palácio do Pará.,
+	      sobreintender: x,
+	      sobrevigiar: x,
+	      superintender: O diretor geral representará a fundação, ativa e passivamente, em juízo e fora dele, competindo-lhe I]superintender os serviços da Diretoria Executiva.,
+	      supervisar: Cheney I]supervisa a nova política energética dos EUA.,
+	      supervisionar: A resolução prevê, entretanto, a possibilidade de reajuste dos valores em até 17%, mediante autorização da Susep (Superintendência de Seguros Privados) , órgão que [supervisiona o setor.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2485' = “Acompanhar e dirigir, controlar.”
+	    {inspecionar: IBPC [inspeciona obra em palácio do Pará.,
+	      superintender: Como governador e constituinte, I]superintendeu o ensino, organizou a força pública e estruturou a justiça.,
+	      supervisar: Cheney I]supervisa a nova política energética dos EUA.,
+	      supervisionar: A resolução prevê a possibilidade de reajuste, mediante autorização da Susep, órgão que [supervisiona o setor.,}
+
+Chave: SUPERVISIONAR <verb.social>
+ILI: 02369653
+
+Sense 1
+{02369653} <verb.social> oversee, supervise, superintend, manage1 -- (watch and direct; "Who is overseeing this project?")
+       => {02358802} <verb.social> administer, administrate -- (work in an administrative capacity; supervise; "administer a program")
+           => {02363018} <verb.social> manage, deal13, care11, handle -- (be in charge of, act on, or dispose of; "I can deal with this crew of workers"; "This blender can't handle nuts"; "She managed her parents' affairs after they got too old")
+               => {02367626} <verb.social> control, command -- (exercise authoritative control or power over; "control the budget"; "Command the military forces") 

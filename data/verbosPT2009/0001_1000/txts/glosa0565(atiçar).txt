@@ -1,0 +1,35 @@
+ANÁLISE DA GLOSA0565
+
+DADO O SYNSET:
+
+S='Glosa565'
+{atiçar: Escola de futuros executivos e empreendedores, a Eaesp também tem a missão de [atiçar a imaginação de seus alunos para a criação de produtos viáveis no mercado.,
+avivar: Os tormentos e o horror da visão do mal como que se varriam da minha memória exclusivamente empenhada em [avivar a saudade do bem que eu havia perdido. # Apenas para [avivar a memória, vale voltar um pouco ao passado.,
+azougar: x,
+espertar: Sei que escrevi algumas cartas, comprei uma substancia, que não digo, para não [espertar o desejo de prová-la.,}
+A='Glosa2232'
+{apagar, debotar, derreter, desbotar, desfazer, desvaecer, desvanear,     desvanecer, dissipar, esfazer, esvaecer, esvanecer, varrer}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa565' = “provocar ou instigar a fazer algo”
+{atiçar: Escola de futuros executivos e empreendedores, a Eaesp também tem a missão de [atiçar a imaginação de seus alunos para a criação de produtos viáveis no mercado.,
+avivar: Os tormentos e o horror da visão do mal como que se varriam da minha memória exclusivamente empenhada em [avivar a saudade do bem que eu havia perdido. # Apenas para [avivar a memória, vale voltar um pouco ao passado.,
+espertar: Sei que escrevi algumas cartas, comprei uma substancia, que não digo, para não [espertar o desejo de prová-la.,}
+A='Glosa2232'
+{apagar, debotar, derreter, desbotar, desfazer, desvaecer, desvanear,     desvanecer, dissipar, esfazer, esvaecer, esvanecer, varrer}
+Chave: ATIÇAR <verb.communication>
+ILI: 00823635
+
+Sense 2
+{00823635} <verb.communication> incite, instigate, set off, stir up -- (provoke or stir up; "incite a riot"; "set off great unrest among the people")
+       => {00768370} <verb.communication> provoke, stimulate -- (provide the needed stimulus for)
+           => {00839696} <verb.communication> challenge -- (issue a challenge to; "Fischer challenged Spassky to a match")
+               => {00767907} <verb.communication> invite, bid -- (ask someone in a friendly way to do something)
+                   => {00728656} <verb.communication> request2 -- (ask (a person) to do something; "She asked him to be here at noon"; "I requested that she type the entire manuscript")
+                       => {00727721} <verb.communication> ask1 -- (make a request or demand for something to somebody; "She asked him for a loan")
+                           => {00727992} <verb.communication> request1, bespeak, call for4, quest1 -- (express the need or desire for; ask for; "She requested an extra bed in her room"; "She called for room service")
+                               => {00717906} <verb.communication> communicate1, pass on, pass1, put across -- (transmit information ; "Please communicate this message to all employees")
+                                   => {02167243} <verb.possession> convey10, transmit10, communicate10 -- (transfer to another; "communicate a disease")
+                                       => {02167764} <verb.possession> transfer1 -- (move from one place to another; "transfer the data"; "transmit the news"; "transfer the patient to another hospital")
+                                           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

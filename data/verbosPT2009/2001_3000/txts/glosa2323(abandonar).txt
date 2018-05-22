@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA2323
+
+DADO O SYNSET:
+
+S='Glosa2323'
+	    {abandonar: PMDB [abandona ex-presidente da Câmara, cujo mandato pode ser cassado.,
+	      desertar: A viagem seria breve, mas mesmo assim, perdendo um dia ou dois, era como se começasse a [desertar da batalha.,
+	      transfugir: Isto seria I]transfugir do dever e desprezar a boa-fé popular.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2323' = “parar de manter ou de insistir em algo, como idéias, reivindicações, etc.”
+	    {abandonar: [Abandonou o curso por não suportar as humilhações.,
+	      desertar: A viagem seria breve, mas mesmo assim, era como se começasse a [desertar da batalha.,
+	      transfugir: Ela I]transfugiu de seu papel.,}
+
+Chave: ABANDONAR <verb.cognition>
+ILI: 00593413
+
+Sense 2
+{00593413} <verb.cognition> abandon1, give up -- (stop maintaining or insisting on; of ideas, claims, etc.; "He abandoned the thought of asking for her hand in marriage"; "Both sides have to give up some calims in these negociations") 

@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA3217
+
+DADO O SYNSET:
+
+S='Glosa3217'
+	    {
+	      cobiçar: H] Invejava a felicidade do amigo.,
+	      invejar: As promessas sensibilizaram sobretudo a população do sul, que [invejava a infra-estrutura do vizinho Estado de São Paulo . ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3217' = “sentir-se invejoso, admirar invejosamente”
+	     {cobiçar: Ele I]cobiçava o Trono de Osíris.,
+	      invejar: Adelpha I]invejava a jóia de Frida inescrupulosamente. ,}
+Chave: INVEJAR <verb.emotion>
+ILI: 01774483
+
+Sense 1
+{01774483} <verb.emotion> envy1 -- (feel envious towards; admire enviously)
+           => {07084257} <noun.feeling> envy, enviousness, the green-eyed monster -- (a feeling of grudging admiration and desire to have something possessed by another)

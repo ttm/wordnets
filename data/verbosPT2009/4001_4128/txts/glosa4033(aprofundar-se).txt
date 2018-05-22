@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA4033
+
+DADO O SYNSET:
+
+S='Glosa4033'
+{afundar-se: Um dia anunciaram que a ilha ia I]afundar-se.,
+aprofundar-se: H]Aprofundaram-se-lhe dois sulcos na fronte.,
+fundir-se2: Com o calor, H]fundira-se o asfalto.,
+profundar-se: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4033' = “tornar mais intenso”
+{afundar-se: A pele murchou-se-lhe, os olhos I]afundaram-se: o cabelo começou a alvejar; a marcha tornou-se-lhe trêmula , a respiração difícil.,
+aprofundar-se: H]Aprofundaram-se-lhe dois sulcos na fronte.,}
+Chave: APROFUNDAR-SE <verb.change>
+ILI: 00218994
+
+Sense 2
+{00218994} <verb.change> intensify, deepen -- (become more intense; "The debate intensified"; "His dislike for raw fish only deepened in Japan")
+       => {00150804} <verb.change> increase -- (become bigger or greater in amount; "The amount of work increased")
+           => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

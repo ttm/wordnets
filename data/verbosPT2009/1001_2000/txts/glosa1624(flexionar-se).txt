@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA1624
+
+DADO O SYNSET:
+
+S='Glosa1624'
+{dobrar-se: Seu pescoço I]dobrou-se para trás e ela quase caiu.,
+ flectir-se: Seis tiros na nuca, silenciosos, gélidos, precisos : os joelhos começam a I]flectir-se, o corpo dobra-se sobre si próprio, agoniza e cai inerte.,
+ fletir-se: Fletir o tornozelo, tentando encontrar a perna sobre a base, enquanto o joelho direito, irá I]fletir-se lentamente. ,
+ flexionar-se: Arrastr a perna direita para junto da esquerda, I]flexionando-se enquanto você leva os braços para trás, simultaneamente,  estende as pernas e eleva os braços.,
+ vergar-se: Ajoelhou-se no chão, tomou-lhe a cabeça no regaço, e I]vergou-se toda sobre ele, procurando sentir nas faces frias o derradeiro calor daquele belo corpo. ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1624' = “dobrar-se formando uma curva/curvatura”
+{dobrar-se: Seu pescoço I]dobrou-se para trás e ela quase caiu.,
+ flectir-se: ARISTÓTELES considerava-a como a rectificação do direito e comparava-a justamente à régua lésbia, que, sendo de chumbo, poderia I]flectir-se conforme as sinuosidades da pedra que se queria medir.,
+ fletir-se: Os membros inferiores podem I]fletir-se e entrar em colapso.,
+ flexionar-se: As pernas musculosas I]flexionaram-se e ela saltou com uma agilidade impressionante para alguém tão pesado.,
+ vergar-se: Raimundo, procurando erguê-la, [vergava-se todo sobre ela. ,}
+Chave: FLEXIONAR-SE <verb.motion>
+ILI: 01977754
+
+Sense 1
+{01977754} <verb.motion> bend, flex -- (form a curve; "The stick does not bend")
+       => {00135866} <verb.change> change shape, change form, deform2 -- (assume a different shape or form)
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

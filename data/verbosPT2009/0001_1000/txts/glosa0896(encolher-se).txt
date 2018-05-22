@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA0896
+
+DADO O SYNSET:
+
+S='Glosa896'
+{cingir-se: Na redação do depoimento, o juiz deverá [cingir-se, tanto quanto possível, às expressões usadas pelas testemunhas, reproduzindo fielmente as suas frases.,
+encolher-se: Em suma, I]encolhe-se o campo do poder regulador e fiscalizador do MEC. ,
+estreitar-se: Na medida em que a diferença entre as taxas [se estreitar, deve se reduzir a entrada de dólares, permitindo o equilíbrio no câmbio.,
+limitar-se: A adoção do defensor do povo não pode [limitar-se a uma discussão acadêmica ou parlamentar.,
+refrear-se: A busca constante da clareza deve I]refrear-se nos pontos em que a obscuridade é inevitável e desejada pelo autor.,
+restringir-se: A política de C&T não pode [restringir-se ao desenvolvimento intrínseco dos grupos de pesquisa.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa896' = “ficar menor ou intimidar (-se)”
+{cingir-se: Na redação do depoimento, o juiz deverá [cingir-se, tanto quanto possível, às expressões usadas pelas testemunhas, reproduzindo fielmente as suas frases.,
+encolher-se: Em suma, I]encolhe-se o campo do poder regulador e fiscalizador do MEC. ,
+estreitar-se: Na medida em que a diferença entre as taxas [se estreitar, deve se reduzir a entrada de dólares, permitindo o equilíbrio no câmbio.,
+limitar-se: A adoção do defensor do povo não pode [limitar-se a uma discussão acadêmica ou parlamentar.,
+refrear-se: A busca constante da clareza deve I]refrear-se nos pontos em que a obscuridade é inevitável e desejada pelo autor.,
+restringir-se: A política de C&T não pode [restringir-se ao desenvolvimento intrínseco dos grupos de pesquisa.,}
+Chave: ENCOLHER-SE <verb.change>
+ILI: 00232691
+
+Sense 4
+{00232691} <verb.change> shrink, contract4 -- (become smaller or draw together; "The fabric shrank"; "The balloon shrank")
+       => {00146081} <verb.change> decrease, diminish, lessen, fall6 -- (decrease in size, extent, or range; "The amount of homework decreased towards the end of the semester"; "The cabin pressure fell dramatically"; "her weight fall to under a hundred pounds"; "his voice fell to a whisper")
+           => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

@@ -1,0 +1,37 @@
+ANÁLISE DA GLOSA3322
+
+DADO O SYNSET:
+
+S='Glosa3322'
+	    {
+	      besuntar: Há milhares de anos, as mulheres que habitavam o Mediterrâneo costumavam I]besuntar o corpo com azeite de oliva para deixar a pele mais macia.,
+	      engordurar: Ao contrário das emulsões (misturam óleo e água) , os cosméticos veiculados em gel tratam e hidratam a pele sem [engordurá-la. ,
+	      enlambuzar: Tomando-a entre as mãos, Maui I]enlambuzou-a com seu próprio sangue e lançou-a ao mar.,
+	      ensebar: Eu mesmo me recuso a torcer pelo mesmo país por que torce o meu vizinho que passa toda a manhã de domingo lavando, [ensebando e polindo seu Gol 1000, enquanto sonha com o Ômega Suprema.,
+	      iscar: M]Iscar a ratoeira com toicinho.,
+	      labuzar: x,
+	      lambuçar: x,
+	      lambuzar: Decidiu Freitas, preocupado a esbrugar uma canela de frango, sem querer [lambuzar os bigodes.,
+	      lubricar: H]Lubricar nariz e boca com nebulizações.,
+	      lubrificar: Há os que [lubrificam e amaciam a pelo, como os de abacate, amêndoa e semente de pêssego.,
+	      untar: Manteiga para [untar.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3322' = “cobrir (uma superfície) lambuzando (uma substancia) por cima”
+	     {besuntar: O funcionário me [besuntou os dedos com uma tinta malcheirosa, borrou uns papéis com meus borrados dedos e mandou-me embora.,
+	      engordurar: Aquela água suja repugnante I]engordurava toda a louça, dificultando ainda mais o meu trabalho. ,
+	      enlambuzar: Tomando-a entre as mãos, Maui I]enlambuzou-a com seu próprio sangue e lançou-a ao mar.,
+	      ensebar: Eu mesmo me recuso a torcer pelo mesmo país por que torce o meu vizinho que passa toda a manhã de domingo lavando, [ensebando e polindo seu Gol 1000, enquanto sonha com o Ômega Suprema.,
+	      iscar: M]Iscar a ratoeira com toicinho.,
+	      lambuzar: I]Lambuza o peixe em azeite e abafa na frigideira, cozinhado-o.,
+	      lubricar: H]Lubricar nariz e boca com nebulizações.,
+	      lubrificar: Há os que [lubrificam e amaciam a pelo, como os de abacate, amêndoa e semente de pêssego.,
+	      untar: I]Untou a forma, colocou no forno e assou.,}
+Chave: UNTAR <verb.contact>
+ILI: 01195806
+
+Sense 3
+{01195806} <verb.contact> daub, smear3 -- (cover (a surface) by smearing (a substance) over it; "smear the wall with paint"; "daub the ceiling with plaster")
+       => {01293336} <verb.contact> cover -- (provide with a covering or cause to be covered; "cover her face with a handkerchief"; "cover the child with a blanket"; "cover the grave with flowers")

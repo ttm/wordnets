@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA4111
+
+DADO O SYNSET:
+
+S='Glosa4111'
+{amorenar-se: Várias pessoas I]amorenavam-se ao sol.,
+amulatar-se: H]Amulatou-se durante o verão.,
+atriguerar-se: x,
+bronzear-se: Óculos escuro e guarda-sol são equipamentos indispensáveis para quem deseja se [bronzear nas praias .,
+crestar-se: H]Crestou-se correndo ao longo da praia.,
+queimar-se: O lindo jardim H]queimou-se no verão.,
+tostar-se: H]Tostou-se ao sol.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4111' = “obter um bronzeado, do vento ou do sol”
+{amorenar-se: Várias pessoas I]amorenavam-se ao sol.,
+bronzear-se: Óculos escuro e guarda-sol são equipamentos indispensáveis para quem deseja se [bronzear nas praias .,
+queimar-se: Aquele sol de inverno que pareceu não causar problemas porque você não I]se queimou nada, na verdade também está prejudicando sua pele.,
+tostar-se: H]Tostou-se ao sol.,}
+Chave: BRONZEAR-SE <verb.body>
+ILI: 00101100
+
+Sense 2
+{00101100} <verb.body> tan, bronze -- (get a tan, from wind or sun)
+       => {00272185} <verb.change> discolor, discolour, colour, color1 -- (change color, often in an undesired manner; "The shirts discolored")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")
+

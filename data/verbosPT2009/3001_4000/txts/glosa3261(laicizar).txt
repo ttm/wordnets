@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA3261
+
+DADO O SYNSET:
+
+S='Glosa3261'
+	    {
+	      laicificar: x,
+	      laicizar: Com isso, caminhava-se no sentido de igualar os homens e de [laicizar a sociedade, ao mesmo tempo que se atendia ao aumento da população estrangeira. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3261' = “reduzir à condição laica”
+	     {laicizar: A Itália , com o Renascimento , I]laicizou a vida política. ,}
+Chave: LAICIZAR <verb.change>
+ILI: 00519955
+
+Sense 1
+{00519955} <verb.change> laicize, laicise -- (reduce to lay status; "laicize the parochial schools")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

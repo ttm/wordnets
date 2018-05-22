@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA3671
+
+DADO O SYNSET:
+
+S='Glosa3671'
+	    {
+	      agitar-se: Por muito tempo ainda vi o seu lenço branco [agitar-se ao longe.,
+	      ondular: O horizonte, sempre negro e fechado, se iluminava às vezes com um lampejo fosforescente; um tremor surdo parecia correr pelas entranhas da terra e fazia [ondular a superfície das águas.,
+	      palpitar: A luzinha da vela I]palpitava na neblina densa.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3671' = “agitar-se com movimento rápidos e trêmulos”
+	     {agitar-se: No segundo andar, a única janela estava aberta e a cortina de rendado branco se I]agitava como uma flâmula.,
+	      ondular: Cada vez que uma tempestade forte vinha do norte, o mar I]ondulava por baixo do nosso acampamento.,
+	      palpitar: A luzinha da vela I]palpitava na neblina densa.,}
+Chave: ONDULAR <verb.motion>
+ILI: 01834865
+
+Sense 2
+{01834865} <verb.motion> quiver, quake1, palpitate1 -- (shake with fast, tremulous movements; "His nostrils palpitated")
+       => {01834247} <verb.motion> tremble -- (move or jerk quickly and involuntarily up and down or sideways; "His hands were trembling when he signed the document")
+           => {01835310} <verb.motion> shake, agitate1 -- (move or cause to move back and forth; "The chemist shook the flask vigorously"; "My hands were shaking")
+               => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right")

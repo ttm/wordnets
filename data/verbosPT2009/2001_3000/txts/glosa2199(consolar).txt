@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA2199
+
+DADO O SYNSET:
+
+S='Glosa2199'
+	    {compensar: O Senhor I]compensou essa humilhação, enviando Tyndale até um comerciante simpático, o qual não apenas abriu sua residência em Londres, para o Reformador, como ainda lhe deu dez libras de presente.,
+	      consolar: O governo voltou a exercer a soberania sobre Hong Kong, o que I]consolou os mártires e veteranos revolucionários, já que foi superada a humilhação de mais de um século da Nação Chinesa.,
+	      galardoar: x,
+	      recompensar: A medalha A]recompensará sua bravura.,
+	      vingar: As vitórias futuras nos A]vingarão da derrota sofrida.  ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2199' = “proporcionar prazer ou força para alguém”
+	    {compensar: O Senhor I]compensou essa humilhação, enviando Tyndale até um comerciante simpático.,
+	      consolar: O governo voltou a exercer a soberania sobre Hong Kong, o que I]consolou os mártires e veteranos revolucionários.,
+	      recompensar: A medalha A]recompensará sua bravura.,
+	      vingar: As vitórias futuras nos A]vingarão da derrota sofrida. ,}
+
+Chave: CONSOLAR <verb.emotion>
+ILI: 01762034
+Sense 1
+{01762034} <verb.emotion> comfort1, soothe, console, solace -- (give moral or emotional strength to)
+       => {01713922} <verb.emotion> calm, calm down, quiet, tranquilize, tranquillize, tranquillise, quieten, lull, still -- (make calm or still; "quiet the dragons of worry and fear")
+           => {01712765} <verb.emotion> lull1 -- (calm by deception; "Don't let yourself be lulled into a false state of security")
+           => {01714300} <verb.emotion> compose -- (calm (someone, especially oneself); make quiet; "She had to compose herself before she could reply to this terrible insult")
+           => {01714514} <verb.emotion> pacify, lenify, conciliate, assuage, appease, mollify, placate, gentle, gruntle -- (cause to be more favorably inclined; gain the good will of; "She managed to mollify the angry customer")
+           => {01715457} <verb.emotion> reassure, assure -- (cause to feel sure; give reassurance to; "The airline tried to reassure the customers that the planes were safe")
+       => {01762368} <verb.emotion> still1, allay, relieve, ease -- (lessen the intensity of or calm; "The news eased my conscience"; "still the fears")
+           => {01762654} <verb.emotion> abreact -- (discharge bad feelings or tension through verbalization)

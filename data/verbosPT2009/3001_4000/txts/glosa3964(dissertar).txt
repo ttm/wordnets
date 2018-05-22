@@ -1,0 +1,38 @@
+ANÁLISE DA GLOSA3964
+
+DADO O SYNSET:
+
+S='Glosa3964'
+    	{discorrer: Na hora em que começaria a [discorrer sobre as telecomunicações, o sistema de som do Riocentro falhou .,
+      	 discursar: No embarque, [discursou sobre os motivos que o levavam a Cuba naquele momento .,
+      	 dissertar: Nascido no sertão, barba emaranhada, dedo mínimo amputado por um acidente de trabalho, ele acomoda seu corpo volumoso na poltrona, puxa do bolso um invejável charuto cubano, saboreia o licor e, num esfalfante e aflitivo esforço para não macular a língua de Machado de Assis, começa a [dissertar sobre a necessidade de as classes abastadas manterem a confiança no Brasil .,
+      	 explicar: Falando ao JB por telefone, Douridas, 33 anos, [explicou a diferença entre o seu modelo de rádio e o de uma emissora estritamente comercial .,
+      	 falar: Não entendo por que o Domingos, que sempre foi um militante dessa arte, [falou que teatro é chato .,
+      	 orar: M]Orara brilhantemente o paraninfo.,
+      	 prelecionar: Também o Ministério da Fazenda I]prelecionou sobre as contribuições para o PIS.,
+      	 tratar: Sabemos que isso não é de responsabilidade apenas desse governo, mas de vários outros que jamais I]trataram o assunto com a prioridade devida.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3964' = “considerar ou examinar em discurso ou escrita”
+    	{discorrer: O ex-ministro [discorreu sobre “A Nova Ordem Mundial”.,
+      	 discursar: E ele calmamente [discursou sobre a teoria do futebol, a sua paixão.,
+      	 dissertar: A personagem Machado [disserta longamente sobre as injustiças sociais, numa linguagem que se choca com sua condição cultural.,
+      	 explicar: A regional de Nova Friburgo da Associação Brasileira de Odontologia mostra na página fotos da sua sede, da diretoria e [explica suas metas.,
+      	 falar: Em suma, o discurso [fala de democracia.,
+      	 orar: Aquele pequeno grupo mais comprometido se reunia e I]orava sobre isso.,
+      	 prelecionar: Também o Ministério da Fazenda I]prelecionou sobre as contribuições para o PIS.,
+      	 tratar: Tramitam hoje 65 projetos de lei que [tratam sobre o assunto.}
+Chave: DISSERTAR <verb.communication>
+ILI: 01001038
+
+Sense 1
+{01001038} <verb.communication> discourse2, talk about, discuss1 -- (to consider or examine in speech or writing; "The article covered all the different aspects of this question"; "The class discussed Dante's `Inferno'")
+       => {01000250} <verb.communication> cover1, treat, handle, plow, deal8, address4 -- (deal with verbally or in some form of artistic expression; "This book deals with incest"; "The course covered all of Western Civilization"; "The new book treats the history of China")
+           => {00932970} <verb.communication> broach, initiate -- (bring up a topic for discussion)
+               => {00787668} <verb.communication> hash out, discuss, talk over -- (speak with others about (something); talk (something) over in detail; have a discussion; "We discussed our household budget")
+                   => {00912516} <verb.communication> talk of, talk about1 -- (discuss or mention; "They spoke of many things")
+                       => {00910961} <verb.communication> talk, speak, utter, mouth, verbalize, verbalise -- (express in speech; "She talks a lot of nonsense"; "This depressed patient does not verbalize")
+                           => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                               => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

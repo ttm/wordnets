@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA3241
+
+DADO O SYNSET:
+
+S='Glosa3241'
+{abarregar: M]Abarregara a enteada com um milionário.,
+	 amancebar: Como por o contrário o fizeram quase vinte mulheres portuguesas, que se casaram com os holandeses, ou para melhor dizer, I]amancebaram.,
+	 amasiar: Vários deles chegaram a casar ou I]amasiar com portuguesas, entre outros o coronel Wilhelm Schouten.,
+	 amigar: A mãe dela exerce uma forte dominação sobre ela: não criei filha para I]amigar.,
+	 juntar: E por essas e outras que hoje o pessoal prefere I]juntar em vez de casar! }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3241' = “morar ou viver junto; geralmente dito de pessoas que não são casadas, mas vivem juntas, como um casal”
+{abarregar: M]Abarregara a enteada com um milionário.,
+	 amancebar: Como por o contrário o fizeram quase vinte mulheres portuguesas, que se casaram com os holandeses, ou para melhor dizer, I]amancebaram.,
+	 amasiar: Vários deles chegaram a casar ou I]amasiar com portuguesas, entre outros o coronel Wilhelm Schouten.,
+	 amigar: A mãe dela exerce uma forte dominação sobre ela: não criei filha para I]amigar.,
+	 juntar: E por essas e outras que hoje o pessoal prefere I]juntar em vez de casar! }
+Chave: AMIGAR <verb.stative>
+ILI: 02572083
+
+Sense 1 
+{02572083} <verb.stative> cohabit, shack up -- (room or live together; usually said of people who are not married and live together as a couple)
+       => {02571132} <verb.stative> dwell, shack, reside, live8, inhabit, people, populate, domicile, domiciliate -- (make one's home or live in; "She resides officially in Iceland"; "I live in a 200-year old house"; "These people inhabited all the islands that are now deserted"; "The plains are sparsely populated")
+           => {02576058} <verb.stative> be5 -- (occupy a certain position or area; be somewhere; "Where is my umbrella?" "The toolshed is in the back"; "What is behind this behavior?")

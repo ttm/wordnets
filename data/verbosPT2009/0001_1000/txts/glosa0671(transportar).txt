@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA0671
+
+DADO O SYNSET:
+
+S='Glosa671'
+{puxar: A engenharia da Volvo faz questão de lembrar, entretanto, que o FH16 não foi desenvolvido apenas para I]puxar 60 toneladas.,
+transportar: De acordo com o coordenador-geral da Operação Café, cada carreta de café pode [transportar 500 sacas do produto,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa671' = “mover enquanto carrega”
+{puxar: A engenharia da Volvo faz questão de lembrar, entretanto, que o FH16 não foi desenvolvido apenas para I]puxar 60 toneladas.,
+transportar: De acordo com o coordenador-geral da Operação Café, cada carreta de café pode [transportar 500 sacas do produto,}
+Chave: TRANSPORTAR <verb.contact>
+ILI: 01408676
+
+Sense 2
+{01408676} <verb.contact> transport, carry2 -- (move while supporting, either in a vehicle or in one's hands or on one's body; "You must carry your camping gear"; "carry the suitcases to the car"; "This train is carrying nuclear waste"; "These pipes carry waste water into the river")
+       => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

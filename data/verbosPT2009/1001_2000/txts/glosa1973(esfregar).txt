@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA1973
+
+DADO O SYNSET:
+
+S='Glosa1973'
+{desencardir: Se o tênis for inteiro branco, você pode acrescenta limão na última água de enxágüe para I]desencardir. ,
+ detergir: x,
+ escasquear: x,
+   esfregar: Ao I]esfregar a roupa com sabão use um balde com água, que pode ser a mesma do molho, e mantenha a torneira do tanque fechada. ,
+ lavar: Passava dia e noite espanando a casa, acordava os irmãos para poder [lavar os quartos», conta o pai de Eliane, o pintor de paredes José Oliveira, 46 .,
+ limpar: Parece que todo meu tempo é tomado por tarefas rotineiras e sem sentido que eu, quando trabalhava, teria pago para alguém fazer: [limpar calhas, pendurar quadros, trocar pneus, cuidar dos pássaros etc.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1973' = “limpar por meio de forte atrito”
+{desencardir: Eu, toda tardinha, levava todos meus irmãos para o tanque de água corrente com sabão de soda e esponja do mato e lavava-os da cabeça aos pés. Punha-os todos peladinhos em pé, sobre uma prancha de madeira e um por um, desencracava, I]desencardia, com força, exercitando minha autoridade de irmã mais velha e com quase plenos poderes.
+ esfregar: Por que você não opta por clarear a mente [esfregando um lote de roupa suja no tanque?,
+ lavar: Ainda, ele tinge, [lava e detona tecidos e materiais.,
+ limpar: O cerimonial do Palácio Boa Vista, em Campos do Jordão, [limpou a prataria e estendeu os lençóis de linho para receber o governador Luiz Antonio Fleury Filho durante o Carnaval.}
+Chave: ESFREGAR <verb.contact>
+ILI: 01213376
+
+Sense 1
+{01213376} <verb.contact> scrub, scour1 -- (clean with hard rubbing; "She scrubbed his back")
+       => {01212021} <verb.contact> rub -- (move over something with pressure; "rub my hands"; "rub oil into her skin")
+           => {01175477} <verb.contact> guide, run1, draw13, pass -- (guide or pass over something; "He ran his eyes over her body"; "She ran her fingers along the carved figurine"; "He drew her hair through his fingers")

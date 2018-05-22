@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA2379
+
+DADO O SYNSET:
+
+S='Glosa2379'
+	    {acabar: Nos tempos de solteiro, ele confessa que apelava para a chantagem, ameaçando I]acabar o namoro, mas tudo ficou mais calmo após o casamento.,
+	      desfazer: I]Desfez o noivado.,
+	      desmanchar: Para nos vermos novamente, tinha uma condição, ele teria que I]desmanchar o namoro.,
+	      esfazer: x,
+	      romper: Apaixonado, quase [rompe o noivado, e depois o casamento, mas acaba ficando com May.,
+	      terminar: A história de amor que [termina de maneira tão atabalhoada começou há 12 anos, quando Castor conheceu Ana Cristina, que era professora.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2379' = “Descontinuar uma associação ou uma relação, ir por caminhos diferentes.”
+	    {acabar: É verdade que você I]acabou o namoro com o Thiago Lacerda?.,
+	      desfazer: Aos 24 anos conheceu Iriza e I]desfez o noivado com outra pretendente.,
+	      desmanchar: Olímpico I]desmanchou o namoro com Macabéa para namorar Glória.,
+	      romper: Apaixonado, quase [rompe o noivado, mas acaba ficando com May.,
+	      terminar: Ele I]terminou o namoro comigo e eu fiquei muito triste.,}
+
+Chave: ROMPER <verb.social>
+ILI: 02358151
+
+Sense 2
+{02358151} <verb.social> separate2, part, split up1, split, break13, break up -- (discontinue an association or relation; go different ways; "The business partners broke over a tax question"; "The couple separated after 25 years of marriage"; "My friend and I split up")

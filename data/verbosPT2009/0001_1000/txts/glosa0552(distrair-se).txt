@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0552
+
+DADO O SYNSET:
+
+S='Glosa552'
+{distrair-se: Mergulhado nos seus tristes pensamentos, adentra-se numa floresta para I]distrair-se.,
+esquecer: Tornei-me um ébrio e na bebida busco [esquecer.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa552' = “tirar a atenção de alguém por algo”
+{distrair-se: Mergulhado nos seus tristes pensamentos, adentra-se numa floresta para I]distrair-se.,
+esquecer: Tornei-me um ébrio e na bebida busco [esquecer.,}
+Chave: DISTRAIR-SE <verb.emotion>
+ILI: 01739826
+
+Sense 1
+{01739826} <verb.emotion> distract, deflect6 -- (draw someone's attention away from something; "The thief distracted the bystanders"; "He deflected his competitors")
+       => {01738809} <verb.emotion> confuse, flurry, disconcert2, put off2 -- (cause to feel embarrassment; "The constant attention of the young man confused her")
+           => {01740167} <verb.emotion> embarrass, abash -- (cause to be embarrassed; cause to feel self-conscious)
+               => {01738090} <verb.emotion> upset1, discompose, untune, disconcert1, discomfit -- (cause to lose one's composure)
+                   => {01708538} <verb.emotion> arouse, elicit, enkindle, kindle, evoke, fire, raise8, provoke -- (call forth (emotions, feelings, and responses); "arouse pity"; "raise a smile"; "evoke sympathy")
+                       => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

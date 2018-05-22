@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA4048
+
+DADO O SYNSET:
+
+S='Glosa4048'
+{declamar: Alcoriza I]declamou um discurso próprio e particular, dando golpes de punhos cerrados contra os peitos e gritando com toda a capacidade de seus pulmões.,
+dizer: O silêncio I]disse uma prece pagã.,
+fazer: O presidente I]fez um discurso histórico na mesma ocasião solene.,
+pronunciar: João Paulo II I]pronunciou um discurso que foi um dia histórico para a Igreja.,
+recitar: Um membro da comissão dos festejos I]recitou um discurso.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4048' = “dizer com elocução”
+{declamar: Alcoriza I]declamou um discurso próprio e particular, dando golpes de punhos cerrados contra os peitos e gritando com toda a capacidade de seus pulmões.,
+pronunciar: João Paulo II I]pronunciou um discurso que foi um dia histórico para a Igreja.,
+recitar: Um membro da comissão dos festejos I]recitou um discurso.,}
+Chave: DECLAMAR <verb.communication>
+ILI: 01017775
+
+Sense 1
+{01017775} <verb.communication> declaim, recite2 -- (recite in elocution)
+       => {01663763} <verb.creation> perform, execute1, do1 -- (carry out or perform an action; "John did the painting, the weeding, and he cleaned out the gutters"; "the skater executed a triple pirouette"; "she did a little dance")

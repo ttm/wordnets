@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA1127
+
+DADO O SYNSET:
+
+S='Glosa1127'
+{desacampar: Gregório Mendes se foi lavar na pouca água existente numa cacimba próxima a logo, secamente, mandou o acampamento I]desacampar pois a viagem tinha que prosseguir imediatamente,
+ desalojar: A Turquia não conseguiu [desalojar os rebeldes de seus acampamentos nas montanhas do norte do Iraque,}
+	  
+A='Glosa2577'
+	    {abarracar, acampar, arrincoar, arrinconar, barracar, campar, enrinconar, estacionar, rinconar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1127' = “deixar um acampamento”
+{desacampar: I]Desacampamos às 06h20min e viajamos bem até a hora do almoço., 
+ desalojar: O Elcio teve pouco tempo para descansar e já o I]desalojamos para desarmar a barraca.,}
+A='Glosa2577'
+	    {abarracar, acampar, arrincoar, arrinconar, barracar, campar, enrinconar, estacionar, rinconar}
+Chave: DESACAMPAR <verb.motion> 
+ILI: 02017842 
+
+Sense 1
+{02017842} <verb.motion> decamp2, break camp -- (leave a camp; "The hikers decamped before dawn")
+       => {01950409} <verb.motion> depart, take leave, quit -- (go away or leave)
+           => {01951556} <verb.motion> leave1, go forth, go away -- (go away from a place; "At what time does your train leave?"; "She didn't leave until midnight"; "The ship leaves at midnight")

@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA1176
+
+DADO O SYNSET:
+
+S='Glosa1176'
+{atassalhar: M]Atassalhava no corpo do animal, ,
+ golpear: Francisco teria pego uma faca e [golpeado a mulher quatro vezes,
+ retalhar: Ele comia testículos e mamilos das vítimas nem sempre mortas antes de ele as [retalhar.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1176' = “cortar ou rasgar irregularmente”
+{atassalhar: Neste instante um ser que rastejava pelo chão I]atassalhou a perna do Paladino, rasgando violentamente a mesma.,
+ golpear: Erguendo o facão de cortar arbustos, ela então I]golpeou o corpo putrefato. Uma vez, duas vezes, três vezes, cem vezes.,
+ retalhar: Em seu primeiro filme, «A Inútil Morte de S. Lira», os parentes de um defunto [retalham seu corpo e disputam seus órgãos durante o velório.,}
+Chave: RETALHAR <verb.contact>
+ILI: 01516246
+
+Sense 1
+{01516246} <verb.contact> lacerate -- (cut or tear irregularly)
+       => {01529981} <verb.contact> tear, rupture, snap1, bust2 -- (separate or cause to separate abruptly; "The rope snapped"; "tear the paper")
+           => {01513899} <verb.contact> separate1, disunite, divide1, part1 -- (force, take, or pull apart; "He separated the fighting children"; "Moses parted the Red Sea")
+               => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA3029
+
+DADO O SYNSET:
+
+S='Glosa3029'
+	    {
+	      complementar-se: Acho que meu humor foi tão influenciado por ela que nossos estilos de alguma forma se misturam e se [complementam.,
+	      completar-se: Teleologicamente interpretadas, as normas em comento não se excluem, ao contrário, I]completam-se.,
+	      integralizar-se: É um ato que se aperfeiçoa, se I]integraliza, se faz inteiro, se consolida, se perfaz, debaixo de uma ordem normativa vigente.,
+	      integrar-se: Ele é constituido por pesquisadores de diferentes áreas do conhecimento que se I]integram para analisar propostas que exigem uma análise.,
+	      inteirar-se: Se morte e experiência sempre estiveram associadas, em Tolstoi ambas se I]inteiram à crítica, ao poder centralizador, às manobras e vícios da aristocracia.,
+	      ultimar-se: DEVIANT,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3029' = “trazer para um todo”
+	     {complementar-se: O processo I]complementa-se com o impulso dos propulsores, que empurram o submarino para frente, e pelos lemes horizontais.,
+	      completar-se: Teleologicamente interpretadas, as normas em comento não se excluem, ao contrário, I]completam-se.,
+	      integralizar-se: É um ato que se aperfeiçoa, se I]integraliza, se faz inteiro, se consolida, se perfaz, debaixo de uma ordem normativa vigente.,
+	      integrar-se: Ele é constituido por pesquisadores de diferentes áreas do conhecimento que se I]integram para analisar propostas que exigem uma análise.,
+	      inteirar-se: Se morte e experiência sempre estiveram associadas, em Tolstoi ambas se I]inteiram à crítica, ao poder centralizador, às manobras e vícios da aristocracia.,}
+Chave: COMPLETAR-SE <verb.change>
+ILI: 00442662
+
+Sense 2
+{00442662} <verb.change> complete -- (bring to a whole, with all the necessary parts or elements; "A child would complete the family")
+       => {00439460} <verb.change> fill1, fill up, make full -- (make full, also in a metaphorical sense; "fill a container"; "fill the child with pride")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

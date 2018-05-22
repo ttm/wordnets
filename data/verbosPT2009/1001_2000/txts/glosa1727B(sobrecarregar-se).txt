@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA1727B
+
+DADO O SYNSET:
+
+S='Glosa1727'
+{carregar: O laranja é uma cor contagiante, e principalmente quente. Por essa razão deve ser usada com cuidado, para não I]carregar demais o ambiente. # Fizeram descer as bagagens, para não A]carregar demais o avião avariado.  ,
+ encher: Ele I]encheu o iate de comida e saiu à procura de tripulação. #  H]Encheu o acusado de perguntas.,
+ sobrecarregar: O superintendente da ANTT acredita que a fiscalização mais rígida ajudará inclusive o tranportador, que hoje é forçado por alguns embarcadores a I]sobrecarregar seus caminhões, para reduzir custo de frete.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1727B' = “ficar sobrecarregado”
+{encher-se: Eles poderiam evitar, no entanto, que o compartimento de carga único se [enchesse e desequilibrasse o barco, como aconteceu na Estonia.,
+ sobrecarregar-se: No mesmo vôo, experimentou seu primeiro acidente: o balão em que viajava se I]sobrecarregou de neve e encontrou fortes rajadas de vento.,}
+Chave: SOBRECARREGAR <verb.contact>
+ILI: 01446690
+
+Sense 1
+{01446690} <verb.contact> overload1 -- (become overloaded; "The aerator overloaded")

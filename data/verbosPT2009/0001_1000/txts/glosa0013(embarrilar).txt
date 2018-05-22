@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0012
+
+DADO O SYNSET:
+
+S='Glosa13'
+{abarricar: x,
+embarricar: A]Embarricar bacalhau.,
+embarrilar: Os noruegueses estão plantando 100 milhões de árvores novas por ano, principalmente carvalhos, que foram saqueados pelos escoceses para I]embarrilar uísque.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa13' = “pôr em barris”
+{embarricar: A]Embarricar bacalhau.,
+embarrilar: o vinho é transferido para I]embarrilar durante 6 a 8 meses.,}
+Chave: EMBARRILAR <verb.contact>
+ILI: 01460306
+
+Sense 1
+{01460306} <verb.contact> barrel -- (put in barrels)
+       => {01452069} <verb.contact> put, set, place, pose2, position, lay1 -- (put into a certain place or abstract location; "Put your things here"; "Set the tray down"; "Set the dogs on the scent of the missing children"; "Place emphasis on a certain point")
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

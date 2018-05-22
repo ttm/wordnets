@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA2957
+
+DADO O SYNSET:
+
+S='Glosa2957'
+	    {afretar: A Enterpa possui três dragas e tem o direito de I]afretar o dobro da tonelagem própria.,
+	      carregar: Cristóvão prosseguiu sua navegação até o cabo das Virgens, depois, voltando, I]carregou as duas caravelas de pau-brasil.,
+	      equipar: Luciano Tapajós emprestou sua embarcação ao Governo Imperial, que a I]equipou para a guerra.,
+	      fretar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2957' = “Encher de ou colocar uma carga em”
+	    {afretar: E afretou neste ano 74 navios (3.300 mil toneladas de porte bruto).,
+	      carregar: Cristóvão prosseguiu sua navegação até o cabo das Virgens, depois, voltando, I]carregou as duas caravelas de pau-brasil.,
+	      equipar: Luciano Tapajós emprestou sua embarcação ao Governo Imperial, que a I]equipou para a guerra.,}
+Chave: CARREGAR <verb.contact>
+ILI: 01447785
+
+Sense 1
+{01447785} <verb.contact> load1, lade1, laden1, load up -- (fill or place a load on; "load a car"; "load the truck with hay")
+       => {00439460} <verb.change> fill1, fill up, make full -- (make full, also in a metaphorical sense; "fill a container"; "fill the child with pride")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

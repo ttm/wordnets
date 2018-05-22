@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA3245
+
+DADO O SYNSET:
+
+S='Glosa3245'
+	    {
+	      acertar: Como fazer para sincronizar ou I]acertar o relógio?,
+	      ajustar: Fazer correções nos controles da arma e [ajustar o detonador corretamente, de forma que ele fizesse implodir o projétil no momento certo.,
+	      consertar: Santos havia ido à DP à procura de um local seguro para tentar [consertar sua moto, que havia enguiçado momentos antes. ,
+	      justar2: x,
+	      medir: DEVIANT,
+	      regular: O segundo passo é [regular o molinete para uma velocidade entre 20% e 25% superior à da máquina.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3245' = “alterar ou regular para atingir precisão ou conformar com um padrão”
+	     {acertar: I]Acertou o relógio, tomou uma ducha rápida no imundo banheiro, vestiu o jeans e a camiseta surrada, e lançou um olhar meio de despedida aos seus pertences.,
+	      ajustar: Nelson aprumou a máquina, olhou o visor, I]ajustou o foco como se fora um profissional.,
+	      consertar: A equipe I]consertou o carro, mas quando ele voltou à prova sofreu 15 minutos de penalização e foi banido de pontuar. ,
+	      regular: Ele se prontificou a ir até Diamantina e, na própria oficina, I]regulou a máquina e mostrou como fazê-lo.,}
+Chave: AJUSTAR <verb.change>
+ILI: 00287086
+
+Sense 1
+{00287086} <verb.change> adjust, set, correct9 -- (alter or regulate so as to achieve accuracy or conform to a standard; "Adjust the clock, please"; "correct the alignment of the front wheels")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

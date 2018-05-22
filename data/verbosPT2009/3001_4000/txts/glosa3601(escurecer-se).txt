@@ -1,0 +1,45 @@
+ANÁLISE DA GLOSA3601
+
+DADO O SYNSET:
+
+S='Glosa3601'
+	    {
+	      denegrecer-se: x,
+	      denegrir-se: Seus cabelos I]denegriram-se com os cosméticos.,
+	      enegrecer-se: Foi um prazer prolongado  que nem o cisco e as faúlhas da locomotiva, a entrarem-ma para os olhos e a I]enegrecer-me o cabelo e a roupa, conseguiram desvanecer.,
+	      entenebrecer-se: O céu sobre nós I]se entenebreceu. ,
+	      entrevar-se2: O céu H]entrevou-se.,
+	      entrevecer-se2: x,
+	      escurecer-se: Cortou ainda mais os cabelos e [os escureceu.,
+	      negrejar-se: Aquela porta suja I]negrejava-lhe a fantasia. ,
+	      obumbrar-se: Súbito, o céu sereno I]se obumbrava.,
+	    }
+A='Glosa109'
+	    {
+	     aclarar-se: O céu H]aclarou-se.,
+	     alumbrar-se: x,
+	     alumiar-se: H]Alumiavam-se com uma lamparina.,
+	     esclarecer-se: O horizonte se H]esclarecia aos poucos.,
+	     iluminar-se: O aposento, até então esclarecido apenas por uma lamparina colocada sobre uma cantoneira, [iluminou-se.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3601' = “tornar-se escuro ou mais escuro”
+	     {denegrir-se: Seus cabelos I]denegriram-se com os cosméticos.,
+	      enegrecer-se: Foi um prazer prolongado  que nem o cisco e as faúlhas da locomotiva, a entrarem-ma para os olhos e a I]enegrecer-me o cabelo e a roupa, conseguiram desvanecer.,
+	      entenebrecer-se: O céu sobre nós I]se entenebreceu. ,
+	      entrevar-se2: O céu H]entrevou-se.,
+	      escurecer-se: De repente, como por encanto, I]escureceu-se o céu, as ondas se revoltaram, e em seguida desencadeou-se uma terrivel tempestade.,
+	      obumbrar-se: Súbito, o céu sereno I]se obumbrava.,}
+A='Glosa109'
+	    {aclarar-se: O céu H]aclarou-se.,
+	     alumiar-se: H]Alumiavam-se com uma lamparina.,
+	     esclarecer-se: O horizonte se H]esclarecia aos poucos.,
+	     iluminar-se: O aposento, até então esclarecido apenas por uma lamparina colocada sobre uma cantoneira, [iluminou-se.,}
+Chave: ESCURECER-SE <verb.change>
+ILI: EQ_NEAR_SYNONYM - 00302508
+
+Sense 1
+{00302508} <verb.change> darken -- (become dark or darker; "The sky darkened")
+       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

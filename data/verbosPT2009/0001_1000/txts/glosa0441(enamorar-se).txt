@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0441
+
+DADO O SYNSET:
+
+S='Glosa441'
+{agradar-se: Uma das filhas dela, porém, I]agradou-se do herói e os dois foram brincar.,
+enamorar-se: Quando se decide [enamorar-se da imagem refletida na obra,
+encantar-se: Um dia, [encantou-se com Maria, a filha de 16 anos do colono da fazenda, irmã mais velha de Leonardo, e lhe propôs casamento. ,
+namorar-se: Há muito tempo ouve os seus cds, mas nunca os viu, e decidiu que têm de recitar no filme, e o seu alterego na história vai I]namorar-se dela.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa441' = “atrair (-se); ficar enamorado”
+{agradar-se: Uma das filhas dela, porém, I]agradou-se do herói e os dois foram brincar.,
+enamorar-se: Não passava, decerto, de ilusão fugaz, uma vertigem de rapaz que, ao I]enamorar-se da mulher, pela primeira vez, se deixa prender pela primeira.,
+encantar-se: Um dia, [encantou-se com Maria, a filha de 16 anos do colono da fazenda, irmã mais velha de Leonardo, e lhe propôs casamento. ,
+namorar-se: Há muito tempo ouve os seus cds, mas nunca os viu, e decidiu que têm de recitar no filme, e o seu alterego na história vai I]namorar-se dela.,}
+Chave: ENCANTAR-SE <verb.emotion>
+ILI: 01754132
+
+Sense 2
+{01754132} <verb.emotion> capture, enamour, trance, catch5, becharm, enamor, captivate, beguile, charm, fascinate1, bewitch, entrance, enchant1 -- (attract; cause to be enamored; "She captured all the men's hearts")
+       => {01755473} <verb.emotion> attract, appeal -- (be attractive to; "The idea of a vacation appeals to me"; "The beautiful garden attracted many people")

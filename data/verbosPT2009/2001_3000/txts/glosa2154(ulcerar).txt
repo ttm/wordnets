@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2154
+
+DADO O SYNSET:
+
+  S='Glosa2154'
+	    {chagar: H]Chagar uma alimária.,
+	      exulcerar: H]Exulceravam o corpo do jovem pecador.,
+	      ulcerar: Os azorragues M]ulceraram-lhe o costado.,}
+
+A ANÁLISE RESULTA EM:
+  
+S='Glosa2154' = “causar ferimentos ou prejudicar fisicamente”
+	    {chagar: H]Chagar uma alimária.,
+	      exulcerar: H]Exulceravam o corpo do jovem pecador.,
+	      ulcerar: Os azorragues M]ulceraram-lhe o costado.,}
+
+Chave: ULCERAR 
+ILI: EQ_HAS_HYPERONYM - 00067690 - “cause injuries or bodily harm to” 
+
+Sense 1
+{00067690} <verb.body> injure, wound -- (cause injuries or bodily harm to)
+       => {00062508} <verb.body> hurt1 -- (give trouble or pain to; "This exercise will hurt your back")
+           => {00062736} <verb.body> indispose -- (cause to feel unwell; "She was indisposed")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

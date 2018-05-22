@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA2857
+
+DADO O SYNSET:
+
+S='Glosa2857'
+	    {baldar: Os juízes não desejam I]baldar os procedimentos; afirmam-lhe que ele está morto, que é um impostor por dizer que ainda está vivo, que deve ser punido por mentir daquele modo para a justiça, que os autos são mais fidedignos que ele.,
+	      falsear: A]Falsearam suas aspirações.,
+	      frustrar: Os Estados Unidos anunciaram ontem estarem mandando o porta-aviões Independence e a frota que o acompanha para a costa de Formosa, a fim de [frustrar possíveis planos da China de tumultuar a primeira eleição presidencial direta na ilha, a se realizar no dia 23.,
+	      gorar: Mas os jornalistas descontentes encontraram pela frente um corpo coerente de pessoas (tipógrafos, jornalistas, direção e administração) que fez [gorar o golpe preparado no exterior.,
+	      inutilizar: Enquanto professores esquecem da aplicabilidade das construções teóricas, empresários deixam o pragmatismo exagerado I]inutilizar o conhecimento acadêmico.,
+	      malograr: Esta campanha, porém, estava e está fadada a [malograr, bloqueando ainda mais o caminho da unidade popular sem render os resultados práticos esperados.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2857' = “Impedir ou obstar (esforços, planos ou desejos) de”
+	    {baldar: Pequenos estorvos, os quais será inútil referir aqui, I]baldaram a diligência com que andara o. reitor em obter os papeis necessários.,
+	      frustrar: A polícia I]frustou o plano do grupo ligado ao traficante que tentaria retomar a venda de drogas do morro do Dendê.,
+	      gorar: Como eu disse no post anterior, as condições fluviais I]goraram meus planos.,
+	      inutilizar: Estes, no episódio relatado, I]inutilizaram o trabalho da escolta de captura de Itapetininga.,
+	      malograr: Em 1971 foi adquirida a sede própria, todavia, I]malograram os esforços dos então diretores no sentido de iniciarem atividades.,}
+
+Chave: FRUSTRAR <verb.social>
+ILI: 02482511
+
+Sense 1
+{02482511} <verb.social> thwart, queer, spoil, scotch, foil, cross, frustrate, baffle, bilk1 -- (hinder or prevent (the efforts, plans, or desires) of; "What ultimately frustrated every challenger was Ruth's amazing September surge"; "foil your opponent")
+
+       => {02379144} <verb.social> prevent1, forestall1, foreclose, preclude, forbid3 -- (keep from happening or arising; have the effect of preventing; "My sense of tact forbids an honest answer") 

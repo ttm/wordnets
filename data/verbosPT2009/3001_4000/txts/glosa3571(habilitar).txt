@@ -1,0 +1,35 @@
+ANÁLISE DA GLOSA3571
+
+DADO O SYNSET:
+
+S='Glosa3571'
+	    {
+	      capacitar: A Fenabrave e a Associação de Apoio ao Programa Comunidade Solidária assinam hoje convênio para [capacitar profissionalmente jovens entre 14 e 21 anos./ O objetivo é capacitar os guardas municipais para que atuem na defesa e na conservação do meio ambiente.  ,
+	      cultivar: São virtudes que o homem deve [cultivar.,
+	      educar: As duas a ajudaram a escrever um livro sobre os desafios de [educar as crianças. / Está disposto a [educar o filho dentro de padrões estritos de moral e a evitar a influência do crime em sua formação. ,
+	      formar: Na vida simples e dura do sertão,I]formou seu caráter.,
+	      habilitar: A formação é de bom nível, [habilita o profissional a desempenhar cargos que puxam pelo desenvolvimento e pesquisa. ,
+	      instruir: O encontro tinha o objetivo de [instruir a moça na distribuição dos recursos de campanha. / O aeroclube exige apenas um treinamento antes do vôo para [instruir o pára-quedista principiante sobre o procedimento correto no ar. ,
+	      nutrir: No primeiro ano de vida I]nutrir a inteligência é nutrir o afeto. / Nos I]nutriram de conhecimento.  ,
+	      preparar: Você tem que I]preparar o policial para lidar com a arma. / Como I]preparar os jovens?   ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3571' = “criar por treinamento e instrução”
+	     {capacitar: A Fenabrave e a Associação de Apoio ao Programa Comunidade Solidária assinam hoje convênio para [capacitar profissionalmente jovens entre 14 e 21 anos./ O programa «Escola É Vida» [capacitou cerca de 6.000 professores desde 1992.,
+	      educar: A Santa Sorridente I]educou e formou educadoras, pois entendia ser este o meio capaz de varrer da humanidade a miséria material e a espiritual. / Está disposto a [educar o filho dentro de padrões estritos de moral e a evitar a influência do crime em sua formação. ,
+	      formar: Pólo de Araraquara da Unesp já I]formou seis turmas no Projeto Pedagogia Cidadã.,
+	      habilitar: A formação é de bom nível, [habilita o profissional a desempenhar cargos que puxam pelo desenvolvimento e pesquisa. ,
+	      instruir: O encontro tinha o objetivo de [instruir a moça na distribuição dos recursos de campanha. / O aeroclube exige apenas um treinamento antes do vôo para [instruir o pára-quedista principiante sobre o procedimento correto no ar. ,
+	      preparar: Você tem que I]preparar o policial para lidar com a arma. / Como I]preparar os jovens?,}
+Chave: HABILITAR <verb.social>
+ILI: 00583635
+
+Sense 1
+{00583635} <verb.cognition> train1, develop, prepare1, educate -- (create by training and teaching; "The old master is training world-class violinists"; "we develop the leaders for the future")
+       => {00801981} <verb.communication> teach, learn, instruct -- (impart skills or knowledge to; "I taught them French"; "He instructed me in building a boat")
+           => {00804489} <verb.communication> inform -- (impart knowledge of some fact, state or affairs, or event to; "I informed him of his rights")
+               => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                   => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                       => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

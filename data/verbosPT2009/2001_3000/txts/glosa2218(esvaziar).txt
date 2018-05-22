@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA2218
+
+DADO O SYNSET:
+
+S='Glosa2218'
+	    {esvazar: x,
+	      esvaziar: Gritando, Santos [esvaziou dois galões de gasolina no altar e atirou um fósforo aceso.,
+	      vazar: Uma senhora de Penacova arrancou o cabelo da cabeça, pô-lo dentro da bacia d'água e todas as manhãs lá ia A]vazá-la e deitar outa vez.,
+	      vaziar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2218' = “tirar o liquido, despejar em algum lugar”
+	    {esvaziar: Santos [esvaziou dois galões de gasolina no altar e atirou um fósforo aceso.,
+	      vazar: Uma senhora de Pena cova arrancou o cabelo da cabeça, pô-lo dentro da bacia d'água e todas as manhãs lá ia A]vazá-la e deitar outra vez.,}
+
+Chave: ESVAZIAR <verb.change>
+ILI: 00438596
+
+Sense 3
+{00438596} <verb.change> drain1 -- (empty of liquid; drain the liquid from; "We drained the oil tank")
+       => {00436730} <verb.change> empty1 -- (make void or empty of contents; "Empty the box"; "The alarm emptied the building")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

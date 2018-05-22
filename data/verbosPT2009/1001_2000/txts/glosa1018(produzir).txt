@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA1018
+
+DADO O SYNSET:
+
+S='Glosa1018'
+{fabricar: A Kingdom Entertainement vai entrar nas áreas do cinema, televisão, vídeo, edição, histórias em quadrinhos, parques e [fabricará brinquedos, roupas e sapatos.,
+ fazer: A Arisco vai doar 50 toneladas de amido de milho: um produto de sua linha infantil que pode ser usado para [fazer, por exemplo, bolo e mingau. ,
+ forjar: Coube a James Blinn, quando ainda pesquisador da Universidade de Utah, [forjar os algoritmos básicos que permitiram revestir o objeto com uma pele de texturas. ,
+ formar: Os átomos que constituem os reagentes sofreram rearranjo para [formar o produto, assim, é necessário que se admita que mais uma partícula de gás hidrogênio.,
+ manufaturar: O computador seria algo como uma meta-ferramenta, uma ferramenta com a qual se pode [manufaturar outras ferramentas.,
+ obrar: Poti e Martim julgaram que ele dormia e se afastaram com respeito para não perturbar o repouso de quem tanto [obrara na longa vida.,
+ produzir: O homem poderá [produzir gametas apenas com os genes L e a mulher, com o gene 1.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1018' = “criar ou manufaturar um produto que é feito pelo homem”
+{fabricar: A Kingdom Entertainement vai entrar nas áreas do cinema, televisão, vídeo, edição, histórias em quadrinhos, parques e [fabricará brinquedos, roupas e sapatos.,
+ fazer: O projetista do FW16, Adrian Newey, tradicionalmente [faz carros que só andam bem em pisos muito lisos e regulares.,
+ manufaturar: Foi graças a esse poder que o homem descobriu o fogo, construiu habitações para se proteger, I]manufaturou roupas para cobrir seu corpo, plantou e colheu.,
+ produzir: Como parte do manifesto, Sônia [produziu camisetas para dar aos autores.}
+Chave: PRODUZIR <verb.creation>
+ILI: 01575778 
+
+Sense 6
+{01575778} <verb.creation> produce, make1, create3 -- (create or manufacture a man-made product; "We produce more cars than we can sell"; "The company has been making toys for two centuries")

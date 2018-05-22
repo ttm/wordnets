@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA1350
+
+DADO O SYNSET:
+
+S='Glosa1350'
+{defraudar: Havia um homem rico que tinha um administrador; e este lhe foi denunciado como quem estava a I]defraudar os seus bens.,
+ descaminhar: Ela sofreu com dificuldades para a manutenção da lei e delas se aproveitou para I]descaminhar a quinta parte do ouro. ,
+ desencaminhar: Se os bens empenhados ficarem em poder do dono, incorrerá em responsabilidade criminal nos termos gerais, se alienar, modificar, destruir ou I]desencaminhar os bens sem autorização escrita do credor.,
+ extraviar: Constitui infração disciplinar do advogado: reter, abusivamente, ou [extraviar autos recebidos com vista ou em confiança.,
+ roubar: Um sofisticado painel de alarme, grades e postes não foram suficientes para impedir criminosos determinados de entrar nas instalações e I]roubar o estoque.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1350' = “apropriar-se (de uma propriedade confiada a alguém) fraudulentamente para o uso próprio”
+{defraudar: Havia um homem rico que tinha um administrador; e este lhe foi denunciado como quem estava a I]defraudar os seus bens.,
+ descaminhar: Além de sonegar impostos, I]descaminhar dinheiro e praticar o estelionato, Thomé. Correia de Alvarenga ainda era acusado por crime de devassa.,
+ desencaminhar: Se os bens empenhados ficarem em poder do dono, incorrerá em responsabilidade criminal nos termos gerais, se alienar, modificar, destruir ou I]desencaminhar os bens sem autorização escrita do credor.,
+ extraviar: Constitui infração disciplinar do advogado: reter, abusivamente, ou [extraviar autos recebidos com vista ou em confiança.,
+ roubar: Cheguei a ouvir compararem quem I]roubou mais: fulano I]roubou tantos milhões porque sicrano, quando estava no Governo, I]roubou outros tantos.,}
+Chave: DEFRAUDAR <verb.possession>
+ILI: 02226486
+
+Sense 1
+{02226486} <verb.possession> embezzle, defalcate, peculate, misappropriate, malversate -- (appropriate (as property entrusted to one's care) fraudulently to one's own use; "The accountant embezzled thousands of dollars while working for the wealthy family")
+       => {02254604} <verb.possession> steal -- (take without the owner's consent; "Someone stole my wallet on the train"; "This author stole entire paragraphs from my dissertation")
+           => {02143102} <verb.possession> take1 -- (take by force; "Hitler took the Baltic Republics"; "The army took the fort on the hill")

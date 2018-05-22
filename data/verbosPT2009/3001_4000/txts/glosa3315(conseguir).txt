@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA3315
+
+DADO O SYNSET:
+
+S='Glosa3315'
+	    {
+	      alcançar: A caracterização abstrata que [alcançou o êxito que conhecemos do ponto de vista das aplicações práticas, mas igualmente do da coerência formal, nem por isso está acabada.,
+	      conseguir: Reno uniu-se a Karoline Kirby nos dois torneios, venceu um deles e não [conseguiu sucesso no outro.,
+	      lograr: A computação gráfica tem uma história curta, mas cheia de acontecimentos e [logrou acumular, em pouco tempo, técnicas e procedimentos sofisticados de construção da imagem.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3315' = “ser bem-sucedido, alcançar um objetivo”
+	     {alcançar: A Escultura, menos presa a Arquitetura que no Oriente, [alcançou grande expressão na Grécia, sobretudo no campo da estatuária.,
+	      conseguir: Dirigido por Sófia Coppola, o filme I]conseguiu o prêmio de melhor comédia, melhor produção e melhor interpretação masculina para Bill Murray.,
+	      lograr: Em 1996, o Programa I]logrou o conceito C na CAPES e, ao observar uma certa estabilidade e avanço das áreas em andamento, foram propostas quatro novas áreas .,}
+Chave: CONSEGUIR <verb.social>
+ILI: 02447728
+
+Sense 1
+{02447728} <verb.social> pull off, negociate2, bring off, carry off, manage9 -- (be successful; achieve a goal; "She succeeded in persuading us all"; "I managed to carry the box upstairs"; "She pulled it off, even though we never thought her capable of it"; "The pianist negociated the difficult runs")
+       => {02449033} <verb.social> succeed, win4, come through, bring home the bacon, deliver the goods -- (attain success or reach a desired goal; "The enterprise succeeded"; "We succeeded in getting tickets to the show"; "she struggled to overcome her handicap and won")

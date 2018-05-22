@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA2569
+
+DADO O SYNSET:
+
+S='Glosa2569'
+	    {desfazer: Partido ameaça [desfazer aliança se candidato tucano não decolar.,
+	      extinguir: A relação de funcionários por ônibus na CTC pesou na decisão do governador Marcello Alencar de [extinguir a empresa.,
+	      romper: Os desentendimentos entre os dois sócios majoritários, cada um com 36% das ações, acontecem há mais de um ano e Carlos Suarez decidiu [romper a sociedade.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2569' = “cancelar, anular ou reverter uma ação ou seus efeitos”
+	    {desfazer: Assim que foi eleito I]desfez a aliança com o PDT.,
+	      extinguir: O Novo Código Civil I]extinguiu a sociedade de capital e indústria.,
+	      romper: Um desentendimento I]rompeu a sociedade entre Soares e Macedo.,}
+
+Chave: DESFAZER <verb.contact>
+ILI: 01477750
+
+Sense 1
+{01477750} <verb.contact> undo -- (cancel, annul, or reverse an action or its effect; "I wish I could undo my actions")
+       => {00133458} <verb.change> change by reversal, turn, reverse -- (change to the contrary; "The trend was reversed"; "the tides turned against him"; "public opinion turned when it was revealed that the president had an affair with a White House intern")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

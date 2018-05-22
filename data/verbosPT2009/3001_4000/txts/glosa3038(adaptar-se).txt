@@ -1,0 +1,37 @@
+ANÁLISE DA GLOSA3038
+
+DADO O SYNSET:
+
+S='Glosa3038'
+	    {
+	      aclimar-se: A verdade era que a cena excedia a tudo quanto a imaginação podia cogitar de mais degradante; e, o que era pior, a alma dos desgraçados, I]aclimando-se naquele meio corruptor, afazia-se a ele.,
+	      aclimatar-se: A delegação chegou ao Texas duas semanas antes da estréia na Copa, para se [aclimatar.,
+	      aclimatizar-se: Devaneios de tempo soterrados pelos novos costumes, como I]aclimatizar-se dentro de quatro paredes com segurança, comida, tudo junto; ss shoppings que invadiram o centro aos poucos tomaram conta dos passeios ao relento.,
+	      acostumar-se: Na busca do alto astral que revigora esta cidade, o carioca está sendo capaz até do que parecia impossível: [acostumar-se aos engarrafamentos.,
+	      adaptar-se: Em outros casos, o homem apenas se [adapta às condições do meio, quando estas se apresentam mais favoráveis à sua vida ou não são passíveis de modificações. ,
+	      aderir: Alguns imigrantes H]aderiam à nova terra com mais facilidade.,
+	      climatizar-se: Durante a semana seguinte, o grupo dedicou-se a instalar as bases de campanha e a I]climatizar-se, fazendo exercícios equivalentes a corridas de 5 a 8 km.,
+	      encasar-se: M]Encasara-se bem naquele ambiente.,
+	      gostar: Representante do DG Bank no Brasil, Sonnenberg chegou em 1979 apenas para abrir aqui o escritório da empresa e, como [gostou da cidade, ficou. ,
+	      habituar-se: A cada mergulho profundo, o profissional passa em torno de dez dias dentro de uma câmara hiperbárica, para I]habituar-se à pressão em terra.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3038' = “acostumar-se a novas condições”
+	     {aclimar-se: Aqui o caqui I]aclimou - se muito bem e passou a frutificar ainda melhor do que nos países de origem.,
+	      aclimatar-se: Mas Londres parece ser de fato o local onde o suingue brasileiro melhor se I]aclimatou.,
+	      aclimatizar-se: James também entrou e I]aclimatizou-se melhor no ambiente do Quilombo, visto que capoeira também é um simbolo de resistência da cultura afro-brasileira.,
+	      acostumar-se: Kazu já se [acostumou com a comida e o idioma, mas não com o futebol italiano.,
+	      adaptar-se: Em outros casos, o homem apenas se [adapta às condições do meio, quando estas se apresentam mais favoráveis à sua vida ou não são passíveis de modificações.,
+	      aderir: Alguns imigrantes H]aderiam à nova terra com mais facilidade.,
+	      climatizar-se: Durante a semana seguinte, o grupo dedicou-se a instalar as bases de campanha e a I]climatizar-se, fazendo exercícios equivalentes a corridas de 5 a 8 km.,
+	      encasar-se: M]Encasara-se bem naquele ambiente.,
+	      gostar: Representante do DG Bank no Brasil, Sonnenberg chegou em 1979 apenas para abrir aqui o escritório da empresa e, como [gostou da cidade, ficou. ,
+	      habituar-se: a menina se I]habituou à nova família de tal maneira que era impossível chamá-la de volta.,}
+Chave: ADAPTAR-SE <verb.change>
+ILI: 00144751
+
+Sense 2
+{00144751} <verb.change> adjust1, conform1, adapt2 -- (adapt or conform oneself to new or different conditions; "We must adjust to the bad economic situation")
+       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

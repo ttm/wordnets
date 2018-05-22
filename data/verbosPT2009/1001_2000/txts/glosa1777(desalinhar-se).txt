@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA1777
+
+DADO O SYNSET:
+
+S='Glosa1777'
+{desalinhar-se: A uma ordem, os alunos se H]desalinharam.,
+ desenfileirar-se: Os cavaleiros H]desenfileiraram-se após o desfile.,}
+	  
+A='Glosa3775'
+{alinhar-se, enfileirar-se, estender-se, perfilar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1777' = “desarranjar-se, colocando-se em forma angulada”
+{desalinhar-se: Os eclipses parciais ocorrem quando um dos astros I]desalinha-se dos outros dois, passando acima ou abaixo de uma linha imaginária que coincide os seus respectivos centros.,}
+	  
+A='Glosa3775'
+{alinhar-se, enfileirar-se, estender-se, perfilar-se}
+Chave: DESALINHAR-SE <verb.change>
+ILI: 00453425
+
+Sense 1
+{00453425} <verb.change> skew -- (turn or place at an angle; "the lines on the sheet of paper are skewed")
+       => {00455696} <verb.change> reorient -- (set or arrange in a new or different determinate position; "Orient the house towards the South")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

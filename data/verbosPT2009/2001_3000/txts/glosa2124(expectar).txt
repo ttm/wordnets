@@ -1,0 +1,18 @@
+ANÁLISE DA GLOSA2124
+
+DADO O SYNSET:
+	
+S='Glosa2124'
+    	{expectar: Ela avidamente I]expectava a chegada do seu marido, que tinha ido banhar-se num rio sagrado, próximo dali.,
+      	 expetar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2124' = “estar excitado ou ansioso [por]”
+    	{expectar: Ela avidamente I]expectava a chegada do seu marido, que tinha ido banhar-se num rio sagrado, próximo dali.}
+Chave: EXPECTAR <verb.emotion>
+ILI: 01752624
+
+Sense 2
+{01752624} <verb.emotion> anticipate, look for, look to -- (be excited or anxious about)
+       => {00696172} <verb.cognition> expect1, look, await, wait -- (look forward to the probable occurrence of; "We were expecting a visit from our relatives"; "She is looking to a promotion"; "he is waiting to be drafted")

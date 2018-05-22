@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA3351
+
+DADO O SYNSET:
+
+S='Glosa3351'
+	    {
+	      mambembar: Porque você, que tem tradição familiar e poderia estar atuando nos grandes centros, em teatros importantes ou na TV, prefere I]mambembar pelo interior? ,
+	      mambembear: O circo, que se juntou a outro mais bem aparelhado, continuava na sua trajetória e depois de I]mambembear pelo triângulo mineiro e pelo noroeste paulista acabou por se arranchar nas proximidades da capital paulista.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3351' = “percorrer o país como membro de circo ou teatro ambulante”
+	     {mambembar: E de novo I]mambembou com essas apresentações intermitentes – feitas da maneira mais artesanal possível – pelo Brasil afora.,
+	      mambembear: Durante várias anos foi proprietário do Parque de Diversões Capixaba, com o qual I]mambembeava por várias cidades do Brasil.,}
+Chave: MAMBEMBAR
+ILI: EQ_HAS_HYPERONYM - 01791660 - “viajar para um certo local”
+
+Sense 1
+{01791660} <verb.motion> tour -- (make a tour of a certain place; "We
+toured the Provence this summer")
+       => {01792151} <verb.motion> travel4, journey -- (undertake a
+journey or trip)
+           => {01789516} <verb.motion> travel1, trip2, jaunt -- (make a
+trip for pleasure)

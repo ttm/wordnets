@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA2845
+
+DADO O SYNSET:
+
+S='Glosa2845'
+	    {amoedar: Pessoa alguma, de qualquer estado que seja, assim natural, como estrangeiro, não tire por mar, nem por terra, nem leve, nem mande levar, nem tirar para fora de nossos Reinos e Senhorios prata, ouro amoedado, nem por I]amoedar, nem de favor, nem ajuda para se levar. ,
+	      cunhar: A Carta era concedida pelo antigo senhor da cidade, leigo ou eclesiástico e trazia estabelecida a restrição ou abolição de diversos impostos, autonomia municipal, direito de [cunhar moedas ou ainda o direito de aplicar a justiça.,
+	      fabricar: A Casa da Moeda do Brasil é uma empresa totalmente estatal. Seus três séculos de existência têm início em 1694, quando foi estabelecida no Brasil Colônia pelos governantes portugueses para I]fabricar moedas com o ouro proveniente das minerações. ,
+	      monetizar: H]Monetizar o cobre.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2845' = “Modelar estampando, perfurando ou imprimindo”
+	    {amoedar: A Casa da Moeda de Lisboa I]amoedou apenas 57%. do total cunhado naquela outra oficina monetária.,
+	      cunhar: Em 1654, a Companhia I]cunhou os valores de XXXX, XXX, XX, XII e X soldos de prata, destinados ao pagamento das últimas despesas de seus representantes na América portuguesa.,
+	      fabricar: Durante o reinado de D. João V, a Casa da Moeda de Lisboa I]fabricou moedas de cobre de 10 e 20 réis, especialmente destinadas ao Brasil.,}
+Chave: AMOEDAR <verb.creation>
+ILI: 01592569
+
+Sense 2
+{01592569} <verb.creation> mint, coin, strike2 -- (form by stamping, punching, or printing; "strike coins"; "strike a medal")
+       => {01606076} <verb.creation> create from raw material, create from raw stuff -- (make from scratch)
+           => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor") 

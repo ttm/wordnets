@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA1637
+
+DADO O SYNSET:
+
+S='Glosa1637'
+{açucarar: A]Açucarou excessivamente o café.,
+ adoçar: Somente no século XVIII, porém, como resultado da expansão da produção e do comércio, alcançou um público mais vasto, passando a [adoçar o chá, o café e o chocolate, que se vulgarizavam ,
+ adocicar: O xarope de frutose domina o mercado norte-americano, onde, em geral, ele substituiu o açúcar e é, por exemplo, usado para I]adocicar refrigerantes.,
+ adulçorar: x,
+ amelaçar: O excesso de açúcar H]amelaçou muito o café.,
+ dulcificar: x,
+ edulcorar: Gosta de A]edulcorar bem o café.,}
+	  
+A='Glosa2292'
+{amargar, travar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1637' = “tornar mais doce em sabor”
+{açucarar: O sol adocica o grão, I]açucara o líquido que as transformará em vinho.,
+ adoçar: O açúcar pode ser usado para [adoçar o café ou polvilhar o chantilly.,
+ adocicar: Somos focados, com incidência persistente, pelos raios do rei sol, que muito nos castiga, mas que em compensação I]adocica o sabor dos frutos tropicais.,
+ edulcorar: A sua propriedade de edulcorante já era conhecida pelos índios Guaranis, que usavam para I]edulcorar chás e bebidas medicamentosas.,}
+	  
+A='Glosa2292'
+{amargar, travar}
+Chave: ADOÇAR <verb.perception>
+ILI: 02132558
+
+Sense 1
+{02132558} <verb.perception> sweeten, dulcify, edulcorate, dulcorate -- (make sweeter in taste)
+       => {02134036} <verb.perception> change taste -- (alter the flavor of)
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

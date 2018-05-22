@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA3011
+
+DADO O SYNSET:
+
+S='Glosa3011'
+	    {
+	      escrevinhar: Esse fabuloso escriturário de Santo André, que se chamava Diogo Fernandes e se assinava "Djº frz", tinha um modo tão complicado de I]escrevinhar que, para ele, o público judicial era isto: "pruvyquo judysiall.,
+	      esgaratujar: x,
+	      garabulhar: x,
+	      garatujar: Tem tanta gente que mal sabe I]garatujar o próprio nome e tem tantas posses.,
+	      gatafunhar: Ao fim da minha vida, ainda muito mal sabia ler e I]gatafunhava uns rabiscos. # Riu-se ao recordar como desdenhava da sua peculiar maneira de pegar na caneta e como I]gatafunhava lépida em sua agenda.,
+	      rabiscar: Muito próximo do escritor, o manuscrito mostra claramente a mão que escreve, hesita, rasura, escolhe, [rabisca, recomeça. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3011' = “esboçar sem objetivo” 
+	     {escrevinhar: O notário I]escrevinhava ansiosamente enquanto as religiosas compareciam uma por uma diante dos membros do Diretório para registrarem a sua resposta.,
+	      garatujar: O policial I]garatujou, com esforço, errando duas vezes os meus dados num caderno de anotações.,
+	      gatafunhar: Ao fim da minha vida, ainda muito mal sabia ler e I]gatafunhava uns rabiscos. # Riu-se ao recordar como desdenhava da sua peculiar maneira de pegar na caneta e como I]gatafunhava lépida em sua agenda.,
+	      rabiscar: Muito próximo do escritor, o manuscrito mostra claramente a mão que escreve, hesita, rasura, escolhe, [rabisca, recomeça. ,}
+Chave: RABISCAR <verb.creation>
+ILI: 01644927
+
+Sense 1
+{01644927} <verb.creation> doodle -- (make a doodle; draw aimlessly)
+       => {01642108} <verb.creation> draw -- (represent by making a drawing of, as with a pencil, chalk, etc. on a surface; "She drew an elephant"; "Draw me a horse")
+           => {01637996} <verb.creation> represent1, interpret1 -- (create an image or likeness of; "The painter represented his wife as a young girl")
+               => {01573613} <verb.creation> re-create -- (create anew; "Re-create the boom of the West on a small scale")
+                   => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

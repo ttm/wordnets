@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA1914
+
+DADO O SYNSET:
+
+S='Glosa1914'
+{bombardar: A política militar internacional de Clinton era muito agressivo: ele I]bombardou as usinas hidráulicas do Iraque, fábricas de aspirina no Sudão, e pontes na Iugoslávia.,
+ bombardear: Ameaçaram [bombardear a cidade se não atendidos.,
+ bombejar: x,
+ canhonear: Os cruzadores de Sturdee puseram-se em perseguição das três unidades, fugitivas, enquanto os seus navios maiores começaram a I]canhonear impiedosamente os cruzadores blindados inimigos. ,
+ esbombardear: Seguindo a vitória, estrui e mata;. A povoação sem muro e sem defesa. I]Esbombardeia, acende e desbarata.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1914' = “lançar bombas [em] ou atacar com bombas”
+{bombardear: No sábado, as forças de Taylor [bombardearam partes da cidade.,
+ canhonear: A emissora "A Voz de Israel" anunciou que os árabes I]canhonearam diversas colônias no vale do rio Jordão.,}
+Chave: BOMBARDEAR <verb.competition>
+ILI: 01096712
+
+Sense 1
+{01096712} <verb.competition> bombard, bomb -- (throw bombs at or attack with bombs; "The Americans bombed Dresden")
+       => {01084194} <verb.competition> attack, assail1 -- (launch an attack or assault on; begin hostilities or start warfare with; "Hitler attacked Poland on September 1, 1939 and started World War II"; "Serbian forces assailed Bosnian towns all week")
+           => {01055630} <verb.competition> fight, struggle -- (be engaged in a fight; carry on a fight; "the tribesmen fought each other"; "Siblings are always fighting")

@@ -1,0 +1,38 @@
+ANÁLISE DA GLOSA2305
+
+DADO O SYNSET:
+
+S='Glosa2305'
+	    {aliciar: Polícia prende três acusados de [aliciar eleitores.,
+	      avessar: H]Avessava guardas de trânsito.,
+	      chatinar: H]Chatinar um funcionário.,
+	      comprar: PDT de Rondônia diz que candidato do PMDB [comprou apoio político.,
+	      corromper: O espólio será responsabilizado, se o empresário tiver [corrompido funcionários do Incra e recebido pelas desapropriações mais do que as terras valiam, insistiu o procurador.,
+	      peitar: Era um modo de [peitar a vontade divina pela quantia das orações; além disso, cada promessa nova era feita e jurada no sentido de pagar a dívida antiga.,
+	      seduzir: A parte do PT favorável ao acordo - ou seja, o deputado José Genoíno (SP) - entrou correndo no gabinete da liderança do governo, onde Inocêncio tentava [seduzir Jair Soares.,
+	      subornar: Ammaturo [subornou um agente, viajou para a Venezuela, foi recapturado e está numa prisão italiana.,
+	      transviar: Nossa primeira ambição deve consistir em entrar na legalidade definitiva, sem nos deixarmos I]transviar.,
+	      venalizar: Quando os governos M]venalizam os legisladores.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2305' = “fazer pagamentos ilegais em troca de favores ou influência”
+	    {aliciar: Polícia prende três acusados de [aliciar eleitores.,
+	      avessar: H]Avessava guardas de trânsito.,
+	      chatinar: H]Chatinar um funcionário.,
+	      comprar: PDT de Rondônia diz que candidato do PMDB [comprou apoio político.,
+	      corromper: O espólio será responsabilizado, se o empresário tiver [corrompido funcionários do Incra.,
+	      peitar: Não quis sujar as mãos, I]peitou um empresário de comunicação quase falido para jogar lama no ventilador.,
+	      seduzir: Diz ainda que Marcos Valério I]seduziu o PT.,
+	      subornar: Ammaturo [subornou um agente, viajou para a Venezuela, foi recapturado e está numa prisão italiana.,
+	      transviar: Manassés era o que I]transviava o povo com uma conduta indigna.,
+	      venalizar: Quando os governos M]venalizam os legisladores.,}
+
+Chave: SUBORNAR <verb.possession>
+ILI: 02218101
+
+Sense 1
+{02218101} <verb.possession> bribe, corrupt, buy2, grease one's palms -- (make illegal payments to in exchange for favors or influence; "This judge can be bought")
+       => {02186811} <verb.possession> pay -- (give money, usually in exchange for goods or services; "I paid four dollars for this sandwich"; "Pay the waitress, please")
+           => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+               => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children") 

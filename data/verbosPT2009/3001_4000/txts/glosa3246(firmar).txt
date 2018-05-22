@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA3246
+
+DADO O SYNSET:
+
+S='Glosa3246'
+	    {
+	      ajustar: Sou sempre escravo das idéias dos outros; porque nunca pude [ajustar duas idéias minhas.,
+	      assentar: Não conseguiu [assentar o pensamento, apanhar as palavras no ar, sentir a música zumbir no ouvido.,
+	      concluir: Segundo Clinton, a conferência, estava a ponto de [concluir um acordo para enviar uma força multinacional de manutenção da paz para Nagorno.,
+	      firmar: Segundo o ex-governador, a proposta de FHC a Lula no sentido de [firmar um pacto de não-agressão, revela que a elite teme perder a eleição.,
+	      justar2: Para implantação de ações, planejadas e projetadas para o estado, foi preciso I]justar uma nova forma de governar, procedendo alterações nas estruturas e nos procedimentos administrativos.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3246' = “aprovar e expressar consentimento, responsabilidade ou obrigação”
+	     {ajustar: Cláudio Meirelles, procurou o ISM e I]ajustou um acordo de parcelamento da dívida.,
+	      assentar: Nesse período Porfírio Diaz I]assentou as bases da industrialização do país, desenhando e construindo as principais trilhas de ferro e, fomentando a educação.,
+	      concluir: Em maio, a siderúrgica alemã I]concluiu acordo com CVRD, para aumento de 19% no minério de ferro, que se tornou preço de referência para a indústria mundial.,
+	      firmar: A Prefeitura de Camaragibe I]firmou pacto de cooperação com o Recife que permite aos moradores da capital serem atendidos pelo Programa Saúde da Família.,
+	      justar2: Para implantação de ações, planejadas e projetadas para o estado, foi preciso I]justar uma nova forma de governar, procedendo alterações nas estruturas e nos procedimentos administrativos.,}
+Chave: FIRMAR <verb.social>
+ILI: 02390873
+
+Sense 2
+{02390873} <verb.social> sign, ratify -- (approve and express assent, responsibility, or obligation; "All parties ratified the peace treaty"; "Have you signed your contract yet?")
+       => {02404438} <verb.social> validate, formalize1, formalise1 -- (declare or make legally valid)
+           => {00777368} <verb.communication> authorize, authorise, pass, clear1 -- (grant authorization or clearance for; "Clear the manuscript for publication"; "The rock star never authorized this slanderous biography")
+               => {00776433} <verb.communication> permit, allow, let2, countenance -- (consent to, give permission; "She permitted her son to visit her estranged husband"; "I won't let the police search her basement"; "I cannot allow you to see your exam")
+                   => {00771887} <verb.communication> accept, consent, go for -- (give an affirmative reply to; respond favorably to; "I cannot accept your invitation"; "I go for this resolution")
+                       => {00693825} <verb.cognition> react, respond -- (show a response or a reaction to something)
+                           => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

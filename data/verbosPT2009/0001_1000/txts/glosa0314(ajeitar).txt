@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA0314
+
+DADO O SYNSET:
+
+S='Glosa314'
+{aconchegar: A]Aconchega mais o xale sobre os ombros, baixa a cabeça trêmula e gelada.,
+ajeitar: A mesma coisa com a minha mãe, que se aproxima da tela e [ajeita os óculos quando vê meu corretor ortográfico acentuando palavras automaticamente. ,
+compor: Duarte, ao ver a moça, I]compôs o chambre, apalpou a gravata e fez uma cerimoniosa cortesia, a que ela correspondeu com tamanha gentileza e graça.,
+conchegar: Estremeceu e, baixando rapidamente o véu, [conchegou ainda mais o largo burnous de cetim branco.,}
+A='Glosa315'
+{desajeitar, descompor}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa314' = “alterar ou regular de forma que alcance uma precisão ou conformar com um padrão”
+{aconchegar: I]Aconchega mais o xale sobre os ombros, baixa a cabeça trêmula e gelada, e pequenina, acocorando-se mais por entre o tumulto daquela gente alegre
+ajeitar: A mesma coisa com a minha mãe, que se aproxima da tela e [ajeita os óculos quando vê meu corretor ortográfico acentuando palavras automaticamente. ,
+compor: Duarte, ao ver a moça, I]compôs o chambre, apalpou a gravata e fez uma cerimoniosa cortesia, a que ela correspondeu com tamanha gentileza e graça.,
+conchegar: Estremeceu e, baixando rapidamente o véu, [conchegou ainda mais o largo burnous de cetim branco.,}
+A='Glosa315'
+{desajeitar, descompor}
+Chave: AJEITAR <verb.contact>
+ILI: 01422386
+
+Sense 1
+{01422386} <verb.contact> arrange, set up -- (put into a proper or systematic order; "arrange the books on the shelves in chronological order")
+       => {01452069} <verb.contact> put, set, place, pose2, position, lay1 -- (put into a certain place or abstract location; "Put your things here"; "Set the tray down"; "Set the dogs on the scent of the missing children"; "Place emphasis on a certain point")
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

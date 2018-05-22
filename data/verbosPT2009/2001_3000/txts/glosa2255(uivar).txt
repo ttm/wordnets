@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA2255
+
+DADO O SYNSET:
+
+S='Glosa2255'
+	    {ganir: Percebeu que os animais I]ganiam sem parar como se estivessem com muito medo. ,
+	      uivar: Até hoje não se sabe exatamente porque os lobos I]uivam.,
+	      ulular: Os cães H]ululavam no canil.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2255' = “emitir gritos agudos, assim como os animais”
+	    {ganir: Percebeu que os animais I]ganiam sem parar como se estivessem com muito medo. ,
+	      uivar: Até hoje não se sabe exatamente porque os lobos I]uivam.,
+	      ulular: Os cães H]ululavam no canil.,}
+
+Chave: UIVAR <verb.communication>
+ILI: 01013792 
+
+Sense 2
+{01013792} <verb.communication> howl3, wrawl, yammer1, yowl1 -- (cry loudly, as of animals; "The coyotes were howling in the desert")
+       => {00951670} <verb.communication> utter2, emit, let out2, let loose -- (express audibly; utter sounds (not necessarily words); "She let out a big heavy sigh"; "He uttered strange sounds that nobody could understand") 

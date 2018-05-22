@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA1067
+
+DADO O SYNSET:
+
+S='Glosa1067'
+{adonisar-se: Com o passar do tempo, H]adonisava-se mais.,
+ anarcisar-se: x,
+ delamber-se: H]Delambeu-se com a vitória,
+ envaidecer-se: Contraditoriamente, [se envaidece ao afirmar que o Brasil joga de acordo com o que há de mais moderno no futebol contemporâneo.,
+ narcisar-se: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1067' = “sentir-se orgulhoso”
+{adonisar-se: Com o passar do tempo, H]adonisava-se mais.,
+ delamber-se: Como vozes também dele eleitas, I]delambendo-se. Deitando gozo ao ar!,
+ envaidecer-se: Contraditoriamente, [se envaidece ao afirmar que o Brasil joga de acordo com o que há de mais moderno no futebol contemporâneo.,}
+Chave: ENVAIDECER-SE <verb.emotion>
+ILI: 01721198 
+
+Sense 1
+{01721198} <verb.emotion> pride, plume, congratulate -- (be proud of; "He prides himself on making it into law school")
+       => {01720480} <verb.emotion> feel, experience -- (undergo an emotional sensation; "She felt resentful"; "He felt regret")

@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA2022
+
+DADO O SYNSET:
+	
+S='Glosa2022'
+    	{aflar: Vai, pela estrada, a brisa I]aflando... Flocos de neblina vagam, auriluzentes. ,
+      	 assoprar: Eo mar se levantou, porque um grande vento I]assoprava.   ,
+      	 bafejar: As horas correram silenciosamente nessa muda contemplação; a aragem fresca que anuncia o despontar do dia [bafejou o rosto da menina; e pouco depois o primeiro albor da manhã desmaiou o negrume do horizonte.,
+      	 espirar: H]Espirou uma brisa.,
+      	 expirar: x,
+      	 insuflar: x,
+      	 soprar: Começavam então as chuvas, que no Maranhão chamam «de caju»; o vento [soprou com mais força, esfuziando nas ripas do telhado.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2022' = “agitar suavemente”
+    	{aflar: Vai, pela estrada, a brisa I]aflando... flocos de neblina vagam, auriluzentes.,
+      	 assoprar: Annie desce as escadas lindamente e, como as janelas estavam abertas, o vento I]assoprava em seus cabelos soltos
+      	 bafejar: As horas correram silenciosamente nessa muda contemplação; a aragem fresca que anuncia o despontar do dia [bafejou o rosto da menina.,
+      	 espirar: O nosso gado pasta, o vento I]espira.,
+      	 soprar: Embora seja um local de ventos fortes, no dia do primeiro vôo, o sudeste [soprava fraco.}
+Chave: BAFEJAR <verb.weather>
+ILI: 02687680
+
+Sense 2
+{02687680} <verb.weather> waft -- (blow gently; "A breeze wafted through the door")
+       => {02687138} <verb.weather> blow -- (be blowing or storming; "The wind blew from the West")

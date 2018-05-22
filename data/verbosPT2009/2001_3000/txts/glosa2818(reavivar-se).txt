@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA2818
+
+DADO O SYNSET:
+
+S='Glosa2818'
+	    {despertar-se: frase_exemplo,
+	      reanimar-se: frase_exemplo,
+	      reativar-se: frase_exemplo,
+	      reavivar-se: frase_exemplo,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2818' = “Restaurar de um estado depreciado, inativo ou não utilizado”
+	    {despertar-se: Assim que se definiu qual era o ponto mais alto do planeta, I]despertou-se o desejo de conhecê-lo melhor para um dia poder escalá-lo.,
+	      reanimar-se: Nossa produção docente I]reanimou-se, apresentando uma franca tendência ao crescimento.,
+	      reativar-se: O comércio terrestre das especiarias I]reativou-se.,
+	      reavivar-se: Esse conflito I]reavivou-se no dia 08 de agosto de 2008, quando a Geórgia invadiu a Ossétia do Sul.,}
+
+Chave: REAVIVAR-SE <verb.change>
+ILI: 00162424
+
+Sense 4
+{00162424} <verb.change> revive1, resurrect -- (restore from a depressed, inactive, or unused state; "He revived this style of opera"; "He resurrected the tango in this remote part of Argentina")
+       => {00162138} <verb.change> regenerate1, restore, rejuvenate4 -- (return to life; get or give new life or energy; "The week at the spa restored me")
+           => {01584867} <verb.creation> regenerate, renew -- (re-establish on a new, usually improved, basis or make new or like new; "We renewed our friendship after a hiatus of twenty years"; "They renewed their membership")
+               => {01573613} <verb.creation> re-create -- (create anew; "Re-create the boom of the West on a small scale")
+                   => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor") 

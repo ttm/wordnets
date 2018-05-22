@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA3252b
+
+DADO O SYNSET:
+
+S='Glosa3252'
+	    {
+	      afogar-se: x,
+	      asfixiar-se: Fixo a si, Sísifo I]asfixia-se.,
+	      enforcar-se: Peritos dizem que Jorge Luís, de Acari, [enforcou-se com a camisa na Divisão de Recursos Especiais, após ser trazido da Bahia.,
+	      esganar-se: Não tem muito estilo, nem drama, I]esganar-se alguém, parece briga de rua.,
+	      esgoelar-se: DEVIANT,
+	      estrangular-se: Crianças podem I]estrangular-se com as cordas da cortina ou cair de janelas que estejam acessíveis da cama ou berço.,
+	      laçar-se: x,
+	      sufocar-se: Nunca deixe seu cão acorrentado, ele pode ferir-se ou I]sufocar-se ao tentar escapar.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3252b' = “morrer por enforcamento”
+	      {enforcar-se: Meses depois sua mãe I]enforcou-se com um fio de máquina de calcular.,
+	      esganar-se: E Tiãozinho, moleque branco e de muitas veias, visitando os treze de idade, I]esganou-se sobre a bicicletinha quase nova.,
+	      estrangular-se: Outra explicação ainda seria que Judas I]estrangulou-se em uma árvore.,}
+Chave: ENFORCAR-SE <verb.social>
+ILI: 02411159
+
+Sense 3
+{02411159} <verb.social> hang, string up -- (kill by hanging; "The murdered was hanged on Friday")
+       => {02408980} <verb.social> execute, put to death -- (kill as a means of socially sanctioned punishment; "In some states, criminals are executed")
+           => {01284688} <verb.contact> kill -- (cause to die; put to death, usually intentionally or knowingly; "This man killed several people when he tried to rob a bank"; "The farmer killed a pig for the holidays")
+           => {02424949} <verb.social> punish, penalize, penalise -- (impose a penalty on; inflict punishment on; "The students were penalized for showing up late for class"; "we had to punish the dog for soiling the floor again")

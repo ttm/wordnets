@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0976
+
+DADO O SYNSET:
+
+S='Glosa976'
+{aconsoantar: x,
+consoar: Rimas cruzadas, ditas também alternadas, são as em que os versos I]consoam o primeiro com o terceiro e os demais ímpares.,
+rimar: Só Caetano pra [rimar mãe com champanhe. # Quem mandou só [rimar amor com dor ?,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa976' = “compor rimas”
+{consoar: Rimas cruzadas, ditas também alternadas, são as em que os versos I]consoam o primeiro com o terceiro e os demais ímpares.,
+rimar: Só Caetano pra [rimar mãe com champanhe.}
+Chave: RIMAR <verb.creation>
+ILI: 01653134
+
+Sense 1
+{01653134} <verb.creation> rhyme, rime -- (compose rhymes)
+       => {01649365} <verb.creation> create verbally -- (create with or from words)
+           => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

@@ -1,0 +1,39 @@
+ANÁLISE DA GLOSA2281
+
+DADO O SYNSET:
+
+S='Glosa2281'
+	    {aguilhar: x,
+	      aguilhoar: Há muitos para I]aguilhoar os touros.,
+	      alancear: Como castigo, os soldados romanos o I]alancearam.,
+	      apunhalar: Castel [apunhalou Maria porque ela simulava o prazer.,
+	      esfaquear: Antes, [esfaqueou a mãe, que ficou impossibilitada de trabalhar. ,
+	      estilar2: x,
+	      estiletear: x,
+	      estocar2: Frodo I]estocou o Senhor dos Nazgûl enquanto o Espectro do Anel procurava acertá-lo com a mortal lâmina Morgul.,
+	      estoquear: Com uma espada o matador tenta I]estoquear o touro.,
+	      ferir: Ela também I]feriu meu rosto com um instrumento cortante.,
+	      pungir: Tomou do facão e A]pungiu-a sem dó.,
+	      transpassar: O tiro [transpassou a mão direita do coronel reformado.,
+	      traspassar: Quase ao mesmo tempo um dos aventureiros que estava ao lado de Loredano caiu [traspassado por uma flecha.,
+	      trespassar: I]Trespassou-lhe o lado com uma lança e logo saíram água e sangue.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2281' = “golpear ou perfurar”
+	    {aguilhoar: Há muitos para I]aguilhoar os touros.,
+	      alancear: Como castigo, os soldados romanos o I]alancearam.,
+	      apunhalar: Castel [apunhalou Maria porque ela simulava o prazer.,
+	      esfaquear: Antes, [esfaqueou a mãe, que ficou impossibilitada de trabalhar. ,
+	      estocar2: Frodo I]estocou o Senhor dos Nazgûl.,
+	      estoquear: Com uma espada o matador tenta I]estoquear o touro.,}
+
+Chave: ESTOCAR <verb.contact>
+ILI: 01194148
+
+Sense 1
+{01194148} <verb.contact> knife, stab2 -- (use a knife on; "The victim was knifed to death")
+       => {00067690} <verb.body> injure, wound -- (cause injuries or bodily harm to)
+           => {00062508} <verb.body> hurt1 -- (give trouble or pain to; "This exercise will hurt your back")
+               => {00062736} <verb.body> indispose -- (cause to feel unwell; "She was indisposed")
+                   => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

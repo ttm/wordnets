@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA2770
+
+DADO O SYNSET:
+
+S='Glosa2770'
+	    {reconduzir: O Prona também elegeu pelo menos três deputados estaduais (dois no Rio, um em São Paulo) e na sexta-feira ainda tinha esperanças de [reconduzir Regina Gordilho (RJ) à Câmara.,
+	      redintegrar: x,
+	      reempossar: Para [reempossar o presidente deposto Jean-Bertrand Aristide, os EUA ocupam o Haiti em 19 de setembro.,
+	      reintegrar: O juiz Luis Paulo Aliende Ribeiro, da 5ª Vara da Fazenda Pública, concedeu liminar obrigando a Prefeitura de São Paulo a [reintegrar o funcionário Horácio Galvanese, que havia sido exonerado por sua atuação contra a extensão da avenida Faria Lima.,
+	      restabelecer: O governo federal se negava a [restabelecer os governadores legalmente eleitos, alegando o perigo de uma insurreição geral. ,
+	      restituir: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2770' = “Trazer de volta para a existência, uso, função ou cargo originais”
+	    {reconduzir: A Assembléia Legislativa catarinense I]reconduziu o deputado Julio Garcia para mais dois anos de mandato.,
+	      reempossar: O Rotary Club Candelária I]reempossou para presidente 2006/2007 Nestor Luis Mahl.,
+	      reintegrar: A Justiça do Trabalho I]reintegrou o Presidente exonerado da Fascemar, Antonio Euzébio, que havia sido destituído pela Cemar.,
+	      restabelecer: O governo federal se negava a [restabelecer os governadores legalmente eleitos, alegando o perigo de uma insurreição geral.,}
+
+Chave: RESTABELECER <verb.social>
+ILI: 02353684 
+
+Sense 1
+{02353684} <verb.social> restore, reinstate1, reestablish -- (bring back into original existence, use, function, or position; "restore law and order"; "reestablish peace in the region"; "restore the emperor to the throne")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

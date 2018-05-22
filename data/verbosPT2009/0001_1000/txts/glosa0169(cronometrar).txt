@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0169
+
+DADO O SYNSET:
+
+S='Glosa169'
+{cronometrar: A Folha [cronometrou também, ontem, o trajeto feito do Ibirapuera até o Jockey Club de São Paulo, na avenida Lineu de Paula Machado, e vice-versa.,
+minutar2: A]Minutar uma cena de teatro.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa169' = “medir o tempo, duração de um evento, ou ação ou uma pessoa que realiza uma ação em um certo período de tempo”
+{cronometrar: A Folha [cronometrou também, ontem, o trajeto feito do Ibirapuera até o Jockey Club de São Paulo, na avenida Lineu de Paula Machado, e vice-versa.,}
+Chave: CRONOMETRAR <verb.change>
+ILI: 00477618
+
+Sense 1
+{00477618} <verb.change> clock, time -- (measure the time or duration of an event or action or the person who performs an action in a certain period of time; "he clocked the runners")
+       => {00476505} <verb.change> quantify, measure -- (express as a number or measure or quantity; "Can you quantify your results?")
+           => {01027221} <verb.communication> carry2, convey1, express2 -- (serve as a means for expressing something; "The painting of Mary carries motherly love"; "His voice carried a lot af anger")
+               => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                   => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                       => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

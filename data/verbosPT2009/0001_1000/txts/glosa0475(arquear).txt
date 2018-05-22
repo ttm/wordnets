@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0475
+
+DADO O SYNSET:
+
+S='Glosa475'	
+{arquear: Tinha então, sempre em sonho, um desses assomos de cólera de rainha ofendida, que fazia [arquear as sobrancelhas louras. ,
+arquejar2: Não exagerei ao [arquejar a sobrancelha,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa475'= “formar um arco ou curva”
+{arquear: Tinha então, sempre em sonho, um desses assomos de cólera de rainha ofendida, que fazia [arquear as sobrancelhas louras. ,
+arquejar2: Não exagerei ao [arquejar a sobrancelha,}
+Chave: ARQUEAR <verb.motion>
+ILI: 01976875
+
+Sense 1
+{01976875} <verb.motion> arch, curve1, arc -- (form an arch or curve; "her back arches"; "her hips curve nicely")
+       => {01977754} <verb.motion> bend, flex -- (form a curve; "The stick does not bend")
+           => {00135866} <verb.change> change shape, change form, deform2 -- (assume a different shape or form)
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

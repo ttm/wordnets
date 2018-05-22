@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA2043
+
+DADO O SYNSET:
+	
+S='Glosa2043'
+    	{estampar-se: Ao invés de I]estampar-se o emblema do Botafogo em um jeans, um chaveiro ou outro acessório, poderia-se utilizar a marca BFR ou somente o forte símbolo da estrela solitária.,
+      	 gravar-se: Barbier inventou um pequeno instrumento por meio do qual, com auxílio de um estilete, podiam I]gravar-se no papel todos os símbolos do seu sistema. ,
+      	 imprimir-se: Esta último deveria chamar-se Sangue Ruim e por algum erro da Gráfica, I]imprimiu-se na capa o título Marcados para Morrer.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2043' = “ficar impresso ou gravado [em ou sobre algo]”
+    	{estampar-se: Osmar foi um típico brasileiro: passou fome e a marca dessa carência se I]estampou no corpo mirrado que ele exibia.,
+      	 gravar-se: Sua mensagem visual, como um livro ilustrado de flores colorida, I]gravou-se em minhas retinas.,
+      	 imprimir-se: O rosto doloroso de Cristo I]imprimiu-se no pano e no coração.}
+Chave: ESTAMPAR-SE <verb.contact>
+ILI: EQ_NEAR_SYNONYM – 01234915
+
+Sense 2
+{01234915} <verb.contact> stamp1 -- (to mark, or produce an imprint in or on something; "a man whose name is permanently stamped on our maps")
+       => {01489399} <verb.contact> impress, imprint -- (mark or stamp with or as if with pressure; "To make a batik, you impress a design with wax")
+           => {00345030} <verb.change> change surface -- (undergo or cause to undergo a change in the surface)
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

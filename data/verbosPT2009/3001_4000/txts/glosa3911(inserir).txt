@@ -1,0 +1,35 @@
+ANÁLISE DA GLOSA3911
+
+DADO O SYNSET:
+	
+S='Glosa3911'
+    	{embeber: M]Embebeu o espelho na moldura.,
+      	 encaixar: Ainda meio escuro e meio claro, no lusco fusco da madrugada e eu ali atrapalhada com a minha chave que não I]encaixava na fechadura.,
+      	 engastar: Os homens deixavam crescer a barba como distintivo varonil e os caciques (chefes) usavam I]engastar nelas vidros, pedras e pedaços de lata.,
+      	 inserir: M]Inserir termos explicativos na oração.,
+      	 intercalar: Kitano I]intercalou três histórias de amor encharcadas de fatalismo e de uma esplêndida beleza visual.,
+      	 interpolar: Sempre H]interpolava exemplos em um parágrafo. ,
+      	 interpor: H]Interpôs os quadros no espaço entre as estantes.,
+      	 interserir: x,
+      	 introduzir: Desde o início, I]introduzi em minhas obras esse prazer pelas curvas.,
+      	 intrometer: M]Intrometeu no texto algumas palavras. ,
+      	 pôr: M]Põe muita ironia no seu discurso.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3911' = “colocar ou introduzir [algo] em alguma coisa”
+    	{embeber:Judith I]embebeu na garganta do opressor dos judeus o punhal homicida.,
+      	 encaixar: A vigia I]encaixou a chave na abertura estrelada de um painel de metal.,
+      	 engastar: “A Última Tentação de Cristo” de um só golpe I]engastou um cravo enferrujado por dois mil anos de controvérsias nos três pilares da fé cristã.,
+      	 inserir: O vírus [insere seu material genético no meio da fita de DNA das células.,
+      	 intercalar: Vamos I]intercalar no fio do pêndulo um dinamômetro.,
+      	 introduzir: O ginecologista Arnaldo Kunde, que [introduziu o sêmen em Denise, disse que não tem responsabilidade em um eventual erro médico.,
+      	 intrometer: Afinal ele cortou um das cordas de alfinete, elevou o fundo do tela, e I]intrometeu a cabeça dele dentro do interior.,
+      	 pôr: A Célia a sufocou e a [pôs na bolsa de couro.}
+Chave: INSERIR <verb.contact>
+ILI: 01380907
+
+Sense 6
+{01380907} <verb.contact> insert, infix1, enter3, introduce -- (put or introduce into something; "insert a picture into the text")
+       => {01257892} <verb.contact> attach1 -- (cause to be attached)
+           => {01314764} <verb.contact> connect, link, tie1, link up -- (connect, fasten, or put together two or more pieces; "Can you connect the two loudspeakers?"; "Tie the ropes together"; "Link arms")

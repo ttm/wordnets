@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA3242
+
+DADO O SYNSET:
+
+S='Glosa3242'
+	    {
+	      ajuramentar: Esdras se levantou e I]ajuramentou os maiorais dos sacerdotes e dos levitas e todo o Israel, de que fariam conforme esta palavra.,
+	      juramentar: Mas diante do fato da Assembléia Nacional ter decidido I]juramentar o vice-presidente Diosdado Cabello, renunciou ao cargo. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3242' = “prometer solenemente, prestar juramento”
+	     {ajuramentar: Esdras se levantou e I]ajuramentou os maiorais dos sacerdotes e dos levitas e todo o Israel, de que fariam conforme esta palavra.,
+	      juramentar: Chávez I]juramentou na quinta-feira 60.000 coordenadores que recolherão assinaturas por parte do governo para revogar os deputados opositores que querem seu afastamento das funções. ,}
+
+Chave: AJURAMENTAR <verb.communication>
+ILI: 00860535
+
+Sense 3
+{00860535} <verb.communication> swear2 -- (promise solemnly; take an oath)
+       => {00857344} <verb.communication> vow -- (make a vow; promise; "He vowed never to drink alcohol again")
+           => {00855145} <verb.communication> pledge, plight -- (promise solemnly and formally; "I pledge that will honor my wife")
+               => {00854515} <verb.communication> promise, assure2 -- (make a promise or commitment)
+                   => {00977478} <verb.communication> declare -- (state emphatically and authoritatively; "He declared that he needed more money to carry out the task he was charged with")
+                       => {00976600} <verb.communication> state, say, tell4 -- (express in words; "He said that he wanted to marry her"; "tell me what is bothering you"; "state your opinion"; "state your name")
+                           => {00909455} <verb.communication> express, verbalize3, verbalise3, utter1, give tongue to -- (articulate; either verbally or with a cry, shout, or noise; "She expressed her anger"; "He uttered a curse")
+          Also See-> {00855417} <verb.communication> swear off#1

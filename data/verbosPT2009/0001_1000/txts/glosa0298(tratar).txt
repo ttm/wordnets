@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA0298
+
+DADO O SYNSET:
+
+S='Glosa298'
+{abordar2: Para [abordar um tema fundamental, o da estética, eu gostaria de lembrar que crio personagens muito individuais, muito íntimos e abertos ao tempo em que vivem.,
+ tratar: Neste livro, [trataremos apenas das angiospermas, deixando para outro volume a abordagem sobre os outros grupos vegetais.,
+versar1: Alguns dos romances tratados aqui [versarão sobre a guerra colonial e seus efeitos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa298' = “falar sobre um específico assunto ou de alguma forma de expressão artística”
+{abordar2: Para [abordar um tema fundamental, o da estética, eu gostaria de lembrar que crio personagens muito individuais, muito íntimos e abertos ao tempo em que vivem.,
+ tratar: Neste livro, [trataremos apenas das angiospermas, deixando para outro volume a abordagem sobre os outros grupos vegetais.,
+versar1: Alguns dos romances tratados aqui [versarão sobre a guerra colonial e seus efeitos.,}
+Chave: TRATAR 
+ILI: 01000250
+
+Sense 4
+{01000250} <verb.communication> cover1, treat, handle, plow, deal8, address4 -- (deal with verbally or in some form of artistic expression; "This book deals with incest"; "The course covered all of Western Civilization"; "The new book treats the history of China")
+       => {00932970} <verb.communication> broach, initiate -- (bring up a topic for discussion)
+           => {00787668} <verb.communication> hash out, discuss, talk over -- (speak with others about (something); talk (something) over in detail; have a discussion; "We discussed our household budget")
+               => {00912516} <verb.communication> talk of, talk about1 -- (discuss or mention; "They spoke of many things")
+                   => {00910961} <verb.communication> talk, speak, utter, mouth, verbalize, verbalise -- (express in speech; "She talks a lot of nonsense"; "This depressed patient does not verbalize")
+                       => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                           => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                               => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

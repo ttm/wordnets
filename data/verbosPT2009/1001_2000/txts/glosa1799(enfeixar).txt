@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA1799
+
+DADO O SYNSET:
+
+S='Glosa1799'
+{afaxinar: x,
+ enfeixar: São desta categoria os monólogos e cançonetas que os editores resolveram I]enfeixar no presente volume. # O homem H]enfeixou as varas.,
+ engavelar: x,
+ faxinar: I]Faxinar guardados, abrir baús, repor os livros na estante segundo uma ordem particular de afeição por autores ou obras. ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1799' = “ligar ou amarrar em ou como se fosse em feixes” 
+{enfeixar: São mais de cento e trinta pérolas que ela I]enfeixou num colar delicado que foi a encadernação primorosa ea impressão caprichada e ilustrada da Gráfica.,}
+Chave: ENFEIXAR <verb.contact>
+ILI: 01248980
+
+Sense 3
+{01248980} <verb.contact> faggot, fagot, faggot up -- (bind or tie up in or as if in a faggot; "faggot up the sticks")
+       => {01248670} <verb.contact> tie down, tie up, bind7, truss2 -- (secure with or as if with ropes; "tie down the prisoners"; "tie up the old newspapes and bring them to the recycling shed")
+           => {01262432} <verb.contact> restrain, confine1, hold3 -- (to close within bounds, limit or hold back from movement; "This holds the local until the express passengers change trains"; "About a dozen animals were held inside the stockade"; "The illegal immigrants were held at a detention center"; "The terrorists held the journalists for ransom")
+               => {00498510} <verb.change> disable, disenable, incapacitate -- (make unable to perform a certain action; "disable this command on your computer")
+                   => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

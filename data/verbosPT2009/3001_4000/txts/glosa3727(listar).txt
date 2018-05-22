@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA3727 
+
+DADO O SYNSET:
+
+S='Glosa3727'
+{alistar: x,
+	arrolar1: O que importa, porém, é menos [arrolar exemplos, visto que são inumeráveis, do que refletir sobre isso que poderíamos batizar, à falta de melhor nome, de poética do remake ou reciclagem dos enunciados.,
+	listar: Os promotores chegaram a [listar 50 suspeitos em quase três anos de investigações.,
+	pautar: M]Pautemos os assuntos de que vamos tratar na reunião.,
+	recensear: Não há dúvida de que a literatura é um meio privilegiado para [recensear as diferenças, para assinalá-las e as contrapor umas às outras.,
+	relacionar: I]Relacionar a Unidade de Ensino, departamento, setor ou núcleo responsável, informando o nome do gerente do projeto, cargo na instituição, localização (setor, telefone, endereço eletrônico). }
+	
+A ANÁLISE RESULTA EM:
+
+S='Glosa3727' = “dar ou fazer uma lista de; nomear individualmente; dar os nomes de”
+{arrolar1: O que importa, porém, é menos [arrolar exemplos, visto que são inumeráveis, do que refletir sobre isso que poderíamos batizar, à falta de melhor nome, de poética do remake ou reciclagem dos enunciados.,
+	listar: Os promotores chegaram a [listar 50 suspeitos em quase três anos de investigações.,
+	pautar: M]Pautemos os assuntos de que vamos tratar na reunião.,
+	recensear: Não há dúvida de que a literatura é um meio privilegiado para [recensear as diferenças, para assinalá-las e as contrapor umas às outras.,
+	relacionar: I]Relacionar a Unidade de Ensino, departamento, setor ou núcleo responsável, informando o nome do gerente do projeto, cargo na instituição, localização (setor, telefone, endereço eletrônico). }
+Chave: LISTAR <verb.communication>
+ILI: 00640934
+
+Sense 1 
+{00640934} <verb.communication> list -- (give or make a list of; name individually; give the names of)
+       => {00641064} <verb.communication> enumerate, itemize -- (specify individually; "She enumerated the many obstacles she had encountered")
+           => {00694228} <verb.communication> name2, identify -- (give the name or identifying characteristics of; refer to by name or some other identifying characteristic property; "Many senators were named in connection with the scandal"; "The almanac identifies the auspicious months")
+               => {00630586} <verb.communication> denote, refer -- (have as a meaning; " `multi-' denotes `many' ")
+                   => {00646401} <verb.communication> mean1, intend -- (mean or intend to express or convey; "You never understand what I mean!" "what do his words intend?")
+                       => {00628262} <verb.communication> convey, impart1 -- (make known; pass on, of information)
+                           => {00502333} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                               => {01619317} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                                   => {01612822} <verb.social> act, move -- (perform an action; "think before you act"; "We must move quickly")

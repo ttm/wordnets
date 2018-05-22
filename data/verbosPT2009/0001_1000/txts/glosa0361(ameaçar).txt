@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA0361
+
+DADO O SYNSET:
+
+S='Glosa361'
+{ameaçar: Ouvimos falar muito na crise que [ameaça nosso mundo, embora, ao mesmo tempo, se proceda de modo sistemático a fim de que nunca se desvende a verdadeira face dessa crise. ,
+pairar: Caso a crise econômica que [paira sobre a moda de fato se agrave, há quem aponte para a unificação dos desfiles de outono-inverno e primavera-verão. ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa361' = “posar uma ameaça em; apresentar um perigo a”
+{ameaçar: Ouvimos falar muito na crise que [ameaça nosso mundo, embora, ao mesmo tempo, se proceda de modo sistemático a fim de que nunca se desvende a verdadeira face dessa crise. ,
+pairar: Caso a crise econômica que [paira sobre a moda de fato se agrave, há quem aponte para a unificação dos desfiles de outono-inverno e primavera-verão. ,}
+Chave: AMEAÇAR <verb.stative>
+ILI: 02615921
+
+Sense 1
+{02615921} <verb.stative> endanger, jeopardize, jeopardise, menace, threaten, imperil, peril -- (pose a threat to; present a danger to; "The pollution is endangering the crops")
+       => {02526084} <verb.stative> exist, be -- (have an existence, be extant; "Is there a God?")

@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA3778
+
+DADO O SYNSET:
+	
+S='Glosa3778'
+{periclitar: Existe o famoso risco da comparação, que sempre faz I]periclitar a nova vida em comum.,
+	  perigar: Ted vê, pela primeira vez, [perigar a sua releição ao Senado.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3778' = “fazer uma ameaça [à]; apresentar um perigo [para]”
+{periclitar: Existe o famoso risco da comparação, que sempre faz I]periclitar a nova vida em comum.,
+	  perigar: Ted vê, pela primeira vez, [perigar a sua reeleição ao Senado.}
+Chave: PERIGAR <verb.stative>
+ILI: 02615921
+
+Sense 1 
+{02615921} <verb.stative> endanger, jeopardize, jeopardise, menace, threaten, imperil, peril -- (pose a threat to; present a danger to; "The pollution is endangering the crops")
+       => {02526084} <verb.stative> exist, be -- (have an existence, be extant; "Is there a God?")

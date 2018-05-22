@@ -1,0 +1,18 @@
+ANÁLISE DA GLOSA0130
+
+DADO O SYNSET:
+
+S='Glosa130'
+{abonar: O sofrimento estampado em suas faces M]abonava-lhe as queixas de verdadeiras.,
+qualificar: O crítico terá talvez a chance de encontrar aquilo que o clínico [qualifica de sintoma, isto é, situações cercadas de angústia.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa130' = “descrever ou retratar as qualidades ou peculiaridades”
+{qualificar: O crítico terá talvez a chance de encontrar aquilo que o clínico [qualifica de sintoma, isto é, situações cercadas de angústia.,}
+Chave: QUALIFICAR <verb.communication>
+ILI: 00924929
+
+Sense 6
+{00924929} <verb.communication> qualify1, characterize, characterise -- (describe or portray the character or the qualities or peculiarities of; "You can characterize his behavior as that of an egotist"; "This poem can be characterized as a lament for a dead lover")
+       => {00589832} <verb.cognition> remember1, think of -- (keep in mind for attention or consideration; "Remember the Alamo"; "Remember to call your mother every day!"; "Think of the starving children in India!")

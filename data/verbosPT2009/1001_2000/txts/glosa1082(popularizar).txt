@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA1082
+
+DADO O SYNSET:
+
+S='Glosa1082'
+{democratizar: Betinho lança campanha para [democratizar o uso da terra. # Os petistas, que gostam tanto de censura, sonham com a rede própria para [democratizar a televisão.,
+ popularizar: Será a segunda tentativa que o governo faz para [popularizar o uso da nota fiscal. # Cordeiro diz que o Atlas Folha foi uma «excelente idéia para [popularizar essa forma de conhecimento no país, ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1082' = “trazer ao uso geral e comum”
+{democratizar: A série de fascículos vai [democratizar as informações sobre qualidade e levá-las a um grande número de leitores.,
+ popularizar: Nirvana [popularizou o slogan «I don' t mind».,}
+Chave: POPULARIZAR <verb.communication>  
+ILI: 00938187 
+
+Sense 1
+{00938187} <verb.communication> popularize, popularise, vulgarize, vulgarise, generalize4, generalise4 -- (cater to popular taste to make popular and present to the general public; bring into general or common use; "They popularized coffee in Washington State"; "Relativity Theory was vulgarized by these authors")
+       => {00936422} <verb.communication> circulate, circularize, circularise, distribute, disseminate, propagate, broadcast, spread, diffuse, disperse, pass around -- (cause to become widely known; "spread information"; "circulate a rumor"; "broadcast the news")
+           => {00922993} <verb.communication> publicize, publicise, air, bare -- (make public; "She aired her opinions on welfare")
+               => {00920928} <verb.communication> tell -- (let something be known; "Tell them that you will be late")
+                   => {00804489} <verb.communication> inform -- (impart knowledge of some fact, state or affairs, or event to; "I informed him of his rights")
+                       => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                           => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                               => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

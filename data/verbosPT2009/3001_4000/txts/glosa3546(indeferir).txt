@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA3546
+
+DADO O SYNSET:
+
+S='Glosa3546'
+	{denegar: [Denega a suspensão do processo./ A omissão da sentença em conceder honorários implica em [denegá-los.  ,
+	 desatender: O juiz não pode [desatender às normas estabelecidas. ,
+	 indeferir: O senador [indeferiu o pedido.,
+	 negar: O Ministéiro Público só poderá [negar ou autorizar a libertação dos três em conjunto./  O juiz pode [negar homologação ao acordo.,
+	 recusar: O juiz de ofício pode  [recusar sua competência e não aceitar o foro de eleição.}
+
+A='Glosa356'
+{atender, deferir}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3546' = “negar formalmente (uma alegação de fato pela parte oposta)”
+	{denegar: [Denega a suspensão do processo.,
+	 desatender: O juiz não pode [desatender às normas estabelecidas.,
+	 indeferir: O senador [indeferiu o pedido.,
+	 negar: O juiz pode [negar homologação ao acordo.,
+	 recusar: O juiz de ofício pode  [recusar sua competência e não aceitar o foro de eleição.}
+
+A='Glosa356'
+{atender, deferir}
+Chave: INDEFERIR <verb.communication>
+ILI: 01034511
+
+Sense 6
+{01034511} <verb.communication> traverse, deny5 -- (deny formally (an allegation of fact by the opposing party) in a legal suit)

@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA0210
+
+DADO O SYNSET:
+
+S='Glosa210'
+{admitir: O pior é que eles estão tentando convencer os garis da prefeitura a aderir, mas isso eu não vou [admitir.,
+aturar: Vendo que não tirava partido, quis a devota mudar de lugar e sair, porém o aperto era tão grande que o não pôde fazer, e teve de [aturar o suplício até o fim. ,
+respeitar: Se pudesse avaliar quanto sofro neste momento e quanto me custa a ser forte e [respeitar o meu dever.,
+suportar: Nos anos 80, na Itália prevalecia uma atitude cínica que eu não podia [suportar.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa210' = “aguentar alguma coisa ou algo desgradável”
+{admitir: O pior é que eles estão tentando convencer os garis da prefeitura a aderir, mas isso eu não vou [admitir.,
+aturar: Vendo que não tirava partido, quis a devota mudar de lugar e sair, porém o aperto era tão grande que o não pôde fazer, e teve de [aturar o suplício até o fim. ,
+respeitar: Se pudesse avaliar quanto sofro neste momento e quanto me custa a ser forte e [respeitar o meu dever.,
+suportar: Nos anos 80, na Itália prevalecia uma atitude cínica que eu não podia [suportar.,}
+Chave: ATURAR <verb.cognition>
+ILI: 00645847
+
+Sense 3
+{00645847} <verb.cognition> digest3, endure, stick out, stomach, bear, stand, tolerate, support4, brook, abide, suffer, put up -- (put up with something or somebody unpleasant; "I cannot bear his constant criticism"; "The new secretary had to endure a lot of unprofessional remarks"; "he learned to tolerate the heat"; "She stuck out two years in a miserable marriage")
+       => {00776433} <verb.communication> permit, allow, let2, countenance -- (consent to, give permission; "She permitted her son to visit her estranged husband"; "I won't let the police search her basement"; "I cannot allow you to see your exam")
+           => {00771887} <verb.communication> accept, consent, go for -- (give an affirmative reply to; respond favorably to; "I cannot accept your invitation"; "I go for this resolution")
+               => {00693825} <verb.cognition> react, respond -- (show a response or a reaction to something)
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

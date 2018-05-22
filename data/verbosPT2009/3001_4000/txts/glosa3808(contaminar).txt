@@ -1,0 +1,45 @@
+ANÁLISE DA GLOSA3808
+
+DADO O SYNSET:
+
+S='Glosa3808'
+{apestar: O cadáver foi metido num caixão de folha-de-flandres, que se rompeu, e uma infecção terrível I]apestava a igreja.,
+	 contaminar: Assim, fezes depositadas em lugares inadequados acabam por [contaminar a própria água que se bebe.,
+	 eivar: Ainda o tempo não I]eivara o coração do insano de uma lepra sem cura.,
+	 empestar: A ferida de Rita era fétida e purulenta, e para não I]empestar a casa teve de ser recolhida a uma cela separada das outras.,
+	 empestear: Os urubus vão comer aquela carne doente, vão se contaminar e I]empestear o povoado inteiro.,
+	 gafar: x,
+	 infeccionar: Os dedos e as unhas escondem todo o tipo de sujeira e microorganismos que podem [infeccionar a pele.,
+	 infecionar: x,
+	 infectar: Um cão doente pode [infectar rapidamente vários outros, que passarão o vírus ao morder as pessoas.,
+	 infetar: O vírus é geralmente incapaz de I]infetar por via subcutânea.,
+	 inficionar: x,
+	 pestear: Exigi que o levasse de volta, para não I]pestear os meus cavalos.,
+	 pestiferar: x}
+
+A='Glosa1443'
+{descontaminar, desempestar, desinfeccionar, desinfecionar}
+	
+A ANÁLISE RESULTA EM:
+
+S='Glosa3808' = “contaminar com uma doença ou um microorganismo”
+{apestar: O cadáver foi metido num caixão de folha-de-flandres, que se rompeu, e uma infecção terrível I]apestava a igreja.,
+	 contaminar: Assim, fezes depositadas em lugares inadequados acabam por [contaminar a própria água que se bebe.,
+	 eivar: Ainda o tempo não I]eivara o coração do insano de uma lepra sem cura.,
+	 empestar: A ferida de Rita era fétida e purulenta, e para não I]empestar a casa teve de ser recolhida a uma cela separada das outras.,
+	 empestear: Os urubus vão comer aquela carne doente, vão se contaminar e I]empestear o povoado inteiro.,
+	 infeccionar: Os dedos e as unhas escondem todo o tipo de sujeira e microorganismos que podem [infeccionar a pele.,
+	 infectar: Um cão doente pode [infectar rapidamente vários outros, que passarão o vírus ao morder as pessoas.,
+	 infetar: O vírus é geralmente incapaz de I]infetar por via subcutânea.,
+	 pestear: Exigi que o levasse de volta, para não I]pestear os meus cavalos.}
+
+A='Glosa1443'
+{descontaminar, desempestar, desinfeccionar, desinfecionar}
+Chave: CONTAMINAR <verb.body>
+ILI: 00086241
+
+Sense 2 
+{00086241} <verb.body> infect, taint -- (contaminate with a disease or microorganism)
+       => {00479356} <verb.change> pollute, foul3, contaminate -- (make impure; "The industrial wastes polluted the lake")
+           => {01491650} <verb.contact> dirty, soil, begrime, grime, colly, bemire -- (make soiled, filthy, or dirty; "don't soil your clothes when you play outside!")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

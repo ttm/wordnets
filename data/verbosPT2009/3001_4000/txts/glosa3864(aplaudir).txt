@@ -1,0 +1,39 @@
+ANÁLISE DA GLOSA3864
+
+DADO O SYNSET:
+
+S='Glosa3864'
+{aplaudir: O vocalista Miguel Angelo suou a camisa, mas a multidão [aplaudiu sem energia.,
+	 apoiar: Alguns poucos que antes pareciam [apoiar Lula e agora estão com o plano ,
+	 aprovar: Os presentes H]aprovaram com entusiasmo o discurso   ,
+	 elogiar: A mistura de estilos e de público com gostos distintos foi [elogiada tanto pelos artistas quanto pela platéia .,
+	  festejar: Personalidades reúnem-se para [festejar lançamento do ' Mulher ' .,
+	  laurear: George, ou o ator Pascal Duquenne, [laureado como melhor ator no festival, realmente é portador da síndrome de Down .,
+	  louvar: Ao encerrar sua campanha em Moscou, presidente [louva a «dignidade humana"e ataca responsáveis pelo atentado do metrô .,
+	  plaudir: x }
+
+A='Glosa3125'
+{desaplaudir, desaprovar, improbar, improvar}
+	
+A ANÁLISE RESULTA EM:
+
+S='Glosa3864' = “expressar aprovação [de]”
+{aplaudir: O vocalista Miguel Angelo suou a camisa, mas a multidão [aplaudiu sem energia.,
+	 apoiar: Alguns poucos pareciam [apoiar Lula.,
+	 aprovar: Os presentes H]aprovaram com entusiasmo o discurso.,
+	 elogiar: A mistura de estilos e de público com gostos distintos foi [elogiada tanto pelos artistas quanto pela platéia.,
+	  festejar: Personalidades reúnem-se para [festejar lançamento do “Mulher”.,
+	  laurear: George, ou o ator Pascal Duquenne, [laureado como melhor ator no festival, realmente é portador da síndrome de Down.,
+	  louvar: Ao encerrar sua campanha em Moscou, presidente [louva a “dignidade humana”e ataca responsáveis pelo atentado do metrô.}
+
+A='Glosa3125'
+{desaplaudir, desaprovar, improbar, improvar}
+Chave: APLAUDIR <verb.communication>
+ILI: 00832171
+
+Sense 2
+{00832171} <verb.communication> applaud -- (express approval of; "I applaud your efforts")
+       => {00828989} <verb.communication> praise -- (express approval of; "The parents praised their children for their academic performance")
+           => {00658664} <verb.cognition> measure1, evaluate, valuate, assess, appraise1, value -- (place a value on; judge the worth of something; "I will have the family jewels appraised by a professional")
+               => {00647983} <verb.cognition> judge -- (form an opinion of or pass judgment on; "I cannot judge some works of modern art")
+                   => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

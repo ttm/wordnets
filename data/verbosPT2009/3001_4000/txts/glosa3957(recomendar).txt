@@ -1,0 +1,43 @@
+ANÁLISE DA GLOSA3957
+
+DADO O SYNSET:
+
+S='Glosa3957'
+    	{aconselhar: Quando os efeitos da greve se começaram a fazer sentir, [aconselhou as pessoas a gastarem menos .,
+      	 admoestar: I]Admoestou-os a que cumprissem o seu dever.,
+      	 amoestar: x,
+      	 inculcar: A]Inculquei à mocidade sã literatura.,
+     	 indicar: Este postulado prende-se com a possibilidade, ou não, da hierarquia [indicar magistrados para este ou aquele processo ou de retirar determinado processo a um magistrado para o entregar a outro .,
+      	 indigitar: A]Indigitarm-no para fiscal.,
+      	 preconizar: O médico lhe I]preconizou este remédio.,
+      	 predicar: x,
+      	 pregar3: Os bons médicos A]pregam a medicina preventiva.,
+      	 receitar: M]Receitou-me coragem e perseverança.,
+      	 recomendar: O Conselho I]recomendou enviar uma carta de elogio ao Prof. Renato.,
+      	 sugerir: I]Sugeriu que o tamanho do museu seja identificado através do índice de visitação.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3957' = “falar, alegar ou argumentar a favor de”
+    	{aconselhar: Quando os efeitos da greve se começaram a fazer sentir, [aconselhou as pessoas a gastarem menos.,
+      	 admoestar: Lutero freqüentemente ia à Staupitz para confissão, até que o último o I]admoestou que parasse até que tivesse algo realmente pecaminoso para confessar!,
+      	 inculcar: A Igreja ensina, prega e I]inculca a indissolubilidade do matrimônio, porque ela é divinamente revelada pelo Antigo e pelo Novo Testamento.,
+     	 indicar: Para investidores de médio e longo prazos, porém, o banco [indica a compra dos papéis.,
+      	 preconizar: As religiões cristãs [preconizam o amor a Deus e ao próximo, conforme os ensinamentos de Jesus.,
+      	 pregar3: Outros boicotam as privatizações e [pregam um nacionalismo mal colocado, defendem monopólios paralisantes mesmo em áreas não estratégicas.,
+      	 receitar: Para que servem os manuais de redação que [receitam a confirmação de denúncias de um inimigo contra outro?,
+      	 recomendar: O Parlamento [recomendou ao governo que continue apoiando a guerrilha do Sul.,
+      	 sugerir: Relatório [sugere que seja intensificado o treinamento profissional dos policiais.}
+Chave: RECOMENDAR <verb.communication>
+ILI: 00800603
+
+Sense 2
+{00800603} <verb.communication> preach, advocate1 -- (speak, plead, or argue in favour of; "The doctor advocated a smoking ban in the entire house")
+       => {00740405} <verb.communication> urge, urge on, press, exhort -- (force or impel in an indicated direction; "I urged him to finish his studies")
+           => {00843872} <verb.communication> advise, counsel -- (give advice to; "The teacher counsels troubled students"; "The lawyer counselled me when I was accused of tax fraud")
+               => {00787668} <verb.communication> hash out, discuss, talk over -- (speak with others about (something); talk (something) over in detail; have a discussion; "We discussed our household budget")
+                   => {00912516} <verb.communication> talk of, talk about1 -- (discuss or mention; "They spoke of many things")
+                       => {00910961} <verb.communication> talk, speak, utter, mouth, verbalize, verbalise -- (express in speech; "She talks a lot of nonsense"; "This depressed patient does not verbalize")
+                           => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                               => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

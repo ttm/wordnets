@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA1180
+
+DADO O SYNSET:
+
+S='Glosa1180'
+{contradizer: Supor que a maioria não mudaria o voto seria [contradizer a história recente do Brasil e da América Latina em geral. ,
+ desatestar: H]Desatestou a idoneidade de alguém.,
+	 desmentir: Testemunhas que não quiseram se identificar [desmentiram esta versão.,
+              negar: Consentiu em conversar com os jornalistas para [negar com veemência tudo o que Nélson Cunha dissera.,}
+
+A='Glosa4000'
+{afirmar, apostar, assegurar, asseverar, atestar1, certificar, comprovar, confirmar, dizer, garantir, pretender, protestar, provar, testemunhar, testificar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1180' = “estar em contradição [com]”
+{contradizer: A versão [contradiz a de Carlinhos, que disse ter fugido da sala ao ouvir os tiros.,
+ desmentir: O roteiro não [desmente o livro.,
+ negar: Goya [nega os temas e a linguagem da arte praticada em seu tempo.,}
+A='Glosa4000'
+{afirmar, apostar, assegurar, asseverar, atestar1, certificar, comprovar, confirmar, dizer, garantir, pretender, protestar, provar, testemunhar, testificar}
+Chave: NEGAR <verb.stative>
+ILI: 02583617
+
+Sense 1
+{02583617} <verb.stative> contradict, belie, negate -- (be in contradiction with)
+       => {02582064} <verb.stative> deviate, vary, diverge1, depart -- (be at variance with; be out of line with)
+           => {02586169} <verb.stative> differ -- (be different; "These two tests differ in only one respect")

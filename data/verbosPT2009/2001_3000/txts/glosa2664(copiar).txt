@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2664
+
+DADO O SYNSET:
+
+S='Glosa2664'
+	    {copiar: A 1ª ETAPA consiste em I]copiar a imagem ao lado utilizando a técnica do grafite.,
+	      repetir: É uma pintura executada com molde vazado, que caracteriza-se por I]repetir motivos como flores, frutas e barrados gregos.,
+	      repintar: Nas paredes em bom estado, pintadas com látex, basta limpar e I]repintar diretamente. ,
+	      reproduzir: Depois de treinar a pintura no rosto de papel, organize duplas, para que, monitoradas pelo professor, possam I]reproduzir a pintura em si mesmos ou no colega. ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2664' = “Fazer uma reprodução exata de.”
+	    {copiar: Em 1890 fez o seu primeiro quadro: I]copiou o desenho de uma estampa e pintou-o com os restos de tintas da Casa da Moeda.,
+	      repetir: meu desenhista simplesmente I]repetiu a minha imagem num desenho.,
+	      repintar: Com precisão técnica, ele praticamente I]repintou uma obra monteriana.,
+	      reproduzir: O cartão de natal de 96 I]reproduziu a obra de Joaquim da Rocha Ferreira.,}
+
+Chave: COPIAR <verb.creation>
+ILI: 01645467
+
+Sense 4
+{01645467} <verb.creation> copy1, re-create1 -- (make a replica of; "copy that drawing"; "re-create a picture by Rembrandt")
+       => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor") 

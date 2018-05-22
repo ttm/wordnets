@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA1691
+
+DADO O SYNSET:
+
+S='Glosa1691'
+{apendoar: O milho começa a I]apendoar. ,
+ bonecar: O ruim é que choveu e o povo se animou e plantou, mas a chuva deu de faltar justo na época do milho I]bonecar (virar espiga, no idioma do sertão).,
+ embonecar: Os milhos nessa época A]embonecavam.,
+ embonecrar: x,
+ empendoar: x,
+ espigar: Se não chover em junho, o trigo há de I]espigar.,
+ pendoar: Já a Fuvest preferiu colocar trecho de um texto de Rubem Braga, em que o grande cronista exalta o I]pendoar de uma flor de milho em pleno Rio de Janeiro.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1691' = “produzir pendões/espigas”
+{apendoar: O milho começa a I]apendoar.,
+ bonecar:A agricultora lembra que parte da lavoura do milho sequer I]bonecou.,
+ embonecar: Quando o milho I]embonecou, a geada pegou tudo.,
+ espigar: Outra parte do trigo já até I]espigou.,
+ pendoar: A lavoura com maiores problemas é a de milho, principalmente a que I]pendoou ou encheu de grãos no período da estiagem, representando 45% de perdas.,}
+Chave: ESPIGAR <verb.change>
+ILI: EQ_HAS_HYPERONYM – 00285185 – “produzir ou apresentar flores”
+
+Sense 1
+{00285185} <verb.change> bloom, blossom1, flower -- (produce or yield flowers; "The cherry tree bloomed")
+       => {00243643} <verb.change> develop -- (grow, progress, unfold, or evolve through a process of evolution, natural growth, differentiation, or a conducive environment; "A flower developed on the branch"; "The country developed into a mighty superpower"; "The embryo develops into a fetus"; "This situation has developed over a long time")
+           => {00223119} <verb.change> grow -- (become larger, greater, or bigger; expand or gain; "The problem grew too large for me"; "Her business grew fast")
+               => {00150804} <verb.change> increase -- (become bigger or greater in amount; "The amount of work increased")
+                   => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+                       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

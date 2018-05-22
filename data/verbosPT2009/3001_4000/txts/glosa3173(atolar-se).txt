@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA3173
+
+DADO O SYNSET:
+
+S='Glosa3173'
+	    {
+	      atolar-se1: Nadar para conseguir alguma informação importante para o próximo trecho ou I]atolar-se até a cintura em lama por alguns metros até perder a noção de distância. ,
+	      chafurdar: Quando as porcas ficavam prenhas sem porco, elas iriam I]chafurdar na lama. ,
+	      enchafurdar: x,
+	      enxurdar-se: x,
+	      ingurgitar-se: DEVIANT,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3173' = “sujar-se com lama, estrume ou lodo”
+	     {atolar-se1: Este passava por areia inconsistente e charcos e, em ambos os casos, os animais I]atolavam-se até os joelhos. ,
+	      chafurdar: Quando as porcas ficavam prenhas sem porco, elas iriam I]chafurdar na lama. ,}
+Chave: ATOLAR-SE <verb.contact>
+ILI: 01492248
+
+Sense 4
+{01492248} <verb.contact> mire, muck, mud, muck up -- (soil with mud, muck, or mire; "The child mucked up his shirt while playing ball in the garden")
+       => {01491650} <verb.contact> dirty, soil, begrime, grime, colly, bemire -- (make soiled, filthy, or dirty; "don't soil your clothes when you play outside!")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

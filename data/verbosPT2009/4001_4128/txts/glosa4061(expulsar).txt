@@ -1,0 +1,35 @@
+ANÁLISE DA GLOSA4061
+
+DADO O SYNSET:
+
+S='Glosa4061'
+{confutar: Por outro lado, perante o Santo Ofício Henequim admitiria também haver se dedicado ao estudo das Escrituras para I]confutar os hereges.,
+enxotar: Uma vez que o [enxotou de sua residência, o arquiteto Farid Helou suscitou o rancor mesquinho de Mir .,
+excluir: H]Excluíram o rapaz da empresa.,
+expulsar: Os policiais o [expulsaram porque ele não tinha credencial de imprensa .,
+propulsar: H]Propulsou os invasores como se fosse um herói.,
+pulverizar: Tivemos a fase do pioneirismo, de investimentos, das idéias mirabolantes; depois, vieram as crises, as quebras das pontocom e isso I]pulverizou os aventureiros.,
+rebater: Sem conseguir H]rebater as tropas inimigas, foram vencidos.,
+rebotar2: x,
+rechaçar: Na tentativa de contrabalançar essa inferioridade numérica, os brancos procuram reservar para si todos os poderes, a maior partes das riquezas e, sobretudo, [rechaçar os negros a regiões de onde não nossam mais sair .,
+refutar: H]Refutou a proposta indecorosa.,
+repelir: Depois separaram-se de novo, e sempre observando-se, sempre prontos a defenderem-se um do outro, os dois grupos continuaram a [repelir os índios com a maior coragem .,
+repulsar: Assim, nós somos ensinados, por Jesus Cristo, a I]repulsar Satanás e seus assaltos pela palavra de Deus.,
+sacudir: H]Sacudiu da consciência o sentimento de culpa.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4061' = “forçar a sair ou ir embora”
+{enxotar: Uma vez que o [enxotou de sua residência, o arquiteto Farid Helou suscitou o rancor mesquinho de Mir .,
+excluir: H]Excluíram o rapaz da empresa.,
+expulsar: A primeira-dama [expulsou o marido da residência oficial do governo após ter descoberto que ele namorava a publicitária Rosângela Magalhães .
+rebater: Sem conseguir H]rebater as tropas inimigas, foram vencidos.,
+rechaçar: Os brancos procuram reservar para si todos os poderes, a maior partes das riquezas e, sobretudo, [rechaçar os negros a regiões de onde não possam mais sair .,
+repelir: Os dois grupos continuaram a [repelir os índios com a maior coragem .,
+repulsar: “Alemannia” bem sucedidamente I]repulsou os invasores e a paz que seguida foi selada pelo casamento de Rudolf e a filha de Burchard.,}
+Chave: EXPULSAR <verb.social>
+ILI: 02426968
+
+Sense 1
+{02426968} <verb.social> expel, throw out1, kick out1 -- (force to leave or move out; "He was expelled from his native country")
+       => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA1761
+
+DADO O SYNSET:
+
+S='Glosa1761'
+{acirrar-se: Os ânimos começaram a I]acirrar-se com a morte de duas civis libanesas num ataque da milícia aliada de Israel, Exército do Sul do Líbano, na quinta-feira. ,
+ encrespar-se: Ao ver o garçom que lhe trazia a sopa com o dedo dentro do prato o freguês I]encrespou-se.,
+ exasperar-se: I]Exasperou-se o professor, expulsando o aluno da sala. # Outro soldado I]exasperou-se com a falta de limpeza das casas de banho, atribuindo o desleixo aos franceses, pois são eles que tomam conta daquele espaço.,
+ irritar-se: Arnaldo I]irritou-se quando apanhou a correspondência naquela tarde de 3 de abril de 2002.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1761' = “ficar muito irritado”
+{acirrar-se: O preconceito ideológico se I]acirrou ainda mais com a vitória da equipe canarinho no México.,
+ encrespar-se: Ao ver o garçom que lhe trazia a sopa com o dedo dentro do prato o freguês I]encrespou-se.,
+ exasperar-se: Para somar acinte à provocação, a decisão surge no momento em que o país se [exaspera com a lentidão e o injustificável absenteísmo do Congresso.,
+ irritar-se: Marcello se [irrita com insistência de Ronaldo.,}
+Chave: EXASPERAR-SE <verb.emotion>
+ILI: 01735443
+
+Sense 4
+{01735443} <verb.emotion> steam -- (get very angry; "her indifference to his amorous advances really steamed the young man")
+       => {01735248} <verb.emotion> anger1, see red -- (become angry; "He angers easily")
+           => {01720480} <verb.emotion> feel, experience -- (undergo an emotional sensation; "She felt resentful"; "He felt regret")

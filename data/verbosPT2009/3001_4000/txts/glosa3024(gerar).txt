@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA3024
+
+DADO O SYNSET:
+
+S='Glosa3024'
+	    {
+	      conceber: Os Evangelhos afirmam que Maria Virgem I]concebeu o Filho de Deus sem a intervenção de semente humana.,
+	      gerar: Estava ali o ventre abençoado que [gerara os dous gêmeos.,
+	      gestar: Mas existe o amor de [gestar, de ver no próprio ventre um filho. # É ela quem vai [gestar e parir o bezerro.,
+	      procriar: Concluiu que a própria vida lhe impunha, como lei indefectível, a missão sagrada de [procriar muitos filhos, sãos, bonitos, alimentados com seu leite.,
+	      semear: DEVIANT,
+	      ter: Ela disse ter [tido uma filha com o empresário.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3024' = “fazer filhos”
+	     {conceber: Os Evangelhos afirmam que Maria Virgem I]concebeu o Filho de Deus sem a intervenção de semente humana.,
+	      gerar: Estava ali o ventre abençoado que [gerara os dous gêmeos.,
+	      gestar: E esta mãe I]gestou a criança até o fim, teve a criança e daí sete dias faleceu. # É ela quem vai [gestar e parir o bezerro.,
+	      procriar: Em grupos de sagüis, uma única fêmea I]procria, enquanto todos se ocupam em cuidar dos filhotes.,
+	      ter: Ela casou, I]teve um filho, mas o marido a abandonou.,}
+Chave: GERAR <verb.body>
+ILI: 00052817
+
+Sense 4
+{00052817} <verb.body> beget, get8, engender, father, mother, sire, generate, bring forth -- (make children; "Abraham begot Isaac"; "Men often father children but don't recognize them")
+       => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

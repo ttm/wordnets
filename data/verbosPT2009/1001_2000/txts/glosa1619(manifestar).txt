@@ -1,0 +1,41 @@
+ANÁLISE DA GLOSA1619
+
+DADO O SYNSET:
+
+S='Glosa1619'
+    	{dar: Gostaria de I]dar alguns conselhos, que penso que irão ser uteis a todos aqueles que querem começar a construir e voar aeromodelos. ,
+      	 declarar: Carreras amou Manaus, chegando a [declarar que o calor e a umidade da cidade fizeram bem à sua voz, e que se todos os lugares em que canta fossem assim, «seria fantástico» .,
+      	 declinar: São os ratos de leilões, com forte sotaque carioca», mencionou, sem [declinar nomes.,
+      	 dizer: Mas não seria correto [dizer que Freud «gostava» de Shakespeare, como gostava de Goethe ou Milton.,
+      	 emitir: Quando o Comissário se propuser a proceder a uma investigação, deverá dar ao funcionário principal do departamento ou a qualquer outra pessoa que, segundo a queixa, houver realizado ou autorizado a atuação impugnada, a oportunidade de [emitir sua opinião sobre o conteúdo da queixa .,
+      	 enunciar: Por exemplo, descrever as propriedades de cada carta (ou peça) num jogo é algo muito mais simples do que [enunciar o seu valor estratégico nos diferentes momentos do fluxo da partida .,
+      	 exteriorizar: Embora tímido, A]exteriorizou seu ponto de vista.  ,
+      	 externar: O mesmo se passa em tribunais superiores, onde ministros de elevado saber, consomem várias páginas para I]externar seu ponto de vista (geralmente correto) sobre a questão dos autos, e no final, em lacônicas linhas, se curva, mesmo contra seu ponto de vista não só explanado, como fundamentado. ,
+      	 indicar: Coube a ela [indicar uma lista de 100 artistas brasileiros para integrar a proposta.,
+      	 manifestar: Pacientes com graves seqüelas neurológicas, incapazes de usar a voz ou digitar um teclado, conseguem [manifestar sua opinião apertando um botão, piscando o olho, soprando um sensor .,
+      	 mencionar: Sem temer a repetição, que vale como uma advertência ao leitor, não pretendo elucidar aqui o enigma nem dissipar a perplexidade ansiosa que acabo de [mencionar.,
+      	 pronunciar: E afirma que sua intervenção não prejudica em nada o valor da criação espiritual de Nietzsche, que, sem ele, não teria talvez tido o mesmo brilho ao [pronunciar o seu discurso.,
+      	 ter: Interrogado, A]teve resposta negativa.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1619' = “anunciar oficial ou publicamente” 
+    	{dar: Charlize I]deu o discurso mais emocionado da noite e parecia chorar como uma criança quando agradeceu à mãe.,
+      	 declarar: O própro Yeltsin [declarou mais tarde, à agência Interfax, que tinha ficado afônico depois de dezenas de discursos e de entrevistas a emissoras regionais de televisão nos últimos dias.,
+      	 declinar: Na contestação, o advogado deve [declinar o endereço em que receberá intimações.,
+      	 dizer: Alvarenga [disse durante o almoço de comemoração ao 97º aniversário da SNA que a questão da fome no Brasil deve ser solucionada através de uma política de aumento real de salários.,
+      	 emitir: No dia 16 de novembro, Deodoro da Fonseca [emitiu as primeiras medidas do novo governo provisório.,
+      	 enunciar: O locutor [enuncia fatos ocorridos.,
+      	 exteriorizar: O primeiro encontro, constituiu-se em um momento de interação e de troca de experiências, onde cada uma I]exteriorizou suas dúvidas e expectativas em relação aos temas a serem abordados.,
+      	 externar: Numa conversa sobre a eventual participação do Exército no combate ao crime no Rio, um graduado oficial [externou reservadamente sua opinião contrária.,
+      	 indicar: Lebed não [indicou se iria propor uma emenda constitucional para restabelecer a vice-presidência.,
+      	 manifestar: O ministro [manifestou em rádios e TVs seu descontentamento.,
+      	 mencionar: SO tema do «atalho» para a revisão surgiu por iniciativa do próprio FHC, que o [mencionou em café da manhã oferecido por empresários brasileiros que atuam na Argentina e seus parceiros locais.,
+      	 pronunciar: O colegiado da Comissão de Valores Mobiliários, formado por cinco membros, [pronunciou a sentença às 16h30m de ontem.,}
+Chave: MANIFESTAR <verb.communication>
+ILI: 00933912
+
+Sense 2
+{00933912} <verb.communication> announce2, declare5 -- (announce publicly or officially; "The President declared war")
+       => {00976600} <verb.communication> state, say, tell4 -- (express in words; "He said that he wanted to marry her"; "tell me what is bothering you"; "state your opinion"; "state your name")
+           => {00909455} <verb.communication> express, verbalize3, verbalise3, utter1, give tongue to -- (articulate; either verbally or with a cry, shout, or noise; "She expressed her anger"; "He uttered a curse")

@@ -1,0 +1,37 @@
+ANÁLISE DA GLOSA1641
+
+DADO O SYNSET:
+
+S='Glosa1641'
+{adjurar: O sacerdote A]adjurou o possesso.,
+ conjurar: Para I]conjurar essa divindade maléfica, tinham sacerdotes, os pajés, que buscavam sua força e virtude no fumo da planta sagrada, o tabaco.,
+ desconjurar: Não é difícil observar pessoas que se benzem, fazendo o "nome do pai" ou "I]desconjurando o mal" quando cruzam com um gato preto.,
+ desdemoniar: O benzedeiro H]desdemonizou os possessos.,
+ desendemoniar: x,
+ eliciar: x,
+ esconjurar: Mas nessa noite, pela primeira vez, senti a precisão de ampliar o espaço com som e recorri ao radiozinho para [esconjurar os possíveis demônios.,
+ exorcismar: Para realizar o exorcismo recebeu uma surra tão feia do demônio que possuia a garota, que ninguém teria confiança na igreja para I]exorcismar demônios.,
+ exorcizar: O romance conta a história da filha única de um marquês colombiano, que cresceu entre escravos e orixás, e sua relação com um padre espanhol, incumbido de [exorcizar demônios que a teriam possuído .,}
+	  
+A='Glosa2024'
+{endemoninhar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1641' = “expulsar por meio de adjuração ou preces”
+{adjurar: O governador Luiz Henrique da Silveira, admirador da obra de Cabral, sublinha que “I]adjurando os cânones clássicos e despindo-se da sobrecasaca, ele expõe as vísceras e a alma de uma época ao resgatar os ataques, descomposturas e maledicências que recolheu nos jornais”.,
+ conjurar: Tarrou, um ativista que militou na Europa, mais os médicos Rieux e Castel, o jesuíta Paneloux e também Grand, o empregado da prefeitura, reúnem suas forças para [conjurar o mal.,
+ desconjurar: Existem religiões que I]desconjuram a Cristo como líder e como salvador..,
+ esconjurar: Um pajé que passou na orla da mata viu os lutadores e [esconjurou-os pensando que eram as almas de dois guerreiros presos no abraço da morte.,
+ exorcismar: Prova disso, é que pastores exorcizam cânceres com gritos e padres I]exorcismam doenças com imagens.,
+ exorcizar: O Bem, feito gente, [exorciza o Mal pintado em demônio; a cada livro encena-se um Juízo Final, prometendo ao leitor um lugar entre os justos.,}
+	  
+A='Glosa2024'
+{endemoninhar}
+Chave: EXORCIZAR <verb.contact>
+ILI: 01485571
+
+Sense 1
+{01485571} <verb.contact> exorcise, exorcize -- (expel through adjuration or prayers; "exorcise evil spirits")
+       => {01426914} <verb.contact> expel, eject1, chuck out, exclude, throw out, kick out, turf out, boot out, turn out -- (put out or expel from a place; "The child was expelled from the classroom")
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

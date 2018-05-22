@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA3811
+
+DADO O SYNSET:
+	
+S='Glosa3811'
+{empetecar: Se a pessoa começar também a [empetecar, fica brega demais.,
+	 petecar: x }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3811' = “tornar mais bonito”
+{empetecar: Se a pessoa começar também a [empetecar, fica brega demais.,
+	 petecar: x }
+Chave: EMPETECAR <verb.change>
+ILI: 00284091
+
+Sense 4 
+{00284091} <verb.change> beautify, embellish, prettify -- (make more beautiful)
+       => {00198579} <verb.change> better1, improve1, amend, ameliorate1, meliorate1 -- (to make better; "The editor improved the manuscript with his changes")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")
+

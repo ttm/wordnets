@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA1844
+
+DADO O SYNSET:
+
+S='Glosa1844'
+    	{aparafusar: Uma chave-de-fenda serve para I]aparafusar e desaparafusar parafusos, certo? ,
+      	 apertar: Depois é só I]apertar o parafuso que tem na "tampinha" do avanço.,
+      	 atarraxar: Uma vez meu pai me viu fazendo um grande esforço tentando I]atarraxar a porca da roda do carro.,
+      	 entarraxar: x,
+      	 parafusar: Poucas sabem trocar a resistência do chuveiro elétrico, consertar a calha, I]parafusar a grade do portão, e correr do ladrão. ,
+      	 tarraxar: Manejar máquinas-ferramentas especiais, como máquinas de transferência automática e I]máquina de tarraxar.,}
+  
+A='Glosa1498'
+    	{desandar, desaparafusar, desapertar, desatarraxar, desparafusar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1844' = “apertar ou fixar com parafuso ou com movimentos como se estivesse aparafusando” 
+    	{aparafusar: Outra dica seria retirar o painel e aplicar por baixo dele uma camada de feltro industrial e [aparafusá-lo novamente.,
+      	 apertar: Vamos I]apertar as tarraxas do tambor e já já estaremos percutindo o ar.,
+      	 atarraxar: Uma vez meu pai me viu fazendo um grande esforço tentando I]atarraxar a porca da roda do carro.,
+      	 parafusar: Ele I]parafusou aquele quadro na parede com um prego.,
+      	 tarraxar: Reponha a espuma, e I]tarraxe a Tampa novamente para que a unidade volte à operação.}
+  
+A='Glosa1498'
+    	{desandar, desaparafusar, desapertar, desatarraxar, desparafusar}
+Chave: APARAFUSAR <verb.contact>
+ILI: 01312897
+
+Sense 4
+{01312897} <verb.contact> screw1 -- (tighten or fasten by means of screwing motions; "Screw the bottle cap on")
+       => {00408018} <verb.change> tighten1, fasten -- (make tight or tighter; "Tighten the wire")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

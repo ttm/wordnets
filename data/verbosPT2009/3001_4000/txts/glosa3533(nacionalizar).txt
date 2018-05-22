@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA3533
+
+DADO O SYNSET:
+
+S='Glosa3533'
+	    {
+	      nacionalizar: No porto de Sebastopol se encontram os 300 navios da Armada ex-soviética que as autoridades de Kiev pretendem [nacionalizar.,
+	      naturalizar: O Modernismo importou o decadentismo europeu do final do século massivamente e, [naturalizando esse material emprestado, criou uma expressão «autenticamente» hispano-americana. ,
+	    }
+
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3533' = “fazer nacional em caráter ou escopo”
+	     {nacionalizar: Como os demais países socialistas, a Bulgária [nacionalizou e estatizou seu sistema produtivo.,
+	      naturalizar: Sidney I]naturalizou o soneto na poesia inglesa. ,}
+Chave: NACIONALIZAR <verb.change>
+ILI: 00562666
+
+Sense 2
+{00562666} <verb.change> nationalize1, nationalise1 -- (make national in character or scope; "His heroic deeds were nationalized by the press")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

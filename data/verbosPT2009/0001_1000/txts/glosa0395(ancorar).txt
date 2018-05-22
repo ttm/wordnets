@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA0395
+
+DADO O SYNSET:
+
+S='Glosa395'
+{aferrar: Provavelmente na altura em que a brisa da manhã estava chegando ao fim, a nossa almirante conseguiu I]aferrar a Dordrecht.,
+ancorar: Antes de [ancorar, temendo um flagrante da polícia marítima, os tripulantes resolveram se livrar da carga comprometedora, jogando as latas de maconha enquanto estavam em alto-mar.,
+aportar: A ilha da Decepção tem este nome ligado à decepção que tiveram os navios ingleses que nela [aportaram entre 1818 1821, ao ver foqueiros argentinos fundeados na sua baía.,
+atracar: Um grande carregamento de coca estava para [atracar no porto, minhas fontes haviam me avisado.,}
+A='Glosa1112'
+{desaferrar, desancorar, desatracar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa395' = “segurar embarcação com âncora”
+{aferrar: Provavelmente na altura em que a brisa da manhã estava chegando ao fim, a nossa almirante conseguiu I]aferrar a Dordrecht.,
+ancorar: Antes de [ancorar, temendo um flagrante da polícia marítima, os tripulantes resolveram se livrar da carga comprometedora, jogando as latas de maconha enquanto estavam em alto-mar.,
+aportar: A ilha da Decepção tem este nome ligado à decepção que tiveram os navios ingleses que nela [aportaram entre 1818 1821, ao ver foqueiros argentinos fundeados na sua baía.,
+atracar: Um grande carregamento de coca estava para [atracar no porto, minhas fontes haviam me avisado.,}
+A='Glosa1112'
+{desaferrar, desancorar, desatracar}
+Chave: ANCORAR <verb.contact>
+ILI: 01265702
+
+Sense 2
+{01265702} <verb.contact> anchor, cast anchor, drop anchor -- (secure a vessel with an anchor; "We anchored at Baltimore")
+       => {01300906} <verb.contact> fasten1, fix, secure1 -- (cause to be firmly attached; "fasten the lock onto the door"; "she fixed her gaze on the man")
+           => {01257892} <verb.contact> attach1 -- (cause to be attached)
+               => {01314764} <verb.contact> connect, link, tie1, link up -- (connect, fasten, or put together two or more pieces; "Can you connect the two loudspeakers?"; "Tie the ropes together"; "Link arms")

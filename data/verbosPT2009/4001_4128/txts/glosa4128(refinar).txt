@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA4128
+
+DADO O SYNSET:
+
+S='Glosa4128'
+{exagerar: H]Exagerava a importância do cinema na vida cultural.,
+exceder: Era um estudante que H]excedia os colegas.,
+quinta-essenciar: x,
+quintessenciar: x,
+rebuscar: Então prefiro adotar um estilo mais enxuto e sintetizado do que ficar I]rebuscando o layout.,
+refinar: I]Refinou suas habilidades quando se casou com Maria.,
+requintar: Poliu os sentimentos, I]requintou as maneiras e criou hábitos de cavalheirismo e lealdade.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4128' = “melhorar ou aperfeiçoar através de poda ou polimento”
+{rebuscar: Então prefiro adotar um estilo mais enxuto e sintetizado do que ficar I]rebuscando o layout.,
+refinar: I]Refinou suas habilidades quando se casou com Maria.,
+requintar: Poliu os sentimentos, I]requintou as maneiras e criou hábitos de cavalheirismo e lealdade.,}
+Chave: REFINAR <verb.change>
+ILI: 00460710
+
+Sense 1
+{00460710} <verb.change> polish1, refine1, fine-tune1, down -- (improve or perfect by pruning or polishing; "refine one's style of writing")
+       => {00198579} <verb.change> better1, improve1, amend, ameliorate1, meliorate1 -- (to make better; "The editor improved the manuscript with his changes")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA1318
+
+DADO O SYNSET:
+
+S='Glosa1318'
+{descravar: Com um safanão me faz I]descravar as unhas das costas dele.,
+ desencravar: Watson verificou que havia uma palheta encravada e I]desencravou-a dando-lhe um toque com o dedo.,
+ desencravilhar: x,}
+	  
+A='Glosa3447'
+{acravar, afincar, bater, cravar, embeber, encravar, enfincar, espetar, fincar, fixar, meter, pregar1, travar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1318' = “tirar cravo, prego ou objeto cravado” 
+{descravar: Com um safanão me faz I]descravar as unhas das costas dele.,
+ desencravar: Watson verificou que havia uma palheta encravada e I]desencravou-a dando-lhe um toque com o dedo.,}
+A='Glosa3447'
+{acravar, afincar, bater, cravar, embeber, encravar, enfincar, espetar, fincar, fixar, meter, pregar1, travar}
+Chave: DESENCRAVAR <verb.contact>
+ILI: EQ_HAS_HYPERONYM – 01311287 – “arrancar, geralmente com certa violência e empenho; também utilizado no sentido abstrato”
+
+Sense 3
+{01311287} <verb.contact> extract4, pull out, pull10, pull up, take out9, draw out5 -- (draw or pull out, usually with some force or effort; also used in an abstract sense; "pull weeds"; "extract a bad tooth"; "take out a splinter"; "extract information from the telegram")
+       => {00166870} <verb.change> remove, take, take away1, withdraw1 -- (remove something concrete, as by lifting, pushing, taking off, etc. or remove something abstract; "remove a threat"; "remove a wrapper"; "Remove the dirty dishes from the table"; "take the gun from your pocket"; "This machine withdraws heat from the environment")

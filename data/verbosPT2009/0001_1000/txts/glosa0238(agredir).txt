@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0238
+
+DADO O SYNSET:
+
+S='Glosa238'
+{agredir: É um absurdo importar baderneiros para [agredir membros de nossa comunidade, denuncia o reitor. # No fim do jogo, mesmo uniformizados, partiram para [agredir os jogadores do Palmeiras.,
+atacar: No dia 15 de dezembro, o governador mandou a polícia ocupar o Complexo da Maré, onde traficantes [atacaram na véspera seis torcedores do Santos.,}
+A='Glosa1954'
+{adargar, defender, escudar, proteger}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa238' = “atacar alguém fisicamente ou emocionalmente”
+{agredir: É um absurdo importar baderneiros para [agredir membros de nossa comunidade, denuncia o reitor. # No fim do jogo, mesmo uniformizados, partiram para [agredir os jogadores do Palmeiras.,
+atacar: No dia 15 de dezembro, o governador mandou a polícia ocupar o Complexo da Maré, onde traficantes [atacaram na véspera seis torcedores do Santos.,}
+A='Glosa1954'
+{adargar, defender, escudar, proteger}
+Chave: AGREDIR <verb.competition>
+ILI: 01085076
+
+Sense 4
+{01085076} <verb.competition> assail, assault, set on, attack2 -- (attack someone physically or emotionally; "The mugger assaulted the woman"; "Nightmares assailed him regularly")

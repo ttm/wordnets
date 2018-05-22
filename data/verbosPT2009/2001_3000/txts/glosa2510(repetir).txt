@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2510
+
+DADO O SYNSET:
+
+S='Glosa2510'
+	    {refazer: O escritor Paulo Coelho - que, após uma década, pretende [refazer o Caminho este ano - não teme que o percurso, tido como mágico, perca sua energia.,
+	      repetir: A temporada de caça foi anunciada ontem pelo secretário Nilton Cerqueira, que prometeu I]repetir a repressão coordenada por ele em 1981, quando comandava a Polícia Militar.,
+	      secundar: O padre Hipolito Chauvelou já forneceu a expedição informações preciosas sobre a vida desses aborígenes os seus hábitos e a forma de lhes conquistar a confiança e amizade, assim como se dispó a I]secundar os trabalhos que a expedição está realizando.,
+	      segundar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2510' = “Fazer, realizar ou executar novamente.”
+	    {refazer: Grupo que I]refez trajeto da Missão Cruls consegue promessa de sede para guardar documentos históricos.,
+	      repetir: Quando retornou, procurou a velha e I]repetiu o caminho de ida até a sua casa.,
+	      secundar: Interrogado por que não I]secundou as experiências.,}
+
+Chave: REPETIR <verb.creation>
+ILI: 01685362
+
+Sense 2
+{01685362} <verb.creation> duplicate, reduplicate, double, repeat, replicate -- (make or do or perform again; "He could never replicate his brilliant performance of the magic trick")
+       => {01687654} <verb.creation> reproduce -- (make a copy or equivalent of; "reproduce the painting")
+           => {01575778} <verb.creation> produce, make1, create3 -- (create or manufacture a man-made product; "We produce more cars than we can sell"; "The company has been making toys for two centuries") 

@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA0823
+
+DADO O SYNSET:
+
+S='Glosa823'
+{demorar: Foi um alívio, mas que não [demorou muito tempo.,
+estacionar: Caindo a inflação, FHC tende a mexer-se do patamar em que [estacionou nas pesquisas dos dois últimos meses.,
+ficar: Ele [ficou 76 dias no cativeiro.,
+jazer: O julgamento a que seremos submetidos nos fará [jazer em honra ou desonra até a última geração.,
+permanecer: A esse bloco também se juntaram países da América Latina e da própria Europa, como por exemplo a Iugoslávia, que por muito tempo [permaneceram sob a condição de colônia.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa823' = “continuar em um lugar, posição, ou situação”
+{demorar: Foi um alívio, mas que não [demorou muito tempo.,
+estacionar: Caindo a inflação, FHC tende a mexer-se do patamar em que [estacionou nas pesquisas dos dois últimos meses.,
+ficar: Ele [ficou 76 dias no cativeiro.,
+jazer: O julgamento a que seremos submetidos nos fará [jazer em honra ou desonra até a última geração.,
+permanecer: A esse bloco também se juntaram países da América Latina e da própria Europa, como por exemplo a Iugoslávia, que por muito tempo [permaneceram sob a condição de colônia.,}
+Chave: FICAR <verb.stative>
+ILI: 02647172
+
+Sense 4
+{02647172} <verb.stative> stay2, stay on, continue10, remain3 -- (continue in a place, position, or situation; "After graduation, she stayed on in Cambridge as a student adviser"; "Stay with me, please"; "despite student protests, he remained Dean for another year"; "She continued as deputy mayor for another year")
+       => {02526983} <verb.stative> be3 -- (have the quality of being; (copula, used with an adjective or a predicate noun); "John is rich"; "This is not a good answer")

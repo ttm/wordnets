@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA1237
+
+DADO O SYNSET:
+
+S='Glosa1237'
+{desconhecer-se: Pouco se sabe, porém, sobre os efeitos dessas aplicações e o destino dos elementos que neles são pulverizados, por I]desconhecer-se a estrutura dos frutos.,
+ ignorar-se: Ao I]ignorar-se a intera o reprodutor x rebanho houve aumento da amplitude dos valores gênicos preditos dos reprodutores.,}
+	  
+A='Glosa1238'
+{conhecer-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1237' = “recusar(-se) a reconhecer ou considerar” 
+{desconhecer: Hoje, o homem que sou possui um destino comprado a dinheiro e poder. O homem que sou agora I]desconhece por completo o tato da terra, pois compra casa e sepultura de cimento.,
+ desprezar: O pessoal [despreza a gente porque é coisa de negro, é coisa de senzala.,
+ ignorar: Precedido por batedores, Pelé desceu de uma limusine, [ignorou o presidente e mudou de direção.,}
+A='Glosa1238'
+{conhecer-se}
+Chave: DESPREZAR <verb.communication>
+ILI: 01025782
+
+Sense 1
+{01025782} <verb.communication> ignore2, disregard2, snub1, cut5 -- (refuse to acknowledge; "She cut him dead at the meeting")
+       => {02439188} <verb.social> treat, handle3, do by -- (interact in a certain way; "Do right by her"; "Treat him with caution, please"; "Handle the press reporters gently")
+           => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+               => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

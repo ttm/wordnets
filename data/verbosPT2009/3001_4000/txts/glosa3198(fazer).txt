@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA3198
+
+DADO O SYNSET:
+
+S='Glosa3198'
+	    {
+	      empreender: À segunda, que acabava de [empreender a tradução de Sagarana, o escritor confirmava suas idéias.,
+	      fazer: É uma alternativa ao dólar turismo para quem vai [fazer uma viagem internacional.,
+	      interprender: x,
+	      interpresar: x,
+	      realizar: O mesmo não se pode dizer, porém, das dificuldades ainda encontradas pelos mortais para [realizar a tarefa.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3198' = “executar ou cumprir”
+	     {empreender: Na verdade, Tocqueville I]empreendeu mais de uma viagem à Grã Bretanha, vindo a contrair núpcias com uma inglesa.,
+	      fazer: Em 1982, [fez uma exposição individual na Galeria Tenda, e, em 1983, participou da Bienal de São Paulo.,
+	      realizar: O governo, logo após a implantação do socialismo no país, [realizou a reforma agrária, e as grandes propriedades rurais foram expropriadas.,}
+
+Chave: FAZER <verb.creation>
+ILI: 01706509
+
+Sense 16
+{01706509} <verb.creation> make12 -- (perform or carry out; "make a decision"; "make a move"; "make advances"; "make a phone call")
+       => {01663763} <verb.creation> perform, execute1, do1 -- (carry out or perform an action; "John did the painting, the weeding, and he cleaned out the gutters"; "the skater executed a triple pirouette"; "she did a little dance")

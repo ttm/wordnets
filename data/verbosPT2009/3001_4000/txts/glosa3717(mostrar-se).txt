@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA3717
+
+DADO O SYNSET:
+S='Glosa3717' = “”
+{descortinar-se: É uma vitória reconhecer e superar o alcoolismo, como também é vitoriosa a mulher franzina que cuidou dos irmãos, filhos e netos e agora vê I]descortinar-se à sua frente um mundo de oportunidades depois de vencer o analfabetismo.,
+	 desvelar-se2: O processo de individuação é um processo pedagógico por excelência, na medida que é um processo gradual de realizar as potencialidades inatas através de um descobrir-se aos poucos, por um I]desvelar-se em conhecimento pleno.,
+	 desvendar-se: Seu segredo e seu nome ora parecem [desvendar-se, ora eclipsam-se de novo.,
+	 emergir: Sua principal tese defende que a invenção de novos procedimentos de pensamento e negociação possa fazer [emergir verdadeiras inteligências coletivas.,
+	 evidenciar-se: O enfraquecimento da Monarquia começava a I]evidenciar-se. ,
+	 mostrar-se: Itália I]mostra-se como potência.,
+	 patentear-se: A justeza do instrumento só I]patentear-se-á no contato com o Mundo, para o qual e a partir do qual foi feito.,
+	 patentizar-se: Na alteridade pode I]patentizar-se o que nossas sociedades escondem com relativo sucesso.,
+	 rasgar-se: Hão de M]rasgar-se-lhe as astúcias e as intrigas.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3717' = “expor –se à vista”
+{descortinar-se: É uma vitória reconhecer e superar o alcoolismo, como também é vitoriosa a mulher franzina que cuidou dos irmãos, filhos e netos e agora vê I]descortinar-se à sua frente um mundo de oportunidades depois de vencer o analfabetismo.,
+	 desvelar-se2: O processo de individuação é um processo pedagógico por excelência, na medida que é um processo gradual de realizar as potencialidades inatas através de um descobrir-se aos poucos, por um I]desvelar-se em conhecimento pleno.,
+	 desvendar-se: Seu segredo e seu nome ora parecem [desvendar-se, ora eclipsam-se de novo.,
+	 evidenciar-se: O enfraquecimento da Monarquia começava a I]evidenciar-se. ,
+	 mostrar-se: Itália I]mostra-se como potência.,}
+Chave: MOSTRAR-SE <verb.change>
+ILI: 01463238
+
+Sense 1
+{01463238} <verb.perception> disclose, expose3 -- (disclose to view as by removing a cover; "The curtain rose to disclose a stunning set")
+       => {01467069} <verb.perception> uncover, bring out, unveil, reveal -- (make visible; "Summer brings out bright clothes"; "He brings out the best in her")
+           => {01462865} <verb.perception> show -- (make visible or noticeable: "She showed her talent for cooking")

@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA2153
+
+DADO O SYNSET:
+
+	  S='Glosa2153'
+	    {exilar-se: Um ano depois [exilou-se por um curto tempo na Argentina.,
+	      expatriar-se: Em 1935 I]expatriou-se para os Estados Unidos, onde viria a falecer na cidade de Nova Iorque em 1980. ,
+	      exular-se: M]Exulou-se por longínquas terras.,
+	      isolar-se: I]Isolou-se em Monte Carlo, num apartamento emprestado, onde aprendeu a datilografar escrevendo seu "diário de reemersão", que viria a ser publicado sete anos mais tarde.,}
+
+A ANÁLISE RESULTA EM:
+
+	  S='Glosa2153' = “ser expulso de um país ou região”
+	    {exilar-se: Um ano depois [exilou-se por um curto tempo na Argentina.,
+	      expatriar-se: Em 1935 I]expatriou-se para os Estados Unidos, onde viria a falecer na cidade de Nova Iorque em 1980. ,
+	      exular-se: M]Exulou-se por longínquas terras.,}
+Chave: EXILAR-SE <verb.social>
+ILI: 02424632
+
+Sense 1
+{02424632} <verb.social> expatriate, deport, exile -- (expel from a country; "The poet was exiled because he signed a letter protesting the government's actions")
+       => {02426968} <verb.social> expel, throw out1, kick out1 -- (force to leave or move out; "He was expelled from his native country")
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant") 

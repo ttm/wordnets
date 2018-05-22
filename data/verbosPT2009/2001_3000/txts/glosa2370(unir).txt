@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA2370
+
+DADO O SYNSET:
+
+S='Glosa2370'
+	    {cerrar: Iracema [cerra a mão do guerreiro e o leva à borda do antro.,
+	      fechar: O padre fajuto [fecha os olhinhos, clama por sua vidência e garante que a moça vai casar daqui a um ano e meio.,
+	      juntar: Apenas um espermatozóide [junta o seu núcleo com o núcleo do óvulo.,
+	      selar1: Para tempo mais longo, [selar a massa com o resistor terminal junto ao fim do cabo e mergulhá-los em água.,
+	      unir: Assim, para pegar uma banana que estava fora de seu alcance, um macaco teria de mover uma cadeira de um lugar para outro, [unir duas varas, ou reorganizar de alguma outra maneira a situação que ele tinha diante de si.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2370' = “Tornar um.”
+	    {juntar: Apenas um espermatozóide [junta o seu núcleo com o núcleo do óvulo.,
+	      unir: Ora, quem [uniu o PSDB ao PFL foi Fernando Henrique.,}
+
+Chave: UNIR <verb.change>
+ILI: 00356439
+
+Sense 2
+{00356439} <verb.change> unify, unite, merge -- (become one; "Germany unified officially in 1990"; "Will the two Koreas unify?")
+       => {00454356} <verb.change> integrate1 -- (become one; become integrated; "The students at this school integrate immediately, despite their different backgrounds")
+           => {00140715} <verb.change> change state, turn4 -- (undergo a transformation or a change of position or action; "We turned from Socialism to Capitalism"; "The people turned against the President when he stole the election")
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night") 

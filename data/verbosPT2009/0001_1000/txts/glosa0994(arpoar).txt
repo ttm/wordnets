@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0994
+
+DADO O SYNSET:
+
+S='Glosa994'
+{aferrar: M]Aferrar a baleia.,
+arpar: x,
+arpear: x,
+arpoar: O governo da Noruega informou que vai autorizar suas baleeiras a [arpoarem 301 baleias-minkes em 1994, desafiando a moratória à caça comercial dos mamíferos.,
+copejar: H]Copejaram atum.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa994' = “lançar com arpão ”
+{arpoar: O governo da Noruega informou que vai autorizar suas baleeiras a [arpoarem 301 baleias-minkes em 1994, desafiando a moratória à caça comercial dos mamíferos.,}
+Chave: ARPOAR <verb.competition>
+ILI: 01105251
+
+Sense 1
+{01105251} <verb.competition> harpoon -- (spear with a harpoon; "harpoon whales")
+       => {01398038} <verb.contact> catch, grab, take hold of1 -- (take hold of so as to seize or restrain or stop the motion of; "Catch the ball!"; "Grab the elevator door!")
+           => {01175818} <verb.contact> seize, prehend, clutch -- (take hold of; grab; "The salesclerk quickly seized the money on the counter"; "She clutched her purse"; "The mother seized her child by the arm"; "Birds of prey often seize small mammals")
+               => {01177510} <verb.contact> take, get hold of -- (get into one's hands, take physically; "Take a cookie!"; "Can you take this bag, please")

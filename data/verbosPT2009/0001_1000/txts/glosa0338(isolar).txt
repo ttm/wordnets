@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0338
+
+DADO O SYNSET:
+
+S='Glosa338'
+{enterrar: DEVIANT,
+isolar: Não se deve, nunca, I]isolá-lo nos fundos do quintal.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa338' = “colocar ou pôr à parte”
+{isolar: “O sucesso me I]isolou” O cantor celebra a volta do RPM, revela que o grupo acabou por briga de egos, conta como se livrou das drogas e diz adorar o assédio.,}
+Chave: ISOLAR
+ILI: 00480883
+
+Sense 1
+{00480883} <verb.change> isolate, insulate -- (place or set apart; "They isolated the political prisoners from the other inmates")
+       => {02437378} <verb.social> discriminate12, separate, single out -- (treat differently on the basis of sex or race)
+           => {00628816} <verb.cognition> distinguish, separate1, differentiate1, secern1, secernate, severalize, severalise, tell1, tell apart -- (mark as different; "We distinguish several kinds of maple")
+               => {00598581} <verb.cognition> identify, place -- (recognize as being; establish the identity of someone or something; "She identified the man on the 'wanted' poster")
+                   => {00676553} <verb.cognition> determine1, set4 -- (fix conclusively or authoritatively; "set the rules")

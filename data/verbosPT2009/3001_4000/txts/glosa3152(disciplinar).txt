@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA3152
+
+DADO O SYNSET:
+
+S='Glosa3152'
+	    {
+	      desamotinar: Os guardas M]desamotinaram os presos.,
+	      disciplinar: Calado o tempo apenas necessário para armar e I]disciplinar os guardas nacionais.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3152' = “treinar por instrução e prática”
+	     {disciplinar: A modernidade I]disciplinou o homem, fazendo com que ele aceitasse e buscasse os ideais de beleza, limpeza e de ordem.,}
+Chave: DISCIPLINAR <verb.social>
+ILI: 02478150
+
+Sense 1
+{02478150} <verb.social> discipline1, train2, check2, condition -- (train by instruction and practice; especially to teach self-control; "Parents must discipline their children"; "Is this dog trained?")
+       => {00245331} <verb.change> develop1, make grow -- (cause to grow and differentiate in ways conforming to its natural development; "The perfect climate here develops the grain"; "He developed a new kind of apple")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

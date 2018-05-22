@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA3138
+
+DADO O SYNSET:
+
+S='Glosa3138'
+{incluir: O superintendente criticou, especificamente, o fato de a pesquisa [incluir em sua lista negra o Hospital Carlos Chagas, que segundo ele é um dos que tem melhores resultados no setor.,
+	 inserir: Mirabolantes as táticas que os autores de «Fera Ferida» usam para [inserir merchandising de eletrodomésticos na novela.,
+	 meter: Nada se emenda bem nos livros confusos, mas tudo se pode [meter nos livros omissos.}
+
+A='Glosa2622'
+{excetuar, excluir, ressalvar, tirar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3138' = “colocar ou introduzir dentro de alguma coisa”
+{incluir: O superintendente criticou o fato de a pesquisa [incluir em sua lista negra o Hospital Carlos Chagas, que segundo ele é um dos que tem melhores resultados no setor.,
+	 inserir: Mirabolantes as táticas que os autores de “Fera Ferida” usam para [inserir merchandising de eletrodomésticos na novela.,
+	 meter: Nada se emenda bem nos livros confusos, mas tudo se pode [meter nos livros omissos.}
+
+A='Glosa2622'
+{excetuar, excluir, ressalvar, tirar}
+Chave: INCLUIR <verb.contact>
+ILI: 01380907
+
+Sense 6
+{01380907} <verb.contact> insert, infix1, enter3, introduce -- (put or introduce into something; "insert a picture into the text")
+       => {01257892} <verb.contact> attach1 -- (cause to be attached)
+           => {01314764} <verb.contact> connect, link, tie1, link up -- (connect, fasten, or put together two or more pieces; "Can you connect the two loudspeakers?"; "Tie the ropes together"; "Link arms")

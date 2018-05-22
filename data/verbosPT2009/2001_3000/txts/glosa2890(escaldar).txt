@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA2890
+
+DADO O SYNSET:
+
+S='Glosa2890'
+	    {escaldar: Deixar o brócolis  de molho 30 minutos e I]escaldar em água e sal.,
+	      ferver: I]Ferver os legumes com caldo de galinha.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2890' = “Tratar com água fervente”
+	    {escaldar: A gente I]escaldou as carnes, tirou toda a gordura excedente. Fritou o bacon, tirou essa gordura e não colocou junto com o feijão.,
+	      ferver: I]Ferveu os ossos do frango, preparou uma canja e jogou o alimento na garrafa térmica.,}
+Chave: ESCALDAR <verb.change>
+ILI: 00360446
+
+Sense 2
+{00360446} <verb.change> scald2 -- (treat with boiling water; "scald tomatoes so that they can be peeled")
+       => {00501442} <verb.change> process, treat1 -- (subject to a process or treatment, with the aim of readying for some purpose, improving, or remedying a condition; "process cheese"; "process hair"; "treat the water so it can be drunk"; "treat the lawn with chemicals" ; "treat an oil spill")
+           => {00132263} <verb.change> affect, impact, bear upon, bear on, touch on1, touch -- (have an effect upon; "Will the new rules affect me?")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

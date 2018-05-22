@@ -1,0 +1,44 @@
+ANÁLISE DA GLOSA2921
+
+DADO O SYNSET:
+
+S='Glosa2921'
+	    {amelindrar-se: x,
+	      amolestar-se: x,
+	      chocar-se: O brasileiro é permissivo diante de drogas lícitas, como o álcool e o fumo, que trazem sérios danos à saúde, mas [se choca quando surpreende o filho adolescente experimentando um cigarro de maconha.,
+	      escandalizar-se: Os outros personagens [se escandalizam diante do racismo evidente do cruel empresário.,
+	      ferir-se: H]Feria-se de pena, vendo o amigo sofrer.,
+	      formalizar-se: M]Formalizara-se com aqueles gracejos picantes.,
+	      machucar-se: A gente sofre, ama, I]machuca-se, e as vezes chega a crer, que embora exista tanto sofrimento há alguém que nos faz rir.,
+	      magoar-se: Contei discretamente a anedota a Escobar, para que ele me compreendesse e desculpasse; riu-se e não [se magoou.,
+	      melindrar-se: Aquela que [se melindra à toa, exige tudo arrumadinho dentro de casa, superprotege os filhos e sofre de cólicas existenciais mais intensas e frequentes que as menstruais.,
+	      molestar-se: Já se sabe que os profetas não precisam I]molestar-se em realizar investigações críticas e científicas, pois lhes basta fulminar-nos com seus raios morais.,
+	      ofender-se: Alvarez [se ofende um pouco com a menção feita.,
+	      picar-se: A pobre mulher H]picou-se ao ser admoestada.,
+	      ressentir-se: O treinador ainda [se ressente do problema anterior de Edmundo, que discutiu com Antônio Carlos.,
+	      sentir-se: H]Sentiu-se das críticas que ouviu.,
+	      susceptibilizar-se: x,
+	      suscetibilizar-se: Não usando o critério da auto análise, que no caso inexistente, a pessoa se torna extremamente crédula em tudo o que vem por seu intermédio acreditando-se missionária, e a qualquer objeção ou critica construtiva que se faça sobre o teor das comunicações, I]suscetibiliza-se, magoa-se e afasta-se das pessoas que a podem esclarecer.,
+	      traumatizar-se: É a fragilidade do indivíduo diante de uma agressão que o faz I]traumatizar-se, e não a agressão em si.,
+	      ulcerar-se: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2921' = “Ferir os sentimentos de”
+	    {ferir-se: Lembre-se das vezes em que os acontecimentos não foram exatamente como você esperava, como você gostaria e que, por isso, você I]se feriu.,
+	      machucar-se: A gente sofre, ama, I]machuca-se, e as vezes chega a crer, que embora exista tanto sofrimento há alguém que nos faz rir.,
+	      magoar-se: Contei discretamente a anedota a Escobar, para que ele me compreendesse e desculpasse; riu-se e não [se magoou.,
+	      melindrar-se: Aquela que [se melindra à toa, exige tudo arrumadinho dentro de casa, superprotege os filhos e sofre de cólicas existenciais mais intensas e freqüentes que as menstruais.,
+	      molestar-se: Procópio Dias percebeu isso mesmo, mas não I]se molestou; abaixou a cabeça, deixou passar essa onda de desconfiança, e surgiu fora, a rir.,
+	      ofender-se: Alvarez [se ofende um pouco com a menção feita.,
+	      picar-se: Pois I]picou-se tanto disto que o mandou citar para um juramento d'alma, para dizer em sua consciência se era melhor do que ele ou não.,
+	      ressentir-se: A moça I]ressentiu-se dessa falta de escrúpulos, mas disfarçou o seu sentimento e disse:. - Meu pai, faça o que entender!,
+	      sentir-se: A viúva sentiu-se dos olhares cúpidos dos colegas de trabalho.,
+	      suscetibilizar-se: E a qualquer objeção ou crítica construtiva que se faça sobre o teor das comunicações, I]suscetibiliza-se, magoa-se e afasta-se das pessoas que a podem esclarecer.,}
+Chave: MAGOAR-SE <verb.emotion>
+ILI: 01741003
+
+Sense 4
+{01741003} <verb.emotion> hurt, wound, injure, bruise, offend, spite -- (hurt the feelings of; "She hurt me when she did not include me among her guests"; "This remark really bruised me ego")
+       => {01708538} <verb.emotion> arouse, elicit, enkindle, kindle, evoke, fire, raise8, provoke -- (call forth (emotions, feelings, and responses); "arouse pity"; "raise a smile"; "evoke sympathy")
+           => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor") 

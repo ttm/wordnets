@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA3259
+
+DADO O SYNSET:
+
+S='Glosa3259'
+{esganiçar-se: Se o filhote choramingar, chorar ou mesmo esganiçar-se nas primeiras noites em que tiver de dormir sozinho, não lhe dê atenção, não o retire do local.,
+	 ladrar: A caravana passa e os xiitas [ladram. }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3259' = “emitir um grito agudo (como um cão)”
+{esganiçar-se: Se o filhote choramingar, chorar ou mesmo esganiçar-se nas primeiras noites em que tiver de dormir sozinho, não lhe dê atenção, não o retire do local.,
+	 ladrar: Eles voltam pela tarde e I]ladram como cães que rondam a cidade. }
+Chave: LADRAR<verb.communication>
+ILI: 00884353
+
+Sense 1
+{00884353} <verb.communication> shriek, shrill, pipe up1, pipe -- (utter a shrill cry)
+       => {00882998} <verb.communication> shout1, shout out, cry1, call9, yell1, scream1, holler5, hollo, squall -- (utter a sudden loud cry; "she cried with pain when the doctor inserted the needle"; "I yelled to her from the window but she couldn't hear me")
+           => {00951670} <verb.communication> utter2, emit, let out2, let loose -- (express audibly; utter sounds (not necessarily words); "She let out a big heavy sigh"; "He uttered strange sounds that nobody could understand")

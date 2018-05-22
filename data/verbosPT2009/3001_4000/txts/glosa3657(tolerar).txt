@@ -1,0 +1,40 @@
+ANÁLISE DA GLOSA3657
+
+DADO O SYNSET:
+
+S='Glosa3657'
+	    {
+	      admitir: Não [admitem a menor crítica à sua maneira de cantar ou a seu comportamento, agredindo o crítico a unhadas e dentadas.#Ninguém admite mercado fechado, que seria um retrocesso.  ,
+	      aturar: Sendo presidente, jamais vou [aturar desaforos de ninguém. ,
+	      compadecer: Ela pode I]compadecer os problemas dele e, em muitas ocasiões, a sua intuição fornece um raio de luz para a solução dos mesmos.,
+	      comportar: Não sei até que ponto o mercado [comporta este aumento. ,
+	      consentir: Jamais [consentira que barbeiro algum lhe encostasse a mão no rosto.,
+	      padecer: O que não I]padece dúvidas é que a dama da sobremesa devia ser criatura muito bonita, uma daquelas cariocas de tez morena e lábios cor-de-rosa. ,
+	      permitir: Jamais poderia [permitir esta dúvida que se estabeleceu sobre sua honradez.,
+	      sofrer: O senhor de engenho é o homem-forte do ambiente: tudo era feito de acordo com sua vontade e esta não I]sofria réplica.,
+	      suportar: Ataide manteve-se sempre equilibrado e I]suportou as calúnias e as ofensas morais com serenidade.,
+	      tolerar: Na reunião, Marcello afirmou que não vai tolerar a existência de poder paralelo nas favelas.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3657' = “suportar algo ou alguém desagradável”
+	     {admitir: Não [admitem a menor crítica à sua maneira de cantar ou a seu comportamento, agredindo o crítico a unhadas e dentadas./Ninguém [admite mercado fechado, que seria um retrocesso.,
+	      aturar: Ela ainda [atura as maiores humilhações por ser mais velha. ,
+	      compadecer: Ela pode I]compadecer os problemas dele e, em muitas ocasiões, a sua intuição fornece um raio de luz para a solução dos mesmos.,
+	      comportar: Não sei até que ponto o mercado [comporta este aumento. ,
+	      consentir: O costume da taba não [consentia que a virgem desejada pelos servos do seu amor preferisse um guerreiro, antes de saber se ele a obteria por esposa.,
+	      padecer: O que não I]padece dúvidas é que a dama da sobremesa devia ser criatura muito bonita, uma daquelas cariocas de tez morena e lábios cor-de-rosa. ,
+	      permitir: Depois de muita insistência, o técnico do Tesouro [permitiu a fiscalização.,
+	      sofrer: O senhor de engenho é o homem-forte do ambiente: tudo era feito de acordo com sua vontade e esta não I]sofria réplica.,
+	      suportar: Ataíde manteve-se sempre equilibrado e I]suportou as calúnias e as ofensas morais com serenidade.,
+	      tolerar: O governo não [tolerou essa iniciativa de independência e logo mandou tropas para controlar os «fanáticos».,}
+Chave: TOLERAR <verb.cognition>
+ILI: 00645847
+
+Sense 3
+{00645847} <verb.cognition> digest3, endure, stick out, stomach, bear, stand, tolerate, support4, brook, abide, suffer, put up -- (put up with something or somebody unpleasant; "I cannot bear his constant criticism"; "The new secretary had to endure a lot of unprofessional remarks"; "he learned to tolerate the heat"; "She stuck out two years in a miserable marriage")
+       => {00776433} <verb.communication> permit, allow, let2, countenance -- (consent to, give permission; "She permitted her son to visit her estranged husband"; "I won't let the police search her basement"; "I cannot allow you to see your exam")
+           => {00771887} <verb.communication> accept, consent, go for -- (give an affirmative reply to; respond favorably to; "I cannot accept your invitation"; "I go for this resolution")
+               => {00693825} <verb.cognition> react, respond -- (show a response or a reaction to something)
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

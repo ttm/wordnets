@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA2350
+
+DADO O SYNSET:
+
+S='Glosa2350'
+	    {empenar1: Uma das restrições para o uso economicamente praticável da espécie de eucalipto na indústria brasileira de madeira é a tendência de rachar, I]empenar e colapsar dessa madeira. ,
+	      entortar: Sabe-se que sem tratamento a madeira racha, empena, I]entorta e, por isso, é sempre tratada.,
+	      torcer: A umidade também pode danificar as partes coladas do instrumento musical e causar deformações no braço empenar ou I]torcer.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2350' = “Formar uma curvatura.”
+	    {empenar: Como o imóvel é todo de tábua corrida, a madeira I]empenou e o apartamento ficou inabitável. ,
+	      entortar: Sabe-se que sem tratamento a madeira racha, empena e I]entorta.,
+	      torcer: I]Torceu o braço ou empenou, afetou a madeira do braço.,}
+
+Chave: ENTORTAR <verb.motion>
+ILI: 01977754
+
+Sense 1
+{01977754} <verb.motion> bend, flex -- (form a curve; "The stick does not bend")
+       => {00135866} <verb.change> change shape, change form, deform2 -- (assume a different shape or form)
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night") 

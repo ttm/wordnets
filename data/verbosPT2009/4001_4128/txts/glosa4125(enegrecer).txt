@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA4125
+
+DADO O SYNSET:
+
+S='Glosa4125'
+{enegrecer: A fumaça dos cigarros I]enegrecia o teto da casa.,
+quilotar: H]Quilotava a boquilha do cachimbo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4125' = “queimar levemente e superficialmente de modo a afetar a cor”
+{enegrecer: A fumaça dos cigarros I]enegrecia o teto da casa.,}
+Chave: ENEGRECER <verb.change>
+ILI: 00367771
+
+Sense 2
+{00367771} <verb.change> char, blacken1, scorch2 -- (burn slightly and superficially so as to affect color; "The cook blackened the chicken breast"; "The fire charred the ceiling above the mantelpiece"; "the flames scorched the ceiling")
+       => {00189569} <verb.change> burn3 -- (burn with heat, fire, or radiation; "The iron burnt a hole in my dress")
+           => {00250328} <verb.change> damage -- (inflict damage upon; "The snow damaged the roof"; "She damaged the car when she hit the tree")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")
+

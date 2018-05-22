@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0421
+
+DADO O SYNSET:
+
+S='Glosa421'
+{arrecadar: Só na primeira sessão, a Sotheby' s faturou cerca de US$ 4,7 milhões, mais do que estimava [arrecadar em todo o leilão.,
+cobrar: Para complementar os recursos, Levinho vai passar a [cobrar R$ 1 de ingresso.,
+pedir: DEVIANT,
+tirar: M] Tirar esmola. M]Tirar impostos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa421' = “proceder à cobrança; exigir o valor de”
+{cobrar: Para complementar os recursos, Levinho vai passar a [cobrar R$10 de ingresso.,}
+Chave: COBRAR
+ILI: 02154604
+
+Sense 2
+{02154604} <verb.possession> collect1, take in9 -- (call for and obtain payment of; "we collected over a million dollars in outstanding debts"; "he collected the rent")
+       => {02141767} <verb.possession> take -- (take into one's possession; "We are taking an orphan from Romania"; "I'll take three salmon steaks")

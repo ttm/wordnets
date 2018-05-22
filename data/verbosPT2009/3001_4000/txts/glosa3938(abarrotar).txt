@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA3938
+
+DADO O SYNSET:
+	
+S='Glosa3938'
+	{abarrotar: I]Abarrotar o aluno com os novas informações.,
+      	 acogular: H]Acogulou um armário com víveres.,
+      	 apinhar: Num país com tanta terra, com tantas condições favoráveis à agricultura, os habitantes precisam se I]apinhar em favelas, em torno de centros urbanos.,
+      	 cocular: x,
+      	 cogular: A]Cogulou de jóias o seu cofre.,
+      	 encher: No último domingo, a chuva provocou o estouro da galeria provisória do córrego do Sapateiro, que passa sob as avenidas Juscelino Kubitschek e Santo Amaro, e [encheu de água as ruas próximas até a altura de um metro .,
+      	 povoar: A lua [povoava os espaços, dava fisionomia às coisas, fazia nascer sonhos em nossa alma, enchia a vida, enfim, com a sua luz emprestada...,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3938' = “fazer abarrotar muito”
+	{abarrotar: Lei dos Crimes Hediondos I]abarrotou presídios e não diminuiu criminalidade.,
+      	 apinhar: O Maluf, então, após espalhar incompetência em obras e vias públicas, disparar a dívida da cidade, [apinhar sardinhas em ônibus e ainda promover concorrências mal-explicadas, coloca agora a cereja em cima do bolo, quebrando sua promessa de permanecer no cargo até o fim.,
+      	 encher: Além de móveis e cortinas, o casal Kennedy [encheu sua casa de artistas.,      	 	 povoar: O colonizador ibérico [povoava de maravilhas as regiões remotas e desconhecidas do Novo Mundo.}
+Chave: ABARROTAR <verb.motion>
+ILI: 01970225
+
+Sense 1
+{01970225} <verb.motion> overcrowd1 -- (cause to crowd together too much; "The students overcrowded the cafeteria")
+       => {01970766} <verb.motion> herd1, crowd1 -- (cause to herd, drive, or crowd together; "We herded the children into a spare classroom")
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

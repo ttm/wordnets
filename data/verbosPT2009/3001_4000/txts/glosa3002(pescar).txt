@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA3002
+
+DADO O SYNSET:
+
+S='Glosa3002'
+	    {apanhar: O homem tentou I]apanhar o peixe de todas as maneiras sem, contudo, conseguir.,
+	      ferrar: Ao receber um beliscão e tentar I]ferrar o peixe, Jader percebeu que seu anzol estava agarrado em algum garrancho.,
+	      fisgar: Esse pescador em seu frágil barco luta para [fisgar um peixe espadarte.,
+	      gapinar: x,
+	      pegar: A pescaria começou com a captura de algumas Tilapias que foram soltas e a vontade de I]pegar um peixe de porte avantajado aumentava com o passar do tempo.,
+	      pescar: Não dá para virar para um pescador cheio de filhos para alimentar e simplesmente mandar ele parar de [pescar peixes pequenos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3002' = “apanhar peixe ou molusco”
+{apanha:; O homem tentou I]apanhar o peixe de todas as maneiras sem, contudo, conseguir.,
+     ferrar: Ao receber um beliscão e tentar I]ferrar o peixe, Jader percebeu que seu anzol estava agarrado em algum garrancho.,
+     fisgar: Em pouco menos de duas horas, a universitária Elaine Bazolli Serafim [fisgou 12 trutas .,
+     pegar: Vicente mostra as conquistas do dia: I]pegou quatro piaparas.,
+     pescar: A colônia de pescadores de São Francisco do Sul [pescou 12 toneladas de tainha na praia da Enseada, na última semana.,}
+Chave: PESCAR <verb.competition>
+ILI: 01105530
+
+Sense 2
+{01105530} <verb.competition> fish -- (catch or try to catch fish or shellfish; "I like to go fishing on weekends")
+       => {01398038} <verb.contact> catch, grab, take hold of1 -- (take hold of so as to seize or restrain or stop the motion of; "Catch the ball!"; "Grab the elevator door!")
+           => {01175818} <verb.contact> seize, prehend, clutch -- (take hold of; grab; "The salesclerk quickly seized the money on the counter"; "She clutched her purse"; "The mother seized her child by the arm"; "Birds of prey often seize small mammals")
+               => {01177510} <verb.contact> take, get hold of -- (get into one's hands, take physically; "Take a cookie!"; "Can you take this bag, please")

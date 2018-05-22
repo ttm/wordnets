@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA4016
+
+DADO O SYNSET:
+
+S='Glosa4016'
+{   instar: Terminada a história, José Manuel começou a [instar D. Maria que lhe desse explicação das palavras duvidosas que há pouco havia dito a seu respeito.,
+     pedir: Talvez pudesse merecer o perdão da menina; e por isso I]pedia com instância a Isabel que lhe declarasse o motivo por que Cecília a havia enganado.,}	  
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4016' = “implorar persistente e urgentemente”
+{    instar: Manoel Barreto I]instava para que evitassem "repetidas sangrias em pequenas gravidezes".,
+     insistir: Silvio Santos I]insistia para que a família andasse com seguranças.,}	  
+	  
+A='Glosa772'
+{reduzir}
+Chave: INSISTIR <verb.communication>
+ILI: 00752263
+
+Sense 2
+{00752263} <verb.communication> importune, insist3 -- (beg persistently and urgently; "I importune you to help them")
+       => {00734342} <verb.communication> beg, implore, pray1 -- (call upon in supplication; entreat; "I beg you to stop!")
+           => {00734574} <verb.communication> plead -- (appeal or request earnestly; "I pleaded with him to stop")
+               => {00730627} <verb.communication> appeal, invoke4 -- (request earnestly (something from somebody); ask for aid or protection; "appeal to somebody for help"; "Invoke God in times of trouble")
+                   => {00727992} <verb.communication> request1, bespeak, call for4, quest1 -- (express the need or desire for; ask for; "She requested an extra bed in her room"; "She called for room service")
+                       => {00717906} <verb.communication> communicate1, pass on, pass1, put across -- (transmit information ; "Please communicate this message to all employees")
+                           => {02167243} <verb.possession> convey10, transmit10, communicate10 -- (transfer to another; "communicate a disease")
+                               => {02167764} <verb.possession> transfer1 -- (move from one place to another; "transfer the data"; "transmit the news"; "transfer the patient to another hospital")
+                                   => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

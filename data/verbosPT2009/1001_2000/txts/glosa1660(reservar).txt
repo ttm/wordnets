@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA1660
+
+DADO O SYNSET:
+
+S='Glosa1660'
+{embaular: x,
+ esconder: Carlos Alberto, que está preso, deve levar hoje os policiais até o local onde [escondeu as facas usadas para matar seus pais. ,
+ guardar: Ele conta que [guardou todo o dinheiro em uma aplicação.,
+ reservar: H]Reservou uma parte do dinheiro.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1660' = “providenciar e reservar [alguma coisa para alguém] antecipadamente”
+{guardar: Desde às 19 horas o público já I]guardava lugares em frente ao palco e nas arquibancadas.,
+ reservar: A organização [reservou esses assentos (4.140 no total) para as torcidas de Émerson e Christian Fittipaldi.,}
+Chave: RESERVAR <verb.social>
+ILI: 02423676
+
+Sense 2
+{02423676} <verb.social> reserve, hold, book1 -- (arrange for and reserve (something for someone else) in advance; "reserve me a seat on a flight"; "The agent booked tickets to the show for the whole family"; "please hold a table at Maxim's")
+       => {00727992} <verb.communication> request1, bespeak, call for4, quest1 -- (express the need or desire for; ask for; "She requested an extra bed in her room"; "She called for room service")
+           => {00717906} <verb.communication> communicate1, pass on, pass1, put across -- (transmit information ; "Please communicate this message to all employees")
+               => {02167243} <verb.possession> convey10, transmit10, communicate10 -- (transfer to another; "communicate a disease")
+                   => {02167764} <verb.possession> transfer1 -- (move from one place to another; "transfer the data"; "transmit the news"; "transfer the patient to another hospital")
+                       => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

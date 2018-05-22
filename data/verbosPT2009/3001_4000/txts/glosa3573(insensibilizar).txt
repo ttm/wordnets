@@ -1,0 +1,72 @@
+ANÁLISE DA GLOSA3573
+
+DADO O SYNSET:
+
+S='Glosa3573'
+	    {
+	      calejar: Episódios como o impeachment de Collor e o escândalo do Orçamento tendem a [calejar o eleitor. ,
+	      empedernecer: O pessimista contamina aqueles com quem vive e I]empedernece os sentimentos, demorando-se indiferente a tudo.,
+	      empedernir: As durezas do egoísmo nas grandes cidades fazzem I]empedernir o coração. ,
+	      empedrenir: x,
+	      emperrar: x,
+	      encruar: O sofrimento A]encruou-lhe o coração.,
+	      encruecer: x,
+	      encruentar: x,
+	      endurar: x,
+	      endurecer: Só o tempo [endurece o coração do guerreiro.,
+	      endurentar: x,
+	      insensibilizar: Burgueses epatáveis ainda existem, mas o acúmulo de agressões a seus ouvidos e pruridos os [insensibilizou e hoje, se reagem, não é em público. / A televisão  pode até I]insensibilizar a criança.,
+	      obdurar: As injustiças de que fora vítima M]obduraram-no.,
+	      petrificar: O ódio é de natureza rude e I]petrifica o coração.,
+	    }
+A='Glosa3336'
+	    {
+	     abrandar: I]Abrandar o coração para com os seus antagonistas.,
+	     amaciar: As coisas mais simples e singelas, que podem I]amaciar o nosso coração, só serão descobertas com uma parada no corre-corre diário.,
+	     amolecer: Em Central, reina Fernanda Montenegro, que brilha das cenas iniciais ao inesquecível final, capaz de I]amolecer o coração do mais insensível dos homens.,
+	     brandear: Seu temperamento H]brandeou com a idade.,
+	     comover: Súplicas acabaram A]comovendo o pai.,
+	     degelar: Teve que H]degelar o espírito para fazer as pazes com o irmão.,
+	     derreter: Estas cenas já não I]derretem mais os corações dos motoristas.,
+	     desempedernecer: x,
+	     desempedernir: Seus rogos acabaram A]desempedernindo o coração paterno.,
+	     desencruar: Deus os M]desencrue.,
+	     embrandecer: O sorriso do guri I]embrandeceu aquele duro coração.,
+	     enternecer: O que me I]enterneceu foi pensar que alguém, um fotógrago, um artista, persiga essa forma de fazer arte.,
+	     maciar: x,
+	     render: O sofrimento A]rende até os mais duros de coração.,
+	     sensibilizar: Eu percebi que há uma violência industrial, que nem te [sensibiliza.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3573' = “fazer insensível”
+	     {calejar: A dor de se perder o que muito foi almejado I]caleja a alma de qualquer pessoa. ,
+	      empedernecer: O pessimista contamina aqueles com quem vive e I]empedernece os sentimentos, demorando-se indiferente a tudo.,
+	      empedernir: As durezas do egoísmo nas grandes cidades fazem I]empedernir o coração. ,
+	      encruar: A metrópole I]encrua a gente.,
+	      endurecer: Só o tempo [endurece o coração do guerreiro.,
+	      insensibilizar: A violência concentrada em filmes, seriados e novelas da televisão sugere a pesquisa, aumenta o grau de tensão na sociedade, I]insensibiliza as pessoas. / O trabalho embrutece, I]insensibiliza e uma das maiores algemas que podemos colocar em nós mesmos é a rotina estressante do dia-a-dia das empresas.,
+	      obdurar: As injustiças de que fora vítima M]obduraram-no.,
+	      petrificar: O ódio é de natureza rude e I]petrifica o coração.,}
+A='Glosa3336'
+	    {abrandar: I]Abrandar o coração para com os seus antagonistas.,
+	     amaciar: As coisas mais simples e singelas, que podem I]amaciar o nosso coração, só serão descobertas com uma parada no corre-corre diário.,
+	     amolecer: Em Central, reina Fernanda Montenegro, que brilha das cenas iniciais ao inesquecível final, capaz de I]amolecer o coração do mais insensível dos homens.,
+	     brandear: Seu temperamento H]brandeou com a idade.,
+	     comover: Súplicas acabaram A]comovendo o pai.,
+	     degelar: Teve que H]degelar o espírito para fazer as pazes com o irmão.,
+	     derreter: Estas cenas já não I]derretem mais os corações dos motoristas.,
+	     desempedernir: Seus rogos acabaram A]desempedernindo o coração paterno.,
+	     desencruar: Deus os M]desencrue.,
+	     embrandecer: O sorriso do guri I]embrandeceu aquele duro coração.,
+	     enternecer: O que me I]enterneceu foi pensar que alguém, um fotógrago, um artista, persiga essa forma de fazer arte.,
+	     render: O sofrimento A]rende até os mais duros de coração.,
+	     sensibilizar: Eu percebi que há uma violência industrial, que nem te [sensibiliza.,}
+
+Chave: INSENSIBILIZA <verb.change>
+ILI: 00263792
+
+Sense 2
+{00263792} <verb.change> desensitize, desensitise -- (make insensitive; "His military training desensitized him")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA2983
+
+DADO O SYNSET:
+
+S='Glosa2983'
+	    {esburacar-se: Cada um levará agora parte do que já gastou com as rodovias federais, pois é melhor do que deixá-las I]esburacando-se. ,
+	      furar-se: O casco I]furou-se, e então ia a água mais a mais penetrando no mesmo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2983' = “Fazer buracos em”
+	    {esburacar-se: A cidade I]se esburacou, ficou suja, abandonada, e o prefeito foi pressionado por seu partido, o PFL, a mudar o enfoque.,
+	      furar-se: O casco I]furou-se, e então ia a água mais a mais penetrando no mesmo.,}
+Chave: ESBURACAR-SE <verb.contact>
+ILI: EQ_HAS_HYPERONYM - 01243793
+
+Sense 2
+{01243793} <verb.contact> hole -- (make holes in)
+       => {01244315} <verb.contact> hollow, hollow out, core out -- (remove the interior of; "hollow out a tree trunk")
+           => {00436730} <verb.change> empty1 -- (make void or empty of contents; "Empty the box"; "The alarm emptied the building")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

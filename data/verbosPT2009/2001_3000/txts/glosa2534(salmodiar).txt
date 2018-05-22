@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2534
+
+DADO O SYNSET:
+
+S='Glosa2534'
+	    {salmear: Logo se ouviu ao longe o I]salmear baixo e sumido de vozes femininas.,
+	      salmodiar: Teu canto agora é um I]salmodiar de arcanjo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2534' = “Cantar ou celebrar em salmos.”
+	    {salmear: Além das grades os frades I]salmeavam as orações da tarde.,
+	      salmodiar: O povo I]salmodiou todo este canto.,}
+
+Chave: SALMODIAR <verb.creation>
+ILI: 01680954
+
+Sense 1
+{01680954} <verb.creation> psalm -- (sing or celebrate in psalms; "He psalms the works of God")
+       => {01680326} <verb.creation> sing -- (produce tones with the voice; "She was singing while she was cooking"; "My brother sings very well")
+           => {00910961} <verb.communication> talk, speak, utter, mouth, verbalize, verbalise -- (express in speech; "She talks a lot of nonsense"; "This depressed patient does not verbalize")
+               => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                   => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                       => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel") 

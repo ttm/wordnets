@@ -1,0 +1,39 @@
+ANÁLISE DA GLOSA3216
+
+DADO O SYNSET:
+
+S='Glosa3216'
+	    {
+	      aniilar: Em poucas palavras H]aniilou o acordo.,
+	      aniquilar: Além de acirrar o incessante conflito distributivo, de [aniquilar tudo o que se fez para melhorar a educação pública, a inflação ameaça agora de perto a própria alma do país: os seus valores e aspirações morais. ,
+	      anonadar: x,
+	      anular: Não há recurso que possa [anular a tua força.,
+	      apagar: São estes os mesmos palestinos que sempre tentaram [apagar qualquer possibilidade de reconciliação com a própria existência de Israel. ,
+	      destruir: E tentou [destruir o mau efeito das suas primeiras palavras.,
+	      inutilizar: Concorrências surgiram para combater este monopólio, com plantações de canforeiro em outros países; porém, a organização japonesa I]inutilizou estas tentativas.,
+	      invalidar: Para os autores, os brancos fizeram tudo para [invalidar cada sinal de superioridade dos negros.,
+	      neutralizar: Burroughs propõe extender a sua prática a todos os códigos totalitários dos meios de massa, a fim de [neutralizar o seu poder e desencadear no interior deles potencialidades novas. ,
+	      nulificar: Num país onde o sistema partidário prima pela debilidade, a política de alianças a qualquer preço termina por I]nulificar as ideologias, aprofundando ainda mais a indiferenciação entre esquerda e direita. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3216' = “declarar inválido” 
+	     {aniilar: Em poucas palavras H]aniilou o acordo.,
+	      aniquilar: A diretoria da INB, ao legislar em causa própria, I]aniquilou a política de pessoal existente, gerando um ambiente de desestímulo e falta de credibilidade. ,
+	      anular: A juíza Márcia I]anulou as punições porque o poder concedente do setor aéreo recuou após a multa.,
+	      apagar: Ele [apagou a fina linha que havia entre os dois, o limite entre a ficção e a pessoa. ,
+	      destruir: movimentação forçada [destruiu o esquema-pebolim e garantiu a classificação.,
+	      inutilizar: Detectado o erro, a CPI I]inutilizou o material e abriu sindicância interna.,
+	      invalidar: A medida [invalidou ato jurídico perfeito, pois considerou inexistentes contratos que estavam legalmente celebrados.,
+	      neutralizar: Esse fator político [neutralizou os efeitos negativos resultantes da crise de liquidez dos pequenos bancos no mercado interbancário. ,
+	      nulificar: A falta de exame de corpo de delito não I]nulifica a sentença quando a condenação está embasada em outros elementos bastantes de prova. ,}
+Chave: ANULAR <verb.social>
+ILI: 02403814
+
+Sense 1
+{02403814} <verb.social> invalidate, annul, quash1, void, avoid, nullify -- (declare invalid; "The contract was annulled"; "void a plea")
+       => {02403187} <verb.social> cancel, strike down -- (declare null and void; make ineffective; "Cancel the election results"; "strike down a law")
+           => {00795481} <verb.communication> declare4, adjudge, hold11 -- (declare to be; "She was declared incompetent"; "judge held that the defendant was innocent")
+               => {00647983} <verb.cognition> judge -- (form an opinion of or pass judgment on; "I cannot judge some works of modern art")
+                   => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

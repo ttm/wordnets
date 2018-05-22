@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0348B
+
+DADO O SYNSET:
+
+S='Glosa348'
+{acidificar: Sucede que os íons hidrogênio são prejudiciais à célula, pois [acidificam o citoplasma.,
+acrimoniar: H]Acrescentou limão para acrimoniar o molho.,
+azedar: O gerente de produtos de suco da Parmalat, diz que o processo do longa vida implica em aquecer o suco, o que elimina as bactérias que poderiam [azedar o produto.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa348' = “tornar azedo ou mais azedo”
+{azedar: O gerente de produtos de suco da Parmalat, diz que o processo do longa vida implica em aquecer o suco, o que elimina as bactérias que poderiam [azedar o produto.,}
+Chave: AZEDAR verb.perception
+ILI: 02133778
+
+Sense 1
+{02133778} <verb.perception> sour, acidify, acidulate, acetify -- (make sour or more sour)
+       => {02134036} <verb.perception> change taste -- (alter the flavor of)
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

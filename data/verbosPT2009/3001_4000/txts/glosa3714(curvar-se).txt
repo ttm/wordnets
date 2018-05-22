@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA3714
+
+DADO O SYNSET:
+
+S='Glosa3714' = “submeter-se ou ceder a outro desejo ou opinião”
+{ceder: Basta de [ceder a tudo; o meu dever é resistir.,
+	 curvar-se: A Rússia, que convenceu seus aliados sérvios a [curvar-se ao ultimato da Otan em troca do envio de tropas russas a Sarajevo, propôs uma reunião de cúpula com EUA, Reino Unido, França e Alemanha para pressionar pela paz.,
+ dobrar-se: O rapaz começou em tentativas, em promessas, em partidos para com a cigana, que a coisa alguma queria [dobrar-se.,
+	 patear: x,
+	 sucumbir: Não pode haver luta, vou [sucumbir; cairei ao primeiro golpe.}
+ A='Glosa2699'
+	 	{agüentar, relutar, resistir, suportar}
+
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3714' = “submeter-se ou ceder ao desejo ou opinião de outrem”
+{ceder: Basta de [ceder a tudo; o meu dever é resistir.,
+	 curvar-se: A Rússia, que convenceu seus aliados sérvios a [curvar-se ao ultimato da Otan em troca do envio de tropas russas a Sarajevo, propôs uma reunião de cúpula com EUA, Reino Unido, França e Alemanha para pressionar pela paz.,
+ dobrar-se: O rapaz começou em tentativas, em promessas, em partidos para com a cigana, que a coisa alguma queria [dobrar-se.,
+	 sucumbir: Não pode haver luta, vou [sucumbir; cairei ao primeiro golpe.,}
+ A='Glosa2699'
+	 	{agüentar, relutar, resistir, suportar}
+Chave: CURVAR-SE <verb.communication>
+ILI: 00594989
+
+Sense 2
+{00594989} <verb.communication> submit2, bow1, defer, accede, give in2 -- (submit or yield to another's wish or opinion; "The government bowed to the military pressure")
+       => {00546749} <verb.communication> yield, give in1, succumb, knuckle under, buckle under -- (consent reluctantly)
+           => {00541962} <verb.communication> accept, consent, go for -- (give an affirmative reply to; respond favorably to: "I cannot accept your invitation"; "I go for this resolution")
+               => {00684295} <verb.communication> affirm1 -- (say yes to)

@@ -1,0 +1,48 @@
+ANÁLISE DA GLOSA3940
+
+DADO O SYNSET:
+	
+S='Glosa3940'
+    	{alardar: x,
+      	 alardear: No momento em que votaram, na manhã de ontem, tanto Cafeteira quanto Roseana [alardeavam a vitória .,
+      	 arrotar: Como Bush, o Júnior e Saddam Hussein, que I]arrotavam valentia.,
+      	 arvorar: A]Arvora um sentimento de altruísmo.,
+      	 bazofiar: M]Bazofiou conhecimentos que não possuía.,
+      	 blasonar: A]Blasona a alta posição que conseguiu à custa de amigos influentes.,
+      	 encenar: Gosta de A]encenar autoridade.,
+      	 estadear: Empertiga-se, I]estadeando novos relevos, novas linhas na estatura e no gesto; e a cabeça firma-se-lhe, alta, sobre os ombros possantes, aclarada pelo olhar desassombrado e forte; e corrigem-se-lhe, prestes, numa descarga nervosa instantânea, todos os efeitos do relaxamento habitual dos órgãos; e da figura vulgar do tabaréu canhestro, reponta, inesperadamente, o aspecto dominador de um titã acobreado e potente, num desdobramento surpreendente de força e agilidade extraordinárias .,
+      	 exibir: Ao desenvolver esse entrecho de fábula, Eco volta a [exibir sua erudição, desta vez sobre temas como a longitude, a astronomia e a anatomia no início da Época Moderna .,
+      	 galhardear: M]Galhardeia sua vistosa farda.,
+      	 garrir: x,
+      	 louçainhar: Vaidoso, H]louçainhava com cuidado.,
+      	 louçanear: x,
+      	 ostentar: Nos primeiros anos, não [ostentava nem o bigode a la príncipe prussiano, nem a barba .,
+      	 paparrotear: x,
+      	 parlapatear: Metido a M]parlapatear.,
+      	 pompear: Ali I]pompearam o luxo e a riqueza, o que havia de melhor na época.,
+      	 pracear: DEVIANT,
+      	 pregar3: Passado o perigo, o covarde A]prega valentia.,
+      	 trombetear: E apontar que já na edição de quarta-feira alguns efeitos da discussão se faziam sentir: ao narrar o caso do possível envolvimento de mulher e filha no assassinato de um comerciante de São Bernardo do Campo, em nenhum momento o jornal [trombeteou em títulos essa nebulosa participação .,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3940' = “exibir [algo] com orgulho; agir com ostentação ou com pretensão/arrogância”
+    	{alardear: No momento em que votaram, na manhã de ontem, tanto Cafeteira quanto Roseana [alardeavam a vitória.,
+      	 arrotar: Como Bush, o Júnior e Saddam Hussein, que I]arrotavam valentia.,
+      	 arvorar: O relator João Alberto I]arvorou o seu ar mais sério para declarar às emissoras de TV que tampouco aprendera algo de novo com a aula de Mercadante.,
+      	 bazofiar: Não custava nada I]bazofiar numa roda de esquina que se pretendia isto ou aquilo.,
+      	 blasonar: O fato é que o inimigo desferiu pesadíssimos golpes sobre as organizações partidárias das cidades e I]blasonou ter, assim, isolado grandemente a guerrilha.,
+      	 encenar: Ele passou a I]encenar que é favorável à democracia.,
+      	 estadear: Jairo não I]estadeia seus méritos.,
+      	 exibir: Collor [exibia sua presunção se exercitando nos finais de semana.,
+      	 galhardear: A bandeira deflagrada pelo General Horta Barbosa I]galhardeava o monopólio integral do Estado, encimando o slogan “o petróleo é nosso”.,
+      	 ostentar: O noivo, por sua vez, [ostenta a bela profissão de médico, o que parece deixá-lo acima de qualquer suspeita.,
+      	 pompear: Ali I]pompearam o luxo e a riqueza, o que havia de melhor na época.,
+      	 trombetear: As doutrinas religiosas do passado oferecem seiva ao materialismo que I]trombeteava as suas vanglorias embora de curta duração.}
+Chave: OSTENTAR <verb.perception>
+ILI: 02080002
+
+Sense 1
+{02080002} <verb.perception> flaunt, flash1, show off, ostentate, swank -- (display proudly; act ostentatiously or pretentiously; "he showed off his new sports car")
+       => {02078062} <verb.perception> expose, exhibit1, display -- (to show, make visible or apparent; "The Metropolitan Museum is exhibiting Goya's works this month"; "Why don't you show your nice legs and wear shorter skirts?"; "National leaders will have to display the highest skills of statesmanship")
+           => {02075197} <verb.perception> show -- (make visible or noticeable; "She showed her talent for cooking"; "Show me your etchings, please")

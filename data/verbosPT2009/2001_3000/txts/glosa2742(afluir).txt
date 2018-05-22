@@ -1,0 +1,35 @@
+ANÁLISE DA GLOSA2742
+
+DADO O SYNSET:
+
+S='Glosa2742'
+	    {acorrer: x,
+	      acudir: x,
+	      afluir: Considerando-se, no entanto, a freqüência com que esses episódios ocorrem, pode-se considerar que as praias são classificadas quase que exclusivamente pela quantidade de esgotos sanitários que a elas I]afluem, expressa pela densidade de coliformes fecais.,
+	      concorrer: Os fertilizantes químicos, inorgânicos, arrastados pelas águas de chuva para córregos e rios, provenientes de lavouras, I]concorrem para contaminar essas águas correntes que, em determinadas épocas do ano, acabam por se transformar em um veículo dinâmico, distribuidor de partículas toxicas e propagador de doenças de várias espécies.,
+	      confluir: Segundo rio é o Tajáhi, que nasce no sertão que hoje pertence á Capitania de S. Paulo; e diz-se que atravessa o caminho, que vai da Curitiba para o continente do Rio Grande (o que não afirmo): este rio recebe por ambas as suas margens outros muitos do sertão de Santa Catarina, sendo pela do sul que lhe entra o rio de Ta-jáhi-merim, que tem as suas cabeceiras nas vizinhanças das faldas de leste da referida Serra Geral, e do campo do Governador, e corre para o norte entre aquela Serra e o campo da Boa Vista: o Tajáhi vai I]confluir no Oceano pela latitude de 26o 58', aonde forma um pequeno e seguro porto com barra, em que poderá entrar Curvetas.,
+	      convergir: As helicônias gostam de solos ricos em matéria orgânica e preferem os locais mais baixos do jardim - para onde I]convergem as águas de drenagem superficial.,
+	      refluir: Quando o ácido e as enzimas do estômago repetidamente I]refluem para dentro do esôfago, este torna-se inflamado e ulcerado.,
+	      regolfar: x,}
+
+	  A='Glosa355'
+	    {divergir: Conservava sua figura morena sempre à vista e, ao nos aproximarmos do ponto em que nossos caminhos [divergiam, apressava o andar e passava à sua frente.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2742' = “Mover ao longo de (líquidos)”
+	    { afluir: A entrada em operação dos sistemas públicos de tratamento de esgoto produziu uma maior redução nas cargas poluidoras que I]afluem aos corpos d'água da Bacia.,
+                   concorrer: Alguns efluentes industriais também I]concorrem para as descargas de nitrogênio orgânico e amoniacal nas águas.,
+	      confluir: Formado por dois rios que I]confluem para formar um único curso de água.,
+	      convergir: Seus limites são os cursos d’água que I]convergem para um mesmo ponto.,}
+
+	  A='Glosa355'
+	    {divergir}
+
+Chave: AFLUIR <verb.motion>
+ILI: 02008364 
+
+Sense 2
+{02008364} <verb.motion> run1, flow, feed4, course -- (move along, of liquids; "Water flowed into the cave"; "the Missouri feeds into the Mississippi")
+       => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right")
+          Also See-> {02556028} <verb.stative> flow from#1 

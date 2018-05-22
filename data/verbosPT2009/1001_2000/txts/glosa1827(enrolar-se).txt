@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA1827
+
+DADO O SYNSET:
+
+S='Glosa1827'
+{enrodilhar-se: Esse alguém era a Cobra-Grande dona de poderes mágicos e que não precisava de escuridão para dormir, lhe bastava uma árvore para I]enrodilhar-se.,
+ enrolar-se: O presidente era o general Médici, considerava-se o torcedor número um, no dia da final com a Itália [enrolou-se na bandeira nacional.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1827' = “fazer um movimento de rolar ou enrolar”
+{enrodilhar-se: A água estremecia na queda, como que se [enrodilhava e vinha pulverizar-se numa grande bacia de pedra, mugindo e roncando.,
+ enrolar-se: A Glomeris marginata I]enrola-se como uma medida de proteção.,}
+Chave: ENROLAR-SE <verb.motion>
+ILI: 01813728
+
+Sense 1
+{01813728} <verb.motion> roll over -- (make a rolling motion or turn; "The dog rolled over")
+       => {01851475} <verb.motion> turn -- (change orientation or direction, also in the abstract sense; "Turn towards me"; "The mugger turned and fled before I could see his face"; "She turned from herself and learned to listen to others' needs")
+           => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right")

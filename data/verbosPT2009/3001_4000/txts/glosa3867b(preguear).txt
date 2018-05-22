@@ -1,0 +1,53 @@
+ANÁLISE DA GLOSA3867
+
+DADO O SYNSET:
+
+S='Glosa3867'
+{ababadar: Ela H]ababadou a cortina com as mãos ,
+ arrepanhar: As damas, finamente envolvidas nas ondas dos seus pufes, subiam, [arrepanhando a cauda, aos salões do baile, pelo braço de homens sérios de casaca . ,
+ avincar: a mobilidade do globo visual para o revirar ao céu, quando o ânimo afecta confrangir-se com a notícia dum escândalo; franzir os beiços e [avincar a testa,
+ corrugar: O modelo [corrugoso amortece grandes impactos .,
+ crispar: O milharal H]crispava-se todo sob a tempestade,
+ dobrar: x,
+ embabadar: DEVIANT,
+ encrespar: Esses produtos, mais conhecidos por straight, agem, sobretudo, no cabelo das têmporas que, mais finos, tendem a I]encrespar com facilidade.,
+ engelhar: O tempo H]engelha a pele.,
+ enrugar: Atualmente, usa-se calças com comprimento um dedo acima do salto, para não I]enrugar na frente, formando duas e até três dobras sobre os sapatos.,
+ franger: x,
+ frangir: o Startle ocorre em aproximadamente 50% dos bebês, devendo, também, ocorrer as respostas de atenção ao som (I]frangir testa, arregalar olhos ... ,
+ franzir: Jogando com os valores desses parâmetros, pode-se fazer, por exemplo, puxar os lábios para trás, simulando felicidade, enrugar a testa para simular raiva, [franzir o nariz para simular nojo e assim por diante .,
+ plicar: x,
+ pregar2: M]Pregar as mangas em um paletó.,
+ preguear: Sempre I]pregueava um vestido. ,
+ repanhar: x,
+ rugar: Álvaro vendo-o aproximar-se [rugou o sobrolho; depois do que se tinha passado na véspera e nessa manhã, odiava aquele homem ou antes, desprezava-o . ,
+ vincar: Os longos anos vividos M] vincaram o rosto da baronesa.,}
+	  
+A='Glosa1515'
+{alisar, desenrugar, desfranzir, deslisar, despregar2, desrugar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3867b' = “fazer pregas ou ondulações”
+{ababadar: A gola I]ababadou ao lavar a peça?,
+ corrugar: A ondulação da folha central é obtida amolecendo o papel com vapor d'água e I]corrugando-o sobre um cilindro provido de ranhuras.,
+crispar: Uma lufada de vento I]crispou a superfície da água.,
+ 	embabadar: A gola I]embabadou ao lavar a peça?,
+ 	encrespar: O mar passou de azul sereno a verde taciturno, e a corrente nos atingiu como uma ventania, I]encrespando os campos arroxeados de corais.,
+ 	engelhar: O vento do oriente é muito seco e faz I]engelhar a pele.,
+ 	enrugar:  O lento avanço da Índia em direção ao continente asiático I]enrugou a crosta terrestre.,
+ 	franzir: Vento nordeste começa a I]franzir a superfície das águas da Lagoa dos Barros às 9h30.,
+ 	preguear: Certos tipos de máquinas podem executar operações comuns, tais como cortar, dentear, perfurar ou I]preguear os tecidos.,
+ 	vincar: Linhas de expressão se aprofundam, I]vincando a pele e trazendo um semblante mais endurecido.}
+	  
+A='Glosa1515'
+{alisar, desfranzir}
+
+Chave: PREGUEAR <verb.contact>
+ILI: 01347036
+
+Sense 9
+{01347036} <verb.contact> ruffle, pleat -- (pleat or gather into a ruffle; "ruffle the curtain fabric")
+       => {01239868} <verb.contact> fold, fold up, turn up -- (bend or lay so that one part covers the other; "fold up the newspaper"; "turn up your collar")
+           => {00345030} <verb.change> change surface -- (undergo or cause to undergo a change in the surface)
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

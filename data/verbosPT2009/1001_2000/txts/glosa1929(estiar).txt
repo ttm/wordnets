@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA1929
+
+DADO O SYNSET:
+
+S='Glosa1929'
+{escampar: x,
+ estiar: Até a chuva [estiar, por volta das 10h, quase ninguém conseguiu chegar ou sair para o trabalho.,}
+	  
+A='Glosa1930'
+{chover}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1929' = “parar de chover”
+{estiar: Assim que o tempo I]estiou, começaram a aprontar os equipamentos.}
+	  
+A='Glosa1930'
+{chover}
+Chave: ESTIAR <verb.stative>
+ILI: EQ_HAS_HYPERONYM – 01806883
+
+Sense 1
+{01806883} <verb.motion> stop, halt1 -- (come to a halt, stop moving; "the car stopped"; "She stopped in front of a store window")

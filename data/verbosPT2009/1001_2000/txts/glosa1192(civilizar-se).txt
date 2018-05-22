@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA1192
+
+DADO O SYNSET:
+
+S='Glosa1192'
+{civilizar-se: O homem faz-se outra vez homem ao I]civilizar-se pela criação.,
+ desbarbarizar-se: E foi graças a essa prata, graças a essa frágil lenda, que o Brasil principiou a desbravar-se e I]desbarbarizar-se. ,
+ domesticar-se: A idéia do mercosul e dessa costa fantástica do Brasil tende a incentivar de tal modo que o porto não deveria sair da cidade mas, I]domesticar-se, urbanizar-se. ,}
+	  
+A='Glosa1678'
+	    {abrutalhar-se, animalizar-se, barbarizar-se, bestializar-se, brutalizar-se, brutificar-se, descivilizar-se, embrutecer-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1192' = “elevar-se de um estado bárbaro para um civilizado”
+{civilizar-se: Alguns amigos de Mailer, que esfaqueou a segunda das seis mulheres numa festa, dizem que com a idade ele [se civilizou tanto que ficou aborrecido.,
+ desbarbarizar-se: Cada um de nós precisa ajudar a espécie humana a evoluir, a I]se desbarbarizar, a merecer o adjetivo humana em seu sentido nobre.,
+ domesticar-se: Os apresentadores enfatizam o perigo que ronda suas vidas e os caras parecem gostar de serem mostrado como animais ferozes que I]se domesticaram.,}
+A='Glosa1678'
+	    {abrutalhar-se, animalizar-se, barbarizar-se, bestializar-se, brutalizar-se, brutificar-se, descivilizar-se, embrutecer-se}
+Chave: CIVILIZAR-SE <verb.change>
+ILI: 00399222
+
+Sense 2
+{00399222} <verb.change> civilize1, civilise1 -- (raise from a barbaric to a civilized state; "The wild child found wandering in the forest was gradually civilized")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

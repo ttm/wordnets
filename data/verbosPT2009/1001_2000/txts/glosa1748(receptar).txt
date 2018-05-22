@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA1748
+
+DADO O SYNSET:
+
+S='Glosa1748'
+{encobrir: Em algum período de 1609, ela matou uma joven nobre e I]encobriu o fato dizendo que fora suicídio. ,
+ receptar: Foi condenado por haver A]receptado o furto.  ,
+ recobrir: A minha provocadora crónica onde, sob o manto diáfano da ironia e da ficção, tentava I]recobrir a violência da verdade, teve, como resposta, aquele que há-de ser um dos mais belos e corajosos discursos de revolta individual da actual literatura portuguesa. ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1748' = “receber mercadorias roubadas”
+{encobrir: A empresa de fachada comprava algas dos pescadores de Carrizal, que I]encobria o contrabando durante as viagens.,
+ receptar: Professor utilizava vagas na garagem de prédio do Alfabarra para [receptar veículos trazidos de outros estados por quadrilha.,}
+Chave: RECEPTAR <verb.possession>
+ILI: 02147090
+
+Sense 2
+{02147090} <verb.possession> fence -- (receive stolen goods)
+       => {02146575} <verb.possession> receive, have3 -- (get something; come into possession of; "receive payment"; "receive a gift"; "receive letters from the front")
+           => {02147191} <verb.possession> get, acquire -- (come into the possession of something concrete or abstract; "She got a lot of paintings from her uncle"; "They acquired a new pet"; "Get your results the next day"; "Get permission to take a few days off from work")

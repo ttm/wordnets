@@ -1,0 +1,44 @@
+ANÁLISE DA GLOSA3082a
+
+DADO O SYNSET:
+
+S='Glosa3082'
+	    {
+	      consignar: DEVIANT,
+	      contar: Isto é, deslocava sempre a narração, [contando os fatos a partir de um personagem, depois de outro, em seguida de um terceiro.,
+	      declarar: Ao [declarar tamanha sandice, Romário deve estar se achando esperto, malandro, carioquíssimo, quando está sendo apenas infantil. ,
+	      desfiar: No encontro, Amazonino vai aproveitar para [desfiar todos os seus ideais liberais, e na quinta-feira assina ficha no PFL, na presença de Maciel, é claro.,
+	      dizer: Continuam nos [dizendo que todas as mães são loiras, que todas as famílias são felizes, que nosso carro representa nosso poder e nossa potência até física e social.,
+	      enarrar: Assim, tudo em silencio, o padre Enéas divinos fados I]enarrava, e expunha.,
+	      esfiar: Para quê I]esfiar miudamente o lance lamentável?,
+	      expor: O modo de [expor o monólogo interior torna instigantes os «fantasmas», temores e hesitações de Devinne.,
+	      historiar: E quero já adiantar antes de [historiar alguns fatos que podem não ser do conhecimento geral que o juízo dos leitores é devastador.,
+	      mencionar: Num outro plano devemos [mencionar as dificuldades de modernização das relações de trabalho.,
+	      narrar: Rapina [narrará fatos reais e recentes do mercado financeiro no Brasil, mas os personagens terão nomes fictícios.,
+	      recontar: Isso não significa [recontar a história espanhola através das gravuras goyescas, nem tampouco contemporâneas de representação da guerra.transcendendo o nível factual circunscrito à Guerra de Independência.,
+	      referir: Cabe ao serviço responsável pala apresentação I]referir os fatos relevantes da história clínica e apenas citar os exames laboratoriais e de imagem que tenham sido realizados.,
+	      relatar: O Poema da Criação [relata a formação do mundo, o triunfo do deus Marduk sobre todos os deuses e a criação do homem com barro e sangue de dragão.,
+	      soletrar: I]Soletrar as diferentes histórias que, ao serem contadas, organizam e legitimam visões de mundo e, enfim, soletrar as repetições simplificadas e apaziguadoras dessas histórias, que reforçam e banalizam versões, transformando-as em verdades. ,
+	    }
+
+
+A ANÁLISE RESULTA EM:
+S='Glosa3082a' = “narrar ou dar um relato detalhado”
+                  {contar: Mary Shelley no século 19, I]contou a história do Dr. Frankenstein.,
+	      desfiar: Eugênia I]desfiou uma historiazinha de toucador, que omito em suas particularidades por não interessar ao nosso caso.,
+	      enarrar: Assim, tudo em silencio, o padre Enéas divinos fados I]enarrava, e expunha.,
+	      esfiar: Para quê I]esfiar miudamente o lance lamentável?,
+	      historiar: Mauricio Dimepi I]historiou a saga de Hipólito José da Costa, fundador do Correio Braziliense, lembrado em seus 180 anos de falecimento.,
+	      narrar: Rapina [narrará fatos reais e recentes do mercado financeiro no Brasil, mas os personagens terão nomes fictícios.,
+	      recontar: Mais tarde Harrer I]recontou esta escalada no livro The White Spider.,
+	      relatar: O Poema da Criação [relata a formação do mundo, o triunfo do deus Marduk sobre todos os deuses e a criação do homem com barro e sangue de dragão.,
+	      soletrar: I]Soletrou penosamente a prosa do filho, um rapagão educado e bem falante que até liceu tinha.,}
+Chave: CONTAR <verb.communication>
+ILI: 00921620
+
+Sense 3
+{00921620} <verb.communication> tell1, narrate, recount, recite1 -- (narrate or give a detailed account of; "Tell what happened"; "The father told a story to his child")
+       => {00804489} <verb.communication> inform -- (impart knowledge of some fact, state or affairs, or event to; "I informed him of his rights")
+           => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+               => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

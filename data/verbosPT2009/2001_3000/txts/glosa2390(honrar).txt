@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA2390
+
+DADO O SYNSET:
+
+S='Glosa2390'
+	    {acatar: Não se trata de atender às demandas da criança, sempre e prontamente, trata-se de I]acatar, ouvir, acarinhar, acalentar com ela um sonho e devolver-lhe a esperança nas pessoas e no futuro.,
+	      honrar: O Grammy é uma coisa comprada, que[honra apenas gente de pele branca.,
+	      respeitar: Não é um grande instrumentista, mas eu [respeito seu trabalho, define Markus.,
+	      reverenciar: A propósito, o nome do presidente do Palmeiras é Mustafá Contursi, a quem [reverencio pelo abençoado anonimato.,
+	      sagrar: Ele retorna, para sagrar a libertação do homem, para I]sagrar a vida onde antes só havia morte.,
+	      temer: A Bíblia nos alerta para a necessidade de I]temer a Deus.,
+	      venerar: Edith costurou seu primeiro vestido aos 10 anos, ama os gatos e [venera Coco Chanel.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2390' = “Considerar com sentimentos de respeito e veneração; considerar abençoado ou enaltecido ou ter um grande respeito a.”
+	    {acatar: Técnico não [acata pesquisa.,
+	      honrar: O paciente I]honrava o médico, reconhecia sua dignidade.,
+	      respeitar: Não podia me habilitar à rotina das autoridades financeiras de um país que eu tanto amava e [respeitava.,
+	      reverenciar: Mas a mitologia germânica [reverenciava bem mais o herói morto.,
+	      sagrar: O bispo tradicionalista Lefèvre I]sagrava três bispos de sua igreja.,
+	      temer: Se alguém I]teme a Deus e pratica a sua vontade.,
+	      venerar: O mundo árabe [venerava as pedras.,}
+
+Chave: HONRAR <verb.emotion>
+ILI: 01726962
+
+Sense 1
+{01726962} <verb.emotion> reverence, fear1, revere, venerate -- (regard with feelings of respect and reverence; consider hallowed or exalted or be in awe of; "Fear God as your father"; "We venerate genius")
+       => {00670967} <verb.cognition> respect, esteem1, value1, prize, prise -- (regard highly; think much of; "I respect his judgement"; "We prize his creativity")
+           => {00667530} <verb.cognition> see, consider, reckon, view, regard -- (deem to be; "She views this quite differently from me"; "I consider her to be shallow"; "I don't see the situation quite as negatively as you do")
+               => {00666260} <verb.cognition> think1, believe4, consider8, conceive -- (judge or regard; look upon; judge; "I think he is very smart"; "I believe her to be very smart"; "I think that he is her boyfriend"; "The racist conceives such people to be inferior")
+                   => {00647983} <verb.cognition> judge -- (form an opinion of or pass judgment on; "I cannot judge some works of modern art")
+                       => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere") 

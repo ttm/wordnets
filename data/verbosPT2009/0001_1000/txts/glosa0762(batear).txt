@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0762
+
+DADO O SYNSET:
+
+S='Glosa762'
+{batear: Em 1737, os irmãos Siqueira que tinham partido com numerosa tropa para I]batear ouro no rio das Mortes, tiveram a bagagem saqueada e todos os escravos mortos.,
+bateiar: Animados, os Jesuítas chegaram a construir túneis para desviar a água de seus cursos naturai ,para que pudessem I]bateiar ouro e pedras preciosas nas terras da colônia.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa762' = “lavar com bateia para separar os minerais preciosos”
+{batear: Em 1737, os irmãos Siqueira que tinham partido com numerosa tropa para I]batear ouro no rio das Mortes, tiveram a bagagem saqueada e todos os escravos mortos.,
+bateiar: Animados, os Jesuítas chegaram a construir túneis para desviar a água de seus cursos naturai ,para que pudessem I]bateiar ouro e pedras preciosas nas terras da colônia.,}
+Chave: BATEAR <verb.contact>
+ILI: 01494011
+
+Sense 2
+{01494011} <verb.contact> pan, pan out, pan off -- (wash dirt in a pan to separate out the precious minerals)
+       => {01493847} <verb.contact> wash1 -- (separate dirt or gravel from (precious minerals))
+           => {01417512} <verb.contact> separate2 -- (divide into components or constituents; "Separate the wheat from the chaff")
+               => {00135037} <verb.change> change integrity -- (change in physical make-up)
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

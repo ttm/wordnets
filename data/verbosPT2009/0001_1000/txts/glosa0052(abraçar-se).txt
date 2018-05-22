@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA0052
+
+DADO O SYNSET:
+
+S='Glosa52'
+{abarcar-se: DEVIANT,
+abraçar-se: E [abraçou-se à avó vibrando toda numa convulsão de soluços.,
+apertar-se: I]Apertou-se contra o peito que o amparava.,
+cingir-se: A]Cingiu-se aos braços do amado.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa52' = “abraçar(-se), geralmente com afeição”
+{abraçar-se: E [abraçou-se à avó vibrando toda numa convulsão de soluços.,
+apertar-se: I]Apertou-se contra o peito que o amparava.,
+cingir-se: Ubirajara [cingiu ao peito, com um e outro braço, a esposa e a virgem.,}
+
+Chave: ABRAÇAR-SE <verb.contact>
+ILI: 01383729 
+
+Sense 2
+{01383729} <verb.contact> embrace, hug1, bosom, squeeze4 -- (hug, usually with fondness; "Hug me, please"; "They embraced")
+       => {01179612} <verb.contact> clasp -- (hold firmly and tightly)
+           => {01179249} <verb.contact> grasp, hold on -- (hold firmly)
+               => {01179760} <verb.contact> hold, take hold -- (have or hold in one's hands or grip; "Hold this bowl for a moment, please"; "A crazy idea took hold of him")

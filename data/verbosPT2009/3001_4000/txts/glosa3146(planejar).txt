@@ -1,0 +1,46 @@
+ANÁLISE DA GLOSA3146
+
+DADO O SYNSET:
+
+S='Glosa3146'
+{arquitetar: Telê Santana soube perfeitamente [arquitetar um esquema para contemplar a bela safra de meio-campistas que dispunha: Sócrates, Cerezzo, Zico e Falcão . ,
+	 delinear: Nossa inflação tem uma grande variedade de causas e, portanto, [delinear um plano que ataque completamente todas as causas não é tarefa fácil . ,
+	 detalhar: Depois de um ano de brigas, os dois marcaram um encontro este fim de semana para [detalhar as bases da aliança PSDB-PFL visando a disputa da prefeitura do Rio. ,
+	 dispor: M]Dispor  uma cilada.,
+	 engenhar: Amantes irrestritos da liberdade, intelectualmente preparados para [engenhar instituições justas, sempre foram os seus coveiros...,
+	 esboçar: Seu objetivo é [esboçar um conceito de ciência bastante diverso do que pode emergir dos registros históricos da própria atividade de pesquisa.,
+	 idear: Todo sistema de pensamento fundado na esperança de [idear um sistema de valor neutro da representação está fadado à dissolução quando a área das coisas que ele remete à obscuridade vem à tona. ,
+	 incubar: Entre as suas funções está compensar os riscos de inovação, I]incubar empreendimentos promissores, e disseminar estórias de sucesso.,
+	 maquinar: Mas 30 anos depois, Pequim preferiu [maquinar a política «um casal, um filho», a fim de priorizar o crescimento econômico . ,
+	 pensar: Adoro [pensar um projeto, viabilizar cada detalhe, pensar no mercado, armar o circo, confessa.,
+	 planear: I]Planear a realização de um objectivo.,
+	 planejar: O Exército israelense armou um grande esquema de segurança para dinamitar a casa de Muhyi el-Deen, acusado de [planejar atentados terroristas contra Israel.,
+	 projetar: Em todos os setores onde se visa [projetar estratégias, incrementar as capacidades de previsão e intervenção, as imagens sintéticas certamente estão lá, manipulando uma matemática sofisticadíssima.,
+	 traçar1: Os advogados de Paulo César Farias reúnem-se amanhã em Brasília para [traçar a estratégia dos recursos que serão movidos para tentar libertar PC. ,
+	 tracejar: Usar a criatividade para constituir a inovação e a partir dela I]tracejar o modo de aportar recursos materiais e financeiros obtendo como resultado uma sinergia positiva consubstanciada na melhoria da aprendizagem.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3146' = “fazer ou elaborar um plano [para]; planejar”
+{arquitetar: Telê Santana soube perfeitamente [arquitetar um esquema para contemplar a bela safra de meio-campistas que dispunha: Sócrates, Cerezzo, Zico e Falcão . ,
+	 delinear: Nossa inflação tem uma grande variedade de causas e, portanto, [delinear um plano que ataque completamente todas as causas não é tarefa fácil . ,
+	 detalhar: Depois de um ano de brigas, os dois marcaram um encontro este fim de semana para [detalhar as bases da aliança PSDB-PFL visando a disputa da prefeitura do Rio. ,
+	 dispor: M]Dispor  uma cilada.,
+	 engenhar: Amantes irrestritos da liberdade, intelectualmente preparados para [engenhar instituições justas, sempre foram os seus coveiros...,
+	 esboçar: Seu objetivo é [esboçar um conceito de ciência bastante diverso do que pode emergir dos registros históricos da própria atividade de pesquisa.,
+	 idear: Todo sistema de pensamento fundado na esperança de [idear um sistema de valor neutro da representação está fadado à dissolução quando a área das coisas que ele remete à obscuridade vem à tona. ,
+	 incubar: Entre as suas funções está compensar os riscos de inovação, I]incubar empreendimentos promissores, e disseminar estórias de sucesso.,
+	 maquinar: Mas 30 anos depois, Pequim preferiu [maquinar a política «um casal, um filho», a fim de priorizar o crescimento econômico . ,
+	 pensar: Adoro [pensar um projeto, viabilizar cada detalhe, pensar no mercado, armar o circo, confessa.,
+	 planear: I]Planear a realização de um objetivo.,
+	 planejar: O Exército israelense armou um grande esquema de segurança para dinamitar a casa de Muhyi el-Deen, acusado de [planejar atentados terroristas contra Israel.,
+	 projetar: Em todos os setores onde se visa [projetar estratégias, incrementar as capacidades de previsão e intervenção, as imagens sintéticas certamente estão lá, manipulando uma matemática sofisticadíssima.,
+	 traçar1: Os advogados de Paulo César Farias reúnem-se amanhã em Brasília para [traçar a estratégia dos recursos que serão movidos para tentar libertar PC. ,
+	 tracejar: Usar a criatividade para constituir a inovação e a partir dela I]tracejar o modo de aportar recursos materiais e financeiros obtendo como resultado uma sinergia positiva consubstanciada na melhoria da aprendizagem.}
+Chave: PLANEJAR <verb.creation>
+ILI: 01592028
+
+Sense 3 
+{01592028} <verb.creation> plan, project1, contrive1, design2 -- (make or work out a plan for; devise; "They contrived to murder their boss"; "design a new sales strategy"; "plan an attack")
+       => {01585330} <verb.creation> create by mental act, create mentally -- (create mentally and abstractly rather than with one's hands)
+           => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

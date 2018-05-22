@@ -1,0 +1,42 @@
+ANÁLISE DA GLOSA3598
+
+DADO O SYNSET:
+
+S='Glosa3598'
+	{atentar3: De toda ânsia de cometer loucuras, a sua foi a que mais me I]atentou.,
+	 desafiar1: São passagens que podem às vezes [desafiar um leitor menos paciente, como fazem algumas das primeiras páginas do livro, mas o esforço vale a pena. ,
+	 desinquietar: I]Desinquietou-os para irem a sua casa continuar todos quatro a matar a sede. ,
+	 envidar: M]Envidar para um duelo.,
+	 obtestar: M]Obtestou os antagonistas.,
+	 provocar: Lula, ao [provocar os ortodoxos, referia-se ao provável lançamento de uma candidatura fraca do partido no Ceará. / Rocha decidiu [provocar. ,
+	 reptar: Cada jogador pode I]reptar um dos cinco jogadores. ,
+	 solicitar: A ambigüidade é precisamente o que [solicita a imaginação e a criatividade ,
+	 tentar: Vou I]tentar a paciência do público.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3598' = “provocar alguém a fazer alguma coisa através de promessas (geralmente falsas ou exageradas) ou persuasão”
+	{atentar3: De toda ânsia de cometer loucuras, a sua foi a que mais me I]atentou.,
+	 desafiar1: São passagens que podem às vezes [desafiar um leitor menos paciente, como fazem algumas das primeiras páginas do livro, mas o esforço vale a pena.,
+	 desinquietar: I]Desinquietou-os para irem a sua casa continuar todos quatro a matar a sede.,
+	 envidar: M]Envidar para um duelo.,
+	 obtestar: M]Obtestou os antagonistas.,
+	 provocar: Lula, ao [provocar os ortodoxos, referia-se ao provável lançamento de uma candidatura fraca do partido no Ceará.,
+	 reptar: Cada jogador pode I]reptar um dos cinco jogadores.,
+	 solicitar: A ambigüidade é precisamente o que [solicita a imaginação e a criatividade.,
+	 tentar: Vou I]tentar a paciência do público.}
+Chave: ATENTAR <verb.communication>
+ILI: 00756826
+
+Sense 2 
+{00756826} <verb.communication> entice, lure, tempt4 -- (provoke someone to do something through (often false or exaggerated) promises or persuasion; "He lured me into temptation")
+       => {00768370} <verb.communication> provoke, stimulate -- (provide the needed stimulus for)
+           => {00839696} <verb.communication> challenge -- (issue a challenge to; "Fischer challenged Spassky to a match")
+               => {00767907} <verb.communication> invite, bid -- (ask someone in a friendly way to do something)
+                   => {00728656} <verb.communication> request2 -- (ask (a person) to do something; "She asked him to be here at noon"; "I requested that she type the entire manuscript")
+                       => {00727721} <verb.communication> ask1 -- (make a request or demand for something to somebody; "She asked him for a loan")
+                           => {00727992} <verb.communication> request1, bespeak, call for4, quest1 -- (express the need or desire for; ask for; "She requested an extra bed in her room"; "She called for room service")
+                               => {00717906} <verb.communication> communicate1, pass on, pass1, put across -- (transmit information ; "Please communicate this message to all employees")
+                                   => {02167243} <verb.possession> convey10, transmit10, communicate10 -- (transfer to another; "communicate a disease")
+                                       => {02167764} <verb.possession> transfer1 -- (move from one place to another; "transfer the data"; "transmit the news"; "transfer the patient to another hospital")
+                                           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

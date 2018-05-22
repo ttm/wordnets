@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA3591
+
+DADO O SYNSET:
+
+S='Glosa3591'
+	    {
+	      cativar: I]Cativar a simpatia e a gratidão do consumidor? ,
+	      obsequiar: [Obsequiava sem zelo, mas com eficácia, e tinha a particularidade de esquecer o benefício, antes que o beneficiado o esquecesse.,
+	      penhorar: Colhemos a oportunidade para I]penhorar nossa gratidão pela fraterna acolhida de VSª, bem como de todo o Brioso Corpo de Bombeiros.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3591' = “tratar com agrados”
+	     {obsequiar: Já não I]obsequiava com tanta freqüência as meninas, nem mesmo as recém-chegadas às suas terras.,}
+Chave: OBSEQUIAR <verb.emotion>
+ILI: 01763219
+
+Sense 3
+{01763219} <verb.emotion> please3 -- (give satisfaction; "The waiters
+around her aim to please")
+       => {01763578} <verb.emotion> satisfy, gratify -- (make happy or
+satisfied) 

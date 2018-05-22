@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA3452
+
+DADO O SYNSET:
+
+S='Glosa3452'
+	    {
+	      afarelar-se: x,
+	      desfarelar-se: Prepara-se uma determinada quantidade de milho, depois ]desfarela-se num almofariz, lava-se e põe-se a secar/O contato provoca um efeito efervescente ea rocha ]se desfarela,
+	      esfarelar-se: Algumas partituras [se esfarelam nas mãos/Com o tempo, [esfarelou-se,
+	      esfarinhar-se: os grãos de café vendidos a granel, começaram a ]se esfarinhar/Os cogumelos ficam realmente secos a ponto de ]se esfarinhar,
+	      esmigalhar-se: ...deixaria cair a caixa nalgum penhasco, esta ]esmigalhar-se-ia,
+	      migalhar-se: x,
+	      migar-se: Deve ]migar-se bem miudinho,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3452' = “despedaçar ou cair aos pedaços”
+	     {desfarelar-se: E tenho de me conter para não esmagá-la feito um torrão que se I]desfarela por entre os dedos,
+	      esfarelar-se: Algumas partituras [se esfarelam nas mãos/Com o tempo, [esfarelou-se,
+	      esfarinhar-se: Entre os ratos, um último pedaço de pão I]esfarinhava-se,
+	      esmigalhar-se: Subitamente, o imenso colosso se I]esmigalhou, como palha miúda das eiras de verão, que o vento varre sem deixar vestígios,}
+Chave: ESFARELAR-SE <verb.change>
+ILI: 00385382
+
+Sense 2
+{00385382} <verb.change> crumble, fall apart4 -- (break or fall apart into fragments; "The cookies crumbled"; "The Sphinx is crumbling")
+       => {00385553} <verb.change> disintegrate -- (break into parts or components or lose cohesion or unity; "The material disintegrated"; "the group disintegrated after the leader died")
+           => {00135037} <verb.change> change integrity -- (change in physical make-up)
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

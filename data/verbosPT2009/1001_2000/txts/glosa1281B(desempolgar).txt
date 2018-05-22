@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA1281
+
+DADO O SYNSET:
+S='Glosa1281'
+{desempolgar: O gavião ferido H]desempolgou sua caça,}
+	  
+A='Glosa1795'
+{agarrar, apanhar, empolgar, engalfinhar, pegar, segurar}
+
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1281' = “tornar progressivamente menos empolgado”
+{desempolgar: I]Desempolguei de fazer algo para uma comunidade desinteressada e descompromissada., }
+A='Glosa1795'
+{agarrar, apanhar, empolgar, engalfinhar, pegar, segurar}
+Chave: DESEMPOLGAR <verb.change>
+ILI: 00216596
+
+Sense 1
+{00216596} <verb.change> die down2 -- (become progressively weaker; "the laughter died down")
+       => {00216002} <verb.change> weaken -- (become weaker; "The prisoner's resistance weakened after seven days")
+           => {00146081} <verb.change> decrease, diminish, lessen, fall6 -- (decrease in size, extent, or range; "The amount of homework decreased towards the end of the semester"; "The cabin pressure fell dramatically"; "her weight fall to under a hundred pounds"; "his voice fell to a whisper")
+               => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

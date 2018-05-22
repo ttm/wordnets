@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA3874
+
+DADO O SYNSET:
+
+S='Glosa3874'
+{aterrar1: I]Aterrar começa pela preparação da aproximação, de forma a terminar o vôo em pé, lentamente e no local previsto.,
+ aterrissar: A opinião geral era de que a aeronave tinha condições de [aterrissar no Aeroporto de Cumbica sem maiores problemas .,
+ aterrizar: O avião estava previsto para I]aterrizar na pista da Base Aérea de Brasília às 8h, mas depois de muito sobrevoar a capital do país.,
+ descer: O avião foi inventado pelo grande brasileiro Alberto Santos Dumont, que realizou, no dia 23 de outubro de 1906, o primeiro vôo do homem «num aparelho mais pesado que o ar, se elevando do solo e tornando a [descer, com uso exclusivo dos recursos do próprio aparelho».,
+ poisar: Vou falar com o Pássaro-Rei, vou-lhe pedir um favorzinho: vou ver se ele me dá emprestado sete penas brancas para eu voar e ir I]poisar no teto do mundo.,
+ pousar: Além disso, a aeronave - que deveria [pousar na pista 9 de Cumbica - voava fora da linha de pouso .,}
+	  
+A='Glosa1051'
+{descolar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3874' = “pousar em terra (o avião)”
+{aterrar1: O primeiro avião I]aterrou em Guantánamo com sua carga de prisioneiros.,
+ aterrissar: É o avião preferido dos políticos porque, ao contrário da maioria, [aterrissa no Aeroporto de Congonhas, mais próximo do centro da capital paulista.,
+ aterrizar: No Aerodrómo Carriel Sul se informou que entre às 22 e 23 horas somente um avião I]aterrizou na pista.,
+ descer: Depois de muita oração, o avião [desceu em Tarauacá sem problemas.,
+ poisar: Vou falar com o Pássaro-Rei, vou-lhe pedir um favorzinho: vou ver se ele me dá emprestado sete penas brancas para eu voar e ir I]poisar no teto do mundo.,
+ pousar: O avião [pousou em Alicante porque o combustível estava acabando.}
+	  
+A='Glosa1051'
+{decolar}
+Chave: ATERRISSAR <verb.motion>
+ILI: EQ_SYNONYM - 01921768
+
+Sense 1
+{01921768} <verb.motion> touch down -- (come or bring (a plane) to a landing; "the plane touched down at noon")
+       => {01921967} <verb.motion> land, set down1 -- (reach or come to rest; "The bird landed on the highest branch"; "The plane landed in Istanbul")
+           => {01947900} <verb.motion> arrive, get, come4 -- (reach a destination; arrive by movement or progress; "She arrived home at 7 o'clock"; "She didn't get to Chicago until after midnight")

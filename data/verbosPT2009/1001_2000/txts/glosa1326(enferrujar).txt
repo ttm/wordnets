@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA1326A
+
+DADO O SYNSET:
+
+S='Glosa1326'
+{emugrecer: x,
+ enferrujar: Máquinas agrícolas, que não haviam ainda servido, [enferrujavam com a etiqueta da casa,
+ oxidar: A chuva I]oxidou os ferros da porta,}
+
+A='Glosa1411'
+	    {desenferrujar, desoxidar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1326' = “causar deterioração por meio da ação da água, ar ou ácido” 
+{enferrujar: As Barcaças a venda não são zero Km, elas estão em excelente estado, pois trabalham no Rio Amazonas, que não tem sal e não I]enferruja a balsa.,
+ oxidar: A chuva I]oxidou os ferros da porta.,}
+
+A='Glosa1411'
+	    {desenferrujar, desoxidar}
+Chave: ENFERRUJAR <verb.change>
+ILI: 00265364
+
+Sense 2
+{00265364} <verb.change> corrode1, eat, rust1 -- (cause to deteriorate due to the action of water, air, or an acid; "The acid corroded the metal"; "The steady dripping of water rusted the metal stopper in the sink")
+       => {00250328} <verb.change> damage -- (inflict damage upon; "The snow damaged the roof"; "She damaged the car when she hit the tree")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

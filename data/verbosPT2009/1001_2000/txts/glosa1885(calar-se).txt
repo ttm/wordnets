@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA1885
+
+DADO O SYNSET:
+
+S='Glosa1885'
+{calar-se: I]Calou-se e pegou a mão do homem, e apertou-a com força. ,
+ emudecer: Minha mãe, que já não era de muito falar, I]emudeceu de vez, e olhava fixo numa única direção, o olho da rua. ,
+ entuchar: x,
+ silenciar: Aproximou-se, recostou-se na árvore e I]silenciou. ,}
+	  
+A='Glosa3942'
+{comentar, conversar, dialogar, dizer, falar, praticar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1885' = “ficar silencioso”
+{calar-se: O escritor [calou-se, só voltando a falar quando o aparelho foi desligado.,
+ emudecer: No entanto, quando o homem [emudece, o ritmo cardíaco das esposas dispara.,
+ silenciar: O plenário [silenciou para ouvir.,}
+	  
+A='Glosa3942'
+{comentar, conversar, dialogar, dizer, falar, praticar}
+Chave: CALAR-SE <verb.change>
+ILI: 00448330
+
+Sense 1
+{00448330} <verb.change> hush -- (become quiet or still; fall silent; "hush my babay!")
+       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA2537
+
+DADO O SYNSET:
+
+S='Glosa2537'
+	    {discorrer: Folgam as mulheres e os meninos na vasta ocara; os mancebos, que ainda não ganharam nome de guerra por algum feito brilhante [discorrem no vale.,
+	      passear: Mas, como naquele dia teve uma aula vaga, resolveu [passear pelo shopping às 11h45, exatamente quando aconteceu a explosão.,
+	      sair: Por volta de meio-dia, Spike [saiu sozinho para passear por Copacabana.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2537' = “Dar uma volta; sair para uma volta; andar por prazer.”
+	    {discorrer: Os mancebos, que ainda não ganharam nome de guerra por algum feito brilhante [discorrem no vale.,
+	      passear: De cabelo atado e sorriso aberto I]passeava pela praia.,
+	      sair: I]Saiu pela cidade e foi encontrando amigos, correligionários, conhecidos, colegas, parentes.,}
+
+Chave: PASSEAR <verb.motion>
+ILI: 01827991
+
+Sense 6
+{01827991} <verb.motion> walk4, take the air -- (take a walk; go for a walk; walk for pleasure; "The lovers held hands while walking"; "We like to walk every Sunday")
+       => {01782203} <verb.motion> travel, go, move3, locomote -- (change location; move, travel, or proceed; "How fast does your new car go?"; "We travelled from Rome to Naples by bus"; "The policemen went from door to door looking for the suspect"; "The soldiers moved towards the city in an attempt to take it before night fell") 

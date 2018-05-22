@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA3028
+
+DADO O SYNSET:
+
+S='Glosa3028'
+	    {
+	      globalizar: Vamos ficar cada um refletindo a partir de sua posição, sem [globalizar, sem tentar um passo adiante de nosso limite. ,
+	      integralizar: Essas cotas, que começam a ser vendidas amanhã, deverão [integralizar o total necessário nos 31 meses de duração da construção.,
+	      integrar: Essa área é capaz de [integrar as informações das diferentes partes do cérebro e por isso, se constitui numa área do conhecimento. ,
+	    }
+
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3028' = “totalizar ou fazer parte de um todo”
+	     {globalizar: O crime organizado internacional I]globalizou suas atividades pelas mesmas razões que as corporações multinacionais legítimas. ,
+	      integrar: A língua portuguesa unificou e I]integrou as diversas partes do país. ,}
+Chave: INTEGRAR <verb.change>
+ILI: 00453592
+Sense 1
+{00453592} <verb.change> integrate, incorporate -- (make into a whole or make part of a whole; "She incorporated his suggestions into her proposal")
+       => {01419805} <verb.contact> compound, combine1 -- (combine so as to form a whole; mix; "compound the ingredients")
+           => {01420446} <verb.contact> mix, mingle, commix, unify, amalgamate -- (to bring or combine together or with something else; "resourcefully he mingled music and dance")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

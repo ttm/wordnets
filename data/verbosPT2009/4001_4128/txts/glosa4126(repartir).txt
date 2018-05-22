@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA4126
+
+DADO O SYNSET:
+
+S='Glosa4126'
+{aquinhoar: Os herdeiros H]aquinhoaram os bens do falecido.,
+dispartir: H]Dispartiram a herança entre os pobres.,
+distribuir: O Altíssimo I]distribuiu a herança aos povos.,
+quinhoar: Os vencedores H]quinhoaram os despojos do inimigo.,
+repartir: As idealizações de um universo igualizado, democrático, ou definido pela escala do poder legítimo, I]repartiram a herança aristotélica da comunidade.,
+talhar: I]Talhou a carne de acordo com as preferências.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4126' = “distribuir porções ou partes para alguém”
+{dispartir: H]Dispartiram a herança entre os pobres.,
+distribuir: O Altíssimo I]distribuiu a herança aos povos.,
+repartir: O que pode ter ocorrido foi a distribuição de dinheiro para alguns partidos que, por sua vez, o I]repartiram entre os seus membros.,
+talhar: M]Talhou uma fatia de bolo para o guri.,}
+Chave: REPARTIR <verb.possession>
+ILI: 02228139
+
+Sense 2
+{02228139} <verb.possession> share, divvy up, portion out, apportion, deal7 -- (give out as one's portion or share)
+       => {02138243} <verb.possession> distribute1, give out, hand out -- (give out; "The teacher handed out the exams")
+           => {02137285} <verb.possession> give1, gift, present -- (give as a present; make a gift of; "What will you give her for her birthday?")
+
+
+

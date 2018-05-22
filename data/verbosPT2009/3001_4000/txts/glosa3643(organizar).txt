@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA3643
+
+DADO O SYNSET:
+
+S='Glosa3643'
+	    {
+	      arranjar: Mandou chamar a comadre, que pronta acudiu ao chamado, e começaram-se a [arranjar os preparativos. ,
+	      organizar: A população muçulmana, insatisfeita, começa a [organizar protestos e manifestações, invariavelmente reprimidos brutalmente. ,
+	      preparar: Seria cozinheiro, para [preparar a sua própria comida. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3643' = “planejar, organizar e realizar (um evento)”
+	     {arranjar: O PT gaúcho I]arranjou tudo para a recepção, colocando no ginásio Gigantinho milhares de militantes petistas ,
+	      organizar: A Faculdade Carioca [organizou o seu trote este ano. ,
+	      preparar: Sem saber da promessa, o secretário Alfredo Sirkis [preparou a praça para homenagear o ator Rubens Corrêa. ,}
+Chave: ORGANIZAR <verb.creation>
+ILI: 01601291
+
+Sense 3
+{01601291} <verb.creation> stage1, bring about1, arrange3 -- (plan, organize, and carry out (an event))
+       => {01595277} <verb.creation> initiate, pioneer1 -- (take the lead or initiative in; participate in the development of; "This South African surgeon pioneered heart transplants")
+           => {01598809} <verb.creation> cause, do2, make8 -- (give rise to; cause to happen or occur, not always intentionally; "cause a commotion"; "make a stir"; "cause an accident")
+               => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

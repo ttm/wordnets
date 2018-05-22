@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2295
+
+DADO O SYNSET:
+
+S='Glosa2295'
+	    {admitir: Como I]admitir um empregado doméstico?,
+	      assalariar: À medida que a economia volta a I]assalariar os que estão desempregados, o cooperativismo reflui. ,
+	      contratar: Por causa do processo de preparação para a privatização, a empresa não [contrata mais funcionários.,
+	      empregar: A atividade agrícola [emprega cerca de 37 % da população economicamente ativa. ,
+	      tratar: Oportunidade de emprego, ganhe até R$ 480,00 por mês trabalhando em sua casa, em horas livre, ambos os sexo, tratar com Clóvis.  ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2295' = “ dar emprego a alguém”
+	    {admitir: Como I]admitir um empregado doméstico?,
+	      assalariar: À medida que a economia volta a I]assalariar os que estão desempregados, o cooperativismo reflui. ,
+	      contratar: Por causa do processo de preparação para a privatização, a empresa não [contrata mais funcionários.,
+	      empregar: A atividade agrícola [emprega cerca de 37 % da população economicamente ativa.,}
+
+Chave: CONTRATAR <verb.social>
+ILI: 02336730
+
+Sense 1
+{02336730} <verb.social> hire, engage1, employ -- (engage or hire for work; "They hired two new secretaries in the department"; "How many people has she employed?") 

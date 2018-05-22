@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA3681
+
+DADO O SYNSET:
+
+S='Glosa3681'
+	    {
+	      neutralizar: O anticorpo combina-se, quimicamente, com o antígeno, de maneira a [neutralizar o seu efeito.,
+	      paralisar: Arafat alertou Israel para conseqüências imprevisíveis no caso do Estado judeu [paralisar o processo de paz.#A simultaneidade dos canais televisuais, bem como sua fulminante fragmentação, barram, [paralisam, esboroam qualquer possibilidade de desenvolvimento. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3681' = “tornar sem força e incapaz de funcionar”
+	     {neutralizar: Esse fator político [neutralizou os efeitos negativos resultantes da crise de liquidez dos pequenos bancos no mercado interbancário.,
+	      paralisar: A crise [paralisou a campanha de Lula.#A simultaneidade dos canais televisuais, bem como sua fulminante fragmentação, barram, [paralisam, esboroam qualquer possibilidade de desenvolvimento. ,}
+Chave: PARALISAR <verb.change>
+ILI: 00259898
+
+Sense 1
+{00259898} <verb.change> paralyze1, paralyse1 -- (make powerless and unable to function; "The bureaucracy paralyzes the entire operation")
+       => {00184864} <verb.change> inactivate, deactivate -- (make inactive; "they deactivated the file")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

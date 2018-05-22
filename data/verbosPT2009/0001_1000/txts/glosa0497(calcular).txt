@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0497
+
+DADO O SYNSET:
+
+S='Glosa497'
+{avaliar-se: I]Avaliam-se as proporções, direções e articulações dos membros anteriores e posteriores.,
+calcular-se: Se a superfície é reflexiva, [calcula-se a direção do raio incidente na reflexão e prossegue-se no seu encalço até chegar a um ponto de luz. ,
+medir-se: No momento em que o coração bombeia o sangue para dentro dos vasos, I]mede-se a pressão sistólica.,
+tomar-se: Ao [tomar-se a distância de 100 metros do prédio cuja altura deseja-se calcular, mede-se o ângulo formado pelo ponto distante 100 metros.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa497' = “fazer (-se) um cálculo matemático ou computar”
+{avaliar-se: I]Avaliam-se as proporções, direções e articulações dos membros anteriores e posteriores.,
+calcular-se: Se a superfície é reflexiva, [calcula-se a direção do raio incidente na reflexão e prossegue-se no seu encalço até chegar a um ponto de luz. ,
+medir-se: No momento em que o coração bombeia o sangue para dentro dos vasos, I]mede-se a pressão sistólica.,
+tomar-se: Ao [tomar-se a distância de 100 metros do prédio cuja altura deseja-se calcular, mede-se o ângulo formado pelo ponto distante 100 metros.,}
+Chave: CALCULAR-SE <verb.cognition>
+ILI: 00617041
+
+Sense 1
+{00617041} <verb.cognition> calculate, cipher, cypher, compute, work out6, reckon1, figure -- (make a mathematical calculation or computation)
+       => {00612517} <verb.cognition> reason -- (think logically; "The children must learn to reason")
+           => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA1516
+
+DADO O SYNSET:
+
+S='Glosa1516'
+{dequitar-se: x,
+ desemprenhar: x,
+ desgravidar: Assim como estava, meio incapacitado, permaneci de olho nela, até ela  I]desgravidar.,
+ desprenhar: I]Desprenhar é dar à luz, é gerar vida.,
+ parir: É ela quem vai gestar e [parir o bezerro .,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1516' = “dar a luz [a um recém-nascido]”
+{desgravidar: Assim como estava, meio incapacitado, permaneci de olho nela, até ela  I]desgravidar.,
+ parir: Desde que ela I]pariu ela sumiu completamente da mídia!,}
+Chave: PARIR <verb.body>
+ILI: 00055053
+
+Sense 1
+{00055053} <verb.body> give birth, deliver1, bear1, birth, have -- (give birth (to a newborn); "My wife had twins yesterday!")
+       => {01703330} <verb.creation> produce2, bring forth -- (bring forth or yield; "The tree would not produce fruit")
+           => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

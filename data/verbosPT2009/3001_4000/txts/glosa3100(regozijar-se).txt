@@ -1,0 +1,40 @@
+ANÁLISE DA GLOSA3100
+
+DADO O SYNSET:
+
+S='Glosa3100'
+	    {
+	      alegrar-se: O ITA I]alegra-se especialmente por contar, nesta oportunidade, com o ilustre líder empresarial brasileiro Antônio Ermírio de Morais, Paraninfo da turma.,
+	      congratular-se: I]Congratula-se com a recente manifestação de preocupação, tanto do Conselho, como da Comissão, quanto à situação com que se defrontam os países dependentes da produção de café.,
+	      estimar: I]Estimo a oportunidade de escutar o que você tem pra nos falar.,
+	      exultar: Em um ano e meio, aposto que estará entre os 15 melhores triatletas do Brasil, [exulta Cláudio.,
+	      folgar: Tal foi o início dos amores; Carlos Maria I]folgou de se ver assim amado em silêncio, e toda a prevenção se converteu em simpatia.,
+	      folgazar: x,
+	      iluminar-se: Guedes, o escolhido para dirigir o diretório municipal portovelhense, I]iluminou-se com o resultado acreditando que ganhou o direito de disputar mais uma vez a prefeitura da capital.,
+	      jubilar-se: Aceita e I]jubila-se com a transformação da vida, com o novo, com a morte como transformação e transmutação.,
+	      regozijar-se: A França, assim como todas as democracias, I]regozija-se com a queda da ditadura de Saddam Hussein e deseja o fim rápido e efetivo dos combates.,
+	      rejubilar-se: Organizações de direitos humanos do mundo inteiro I]rejubilam-se com a prisão, na Inglaterra, do ex-ditador do Chile.,
+	      ufanar-se: Mas I]ufanam-se de já ter obtido a complacência de celebrantes para todas as músicas constantes do seu repertório.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3100' = “expressar grande satisfação”
+	     {alegrar-se: A Equipe Diretiva Consultoria I]alegra-se com este acontecimento e comemora esta conquista.,
+	      congratular-se: Durante a reunião, Zhu Rongji I]congratulou-se com a vitória do Partido Trabalhista da Grã-Bretanha e a continuação de Prescott como vice-primeiro ministro.,
+	      estimar: I]Estimo a oportunidade de escutar o que você tem pra nos falar.,
+	      exultar: Santos inteira I]exultou com a notícia sobre o novo chefe da ação, e não se enganou, porque, desde aí, a vitória pronunciou-se cada vez mais nítida.,
+	      folgar: O editor do UOL Tablóide, avesso ao uso ou cultivo de qualquer substância ilegal, folga em saber que mais este perigoso criminoso vai agora enfrentar todo o vigor da Lei.,
+	      iluminar-se: Guedes, o escolhido para dirigir o diretório municipal portovelhense, I]iluminou-se com o resultado acreditando que ganhou o direito de disputar mais uma vez a prefeitura da capital.,
+	      jubilar-se: Aceita e I]jubila-se com a transformação da vida, com o novo, com a morte como transformação e transmutação.,
+	      regozijar-se: A França, assim como todas as democracias, I]regozija-se com a queda da ditadura de Saddam Hussein e deseja o fim rápido e efetivo dos combates.,
+	      rejubilar-se: Organizações de direitos humanos do mundo inteiro I]rejubilam-se com a prisão, na Inglaterra, do ex-ditador do Chile.,
+	      ufanar-se: O Rio Grande do Sul I]ufana-se com os ícones do futebol gaúcho, ou seja, a dupla Grenal.,}
+Chave: REGOZIOJAR-SE <verb.communication>
+ILI: 00830088
+
+Sense 2
+{00830088} <verb.communication> exult, rejoice, triumph1, jubilate -- (to express great joy; "Who cannot exult in Spring?")
+       => {00831123} <verb.communication> cheer, cheer up, chirk up -- (become cheerful)
+           => {01761176} <verb.emotion> rejoice, joy -- (feel happiness or joy)
+               => {01720480} <verb.emotion> feel, experience -- (undergo an emotional sensation; "She felt resentful"; "He felt regret")

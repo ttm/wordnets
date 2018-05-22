@@ -1,0 +1,64 @@
+ANÁLISE DA GLOSA2443
+
+DADO O SYNSET:
+
+S='Glosa2443'
+	    {acariciar: É duro ver o governo I]acariciar delinqüentes!,
+	      adular: O PSDB se prepara para [adular Hélio Garcia.,
+	      afagar: Seu currículo a credencia para o cargo e ela ainda tem a virtude de conhecer de perto o setor público, [afaga seu primeiro chefe, o economista Luiz Aranha Correa do Lago, hoje diretor de Planejamento da Lorentzen Empreendimentos.,
+	      alisar: Em busca de sorte, pediu licença para [alisar o palestrante.,
+	      apajear: x,
+	      apaparicar: Desculpe mas eu não estou aqui para I]apaparicar tarados. # Ajudou a criar a minha filha Catarina, ainda conheceu e I]apaparicou o meu filho Pedro.,
+	      babujar: Inicialmente, concordava a garota, afinal, era uma questão de amor próprio por si própria, I]babujava a cunhada.,
+	      bajoujar: x,
+	      bajular: Já O Globo também observa uma consistente e tradicionalíssima política editorial: [bajula todo e qualquer governo e manipula informações de acordo com os interesses econômicos do chefão Roberto Marinho.,
+	      candongar: x,
+	      cariciar: x,
+	      chaleirar: Os famosos puxa-sacos do Governo é que não perceberam que o País está numa crise sem limites, mas o desejo ardente de bajular e de I]chaleirar faz com que continuem sem enxergar nada. ,
+	      cortejar: Chegando ao poder no bojo de uma revolução, Vargas não precisava [cortejar as oligarquias regionais. #  Os homens o reverenciam no palco, as mulheres o [cortejam com uma admiração que ultrapassa os cânones musicais.,
+	      deslisar: x,
+	      engraxar: H]Engraxam o professor, para obter boas notas.,
+	      engrossar: x,
+	      incensar: É perda de tempo I]incensar ou amaldiçoar o SUS. ,
+	      lamber: Está receosa de não recobrar a forma física e técnica até os Jogos Olímpicos; entre engravidar, amamentar e [lamber a cria, ela não joga basquete há um ano.,
+	      lisonjear: Ao lado de um político-chefe, sabendo I]lisonjear, é a ascensão: deputado, ministro.,
+	      louvaminhar: Segundo Dante Alighieri, quem vai para o inferno, com toda certeza, é o tipo que só sabe elogiar, adular, I]louvaminhar.,
+	      pajear: I]Pajear uma pessoa, tudo bem... agora imaginem pajear uma família inteira! ,
+	      sorrabar: Não vão nos intimidar, negando nosso saber, ninguém vai nos I]sorrabar; podem até nos lamber. ,
+	      titilar: H]Titilar a vaidade de alguém.,
+	      turibular: O seu objetivo não é o mutuo I]turibular do incenso da lisonja: não é o reciprocar permanente de elogios bajulatórios, nem a permuta oficial de láureas e títulos honoríficos. ,
+	      turiferar: x,
+	      xeretar: x,
+	      xeretear: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2443' = “Tentar ganhar privilégio bajulando ou agradando.”
+	    {acariciar: É duro ver o governo I]acariciar delinqüentes!,
+	      adular: Este povo e essa TV são os mesmos que silenciaram durante as barbáries da ditadura, escolheram a dedo os deputados que aí estão, e I]adularam o Collor até o fim.,
+	      afagar: No final do dia, I]afagou os moradores da cidade, encenando o monólogo Tantã, com o qual viaja pelo Brasil.,
+	      alisar: Em busca de sorte, pediu licença para [alisar o palestrante.,
+	      apaparicar: Cidade que I]apaparicava os seus futuros doutores.,
+	      babujar: H]Babujar os poderosos.,
+	      chaleirar: E, quando quebra a cara, vira fera ferida e passa a ser um inimigo mortal contra quem tanto I]chaleirou.,
+	      cortejar: Os homens o reverenciam no palco, as mulheres o [cortejam com uma admiração que ultrapassa os cânones musicais.,
+	      engraxar: H]Engraxam o professor, para obter boas notas.,
+	      incensar: A imprensa I]incensou jovens empresários.,
+	      lamber: o Diogo Mainardi, começou I]lambendo o Gore Vidal, depois o Paulo Francis.,
+	      lisonjear: Musharraf ainda os I]lisonjeou ao descrevê-los como “provavelmente a mais ilustre e influente comunidade” dos Estados Unidos.,
+	      louvaminhar: I]Louvaminhou o presidente Lula todo o tempo.,
+	      pajear: Outro que I]pajeou o filho foi o locutor Galvão Bueno,
+	      sorrabar: Não vão nos intimidar, negando nosso saber, ninguém vai nos I]sorrabar; podem até nos lamber.,
+	      titilar: H]Titilar a vaidade de alguém.,
+	      turibular: V. Ex.a é pelos seus discípulos louvaminhado e A]turibulado.,}
+
+Chave: ADULAR <verb.communication>
+ILI: 00851535
+
+Sense 1
+{00851535} <verb.communication> fawn, toady, truckle, bootlick, kowtow, kotow, suck up -- (try to gain favor by cringing or flattering; "He is always kowtowing to his boss")
+       => {00850802} <verb.communication> flatter, blandish -- (praise somewhat dishonestly)
+           => {00828989} <verb.communication> praise -- (express approval of; "The parents praised their children for their academic performance")
+               => {00658664} <verb.cognition> measure1, evaluate, valuate, assess, appraise1, value -- (place a value on; judge the worth of something; "I will have the family jewels appraised by a professional")
+                   => {00647983} <verb.cognition> judge -- (form an opinion of or pass judgment on; "I cannot judge some works of modern art")
+                       => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere") 

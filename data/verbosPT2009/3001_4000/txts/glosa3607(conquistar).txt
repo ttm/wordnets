@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA3607
+
+DADO O SYNSET:
+
+S='Glosa3607'
+	    {
+	      conquistar: Os caldeus formaram o Segundo Império Babilônico, [conquistando a Mesopotâmia e a Palestina. ,
+	      invadir: Sob o comando do rei Xerxes, os persas [invadiram os Balcãs, pelo Norte. ,
+	      ocupar: Em 1453, [ocuparam Constantinopla. / Os mongóis, vindos da Ásia, que [ocuparam a maior parte da Rússia e fixaram sua capital em Sarai. ,
+	    }
+
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3607' = “tomar posse por força, como depois de uma invasão”
+	     {conquistar: Os caldeus formaram o Segundo Império Babilônico, [conquistando a Mesopotâmia e a Palestina. ,
+	      invadir: Sob o comando do rei Xerxes, os persas [invadiram os Balcãs, pelo Norte.,
+	      ocupar: Em 1453, [ocuparam Constantinopla. / Os mongóis, vindos da Ásia, que [ocuparam a maior parte da Rússia e fixaram sua capital em Sarai. ,}
+Chave: CONQUISTAR <verb.possession>
+ILI: 02206880
+
+Sense 2
+{02206880} <verb.possession> appropriate, capture, seize1, conquer -- (take possession of by force, as after an invasion; "the invaders seized the land and property of the inhabitants"; "The army seized the town"; "The militia captured the castle")
+       => {02208641} <verb.possession> assume, usurp, seize7, take over7, arrogate -- (seize and take control without authority and possibly with force; take as one's right or possession; "He assumed to himself the right to fill all positions in the town"; "he usurped my rights"; "She seized control of the throne after her husband died")
+           => {02143102} <verb.possession> take1 -- (take by force; "Hitler took the Baltic Republics"; "The army took the fort on the hill")

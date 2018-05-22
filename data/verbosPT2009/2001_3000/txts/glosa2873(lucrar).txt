@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA2873
+
+DADO O SYNSET:
+
+S='Glosa2873'
+	    {arranhar: x,
+	      fazer: A TV acumula uma vasta audiência e, outra vez, I]fez dinheiro através da publicidade. ,
+	      ganhar: As locadoras de vídeo vão [ganhar muito e espero que eu e minha família sejamos convidados para a entrega do prêmio. ,
+	      lucrar: Consolei-me do prejuízo, observando que o meu amigo Damião fora de todos o que mais [lucrara com as minhas perdas, que se elevaram a quinhentos mil réis.,
+	      obter: Sadia I]obteve lucro de R$ 446,8 milhões em 2003 e o faturamento atingiu R$ 5,9 bilhões.,
+	      retirar: No ano passado, alcançou um faturamento de nada menos de R$ 1,8 bilhão, do qual I]retirou um lucro líquido de R$ 47,2 milhões. ,
+	      utilizar: Nada H]utilizou com aquela promoção.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2873' = “derivar benefício”
+	    {ganhar: As locadoras de vídeo vão [ganhar muito e espero que eu e minha família sejamos convidados para a entrega do prêmio. ,
+	      lucrar: Consolei-me do prejuízo, observando que o meu amigo Damião fora de todos o que mais [lucrara com as minhas perdas, que se elevaram a quinhentos mil réis.,}
+Chave: LUCRAR <verb.possession>
+ILI: 02224430
+
+Sense 1
+{02224430} <verb.possession> profit2, gain2, benefit -- (derive a benefit from; "She profited from his vast experience")
+       => {02147191} <verb.possession> get, acquire -- (come into the possession of something concrete or abstract; "She got a lot of paintings from her uncle"; "They acquired a new pet"; "Get your results the next day"; "Get permission to take a few days off from work")
+

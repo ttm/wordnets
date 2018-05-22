@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0829
+
+DADO O SYNSET:
+
+S='Glosa829'
+{tornar: Voltou a si quando I]tornou a pensar no tempo.,
+voltar: Quando o último exemplar de uma espécie é morto, nunca mais ela poderá [voltar a existir.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa829' = “volver para um estado anterior”
+{tornar: Voltou a si quando I]tornou a pensar no tempo.,
+voltar: Quando o último exemplar de uma espécie é morto, nunca mais ela poderá [voltar a existir.,}
+Chave: VOLTAR <verb.change>
+ILI: 00375470
+
+Sense 2
+{00375470} <verb.change> revert, return, retrovert, regress1, turn back -- (go back to a previous state; "We reverted to the old rules")
+       => {00133458} <verb.change> change by reversal, turn, reverse -- (change to the contrary; "The trend was reversed"; "the tides turned against him"; "public opinion turned when it was revealed that the president had an affair with a White House intern")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

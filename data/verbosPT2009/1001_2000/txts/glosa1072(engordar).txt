@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA1072
+
+DADO O SYNSET:
+
+S='Glosa1072'
+{anafar: Aqueles antropófagos costumam M]anafar, previamente, os prisioneiros. ,
+ anafear: x,
+ engordar: Não se tratava de [engordar o prisioneiro, mas de fortalecê-lo, para que ele morresse com honra no dia do sacrifício.,}
+
+A='Glosa2039'
+	    {acanavear, adelgaçar, adelgadar, adelgar, afilar2, afinar, definhar, delgaçar, descarnar, desencorpar, desmedrar, desnutrir, emaciar, emagrecer, emagrentar, engoiar-se, entresilhar, escanifrar, estalicar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1072' = “tornar gordo ou roliço” 
+{engordar: Um deles é de uma senhora que [engordou dez frangos para vender na feira do Gama.,}
+
+A='Glosa2039'
+	    {acanavear, adelgaçar, adelgadar, adelgar, afilar2, afinar, definhar, delgaçar, descarnar, desencorpar, desmedrar, desnutrir, emaciar, emagrecer, emagrentar, engoiar-se, entresilhar, escanifrar, estalicar}
+Chave: ENGORDAR <verb.consumption>
+ILI: 01158573 
+
+Sense 1
+{01158573} <verb.consumption> fatten, fat, flesh out, fill out, plump, plump out, fatten out, fatten up -- (make fat or plump; "We will plump out that poor starving child")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

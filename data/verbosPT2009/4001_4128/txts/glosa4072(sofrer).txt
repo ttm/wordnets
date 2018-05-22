@@ -1,0 +1,41 @@
+ANÁLISE DA GLOSA4072
+
+DADO O SYNSET:
+
+S='Glosa4072'
+{amargar: Itamar [amargava momentos de desgaste político .,
+atravessar: Considerando que o país [atravessou um período difícil, com a morte do primeiro presidente civil antes da posse, com o primeiro presidente eleito afastado do cargo, vimos um processo de democratização estável nos últimos anos .,
+experienciar: x,
+experimentar: O consumidor que I]experimentou dissabores não vem recebendo "bilhete premiado de loteria".,
+gemer: O coração H]geme nas agonias da paixão proibida.,
+lidar: x,
+padecer: A seguradora afirmava que Genézio já I]padecia de doença visual antes de se inscrever no plano de saúde.,
+passar: O mercado I]passou por maus momentos.,
+provar: H]Provou os sofrimentos da guerra.,
+sentir: I]Sentia o peso do fracasso por cada centímetro de seu corpo destruído pela decepção.,
+sofrer: Covas I]sofreu o peso do famigerado AI-5 que lhe tirou dez anos da vida pública.,
+suportar: Margarida Bosco I]suportou humilhações e canseiras incríveis para que seu filho chegasse a ser padre.,
+travessar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4072' = “passar [por] ou ser sujeito [a]”
+{amargar: Itamar [amargava momentos de desgaste político .,
+atravessar: Considerando que o país [atravessou um período difícil, com a morte do primeiro presidente civil antes da posse, com o primeiro presidente eleito afastado do cargo, vimos um processo de democratização estável nos últimos anos .,
+experimentar: O consumidor que I]experimentou dissabores não vem recebendo "bilhete premiado de loteria".,
+padecer: É evidente que, diante da enormidade dos problemas de que o país [padece, a poluição visual provocada pela propaganda dos candidatos pode até ser considerada uma questão menor.,
+passar: O mercado I]passou por maus momentos.,
+provar: H]Provou os sofrimentos da guerra.,
+sentir: Mas também o resto da economia [sentiu a pressão de um janeiro mais aquecido.,  
+sofrer: Eu [sofri esse problema no ministério.,
+suportar: Margarida Bosco I]suportou humilhações e canseiras incríveis para que seu filho chegasse a ser padre.,}
+Chave: SOFRER <verb.perception>
+ILI: 02048104
+
+Sense 1
+{02048104} <verb.perception> suffer1, endure -- (undergo or be subjected to; "He suffered the penalty"; "Many saints suffered martyrdom")
+       => {02049107} <verb.perception> experience1, undergo2, see12, go through -- (go or live through; "We had many trials to go through"; "he saw action in Viet Nam")
+           => {02376786} <verb.social> participate, take part -- (share in something)
+               => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")
+
+ 

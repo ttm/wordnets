@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA0828
+
+DADO O SYNSET:
+
+S='Glosa828'
+{adquirir: Dos mais de 15 mil doentes registrados em 95, pelo menos 12 mil [adquiriram a bactéria no ano passado.,
+apanhar: Eu tenho um amigo que pensa que I]apanhou uma doença venérea.,
+contrair: O medo em [contrair a toxoplasmose diminuiu a frequência do restaurante central e fez com que antigos admiradores de gatos os preferissem bem longe do campus.,
+ficar: Muita gente se queixa que tomou a vacina e I]ficou com gripe.,
+pegar: Geiger passou meses viajando sozinho até encontrar o grupo de topógrafos de Salvador, [pegou duas malárias e sofreu um pequeno acidente de trem.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa828' = “obter doenças”
+{adquirir: Dos mais de 15 mil doentes registrados em 95, pelo menos 12 mil [adquiriram a bactéria no ano passado.,
+apanhar: Eu tenho um amigo que pensa que I]apanhou uma doença venérea.,
+contrair: O medo em [contrair a toxoplasmose diminuiu a frequência do restaurante central e fez com que antigos admiradores de gatos os preferissem bem longe do campus.,
+ficar: Muita gente se queixa que tomou a vacina e I]ficou com gripe.,
+pegar: Geiger passou meses viajando sozinho até encontrar o grupo de topógrafos de Salvador, [pegou duas malárias e sofreu um pequeno acidente de trem.,}
+Chave: CONTRAIR <verb.body>
+ILI: 00085534
+
+Sense 19
+{00085534} <verb.body> catch10 -- (contract; "did you catch a cold?")
+       => {00085282} <verb.body> contract, take8, get -- (be stricken by an illness, fall victim to an illness; "He got AIDS"; "She came down with pneumonia"; "She took a chill")
+           => {00085000} <verb.body> sicken, come down -- (get sick; "She fell sick last Friday, and now she is in the hospital")
+               => {00196646} <verb.change> worsen, decline1 -- (grow worse; "Conditions in the slum worsened")
+                   => {00140715} <verb.change> change state, turn4 -- (undergo a transformation or a change of position or action; "We turned from Socialism to Capitalism"; "The people turned against the President when he stole the election")
+                       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

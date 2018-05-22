@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA2438
+
+DADO O SYNSET:
+
+S='Glosa2438'
+	    {subalternar: x,
+	      subalternizar: Estratégia para colonizar mentes, I]subalternizar o cidadão, impedi-lo de criticar o que se passa e, assim, privá-lo da capacidade de reação política.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2438' = “Tornar subalterno, dependente ou subserviente.”
+	    {subalternizar: Estratégia para colonizar mentes, I]subalternizar o cidadão, impedi-lo de criticar o que se passa e, assim, privá-lo da capacidade de reação política.,}
+
+Chave: SUBALTERNIZAR <verb.change>
+ILI: 00564083
+
+Sense 2
+{00564083} <verb.change> subordinate3, subdue3 -- (make subordinate, dependent, or subservient; "Our wishes have to be subordinated to that of our ruler")
+       => {00517386} <verb.change> lower1, lour1 -- (set lower; "lower a rating"; "lower expectations")
+           => {00480317} <verb.change> devalue -- (lower the value or quality of; "The tear devalues the painting")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

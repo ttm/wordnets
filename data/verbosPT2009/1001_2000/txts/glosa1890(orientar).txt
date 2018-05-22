@@ -1,0 +1,37 @@
+ANÁLISE DA GLOSA1890
+
+DADO O SYNSET:
+
+S='Glosa1890'
+{dirigir: H]Dirigiu os manifestantes para a praça.,
+ encaminhar: A própria mulher de Amin, Ângela, [encaminhou pessoas à direção do banco para serem contratadas.,
+ encarreirar: x,
+ ensoar: x,
+ entoar: x,
+ enveredar: x,
+ estradear: x,
+ guiar: Entretanto a sua dedicação não se desmentia; ele acompanhava a D. Antônio de Mariz nas suas excursões, ajudava-o com a sua experiência, [guiava-o aos lugares onde havia terrenos auríferos ou pedras preciosas. ,
+ orientar: Assim Deus I]orientava Israel pelo deserto.,
+ reger: x,}
+	  
+A='Glosa1285'
+	    {descaminhar, desencabeçar, desencaminhar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1890' = “ser uma força guiante, como se fosse com direcionamentos ou aconselhamentos”
+{dirigir: Todos temos um desses gênios tutelares que nos inspira nas horas difíceis e nos I]dirige pelo bom caminho.,
+ encaminhar: A própria mulher de Amin, Ângela, [encaminhou pessoas à direção do banco para serem contratadas.,
+ guiar: Não há nenhuma dúvida de que o legado desse complicado e fascinante homem vai continuar [guiando as forças da democracia para sempre. ,
+ orientar: Os 7.380 agentes paramédicos do programa visitam casas, detectam problemas de saúde e [orientam as famílias.,}
+	  
+A='Glosa1285'
+	    {descaminhar, desencabeçar, desencaminhar}
+Chave: ORIENTAR <verb.social>
+ILI: 02366330
+
+Sense 3
+{02366330} <verb.social> guide, steer -- (be a guiding force, as with directions or advice; "The teacher steered the gifted students towards the more challenging courses")
+       => {02366135} <verb.social> direct -- (be in charge of)
+           => {02363018} <verb.social> manage, deal13, care11, handle -- (be in charge of, act on, or dispose of; "I can deal with this crew of workers"; "This blender can't handle nuts"; "She managed her parents' affairs after they got too old")
+               => {02367626} <verb.social> control, command -- (exercise authoritative control or power over; "control the budget"; "Command the military forces")

@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0672
+
+DADO O SYNSET:
+
+S='Glosa672'
+{consumir: É este o tempo que o Sol precisa para [consumir todo o seu estoque de combustível, o hidrogênio que queimado produz luz e calor.,
+gastar: O dispositivo, uma caixa cinza de metal com um braço articulado, [gasta tanta energia elétrica quanto uma máquina de lavar roupa média, mas custa, segundo os inventores, cerca de US$ 104 mil. ,
+puxar: E evite abrir e fechar a porta da geladeira várias vezes. O frio sai e ela I]puxa mais energia para compensar a perda.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa672' = “usar (recursos ou materiais)”
+{consumir: É este o tempo que o Sol precisa para [consumir todo o seu estoque de combustível, o hidrogênio que queimado produz luz e calor.,
+gastar: O dispositivo, uma caixa cinza de metal com um braço articulado, [gasta tanta energia elétrica quanto uma máquina de lavar roupa média, mas custa, segundo os inventores, cerca de US$ 104 mil. ,
+puxar: E evite abrir e fechar a porta da geladeira várias vezes. O frio sai e ela I]puxa mais energia para compensar a perda.,}
+Chave: CONSUMIR <verb.consumption>
+ILI: 01121801
+
+Sense 5
+{01121801} <verb.consumption> consume1, eat up3, use up, eat13, deplete, exhaust, run through, wipe out -- (use up (resources or materials); "this car consumes a lot of gas"; "We exhausted our savings"; "They run through 20 bottles of wine a week")
+       => {02201591} <verb.possession> spend, expend, drop -- (pay out; "spend money")
+           => {02186811} <verb.possession> pay -- (give money, usually in exchange for goods or services; "I paid four dollars for this sandwich"; "Pay the waitress, please")
+               => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+                   => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children")

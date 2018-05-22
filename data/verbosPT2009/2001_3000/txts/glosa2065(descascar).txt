@@ -1,0 +1,38 @@
+ANÁLISE DA GLOSA2065
+
+DADO O SYNSET:
+	
+S='Glosa2065'
+    	{beneficiar: M]Beneficiar o arroz.,
+      	 cascar: I]Cascar a batata e colocar para cozinhar em água e sal.,
+      	 decorticar: A Fevisa Maracanaú conserva seu título de quarta colocada no ranking do Estado, devido sua capacidade instalada para I]decorticar cerca de 14 mil toneladas de castanha de caju "in natura" por ano.,
+      	 descarnar: A mariscagem, compreende o ato de pescar e catar (I]descarnar) os mariscos. # A]Descarnar um tronco de árvore.,
+      	 descascar: Uma vez abatidas as árvores, era preciso [descascar o tronco para extrair o cerne, em que se concentrava a tinta.,
+      	 descorticar: Com o aparecimento dos moinhos e das novas técnicas mecânicas para I]descorticar os cereais e os grãos como o arroz e o trigo - alimentos básicos ao ser humano - perderam 93% da fibra. # Foi necessário H]descoticar o ipê por causa dos parasita.,
+      	 descortiçar: H]Descortiçar o tronco do sobreiro.,
+      	 despelar: Para I]despelar o alho com mais facilidade deve-se escaldá-lo primeiramente em água quente, muito rapidamente, para que não perca o seu aroma. # H]Despelar um sobreiro.,
+      	 escascar: E mandamos; que pessoa alguma não corte, nem mande cortar, nem I]escascar, nem cernar algumas das ditas árvores.,
+      	 escorchar: x,
+      	 estonar: x,
+      	 pelar1: Por imitação do que nós fazíamos, os bichos aprenderam a I]pelar os pinhões.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2065' = “retirar a camada exterior de alguma coisa”
+    	{beneficiar: Vileiros de Barbosa Ferraz criam cooperativa para I]beneficiar café.,
+      	 cascar: Não foi tão difícil assim, e na verdade a pior parte é sempre I]cascar a batata.,
+      	 decorticar: A Fevisa Maracanaú conserva seu título de quarta colocada no ranking do Estado, devido sua capacidade instalada para I]decorticar cerca de 14 mil toneladas de castanha de caju "in natura" por ano.,
+      	 descarnar: A mariscagem compreende o ato de pescar, catar e I]descarnar os mariscos.,
+      	 descascar: Uma vez abatidas as árvores, era preciso [descascar o tronco para extrair o cerne, em que se concentrava a tinta.,
+      	 descorticar: A técnica de I]descorticar a semente apresenta-se como a mais prática na redução dos taninos nos grãos de cereais.,
+      	 despelar: Para I]despelar o alho com mais facilidade deve-se escaldá-lo primeiramente em água quente, muito rapidamente, para que não perca o seu aroma.,
+      	 escascar: E mandamos; que pessoa alguma não corte, nem mande cortar, nem I]escascar, nem cernar algumas das ditas árvores.,
+      	 pelar1: Por imitação do que nós fazíamos, os bichos aprenderam a I]pelar os pinhões.}
+Chave: DESCASCAR <verb.contact>
+ILI: 01225162
+
+Sense 1
+{01225162} <verb.contact> peel off -- (peel off the outer layer of something)
+       => {01224865} <verb.contact> skin, peel, pare2 -- (strip the skin off; "pare apples")
+           => {01225426} <verb.contact> strip -- (remove the surface from; "strip wood")
+               => {00166870} <verb.change> remove, take, take away1, withdraw1 -- (remove something concrete, as by lifting, pushing, taking off, etc. or remove something abstract; "remove a threat"; "remove a wrapper"; "Remove the dirty dishes from the table"; "take the gun from your pocket"; "This machine withdraws heat from the environment")

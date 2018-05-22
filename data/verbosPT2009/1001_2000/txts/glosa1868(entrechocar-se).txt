@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA1868
+
+DADO O SYNSET:
+
+S='Glosa1868'
+{entrebater-se: Voltam as armas uns contra os outros, I]entrebatendo-se aos murros e coices, com unhas e cascos, e acabam matando-se, sem chegarem nunca a saciar-se.,
+ entrechocar-se: Enquanto a vidente rezava, uma multidão de vozes sinistras, que pareciam sair das cavernas da terra, cruzaram-se e I]entrechocaram-se, como os clamores duma multidão em desordem. ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1868' = “colidirem juntos com impacto violento”
+{entrebater-se: Voltam as armas uns contra os outros, I]entrebatendo-se aos murros e coices, com unhas e cascos, e acabam matando-se, sem chegarem nunca a saciar-se.,
+ entrechocar-se: Na imensidão estelar, os corpos celestes se [entrechocam a todo momento, produzindo jatos descomunais de energia.,}
+Chave: ENTRECHOCAR-SE <verb.contact>
+ILI: 01518049
+
+Sense 1
+{01518049} <verb.contact> collide, clash -- (crash together with violent impact; "The cars collided"; "Two meteors clashed")
+       => {01198410} <verb.contact> hit1, strike1, impinge on, run into1, collide with -- (hit against; come into sudden contact with; "The car hit a tree"; "He struck the table with his elbow")
+           => {01169634} <verb.contact> touch -- (make physical contact with, come in contact with; "Touch the stone for good luck"; "She never touched her husband")

@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA1627B
+
+DADO O SYNSET:
+
+S='Glosa1627'
+{dramatizar: Os alunos do 2º ano do Ensino Médio do Colégio Santa Cecília irão dramatizar a peça O Juiz dePaz da Roça, de Martins Pena.,
+ teatralizar: Mas tudo é ligado às várias opções de I]teatralizar , mistificar um mundo onde a história não passa de prolongamento da história.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1627B' = “colocar na forma dramática, teatral”
+{adaptar: A peça dirigida por Possi Neto foi uma idéia da cineasta Regina Jehá, que [adaptou o livro de Vargas Llosa para a forma teatral.,
+ dramatizar: Os alunos [dramatizam os livros, fazendo adaptações para o teatro não só de obras obrigatórias para a Fuvest.,
+ teatralizar: Adaptação do compositor Chico Buarque de Hollanda, “Os Saltimbancos” nasceu na Itália, na forma de um trabalho de Sergio Bardotti, que I]teatralizou o conto “Os Músicos de Bremen”.,}
+Chave: ADAPTAR <verb.creation>
+ILI: 01652587
+
+Sense 1
+{01652587} <verb.creation> dramatize, dramatise, adopt -- (put into dramatic form; "adopt a book for a screenplay")
+       => {01649807} <verb.creation> write, compose1, pen, indite -- (produce a literary work; "She composed a poem"; "He wrote four novels")
+           => {01649365} <verb.creation> create verbally -- (create with or from words)
+               => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

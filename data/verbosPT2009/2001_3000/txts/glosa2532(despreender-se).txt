@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA2532
+
+DADO O SYNSET:
+
+S='Glosa2532'
+	    {cair: A História registra que Newton começou a se preocupar com o problema da queda dos corpos quando, ocasionalmente, viu uma maçã [cair de uma árvore.,
+	      desgrudar-se: Wagner depois de I]desgrudar-se do capô, com mais uns dez ossos rompendo-se como cream crackers, subiu rente ao vidro e após rodopiar uma vez sobre o carro, voltou para o chão aos rodopios e foi ficando cada vez mais para trás, até que parou.,
+	      deslocar-se: Antes da queda, o motorista e o ajudante conseguiram pular, o que os salvou, já que parte da carga I]deslocou-se para frente do caminhão e destruiu a cabine. ,
+	      despegar-se: Deu um pulo e o réptil I]despegou-se de sua perna, caindo ao solo.,
+	      despreender-se: Uma escada de ferro [se despreendeu de uma altura de 15 metros e atingiu Melo na cabeça.,
+	      saltar: Na laje superior do prédio ficaram cerca de 60 pessoas e, segundo moradores, algumas chegaram a [saltar de uma altura de 15 metros, para escapar das chamas.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2532' = “Cair verticalmente.”
+	    {cair: A I]maçã caiu da árvore na minha cabeça.,
+	      desgrudar-se: A pia branca baixinha (de cerâmica vagabunda) I]se desgrudou da parede e acabou nas mãos de Jô.,
+	      deslocar-se: A fantasia do seu professor I]se deslocou da cabeça na hora da apresentação o que pesou para a derrota.,
+	      despegar-se: De repente, algo I]se despegou do teto, e caiu em movimentos lentos e oscilantes.,
+	      despreender-se: Uma escada de ferro [se despreendeu de uma altura de 15 metros e atingiu Melo na cabeça.,}
+
+Chave: DESPREENDER-SE <verb.motion>
+ILI: 01918961
+
+Sense 2
+{01918961} <verb.motion> drop -- (to fall vertically; "the bombs are dropping on enemy targets")
+       => {01912987} <verb.motion> descend, fall, go down2, come down -- (move downward and lower, but not necessarily all the way; "The temperature is going down"; "The barometer is falling"; "The curtain fell on the diva"; "Her hand went up and then fell again")
+           => {01782203} <verb.motion> travel, go, move3, locomote -- (change location; move, travel, or proceed; "How fast does your new car go?"; "We travelled from Rome to Naples by bus"; "The policemen went from door to door looking for the suspect"; "The soldiers moved towards the city in an attempt to take it before night fell") 

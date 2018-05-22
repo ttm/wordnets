@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA1787
+
+DADO O SYNSET:
+
+S='Glosa1787'
+{embotelhar: x,
+ encascar: Era aí que se encontravam os seus armazéns e pipas para I]encascar os vinhos.,
+ encubar: H]Encubar o vinho.,
+ enfrascar: A]Enfrascar o vinho.,
+ engarrafar: A partir de hoje a Brahma deixa de produzir, [engarrafar e distribuir a marca de refrigerantes Pepsi-Cola.,
+ envasilhar: O problema, entretanto, é que sempre tivemos o mal "vício" de I]envasilhar a bebida de qualquer jeito, do velho garrafão sem rótulo nenhum ao abominável vasilhame de coca-cola.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1787' = “colocar em garrafas”
+{enfrascar: Quando iniciar fervura, adicione os pepinos e deixe até que estejam cozidos, porém, firmes. I]Enfrasque e esterilize conforme indicado anteriormente.,
+ engarrafar: Ver a herdeira da bilionária rede de hotéis Hilton ordenhando uma vaca e I]engarrafando o leite para receber um salário no final da semana: não tem preço.,
+ envasilhar: Dissolva a barrilha na quantidade de água indicada e adicione a solução de cloro, misturando levemente. Deixe de repouso por 30 minutos e em seguida I]envasilhe em embalagens de polietileno de cor escura (azul, verde ou branco fosco).,}
+Chave: ENGARRAFAR <verb.contact>
+ILI: 01460045
+
+Sense 2
+{01460045} <verb.contact> bottle -- (put into bottles; "bottle the mineral water")
+       => {01452069} <verb.contact> put, set, place, pose2, position, lay1 -- (put into a certain place or abstract location; "Put your things here"; "Set the tray down"; "Set the dogs on the scent of the missing children"; "Place emphasis on a certain point")
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA1116
+
+DADO O SYNSET:
+
+S='Glosa1116'
+{desaglomerar: Reunir as firmas de modo a concentrá-las em determinados sítios; e I]desaglomerar, de forma a influenciar em sentido contrário, isto é, de dispersá-las espacialmente.,
+ desocupar: Polícia tenta [desocupar área invadida/A Polícia Militar tenta convencer hoje os sem-terra que invadiram sábado a fazenda Santo Antonio, em Paulicéia (685 km a noroeste de São Paulo) a [desocuparem pacificamente o local,
+ dispersar: Novamente um PM, temendo ser linchado, atirou para cima a fim de [dispersar a multidão que o cercava,}
+	  
+A='Glosa3317'
+	    {aglomerar, apinhar, encher, glomerar, lotar, ocupar, preencher, repletar, tomar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1116' = “mover para longe dos outros”
+{desaglomerar: Os dados do squeeze-flow mostram que a mistura mecânica retarda a pega das pastas compostas, já que I]desaglomera as partículas.,
+ desocupar: Às 11h45, o comboio militar [desocupou a entrada do morro.,
+ dispersar: Após quatro horas, a polícia [dispersou os manifestantes, sem precisar usar a força.,}
+A='Glosa3317'
+	    {aglomerar, apinhar, encher, glomerar, lotar, ocupar, preencher, repletar, tomar}
+Chave: DISPERSAR <verb.motion>
+ILI: 01971038 
+
+Sense 6
+{01971038} <verb.motion> disperse, dissipate, scatter, spread out2 -- (move away from each other; "The crowds dispersed"; "The children scattered in all directions when the teacher approached";)
+       => {01972202} <verb.motion> separate, part2, split -- (go one's own away; move apart; "The friends separated after the party")
+           => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right")

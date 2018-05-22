@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA3881
+
+DADO O SYNSET:
+
+S='Glosa3881'
+{conter-se: Desde que há um ano e meio subiu num ônibus de segunda mão para percorrer toda a Itália como candidato e divulgador da «mensagem de esperança» da aliança partidária da Oliveira (de centro-esquerda) , o professor Prodi, orador com mímica e discursos de catedrático, fez o possível para [conter-se e demonstrar que é possível fazer uma campanha eleitoral em alto nível, sem recorrer à demagogia, pedindo que o povo compreendesse e confiasse numa séria proposta de governo .,
+ deter-se: Aqueles que, com alguma superficialidade ou muita distância dos modernos enfoques e tendências da administração empresarial, condenam a solicitação de tais contribuições, deveriam [deter-se por um momento e procurar refletir sobre as verdadeiras razões que justificam o procedimento .,
+ policiar-se: O governo tem que se [policiar para manter esse equilíbrio a qualquer custo,
+ refrear-se: Maria se conteve; H]enfreia-se com facilidade.,
+ reprimir-se: Podem I]reprimir-se os atos, mas a crença íntima é inacessível.,
+ reter-se: Camargo teve vontade de chorar, mas H]reteve-se.,
+ suster-se: Aires achou tão absurdo este pedido que esteve quase a rir, mas [susteve-se bem .,
+ ter-se: Lobo [tinha-se calado .,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3881' = “manter-se sob controle”
+{conter-se: O Velho [conteve-se para não dizer um de seus costumeiros palavrões.,
+ deter-se: “era ira de outra vinha”, disse ele já exagerando e se [detendo, ao ver em meu olhar a sombra de uma crítica.,
+ policiar-se: E ela, que tanto se I]policiou nos últimos dias, começa a demonstrar o que sente, a elogiá-lo também, a querer agradar.,
+ refrear-se: Em seu discurso, o prefeito não se I]refreou em dizer que “se as cidades forem destruídas, os campos se reconstituirão, mas se destruírem os campos, as cidades perecerão”.,
+ reprimir-se: O autor não se I]reprimiu em reforçar essa imagem negativa.,
+ reter-se: A princípio, o gerente I]reteve-se, mas qualquer segredo é vulnerável.,
+ suster-se: Aires achou tão absurdo este pedido que esteve quase a rir, mas [susteve-se bem.,
+ ter-se: Leão mal se I]tinha dos nervos e assistiu escandalizado ao período ritual com que o amigalhaço inaugurava funções.}
+Chave: CONTER-SE <verb.social>
+ILI: EQ_NEAR_SYNONYM – 02349665
+
+Sense 2
+{02349665} <verb.social> restrain1, suppress3, keep, keep back, hold back -- (keep under control; keep in check; "suppress a smile"; "Keep your temper"; "keep your cool")
+       => {02377053} <verb.social> prevent, keep1 -- (prevent from doing something or being in a certain state; "We must prevent the cancer from spreading"; "His snoring kept me from falling asleep"; "Keep the child from eating the marbles")

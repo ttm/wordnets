@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA4074
+
+DADO O SYNSET:
+
+S='Glosa4092'
+{aferretoar: x,
+aferroar: O marimbondo H]aferroou a menina.,
+aguilhar: x,
+aguilhoar: Pela noite um homem H]aguilhoava os bois.,
+agulhar: A técnica consiste em I]agulhar a pele do escalpo em pontos correspondentes às áreas funcionais do córtex.,
+apicaçar: x,
+espicaçar: H]Espicaçou o pernil para temperá-lo.,
+ferir: O carreiro M]feria sem piedade os pobres bois.,
+ferretoar: A abelha não I]ferretoa o apicultor.,
+ferroar: O mosquito fêmea não I]ferroa de dia.,
+picar: E depois a abelha me I]picou.,
+pungir: O espinho I]pungiu em sua mão.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4092B' = “picar ou instigar com ou como se com uma vara de madeira”
+{aguilhoar: Pela noite um homem H]aguilhoava os bois.,
+espicaçar: H]Espicaçou o pernil para temperá-lo.,}
+
+Chave: AGUILHOAR <verb.contact>
+ILI: 01203145
+
+Sense 4
+{01203145} <verb.contact> goad1, prick4 -- (prod or urge as if with a log stick)
+       => {01192947} <verb.contact> stab, jab2 -- (stab or pierce; "he jabbed the piece of meat with his pocket knife")
+           => {01844087} <verb.motion> thrust -- (push forcefully; "He thrust his chin forward")
+               => {01817891} <verb.motion> push, force -- (move with force, "He pushed the table into a corner")
+                   => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

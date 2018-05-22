@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA1056
+
+DADO O SYNSET:
+
+S='Glosa1056'
+{degelar-se: A carne não deve ser assada, nem grelhada ou cozida, enquanto não I]degelar-se completamente.,
+ derreter-se: Um Cristo colorido, de braços abertos pendia da cruz, e duas velas de cera [derretiam-se no lugar do bom e do mau ladrão.,
+ descongelar-se: O leite congelado não deve I]descongelar-se e tornar a congelar.,
+ desgelar-se: O que acontecerá com o seu emprego, se amanhã a Antártida I]degelar-se por completo?,}
+
+A='Glosa2458'
+{congelar-se, enregelar-se, gelar-se, regelar-se, solidificar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1056' = “tornar-se mole ou líquido”
+{degelar-se: O que acontecerá com o seu emprego, se amanhã a Antártida I]degelar-se por completo?.,
+ derreter-se: Ocorre que a mangueira se desprendeu da garra, encostou-se no cano de escapamento, [derreteu-se parcialmente e a gasolina começou a escorrer.,
+ descongelar-se: De Muspelheim, faíscas voaram sobre o gelo, cuja dureza começou a derreter e, por isso, o gigante Ymir I]descongelou-se.,
+ desgelar-se: A ciência prova o contrário: as calotas polares estão I]se desgelando e aumentando o volume d’água na terra.,}
+
+A='Glosa2458'
+{congelar-se, enregelar-se, gelar-se, regelar-se, solidificar-se}
+Chave: DERRETER-SE <verb.change> 
+ILI: 00364564
+
+Sense 2
+{00364564} <verb.change> dissolve7, thaw, unfreeze, unthaw, dethaw, melt -- (become or cause to become soft or liquid; "The sun melted the ice"; "the ice thawed"; "the ice cream melted"; "The heat melted the wax"; "The giant iceberg dissolved over the years during the global warming phase"; "dethaw the meat")
+       => {00431323} <verb.change> liquefy, flux1, liquify -- (become liquid or fluid when heated; "the frozen fat liquefied")
+           => {00135037} <verb.change> change integrity -- (change in physical make-up)
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA3195
+
+DADO O SYNSET:
+
+S='Glosa3195'
+	    {
+	      adentrar-se: O português Silvino Santos ousou I]adentrar-se na Amazônia a fim de documentar sua vida.,
+	      embrenhar-se: Era imprescindível a coragem e a habilidade dos vaqueiros, para I]embrenhar-se na mata serrada e juntar o gado.,
+	      entranhar-se: Tocando a margem, Peri saltou em terra, tomou Cecília meio adormecida nos seus braços, e ia [entranhar-se pela mata virgem que se elevava diante dele. ,
+	      internar-se: Urgia, por conseguinte, demorar-se aí algumas horas antes de [internar-se no mato; comer, beber, tratar dos animais; arranjar condução e fazer a matalotagem. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3195' = “abrir caminho”
+	     {adentrar-se: I]Adentrou-se então pelo interior do Brasil no início do século XX, sem estradas, aviões ou telefones, para integrar as comunidades mais longínquas.,
+	      embrenhar-se: O fotógrafo Pedro Martinelli deixou um emprego confortável e seguro em São Paulo e I]embrenhou-se na Amazônia com  um objetivo específico: registrar a vida do homem que vive na floresta.,
+	      entranhar-se: Barbosa ordenou a Lenita que se deixasse ficar e, com a espingarda armada, pronto a dar fogo, I]entranhou-se no mato, do lado donde vinham os grunhidos. ,
+	      internar-se: Em 1807, Pedro José Netto, oriundo de Minas Gerais, I]internou-se nas matas onde hoje está São. Carlos, fixando-se depois nos campos de Araraquara. ,}
+Chave: ADENTRAR-SE <verb.motion>
+ILI: 01934981
+
+Sense 5
+{01934981} <verb.motion> penetrate6 -- (make one's way deeper into ar through; "The hikers did not manage to penetrate the dense forest")
+       => {01934453} <verb.motion> advance, progress, pass on1, move on, march on, go on -- (move forward, also in the metaphorical sense; "Time marches on")
+           => {01782203} <verb.motion> travel, go, move3, locomote -- (change location; move, travel, or proceed; "How fast does your new car go?"; "We travelled from Rome to Naples by bus"; "The policemen went from door to door looking for the suspect"; "The soldiers moved towards the city in an attempt to take it before night fell")

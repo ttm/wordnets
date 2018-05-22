@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA3893
+
+DADO O SYNSET:
+
+S='Glosa3893'
+    	{abocar: A]Abocou a canoa para a praia.,
+      	 apontar: A casa dela I]aponta para o sul para tomar sol durante o dia.,
+      	 bocar: x,
+      	 dirigir: A]Dirigiu os primeiros pasos do filho.,
+      	 pontar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3893' = “apontar, em posição para uso” 
+    	{abocar: Eu I]abocava nele o rifle.,
+      	 apontar: Então ele [apontou uma pistola Falcon para minha cabeça.,
+      	 dirigir: Tal como na Grécia antiga, o homem intuitivo I]dirige as armas com mais força e mais vitoriosamente do que o adversário.}
+Chave: APONTAR <verb.competition>
+ILI: 01116690
+
+Sense 3
+{01116690} <verb.competition> charge1, level1, point -- (direct into a position for use; "point a gun"; "He charged his weapon at me")
+       => {01115611} <verb.competition> aim, take9, train, take aim, direct -- (aim or direct at; as of blows, weapons, or objects such as photographic equipment; "Please don't aim at your little brother!"; "He trained his gun on the burglar"; "Don't train your camera on the women"; "Take a swipe at one's opponent")
+           => {01929222} <verb.motion> position -- (cause to be in an appropriate place, state, or relation)
+               => {01452069} <verb.contact> put, set, place, pose2, position, lay1 -- (put into a certain place or abstract location; "Put your things here"; "Set the tray down"; "Set the dogs on the scent of the missing children"; "Place emphasis on a certain point")
+                   => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

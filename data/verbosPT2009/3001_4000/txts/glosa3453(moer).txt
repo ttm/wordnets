@@ -1,0 +1,45 @@
+ANÁLISE DA GLOSA3453
+
+DADO O SYNSET:
+
+S='Glosa3453'
+	{atroçoar: Atroçoar grãos,
+	 britar: Ainda hoje, os pinhões ]se britam da mesma maneira/Aí se debulham o feijão ou as favas,descascam-se e ]britam-se nozes e amêndoas,
+	 cominuir: O moinho de bolas utilizado não foi capaz de ]cominuir adequadamente os grânulos,
+	 confranger: Procurava, com as mãos enormes, ]confranger os ossos do animal,
+	 despeçar: Juntou as folhas dispersas dos autos que o menino [despedaçara/Um retrato do dirigente comunista Josip Tito caiu da parede e despedaçou-se,
+	 esmagar: Ouviu uma bulha esquisita, como se alguém [esmagasse as folhas mortas das árvores/A empresa está capacitada a [esmagar, por ano, 500 mil toneladas e 260 mil t de milho,
+	 esmigalhar: Podiam ]esmigalhar pedra e aço com as mãos nuas/Para ]esmigalhar os biscoito utilize o liquidificador ou coloque-os num saco plástico e bata com cuidado com um martelo de cozinha,
+	 espedaçar: Ouviu-se um rumor de galhos que se [espedaçavam como se uma árvore houvesse tombado na floresta/Itaquê desfechara tão formidável golpe, que o tacape e escudo de Canicrã se espedaçaram em suas mãos,
+	 fragmentar: Pintaram murais que logo [fragmentavam em pedaços,
+	 machucar: Lave bem os tomates cortados por dentro e por fora e seque com papel absorvente tendo cuidado para não ]machucar a polpa/O uso de cabos aéreos facilita o transporte dos cachos sem ]machucar as bananas,
+	 migalhar: x,
+	 migar: Agora estão a ]migar a carne para fazer chouriço e mais coisas para nós comermos/]Migar um pouco de salsa e servir,
+	 moer: Usina de cana começa a [moer a safra/A comunidade negra de Furnas do Dionísio recebeu do governo do Estado  um engenho elétrico para [moer cana-de-açúcar e uma balança,
+	 triturar: A máquina arrancou e [triturou seu couro cabeludo/Instalado na pia, o aparelho [tritura todo tipo de matéria orgânica, como restos de vegetais, pequenos ossos e cascas de ovo }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3453' = “reduzir a pequenos pedaços ou partículas através de trituramento ou esmagamento”
+	{atroçoar: H]Atroçoar grãos.,
+	 britar: Aí se debulham o feijão ou as favas, descascam-se e I]britam-se nozes e amêndoas.,
+	 cominuir: O moinho de bolas utilizado não foi capaz de I]cominuir adequadamente os grânulos.,
+	 confranger: Procurava, com as mãos enormes, I]confranger os ossos do animal.,
+	 despeçar: Um retrato do dirigente comunista Josip Tito caiu da parede e [despedaçou-se.,
+	 esmagar: A empresa está capacitada a [esmagar, por ano, 500 mil toneladas e 260 mil toneladas de milho.,
+	 esmigalhar: Para I]esmigalhar os biscoitos utilize o liquidificador ou coloque-os num saco plástico e bata com cuidado com um martelo de cozinha.,
+	 espedaçar: Ouviu-se um rumor de galhos que se [espedaçavam como se uma árvore houvesse tombado na floresta.,
+	 fragmentar: Pintaram murais que logo [fragmentavam em pedaços.,
+	 machucar: M]Machucar trigo.,
+	 migar: I]Migar um pouco de salsa e servir.,
+	 moer: Usina de cana começa a [moer a safra.,
+	 triturar: Instalado na pia, o aparelho [tritura todo tipo de matéria orgânica, como restos de vegetais, pequenos ossos e cascas de ovo. }
+Chave: MOER <verb.change>
+ILI: 00320747
+
+Sense 3 
+{00320747} <verb.change> grind, mash, crunch, bray, comminute -- (reduce to small pieces or particles by pounding or abrading; "grind the spices in a mortar"; "mash the garlic")
+       => {00327401} <verb.change> break up, fragment, fragmentize, fragmentise -- (break or cause to break into pieces; "The plate fragmented")
+           => {00323679} <verb.change> break, separate3, split up, fall apart3, come apart -- (become separated into pieces or fragments; "The figurine broke"; "The freshly baked loaf fell apart")
+               => {00135037} <verb.change> change integrity -- (change in physical make-up)
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

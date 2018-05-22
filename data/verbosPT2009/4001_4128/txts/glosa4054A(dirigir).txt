@@ -1,0 +1,36 @@
+ANÁLISE DA GLOSA4054
+
+DADO O SYNSET:
+
+S='Glosa4054'
+{digirir-se: Um expressivo grupo se I]dirigiu ao planalto do Rio Grande do Sul.,
+direcionar-se: Sabrina se levantou rapidamente, com uma cara amarrada, e se I]direcionou ao banheiro.,
+encaminhar-se: O técnico se I]encaminhou ao alambrado e deu uma das bolas para eles.,
+encarrilhar: x,
+orientar-se: M]Orientou-se no rumo certo.,
+propender: Direcionar e atuar nos locais reconhecidamente que I]propende ao consumo das aludidas substâncias tem sido forma de profilaxia desse mal.,
+tender: Muitos grandes pensadores afirmam que os seres humanos I]tendem ao crescimento, ao bem estar e ao prazer.,
+tomar: O caminhoneiro I]tomou a Estrada das Neves, em direção ao bairro Serra Alta.,}
+
+  A='Glosa1731'
+	    {derrotar2, descarrilhar, desencaminhar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4054a' = “ir ou viajar em direção a”
+{dirigir-se: Um expressivo grupo se I]dirigiu ao planalto do Rio Grande do Sul.,
+direcionar-se: Sabrina se levantou rapidamente, com uma cara amarrada, e se I]direcionou ao banheiro.,
+encaminhar-se: O técnico se I]encaminhou ao alambrado e deu uma das bolas para eles.,
+orientar-se: M]Orientou-se no rumo certo.,
+tomar: O caminhoneiro I]tomou a Estrada das Neves, em direção ao bairro Serra Alta.,}
+
+       
+A='Glosa1731'
+{derrotar2, descarrilhar, desencaminhar-se}
+Chave: DIRIGIR <verb.motion>
+ILI: 01879257
+
+Sense 1
+{01879257} <verb.motion> head -- (to go or travel towards; "where is she heading"; "We were headed for the mountains")
+       => {01937463} <verb.motion> proceed, go forward, continue -- (move ahead; travel onward in time or space; "We proceeded towards Washington"; "She continued in the direction of the hills"; "We are moving ahead in time now")
+           => {01782203} <verb.motion> travel, go, move3, locomote -- (change location; move, travel, or proceed; "How fast does your new car go?"; "We travelled from Rome to Naples by bus"; "The policemen went from door to door looking for the suspect"; "The soldiers moved towards the city in an attempt to take it before night fell")

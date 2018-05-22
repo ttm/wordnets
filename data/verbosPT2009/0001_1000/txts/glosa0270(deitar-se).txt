@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0270
+
+DADO O SYNSET:
+
+S='Glosa270'
+{deitar-se: Machucado, separado do amigo, Quincas Borba vai então [deitar-se a um canto, e fica ali muito tempo, calado.,
+largar-se: Tão exausto que estava, ele nem tirou a roupa e I]largou-se a dormir mesmo sobre as cobertas.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa270' = “pôr(se) em posição horizontal”
+{deitar-se: Machucado, separado do amigo, Quincas Borba vai então [deitar-se a um canto, e fica ali muito tempo, calado.,
+largar-se: Tão exausto que estava, ele nem tirou a roupa e I]largou-se a dormir mesmo sobre as cobertas.,}
+Chave: DEITAR-SE <verb.contact>
+ILI: 01501920
+
+Sense 2
+{01501920} <verb.contact> lay, put down, repose1 -- (put in a horizontal position; "lay the books on the table"; "lay the patient carefully onto the bed")
+       => {01452069} <verb.contact> put, set, place, pose2, position, lay1 -- (put into a certain place or abstract location; "Put your things here"; "Set the tray down"; "Set the dogs on the scent of the missing children"; "Place emphasis on a certain point")
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")
+          Also See-> {01427664} <verb.contact> lay over#2; {02238982} <verb.possession> lay away#1; {02200506} <verb.possession> lay aside#1

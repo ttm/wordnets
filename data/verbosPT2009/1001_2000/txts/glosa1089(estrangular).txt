@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA 1089
+
+DADO O SYNSET:
+
+S='Glosa1089'
+{afogar1: x,
+ asfixiar: A almofada desinfla também em frações de segundo, para não [asfixiar os ocupantes,
+ dependurar: x,
+ enforcar: Rubião, indignado, mandou logo cessar o castigo, [enforcar o Palha e recolher as vítimas,
+ esganar: Resta engolir uma história onde um herói maneta é capaz de dizimar quatro experimentados terroristas cubanos e [esganar um chinês adulto,
+ esgoelar: Isto parece afetar estranhamente Ronaldinho, que tenta I]esgoelar Roberto Carlos,
+ estrangular: O homem acabou por confessar a autoria do crime à PJ, alegando que [estrangulou a mulher na sequência de uma discussão entre os dois.,
+ pendurar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1089' = “matar apertando a garganta de modo a cortar o ar”
+{asfixiar: A almofada desinfla também em frações de segundo, para não [asfixiar os ocupantes.,
+ enforcar: Ela teria afirmado que [enforcou Dorathy com as mãos e depois colocou a cabeça da criança dentro de um balde.,
+ esganar: Resta engolir uma história onde um herói maneta é capaz de dizimar quatro experimentados terroristas cubanos e [esganar um chinês adulto.,
+ esgoelar: Isto parece afetar estranhamente Ronaldinho, que tenta I]esgoelar Roberto Carlos.,
+ estrangular: O homem acabou por confessar a autoria do crime à PJ, alegando que [estrangulou a mulher na sequência de uma discussão entre os dois.,}
+Chave: ESTRANGULAR <verb.contact> 
+ILI: 01527465 
+
+Sense 1
+{01527465} <verb.contact> strangle, strangulate, throttle -- (kill by squeezing the throat of so as to cut off the air; "he tried to strangle his opponent"; "A man in Boston has been strangling several dozen prostitutes")
+       => {01284688} <verb.contact> kill -- (cause to die; put to death, usually intentionally or knowingly; "This man killed several people when he tried to rob a bank"; "The farmer killed a pig for the holidays")

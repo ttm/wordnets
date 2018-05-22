@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0086
+
+DADO O SYNSET:
+
+S='Glosa86'
+{arborizar: Segundo o vereador, o eucalipto não é adequado para [arborizar a cidade pois impede o crescimento de outras espécies. ,
+arvorar: x,}
+A='Glosa1481'
+{desarborizar, desflorestar, desmatar, desmoitar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa86' = “plantar árvores ou estabelecer com arvoredo”
+{arborizar: Segundo o vereador, o eucalipto não é adequado para [arborizar a cidade pois impede o crescimento de outras espécies. ,}
+A='Glosa1481'
+{desarborizar, desflorestar, desmatar, desmoitar}
+Chave: ARBORIZAR <verb.contact>
+ILI: EQ_HAS_HYPERONYM – 01524432 – “estabelecer uma floresta em uma área previamente desflorestada”
+
+Sense 1
+{01524432} <verb.contact> afforest, forest -- (establish a forest on previously unforested land; "afforest the mountains")
+       => {01523846} <verb.contact> plant, set9 -- (put or set (seeds or seedlings) into the ground; "Let's plant flowers in the garden")
+           => {01452069} <verb.contact> put, set, place, pose2, position, lay1 -- (put into a certain place or abstract location; "Put your things here"; "Set the tray down"; "Set the dogs on the scent of the missing children"; "Place emphasis on a certain point")
+               => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

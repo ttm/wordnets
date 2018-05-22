@@ -1,0 +1,46 @@
+ANÁLISE DA GLOSA3950
+
+DADO O SYNSET:
+
+S='Glosa3950'
+    	{acurtar: x,
+      	 amputar: M]Amputaram-lhe os direitos.,
+      	 apertar: Precisamos I]apertar as despesas públicas.,
+      	 apoucar: Furnas não quer reconhecer a totalidade de suas dívidas trabalhistas, ou seja, maneira vergonhosa de I]apoucar direitos dos funcionários.,
+      	 arrochar: Ele defendeu os altos juros que I]arrocharam a economia durante quatro meses.,
+      	cercear: Os americanos sempre foram cínicos em relação aos políticos, porque há, «desde o início da nossa História, uma mentalidade de que o Estado é um inimigo, que quer [cercear a nossa liberdade .,
+      	 cingir: Os organizadores não queriam I]cingir o tema da "ilusão" tão somente ao âmbito da psicanálise.,
+      	 diminuir: Desde que se instalaram na Rua D. Luís, em 1990, deixaram cair o velho sistema de cavilhas e passaram a atender-nos através de modernos sistemas informáticos que fizeram [diminuir o número de reclamações .,
+      	 encurtar: Eles forçaram o CTA a reduzir a jornada de trabalho para I]encurtar gastos com alimentação e energia elétrica.,
+      	 estreitar: A frivolidade política da austeridade fiscal está ainda na refinada artimanha de I]estreitar rombos orçamentários.,
+      	 limitar: Um decreto publicado ontem no Diário Oficial da União I]limitou os gastos de cada ministério, em janeiro, em 6% do que pode ser aplicado no ano.,
+      	 minuir: x,
+      	 precingir: x,
+      	 reduzir: A NASA está a preparar um programa de poupanças com o objectivo de [reduzir as suas despesas e evitar os crónicos défices orçamentais que tem vindo a sofrer nos últimos anos .,
+      	 restringir: Supõe-se que havia uma espécie de lei, presente em todas as primeiras civilizações, que I]restringia o direito à anormalidade,
+      	 resumir: O presidenciável José Serra I]resumiu em duas palavras seu comentário.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3950' = “determinar limites”
+    	{amputar: O tirano B]amputou até a vontade do povo.,
+      	 apertar: Precisamos I]apertar as despesas públicas.,
+      	 apoucar: Furnas não quer reconhecer a totalidade de suas dívidas trabalhistas, ou seja, maneira vergonhosa de I]apoucar direitos dos funcionários.,
+      	 arrochar: Ele defendeu os altos juros que I]arrocharam a economia durante quatro meses.,
+      	cercear: Os americanos sempre foram cínicos em relação aos políticos, porque há, «desde o início da nossa História, uma mentalidade de que o Estado é um inimigo, que quer [cercear a nossa liberdade.,
+      	 cingir: Os organizadores não queriam I]cingir o tema da "ilusão" tão somente ao âmbito da psicanálise.,
+      	 diminuir: Desde que se instalaram na Rua D. Luís, em 1990, deixaram cair o velho sistema de cavilhas e passaram a atender-nos através de modernos sistemas informáticos que fizeram [diminuir o número de reclamações.,
+      	 encurtar: Eles forçaram o CTA a reduzir a jornada de trabalho para I]encurtar gastos com alimentação e energia elétrica.,
+      	 estreitar: A frivolidade política da austeridade fiscal está ainda na refinada artimanha de I]estreitar rombos orçamentários.,
+      	 limitar: Um decreto publicado ontem no Diário Oficial da União I]limitou os gastos de cada ministério, em janeiro, em 6% do que pode ser aplicado no ano.,
+      	 reduzir: O país [reduziu as tarifas de importação.,
+      	 restringir: Supõe-se que havia uma espécie de lei, presente em todas as primeiras civilizações, que I]restringia o direito à anormalidade,
+      	 resumir: O presidenciável José Serra I]resumiu em duas palavras seu comentário.}
+Chave: RESTRINGIR <verb.change>
+ILI: 00225754
+
+Sense 3
+{00225754} <verb.change> restrict, restrain, trammel, limit1, bound, confine, throttle1 -- (place limits on (extent or access); "restrict the use of this parking lot"; "limit the time you can spend with your friends")
+       => {02435410} <verb.social> control1, hold in, hold15, contain, check8, curb, moderate -- (lessen the intensity of; temper; hold in restraint; hold or keep within limits; "moderate your alcohol intake"; "hold your tongue"; "hold your temper"; "control your anger")
+           => {02349665} <verb.social> restrain1, suppress3, keep, keep back, hold back -- (keep under control; keep in check; "suppress a smile"; "Keep your temper"; "keep your cool")
+               => {02377053} <verb.social> prevent, keep1 -- (prevent from doing something or being in a certain state; "We must prevent the cancer from spreading"; "His snoring kept me from falling asleep"; "Keep the child from eating the marbles")

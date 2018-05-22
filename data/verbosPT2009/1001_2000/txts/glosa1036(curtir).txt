@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA1036
+
+DADO O SYNSET:
+
+S='Glosa1036'
+{curtir: As técnicas modernas produzem um couro com caimento de tecido, em cores fortes e os óleos e as graxas usados para I]curtir o couro são sintéticos.,
+ surrar: A grife Supreme lança bolsas em jeans puro, para [surrar e customizar.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1036' = “tratar peles e couros com ácido tânico para produzir artigos de couro”
+{curtir: As empresas instaladas no município de Bocaina não I]curtem o couro, apenas fazem seu acabamento.,
+ surrar: A grife Supreme lança bolsas em jeans puro, para [surrar e customizar.,}
+Chave: CURTIR <verb.change>  
+ILI: 00497754 
+
+Sense 1
+{00497754} <verb.change> tan -- (treat skins and hides with tannic acid so as to convert them into leather)
+       => {00369301} <verb.change> convert, change over2 -- (change from one system to another or to a new plan or policy; "We converted from 220 to 110 Volt")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

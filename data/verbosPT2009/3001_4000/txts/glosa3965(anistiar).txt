@@ -1,0 +1,35 @@
+ANÁLISE DA GLOSA3965
+
+DADO O SYNSET:
+
+S='Glosa3965'
+    	{anistiar: Para conseguir apoio em todas as frentes, o líder do governo na Câmara, deputado Luiz Carlos Santos, se reuniu com a bancada ruralista, que na semana passada aprovou um decreto legislativo que [anistiou uma dívida de US$ 97 bilhões dos agricultores e pecuaristas junto ao Banco do Brasil .,
+      	 desculpar: A familiaridade [desculpava a ação e crescia com ela .,
+      	 exculpar: Se não havia de I]exculpar as Municipalidades pela existência desses loteamentos.,
+      	 indulgenciar: Fez e desfez agrediu a imprensa, a sociedade, mas um certo ar de mistério I]indulgenciava suas loucuras.,
+      	 indultar: Em dezembro de 1990, Carlos Menem [indultou os generais que lideraram o golpe e a repressão .,
+      	 perdoar: Enquanto o princípio de [perdoar essa quantia já foi aprovado, ainda há detalhes operacionais complicados a serem equacionados .,
+      	 prelevar: M]O preofessor prelevou só uma falta.,
+      	 relevar: I]Relevei suas faltas e atrasos.,
+      	 remitir: I]Remitiu a pena de quatrro anos. ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3965' = “conceder perdão [a] (um grupo de pessoas)” 
+    	{anistiar: Na prática, a lei permitiu a volta dos exilados, mas [anistiou também todos aqueles vinculados ao aparato de segurança do Estado que praticaram assassinatos e torturas.,
+      	 desculpar: A Santa Sé assegurou que Marcinkus era inocente, I]desculpou os dirigentes do IOR de toda a responsabilidade e os protegeu com a imunidade diplomática ao alegar que o IOR era uma entidade da Igreja.,
+      	 exculpar: A anistia que está no texto da Carta de 1988 é aquela que [exculpou os subversivos e guerrilheiros que pretendiam implantar o regime comunista no País.,
+      	 indulgenciar: Pedia, para tanto, a indulgência dos leitores, que certamente o I]indulgenciaram.,
+      	 indultar: Em dezembro de 1990, Carlos Menem [indultou os generais que lideraram o golpe e a repressão.,
+      	 perdoar: Segundo Yeltsin, a Rússia não [perdoará os responsáveis pelo crime.,
+      	 relevar: Quando Lula I]releva os crimes dos companheiros é a presidência da República que também o faz.,
+      	 remitir: A justiça I]remite os crimes dos assassinos da Daniella Perez.}
+Chave: ANISTIAR <verb.communication>
+ILI: 00875913
+
+Sense 1
+{00875913} <verb.communication> amnesty -- (grant a pardon to (a group of people))
+       => {00875635} <verb.communication> pardon -- (grant a pardon to; "Ford pardoned Nixon"; "The Thanksgiving turkey was pardoned by the President")
+           => {00873684} <verb.communication> forgive -- (stop blaming or grant forgiveness; "I forgave him his infidelity"; "She cannot forgive him for forgetting her birthday")
+               => {00779984} <verb.communication> concede1, yield1, grant -- (be willing to concede; "I grant you this much")
+                   => {00779329} <verb.communication> agree, hold15, concur, concord -- (be in accord; be in agreement; "We agreed on the terms of the settlement"; "I can't agree with you!"; "I hold with those who say life is sacred"; "Both philosophers concord on this point")

@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA1005
+
+DADO O SYNSET:
+	
+S='Glosa1005'
+{bailar: Brincando com o reflexo do sol que batia ligeiramente sobre sua pele, Isa seguia extravasando sua alegria e a total liberdade, cantarolando uma de suas canções favoritas, [bailando ao próprio som.,
+	 dançar: O momento deixa todos com espírito para [dançar, independentemente de como estão suas vidas.,
+	 girar: Cada dançarino pára e recomeça a [girar de acordo com os quatro poemas da evolução humana. # Quanto tempo cada dançarino é capaz de [girar em torno de si.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1005' = “mover-se graciosa e ritmicamente” 
+{bailar: Diante do pano de fundo das multidões que guerreiam ou trabalham ou [bailam, Visconti lançou mão de toda a sua habilidade de narrador e encenador.,
+	 dançar: Lula [dançou com os índios a saudação de boas-vindas chamada de Tocandera.}
+Chave: DANÇAR <verb.motion>
+ILI: 01840266
+
+Sense 1
+{01840266} <verb.motion> dance1 -- (move in a graceful and rhythmical way; "The young girl danced into the room")
+       => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right") 

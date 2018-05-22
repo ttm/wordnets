@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA1863
+
+DADO O SYNSET:
+
+S='Glosa1863'
+    	{entrar: O documento mostra um ligeiro aumento no número de pessoas que I]entraram no país no ano passado.,
+      	 imigrar: Em contrapartida, Fidel Castro deveria controlar o êxodo e readmitir no país cerca de 1.500 criminosos cubanos que [imigraram para os EUA em 1980.,}
+  
+A='Glosa1551'
+    	{desterrar-se, emigrar, migrar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1863' = “mudar de residência, entrando em um novo país” 
+    	{entrar: O documento mostra um ligeiro aumento no número de pessoas que I]entraram no país no ano passado.,
+      	 imigrar: Em contrapartida, Fidel Castro deveria controlar o êxodo e readmitir no país cerca de 1.500 criminosos cubanos que [imigraram para os EUA em 1980.,}
+  
+A='Glosa1551'
+    	{desterrar-se, emigrar, migrar}
+Chave: IMIGRAR <verb.change>
+ILI: 00401270
+
+Sense 3
+{00401270} <verb.change> immigrate -- (come into a new country and change residency; "Many people immigrated at the beginning of the 20th century")
+       => {01802973} <verb.motion> migrate, transmigrate -- (move from one country or region to another and settle there; "Many Germans migrated to South America in the mid-19th century"; "This tribe transmigrated many times over the centuries")
+           => {01801953} <verb.motion> move2 -- (change residence, affiliation, or place of employment; "We moved from Idaho to Nebraska"; "The basketball player moved from one team to another")

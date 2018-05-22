@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA2398
+
+DADO O SYNSET:
+
+S='Glosa2398'
+	    {balbuciar: Uma mãe, que viu seus dois filhos serem torturados e mortos, [balbucia rúidos sem sentido.,
+	      tartamelar: O povo continuava desconfiado, obstinado e medroso diante de sua insistência, encarando o homem egípcio do cajado e dizendo entre os dentes: mas que palavras está você I]tartamelando aí? # Que palavras são essas que você I]tartamela?,
+	      tartamelear: x,
+	      tartamudear: Afirmei que, na presença dela, só conseguia corar e I]tartamudear, enquanto ela me fitava com um sorriso de admiração deslumbrante.,
+	      tartarear: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2398' = ”Falar indistintamente, geralmente em voz baixa.”
+	    {balbuciar: Uma mãe, que viu seus dois filhos serem torturados e mortos, [balbucia rúidos sem sentido.,
+	      tartamelar: Que palavras são essas que você I]tartamela?,
+	      tartamudear: Acostumada a vocabulário restrito, a pobre criatura I]tartamudeava palavras de reconhecimento e alegria.,}
+
+Chave: BALBUCIAR <verb.communication>
+ILI: 01010969
+
+Sense 1
+{01010969} <verb.communication> mumble, mutter1, maunder, mussitate -- (talk indistinctly; usually in a low voice)
+       => {00910961} <verb.communication> talk, speak, utter, mouth, verbalize, verbalise -- (express in speech; "She talks a lot of nonsense"; "This depressed patient does not verbalize")
+           => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+               => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel") 

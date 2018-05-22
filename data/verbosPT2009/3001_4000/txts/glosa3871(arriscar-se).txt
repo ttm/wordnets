@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA3871
+
+DADO O SYNSET:
+
+S='Glosa3871'
+{arriscar-se: Lula, aproveitando o clima da Copa, posou [arriscando-se a fazer embaixadas com uma bola de futebol .,
+ expor-se: x,
+ poder: Até um sábio M]pode ser iludido.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3871' = “aceitar um risco na esperança de um resultado favorável”
+{arriscar-se: Governador atribui mortes à nova mentalidade da polícia que agora se [arrisca e vai ao encontro do bandido para prendê-lo.}
+Chave: ARRISCAR-SE <verb.social>
+ILI: 02469144
+
+Sense 2
+{02469144} <verb.social> gamble, chance, risk1, hazard, take chances, adventure1, run a risk, take a chance -- (take a risk in the hope of a favorable outcome; "When you buy these stocks you are gambling")
+       => {02454930} <verb.social> try, seek, attempt, essay, assay -- (make an effort or attempt; "He tried to shake off his fears"; "The infant had essayed a few wobbly steps"; "The police attempted to stop the thief"; "He sought to improve himself"; "She always seeks to do good in the world")
+           => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel") 

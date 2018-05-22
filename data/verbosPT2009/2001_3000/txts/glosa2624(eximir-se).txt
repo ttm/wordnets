@@ -1,0 +1,46 @@
+ANÁLISE DA GLOSA2624
+
+DADO O SYNSET:
+
+S='Glosa2624'
+	    {absolver-se: Os próprios inquisidores podiam I]absolver-se, uns aos outros, dos pecados derivados do excesso no cumprimento das suas atribuições.,
+	      aliviar-se: A principal motivação dos inconfidentes era I]aliviar-se das dívidas com a Coroa portuguesa - isto é, queriam submeter o povo brasileiro a um modelo completamente novo de Estado para aliviar os próprios bolsos. ,
+	      descarregar-se: Pedro vem enfim esclarecer este fato para torná-lo conhecido e I]descarregar-se da responsabilidade do mal entendido. ,
+	      desobrigar-se: E muito compridas, começo por dizer, acrescentou D. Maria, que não parecia estar nesta ocasião de muito bom humor; começo por dizer-lhe mesmo na bochecha que quando for à confissão este ano trate de [desobrigar-se de um grande pecado que cometeu.,
+	      desocupar-se: Neste marco,o presidente passou a dar menos atenção a questões vinculadas aos direitos humanos, e I]desocupou-se dos chamados grandes temas - meio ambiente, controle de armamentos, racismo.,
+	      desonerar-se: O inadimplemento não é a forma de I]desonerar-se da obrigação.,
+	      dispensar-se: Stepanenko entregou pessoalmente a carta de demissão na qual disse [dispensar-se de apresentar explicações por escrito.,
+	      escusar-se: O Deputado presente no Plenário só poderá I]escusar-se de tomar parte na votação, para registrar "abstenção". ,
+	      eximir-se: Se o denunciante intenta [eximir-se da responsabilidade pelo evento danoso, atribuindo-a com exclusividade a terceiro, não há como dizer-se situada a espécie na esfera da influência do art. 70, III, do CPC, de modo a admitir-se a denunciação da lide, por isso que, em tal hipótese, não se divisa o direito de regresso, decorrente de lei ou do contrato.,
+	      exonerar-se: Nesses casos, o devedor poderá I]exonerar-se de sua obrigação através do pagamento por consignação.,
+	      isentar-se: Nenhuma autoridade ou agente da Administração federal poderá [isentar-se de prestar colaboração e de proporcionar as informações ou documentos que lhe sejam solicitados pela Codici, excetuando os preceitos de segredo previstos pela lei.,
+	      livrar-se: Ao ser preso, o cantor tentou [livrar-se do flagrante alegando que a droga era para os componentes de sua banda.,
+	      ressalvar-se: x,}
+
+	  A='Glosa489'
+	    {obrigar-se, onerar-se, sujeitar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2624' = “Isentar (-se) de obrigações ou deveres.”
+	    {absolver-se: Os próprios inquisidores podiam I]absolver-se, uns aos outros, dos pecados derivados do excesso no cumprimento das suas atribuições.,
+	      aliviar-se: A principal motivação dos inconfidentes era I]aliviar-se das dívidas com a Coroa.,
+	      descarregar-se: Pedro vem, enfim, esclarecer este fato para I]descarregar-se da responsabilidade do mal entendido.,
+	      desobrigar-se: Quando for à confissão este ano trate de [desobrigar-se de um grande pecado que cometeu.,
+	      desocupar-se: Por ser poesia lírica, I]desocupa-se da. ação heróica, trágica ou cômica.,
+	      desonerar-se: O inadimplemento não é a forma de I]desonerar-se da obrigação.,
+	      dispensar-se: Stepanenko entregou pessoalmente a carta de demissão na qual disse [dispensar-se de apresentar explicações por escrito.,
+	      escusar-se: O Deputado presente no Plenário só poderá I]escusar-se de tomar parte na votação, para registrar "abstenção".,
+	      eximir-se: Só que I]eximiu-se de sua obrigação legal. Transferiu sua responsabilidade ao consumidor.,
+	      exonerar-se: O outro contratante I]exonerou-se de suas obrigações como se seu cumprimento se tornara impossível.,
+	      isentar-se: Em nota, a empresa I]isentou-se de responsabilidade sobre a interrupção do serviço.,
+	      livrar-se: Anulando o casamento, I]livrou-se das obrigações, atingindo a plena impunidade.,}
+
+	  A='Glosa489'
+	    {obrigar-se, onerar-se, sujeitar-se}
+
+Chave: EXIMIR-SE <verb.social>
+ILI: 02349028
+
+Sense 4
+{02349028} <verb.social> free2, discharge1 -- (free from obligations or duties) 

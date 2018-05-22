@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA1749
+
+DADO O SYNSET:
+
+S='Glosa1749'
+{acoimar: Não pretendíamos I]acoimar os revoltosos. ,
+ coimar: x,
+ encoimar: x,
+ multar: Thame quer I]multar quem agride meio ambiente.  #  O papa H]multou o bispo, retirando-lhe a titularidade da diocese.,}
+	  
+A='Glosa1222'
+{desascoimar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1749' = “emitir uma multa como meio de penalidade”
+{acoimar: Os embargantes, pelo que consta do Acórdão supracitado, ignoram o fundamento legal e método de dosimetria que I]acoimou suas condutas com multas de R$400,00 (quatrocentos reais) e R$300,00 (trezentos reais).,
+ multar: A Receita Federal já [multou os bicheiros do Rio de Janeiro em US$ 10,1 milhões (de CR$ 10,4 bilhões) por sonegação de Imposto de Renda.,}
+	  
+A='Glosa1222'
+{desascoimar}
+Chave: MULTAR <verb.social>
+ILI: 02424054
+
+Sense 1
+{02424054} <verb.social> ticket, fine -- (issue a ticket or a fine to as a penalty; "I was fined for parking on the wrong side of the street"; "Move your car or else you will be ticketed!")
+       => {02423492} <verb.social> book -- (record a charge in a police register; "The policeman booked her when she tried to solicit a man")
+           => {00967710} <verb.communication> record, enter4, put down5 -- (make a record of; set down in permanent form)
+               => {02161122} <verb.possession> save, preserve1 -- (to keep up and reserve for personal or special use; "She saved the old family photographs in a drawer")
+                   => {02138940} <verb.possession> keep, hold on -- (retain possession of; "Can I keep my old stuffed animals?"; "She kept her maiden name after she married")
+                       => {02139918} <verb.possession> have, have got, hold -- (have or possess, either in a concrete or an abstract sense; "She has $1,000 in the bank"; "He has got two beautiful daughters"; "She holds a Master's degree from Harvard")

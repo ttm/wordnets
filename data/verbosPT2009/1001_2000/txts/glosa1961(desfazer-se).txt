@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA1961
+
+DADO O SYNSET:
+
+S='Glosa1961'
+{debulhar-se: A cólera deu em nada; a humilhação [debulhou-se em lágrimas legítimas.,
+ desatar-se: O próprio Machado, que, num episódio memorável, I]desatou-se em lágrimas ao nosso periodista pela morte de sua Carolina, só abria o Jornal do Brasil, nos dias que lhe antecederam a morte, para lê-lo. ,
+ desfazer-se: Vencida pela dor, a menina apertou convulsamente o seio que lhe estalava com os soluços, e reclinando-se como o cálice delicado de uma flor que a noite enchera de orvalho, [desfez-se em lágrimas.,
+ esfazer-se: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1961' = “perder a compostura emocional ou mental”
+{debulhar-se: A cólera deu em nada; a humilhação [debulhou-se em lágrimas legítimas.,
+ desatar-se: O próprio Machado, que, num episódio memorável, I]desatou-se em lágrimas ao nosso periodista pela morte de sua Carolina, só abria o Jornal do Brasil, nos dias que lhe antecederam a morte, para lê-lo.,
+ desfazer-se: Vencida pela dor, a menina apertou convulsamente o seio que lhe estalava com os soluços, e reclinando-se como o cálice delicado de uma flor que a noite enchera de orvalho, [desfez-se em lágrimas.,
+ desmanchar-se: Reb Eliyahu deu um profundo suspiro e I]desmanchou-se em lágrimas.,}
+Chave: DESFAZER-SE <verb.emotion>
+ILI: 01775786
+
+Sense 1
+{01775786} <verb.emotion> fall apart, go to pieces -- (lose one's emotional or mental composure; "She fell apart when her only child died")
+       => {01732564} <verb.emotion> break down, lose it, snap -- (lose control of one's emotions; "When she heard that she had not passed the exam, she lost it completely"; "When her baby died, she snapped")
+           => {00010141} <verb.body> act, behave, do9 -- (behave in a certain manner; show a certain behavior; conduct or comport oneself; "You should act like an adult"; "Don't behave like a fool"; "What makes her do this way?"; "The dog acts ferocious, but he is really afraid of people")

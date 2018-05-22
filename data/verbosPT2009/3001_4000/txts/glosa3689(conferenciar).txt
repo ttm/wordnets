@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA3689
+
+DADO O SYNSET:
+
+S='Glosa3689'
+	    {
+	      conferenciar: Minutos mais tarde Floriano Peixoto vem I]conferenciar com o marechal revolucionário.,
+	      parlamentar: No dia seguinte [parlamentaram e obtiveram quartel e todas as condições honrosas que pediram ao coronel. ,
+	      parlamentear: x,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3689' = “ter uma conferência para falar sobre algo”
+	     {conferenciar: Chepilov I]conferenciou demoradamente com o sr. Miochounovitch, embaixador da Infantaria.,
+	      parlamentar: No dia seguinte [parlamentaram e obtiveram quartel e todas as condições honrosas que pediram ao coronel.,}
+Chave: CONFERENCIAR <verb.communication>
+ILI: 00847211
+
+Sense 1
+{00847211} <verb.communication> confer, confabulate1, confab1, consult5 -- (have a conference in order to talk something over; "We conferred about a plan of action")
+       => {00787668} <verb.communication> hash out, discuss, talk over -- (speak with others about (something); talk (something) over in detail; have a discussion; "We discussed our household budget")
+           => {00912516} <verb.communication> talk of, talk about1 -- (discuss or mention; "They spoke of many things")
+               => {00910961} <verb.communication> talk, speak, utter, mouth, verbalize, verbalise -- (express in speech; "She talks a lot of nonsense"; "This depressed patient does not verbalize")
+                   => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                       => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                           => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

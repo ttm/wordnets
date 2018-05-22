@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0597B
+
+DADO O SYNSET:
+
+S='Glosa597'
+{chamar: Fazer num lugar grande, divulgar decentemente e [chamar o pessoal da indústria fonográfica para ver.,
+trazer: Resolveram [trazer estrelas estrangeiras para shows durante o carnaval. # A idéia é levar alunos daqui para um estágio na Suécia e [trazer alunos suecos para uma temporada no Brasil.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa597B' = “solicitar a participação ou presença de”
+{chamar: Fazer num lugar grande, divulgar decentemente e [chamar o pessoal da indústria fonográfica para ver.,}
+Chave: CHAMAR
+ILI: 01029845
+
+Sense 3
+{01029845} <verb.communication> invite1, call for3 -- (request the participation or presence of; "The organizers invite submissions of papers for the conference")
+       => {00727992} <verb.communication> request1, bespeak, call for4, quest1 -- (express the need or desire for; ask for; "She requested an extra bed in her room"; "She called for room service")
+           => {00717906} <verb.communication> communicate1, pass on, pass1, put across -- (transmit information ; "Please communicate this message to all employees")
+               => {02167243} <verb.possession> convey10, transmit10, communicate10 -- (transfer to another; "communicate a disease")
+                   => {02167764} <verb.possession> transfer1 -- (move from one place to another; "transfer the data"; "transmit the news"; "transfer the patient to another hospital")
+                       => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

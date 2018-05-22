@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0373
+
+DADO O SYNSET:
+
+S='Glosa373'
+{chamar-se: DEVIANT,
+classificar-se: Marina Alves, 22, professora e artista plástica, [classifica-se como típica consumidora.,
+qualificar-se: I]Qualifica-se como pequena empresa aquela com até 100 empregados.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa373' = “designar (-se) em uma classe ou tipo”
+{classificar-se: Marina Alves, 22, professora e artista plástica, [classifica-se como típica consumidora.,
+qualificar-se: Ele I]qualifica-se por paisagens e domínios naturais, assim como pela presença de sistemas de objetos criados pela sociedade nacional.,}
+Chave: CLASSIFICAR-SE <verb.cognition>
+ILI: 00715449
+
+Sense 3
+{00715449} <verb.cognition> relegate2, classify1 -- (assign to a class or kind; "How should algae be classified?"; "People argue about how to relegate certain mushrooms")
+       => {00715822} <verb.cognition> assign3, attribute1 -- (decide as to where something belongs in a scheme; "The biologist assigned the mushroom to the proper class")
+           => {00647983} <verb.cognition> judge -- (form an opinion of or pass judgment on; "I cannot judge some works of modern art")
+               => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

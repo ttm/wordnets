@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA2819
+
+DADO O SYNSET:
+
+S='Glosa2819'
+	    {reatar: Por isso, nada melhor que uma obra que, apontando para a originalidade desse romance, servisse para [reatar os laços culturais entre ambos os países.,
+	      restabelecer: Diante das pressões da ONU, em novembro de 1956 ficou estabelecido que uma força de emergência, composta por quase cinco mil soldados, deveria dirigir-se ao Oriente Médio para [restabelecer a linha do armistício de 1949 e assegurar a paz na região.,
+	      retomar: Após o impacto provocado pelo assassinato dos dois genros do presidente Saddam Hussein, sexta-feira passada, o governo iraquiano tentava ontem [retomar o diálogo com as Nações Unidas para acertar a venda de seu principal produto, o petróleo, em troca de comida e remédios.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2819' = “
+	    {reatar: Deu a entender que o ex-governador [reatou um contato amistoso.,
+	      restabelecer: O Vaticano anunciou ontem que [restabeleceu relações diplomáticas com a África do Sul por causa do fim do regime racista.,
+	      retomar: Logo logo o Flamengo [retomou o controle da partida, especialmente depois da entrada de Iranildo.,}
+Chave: RETOMAR <verb.social>
+ILI: 02353684
+
+Sense 1
+{02353684} <verb.social> restore, reinstate1, reestablish -- (bring back into original existence, use, function, or position; "restore law and order"; "reestablish peace in the region"; "restore the emperor to the throne")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

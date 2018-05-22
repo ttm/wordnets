@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA1647
+
+DADO O SYNSET:
+
+S='Glosa1647'
+{desfeminizar: O maquiador H]desfeminizava as atrizes.,
+ masculinizar: No começo dessa transição, a mulher que se arriscava precisava, para se impor, I]masculinizar sua figura, vestindo  figurinos os mais próximos dos homens.,
+ virilizar: Madeleine Pelletier, psiquiatra que viveu no início do século XX,  defendia que as mulheres se deviam I]virilizar para conseguir a igualdade.,}
+	  
+A='Glosa2882'
+{afeminar, efeminar, efeminizar, feminizar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1647' = “dar aparência ou característica masculina [a]”
+{desfeminizar: Ela confessa pois o motivo da própria inibição: a posse do saber faz objeção à sua identidade sexual, isto é, a I]desfeminiza, dá pois ao saber um valor fálico.,
+ masculinizar: Queremos acabar com o preconceito de que o futebol [masculiniza as mulheres.,
+ virilizar: João me I]virilizou, acabou com a sensação de que arte era “coisa de veado”, como diziam meus amigos e meu pai.,}
+	  
+A='Glosa2882'
+{afeminar, efeminar, efeminizar, feminizar}
+Chave: MASCULINIZAR <verb.change>
+ILI: 00551384
+
+Sense 1
+{00551384} <verb.change> masculinize1 -- (give a masculine appearance or character to; "Fashion designers have masculinized women's looks in the 1990s")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

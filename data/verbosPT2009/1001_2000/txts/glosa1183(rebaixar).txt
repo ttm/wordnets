@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA1183
+
+DADO O SYNSET:
+
+S='Glosa1183'
+{degradar: O TSE quer proibir todo o tipo de montagem ou trucagem que ridicularize ou [degrade a imagem dos candidatos.,
+ desautorar: O governo I]desautorou-o do encargo diplomático.,
+ exautorar: H]Exautorou o ministro.,
+ rebaixar: Uma de suas primeiras medidas consistiu em [rebaixar o status da Assessoria Especial de Relações Públicas.,}
+	  
+A='Glosa1699'
+‘{alçar, escolher, nomear, promover}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1183' = “designar para uma posição inferior; diminuir de posto/categoria” 
+{degradar: Isto é, quando ele, menino, I]degradou o pai, nomeando-o como um objeto.,
+ desautorar: O governo I]desautorou-o do encargo diplomático.,
+ exautorar: Pedro II, no Brasil, não foi, evidentemente, considerado um irmão pelos que o I]exautoraram e baniram.,
+ rebaixar: O resultado [rebaixou a equipe para a série A-2.,}
+A='Glosa1699'
+{alçar, escolher, nomear, promover}
+Chave: REBAIXAR <verb.social>
+ILI: 02327587
+
+Sense 1
+{02327587} <verb.social> demote, bump, relegate, break6, kick downstairs -- (assign to a lower position; reduce in rank; "She was demoted because she always speaks up"; "He was broken down to Sargeant")
+       => {02320208} <verb.social> delegate, designate, depute3, assign -- (give an assignment to (a person) to a post, or assign a task to (a person))
+           => {02401814} <verb.social> appoint, charge -- (assign a duty, responsibility or obligation to; "He was appointed deputy manager"; "She was charged with supervising the creation of a concordance")

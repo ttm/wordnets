@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0021
+
+DADO O SYNSET:
+
+S='Glosa21'
+{abater-se: {Com quase setenta anos, benquisto e conceituado, Xico I]abateu-se doente.,
+acamar-se: Frei Odorico, clamando de dores generalizadas e difusas, I]acamou-se levantando-se apenas para a celebração da Eucaristia.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa21' = “enfraquecer ou destruir espiritual e mentalmente” 
+{abater-se: {Com quase setenta anos, benquisto e conceituado, Xico I]abateu-se doente.,
+acamar-se: A pobrezinha entrou a definhar e, em pouco tempo, I]acamou-se abatida.,}
+Chave: ABATER-SE <verb.body>
+ILI: 00029724 
+
+Sense 59
+{00029724} <verb.body> break10 -- (weaken or destroy in spirit or body; "His resistance was broken"; "a man broken by the terrible experience of near-death")
+       => {00217329} <verb.change> weaken1 -- (lessen the strength of; "The fever weakened his body")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

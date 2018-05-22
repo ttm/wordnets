@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0992
+
+DADO O SYNSET:
+
+S='Glosa992'
+{convulsar: Os dentes mostra, as bocas escancara, de sanha os membros todos I]convulsando.,
+convulsionar: Crianças com antecedentes pessoais ou familiares de convulsão apresentam maior risco de I]convulsionar nas primeiras 48 horas após a administração da vacina.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa992' = “contrair (-se); pôr em convulsão”
+{convulsar: Os dentes mostra, as bocas escancara, de sanha os membros todos I]convulsando.,
+convulsionar: Crianças com antecedentes pessoais ou familiares de convulsão apresentam maior risco de I]convulsionar nas primeiras 48 horas após a administração da vacina.,}
+Chave: CONVULSIONAR <verb.contact>
+ILI: 01348670
+
+Sense 5
+{01348670} <verb.contact> convulse1 -- (cause to contract; "The spasm convulses her facial muscles")
+       => {01347521} <verb.contact> compress, constrict, squeeze1, compact, contract4, press2 -- (squeeze or press together; "she compressed her lips"; "the spasm contracted the muscle")
+           => {00407836} <verb.change> tighten -- (become tight or tighter; "The rope tightened")
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

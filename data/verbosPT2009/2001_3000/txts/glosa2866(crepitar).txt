@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA2866
+
+DADO O SYNSET:
+
+S='Glosa2866'
+	    {crepitar: Reunidos alí, em noite adentro, ao I]crepitar das chamas de uma fogueira, poetas num burburinho e em alegrias, declamavam ao luar extasiados.,
+	      espirrar: A lenha M]espirra na lareira,
+	      estalar: A fogueira do acampamento I]estalou. ,
+	      estralar: O isqueiro I]estralou diante de sua face.,
+	      fagulhar: Sentimos o I]fagulhar das chamas.,
+	      faiscar: O I]faiscar da fogueira.,
+	      faular: x,
+	      respingar2: A H]fogueira respingava.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2866' = “Fazer um som de estalo”
+	    {crepitar: Durante toda a noite o fogo I]crepitou terrível e altas labaredas iluminavam sinistramente a floresta.,
+	      estalar: A fogueira do acampamento I]estalou.,
+	      estralar: O isqueiro I]estralou diante de sua face.,
+	      fagulhar: Trens a carvão e lenha que I]fagulhavam na noite como pistolões acesos.,
+	      faiscar: Quase que se não podia sair à rua: as pedras escaldavam; as vidraças e os lampiões [faiscavam ao sol como enormes diamantes.,}
+Chave: CREPITAR <verb.perception>
+ILI: 02112989
+
+Sense 1
+{02112989} <verb.perception> crepitate, crackle -- (make a crackling sound; "My Rice Crispies crackled in the bowl")
+       => {02112662} <verb.perception> rattle -- (make short successive sounds)
+           => {02113837} <verb.perception> sound, go -- (make a certain noise or sound; "She went `Mmmmm'"; "The gun went `bang'")
+               => {02062507} <verb.perception> cause to be perceived -- (have perceptible qualities) 

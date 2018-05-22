@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA1968
+
+DADO O SYNSET:
+
+S='Glosa1968'
+{descamisar: x,
+ descapelar: x,
+ desencamisar: Lá, como aqui, era o realizar de um trabalho agrícola de ajuda mútua, rodeado de um clima de festa, que se prolongava por vários dias, enquanto os vizinhos tivessem maçarocas para I]desencamisar. ,
+ desfolhar: À volta duma meda de milho enquadrados por trabalhadores agrícolas numa noite enluarada de estio um grupo de jovens citadinos aprendia numa saudável alegria a dura arte de I]desfolhar o milho.,
+ escamisar: Depois da cesta juntavam-se nos quintais para I]escamisar e malhar o milho, o feijão, o grão e outros produtos. ,
+ escarpelar: x,
+ esfolhar: I]Esfolhar: tirar as folhas do milho.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1968' = “retirar a película ou palha [de]”
+{desfolhar: À volta duma meda de milho enquadrados por trabalhadores agrícolas numa noite enluarada de estio um grupo de jovens citadinos aprendia numa saudável alegria a dura arte de I]desfolhar o milho.,}
+Chave: DESFOLHAR <verb.change>
+ILI: 00173575
+
+Sense 2
+{00173575} <verb.change> shuck -- (remove the shucks from; "shuck corn")
+       => {00166870} <verb.change> remove, take, take away1, withdraw1 -- (remove something concrete, as by lifting, pushing, taking off, etc. or remove something abstract; "remove a threat"; "remove a wrapper"; "Remove the dirty dishes from the table"; "take the gun from your pocket"; "This machine withdraws heat from the environment")

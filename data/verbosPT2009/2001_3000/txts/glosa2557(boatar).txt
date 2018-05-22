@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA2557
+
+DADO O SYNSET:
+
+S='Glosa2557'
+	    {boatar: Ele, por perversidade, é capaz de não querer professora nenhuma, pediu essas vinte apenas para a gente negar e ele poder I]boatar depois que está sendo perseguido.,
+	      rumorar: Dr. Proteções, I]rumorou que você há pouco foi salvo a tempo por um bombeiro que recusou o deixar apanhado em seu carro, embora estivesse perto de explodir.,
+	      rumorejar: As comadres M]rumorejam boatos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2557' = “Contar ou espalhar boatos.”
+	    {boatar: Ronaldinho processou a modelo Denise Lima, que I]boatou que passou uma noite com ele.,
+	      rumorar: Dr. Proteções, I]rumorou que você foi salvo a tempo por um bombeiro que recusou o deixar apanhado em seu carro.,}
+
+Chave: BOATAR <verb.communication>
+ILI: 01008700
+
+Sense 1
+{01008700} <verb.communication> rumor, rumour, bruit -- (tell or spread rumors; "It was rumored that the next president would be a woman")
+       => {01008426} <verb.communication> dish the dirt, gossip -- (wag one's tongue; speak about others and reveal secrets or intimacies; "She won't dish the dirt")
+           => {00930524} <verb.communication> talk1, speak1 -- (exchange thoughts; talk with; "We often talk business"; "Actions talk louder than words")
+               => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                   => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                       => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel") 

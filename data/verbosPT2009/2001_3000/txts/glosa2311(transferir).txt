@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA2311
+
+DADO O SYNSET:
+
+S='Glosa2311'
+	    {alhear: Os menores e os filhos-famílias comerciantes podem obrigar, hipotecar e I]alhear validamente os seus bens de raiz, sem que possam alegar o beneficio de restituição contra estes atos, ou outras quaisquer obrigações comerciais que contraírem.,
+	      ceder: É o Poder Executivo autorizado a I]ceder os bens e os servidores da Fundação Roquette Pinto no Estado do Maranhão ao Governo daquele Estado.,
+	      transferir: Adquiri em junho/93, um sobrado, o qual ainda não [transferi para meu nome.,
+	      transmudar: O Direito Tributário concebe todas as especificações da matéria delineada e regulamentada pelo Direito Privado, enfocando, para a ocorrência do fato gerador do ICMS, a saída, não meramente física, mas como operação jurídica capaz de I]transmudar a titularidade da mercadoria do estabelecimento do comerciante, industrial ou produtor.,
+	      transmutar: A opção de compra em caso de Leasing I]transmutou o Direito de Aquisição do bem em um Dever do Consumidor, onerando-o demasiadamente ao obrigá-lo a antecipar um resíduo equivalente a 50% do valor financiado, sem opção de devolução dos valores pagos ao término do contrato.,
+	      transpassar: As pessoas jurídicas beneficiadas não poderão sem autorização da SUDEPE alienar ou I]transpassar a propriedade, uso e gozo dos bens e elementos que tiverem sido importados em conformidade com o artigo 73 do Decreto-Lei Nº 221, de 28 de fevereiro de 1967.,
+	      traspassar: O Município pode I]traspassar veículo de sua propriedade para outro ente da Federação, desde que para atendimento de interesse público e em melhores condições de prestação do serviço público do que o próprio Município, devendo utilizar o instituto da Cessão de Uso.,
+	      trespassar: A execução dos contratos, notadamente os de obras públicas, exige uma diversidade de equipamentos, instalações e recursos humanos e a aplicação de tecnologia avançada, e ao contratado, muitas vezes, é mais vantajoso I]trespassar parte de suas obrigações a terceiros.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2311' = “transmitir para outro indivíduo uma propriedade, posse ou um domínio”
+	    {alhear: Os menores podem hipotecar e I]alhear validamente os seus bens de raiz,.,
+	      ceder: É o Poder Executivo que é autorizado a I]ceder os bens e os servidores da Fundação Roquette Pinto no Estado do Maranhão ao Governo daquele Estado.,
+	      transferir: Adquiri em junho/93, um sobrado, o qual ainda não [transferi para meu nome.,
+	      transmudar: Operação jurídica capaz de I]transmudar a titularidade da mercadoria do estabelecimento do comerciante, industrial ou produtor.,
+	      transmutar: A opção de compra em caso de Leasing I]transmutou o Direito de Aquisição do bem em um Dever do Consumidor, onerando-o demasiadamente ao obrigá-lo a antecipar um resíduo equivalente a 50% do valor financiado, sem opção de devolução dos valores pagos ao término do contrato.,
+	      transpassar: As pessoas jurídicas beneficiadas não poderão sem autorização I]transpassar a propriedade, uso e gozo dos bens.,
+	      traspassar: O Município pode I]traspassar veículo de sua propriedade para outro ente da Federação.,
+	      trespassar: Muitas vezes, é mais vantajoso I]trespassar parte de suas obrigações a terceiros.,}
+
+Chave: TRANSFERIR <verb.possession>
+ILI: 02157309
+
+Sense 2
+{02157309} <verb.possession> alien, alienate -- (transfer property or ownership; "The will aliened the property to the heirs")
+       => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children") 

@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA0223
+
+DADO O SYNSET:
+
+S='Glosa223'
+{decair: Na saída da sinagoga, Mandela declarou que o padrão de vida dos brancos não iria [decair, embora a prioridade do governo do CNA seja a de melhorar o padrão de vida de negros, mestiços e indianos.,
+descer: Depois de um ligeiro crescimento na década de vinte, a exportação [desceu para 334.293 toneladas no período de 1931-1939.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa223' = “cair em declínio”
+{decair: Na saída da sinagoga, Mandela declarou que o padrão de vida dos brancos não iria [decair, embora a prioridade do governo do CNA seja a de melhorar o padrão de vida de negros, mestiços e indianos.,
+descer: Depois de um ligeiro crescimento na década de vinte, a exportação [desceu para 334.293 toneladas no período de 1931-1939.,}
+Chave: DECAIR <verb.change>
+ILI: 00201478
+
+Sense 2
+{00201478} <verb.change> decay, crumble13, delapidate -- (fall into decay or ruin; "The unoccupied house started to decay")
+       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

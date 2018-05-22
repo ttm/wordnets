@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA1714
+
+DADO O SYNSET:
+
+S='Glosa1714'
+{canalizar: Durante o trajeto, ao redor da pista notei um grande pasto cheio de bois e cavalos em meio a uma movimentada obra que pretende I]canalizar o rio para lançar ao mar os barcos dos aviadores que se dispuserem a comprar um terreno no futuro condomínio ao redor da pista. ,
+ encanar: Apesar de prever prisão, ninguém foi para a cadeia por cometer o crime de I]encanar o esgoto para lagoas, rios ou mar. ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1714' = “prover [uma cidade] com um canal”
+{canalizar: O Canal da Maternidade visava [canalizar um córrego no centro de Rio Branco.,
+ encanar: Apesar de prever prisão, ninguém foi para a cadeia por cometer o crime de I]encanar o esgoto para lagoas, rios ou mar.,}
+Chave: CANALIZAR <verb.possession>
+ILI: 02268541
+
+Sense 1
+{02268541} <verb.possession> canal, canalize, canalise -- (provide (a city) with a canal)
+       => {02259805} <verb.possession> supply, provide, render2, furnish -- (provide or furnish with; "We provided the room with an electrical heater")
+           => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+               => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children")

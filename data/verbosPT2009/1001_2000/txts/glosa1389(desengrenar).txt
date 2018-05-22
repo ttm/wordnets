@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA1389
+
+DADO O SYNSET:
+
+S='Glosa1389'
+{debrear: Passado um momento de reação instintiva, I]debreou, engatou a primeira marcha e acelerou.,
+ desembrear2: O correto é segurar o peso do automóvel com o freio e I]desembrear o veículo apenas no momento de colocá-lo em movimento.,
+ desengranzar: x,
+ desengrazar: Manoel Correa Cavalcante, que estava na lancha desgovernada, disse que o manete de aceleração não queria I]desengrazar.,
+ desengrenar: Muitos motoristas ainda possuem o hábito de I]desengrenar a marcha e deixar o câmbio em ponto morto.,
+ desentrosar: Colocaram bateria nos teclados, e justamente quando colocaram bateria nos teclados, I]desentrosou todas as ligações,}
+	  
+A='Glosa1765'
+{embrear2, engrazar, engrenar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1389' = “fazer com que [algo] deixe de estar engrenado” 
+{desengrenar: Depois de superar as dificuldades I]desengrene os sistemas.,
+ desentrosar: Colocaram bateria nos teclados, e justamente quando colocaram bateria nos teclados, I]desentrosou todas as ligações.,}
+A='Glosa1765'
+{embrear2, engrazar, engrenar}
+Chave: DESENGRENAR <verb.contact>
+ILI: 01469111
+
+Sense 1
+{01469111} <verb.contact> disengage, withdraw -- (release from something that holds fast, connects, or entangles; "I want to disengage myself from his influence"; "disengage the gears")
+       => {01432719} <verb.contact> let go of, let go, release, relinquish2 -- (release, as from one's grip; "Let go of the door handle, please!"; "relinquish your grip on the rope--you won't fall")

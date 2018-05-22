@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA1278
+
+DADO O SYNSET:
+
+S='Glosa1278'
+{desempenar: Planar e I]desempenar madeira manualmente pode se tornar um trabalho bem fácil com o uso deste equipamento,
+ desentortar: Ninguém vai [desentortar aqueles postes da Visconde de Pirajá,
+ endireitar: H]Endireitaram a estante, que estava empenada,}
+
+A='Glosa1689'
+	    {empenar1, enjambrar, entortar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1278' = “fazer uma tábua [ou semelhante] ficar desentortada, endireitada”
+{desempenar: Ele I]desempenou o braço da minha guitarra.,
+ desentortar: Ninguém vai [desentortar aqueles postes da Visconde de Pirajá.,
+ endireitar: Lopão I]endireitou a haste da cruz, que agora vai ereta e firme.,}
+
+A='Glosa1689'
+	    {empenar1, enjambrar, entortar}
+Chave: ENDIREITAR <verb.contact>
+ILI: EQ_HAS_HYPERONYM – 01186486 – “fazer ficar desentortado, endireitado”
+
+Sense 1
+{01186486} <verb.contact> untwist -- (cause to become untwisted)
+       => {01328500} <verb.contact> straighten, straighten out -- (make straight)
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

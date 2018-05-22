@@ -1,0 +1,43 @@
+ANÁLISE DA GLOSA3433
+
+DADO O SYNSET:
+
+S='Glosa3433'
+	    {
+	      amentar2: x,
+	      comemorar: A idéia era [comemorar os 496 anos de Descobrimento do Brasil /O Arquivo Nacional [comemora seus 158 anos,
+	      ementar: x,
+	      escordar1: x,
+	      lembrar: O compositor [lembra de um momento inesquecível/Esse noticiário [lembra uma época tão triste,
+	      memorar: Quase todas as cidades grandes, incluindo Honolulu, Havaí,tem algum tipo de edifício para ]memorar o Holocausto/A Ceia do Senhor é uma ordenança da igreja, cujo objetivo é simbolizar e ]memorar a morte de Cristo,
+	      reconstituir: Ressurreição significa penetrar até os mais fundos recessos das vidas passadas a fim de as ][reconstituir em toda a sua estranhesa/ Com a lembrança de fotografias e filmes,[ reconstitui-se bem a visão daquele momento épico da guerra,
+	      recordar: Prefere recordar tempos mais agradáveis/Chernobil [recorda 10 anos da catástrofe,
+	      relembrar: Pode [relembrar essa história, por favor ?/De quando em quando, tornávamos ao passado e divertíamo-nos em [relembrar as nossas tristezas,
+	      rememorar: Bebendo, [rememoram os bastidores da Revolução/Os fãs do extinto programa vão ter quatro dias para [rememorar os bons tempos,
+	      rever1: Vai ter muito o que [rever em sua volta à cidade,
+	      revisitar: ]Revisitar a nossa História/Quisera me fosse dado ]revisitar glórias passadas,
+	      reviver: A terapeuta ajuda um paciente a [reviver a história de atividades e disparates passados/Para [reviver as antigas sessões do cinema mudo, haverá na praça acompanhamento musical ao vivo,
+	      revivescer: ]Revivescer a história/]Revivescer o passado é construir,pedra a pedra, o multissecular edifício da História,
+	      ver: Nas horas de saudade ele ]vê toda a sua vida de estudante,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3433' = “chamar à recordação; manter vivo na memória, como em uma cerimônia” 
+	     {comemorar: O Arquivo Nacional [comemora seus 158 anos, amanhã, inaugurando a exposição Cativeiro e Liberdade,
+	      lembrar: O compositor [lembra de um momento inesquecível/Esse noticiário [lembra uma época tão triste,
+	      memorar: Tradições árabes I]memoram os Mogharriun, partidos de Lisboa à cata de aventuras,
+	      reconstituir: 'Memórias' I]reconstitui um destino nacional/ Com a lembrança de fotografias e filmes,[ reconstitui-se bem a visão daquele momento épico da guerra,
+	      recordar: Praga I]recorda segunda guerra mundial/Chernobil [recorda 10 anos da catástrofe,
+	      relembrar: A Semana Santa [relembra os últimos dias de Cristo na terra/A missa [relembra os 30 dias de morte do bebê Indiara Félix Santos Affonso, aos dois meses de idade, nas ruas do centro,
+	      rememorar: Bebendo, [rememoram os bastidores da Revolução/Chico Buarque volta ao samba e [rememora 30 anos de carreira,
+	      rever1: Ciclo [revê obra do ' marginal ' Candeias,
+	      revisitar: O Conquistador [revisita um dos mitos mais poderosos da História e, por extensão, do imaginário português, o de D. Sebastião,
+	      reviver: ' A 2ª Pátria ' [revive juventude alemã dos 60,
+	      revivescer: ]Revivescer a história/]Revivescer o passado é construir,pedra a pedra, o multissecular edifício da História,
+	      ver: Sérgio I]via o passado como uma coisa viva,}
+Chave: RECORDAR <verb.cognition>
+ILI: 00591594
+
+Sense 8
+{00591594} <verb.cognition> commemorate, remember9 -- (call to remembrance; keep alive the memory of someone or something, as in a ceremony; "We remembered the 50th anniversary of the liberation of Auschwitz"; "Remember the dead of the First World War")

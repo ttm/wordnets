@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA2192
+
+DADO O SYNSET:
+
+S='Glosa2192'
+	    {avistar-se: Em 44 A.C., logo após o assassinato de Júlio César, [avistou-se nos céus do império uma estrela cadente, que os romanos cismaram tratar-se da alma do imperador a caminho dos deuses, e mais nada.,
+	      entrever-se: Surrealista é a imagem de um gigantesco cogumelo que domina uma paisagem devastada, I]entrevendo-se na linha do horizonte o perfil de uma cidade. ,
+	      vislumbrar: Num campo I]vislumbrou a cerca de três passos, duas perdizes que voavam sobre medas. ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2192' =”perceber pela visão, ver”
+	    {avistar-se: Em 44 A.C., logo após o assassinato de Júlio César, [avistou-se nos céus do império uma estrela cadente, que os romanos cismaram tratar-se da alma do imperador a caminho dos deuses, e mais nada.,
+	      entrever-se: Surrealista é a imagem de um gigantesco cogumelo que domina uma paisagem devastada, I]entrevendo-se na linha do horizonte o perfil de uma cidade. ,
+	      vislumbrar: Num campo I]vislumbrou a cerca de três passos, duas perdizes que voavam sobre medas. ,}
+
+Chave: AVISTAR-SE <verb.perception>
+ILI: 02101907
+
+Sense 1
+{02101907} <verb.perception> sight -- (catch sight of; to perceive with the eyes; "he caught sight of the king's men coming over the ridge")
+       => {02045668} <verb.perception> perceive, comprehend -- (to become aware of through the senses; "I could perceive the ship coming over the horizon")

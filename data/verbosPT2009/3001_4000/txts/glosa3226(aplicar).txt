@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA3226
+
+DADO O SYNSET:
+
+S='Glosa3226'
+{aplicar: Não vamos deixar de [aplicar uma pena de acordo com a lei, de acordo com o crime.,
+	 cominar: A decisão que indefere petição inicial não precisa conter os requisitos do art. 458 do CPC, bastando a fundamentação no dispositivo que [comina a sanção.,
+	 decretar: Juiz [decreta penhora de um imóvel de Xuxa.,
+	 impor: No dia seguinte, o comando da PM [impôs a Eliezer o castigo de dez dias sem deixar o quartel, inclusive na noite de Natal.. ,
+	 infligir: De acordo com o código da ONU, nenhum agente da lei pode [infligir, tolerar ou instigar ato de tortura ou outros atos desumanos ou degradantes. ,
+	 irrogar: O decurso do tempo e a positividade das normas de regência do tema estão a indicar a extinção do poder de o Estado I]irrogar a punição porventura cabível.,
+	 prescrever: O confessor o repreendeu, I]prescreveu-lhe pesada penitência e o advertiu, severamente.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3226' = “impor alguma coisa desagradável”
+{aplicar: Não vamos deixar de [aplicar uma pena de acordo com a lei, de acordo com o crime.,
+	 cominar: A decisão que indefere petição inicial não precisa conter os requisitos do art. 458 do CPC, bastando a fundamentação no dispositivo que [comina a sanção.,
+	 decretar: Juiz [decreta penhora de um imóvel de Xuxa.,
+	 impor: No dia seguinte, o comando da PM [impôs a Eliezer o castigo de dez dias sem deixar o quartel, inclusive na noite de Natal.,
+	 infligir: De acordo com o código da ONU, nenhum agente da lei pode [infligir, tolerar ou instigar ato de tortura ou outros atos desumanos ou degradantes.,
+	 irrogar: O decurso do tempo e a positividade das normas de regência do tema estão a indicar a extinção do poder de o Estado I]irrogar a punição porventura cabível.,
+	 prescrever: O confessor o repreendeu, I]prescreveu-lhe pesada penitência e o advertiu, severamente.}
+Chave: APLICAR <verb.communication>
+ILI: 00723747
+
+Sense 1
+{00723747} <verb.communication> inflict, bring down, visit1, impose -- (impose something unpleasant; "The principal visited his rage on the students")
+       => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+           => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+               => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

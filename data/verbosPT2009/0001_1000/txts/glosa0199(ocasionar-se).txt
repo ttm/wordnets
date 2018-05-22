@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0199
+
+DADO O SYNSET:
+
+S='Glosa199'
+{ocasionar-se: I]Ocasiona-se, então, um aumento excessivo no consumo de combustível, embora o desempenho do motor fique aparentemente normal.,
+originar-se: Essa convicção se [origina, segundo ele, da sua capacidade profissional.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa199' = “ter origem; derivar(-se); ser proveniente”
+{ocasionar-se: I]Ocasiona-se, então, um aumento excessivo no consumo de combustível, embora o desempenho do motor fique aparentemente normal.,
+originar-se: Essa convicção se [origina, segundo ele, da sua capacidade profissional.,}
+Chave: OCASIONAR-SE <verb.creation>
+ILI: 01599718
+
+Sense 1
+{01599718} <verb.creation> occasion -- (give occasion to)
+       => {01598809} <verb.creation> cause, do2, make8 -- (give rise to; cause to happen or occur, not always intentionally; "cause a commotion"; "make a stir"; "cause an accident")
+           => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

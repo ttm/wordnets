@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA2541
+
+DADO O SYNSET:
+
+  S='Glosa2541'
+	    {abstrair-se: x,
+	      afastar-se: O navio I]afastou-se lentamente do cais, enquanto os passageiros acenavam para os parentes que icavam em terra.,
+	      apartar-se: Que nem, dos brejos dos Gerais, sai uma vereda para o nascente e outra para o poente, riachinhos que [se apartam de vez, mas correndo, claramente, na sombra de seus buritizais.,
+	      derivar: Mas as condições de vento mudaram drasticamente, o barco começou a I]derivar para águas mais profundas e afundou.,
+	      derrotar2: O barco A]derrotou.,
+	      descair: Pensou que teria sido melhor deixar o carro em sítio onde pudesse faze-lo I]descair para pegar mais facilmente.,
+	      desviar-se: A esquadra I]desviou-se da rota de Vasco da Gama e, em 22 de abril chegou ao Brasil.,
+	      sair: Os aviões resolvem I]sair da rota traçada e invadir uma área proibida para as forças da OTAN.,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2541' = “Afastar (-se) de uma rota prevista ou esperada.”
+	    {afastar-se: O navio I]afastou-se lentamente do cais.,
+	      apartar-se: Depois de alguns dias, quando voltou para a tomar, I]apartou-se do caminho a ver o corpo do leão morto.,
+	      derivar: Mas as condições de vento mudaram drasticamente, o barco começou a I]derivar para águas mais profundas e afundou.,
+	      derrotar2: Ventos fortes H]derrotaram a esquadra do caminho correto.,
+	      descair: H]Descaíram do percurso planejado.,
+	      desviar-se: A esquadra I]desviou-se da rota de Vasco da Gama e, em 22 de abril chegou ao Brasil.,
+	      sair: O piloto Joseph Lepore e o co-piloto Jean Paul Paladino disseram que não I]saíram da rota planejada.,}
+
+Chave: DESVIAR-SE <verb.motion>
+ILI: 02006510
+
+Sense 3
+{02006510} <verb.motion> deviate1 -- (cause to turn away from a previous or expected course; "The river was deviated to prevent flooding")
+       => {01894953} <verb.motion> divert1 -- (send on a course or in a direction different from the planned or intended one)
+           => {01894071} <verb.motion> send1, direct1 -- (cause to go somewhere; "The explosion sent the car flying in the air"; "She sent her children to camp"; "He directed all his energies into his dissertation")
+               => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant") 

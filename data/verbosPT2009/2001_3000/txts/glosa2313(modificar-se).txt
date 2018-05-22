@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA2313
+
+DADO O SYNSET:
+
+  S='Glosa2313'
+	    {alterar-se: Dependendo de como cada leitor se posiciona em relação aos vocábulos em cada momento, as funções gramaticais [se alteram: "muda" pode ser verbo ou adjetivo; "mente" pode ser verbo, substantivo e até mesmo sufixo adverbial.,
+	      modificar-se: Dessa forma, a seqüência dos aminoácidos na proteína [se modifica, o que pode acarretar alteração na estrutura protéica e comprometer o papel biológico da referida proteína.,
+	      mudar-se: Todo ponto material tende a permanecer em repouso ou em movimento retilíneo uniforme, a menos que seja obrigado a [mudar a sua velocidade devido a forças que nele atuem.,
+	      transmudar-se: A natureza empobrece-se; despe-se das grandes matas; abdica o fastígio das montanhas; erma-se e deprime-se — I]transmudando-se nos sertões exsicados e bárbaros, onde correm rios efêmeros, e destacam-se em chapadas nuas, sucedendo-se, indefinidas, formando o palco desmedido para os quadros dolorosos das secas. ,
+	      transmutar-se: O capitalismo I]transmutou-se em várias fases: mercantil-imperial; industrial-colonial; serviços-neocolonial e o atual estágio de “globalização assimétrica”, monopolista ou oligopolista, além da exploração, da exclusão de continentes, países e fatias das populações nacionais.,
+	      variar: Algumas dessas normas podem [variar, enquanto outras mantem-se estáveis. # A velocidade das ondas sonoras [varia não só de meio para meio, como também pode variar num mesmo meio quando varia a temperatura.,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2313' = “Fazer ou tornar-se diferente de alguma maneira particular, sem perder permanentemente suas características primeiras ou sua essência.”
+	    {alterar-se: Dependendo de como cada leitor se posiciona em relação aos vocábulos em cada momento, as funções gramaticais [se alteram.,
+	      modificar-se: Dessa forma, a seqüência dos aminoácidos na proteína [se modifica, o que pode acarretar alteração na estrutura protéica.,
+	      mudar-se: Quando se alterava qualquer um desses requisitos, I]mudava-se a situação jurídica da pessoa também.,
+	      transmudar-se: E a voz da chinoca tornou-se áspera, enquanto toda a sua fisionomia I]transmudava-se num ar imperativo. ,
+	      transmutar-se: Os cortesãos I]transmutavam-se em personagens estudadas.,
+	      variar: Benedita fez um discurso cujo tom [variou do comício à pregação.,}
+
+Chave: MODIFICAR-SE <verb.change>
+ILI: 00118358
+
+Sense 3
+{00118358} <verb.change> change2, alter, vary1 -- (make or become different in some particular way, without permanently losing one's or its former characteristics or essence; "her mood changes in accordance with the weather"; "The supermarket's selection of vegetables varies according to the season")

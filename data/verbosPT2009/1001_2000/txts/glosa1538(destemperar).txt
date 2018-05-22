@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA1538
+
+DADO O SYNSET:
+
+S='Glosa1538'
+{dessazonar: O excesso de água H]dessazonou nosso ensopado. ,
+ destemperar: Não deixe a água do banho maria ferver, pois isso vai I]destemperar o chocolate. ,}
+	  
+A='Glosa141'
+{adubar, condimentar, sazonar, temperar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1538' = “diminuir o sabor de uma solução ou mistura”
+{destemperar: Não deixe a água do banho maria ferver, pois isso vai I]destemperar o chocolate.,}
+	  
+A='Glosa141'
+{adubar, condimentar, sazonar, temperar}
+Chave: DESTEMPERAR <verb.change>
+ILI: 00218499
+
+Sense 1
+{00218499} <verb.change> dilute, thin2, thin out2, reduce9, cut5 -- (lessen the strength or flavor of a solution or mixture; "cut bourbon")
+       => {00217329} <verb.change> weaken1 -- (lessen the strength of; "The fever weakened his body")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

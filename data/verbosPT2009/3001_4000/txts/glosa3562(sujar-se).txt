@@ -1,0 +1,51 @@
+ANÁLISE DA GLOSA3562
+
+DADO O SYNSET:
+
+S='Glosa3562'
+	    {
+	      abodegar-se: x,
+	      borrar-se: Existe algum truque para passar lápis sem I]se borrar? ,
+	      conspurcar-se: Não se combatia debaixo de chuva para que os penteados gomalinados não [se conspurcassem e as camisas não se desbotassem . ,
+	      emborralhar-se: Com a ajuda de cinza peneirada e dissolvida em água I]se emborralhavam.,
+	      emporcalhar-se: I]Emporcalhou-se inteira.,
+	      emporcar-se: Manchem as mãos mas sem I]emporcar-se. ,
+	      encardir-se: As mãos I]encardiam-se.,
+	      enodoar-se: x,
+	      inquinar-se: Contudo a falta de higiene eo clima eram seus grandes inimigos, degradando-se com extrema facilidade e I]inquinando-se de numerosos vermes,
+	      macular-se: Nem um verme [lhe maculara os tecidos. / Minhas mãos I]se macularam no sangue.  ,
+	      manchar-se: As fraldas, ou roupas de baixo de crianças maiores, costumam I]manchar-se de muco.,
+	      nodoar-se: x,
+	      sujar-se: Disseram que o lugar estavas em reforma, que o pátio estava cheio de lama e que a comitiva iria [se sujar.,
+	    }
+	  A='Glosa3525'
+	    {
+	     alimpar-se: Não te foi cortado o umbigo, nem foste lavada com água, para I]te alimpar. / Tenho o guardanapo em que sua majestade I]se alimpou.,
+	     assear-se: Afigurava-se extraordinário ao pobrezito desprezado de todos, que aquela senhora brasileira, tão limpa, estivesse ali a cortar-lhe e [assear-lhe as unhas ,
+	     desencardir-se: Era em agosto, e ela acabara de pular da presa onde estivera a desencardir-se da terra. / Trate de I]desencardir-se da catinga.,
+	     limpar-se: Se você quizer seguir as leis islâmicas, o couscous deve ser comido com a mão, e obrigatoriamente com a mão direita, pois a esquerda é usada para [se limpar. ,
+	     mundificar-se: x,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3562' = “S='Glosa3561' = “ficar manchado, sujo ou imundo”
+	     {borrar-se: Existe algum truque para passar lápis sem I]se borrar? ,
+	      conspurcar-se: Ela se I]conspurcou com o sangue bebido no crânio da própria avó.,
+	      emporcalhar-se: I]Emporcalhou-se inteira.,
+	      encardir-se: As mãos I]encardiam-se.,
+	      inquinar-se: Contudo a falta de higiene e o clima eram seus grandes inimigos, degradando-se com extrema facilidade e I]inquinando-se de numerosos vermes,
+	      macular-se: Minhas mãos I]se macularam no sangue.  ,
+	      manchar-se: E pôs-se a recolher desastradamente o diário caído no chão, fechando-o com estrondo e I]manchando-se com a tinta fresca da ponta da pena.,
+	      sujar-se: Tirou a camisa, meteu-se debaixo do carro, I]sujou-se todo de óleo e poeira e entregou aos homens o carro em condições de prosseguir a viagem.,}
+	  A='Glosa3525'
+	    {alimpar-se: Não te foi cortado o umbigo, nem foste lavada com água, para I]te alimpar. / Tenho o guardanapo em que sua majestade I]se alimpou.,
+	     assear-se: Afigurava-se extraordinário ao pobrezito desprezado de todos, que aquela senhora brasileira, tão limpa, estivesse ali a cortar-lhe e [assear-lhe as unhas ,
+	     desencardir-se: Era em agosto, e ela acabara de pular da presa onde estivera a desencardir-se da terra. / Trate de I]desencardir-se da catinga.,
+	     limpar-se: Se você quizer seguir as leis islâmicas, o couscous deve ser comido com a mão, e obrigatoriamente com a mão direita, pois a esquerda é usada para [se limpar. ,}
+Chave: SUJAR-SE <verb.contact>
+ILI: 01491650 
+
+Sense 1
+{01491650} <verb.contact> dirty, soil, begrime, grime, colly, bemire -- (make soiled, filthy, or dirty; "don't soil your clothes when you play outside!")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

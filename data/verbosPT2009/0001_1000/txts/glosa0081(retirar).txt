@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA0081
+
+DADO O SYNSET:
+
+S='Glosa81'
+{alevantar: x,
+levantar: M]Levantou as cartas.,
+recolher: Sem pensar direito I]recolheu o anel do moribundo e seguiu seu caminho.,
+retirar: Pediu licença, [retirou com cuidado e carinho, como mencionara a amiga, a linda flor, admirou-a, sentiu seu agradável perfume e sorriu novamente.,
+sacar: Sem piedade, o Mestre I]sacou o facão da mão direita de Nathaniel e a longa lãmina rasgou os corpos dos dois.,
+tirar: O doutor foi à estante e [tirou uma Bíblia, encadernada em couro, com grandes fechos de metal.,
+tomar: Ubirajara [tomou o arco que lhe apresentava o pai.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa81' = “remover algo concreto erguendo, empurrando ou tirando”
+{recolher: Sem pensar direito I]recolheu o anel do moribundo e seguiu seu caminho.,
+retirar: Pediu licença, [retirou com cuidado e carinho, como mencionara a amiga, a linda flor, admirou-a, sentiu seu agradável perfume e sorriu novamente.,
+sacar: Sem piedade, o Mestre I]sacou o facão da mão direita de Nathaniel e a longa lãmina rasgou os corpos dos dois.,
+tirar: Ninguém I]toma nosso título da PARADA GAY! Disso aí eu não dúvido.,
+tomar: Ubirajara [tomou o arco que lhe apresentava o pai.,}
+
+Chave: RETIRAR <verb.change>
+ILI: 00166870
+
+Sense 1
+{00166870} <verb.change> remove, take, take away1, withdraw1 -- (remove something concrete, as by lifting, pushing, taking off, etc. or remove something abstract; "remove a threat"; "remove a wrapper"; "Remove the dirty dishes from the table"; "take the gun from your pocket"; "This machine withdraws heat from the environment")

@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA1099
+
+DADO O SYNSET:
+
+S='Glosa1099'
+{anular-se: Orgulho, amor, raiva, desconfiança, ódio, alegria, curiosidade, ânsia, medo, saudade e muito mais, numa única pessoa, de uma só vez, e no final, tudo I]se anula.,
+ derreter-se: Não queria ver minha tristeza I]derreter-se entregando-se ao chão.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1099' = “tornar-se menos intenso e desaparecer gradualmente”
+{anular-se: Preservada a sua maior prerrogativa, que é, segundo Jorge Luis Borges, a de perpetuar «uma mitologia de punhais que lentamente [se anula no esquecimento», o tango alcançou a plena maturidade.,
+ derreter-se: O breu [se derrete em ondas que buscam o chão.,}
+Chave: DERRETER-SE <verb.change>
+ILI: 00216430 
+
+Sense 6
+{00216430} <verb.change> melt10, disappear10 -- (become less intense and fade away gradually; "her resistance melted under his charm")
+       => {00216002} <verb.change> weaken -- (become weaker; "The prisoner's resistance weakened after seven days")
+           => {00146081} <verb.change> decrease, diminish, lessen, fall6 -- (decrease in size, extent, or range; "The amount of homework decreased towards the end of the semester"; "The cabin pressure fell dramatically"; "her weight fall to under a hundred pounds"; "his voice fell to a whisper")
+               => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

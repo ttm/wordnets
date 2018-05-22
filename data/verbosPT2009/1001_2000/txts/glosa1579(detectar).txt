@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA1579
+
+DADO O SYNSET:
+
+S='Glosa1579'
+{detectar: Se [detectaram os aviões poderiam muito bem tê-los acompanhado para prender os ocupantes.,
+ identificar: Meus homens viraram a noite e chegaram a [identificar 31 veículos - 13 roubados e 18 furtados.,
+ localizar: [Localizar no mapa as cidades Esteio e Porto Alegre.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1579' = “descobrir ou determinar a existência, presença ou fato [de]”
+{detectar: O Explorer [detectou raios cósmicos de 20 milhões de idade.,
+ identificar: Empresários de São Paulo já [identificaram o mais novo foco inflacionário.,
+ localizar: EJá o instituto americano Pesquisa Geológica mediu 7,4 pontos e [localizou o epicentro a cerca de 216 km a leste de Hachinohe.,}
+Chave: DETECTAR <verb.perception>
+ILI: 02092480
+
+Sense 1
+{02092480} <verb.perception> detect, observe2, find2, discover3, notice4 -- (discover or determine the existence, presence, or fact of; "She detected high levels of lead in her drinking water"; "We found traces of lead in the paint")
+       => {02101907} <verb.perception> sight -- (catch sight of; to perceive with the eyes; "he caught sight of the king's men coming over the ridge")
+           => {02045668} <verb.perception> perceive, comprehend -- (to become aware of through the senses; "I could perceive the ship coming over the horizon")

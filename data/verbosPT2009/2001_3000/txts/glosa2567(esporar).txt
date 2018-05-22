@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA2567
+
+DADO O SYNSET:
+
+S='Glosa2567'
+	    {butucar: x,
+	      espicaçar: Amaro divertido I]espicaçou a vaca com o guarda-chuva.,
+	      esporar: Como o cabresto ligado a um cabo feito de corda, é utilizada uma sela onde o peão, durante 8 segundos de montaria tem que I]esporar com os pés a paleta e as costas do animal ou nele próprio, estando com a mão livre e o outro pé solto da rédea do animal.,
+	      esporear: Quanto mais o peão I]esporear o cavalo, mais pontos ganha.,
+	      picar: Apeou-se, Malazarte meteu o dinheiro no bolso, cavalgou o animal e picou-o nas esporas.,
+	      rosetar: x,
+	      rosetear: I]Rosetear o cavalo com a roseta da espora.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2567' = “Aguilhoar com esporas.”
+	    {esporar: O velho I]esporou o burro Que saiu quase voando.,
+	      esporear: O vaqueiro quebrou o canto da boca e I]esporeou seu cavalo.,
+	      picar: Malazarte meteu o dinheiro no bolso, cavalgou o animal e I]picou-o nas esporas.,
+	      rosetear: I]Rosetear o cavalo com a roseta da espora.,}
+
+Chave: ESPORAR <verb.contact>
+ILI: 01203456
+
+Sense 4
+{01203456} <verb.contact> spur -- (goad with spurs; "the rider spurred his horse")
+       => {01203276} <verb.contact> goad -- (urge with or as if with a goad)
+           => {01193302} <verb.contact> prod, incite, egg on -- (urge on; cause to act; "They other children egged the boy on, but he did not want to throw the stone through the window") 

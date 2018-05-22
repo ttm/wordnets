@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0268
+
+DADO O SYNSET:
+
+S='Glosa268'
+{atorar: x,
+ ir-se: Supõe agora que este, em vez de [ir-se embora, como eu fui, ficava à porta a ouvi-lo e a enamorar-lhe a mulher.,
+ largar: Já faz algum tempo que eles H]largaram daqui.,
+ partir: No dia em que ele [partiu para os Estados Unidos, despediu-se de mim com abraços e beijos e me disse: se o Ari Barroso morreu, se Villa-Lobos morreu, eu também posso morrer. ,
+ torar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa268' = “deixar algum lugar”
+{ir-se: Supõe agora que este, em vez de [ir-se embora, como eu fui, ficava à porta a ouvi-lo e a enamorar-lhe a mulher.,
+ largar: Se o governador duvidar do meu sério, sou capaz de me I]largar daqui.,
+ partir: No dia em que ele [partiu para os Estados Unidos, despediu-se de mim com abraços e beijos e me disse: se o Ari Barroso morreu, se Villa-Lobos morreu, eu também posso morrer.,}
+Chave: PARTIR <verb.motion>
+ILI: 01956293
+
+Sense 3
+{01956293} <verb.motion> depart1, part, start2, start out, set forth, set off, set out, take off -- (leave; "The family took off for Florida")
+       => {01951556} <verb.motion> leave1, go forth, go away -- (go away from a place; "At what time does your train leave?"; "She didn't leave until midnight"; "The ship leaves at midnight")
+          Also See-> {02278037} <verb.possession> part with#1

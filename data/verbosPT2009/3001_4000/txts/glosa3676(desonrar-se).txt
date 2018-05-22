@@ -1,0 +1,56 @@
+ANÁLISE DA GLOSA3676
+
+DADO O SYNSET:
+
+S='Glosa3676'
+	    {
+	      abandalhar-se: Durante algum tempo, ainda se levantava cedo para estar em casa a horas de tomar o pequeno almoço, mas acabou por I]se abandalhar, deixar-se dormir até tarde e aceder ao desejo da amante de tomarem o café juntos, como se fossem marido e mulher.   ,
+	      acanalhar-se: Então o safado vem se aviltar, I]se acanalhar, e ainda explora vocês nesse nível?,
+	      apandilhar-se: x,
+	      avelhacar-se: x,
+	      aviltar-se: Se deixava seduzir sobretudo pelo teatro, em que ele se empenhava para representar um papel qualquer, a ponto de I]aviltar-se.,
+	      desenobrecer-se: É muito fácil H]desenobrecer-se neste mundo cruel.,
+	      deslustrar-se: I]Deslustrou-se, porém, com a sua adesão ao domínio espanhol e com um poema de exaltação a Filipe III.,
+	      desonrar-se: O senhor não tem o direito de I]me desonrar diante de meus filhos.,
+	      desprimorar-se: x,
+	      enlamear-se: Tentam, em vão, I]enlamear-lhe a imagem. ,
+	      enlodar-se: Vivemos o auge da burrice humana, e I]nos enlodamos nela.,
+	      envilecer-se: O teu corpo I]envileceu-se para revelar-te a nitidez da tua alma. ,
+	      enxovalhar-se: Os inimigos cuidam de I]enxovalhar-lhe a honra.,
+	      marear-se: A reputação do político H]mareou-se.,
+	      mediocrizar-se: É difícil acreditar como um diretor que já foi importante conseguiu I]se mediocrizar tanto.,
+	      obscurecer-se: É levado a I]obscurecer-se por máculas.,
+	      pandilhar-se: x,
+	    }
+	  A='Glosa1360'
+	    {
+	     desenlodar-se: x,
+	     enobrecer-se: Ao procurar I]enobrecer-se com o engrandecimento da Cidade, D. Hugo reforça o seu poder e favorece o Porto.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3676' = “prejudicar a reputação”
+	     {acanalhar-se: Então o safado vem se aviltar, I]se acanalhar, e ainda explora vocês nesse nível?,
+	      aviltar-se: O ex-senador Jader Barbalho, manda-chuva do PMDB do Pará, I]aviltou-se mais ainda.,
+	      deslustrar-se: I]Deslustrou-se, porém, com a sua adesão ao domínio espanhol e com um poema de exaltação a Filipe III.,
+	      desonrar-se: Elas se prostituíram no Egito e se I]desonraram ainda jovens.,
+	      enlamear-se: Palocci I]enlameou-se por ausência de respeito próprio.,
+	      envilecer-se: Pela transgressão, o mundo se I]envileceu tanto que foi necessário, pelo dilúvio, limpá-lo de suas corrupções.,
+	      enxovalhar-se: A mocidade se abastarda, se I]enxovalha, desertando o estudo, e desamando as causas generosas.,
+	      marear-se: A reputação do político H]mareou-se.,
+	      mediocrizar-se: O jornalismo I]mediocrizou-se para o lado da banalidade,só para ter o ibope.,
+	      obscurecer-se: Di I]obscureceu-se devido a desentendimentos entre os herdeiros legais do artista e uma de suas modelos.,}
+	  A='Glosa1360'
+	    {enobrecer-se: Ao procurar I]enobrecer-se com o engrandecimento da Cidade, D. Hugo reforça o seu poder e favorece o Porto.,}
+Chave: DESONRAR-SE <verb.communication>
+ILI: 00819909
+
+Sense 3
+{00819909} <verb.communication> discredit, disgrace -- (damage the reputation of; "This newspaper story discredits the politicians")
+       => {00818376} <verb.communication> disparage, belittle, pick at -- (express a negative opinion of; "She disparaged her student's efforts")
+           => {00799400} <verb.communication> knock2, criticize, criticise, pick apart -- (find fault with; express criticism of; point out real or perceived flaws; "The paper criticized the new movie"; "Don't knock the food--it's free")
+               => {01024792} <verb.communication> comment, notice, remark1, point out1 -- (make or write a comment on; "he commented the paper of his colleague")
+                   => {00987058} <verb.communication> note, observe, mention, remark -- (make mention of; "She observed that his presentation took up too much time"; "They noted that it was a fine day to go sailing")
+                       => {00976600} <verb.communication> state, say, tell4 -- (express in words; "He said that he wanted to marry her"; "tell me what is bothering you"; "state your opinion"; "state your name")
+                           => {00909455} <verb.communication> express, verbalize3, verbalise3, utter1, give tongue to -- (articulate; either verbally or with a cry, shout, or noise; "She expressed her anger"; "He uttered a curse")

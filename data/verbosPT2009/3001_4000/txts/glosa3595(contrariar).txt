@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA3595
+
+DADO O SYNSET:
+
+S='Glosa3595'
+	    {
+	      contradizer: Fenômenos que aparentemente [contradizem a hipótese do homem econômico são considerados exceções à regra./ A pesquisa [contradiz a teoria de que a asma decorrente de condições de trabalho só se desenvolve em pessoas classificadas como suscetíveis. ,
+	      contrariar: Afirmou que o procedimento do funcionário estava errado e [contrariava o treinamento da empresa./ São arraiais de rua, que [contrariam a tese de que os vestidos floridos de chita e brincadeiras como corrida do saco e dança da laranja estão em extinção. ,
+	      obstar: Ela ignorava os amores do marido; inventara a filiação de Lalau, com o único fim de [obstar ao casamento. / defendeu a total independência da comissão, reafirmando que nenhum órgão ou funcionário da administração poderá [obstar-lhe o trabalho.  ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3595' = “estar em contradição com”
+	     {contradizer: O lateral-esquerdo [contradiz o técnico Parreira e afirma que é bobagem avaliar que não tem ritmo de jogo./ A pesquisa [contradiz a teoria de que a asma decorrente de condições de trabalho só se desenvolve em pessoas classificadas como suscetíveis. ,
+	      contrariar: Afirmou que o procedimento do funcionário estava errado e [contrariava o treinamento da empresa./ A afirmação de Nakajima [contraria a orientação da maioria das entidades que trabalham com a prevenção do HIV. ,}
+Chave: CONTRARIAR <verb.stative>
+ILI: 02583617
+
+Sense 1
+{02583617} <verb.stative> contradict, belie, negate -- (be in contradiction with)
+       => {02582064} <verb.stative> deviate, vary, diverge1, depart -- (be at variance with; be out of line with)
+           => {02586169} <verb.stative> differ -- (be different; "These two tests differ in only one respect")

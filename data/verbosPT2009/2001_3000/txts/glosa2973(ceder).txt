@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA2973
+
+DADO O SYNSET:
+
+S='Glosa2973'
+	    {abaixar: x,
+	      afundar: Existem no bairro várias casa que já I]afundaram, como também um prédio que já soterrou o primeiro andar quase que inteiro.,
+	      assentar: x,
+	      ceder: Enfraquecidas por um calor inimaginável que destruiu a estrutura de ferro dos prédios, as torres I]cederam. ,
+	      descer: De repente, os palácios, as casas, os prédios I]desceram rapidamente ao solo.,
+	      fundir2: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2973' = “Inclinar, cair ou afundar por pressão ou por perda de tensão”
+	    {afundar: Existem no bairro várias casa que já I]afundaram, como também um prédio que já soterrou o primeiro andar quase que inteiro.,
+	      ceder: Enfraquecidas por um calor inimaginável que destruiu a estrutura de ferro dos prédios, as torres I]cederam.,
+	      descer: De repente, os palácios, as casas, os prédios I]desceram rapidamente ao solo.,}
+Chave: CEDER <verb.motion>
+ILI: 01927589
+
+Sense 1
+{01927589} <verb.motion> sag, droop, swag2, flag1 -- (droop, sink, or settle from or as if from pressure or loss of tautness)
+       => {01927988} <verb.motion> sink1, drop5, drop down -- (fall or drop to a lower place or level; "He sank to his knees")
+           => {01925836} <verb.motion> change posture -- (undergo a change in bodily posture)
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night") 

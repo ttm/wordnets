@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA1408
+
+DADO O SYNSET:
+
+S='Glosa1408'
+{arrebentar: O Agente 007 e os serviços secretos japoneses devem encontrar e parar os culpados de uma série de raptos de satélites antes de I]arrebentar uma guerra nuclear,
+ desabar: Foi numa Paris assim que I]desabou uma Revolução capaz de mudar a face do mundo.,
+ desencadear-se: Em vista disso, em 1929, [desencadeou-se uma crise no sistema capitalista, representada pela superprodução industrial e agrícola,
+ desfechar: Eles não cederão um milímetro nos juros, no orçamento e no câmbio sem [desfechar um ataque especulativo,
+ rebentar: Valendo-se da simpatia geral de que desfrutava, fez [rebentar uma revolução militar, proclamando-a Imperatriz da Rússia,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1408' = “romper de repente” 
+{arrebentar: O Agente 007 e os serviços secretos japoneses devem encontrar e parar os culpados de uma série de raptos de satélites antes de I]arrebentar uma guerra nuclear.,
+ desabar: Foi numa Paris assim que I]desabou uma Revolução capaz de mudar a face do mundo.,
+ desencadear-se: Em vista disso, em 1929, [desencadeou-se uma crise no sistema capitalista, representada pela superprodução industrial e agrícola.,
+ desfechar: O golpe que Vargas I]desfechou em 1937 quando implementou o Estado Novo.,
+ rebentar: À data do cessar-fogo (2 de Março de 1991), I]rebentou uma guerra civil no Iraque.,}
+Chave: ARREBENTAR <verb.change>
+ILI: 00298064
+
+Sense 3
+{00298064} <verb.change> erupt2, irrupt3, flare up, flare1, break open, burst out -- (erupt or intensify suddenly; "Unrest erupted in the country"; "Tempers flared at the meeting"; "The crowd irrupted into a burst of patriotism")
+       => {00218994} <verb.change> intensify, deepen -- (become more intense; "The debate intensified"; "His dislike for raw fish only deepened in Japan")
+           => {00150804} <verb.change> increase -- (become bigger or greater in amount; "The amount of work increased")
+               => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

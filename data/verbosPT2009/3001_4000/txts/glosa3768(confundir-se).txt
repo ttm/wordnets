@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA3768
+
+DADO O SYNSET:
+
+S='Glosa3768'
+{atrapalhar-se: Guilherme Palmeira e Gardênia [atrapalharam-se na maior parte das respostas.,
+	 confundir-se: Em Matão, Lula [confundiu-se quanto à data da eleição em discurso a metalúrgicos.,
+	 embrulhar-se: Garotinho I]embrulhou-se, e na dúvida, entrou na onda de criticar a imprensa.,
+	 enlinhar-se: x,
+	 enovelar-se: I]Enovelando-se em suas citações eruditas, "O príncipe" só se sofistica o suficiente para dar-nos um acurado retrato do brasileiro de hoje.,
+	 enrolar-se: O candidato petista [enrolou-se todo para não responder e acabou sendo humilhado.,
+	 equivocar-se: O porta-voz [equivocou-se na argumentação, pois os encargos da Previdência não entram nas contas do Tesouro, têm orçamento separado.,
+	 perder-se: Raimundo [perdia-se em conjeturas e, malgrado o seu desprendimento pelo passado, sentia alguma coisa atraí-lo irresistivelmente para a pátria. }
+	
+A ANÁLISE RESULTA EM:
+
+S='Glosa3768' = “deixar não claro, indistinto ou enevoado”
+{atrapalhar-se: Guilherme Palmeira e Gardênia [atrapalharam-se na maior parte das respostas.,
+	 confundir-se: Em Matão, Lula [confundiu-se quanto à data da eleição em discurso a metalúrgicos.,
+	 embrulhar-se: Garotinho I]embrulhou-se, e na dúvida, entrou na onda de criticar a imprensa.,
+	 enovelar-se: I]Enovelando-se em suas citações eruditas, "O príncipe" só se sofistica o suficiente para dar-nos um acurado retrato do brasileiro de hoje.,
+	 enrolar-se: O candidato petista [enrolou-se todo para não responder e acabou sendo humilhado.,
+	 equivocar-se: O porta-voz [equivocou-se na argumentação, pois os encargos da Previdência não entram nas contas do Tesouro, têm orçamento separado.,
+	 perder-se: Raimundo [perdia-se em conjeturas e, malgrado o seu desprendimento pelo passado, sentia alguma coisa atraí-lo irresistivelmente para a pátria. }
+Chave: CONFUNDIR-SE <verb.cognition>
+ILI: 00600376
+
+Sense 6 
+{00600376} <verb.cognition> confuse1, blur, obscure, obnubilate -- (make unclear, indistinct, or blurred; "Her remarks confused the debate"; "Their words obnubilate their intentions")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

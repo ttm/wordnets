@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA
+
+DADO O SYNSET:
+
+S='Glosa1114'
+{desafogar-se: Canoas e Porto Alegre necessitava urgentemente I]desafogar-se, pois a política de confronto e de ameaças se davam no terreno das relações partidárias, ,
+ libertar-se: O pintor espanhol consegue [libertar-se, mas Brauner recebe um golpe e cai,
+ livrar-se: Ao ser preso, o cantor tentou [livrar-se do flagrante alegando que a droga era para os componentes de sua banda/Será um game de aventura em que o jogador terá de ajudar o garoto a [livrar-se dos ladrões que invadem sua casa durante o Natal,
+ retirar-se: E tomou deveras um invencível nojo por aquela província indigna dele; impacientou-se por consumar o seu casamento com Ana Rosa e [retirar-se daquele chiqueiro de pretensiosos maus.,
+ roubar-se: Esquisitão, A] rouba-se às manifestações de apreço dos amigos.,
+ salvar-se: Para evitar o isolamento e o encarceramento total no gueto, primeiro, e a morte no campo de concentração, depois, um judeu poderia [salvar-se se considerado um trabalhador essencial para o esforço de guerra nazista,
+ soltar-se: Rubião deu-se pressa em soltá-lo; era [soltar-se a si mesmo por alguns instantes daquela perseguição,
+ tirar-se: I]Tirou-se da dificuldade de maneira simplissima e elegantissima, lançando uma palavra, com a qual, uma vez cunhada, teve a ilusão de tudo haver explicado clarissimamente.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1114' = “livrar-se de um embaraço ou dificuldade” 
+{desafogar-se: O médico de família passou a exercer uma grande influência, oferecendo-lhes um meio agradável de I]desafogar-se da opressão dos pais e maridos.,
+ libertar-se: Com isto o setor privado [libertou-se do jugo do Estado e investiu em si mesmo.,
+ livrar-se: Bruxelas [livrou-se do problema concedendo a independência a Ruanda.,
+ retirar-se: Um ser que I]retirou-se das paixões e sobreviveu-se sensível.,
+ salvar-se: Bartolomeu Bueno era ignorante, mas valente. Uma prova de sua rara presença de espírito ficou demonstrada por ele certa vez quando I]salvou-se das mãos dos índios.,
+ soltar-se: A indignação, remoída nos desabafos palacianos, I]soltou-se das algemas do constrangimento com a denúncia dos escândalos farejados em vários cantos.,
+ tirar-se: I]Tirou-se da dificuldade de maneira simplissima e elegantissima.,}
+Chave: LIVRAR-SE <verb.contact>
+ILI: 01542454 
+
+Sense 1
+{01542454} <verb.contact> extricate, untangle1, disentangle2, disencumber -- (release from entanglement of difficulty; "I cannot extricate myself from this task")
+       => {01434122} <verb.contact> free1, disengage1 -- (free or remove obstruction from; "free a path across the cluttered floor")

@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA3244
+
+DADO O SYNSET:
+
+S='Glosa3244'
+{esgrimir: [Esgrimindo com precisão e raça o seu guarda-chuva, o solitário defensor luso pôs pra correr todo o estádio.,
+	 floretear: O herói retirava-se e, outra vez na rua, I]floreteava orgulhoso a lâmina ignescente e sôfrega.,
+	 justar1: M]Justar lanças. }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3244' = “lutar com espadas de esgrima”
+{esgrimir: [Esgrimindo com precisão e raça o seu guarda-chuva, o solitário defensor luso pôs pra correr todo o estádio.,
+	 floretear: O herói retirava-se e, outra vez na rua, I]floreteava orgulhoso a lâmina ignescente e sôfrega.,
+	 justar1: M]Justar lanças. }
+Chave: ESGRIMIR <verb.competition>
+ILI: 01111593
+
+Sense 3 
+{01111593} <verb.competition> fence1 -- (fight with fencing swords)
+       => {01055630} <verb.competition> fight, struggle -- (be engaged in a fight; carry on a fight; "the tribesmen fought each other"; "Siblings are always fighting")

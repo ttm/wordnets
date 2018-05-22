@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA0053
+
+DADO O SYNSET:
+
+S='Glosa53'
+{apejar: x,
+avergonhar: Violência religiosa é um crime de lesa-consciência, que atenta contra a Constituição e I]avergonha o plural povo brasileiro.,
+avexar: Se os Paulistas quisessem, como cientes em todo o sertão do Brasil, tiveram escolhido sítios inexpugnáveis donde pudessem [avexar os vassalos de V.M.,
+confundir: Procurou A]confundi-lo com palavras rudes.,
+envergonhar: Seja como for, não poderia casar-me com o filho do mesmo homem que [envergonhou minha família.,
+pejar: A censura A]pejou-lhe vivamente.,
+perturbar: O relato das próprias façanhas A]perturba os homens modestos.,
+vexar: Não digo, para os não [vexar agora, mas é possível que chorassem também.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa53' = “deixar envergonhado”
+{avergonhar: Violência religiosa é um crime de lesa-consciência, que atenta contra a Constituição e I]avergonha o plural povo brasileiro.,
+avexar: Se os Paulistas quisessem, como cientes em todo o sertão do Brasil, tiveram escolhido sítios inexpugnáveis donde pudessem [avexar os vassalos de V.M.,
+envergonhar: Seja como for, não poderia casar-me com o filho do mesmo homem que [envergonhou minha família.,
+vexar: Não digo, para os não [vexar agora, mas é possível que chorassem também.,}
+
+Chave: ENVERGONHAR <verb.emotion>
+ILI: 01740357
+
+Sense 3
+{01740357} <verb.emotion> shame -- (cause to be ashamed)
+       => {01708538} <verb.emotion> arouse, elicit, enkindle, kindle, evoke, fire, raise8, provoke -- (call forth (emotions, feelings, and responses); "arouse pity"; "raise a smile"; "evoke sympathy")
+           => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

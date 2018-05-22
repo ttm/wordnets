@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA2562
+
+DADO O SYNSET:
+
+S='Glosa2562'
+	    {arroxar: De tanta força, o animal I]arroxou as pernas, o coração disparou, a língua amarelou eo coitado desta passou.,
+	      arroxear: Quando a pressão do anel se torna excessiva, o dedo começa a I]arroxear, devido à queda na circulação sangüínea, devendo, por isso, ser retirado. ,
+	      roxear: O irmão caminhou com passo lento, tomou-lhe o pulso, o constringiu a I]roxear, sem que ela mostrasse nos músculos a menor crispatura espasmódica de sofrimento.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2562' = “Tornar roxo.”
+	    {arroxar: De tanta força, o animal I]arroxou as pernas, o coração disparou, a língua amarelou e o coitado desta passou.,
+	      arroxear: Quando a pressão do anel se torna excessiva, o dedo começa a I]arroxear, devido à queda na circulação sangüínea.,
+	      roxear: O irmão caminhou com passo lento, tomou-lhe o pulso, o constringiu a I]roxear.,}
+
+Chave: ROXEAR <verb.change>
+ILI: 00280253
+
+Sense 1
+{00280253} <verb.change> purple1 -- (become purple)
+       => {00272185} <verb.change> discolor, discolour, colour, color1 -- (change color, often in an undesired manner; "The shirts discolored")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night") 

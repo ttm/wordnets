@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA1735
+
+DADO O SYNSET:
+
+S='Glosa1735'
+{acavalar: x,
+ cavalgar: Para chegar à floresta, que ficava bastante longe, Dinis I]cavalgou no seu cavalo-vapor-triz e partiu a galope. ,
+ encavalar: x,
+ encavalgar: x,
+ montar: Depois de oferecer a jóia a todos que passaram pelo mercado, abatido pelo fracasso, I]montou no cavalo e voltou. ,
+ subir: Ofegante, assustado e apavorado ele I]subiu no cavalo e começou a galopar para a vila mais próxima.,}
+	  
+A='Glosa1310'
+{apear, apear-se, desapear, descavalgar, descer, desmontar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1735' = “subir nas costas [de]”
+{cavalgar: Para chegar à floresta, que ficava bastante longe, Dinis I]cavalgou no seu cavalo-vapor-triz e partiu a galope.,
+ montar: Quando os cavaleiros, que seguiam a trote largo, venciam a pequena distancia que os separava da tropa, os dois caminheiros, para não atrasarem a marcha, [montavam na garupa dos animais e ganhavam de novo a dianteira.,
+ subir: Ofegante, assustado e apavorado ele I]subiu no cavalo e começou a galopar para a vila mais próxima.,}
+	  
+A='Glosa1310'
+{apear, apear-se, desapear, descavalgar, descer, desmontar}
+Chave: MONTAR	<verb.motion>
+ILI: 01867456
+
+Sense 5
+{01867456} <verb.motion> hop on, mount1, mount up, get on, jump on, climb on, bestride -- (get on the back of; "mount a horse")
+       => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right")

@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA1737
+
+DADO O SYNSET:
+	
+S='Glosa1737'
+{cavilhar: Espeto de churrasco para I]cavilhar ou tampar buracos na madeira nas regiões do instrumento onde é necessário fazer o enxerto. ,
+ encavilhar: x,
+ tarugar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1737' = “apertar ou prender com cavilha (peça de madeira)” 
+{cavilhar: Série de pranchas que I]cavilham por fora o cavername do navio.,}
+Chave: CAVILHAR <verb.contact>
+ILI: 01300750
+
+Sense 3
+{01300750} <verb.contact> peg, peg down -- (fasten or secure with a wooden pin; "peg a tent")
+       => {01257892} <verb.contact> attach1 -- (cause to be attached)
+           => {01314764} <verb.contact> connect, link, tie1, link up -- (connect, fasten, or put together two or more pieces; "Can you connect the two loudspeakers?"; "Tie the ropes together"; "Link arms")
+          Also See-> {00692025} <verb.cognition> peg down#2

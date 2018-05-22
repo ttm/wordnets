@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA1701
+
+DADO O SYNSET:
+
+S='Glosa1701'
+{afumar: E a noite desce, A]afuma o firmamento.,
+ afumear: x,
+ empretecer: I]Empreteceu o fundo do brinquedo.,
+ enegrecer: A telha é antiga, canelada, e o tempo I]enegreceu-lhe a caiação.,
+ esfumaçar: O fogão H]esfumaçou as paredes.,
+ esfumar: Ao fazer um bife, H]esfumou a cozinha.,
+ tisnar: Tomou-a dos braços desfalecidos da senhora, e levando-a a seu cubículo, I]tisnou-lhe o corpo de carvão. #  No forno a farinha queimara-se e punha de si uma fumaça acre que espiralava em rolos negros A]tisnando o teto da palhoça.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1701' = “tornar negro/escuro/preto (como que pelo fumo)”
+{empretecer: Só pode sair de noite com o candeeiro, que I]empretece a roupa.,
+ enegrecer: A poluição (fumaça e fuligem) I]enegreceu os troncos das árvores.,
+ esfumaçar: Um “foguinho” acordou todos os vizinhos e I]esfumaçou a escada do prédio.,
+ esfumar: É belo ao romper do dia com as suas neblinas que I]esfumam a paisagem.,
+ tisnar: O fogaréu subiu de dentro do buraco, espalhando-se por entre os galhos dos cajueiros e I]tisnando os jenipapeiros nas suas folhas largas.}
+Chave: ESFUMAÇAR <verb.change>
+ILI: EQ_HAS_HYPERONYM – 00271634
+
+Sense 1
+{00271634} <verb.change> blacken, melanize, melanise, nigrify, black -- (make or become black; "The smoke blackened the ceiling"; "The ceiling blackened")
+       => {00272185} <verb.change> discolor, discolour, colour, color1 -- (change color, often in an undesired manner; "The shirts discolored")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

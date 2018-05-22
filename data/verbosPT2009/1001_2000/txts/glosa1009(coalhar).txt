@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA1009
+
+DADO O SYNSET:
+
+S='Glosa1009'
+{azedar: Artur Ribas da Costa, gerente de produtos de suco da Parmalat, diz que o processo do longa vida implica em aquecer o suco, o que elimina as bactérias que poderiam [azedar o produto.,
+ coalhar: Depois de fervido e frio, colocar o iogurte no leite e deixar até I]coalhar.,
+ talhar: Refogue a cebola picada em margarina, deixe arrefecer e junte-lhe as natas e o leite, mexendo sempre para não I]talhar.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1009' = “ficar coalhado ou azedo”
+{azedar: O vinho I]azedou (que bom).,
+ coalhar: Se o leite azedou ou I]coalhou, você não deve jogá-lo fora, pois ele não está estragado.,
+ talhar: Quando eu estava fazendo o creme, bati a manteiga e o açúcar, e ao acrescentar o creme de leite, ele I]talhou.}
+Chave: COALHAR <verb.change>
+ILI: 00445393
+
+Sense 1
+{00445393} <verb.change> sour1, turn1, ferment, work13 -- (go sour or spoil; "The milk has soured"; "The wine worked"; "The cream has turned--we have to throw it out")
+       => {00140715} <verb.change> change state, turn4 -- (undergo a transformation or a change of position or action; "We turned from Socialism to Capitalism"; "The people turned against the President when he stole the election")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

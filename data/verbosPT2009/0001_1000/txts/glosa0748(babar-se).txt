@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0748
+
+DADO O SYNSET:
+
+S='Glosa748'
+{babar-se: José H]baba-se por Maria. # Ela se H]baba por chocolate.,
+gostar: Irônica e inteligente, [gosta de eletrônica e videogames.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa748' = “estar contente por, gostar muito de”
+{babar-se: Tudo isto se apaga quando I]se baba ou se olha nua ao espelho.,
+gostar: Irônica e inteligente, [gosta de eletrônica e videogames.,}
+Chave: BABAR-SE <verb.emotion>
+ILI: 01774289
+
+Sense 1
+{01774289} <verb.emotion> salivate, drool -- (be envious, desirous, eager for, or extremely happy about something; "She was salivating over the raise she anticipated")
+       => {01774096} <verb.emotion> covet -- (wish, long, or crave for (something, especially the property of another person); "She covets her sister's house")
+           => {01773928} <verb.emotion> envy, begrudge1 -- (be envious of; set one's heart on)
+               => {01772101} <verb.emotion> desire, want -- (feel or have a desire for; want strongly; "I want to go home now"; "I want my own room")

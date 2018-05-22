@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0101
+
+DADO O SYNSET:
+
+S='Glosa101'
+{embelezar: O desejo, para Almodóvar, é de tal forma poderoso que [embeleza a tragédia.,}
+A='Glosa100'
+{afear, afeiar, desfear, desfigurar, deturpar, enfear}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa101' = “fazer bonito para se olhar”
+{embelezar: Daí a guerra das vaidades», analisa Babi Fontoura, 19, modelo da Ford, agência que [embeleza os camarotes da Brahma com seu «cast».,}
+A='Glosa100'
+{afear, afeiar, desfear, desfigurar, deturpar, enfear}
+Chave: EMBELEZAR <verb.stative>
+ILI: 02668163
+
+Sense 1
+{02668163} <verb.stative> deck, adorn, decorate, grace, embellish, beautify -- (be beautiful to look at; "Flowers adorned the tables everywhere")
+       => {02526983} <verb.stative> be3 -- (have the quality of being; (copula, used with an adjective or a predicate noun); "John is rich"; "This is not a good answer")

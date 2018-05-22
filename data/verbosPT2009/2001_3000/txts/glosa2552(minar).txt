@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA2552
+
+DADO O SYNSET:
+
+S='Glosa2552'
+	    {minar: Outro fator é que aqui, a herança de desestabilização, incluindo hiperinflação e desvalorizações cambiais, acaba por [minar a confiança do investidor. # Ele sugere uma visão radicalmente diferente e muito mais modesta da filosofia, visão esta que poderia até mesmo [minar os programas seguidos por Wittgenstein, Ryle e Austin, e que certamente era muito menos ambiciosa e muito menos confiante do que a de Quine.,
+	      sabotar: Movimento quer [sabotar conferência de paz com bombas. # Ele chegou a planejar a malfadada Operação Mangusto, que pretendia [sabotar a vida política e econômica em Cuba.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2552' = “Destruir ou fazer fracassar.”
+	    {minar: Ex-presidente diz que caso Waldomiro I]minou a aura do PT e critica governo.,
+	      sabotar: Colocou pedras no caminho dos ingleses e sabotou a hegemonia americana.,}
+
+Chave: MINAR <verb.social>
+ILI: 02483272
+
+Sense 2
+{02483272} <verb.social> ruin -- (destroy or cause to fail; "This behavior will ruin your chances of winning the election")
+       => {02482511} <verb.social> thwart, queer, spoil, scotch, foil, cross, frustrate, baffle, bilk1 -- (hinder or prevent (the efforts, plans, or desires) of; "What ultimately frustrated every challenger was Ruth's amazing September surge"; "foil your opponent")
+           => {02379144} <verb.social> prevent1, forestall1, foreclose, preclude, forbid3 -- (keep from happening or arising; have the effect of preventing; "My sense of tact forbids an honest answer") 

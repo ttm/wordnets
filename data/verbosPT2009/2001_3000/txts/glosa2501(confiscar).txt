@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA2501
+
+DADO O SYNSET:
+
+S='Glosa2501'
+	    {arrestar: A medida cautelar existe para bloquear ou [arrestar bens de supostos responsáveis por um dano, enquanto a Justiça decide sobre o caso.,
+	      confiscar: Em sua opinião, ao deixar de [confiscar os bens do então senador, o presidente Geisel violou o decreto-lei 64.603 de março de 69.,
+	      embargar: Havendo, no título exeqüendo, vários devedores, mesmo que ajuizada a execução contra apenas um deles, salvo se exercitada a faculdade prevista no art. 569, CPC, devem ser todos intimados da penhora, uma vez que a todos assiste o direito de [embargar.,
+	      penhorar: Em 11 de maio de 1995, os oficiais da Justiça invadiram seu apartamento para [penhorar bens pessoais como garantia da dívida da empresa da família, de R$ 4 milhões.,
+	      seqüestrar: Sendo condenado a pagar o saldo e não o fazendo no prazo legal, o juiz poderá destituí-lo, [seqüestrar os bens sob sua guarda e glosar o prêmio ou gratificação a que teria direito.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2501' = “Tomar posse temporária de como segurança, sob autorização legal.”
+	    {arrestar: A medida cautelar existe para bloquear ou [arrestar bens de supostos responsáveis por um dano, enquanto a Justiça decide sobre o caso.,
+	      confiscar: Em sua opinião, ao deixar de [confiscar os bens do então senador, o presidente Geisel violou o decreto-lei 64.603 de março de 69.,
+	      embargar: Quem primeiro [embargou bens de membros do governo acusados de enriquecimento ilícito foi o Ministério Público estadual paulista.,
+	      penhorar: Em 11 de maio de 1995, os oficiais da Justiça invadiram seu apartamento para [penhorar bens pessoais como garantia da dívida da empresa da família, de R$ 4 milhões.,
+	      seqüestrar: Sendo condenado a pagar o saldo e não o fazendo no prazo legal, o juiz poderá destituí-lo e [seqüestrar os bens sob sua guarda.,}
+
+Chave: CONFISCAR <verb.possession>
+ILI: 02207624
+
+Sense 1
+{02207624} <verb.possession> impound, attach, sequester, confiscate1, seize2 -- (take temporary possession of as a security, by legal authority; "The FBI seized the drugs"; "The customs agents impounded the illegal shipment"; "The police confiscated the stolen artwork")
+       => {02141767} <verb.possession> take -- (take into one's possession; "We are taking an orphan from Romania"; "I'll take three salmon steaks") 

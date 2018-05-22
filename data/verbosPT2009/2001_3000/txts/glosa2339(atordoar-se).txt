@@ -1,0 +1,40 @@
+ANÁLISE DA GLOSA2339
+
+DADO O SYNSET:
+
+S='Glosa2339'
+	    {aparvalhar-se: x,
+	      arear2: x,
+	      atordoar-se: A paisagem o aborrece, ele [se atordoa com as alturas.,
+	      aturdir-se: Era mister I]aturdir-se. ,
+	      desarvorar-se: O atacante desviou para o canto esquerdo, Grêmio 1 a 0, a partir daí, o Internacional I]desarvorou-se completamente.,
+	      desconcertar-se: Sem I]desconcertar-se, repetiu as mesmas palavras com ar firme e ninguém riu mais.,
+	      desnortear-se: Perder as estribeiras vem do sentido primitivo, relacionado com os estribos ou as estribeiras, passou a significar perder o controle, a direção; I]desnortear-se em palavras e atos.,
+	      desorientar-se: Há períodos em que [se desorienta e logo dizem, este período evoluiu assim, mas não existe tal coisa.,
+	      estontear-se: H]Estonteou-se com a luz dos holofotes.,
+	      estremunhar-se: O homem I]estremunha-se entre os condicionamentos do medo, da ambição, da prepotência e da segurança que raramente discerne com correção. ,
+	      estrovinhar-se: x,
+	      perturbar-se: O zagueiro Jorjão, que deverá ficar na reserva, disse que o Grêmio [se perturba quando não consegue dominar o ritmo do jogo.,
+	      torvar-se: Declarou que seu ânimo H]torvara-se com a doença.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2339'= “Causar incômodo à mente, provocar desconforto, preocupação ou alarme.”
+	    {atordoar-se: A paisagem o aborrece, ele [se atordoa com as alturas.,
+	      aturdir-se: Tratava-se de uma jovem de aparência frágil e pálida que, ao receber o jato de ar, I]aturdiu-se e teve ligeira convulsão, sendo atendida carinhosamente. ,
+	      desarvorar-se: H]Desarvorou-se com a perda dos documentos.,
+	      desconcertar-se: Sem I]desconcertar-se, repetiu as mesmas palavras com ar firme e ninguém riu mais.,
+	      desnortear-se: Por isso, diante da dívida, diante daqueles doze contos de réis, o príncipe I]desnorteou-se.,
+	      desorientar-se: Vendo-os a lutar pateticamente para se libertar, sua mente I]desorientou-se.,
+	      estontear-se: H]Estonteou-se com a luz dos holofotes.,
+	      estremunhar-se: Com tantos e tão variados afazeres ele não se M]estremunhava.,
+	      perturbar-se: O zagueiro Jorjão disse que o Grêmio [se perturba quando não consegue dominar o ritmo do jogo.,
+	      torvar-se: Declarou que seu ânimo H]torvara-se com a doença.,}
+
+Chave: ATORDOAR-SE <verb.emotion>
+ILI: 01713293
+
+Sense 1
+{01713293} <verb.emotion> perturb, unhinge, disquiet, trouble, cark, distract2, disorder -- (disturb in mind or make uneasy or cause to be worried or alarmed; "She was rather perturbed by the news that her father was seriously ill")
+       => {01719446} <verb.emotion> disturb, upset, trouble1 -- (move deeply; "This book upset me"; "A troubling thought")
+           => {01716999} <verb.emotion> affect, impress1, move, strike -- (have an emotional or cognitive impact upon; "This child impressed me as unusually mature"; "This behavior struck me as odd") 

@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0514
+
+DADO O SYNSET:
+
+S='Glosa514'
+{amalgamar: O texto rosiano [amalgama as reminiscências heterogêneas da catástrofe e da perda da felicidade primordial com a figura essencialmente cabalística do nome desmembrado.,
+combinar: [Combinar vários antígenos em uma mesma vacina reduz a necessidade de fazer campanhas populares.,
+fundir1: O que Kuhn parece ter feito é [fundir prescrição e descrição, deduzindo dessa maneira sua metodologia da ciência a partir da história da ciência.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa514' = “misturar ou juntar coisas, fatos, objetos…etc”
+{amalgamar: O texto rosiano [amalgama as reminiscências heterogêneas da catástrofe e da perda da felicidade primordial com a figura essencialmente cabalística do nome desmembrado.,
+combinar: Ele I]combina conteúdo que é ao mesmo tempo útil e agradável. Foi concebido para permitir uma leitura rápida e dinâmica.,
+fundir1: O que Kuhn parece ter feito é [fundir prescrição e descrição, deduzindo dessa maneira sua metodologia da ciência a partir da história da ciência.,}
+Chave: COMBINAR <verb.change>
+ILI: 00186839
+
+Sense 1
+{00186839} <verb.change> compound, combine2 -- (put or add together; "combine resources")
+       => {00176022} <verb.change> add -- (make an addition (to); join or combine or unite with others; increase the quality, quantity, zise or scope of; "We added two students to that dorm room"; "She added a personal note to her letter"; "Add insult to injury"; "Add some extra plates to the dinner table")
+           => {00150804} <verb.change> increase -- (become bigger or greater in amount; "The amount of work increased")
+               => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

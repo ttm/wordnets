@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA0841
+
+DADO O SYNSET:
+
+S='Glosa841'
+{candidatar: Quiseram I]candidatá-lo à Academia, ele preferiu ficar onde estava repousando no travesseiro que à noite, sua irmã, deu-lhe como companhia. ,
+credenciar: Esse título é importante demais para mim porque me [credencia para disputar a decisão do Campeonato Estadual.,
+habilitar: A formação é de bom nível, [habilita o profissional a desempenhar cargos que puxam pelo desenvolvimento e pesquisa.,}
+A='Glosa1524'
+{inabilitar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa841' = “tornar apto a realizar ou desempenhar alguma função”
+{candidatar: Quiseram I]candidatá-lo à Academia, ele preferiu ficar onde estava repousando no travesseiro que à noite, sua irmã, deu-lhe como companhia. ,
+credenciar: Esse título é importante demais para mim porque me [credencia para disputar a decisão do Campeonato Estadual.,
+habilitar: A formação é de bom nível, [habilita o profissional a desempenhar cargos que puxam pelo desenvolvimento e pesquisa.,}
+A='Glosa1524'
+{inabilitar}
+Chave: HABILITAR <verb.change>
+ILI: 00499201
+
+Sense 1
+{00499201} <verb.change> enable -- (render capable or able for some task; "This skill will enable you to find a job on Wall Street"; "The rope enables you to secure yourself when you climb the mountain")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA0235
+
+DADO O SYNSET:
+
+S='Glosa235'
+{assaltar: Os jornalistas H]assaltaram o ministro com câmeras e microfones.,
+assaltear: x,
+assediar: Ela pode ser vista atualmente nos comerciais do Cinemídia, [assediando um homem magrinho, e numa empresa de telegramas animados em que interpreta a cantora Gretchen.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa235' = “importurnar ou assaltar sexualmente; fazer avanços indecentes a”
+{assediar: Ela pode ser vista atualmente nos comerciais do Cinemídia, [assediando um homem magrinho, e numa empresa de telegramas animados em que interpreta a cantora Gretchen.,}
+Chave: ASSEDIAR <verb.social>
+ILI: 02493422
+
+Sense 1
+{02493422} <verb.social> molest -- (harass or assault sexually; make indecent advances to)
+       => {01085076} <verb.competition> assail, assault, set on, attack2 -- (attack someone physically or emotionally; "The mugger assaulted the woman"; "Nightmares assailed him regularly")

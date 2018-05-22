@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0237B
+
+DADO O SYNSET:
+
+S='Glosa237'
+{acusar: O chefe de polícia civil, delegado Hélio Luz, que comandou a ação, não quis [acusar nenhuma pessoa ligada à Fábrica de ser a responsável pela droga apreendida.,
+agredir: Romário é um craque, não precisava [agredir a torcida para provar que é bom.,
+atacar: E como poeta, Waly não perdoa uma nova mania de [atacar letristas mais populares ou poetas que usam vários meios de expressão.,
+hostilizar: Os árabes residentes na área, dramaticamente contra o fluxo de imigrantes, passam a [hostilizar os judeus.,}
+A='Glosa360'
+{defender}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa237B' = “atacar alguém fisicamente ou emocionalmente”
+{agredir: Romário é um craque, não precisava [agredir a torcida para provar que é bom.,
+hostilizar: Os árabes residentes na área, dramaticamente contra o fluxo de imigrantes, passam a [hostilizar os judeus.,}
+A='Glosa360'
+{defender}
+Chave: AGREDIR <verb.competition>
+ILI: 01085076
+
+Sense 4
+{01085076} <verb.competition> assail, assault, set on, attack2 -- (attack someone physically or emotionally; "The mugger assaulted the woman"; "Nightmares assailed him regularly")

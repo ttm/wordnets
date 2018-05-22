@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA3960
+
+DADO O SYNSET:
+
+S='Glosa3960'
+    	{predeterminar: I]Predeterminou de que modo devemos corresponder.,
+      	 prefinir: O juiz A]prefiniu o dia do julgamento.,
+      	 prefixar: Seus integrantes vão invocar a Convenção Nacional de Curitiba, que I]prefixou a data daquela reunião para março de 65.,
+      	 prestabelecer: Tudo isso mostra o grande artista capaz de domar a inspiração e I]prestabelecer os rumos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3960' = “determinar de antemão”
+    	{predeterminar: Me impressionam as maneiras como nossas tentativas de descrever um fenômeno já [predeterminam o que pode ser dito sobre esse objeto.,
+      	 prefinir: Com efeito, acredito na possibilidade, na perspectiva de num caminho que divise os elementos subjetivos do delito como categorias transeuntes, ou seja, que possam estes elementos migrar de um campo a outro, sem que, a peso disso, se venha desfigurar as formas que as contribuições doutrinárias I]prefiniram para a tipicidade e a culpabilidade.,
+      	 prefixar: Seus integrantes vão invocar a Convenção Nacional de Curitiba, que I]prefixou a data daquela reunião para março de 65.,
+      	 preestabelecer: A cultura do mundo ocidental I]preestabeleceu que a mulher seria criada para os cuidados da família e do lar.}
+Chave: PREDETERMINAR <verb.cognition>
+ILI: 00679491
+
+Sense 1
+{00679491} <verb.cognition> predetermine -- (determine beforehand)
+       => {00679669} <verb.cognition> predestine, foreordain, preordain -- (foreordain or determine beforehand)
+           => {00679884} <verb.cognition> jinx -- (foredoom to failure; "This project is jinxed!")
+       => {00680010} <verb.cognition> predestine1, predestinate, foreordain1 -- (foreordain by divine will or decree)

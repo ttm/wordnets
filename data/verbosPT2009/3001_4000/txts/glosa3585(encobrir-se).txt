@@ -1,0 +1,60 @@
+ANÁLISE DA GLOSA3585
+
+DADO O SYNSET:
+
+S='Glosa3585'
+	    {
+	      anuviar-se: O céu I]anuviou-se e tingiu de cinza, para sempre naquele lugar.,
+	      carregar-se: O céu começou a I]carregar-se de nuvens negras, ameaçadoras. ,
+	      cerrar-se: I]Cerrou-se o horizonte! / I]Cerrou-se o céu e desapareceu a visão.,
+	      cobrir-se: O céu I]cobriu-se de nuvens eo vento aumentou.,
+	      embrumar-se: x,
+	      encangotar-se: x,
+	      encapotar-se: x,
+	      encarrancar-se: x,
+	      encobrir-se: O céu I]encobriu-se e começou a chover.,
+	      enevoar-se: I]Enevoava-se o sacrário sob os rolos alvos de fumo.,
+	      enfarruscar-se: E o dia que amanhecera com boas disposições, mostrando de vez em quando uma nesga azul do céo, I]enfarruscou-se á tarde e ameaçou uma nova noite chuvosa. ,
+	      envolver-se: O dia I]se envolveu em trevas. ,
+	      escurecer: A contagem regressiva prosseguia normalmente até que o céu [escureceu e choveu.,
+	      escurecer-se: Lampião, segundo a lenda, teria feito o céu [se escurecer ao chegar à cidade. ,
+	      escurentar: Logo o céu I]se escurentou de sopetão e uma nuvem ruivor subiu no horizonte entardecendo a calma do dia.,
+	      nevoar-se: x,
+	      nublar-se: Fazia luar, porém o céu I]nublava-se.,
+	      obnubilar-se: O céu H]obnubilou-se.,
+	      obscurecer-se: O céu I]se obscureceu./ O sol I]se obscureceu, trovões e relâmpagos repetidos fizeram estremecer e empalidecer os ouvintes.,
+	      toldar-se: O céu começou de I]toldar-se com o anoitecer: a escuridão cresceu e desfechou em vento, trovões, chuva e raios. ,
+	      turbar-se: I]Turba-se o vasto oceano.,
+	      turvar-se: Vimos o dia I]turvar-se em noite. ,
+	      turvejar-se: x,
+	      velar-se: O sol I]se velou.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3585' = “fazer encoberto ou nublado”
+	     {anuviar-se: O céu I]anuviou-se e tingiu de cinza, para sempre naquele lugar.,
+	      carregar-se: O céu começou a I]carregar-se de nuvens negras, ameaçadoras. ,
+	      cerrar-se: I]Cerrou-se o horizonte! / I]Cerrou-se o céu e desapareceu a visão.,
+	      cobrir-se: O céu I]cobriu-se de nuvens e o vento aumentou.,
+	      encobrir-se: O céu I]encobriu-se e começou a chover.,
+	      enevoar-se: O dia I]enevoou-se.,
+	      enfarruscar-se: E o dia que amanhecera com boas disposições, mostrando de vez em quando uma nesga azul do céu, I]enfarruscou-se à tarde e ameaçou uma nova noite chuvosa. ,
+	      envolver-se: O dia I]se envolveu em trevas. ,
+	      escurecer: A contagem regressiva prosseguia normalmente até que o céu [escureceu e choveu.,
+	      escurecer-se: Lampião, segundo a lenda, teria feito o céu [se escurecer ao chegar à cidade. ,
+	      nublar-se: Fazia luar, porém o céu I]nublava-se.,
+	      obnubilar-se: O céu H]obnubilou-se.,
+	      obscurecer-se: O céu I]se obscureceu./ O sol I]se obscureceu, trovões e relâmpagos repetidos fizeram estremecer e empalidecer os ouvintes.,
+	      toldar-se: De negro o céu I]toldou-se num instante. ,
+	      turvar-se: Vimos o dia I]turvar-se em noite. ,
+	      velar-se: O sol I]se velou.,}
+
+Chave: ENCOBRIR-SE <verb.weather>
+ILI: 02688614
+
+Sense 1
+{02688614} <verb.weather> overcast, cloud -- (make overcast or cloudy; "Fall weather often overcasts our beaches")
+       => {00301705} <verb.change> darken1 -- (make dark or darker; "darken a room")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")
+          Also See-> {02688917} <verb.weather> cloud over#1; {02688917} <verb.weather> cloud up#1

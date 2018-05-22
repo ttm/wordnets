@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0878
+
+DADO O SYNSET:
+
+S='Glosa878'
+{chamear: x,
+chamejar: M]Chamejar um bisturi.,
+flamar: x,
+flambar: Toda vez que se fizer uma semeadura utilizando tubos de ensaio, deve-se I]flambar a boca dos mesmos imediatamente à retirada do tampão de algodão.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa878' = “estar em chamas ou chamejante”
+{chamejar: Naquele momento I]chamejou a iluminação misteriosa de repente
+flambar: Toda vez que se fizer uma semeadura utilizando tubos de ensaio, deve-se I]flambar a boca dos mesmos imediatamente à retirada do tampão de algodão.,}
+Chave: FLAMBAR <verb.weather>
+ILI: 02677542
+
+Sense 2
+{02677542} <verb.weather> flame -- (be in flames or aflame; "The sky seemed to flame in the Hawaiian sunset")
+       => {00365423} <verb.change> burn, combust -- (undergo combustion; "Maple wood burns well")
+           => {00140715} <verb.change> change state, turn4 -- (undergo a transformation or a change of position or action; "We turned from Socialism to Capitalism"; "The people turned against the President when he stole the election")
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

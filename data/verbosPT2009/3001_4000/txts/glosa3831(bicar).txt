@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA3831
+
+DADO O SYNSET:
+
+S='Glosa3831'
+{bicar: Por exemplo, que o galináceo estivesse incorporando Exu e saísse pela noite a [bicar pais-de-santo.,
+	 nicar: x,
+	 picar: Cães, aves, saltavam de todos os lados, cá fora; a um lado havia um galinheiro, mais longe porcos; mais longe ainda, uma vaca deitada, sonolenta, com duas galinhas ao pé, que lhe [picavam a barriga, arrancando carrapato.,
+	 pinicar: É que tem um passarinho que fica voando em cima da minha cabeça e quer I]pinicar meu olho, mas pinicou foi o meu nariz. }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3831' = “bater ligeiramente, bicando”
+{bicar: Por exemplo, que o galináceo estivesse incorporando Exu e saísse pela noite a [bicar pais-de-santo.,
+	 picar: Cães, aves, saltavam de todos os lados, cá fora; a um lado havia um galinheiro, mais longe porcos; mais longe ainda, uma vaca deitada, sonolenta, com duas galinhas ao pé, que lhe [picavam a barriga, arrancando carrapato.,
+	 pinicar: É que tem um passarinho que fica voando em cima da minha cabeça e quer I]pinicar meu olho, mas pinicou foi o meu nariz. }
+Chave: BICAR <verb.contact>
+ILI: 01205662
+
+Sense 1 
+{01205662} <verb.contact> peck1, pick, beak -- (hit lightly with a picking motion)
+       => {01369678} <verb.contact> strike -- (deliver a sharp blow, as with the hand, fist, or weapon; "The teacher struck the child"; "the opponent refused to strike"; "The boxer struck the attacker dead")
+           => {01169634} <verb.contact> touch -- (make physical contact with, come in contact with; "Touch the stone for good luck"; "She never touched her husband")

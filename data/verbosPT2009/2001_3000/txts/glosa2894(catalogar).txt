@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA2894
+
+DADO O SYNSET:
+
+S='Glosa2894'
+	    {arquivar: A Folha foi o primeiro jornal do país a [arquivar eletronicamente textos e fotos.,
+	      catalogar: Num balanço destes três meses da segunda etapa da campanha no Rio, o economista Maurício de Andrade diz que a preocupação tem sido [catalogar experiências de trabalho bem-sucedidas.,
+	      catalogizar: x,
+	      fichar: Uma vez escolhido um tema para pesquisa, passamos a I]fichar tópicos relativos a esse tema.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2894' = “Fazer uma lista de, compilar uma lista de alguma coisa”
+	    {arquivar: A visão Arquivamento contém listas de documentos que você I]arquivou nesse banco de dados, caso haja algum.,
+	      catalogar: E é com muito carinho que reuniu, guardou, I]catalogou e digitalizou fatos que constroem a História do Carnaval.,
+	      fichar: Durante anos, com lupa e paciência, Vinícius Dantas recolheu, I]fichou, anotou, comparou e organizou tudo o que andava disperso e pouco acessível., }
+Chave: CATALOGAR <verb.creation>
+ILI: 01580820
+
+Sense 2
+{01580820} <verb.creation> catalogue, catalog -- (make a catalogue, compile a catalogue of something)
+       => {01580114} <verb.creation> compose9, compile -- (put together out of existing material; "compile a list")
+           => {01606879} <verb.creation> make11 -- (make by shaping or bringing together constituents; "make a dress"; "make a cake"; "make a wall of stones")
+               => {01606076} <verb.creation> create from raw material, create from raw stuff -- (make from scratch)
+                   => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor") 

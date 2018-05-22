@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA3000
+
+DADO O SYNSET:
+
+S='Glosa3000'
+	    {adquirir: O surto industrial favoreceu a publicidade, que foi I]adquirindo contornos de uma sociedade de massa.,
+	      assumir: A certificação ambiental vem I]assumindo contornos estratégicos para a definição de uma nova e pujante economia, baseada no manejo sustentável da nossa biodiversidade.,
+	      atingir: A aspereza do diálogo vai I]atingindo contornos grotescos e absurdos, perceptíveis na briga desencadeada em torno de um par de sapatos.,
+	      contrair: O pai querido e jamais encontrado, que vinha I]contraindo contornos cada vez menos carnais e cada vez mais etéreos, abrangentes, não era apenas do menino, mas de todos.,
+	      ganhar: Com a substituição por Estudos Sociais, os conteúdos de História e Geografia foram esvaziados ou diluídos, I]ganhando contornos ideológicos de um ufanismo nacionalista.,
+	      tomar: A arquitetura em Minas dava seus primeiros passos: de tosca foi I]tomando contornos mais sofisticados e únicos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3000' = “Adquirir certa forma, atributo ou aspecto”
+	    {adquirir: O surto industrial favoreceu a publicidade, que foi I]adquirindo contornos de uma sociedade de massa.,
+	      assumir: A certificação ambiental vem I]assumindo contornos estratégicos para a definição de uma nova e pujante economia, baseada no manejo sustentável da nossa biodiversidade.,
+	      atingir: A aspereza do diálogo vai I]atingindo contornos grotescos e absurdos, perceptíveis na briga desencadeada em torno de um par de sapatos.,
+	      contrair: O pai querido e jamais encontrado, que vinha I]contraindo contornos cada vez menos carnais e cada vez mais etéreos, abrangentes, não era apenas do menino, mas de todos.,
+	      ganhar: Com a substituição por Estudos Sociais, os conteúdos de História e Geografia foram esvaziados ou diluídos, I]ganhando contornos ideológicos de um ufanismo nacionalista.,
+	      tomar: A arquitetura em Minas dava seus primeiros passos: de tosca foi I]tomando contornos mais sofisticados e únicos.,}
+Chave: ASSUMIR <verb.change>
+ILI: 00510844
+
+Sense 3
+{00510844} <verb.change> assume, acquire, adopt1, take on, take1 -- (take on a certain form, attribute, or aspect; "His voice took on a sad tone"; "The story took a new turn"; "he adopted an air of superiority"; "She assumed strange manners"; "The gods assume human or animal form in these fables")
+       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night") 

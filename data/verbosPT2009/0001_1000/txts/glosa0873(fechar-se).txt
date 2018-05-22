@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0873
+
+DADO O SYNSET:
+
+S='Glosa873'
+{cerrar-se: As cortinas da janela [cerraram-se.,
+fechar-se: No dia em que Raimundo subira, pé ante pé, ao seu quarto Ana Rosa tinha entrado havia pouco e, como de costume, [fechara-se por dentro.,
+trancar-se: Quando os saqueadores arrombaram uma das portas do supermercado, os dois vigias, desarmados, se [trancaram nos fundos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa873' = “colocar (-se) em um lugar onde algo ou alguém não possa ser removido ou não possa escapar”
+{cerrar-se:   I]Cerrou-se a janela, mas um objeto caíra aos pés do cavaleiro..,
+fechar-se: No dia em que Raimundo subira, pé ante pé, ao seu quarto Ana Rosa tinha entrado havia pouco e, como de costume, [fechara-se por dentro.,
+trancar-se: Quando os saqueadores arrombaram uma das portas do supermercado, os dois vigias, desarmados, se [trancaram nos fundos.,}
+Chave: FECHAR-SE <verb.contact>
+ILI: 01307963
+
+Sense 7
+{01307963} <verb.contact> lock in, lock away, lock2, put away1, shut up, shut away, lock up -- (place in a place where something cannot be removed or someone cannot escape; "The parents locked her daughter up for the weekend"; "She locked her jewels in the safe")
+       => {01307583} <verb.contact> confine3 -- (prevent from leaving or from being removed)
+           => {02349665} <verb.social> restrain1, suppress3, keep, keep back, hold back -- (keep under control; keep in check; "suppress a smile"; "Keep your temper"; "keep your cool")
+               => {02377053} <verb.social> prevent, keep1 -- (prevent from doing something or being in a certain state; "We must prevent the cancer from spreading"; "His snoring kept me from falling asleep"; "Keep the child from eating the marbles")

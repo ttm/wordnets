@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2267
+
+DADO O SYNSET:
+
+S='Glosa2267'
+	    {mutuar: Dos breves apontamentos indicados, resulta que os caracteres geológicos e topográficos, a par dos demais agentes físicos, I]mutuam naqueles lugares as influências características de modo a não se poder afirmar qual o preponderante.  ,
+	      permutar: Para dar início a este estudo, os países membros do Research Study Group (RSG) recolheram e I]permutaram entre si um corpus com quatro línguas.,
+	      reciprocar: Fidel I]reciprocou com um aperto de mãos as saudações de numerosos simpatizantes da Revolução Cubana.,
+	      trocar: Os dois [trocaram acusações sobre as responsabilidade de cada um nas enchentes na cidade. ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2267' = “oferecer alguma coisa para alguém e receber algo em troca”
+	    {mutuar: Um verdadeiro discurso sobre Deus não pode I]mutuar do contemporâneo relativismo filosófico as próprias categorias de pensamento.  ,
+	      permutar: Os países membros do Research Study Group (RSG) recolheram e I]permutaram entre si um corpus com quatro línguas.,
+	      reciprocar: O verdugo e a vitima I]reciprocavam palavras amargas.,
+	      trocar: Os dois [trocaram acusações sobre as responsabilidade de cada um nas enchentes na cidade., }
+
+Chave: TROCAR <verb.possession>
+ILI: 02192193
+
+Sense 7
+{02192193} <verb.possession> exchange, change, interchange -- (give to, and receive from, one another; "Would you change places with me?"; "We have been exchanging letters for a year")
+       => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children")

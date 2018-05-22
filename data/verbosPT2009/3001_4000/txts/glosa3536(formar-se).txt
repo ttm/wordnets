@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA3536
+
+DADO O SYNSET:
+
+S='Glosa3536'
+	    {
+	      derivar-se: De seus estudos dessa modalidade musical [derivou-se uma complexa teoria harmônica, que foi aplicada aos seus trabalhos. / Pode um solo I]derivar-se de qualquer tipo de rocha: sedimentar, ígnea ou metamórfica.,
+	      desenvolver-se: Os transportes modernos começaram a [se desenvolver a partir da máquina a vapor adaptada à locomotiva e ao navio.,
+	      formar-se: Sem seres vivos as substâncias orgânicas não poderiam [se formar./ Muitos pensam que o primeiro núcleo familiar I]formou-se com Adão e Eva.,
+	      gerar-se: Uma técnica mais recente para [se gerar formas elásticas é conhecida como modelação de formas livres./ O problema da clonagem não está em I]gerar-se uma pessoa idêntica à outra. ,
+	      nascer: Ela faz [nascer o filme do roteiro ao dinheiro. / Viveram e trabalharam nas cidades que começavam a [nascer. ,
+	      originar-se: Inicialmente, há o mundo sensorial concreto que existe externamente ao sujeito e do qual o conhecimento deve [se originar. / Postula-se que o câncer hepático I]originar-se-ia das células ovais. ,
+	      surgir: A diversidade de povos encontrada no continente asiático faz [surgir também uma grande variedade de idiomas e religiões. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3536' = “tomar existência, adquirir forma” 
+	     {derivar-se: De seus estudos dessa modalidade musical [derivou-se uma complexa teoria harmônica, que foi aplicada aos seus trabalhos. / Pode um solo I]derivar-se de qualquer tipo de rocha: sedimentar, ígnea ou metamórfica.,
+	      desenvolver-se: A filosofia contemporânea no Japão I]desenvolveu-se a partir e em torno da obra de Kitarô Nishida, iniciador da Escola de Kyoto.,
+	      formar-se: Sem seres vivos as substâncias orgânicas não poderiam [se formar./ Muitos pensam que o primeiro núcleo familiar I]formou-se com Adão e Eva.,
+	      gerar-se: Com a excomunhão do Patriarca de Constantinopla pelo Papa, em 1054, [gerou-se um cisma e, como conseqüência, a fundação de uma outra doutrina, a Igreja Ortodoxa./ O problema da clonagem não está em I]gerar-se uma pessoa idêntica à outra. ,
+	      nascer: Dali [nasceu a proposta de apoiar o requerimento do senador José Agripino, presidente da Comissão de Infra-Estrutura, que invocou o dever daquela comissão técnica de avaliar a empresa. ,
+	      originar-se: O sistema nervoso I]origina-se do folheto embrionário mais externo, o ectoderma. / Postula-se que o câncer hepático I]originar-se-ia das células ovais. ,
+	      surgir: No decorrer da Idade Média [surgiu uma sociedade composta de senhores que possuiam terras e camponeses livres ou servos subordinados aos senhores. ,}
+Chave: FORMAR-SE <verb.stative>
+ILI: 02546120
+
+Sense 5
+{02546120} <verb.stative> originate, arise, rise1, develop, uprise2, spring up, grow -- (come into existence; take on form or shape; "A new religious movement originated in that country"; "a love that sprang up from friendship"; "the idea for the book grew out of a short story"; "An interesting phenomenon uprose")
+       => {02545350} <verb.stative> become -- (come into existence; "What becomes has duration") 

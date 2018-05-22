@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA2728
+
+DADO O SYNSET:
+
+S='Glosa2728'
+	    {brindar: A Johnson & Johnson os distribui para [brindar consumidoras do absorvente Sempre Livre.,
+	      mimosear: A tarde, porém, viam-no caminhar pela costeira com petrechos de pesca, saltando de pedra em pedra, indo ponta afora, para o costão do Itapecericuçu, onde se demorava até o fim do dia, quando regressava com o balaio transbordando de peixes, bastante para o consumo da família e com sobras até para I]mimosear generosamente a vizinhança carente.,
+	      obsequiar: I]Obsequiar cada pessoa conhecida com um sorriso.,
+	      prendar: Tudo que foi dito se justificaria somente no fato de que, iniciando uma secção de xadrez em um vespertino de nossa Capital, no dia 14 de Janeiro de 1899, mantém-na ainda hoje, não se tendo registrado um só dia dos destinados - (sábados) - à sua secção em que tenha deixado de I]prendar aos seus inúmeros leitores com essa apresentação.,
+	      presentear: Zico foi levado a [presentear o garoto com suas chuteiras e o fez faltando dez minutos para terminar sua partida de despedida.,
+	      regalar: No paço real, uma festa oferecida pelos cortesãos para I]regalar o monarca.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2728' = “Dar como um presente, fazer de alguma coisa um presente.”
+	    {brindar: Nossa Primeira Dama Eunice I]brindou os pais com uma agradável surpresa.,
+	      mimosear: O tira I]mimoseou-o com um belo espécime da raça Rottweiler.,
+	      obsequiar: Julius Lange I]obsequiou os associados com um churrasco.,
+	      prendar: Deus I]prendou o seu povo com um dia esplêndido.,
+	      presentear: O secretário-executivo da CPLP I]presenteou Tinoco com um CD de músicas típicas do seu país.,
+	      regalar: o "Big Brother Brasil 6" I]regalou os jogadores com diversas festas temáticas.,}
+
+Chave: PRESENTEAR <verb.possession>
+ILI: 02137285
+
+Sense 7
+{02137285} <verb.possession> give1, gift, present -- (give as a present; make a gift of; "What will you give her for her birthday?") 

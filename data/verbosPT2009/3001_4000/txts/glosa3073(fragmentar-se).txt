@@ -1,0 +1,35 @@
+ANÁLISE DA GLOSA3073
+
+DADO O SYNSET:
+
+S='Glosa3073'
+	    {
+	      desfazer-se: Felicia retirou uma moeda perdida em um bolso do sobretudo e atirou contra os raios vermelhos; assim que tocou, I]desfez-se em pedaços.,
+	      despedaçar-se: Duas bombas de hidrogênio caíram num campo alagado de uma fazenda nas proximidades de Goldsboro, depois que o bombardeiro B-52 que as carregava se [despedaçou no ar.,
+	      esfazer-se: x,
+	      espatifar-se: Os cacos que ele colou tornaram a se [espatifar no confronto de ontem.,
+	      estilhaçar-se: Para ilustrar o pensamento do sábio na cadeira de rodas, os autores do filme usaram uma xícara que cai da mesa e se [estilhaça no chão.,
+	      fragmentar-se: Ao se passar uma esponja por uma peneira, [fragmentando-se o seu corpo em centenas de pequenos pedaços, as células se reorganizam e formam centenas de novas.,
+	      hastilhar-se: x,
+	      partir-se: Ao tocar o chão, vários de seus ossos simplesmente I]partiram-se, mas não atravessaram sua pele.,
+	      quebrar-se: Mesmo que a pedra se [quebre com a pancada no chão, o fenômeno continua a ser físico, pois apenas terá ocorrido uma divisão em pedaços, que não sofreram nenhuma alteração em suas propriedades.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3073' = “quebrar em pedaços”
+	     {desfazer-se: Felicia retirou uma moeda perdida em um bolso do sobretudo e atirou contra os raios vermelhos; assim que tocou, I]desfez-se em pedaços.,
+	      despedaçar-se: Duas bombas de hidrogênio caíram num campo alagado de uma fazenda nas proximidades de Goldsboro, depois que o bombardeiro B-52 que as carregava se [despedaçou no ar.,
+	      espatifar-se: De repente, um tijolo I]espatifou-se na porta do jaguar.,
+	      estilhaçar-se: Para ilustrar o pensamento do sábio na cadeira de rodas, os autores do filme usaram uma xícara que cai da mesa e se [estilhaça no chão.,
+	      fragmentar-se: A outra bala se [fragmentou ao penetrar no crânio de Colosio.,
+	      partir-se: Ao tocar o chão, vários de seus ossos simplesmente I]partiram-se, mas não atravessaram sua pele.,
+	      quebrar-se: Naquele momento, segundo o relatório, a asa direita se rompeu e o B-52, de oito motores, [quebrou-se no ar.,}
+Chave: FRAGMENTAR-SE <verb.change>
+ILI: 00327401
+
+Sense 1
+{00327401} <verb.change> break up, fragment, fragmentize, fragmentise -- (break or cause to break into pieces; "The plate fragmented")
+       => {00323679} <verb.change> break, separate3, split up, fall apart3, come apart -- (become separated into pieces or fragments; "The figurine broke"; "The freshly baked loaf fell apart")
+           => {00135037} <verb.change> change integrity -- (change in physical make-up)
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

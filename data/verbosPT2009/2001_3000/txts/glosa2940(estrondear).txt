@@ -1,0 +1,67 @@
+ANÁLISE DA GLOSA2940
+
+DADO O SYNSET:
+
+S='Glosa2940'
+	    {atroar: Um rugido espantoso [atroou pela campina, que estremeceu a batalha e rolou pelas profundezas da floresta.,
+	      aturdir: Terrível bramido A]aturdiu os ares.,
+	      barulhar: Acampou junto a uma cascata, cujas águas I]barulhavam  na queda livre de grande altura.,
+	      bramar: Não mais vibres as bronzeas cordas em que I]bramam raios.,
+	      estoirar: Sem que houvesse tempo para qualquer reação, I]estoirou no ar um ruído seco.,
+	      estourar: Na mesma hora, um trovão I]estourou no céu.,
+	      estrondar: Um barulho I]estrondou na floresta.,
+	      estrondear: Logo que o trem parou, de um dos morros vizinhos I]estrondeou uma salva de 21 tiros.,
+	      estrugir: O ar [estrugiu com os sons roucos da inúbia e do maracá.,
+	      fragorar: Relâmpagos alagavam o céu com fulva luz, sucedendo-se fortes, tremendos, rápidos com a trovoada a I]fragorar.,
+	      rebombar: Um trovão I]rebombou e um raio caiu junto ao menino.,
+	      rebramar: Trovões I]rebramam as águas despenhadas em cascatas.,
+	      ressoar: O grito da gaivota pela terceira vez [ressoa a seu ouvido.,
+	      ressonar: Os nomes ensurdecedores começam a [ressonar entre si no fundo do silêncio.,
+	      retroar: Os músicos fizeram [retroar os borés, anunciando o começo da festa.,
+	      retumbar: Os instrumentos [retumbaram de novo e reboaram pela floresta como o trovão rolando pelas nuvens.,
+	      ribombar: E a floresta debatia-se com o vento, e o trovão I]ribombava e os raios flamejavam.,
+	      rimbombar: Raios e trovões começaram a I]rimbombar.,
+	      roncar: Trovoada I]roncou lá no mar, e a juriti nas matas já cantou.,
+	      tempestear: Em réplica ao bombardeio que M]tempesteava um relampaguear de descargas temíveis e fulminantes.,
+	      tempestuar: x,
+	      toar: Um trovão H]toou ao longe.,
+	      troar: No fundo da floresta [troou um estampido horrível, que veio reboando pelo espaço.,
+	      tronar2: x,
+	      trovejar: Com saúde de touro, fez sua voz potente [trovejar sobre os metais infalivelmente desafinados da orquestra.,
+	      trovoar: Cortava a cidade com lentidão enervante, I]trovoando pior que uma tempestade e rangendo desafinadamente todas as engrenagens da transmissão.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2940' = “Fazer ou produzir um barulho alto”
+	    {atroar: Um rugido espantoso [atroou pela campina, que estremeceu a batalha e rolou pelas profundezas da floresta.,
+	      barulhar: Acampou junto a uma cascata, cujas águas I]barulhavam  na queda livre de grande altura.,
+	      bramar: As bombardas horríssonas I]bramavam.,
+	      estoirar: Sem que houvesse tempo para qualquer reação, I]estoirou no ar um ruído seco.,
+	      estourar: Na mesma hora, um trovão I]estourou no céu.,
+	      estrondar: Um barulho I]estrondou na floresta.,
+	      estrondear: Logo que o trem parou, de um dos morros vizinhos I]estrondeou uma salva de 21 tiros.,
+	      estrugir: O ar [estrugiu com os sons roucos da inúbia e do maracá.,
+	      fragorar: O clamor continuava, I]fragorava como um oceano que se debatesse contra os altos muros brancos.,
+	      rebombar: Um trovão I]rebombou e um raio caiu junto ao menino.,
+	      rebramar: Trovões I]rebramam as águas despenhadas em cascatas.,
+	      ressoar: Fizemos coro com ele, e I]ressou surdamente a letra da canção operária Dubínuchk.,
+	      ressonar: O som dos berimbaus também I]ressonou pelas calçadas do Centro Cultural Schubert.,
+	      retroar: Aquele brado I}retroou pelos antros e solapas do rochedo.,
+	      retumbar: Os instrumentos [retumbaram e reboaram pela floresta como o trovão rolando pelas nuvens.,
+	      ribombar: E a floresta debatia-se com o vento, e o trovão I]ribombava e os raios flamejavam.,
+	      rimbombar: O rugido I]rimbombou.,
+	      roncar: Trovoada I]roncou lá no mar, e a juriti nas matas já cantou.,
+	      tempestear: Em réplica ao bombardeio que I]tempesteava a um lado, correu vertiginoso.,
+	      toar: Os atabaques I]toavam. Percussão simultânea de três instrumentos.,
+	      troar: No fundo da floresta [troou um estampido horrível, que veio reboando pelo espaço.,
+	      trovejar: E suas armas I]trovejaram uma vez mais.,
+	      trovoar: Finalmente na água, saímos alegres e excitados, após arrumar cuidadosamente a tralha nas canoas, ouvindo bandos de bugios, que I]trovoavam assustadoramente.,}
+Chave: ESTRONDEAR <verb.communication>
+ILI: 01013013
+
+Sense 4
+{01013013} <verb.communication> thunder1 -- (to make or produce a loud noise; "The river thundered below"; "The engine roared as the driver pushed the car to full throttle")
+       => {01012485} <verb.communication> roar1, howl1 -- (make a loud noise, as of wind, water, or vehicles; "The wind was howling in the trees"; "The water roared down the chute")
+           => {02110511} <verb.perception> make noise, resound, noise -- (emit a noise)
+               => {02113837} <verb.perception> sound, go -- (make a certain noise or sound; "She went `Mmmmm'"; "The gun went `bang'")
+                   => {02062507} <verb.perception> cause to be perceived -- (have perceptible qualities) 

@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA3258
+
+DADO O SYNSET:
+
+S='Glosa3258'
+	    {
+	      ladrar: E, voltando-se para os cães, que insistiam em [ladrar: Safa, Rompe-Nuvens!,
+	      latir: O zagueiro Brito ligava para o Brasil e pedia para sua mulher fazer o cachorro [latir.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3258' = “emitir latido”
+	     {ladrar: O cachorro I]ladrava à lua que brilhava no céu.,
+	      latir: O filhote de cachorro I]latiu dando o alarme.,}
+Chave: LATIR <verb.communication>
+ILI: 01014156
+
+Sense 4
+{01014156} <verb.communication> bark -- (make barking sounds; "The dogs barked at the stranger")
+       => {00951670} <verb.communication> utter2, emit, let out2, let loose -- (express audibly; utter sounds (not necessarily words); "She let out a big heavy sigh"; "He uttered strange sounds that nobody could understand")

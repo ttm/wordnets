@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA1373
+
+DADO O SYNSET:
+
+S='Glosa1373'
+{desentender: O que eu [desentendia nela era aquela suave calma, tão feroz,}
+	  
+A='Glosa968'
+{compreender, conceber, entender, perceber, reconhecer, saber, ver}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1373' = “fingir com o intuito de enganar”
+{desentender: Não adianta brigar com o Fernando Henrique, que a essa altura acho que I]desentendeu de tudo que entendia.}
+A='Glosa968'
+{compreender, conceber, entender, perceber, reconhecer, saber, ver}
+Chave: DESENTENDER <verb.communication>
+ILI: 00810765
+
+Sense 4
+{00810765} <verb.communication> feign, sham, pretend, affect, dissemble -- (make believe with the intent to deceive; "He feigned that he was ill"; "He shammed a headache")
+       => {00809453} <verb.communication> misrepresent, belie -- (represent falsely; "This statement misrepresents my intentions")
+           => {00955766} <verb.communication> represent -- (serve as a means of expressing something; "The flower represents a young girl")
+               => {00909455} <verb.communication> express, verbalize3, verbalise3, utter1, give tongue to -- (articulate; either verbally or with a cry, shout, or noise; "She expressed her anger"; "He uttered a curse")

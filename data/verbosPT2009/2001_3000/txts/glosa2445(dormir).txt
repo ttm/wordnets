@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA2445
+
+DADO O SYNSET:
+
+S='Glosa2445'
+	    {adormecer: Resolvir ir para uma clínica particular onde tomei injeções, fiz curativos e me deram um calmante, que me fez I]adormecer. ,
+	      adormentar: A crítica sentenciosa faz-me I]adormentar; gostaria de uma crítica feita com centelhas de imaginação.,
+	      adormir: x,
+	      descansar: Tentaram [descansar, mas foi impossível, pois o módulo lunar era frio e barulhento.,
+	      dormir: Minha tia toma remédio para [dormir.,
+	      sopitar: Sentou-se debaixo de uma frondosa árvore, I]sopitou e, sonurno dentro daquele sonho, sonhou.,
+	      soporizar: H]Soporizar uma pessoa nervosa.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2445' = “Alterar de um estado de vigília para um de dormência.”
+	    {adormecer: Cecília I]adormeceu no seu berço, murmurando uma prece.,
+	      adormentar: Eu a deixei dormir e me I]adormentei também até as 10 da manha.,
+	      descansar: Alheio ao barulho, um dos mais antigos moradores do convento, dom Oscar Schwager, de 88 anos, I]descansava no piso superior do claustro.,
+	      dormir: Agnaldo I]dormiu com a barriga roncando.,
+	      sopitar: Sentou-se debaixo de uma frondosa árvore e I]sopitou., 
+	      soporizar: H]Soporizar uma pessoa nervosa.,}
+
+Chave: DORMIR <verb.body>
+ILI: 00016969
+
+Sense 1
+{00016969} <verb.body> fall asleep, dope off, flake out, drift off, nod off, drop off, doze off, drowse off -- (change from a waking to a sleeping state; "he always falls asleep during lectures") 

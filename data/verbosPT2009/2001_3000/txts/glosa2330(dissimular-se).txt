@@ -1,0 +1,44 @@
+ANÁLISE DA GLOSA2330
+
+DADO O SYNSET:
+
+S='Glosa2330'
+	    {disfarçar-se: Os terroristas [se disfarçam de soldados, o que torna quase impossível detectá-los.,
+	      dissimular-se: Seu domínio dessa arte era tanto, que conseguia I]dissimular-se na aparência de suas próprias vítimas. ,
+	      embuçar-se: Não é ela—murmurou em sua língua bárbara o selvagem filho do deserto, voltando a I]embuçar-se no albornoz e a recostar a fronte escura no frio das pilastras de pedra. ,
+	      mascarar-se: Treplev desaparece no meio dos bodes, e do touro, [se mascara.,
+	      transfazer-se: Os Parakanã dançam com um jaguar morto para I]transfazer-se no predador.,
+	      transformar-se: A mulher [se transforma de sereia em noiva.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2330' = “Impedir de ser visto ou descoberto.”
+	    {disfarçar-se: Saul I]disfarçou-se e saiu incógnito.,
+	      dissimular-se: I]Dissimulou-se a gravidade da situação com uma trégua enganadora. ,
+	      embuçar-se: Não é ela—murmurou, voltando a I]embuçar-se no albornoz.,
+	      mascarar-se: Conferia-se uma universalidade a essa luta e, com isso, I]mascarava-se  o conteúdo de classe das propostas em confronto.,}
+
+Chave: DISSIMULAR-SE <verb.perception>
+ILI: 02082942
+
+Sense 1
+{02082942} <verb.perception> hide, conceal1 -- (prevent from being seen or discovered; "Muslim women hide their faces"; "hide the money")
+       => {01441247} <verb.contact> veil -- (to obscure, or conceal with or as if with a veil; "women in Afghanistan veil their faces")
+       => {02083378} <verb.perception> secrete2 -- (place out of sight; keep secret; "The money was secreted from his children")
+       => {02083632} <verb.perception> obstruct4, block -- (shut out from view or get in the way so as to hide from sight; "The thick curtain blocked the action on the stage"; "The trees obstruct my view of the mountains")
+       => {02085198} <verb.perception> cover14 -- (spread over a surface to conceal or protect; "This paint covers well")
+       => {02085402} <verb.perception> bosom -- (hide in one's bosom; "She bosomed his letters")
+       => {02085555} <verb.perception> bury -- (cover from sight; "Afghani women buried under their burkas")
+       => {02086440} <verb.perception> cover12, cover up -- (hide from view or knowledge; "The President covered the fact that he bugged the offices in the White House")
+           => {02086180} <verb.perception> whitewash, gloss over, sleek over, hush up -- (cover up a misdemeanor, fault, or error; "Let's not whitewash the crimes of Stalin"; "She tried to gloss over her mistakes")
+       => {02086675} <verb.perception> harbor, harbour, shield -- (hold back a thought or feeling about; "She is harboring a grudge against him")
+       => {02095814} <verb.perception> obscure, befog, becloud, obnubilate, haze over, fog, cloud, mist -- (make less visible or unclear; "The stars are obscured by the clouds")
+           => {02096227} <verb.perception> overshadow -- (cast a shadow upon; "The tall tree overshadowed the house"; "The tragedy overshadowed the couple's happiness")
+               => {02096422} <verb.perception> eclipse, occult1 -- (cause an eclipse of (a celestial body) by intervention; "The Sun eclipses the moon today"; "Planets and stars often are occulted by other celestial bodies")
+       => {02096669} <verb.perception> disguise -- (make unrecognizable; "The herb disguises the garlic taste"; "We disguised our faces before robbing the bank")
+           => {02085692} <verb.perception> dissemble, cloak, mask -- (hide under a false appearance; "He masked his disappointment")
+           => {02085913} <verb.perception> dissimulate -- (hide (feelings) from other people)
+           => {02086033} <verb.perception> masquerade -- (take part in a masquerade)
+           => {02096975} <verb.perception> camouflage -- (disguise by camouflaging; exploit the natural surroundings to disguise something; "The troops camoflaged themselves before they went into enemy territory")
+       => {02300679} <verb.social> sweep under the rug -- (to conceal something in the hopes it won't be discovered by others; "The president tried to sweep the embarrassing incident under the rug")
+       => {02561585} <verb.stative> lurk1, skulk -- (lie in wait, lie in ambush, behave in a sneaky and secretive manner) 

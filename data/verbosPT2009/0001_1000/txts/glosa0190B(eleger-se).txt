@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0190B
+
+DADO O SYNSET:
+
+S='Glosa190'
+{aclamar-se: Em 11 de agosto de 1492, Roderigo Bórgia I]aclamou-se Papa Alexandre VI.,
+eleger-se: Ele teve exatamente os 11 votos que reuniu para [se eleger presidente do Senado há mais de um ano, o que significa dizer que nem tão alta posição o fez avançar um único voto dentro do partido.,
+proclamar-se: Em 1139, após vencer os inimigos na importante Batalha de Ourique, [proclamou-se rei e fez a independência de seus domínios.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa190B' = “selecionar por meio de voto para uma função ou associação”
+{eleger-se: Ele teve exatamente os 11 votos que reuniu para [se eleger presidente do Senado há mais de um ano, o que significa dizer que nem tão alta posição o fez avançar um único voto dentro do partido.,}
+Chave: ELEGER-SE <verb.social>
+ILI: 02328789
+
+Sense 1
+{02328789} <verb.social> elect -- (select by a vote for an office or membership; "We elected him chairman of the board")
+       => {00652154} <verb.cognition> choose, take1, select, pick out -- (pick out, select, or choose from a number of alternatives; "Take any one of these cards"; "Choose a good husband for your daughter"; "She selected a pair of shoes from among the dozen the salesgirl had shown her")
+           => {00674417} <verb.cognition> decide, make up one's mind, determine -- (reach, make, or come to a decision about something; "We finally decided after lengthy deliberations")

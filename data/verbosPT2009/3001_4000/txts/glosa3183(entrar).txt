@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA3183
+
+DADO O SYNSET:
+
+S='Glosa3183'
+	    {
+	      enfiar-se: Finalmente, o homem chegou ao seu iglu, I]enfiou-se direto no túnel e, de quatro, engatinhou de qualquer jeito para dentro.,
+	      entrar: Segundo seu relato, ele liderou um grupo de quatro policiais que [entrou na favela à procura de traficantes de drogas. ,
+	      imitir-se: O réu foi condenado por H]imitir-se em propriedade alheia.,
+	      inserir-se: I]Inseriu-se um gene extra nas sementes para que tolerem doses maiores do herbicida Roundup Ready, utilizado para matar ervas daninhas.,
+	      introduzir-se: Quando percebeu que tudo estava em silêncio, aproximou-se; trocou o sinal convencionado, que era o canto de coruja; e [introduziu-se furtivamente na habitação. ,
+	      meter-se: Sofia [meteu-se no carro e saiu a visitas e a passeio para desforrar-se da reclusão.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3183' = “chegar ou ir para o interior de”
+	     {enfiar-se: Finalmente, o homem chegou ao seu iglu, I]enfiou-se direto no túnel e, de quatro, engatinhou de qualquer jeito para dentro.,
+	      entrar: Alexandro [entrou no carro dos policiais sob protestos de alguns freqüentadores, que começaram a apitar. ,
+	      inserir-se: Mais recentemente a Faced I]inseriu-se no movimento pelo uso do Software Livre, agregando a seus objetivos o de difusão da cultura linux.,
+	      introduzir-se: Quando percebeu que tudo estava em silêncio, aproximou-se; trocou o sinal convencionado, que era o canto de coruja; e [introduziu-se furtivamente na habitação. ,
+	      meter-se: Sofia [meteu-se no carro e saiu a visitas e a passeio para desforrar-se da reclusão.,}
+Chave: ENTRAR <verb.motion>
+ILI: 01958650
+
+Sense 1
+{01958650} <verb.motion> enter, come in2, get into, get in1, go into, go in, move into -- (to come or go into; "the boat entered an area of shallow marshes")
+          Also See-> {02148928} <verb.possession> enter upon#1

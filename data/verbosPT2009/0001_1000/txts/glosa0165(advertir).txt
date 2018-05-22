@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA0165
+
+DADO O SYNSET:
+
+S='Glosa165'
+{admoestar: [Admoesta com gentileza seu hóspede.,
+advertir: Mas devemos esperar o fim desta semana para ver, pois algumas regiões ainda estão alagadas e com muita lama, [advertiu.,
+amoestar: x,
+avisar: Quero ficar no Brasil, [avisa Stone.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa165' = “fazer advertência ou aconselhar em termos do comportamento de alguém”
+{admoestar: Os delegados e delegadas metodistas não estão no Concílio para promover disputas das tendências na igreja, entre carismáticos, tradicionais, acadêmicos, ecumênicos ou outras correntes, I]admoestou Campos Leite.,
+advertir: Mas devemos esperar o fim desta semana para ver, pois algumas regiões ainda estão alagadas e com muita lama, [advertiu.,
+avisar: Quero ficar no Brasil, [avisa Stone.,}
+Chave: ADVERTIR <verb.communication>
+ILI: 00841635
+
+Sense 1
+{00841635} <verb.communication> warn1, discourage2, admonish2, monish -- (admonish or counsel in terms of someone's behavior; "I warned him not to go too far"; "I warn you against false assumptions"; "She warned him to be quiet")
+       => {00843872} <verb.communication> advise, counsel -- (give advice to; "The teacher counsels troubled students"; "The lawyer counselled me when I was accused of tax fraud")
+           => {00787668} <verb.communication> hash out, discuss, talk over -- (speak with others about (something); talk (something) over in detail; have a discussion; "We discussed our household budget")
+               => {00912516} <verb.communication> talk of, talk about1 -- (discuss or mention; "They spoke of many things")
+                   => {00910961} <verb.communication> talk, speak, utter, mouth, verbalize, verbalise -- (express in speech; "She talks a lot of nonsense"; "This depressed patient does not verbalize")
+                       => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                           => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                               => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

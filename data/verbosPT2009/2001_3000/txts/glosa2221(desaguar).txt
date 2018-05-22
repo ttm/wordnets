@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA2221
+
+DADO O SYNSET:
+
+	  S='Glosa2221'
+	    {desaguar: Os rios que se originam na porção central [deságuam no Mar Glacial Ártico a exemplo do Lena, Jenissei e Ob .,
+	      descarregar: Extremidade onde o rio I]descarrega suas águas no mar.,
+	      desembocar: DEVIANT,
+	      despejar: Ao I]despejar as suas águas no mar, o rio Macapá forma um belo visual de tranqüilidade.,
+	      entrar: DEVIANT,
+	      esvazar: x,
+	      esvaziar: x,
+	      lançar: O rio Guamá, no Estado do Pará nasce em cotas inferiores a 100m, percorrendo cerca de 400 km, até I]lançar suas águas na Baía de Guajará, em Belém.,
+	      morrer: DEVIANT,
+	      vazar: O rio negro A]vaza suas águas no Amazonas.,
+	      vaziar: x,
+	      verter: DEVIANT,}
+
+A ANÁLISE RESULTA EM:
+
+	  S='Glosa2221' = “lançar águas ou algum líquido em”
+	    {desaguar: Os rios que se originam na porção central [deságuam no Mar Glacial Ártico.,
+	      descarregar: Extremidade onde o rio I]descarrega suas águas no mar.,
+	      despejar: Ao I]despejar as suas águas no mar, o rio Macapá forma um belo visual.,
+	      lançar: O rio Guamá nasce em cotas inferiores a 100m, percorrendo cerca de 400 km, até I]lançar suas águas na Baía de Guajará.,
+	      vazar: O rio negro A]vaza suas águas no Amazonas.,}
+Chave: DESAGUAR <verb.motion>
+ILI: 02008364
+
+Sense 2
+{02008364} <verb.motion> run1, flow, feed4, course -- (move along, of liquids; "Water flowed into the cave"; "the Missouri feeds into the Mississippi")
+       => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right")
+          Also See-> {02556028} <verb.stative> flow from#1

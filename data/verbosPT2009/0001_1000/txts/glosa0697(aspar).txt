@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0697
+
+DADO O SYNSET:
+
+S='Glosa697'
+{aspar: x,
+aspear: É correto I]aspear ou pôr entre parênteses o apelido: Lynette "Squeaky".,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa697' = “repetir passagem, frase ou declaração marcando com aspas”
+{aspear: É correto I]aspear ou pôr entre parênteses o apelido: Lynette "Squeaky".,}
+Chave: ASPEAR
+ILI: 00927233
+
+Sense 1
+{00927233} <verb.communication> ditto -- (repeat an action or statement; "The next speaker dittoed her argument")
+       => {00926576} <verb.communication> repeat, reiterate, ingeminate, iterate, restate, retell -- (to say, state, or perform again; "She kept reiterating her request")
+           => {00920928} <verb.communication> tell -- (let something be known; "Tell them that you will be late")
+               => {00804489} <verb.communication> inform -- (impart knowledge of some fact, state or affairs, or event to; "I informed him of his rights")
+                   => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                       => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                           => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

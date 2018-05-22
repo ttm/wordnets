@@ -1,0 +1,47 @@
+ANÁLISE DA GLOSA2420
+
+DADO O SYNSET:
+
+S='Glosa2420'
+	    {aceder: Embora seja aconselhável a apropriação do conteúdo pela ordem indicada, pode clicar em qualquer tema para I]aceder directamente ao conteúdo do mesmo.,
+	      acrescentar: Sérgio [acrescenta fios de cabelo de seus modelos às fotos.,
+	      acrescer: Após o cálculo, I]acrescer multa de 28% e juros de 10%. ,
+	      adicionar: Ao tubo contendo água e soda cáustica, [adicione a mesma quantidade de ácido muriático.,
+	      adir: No ano passado, Papa João Paulo II, I]adiu mais cinco mistérios de interesse profundo: são os Mistérios da Luz, vida pública de Jesus, evangelizando o mundo. ,
+	      aditar1: Aristóteles não tinha um princípio, recolhia-os conforme se apresentavam e reuniu primeiramente dez, a que chamou categorias (predicamentos); depois acreditou encontrar todavia outros cinco e os I]aditou aos precedentes com o nome de pós-predicamentos. ,
+	      agregar: O posto da Barra, localizado no shopping mais requintado da cidade, foi orçado em R$ 900 mil, já está em construção e vai [agregar 139 serviços.,
+	      ajuntar: Os meninos conseguiram I]ajuntar 130 sacos de latinhas no final da festa, contribuindo com a limpeza da cidade.,
+	      aumentar: Cesta básica de SP [aumenta 1,17% no final de semana.,
+	      coalescer: As lesões podem I]coalescer afetando grande parte do limbo foliar.# As gotículas podem chocar-se entre si e I]coalescer (juntar-se), formando gotas cada vez maiores que caem ainda mais rápido. ,
+	      juntar: O sistema Juturnaíba será dividido em duas partes, e cada uma delas terá uma concessão diferente: a primeira [juntará os municípios de Cabo Frio, Arraial do Cabo e São Pedro da Aldeia, e outra reunirá Araruama, Saquarema e Silva Jardim.,
+	      sobrepor: Considerando-se o que o cineasta ambiciona: [sobrepor signos populares de épocas diferentes, raízes e ramificações, formadores e herdeiros, sensibilidades que se imbricam.,
+	      somar: Suas condenações [somam 33 anos de reclusão, por seqüestro, tráfico de drogas, furto e formação de quadrilha. # Juntos, os 78 mortos de Corumbiara, Curionópolis e Caruaru, já [somam quase um Carandiru (111).,
+	      superpor: Tenho vontade de [superpor muitos sons diferentes, usar samplers.,
+	      temperar: Os oradores, escreve Bateson, apresentam-se com alto excitamento aparente, e a todo tempo [temperam sua violência com gestos teatrais, alternando seu tom entre o severo e a bufonaria.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2420' = “Fazer uma adição (à,ao), juntar,  associar ou unir com outros; aumentar a qualidade, quantidade, tamanho ou alcance de.”
+	    {aceder: A]Acedeu, aos exemplos, vários outros de diferentes autores.,
+	      acrescentar: Sérgio [acrescenta fios de cabelo de seus modelos às fotos.,
+	      acrescer: Eu imaginava tantas trupes juntas e me maravilhava com a idéia e [acrescia outras novas.,
+	      adicionar: Ao tubo contendo água e soda cáustica, [adicione a mesma quantidade de ácido muriático.,
+	      adir: No ano passado, Papa João Paulo II, I]adiu mais cinco mistérios de interesse profundo: são os Mistérios da Luz, vida pública de Jesus, evangelizando o mundo.,
+	      aditar1: FHC [aditou à pasta toda a estrutura de irrigação.,
+	      agregar: A transformação tecnológica [agregou novos condimentos ao chamado Estado de Bem-Estar Social.,
+	      ajuntar: À citação, Bosi [ uma só frase.,
+	      aumentar: Diminuiu o crédito ao setor público e I]aumentou ao setor privado.,
+	      juntar: Quando escreveu sua primeira canção para mim, [juntou o útil ao agradável.,
+	      sobrepor: Ao rol de seus crimes H]sobrepôs novas mortes.,
+	      somar: A esses, [somou outros 4.000.,
+	      superpor: A aceleração técnica vigente na contemporaneidade I]superpôs um novo modo temporal a esta conexão entre os ritmos materiais e biológicos:.,
+	      temperar: Os oradores, escreve Bateson, apresentam-se com alto excitamento aparente, e a todo tempo [temperam sua violência com gestos teatrais.,}
+
+Chave: ADICIONAR <verb.change>
+ILI: 00176022
+
+Sense 1
+{00176022} <verb.change> add -- (make an addition (to); join or combine or unite with others; increase the quality, quantity, zise or scope of; "We added two students to that dorm room"; "She added a personal note to her letter"; "Add insult to injury"; "Add some extra plates to the dinner table")
+       => {00150804} <verb.change> increase -- (become bigger or greater in amount; "The amount of work increased")
+           => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night") 

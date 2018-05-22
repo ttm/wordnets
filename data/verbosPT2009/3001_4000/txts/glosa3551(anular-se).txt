@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA3551
+
+DADO O SYNSET:
+
+S='Glosa3551'
+	    {
+	      anular-se: O homem que faz o papel de demiurgo [se anula. ,
+	      inutilizar-se: Caso se verifique qualquer alteração, deve I]inutilizar-se a vacina.,
+	      invalidar-se: Em Griswold, I]invalidou-se uma lei que incriminava o uso de pílula anticoncepcional.  ,
+	      neutralizar-se: O ácido veio em doses concentradas demais, e nem mesmo os poderes de diluição da grande cidade foram capazes de [neutralizá-lo. / Se a conversão for feita de forma altamente recomendável para as cadernetas de poupança [neutralizam-se perdas e danos. ,
+	      nulificar-se: A ação corajosa de um indivíduo, de um soldado, [se nulifica diante de máquinas de guerra infernais, diante de máquinas infernais. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3551' = “mostrar ser inválido”
+	     {anular-se: O homem que faz o papel de demiurgo [se anula.,
+	      inutilizar-se: Contundido, o atleta H]inutilizou-se para as próximas competições.,
+	      invalidar-se: A negra, pela desfavorável condição de escrava, I]invalidou-se passivamente diante das nefandas influências do regime.,
+	      neutralizar-se: Sua força I]neutralizou-se. / Como a artista que se entregou à sua arte, na juventude, e se I]neutralizou em nome dela,. também o Padre o fez em prol de uma vida religiosa.,
+	      nulificar-se: A ação corajosa de um indivíduo, de um soldado, [se nulifica diante de máquinas de guerra infernais.,}
+Chave: ANULAR-SE <verb.cognition>
+ILI: 00644886
+
+Sense 2
+{00644886} <verb.cognition> invalidate, nullify -- (show to be invalid)
+       => {00644688} <verb.cognition> negate, contradict -- (prove negative; show to be false)
+           => {00642734} <verb.cognition> prove, demonstrate, establish, show, shew -- (establish the validity of something, as by an example, explanation or experiment; "The experiment demonstrated the instability of the compound"; "The mathematician showed the validity of the conjecture")
+               => {00643814} <verb.cognition> confirm, corroborate, sustain, substantiate, support, affirm -- (establish or strengthen as with new evidence or facts; "his story confirmed my doubts"; "The evidence supports the defendant")

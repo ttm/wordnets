@@ -1,0 +1,52 @@
+ANÁLISE DA GLOSA3363
+
+DADO O SYNSET:
+
+S='Glosa3363'
+	    {
+	      bolar: A mulher entrou em desespero após três cancelamentos de realização da cirurgia e I]bolou o plano do sangue falso.,
+	      bordar: Cornélio Pires I]bordou um dos seus engraçados contos de caipiras em torno do seguinte assunto.,
+	      buscar: H]Buscou uma maneira de se vingar.,
+	      compor: Fernanda Souza devora livro de 500 páginas para I]compor sua personagem em 'Um só coração'.,
+	      criar: Bate em todas a vontade de [criar outros mundos, de viver a fantasia.,
+	      desenhar: Tudo se passou como ele o H]desenhara.,
+	      engendrar: É muito provável, pois só um perfeito débil mental seria capaz de [engendrar tal regulamento, e um bando de irresponsáveis teria coragem de avalizá-lo.,
+	      engenhar: Amantes irrestritos da liberdade, intelectualmente preparados para [engenhar» instituições justas.,
+	      excogitar: Daí por diante principia o marido a I]excogitar meios para pôr-se ao fresco todas as noites.,
+	      fabricar: Diante do espetáculo da própria finitude, o homem concebeu a metafísica, inventou o cristianismo, [fabricou doutrinas morais. ,
+	      forjar: No livro ela conta como a PM [forjou a imagem de que seu filho era traficante.,
+	      idear: Confessa ter sido quem I]ideou tudo, sem que nenhuma outra pessoa o movesse, nem lhe inspirasse coisa alguma.,
+	      imaginar: Syberberg [imaginou a cabeça de Wagner como um labirinto e a dividiu em catorze secções, nas quais se passa cada uma das partes do drama épico. ,
+	      inventar: A delegada da Mulher, Terezinha de Carvalho, ouviu o depoimento da adolescente e afirmou que aparentemente ela não [inventou a história.,
+	      manipular: Moore distorceu fatos, I]manipulou informações, e encenou eventos. ,
+	      produzir: Mas também posso testemunhar que minha criatividade I]produziu idéias que afetaram profundamente não só a minha vida, mas também a de outros.,
+	      suscitar: DEVIANT,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3363' = “apresentar (uma idéia, plano, explicação, teoria ou princípio) depois de um esforço mental”
+	     {bolar: A mulher entrou em desespero após três cancelamentos de realização da cirurgia e I]bolou o plano do sangue falso.,
+	      bordar: Cornélio Pires I]bordou um dos seus engraçados contos de caipiras em torno do seguinte assunto.,
+	      buscar: Ao invés disso, [buscava uma prática mais interior, em que o comportamento cotidiano dos indivíduos e a pureza da doutrina era o que importava.,
+	      compor: Ela [compõe a atmosfera crua e violenta que caracteriza o drama.,
+	      criar: Delicado e melancólico, [criou o indianismo romântico, impondo-se como uma das maiores figuras da nossa literatura.,
+	      desenhar: Nos telejornais, nos flashes, o candidato a estadista [desenhou o personagem que imagina para si mesmo, na história.,
+	      engendrar: Ao cobrir a revolta de Canudos como jornalista, Euclides da cunha [engedrou um romance que iria revelar ao Brasil o que ninguém até então conhecia.,
+	      engenhar: Ao longo dos séculos o ser humano imaginou e I]engenhou máquinas que em muito melhoraram a nossa qualidade de vida.,
+	      excogitar: Castro I]excogitou um imposto de renda que sufoca camponeses, pequenos comerciantes e donos de restaurantes.,
+	      fabricar: Diante do espetáculo da própria finitude, o homem concebeu a metafísica, inventou o cristianismo, [fabricou doutrinas morais. ,
+	      forjar: No livro ela conta como a PM [forjou a imagem de que seu filho era traficante.,
+	      idear: Confessa ter sido quem I]ideou tudo, sem que nenhuma outra pessoa o movesse, nem lhe inspirasse coisa alguma.,
+	      imaginar: Syberberg [imaginou a cabeça de Wagner como um labirinto e a dividiu em catorze secções, nas quais se passa cada uma das partes do drama épico. ,
+	      inventar: A delegada da Mulher, Terezinha de Carvalho, ouviu o depoimento da adolescente e afirmou que aparentemente ela não [inventou a história.,
+	      manipular: Moore distorceu fatos, I]manipulou informações, e encenou eventos. ,
+	      produzir: Mas também posso testemunhar que minha criatividade I]produziu idéias que afetaram profundamente não só a minha vida, mas também a de outros.,}
+
+Chave: INVENTAR <verb.creation>
+ILI: 01586189
+
+Sense 1
+{01586189} <verb.creation> invent, contrive, devise, excogitate, formulate, forge8 -- (come up with (an idea, plan, explanation, theory, or priciple) after a mental effort; "excogitate a way to measure the speed of light")
+       => {01585330} <verb.creation> create by mental act, create mentally -- (create mentally and abstractly rather than with one's hands)
+           => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA3471
+
+DADO O SYNSET:
+
+S='Glosa3471'
+	    {
+	      acurtar: ...oportunidade de ]acurtar a distancia que nos separa,
+	      diminuir: A medida que a fibra muscular contrai-se, a faixa [diminui, chegando a desaparecer totalmente na célula contraída/Aquele estado vai receber um total de 30 mil passaportes para [diminuir as filas/Periféricos e acessórios também [diminuem para seguir os portáteis,
+	      encolher: Era uma onça enorme; de garras apoiadas sobre um grosso ramo de árvore, e pós suspensos no galho superior, [encolhia o corpo, preparando o salto gigantesco/Respondeu me, levantando e [encolhendo os ombros com gelada indiferença,
+	      encurtar: A nova tabela, de uma forma geral, [encurtou os prazos, em razão dos últimos avanços da Medicina/Não adianta querer [encurtar o caminho,
+	      minuir: x,
+	      reduzir: ]Reduzir o tamanho de letra ...,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3471' = “fazer curto ou mais curto”
+	     {diminuir: A autopista [diminuiu o percurso em pelo menos duas horas e meia,
+	      encolher: Era uma onça enorme; de garras apoiadas sobre um grosso ramo de árvore, e pós suspensos no galho superior, [encolhia o corpo, preparando o salto gigantesco/Respondeu me, levantando e [encolhendo os ombros com gelada indiferença,
+	      encurtar: A nova tabela, de uma forma geral, [encurtou os prazos, em razão dos últimos avanços da Medicina/Não adianta querer [encurtar o caminho,
+	      reduzir: Ele (César Maia) [reduziu as pistas e construiu calçadões que só servem de estacionamentos.,}
+Chave: ENCURTAR <verb.change>
+ILI: 00545418
+
+Sense 3
+{00545418} <verb.change> shorten9 -- (make short or shorter; "shorten the skirt"; "shorten the rope by a few inches")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

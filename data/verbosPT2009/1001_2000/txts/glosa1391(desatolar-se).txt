@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA1391
+
+DADO O SYNSET:
+
+S='Glosa1391'
+{desatascar-se: Patinando pela lama, foi aos poucos H]se desatascando,
+ desatolar-se: Isaac reclamou, ligando o carro, acelerou um pouco para I]desatolar-se da neve e seguiram na pista,
+ desembarrancar-se: DEVIANT,
+	 desenvasar-se: x,}
+	  
+A='Glosa1742'
+{atascar-se, atolar-se1, encharcar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1391' = “sair do atoleiro”
+{desatolar-se: Isaac reclamou, ligando o carro, acelerou um pouco para I]desatolar-se da neve e seguiram na pista.,}
+A='Glosa1742'
+{atascar-se, atolar-se1, encharcar-se}
+Chave: DESATOLAR-SE
+ILI: EQ_HAS_HYPERONYM – 02015953 – “escapar de um confinamento ou limitação” 
+
+Sense 1
+{02015953} <verb.motion> escape, get away, break loose -- (run away from confinement; "The convicted murderer escaped from a high security prison")
+       => {02016731} <verb.motion> flee, fly3, take flight -- (run away quickly; "He threw down his gun and fled")
+           => {02016325} <verb.motion> run4, scarper, turn tail, lam, run away, hightail it, bunk, head for the hills, take to the woods, escape2, fly the coop, break away -- (flee; take to one's heels; cut and run; "If you see this man, run!"; "The burglars escaped before the police showed up")
+               => {01951556} <verb.motion> leave1, go forth, go away -- (go away from a place; "At what time does your train leave?"; "She didn't leave until midnight"; "The ship leaves at midnight")

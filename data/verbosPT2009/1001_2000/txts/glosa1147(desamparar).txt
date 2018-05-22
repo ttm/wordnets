@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA1147
+
+DADO O SYNSET:
+
+S='Glosa1147'
+{desamparar: Nossa Senhora não [desampara os fiéis,
+ desapadrinhar: x,}
+	  
+A='Glosa2867'
+	    {abençoar, aforar1, ajudar, amparar, apadrinhar, apaniguar, bafejar, bençoar, fautorizar, favonear, favorecer, proteger, soprar, sorrir}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1147' = “abandonar alguém que depende de você”
+{desamparar: Nossa Senhora não [desampara os fiéis.,}
+A='Glosa2867'
+	    {abençoar, aforar1, ajudar, amparar, apadrinhar, apaniguar, bafejar, bençoar, fautorizar, favonear, favorecer, proteger, soprar, sorrir}
+Chave: DESAMPARAR <verb.cognition>
+ILI: 00594081 
+
+Sense 1
+{00594081} <verb.cognition> abandon, forsake, desolate, desert -- (leave someone who needs or counts on you; leave in the lurch; "The mother deserted her children")
+       => {00593707} <verb.cognition> leave5 -- (go and leave behind, either intentionally or by neglect or forgetfulness; "She left a mess when she moved out"; "His good luck finally left him"; "her husband left her after 20 years of marriage"; "she wept thinking she had been left behind") 

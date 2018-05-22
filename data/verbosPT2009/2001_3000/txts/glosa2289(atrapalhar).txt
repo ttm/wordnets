@@ -1,0 +1,37 @@
+ANÁLISE DA GLOSA2289
+
+DADO O SYNSET:
+
+S='Glosa2289'
+	    {atrapalhar: Os registros fotográficos do criminoso estão defasados, o que [atrapalha a identificação .,
+	      atravessar: O velho [atravessa a dança com suas pesadas e obscenas facécias .,
+	      contra-arrestar: Nós não temos dinheiro e nem diplomatas de carreira para I]contra-arrestar a campanha governamental.,
+	      contrariar: Isso [contraria os principais interesses do PFL e do PPR .,
+	      desajudar: É preciso que o governo mande o Incra não I]desajudar. ,
+	      empacar1: Mas tudo [empaca na hora de custear a obra do lado peruano .,
+	      empecer: O dispositivo legal atacado acaba por I]empecer o exercício do direito previsto na Constituição Federal de 88.,
+	      estorvar: São motivos diametralmente opostos que [estorvam a exposição dos dois trabalhos .,
+	      prejudicar: A mudança favorece as cadernetas de poupança, mas [prejudica quem têm dívidas com base na taxa, como os mutuários do Sistema Financeiro da Habitação (SFH) . ,
+	      transtornar: A maioria dos estudos mostra que proteínas codificadas por E6 e E7 são capazes de I]transtornar a expressão de proteínas reguladoras da replicação celular,
+	      travessar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2289' = “ funcionar como um impedimento ou estorvo para algo”
+	    {atrapalhar: Os registros fotográficos do criminoso estão defasados, o que [atrapalha a identificação .,
+	      atravessar: O velho [atravessa a dança com suas pesadas e obscenas facécias .,
+	      contra-arrestar: Nós não temos dinheiro e nem diplomatas de carreira para I]contra-arrestar a campanha governamental.,
+	      contrariar: Isso [contraria os principais interesses do PFL e do PPR .,
+	      desajudar: É preciso que o governo mande o Incra não I]desajudar. ,
+	      empacar: A intervenção do Planalto [empacou a questão dos aluguéis.,
+	      empecer: O dispositivo legal atacado acaba por I]empecer o exercício do direito previsto na Constituição.,
+	      estorvar: São motivos opostos que [estorvam a exposição dos dois trabalhos .,
+	      prejudicar: A mudança favorece as cadernetas de poupança, mas [prejudica quem têm dívidas com base na taxa.,
+	      transtornar: Os estudos mostram que proteínas codificadas por E6 e E7 são capazes de I]transtornar a expressão de proteínas reguladoras da replicação celular.,}
+
+Chave: ATRAPALHAR <verb.social>
+ILI: 02377880
+
+Sense 1
+{02377880} <verb.social> impede, hinder1 -- (be a hindrance or obstacle to; "She is impeding the progress of our project")
+       => {02377053} <verb.social> prevent, keep1 -- (prevent from doing something or being in a certain state; "We must prevent the cancer from spreading"; "His snoring kept me from falling asleep"; "Keep the child from eating the marbles")

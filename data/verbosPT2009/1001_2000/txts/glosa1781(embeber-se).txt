@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA1781
+
+DADO O SYNSET:
+
+S='Glosa1781'
+{acravar-se: x,
+ cravar-se: E em cada um os seus olhos negros I]cravaram-se sem dó, como um anjo justiceiro que desnuda os pensamentos sem piedade e nada escapa de seu julgamento. ,
+ embeber-se: Pela dura face do espadachim rolaram duas lágrimas silenciosas e os seus olhos I]embeberam-se, úmidos e sôfregos, nos dois céus azuis dos olhos da filha. ,
+ enfincar-se: x,
+ espetar-se: x,
+ fincar-se: x,
+ fixar-se: O coração agitou-se um pouco, o instinto, acordado, estremeceu, e os olhos, culpados, fugiram-lhe do rosto da moça e [fixaram-se sonhadoramente no céu.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1781' = “ficar fixado, como num volume circundante”
+{cravar-se: Atrevo-me a dizer que os espinhos dos cactos ultrapassam a superfície visível do quadro, e se I]cravam no seu interior.,
+ embeber-se: O concepto I]embebe-se completamente dentro do endométrio, denominando-se implantação intersticial.,
+ fixar-se: É bem provável que a poeira da cauda do cometa, permanecendo em órbita, se [fixe em um anel muito difuso.,}
+Chave: EMBEBER-SE <verb.contact>
+ILI: 01486477
+
+Sense 1
+{01486477} <verb.contact> implant, engraft, embed, imbed, plant1 -- (fix or set securely or deeply; "He planted a knee in the back of his opponent"; "The dentist implanted a tooth in the gum")
+       => {01380907} <verb.contact> insert, infix1, enter3, introduce -- (put or introduce into something; "insert a picture into the text")
+           => {01257892} <verb.contact> attach1 -- (cause to be attached)
+               => {01314764} <verb.contact> connect, link, tie1, link up -- (connect, fasten, or put together two or more pieces; "Can you connect the two loudspeakers?"; "Tie the ropes together"; "Link arms")

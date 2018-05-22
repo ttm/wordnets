@@ -1,0 +1,41 @@
+ANÁLISE DA GLOSA3955
+
+DADO O SYNSET:
+
+S='Glosa3955'
+    	{agaloar: x,
+      	 elogiar: Mesmo quem não foi contemplado I]elogiou o aspecto democrático.,
+      	 enaltar: x,
+      	 enaltecer: Em seu discurso, o prefeito elogiou muito a Caixa, mas [enalteceu mesmo o proprietário das terras em que as casas haviam sido construídas .,
+      	 encarecer: Em sua crítica, A]encarece as qualidades do poeta.,
+      	 encomiar: À parte, a conotação que buscava I]encomiar minha crônica “De Regresso”, Lúcia está certa ao afirmar que a arte nasce da dor.,
+      	 gabar: O compadre, que no meio de tudo tinha sempre pintado a história do menino com cores muito favoráveis, não cessando e [gabar a sua mansidão, boa índole, e dourando sempre as suas diabruras com o título inocências, ingenuidades ou coisas de criança, começou a dar o cavaco com o desmentido que lhe dava a vizinha, que ao contrário dele pintava tudo com cores negras .,
+      	 galonar: x,
+      	 louvar: Também [louvou as qualidades morais, a finura do espírito, tais dotes que Pedro e Paulo reconheceram também, e daí a conversação, e por fim o ajuste a que me referi no começo deste capítulo e pede outro .,
+      	 preconizar: Antero Paes de Barros teve seus 5 minutos de fama, que tanto I]preconizou o artista plástico nova-iorquino, Andy Warhol.,}
+  
+A='Glosa3587'
+    	{caluniar, demolir, denegrir, desacreditar, desclassificar, descreditar, desdoirar, desdourar, deslustrar, desmerecer, desmoralizar, desonestar, desonrar, detrair, detratar, difamar, enegrecer, enxovalhar, ignominiar, infamar, injuriar, manchar, mazelar, rebaixar, vituperar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3955' = “elogiar, glorificar ou honrar”
+    	{elogiar: Zagalo [elogiou muito a atuação de Beto, que entrou na vaga de Souza e até fez gol.,
+      	 enaltecer: Em seu discurso, o prefeito elogiou muito a Caixa, mas [enalteceu mesmo o proprietário das terras em que as casas haviam sido construídas.,
+      	 encarecer: O Deputado Federal I]encareceu a importância da realização de uma comissão parlamentar de inquérito sobre o FUNDEF.,
+      	 encomiar: José Floriano de Camargo, fazendo um paralelo entre a monarquia que se extinguira e o regime republicano, I]encomiou, ardorosamente, o último e gritou vivas.,
+      	 gabar: Então o Senhor Matias I]gabou o meu gênio.,
+      	 louvar: Também [louvou as qualidades morais, a finura do espírito, tais dotes que Pedro e Paulo reconheceram também, e daí a conversação, e por fim o ajuste a que me referi no começo deste capítulo e pede outro.,
+      	 preconizar: Antero Paes de Barros teve seus 5 minutos de fama, que tanto I]preconizou o artista plástico nova-iorquino, Andy Warhol.}
+  
+A='Glosa3587'
+    	{caluniar, demolir, denegrir, desacreditar, desclassificar, descreditar, desdoirar, desdourar, deslustrar, desmerecer, desmoralizar, desonestar, desonrar, detrair, detratar, difamar, enegrecer, enxovalhar, ignominiar, infamar, injuriar, manchar, mazelar, rebaixar, vituperar}
+Chave: ELOGIAR <verb.communication>
+ILI: 00832481
+
+Sense 1
+{00832481} <verb.communication> laud, extol, exalt, glorify, proclaim1 -- (praise, glorify, or honor; "extol the virtues of one's children"; "glorify one's spouse's cooking")
+       => {00828989} <verb.communication> praise -- (express approval of; "The parents praised their children for their academic performance")
+           => {00658664} <verb.cognition> measure1, evaluate, valuate, assess, appraise1, value -- (place a value on; judge the worth of something; "I will have the family jewels appraised by a professional")
+               => {00647983} <verb.cognition> judge -- (form an opinion of or pass judgment on; "I cannot judge some works of modern art")
+                   => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

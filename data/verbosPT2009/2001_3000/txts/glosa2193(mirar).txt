@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA2193
+
+DADO O SYNSET:
+
+S='Glosa2193'
+	    {mirar: Ele chegou a [mirar a cabeça de outro menor que o olhava petrificado.,
+	      visar: O homem I]visou o pássaro.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2193' = “olhar fixamente”
+	    {mirar: Ele chegou a [mirar a cabeça de outro menor que o olhava petrificado.,
+	      visar: O homem I]visou o pássaro., }
+
+Chave: MIRAR <verb.perception>
+ILI: 02070946
+
+Sense 1
+{02070946} <verb.perception> gaze, stare -- (look at with fixed eyes; "The students stared at the teacher with amazement")
+       => {02068725} <verb.perception> look -- (perceive with attention; direct one's gaze towards; "She looked over the expanse of land"; "Look at your child!"; "Look--a deer in the backyard!")

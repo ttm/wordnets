@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA1693
+
+DADO O SYNSET:
+
+S='Glosa1693'
+{apalavrar-se: O presidente Marcelo Guimarães lembrou que, na ocasião, Evaristo I]apalavrou-se com ele e, a seguir, aceitou um convite de Eurico Miranda, presidente do Vasco.,
+ comprometer-se: O Banco Nacional [comprometeu-se a formar uma diretoria profissional(com os executivos do Citibank) , mas prosseguiu cometendo fraudes que só agora começam a aparecer.,
+ compromissar-se: O comprador I]compromissou-se a comprar o lote de terreno comprometendo-se a pagar as prestações convencionadas.,
+ empenhar-se: H]Empenhou-se diante de todos, portanto não nos trairá.,
+ empenhorar-se: x,
+ obrigar-se: Quando o serviço ou utilidade não for prestado por falta atribuída ao emitente, este deverá I]obrigar-se à devolução do preço ao portador legitimado. ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1693' = “prometer fazer ou concluir [algo]”
+{apalavrar-se: O presidente do Santos se I]apalavrou que depois da Libertadores desse ano ( que ele esperava ganhar ) ele liberaria o Robinho por 10 milhões.,
+ comprometer-se: O Banco Nacional [comprometeu-se a formar uma diretoria profissional (com os executivos do Citibank), mas prosseguiu cometendo fraudes que só agora começam a aparecer.,
+ compromissar-se: O comprador I]compromissou-se a comprar o lote de terreno comprometendo-se a pagar as prestações convencionadas.,
+ empenhar-se: H]Empenhou-se diante de todos, portanto não nos trairá.,
+ obrigar-se: A partir do convênio a empresa [obrigava-se a oferecer atendimento integral ao empregado.,}
+Chave: COMPROMETER-SE <verb.communication>
+ILI: 00860143
+
+Sense 3
+{00860143} <verb.communication> undertake, guarantee1 -- (promise to do or accomplish; "guarantee to free the prisoners")
+       => {00854515} <verb.communication> promise, assure2 -- (make a promise or commitment)
+           => {00977478} <verb.communication> declare -- (state emphatically and authoritatively; "He declared that he needed more money to carry out the task he was charged with")
+               => {00976600} <verb.communication> state, say, tell4 -- (express in words; "He said that he wanted to marry her"; "tell me what is bothering you"; "state your opinion"; "state your name")
+                   => {00909455} <verb.communication> express, verbalize3, verbalise3, utter1, give tongue to -- (articulate; either verbally or with a cry, shout, or noise; "She expressed her anger"; "He uttered a curse")

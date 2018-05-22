@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA1380
+
+DADO O SYNSET:
+
+S='Glosa1380'
+{desemperrar: A máquina [desemperrou,
+ desentravar: x,
+ destravar: O acionamento é manual: um funcionário [destrava dois cadeados e com uma terceira chave, liga o alarme.,}
+	  
+A='Glosa1770'
+{emperrar, encravar, entravar, travar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1380' = “ficar menos firmemente fixado”
+{desemperrar: A máquina [desemperrou.,
+ destravar: Finalmente o orkut I]destravou e agora foi possível editar as opções das comunidades.,}
+A='Glosa1770'
+{emperrar, encravar, entravar, travar}
+Chave: DESEMPERRAR <verb.change>
+ILI: 00407260
+
+Sense 1
+{00407260} <verb.change> loosen1, loose2 -- (make loose or looser; "loosen the tension on a rope")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

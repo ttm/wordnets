@@ -1,0 +1,41 @@
+ANÁLISE DA GLOSA
+
+DADO O SYNSET:
+
+S='Glosa1662'
+    	{abeberar: Passam-se as fatias pelas gemas deixando-as I]abeberar bem.  ,
+      	 banhar: Depois de frios, I]banhar os pães de mel  com chocolate derretido branco ou preto conforme o seu gosto.,
+      	 beberar: Deixar o pão  I]beberar durante 5 minutos na água quente.,
+      	 embeber: Maria Bárbara ceava na varanda, resmungando, I]embebendo fatias de pão torrado na sua xícara de chá verde.,
+      	 embeberar: H]Embeberar o bolo em rum.,
+      	 empapar: Por fim junte o pão cortado em pedaços e suficiente água fria para I]empapar o pão e permitir uma boa mistura final.,
+      	 encharcar: Regue o pão com a água de cozer as carnes, de modo a umedecê-lo bem, mas sem o I]encharcar. ,
+      	 ensopar: Tempere com sal, colorau e o ramo de coentros ou salsa e junte a água necessária para I]ensopar o pão. ,
+      	 molhar: I]Molhar o pão no vinho não e´ bem visto a menos que estejamos na casa de uma boa italiana e ela o fizer primeiro. ,
+      	 regar: Faz-se, então, o molho com o qual se vai I]regar o cozido de bacalhau e o peixe seco.,}
+  
+A='Glosa1542'
+    	{desaguar, desempapar, desencharcar, , dessecar, enxugar, secar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1662' = “saturar [algo] com algum líquido”
+    	{banhar: A guerra civil espanhola, que se estendeu de 1936 a 1939, I]banhou de sangue a Espanha.,
+      	 embeber: Maria Bárbara ceava na varanda, resmungando, I]embebendo fatias de pão torrado na sua xícara de chá verde.,
+      	 embeberar: Rapidamente os dois corpos, envolvidos num encerado, foram removidos para o pátio e, com o auxilio de 180 litros de gasolina que os I]embeberam, formaram, incendiados, uma vigorosa pira.,
+      	 empapar: O orvalho não molhou nada em todo o campo, mas I]empapou o tosão de lã.,
+      	 encharcar: Um de nossos colegas I]encharcou um lenço de tanto chorar de rir.,
+      	 ensopar: Os três teriam levado Carolina a um lugar ermo na praia, onde I]ensoparam uma flanela com lança-perfume e drogaram a vítima.,
+      	 molhar: Uma chuva I]molhou totalmente os fardos de tabaco que um agricultor de Firenze entregaria como pagamento de impostos ao Grão-Duque da Toscana.,
+      	 regar: Gisberto decidiu dormir no banco de um ponto de ônibus. De madrugada, um grupo de jovens acercou-se dele enquanto dormia, I]regou-o com gasolina e queimou-o vivo.,}
+  
+A='Glosa1542'
+    	{desaguar, desempapar, desencharcar, dessecar, enxugar, secar}
+Chave: ENCHARCAR <verb.change>
+ILI: 00443063
+
+Sense 8
+{00443063} <verb.change> soak, imbue1 -- (fill, soak, or imbue totally; "saturate the bandage with disinfectant")
+       => {00484286} <verb.change> impregnate, saturate4 -- (infuse or fill completely; "Impregnate the cloth with alcohol")
+           => {00439460} <verb.change> fill1, fill up, make full -- (make full, also in a metaphorical sense; "fill a container"; "fill the child with pride")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

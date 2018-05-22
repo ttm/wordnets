@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA0795
+
+DADO O SYNSET:
+
+S='Glosa795'
+{agarrar: Uma breve exposição da carreira científica de William Bateson é indispensável não somente para entender as origens do pensamento de seu filho, mas para também [agarrar todo o seu conteúdo,
+apegar-se: O PMDB vai [apegar-se ao artigo 178 do código eleitoral.,
+apelar: As preces do prefeito César Maia - que na última enchente mandou os moradores [apelarem para Nossa Senhora de Fátima e São Jorge - não evitaram o caos.,
+buscar: E não adianta [buscar alianças à esquerda, pois na opinião de ambos ela jamais dará o apoio necessário, simplesmente porque discorda do fundamento das reformas. ,
+pegar-se: Tem que [se pegar as coisas boas de todas as décadas e assimilá-las,
+recorrer: Os animais têm que [recorrer a variados mecanismos de obtenção de alimento, pois necessitam de nutrientes orgânicos, e são incapazes de produzi-los; são, por isso, chamados consumidores. ,
+valer-se: As próprias editoras costumam [valer-se deste argumento quando contratam profissionais da área,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa795' = “ter, usar recurso para; utilizar algo como recurso”
+{agarrar: Uma breve exposição da carreira científica de William Bateson é indispensável não somente para entender as origens do pensamento de seu filho, mas para também [agarrar todo o seu conteúdo,
+apegar-se: O PMDB vai [apegar-se ao artigo 178 do código eleitoral.,
+buscar: E não adianta [buscar alianças à esquerda, pois na opinião de ambos ela jamais dará o apoio necessário, simplesmente porque discorda do fundamento das reformas. ,
+pegar-se: Tem que [se pegar as coisas boas de todas as décadas e assimilá-las,
+valer-se: As próprias editoras costumam [valer-se deste argumento quando contratam profissionais da área,}
+Chave: VALER-SE <verb.social>
+ILI: 02513274
+
+Sense 1
+{02513274} <verb.social> fall back, resort11, recur11 -- (have recourse to; "The government resorted to rationing meat")
+       => {01123102} <verb.consumption> use1, utilize, utilise, apply, employ -- (put into service; make work or employ (something) for a particular purpose or for its inherent or natural purpose; "use your head!"; "we only use Spanish at home"; "I can't make use of this tool"; "Apply a magnetic field here"; "This thinking was applied to many projects"; "How do you utilize this tool?"; "I apply this rule to get good results"; "use the plastic bags to store the food"; "He doesn't know how to use a computer")

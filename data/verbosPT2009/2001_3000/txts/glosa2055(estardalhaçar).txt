@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA2055
+
+DADO O SYNSET:
+	
+S='Glosa2055'
+    	{estardalhaçar: Ouviam-se tiros a H]estardalhaçar na calada da noite.,
+      	 estardalhar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2055' = “fazer um ruído alto, como o do vento, água ou veículos”
+    	{estardalhaçar: No navio, as máquinas trabalhavam com fragor; fora do navio, as ondas I]estardalhaçavam; os ventos zuniam.}
+Chave: ESTARDALHAÇAR <verb.communication>
+ILI: 01012485
+
+Sense 3
+{01012485} <verb.communication> roar1, howl1 -- (make a loud noise, as of wind, water, or vehicles; "The wind was howling in the trees"; "The water roared down the chute")
+       => {02110511} <verb.perception> make noise, resound, noise -- (emit a noise)
+           => {02113837} <verb.perception> sound, go -- (make a certain noise or sound; "She went `Mmmmm'"; "The gun went `bang'")
+               => {02062507} <verb.perception> cause to be perceived -- (have perceptible qualities)

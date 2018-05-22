@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA2712
+
+DADO O SYNSET:
+
+  S='Glosa2712'
+	    {reimplantar: A Honda tem intenção de [reimplantar o programa de aperfeiçoamento de pilotos.,
+	      reintroduzir: I]Reintroduzir o ensino de música nos currículos escolares.,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2712' = “Trazer alguma coisa nova para um ambiente.”
+	    {reimplantar: Infelizmente, o governo FHC, não entendendo a essência do Plano Real, I]reimplantou o nominalismo econômico.,
+	      reintroduzir: Gibson I]reintroduziu no mercado o modelo original de Les Paul depois de receber várias reclamações de músicos.,}
+
+Chave: REIMPLANTAR <verb.creation>
+ILI: EQ_HAS_HYPERONYM - 01595800
+
+Sense 2
+{01595800} <verb.creation> introduce, innovate -- (bring something new to an environment; "A new word processor was introduced")
+       => {01595277} <verb.creation> initiate, pioneer1 -- (take the lead or initiative in; participate in the development of; "This South African surgeon pioneered heart transplants")
+           => {01598809} <verb.creation> cause, do2, make8 -- (give rise to; cause to happen or occur, not always intentionally; "cause a commotion"; "make a stir"; "cause an accident")
+               => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor") 

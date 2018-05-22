@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA2268
+
+DADO O SYNSET:
+
+S='Glosa2268'
+	    {confundir: A atual geração de didáticos também comete erros banais, como embaralhar toda a taxionomia, [confundindo insetos e aracnídeos.,
+	      equivocar: Havia motivos em Freud para ele supor que o masoquismo vinha primeiro do que o sadismo. É claro que ele I]equivoca isto em diversos momentos.,
+	      trocar: O Informe [trocou o nome do pintor do quadro da Bandeira Nacional, que fica numa das salas do Planalto.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2268' = “trocar erroneamente uma coisa por outra”
+	    {confundir: A atual geração de didáticos também comete erros banais, como embaralhar toda a taxionomia, [confundindo insetos e aracnídeos.,
+	      equivocar: Havia motivos em Freud para ele supor que o masoquismo vinha primeiro do que o sadismo. É claro que ele I]equivoca isto em diversos momentos.,
+	      trocar: O Informe [trocou o nome do pintor do quadro da Bandeira Nacional, que fica numa das salas do Planalto.,}
+
+Chave: CONFUNDIR <verb.cognition>
+ILI: 00599295
+
+Sense 1
+{00599295} <verb.cognition> confuse2, confound1 -- (mistake one thing for another; "you are confusing me with the other candidate"; "I mistook her for the secretary")
+       => {00597970} <verb.cognition> mistake2, misidentify -- (identify incorrectly; "Don't mistake her for her twin sister")
+           => {00598154} <verb.cognition> identify2 -- (consider to be equal or the same; "He identified his brother as one of the fugitives")
+               => {00590505} <verb.cognition> recognize, recognise -- (perceive to be the same)
+                   => {00587965} <verb.cognition> remember, retrieve, recall, call back, call up4, recollect, think2 -- (recall knowledge from memory; have a recollection; "I can't remember saying any such thing"; "I can't think what her last name was"; "can you remember her phone number?"; "Do you remember that he once loved you?"; "call up memories") 

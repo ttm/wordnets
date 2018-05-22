@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA3371
+
+DADO O SYNSET:
+
+S='Glosa3371'
+	    {
+	      maquiar: A fotógrafa queria [maquiar o candidato para evitar o reflexo excessivo causado pelo brilho de sua cabeça.,
+	      maquilar: Escolheu Celso Kamura para I]maquilar suas modelos, usando protetor solar colorido, azul, verde e até amarelo sob os olhos.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3371' = “aplicar maquiagem ou cosméticos no rosto de alguém para parecer mais bonito”
+	     {maquiar: Há 20 anos na profissão, já I]maquiou as mulheres mais bonitas do Brasil, as modelos e atrizes mais famosas.,
+	      maquilar: Escolheu Celso Kamura para I]maquilar suas modelos, usando protetor solar colorido, azul, verde e até amarelo sob os olhos.,}
+Chave: MAQUIAR <verb.body>
+ILI: 00039683
+
+Sense 8
+{00039683} <verb.body> make up -- (apply make-up or cosmetics to one's face to appear prettier; "She makes herself up every morning")
+       => {00039108} <verb.body> groom, neaten -- (care for one's external appearance; "He is always well-groomed")
+           => {00284091} <verb.change> beautify, embellish, prettify -- (make more beautiful)
+               => {00198579} <verb.change> better1, improve1, amend, ameliorate1, meliorate1 -- (to make better; "The editor improved the manuscript with his changes")
+                   => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

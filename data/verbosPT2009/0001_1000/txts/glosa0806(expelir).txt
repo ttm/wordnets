@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0806
+
+DADO O SYNSET:
+
+S='Glosa806'
+{bufar: O vento havia virado, mas ainda I]bufava algumas térmicas na cara da rampa, dando uma falsa impressão de vento de frente.,
+expelir: Acontece que, mesmo quando você força para eliminar o ar dos pulmões, sempre fica uma certa quantidade de ar dentro deles que você não consegue [expelir. ,
+soltar: Uma novidade refrescante: em volta da pista de dança chuveiros [soltarão fortes jatos d' água e hidrogênio para aliviar os mais calorentos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa806' = “lançar algo fora”
+{bufar: O vento havia virado, mas ainda I]bufava algumas térmicas na cara da rampa, dando uma falsa impressão de vento de frente.,
+expelir: Acontece que, mesmo quando você força para eliminar o ar dos pulmões, sempre fica uma certa quantidade de ar dentro deles que você não consegue [expelir. ,
+soltar: Uma novidade refrescante: em volta da pista de dança chuveiros [soltarão fortes jatos d' água e hidrogênio para aliviar os mais calorentos.,}
+Chave: EXPELIR <verb.contact>
+ILI: 01426914
+
+Sense 2
+{01426914} <verb.contact> expel, eject1, chuck out, exclude, throw out, kick out, turf out, boot out, turn out -- (put out or expel from a place; "The child was expelled from the classroom")
+       => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0659
+
+DADO O SYNSET:
+
+S='Glosa659'
+{argentar: O luar H]argentava os telhados.,
+argentear: Uma história que me contaram nas lindas várzeas onde nasci, à calada da noite, quando a lua passeava no céu [argenteando os campos, e a brisa rugitava nos palmares,
+pratear: Era como se fosse uma noite de luar, no tempo em que era do tom apreciá-las no velho jardim de Dom Luís de Vasconcelos, vendo o astro solitário [pratear a água e encher o céu.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa659' = “tornar prata na cor”
+{argentear: Uma história que me contaram nas lindas várzeas onde nasci, à calada da noite, quando a lua passeava no céu [argenteando os campos, e a brisa rugitava nos palmares,
+pratear: Era como se fosse uma noite de luar, no tempo em que era do tom apreciá-las no velho jardim de Dom Luís de Vasconcelos, vendo o astro solitário [pratear a água e encher o céu.,}
+Chave: PRATEAR <verb.change>
+ILI: 00280488
+
+Sense 2
+{00280488} <verb.change> silver -- (make silver in color; "Her worries had silvered her hair")
+       => {00275031} <verb.change> color, colorize3, colorise3, colourise3, colourize3, colour9, color in, colour in -- (add color to; "The child colored the drawings"; "Fall colored the trees"; "colorize black and white film")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

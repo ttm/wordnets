@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA2776
+
+DADO O SYNSET:
+
+S='Glosa2776'
+	    {intimidar-se: Não podemos [nos intimidar com essa CPI (da CUT).,
+	      recuar: A pressão dos prefeitos fez o partido [recuar.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2776' = “Tornar (-se) tímido ou medroso”
+	    {intimidar-se: A Polícia Militar jamais se acovardou frente a qualquer inimigo ou I]intimidou-se diante de qualquer adversidade
+	      recuar: Dado as circunstâncias, o governo I]recuou.,}
+
+Chave: INTIMIDAR-SE <verb.emotion>
+ILI: 01729485
+
+Sense 1
+{01729485} <verb.emotion> intimidate -- (make timid or fearful; "Her boss intimidates her")
+       => {01727523} <verb.emotion> frighten, fright, scare, affright -- (cause fear in; "The stranger who hangs around the building frightens me")
+           => {01710864} <verb.emotion> stimulate, shake, shake up, excite, stir1 -- (stir the feelings, emotions, or peace of; "These stories shook the community"; "the civil war shook the country")
+               => {01708538} <verb.emotion> arouse, elicit, enkindle, kindle, evoke, fire, raise8, provoke -- (call forth (emotions, feelings, and responses); "arouse pity"; "raise a smile"; "evoke sympathy")
+                   => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor") 

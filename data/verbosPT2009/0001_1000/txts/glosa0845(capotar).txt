@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA0845
+
+DADO O SYNSET:
+
+S='Glosa845'
+{capotar: Os dois veículos [capotaram na pista e oito pessoas ficaram gravemente feridas.,
+emborcar: Logo depois as luzes se apagaram e em cinco minutos o barco [emborcou.,}
+A='Glosa1105'
+{desaborcar, desemborcar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa845' = “virar sobre a capota acidentalmente”
+{capotar: Os dois veículos [capotaram na pista e oito pessoas ficaram gravemente feridas.,
+emborcar: Logo depois as luzes se apagaram e em cinco minutos o barco [emborcou.,}
+A='Glosa1105'
+{desaborcar, desemborcar}
+Chave: CAPOTAR <verb.motion>
+ILI: 01838924
+
+Sense 1
+{01838924} <verb.motion> capsize, turtle, turn turtle -- (overturn accidentally; "Don't rock the boat or it will capsize!")
+       => {01853614} <verb.motion> overturn, turn over, tip over, tump over1 -- (turn from an upright or normal position; "The big vase overturned"; "The canoe tumped over")
+           => {01851475} <verb.motion> turn -- (change orientation or direction, also in the abstract sense; "Turn towards me"; "The mugger turned and fled before I could see his face"; "She turned from herself and learned to listen to others' needs")
+               => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right")

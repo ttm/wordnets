@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0028
+
+DADO O SYNSET:
+
+S='Glosa28'
+{culpar-se: E, ao invés de [culpar-se pelo fato de que demorou tanto tempo, alegre-se por saber que terminou chegando lá.,}
+A='Glosa2623'
+{absolver-se, desculpar-se, desonerar-se, escusar-se, exculpar-se, justificar-se, ressalvar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa28' = “pôr a culpa em ”
+{culpar-se: E, ao invés de [culpar-se pelo fato de que demorou tanto tempo, alegre-se por saber que terminou chegando lá.,}
+A='Glosa2623'
+{absolver-se, desculpar-se, escusar-se, exculpar-se, justificar-se, ressalvar-se}
+Chave: CULPAR-SE <verb.communication>
+ILI: 00815162
+
+Sense 1
+{00815162} <verb.communication> blame, fault -- (put or pin the blame on)
+       => {00815975} <verb.communication> charge2, accuse1 -- (blame for, make a claim of wrongdoing or misbehavior against; "he charged me director with indifference")

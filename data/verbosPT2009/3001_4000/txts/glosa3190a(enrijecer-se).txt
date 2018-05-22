@@ -1,0 +1,36 @@
+ANÁLISE DA GLOSA3190a
+
+DADO O SYNSET:
+
+S='Glosa3190'
+	    {
+	      arrijar-se: x,
+	      atesar-se: x,
+	      endurar-se: x,
+	      endurecer-se: Durante um período apreciável, esse tecido conjuntivo torna-se menos elástico e maleável. Ele pode I]endurecer-se rapidamente.,
+	      endurentar-se: x,
+	      enrijar-se: x,
+	      enrijecer-se: São da família dos termoplásticos que, sinteticamente, são substâncias que amolecem ao receberem calor, voltando a I]enrijecer-se com a diminuição da temperatura.,
+	      entabuar-se: x,
+	      entesar-se: Contrariado, é pior que um pedaço de pau, que uma pedra. Planta-se no chão, I]entesa-se, tira faíscas.,
+	      esticar-se: Ao queimarmos o fio a mola I]estica-se, aplicando forças contra a tira e, conseqüentemente, a tira aplica forças contra a mola.,
+	      inteiriçar-se: Passeou um olhar indiferente pela sala, e de novo I]inteiriçou-se em seu assento a todo o comprimento do corpo com ares de quem estava soberanamente aborrecido.,
+	      retesar-se: O homem I]retesou-se ao sentir o impacto do chuvisco gelado a lhe salpicar o rosto.,
+	      tesar-se: x,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3190a' = “tornar-se duro ou mais duro”
+	     {endurecer-se: O garoto se I]endureceu e abriu sua boca para dizer algo, mas Warrington agarrou seu braço.,
+	      enrijecer-se: Subitamente o corpo do alemão arqueou-se, I]enrijeceu-se e logo em seguida caiu por cima dela.,
+	      entesar-se: Contrariado, é pior que um pedaço de pau, que uma pedra. Planta-se no chão, I]entesa-se, tira faíscas.,
+	      inteiriçar-se: Passeou um olhar indiferente pela sala, e de novo I]inteiriçou-se em seu assento a todo o comprimento do corpo com ares de quem estava soberanamente aborrecido.,
+	      retesar-se: O homem I]retesou-se ao sentir o impacto do chuvisco gelado a lhe salpicar o rosto.,}
+
+Chave: ENRIJECER-SE
+ILI: EQ_NEAR_SYNONYM - 00430473
+
+Sense 1
+{00430473} <verb.change> harden, indurate -- (become hard or harder; "The wax hardened")
+       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

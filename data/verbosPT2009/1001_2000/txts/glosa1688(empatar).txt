@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA1688
+
+DADO O SYNSET:
+
+S='Glosa1688'
+{empatar: "Isso é um assunto menor que não pode [empatar a reforma", afirmou Luís Eduardo.,
+ enfuzilar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1688' = “colocar ou introduzir a linha no anzol”
+{empatar: Geralmente uso linha 25 ou 35 para I]empatar esses anzóis.}
+Chave: EMPATAR <verb.contact>
+ILI: EQ_HAS_HYPERONYM - 01380907
+
+Sense 1
+{01380907} <verb.contact> insert, infix1, enter3, introduce -- (put or introduce into something; "insert a picture into the text")
+       => {01257892} <verb.contact> attach1 -- (cause to be attached)
+           => {01314764} <verb.contact> connect, link, tie1, link up -- (connect, fasten, or put together two or more pieces; "Can you connect the two loudspeakers?"; "Tie the ropes together"; "Link arms")

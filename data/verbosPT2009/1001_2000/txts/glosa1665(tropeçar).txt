@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA1665
+
+DADO O SYNSET:
+
+S='Glosa1665'
+{embicar: A mula A]embicou em um tronco caído.  ,
+ esbarrar: Se [esbarrar com ele na rua, corra dele!, disse o velho demonstrando preocupação.,
+ tropeçar: Michel, meu filho, quando tinha cerca de dois anos de idade, costumava ao I]tropeçar em qualquer objeto que estivesse a sua frente, xingar e gritar de raiva.,
+ tropicar: Um dia uma I]tropicou na cerquinha e acabou se machucado.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1665' = “pisar em falso e cair, ou quase cair”
+{embicar: Uma inédita vaca do japonês KEN YONEZAWA, que I]embicou de frente com sua Gas Gas, levando mega capote.,
+ esbarrar: Geldan ia tateando as arvores tentando sempre evitar colisões. Mas no meio do caminho I]esbarrou em alguma coisa e caiu.,
+ tropeçar: Logo na chegada, FHC [tropeçou num batente e descolou a sola do sapato.,
+ tropicar: O jogador adversário adiantou a bola, I]tropicou e ele caiu em cima do meu joelho.,}
+Chave: TROPEÇAR <verb.motion>
+ILI: 01844865
+
+Sense 2
+{01844865} <verb.motion> stumble, trip -- (miss a step and fall or nearly fall; "She stumbled over the tree root")
+       => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right")

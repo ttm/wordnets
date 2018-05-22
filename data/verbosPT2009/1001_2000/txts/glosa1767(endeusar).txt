@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA1767
+
+DADO O SYNSET:
+
+S='Glosa1767'
+	{adorar: Não, queridinha, isto de [adorar a um homem que não faz caso da gente, é poesia. # As pessoas deveriam [adorar a Deus em vez de adorar um corpo.,
+	 endeusar: Cansados de verem seus amigos e o resto do mundo [endeusarem o baterista do Rush e o baixista do Primus, André Scorza, 20, Diogo Tirado, 19, e Maurício Rego, 20, formaram a banda Q.O.R.O.P., sigla que significa «Quem Odeia Rush Odeia Primus» ,
+	 idolatrar: O velho Christian [idolatrava o rapaz malvado de Hollywood, Jack Nicholson.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1767' = “enaltecer à posição de um deus”
+	{adorar: Ambos eram crianças na época da Revolução Islâmica de 1979 e cresceram em famílias que [adoravam o aiatolá Khomeini como libertador.,
+	 endeusar: Cansados de verem seus amigos e o resto do mundo [endeusarem o baterista do Rush e o baixista do Primus, André Scorza, 20, Diogo Tirado, 19, e Maurício Rego, 20, formaram a banda Q.O.R.O.P., sigla que significa «Quem Odeia Rush Odeia Primus».,
+	 idolatrar: O velho Christian [idolatrava o rapaz malvado de Hollywood, Jack Nicholson.,}
+Chave: ENDEUSAR <verb.change>
+ILI: 00530443
+
+Sense 2
+{00530443} <verb.change> deify1 -- (exalt to the position of a God; "the people deified their King")
+       => {00530239} <verb.change> exalt -- (raise in rank, character, or status; "exalted the humble shoemaker to the rank of King's adviser")
+           => {00529852} <verb.change> lift7, raise2, elevate -- (raise in rank or condition; "The new law lifted many people from poverty")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

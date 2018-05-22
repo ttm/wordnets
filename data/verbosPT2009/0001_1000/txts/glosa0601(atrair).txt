@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0601
+
+DADO O SYNSET:
+
+S='Glosa601'
+{atrair: O encontro faz parte da estratégia do governo brasileiro, dentro do grupo, de [atrair Bolívia, Venezuela e quantos mais quiserem se somar ao Mercosul até dezembro. ,
+avocar: A]Avocaram os foragidos ao seu bando.,
+chamar: O público, apesar de indisposto pelo libreto, aplaudiu e [chamou à cena a maestrina, que, provavelmente não irá dormir tão cedo à sombra de suas glórias., }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa601' = “trazer para si; conquistar a atenção de”
+{atrair: O encontro faz parte da estratégia do governo brasileiro, dentro do grupo, de [atrair Bolívia, Venezuela e quantos mais quiserem se somar ao Mercosul até dezembro. ,
+avocar: Ele I]avocou para si o monopólio de administração da justiça; como função, pois o Estado é obrigado a prestar a tutela jurisdicional quando provocado.,
+chamar: O público, apesar de indisposto pelo libreto, aplaudiu e [chamou à cena a maestrina, que, provavelmente não irá dormir tão cedo à sombra de suas glórias., }
+Chave: ATRAIR <verb.contact>
+ILI: 01463020
+
+Sense 1
+{01463020} <verb.contact> attract, pull2, pull in, draw6, draw in -- (direct toward itself or oneself by means of some psychological power or physical attributes; "Her good looks attract the stares of many men"; "The ad pulled in many potential customers"; "This pianist pulls huge crowds"; "The store owner was happy that the ad drew in many new customers")
+       => {01406785} <verb.contact> pull, draw3, force1 -- (cause to move along the ground by pulling; "draw a wagon"; "pull a sled")
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

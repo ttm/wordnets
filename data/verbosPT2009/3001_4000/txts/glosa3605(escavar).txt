@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA3605
+
+DADO O SYNSET:
+
+S='Glosa3605'
+	    {
+	      escavar: Um dia o homem teve a idéia de I]escavar um tronco de árvore com a ajuda do fogo e instrumentos rústicos: surgiu a canoa.,
+	      esvaziar: A fada madrinha I]esvaziou a abóbora até ficar só a casca.,
+	      ocar: Na hora de I]ocar a tora de pau, o negro bufava. / O bicho de pau podre é capaz de ocar os troncos.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3605' = “remover a parte interior ou o cerne” 
+	     {escavar: Derek Mueller, da Universidade Fairbanks do Alasca, I]escavou uma camada de neve da superfície para alcançar a camada de gelo logo abaixo.,
+	      esvaziar: A fada madrinha I]esvaziou a abóbora até ficar só a casca.,
+	      ocar: Na hora de I]ocar a tora de pau, o negro bufava. / O bicho de pau podre é capaz de I]ocar os troncos.,}
+Chave: ESCAVAR <verb.contact>
+ILI: 01271609
+
+Sense 4
+{01271609} <verb.contact> excavate1, dig2, hollow5 -- (remove the inner part or the core of; "the mining company wants to excavate the hillsite")
+       => {00166870} <verb.change> remove, take, take away1, withdraw1 -- (remove something concrete, as by lifting, pushing, taking off, etc. or remove something abstract; "remove a threat"; "remove a wrapper"; "Remove the dirty dishes from the table"; "take the gun from your pocket"; "This machine withdraws heat from the environment")

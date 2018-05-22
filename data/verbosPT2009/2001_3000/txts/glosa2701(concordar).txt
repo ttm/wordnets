@@ -1,0 +1,58 @@
+ANÁLISE DA GLOSA2701
+
+DADO O SYNSET:
+
+  S='Glosa2701'
+	    {aceder: Mas se, por qualquer motivo, ele não pudesse I]aceder ao convite, muito daria eu por ver e ouvir um de seus mais curiosos compatriotas- refiro-me a Diógenes.,
+	      aceitar: Amparo I]aceitou a proposta e ainda neste mês estaremos iniciando as atividades neste espaço.,
+	      admitir: Chávez é motivo de nova polêmica ao I]admitir reuniões com a guerrilha.,
+	      anuir: Para imóvel em condomínio (o condômino é proprietário da área em comum com outros), todos os condôminos que constarem na matrícula imobiliária devem I]anuir ao pedido, seja no próprio requerimento ou por anuência expressa a ser juntada ao procedimento administrativo, ou ainda, por procuração por instrumento público.,
+	      aquiescer: TERRA proporcionará aos Usuários os recursos técnicos adequados para que estes possam, com caráter prévio, I]aquiescer com esta Política de Proteção de Dados ou com qualquer outra informação relevante antes de prestarem seu consentimento sobre o armazenamento dos respectivos Dados Pessoais.,
+	      assentar: No caso da professora Luciana Marques da Silva, afirma ele, “fica nítido o caráter lesivo do acordo celebrado entre o reclamado (Goianinho) e a reclamante (Luciana), quando I]assentou que o pacto visava “prevenir” possíveis demissões”.,
+	      assentir: I]Assentir com a cabeça demonstra que você está ouvindo e processando a conversa.,
+	      concordar: Chalita diz não I]concordar com Prefeitura de SP sobre liberdade assistida.,
+	      condescender: O apetite natural inerente do yetser hará de todo judeu é satisfazer-se com coisas permitidas. No entanto, ao consentir em coisas permissíveis, a fim de satisfazer apetites corporais, o yetser hará é arrastado para as três kelipot completamente impuras, juntamente com a vitalidade da comida que ele devorou para satisfazer seus desejos. E então ele é facilmente tentado a transgredir e I]condescender em assuntos proibidos. ,
+	      consentir: O paciente tem o direito a I]consentir ou recusar a ser submetido à experimentação ou pesquisas.,
+	      convir: V.Ex.ª deve I]convir que se os recursos são parcos para os desportos de alto nível, de onde saem as representações pátrias, eles não devem existir para torneios que não integrem os Calendários Nacionais das Confederações.,
+	      estar: A]Estou pela proposta.,
+	      querer: Não I]quero que me rotulem, diz Miriam Freeland.,
+	      relevar: A Hewlett-Packard deu outro passo rumo à construção de uma plataforma de automação de TI quando I]relevou, nesta quarta-feira, os planos de aquisição da Novadigm e da Consera Software.,
+	      subscrever: A]Subscreveu ao regimento que o mestre elaborou.,}
+
+	  A='Glosa1253'
+	    {abnuir: O diretor deverá H]abnuir o projeto.,
+	     desapoiar: Cito o Golpe de 64, que o jornal apoiou e depois teve que I]desapoiar, digamos, porque ele tinha se desviado dos seus objetivos.,
+	     desconvir: A teoria da presciência talvez não resolva de modo absoluto todos os casos que a previsão do futuro possa apresentar, mas não se pode I]desconvir que ela estabelece o seu princípio fundamental.,
+	     desdizer: O procedimento literário de Brás Cubas, a sua volubilidade, consiste em I]desdizer e descumprir a todo instante as regras que ele próprio acaba de estipular.,
+	     discordar: Assistente e testemunha de acusação abandonam processo da Candelária, por [discordarem do relaxamento de prisão de acusados,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2701' = “Demonstrar concordância ou estar de acordo com uma condição, ou concorda e fazer alguma coisa.”
+	    {aceder: Vale também registrar que I]acedeu em publicar nesta revista Estudos Avançados seu discurso de recepção do título Honoris Causa.,
+	      aceitar: Amparo I]aceitou a proposta e ainda neste mês estaremos iniciando as atividades neste espaço.,
+	      admitir: Acredito que, se o coronel Paes [admitiu a presença de policiais no incidente, ele irá investigá-lo.,
+	      anuir: O padrinho I]anuiu a que ele fosse sozinho.,
+	      aquiescer: Custódio escreveu um dia a mais em seu móvel calendário e [aquiesceu em dar aquele presente.,
+	      assentar: No caso da professora Luciana Marques da Silva, afirma ele, “fica nítido o caráter lesivo do acordo celebrado entre o reclamado (Goianinho) e a reclamante (Luciana), quando I]assentou que o pacto visava “prevenir” possíveis demissões”.,
+	      assentir: E [assentou que seria rebaixar o menino e comprometer a sua dignidade futura.,
+	      concordar: O Departamento de Energia dos Estados Unidos [concordou em financiar metade dos 39 milhões de dólares do orçamento do projeto.,
+	      condescender: Para libertar o rapaz da obsessão, o militar I]condescendeu em fazer confidências.,
+	      consentir: Ao invés disso, [consentiu em conversar com os jornalistas.,
+	      convir: Eu não cabia em mim de contente; o mano Américo hesitava, porém enfim [conveio em que eu entrasse no exercício do meu direito de cidadão jurado.,
+	      estar: A]Estou pela proposta.,
+	      querer: Não I]quero que me rotulem, diz Miriam Freeland.,
+	      relevar: A Hewlett-Packard deu outro passo rumo à construção de uma plataforma de automação de TI quando I]relevou, nesta quarta-feira, os planos de aquisição da Novadigm e da Consera Software.,
+	      subscrever: Como o procurador-geral da República I]subscreveu ao ato praticado pelo integrante do Ministério Público estadual, a denúncia passou a ser válida.,}
+
+	  A='Glosa1253'
+	    {abnuir, desapoiar, desconvir, desdizer, discordar}
+
+Chave: CONCORDAR <verb.communication>
+ILI: 00739104
+
+Sense 2
+{00739104} <verb.communication> agree1 -- (consent or assent to a condition, or agree to do something; "She agreed to all my conditions"; "He agreed to leave her alone")
+       => {00771887} <verb.communication> accept, consent, go for -- (give an affirmative reply to; respond favorably to; "I cannot accept your invitation"; "I go for this resolution")
+           => {00693825} <verb.cognition> react, respond -- (show a response or a reaction to something)
+               => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel") 

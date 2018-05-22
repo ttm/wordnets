@@ -1,0 +1,35 @@
+ANÁLISE DA GLOSA3077
+
+DADO O SYNSET:
+
+S='Glosa3077'
+	    {
+	      acontecer: Mas quando [acontece de o holopoema explorar as possibilidades de uma escritura verdadeiramente tridimensional, o resultado pode ser desconcertante.,
+	      adergar: Quando H]adergava, encontrava toda a família.,
+	      adregar: x,
+	      cair: O novo prefeito adiou a festa porque o dia 1.º de janeiro data tradicional da posse [caiu num sábado.,
+	      calhar: Porque se [calhar de um deles vencer hoje, pela Libertadores, e domingo, pelo Paulista, adeus ocoló.,
+	      coincidir: Depois, vi o Itamar no desfile e [coincidiu de ir parar no camarote dele.,
+	      haver: DEVIANT,
+	      ocorrer: Tinha sido convidado para dar um seminário no Centro Brasileiro de Pesquisas Físicas sobre sua teoria e I]ocorreu de estarem entre os ouvintes o Prof Richard Feynman e o físico J R Oppenheimer.,
+	      suceder: Assim, conforme o grau do seu adiantamento, pode I]suceder que nada seja para ele uma especialidade.,
+	      vir: A abertura do portão do estádio já chamou a atenção de todos, mas a surpresa [veio com a saída da Kombi branca, que conduzia 10 jogadores rumo à concentração, no Leme . ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3077' = “acontecer simultaneamente”
+	     {acontecer: Já I]aconteceu de sairmos do elevador e encontrarmos crianças esperando por nós.,
+	      adergar: Quando H]adergava, encontrava toda a família.,
+	      cair: O novo prefeito adiou a festa porque o dia 1.º de janeiro data tradicional da posse [caiu num sábado.,
+	      calhar: Porque se [calhar de um deles vencer hoje, pela Libertadores, e domingo, pelo Paulista, adeus ocoló.,
+	      coincidir: Depois, vi o Itamar no desfile e [coincidiu de ir parar no camarote dele.,
+	      ocorrer: Tinha sido convidado para dar um seminário no Centro Brasileiro de Pesquisas Físicas sobre sua teoria e I]ocorreu de estarem entre os ouvintes o Prof Richard Feynman e o físico J R Oppenheimer.,
+	      suceder: Só que nesta mesma época I]sucedeu de estar sendo organizado um novo partido político, formado pelos exilados recém-regressados ao país após a anistia.,
+	      vir: Essa certeza I]veio com a crise da Rússia, começando no segundo semestre de 98.,}
+Chave: COINCIDIR <verb.change>
+ILI: 00334196
+
+Sense 2
+{00334196} <verb.change> concur, coincide -- (happen simultaneously; "The two events coincided")
+       => {00329254} <verb.change> happen, hap, go on, pass off, occur, pass, fall out, come about, take place -- (come to pass; "What is happening?"; "The meeting took place off without an incidence"; "Nothing occurred that seemed important")

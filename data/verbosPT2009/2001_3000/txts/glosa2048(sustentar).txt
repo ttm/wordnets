@@ -1,0 +1,39 @@
+ANÁLISE DA GLOSA2048
+
+DADO O SYNSET:
+	
+S='Glosa2048'
+    	{agüentar: Os barrotes M]agüentam a parede.,
+      	 amparar: x,
+      	 apoiar: Quanto aos portões, já que deseja uma cobertura para proteção, a opção é colocá-los entre viga e pilares, para que possam I]apoiar o telhado ou a laje de cobertura lembrando que o vão tem que ter no mínimo 2,30 de altura para passagem de carros. ,
+      	 apontoar: Foi então preciso H]apontoar o muro que perigava ruir.,
+      	 enfustar: x,
+      	 escorar: Se o vão a ser vencido pela laje for menor que 3,40 m, coloque uma fileira de pontaletes para I]escorar as vigotas.,
+      	 especar: H]Especar o telhado.,
+      	 estacar: M]Estacar uma planta.,
+      	 estaquear1: I]Estaquear as plantas bem desenvolvidas com bambu de 1,5 m de altura.,
+      	 estear: H]Estear um poste.,
+      	 segurar: Falou-me como os estrangeiros eram diferentes mostrando minha altura em relação a eles e a construção da casa com a altura da viga que I]segurava a cobertura. ,
+      	 suportar: Atrás das colunas estava um bloco sólido que I]suportava o peso do telhado volumoso.,
+      	 sustentar: Cerca de 36 mil pessoas, segundo os organizadores, dançavam embaladas pelo cantor Lulu Santos quando caiu uma viga de alumínio que I]sustentava os telões.,
+      	 suster: Um pilar H]sustém o teto. ,
+      	 tomar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2048' = “ser o suporte físico [de]; sustentar o peso [de]”
+    	{agüentar: A parede não vai precisar de uma estrutura para I]agüentar o teto, pois isto é trabalho da outra parede.,
+      	 apoiar: Quanto aos portões, já que deseja uma cobertura para proteção, a opção é colocá-los entre vigas e pilares, para que possam I]apoiar o telhado ou a laje de cobertura.,
+      	 escorar: Se o vão a ser vencido pela laje for menor que 3,40 m, coloque uma fileira de pontaletes para I]escorar as vigotas.,
+      	 especar: Ele abriu um saco grande e pegou um punhado de milho, foi em direção a porta da cozinha, retirou o pau que estava I]especando-a e arremessou os grãos no meio do quintal.,
+      	 estear: A esperança B]esteia a alegria.,
+      	 segurar: Falou-me como os estrangeiros eram diferentes mostrando minha altura em relação a eles e a construção da casa com a altura da viga que I]segurava a cobertura.,
+      	 suportar: Atrás das colunas estava um bloco sólido que I]suportava o peso do telhado volumoso.,
+      	 sustentar: O segundo, encostado num dos esteios de jacarandá que [sustentava o teto da alpendrada, era homem trigueiro.,
+      	 suster: Durante um momento o índio pairou sobre o abismo, balançando-se no galho fraco que o [sustinha.}
+Chave: SUSTENTAR <verb.contact>
+ILI: 01180133
+
+Sense 5
+{01180133} <verb.contact> hold1, support, sustain, hold up -- (be the physical support of; carry the weight of; "The beam holds up the roof"; "He supported me with one hand while I balanced on the beam"; "What's holding that mirror?")
+Sense 

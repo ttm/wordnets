@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA3596
+
+DADO O SYNSET:
+
+S='Glosa3596'
+	    {
+	      entupir-se: Uma chuva mais forte levaria os papéis para as bocas-de-lobo, [entupindo-as.,
+	      fechar-se: Com o tempo o golfo I]fechou-se, subsistindo lagoas cada vez mais pequenas. / Por que o canal do Jardim de Alah I]se fecha com areia?,
+	      obstruir-se: Se este tubo I]se obstruir, a água deixa de escorrer pelo interior e passa a escorrer pelo exterior. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3596' = “bloquear a passagem”
+	     {entupir-se: As suas artérias I]entopem-se.,
+	      fechar-se: Com o tempo o golfo I]fechou-se, subsistindo lagoas cada vez mais pequenas. / Por que o canal do Jardim de Alah I]se fecha com areia?,
+	      obstruir-se: Se este tubo I]se obstruir, a água deixa de escorrer pelo interior e passa a escorrer pelo exterior. ,}
+Chave: OBSTRUIR-SE <verb.contact>
+ILI: 01434634
+
+Sense 2
+{01434634} <verb.contact> obstruct, obturate, impede, occlude, jam2, block12, close up -- (block passage through; "obstruct the path")
+       => {02377880} <verb.social> impede, hinder1 -- (be a hindrance or obstacle to; "She is impeding the progress of our project")
+           => {02377053} <verb.social> prevent, keep1 -- (prevent from doing something or being in a certain state; "We must prevent the cancer from spreading"; "His snoring kept me from falling asleep"; "Keep the child from eating the marbles")

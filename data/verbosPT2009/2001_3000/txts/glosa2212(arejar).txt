@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA2212
+
+DADO O SYNSET:
+
+S='Glosa2212'
+	    {arejar: Através de uma janela entreaberta observavam-se os aposentos internos espaçosos, com teto alto que I]arejava o ambiente. ,
+	      aventar: x,
+	      refrescar: Os ventiladores no interior não conseguiam [refrescar o ambiente.,
+	      ventanear: H]Ventanear os quartos.,
+	      ventilar: Além de iluminar, I]ventilar e aquecer os ambientes, as janelas precisam ser admiradas e belas. ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2212' = ” circular através de algo e refrescar
+	    {arejar: Uma janela entreaberta I]arejava o ambiente. ,
+	      refrescar: Os ventiladores no interior não conseguiam [refrescar o ambiente.,
+	      ventanear: H]Ventanear os quartos.,
+	      ventilar: Além de iluminar, I]ventilar e aquecer os ambientes, as janelas precisam ser admiradas e belas.,}
+
+Chave: AREJAR <verb.motion>
+ILI: 01984409
+
+Sense 3
+{01984409} <verb.motion> ventilate -- (circulate through and freshen; "The gust of air ventilated the room")
+       => {01984159} <verb.motion> circulate1 -- (move through a space, circuit or system, returning to the starting point; "Blood circulates in my veins"; "The air here does not circulate")
+           => {02008364} <verb.motion> run1, flow, feed4, course -- (move along, of liquids; "Water flowed into the cave"; "the Missouri feeds into the Mississippi")
+               => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right")

@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA3541
+
+DADO O SYNSET:
+
+S='Glosa3541'
+	    {
+	      nebulizar: A SUCEN e a Secretaria I]nebulizam (inseticida) o local, eliminam criadouros. ,
+	      pulverizar: As montanhas de água que se quebravam, [se pulverizavam enchendo o espaço de neblina espessa.,
+	      vaporizar: Existem  aparelhos elétricos que [vaporizam inseticidas inócuos para crianças. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3541' = “espalhar em uma massa ou jato de gotas”
+	     {nebulizar: A SUCEN e a Secretaria I]nebulizam (inseticida) o local, eliminam criadouros. ,
+	      pulverizar: As montanhas de água que se quebravam, [se pulverizavam enchendo o espaço de neblina espessa.,
+	      vaporizar: Existem  aparelhos elétricos que [vaporizam inseticidas inócuos para crianças. ,}
+Chave: VAPORIZAR <verb.contact>
+ILI: 01332613
+
+Sense 2
+{01332613} <verb.contact> spray -- (scatter in a mass or jet of droplets; "spray water on someone"; "spray paint on the wall")
+       => {01336176} <verb.contact> scatter, sprinkle1, dot, dust1, disperse -- (distribute loosely; "He scattered gun powder under the wagon")
+           => {01336946} <verb.contact> discharge -- (pour forth or release; "discharge liquids")
+               => {01338470} <verb.contact> spread, distribute1 -- (distribute or disperse widely; "The invaders spread their language all over the country")

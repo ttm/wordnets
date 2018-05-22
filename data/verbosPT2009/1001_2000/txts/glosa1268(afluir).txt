@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA1268
+
+DADO O SYNSET:
+
+S='Glosa1268'
+{afluir: A Hidrografia da região é caracterizada, de um lado pela bacia do Rios Canoas, que constitui o principal escoadouro das águas de toda área e que I]aflui para o Rio Grande,
+ desembocar: O rio Danúbio nasce na Alemanha Ocidental e atravessa oito países até [desembocar no mar Negro.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1268' = “mover para baixo, saindo da nascente”
+{afluir: A Hidrografia da região é caracterizada, de um lado pela bacia do Rios Canoas, que constitui o principal escoadouro das águas de toda área e que I]aflui para o Rio Grande.,
+ desembocar: O rio Danúbio nasce na Alemanha Ocidental e atravessa oito países até [desembocar no mar Negro.,}
+Chave: AFLUIR <verb.motion>
+ILI: 02009648
+
+Sense 2
+{02009648} <verb.motion> run down2 -- (move downward; "The water ran down")
+       => {02008364} <verb.motion> run1, flow, feed4, course -- (move along, of liquids; "Water flowed into the cave"; "the Missouri feeds into the Mississippi")
+           => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right")

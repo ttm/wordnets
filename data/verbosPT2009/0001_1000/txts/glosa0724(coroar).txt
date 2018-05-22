@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0724
+
+DADO O SYNSET:
+
+S='Glosa724'
+{coroar: Não sei quando foi retirado o aposto Misericórdia que I]coroava o nome original dessa instituição.,
+encimar: A manchete, «De luto», [encimava a foto de um menino desolado, vestindo a camiseta da seleção.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa724' = “ser o evento culminante”
+{coroar: Não sei quando foi retirado o aposto Misericórdia que I]coroava o nome original dessa instituição.,
+encimar: A manchete, «De luto», [encimava a foto de um menino desolado, vestindo a camiseta da seleção.,}
+Chave: COROAR <verb.change>
+ILI: 00472445
+
+Sense 2
+{00472445} <verb.change> crown1, top1 -- (be the culminating event; "The speech crowned the meeting")
+       => {00472163} <verb.change> culminate, climax -- (end, especially to reach a final or climactic stage; "The meeting culminated in a tearful embrace")
+           => {02531897} <verb.stative> end, stop13, finish, terminate, cease13 -- (have an end, in a temporal, spatial, or quantitative sense; either spatial or metaphorical; "the bronchioles terminate in a capillary bed"; "Your rights stop where you infringe upon the rights of other"; "My property ends by the bushes"; "The symphony ends in a pianissimo")

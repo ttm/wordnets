@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA1285
+
+DADO O SYNSET:
+
+S='Glosa1285'
+{descaminhar: Quando acusado de perversão e de I]descaminhar jovens, Sócrates não se abateu e não optou pela fuga,
+ desencabeçar: Usava seu charme para H]desencabeçar as doces senhoritas.,
+ desencaminhar: A Bíblia avisa que Satanás e seus demônios estão determinados a I]desencaminhar a humanidade.,}
+	  
+A='Glosa1890'
+{dirigir, encaminhar, guiar, orientar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1285' = “ensinar comportamento ou conduta imoral a alguém”
+{descaminhar: Haveremos de, com inovação, melhores visão e estrutura, continuar combatendo o uso das drogas, mal maior que I]descaminha, destrói e mata os nossos jovens.,
+ desencabeçar: Essa mulher assim fatídica, que o levou o luto a vários lares, que separou diversos casais, que I]"desencabeçou" a vários jovens de nossa sociedade, tornando-os ladrões e criminosos para sustentar seu fausto, teve um fim trágico: morreu tuberculosa.,
+ desencaminhar: A Bíblia avisa que Satanás e seus demônios estão determinados a I]desencaminhar a humanidade.,}
+A='Glosa1890'
+{dirigir, encaminhar, guiar, orientar}
+Chave: DESENCAMINHAR <verb.social>
+ILI: 02503505 
+
+Sense 1
+{02503505} <verb.social> lead off, lead astray -- (teach immoral behavior to; "It was common practice to lead off the young ones, and teach them bad habits")
+       => {02502628} <verb.social> corrupt, pervert, subvert3, demoralize, demoralise, debauch, debase, profane1, vitiate, deprave, misdirect -- (corrupt morally or by intemperance or sensuality; "debauch the young people with wine and women"; "Socrates was accused of corrupting young men"; "Do school counselors subvert young children?"; "corrupt the morals")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA0576
+
+DADO O SYNSET:
+
+S='Glosa576'
+{cientificar-se: Segundo Maria Estela quando subir no ônibus o usuário deve observar o porte do motorista e [se cientificar de que ele não aparente estar alcoolizado,
+informar-se: É interessante [informar-se sobre o custo antes de crucificar as empresas, que, no Brasil, fornecem atendimento ao custo de 15 dólares mensais/O mais conveniente seria [informar-se sobre a correspondência dos cargos e apresentá-los de maneira coerente no currículo,
+inteirar-se: O governo, por sua vez, não procurou [inteirar-se das motivações do STF: lançou no alto-falante a sua interpretação do ato unânime dos ministros do STF.,
+noticiar-se: Para se M]noticiar ao certo do inimigo.,
+orientar-se: Aqui você vai poder I]orientar-se sobre todos os procedimentos, desde a procura dos produtos até a finalização do pedido.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa576' = “dar (-se) conhecimento sobre algum fato, estado ou assunto, ou evento a”
+{cientificar-se: Segundo Maria Estela quando subir no ônibus o usuário deve observar o porte do motorista e [se cientificar de que ele não aparente estar alcoolizado,
+informar-se: É interessante [informar-se sobre o custo antes de crucificar as empresas, que, no Brasil, fornecem atendimento ao custo de 15 dólares mensais/O mais conveniente seria [informar-se sobre a correspondência dos cargos e apresentá-los de maneira coerente no currículo,
+inteirar-se: O governo, por sua vez, não procurou [inteirar-se das motivações do STF: lançou no alto-falante a sua interpretação do ato unânime dos ministros do STF.,
+orientar-se: Aqui você vai poder I]orientar-se sobre todos os procedimentos, desde a procura dos produtos até a finalização do pedido.,}
+Chave: INFORMAR-SE <verb.communication>
+ILI: 00804489
+
+Sense 1
+{00804489} <verb.communication> inform -- (impart knowledge of some fact, state or affairs, or event to; "I informed him of his rights")
+       => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+           => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+               => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

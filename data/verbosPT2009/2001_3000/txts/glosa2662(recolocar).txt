@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA2662
+
+DADO O SYNSET:
+
+S='Glosa2662'
+	    {recolocar: O BC está retirando do mercado R$ 5,5 bilhões e vai [recolocar no mercado R$ 4,5 bilhões.,
+	      repor: A Golden Cross diz que reajustou seus preços nos últimos 12 meses em 39,62% justamente para [repor parte desse aumento. ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2662' = “fazer ou dar em troca”
+	    {recolocar: O BC está retirando do mercado R$ 5,5 bilhões e vai [recolocar no mercado R$ 4,5 bilhões.,
+	      repor: A Golden Cross diz que reajustou seus preços nos últimos 12 meses em 39,62% justamente para [repor parte desse aumento.,}
+
+Chave: REPOR <verb.possession>
+ILI: 02188524
+
+Sense 1
+{02188524} <verb.possession> pay2, pay off4, make up, compensate2 -- (do or give something to somebody in return; "Does she pay you for the work you are doing?")
+       => {02189291} <verb.possession> settle -- (dispose of; make a financial settlement)
+           => {00988646} <verb.communication> arrange4, fix up -- (make arrangements for; "Can you arrange a meeting with the President?")
+               => {00779329} <verb.communication> agree, hold15, concur, concord -- (be in accord; be in agreement; "We agreed on the terms of the settlement"; "I can't agree with you!"; "I hold with those who say life is sacred"; "Both philosophers concord on this point")

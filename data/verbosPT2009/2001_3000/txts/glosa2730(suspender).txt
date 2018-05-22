@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA2730
+
+DADO O SYNSET:
+
+S='Glosa2730'
+	    {alevantar: x,
+	      apanhar: - A cancela está fechada, parece - disse Amaro. - Está, fez ela. -I] Apanhou as saias, deu uma carreirinha. Estava fechada! Que pena! E abalava, impaciente, as grades estreitas, entre as duas fortes ombreiras de madeira encravadas na espessura do silvado.,
+	      arregaçar: Ao [arregaçar a manga da camisa de seda, mostra um relógio dourado e no dedo anular uma aliança de ouro e platina trançados.,
+	      arregambiar: x,
+	      arrepanhar: Eu digo Bendicta porque as damas gostam imenso de I]arrepanhar as saias por luxo mais do que por asseio, e, ainda mais do que por isso, para a exibição da perninha roliça.,
+	      erguer: Ao levantar as mão, o padre fez I]erguer as mangas de sua batina, mostrando à Maria o braço esquerdo, marcado por um profundo arranhão recente.,
+	      levantar: O piso do grande palácio era feito de quadrados de vidro liso e polido, que brilhavam como água. Ela pensou tratar-se realmente de água, e I]levantou a saia para atravessá-la, mostrando os seus pés descalços, até à altura dos tornozelos.,
+	      regaçar: x,
+	      repanhar: Três vezes chegara à porta da igreja, três vezes recuara assombrado. Tinha a certeza de que, se ousasse tocar na Eucaristia com aquelas mãos com que I]repanhara os saiotes da Vaqueira, a capela se aluiria sobre ele, ou ficaria paralisado vendo erguer-se diante do sacrário, de espada alta, a figura rutilante de S. Miguel Vingador,
+	      suspender: Tinha vontade de I]suspender a calça e olhar, mas se continha.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2730' = “Pegar e mover para cima.”
+	    {apanhar: - A cancela está fechada, parece - disse Amaro. - Está, fez ela. -I] Apanhou as saias, deu uma carreirinha. Estava fechada!.,
+	      arregaçar: Aluno do segundo ano do ensino médio, I]arregaçou as mangas em um sábado de sol e começou a pintar as arquibancadas.,
+	      arrepanhar: Na avenida, ajustou o passo, concertou a fisionomia, I]arrepanhou a saia com a mão esquerda e partiu ruas em fora com um ar de grande dama.,
+	      erguer: Gisele I]ergueu a saia e mostrou que por baixo havia um short jeans curtíssimo.,
+	      levantar: Ela pensou tratar-se realmente de água, e I]levantou a saia para atravessá-la, mostrando os seus pés descalços, até à altura dos tornozelos.,
+	      repanhar: Tinha a certeza de que, se ousasse tocar na Eucaristia com aquelas mãos com que I]repanhara os saiotes da Vaqueira.,
+	      suspender: Ela I]suspendeu a saia do vestido, para que pudesse caminhar sobre a grama.,}
+
+Chave: SUSPENDER <verb.motion>
+ILI: 01918210
+
+Sense 1
+{01918210} <verb.motion> pick up1, lift up, gather up -- (take and lift upward)
+       => {01916187} <verb.motion> raise, lift, elevate, get up, bring up -- (raise from a lower to a higher position; "Raise your hands"; "Lift a load")
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant") 

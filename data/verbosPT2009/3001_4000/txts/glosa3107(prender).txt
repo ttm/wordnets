@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA3107
+
+DADO O SYNSET:
+
+S='Glosa3107'
+	    {
+	      afixar: O vereador Antonio Carlos Caruso (PMDB) apresentou anteontem projeto de lei na Câmara Municipal permitindo ao Masp [afixar um painel eletrônico no teto do museu. ,
+	      estabilizar: I]Estabilizar o paciente se necessário.,
+	      fixar: Retirou os grampos, ajeitou a peça, I]fixou-a.,
+	      imobilizar: Um sensor informa imediatamente o operador sobre o desengate, podendo também I]imobilizar a carreta desengatada. ,
+	      prender: As mulheres precisavam já [prender as saias entre as coxas para não as molhar.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3107' = “fixar firmemente”
+	     {afixar: A direção do hospital [afixou cartazes orientando os funcionários a só atenderem os casos considerados «de extrema urgência». ,
+	      fixar: Manoel dirigiu-se a um painel pregado na parede da fábrica, I]fixou um pino vermelho na sua foto e assumiu o posto.,
+	      imobilizar: A ratoeira adesiva mede 36,5 cm X 25,5 cm, e possui uma cola especial em sua superfície que I]imobiliza o rato ao passar ou atraído pela isca. ,
+	      prender: Uma corda passa pela sua cintura, outra I]prende seus pés.,}
+	    
+Chave: PRENDER <verb.contact>
+ILI: 00929232
+
+Sense 1
+{00929232} <verb.contact> adhere, hold fast, bond, bind6, stick, stick to3 -- (stick to firmly; "Will this wallpaper adhere to the wall?")
+       => {00881672} <verb.contact> attach -- (become attached)
+           => {00881999} <verb.contact> join, conjoin -- (make contact or come together; "The two roads join here")
+               => {00927388} <verb.contact> connect, link, tie1 -- (connect, fasten, or put together two or more pieces; "Can you connect the two loudspeakers?" "Tie the ropes together"; "Link arms")

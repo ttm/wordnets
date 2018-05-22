@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0331
+
+DADO O SYNSET:
+
+S='Glosa331'
+{acostar: Assim o fez a acusada ao I]acostar aos autos provas materiais que comprovam o cumprimento da obrigação principal. ,
+anexar: Temos o prazer de [anexar à presente relatório de alguns imóveis que se acham à venda por intermédio do nosso escritório . ,
+juntar: É lícito às partes, em qualquer tempo, [juntar aos autos documentos novos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa331' = “fazer ficar junto ou ligado”
+{acostar: Assim o fez a acusada ao I]acostar aos autos provas materiais que comprovam o cumprimento da obrigação principal. ,
+anexar: Temos o prazer de [anexar à presente relatório de alguns imóveis que se acham à venda por intermédio do nosso escritório . ,
+juntar: É lícito às partes, em qualquer tempo, [juntar aos autos documentos novos.,}
+Chave: JUNTAR <verb.contact>
+ILI: 01256741
+
+Sense 2
+{01256741} <verb.contact> join1, bring together1 -- (cause to become joined or linked; "join these two parts so that they fit together")
+       => {01314764} <verb.contact> connect, link, tie1, link up -- (connect, fasten, or put together two or more pieces; "Can you connect the two loudspeakers?"; "Tie the ropes together"; "Link arms")

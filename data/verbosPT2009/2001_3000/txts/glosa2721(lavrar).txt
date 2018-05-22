@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA2721
+
+DADO O SYNSET:
+
+  S='Glosa2721'
+	    {abrir: O presidente da assembléia M]abriu o termo de presenças.,
+	      lavrar: De cada sessão de julgamento o escrivão [lavrará ata, assinada pelo juiz e pelo órgão do Ministério Público. # O escrivão [lavrará, sob ditado do juiz, termo 1 que conterá, 2  em resumo, o ocorrido na audiência, bem como, por extenso, os despachos e a sentença, se esta for proferida no ato.,
+	      registar: "A falta de compreensão de determinados líderes sindicais do papel dos agentes do Estado e do serviço público é lamentável”, I]registrou em ata o juiz Carlos Alberto Robinson, ao presidir sessão extraordinária da oitava turma do TRT.,
+	      registrar: As pessoas que ali viviam eram alegres. Prova-o o rigor de um visitante da Diocese que I]registou no Livro Tombo: "Acha-se o diabólico uso de dançarem os homens com as mulheres nos seu sítios onde fazem as chamadas festas de São Gonçalo, tomando a dita festa por capa de boa ação e virtuosa".,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2721' = “Escrever um documento legal.”
+	    {lavrar: O escrivão [lavrará, sob ditado do juiz o ocorrido na audiência, bem como, por extenso, os despachos e a sentença, se esta for proferida no ato.,
+	      registar: As pessoas que ali viviam eram alegres. Prova-o o rigor de um visitante da Diocese que I]registou no Livro Tombo.,
+	      registrar: "A falta de compreensão de determinados líderes sindicais do papel dos agentes do Estado e do serviço público é lamentável”, I]registrou em ata o juiz Carlos Alberto Robinson".,}
+
+Chave: LAVRAR <verb.creation>
+ILI: 01642630
+
+Sense 18
+{01642630} <verb.creation> draw7 -- (write a legal document or paper; "The deed was drawn in the lawyer's office")
+       => {01649807} <verb.creation> write, compose1, pen, indite -- (produce a literary work; "She composed a poem"; "He wrote four novels")
+           => {01649365} <verb.creation> create verbally -- (create with or from words)
+               => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")
+          Also See-> {00683304} <verb.cognition> draw up#4 

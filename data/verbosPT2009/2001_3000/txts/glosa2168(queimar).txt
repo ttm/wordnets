@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA2168
+
+DADO O SYNSET:
+
+S='Glosa2168'
+	    {abrasar: As chamas M]abrasaram a mata ressecada.,
+	      abrasear: x,
+	      alabarar: O raio H]alabarou a mata.,
+	      calcinar: Evitava assim [calcinar o terreno, eliminando dele os princípios voláteis ao fogo.,
+	      conflagrar: Um raio H]conflagrou toda a floresta.,
+	      consumir: O incêndio, entre os dias 19 e 28 de setembro, [consumiu 550 dos 840 alqueires da fazenda.,
+	      incendiar: A explosão [incendiou três dos 25 galpões da fábrica na região.,
+	      queimar: No ano passado, o fogo [queimou aproximadamente 200 mil m2 do horto.,
+	      vulcanizar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2168' = “destruir com fogo”
+	    {abrasar: As chamas M]abrasaram a mata ressecada.,
+	      alabarar: O raio H]alabarou a mata.,
+	      calcinar: Ocorreu então um grande incêndio que I]calcinou a floresta.,
+	      conflagrar: Um raio H]conflagrou toda a floresta.,
+	      consumir: O incêndio, entre os dias 19 e 28 de setembro, [consumiu 550 dos 840 alqueires da fazenda.,
+	      incendiar: A explosão [incendiou três dos 25 galpões da fábrica na região.,
+	      queimar: No ano passado, o fogo [queimou aproximadamente 200 mil m2 do horto.,}
+
+Chave: QUEIMAR <verb.change>
+ILI: 00367013
+
+Sense 1
+{00367013} <verb.change> burn2, fire1, burn down2 -- (destroy by fire; "They burned the house and his diaries")
+       => {01520843} <verb.contact> destroy, ruin -- (destroy completely; damage irreparably; "You have ruined my car by pouring sugar in the tank!"; "The tears ruined her make-up")

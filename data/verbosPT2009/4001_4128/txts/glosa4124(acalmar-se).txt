@@ -1,0 +1,49 @@
+ANÁLISE DA GLOSA4124
+
+DADO O SYNSET:
+
+S='Glosa4124'
+{abonançar-se: x,
+acalentar-se: A mãe, na saudade do filho, se I]acalenta no quarto dele olhando para as paredes decoradas do quarto.,
+acalmar-se: O bebê se I]acalma quando ouve a voz dos pais.,
+acomodar-se: Marcelo não se I]acomodou com o diploma de bacharel.,
+amansar-se: H]Amansara-se a fúria do vento.,
+apacificar-se: x,
+apaziguar-se: Tudo voltara a ser belo e harmonioso e os meus sentidos se I]apaziguavam.,
+aquietar-se: Não se I]aquietava o menino.,
+assossegar-se: x,
+calmar-se: Ega, já curado, radiante, numa excitação que não se I]calmava.,
+desalterar-se: Ao passar a raiva, a fisionomia se lhe H]desalterava.,
+desencalmar-se: Nem com os sedativos H]desencalmou-se.,
+pacificar-se: Muitas vezes se I]pacificam os ânimos das pessoas.,
+paziguar-se: x,
+quietar-se: Os servidores não se I]quietam e querem ainda mais.,
+sossegar-se: A gente decidiu tocar a música que ela queria pra ver se I]sossegava.,
+tranqüilizar-se: Dizia Simonne considerar completamente natural a ocorrência e que se I]tranqüilizava com isso.,}
+	  
+A='Glosa3209'
+{agitar-se, alterar-se, desacomodar-se, desassossegar-se, inquietar-se,  intranqüilizar-se, perturbar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4124' = “tornar-se quieto ou calmo, especialmente após um estado de agitação”
+{acalentar-se: A mãe, na saudade do filho, se I]acalenta no quarto dele olhando para as paredes decoradas do quarto.,
+acalmar-se: O bebê se I]acalma quando ouve a voz dos pais.,
+amansar-se: H]Amansara-se a fúria do vento.,
+apaziguar-se: Tudo voltara a ser belo e harmonioso e os meus sentidos se I]apaziguavam.,
+aquietar-se: Não se I]aquietava o menino.,
+calmar-se: Ega, já curado, radiante, numa excitação que não se I]calmava.,
+pacificar-se: Com a fé, aquela alma inquieta A]pacificou-se.,
+quietar-se: Os servidores não se I]quietam e querem ainda mais.,
+sossegar-se: Deu um tempo, I]sossegou-se, umas voltas pelas salas, nessa altura acesas e, meia hora depois, sentou de novo.,
+tranqüilizar-se: Dizia Simonne considerar completamente natural a ocorrência e que se I]tranqüilizava com isso.,}
+	  
+A='Glosa3209'
+{agitar-se, alterar-se, desacomodar-se, desassossegar-se, inquietar-se,  intranqüilizar-se, perturbar-se}
+Chave: ACALMAR-SE <verb.emotion>
+ILI: 01712951
+
+Sense 1
+{01712951} <verb.emotion> calm1, calm down1, cool off, chill out, simmer down, settle down, cool it -- (become quiet or calm, especially after a state of agitation; "After the fight both men need to cool off."; "It took a while after the baby was born for things to settle down again.")
+       => {00140715} <verb.change> change state, turn4 -- (undergo a transformation or a change of position or action; "We turned from Socialism to Capitalism"; "The people turned against the President when he stole the election")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA2746
+
+DADO O SYNSET:
+
+S='Glosa2746'
+	    {exprimir: Quando Peri terminava a sua obra, ouviu o baque da árvore que tombava sobre o rochedo; chegou-se de novo à janela, e seu rosto I]exprimiu uma satisfação imensa.,
+	      manifestar: Pacientes com graves seqüelas neurológicas, incapazes de usar a voz ou digitar um teclado, conseguem [manifestar sua opinião apertando um botão, piscando o olho, soprando um sensor.,
+	      refletir: Seus olhos I]refletiam todo o temor, a angústia, a humilhação e a censura que havia sofrido.,
+	      revelar: O rosto I]revela seu jeito, sua saúde e seus sentimentos.,
+	      transpirar: As imagens do atlas do cientista alemão Von Martius e as ilustrações de flora e fauna de outras expedições [transpiram racionalismo iluminista, mas são movidas também por impulsos artísticos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2746' = “Mostrar, tornar visível ou aparente”
+	    {exprimir: Chegou-se de novo à janela, e seu rosto I]exprimiu uma satisfação imensa.,
+	      manifestar: O Congresso já [manifestou interesse em embutir nas dotações do Orçamento uma estimativa de inflação até o final do ano.,
+	      refletir: Seus olhos I]refletiam todo o temor, a angústia, a humilhação e a censura que havia sofrido. ,
+	      revelar: O rosto I]revela seu jeito, sua saúde e seus sentimentos.,
+	      transpirar: As imagens do atlas do cientista alemão Von Martius e as ilustrações de flora e fauna de outras expedições [transpiram racionalismo iluminista.,}
+
+Chave: MANIFESTAR <verb.perception>
+ILI: 02078062
+
+Sense 1
+{02078062} <verb.perception> expose, exhibit1, display -- (to show, make visible or apparent; "The Metropolitan Museum is exhibiting Goya's works this month"; "Why don't you show your nice legs and wear shorter skirts?"; "National leaders will have to display the highest skills of statesmanship")
+       => {02075197} <verb.perception> show -- (make visible or noticeable; "She showed her talent for cooking"; "Show me your etchings, please") 

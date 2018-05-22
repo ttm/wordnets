@@ -1,0 +1,48 @@
+ANÁLISE DA GLOSA2361
+
+DADO O SYNSET:
+
+S='Glosa2361'
+	    {apelidar: O proximo estágio, cortesia de Descartes, sustentava que nosso conhecimento depende da atividade de uma faculdade quase visual - que Rorty I]apelida de Espelho da Natureza - e consiste em uma reunião de representações precisas.,
+	      chamar: As anomalias do freio ou dos músculos implicam distúrbios da fonação, caracterizando o que o povo [chama de língua presa e língua solta (dislalias).,
+	      denominar: A selvagem repressão de Pitt, que fundamenta o referido pânico e instaura o que Thompson [denomina a Contra-revolução inglesa.,
+	      intitular: Conto, decretara um dos mestres do modernismo paulista, é tudo aquilo que o autor [intitula conto.,
+	      nomear: Qual é a forma correcta de I]nomear as fotografias? # I]Nomear os hormônios hipofisiotróficos e delinear os efeitos de cada um na adeno-hipófise. ,
+	      titular: I]Titulou o quadro como Guernica.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2361' = “Designar um nome ou um título para alguém ou para alguma coisa.”
+	    {apelidar: É a operação que o Jornal Bandeirantes [apelidou de «operação de guerra».,
+	      chamar: As anomalias do freio ou dos músculos implicam distúrbios da fonação, caracterizando o que o povo [chama de língua presa e língua solta.,
+	      denominar: A selvagem repressão de Pitt, que fundamenta o referido pânico e instaura o que Thompson [denomina a Contra-revolução inglesa.,
+	      intitular: O conjunto constitui o que Mário de Andrade [intitulou «danças dramáticas».,
+	      nomear: «Terceiro Mundo» [nomeia os inúmeros incômodos da miséria e do caos circundante. ,
+	      titular: I]Titulou o quadro como Guernica.,}
+
+Chave: DENOMINAR <verb.communication>
+ILI: 00996861
+
+Sense 1
+{00996861} <verb.communication> designate, denominate -- (assign a name or title to)
+       => {00901485} <verb.communication> denote1 -- (be a sign or indication of; "Her smile denoted that she agreed")
+       => {00917634} <verb.communication> number3 -- (give numbers to; "You should number the pages of the thesis")
+           => {00917874} <verb.communication> foliate, paginate, page1 -- (number the pages of a book or manuscript)
+       => {00996581} <verb.communication> label -- (assign a label to; designate with a label; "These students were labelled `learning disabled'")
+           => {00938969} <verb.communication> call -- (ascribe a quality to or give a name of a common noun that reflects a quality; "He called me a bastard"; "She called her children lazy and ungrateful")
+               => {00939278} <verb.communication> misname, miscall -- (assign in incorrect name to; "These misnamed philanthropists")
+               => {00997809} <verb.communication> post1, brand -- (mark or expose as infamous; "She was branded a loose woman")
+           => {00958514} <verb.communication> address3, direct2 -- (put an address on (an envelope, for example))
+               => {00958740} <verb.communication> misdirect, misaddress -- (put a wrong address on; "misdirect the letter")
+               => {00958866} <verb.communication> instrument -- (address a legal document to)
+               => {00958979} <verb.communication> re-address -- (put a new address on (an envelope), as for forwarding)
+           => {00995511} <verb.communication> name3, call2 -- (assign a specified, proper name to; "They named their son David"; "The new school was named after the famous Civil Rights leader")
+               => {00995014} <verb.communication> baptize, baptise, christen -- (administer baptism to; "The parents had the child baptized")
+               => {00995229} <verb.communication> style, title2 -- (designate by an identifying term; "They styled their nation `The Confederate States'")
+               => {00995403} <verb.communication> dub, nickname -- (give a nickname to)
+               => {00995941} <verb.communication> rename -- (assign a new name to; "Many streets in the former East Germany were renamed in 1990")
+               => {00996229} <verb.communication> entitle, title -- (give a title to)
+                   => {00946105} <verb.communication> proclaim2 -- (declare formally; declare someone to be something; of titles; "He was proclaimed King")
+               => {00996371} <verb.communication> term -- (name formally or designate with a term)
+               => {00996489} <verb.communication> tag -- (provide with a name or nickname)
+           => {02433354} <verb.social> stigmatize, stigmatise, brand, denounce, mark -- (to accuse or condemn or openly or formally or brand as disgraceful; "He denounced the government action"; "She was stigmatized by society because she had a child out of wedlock") 

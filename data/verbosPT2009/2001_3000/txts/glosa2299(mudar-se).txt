@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA2299
+
+DADO O SYNSET:
+
+S='Glosa2299'
+	    {instalar-se: Ou o senhor volta para a Corte, ou [se instala aqui mesmo na província, porém com decência !,
+	      mudar-se: No dia 3 de março [mudam-se para Los Angeles .,
+	      transferir-se: Com a evacuação da capital, o Paris-Soir [se transfere para Clermont-Ferrand e, mais tarde, para Lyon .,
+	      transladar-se: O bloqueio continental imposto por Napoleão Bonaparte, levou a Corte portuguesa I]transladar-se para o Rio de janeiro. ,
+	      trasladar-se: Dezenas de religiosos que abandonaram sua Pátria para I]trasladar-se às terras brasileiras.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2299' = “trocar de residência, afiliação ou local de trabalho”
+	    {instalar-se: Ou o senhor volta para a Corte, ou [se instala aqui mesmo na província.,
+	      mudar-se: No dia 3 de março [mudam-se para Los Angeles .,
+	      transferir-se: Ana Rosa I]transferiu-se para a residência dos pais.,
+	      transladar-se: O bloqueio continental imposto por Napoleão Bonaparte, levou a Corte portuguesa I]transladar-se para o Rio de janeiro. ,
+	      trasladar-se: Dezenas de religiosos que abandonaram sua Pátria para I]trasladar-se às terras brasileiras.,}
+
+Chave: MUDAR-SE <verb.motion>
+ILI: 01801953
+
+Sense 4
+{01801953} <verb.motion> move2 -- (change residence, affiliation, or place of employment; "We moved from Idaho to Nebraska"; "The basketball player moved from one team to another") 

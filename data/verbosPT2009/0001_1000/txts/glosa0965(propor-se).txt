@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0965
+
+DADO O SYNSET:
+
+S='Glosa965'
+{convidar-se: Sou meio tímido e fiquei ao lado, chamado, entrei na conversa e dali surge uma amizade, outra jovem I]convidou-se a fazer parte na conversa, conversamos bastante sobre as nossas cidades de origem.,
+oferecer-se: Ao contrário, quando viram que seus companheiros, com Loredano à frente, se preparavam para atacar o fidalgo, foram [oferecer-se voluntariamente ao castigo, e reunir-se ao seu chefe para partilharem a sua sorte.,
+prestar-se: A mulher foi para os laboratórios, I]prestou-se a ser examinada na sua mediunidade por estes homens eminentes, cientistas experientes; era preciso que alguém se prestasse a esse exame com coragem, com decisão. ,
+propor-se: Mas, a par de [propor-se a tal tarefa, Buarque é intelectual sólido, com formação acadêmica e técnica de Primeiro Mundo, e cabeça criativa de propostas sempre interessantes.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa965' = “concordar (vonluntariar-se) de livre vontade”
+{convidar-se: Sou meio tímido e fiquei ao lado, chamado, entrei na conversa e dali surge uma amizade, outra jovem I]convidou-se a fazer parte na conversa, conversamos bastante sobre as nossas cidades de origem.,
+oferecer-se: Ao contrário, quando viram que seus companheiros, com Loredano à frente, se preparavam para atacar o fidalgo, foram [oferecer-se voluntariamente ao castigo, e reunir-se ao seu chefe para partilharem a sua sorte.,
+prestar-se: A mulher foi para os laboratórios, I]prestou-se a ser examinada na sua mediunidade por estes homens eminentes, cientistas experientes; era preciso que alguém se prestasse a esse exame com coragem, com decisão. ,
+propor-se: Mas, a par de [propor-se a tal tarefa, Buarque é intelectual sólido, com formação acadêmica e técnica de Primeiro Mundo, e cabeça criativa de propostas sempre interessantes.}
+Chave: PROPOR-SE <verb.social>
+ILI: 02352029
+
+Sense 3
+{02352029} <verb.social> volunteer1, offer -- (agree freely; "She volunteered to drive the old lady home"; "I offered to help with the dishes but the hostess would not hear of it")
+       => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

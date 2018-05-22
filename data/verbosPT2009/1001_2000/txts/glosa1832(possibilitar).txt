@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA1832
+
+DADO O SYNSET:
+
+S='Glosa1832'
+{ensejar: É natural que ele se diferencie muito do handbook norte-americano, sendo até possível que, para o uso de radioamadores de países de língua ibérica, a presente obra venha a [ensejar inegáveis vantagens.,
+ permitir: Os foguetes, inventados pelo alemão Von Braun, [permitiram ao homem se deslocar no espaço extraterreno livre da lei da gravidade.,
+ possibilitar: Um decreto do presidente da República deverá autorizar o aumento do capital estrangeiro no Excel para [possibilitar a participação do Union Bancaire Privée.,}
+	  
+A='Glosa455'
+{impossibilitar, jarretar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1832' = “tornar acessível, possível”
+{ensejar: É natural que ele se diferencie muito do handbook norte-americano, sendo até possível que, para o uso de radioamadores de países de língua ibérica, a presente obra venha a [ensejar inegáveis vantagens.,
+ permitir: Os foguetes, inventados pelo alemão Von Braun, [permitiram ao homem se deslocar no espaço extraterreno livre da lei da gravidade.,
+ possibilitar: O grande desenvolvimento industrial de alguns países capitalistas da Europa [possibilitou a formação de grandes e poderosas corporações transnacionais.,}
+	  
+A='Glosa455'
+{impossibilitar, jarretar}
+Chave: POSSIBILITAR <verb.stative>
+ILI: 02557560
+
+Sense 1
+{02557560} <verb.stative> make possible1 -- (make accessible; "This answer opens the door to new objections")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

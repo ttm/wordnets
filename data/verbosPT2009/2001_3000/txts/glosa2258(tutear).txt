@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA2258
+
+DADO O SYNSET:
+
+S='Glosa2258'
+	    {atuar2: x,
+	      tutear: Tomo a liberdade de I]tutear-te, tanto é o carinho que sinto por ti.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2258' = “ dirigir a alguém de alguma maneira, com algum termo específico”
+	    {tutear: Tomo a liberdade de I]tutear-te, tanto é o carinho que sinto por ti.,}
+
+Chave: TUTEAR <verb.social>
+ILI: EQ_HAS_HYPERONIM - 02524642 - “greet, as with a prescribed form, title, or name”
+
+Sense 6
+{02524642} <verb.social> address8, call14 -- (greet, as with a prescribed form, title, or name; "He always addresses me with `Sir'"; "Call me Mister"; "She calls him by first name")
+       => {00867918} <verb.communication> address, turn to1 -- (speak to; "He addressed the crowd outside the window")
+           => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+               => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

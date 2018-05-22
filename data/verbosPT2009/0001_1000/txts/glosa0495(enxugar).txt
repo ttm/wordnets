@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0495
+
+DADO O SYNSET:
+
+S='Glosa495'
+{alimpar: Comemos o caldo em santa paz. Lembro-me que foi ao I]alimpar os beiços que eu lhe perguntei: sou feio ou bonito?,
+enxugar: A língua seca da esponja que tem o vento terral veio [enxugar a umidade do encharcado lamaçal.,
+limpar: Dizia ele, a [limpar o rosto com o lenço.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa495' = “remove a umidade de e tornar seco”
+{alimpar: Comemos o caldo em santa paz. Lembro-me que foi ao I]alimpar os beiços que eu lhe perguntei: sou feio ou bonito?,
+enxugar: A língua seca da esponja que tem o vento terral veio [enxugar a umidade do encharcado lamaçal.,
+limpar: Dizia ele, a [limpar o rosto com o lenço.,}
+Chave: ENXUGAR <verb.change>
+ILI: 00211006
+
+Sense 1
+{00211006} <verb.change> dry1, dry out5 -- (remove the moisture from and make dry; "dry clothes"; "dry hair")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

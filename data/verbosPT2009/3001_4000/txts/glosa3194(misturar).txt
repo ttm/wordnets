@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA3194
+
+DADO O SYNSET:
+
+S='Glosa3194'
+	    {
+	      almondegar: x,
+	      amalgamar: É um jogador difícil de parar e que ajuda a [amalgamar as forças no Palmeiras no meio-de-campo.,
+	      entrecruzar: Utopias à parte, popular e erudito [entrecruzam fronteiras e alimentam a novidade.,
+	      fusionar: Sua presença nos motéis se deve à necessidade de I]fusionar o maldito com o sagrado, o legal com o delito, o mal com a transcendência.,
+	      intermisturar: x,
+	      mesclar: Aos 54 anos, o candidato faz questão de [mesclar o discurso político e sua opção religiosa.,
+	      misturar: Ninguém pode duvidar, a esta altura, que ela conhece e sabe [misturar os ingredientes que mexem com a emoção do espectador. ,
+	      unir: Os diversos países tropicais deverão [unir esforços na busca de soluções adequadas aos problemas comuns.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3194' = “juntar elementos diferentes”
+	     {amalgamar: No plano propriamente político, [amalgamou teses liberais, autoritárias e corporativas.,
+	      fusionar: Em 28 de janeiro de 1999, o Banco Santander I]fusionou-se com o terceiro maior da. Espanha, o Banco Central Hispano – BCH.,
+	      mesclar: Iconoclasta, este violinista australiano [mesclou efeitos sonoros computadorizados, vozes tratadas, chistes jazzísticos e toda sorte de interferências para completar discos como «Virtual Violin».,
+	      misturar: Primeira atração da noite, Cristóvão Bastos [misturou baião e samba com chorinhos, incluindo o clássico «Lamento» (de Pixinguinha) , em um recital de piano solo nada caloroso. ,
+	      unir: Em 1580, Felipe 2º atacou Portugal e [uniu as coroas ibéricas., }
+Chave: MISTURAR <verb.change>
+ILI: 00382880
+
+Sense 3
+{00382880} <verb.change> blend, flux, mix, conflate, commingle, immix, fuse, coalesce, meld, combine, merge1 -- (mix together different elements; "The colors blend well")
+       => {00135037} <verb.change> change integrity -- (change in physical make-up)
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA
+
+DADO O SYNSET:
+
+S='Glosa1109'
+{descasar: Fomos uma geração que fez casamentos impensados a gente queria derrubar a instituição e partiu para o vamos casar e [descasar quantas vezes a gente quiser,
+ 	 desquitar: Aos 27 anos todas já se casaram, tiveram filhos, I]desquitaram, ficaram até viúvas,  
+ divorciar: Meus pais I]divociaram quando eu tinha apenas quatro anos mas eles se relacionam bem,
+ separar: Este ano, o casal brigou e [separou, e Bicalho se negou dividir os bens com a ex-companheira,}
+	  
+A='Glosa2028'
+	    {casar, esposar, matrimoniar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1109' = “obter divórcio; terminar formalmente um casamento”
+{descasar: Vinicius, vale lembrar, casou e I]descasou nove vezes.,
+ desquitar: Não que você se lembre da filha da Janete, mas logo saberá que a dita-cuja mal I]desquitou e já está de namorico.,  
+ divorciar: A população do Vale do Paraíba casou mais e I]divorciou menos . Foi o que constatou pesquisa do IBGE.,
+ separar: Logo os problemas em seu casamento I]separaram o casal.,}
+A='Glosa2028'
+	    {casar, esposar, matrimoniar}
+Chave: SEPARAR <verb.social>
+ILI: 02416324
+
+Sense 2
+{02416324} <verb.social> divorce, split up -- (get a divorce; formally terminate a marriage; "The couple divorced after only 6 months")
+       => {02358151} <verb.social> separate2, part, split up1, split, break13, break up -- (discontinue an association or relation; go different ways; "The business partners broke over a tax question"; "The couple separated after 25 years of marriage"; "My friend and I split up")

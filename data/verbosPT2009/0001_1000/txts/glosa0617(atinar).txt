@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0617
+
+DADO O SYNSET:
+
+S='Glosa617'
+{atinar: Também o enxadrista, em face de um lance do adversário, pode [atinar com o plano provável de jogo que está enfrentando, não obstante o lance feito possa indicar uma enorme quantidade de planos possíveis. ,
+dar: A]Dei com a solução do problema.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa617' = “adivinhar corretamente; resolver por suposição”
+{atinar: Também o enxadrista, em face de um lance do adversário, pode [atinar com o plano provável de jogo que está enfrentando, não obstante o lance feito possa indicar uma enorme quantidade de planos possíveis. ,
+dar: Dias depois, ao abrir a correspondência, Leporace I]deu com a resposta de Lisboa e correu alvissareiro para o diretor.,}
+Chave: ATINAR <verb.cognition>
+ILI: 00615861
+
+Sense 4
+{00615861} <verb.cognition> guess2, infer2 -- (guess correctly; solve by guessing; "He guessed the right number of beans in the jar and won the prize")
+       => {00614742} <verb.cognition> solve, work out4, figure out, puzzle out, lick, work13 -- (find the solution to (a problem or question) or understand the meaning of; "did you solve the problem?"; "Work out your problems with the boss"; "this unpleasant situation isn't going to work itself out"; "did you get it?"; "Did you get my meaning?"; "He could not work the math problem")
+           => {00570184} <verb.cognition> understand -- (know and comprehend the nature or meaning of; "She did not understand her husband"; "I understand what she means")

@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA2287
+
+DADO O SYNSET:
+
+S='Glosa2287'
+	    {abarcar: O Codici poderá receber reclamações, e sua jurisdição [abarca todas as entidades da administração direta e indireta, bem como as entidades submetidas ao controle destas ou da União.,
+	      açambarcar: Nós entendemos que o capital deve estar à disposição de todos, de tal maneira que ninguém possa ser excluído, e que ninguém possa também I]açambarcar uma parte em prejuízo do resto,
+	      atravessar: M]Atravessaria o pescado por preço quase ínfimo,
+	      monopolizar: O capitalista [monopoliza o acesso aos meios de produção .,
+	      travessar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2287' = “ter e controlar completamente e exclusivamente” 
+	    {abarcar: Um universo de empresas que I]abarcava a totalidade da economia.,
+	      açambarcar: I]Açambarcava a produção de certas matérias primas,
+	      atravessar: M]Atravessou toda a verdura do município.,
+	      monopolizar: O capitalista [monopoliza o acesso aos meios de produção .,}
+
+Chave: MONOPOLIZAR <verb.social>
+ILI: 02369150
+
+Sense 1
+{02369150} <verb.social> monopolize, monopolise -- (have and control fully and exclusively; "He monopolizes the laser printer")
+       => {02367626} <verb.social> control, command -- (exercise authoritative control or power over; "control the budget"; "Command the military forces")

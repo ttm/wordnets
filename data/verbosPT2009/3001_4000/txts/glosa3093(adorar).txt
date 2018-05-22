@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA3093
+
+DADO O SYNSET:
+
+S='Glosa3093'
+	    {
+	      adorar: Sabemos que todos os povos que viviam em Canaã I]adoravam muitos deuses falsos e os filisteus eram um deles.,
+	      cultuar: Até os americanos [cultuam Pelé, pois não é preciso gostar de futebol para cultuar os que figuram em mitologias. ,
+	      idolatrar: Os totalitários I]idolatram o Partido, pois, para eles, este está acima de tudo e de todos.,
+	      venerar: Estes são proibidos de [venerar santos e rejeitam o uso de imagens por considerar que isso contradiz as palavras da Bíblia . ,
+	    }
+
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3093' = “amar inquestionavelmente, venerar como ídolo”
+	     {adorar: Sabemos que todos os povos que viviam em Canaã I]adoravam muitos deuses falsos e os filisteus eram um deles.,
+	      cultuar: Até os americanos [cultuam Pelé, pois não é preciso gostar de futebol para cultuar os que figuram em mitologias. ,
+	      idolatrar: Os totalitários I]idolatram o Partido, pois, para eles, este está acima de tudo e de todos.,
+	      venerar: Todo dia 23 de setembro, Três Pontas pára e [venera o padre. ,}
+Chave: ADORAR <verb.emotion>
+ILI: 01726447
+
+Sense 1
+{01726447} <verb.emotion> idolize, idolise, worship, hero-worship, revere1 -- (love unquestioningly and uncritically or to excess; venerate as an idol; "Many teenagers idolized the Beatles")
+       => {01726283} <verb.emotion> adore -- (love intensely; "he just adored his wife")
+           => {01723774} <verb.emotion> love -- (have a great affection or liking for; "I love French food"; "She loves her boss and works hard for him")

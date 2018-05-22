@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA3563
+
+DADO O SYNSET:
+
+S='Glosa3563'
+	    {
+	      anoitar: Nos divertimos montanhando até que o dia I]anoitou.,
+	      anoitecer: Entre três e quatro horas descansava um pouco, e depois continuava o trabalho até [anoitecer. / Começava a [anoitecer. ,
+	      anoutar: x,
+	      enoitar: I]Enoitara-se o escampado e, com ele, o rancho ea tapera.,
+	      enoitecer: x,
+	      escurecer: [Escurece aqui às cinco horas. ,
+	      escurentar: x,
+	      noitecer: Esperou pelo outro, até que começou a I]noitecer. ,
+	      noutecer: Ao I]noutecer calo meu grito. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3563' = “tornar-se escuro ou mais escuro” 
+	     {anoitar: Nos divertimos montanhando até que o dia I]anoitou.,
+	      anoitecer: Entre três e quatro horas descansava um pouco, e depois continuava o trabalho até [anoitecer. / Começava a [anoitecer. ,
+	      enoitar: I]Enoitara-se o escampado e, com ele, o rancho e a tapera.,
+	      escurecer: [Escurece aqui às cinco horas. ,}
+Chave: ANOITECER <verb.change>
+ILI: 00302508
+
+Sense 1
+{00302508} <verb.change> darken -- (become dark or darker; "The sky darkened")
+       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA3752
+
+DADO O SYNSET:
+	
+S='Glosa3752'
+{adentrar: Ao [adentrar a sala do comerciante, ele caiu de joelhos.,
+	 embocar: H]Embocou na sala do chefe sem avisar.,
+	 entrar: Na saída do teatro, o homem dos olhos verdes chegou a ser agarrado, beijado, só conseguindo [entrar no táxi que o levaria para casa com o auxílio da segurança.,
+	 introduzir-se: Este homem I]introduziu-se em minha casa; é um gatuno!,
+	 penetrar: Em caso de guerra, os pilotos poderiam [penetrar facilmente no terreno adversário, pois já estariam familiarizados com suas paisagens, seus acidentes e condições climáticas.}
+
+A='Glosa296'
+{retirar-se, sair, vazar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3752' = “vir ou entrar em”
+{adentrar: Ao [adentrar a sala do comerciante, ele caiu de joelhos.,
+	 embocar: H]Embocou na sala do chefe sem avisar.,
+	 entrar: Na saída do teatro, o homem dos olhos verdes chegou a ser agarrado, beijado, só conseguindo [entrar no táxi que o levaria para casa com o auxílio da segurança.,
+	 introduzir-se: Este homem I]introduziu-se em minha casa; é um gatuno!,
+	 penetrar: Em caso de guerra, os pilotos poderiam [penetrar facilmente no terreno adversário, pois já estariam familiarizados com suas paisagens, seus acidentes e condições climáticas.}
+
+A='Glosa296'
+{retirar-se, sair, vazar}
+Chave: ENTRAR <verb.motion>
+ILI: 01958650
+
+Sense 1 
+{01958650} <verb.motion> enter, come in2, get into, get in1, go into, go in, move into -- (to come or go into; "the boat entered an area of shallow marshes")
+          Also See-> {02148928} <verb.possession> enter upon#1

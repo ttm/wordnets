@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA2200
+
+DADO O SYNSET:
+
+S='Glosa2200'
+	    {abarbar: M]Abarbou rapidamente a outra margem do rio.,
+	      alcançar: Quando [alcançaram o forte de Gurupá, em 1651, no início do curso do Amazonas, tinham percorrido todo o interior do Brasil .,
+	      atingir: Estiveram em toda a Europa, [atingiram terras tão distantes quanto Bagdá, alcançando inclusive a América .,
+	      chegar: Neste ano, as primeiras pessoas I]chegaram ao cume no dia 20 e, até o dia 26, mais de uma centena de alpinistas estiveram lá em cima.,
+	      ocupar: A partir do século XII, os russos enfrentaram vários invasores de origem européia (lituanos, suecos, poloneses e alemães) e os mongóis, vindos da Ásia, que [ocuparam a maior parte da Rússia e fixaram sua capital em Sarai (1242) .,
+	      tomar: Quando os turcos seldjúcidas [tomaram Jerusalém (1055) e impediram a entrada de peregrinos cristãos na Terra Santa, os Papas Urbano II, Inocêncio III entre outros, convocaram a nobreza e o povo para lutar contra os infiéis .,
+	      vingar: O alpinista A]vingou ao cume da montanha., }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2200' = “alcançar um destino, um espaço, físico ou abstrato”
+	    {abarbar: M]Abarbou rapidamente a outra margem do rio.,
+	      alcançar: Quando [alcançaram o forte de Gurupá tinham percorrido todo o interior do Brasil .,
+	      atingir: Estiveram em toda a Europa, [atingiram terras tão distantes quanto Bagdá, alcançando inclusive a América .,
+	      chegar: Neste ano, as primeiras pessoas I]chegaram ao cume no dia 20 e, até o dia 26, mais de uma centena de alpinistas estiveram lá em cima.,
+	      ocupar:Os russos enfrentaram vários invasores de origem européia e os mongóis, vindos da Ásia, que [ocuparam a maior parte da Rússia.,
+	      tomar: Quando os turcos seldjúcidas [tomaram Jerusalém (1055), os Papas convocaram a nobreza e o povo para lutar contra os infiéis .,
+	      vingar: O alpinista A]vingou ao cume da montanha.,}
+
+Chave: ATINGIR <verb.motion>
+ILI: 01962681
+
+Sense 1
+{01962681} <verb.motion> reach1, make, attain1, hit, arrive at, gain -- (reach a destination, either real or abstract; "We hit Detroit by noon"; "The water reached the doorstep"; "We barely made it to the finish line"; "I have to hit the MAC machine before the weekend starts")

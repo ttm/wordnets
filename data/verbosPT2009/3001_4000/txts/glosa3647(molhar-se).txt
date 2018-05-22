@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA3647 
+
+DADO O SYNSET:
+
+S='Glosa3647'
+	    {
+	      lentar-se: x,
+	      lentejar-se: Calou-se por um pouco e, revolvendo-se no chão, passou a mão pela testa; I]lentejava-lhe dos poros o suor frio. ,
+	      lentescer-se: x,
+	      molhar-se: Deve I]molhar-se o rebordo do copo com um pedaço de limão./ A rega deve ser realizada sempre que sua necessidade for evidenciada, mesmo que seja com sol a pino, não existindo esquema para I]se molhar um Bonsai. ,
+	      orvalhar-se: Então ajoelhava-se, e fazia uma oração, no meio da qual suas lágrimas vinham de novo [orvalhar-lhe as faces.,
+	      umedecer-se: Tinha as mãos e os lábios ardentes, a respiração era difícil, e ao menor esforço [umedecia-se-me a pele com uma transpiração que me parecia gelada./Peri sentiu uma lágrima [umedecer-lhe as pálpebras.  ,
+	      umidificar-se: Uma pequena lágrima mal disfarçada I]umidificou-me o rosto.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3647' = “tornar-se molhado”
+	     {molhar-se: Carnê não chegou; I]molhou-se na caixa de correspondência./ É verdade que a pista secou e I]molhou-se de novo tantas vezes que ninguém se deu o trabalho de contar. ,
+	      orvalhar-se: I]Orvalha-se com as gotículas do sereno.,
+	      umedecer-se: A madeira sentiu o seu corpo, tingiu-se com o seu sangue, recebeu as suas lágrimas, I]umedeceu-se com o seu suor.,}
+Chave: MOLHAR-SE <verb.change>
+ILI: 00207542
+
+Sense 1
+{00207542} <verb.change> wet -- (cause to become wet; "Wet your face")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

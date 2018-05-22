@@ -1,0 +1,71 @@
+ANÁLISE DA GLOSA3733
+
+DADO O SYNSET:
+	
+S='Glosa3733'
+{ajeitar: x,
+	 apaziguar: O rio recebeu o nome de Freio por causa de um frei, morto em 1900 pelos índios em suas águas, quando tentava I]apaziguá-los.,
+	 avir: Deve trabalhar quanto puder de os concertar e M]avir.,
+	 benquistar: DEVIANT,
+	 compatibilizar: Temos que [compatibilizar a campanha eleitoral com os trabalhos legislativos, defendeu Inocêncio.  ,
+	 compor: A mãe H]compôs os filhos desavindos.,
+	 concertar: Acordamos I]concertar posições com a finalidade de contribuir para que as negociações culminem com a aprovação de um instrumento jurídico eficaz.,
+	 conciliar: É possível [conciliar qualidade com esta visão comercial?,
+	 concordar: M]Concordamos nossos mútuos interesses.,
+	 conformar: A ação do professor, através do processo da avaliação, também pode I]conformar atitudes e valores.,
+	 congraçar: As religiões nunca serviram para aproximar e I]congraçar os homens, pelo contrário, foram e continuam a ser causa de sofrimentos, de monstruosas violências físicas e espirituais que constituem um dos mais tenebrosos capítulos da miserável história humana.,
+	 consociar: H]Consociar cinzento com verde numa estamparia.,
+	 dispor: H]Dispor a letra com a música.,
+	 engraçar: A professora H]engraçou as colegas com o diretor.,
+	 enlaçar: O luto H]enlaçou as famílias.,
+	 entrosar: Somos sionistas socialistas porque I]entrosamos a nossa pátria.,
+	 harmonizar: Seu segredo é [harmonizar o passado e as expectativas do futuro.,
+	 paziguar: x,
+	 reaproximar: A morte de Fábio vai I]reaproximar Fernando e Beatriz.,
+	 recompor: O presidente argentino recorreu a elogios para [recompor as relações com o Brasil, depois de irritar Itamar.,
+	 reconciliar: Toda escrita comporta um atletismo, porém longe de [reconciliar a literatura com os esportes, ou de fazer da escrita um jogo olímpico, esse atletismo se exerce na fuga e na defecção orgânicas.,
+	 recongraçar: x,
+	 reunir: Há todo o interesse em M]reunir essas duas tão diferentes opiniões.,
+	 sintonizar: Não A]sintonizou com os colegas de trabalho.,
+	 temperar: M]Temperar os que estão em conflito. ,
+	 unificar: Os dirigentes petistas reivindicam para a FBP o mérito de ter conseguido I]unificar uma parcela significativa da esquerda.,
+	 unir: O Partido da Aliança e a Coalizão das Mulheres da Irlanda do Norte, tentam [unir as duas comunidades.}
+
+A='Glosa3175'
+{cindir, desamistar, desarmonizar, desavir, descombinar, desconcertar, desconciliar, desentrosar, dividir, incompatibilizar, indispor, inimistar, inimizar, malquistar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3733' = “fazer ficar mais favorável; ganhar a confiança”
+{apaziguar: O rio recebeu o nome de Freio por causa de um frei, morto em 1900 pelos índios em suas águas, quando tentava I]apaziguá-los.,
+	 compatibilizar: Temos que [compatibilizar a campanha eleitoral com os trabalhos legislativos, defendeu Inocêncio.  ,
+	 compor: A mãe H]compôs os filhos desavindos.,
+	 concertar: Acordamos I]concertar posições com a finalidade de contribuir para que as negociações culminem com a aprovação de um instrumento jurídico eficaz.,
+	 conciliar: É possível [conciliar qualidade com esta visão comercial?,
+	 concordar: M]Concordamos nossos mútuos interesses.,
+	 conformar: A ação do professor, através do processo da avaliação, também pode I]conformar atitudes e valores.,
+	 congraçar: As religiões nunca serviram para aproximar e I]congraçar os homens, pelo contrário, foram e continuam a ser causa de sofrimentos, de monstruosas violências físicas e espirituais que constituem um dos mais tenebrosos capítulos da miserável história humana.,
+	 consociar: H]Consociar cinzento com verde numa estamparia.,
+	 dispor: H]Dispor a letra com a música.,
+	 engraçar: A professora H]engraçou as colegas com o diretor.,
+	 enlaçar: O luto H]enlaçou as famílias.,
+	 entrosar: Somos sionistas socialistas porque I]entrosamos a nossa pátria.,
+	 harmonizar: Seu segredo é [harmonizar o passado e as expectativas do futuro.,
+	 reaproximar: A morte de Fábio vai I]reaproximar Fernando e Beatriz.,
+	 recompor: O presidente argentino recorreu a elogios para [recompor as relações com o Brasil, depois de irritar Itamar.,
+	 reconciliar: Toda escrita comporta um atletismo, porém longe de [reconciliar a literatura com os esportes, ou de fazer da escrita um jogo olímpico, esse atletismo se exerce na fuga e na defecção orgânicas.,
+	 reunir: Há todo o interesse em M]reunir essas duas tão diferentes opiniões.,
+	 sintonizar: Não A]sintonizou com os colegas de trabalho.,
+	 temperar: M]Temperar os que estão em conflito. ,
+	 unificar: Os dirigentes petistas reivindicam para a FBP o mérito de ter conseguido I]unificar uma parcela significativa da esquerda.,
+	 unir: O Partido da Aliança e a Coalizão das Mulheres da Irlanda do Norte, tentam [unir as duas comunidades.}
+
+A='Glosa3175'
+{cindir, desamistar, desarmonizar, desavir, descombinar, desconcertar, desconciliar, desentrosar, dividir, incompatibilizar, indispor, inimistar, inimizar, malquistar}
+Chave: CONCILIAR <verb.emotion>
+ILI: 01204852
+
+Sense 1
+{01204852} <verb.emotion> pacify, lenify, conciliate, assuage, appease, mollify, placate, gentle, gruntle -- (cause to be more favorably inclined; gain the good will of; "She managed to mollify her angry boss")
+       => {01204371} <verb.emotion> calm, calm down, quiet, tranquilize, tranquillize, quieten, lull, still -- (make calm or still; "quiet the dragons of worry and fear")
+           => {01238399} <verb.emotion> comfort1, soothe, console, solace -- (give moral or emotional strength to)

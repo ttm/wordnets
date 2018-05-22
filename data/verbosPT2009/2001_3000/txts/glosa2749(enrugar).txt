@@ -1,0 +1,44 @@
+ANÁLISE DA GLOSA2749
+
+DADO O SYNSET:
+
+  S='Glosa2749'
+	    {corrugar: No escroto há uma camada muscular lisa, os dartos, que o I]corruga quando contraída.,
+	      encarquilhar: A moça não era formosa, talvez nem tivesse graça, os cabelos caíam despenteados, e as lágrimas faziam-lhe I]encarquilhar os olhos.,
+	      encorrilhar: x,
+	      encorrugir: x,
+	      encoscorar: x,
+	      enrugar: Jogando com os valores desses parâmetros, pode-se fazer, por exemplo, puxar os lábios para trás, simulando felicidade, [enrugar a testa para simular raiva, franzir o nariz para simular nojo e assim por diante.,
+	      refegar: M]Refegar a pele.,
+	      rugar: Álvaro vendo-o aproximar-se I]rugou o sobrolho; depois do que se tinha passado na véspera e nessa manhã, odiava aquele homem ou antes, desprezava-o.,
+	      sulcar: Temos de resgatar o rosto que temos, porque pagamos um preço muito alto para I]sulcar a pele com as rugas de nossas experiências de vida.,
+	      surcar: x,}
+
+	  A='Glosa1300'
+	    {desarrugar: x,
+	     desencarquilhar: x,
+	     desenrugar: Deixe as sobrancelhas voltarem ao normal e a fronte I]desenrugar suavemente,
+	     desrugar: Uma aura de bem-aventurança I]desrugou a fronte do médico e seus lábios abriram-se num sorriso,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2749' = “Franzir ou contrair em rugas ou dobras”
+	    {corrugar: Abaixa a pele da fronte e I]corruga os supercílios.,
+	      encarquilhar: Minha pele transparente, I]encarquilhou em segundos.,
+	      enrugar: Fora que ele também I]enrugou, então parecia uma cortina velha que alguém largou no chão.,
+	      rugar: Álvaro vendo-o aproximar-se I]rugou o sobrolho.,
+	      sulcar: Uma profunda ruga I]sulcou-lhe a testa.,}
+
+	  A='Glosa1300'
+	    {desenrugar, desrugar}
+
+Chave: ENRUGAR <verb.contact>
+ILI: 01241111
+
+Sense 1
+{01241111} <verb.contact> purse, wrinkle1 -- (gather or contract into wrinkles or folds; pucker; "purse ones's lips")
+       => {01241280} <verb.contact> contract -- (make smaller; "The heat contracted the woollen garment")
+           => {00233158} <verb.change> shrink1, reduce5 -- (reduce in size; reduce physically; "Hot water will shrink the sweater"; "Can you shrink this image?")
+               => {00428838} <verb.change> decrease1, lessen2, minify -- (make smaller; "He decreased his staff")
+                   => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night") 

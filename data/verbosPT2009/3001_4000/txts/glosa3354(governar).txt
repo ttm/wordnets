@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA3354
+
+DADO O SYNSET:
+
+S='Glosa3354'
+	    {
+	      comandar: Isso dito justamente por quem [comanda um dos estados mais saudáveis da federação.,
+	      dominar: Os seqüestros do estudante Eduardo Eugênio Gouvêa Vieira e dos empresários João Antônio Queiroz Galvão e José Zeno foram tramados e executados pela quadrilha que [domina o Morro da Mineira.,
+	      governar: Foi a participação maciça de intocáveis como Swapan a responsável pela maior derrota eleitoral do Partido do Congresso, que [governa a Índia desde a independência, em 1947.,
+	      mandar: Spike confirmou que a produtora Skylight pagou a quem [manda no morro para conseguir gravar na favela.,
+	      senhorear: Mande-os sujeitar e deve fazer estender os cristãos pela terra adentro e repartir-lhes o serviço dos índios àqueles que os ajudarem a conquistar e [senhorear.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3354' = “impor regras”
+	     {comandar: O PSDB I]comanda o Estado desde 1986, quando Tasso foi eleito para o primeiro dos seus três mandatos como governador.,
+	      dominar: Guerra do tráfico I]domina 5 favelas cariocas.,
+	      governar: O PMDB I]governa o Estado de São Paulo desde 83
+	      mandar: A Rede de Televisão I]manda no país, tem informações privilegiadas e dita o horário que o (suposto) chefe supremo da nação vai fazer seu pronunciamento.,
+	      senhorear: Mande-os sujeitar e deve fazer estender os cristãos pela terra adentro e repartir-lhes o serviço dos índios àqueles que os ajudarem a conquistar e [senhorear.,}
+Chave: GOVERNAR <verb.social>
+ILI: 02436624
+
+Sense 1
+{02436624} <verb.social> regulate1, regularize, regularise, order1, govern2 -- (bring into conformity with rules or principles or usage; impose regulations; "We cannot regulate the way people dress"; "This town likes to regulate")
+       => {00674417} <verb.cognition> decide, make up one's mind, determine -- (reach, make, or come to a decision about something; "We finally decided after lengthy deliberations")

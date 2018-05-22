@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA0329
+
+DADO O SYNSET:
+
+S='Glosa329'
+{premiar: A vitória de ontem sobre o Grêmio [premiou dois corintianos: Viola e Casagrande.,}
+A='Glosa2201'
+{apenar, castigar, punir1, vindicar, vingar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa329' = “dar, especialmente como um prêmio ou recompensa”
+{premiar: A vitória de ontem sobre o Grêmio [premiou dois corintianos: Viola e Casagrande.,}
+A='Glosa2201'
+{apenar, castigar, punir1, vindicar, vingar}
+Chave: PREMIAR <verb.possession>
+ILI: 02196595
+
+Sense 1
+{02196595} <verb.possession> award, present2 -- (give, especially as a reward; "bestow honors and prizes at graduation")
+       => {02169266} <verb.possession> allocate, apportion1 -- (distribute according to a plan or set apart for a special purpose; "I am allocating a loaf of bread to everyone on a daily basis"; "I'm allocating the rations for the camping trip")
+           => {02164287} <verb.possession> assign1, allot1, portion -- (give out or allot; "We were assigned new uniforms")
+               => {02228378} <verb.possession> distribute, administer, mete out, deal1, parcel out, lot, dispense, shell out, deal out, dish out, allot2, dole out -- (administer or bestow, as in small portions; "administer critical remarks to everyone present"; "dole out some money"; "shell out pocket money for the children"; "deal a blow to someone")
+                   => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+                       => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children")

@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA3223
+
+DADO O SYNSET:
+
+S='Glosa3223'
+	    {
+	      agermanar: x,
+	      emparelhar: O sofrimento M]emparelha os homens. # A morte M]emparelha o pobre ao rico.,
+	      germanar: x,
+	      igualar: Há nessa cumplicidade um gosto particular; o pecado em comum [iguala por instantes a condição das pessoas.,
+	      igualizar: Apesar de todo o poder da hierarquia, existem, entre os mortos, outros elos sociais que [igualizam os indivíduos.,
+	      irmanar: Um pied-noir em Argel, o outro um latino perdido na Europa, ambos tomavam decisões idênticas, constrangidos pela honestidade moral e intelectual que os [irmana.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3223' = “ser igual em qualidade ou habilidade”
+	     {emparelhar: O autor simplesmente I]emparelha a ética com a lei ou seu conhecimento, como se a moral e o direito fossem concêntricos quando isso está longe de ser verdade. # Com passadas largas, ele I]emparelha com o campeão inglês Sebastian Cole, que dominava as provas na época.,
+	      igualar: Há nessa cumplicidade um gosto particular; o pecado em comum [iguala por instantes a condição das pessoas.,
+	      igualizar: O direito burguês I]igualiza formalmente todos os homens perante a lei ao reconhecê-los como sujeitos individuais de direitos.,
+	      irmanar: A tragédia I]irmanou as duas equipes, os dois clubes, seus quadros e aficcionados fecundando, finalmente, a mal encoberta semente da fusão.,}
+Chave: IGUALAR <verb.stative>
+ILI: 02591609
+
+Sense 4
+{02591609} <verb.stative> equal1, touch2, rival, match1 -- (be equal to in quality or ability; "Nothing can rival cotton for durability"; "Your performance doesn't even touch that of your colleagues"; "Her persistence and ambition only matches that of her parents")
+       => {01037983} <verb.competition> compete, vie, contend -- (compete for something; engage in a contest; measure oneself against others)

@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA1295
+
+DADO O SYNSET:
+
+S='Glosa1295'
+{anelar2: H]Anelava o bigode,
+ cachear: Foi preciso I]cachear os cabelos lisos e finos de Adriana,
+ encanudar: H]Encanudava os cabelos,
+ encaracolar: Deixou os cabelos crescer e I]encaracolar, e defendia militantemente tudo que era natural,}
+
+A='Glosa1296'
+{desanelar, desencanudar, desencaracolar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1295' = “enrolar dando forma espiralada ou cacheada”  
+{cachear: Foi preciso I]cachear os cabelos lisos e finos de Adriana,
+ encaracolar: Giulia também cortou , escureceu e I]encaracolou os cabelos para viver Flor.,}
+
+A='Glosa1296'
+{desanelar, desencanudar, desencaracolar}
+Chave: ENCARACOLAR <verb.contact>
+ILI: 01186594
+
+Sense 4
+{01186594} <verb.contact> curl, wave1 -- (twist or roll into coils or ringlets; "curl my hair, please")
+       => {01185645} <verb.contact> twist -- (turn in the opposite direction; "twist a wire")
+           => {01851475} <verb.motion> turn -- (change orientation or direction, also in the abstract sense; "Turn towards me"; "The mugger turned and fled before I could see his face"; "She turned from herself and learned to listen to others' needs")
+               => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right")

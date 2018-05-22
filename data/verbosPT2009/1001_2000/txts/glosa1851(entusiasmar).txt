@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA1851
+
+DADO O SYNSET:
+
+S='Glosa1851'
+{afervorar: São momentos de celebrações festivas, que contribuem para I]afervorar os corações e fortalecer a Fé.,
+ alentar: Resistiram à fraqueza, afastaram-se envergonhados, sem ânimo de afrontar de novo a luz dura, receosos de perder a esperança que os I]alentava.,
+ animar: Esse entusiasmo e esse fanatismo, que o ampararam, que o [animaram, que o sustentaram, só teriam sido possíveis, depois de ter ele sido ajudante general do Império.,
+ entusiasmar: A atitude brincalhona de Sua Divina Graça sempre I]entusiasmava o coração dos devotos.,}
+	  
+A='Glosa2642'
+{arrefecer, arrefentar, desalentar, desanimar, desfalecer, entibiar, esfriar, esmorecer, resfriar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1851' = “incitar ou excitar sentimentos e paixões”
+{afervorar: Padre Cícero introduziu o culto ao Coração de Jesus e I]afervorou a devoção a Nossa Senhora das Dores.,
+ alentar: Resistiram à fraqueza, afastaram-se envergonhados, sem ânimo de afrontar de novo a luz dura, receosos de perder a esperança que os I]alentava.,
+ animar: Esse entusiasmo e esse fanatismo, que o ampararam, que o [animaram, que o sustentaram, só teriam sido possíveis, depois de ter ele sido ajudante general do Império.,
+ entusiasmar: A atitude brincalhona de Sua Divina Graça sempre I]entusiasmava o coração dos devotos.,}
+	  
+A='Glosa2642'
+{arrefecer, arrefentar, desalentar, desanimar, desfalecer, entibiar, esfriar, esmorecer, resfriar}
+Chave: ENTUSIASMAR <verb.emotion>
+ILI: 01710296
+
+Sense 3
+{01710296} <verb.emotion> inflame, stir up, wake, ignite, heat, fire up -- (arouse or excite feelings and passions; "The ostentatious way of living of the rich ignites the hatred of the poor"; "The refugees' fate stirred up compassion around the world"; "Wake old feelings of hatred")
+       => {01708538} <verb.emotion> arouse, elicit, enkindle, kindle, evoke, fire, raise8, provoke -- (call forth (emotions, feelings, and responses); "arouse pity"; "raise a smile"; "evoke sympathy")
+           => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

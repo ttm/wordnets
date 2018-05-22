@@ -1,0 +1,54 @@
+ANÁLISE DA GLOSA4064
+
+DADO O SYNSET:
+
+S='Glosa4064'
+{alanzoar: Jamais transmite dados concretos, só H]alanzoa.,
+cacarejar: A Velha I]cacarejou e disse para não fazer nada.,
+caquerejar: x,
+carcarejar: x,
+charlar: Todas as noites I]charlava com uma garota diferente.,
+chilrar: x,
+chilrear: Ouvia-se a criançada H]chilrear no recreio.,
+galrar: Ao abrirem a porta do pátio passavam na rua dois homens I]galrando.,
+garalhar: x,
+garrir: x,
+garrular: Caminhava adiante, I]garrulando sem cessar e voltando-se a cada instante para chamar a atenção dos dois moços a propósito de suas observações.,
+gralhar: Antes do filme começar, o bando I]gralhava, urrava e dava murros no ar.,
+gralhear: x,
+grazinar: Um bando I]grazinava alto, risonho.,
+grulhar: x,
+linguajar: E por vivermos imersos em linguagem e gostarmos de linguagem aqui estamos nós, uma hora, duas horas I]linguajando.,
+linguarejar: x,
+matraquear: Um grupinho de japonesinhas I]matraqueava alto.,
+palavrear: Eram apenas oito horas e já muita gente comia e I]palavreava na casa de pasto ao lado da venda.,
+palrar: Passava a tarde H]palrando com as vizinhas.,
+palrear: x,
+papagaiar: Eu queria que ele falasse um parágrafo ou dois, mas apesar disso ele I]papagaiava por quatro ou cinco páginas.,
+papaguear: Um sujeito um tanto histérico I]papagueava de forma insuportável.,
+papear: Tomava um sorvete enquanto I]papeava com o dono do carrinho.,
+parlar: x,
+parolar: Gosta de H]parolar com os vizinhos.,
+parolear: x,
+prosear: João I]proseava com Zulmira na janela da casa de Miranda.,
+tagarelar: I]Tagarelava sem parar a respeito de política, futebol, telenovela, e tudo mais.,
+tarelar: x,
+tartarear: x,
+treler: Juventina H]trelava sem cansaço horas a fio.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4064B' = “falar socialmente sem trocar muita informação”
+{papear: Tomava um sorvete enquanto I]papeava com o dono do carrinho.,
+parolar: Gosta de H]parolar com os vizinhos.,
+prosear: João I]proseava com Zulmira na janela da casa de Miranda.,}
+Chave: PAPEAR <verb.communication>
+ILI: 01005204
+
+Sense 1
+{01005204} <verb.communication> chew the fat, shoot the breeze, chat, confabulate, confab, chitchat, chatter1, chaffer, natter, gossip1, jaw, claver, visit -- (talk socially without exchanging too much information; "the men were sitting in the cafe and shooting the breeze")
+       => {00932753} <verb.communication> converse, discourse1 -- (carry on a conversation)
+           => {00930524} <verb.communication> talk1, speak1 -- (exchange thoughts; talk with; "We often talk business"; "Actions talk louder than words")
+               => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                   => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                       => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

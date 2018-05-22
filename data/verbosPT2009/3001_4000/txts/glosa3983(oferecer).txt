@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA3983
+
+DADO O SYNSET:
+
+S='Glosa3983'
+{apresentar: Bateram-lhe numa face e Ele H]apresentou a outra.,
+ dar: Arnaldo me I]deu a mão.,
+ estender: Ressentido, recusou-se a H]estender-lhe a face para um carinho.,
+ oferecer: Irmã da Graça viu que ele não faria nenhum mal e I]ofereceu a mão para ajudá-lo a levantar-se.,
+ oferendar: Um namorado cavalheiro deve I]oferendar presentes "fofos" a sua pretendente.,
+ ofertar: Hoje meu amigo me I]ofertou uma flor!,
+ presentar: x,
+ trazer: Leve o boné que o Epaminondas comprou em Lisboa e me I]trouxe de presente.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3983' = “apresentar [algo] para ser aceito ou rejeitado”
+{apresentar: Publiquei sobre o assunto e o leitor Fábio Riccota I]apresentou-me uma possibilidade que parece mais do que sensata e parecida com a minha.,
+ dar: Arnaldo me I]deu a mão.,
+ estender: Quaresma [estendeu-lhe o jornal com o braço tremendo: “Lê isto, Adelaide”.,
+ oferecer: Irmã da Graça viu que ele não faria nenhum mal e I]ofereceu a mão para ajudá-lo a levantar-se.,
+ oferendar: Com exceção de Carranza, todos I]oferendaram seus interesses pessoais ao projeto de institucionalização do poder recém conquistado.,
+ ofertar: Mas a maior preocupação do candidato ao Senado é explicar e defender a cobrança do dízimo, quantia em dinheiro que os evangélicos [ofertam aos pastores durante os cultos de que participam,
+ trazer: Com sua tradicional fidalguia, Begin I]trouxe uma cadeira para a senhora Esther; não pediu, ou ordenou, a qualquer segurança; ele, pessoalmente o fez.}
+Chave: OFERECER <verb.possession>
+ILI: 02230964
+
+Sense 2
+{02230964} <verb.possession> offer, proffer -- (present for acceptance or rejection; "She offered us all a cold drink")
+       => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+           => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children")

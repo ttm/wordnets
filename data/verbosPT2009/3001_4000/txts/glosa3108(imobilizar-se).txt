@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA3108
+
+DADO O SYNSET:
+
+S='Glosa3108'
+	    {
+	      entorpecer-se: Mas ele sabe também que a exigência que deveria fazer de si próprio é a de estar contra o seu tempo, ele não pode, por exemplo, I]entorpecer-se ou resignar-se ao silêncio.,
+	      estuporar-se: x,
+	      imobilizar-se: A civilização latina estaria na Europa sob o perigo de I]imobilizar-se em formas arcaicas.,
+	      imotar-se: x,
+	      paralisar-se: Tinham menos probabilidades de desmontar-se, [paralisar-se ou regredir sob tensão, ou ficar abalados e desarvorados quando pressionados. ,
+	      torpecer-se: x,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3108' = “paralisar-se”
+	     {entorpecer-se: E ainda assim ela se I]entorpece e perde a capacidade de reagir diante do horror, pois tal horror, visto na televisão, tem o poder de entreter.,
+	      imobilizar-se: I]Imobiliza-se, assim, o governo Lula nos dois anos em que ele poderia assegurar sua reeleição.,
+	      paralisar-se: Em alguns momentos mais específicos, a atividade acadêmica I]paralisa-se para incorporar outras que permitam uma abordagem mais intensa. ,}
+Chave: IMOBILIZAR-SE <verb.change>
+ILI: EQ_NEAR_SYNONYM - 00259579
+
+Sense 2
+{00259579} <verb.change> paralyze, paralyse -- (cause to be paralyzed and immobile; "The poison paralyzed him"; "Fear paralyzed her")
+       => {00260242} <verb.change> immobilize, immobilise -- (cause to be unable to move; "The sudden storm immobilized the traffic")
+           => {00228980} <verb.change> restrict2, curtail, curb, cut back -- (place restrictions on; "curtail drinking in school")
+               => {00227757} <verb.change> limit, circumscribe, confine1 -- (restrict or confine, "I limit you to two visits to the pub a day")
+                   => {00428838} <verb.change> decrease1, lessen2, minify -- (make smaller; "He decreased his staff")
+                       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

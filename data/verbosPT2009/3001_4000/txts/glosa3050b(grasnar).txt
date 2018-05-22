@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA3050b
+
+DADO O SYNSET:
+
+S='Glosa3050'
+	    {
+	      corvejar: Por falar em aves, sabemos que o corvo também pode crocitar ou I]corvejar.,
+	      crocitar: Oito dias depois do massacre da Noite de São Bartolomeu, havia visto uma grande quantidade de corvos pousar e I]crocitar sobre o pavilhão do Louvre.,
+	      garalhar: x,
+	      gralhar: O verde símbolo da resistência da copa de uma árvore milenar, do papagaio quase em extinção que vive nas matas a I]gralhar.,
+	      gralhear: x,
+	      grasnar: O papagaio, sua unica companhia, não pára de I]grasnar imprecações que algum marujo outrora lhe ensinara.,
+	      grasnir: I]Grasnem apropriadamente e inclinem a cabeça diante da velha pata; ela é a mais importante de todas nós aqui.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3050b' = emitir barulho de grasnido”
+	     {grasnar: Saiu o pato feio e desengonçado que nos [grasnou nos ouvidos e nos ciscou a paciência durante 20 anos e que agora ensaia novos grasnidos nos morros do Rio.,
+	      grasnir: I] Rony Vavão não sabia se o avestruz crocitava , I]grasnia ou mesmo coaxava , mas não conseguiu pregar o olho durante a noite toda , com a barulheira do bicho.,}
+Chave: GRASNAR <verb.communication>
+ILI: 01019486
+
+Sense 1
+{01019486} <verb.communication> quack -- (utter quacking noises; "The ducks quacked")
+       => {00951670} <verb.communication> utter2, emit, let out2, let loose -- (express audibly; utter sounds (not necessarily words); "She let out a big heavy sigh"; "He uttered strange sounds that nobody could understand")

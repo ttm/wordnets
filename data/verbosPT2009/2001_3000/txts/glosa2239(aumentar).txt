@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA2239
+
+DADO O SYNSET:
+
+S='Glosa2239'
+	    {agravar: H]Agravou os tributos dos novos contribuintes.,
+	      aumentar: O governo português I]aumentou as taxas alfandegárias sobre as mercadorias importadas da Inglaterra.,
+	      avultar: Aquelas histórias H]avultavam o temor nas crianças.,
+	      elevar: O Brasil I]elevou as taxas de juros a níveis altíssimos.,
+	      encarecer: A alta da moeda norte-americana I]encareceu o valor dos equipamentos.,
+	      majorar: A ganância fiscal lhe I]majorou os impostos prediais.,
+	      subir: O rei I]subiu os impostos.,
+	      valorar: x,
+	      valorizar: O revestimento de mármore I]valorizou o valor do apartamento.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2239' = “ tornar maior; fazer crescer” 
+	    {agravar: H]Agravou os tributos dos novos contribuintes.,
+	      aumentar: O governo I]aumentou as taxas alfandegárias sobre as mercadorias importadas.,
+	      avultar: Aquelas histórias H]avultavam o temor nas crianças.,
+	      elevar: O Brasil I]elevou as taxas de juros a níveis altíssimos.,
+	      encarecer: A alta da moeda I]encareceu o valor dos equipamentos.,
+	      majorar: a TVA não majorou o preço das assinaturas.,
+	      subir: O rei I]subiu os impostos.,
+                   valorizar: O revestimento de mármore I]valorizou o valor do apartamento.,}
+
+Chave: AUMENTAR <verb.change>
+ILI: 00147655
+
+Sense 2
+{00147655} <verb.change> increase2 -- (make bigger or more; "The boss finally increased her salary"; "The university increased the number of students it admitted")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

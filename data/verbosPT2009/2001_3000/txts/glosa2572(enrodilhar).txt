@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA2572
+
+DADO O SYNSET:
+
+  S='Glosa2572'
+	    {embramar: x,
+	      enrodilhar: Nenhuma destas cobras é peçonhenta, mas se movimentam com agilidade, sendo o bote rapidíssimo e já preparado para I]enrodilhar e constringir a vítima.,
+	      enroscar: Havia o risco de repetição de anúncios e a fita podia [enroscar, atrasando a programação.,
+	      rodilhar: x,
+	      torcer: Um bom exercício de agressão é I]torcer uma toalha., }
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2572' = “Enrolar ou contornar ao redor de.”
+	    {enrodilhar: Feliz I]enrodilhava os cachinhos na ponta dos dedos.,
+	      enroscar: Brincou ele, enquanto I]enroscava o dedo nas tranças dos seus cabelos.,}
+
+Chave: ENRODILHAR <verb.contact>
+ILI: 01480045
+
+Sense 3
+{01480045} <verb.contact> wind6, wrap2, roll, twine3 -- (wrap or coil around; "roll your hair around your finger"; "Twine the thread around the spool")
+       => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant") 

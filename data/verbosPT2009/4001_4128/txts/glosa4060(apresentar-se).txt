@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA4060
+
+DADO O SYNSET:
+
+S='Glosa4060'
+{apresentar-se: Fernando Collor [apresentava-se como o candidato moderno, que iria varrer a corrupção do Brasil, tal como fizera quando governador de Alagoas, perseguindo os marajás do estado .,
+dar-se: A organização forçada da classe da Dança I]deu-se como um processo natural de resistência perante o perigo de morte de sua ideologia. ,
+inculcar-se: Exceto pelo aspecto muito importante de se [inculcar uma mentalidade científica, a contribuição da ciência ao desenvolvimento econômico da Índia foi bem menor do que poderia ter sido .,
+insinuar-se: O governador paulista, Luiz Antônio Fleury Filho, tenta [insinuar-se como candidato, na brecha aberta pelas divergências entre os supostos «puros» e os supotos «impuros» .,
+mostrar-se: Por fim, também sentiu vontade de seguir viagem, um senhor pastor que I]mostrou-se como um pai generoso e amigo.,
+oferecer-se: Falaria a ele quando uma ocasião mais propícia se H]oferecesse.,
+passar-se: O filme é baseado na história real de um vigarista americano que falsificava cheques e se I]passou por piloto da Pan American, médico e até advogado.,
+presentar-se: x,
+proporcionar-se: M]Proporcionou-se-lhe oportunidade de visitar a empresa editora.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4060' = “ser ou tornar-se visível ou notável”
+{apresentar-se: Fernando Collor [apresentava-se como o candidato moderno., 
+dar-se: Quando Hollywood chegou à Casa Branca, a repetição da história I]deu-se como farsa tragicômica.,
+inculcar-se: Foram chamados de juízes e fizeram questão de se I]inculcar como magistrados.,
+mostrar-se: O grupo coral de Michael McGlynn I]mostrou-se como uma das peças cativantes do espetáculo original.,
+oferecer-se: Os primeiros Gurcas I]ofereceram-se como mercenários.,
+passar-se: No reino dos gigantes, I]passou-se por gigante anão, entrando para uma trupe de circo.}
+Chave: APRESENTAR-SE <verb.perception>
+ILI: 02077573
+
+Sense 9
+{02077573} <verb.perception> show1, show up -- (be or become visible or noticeable; "His good upbringing really shows"; "The dirty side will show")
+       => {00409939} <verb.change> appear -- (come into sight or view; "He suddenly appeared at the wedding"; "A new star appeared on the horizon")
+ 

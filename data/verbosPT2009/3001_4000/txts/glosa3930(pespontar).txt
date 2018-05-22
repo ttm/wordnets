@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA3930
+
+DADO O SYNSET:
+	
+S='Glosa3930'
+{pespontar: Costuram, I]pespontam e montam sapatos, e em seus quase 30 anos de atividades.,
+ pespontear: x,
+ pospontar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3930' = “fazer pespontos”
+{pespontar: Seu Jovino e dona Alice costuram, I]pespontam e montam sapatos, e em seus quase 30 anos de atividades.}
+Chave: PESPONTAR <verb.contact>
+ILI: 01291186
+
+Sense 1
+{01291186} <verb.contact> backstitch -- (do backstitches)
+       => {01289858} <verb.contact> sew, run up1, sew together, stitch -- (fasten by sewing; do needlework)
+           => {01300906} <verb.contact> fasten1, fix, secure1 -- (cause to be firmly attached; "fasten the lock onto the door"; "she fixed her gaze on the man")
+               => {01257892} <verb.contact> attach1 -- (cause to be attached)
+                   => {01314764} <verb.contact> connect, link, tie1, link up -- (connect, fasten, or put together two or more pieces; "Can you connect the two loudspeakers?"; "Tie the ropes together"; "Link arms")

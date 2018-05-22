@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0991
+
+DADO O SYNSET:
+
+S='Glosa991'
+{comutar: O governador é a única pessoa que tem autoridade para I]comutar sentenças de morte, substituindo-as por prisão perpétua ou por pena não inferior a vinte anos.,
+converter: O subsídio ao álcool custa R$ 1,4 bilhão ao ano; o custo para [converter um carro a álcool em gasolina é de R$ 700.,
+mudar: Quer [mudar pela quarta vez naquela noite o lado da fita que toca em seu walkman.,
+substituir: Segundo a Secretaria de Obras, a culpa é da Telerj que está demorando a instalar os novos cabos subterrâneos de telefone, que [substituirão a antiga rede aérea.,
+trocar: Além disso, a Europa desejava [trocar seus tecidos por produtos africanos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa991' = “fazer mudar, ambos em um sentido concreto e abstrato”
+{comutar: O governador é a única pessoa que tem autoridade para I]comutar sentenças de morte, substituindo-as por prisão perpétua ou por pena não inferior a vinte anos.,
+converter: O subsídio ao álcool custa R$ 1,4 bilhão ao ano; o custo para [converter um carro a álcool em gasolina é de R$ 700.,
+mudar: Quer [mudar pela quarta vez naquela noite o lado da fita que toca em seu walkman.,
+substituir: Segundo a Secretaria de Obras, a culpa é da Telerj que está demorando a instalar os novos cabos subterrâneos de telefone, que [substituirão a antiga rede aérea.,
+trocar: Além disso, a Europa desejava [trocar seus tecidos por produtos africanos.,}
+Chave: MUDAR <verb.motion>
+ILI: 01796771
+
+Sense 2
+{01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

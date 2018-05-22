@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA1196
+
+DADO O SYNSET:
+
+S='Glosa1196'
+{bater: Em certos trechos, o Alcorão é muito injusto, como na idéia de que o marido tem o direito de [bater na mulher e pode ter até quatro esposas.,
+ dar: M]Dava no filho, por este não querer estudar.,
+ desborcelar: x,
+ desborcinar: x,
+ esborcelar: x,
+	 esborcinar: Rolando, por fim, I]esborcina a rocha com sua espada mágica. no intuito de quebrá-la. ,
+	 esbotenar: x,
+ esbrucinar: x,
+	 golpear: O delegado disse que ele foi atingido por não atender aos apelos dos policiais para parar de [golpear as crianças.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1196' = “dar uma surra [em]; sujeitar a uma surra, como uma punição ou um ato de agressão” 
+{bater: Ela argumenta ter sido preterida em promoções depois que informou aos seus superiores de que um agente [batia na mulher.,
+ dar: Maria I]deu no filho porque ele quebrou o copo.,
+ esborcinar: Rolando, por fim, I]esborcina a rocha com sua espada mágica. no intuito de quebrá-la.,
+	 golpear: Rodrigues da Silva diz que homens da Brigada de Pára-Quedistas do Exército o [golpearam.,}
+Chave: BATER <verb.contact>
+ILI: 01356759
+
+Sense 2
+{01356759} <verb.contact> beat1, beat up1, work over -- (give a beating to; subject to a beating, either as a punishment or as an act of aggression; "Thugs beat him up when he walked down the street late at night"; "The teacher used to beat the students")

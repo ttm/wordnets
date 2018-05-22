@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA1492
+
+DADO O SYNSET:
+
+S='Glosa1492'
+	    {desodorar: frase_exemplo,
+	      desodorizar: frase_exemplo,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1492' = “eliminar o odor”
+
+                  {desodorar: O óleo do pinheiro é um ótimo óleo para I]desodorar ambientes.,
+	      desodorizar: Esta loção é indicada para I]desodorizar cães,}
+	  
+Chave: DESODORIZAR <verb.perception>
+ILI: 02065467
+
+Sense 1
+{02065467} <verb.perception> deodorize, deodorise, deodourise -- (eliminate the odor from; "This stick will deodorize your armpits")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

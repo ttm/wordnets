@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA2151
+
+DADO O SYNSET:
+
+  S='Glosa2151'
+	    {drenar: Mais de 80% da terra cultivável dos EUA é utilizada para duas colheitas: milho e soja. Ambas sendo monoculturas atraem pragas e I]drenam nutrientes do solo, necessitando de quantidades elevadas de pesticidas e fertilizantes.,
+	      extrair: Os elementos minerais que as plantas I]extraem do solo, transforma-se em frutos, folhas ou grãos, que servem de alimentos aos animais e ao homem.,
+	      sugar: Esses artrópodes I]sugam a seiva das folhas e pecíolos de plantas novas e, com a evolução do dano, as folhas ficam amarelas. ,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2151' = “absorver, esgotar algum tipo de recurso”
+	    {drenar: Mais de 80% da terra cultivável dos EUA é utilizada para duas colheitas: milho e soja, ambas sendo monoculturas atraem pragas e I]drenam nutrientes do solo.,
+	      extrair: Os elementos minerais que as plantas I]extraem do solo, transforma-se em frutos, folhas ou grãos.,
+	      sugar: Esses artrópodes I]sugam a seiva das folhas e pecíolos de plantas novas e, com a evolução do dano, as folhas ficam amarelas. ,}
+
+Chave: EXTRAIR <verb.consumption>
+ILI: 01122270
+
+Sense 2
+{01122270} <verb.consumption> drain -- (deplete of resources; "The exercise class drains me of energy")
+       => {01121801} <verb.consumption> consume1, eat up3, use up, eat13, deplete, exhaust, run through, wipe out -- (use up (resources or materials); "this car consumes a lot of gas"; "We exhausted our savings"; "They run through 20 bottles of wine a week")
+           => {02201591} <verb.possession> spend, expend, drop -- (pay out; "spend money")
+               => {02186811} <verb.possession> pay -- (give money, usually in exchange for goods or services; "I paid four dollars for this sandwich"; "Pay the waitress, please")
+                   => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+                       => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children")

@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA1363
+
+DADO O SYNSET:
+
+S='Glosa1363'
+{anojar: Os católicos H]anojaram quando o papa faleceu,
+ enlutar: As escrituras sugerem que não se deve I]enlutar, mas orar por vários dias após a morte do corpo para a salvação da alma que partiu,}
+	  
+A='Glosa1362'
+{desenlutar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1363' = “ficar de luto”
+{enlutar: As escrituras sugerem que não se deve I]enlutar, mas orar por vários dias após a morte do corpo para a salvação da alma que partiu.,}
+A='Glosa1362'
+{desenlutar}
+Chave: ENLUTAR <verb.emotion>
+ILI: 01744783
+
+Sense 1
+{01744783} <verb.emotion> mourn -- (feel sadness; "She is mourning her dead child")
+       => {01745079} <verb.emotion> grieve, sorrow -- (feel grief; eat one's heart out)
+           => {01742440} <verb.emotion> suffer -- (endure (emotional pain); "Every time her husband gets drunk, she suffers")
+               => {01720480} <verb.emotion> feel, experience -- (undergo an emotional sensation; "She felt resentful"; "He felt regret")

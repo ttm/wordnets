@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA3101
+
+DADO O SYNSET:
+
+S='Glosa3101'
+	    {
+	      abicar: Quando o sol, no meio de sua carreira, lançava torrentes de luz sobre esse vasto deserto, Peri sentiu que era tempo de abrigar Cecília dos raios abrasadores, e fez a canoa [abicar à beira do rio na sombra de uma ramagem de árvores.,
+	      abordar1: O cruzador H]abordou o encouraçado. # O barco H]abordou de manhã.,
+	      aportar: Uma das primeiras medidas tomadas pelo príncipe regente D. João, ao [aportar na Bahia, foi a abertura dos portos da colônia as nações amigas, em 28 de janeiro de 1808. ,
+	      chegar: O navio estaria transportando para Estocolmo (Suécia) toneladas de metais raros contrabandeados, como cobalto e ósmio, e seu comandante, o capitão Avo Phit tinha a intenção de denunciar o contrabando ao [chegar ao porto. ,
+	      encostar: A maior complicação para regressar a Puno à vela, é contornar os labirintos de totora e a reserva dos Uros. É preciso I]encostar na península de Chucuito de um lado, ou na península de Capachica do outro.,
+	      imbicar: x,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3101' = “levar para o porto”
+	     {abicar: Como cediço, a Nau Capitânia I]abicou ao ano de 1500 à enseada de Porto Seguro, no Estado da Bahia.,
+	      abordar1: O cruzador H]abordou o encouraçado. # O barco H]abordou de manhã.,
+	      aportar: Sete dias depois, o navio [aportou na Arábia Saudita e de lá seguiu para França, Alemanha, Austrália, Portugal, Espanha, Kuait e Brasil. ,
+	      chegar: Sem apresentar vítimas o navio I]chegou ao porto por volta das 7:00 horas da manhã do dia 25 de março. ,
+	      encostar: O navio I]encostou em Lisboa, porque o cais do Porto é pequeno, é só de encostar navios pequenos, como navios de carga.,}
+Chave: APORTAR <verb.motion>
+ILI: 02028169
+
+Sense 3
+{02028169} <verb.motion> port6 -- (bring to port; "the captain ported the
+ship at night")

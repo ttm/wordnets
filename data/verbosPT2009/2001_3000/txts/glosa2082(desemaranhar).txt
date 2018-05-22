@@ -1,0 +1,42 @@
+ANÁLISE DA GLOSA2082
+
+DADO O SYNSET:
+	
+S='Glosa2082'
+    	{desemaranhar: O trabalho dos cientistas foi como que I]desemaranhar esse fio, a molécula de DNA, que, se fosse esticada, chegaria a ter 1,8 metro de comprimento.,
+      	 desembaraçar: Para I]desembaraçar os fios, a especialista recomenda um pente de dentes largos. ,
+      	 desembolar: x,
+      	 desenlear: H]Desenlear fios.,
+      	 desenliçar: H]Desenliçar a lã.,
+      	 desenredar: Ela M]desenredava impacientemente os cabelos. ,
+      	 desenriçar: x,
+      	 desriçar: x,
+      	 destrinçar: Demorava-se a M]destrinçar o fumo na palma da mão. ,
+      	 destrinchar: x,
+      	 estriçar: x,}
+
+A='Glosa3376'
+    	{assanhar, desengrenhar, desgrenhar, emaranhar, embaraçar, enlear, enredar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2082' = “desembaraçar o emaranhado [de]”
+    	{desemaranhar: O trabalho dos cientistas foi como que I]desemaranhar esse fio, a molécula de DNA, que, se fosse esticada, chegaria a ter 1,8 metro de comprimento.,
+      	 desembaraçar: Eu não vou [desembaraçar todo o emaranhado, pela simples razão de não saber como fazê-lo.,
+      	 desenlear: Dois dos urubus pararam junto a Eulália e I]desenlearam as cordas com que deviam amarrá-la.,
+      	 desenliçar: Içar as solas do solo e I]desenliçar os enlaçamentos e liames dos cadarços para alçar elevações acima do sonhável.,
+      	 desenredar: A equipe da empresa HotLine I]desenredou o cabo arrebentado e o removeu da linha de transmissão na manhã de ontem.,
+      	 destrinçar: A primeira carda mecânica – máquina que desembaraça, I]destrinça e limpa fibras – foi criada em 1750 por Paul Lewis.}
+
+A='Glosa3376'
+    	{assanhar, desengrenhar, desgrenhar, emaranhar, embaraçar, enlear, enredar}
+Chave: DESEMARANHAR <verb.contact>
+ILI: 01479126
+
+Sense 2
+{01479126} <verb.contact> ravel1, unravel1, ravel out -- (disentangle; "can you unravel the mystery?"; "unravel the ball or yarn")
+       => {01421943} <verb.contact> disentangle, unsnarl, straighten out1 -- (extricate from entanglement; "Can you disentangle the cord?")
+           => {00268653} <verb.change> order -- (bring order to or into; "Order these files")
+               => {01422386} <verb.contact> arrange, set up -- (put into a proper or systematic order; "arrange the books on the shelves in chronological order")
+                   => {01452069} <verb.contact> put, set, place, pose2, position, lay1 -- (put into a certain place or abstract location; "Put your things here"; "Set the tray down"; "Set the dogs on the scent of the missing children"; "Place emphasis on a certain point")
+                       => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

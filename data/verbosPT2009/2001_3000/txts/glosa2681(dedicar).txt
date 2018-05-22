@@ -1,0 +1,35 @@
+ANÁLISE DA GLOSA2681
+
+DADO O SYNSET:
+
+  S='Glosa2681'
+	    {consagrar: O professor Morejón I]consagra um capítulo inteiro à presença cultural do poeta e dramaturgo no Brasil, abrindo-o com a reprodução de uma escultura de Flávio de Carvalho e ilustrando-o com algumas incontáveis referências da imprensa brasileira, assim como os textos de Carlos Drummond de Andrade (que já em 1937 escrevera sobre a morte de F. G. Lorca), bem como Edgar Cavalheiro, Otto Maria Carpeaux, Cecília Meireles, Raquel de Queiroz, José Lins do Rego, Sérgio Milliet e outros.,
+	      dar: A]Dava muitas horas ao estudo.,
+	      dedicar: Como faz todos os domingos, pensou em [dedicar a manhã do dia de descanso à prática do cooper.,
+	      destinar: Se durante o debate um candidato for citado ofensivamente por outro candidato, o mediador lhe [destinará um minuto para a resposta.,
+	      devotar: Como desde o final do século dezenove, um grande número de intelectuais ocidentais começou a se agarrar às limitações do conhecimento verbal-racional e [devotar suas vidas para demonstrar os diferentes esquemas cognitivos presentes na arte, nos sonhos, no corpo, na fantasia e nas ilusões.,
+	      dicar: x,
+	      prestar: Três lançamentos e um colóquio internacional sobre Gilles Deleuze, morto no ano passado, [prestam tributo a um pensador que criou uma filosofia original, usando novos modos de expressão que realizam torções, colagens e diálogos entre saberes e pensadores que desafiam a tendência pessimista predominante na metafísica desde Platão.,
+	      render: Isso I]rendeu horas de suposições e agora, uma hora depois deles terem ido embora, não consigo parar de pensar no filme.,
+	      sagrar: Ele retorna, para I]sagrar a libertação do homem, para sagrar a vida onde antes só havia morte.,
+	      tributar: Quando eles classificaram plantas, Bernard de Jussieu do Museu de Paris e Charles de Linné I]tributou para o cientista e explorador Michel Adanson, dando ao baobá o nome latino Adansona digitata.,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2681' = “Doar totalmente para uma pessoa, atividade ou causa específicas.”
+	    {consagrar: O professor Morejón I]consagra um capítulo inteiro à presença cultural do poeta e dramaturgo no Brasil.,
+	      dar: A]Dava muitas horas ao estudo.,
+	      dedicar: A Constituição Federal de 1988 I]dedicou um capítulo inteiro ao meio ambiente.,
+	      destinar: Barzan al-Tikriti, um homem que I]dedicou sua vida a serviço de Saddam Hussein.,
+	      devotar: Um grande número de intelectuais começou a se agarrar às limitações do conhecimento verbal-racional e [devotar suas vidas para demonstrar os diferentes esquemas cognitivos presentes na arte.,
+	      prestar: Banda Sinfônica I]prestou homenagem a Edgar Moraes.,
+	      render: a Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP) I]rendeu homenagem a um de seus maiores cientistas: Francisco Landi.,
+	      sagrar: A hora da tarde é bela, quem aí na vida lhe não I]sagrou uma lágrima de saudade?.,
+	      tributar: E I]tributou uma homenagem de respeito à memória dos delegados.,}
+
+Chave: DEDICAR <verb.communication>
+ILI: 00858050
+
+Sense 1
+{00858050} <verb.communication> give3, dedicate, consecrate4, commit1, devote -- (give entirely to a specific person, activity, or cause; "She committed herself to the work of God"; "give one's talents to a good cause"; "consecrate your life to the church")
+       => {01123102} <verb.consumption> use1, utilize, utilise, apply, employ -- (put into service; make work or employ (something) for a particular purpose or for its inherent or natural purpose; "use your head!"; "we only use Spanish at home"; "I can't make use of this tool"; "Apply a magnetic field here"; "This thinking was applied to many projects"; "How do you utilize this tool?"; "I apply this rule to get good results"; "use the plastic bags to store the food"; "He doesn't know how to use a computer") 

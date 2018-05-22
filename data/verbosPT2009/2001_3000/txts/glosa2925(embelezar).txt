@@ -1,0 +1,38 @@
+ANÁLISE DA GLOSA2925
+
+DADO O SYNSET:
+
+S='Glosa2925'
+	    {aformosear: Após dividirem o engenho em sítios, eles resolveram destinar aquele terreno "não só para I]aformosear a mesma igreja, e servir de praça ou feira para o futuro, como para perpetuar a lembrança da segunda vitória que nele alcançaram os brasileiros contra os holandeses.",
+	      aformosentar: x,
+	      alindar: O molhe alongado,  semelhante ao idealizado  para definir os limites do aterro do Flamengo, no Rio de Janeiro, deixaria espaço para  seis pistas, ampla área a ser gramada e ajardinada para I]alindar o privilegiado  boulevard.  ,
+	      embelecer: Dessa forma se constrói Cancun, com os jardins que I]embelecem os acessos à cidade durante a madrugada sem que ninguém os veja, dessa forma os turistas se surpreendem quando o sol sai.  ,
+	      embelezar: Com grandes obras (como o Louvre) , [embeleza ainda mais Paris e estimula iniciativas culturais.,
+	      engrinaldar: Apenas os bancos e as carteiras se tinham polido com o tempo, lustrados pelo uso; as nogueiras do recreio haviam crescido, e a trepadeira, que ele mesmo plantara, I]engrinaldava agora as janelas até o teto. ,
+	      formosear: x,
+	      formosentar: x,}
+
+	  A='Glosa1416'
+	    {afear: Não se cansaram os viajantes de afirmar, como adverte Caminha a dom Manuel, que, para alindar nem I]afear, não poriam no seu relato mais do que aquilo que viram e lhes pareceu.,
+	     afeiar: Que acto indigno I]afeiou teu rosto ameno?,
+	     desaformosear: x,
+	     desformosear: Os desgostos H]desformosearam aquela mulher.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2925' = “Fazer ficar mais bonito(a)”
+	    {aformosear: Diz César Marques que não receou tais embaraços e com a ajuda de particulares calçou ruas, I]aformoseou a praça de Palácio e construiu e reparou vários edifícios,
+	      alindar: Findando sua frutuosa e tribulada existência longe da terra que ele tanto amou, I]alindou e transformou na “Petit Paris”.,
+	      embelecer: Dessa forma se constrói Cancun, com os jardins que I]embelecem os acessos à cidade durante a madrugada sem que ninguém os veja.,
+	      embelezar: Com grandes obras (como o Louvre) , [embeleza ainda mais Paris e estimula iniciativas culturais.,
+	      engrinaldar: Apenas os bancos e as carteiras se tinham polido com o tempo, lustrados pelo uso; as nogueiras do recreio haviam crescido, e a trepadeira, que ele mesmo plantara, I]engrinaldava agora as janelas até o teto.,}
+
+	  A='Glosa1416'
+	    {afear, afeiar, desformosear}
+Chave: EMBELEZAR <verb.change>
+ILI: 00284091
+
+Sense 4
+{00284091} <verb.change> beautify, embellish, prettify -- (make more beautiful)
+       => {00198579} <verb.change> better1, improve1, amend, ameliorate1, meliorate1 -- (to make better; "The editor improved the manuscript with his changes")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

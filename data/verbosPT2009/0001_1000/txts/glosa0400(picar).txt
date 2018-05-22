@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0400
+
+DADO O SYNSET:
+
+S='Glosa400'
+{morder: O médico não é capaz de diagnosticar pelos aspectos clínicos o tipo de cobra que I]mordeu a pessoa.,
+picar: Um escorpião de quatro centímetros [picou o passageiro, a bordo de um avião da Northwest Airlines que fazia a rota entre Manila e Tóquio.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa400' = “dar picada em”
+{morder: O médico não é capaz de diagnosticar pelos aspectos clínicos o tipo de cobra que I]mordeu a pessoa.,
+picar: Um escorpião de quatro centímetros [picou o passageiro, a bordo de um avião da Northwest Airlines que fazia a rota entre Manila e Tóquio.,}
+Chave: PICAR <verb.contact>
+ILI: 01404206
+
+Sense 2
+{01404206} <verb.contact> sting1, bite2, prick3 -- (deliver a sting to; "A bee stung my arm yesterday")
+       => {01399948} <verb.contact> pierce -- (make a hole into; "The needle pierced her flesh")
+           => {01190419} <verb.contact> penetrate, perforate3 -- (pass into or through, often by overcoming resistance; "The bullet penetrated her chest")
+               => {01958650} <verb.motion> enter, come in2, get into, get in1, go into, go in, move into -- (to come or go into; "the boat entered an area of shallow marshes")

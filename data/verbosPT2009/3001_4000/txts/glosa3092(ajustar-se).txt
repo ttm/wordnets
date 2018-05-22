@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA3092
+
+DADO O SYNSET:
+
+S='Glosa3092'
+	    {
+	      ajustar-se: Fazendo seus sujeitos usarem prismas que distorciam o seu mundo, Helmholtz mostrou que os indivíduos conseguiam [ajustar-se ou adaptar-se rapidamente a estas distorções e que logo estavam vendo o mundo novamente de uma maneira essencialmente não distorcida.,
+	      conformar-se: Isso obriga o jornalismo a ser atraente, o que significa ser facilmente compreensível e I]conformar-se a pelo menos alguns dos valores, aspirações e fantasias de um público. ,
+	      identificar-se: A associação ao Instituto Ethos significa que a empresa acredita no papel social e ambiental das empresas, I]identifica-se com nossos valores.,
+	    }
+
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3092' = “adaptar-se ou conformar-se”
+	     {ajustar-se: A formação para o trabalho indigenista I]ajusta-se a um perfil dinâmico, que tem em vista agregar com agilidade novos quadros para as Equipes Locais.,
+	      conformar-se: A divisão tarifária I]conforma-se com a NCM (Classificação Comum do MERCOSUL), baseada no Sistema Harmonizado implantado em 1989. ,
+	      identificar-se: A associação ao Instituto Ethos significa que a empresa acredita no papel social e ambiental das empresas, I]identifica-se com nossos valores.,}
+Chave: AJUSTAR-SE <verb.change>
+ILI: 00144751
+
+Sense 3
+{00144751} <verb.change> adjust1, conform1, adapt2 -- (adapt or conform oneself to new or different conditions; "We must adjust to the bad economic situation")
+       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

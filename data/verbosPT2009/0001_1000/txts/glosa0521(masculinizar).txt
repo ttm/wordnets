@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA0521
+
+DADO O SYNSET:
+
+S='Glosa521'
+{amachonar: x,
+amachorrar: x,
+masculinizar: Queremos acabar com o preconceito de que o futebol [masculiniza as mulheres., }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa521' = “atribuir gênero masculino a; dar características maculinas”
+{masculinizar: Queremos acabar com o preconceito de que o futebol [masculiniza as mulheres.,}
+Chave: MASCULINIZAR <verb.change>
+ILI: 00551058
+
+Sense 2
+{00551058} <verb.change> masculinize, masculinise, virilize, virilise -- (produce virilism in or cause to assume masculine characteristics, as through a hormonal imbalance or hormone therapy; "the drugs masculinized the teenage girl")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

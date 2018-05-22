@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA2146
+
+DADO O SYNSET:
+
+S='Glosa2146'
+	    {acender-se: I]Acendeu-se em nós uma chama de vivo amor.,
+	      afumegar: x,
+	      atear-se: Certa vez, numa festa, conheceu uma bonita rapariga, rica proprietária de uma aldeia próxima, e sentiu I]atear-se o fogo da paixão.,
+	      esfumear: x,
+	      fumegar: Com certeza dentro daquele ser humano ainda I]fumegava a chama da esperança de ter dias melhores ainda nessa terra. # O ódio H]fumegava-lhe na alma.,
+	      inflamar-se: Por parte de Baltasar Coutinho a paixão I]inflamou-se tão depressa, quanto o coração de Teresa congelou de terror e repugnância. ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2146' = “despertar certo  tipo de sentimento ou emoção”
+	    {acender-se: I]Acendeu-se em nós uma chama de vivo amor.,
+	      atear-se: Certa vez, numa festa, conheceu uma bonita rapariga, rica proprietária de uma aldeia próxima, e sentiu I]atear-se o fogo da paixão.,
+	      fumegar: Com certeza dentro daquele ser humano ainda I]fumegava a chama da esperança de ter dias melhores ainda nessa terra. # O ódio H]fumegava-lhe na alma.,
+	      inflamar-se: Por parte de Baltasar Coutinho a paixão I]inflamou-se tão depressa, quanto o coração de Teresa congelou de terror e repugnância. ,}
+
+Chave: ACENDER-SE <verb.emotion>
+ILI: 01708538
+
+Sense 1
+{01708538} <verb.emotion> arouse, elicit, enkindle, kindle, evoke, fire, raise8, provoke -- (call forth (emotions, feelings, and responses); "arouse pity"; "raise a smile"; "evoke sympathy")
+       => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA1774
+
+DADO O SYNSET:
+
+S='Glosa1774'
+	{convalescer: Assim, [convalesceu longamente, demoradamente, melancolicamente, sem uma visita, sem ver uma face amiga.,
+	 desenfermar: Chorou de alegria, ao saber que a filha H]desenfermara. ,}
+	  
+A='Glosa1845'
+	{acamar, adoecer, enfermar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1774' = “devolver [a alguém] a saúde ou energia”
+	{convalescer: Esta tua mania me I]convalesce do vazio.,}
+	  
+A='Glosa1845'
+	{acamar, adoecer, enfermar}
+Chave: CONVALESCER <verb.body>
+ILI: 00090386
+
+Sense 3
+{00090386} <verb.body> recuperate1 -- (restore to good health or strength)
+       => {00079397} <verb.body> bring around1, cure, heal1 -- (provide a cure for, make healthy again; "The treatment cured the boy's acne"; "The quack pretended to heal patients but never managed to")
+           => {00079717} <verb.body> help, aid -- (improve the condition of; "These pills will help the patient")
+               => {00198579} <verb.change> better1, improve1, amend, ameliorate1, meliorate1 -- (to make better; "The editor improved the manuscript with his changes")
+                   => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

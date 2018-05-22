@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0371
+
+DADO O SYNSET:
+
+S='Glosa371'
+{abonar-se: DEVIANT,
+adinheirar-se: x,
+endinheirar-se: Não sei advogar nem engenheirar; I]endinheirar-se é para os estressados.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa371' = “tornar (-se) rico ou mais rico”
+{endinheirar-se: Não sei advogar nem engenheirar; I]endinheirar-se é para os estressados.,}
+Chave: ENDINHEIRAR-SE
+ILI: 02251495
+
+Sense 2
+{02251495} <verb.possession> enrich -- (make wealthy or richer; "the oil boom enriched a lot of local people")
+       => {00176022} <verb.change> add -- (make an addition (to); join or combine or unite with others; increase the quality, quantity, zise or scope of; "We added two students to that dorm room"; "She added a personal note to her letter"; "Add insult to injury"; "Add some extra plates to the dinner table")
+           => {00150804} <verb.change> increase -- (become bigger or greater in amount; "The amount of work increased")
+               => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

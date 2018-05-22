@@ -1,0 +1,62 @@
+ANÁLISE DA GLOSA3952
+
+DADO O SYNSET:
+
+S='Glosa3952'
+    	{abarcar: Nossos serviços I]abarcam todas as questões fundamentais de recursos humanos e foram desenvolvidos para ajudar a conseguir o máximo do valor de sua equipe.,
+      	 abraçar: Paralelamente, os países da região deverão [abraçar processos de modernização e de reforço da sua competitividade .,
+      	 arrodear: Os índios, uns oitenta ou mais, tagarelas, estorvantes, I]arrodeavam os marinheiros em seus afazeres.,
+      	 assediar: H]Assediou a fábrica até a rendição.,
+      	 aureolar: Seu rosto suado se I]aureolou de ligeiro sorriso.,
+      	 cercar: Antes de entrar, resolvi sentar em uma muretinha que I]cercava a grama da frente de casa.,
+      	 cingir: I]Cingiram-lhe a cabeça carregada de flores e ornada dos chifres de touro.,
+      	 circuitar: uma cerca viva A]circuitava a casa.,
+      	 circular: O telescópio espacial Hubble já I]circulou em volta da Terra.,
+      	 circundar: A construção é composta de pilares que I]circundam uma enorme rocha localizada no centro.,
+      	 coroar: Recolhia metade dos louros para I]coroar a fronte da sua Dama e saudava.,
+      	 encintar: x,
+      	 enlaçar: O alfaiate I]enlaçou com sua fita métrica mais de 35 senhores.,
+      	 enrolar: Arranjou um anel de ferro, em torno do qual I]enrolou uma bobina de fio condutor.,
+      	 envolver: Ele a I]envolvia num abraço, sussurrando explicações.,
+      	 orlar: A gente passava olhando para o soberbos pinheiros que I]orlavam o aramado da frente.,
+      	 precintar: Um cinturão contínuo e dominando 10 a 20 quilômetros de largura I]precintava o Conjunto desde as suas bases.,
+      	 rodear: Percebe-se que a grande massa de gente está ali mais ou menos como o Padrão dos Descobrimentos: para proporcionar à SIC o seu «show» de ilusão, a ideia de que uma multidão entusiástica [rodeia o palco, o que serve às mil-maravilhas os primeiros planos das câmaras .,
+      	 tornear: A deposição de tecido adiposo I]torneia-lhe as coxas.,
+      	 toucar: M]Toucaram-lhe a fronte com uma coroa de louros.,}
+
+A='Glosa1217'
+    	{descercar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3952' = “circundar completamente”
+    	{abarcar: A mão direita [abarcou o penacho e a cabeleira de Canicrã, a esquerda entrou pela boca do tapuia e travou-lhe o queixo.,
+      	 abraçar: Viviane [abraçou o capacete, apertou-o contra o peito e encostou a cabeça nele.,
+      	 arrodear: Os índios, uns oitenta ou mais, tagarelas, estorvantes, I]arrodeavam os marinheiros em seus afazeres.,
+      	 assediar: As tropas do exército B]assediaram aldeias, vilas e cidades.,
+      	 aureolar: Uma luz brilhante I]aureolava o cume do Alverne.,
+      	 cercar: Seis homens fortemente armados [cercaram seu carro.,
+      	 cingir: Um círculo de ferro me [cingia.,
+      	 circuitar: Grupos erradios I]circuitavam a vivenda esquadrinhando, curiosos, a horta maltratada.,
+      	 circular: O reclamante I]circulava o quarteirão.,
+      	 circundar: A construção é composta de pilares que I]circundam uma enorme rocha localizada no centro.,
+      	 coroar: Um ligeiro penacho de fumo alvadio [coroava o tubo da chaminé, anunciando que os trabalhos caseiros haviam começado.,
+      	 enlaçar: O alfaiate I]enlaçou com sua fita métrica mais de 35 senhores.,
+      	 enrolar: Arranjou um anel de ferro, em torno do qual I]enrolou uma bobina de fio condutor.,
+      	 envolver: Ele a I]envolvia num abraço, sussurrando explicações.,
+      	 orlar: A gente passava olhando para o soberbos pinheiros que I]orlavam o aramado da frente.,
+      	 precintar: Um cinturão contínuo e dominando 10 a 20 quilômetros de largura I]precintava o Conjunto desde as suas bases.,
+      	 rodear: Uma multidão entusiástica [rodeia o palco.,
+      	 tornear: A deposição de tecido adiposo I]torneia-lhe as coxas.,
+      	 toucar: B]Toucaram sua fronte com uma coroa de espinhos.}
+
+A='Glosa1217'
+    	{descercar}
+
+Chave: CERCAR <verb.contact>
+ILI: 01543739
+
+Sense 3
+{01543739} <verb.contact> enclose, inclose, shut in -- (surround completely; "Darkness enclosed him")
+       => {01425761} <verb.contact> surround, skirt, border1 -- (extend on all sides of simultaneously; encircle; "The forest surrounds my property")
+           => {01169130} <verb.contact> touch1, adjoin3, meet, contact3 -- (be in direct physical contact with; make contact; "The two buildings touch"; "Their hands touched"; "The wire must not contact the metal cover"; "The surfaces contact at this point")

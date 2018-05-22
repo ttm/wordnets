@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0574
+
+DADO O SYNSET:
+
+S='Glosa574'
+{desgovernar: O acidente ocorreu após o caminhão [desgovernar numa reta da estrada.,}
+A='Glosa1592'
+{capitanear, comandar, conduzir, dirigir, governar, guiar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa574' = “governar negativamente”
+{desgovernar: Embora não haja dúvida de que seu corpo era mortal, temo que seu espírito possa permanecer vivo indefinidamente no Chile que I]ele desgovernou de 1973 a 1990.,}
+A='Glosa1592'
+{capitanear, comandar, conduzir, dirigir, governar, guiar}
+Chave: DESGOVERNAR <verb.social>
+ILI: 02509973
+
+Sense 1
+{02509973} <verb.social> misgovern -- (govern badly)
+       => {02509613} <verb.social> govern, rule -- (exercise authority over; as of nations; "Who is governing the country now?")
+           => {02367626} <verb.social> control, command -- (exercise authoritative control or power over; "control the budget"; "Command the military forces")

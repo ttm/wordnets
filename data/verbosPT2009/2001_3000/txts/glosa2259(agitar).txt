@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA2259
+
+DADO O SYNSET:
+
+S='Glosa2259'
+	    {agitar: A questão dos pronomes pessoais [agitou os grandes vernaculistas da época .,
+	      desassossegar: Seus versos vão I]desassossegar a Igreja, o Rei, os poderosos e assanhar o povo.,
+	      dessossegar: x,
+	      remexer: Mais verbas para a pesquisa contra a Aids, uma política industrial mais rigorosa seriam um passo por certo de [remexer o tempo todo com a consciência do cidadão.,
+	      revolver: Para que hás de I]revolver a minha alma e o meu passado?,
+	      turbar: Os maus espíritos da noite [turbaram o espírito de Iracema. ,
+	      turvar: O Brasil passa por uma crise sócio-econômica que parece [turvar as nossas expectativas.,
+	      turvejar: x,
+	      volver: A eloqüente prédica M]volveu a alma dos ouvintes.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2259' = “perturbar ou inquietar, causar preocupação”
+	    {agitar: A questão dos pronomes pessoais [agitou os grandes vernaculistas da época .,
+	      desassossegar: Seus versos vão I]desassossegar a Igreja.,
+	      remexer: Mais verbas para a pesquisa contra a Aids, uma política industrial mais rigorosa seriam um passo por certo de [remexer a consciência do cidadão.,
+	      revolver: Para que hás de I]revolver a minha alma?,
+	      turbar: Os maus espíritos da noite [turbaram o espírito de Iracema. ,
+	      turvar: O Brasil passa por uma crise sócio-econômica que parece [turvar as nossas expectativas.,
+	      volver: A eloqüente prédica M]volveu a alma dos ouvintes.,}
+
+Chave: AGITAR <verb.emotion>
+ILI: 01713293
+
+Sense 3
+{01713293} <verb.emotion> perturb, unhinge, disquiet, trouble, cark, distract2, disorder -- (disturb in mind or make uneasy or cause to be worried or alarmed; "She was rather perturbed by the news that her father was seriously ill")
+       => {01719446} <verb.emotion> disturb, upset, trouble1 -- (move deeply; "This book upset me"; "A troubling thought")
+           => {01716999} <verb.emotion> affect, impress1, move, strike -- (have an emotional or cognitive impact upon; "This child impressed me as unusually mature"; "This behavior struck me as odd")

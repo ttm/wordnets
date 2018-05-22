@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA1565
+
+DADO O SYNSET:
+
+S='Glosa1565'
+{debandar: Os soldados [debandaram e o Tenente Fontes seguiu para a velha casa imperial, ao encontro do major.,
+ destroçar: O inverno H]destroçou o exército napoleônico.,
+ dispersar: Um deles disparou tiros de metralhadora para o alto para [dispersar a multidão que cercava o carro. ,
+ divergir: x,
+ estroçar: x,}
+	  
+A='Glosa1739'
+	    {concentrar, convergir}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1565' = “deslocar de modo a espalhar”
+{debandar: Ela foi e voltou. Mas não conseguiu I]debandar os fãs do tradicional bloco carnavalesco da cidade.,
+ dispersar: Um deles disparou tiros de metralhadora para o alto para [dispersar a multidão que cercava o carro. ,}
+	  
+A='Glosa1739'
+	    {concentrar, convergir}
+Chave: DISPERSAR <verb.motion>
+ILI: 01974373
+
+Sense 1
+{01974373} <verb.motion> diverge -- (move or draw apart; "The two paths diverge here")
+       => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right")

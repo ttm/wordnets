@@ -1,0 +1,46 @@
+ANÁLISE DA GLOSA1404
+
+DADO O SYNSET:
+
+S='Glosa1404'
+{alterar-se: Trata-se de uma conjuntura que pode [alterar-se em algumas circunstâncias.,
+ anarquizar-se: A Polícia Metropolitana [anarquizou-se, foi mal dirigida, às vezes ameaçada, e temos chegado a liberar os dignos policiais,
+ atumultar-se: x,
+	 atumultuar-se: x,
+	 debandar-se: x,
+	 desacomodar-se: Percebe que para superá-la precisa reestruturar-se, I]desacomodar-se e resistir a esse esforço renovador,
+ desajeitar-se: DEVIANT,
+	 desarranjar-se: É preciso explicar por que o capitalismo de compadrio funcionou tão bem e por tanto tempo, e por que I]desarranjou-se tão abruptamente por si só.,
+	 desarrumar-se: Eu sinto que o mundo anda meio caótico demais,é a velha lei da entropia, todos os átomos tendem a I]desarrumar-se, ou melhor, o caos é algo natural,
+ descompor-se: Por que a Argentina pareceu [se descompor depois do doping de Maradona?,
+ desestruturar-se: Graças à indexação, a economia não [se desestruturou, e continuou mostrando taxas de crescimento razoáveis, ainda que altamente instáveis.,
+ desordenar-se: O relato de velhos moradores da área, a história da gente simples que viu o Subúrbio expandir-se e I]desordenar-se, em detrimento de suas belezas naturais,
+ desorganizar-se: A enzima é, assim, levada a um estado de desnaturação, [desorganizando-se de tal modo que perde as suas propriedades biológicas e se torna inativa,
+ perturbar-se: O mercado é excessivamente sensível, instável; I]perturba-se ao menor dos abalos.,
+ tumultuar-se: Mais uma vez, I]tumultua-se o mercado financeiro, especificamente os fundos de investimento, diante de uma decisão do BC.,}
+	  
+A='Glosa1405'
+	    {acomodar-se, ajeitar-se, arranjar-se, arrumar-se, dispor-se, estruturar-se, ordenar-se, organizar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1404' = “perder a organização” 
+{alterar-se: Trata-se de uma conjuntura que pode [alterar-se em algumas circunstâncias.,
+ anarquizar-se: A Polícia Metropolitana [anarquizou-se, foi mal dirigida, às vezes ameaçada, e temos chegado a liberar os dignos policiais.,
+ desacomodar-se: Trata-se de uma luta pela hegemonia, sendo o seu eixo estruturante a rede de influências passíveis de serem construídas no processo, influências estas que se I]desacomodam e reestruturam-se frente às possíveis alterações advindas da troca do dirigente escolar.,
+ desarranjar-se: É preciso explicar por que o capitalismo de compadrio funcionou tão bem e por tanto tempo, e por que I]desarranjou-se tão abruptamente por si só.,
+	 desarrumar-se: Eu sinto que o mundo anda meio caótico demais,é a velha lei da entropia, todos os átomos tendem a I]desarrumar-se, ou melhor, o caos é algo natural.,
+ descompor-se: Por que a Argentina pareceu se [descompor depois do doping de Maradona?,
+ desestruturar-se: Graças à indexação, a economia não se [desestruturou, e continuou mostrando taxas de crescimento razoáveis, ainda que altamente instáveis.,
+ desordenar-se: O relato de velhos moradores da área, a história da gente simples que viu o Subúrbio expandir-se e I]desordenar-se, em detrimento de suas belezas naturais.,
+ desorganizar-se: A enzima é, assim, levada a um estado de desnaturação, [desorganizando-se de tal modo que perde as suas propriedades biológicas e se torna inativa,
+ perturbar-se: O mercado é excessivamente sensível, instável; I]perturba-se ao menor dos abalos.,
+ tumultuar-se: Mais uma vez, I]tumultua-se o mercado financeiro, especificamente os fundos de investimento, diante de uma decisão do BC.,}
+	  
+A='Glosa1405'
+	    {acomodar-se, ajeitar-se, arranjar-se, arrumar-se, dispor-se, estruturar-se, ordenar-se, organizar-se}
+Chave: DESORGANIZAR-SE <verb.social>
+ILI: 02362809
+
+Sense 1
+{02362809} <verb.social> disorganize, disorganise -- (remove the organization from)

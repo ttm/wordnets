@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA3648
+
+DADO O SYNSET:
+
+S='Glosa3648'
+	    {
+	      desfilar: As celebridades do cinema americano [desfilavam em Los Angeles na festa do Oscar. / As famílias dominantes [desfilavam em carros abertos e freqüentavam bailes de máscara, enquanto as camadas pobres realizavam o entrudo. ,
+	      exibir-se: Como diz o ditado, o que é bonito é para [se exibir./ Se me visto com um traje italiano, não é para [me exibir.,
+	      expor-se: A eliminação da Colômbia mostrou que você precisa saber dosar também para não [se expor demais só porque o seu time é mais técnico . ,
+	      mostrar-se: Era o tempo de [se mostrar, mostrar quanto dinheiro se tinha para voltarmos a um período de publicidade./ As pessoas do signo de Leão gostam de I]se mostrar.,
+	      ostentar-se: No centro da imensa teia que se estendia em admirável rede de mil fios entrelaçados por baixo de todo o telhado, o diabo da aranha [se ostentava soberana. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3648' = “mostrar-se, fazer-se visível ou aparente”
+	     {desfilar: As celebridades do cinema americano [desfilavam em Los Angeles na festa do Oscar. / As famílias dominantes [desfilavam em carros abertos e freqüentavam bailes de máscara, enquanto as camadas pobres realizavam o entrudo. ,
+	      exibir-se: Lutava, [exibia-se, e eu o aplaudia da melhor maneira possível./ Em contrapartida à imagem barbuda de seu oponente Lula, Collor I]exibia-se como um verdadeiro exemplar de homem lindo da modernidade.,
+	      expor-se: Enquanto isso, o presidente I]expunha-se sozinho à janela. ,
+	      mostrar-se: Mas, solteiro que era, queria se I]mostrar para as mocinhas e para as mulheres mais maduras da vila./ As pessoas do signo de Leão gostam de I]se mostrar.,
+	      ostentar-se: No centro da imensa teia que se estendia em admirável rede de mil fios entrelaçados por baixo de todo o telhado, o diabo da aranha [se ostentava soberana. ,}
+Chave: EXIBIR-SE <verb.perception>
+ILI: 02078062
+
+Sense 2
+{02078062} <verb.perception> expose, exhibit1, display -- (to show, make visible or apparent; "The Metropolitan Museum is exhibiting Goya's works this month"; "Why don't you show your nice legs and wear shorter skirts?"; "National leaders will have to display the highest skills of statesmanship")
+       => {02075197} <verb.perception> show -- (make visible or noticeable; "She showed her talent for cooking"; "Show me your etchings, please")

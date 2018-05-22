@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA2941
+
+DADO O SYNSET:
+
+S='Glosa2941'
+	    {forjar: Após sua chegada a Mordor, Sauron, secretamente, I]forjou o Um Anel, nas chamas de Orodruin. ,
+	      fraguar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2941' = “Aquecer e trabalhar na forja”
+	    {forjar: Após sua chegada a Mordor, Sauron, secretamente, I]forjou o Um Anel, nas chamas de Orodruin.,}
+Chave: FORJAR <verb.creation>
+ILI: 01627198
+
+Sense 1
+{01627198} <verb.creation> forge, hammer -- (create by hammering; "hammer the silver into a bowl"; "forge a pair of tongues")
+       => {01578873} <verb.creation> beat -- (shape by beating; "beat swords into ploughshares")
+           => {01612040} <verb.creation> shape, form, work12, mold1, mould1, forge3 -- (make something, usually for a specific function; "She molded the riceballs carefully"; "Form cylinders from the dough"; "shape a figure"; "Work the metal into a sword")
+               => {01606076} <verb.creation> create from raw material, create from raw stuff -- (make from scratch)
+                   => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor") 

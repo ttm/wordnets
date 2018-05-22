@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA2240
+
+DADO O SYNSET:
+
+S='Glosa2240'
+	    {manter-se: A causa não sendo eliminada, os efeitos se H]mantêm.,
+	      subsistir: Um regulamento que ainda H]subsiste.,
+	      valer: A lei I]vale também para turistas.,
+	      viger: A moral que H]vige neste país.,
+	      vigorar: A lei I]vigora desde 1965.,}
+
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2240' = “ser válido, aplicável, ou verdadeiro”
+	    {manter-se: A causa não sendo eliminada, os efeitos se H]mantêm.,
+	      subsistir: Um regulamento que ainda H]subsiste.,
+	      valer: A lei I]vale também para turistas.,
+	      viger: A moral que H]vige neste país.,
+	      vigorar: A lei I]vigora desde 1965.,}
+
+Chave: VIGORAR <verb.stative>
+ILI: 02569892
+
+{02569892} <verb.stative> prevail1, hold2, obtain -- (be valid, applicable, or true; "This theory still holds")
+       => {02526084} <verb.stative> exist, be -- (have an existence, be extant; "Is there a God?")

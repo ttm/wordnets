@@ -1,0 +1,39 @@
+ANÁLISE DA GLOSA2907
+
+DADO O SYNSET:
+
+S='Glosa2907'
+	    {dividir: Na pesquisa, Freitas I]dividiu o crânio em quatro quadrantes com dois planos imaginários e analisou o ponto de entrada ea trajetória da bala.,
+	      escachar: Se aos primeiros botes eu não calcar-lhe o peito debaixo de meu joelho, e não I]escachar-lhe o crânio com um golpe deste tacape, possam os meus olhos nunca mais se encontrar com os da formosa e incomparável Guaraciaba. ,
+	      esfachear: x,
+	      falhar: x,
+	      fender: Deus das forjas, do fogo e de todos os materiais fusíveis, Hefestos, ou Vulcano, I]fendeu o crânio de seu pai com um forte golpe de machado.,
+	      fissurar: Uma vez que mesmo havendo calcificação deste osteocondroma, com a prática do futebol e natação poderia novamente I]fissurar causando dor.,
+	      gretar: Apesar da pele ter sido tratada convenientemente, é necessário mantê-la hidratada para que não comece a secar e, posteriormente, partir ou I]gretar.,
+	      lascar: O esmalte do dente também é muito friável e propenso a sofrer fraturas e I]lascar. # Fui ao dentista pois consegui I]lascar o dente comendo uma maçã.,
+	      partir: Um dos golpes, supostamente dados por Cruz, I]partiu o crânio de Santos.,
+	      rachar: Não é só uma questão de estética: desidratada, a pele pode I]rachar, ferir, coçar e até descamar constantemente.,
+	      rascar: x,
+	      render: DEVIANT,
+	      trincar: O piloto que em 91 se acidentara seriamente em Silverstone, correndo na Fórmula 3 (ele chegou a [trincar uma vértebra) , não teve sequer a oportunidade de guardar lembranças do incêndio.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2907' = “Tornar separado em pedaços ou fragmentos”
+	    {dividir: Na pesquisa, Freitas I]dividiu o crânio em quatro quadrantes com dois planos imaginários e analisou o ponto de entrada e a trajetória da bala.,
+	      escachar: Desgarrava o golpe, com que lhe I]escachava a cabeça, em meio das algazarras, uivos e aplausos de toda comitiva.,
+	      fender: Deus das forjas, do fogo e de todos os materiais fusíveis, Hefestos, ou Vulcano, I]fendeu o crânio de seu pai com um forte golpe de machado.,
+	      fissurar: Aumentou as infiltrações, por fim, I]fissurou o concreto projetado do túne.,
+	      gretar: Apesar da pele ter sido tratada convenientemente, é necessário mantê-la hidratada para que não comece a secar e, posteriormente, partir ou I]gretar.,
+	      partir: Um dos golpes, supostamente dados por Cruz, I]partiu o crânio de Santos.,
+	      rachar: Até que o Sushi caiu e I]rachou o côco.,
+	      trincar: Fez tanta bagunça que foi parar no hospital e teve que imobilizar o bracinho, pois I]trincou o cotovelo no pula-pula caindo de mau jeito.,}
+
+Chave: RACHAR <verb.change>
+ILI: 00323679
+
+Sense 2
+{00323679} <verb.change> break, separate3, split up, fall apart3, come apart -- (become separated into pieces or fragments; "The figurine broke"; "The freshly baked loaf fell apart")
+       => {00135037} <verb.change> change integrity -- (change in physical make-up)
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")
+          Also See-> {00201816} <verb.change> break up2#18 

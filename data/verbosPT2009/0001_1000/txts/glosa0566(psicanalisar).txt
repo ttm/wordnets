@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0566
+
+DADO O SYNSET:
+
+S='Glosa566'
+{analisar2: Em 1903 Freud I]analisa uma criança de 5 anos; é a primeira psicanálise feita em crianças.,
+psicanalisar: A única falha do livro é que, no final, Capote I]psicanalisa Perry e Dick.,}
+
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa566' = “sujeitar a um tratamento psicoanalítico”
+{analisar2: Em 1903 Freud I]analisa uma criança de 5 anos; é a primeira psicanálise feita em crianças.,
+psicanalisar: A única falha do livro é que, no final, Capote I]psicanalisa Perry e Dick.,}
+Chave: PSICANALIZAR <verb.cognition>
+ILI: 00622634
+
+Sense 4
+{00622634} <verb.cognition> analyze3, analyse2, psychoanalyze, psychoanalyse -- (subject to psychoanalytic treatment; "I was analyzed in Vienna by a famous psychiatrist")
+       => {00076458} <verb.body> treat, care for -- (provide treatment for; "The doctor treated my broken leg"; "The nurses cared for the bomb victims"; "The patient must be treated right away or she will die"; "Treat the infection with antibiotics")

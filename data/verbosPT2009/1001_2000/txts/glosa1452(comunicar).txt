@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA1452
+
+DADO O SYNSET:
+
+S='Glosa1452'
+{comunicar: Um breve corredor H]comunica as duas saletas,
+ liar: x,
+ ligar: Uma porta I]liga o quarto a garagem,
+ unir: Construiu um corredor para H]unir os quartos,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1452' = “estabelecer comunicação [entre]”
+{comunicar: Vagina - é um canal que [comunica o útero com o exterior.,
+ ligar: Uma porta I]liga o quarto a garagem.,
+ unir: Ela caiu sobre uma escada que [une o saguão do térreo ao subsolo e foi levada ao pronto-socorro.,}
+Chave: COMUNICAR <verb.contact>
+ILI: 01315609
+
+Sense 4
+{01315609} <verb.contact> communicate -- (join or connect; "The rooms communicated")
+       => {02544633} <verb.stative> intercommunicate -- (be interconnected, afford passage; "These rooms intercommunicate")
+           => {02544790} <verb.stative> complect, interconnect, interlink -- (be interwoven or interconnected; "The bones are interconnected via the muscle")
+               => {02544266} <verb.stative> connect2, link1, link up, join1, unite2 -- (be or become joined or united or linked; "The two streets connect to become a highway"; "Our paths joined"; "The travelers linked up again at the airport")

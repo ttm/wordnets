@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA1342
+
+DADO O SYNSET:
+
+S='Glosa1342'
+{desengomar: Como é que eles iam I]desengomar as camisas?,}
+	  
+A='Glosa1341'
+{engomar, gomar1}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1342' = “tirar a goma [a]”
+{desengomar: Como é que eles iam I]desengomar as camisas?,}
+A='Glosa1341'
+{engomar, gomar1}
+Chave: DESENGOMAR <verb.change>
+ILI: EQ_HAS_HYPERONYM – 00407260
+
+Sense 1
+{00407260} <verb.change> loosen1, loose2 -- (make loose or looser; "loosen the tension on a rope")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

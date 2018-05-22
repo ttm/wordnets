@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA2260
+
+DADO O SYNSET:
+
+	  S='Glosa2260'
+	    {enterrar: Cavaram um buraco e [enterraram as vítimas.,
+	      inumar: Ressalte-se que a finalidade objetiva do funeral é I]inumar o cadáver humano.,
+	      sepultar: O corpo de Magalhães foi levado para a capela 2 do Cemitério São João Batista, onde será [sepultado às 15 horas de hoje.,
+	      tumular: A comunidade que I]tumulou os seus mortos na sepultura do Sobreiro dependeria economicamente dos recursos proporcionados por aqueles dois ecossistemas. , }
+
+A ANÁLISE RESULTA EM:
+
+	  S='Glosa2260' = “colocar e soterrar em túmulo ou sepultura”
+	    {enterrar: O Exército trocou os corpos de dois soldados mortos e [enterrou um homem errado.,
+	      inumar: Ressalte-se que a finalidade objetiva do funeral é I]inumar o cadáver humano.,
+	      sepultar: Uma mulher enterrava o marido ao lado de duas crianças que [sepultavam a mãe.,
+	      tumular: A comunidade I]tumulou os seus mortos na sepultura do Sobreiro. ,}
+Chave: ENTERRAR <verb.social>
+ILI: 02382555
+
+Sense 2
+{02382555} <verb.social> bury, entomb, inhume, inter, lay to rest -- (place in a grave or tomb; "Stalin was buried behind the Kremlin wall on Red Square"; "The pharaos were entombed in the pyramids"; "My grandfather was laid to rest last Sunday")
+       => {01501920} <verb.contact> lay, put down, repose1 -- (put in a horizontal position; "lay the books on the table"; "lay the patient carefully onto the bed")
+           => {01452069} <verb.contact> put, set, place, pose2, position, lay1 -- (put into a certain place or abstract location; "Put your things here"; "Set the tray down"; "Set the dogs on the scent of the missing children"; "Place emphasis on a certain point")
+               => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

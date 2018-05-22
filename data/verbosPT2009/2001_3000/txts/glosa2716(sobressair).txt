@@ -1,0 +1,44 @@
+ANÁLISE DA GLOSA2716
+
+DADO O SYNSET:
+
+  S='Glosa2716'
+	    {avultar: Os guerreiros pitiguaras, para não espantarem o inimigo, se ocultam entre os cajueiros; e vão seguindo pela praia a grande igara: durante o dia [avultam as brancas velas; de noite os fogos atravessam a negrura do mar, como vaga-lumes perdidos na mata.,
+	      campear: Na década de 90, observamos o individualismo I]campear em nossa sociedade, onde a tecnologia nos fez cada vez mais desiguais e isolados e estabeleceu níveis de conforto e divisão social nunca antes vistos.,
+	      delinear-se: Netrópolis (net = rede) é o neologismo lançado pela revista inglesa «New Scientist», para definir a comunidade global que começa a [se delinear em torno das redes de comunicação via computador.,
+	      desenhar: Um momento mágico, quando o sol cai, a luz reflete nas águas e, no horizonte, I]desenha a Cordilheira do Atlas.,
+	      esplandecer: x,
+	      esplendecer: x,
+	      esplender: Funda raízes quentes têm as árvores para I]esplender seu fruto em altos ramos.,
+	      esplendorar: x,
+	      reinar: Não muito distante dali, na Ilha Grande, temos outra serra com montanhas de grande beleza, dentre as quais I]reina o Pico do Papagaio, com seu curioso formato. ,
+	      resplandecer: À distância, os limites esvanecem e as miragens [resplandecem.,
+	      resplendecer: I]Resplendecia o sol já no horizonte. ,
+	      resplender: Quanto as pregações, logo I]resplendeu o carisma  da palavra do jovem sacerdote, com sermões bem preparados, tanto lingüística quanto doutrinariamente, o que lhe valeu o convite para a Academia de Letras de São Paulo. ,
+	      ressair: Vestia uma espécie de túnica roxa, que apertava na cintura com um largo cinto de couro preto, e que fazia I]ressair a alvura da cara e das mãos longas, descarnadas, mas não ossudas como usam de ser mãos de velhas.,
+	      ressaltar: Os primeiros raios do sol banham as ilhas de cores alaranjadas e douradas,I] ressaltando a beleza da paisagem.,
+	      sobressair: Um anel de cabelos negros brincava-lhe sobre o ombro, fazendo [sobressair a alvura diáfana de seu colo gracioso.,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2716' = “Ser altamente notável.”
+	    {avultar: Sua figura I]avultou no Império e na República com o incontestável relevo de um vulto prestigioso de competência e patriotismo.,
+	      campear: Bravo Guerreiro que I]campeou nos campos de Roraima.,
+	      delinear-se: Sua fama de arruaceiro I]delineou-se rapidamente.,
+	      desenhar: Um momento mágico, quando o sol cai, a luz reflete nas águas e, no horizonte, I]desenha a Cordilheira do Atlas.,
+	      esplender: Petrópolis I]esplendeu nesse momento de sua história como Capital do Estado.,
+	      reinar: Durante as noites festivas, a beleza I]reinou na passarela do samba. ,
+	      resplandecer: A beleza do Rei I]resplandeceu diante de nossos olhos, nossos corações.,
+	      resplendecer: I]Resplendecia o sol já no horizonte. ,
+	      resplender: RI]esplendeu seus perfumes de jasmim. ,
+	      ressair: Sem dúvida nenhuma, de todos os procedimentos da Inquisição, os que mais I]ressaiam e mais fundo calavam nos setores populares eram as suas solenidades.,
+	      ressaltar: O cabelo preso para o alto I]ressaltou o rosto afilado.,
+	      sobressair: Davi I]sobressaiu entre seus irmãos.,}
+
+Chave: SOBRESSAIR <verb.stative>
+ILI: 02593861
+
+Sense 1
+{02593861} <verb.stative> leap out, jump out, jump, stand out2, stick out2 -- (be highly noticeable)
+       => {02071636} <verb.perception> look1, appear, seem -- (give a certain impression or have a certain outward aspect; "She seems to be sleeping"; "This appears to be a very difficult problem"; "This project looks fishy"; "They appeared like people who had not eaten or slept for a long time")
+           => {02526983} <verb.stative> be3 -- (have the quality of being; (copula, used with an adjective or a predicate noun); "John is rich"; "This is not a good answer") 

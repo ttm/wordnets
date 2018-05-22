@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA1047
+
+DADO O SYNSET:
+
+S='Glosa1047'
+{decepcionar: Também não [decepcionou os fãs que foram até o Rio Palace, hotel na Avenida Atlântica onde está hospedado.,
+ desapontar: A situação era constrangedora, mas Zé Gomes optou por não [desapontar a eleitora,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1047' = “não satisfazer as esperanças ou expectativas” 
+{decepcionar: Também não [decepcionou os fãs que foram até o Rio Palace, hotel na Avenida Atlântica onde está hospedado.,
+ desapontar: Sua participação no debate na TV foi um fiasco que [desapontou até os fiéis escudeiros.,}
+Chave: DECEPCIONAR <verb.emotion>
+ILI: 01746656 
+
+Sense 1
+{01746656} <verb.emotion> disappoint, let down -- (fail to meet the hopes or expectations of; "Her boyfriend let her down when he did not propose marriage")
+       => {02482511} <verb.social> thwart, queer, spoil, scotch, foil, cross, frustrate, baffle, bilk1 -- (hinder or prevent (the efforts, plans, or desires) of; "What ultimately frustrated every challenger was Ruth's amazing September surge"; "foil your opponent")
+           => {02379144} <verb.social> prevent1, forestall1, foreclose, preclude, forbid3 -- (keep from happening or arising; have the effect of preventing; "My sense of tact forbids an honest answer") 

@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA3305
+
+DADO O SYNSET:
+
+S='Glosa3305'
+	    {
+	      comedir-se: Vidinha caminhava tão depressa que Leonardo quase que a perdia de vista; finalmente conseguiu alcançá-la, e começou a pedir-lhe que voltasse, fazendo as maiores promessas de [comedir-se dali em diante, e de lhe não dar mais motivos de desgosto . ,
+	      limitar-se: Financeiramente, urge M]limitar-nos.,
+	      moderar-se: Como I]moderar-se durante a época de festas?,
+	      modificar-se: M] Modificou-se com a idade.,
+	      restringir-se: H] Restringir-se dos próprios impulsos.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3305' = “restringir ou limitar” 
+	     {comedir-se: Famoso pela longa duração de seus filmes mais grandiosos, Martin Scorsese até que se I]comediu neste novo trabalho. ,
+	      limitar-se: Mesmo assim, [limitou-se a uma corrida de 20 minutos.,
+	      moderar-se: Liberal entusiasta, I]moderou-se com os descaminhos da revolução francesa.,
+	      modificar-se: M] Modificou-se com a idade.,
+	      restringir-se: H] Restringir-se dos próprios impulsos.,}
+Chave: LIMITAR-SE <verb.change>
+ILI: 00227757
+
+Sense 2
+{00227757} <verb.change> limit, circumscribe, confine1 -- (restrict or confine, "I limit you to two visits to the pub a day")
+       => {00428838} <verb.change> decrease1, lessen2, minify -- (make smaller; "He decreased his staff")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

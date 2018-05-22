@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA1508
+
+DADO O SYNSET:
+
+S='Glosa1508'
+    	{denudar: x,
+      	 descompor: H]Descompôs as crianças por estar muito calor na praia.,
+      	 desenroupar: H]Desenroupou  o boneco.,
+      	 desnuar: E onde, ao cúpido olhar do amante, Vênus/ A]Desnua o lácteo colo delicioso.,
+      	 desnudar: Lentamente I]desnudou-a, saciando, pouco a pouco, o desejo de amar aquele corpo. ,
+      	 despir: Sendo preciso [despir a camisa e dá-la a um mendigo, Nóbrega o faria, ainda que a camisa fosse bordada.,
+      	 desvestir: Chegando, demorou-se apenas para I]desvestir o sobretudo, e descalçar as galochas, após cumprimentar vovó.,}
+  
+A='Glosa1776'
+    	{enfiar, pôr, vestir}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1508' = “tirar o vestuário [de alguém ou de algo]”
+    	{desnuar: E onde, ao cúpido olhar do amante, Vênus/ A]Desnua o lácteo colo delicioso.,
+      	 desnudar: O poeta paira entre as nuvens na contemplação do amor etéreo, [desnuda a mulher em sonhos,
+      	 despir: Arno Strine, personagem do livro, pára o tempo e [despe as mulheres.,
+      	 desvestir: Animada festa pública na casa, com ampla mesa de doces lindíssimos e doação de comida aos pobres, e finalmente derrubada do mastro e carnavalização da festa pública da casa: o pessoal de dentro [desveste a roupa do Santo e procede a serração do mastro.,}
+  
+A='Glosa1776'
+    	{enfiar, pôr, vestir}
+Chave: DESPIR <verb.change>
+ILI: 00170777
+
+Sense 2
+{00170777} <verb.change> strip12, undress, divest13, disinvest -- (remove (someone's or one's own) clothes; "The nurse quickly undressed the accident victim"; "She divested herself of her outdoor clothes"; "He disinvested himself of his garments")
+       => {00166870} <verb.change> remove, take, take away1, withdraw1 -- (remove something concrete, as by lifting, pushing, taking off, etc. or remove something abstract; "remove a threat"; "remove a wrapper"; "Remove the dirty dishes from the table"; "take the gun from your pocket"; "This machine withdraws heat from the environment")

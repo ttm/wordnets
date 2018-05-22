@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA2336
+
+DADO O SYNSET:
+
+S='Glosa2336'
+	    {envenenar-se: Se o adoçante contém elementos tóxicos, a pessoa que o consome pode até I]envenenar-se e ter sérios problemas de saúde.,
+	      intoxicar-se: As toxicomanias são hábitos doentios de I]intoxicar-se com substâncias que acabam por deteriorar o indivíduo e em alguns casos conduzi-lo à morte. ,
+	      toxicar-se: x.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2336' = “Adicionar veneno em alguma coisa.”
+	    {envenenar-se: Se o adoçante contém elementos tóxicos, a pessoa que o consome pode até I]envenenar-se e ter sérios problemas de saúde.,
+	      intoxicar-se: As toxicomanias são hábitos doentios de I]intoxicar-se com substâncias que acabam por deteriorar o indivíduo e em alguns casos conduzi-lo à morte.,}
+
+Chave: ENVENENAR-SE
+ILI: EQ_NEAR_SYNONYM - 00518308
+
+Sense 4
+{00518308} <verb.change> poison, envenom -- (add poison to; "Her husband poisoned her drink in order to kill her")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

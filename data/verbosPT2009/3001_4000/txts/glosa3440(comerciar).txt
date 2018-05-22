@@ -1,0 +1,38 @@
+ANÁLISE DA GLOSA3440
+
+DADO O SYNSET:
+
+S='Glosa3440'
+	    {
+	      chatinar: ...]chatinar especiarias,
+	      comerciar: as embarcações provenientes dos países amigos poderiam [comerciar livremente/Os madeireiros entram na reserva para [comerciar,
+	      girar: a indústria brasileira de fundos de investimentos [girou um volume de recursos próximo dos US$ 25 bilhões/A feira deve girar entre US$ 80 milhões e US$ 90 milhões,
+	      mercadejar: fazer política partidária no Brasil dos últimos anos tornou-se um intenso mercadejar/...lá vinham elas encosta abaixo, ainda a tempo de levar os animais a pastar ou ir ]mercadejar para a feira,
+	      mercanciar: é necessário autorização paterna para o menor ]mercanciar,
+	      mercantilizar: ]mercantilizar um produto/A maior estrutura de comunicações que se tem notícia no mundo, em especial os rótulos, é utilizada para mercantilizar substâncias venenosas dissimuladas,
+	      negociar: Um novilho recém-desmamado, com nove meses de idade, era [negociado/O gado foi [negociado em dez parcelas mensais e sem correção,
+	      trabalhar: A economia daquele país está aquecida e os investidores passaram a [trabalhar com juros mais altos,
+	      trafegar: É aqui que trafegamos,
+	      trafeguear: x,
+	      traficar: [Traficar e explorar escravos não era um crime na época, nem atentava contra a dignidade humana/Da primeira vez que viestes aqui, vós o fizestes somente para [traficar,
+	      veniagar: x,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3440' = “ocupar-se no comércio de”
+	     {chatinar: ...H]chatinar especiarias,
+	      comerciar: Este povo I]comerciava com Mesopotâmia e o Baluchistán,
+	      girar: A indústria brasileira de fundos de investimentos [girou um volume de recursos próximo dos US$ 25 bilhões	      
+                   mercadejar: Martim Afonso I]mercadejava com tudo e com todos,
+	      mercanciar: I]Mercanciavam com os ribeirinhos,
+	      mercantilizar: Escolas particulares I]mercantilizavam o ensino, transformando-se em verdadeiras indústrias,
+	      negociar: A família de Senna I]negociou com a Rede Globo a cessão de uma entrevista exclusiva de Villeneuve concedida na casa do tricampeão brasileiro em Angra dos Reis /No último dia 27, o produtor de leite B em Marília (SP) , Marcio Mesquita Serva, I]negociou 30 cabeças da raça por R$ 91,5 mil,
+	      trabalhar: Com atendimento diferenciado, loja I]trabalha com grande diversidade de produtos e serviços para empresas e usuários,
+	      trafegar: H]Trafegar com vinhos e azeites,
+	      traficar: Soldado do Gefron I]traficava cocaína,}
+Chave: COMERCIAR <verb.possession>
+ILI: 02195069
+
+Sense 1
+{02195069} <verb.possession> trade1, merchandise -- (engage in the trade of; "he is merchandising telephone sets")

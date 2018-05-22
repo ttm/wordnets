@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA3623
+
+DADO O SYNSET:
+
+S='Glosa3623'
+	{analisar1: Quis [analisar como a America absorve pessoas com nosso tipo de história. / É autor de vários estudos que [analisam a violência policial nas principais capitais brasileiras.,
+	 discorrer: Fizemos uma entrevista com uma indigente que se diz doutora em psicologia e que [discorre teses desconcertantes sobre economia, moral e televisão.,
+	 dissecar: Sardemberg [disseca os efeitos da globalização da economia. ,
+	 espreitar: Mais de um olho de mulher [espreitava a alma de Sofia, estudava o gesto da moça, tal ou qual acanhado, e as pálpebras teimosamente caídas . ,
+	 estudar: Para entender esse fenômeno, basta [estudar o processo de transformação de ondas sonoras em ondas eletromagnéticas. ,
+	 examinar: Mais de 10 mil amostras de sangue foram analisadas no estudo, financiado pelo governo, que [examina os efeitos do fumo passivo na sociedade. ,
+	 explorar: Num ensaio original, escritor [explora aspectos literários e psicológicos das nossas experiências noturnas.,
+	 observar: Nós nunca conseguiremos compreender um determinado fenômeno se não o [observarmos, o maior número de vezes possível, extraindo das observações o maior número possível de informações. ,
+	 olhar: Se continuarmos a [olhar a natureza, e continuarmos a fazer perguntas, vamos aprender muita coisa, buscando as respostas. ,
+	 tirar: Importa M]tirar definição por definição. }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3623' = “considerar em detalhes e sujeitar a análise com o propósito de descobrir características essenciais ou o sentido”
+	{analisar1: É autor de vários estudos que [analisam a violência policial nas principais capitais brasileiras.,
+	 discorrer: Fizemos uma entrevista com uma indigente que se diz doutora em psicologia e que [discorre teses desconcertantes sobre economia, moral e televisão.,
+	 dissecar: Sardemberg [disseca os efeitos da globalização da economia.,
+	 espreitar: Mais de um olho de mulher [espreitava a alma de Sofia, estudava o gesto da moça, tal ou qual acanhado, e as pálpebras teimosamente caídas.,
+	 estudar: Para entender esse fenômeno, basta [estudar o processo de transformação de ondas sonoras em ondas eletromagnéticas.,
+	 examinar: Mais de 10 mil amostras de sangue foram analisadas no estudo, financiado pelo governo, que [examina os efeitos do fumo passivo na sociedade.,
+	 explorar: Num ensaio original, escritor [explora aspectos literários e psicológicos das nossas experiências noturnas.,
+	 observar: Nós nunca conseguiremos compreender um determinado fenômeno se não o [observarmos, o maior número de vezes possível, extraindo das observações o maior número possível de informações.,
+	 olhar: Se continuarmos a [olhar a natureza, e continuarmos a fazer perguntas, vamos aprender muita coisa, buscando as respostas.,
+	 tirar: Importa M]tirar definição por definição. }
+Chave: ESTUDAR <verb.cognition>
+ILI: 00623929
+ 
+Sense 1 
+{00623929} <verb.cognition> analyze, analyse, study2, examine, canvass2, canvas2 -- (consider in detail and subject to an analysis in order to discover essential features or meaning; "analyze a sonnet by Shakespeare"; "analyze the evidence in a criminal trial"; "analyze your real motives")

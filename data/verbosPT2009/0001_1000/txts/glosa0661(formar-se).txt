@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0661
+
+DADO O SYNSET:
+
+S='Glosa661'
+{armar-se: E [armou-se grande festa.,
+formar-se: Com sua fama de gourmet, atrás dele [formou-se uma fila, e tudo que ele escolhia e botava no carrinho as pessoas imitavam. ,
+preparar-se: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa661' = “fazer algo, geralmente por uma função específica”
+{armar-se: Logo porém, I]armou-se uma tempestade.,
+formar-se: Com sua fama de gourmet, atrás dele [formou-se uma fila, e tudo que ele escolhia e botava no carrinho as pessoas imitavam.,}
+Chave: FORMAR-SE <verb.creation>
+ILI: 01612040
+
+Sense 5
+{01612040} <verb.creation> shape, form, work12, mold1, mould1, forge3 -- (make something, usually for a specific function; "She molded the riceballs carefully"; "Form cylinders from the dough"; "shape a figure"; "Work the metal into a sword")
+       => {01606076} <verb.creation> create from raw material, create from raw stuff -- (make from scratch)
+           => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA2767
+
+DADO O SYNSET:
+
+  S='Glosa2767'
+	    {abolar: Da bela igreja gótica fizeram uma arrecadação militar; andou a mão destruidora do soldado quebrando e I]abolando esses monumentos preciosos, riscando com a baioneta pelo verniz mais polido e mais respeitado desses jazigos antiqüissíssimos; os lavores mais delicados esmoucou-os, degradou-os.,
+	      arredondar: Para fazer passar uma tubulação ao longo de uma parede não-retilínea, pode-se optar por fazer "joelhos" ou [arredondar o tubo para costeá-lo rente à parede.,
+	      bolear: Cortar as peças,I]bolear a massa e colocar em assadeira untada.,
+	      bombear: x,
+	      redondear: x,
+	      tornear: Como você já viu na Aula 7, a inclinação do carro superior é usada para I]tornear peças cônicas de pequeno comprimento.,}
+	  A='Glosa1169'
+	    {desarredondar: H]Desarredondou uma saia,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2767' = “Tornar redondo”
+	    {arredondar: I]Arredondou mais os ícones deixando o visual mais agradável.,
+	      bolear: Evaristo I]boleou o laço e largou sobre o animal, fazendo uma bela armada.,
+	      tornear: Gilliatt I]torneou o rochedo.,}
+
+	  A='Glosa1169'
+	    {desarredondar}
+
+Chave: ARREDONDAR <verb.change>
+ILI: 00139724
+
+Sense 2
+{00139724} <verb.change> round, round out1, round off1 -- (make round; "round the edges")
+       => {00137090} <verb.change> shape, form1 -- (give a shape or form to; "shape the dough")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

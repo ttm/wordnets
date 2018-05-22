@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA3007c
+
+DADO O SYNSET:
+
+S='Glosa3007'
+	     {abafar: Deixar a criança com pouca roupa evitando I]abafá-la com cobertores.,
+	      acobertar: Pesadas armaduras A]acobertavam os cavaleiros medievais.,
+	      agasalhar: Após o banho, pode-se I]agasalhar o animal?,
+	      arroupar: x,
+	      cobrir: O asno que carrega a urna domina o centro da imagem: ele tem sinos pendurados no pescoço e um manto [cobrindo as ancas. ,
+	      encobertar: x,
+	      enroupar: O forro de suas arcas vai servir-nos para I]enroupar os homens que levarmos para as guerras da Irlanda.,
+	      gasalhar: x,
+	      recobrir: Gramíneas [recobriam os campos que se estendiam a partir de Curitiba e podiam fornecer uma perfeita alimentação para os animais. ,
+	      resguardar: É um vaso, em parte cilíndrico, que serve para [resguardar líquidos delicados.,
+	      revestir: As células meristemáticas acabam por formar a epiderme que [reveste a raiz.,
+	      roupar: H]Rouparam as crianças pequenas.,
+	      tapar: Piso de borracha revestia o chão e forros de eucatex [tapavam clarabóias. ,
+	      velar2: Em seguida, ele correu a cortina que I]velava o quadro da Independência, pronunciando em seguida uma alocução patriótica.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3007c' = “ocultar”
+	     {cobrir: A bandeira brasileira [cobriu o caixão até o fim. ,
+	      tapar: Piso de borracha revestia o chão e forros de eucatex [tapavam clarabóias. ,
+	      velar2: Em seguida, ele correu a cortina que I]velava o quadro da Independência, pronunciando em seguida uma alocução patriótica.,}
+Chave: TAPAR <verb.contact>
+ILI: 01441247
+
+Sense 1
+{01441247} <verb.contact> veil -- (to obscure, or conceal with or as if with a veil; "women in Afghanistan veil their faces")
+       => {02082942} <verb.perception> hide, conceal1 -- (prevent from being seen or discovered; "Muslim women hide their faces"; "hide the money")

@@ -1,0 +1,46 @@
+ANÁLISE DA GLOSA3091
+
+DADO O SYNSET:
+
+S='Glosa3091'
+	    {
+	      achatar-se: A] Achata-se ante os poderosos.,
+	      agachar-se: Costuma H]agachar-se ao primeiro grito do chefe.,
+	      ajoelhar-se: O ano em que, para escapar da armadilha do endividamento que ele próprio montou, o governo teve que I]ajoelhar-se ante o FMI e entrar numa armadilha ainda maior.,
+	      assevandijar-se: x,
+	      avassalar-se: Um barão que se H]avassalou.,
+	      deprimir-se: H]Deprime-se por não possuir respeito por si mesmo.,
+	      humildar-se: H] Humildou-se diante de todos os convidados.,
+	      humilhar-se: I]Humilhava-se por um momento fortuito de sexo, o que contrastava com sua vida cotidiana de professor apaixonado de literatura.,
+	      rastejar: Nem ser orgulhoso, nem A]rastejar.,
+	      rebaixar-se: É uma completa inversão de valores. Um país como o Brasil, que aspira a um lugar entre os grandes do mundo, I]rebaixar-se vergonhosamente a uma ditadura em frangalhos.,
+	      sevandijar-se: Agora convencidos da validade (?) da excomunhão, foram I]sevandijar-se diante de João Paulo II pedindo perdão.,
+	      submeter-se: A nação que compra, comanda; a nação que vende, I]submete-se.,
+	      sujeitar-se: I]Sujeitava-se a um chefe estúpido, passava a maior parte do tempo administrando compras quase que automáticas, isso quando não perdia tardes inteiras operando a incrível máquina copiadora.,
+	      zumbrir-se: Vangloriava-se diante dos fracos e H]zumbria-se diante dos poderosos.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3091' = “reduzir-se em valor ou caráter”
+	     {achatar-se: A] Achata-se ante os poderosos.,
+	      agachar-se: I]Agacha-se diante das benesses do poder e se contenta em se tornar um simples serviçal dos poderosos.,
+	      ajoelhar-se: O governo I]ajoelha-se perante o capital especulativo internacional.,
+	      avassalar-se: A cultura brasileira se I]avassala e se deteriora em favor de elementos culturais alienígenas.,
+	      deprimir-se: H]Deprime-se por não possuir respeito por si mesmo.,
+	      humildar-se: H] Humildou-se diante de todos os convidados.,
+	      humilhar-se: Em 787, o rei franco toma Augsburgo, e Tassilo I]humilha-se perante o seu vencedor.,
+	      rastejar: Já se pediu muito, já se ajoelhou muito, já se I]rastejou muito e nada foi feito.,
+	      rebaixar-se: Quando ministro de Fernando Henrique, o fidalgo professor humilhou-se, I]rebaixou-se e envergonhou o país diante do mundo.,
+	      submeter-se: A nação que compra, comanda; a nação que vende, I]submete-se.,
+	      sujeitar-se: I]Sujeitava-se a um chefe estúpido, passava a maior parte do tempo administrando compras quase que automáticas, isso quando não perdia tardes inteiras operando a incrível máquina copiadora.,
+	      zumbrir-se: Vangloriava-se diante dos fracos e H]zumbria-se diante dos poderosos.,}
+Chave: HUMILHAR-SE <verb.emotion>
+ILI: 01748142
+
+Sense 2
+{01748142} <verb.emotion> take down, degrade, disgrace, demean, put down -- (reduce in worth or character, usually verbally; "She tends to put down younger women colleagues"; "His critics took him down after the lecture")
+       => {01747514} <verb.emotion> humiliate, mortify1, chagrin1, humble, abase -- (cause to feel shame; hurt the pride of; "He humiliated his colleague by criticising him in front of the boss")
+           => {01741003} <verb.emotion> hurt, wound, injure, bruise, offend, spite -- (hurt the feelings of; "She hurt me when she did not include me among her guests"; "This remark really bruised me ego")
+               => {01708538} <verb.emotion> arouse, elicit, enkindle, kindle, evoke, fire, raise8, provoke -- (call forth (emotions, feelings, and responses); "arouse pity"; "raise a smile"; "evoke sympathy")
+                   => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

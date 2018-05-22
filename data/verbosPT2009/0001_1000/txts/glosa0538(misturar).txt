@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA0538
+
+DADO O SYNSET:
+
+S='Glosa538'
+{anaçar: Sentada na varanda sobre uma esteira e rodeada de todos os petrechos, estava muito atarefada e, I]anaçar ovos e amassar fubá mimoso para fazer as broas saborosas.,
+bater: Se o sal for adicionado antes de I]bater os ovos, a omelete não estufa e se desmancha com facilidade.,
+misturar: Para atender a padrões internacionais é necessário [misturar o suco doce ao mais azedo, processo chamado blendagem. ,
+revolver: Junte o restante do açúcar e do leite, os ovos e o sal e misture. Adicione a manteiga aos poucos, I]revolvendo a massa de fora para dentro.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa538' = “combinar, juntar diferentes elementos”
+{anaçar: Sentada na varanda sobre uma esteira e rodeada de todos os petrechos, estava muito atarefada e, I]anaçar ovos e amassar fubá mimoso para fazer as broas saborosas.,
+bater: Se o sal for adicionado antes de I]bater os ovos, a omelete não estufa e se desmancha com facilidade.,
+misturar: Para atender a padrões internacionais é necessário [misturar o suco doce ao mais azedo, processo chamado blendagem. ,
+revolver: Junte o restante do açúcar e do leite, os ovos e o sal e misture. Adicione a manteiga aos poucos, I]revolvendo a massa de fora para dentro.,}
+Chave: MISTURAR <verb.change>
+ILI: 00382880
+
+Sense 1
+{00382880} <verb.change> blend, flux, mix, conflate, commingle, immix, fuse, coalesce, meld, combine, merge1 -- (mix together different elements; "The colors blend well")
+       => {00135037} <verb.change> change integrity -- (change in physical make-up)
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")
+          Also See-> {00600082} <verb.cognition> mix up#2

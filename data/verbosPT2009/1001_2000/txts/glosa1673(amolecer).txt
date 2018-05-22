@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA1673
+
+DADO O SYNSET:
+
+S='Glosa1673'
+{amolecer: Antes de fazer a fisioterapia me colocavam compressas quentes nas juntas para relaxar e I]amolecer os nervos e músculos. ,
+ amolegar: x,
+ amolentar: Concentra-te, assentando comodamente, não porém, o suficiente para I]amolentar-te e conduzir-te ao sono.,
+ desenrijar: E principiaram a patinar por ali, traçando círculos e dando curtos arremessos pela pista a fim de I]desenrijar os membros.,
+ desentesar: Com a massagem, seus músculos H]desentesaram.,
+ embrandecer: x,
+ molificar: A música de Davi M]molificava Saul.,}
+	  
+A='Glosa3189'
+{atesar, encruar, endurecer, enrijecer, entesar, erijar, esticar, inteiriçar, retesar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1673' = “tornar mole ou mais mole”
+{amolecer: Antes de fazer a fisioterapia me colocavam compressas quentes nas juntas para relaxar e I]amolecer os nervos e músculos.,
+ amolentar: Contudo, o artigo 3º, 10, da Diretiva, I]amolenta a rigidez nucléica do seu artigo 1º e permite aos. Estados-Membros flexionar e ampliar o rol das matérias.,
+ desenrijar: E principiaram a patinar por ali, traçando círculos e dando curtos arremessos pela pista a fim de I]desenrijar os membros.,
+ desentesar: Ansata inclina-se avante e vai baixando os braços, até pousar suavemente as mãos junto aos pés, desentesar os dedos e cessar.,}
+	  
+A='Glosa3189'
+{atesar, encruar, endurecer, enrijecer, entesar, erijar, esticar, inteiriçar, retesar}
+Chave: AMOLECER <verb.change>
+ILI: 00246975
+
+Sense 6
+{00246975} <verb.change> soften1 -- (make soft or softer; "This liquid will soften your laundry")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0758
+
+DADO O SYNSET:
+
+S='Glosa758'
+{barrar2: x,
+barrear: Nas construções os mutirões eram realizados para I]barrear a casa ou seja cobrir as paredes com barro feito de terra molhada e misturada com palha.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa758' = “cobrir com barro”
+{barrear: Nas construções os mutirões eram realizados para I]barrear a casa ou seja cobrir as paredes com barro feito de terra molhada e misturada com palha.,}
+Chave: BARREAR <verb.contact>
+ILI: 01321920
+
+Sense 2
+{01321920} <verb.contact> mud1 -- (plaster with mud)
+       => {01320935} <verb.contact> plaster, daub1 -- (coat with plaster; "daub the wall")
+           => {01226248} <verb.contact> coat, surface -- (put a coat on; cover the surface of; furnish with a surface; "coat the cake with chocolate")
+               => {01293336} <verb.contact> cover -- (provide with a covering or cause to be covered; "cover her face with a handkerchief"; "cover the child with a blanket"; "cover the grave with flowers")

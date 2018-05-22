@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA2609
+
+DADO O SYNSET:
+
+S='Glosa2609'
+	    {conter: Trágicos, porque crimes, perseguições e prisões continuam sendo cometidos pelo aparato militar-repressivo do governo branco sul-africano, na tentativa de [conter ou aniquilar pela força a luta do movimento negro pelos seus direitos.,
+	      esfriar: Souza, que jogou ontem com um hematoma no olho direito, e com o peito todo arranhado, tratou de esfriar a polêmica. # Intenção do governo é antecipar medidas para [esfriar repercussão do caso Ricupero.,
+	      refrear: Sendo assim, desde segunda-feira o alto-tucanato trabalha no sentido de [refrear ímpetos que no decorrer da campanha para a troca de comando no partido foram propositadamente estimulados.,
+	      reprimir: Com a decisão, o PN encerra um período de 48 anos no poder, como o partido que implantou e manteve com mão-de-ferro o regime de discriminação racial mais violento do mundo, que [reprimiu e condenou militantes como Nelson Mandela, que passou 27 anos preso.,
+	      reter: Rubião não pôde [reter um risinho irônico; abanou a cabeça, e não recuou dos cinco contos.,
+	      suster: Ao recordar-se da notícia que lhe deu de haver ido à Praia do Flamengo, na outra noite, não pôde [suster o riso, porque não era verdade.,
+	      ter: Não conseguindo A]ter a acavalgadura, saltou.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2609' = “Conter através de força ou intimidação.”
+	    {conter: Mas o que I]conteve o movimento foi uma lei de 2000.,
+	      esfriar: A Intenção do governo é antecipar medidas para [esfriar repercussão do caso Ricupero.,
+	      refrear: Desde segunda-feira o alto-tucanato trabalha no sentido de [refrear ímpetos que no decorrer da campanha foram propositadamente estimulados.,
+	      reprimir: O governo conheceu e I]reprimiu as manifestações operárias contra os baixos salários.,
+	      reter: Provocou um conflito entre o secretário da Receita e o secretário-executivo da Fazenda que [reteve a publicação das normas no Diário Oficial.,
+	      suster: o governo I]susteve o movimento pela pronta intervenção do Exército.,}
+
+Chave: REPRIMIR <verb.social>
+ILI: 02351099
+
+Sense 1
+{02351099} <verb.social> repress, quash, keep down, subdue, subjugate1, reduce3 -- (put down by force or intimidation; "The government quashes any attempt of an uprising"; "China keeps down her dissidents very efficiently"; "The rich landowners subjugated the peasants working the land")
+       => {02351605} <verb.social> oppress, suppress1, crush -- (come down on or keep down by unjust use of one's authority; "The government oppresses political activists") 

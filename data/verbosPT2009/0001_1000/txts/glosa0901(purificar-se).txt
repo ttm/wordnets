@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0901
+
+DADO O SYNSET:
+
+S='Glosa901'
+{clarificar-se: Ele apontou-me o azul, o branco, o verde e o meu espírito I]clarificou-se.,
+purificar-se: Em Varanasi, sobre as margens do Ganges há terraços onde hindus de todas as partes do mundo fazam banho de imersão para [se purificar dos pecados.,
+santificar-se: A Igreja, além de ensinar com autoridade, pode também impor preceitos a seus membros para ajudá-los a melhor atuar e a I]santificar-se.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa901' = “deixar puro ou livre de culpa ou pecado”
+{clarificar-se: Ele apontou-me o azul, o branco, o verde e o meu espírito I]clarificou-se.,
+purificar-se: Em Varanasi, sobre as margens do Ganges há terraços onde hindus de todas as partes do mundo fazam banho de imersão para [se purificar dos pecados.,
+santificar-se: A Igreja, além de ensinar com autoridade, pode também impor preceitos a seus membros para ajudá-los a melhor atuar e a I]santificar-se.,}
+Chave: PURIFICAR-SE <verb.change>
+ILI: 00462512
+
+Sense 2
+{00462512} <verb.change> purify1, purge4, sanctify -- (make pure or free from sin or guilt; "he left the monastery purified")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

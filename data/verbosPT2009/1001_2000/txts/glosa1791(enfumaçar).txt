@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA1791
+
+DADO O SYNSET:
+
+S='Glosa1791'
+{enfumaçar: Objetivos deste fogão: evitar I]enfumaçar a cozinha e a casa.,
+ enfumar: x,
+ enfumarar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1791' = “encher de fumaça”
+{enfumaçar: As primeiras saunas aqueciam longamente as pedras responsáveis pela retenção de calor com a combustão de madeira, [enfumaçando todo o ambiente.,}
+Chave: ENFUMAÇAR <verb.weather>
+ILI: EQ_HAS_NEAR_SYNONYM – 02685819 – “emitir uma nuvem de partículas finas”
+
+Sense 2
+{02685819} <verb.weather> fume, smoke -- (emit a cloud of fine particles; "The chimney was fuming")
+       => {02685205} <verb.weather> emit, give out, give off -- (give off, send forth, or discharge; as of light, heat, or radiation, vapor, etc.; "The ozone layer blocks some harmful rays which the sun emits")

@@ -1,0 +1,42 @@
+ANÁLISE DA GLOSA4097
+
+DADO O SYNSET:
+
+S='Glosa4097'
+{apurpurar: x,
+apurpurear: x,
+avermelhar: O sol I]avermelhava intensamente os vidros encardidos.,
+empurpurar: O imperador Adriano I]empurpurou com o seu sangue a Igreja de Deus.,
+empurpurecer: x,
+encarnar: A última claridade do pôr do sol H]encarnava o horizonte.,
+ensangüentar: Todas as tardes, o pôr-do-sol I]ensangüentava as águas.,
+envermelhar: Minhas bochechas I]envermelharam um pouco.,
+envinagrar: Políticas que desarrumam a economia, I]envinagram a democracia.,
+purpurar: O rubor que lhe I]purpurava a face.,
+purpurear: Milhares de homens jovens e vigorosos I]purpurearam os mares com o seu sangue durante as guerras coloniais dos séculos XV, XVI e XVII.,
+purpurejar: x,
+purpurizar: x,
+vermelhar: Quando acordou, contam, o dia já vinha I]vermelhando.,
+vermelhear: x,
+vermelhecer: x,
+vermelhejar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4097A' = “tornar vermelho”
+{avermelhar: O sol I]avermelhava intensamente os vidros encardidos.,
+encarnar: A última claridade do pôr do sol H]encarnava o horizonte.,
+ensangüentar: Todas as tardes, o pôr-do-sol I]ensangüentava as águas.,
+envermelhar: A carga refletida poderá causar efeito indesejavel de I]envermelhar as placas das valvulas.,
+vermelhar: O vermelho de sangue I]vermelhou a enxurrada.,}
+Chave: AVERMELHAR <verb.change>
+ILI: 00520522
+
+Sense 2
+{00520522} <verb.change> redden1 -- (make red; "The setting sun reddened the sky")
+       => {00275031} <verb.change> color, colorize3, colorise3, colourise3, colourize3, colour9, color in, colour in -- (add color to; "The child colored the drawings"; "Fall colored the trees"; "colorize black and white film")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")
+
+
+
+

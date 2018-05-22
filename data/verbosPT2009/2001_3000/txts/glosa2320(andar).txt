@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA2320
+
+DADO O SYNSET:
+
+S='Glosa2320'
+	    {andar: Aqui no Rio e nos outros municípios, vou sair muito do Palácio, vou [andar pelas ruas.,
+	      circular: Ele era muito simpático, agradável mesmo, e tratava os moradores e gente que [circula por Ipanema como velhos amigos, lembrou seu motorista particular, Renato Sérgio de Souza Rosa . ,
+	      passar: Se as obras não existissem, poderíamos [passar pelo gramado tranquilamente.,
+	      transitar: Você [transita de um lugar par outro.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2320' = “andar sem nenhum objetivo especial.”
+	    {andar: Aqui no Rio, vou sair muito do Palácio, vou [andar pelas ruas.,
+	      circular: Não permitiam mais a entrada do público que [circulava pela rua.,
+	      passar: Um garoto [passava pela rua vazia.,
+	      transitar: Homem é baleado enquanto I]transitava em bairro de Sinop.,}
+
+Chave: ANDAR <verb.motion>
+ILI: 01855163
+
+Sense 1
+{01855163} <verb.motion> perambulate, walk about, walk around -- (walk with no particular goal; "we were walking around in the garden"; "after breakfast, she walked about in the park")
+       => {01849285} <verb.motion> walk -- (use one's feet to advance; advance by steps; "Walk, don't run!"; "We walked instead of driving"; "She walks with a slight limp"; "The patient cannot walk yet"; "Walk over to the cabinet")
+           => {01782203} <verb.motion> travel, go, move3, locomote -- (change location; move, travel, or proceed; "How fast does your new car go?"; "We travelled from Rome to Naples by bus"; "The policemen went from door to door looking for the suspect"; "The soldiers moved towards the city in an attempt to take it before night fell") 

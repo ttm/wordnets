@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA1821
+
+DADO O SYNSET:
+
+S='Glosa1821'
+{enloiçar: x,
+ enlojar: x,
+ envasilhar: Depois de esmagadas ficaram a fermentar dentro de uma dorna cerca de 5 dias, no fim dos quais, começou a I]envasilhar o líquido para dentro dos pipos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1821' = “armazenar (líquidos ou gases) em garrafas”
+{envasilhar: Dentre outras soluções para incrementar o seu orçamento, imagino-o I]envasilhando o refresco em recipientes de diversas origens e condições higiênicas.,}
+Chave: ENVASILHAR <verb.possession>
+ILI: 02217083
+
+Sense 1
+{02217083} <verb.possession> bottle -- (store (liquids or gases) in bottles)
+       => {02216509} <verb.possession> store2 -- (find a place for and put away for storage; "where should we stow the vegetables?"; "I couldn't store all the books in the attic so I sold some")
+           => {02138940} <verb.possession> keep, hold on -- (retain possession of; "Can I keep my old stuffed animals?"; "She kept her maiden name after she married")
+               => {02139918} <verb.possession> have, have got, hold -- (have or possess, either in a concrete or an abstract sense; "She has $1,000 in the bank"; "He has got two beautiful daughters"; "She holds a Master's degree from Harvard")

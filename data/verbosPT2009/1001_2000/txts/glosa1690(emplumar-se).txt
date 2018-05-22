@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA1690
+
+DADO O SYNSET:
+
+S='Glosa1690'
+{empenar2: No sertão ele usou dos usos e costumes dos gentios, tingindo-se pelas pernas com uma tinta chamada urucu, e outra jenipapo, e I]empenando-se pela cabeça de penas e tangendo os pandeiros dos gentios.,
+ emplumar-se: É bom dançar, enfeitar-se, e tingir-se de vermelho; fumar e todo I]emplumar-se.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1690' = “criar penas”
+{empenar2: Todos os dias tem alguma pergunta: “minha fêmea bota ovo mole”...”os filhotes não I]empenam”...,
+ empenar-se: Após o filhote I]empenar-se o principal investimento é na alimentação.
+ emplumar: Os filhotinhos cresceram, I]emplumaram e ficaram bonitos
+ emplumar-se: O primeiro cuidado da jovem ave, logo que se I]empluma e pode confiar em suas asas, é realizar os funerais do pai.,}
+Chave: EMPLUMAR-SE <verb.body>
+ILI: 00091503
+
+Sense 5
+{00091503} <verb.body> fledge, feather -- (grow feathers; "The young sparrows are fledging already")
+       => {00091651} <verb.body> grow, develop, produce, get1, acquire -- (come to have or undergo a change of (physical features and attributes); "He grew a beard"; "The patient developed abdominal pains"; "I got funny spots all over my body"; "Well-developed breasts")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

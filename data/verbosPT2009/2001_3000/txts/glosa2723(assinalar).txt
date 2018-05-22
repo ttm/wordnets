@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA2723
+
+DADO O SYNSET:
+
+S='Glosa2723'
+	    {assinalar: No referente à posição dos Estados que fixaram setores na Antártida e aqueles que não reconhecem reclamações territoriais, o Tratado Antártico se limita a [assinalar a existência das reclamações e a dizer que tais posições não se verão afetadas pela vigência do Tratado, porém que não poderão ser criados novos direitos de soberania a partir da vigência do mesmo.,
+	      registar: Os quatro primeiros temas destinam-se a mostrar o papel de Portugal no mundo e o quinto, o único sem relação com a história nacional, é justificado pela experiência de Barcelona (Port Aventura) , que [regista assinalável sucesso . ,
+	      registrar: Dois anos depois, o Grande Prêmio São Paulo I]registrou um fato histórico: pela primeira e única vez ocorreria um empate na primeira colocação entre o mesmo Mehamet Ali e o cavalo Aprompto, numa chegada emocionante.,
+	      sinalar: Dentro de uma cronologia, procuramos I]sinalar os fatos que marcaram a evolução do direito do trabalho.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2723' = “Mostrar meticulasamente e claramente.”
+	    {assinalar: Na apresentação, I]assinalou as principais ações do Sisema nos últimos quatro anos.,
+	      registar: Os quatro primeiros temas destinam-se a mostrar o papel de Portugal no mundo e o quinto, o único sem relação com a história nacional, é justificado pela experiência de Barcelona (Port Aventura) , que [regista assinalável sucesso . ,
+	      registrar: Dois anos depois, o Grande Prêmio São Paulo I]registrou um fato histórico: pela primeira e única vez ocorreria um empate.,
+	      sinalar: Ao finalizar a reunião o Comitê Organizador I]sinalou os passos próximos do trabalho.,}
+
+Chave: ASSINALAR <verb.communication>
+ILI: 00894216
+
+Sense 2
+{00894216} <verb.communication> signalize2, signalise2, point out3, call attention -- (point out carefully and clearly)
+       => {00893603} <verb.communication> indicate3, point, show1 -- (indicate a place, direction, person, or thing; either spatially or figuratively; "I showed the customer the glove section"; "He pointed to the empty parking space"; "he indicated his opponents")
+           => {00804489} <verb.communication> inform -- (impart knowledge of some fact, state or affairs, or event to; "I informed him of his rights")
+               => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                   => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                       => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel") 

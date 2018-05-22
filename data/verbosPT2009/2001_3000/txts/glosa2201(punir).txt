@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA2201
+
+DADO O SYNSET:
+
+S='Glosa2201'
+	    {apenar: Seria factível I]apenar esse menor, que de modo cruel, frio e com manifesto calculismo, após violentar sexualmente a vitima, tirou-lhe a vida.,
+	      castigar: Ministro da Fazenda diz que objetivo do governo «não é [castigar ninguém».,
+	      punir1: BC [pune o presidente da Bolsa de Futuros.,
+	      vindicar: O código penal M]vindica os crimes.,
+	      vingar: Sim, é dessa forma que ele registra o passado que não consegue guardar em lembranças. No corpo, dados do criminoso que ele precisa I]vingar. ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2201' = “impor uma punição ou castigo”
+	    {apenar: Seria factível I]apenar esse menor, que após violentar sexualmente a vitima, tirou-lhe a vida.,
+	      castigar: Ministro da Fazenda diz que objetivo do governo «não é [castigar ninguém».,
+	      punir: BC [pune o presidente da Bolsa de Futuros.,
+	      vindicar: O código penal M]vindica os crimes.,
+	      vingar: No corpo, dados do criminoso que ele precisa I]vingar. ,}
+
+Chave: PUNIR <verb.social>
+ILI: 02424949
+
+Sense 1
+{02424949} <verb.social> punish, penalize, penalise -- (impose a penalty on; inflict punishment on; "The students were penalized for showing up late for class"; "we had to punish the dog for soiling the floor again")

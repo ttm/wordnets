@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA3770
+
+DADO O SYNSET:
+
+S='Glosa3770'
+{falhar: M]Falhar aos compromissos.,
+	 faltar: É comum um parlamentar comparecer no início da sessão para registrar presença e [faltar às votações.,
+	 perder: Não gosto de [perder nenhuma aula, explica o aluno.}
+
+A='Glosa2054'
+{comparecer, estar, presenciar}
+	
+A ANÁLISE RESULTA EM:
+
+S='Glosa3770'= “deixar de participar de evento ou atividade”
+{falhar: M]Falhar aos compromissos.,
+	 faltar: É comum um parlamentar comparecer no início da sessão para registrar presença e [faltar às votações.,
+	 perder: Não gosto de [perder nenhuma aula, explica o aluno.}
+
+A='Glosa2054'
+{comparecer, estar, presenciar}
+Chave: FALTAR <verb.stative>
+ILI: 02535806
+
+Sense 1
+{02535806} <verb.stative> miss1 -- (fail to attend an event or activity; "I missed the concert"; "He missed school for a week")
+       => {02454065} <verb.social> fail2, neglect -- (fail to do something; leave something undone; "She failed to notice that her child was no longer in his crib"; "The secretary failed to call the customer and the company lost the account")

@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA2184
+
+DADO O SYNSET:
+
+S='Glosa2184'
+	    {matar: O filho de John Wideman foi preso aos 15 anos por [matar outro adolescente num acampamento de verão.,
+	      sacrificar: Para resgatar Elena, raptada pelos troianos, o rei grego Agamêmnon tem que [sacrificar sua filha, Ifigênia.,
+	      vitimar: Continuaram a praticar atos terroristas, como os que [vitimaram a estilista Zuzu Angel, que insistia em saber do paradeiro de seu filho Stuart Angel.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2184' = “fazer morrer ou submeter a morte”
+	    {matar: O filho de John Wideman foi preso aos 15 anos por [matar outro adolescente num acampamento de verão.,
+	      sacrificar: Para resgatar Elena, raptada pelos troianos, o rei grego Agamêmnon tem que [sacrificar sua filha, Ifigênia.,
+	      vitimar: Continuaram a praticar atos terroristas, como os que [vitimaram a estilista Zuzu Angel, que insistia em saber do paradeiro de seu filho Stuart Angel.,}
+Chave: MATAR <verb.contact>
+ILI: 01284688
+
+Sense 1
+{01284688} <verb.contact> kill -- (cause to die; put to death, usually intentionally or knowingly; "This man killed several people when he tried to rob a bank"; "The farmer killed a pig for the holidays")
+          

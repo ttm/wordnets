@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA1675
+
+DADO O SYNSET:
+
+S='Glosa1675'
+{alhear-se: H]Alheou-se aos primeiros acordes da sonata.,
+ arrebatar-se: Neste instante meu coração I]arrebatou-se completamente ao cantarmos sem violão, somente voz.,
+ arroubar-se: H]Arroubava-se diante da natureza.,
+ embriagar-se: Procure de vez em quando deixar-se levar pela noite, olhar as estrelas e [embriagar-se com a sensação de infinito.,
+ enlevar-se: Deixe-se arrebatar pela mãe natureza e I]enlevar-se pelo espetáculo de cor à medida que o sol se esconde por detrás do oceano.,
+ extasiar-se: Ao contornar o cabo Hermoso na costa do Haiti, Cristóvão Colombo [extasiou-se com «o odor tão bom e suave de flores ou árvores, que era a coisa mais doce do mundo.»,
+ inebriar-se: Invejava-lhe o porte físico, atlético, apesar da deficiência; I]inebriava-se com o seu charme de rapaz sedutor.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1675' = “ser fascinado ou encantado [por]”
+{arrebatar-se: Neste instante meu coração I]arrebatou-se completamente ao cantarmos sem violão, somente voz.,
+ arroubar-se: Por isso, assusta-me um governo que se I]arrouba em dizer que, se tantos por cento da chuva acontecer, estaremos salvos.,
+ embriagar-se: Procure de vez em quando deixar-se levar pela noite, olhar as estrelas e [embriagar-se com a sensação de infinito.,
+ enlevar-se: O Carnaval lembra algumas festas primitivas onde homens e mulheres pintavam seus rostos e corpos I]enlevando-se pela dança, pela festa e pela embriaguez.,
+ extasiar-se: Ao contornar o cabo Hermoso na costa do Haiti, Cristóvão Colombo [extasiou-se com “o odor tão bom e suave de flores ou árvores, que era a coisa mais doce do mundo.”.,
+ inebriar-se: Ela respirou fundo, suspirosamente, e... mais uma vez, I]inebriou-se com aqueles aromas.,
+maravilhar-se: O visitante pode se [maravilhar com a visão da abundante vegetação subaquática e de um grupo arredio e assustado de jacarés.,}
+Chave: EXTASIAR-SE <verb.cognition>
+ILI: 00712793
+
+Sense 1
+{00712793} <verb.cognition> drink in, drink -- (be fascinated or spell-bound by; pay close attention to; "The mother drinks in every word of her son on the stage")
+       => {00581400} <verb.cognition> steep, immerse, engulf, plunge, engross2, absorb6, soak up -- (engross (oneself) fully; "He immersed himself into his studies")
+           => {00698305} <verb.cognition> concentrate, focus, center, centre, pore, rivet -- (direct one's attention on something; "Please focus on your studies and not on your hobbies")
+               => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

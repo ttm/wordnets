@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA4066
+
+DADO O SYNSET:
+
+S='Glosa4066'
+{prospectar: No início dos anos 70, a economia mundial estava num período de forte crescimento, mas poucos países I]prospectavam petróleo.,
+prospetar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4066' = “explorar coisas proveitosas ou valiosas, ou substâncias como minerais”
+{prospectar: No início dos anos 70, a economia mundial estava num período de forte crescimento, mas poucos países I]prospectavam petróleo.,}
+Chave: PROSPECTAR <verb.cognition>
+ILI: 00627368
+
+Sense 2
+{00627368} <verb.cognition> prospect -- (explore for useful or valuable things or substances, such as minerals)
+       => {00627521} <verb.cognition> research, search, explore -- (inquire into)
+           => {00763144} <verb.communication> investigate, look into -- (investigate scientifically; "Let's investigate the syntax of Chinese")
+               => {00623929} <verb.cognition> analyze, analyse, study2, examine, canvass2, canvas2 -- (consider in detail and subject to an analysis in order to discover essential features or meaning; "analyze a sonnet by Shakespeare"; "analyze the evidence in a criminal trial"; "analyze your real motives")
+ 

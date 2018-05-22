@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA2843
+
+DADO O SYNSET:
+
+S='Glosa2843'
+	    {rabular: Eu estava lá, ajudando, I]rabulando.,
+	      rabulejar: x}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2843' = “Discutir sobre coisas insignificantes”
+	    {rabular: Eu estava lá, ajudando, I]rabulando.,}
+Chave: RABULAR <verb.communication>
+ILI: 00748459
+
+Sense 1
+{00748459} <verb.communication> quibble, niggle, pettifog, bicker, squabble, brabble -- (argue over petty things; "Let's not quibble over pennies")
+       => {00747871} <verb.communication> argue, contend1, debate1, fence -- (have an argument about something)
+           => {00932753} <verb.communication> converse, discourse1 -- (carry on a conversation)
+               => {00930524} <verb.communication> talk1, speak1 -- (exchange thoughts; talk with; "We often talk business"; "Actions talk louder than words")
+                   => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                       => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                           => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel") 

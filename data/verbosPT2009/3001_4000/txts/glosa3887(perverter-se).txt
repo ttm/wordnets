@@ -1,0 +1,46 @@
+ANÁLISE DA GLOSA3887
+
+DADO O SYNSET:
+
+S='Glosa3887'
+{adulterar-se: Ao orientar as suas aspirações, deve o ser humano conhecer-se a si mesmo como Força Inteligente, incapaz de I]adulterar-se diante dos fascínios que uma vida pode trazer.,
+ chafurdar: Resta-me enveredar por estes caminhos da vida e não I]chafurdar em vícios!!!,
+ corromper-se: Essa forma de governo M]corrompe-se e arruína-se dia a dia.,
+ depravar-se: Nem o Messias pode ser promovido; nem o homem podia I]depravar-se mais.,
+ descaminhar-se: x,
+ desencaminhar-se: Desse modo, o que no início do próprio exercício da inteligência ardilosa é movido pela busca da identidade correria o risco de se [desencaminhar no sentido de uma autonomia reduzida e de um controle hierarquizado -- o que significaria evidentemente uma reabertura trágica em direção à alienação .,
+ desgarrar-se: Suas paixões o H]desgarravam dos preceitos evangélicos.,
+ desmoralizar-se: O TSE corre o risco de [desmoralizar-se se, a exemplo de Itamar, continuar calado .,
+ deturpar-se: Considerando, finalmente, que o objetivo desses Concursos não pode nem deve I]deturpar-se por interesses,
+ enchafurdar: x,
+ esgarrar-se: Ia bem na vida, de repente [esgarrou-se.,
+ perverter-se: O ser humano pode I]perverter-se pelo pecado, porque é livre.,
+ poluir-se: Da administração enérgica, plena de sabedoria e justiça, a antiga água cristalina esvaiu-se na sede do poder e I]poluiu-se na corrupção mais vil.,
+ subverter-se: As condições humanas não podem I]subverter-se em suas respectivas ordens de manifestação, quando se exige conteúdo do qual carecem.,
+ viciar-se: Para afirmá-lo, o PT precisa desmontar o discurso corporativo-assistencial em que se [viciou .,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3887' = “cair para um nível inferior num campo como o da moral ou dos padrões”
+{adulterar-se: A um momento dado fomos puros, desinteressados, só pensando no povo e lutando por ele; e depois... tudo se I]adulterou, tudo apodreceu, muito antes de se chegar ao poder.,
+ chafurdar: Na sua cínica ofensiva, a direita inclusive tenta se apoderar da bandeira da ética, tão cara às esquerdas... logo ela que sempre se I]chafurdou no abjeto patrimonialismo, no uso do erário público, na cumplicidade com os corruptores privados.,
+ corromper-se: O parlamentar se [corrompe quando vê no Executivo espaço para implementar interesses próprios.,
+ depravar-se: O processo de socialização implica na tese de que quanto mais o ser humano se socializa, mais ele se I]deprava.,
+ desencaminhar-se: Alguns se I]desencaminharam, mas a imensa maioria é de pessoas que só querem viver em paz.,
+ desgarrar-se: Durante longas eras a família humana tem flutuado entre forças emocionais positivas e negativas, I]desgarrando-se e atormentando-se no conflito até que, eventualmente, aprendamos a introduzir o efeito desenvolvido e equilibrado das energias superiores: as energias da alma.,
+ desmoralizar-se: Esperidião Amin aposta que “o partido se [desmoraliza se não atuar bem”.,
+ deturpar-se: A relação conjugal fragilizou-se, I]deturpou-se.,
+ esgarrar-se: Ia bem na vida, de repente [esgarrou-se.,
+ perverter-se: E aquela que aprende, um mulher que tem como função primeira zelar para que essa mesma humanidade não se [perverta.,
+ poluir-se: Papai se I]poluiu! Contagiou-se na grande cidade.,
+ subverter-se: Toda a natureza se I]subverte pela maldade.,
+ viciar-se: Para afirmá-lo, o PT precisa desmontar o discurso corporativo-assistencial em que se [viciou.}
+Chave: PERVERTER-SE <verb.change>
+ILI: 00197365
+
+Sense 3
+{00197365} <verb.change> lapse, backslide -- (drop to a lower level, as in one's morals or standards)
+       => {00197171} <verb.change> slip, drop off, drop away, fall away -- (get worse; "My grades are slipping")
+           => {00196646} <verb.change> worsen, decline1 -- (grow worse; "Conditions in the slum worsened")
+               => {00140715} <verb.change> change state, turn4 -- (undergo a transformation or a change of position or action; "We turned from Socialism to Capitalism"; "The people turned against the President when he stole the election")
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

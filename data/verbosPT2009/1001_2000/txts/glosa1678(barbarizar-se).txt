@@ -1,0 +1,38 @@
+ANÁLISE DA GLOSA1678
+
+DADO O SYNSET:
+
+S='Glosa1678'
+ {abrutalhar-se: Pensou que ao morrer deixaria a Terra na senda do progresso, mas via agora que o destino daquela gente era I]abrutalhar-se.,
+ abrutar-se: x,
+ ajavardar-se: x,
+ animalizar-se: O homem, impulsionado unicamente pelos instintos desenfreados, I]animalizou-se.,
+ asselvajar-se: x,
+ barbarizar-se: H]Barbarizou-se naquele meio mafioso.,
+ bestializar-se: Que o homem, sem leis nem justiça, porque não pode ser deus, acaba por I]bestializar-se.,
+ brutalizar-se: É cruel demais vermos um ser humano I]brutalizar-se animalescamente tirando a vida de um irmão. ,
+ brutificar-se: H]Brutificou-se em contato com os maus.,
+ descivilizar-se: Vivendo isoladamente, acabou H]descivilizando-se.,
+ embrutar-se: x,
+ embrutecer-se: Esse é o tom da coisa: um mundo agreste, sem sutilezas, onde H]embrutecer-se é condição de passagem para a maturidade.,}
+	  
+A='Glosa1192'
+{civilizar-se, desbarbarizar-se, domesticar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1678' = “tornar-se rude, selvagem ou bárbaro em comportamento ou linguagem”
+ {animalizar-se: Em Deus o ser humano realiza-se, espiritualiza-se; desligado dele, brutaliza-se, I]animaliza-se.,
+ barbarizar-se: A humanidade I]barbariza-se rumo ao inusitado.,
+ bestializar-se: O homem cega-se e I]bestializa-se nesta estrada de dupla direção, sempre na ufana petulância de dizer: eu preciso ser isso, saber aquilo.,
+ brutalizar-se: É cruel demais vermos um ser humano I]brutalizar-se animalescamente tirando a vida de um irmão.,
+ embrutecer-se: Não é um filme que constrói um mito ou um herói: mostra o dono de um olhar sensível que não se I]embruteceu com o que viu.,}
+	  
+A='Glosa1192'
+{civilizar-se, desbarbarizar-se, domesticar-se}
+Chave: BARBARIZAR-SE <verb.change>
+ILI: 00129514
+
+Sense 1
+{00129514} <verb.change> barbarize1, barbarise1 -- (become crude or savage or barbaric in behavior or language)
+       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

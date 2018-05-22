@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA3135
+
+DADO O SYNSET:
+
+S='Glosa3135'
+{cinerar: x,
+	 cremar: Como é possível [cremar cadáveres que em fornos modernos exigem 1.360 graus centígrados durante duas horas, deixando resíduos de dois quilos de ossos misturados com restos de carne em fogueiras rápidas no solo úmido de uma floresta tropical ? ,
+ incinerar: Após [incinerar um vilão, dispara, irônico.,
+	 queimar: Ele [queimou o corpo da menina junto com pneus velhos no quintal da sua casa e enterrou as cinzas.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3135' = “reduzir a cinzas”
+{cremar: Como é possível [cremar cadáveres que em fornos modernos exigem 1.360 graus centígrados durante duas horas, deixando resíduos de dois quilos de ossos misturados com restos de carne em fogueiras rápidas no solo úmido de uma floresta tropical ? ,
+ incinerar: Após [incinerar um vilão, dispara, irônico.,
+	 queimar: Ele [queimou o corpo da menina junto com pneus velhos no quintal da sua casa e enterrou as cinzas.}
+Chave: CREMAR <verb.change>
+ILI: 00367485
+
+Sense 1
+{00367485} <verb.change> cremate -- (reduce to ashes; "Cremate a corpse")
+       => {00367013} <verb.change> burn2, fire1, burn down2 -- (destroy by fire; "They burned the house and his diaries")
+           => {01520843} <verb.contact> destroy, ruin -- (destroy completely; damage irreparably; "You have ruined my car by pouring sugar in the tank!"; "The tears ruined her make-up")

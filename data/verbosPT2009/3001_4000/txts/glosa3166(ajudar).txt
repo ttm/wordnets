@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA3166 
+
+DADO O SYNSET:
+
+S='Glosa3166'
+	    {
+	      ajudar: Muitas vezes, um duro contato com a realidade [ajuda na recuperação.,
+	      auxiliar: O camarão, criado nos mesmos tanques do saint peter, consome o excedente de ração e [auxilia no controle das bactérias . ,
+	      colaborar: Também [colabora para a eficácia de seu romance uma concepção revolucionária de escrita: o recurso do discurso indireto livre, da linguagem poética, da multifacetação do narrador.,
+	      concorrer: Até o tom homérico em que são escritas, [concorre para essa monotonia.,
+	      contribuir: A adoção generalizada de uma agricultura rudimentar [contribui para que a lixiviacão se processe com maior facilidade.,
+	      cooperar: Para os antigos alquimistas, se uma planta era usada viva, ela I]cooperava no processo de cura de forma intensa.,
+	      entrar: Empresas no Brasil já estão partindo para uma parceria genuína: o acionista [entra com o capital, as pessoas com o trabalho. ,
+	      influir: O pressuposto de que os demais fatores diferentes do preço [influem na demanda (como as rendas e os gostos dos consumidores) se mantêm constantes. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3166' = “ contribuir para o avanço”
+	     {ajudar: Muitas vezes, um duro contato com a realidade [ajuda na recuperação.,
+	      auxiliar: O camarão, criado nos mesmos tanques do saint peter, consome o excedente de ração e [auxilia no controle das bactérias . ,
+	      colaborar: Também [colabora para a eficácia de seu romance uma concepção revolucionária de escrita: o recurso do discurso indireto livre, da linguagem poética, da multifacetação do narrador.,
+	      concorrer: Até o tom homérico em que são escritas, [concorre para essa monotonia.,
+	      contribuir: A adoção generalizada de uma agricultura rudimentar [contribui para que a lixiviacão se processe com maior facilidade.,
+	      cooperar: Para os antigos alquimistas, se uma planta era usada viva, ela I]cooperava no processo de cura de forma intensa.,
+	      entrar: Empresas no Brasil já estão partindo para uma parceria genuína: o acionista [entra com o capital, as pessoas com o trabalho. ,
+	      influir: O pressuposto de que os demais fatores diferentes do preço [influem na demanda (como as rendas e os gostos dos consumidores) se mantêm constantes. ,}
+Chave: AJUDAR <verb.social>
+ILI: 02479845
+
+Sense 5
+{02479845} <verb.social> help12 -- (contribute to the furtherance of; "This money will help the development of literacy in developing countries")
+       => {02479351} <verb.social> promote1, advance1, boost, further, encourage -- (contribute to the progress or growth of; "I am promoting the use of computers in the classroom")
+           => {02480483} <verb.social> support, back up -- (give moral or psychological support, aid, or courage to; "She supported him during the illness"; "Her children always backed her up")

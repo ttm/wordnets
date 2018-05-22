@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA2877
+
+DADO O SYNSET:
+
+S='Glosa2877'
+	    {confederar: Sua habilidade diplomática em I]confederar as tribos fez dele um aclamado pacificador.,
+	      federar: De 1560 a 1598 houve naquele país oito guerras religiosas, desencadeadas pela política católica que visava aniquilar o Protestantismo, mas a luta I]federou aquelas seitas.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2877' = “Formar um grupo ou unir”
+	    {confederar: Sua habilidade diplomática em I]confederar as tribos fez dele um aclamado pacificador.,
+	      federar: De 1560 a 1598 houve naquele país oito guerras religiosas, desencadeadas pela política católica que visava aniquilar o Protestantismo, mas a luta I]federou aquelas seitas.,}
+Chave: CONFEDERAR <verb.social>
+ILI: 02396601
+
+Sense 1
+{02396601} <verb.social> band together, confederate -- (form a group or unite; "The groups banded together")
+       => {02395769} <verb.social> unite, unify -- (act in concert or unite in a common purpose or belief)
+           => {02361668} <verb.social> join, fall in, get together2 -- (become part of; become a member of a group or organization; "He joined the Communist Party as a young man") 

@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA1489
+
+DADO O SYNSET:
+
+S='Glosa1489'
+   	{desniquelar-se: H]desniquelar-se um talher,
+      	 emugrecer-se: DEVIANT,
+     	 enferrujar-se: Mas um dia que houve um terramoto e danificou as estruturas, o ferro principiou a I]enferrujar-se.,
+  	 oxidar-se: A prata, a platina eo ouro são considerados metais nobres pela sua dificuldade de I]oxidar-se,}
+  
+A='Glosa1325'
+{desenferrujar-se, desoxidar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1489' = “tornar-se destruído por água, ar ou componente químico como o ácido”
+   	{enferrujar-se: O ferro em estado puro é um metal branco, reluzente e que, em contato com o ar úmido I]enferruja-se facilmente.,
+  	 oxidar-se: A prata, a platina e o ouro são considerados metais nobres pela sua dificuldade de I]oxidar-se,}
+  
+A='Glosa1325'
+{desenferrujar-se, desoxidar-se}
+Chave: ENFERRUJAR-SE <verb.change>
+ILI: 00265054
+
+Sense 1
+{00265054} <verb.change> corrode, rust -- (become destroyed by water, air, or an etching chemical such as an acid; "The metal corroded"; "The pipes rusted")
+       => {00201478} <verb.change> decay, crumble13, delapidate -- (fall into decay or ruin; "The unoccupied house started to decay")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

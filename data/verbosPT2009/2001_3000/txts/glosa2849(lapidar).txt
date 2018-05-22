@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA2849
+
+DADO O SYNSET:
+
+S='Glosa2849'
+	    {facetar: A lapidação, ou arte de I]facetar uma gema tem suas origens na Idade Média, sendo que até antes desse período, todas as jóias, coroas e objetos preciosos tinham pedras encravadas no seu estado bruto.,
+	      facetear1: x,
+	      lapidar: Com este aparelho, mesmo quem jamais I]lapidou vai aprender em pouco tempo a facetar e polir gemas como um mestre lapidário, o que demoraria anos no sistema arcaico utilizado até hoje no Brasil. ,
+	      lavrar: A escoda era uma ferramenta especial para I]lavrar e alisar pedras já desbastadas.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2849' = “Dar forma a (materiais como pedras ou madeira) reduzindo gradualmente”
+	    {facetar: As pedras utilizadas eram cortadas com um pedernal: I]facetavam-nas e eram coladas com uma goma natural chamada tzauhtili.,
+	      lapidar: Durante sua permanência em Estrasburgo, I]lapidou pedras preciosas e fabricou espelhos, apurando seus dotes de escultor. ,
+	      lavrar: A escoda era uma ferramenta especial para I]lavrar e alisar pedras já desbastadas.,}
+Chave: LAPIDAR <verb.contact>
+ILI: 01508863
+
+Sense 2
+{01508863} <verb.contact> sculpt, sculpture, grave1 -- (shape (a material like stone or wood) by whittling away at it; "She is sculpting the block of marble into an image of her husband")
+       => {01218103} <verb.contact> carve1 -- (form by carving; "Carve a flower from the ice")
+           => {01509511} <verb.contact> cut -- (separate with or as if with an instrument; "Cut the rope")
+               => {01513899} <verb.contact> separate1, disunite, divide1, part1 -- (force, take, or pull apart; "He separated the fighting children"; "Moses parted the Red Sea")
+                   => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")
+           => {01612040} <verb.creation> shape, form, work12, mold1, mould1, forge3 -- (make something, usually for a specific function; "She molded the riceballs carefully"; "Form cylinders from the dough"; "shape a figure"; "Work the metal into a sword")
+               => {01606076} <verb.creation> create from raw material, create from raw stuff -- (make from scratch)
+                   => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor") 

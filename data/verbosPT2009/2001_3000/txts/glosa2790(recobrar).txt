@@ -1,0 +1,41 @@
+ANÁLISE DA GLOSA2790
+
+DADO O SYNSET:
+
+S='Glosa2790'
+	    {arribar: Ninguém poderia supor, meia-hora antes, que o mercado de arte fosse despencar e que só iria começar a I]arribar três ou quatro anos depois, quando, logo após, em 1990, o Plano Collor - aquele que deixou todo mundo com 50 cruzados no bolso - viria a derrubar o mercado de novo.,
+	      cobrar: Muita vez, quando o trabalho me tomava parte da noite, e eu, apesar de robusto, me sentia cansado, erguia-me, ia ao berço de Helena, contemplava-a um instante e parecia I]cobrar forças novas. ,
+	      convalescer: Tudo era ao mesmo tempo tão inesquecível...aos 87 anos o imigrante holandês e ex-corretor do café Peter Van Dorf I]convalesce. Sua memória o leva a uma viagem saudosa, fazendo-o reviver, mais 40 anos depois, as emoções de um passado presente.,
+	      desentibiar: x,
+	      fortificar: Com a ação direta desses amigos conseguimos novos contatos, mas sempre procurando I]fortificar a Associação Guarani Nhe'em Porã.,
+	      reanimar: E está aí o maior desafio: reorganizar e [reanimar a indústria local.,
+	      recobrar: Tal atitude coletiva não corresponderia às exigências de um país que precisa [recobrar o desenvolvimento para superar a miséria.,
+	      recompor: Do conjunto, resulta que o brasileiro médio não está disposto a torrar seu dinheiro, mesmo porque 61% manifestaram medo de perder o emprego, mas pretende [recompor um estilo de vida prejudicado por três anos de crise.,
+	      reconfortar: Mesmo aparentemente tradicional, o rabino Safran soube logo após a guerra reconstruir as almas e I]reconfortar os que fraquejavam, achando ainda tempo nesta grande empreitada de aprofundar e renovar a tradição judaica. ,
+	      reconstituir: Interessado em [reconstituir o antigo Império Romano, Justiniano realizou campanhas militares contra os vândalos, no norte da África, os ostrogodos, na Itália, e os visigodos, na Espanha.,
+	      refazer: Ao contrário do PCF, Luta Operária I]refará sua caixa com recursos fornecidos pelo Estado burguês.,
+	      reflorescer: Em 1934 Pirandello recebeu o Prêmio Nobel de Literatura "Por sua audaciosa e engenhosa maneira de fazer I]reflorescer a arte teatral e dramática". ,
+	      reflorir: Mas o certo é que tivemos o saturra Pio IX e depois, por longos annos, Leão XIII, que em torno de sua figura branca conseguio reerguer energias e I]reflorir esperanças.,
+	      refocilar: As palavras de Catão não bastaram para A]refocilar a decadente sociedade romana.,
+	      renovar: A moeda forte e o controle da inflação, que todos apreciamos e reconhecemos como fundamentais ao bem-estar social, não são suficientes para [renovar o país e assegurar tranqüilidade e paz à família brasileira, advertem os bispos . ,
+	      reparar: Destaco dois aspectos fundamentais para a compreensão da matéria em exame: as férias constituem um direito do trabalhador (artigo 7º, inciso XVII, da Carta Magna), destinadas a I]reparar suas forças e garantindo assim não só sua integridade física e mental, como a prestação de serviços de mais qualidade.,
+	      restabelecer: Nesses casos, só o Judiciário tem competência para [restabelecer o Estado de Direito.,
+	      reverdecer: A derradeira delas desposou aos trinta anos um oficial de marinha, e foi ainda o que [reverdeceu as esperanças à amiga solteira, que não pedia tanto, posto que a farda de aspirante foi a primeira cousa que lhe seduziu os olhos, aos quinze anos.,
+	      revigorar: Vamos [revigorar a federação, com os Estados e municípios assumindo co-responsabilidades com a União, mediante a descentralização, a municipalização e a participação da cidadania na gestão da coisa pública.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2790' = “Alcançar um estado positivo anterior”
+	    { reanimar: E está aí o maior desafio: reorganizar e [reanimar a indústria local.,
+	      recobrar: Tal atitude coletiva não corresponderia às exigências de um país que precisa [recobrar o desenvolvimento para superar a miséria.,
+	      recompor: O brasileiro médio pretende [recompor um estilo de vida prejudicado por três anos de crise.,
+	      reflorescer: Em 1934 Pirandello recebeu o Prêmio Nobel de Literatura "Por sua audaciosa e engenhosa maneira de fazer I]reflorescer a arte teatral e dramática". ,
+                   reflorir: Mas o certo é que tivemos o saturra Pio IX e depois, por longos anos, Leão XIII, que em torno de sua figura branca conseguio reerguer energias e I]reflorir esperanças.,
+	      restabelecer: Nesses casos, só o Judiciário tem competência para [restabelecer o Estado de Direito.,}
+
+Chave: RECOBRAR <verb.possession>
+ILI: 02184542
+
+Sense 4
+{02184542} <verb.possession> recover1, recoup, recuperate -- (regain or make up for; "recuperate one's losses")
+       => {02147191} <verb.possession> get, acquire -- (come into the possession of something concrete or abstract; "She got a lot of paintings from her uncle"; "They acquired a new pet"; "Get your results the next day"; "Get permission to take a few days off from work")

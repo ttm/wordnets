@@ -1,0 +1,42 @@
+ANÁLISE DA GLOSA1616
+
+DADO O SYNSET:
+
+S='Glosa1616'
+{abalar: Apesar de todos os meus argumentos, não alcancei A]abalá-lo.  ,
+ abanar: Tal argumento o M]abanou. ,
+ demover: Amigos comuns tentaram [demover o escritor, eu próprio enviei-lhe um fax, a contragosto, pressionado pelo Comitê de Apoio, não obtive retorno.# Não logrando A]demovê-lo com raciocínios, recorreu às lágrimas.  ,
+ desaconselhar: José Serra [desaconselhou Ricupero a gastar tempo discutindo com lideranças de esquerda a reforma tributária.#  M]Desaconselhou ao editor a publicação da novela. ,
+ desconvencer: A tônica é destruir, desfazer, I]desconvencer alguém a votar em outrem. ,
+ despersuadir: Só ele podia [despersuadir o pai de aceitar a presidência.,
+ dissuadir: Não hei de [dissuadir sua mãe de um projeto que é, além de promessa, a ambição e o sonho de longos anos.,
+ divertir: A]Diverti-o daqueles maus propósitos.  ,
+ tirar: A]Tirou-o do intento.,}
+
+A='Glosa3800'
+{convencer, encasquetar, induzir, persuadir, vencer}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1616' = “tirar de um propósito por meio de persuasão” 
+{demover: Amigos comuns tentaram [demover o escritor, eu próprio enviei-lhe um fax, a contragosto, pressionado pelo Comitê de Apoio, não obtive retorno.,
+ desaconselhar: Dutra também [desaconselha as pessoas que ainda não receberam o carnê a pagar o imposto adiantado.,
+ desconvencer: Nada consegue me “desconvencer” de que esta é uma das tendências principais do ensino superior, o Estudo Individualizado.,
+ despersuadir: Só ele podia [despersuadir o pai de aceitar a presidência.,
+ dissuadir: Ele disse também que tentou [dissuadir os assassinos.,
+ tirar: As pessoas falam da Assembléia de Deus, mas não imaginam quantas pessoas a Assembléia e outras igrejas I]tiram das drogas.,}
+
+A='Glosa3800'
+{convencer, encasquetar, induzir, persuadir, vencer}
+Chave: DISSUADIR <verb.communication>
+ILI: 00744704 
+
+Sense 1
+{00744704} <verb.communication> dissuade, deter -- (turn away from by persuasion; "Negative campaigning will only dissuade people")
+       => {00843872} <verb.communication> advise, counsel -- (give advice to; "The teacher counsels troubled students"; "The lawyer counselled me when I was accused of tax fraud")
+           => {00787668} <verb.communication> hash out, discuss, talk over -- (speak with others about (something); talk (something) over in detail; have a discussion; "We discussed our household budget")
+               => {00912516} <verb.communication> talk of, talk about1 -- (discuss or mention; "They spoke of many things")
+                   => {00910961} <verb.communication> talk, speak, utter, mouth, verbalize, verbalise -- (express in speech; "She talks a lot of nonsense"; "This depressed patient does not verbalize")
+                       => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                           => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                               => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

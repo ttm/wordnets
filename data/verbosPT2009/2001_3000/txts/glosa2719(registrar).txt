@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA2719
+
+DADO O SYNSET:
+
+  S='Glosa2719'
+	    {anotar: Provavelmente, quando você faz um tratamento dentário ainda vê seu dentista [anotar numa fichinha de papel o que faz em cada um de seus dentes. ,
+	      registar: Em trabalhos experimentais, Adalberto já I]registou a captura de até 96 insetos numa única armadilha.,
+	      registrar: É sua obrigação procurar [registrar informações de ambas as procedências para poder configurar em cada momento o estado de saúde do trabalhador, o ponto em que ele se encontra naquele contínuo, de que se falava na introdução deste trabalho, entre a completa higidez e a doença incapacitante.,
+	      titular: M]Titular despesas.,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2719' = “Pôr por escrito, inscrever em um livro de nomes, eventos ou transações.”
+	    {anotar: Abriu a bolsa, apanhou a agenda e I]anotou o único compromisso para o próximo fim de semana.,
+	      registar: Em trabalhos experimentais, Adalberto já I]registou a captura de até 96 insetos numa única armadilha.,
+	      registrar: Armstrong I]registrou no diário dele - "Obtive imediatamente grande amplificação ".,}
+
+Chave: REGISTRAR <verb.social>
+ILI: 02397606
+
+Sense 1
+{02397606} <verb.social> register -- (record in writing; enter into a book of names or events or transactions)
+       => {00967710} <verb.communication> record, enter4, put down5 -- (make a record of; set down in permanent form)
+           => {02161122} <verb.possession> save, preserve1 -- (to keep up and reserve for personal or special use; "She saved the old family photographs in a drawer")
+               => {02138940} <verb.possession> keep, hold on -- (retain possession of; "Can I keep my old stuffed animals?"; "She kept her maiden name after she married")
+                   => {02139918} <verb.possession> have, have got, hold -- (have or possess, either in a concrete or an abstract sense; "She has $1,000 in the bank"; "He has got two beautiful daughters"; "She holds a Master's degree from Harvard") 

@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA1789
+
+DADO O SYNSET:
+
+S='Glosa1789'
+{aclarar-se: x,
+ desatar-se: DEVIANT,
+ elucidar-se: Tente ler e I]elucidar-se sobre tabagismo e saúde. #  M]Elucidou-se previamente sobre os horários dos trens.,
+ enfronhar-se: Entretanto, ler o jornal, I]enfronhar-se de fatos que interessavam a todo mundo, seria uma maneira de participar da vida. ,
+ esclarecer-se: Procure I]esclarecer-se suficientemente com a Comissão de Orientação de Matrícula quanto à montagem mais adequada de seu horário para 2004.,
+ explicar-se: DEVIANT,
+ ilustrar-se: Formou biblioteca respeitável com obras raras, ávido de conhecimento e saber, era propagandista do livro espírita e da boa leitura a fim de que todos pudessem I]ilustrar-se e adquirir conhecimentos.,
+ informar-se: Daqueles que se preocuparam em [informar-se sobre o plano, a maioria não entendeu nada ou muito pouco.,
+ instruir-se: Os alunos procuraram a secretaria do colégio para I]instruir-se a respeito das novas medidas adotadas.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1789' = “ficar bem informado”
+{elucidar-se: Tente ler e I]elucidar-se sobre tabagismo e saúde.,
+ enfronhar-se: Sem discurso novo, sem visão de país, sem tempo ou disposição para se [enfronhar em temas econômicos e políticos, sem grandes lampejos jurídicos e sem criatividade para içar novas bandeiras, o ministro faz parte dos seguidores de Pavlov na política.,
+ esclarecer-se: Procure I]esclarecer-se suficientemente com a Comissão de Orientação de Matrícula quanto à montagem mais adequada de seu horário para 2004.,
+ ilustrar-se: Formou biblioteca respeitável com obras raras, ávido de conhecimento e saber, era propagandista do livro espírita e da boa leitura a fim de que todos pudessem I]ilustrar-se e adquirir conhecimentos. ,
+ informar-se: Daqueles que se preocuparam em [informar-se sobre o plano, a maioria não entendeu nada ou muito pouco.,
+ instruir-se: Os alunos procuraram a secretaria do colégio para I]instruir-se a respeito das novas medidas adotadas.,}
+Chave: INFORMAR-SE <verb.cognition>
+ILI: 00576862
+
+Sense 1
+{00576862} <verb.cognition> know the score, be with it, be on the ball, know what's going on, know what's what -- (be well-informed)
+       => {00576491} <verb.cognition> know3 -- (know how to do or perform something; "She knows how to knit"; "Does your husband know how to cook?")

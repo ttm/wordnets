@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA3800
+
+DADO O SYNSET:
+	
+S='Glosa3800'
+{convencer: Nilton Cerqueira [convenceu Marcello a manter Luz no cargo.,
+	 encasquetar: A]Encasquetou o rapaz a deixar o emprego.,
+	 induzir: Ariovaldo Pantaleão [induziu a vítima a suicidar-se.,
+	 persuadir: Ele [persuadiu Kohl a tornar solene a cerimônia de retirada das últimas tropas russas da Alemanha.,
+	 vencer: As instâncias do filho acabaram A]vencendo o pai.}
+
+A='Glosa1616'
+{abalar, abanar, demover, desaconselhar, desconvencer, despersuadir, dissuadir, divertir, tirar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3800' = “fazer alguém adotar uma certa posição, crença ou modo de ação; enroscar o braço de alguém”
+{convencer: Nilton Cerqueira [convenceu Marcello a manter Luz no cargo.,
+	 encasquetar: A]Encasquetou o rapaz a deixar o emprego.,
+	 induzir: Ariovaldo Pantaleão [induziu a vítima a suicidar-se.,
+	 persuadir: Ele [persuadiu Kohl a tornar solene a cerimônia de retirada das últimas tropas russas da Alemanha.,
+	 vencer: As instâncias do filho acabaram A]vencendo o pai.}
+
+A='Glosa1616'
+{abalar, abanar, demover, desaconselhar, desconvencer, despersuadir, dissuadir, divertir, tirar}
+Chave: PERSUADIR <verb.communication>
+ILI: 00741138
+
+Sense 2 
+{00741138} <verb.communication> persuade -- (cause somebody to adopt a certain position, belief, or course of action; twist somebody's arm; "You can't persuade me to buy this ugly vase!")
+       => {00744964} <verb.communication> induce, stimulate1, cause, have, get, make -- (cause to do; cause to act in a specified manner; "The ads induced me to buy a VCR"; "My children finally got me to buy a computer"; "My wife made me buy a new sofa")

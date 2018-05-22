@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA1480
+
+DADO O SYNSET:
+
+S='Glosa1480'
+{desafligir: A parceria é obtida pelo sistemático empenho de ambos para vencer a doença, e I]desafligir o paciente, o que geralmente sobrepassa a cura.,
+ desagoniar: x,
+ desangustiar: Vale a reiteração de decisões, o conhecimento da orientação pretoriana, se isso não está auxiliando a desafligir o aflito, a I]desangustiar o angustiado.,
+ desapertar: Houve corações fracos que não resistiram à saudades e a única saída encontrada foi soltar lágrimas para I]desapertar o coração,
+ desmortificar: x,}
+	  
+A='Glosa2942'
+{afelear, afligir, agoniar, agonizar, alancear, amargar, amargurar, angustiar, apertar, atribular, consumir, desesperar, desgostar, devorar, mortificar, remorder}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1480' = “acalmar” 
+{desafligir: A parceria é obtida pelo sistemático empenho de ambos para vencer a doença, e I]desafligir o paciente, o que geralmente sobrepassa a cura.,
+ desangustiar: Vale a reiteração de decisões, o conhecimento da orientação pretoriana, se isso não está auxiliando a desafligir o aflito, a I]desangustiar o angustiado.,
+ desapertar: Houve corações fracos que não resistiram à saudades e a única saída encontrada foi soltar lágrimas para I]desapertar o coração.,}
+	  
+A='Glosa2942'
+{afelear, afligir, agoniar, agonizar, alancear, amargar, amargurar, angustiar, apertar, atribular, consumir, desesperar, desgostar, devorar, mortificar, remorder}
+Chave: DESANGUSTIAR <verb.emotion>
+ILI: 01762368
+
+Sense 4
+{01762368} <verb.emotion> still1, allay, relieve, ease -- (lessen the intensity of or calm; "The news eased my conscience"; "still the fears")
+       => {01762034} <verb.emotion> comfort1, soothe, console, solace -- (give moral or emotional strength to)

@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA1182
+
+DADO O SYNSET:
+
+S='Glosa1182'
+{antiquar: O tempo vai M]antiquando numerosas palavras.,
+ desatualizar: Mesmo com o passar do tempo, o estilo de Brigitte não I]desatualizou nem no visual e nem no discurso.,}
+	  
+A='Glosa3251'
+{amodernar, atualizar, juvenescer, modernar, modernizar, rejuvenescer, renovar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1182' = “estabelecer algo como sendo relativo ao passado”
+{antiquar: I]Antiquava, de propósito, a forma de escrever.,
+ desatualizar: A publicação do novo Estatuto da OAB [desatualizou a obra na parte referente aos advogados.,}
+A='Glosa3251'
+{amodernar, atualizar, juvenescer, modernar, modernizar, rejuvenescer, renovar}
+Chave: DESATUALIZAR <verb.change>
+ILI: 00268080
+
+Sense 2
+{00268080} <verb.change> predate, antedate, foredate -- (establish something as being earlier relative to something else)
+       => {00268393} <verb.change> chronologize, chronologise -- (establish the order in time of something; "The archivist chronologized the documents")
+           => {00598868} <verb.cognition> date -- (assign a date to; determine the (probable) date of; "Scientists often cannot date precisely archeological or prehistorical findings")
+               => {00676553} <verb.cognition> determine1, set4 -- (fix conclusively or authoritatively; "set the rules")

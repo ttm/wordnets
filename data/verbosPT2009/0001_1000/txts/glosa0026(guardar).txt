@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0026
+
+DADO O SYNSET:
+
+S='Glosa26'
+{calar: Sabia H]calar todos os segredos.,
+esconder: Apesar de protegido pela lei da Anistia, o coronel esconde sua identidade da mesma forma que I]escondeu a verdade deste crime por vinte e oito anos. ,
+guardar: Você já [guardou um segredo das pessoas que ama?,
+reservar: H]Reservou as razões de uma renúncia.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa26' = “ocultar a verdade, evitar que seja percebida por outros”
+{esconder: Apesar de protegido pela lei da Anistia, o coronel esconde sua identidade da mesma forma que I]escondeu a verdade deste crime por vinte e oito anos. ,
+guardar: Você já [guardou um segredo das pessoas que ama?,}
+Chave: GUARDAR <verb.perception>
+ILI: 02084879
+
+Sense 3
+{02084879} <verb.perception> conceal, hold back, hold in -- (hold back; keep from being perceived by others; "She conceals her anger well")

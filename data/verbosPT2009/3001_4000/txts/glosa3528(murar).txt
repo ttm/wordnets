@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA3528
+
+DADO O SYNSET:
+
+S='Glosa3528'
+	    {
+	      amurar: Consta de um livro dos acórdãos da Câmara, que esta vila foi acabada de I]amurar pelos anos de 1513. / As cercas que eu ando I]amurando são as causas do meu desamor.         ,
+	      murar: Ela pede à Prefeitura para sanar o problema, ao menos mande I]murar o terreno. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3528' = “cercar com um muro a fim de fortificar”
+	     {amurar: Também I]amurou o restante do terreno que pertencia ao espaço municipal, espaço este que, está localizado até os dias atuais a Prefeitura Municipal.         ,
+	      murar: Ele construiu uma casa e I]murou o lote, por isso tenta cobrar indenização.,}
+Chave: MURAR <verb.competition>
+ILI: 01095436
+
+Sense 1
+{01095436} <verb.competition> wall, palisade, fence, fence in, surround1 -- (surround with a wall in order to fortify)
+       => {01093094} <verb.competition> protect -- (shield from danger, injury, destruction, or damage; "Weatherbeater protects your roof from the rain")
+           => {01092732} <verb.competition> defend -- (be on the defensive; act against an attack)
+               => {02377053} <verb.social> prevent, keep1 -- (prevent from doing something or being in a certain state; "We must prevent the cancer from spreading"; "His snoring kept me from falling asleep"; "Keep the child from eating the marbles")
+          Also See-> {01349586} <verb.contact> wall in#1; {01349586} <verb.contact> wall up#1

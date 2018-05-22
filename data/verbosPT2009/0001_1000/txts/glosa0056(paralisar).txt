@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0056
+
+DADO O SYNSET:
+
+S='Glosa56'
+{paralisar: Nesse dia, Costa e Silva foi vítima de uma trombose, que [paralisou seu lado direito, tornando-o incapacitado para exercer o cargo. ,
+tolher: A pessoa luta tenazmente para sair desse estado, mas parece que uma força invisível I]tolheu-lhe os movimentos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa56' = “fazer ficar paralizado e imóvel”
+{paralisar: A primeiro grande movimento grevista da história sindical no Brasil que I]paralisou a cidade de São Paulo em 1917. ,
+tolher: A pessoa luta tenazmente para sair desse estado, mas parece que uma força invisível I]tolheu-lhe os movimentos.,}
+Chave: PARALISAR <verb.change>
+ILI: 00259579
+
+Sense 2
+{00259579} <verb.change> paralyze, paralyse -- (cause to be paralyzed and immobile; "The poison paralyzed him"; "Fear paralyzed her")
+       => {00260242} <verb.change> immobilize, immobilise -- (cause to be unable to move; "The sudden storm immobilized the traffic")
+           => {00228980} <verb.change> restrict2, curtail, curb, cut back -- (place restrictions on; "curtail drinking in school")
+               => {00227757} <verb.change> limit, circumscribe, confine1 -- (restrict or confine, "I limit you to two visits to the pub a day")
+                   => {00428838} <verb.change> decrease1, lessen2, minify -- (make smaller; "He decreased his staff")
+                       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA3212
+
+DADO O SYNSET:
+
+S='Glosa3212'
+	    {
+	      cegar-se: Para ele, São Francisco simplesmente teria sido mais feliz se não tivesse se imposto tantas renúncias, se não tivesse tentado [cegar-se a si próprio.,
+	      embaçar-se: E o melhor da obrigação é quando, à força de embaçar os outros, I]embaça-se um homem a si.,
+	      embaciar-se: DEVIANT,
+	      enganar-se: Sem subestimar sua capacidade analítica não há como [enganar-se: diante da realidade contemporânea, FHC optou de fato por uma coalizão conservadora e de centro-direita. ,
+	      iludir-se: Cecília amava; a gentil e inocente menina procurava [iludir-se a si mesma, atribuindo o sentimento que enchia sua alma a uma afeição fraternal.,
+	      intrujar-se: M]Intrujam-se uns aos outros, aqueles velhacos.,
+	      intrujir-se: x,
+	      lograr-se: DEVIANT,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3212' = “acreditar em uma inverdade”
+	     {cegar-se: O único problema é que o homem se I]cegou, e resiste com todas as forças para admitir que fez algo errado.,
+	      enganar-se: Jakob Mikhailovitch raramente I]enganava-se acerca das pessoas, tal como os eventos subseqüentes vieram a demonstrar. ,
+	      iludir-se: Stonecipher I]iludiu-se com a sensação de privacidade do computador.,}
+Chave: ILUDIR-SE <verb.communication>
+ILI: 00826744
+
+Sense 2
+{00826744} <verb.communication> deceive, betray3, lead astray -- (cause someone to believe an untruth; "The insurance company deceived me when they told me they were covering my house")
+       => {00806775} <verb.communication> misinform, mislead -- (give false or misleading information to)
+           => {00804489} <verb.communication> inform -- (impart knowledge of some fact, state or affairs, or event to; "I informed him of his rights")
+               => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                   => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                       => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

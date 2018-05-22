@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA3985
+
+DADO O SYNSET:
+	
+S='Glosa3985'
+{aparecer: Carolina não I]apareceu na festa da première para não causar ainda mais alvoroço.,
+ apresentar-se: O grande duque I]apresentou-se ao tribunal, e a todos os itens que contra ele formularam respondeu, declarando-se inocente.,
+ comparecer: Foi a primeira vez que Santos-Dumont I]compareceu a uma solenidade trajando fraque e cartola.,
+ ir: Devo informar ao leitor que sou um veterano de encontros sobre a Amazônia, mas [fui à Conferência de Belém desconfiado.,
+ presentar-se: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3985' = “estar presente em encontros, na universidade, nos serviços da igreja, etc.”
+{aparecer: Foi a primeira vez desde o término da comissão que o parlamentar [apareceu no Congresso.,
+ apresentar-se: O juiz Luís Fernando Camargo de Barros Vidal negou o pedido de revogação da prisão temporária de Zezé, mas afirmou que a revogará se ele se [apresentar no Fórum.,
+ comparecer: Nenhum parente de Manuel Fones [compareceu ao ato promovido pelos funcionários.,
+ ir: Devo informar ao leitor que sou um veterano de encontros sobre a Amazônia, mas [fui à Conferência de Belém desconfiado.}
+Chave: COMPARECER <verb.stative>
+ILI: 02534896
+
+Sense 1
+{02534896} <verb.stative> attend, go to -- (be present at (meetings, church services, university), etc.; "She attends class regularly"; "I rarely attend services at my church"; "did you go to the meeting?")
+       => {02576058} <verb.stative> be5 -- (occupy a certain position or area; be somewhere; "Where is my umbrella?" "The toolshed is in the back"; "What is behind this behavior?")

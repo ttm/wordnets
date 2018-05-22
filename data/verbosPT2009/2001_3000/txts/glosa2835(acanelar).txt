@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA2835
+
+DADO O SYNSET:
+
+S='Glosa2835'
+	    {acanalar: Ferramenta reta para I]acanalar e chanfrar,
+	      acanelar: x,
+	      canelar: Homens I]canelando os móveis de pedra da varanda, trombando uns nos outros... caindo... alguns esmurravam a porta da casa implorando um lugar. ,
+	      estriar: I]Estriar toda a superfície da placa contendo o meio por três vezes, girando a placa a 60° entre uma estriação e outra para obter uma inoculação homogênea. ,
+	      raiar2: x,
+	      rajar: x,
+	      ranhurar: Rolos ranhuradores, fabricados em metal duro, com diâmetro de 170 a 180mm, destinados especificamente para I]ranhurar fitas de cobre de 24,70 a 43,50mm de largura, para a produção de tubos de cobre para refrigeração e ar-condicionado com diâmetros de 7,00 a 12,70mm ,
+	      riscar: O semicírculo foi desenhado nas laterais de madeira, usando um pvc100mm como molde para I]riscar na madeira.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2835' = “Fazer uma estria em, ou prover com ranhuras”
+	    {canelar: Homens I]canelando os móveis de pedra da varanda, trombando uns nos outros... caindo... alguns esmurravam a porta da casa implorando um lugar. ,
+	      estriar: I]Estriar toda a superfície da placa contendo o meio por três vezes, girando a placa a 60° entre uma estriação e outra para obter uma inoculação homogênea. ,
+	      ranhurar: Rolos ranhuradores, fabricados em metal duro, com diâmetro de 170 a 180mm, destinados especificamente para I]ranhurar fitas de cobre de 24,70 a 43,50mm de largura, para a produção de tubos de cobre para refrigeração e ar-condicionado com diâmetros de 7,00 a 12,70mm ,
+	      riscar: O semicírculo foi desenhado nas laterais de madeira, usando um pvc100mm como molde para I]riscar na madeira.,}
+Chave: ACANELAR <verb.contact>
+ILI: 01416046
+
+Sense 1
+{01416046} <verb.contact> groove2 -- (make a groove in, or provide with a groove; "groove a vinyl record")
+       => {01512738} <verb.contact> incise -- (make an incision into by carving or cutting)
+           => {01509511} <verb.contact> cut -- (separate with or as if with an instrument; "Cut the rope")
+               => {01513899} <verb.contact> separate1, disunite, divide1, part1 -- (force, take, or pull apart; "He separated the fighting children"; "Moses parted the Red Sea")
+                   => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant") 

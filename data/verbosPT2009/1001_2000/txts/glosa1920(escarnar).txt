@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA1920
+
+DADO O SYNSET:
+
+S='Glosa1920'
+{esbrugar: x,
+ esburgar: Cão matreiro, solto na casa afora, a I]esburgar o osso essencial do dia a dia, estouvado de alegria.,
+ escarnar2: O Seu Agenor (meu pai), o João do Ribeirão, o falecido Rola, todos empenhados na tarefa de matar e I]escarnar o bicho. ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1920' = “retirar a carne [de] (um osso)”
+{esburgar: Cão matreiro, solto na casa afora, a I]esburgar o osso essencial do dia a dia, estouvado de alegria.,
+ escarnar2: O Seu Agenor (meu pai), o João do Ribeirão, o falecido Rola, todos empenhados na tarefa de matar e I]escarnar o bicho.,}
+Chave: ESCARNAR <verb.contact>
+ILI: EQ_HAS_HYPERONYM – 01225162 – “retirar a camada exterior de alguma coisa”
+
+Sense 1
+{01225162} <verb.contact> peel off -- (peel off the outer layer of something)
+       => {01224865} <verb.contact> skin, peel, pare2 -- (strip the skin off; "pare apples")
+           => {01225426} <verb.contact> strip -- (remove the surface from; "strip wood")
+               => {00166870} <verb.change> remove, take, take away1, withdraw1 -- (remove something concrete, as by lifting, pushing, taking off, etc. or remove something abstract; "remove a threat"; "remove a wrapper"; "Remove the dirty dishes from the table"; "take the gun from your pocket"; "This machine withdraws heat from the environment")

@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA3359
+
+DADO O SYNSET:
+
+S='Glosa3359'
+	    {
+	      cabortar: x,
+	      carapetar: x,
+	      efabular: x,
+	      fabular: O narrador, desde jovem é dado a fabulações; em tudo que lia ou ouvia I]fabulava por conta própria.,
+	      fabulizar: x,
+	      mangar: Você está H]mangando, isso é impossível!,
+	      mentir: Discutia com todos brigava até para bater um pênalti e [mentia como ninguém chegou a argumentar que um mosquito o havia picado para não participar de uma excursão à Índia. ,
+	      petar: x,
+	      petear: x,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3359' = “contar uma inverdade; fingir com intenção de enganar”
+	     {fabular: Antes mesmo que completasse sete anos de idade, ela já I]fabulava e inventava histórias.,
+	      mangar: Você está H]mangando, isso é impossível!,
+	      mentir: O elfo de Nova Orleans [mentia mais que Pinóquio. ,}
+Chave: MENTIR <verb.communication>
+ILI: 00807025
+
+Sense 5
+{00807025} <verb.communication> lie -- (tell an untruth; pretend with intent to deceive; "Don't lie to your parents"; "She lied when she told me she was only 29")
+       => {00806775} <verb.communication> misinform, mislead -- (give false or misleading information to)
+           => {00804489} <verb.communication> inform -- (impart knowledge of some fact, state or affairs, or event to; "I informed him of his rights")
+               => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                   => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                       => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

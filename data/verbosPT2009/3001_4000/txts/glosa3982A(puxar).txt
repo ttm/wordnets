@@ -1,0 +1,37 @@
+ANÁLISE DA GLOSA3982A
+
+DADO O SYNSET:
+	
+S='Glosa3982'
+    	{afigurar-se: DEVIANT,
+      	 apresentar: DEVIANT,
+      	 aproximar-se: A cor das cortinas H]aproxima-se da usada no sofá.,
+      	 assemelhar: Estava linda, H]assemelhava uma atriz.,
+      	 assemelhar-se: Sua cor é profunda e se I]assemelha a cor das cerejas pretas.,
+      	 assimilhar: x,
+      	 lembrar: A elegância de Crockett I]lembra um cantor brega de origem hispânica.,
+      	 parecer: DEVIANT,
+      	 parecer-se: Brigou com a mulher porque só um dos gêmeos se I]parece com o pai. ,
+      	 presentar: DEVIANT,
+      	 puxar: Não é que eu queira me gabar, mas ela I]puxou a mãe nesse gosto pela arte moderna!,
+      	 recordar: O seu aspecto M]recorda o de um hábil guerreiro.,
+      	 sair: O primogênito M]saiu ao pai.,
+      	 semelhar: A última sala do museu de arte instantânea I]semelha uma escadaria, cujos degraus alargam-se para novas criações.,}
+
+A ANÁLISE RESULTA EM:
+    	
+S='Glosa3982A' = “ser parecido com um parente”
+{assemelhar-se: Quanto mais Sandy se I]assemelha à mãe, mais a cantora não acredita.,
+      	 lembrar: Diogo [lembra a mãe.,
+      	 parecer-se: Tiago, hoje com quatro meses, se [parece com a mãe.,
+ puxar: Parabéns pela filha linda, sorte que não puxa ao pai, menina nunca puxa I]aos pais feios.,
+      	 sair: Emilio não [saiu a Jean, Massimo e Luigi, mas a Corrado, o lado podre da família, o sangue ruim.,
+      	 semelhar: I]Semelha a mãe, desde a cabeça às pontas dos pés.}
+Chave: PUXAR <verb.stative>
+ILI: 02585885
+
+Sense 1
+{02585885} <verb.stative> take after -- (be similar to a relative; "She takes after her father!")
+       => {02585229} <verb.stative> resemble -- (appear like; be similar or bear a likeness to; "She resembles her mother very much"; "This paper resembles my own work")
+           => {02578124} <verb.stative> match, fit4, correspond, check8, jibe, gibe, tally, agree -- (be compatible, similar or consistent; coincide in their characteristics; "The two stories don't agree in many details"; "The handwriting checks with the signature on the check"; "The suspect's fingerprints don't match those on the gun")
+               => {02584716} <verb.stative> equal, be7 -- (be identical or equivalent to; "One dollar equals 1,000 rubles these days!")

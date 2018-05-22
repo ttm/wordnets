@@ -1,0 +1,40 @@
+ANÁLISE DA GLOSA2032
+
+DADO O SYNSET:
+
+S='Glosa2032'
+    	{acompridar-se: O galho H]acompridava-se, alcançando o telhado.,
+      	 alongar-se: Um pouco distante, a grande planície I]alonga-se até os rochedos.,
+      	 arrastar-se: S estrda se A]arrasta por cinco quilômetros.,
+      	 continuar-se: x,
+      	 encompridar-se: Na véspera do Natal I]encompridava-se a "mesa elástica", como então se chamava, acrescentando-lhe duas tábuas.,
+      	 espichar-se: x,
+      	 espraiar-se: O Parque Florestal Estadual do Turvo com área de 17.492 ha. I]espraia-se verdejante por quase 50% da área do município de Derrubadas, localizada na Região noroeste do Estado.,
+      	 estender-se: A Amazônia é um imenso espaço natural, de características físicas e humanas uniformes, que, além de englobar a Região Norte e parte das regiões Nordeste e Centro-Oeste, [estende-se ainda por terras das três Guianas, Venezuela, Colômbia, Equador, Peru e Bolívia ,
+      	 esticar-se: A ilha I]estica-se paralela ao continente, oferecendo quilômetros de nascentes e poentes, com ou sem um morrinho na frente.,
+      	 prolongar-se: Com 400 m de diâmetro por 36 m de altura, a Ilha Redonda I]prolonga-se em direção à Ilha Siriba. ,}
+  
+A='Glosa67'
+    	{encolher-se, encurtar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2032' = “estirar-se para uma ou mais direções”
+    	{alongar-se: A grande planície I]alonga-se até os rochedos.,
+      	 arrastar-se: A poeira da terra se I]arrasta sem direção.,
+      	 encompridar-se: O Pan é uma idéia simpática para mostrar que, do estreito de Bering (no norte) a Ushuaia (no sul), I]encomprida-se a América.,
+      	 espraiar-se: O Parque Florestal Estadual do Turvo com área de 17.492 ha I]espraia-se verdejante por quase 50% da área do município de Derrubadas, localizada na Região noroeste do Estado.,
+      	 estender-se: A Amazônia, além de englobar a Região Norte e parte das regiões Nordeste e Centro-Oeste, [estende-se ainda por terras das três Guianas, Venezuela, Colômbia, Equador, Peru e Bolívia.,
+      	 esticar-se: A ilha I]estica-se paralela ao continente, oferecendo quilômetros de nascentes e poentes, com ou sem um morrinho na frente.,
+      	 prolongar-se: Com 400 m de diâmetro por 36 m de altura, a Ilha Redonda I]prolonga-se em direção à Ilha Siriba.}
+  
+A='Glosa67'
+    	{encolher-se, encurtar-se}
+Chave: ESTENDER-SE <verb.motion>
+ILI: 02018133
+Sense 4
+{02018133} <verb.motion> expand, spread out1 -- (extend in one or more directions; "The dough expands")
+       => {00223119} <verb.change> grow -- (become larger, greater, or bigger; expand or gain; "The problem grew too large for me"; "Her business grew fast")
+           => {00150804} <verb.change> increase -- (become bigger or greater in amount; "The amount of work increased")
+               => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

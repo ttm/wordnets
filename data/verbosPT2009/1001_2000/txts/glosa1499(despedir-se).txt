@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA1499
+
+DADO O SYNSET:
+
+S='Glosa1499'
+{cumprimentar: As pessoas [cumprimentaram o ministro na saída da missa no Mosteiro São Bento,
+ despedir-se: Após [despedir-se do presidente, Marcello Alencar, José Serra e Sérgio Cutolo, assinaram um termo de compromisso para implantação de programas de moradia em todo o estado, ,
+ saudar: DEVIANT,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1499' = “dizer adeus ou despedir-se [de]”
+{despedir-se: Itamar desceu do carro, a acompanhou até a portaria e [despediu-se dela no elevador.,}
+Chave: DESPEDIR-SE <verb.communication>
+ILI: 00871296
+
+Sense 1
+{00871296} <verb.communication> say farewell -- (say good-bye or bid farewell)
+       => {00867595} <verb.communication> greet, recognize1, recognise1 -- (express greetings upon meeting someone)
+           => {00958357} <verb.communication> address1, accost1, come up to -- (speak to someone)
+               => {01795677} <verb.motion> come, come up2 -- (move toward, travel toward something or somebody or approach something or somebody; "He came singing down the road"; "Come with me to the Casbah"; "come down here!"; "come out of the closet!"; "come into the room")
+                   => {01782203} <verb.motion> travel, go, move3, locomote -- (change location; move, travel, or proceed; "How fast does your new car go?"; "We travelled from Rome to Naples by bus"; "The policemen went from door to door looking for the suspect"; "The soldiers moved towards the city in an attempt to take it before night fell")

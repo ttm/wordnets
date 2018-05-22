@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA3872
+
+DADO O SYNSET:
+
+S='Glosa3872'
+{divinizar: As grandes crises podem I]divinizar ou prostituir uma consciência, do mesmo feitio que um grande amor pode I]divinizar ou prostituir uma mulher.,
+ idealizar: Foi um homem interessante, que trouxe cientistas e artistas, como o pintor Albert Eckhout, estudante de Rembrandt, que foi o primeiro a pintar a população indígena sem [idealizar os corpos no estilo grego ou romano. ,
+ poetificar: x,
+ poetizar: A imaginação juvenil M]poetiza a vida com circunstâncias fabulosas.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3872' = “considerar ou transformar [algo ou alguém] em ideal”
+{divinizar: A especialista afirma que existe um grupo bastante "barulhento" nos Estados Unidos que I]diviniza a família tradicional.,
+ idealizar: Friedman não tem dificuldade em demonstrar que qualquer teoria que não for uma réplica exata da realidade [idealiza o comportamento dos agentes econômicos e simplifica as condições iniciais assumidas, sendo dessa maneira descritivamente incorreta.,
+ poetizar: Seus retratos mostram todos os impulsos da simpatia humana e em outros, coletivos, I]poetizou a vida social de Amsterdã.}
+Chave: IDEALIZAR <verb.cognition>
+ILI: 00669805
+
+Sense 1
+{00669805} <verb.cognition> idealize, idealise -- (consider or render as ideal; "She idealized her husband after his death")
+       => {00667530} <verb.cognition> see, consider, reckon, view, regard -- (deem to be; "She views this quite differently from me"; "I consider her to be shallow"; "I don't see the situation quite as negatively as you do")
+           => {00666260} <verb.cognition> think1, believe4, consider8, conceive -- (judge or regard; look upon; judge; "I think he is very smart"; "I believe her to be very smart"; "I think that he is her boyfriend"; "The racist conceives such people to be inferior")
+               => {00647983} <verb.cognition> judge -- (form an opinion of or pass judgment on; "I cannot judge some works of modern art")
+                   => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA4086
+
+DADO O SYNSET:
+
+S='Glosa4086'
+{comover: A vingança o H]comoveu ao crime.,
+impelir: Sempre em silêncio e ativamente, para não perder aquele raro estímulo de vontade que o [impelia, foi examinando o lixo com o pé .,
+incitar: Isso [incita os historiadores da arte colonial a deplorar suas carências estéticas, repetitividade e a comercialização da produção barroca.,
+mover: Em sua curta vida, H]moveu muitas paixões.,
+pulsar: Os passageiros A]pulsaram o automóvel avariado. ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4086' = “dar um incentivo à ação”
+{comover: A vingança o H]comoveu ao crime.,
+impelir: A visão do bem [impeliu-me ainda a muitos outros atos.,
+incitar: Isso [incita os historiadores da arte colonial a deplorar suas carências estéticas, repetitividade e a comercialização da produção barroca.,
+mover: Essa curiosidade das pessoas me [moveu a escrever uma peça de teatro.,}
+Chave: INCITAR <verb.creation>
+ILI: 01603134
+
+Sense 1
+{01603134} <verb.creation> motivate, actuate2, propel, move, prompt, incite -- (give an incentive for action; "This moved me to sacrifice my career")
+       => {01598809} <verb.creation> cause, do2, make8 -- (give rise to; cause to happen or occur, not always intentionally; "cause a commotion"; "make a stir"; "cause an accident")
+           => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

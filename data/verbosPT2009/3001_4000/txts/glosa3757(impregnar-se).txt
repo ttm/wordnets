@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA3757
+
+DADO O SYNSET:
+
+S='Glosa3757'
+{embeber-se: Para alimentar o lado místico e aumentar a sua energia, procure I]embeber-se de um sentimento de amor. ,
+	 imbuir-se: O homem agora deve I]imbuir-se de novos poderes e virtudes, novos padrões morais e novas capacidades. ,
+	 impregnar-se: A mente moderna [impregnou-se de Marx e Freud a tal ponto que se despreza a contribuição deles.,
+	 penetrar-se: Ele saiu e andou muito, respirando a fumaça dos carros, I]penetrando-se pouco a pouco daquela atmosfera estranha e incômoda.,
+	 tomar-se: A rainha I]tomou-se de profundo pesar e voltou a seguir o rei.,
+	 vestir-se: I]Vestiu-se o Senhor de fortaleza e cingiu-se dela.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3757' = “encher, como com uma certa qualidade”
+{embeber-se: Para alimentar o lado místico e aumentar a sua energia, procure I]embeber-se de um sentimento de amor. ,
+	 imbuir-se: O homem agora deve I]imbuir-se de novos poderes e virtudes, novos padrões morais e novas capacidades. ,
+	 impregnar-se: A mente moderna [impregnou-se de Marx e Freud a tal ponto que se despreza a contribuição deles.,
+	 penetrar-se: Ele saiu e andou muito, respirando a fumaça dos carros, I]penetrando-se pouco a pouco daquela atmosfera estranha e incômoda.,
+	 tomar-se: A rainha I]tomou-se de profundo pesar e voltou a seguir o rei.,
+	 vestir-se: I]Vestiu-se o Senhor de fortaleza e cingiu-se dela.}
+Chave: IMPREGNAR-SE <verb.change>
+ILI: 00484880
+
+Sense 1 
+{00484880} <verb.change> impregnate1, infuse1, instill, tincture1 -- (fill, as with a certain quality; "The heavy traffic tinctures the air with carbon monoxide")
+       => {00439460} <verb.change> fill1, fill up, make full -- (make full, also in a metaphorical sense; "fill a container"; "fill the child with pride")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

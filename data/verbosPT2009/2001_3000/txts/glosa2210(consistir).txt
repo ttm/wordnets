@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA2210
+
+DADO O SYNSET:
+
+	  S='Glosa2210'
+	    {consistir: Tal interface I]consistia em uma representação animada da casa, que era exibida em um computador manual chamado star seven, bisavô dos palmtops de hoje.,
+	      constar: Vai daí mandou pôr na mesa a janta que I]constava de feijão aguado e  paçoca de carne. #  A cabana A]constava de três peças: uma servia de varanda, outra de dormitório, a última era a cozinha.,
+	      constituir-se: Até o final dos anos 40 e início dos anos 50, o interior da furna principal era repleta de estalactites e sua superfície I]constituía-se de grandes blocos de pedra e uma enorme quantidade de um lodo negro, além de ser o habitat natural de centenas de morcegos.,
+	      ter: Ficaram registrados, por exemplo, o nome do marceneiro que construiu a estrutura, os artesãos e decoradores que trabalharam no projeto e que a casa I]tinha 4 andares.,
+	      versar1: x,}
+A ANÁLISE RESULTA EM:
+
+	  S='Glosa2210' = “ser composto por”
+	    {consistir: Tal interface I]consistia em uma representação animada da casa.,
+	      constar: Vai daí mandou pôr na mesa a janta que I]constava de feijão aguado e  paçoca de carne. #  A cabana A]constava de três peças: uma servia de varanda, outra de dormitório, a última era a cozinha.,
+	      constituir-se: O interior da furna principal era repleta de estalactites e sua superfície I]constituía-se de grandes blocos de pedra e uma enorme quantidade de um lodo negro.,
+	      ter: Ficaram registrados o nome do marceneiro que construiu a estrutura, os artesãos e decoradores que trabalharam no projeto e que a casa I]tinha 4 andares.,}
+Chave: CONSISTIR <verb.stative>
+ILI: 02554853
+
+Sense 4
+{02554853} <verb.stative> consist1, comprise1 -- (be composed of; "The land he conquered comprised several provinces"; "What does this dish consist of?")
+       => {02526983} <verb.stative> be3 -- (have the quality of being; (copula, used with an adjective or a predicate noun); "John is rich"; "This is not a good answer")

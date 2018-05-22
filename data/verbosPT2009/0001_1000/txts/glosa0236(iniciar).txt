@@ -1,0 +1,18 @@
+ANÁLISE DA GLOSA0236
+
+DADO O SYNSET:
+
+S='Glosa236'
+{atacar: Só amanhã A]atacará a tarefa.,
+iniciar: No momento em que o Senado ameaça o governo com uma CPI do sistema financeiro, o Banco Central [iniciou uma operação pente-fino na contabilidade de outros bancos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa236' = “começar; dar início”
+{iniciar: No momento em que o Senado ameaça o governo com uma CPI do sistema financeiro, o Banco Central [iniciou uma operação pente-fino na contabilidade de outros bancos.,}
+Chave: INICIAR <verb.creation>
+ILI: 01582273
+
+Sense 1
+{01582273} <verb.creation> originate, initiate1, start -- (bring into being; "He initiated a new program"; "Start a foundation")
+       => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

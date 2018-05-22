@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA2846
+
+DADO O SYNSET:
+
+S='Glosa2846'
+	    {causar: Assim, fezes depositadas em lugares inadequados acabam por contaminar a própria água que se bebe: os micróbios eliminados com as fezes chegam à água, são ingeridos e [causam doenças.,
+	      fabricar: x,
+	      gerar: As transformações do corpo I]geram intensa angústia no jovem, tanto por não saber como irá ficar como pelas pressões da mídia quanto ao “corpo ideal”.,
+	      produzir: Protozoários são animais unicelulares, comuns na natureza; as espécies mais conhecidas são as que I]produzem doenças no homem e em outros animais.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2846' = “Fazer ocorrer ou existir”
+	    {causar: Os micróbios eliminados com as fezes chegam à água, são ingeridos e [causam doenças.,
+	      gerar: As transformações do corpo I]geram intensa angústia no jovem, tanto por não saber como irá ficar como pelas pressões da mídia quanto ao “corpo ideal”.,
+	      produzir: Protozoários são animais unicelulares, comuns na natureza; as espécies mais conhecidas são as que I]produzem doenças no homem e em outros animais.,}
+Chave: CAUSAR <verb.creation>
+ILI: 01703701
+
+Sense 3
+{01703701} <verb.creation> produce3, bring about3, give rise1 -- (cause to occur or exist; "This procedure produces a curious effect"; "The new law gave rise to many complaints"; "These chemicals produce a noxious vapor")
+       => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor") 

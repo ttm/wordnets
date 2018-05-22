@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA2995
+
+DADO O SYNSET:
+
+S='Glosa2995'
+	    {afastar: I]Afastei minha perna de súbito, e olhei-a com raiva pelo que acontecia.,
+	      desviar: Ao intervir, Nirvana I]desviou o rosto para não ser atingida por um tapa do promotor.,
+	      esgueirar: Transpassa as pernas, I]esgueirando o corpo.,
+	      esquivar: Caim era um adversário digno e I]esquivava as investidas de Rashid como se fossem nada.,
+	      furtar: Com destreza, H]furtou o corpo ao golpe fatal.,
+	      gambetear: x,
+	      retirar: Luís fez uma cara de medo e I]retirou o braço apavorado.,
+	      vastar1: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2995' = “Fazer um movimento repentino em uma nova direção para escapar a”
+	    {afastar: I]Afastei minha perna de súbito, e olhei-a com raiva pelo que acontecia.,
+	      desviar: Ao intervir, Nirvana I]desviou o rosto para não ser atingida por um tapa do promotor.,
+      esquivar: Caim era um adversário digno e I]esquivava as investidas de Rashid como se fossem nada.,
+	      furtar: Com destreza, H]furtou o corpo ao golpe fatal.,
+	      retirar: Luís fez uma cara de medo e I]retirou o braço apavorado.,}
+Chave: ESQUIVAR <verb.motion>
+ILI: 02036942
+
+Sense 1
+{02036942} <verb.motion> dodge -- (make a sudden movement in a new direction so as to avoid; "The child dodged the teacher's blow")
+       => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right") 

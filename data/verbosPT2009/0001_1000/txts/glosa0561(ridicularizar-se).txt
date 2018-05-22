@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0561
+
+DADO O SYNSET:
+
+S='Glosa561'
+{amolecar-se: x,
+ridicularizar-se: Procurava-se I]ridicularizar-se ao máximo, provocar o riso e conseguir o reconhecimento da turma.,
+ridiculizar-se: Pessoa velhusca, A]ridiculiza-se trajando como jovem.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa561' = “submeter (-se) ao riso ou ridículo”
+{ridicularizar-se: Garotinho I]ridicularizou-se com a greve de fome por não ter saída na cruzada para se tornar o candidato.,}
+Chave: RIDICULARIZAR-SE <verb.communication>
+ILI: 00824293
+
+Sense 1
+{00824293} <verb.communication> ridicule, roast, guy, blackguard1, laugh at, jest at, rib, make fun, poke fun -- (subject to laughter or ridicule; "The satirists ridiculed the plans for a new opera house"; "The students poked fun at the inexperienced teacher"; "His former students roasted the professor at his 60th birthday")
+       => {00821494} <verb.communication> mock, bemock -- (treat with contempt; "The new constitution mocks all democratic principles")
+           => {02439188} <verb.social> treat, handle3, do by -- (interact in a certain way; "Do right by her"; "Treat him with caution, please"; "Handle the press reporters gently")
+               => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0836
+
+DADO O SYNSET:
+
+S='Glosa836'
+{calandrar: Podemos I]calandrar chapas de aço de até 1/2" x 2,0m de comprimento.,
+cilindrar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa836' = “apertar entre rolos ou chapas de forma a alisar, ou adelgaçar em folhas”
+{calandrar: Podemos I]calandrar chapas de aço de até 1/2" x 2,0m de comprimento.,}
+Chave: CALANDRAR <verb.contact>
+ILI: 01350704
+
+Sense 1
+{01350704} <verb.contact> calender -- (press between rollers or plates so as to smooth, glaze, or thin into sheets; "calender paper")
+       => {01350260} <verb.contact> press1 -- (place between two surfaces and apply weight or pressure; "pressed flowers")
+           => {00450410} <verb.change> flatten, flatten out -- (become flat or flatter; "The landscape flattened")
+               => {00135866} <verb.change> change shape, change form, deform2 -- (assume a different shape or form)
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA1454
+
+DADO O SYNSET:
+
+S='Glosa1454'
+{caldear: H]Caldeia metais raros numa liga resistente,
+ chumbar: Lembre-se de I]chumbar tarugos de madeira nas bordas dos vãos,
+	 chumbear: x,
+	 liar: x,
+ ligar: H]Ligar o ouro com a prata.,
+ soldar: Suécia e Finlândia decidiram [soldar as portas dianteiras das balsas que operam em suas águas enquanto a investigação não terminar.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1454' = “unir ou fundir com solda” 
+{caldear: Carta referente à autorização do pedido de Domingo Ferreira Pereira para minerar ferro e chumbo e estabelecer fábricas para I[caldear o ferro.,
+ chumbar: A arquiteta paulista Helena Miceli resolveu ambas as questões: criou nichos sob a escada e I]chumbou os degraus do terceiro lance na parede.,
+	 ligar: A soldagem por difusão é um processo que I]liga materiais por meio de aplicação simultânea de pressão e calor.,
+ soldar: Suécia e Finlândia decidiram [soldar as portas dianteiras das balsas que operam em suas águas enquanto a investigação não terminar.,}
+Chave: SOLDAR <verb.contact>
+ILI: 01551676
+
+Sense 1
+{01551676} <verb.contact> solder -- (join or fuse with solder; "solder these two pipes together")
+       => {01252764} <verb.contact> join, conjoin -- (make contact or come together; "The two roads join here")
+           => {01314764} <verb.contact> connect, link, tie1, link up -- (connect, fasten, or put together two or more pieces; "Can you connect the two loudspeakers?"; "Tie the ropes together"; "Link arms")

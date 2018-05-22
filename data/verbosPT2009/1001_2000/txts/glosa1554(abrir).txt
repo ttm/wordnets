@@ -1,0 +1,37 @@
+ANÁLISE DA GLOSA1554
+
+DADO O SYNSET:
+
+S='Glosa1554'
+{desanuviar: Os raios de sol vieram H]desanuviar o dia.,
+ descobrir: Após a chuva o céu M]descobriu.,
+ desembrumar: O vale M]desembrumou-se no final da manhã.,
+ desembruscar: x,
+ desencobrir: x,
+ desenevoar: Os primeiros raios solares H]desenevoaram o dia.,
+ desensombrar: Os pássaros começavam a cantar nas árvores e o céu I]desensombrava-se em rosicler e ouro.,
+ desenturvar: x,
+ desnevoar: Inebriava o espírito deslizar suavemente naquele vasto rescender de aromas resinosos, ao hino matinal dos campos, que se iam, ainda mal acordados dos seus sonhos de opala, preguiçosamente I]desnevoando à dourada fulguração da luz nascente.,
+ desnublar: Eo céu I]desnublou. ,
+ desnuviar-se: x,
+ destoldar: A lua I]destoldara-se nesse momento, envolvendo-a com sua coma de prata.,
+ limpar: Quando já parecia tudo sossegado e começava a [limpar o tempo, veio uma onda tão forte, que as duas embarcações esbarraram com força uma contra a outra .,}
+	  
+A='Glosa3554'
+{anuviar, carregar, cobrir, encobrir, enevoar, enuviar, nevoar, nublar, sombrear, sombrejar, toldar, turbar, turvar, turvejar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1554' = “tornar-se claro, desanuviado”
+{abrir: Fazia 8°C e estava nublado até às 22:30 de domingo quando o céu I]abriu.,
+ desanuviar: Escapamos do hard landing e agora o clima I]desanuviou.,
+ desnublar: Usou polarizador na segunda ou foi só o céu que I]''desnublou'' na hora da foto?
+ limpar: Hoje parou de nevar e o céu I]limpou um pouco.,}
+	  
+A='Glosa3554'
+{anuviar, carregar, cobrir, encobrir, enevoar, enuviar, nevoar, nublar, sombrear, sombrejar, toldar, turbar, turvar, turvejar}
+Chave: ABRIR <verb.weather>
+ILI: 02689066
+
+Sense 4
+{02689066} <verb.weather> clear up, clear, light up, brighten -- (become clear; "The sky cleared after the storm")

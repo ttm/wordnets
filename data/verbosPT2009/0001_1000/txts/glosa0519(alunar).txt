@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0519
+
+DADO O SYNSET:
+
+S='Glosa519'
+{alunar: Depois de I]alunar no Oceano das Tempestades em 3 de Fevereiro de 1966, as quatro "pétalas" que formam a nave espacial abriram-se e estabilizaram a nave espacial na superfície lunar.,
+alunissar: Todavia, por causa de dificuldades mecânicas, sua nave foi forçada a I]alunissar a 200 milhas do ponto de encontro com a nave-mãe.,
+alunizar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa519' = “descer em solo lunar”
+{alunar: Depois de I]alunar no Oceano das Tempestades em 3 de Fevereiro de 1966, as quatro "pétalas" que formam a nave espacial abriram-se e estabilizaram a nave espacial na superfície lunar.,
+alunissar: Todavia, por causa de dificuldades mecânicas, sua nave foi forçada a I]alunissar a 200 milhas do ponto de encontro com a nave-mãe.,}
+Chave: ALUNAR <verb.motion>
+ILI: EQ_HAS_HYPERONYM - 01923102
+
+Sense 1
+{01923102} <verb.motion> land1, put down, bring down -- (cause to come to the ground; "the pilot managed to land the airplane safely")
+       => {01947900} <verb.motion> arrive, get, come4 -- (reach a destination; arrive by movement or progress; "She arrived home at 7 o'clock"; "She didn't get to Chicago until after midnight")

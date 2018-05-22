@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0245
+
+DADO O SYNSET:
+
+S='Glosa245'
+{ferrar: Cervantes menciona a prática de [ferrar o rosto de escravos, numa das suas novelas.,
+ferretear: Por dezenas de anos a expedição de Diogo Bueno da Fonseca, em 1758, acabou com os quilombolas do São Francisco a ferro e fogo, matando e I]ferreteando centenas de negros fugidos. ,
+marcar: Ele tratava os negros como animais; seu Murilo, com medo de perder ou roubar seus escravos, I]marcava seus negros.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa245' = “queimar com ferro quente para indicar propriedade; principalmente de animais”
+{ferrar: Cervantes menciona a prática de [ferrar o rosto de escravos, numa das suas novelas.,
+ferretear: Por dezenas de anos a expedição de Diogo Bueno da Fonseca, em 1758, acabou com os quilombolas do São Francisco a ferro e fogo, matando e I]ferreteando centenas de negros fugidos. ,
+marcar: A origem da palavra “brand” vem da época em que se I]marcava o gado com ferro quente para identificá-lo e distingui-lo de outros rebanhos.,}
+Chave: MARCAR <verb.social>
+ILI: 02433754
+Sense 1
+{02433754} <verb.social> brand1 -- (burn with a branding iron to indicate ownership; of animals)
+       => {00494390} <verb.change> mark -- (make or leave a mark on; "mark the trail so that we can find our way back")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

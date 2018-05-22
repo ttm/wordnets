@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA0027A
+
+DADO O SYNSET:
+
+S='Glosa27'
+{absolver: Tudo isso não [absolve a responsabilidade dos homens pela sua intervenção,
+desculpar: A familiaridade [desculpava a ação e crescia com ela,
+desobrigar: DEVIANT,
+ inocentar: A sua débil inteligência agiu sobre a sua consciência, de forma a [inocentar, a seus olhos, o tocador de violão, no caso da morte misteriosa do padrinho,
+ isentar: Aurélia, [isenta do enleio, ou antes opressão, que a tolhia quando se achava,
+ perdoar: Pedro é bom e [perdoará Clara, e, perdoando ele, quem tem o direito de condenar,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa27' = “pronunciar não culpado de acusações criminais”
+{absolver: A Câmara dos Deputados já I]absolveu 11 dos 19 suspeitos de envolvimento com o “mensalão”.,
+desculpar: Apesar de seus pares terem sido classificados como bandidos, o grande líder empresarial Antonio Ermírio de Moraes I]desculpou Ricupero.,
+inocentar: Mantida decisão que I]inocentou ex-mulher de Celso Pitta por injúrias a Maluf.,
+isentar: Aurélia, [isenta do enleio, ou antes opressão, que a tolhia quando se achava.,
+perdoar: Pedro é bom e [perdoará Clara, e, perdoando ele, quem tem o direito de condenar.,}
+Chave: INOCENTAR <verb.communication>
+ILI: 00874318
+
+Sense 1
+{00874318} <verb.communication> acquit, assoil1, clear, discharge, exonerate, exculpate -- (pronounce not guilty of criminal charges; "The suspect was cleared of the murder charges")
+       => {00939604} <verb.communication> pronounce, label1, judge -- (pronounce judgment on; "They labeled him unfit to work here")
+           => {00795481} <verb.communication> declare4, adjudge, hold11 -- (declare to be; "She was declared incompetent"; "judge held that the defendant was innocent")
+               => {00647983} <verb.cognition> judge -- (form an opinion of or pass judgment on; "I cannot judge some works of modern art")
+                   => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

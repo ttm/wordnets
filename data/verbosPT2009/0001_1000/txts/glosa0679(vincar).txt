@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0679
+
+DADO O SYNSET:
+
+S='Glosa679'
+{avincar: Ao confrangir-se com a notícia dum escândalo; franziu os beiços e I]avincou a testa,
+dobrar: Depois de aprenderem a I]dobrar uma camiseta e enrolar meias, vamos hoje tocar num assunto polêmico,
+quebrar: M]Quebrar a folha de papel. # M]quebrar o cartão.,
+vincar: Quem tem experiência com origami pode fazer a dobra sem I]vincar.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa679' = “curvar ou deitar de forma que uma parte cobra a outra”
+{avincar: Ao confrangir-se com a notícia dum escândalo; franziu os beiços e I]avincou a testa,
+dobrar: Depois de aprenderem a I]dobrar uma camiseta e enrolar meias, vamos hoje tocar num assunto polêmico,
+vincar: Quem tem experiência com origami pode fazer a dobra sem I]vincar.,}
+Chave: DOBRAR <verb.contact>
+ILI: 01239868
+
+Sense 1
+{01239868} <verb.contact> fold, fold up, turn up -- (bend or lay so that one part covers the other; "fold up the newspaper"; "turn up your collar")
+       => {00345030} <verb.change> change surface -- (undergo or cause to undergo a change in the surface)
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

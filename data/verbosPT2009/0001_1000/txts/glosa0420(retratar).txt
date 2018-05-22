@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0420
+
+DADO O SYNSET:
+
+S='Glosa420'
+{reproduzir: Ele I]reproduz como era a vida desses nativos.,
+retratar1: Sebastião Salgado começou a [retratar a vida de retirantes e refugiados do mundo inteiro há seis anos.,
+tirar: M]Tirou os contornos de um corpo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa420' = “descrever, definer algo ou alguém  por meio de palavras”
+{reproduzir: Ele I]reproduz como era a vida desses nativos.,
+retratar1: Sebastião Salgado começou a [retratar a vida de retirantes e refugiados do mundo inteiro há seis anos.,}
+Chave: RETRATAR <verb.communication>
+ILI: 00956610
+
+Sense 1
+{00956610} <verb.communication> portray -- (portray in words; "The book portrays the actor as a selfish person")
+       => {00955766} <verb.communication> represent -- (serve as a means of expressing something; "The flower represents a young girl")
+           => {00909455} <verb.communication> express, verbalize3, verbalise3, utter1, give tongue to -- (articulate; either verbally or with a cry, shout, or noise; "She expressed her anger"; "He uttered a curse")

@@ -1,0 +1,49 @@
+ANÁLISE DA GLOSA1873
+
+DADO O SYNSET:
+
+S='Glosa1873'
+{ababelar: Em longo requerimento os moradores do bairro M]ababelaram suas queixas.,
+ atropelar: Respirar antes de falar para não I]atropelar as idéias.,
+ babelizar: Tais medidas H]babelizaram de vez as finanças do império.,
+ badernar: A sua inesperada visita A]badernou as minhas idéias.,
+ balburdiar: A]Balburdiaram todos os itens do assunto.,
+ baralhar: Considerará Fidel que, para os outros cubanos, a Internet só serve para lhes I]baralhar as idéias. ,
+ confundir: Enquanto tratamos da investigação das coisas, não nos será permitido concluir algo de noções abstratas e devemos nos precaver com grande esforço em não [confundir as coisas que estão apenas no entendimento com as que estão na realidade.,
+ desajustar: x,
+ desarranjar: x,
+ desordenar: É muito mais fácil I]desordenar do que ordenar partículas, objetos e idéias. ,
+ embaralhar: Cada vez mais mergulhada nos pensamentos soltos, Vida começou a I]embaralhar as idéias, percebendo que se perdia em névoas turvas.,
+ embrulhar: Quanto mais a examinamos, mais percebemos que suas quimeras teológicas só são apropriadas a nos I]embrulhar as idéias: metamorfoseando tudo em mistério.,
+ empermear: x,
+ enlabirintar: x,
+ entremesclar: H]Entremesclar um pensamento.,
+ entremisturar: H]Entremisturar idéias.,
+ misturar: Só não vamos I]misturar as idéias e sequer deixar passar pela cabeça que uma coisa dispensa a outra.,
+ obscurecer: Criar movimentos e I]obscurecer suas idéias através de textos herméticos, estabelecendo uma linha de contenção entre os iniciados nos mistérios da revolta.,
+ unir: Não queiras M]unir água e azeite.,}
+
+A='Glosa1265'
+	    {desembaralhar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1873' = “tornar confuso, indistinto” 
+{atropelar: O texto do relatório ficou tão grande que o relator Roberto Magalhães (PFL-PE) lia [atropelando as palavras.,
+ badernar: A nuvem radioativa afetou dois continentes, I]badernou a economia mundial.,
+ baralhar: Considerará Fidel que, para os outros cubanos, a Internet só serve para lhes I]baralhar as idéias.,
+ confundir: Enquanto tratamos da investigação das coisas, não nos será permitido concluir algo de noções abstratas e devemos nos precaver com grande esforço em não [confundir as coisas que estão apenas no entendimento com as que estão na realidade.,
+ desordenar: É muito mais fácil I]desordenar do que ordenar partículas, objetos e idéias. ,
+ embaralhar: Cada vez mais mergulhada nos pensamentos soltos, Vida começou a I]embaralhar as idéias, percebendo que se perdia em névoas turvas.,
+ embrulhar: Quanto mais a examinamos, mais percebemos que suas quimeras teológicas só são apropriadas a nos I]embrulhar as idéias: metamorfoseando tudo em mistério.,
+ misturar: Só não vamos I]misturar as idéias e sequer deixar passar pela cabeça que uma coisa dispensa a outra.,
+ obscurecer: Criar movimentos e I]obscurecer suas idéias através de textos herméticos, estabelecendo uma linha de contenção entre os iniciados nos mistérios da revolta.,}
+
+A='Glosa1265'
+	    {desembaralhar}
+Chave: EMBARALHAR <verb.cognition>
+ILI: 00600376
+
+Sense 6
+{00600376} <verb.cognition> confuse1, blur, obscure, obnubilate -- (make unclear, indistinct, or blurred; "Her remarks confused the debate"; "Their words obnubilate their intentions")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0846
+
+DADO O SYNSET:
+
+S='Glosa846'
+{caramelar: Numa panela rasa e de fundo largo, leve o açúcar ao fogo brando para I]caramelar.,
+caramelizar: Você pode até mesmo I]caramelizar açúcar no microondas.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa846' = “converter em caramelo”
+{caramelar: Numa panela rasa e de fundo largo, leve o açúcar ao fogo brando para I]caramelar.,
+caramelizar: Você pode até mesmo I]caramelizar açúcar no microondas.,}
+Chave: CARAMELIZAR <verb.change>
+ILI: 00110640
+
+Sense 2
+{00110640} <verb.change> caramelize, caramelise -- (convert to caramel)
+       => {00111347} <verb.change> convert3 -- (change the nature, purpose, or function of something; "convert lead into gold"; "convert hotels into jails"; "convert slaves to laborers")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

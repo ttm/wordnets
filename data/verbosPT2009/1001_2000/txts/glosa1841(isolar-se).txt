@@ -1,0 +1,43 @@
+ANÁLISE DA GLOSA1841
+
+DADO O SYNSET:
+
+S='Glosa1841'
+    	{amochar-se: x,
+      	 clausurar-se: x,
+      	 encarcerar-se: Lembre-se, aqui, da auto-punição de Lavínia: I]encarcerar-se para sempre na mansão dos Mannon.,
+      	 encerrar-se: Isabel estava mais inclinada a I]encerrar-se num convento, no entanto, como era submissa, viu no pedido dos pais, a vontade do céu.,
+      	 enclaustrar-se: x,
+      	 enclausurar-se: Ela decide I]enclausurar-se no convento das "redentoras humilhadas", onde recebe a ajuda da madre superiora.,
+      	 encorujar-se: Envergonhado, H]encorujou-se num canto do salão.,
+      	 engurujar-se: H]Engurujou-se no quarto e de lá não saiu mais.,
+      	 entaipar-se: x,
+      	 enterrar-se: Mas Ludovina, que tinha esperado pelo seu Ricardo até o momento em que este entrou para o claustro, foi também, com os olhos enxutos e o coração despedaçado, I]enterrar-se num convento.,
+      	 isolar-se: Essa santa, apenas I]isolou-se num quarto de convento.,
+ recolher-se: A saúde sempre precária levou-o a I]recolher-se ao convento de Arcella, perto de Pádua, onde escreveu uma série de sermões para domingos e dias santificados.,
+ retrair-se: Cansado de festas e recepções, A]retrairu-se da sociedade.,
+      	 sepultar-se: Diriam que Raimundo fora tão maltratado pelos parentes de seu pai que preferira I]sepultar-se entre quatro paredes a ter de aturá-los! ,
+      	 seqüestrar-se: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1841' = “manter-se afastado dos outros”
+    	{encarcerar-se: Desde que esse episódio tornou-se público, Dalize I]encarcerou-se no apartamento onde mora, no bairro de Moema.,
+      	 encerrar-se: Em outro romance abortado, El Desafio, um jovem solitário e desesperado [encerra-se em um hotel e decide suicidar-se caso Deus não apareça antes da alba.,
+      	 enclausurar-se: Ela decide I]enclausurar-se no convento das "redentoras humilhadas", onde recebe a ajuda da madre superiora.,
+      	 encorujar-se: Lembrei também que, na época, fui me I]“encorujando” em casa, até chegar ao extremo de não conseguir abrir a porta e sair à rua sozinha.,
+      	 enterrar-se: Um químico que descreve sua vida emocional como «uma vasta e vazia planície», ele se [enterrava no laboratório «onde as leis de ferro da ciência governavam», em vez de enfrentar o «caótico» mundo dos relacionamentos humanos.,
+      	 isolar-se: Além de perder o convívio do trabalho coletivo, ele costuma se [isolar dentro da casa para trabalhar sossegado.,
+      	 recolher-se: Bicheiro condenado e patrono da Mocidade Independente se [recolhe a uma fazenda e acompanha desfile pela TV.,
+      	 retrair-se: Nas exposições de 1879, João Zeferino apresentou um estudo de nu a que deu o nome de Pompeiana. Depois desta, I]retraiu-se por completo às exposições públicas, nem sequer comparecendo à de 1882.,
+      	 sepultar-se: Diriam que Raimundo fora tão maltratado pelos parentes de seu pai que preferira [sepultar-se entre quatro paredes a ter de aturá-los!,}
+Chave: ISOLAR-SE <verb.change>
+ILI: 00482597
+
+Sense 6
+{00482597} <verb.change> seclude, sequester, sequestrate1, withdraw -- (keep away from others; "He sequestered himself in his study to write a book")
+       => {00480883} <verb.change> isolate, insulate -- (place or set apart; "They isolated the political prisoners from the other inmates")
+           => {02437378} <verb.social> discriminate12, separate, single out -- (treat differently on the basis of sex or race)
+               => {00628816} <verb.cognition> distinguish, separate1, differentiate1, secern1, secernate, severalize, severalise, tell1, tell apart -- (mark as different; "We distinguish several kinds of maple")
+                   => {00598581} <verb.cognition> identify, place -- (recognize as being; establish the identity of someone or something; "She identified the man on the 'wanted' poster")
+                       => {00676553} <verb.cognition> determine1, set4 -- (fix conclusively or authoritatively; "set the rules")

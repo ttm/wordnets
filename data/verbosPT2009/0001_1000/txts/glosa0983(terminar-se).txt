@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA0983
+
+DADO O SYNSET:
+
+S='Glosa983'
+{acabar-se: Ele pensou que algum dia também, aqui nesta terra radiante, viçosa e feliz, toda a vida [se acabaria, e uma imensa tristeza, um grande silêncio reinaria nestes mesmos cantos cheios de movimento e de alegria.,
+cerrar-se: H]Cerrou-se o espetáculo.,
+concluir: É, todavia, prematuro [concluir algo sobre esse ponto, e as abordagens tateantes, as unificações parciais, contentam-se por enquanto em se apoiar nesses dois pilares.,
+consumar-se: Se houver disposição política para um ajuste autêntico do setor público, então a política econômica negociada por Fernando Henrique Cardoso irá [consumar-se com a eliminação da superinflação.,
+encerrar-se: Há evidências de que o Plano Real veio embutido de uma anestesia cujos efeitos vão [encerrar-se em breve, deixando vir à tona a dor da operação.,
+terminar-se: Finalmente, [terminar-se-há intervindo no mercado de crédito ao consumidor, uma vez mais por decreto, já que o aumento do compulsório dos bancos não resolverá a questão.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa983' = “levar (-se) ou conduzir (-se) a um final ou conclusão”
+{acabar-se: Ele pensou que algum dia também, aqui nesta terra radiante, viçosa e feliz, toda a vida [se acabaria, e uma imensa tristeza, um grande silêncio reinaria nestes mesmos cantos cheios de movimento e de alegria.,
+concluir: É, todavia, prematuro [concluir algo sobre esse ponto, e as abordagens tateantes, as unificações parciais, contentam-se por enquanto em se apoiar nesses dois pilares.,
+consumar-se: Se houver disposição política para um ajuste autêntico do setor público, então a política econômica negociada por Fernando Henrique Cardoso irá [consumar-se com a eliminação da superinflação.,
+encerrar-se: Há evidências de que o Plano Real veio embutido de uma anestesia cujos efeitos vão [encerrar-se em breve, deixando vir à tona a dor da operação.,
+terminar-se: Finalmente, [terminar-se-há intervindo no mercado de crédito ao consumidor, uma vez mais por decreto, já que o aumento do compulsório dos bancos não resolverá a questão.}
+Chave: TERMINAR-SE <verb.change>
+ILI: 00470712
+
+Sense 1
+{00470712} <verb.change> complete2, finish2 -- (come or bring to a finish or an end; "He finished the dishes"; "She completed the requirements for her Master's Degree"; "The fastest runner finished the race in just over 2 hours; others finished in over 4 hours")
+       => {00341640} <verb.change> end1, terminate1 -- (bring to an end or halt; "She ended their friendship when she found out that he had once been convicted of a crime"; "The attack on Poland terminated the relatively peaceful period after WWI")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

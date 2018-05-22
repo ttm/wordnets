@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2885
+
+DADO O SYNSET:
+
+S='Glosa2885'
+	    {aplicar: Os EUA estarão na berlinda, com uma ofensiva liderada pelo Japão, mas apoiada por vários europeus, contra a prática unilateral americana de [aplicar sanções comerciais por razões políticas. #  Uma amiga, após receber a noticia de que seu filho estava retido na 7º série, I]aplicou lhe uma surra.,
+	      ferrar: Este animal I]ferrou-lhe formidável patada no peito, prostrando-a sem sentidos, na relva úmida pelo sereno.,
+	      impingir: Destarte, o aplicador do direito ao I]impingir uma sanão penal ao infrator, observa o bem jurÃdico que foi lesionado ou exposto a lesão, reflexo dos valores sociais, sem descuidar do seu próprio juízo de valor. # Para algumas pessoas parece contraditório o sádico ter prazer em I]impingir dor/sofrimento a quem tem prazer com ela.,
+	      impor: O Juiz poderá, na hipótese do § 3°. ou na sentença, I]impor multa diária ao réu, independentemente de pedido do autor, se for suficiente ou compatível com a obrigação, fixando prazo razoável para o cumprimento do preceito.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2885' = “Impor alguma coisa desagradável”
+	    {aplicar: Uma amiga, após receber a noticia de que seu filho estava retido na 7º série, I]aplicou lhe uma surra.,
+	      ferrar: Este animal I]ferrou-lhe formidável patada no peito, prostrando-a sem sentidos, na relva úmida pelo sereno.,
+	      impingir: Liderados por Cristiano, os presos I]impingiram-lhe praticamente as mesmas agressões sofridas por C.M.S..,}
+Chave: IMPINGIR
+ILI: EQ_NEAR_SYNONYM - 00723747
+
+Sense 2
+{00723747} <verb.communication> inflict, bring down, visit1, impose -- (impose something unpleasant; "The principal visited his rage on the students")
+       => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+           => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+               => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel") 

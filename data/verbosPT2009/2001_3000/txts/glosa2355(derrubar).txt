@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA2355
+
+DADO O SYNSET:
+
+S='Glosa2355'
+	    {derribar: E o Senhor I]derribou os egípcios. ,
+	      derrubar: Chuva [derruba supermercado em Pernambuco. # É uma organização quase militar, ninguém [derruba.,
+	      despenhar: O cavalo estacou, H]despenhando o cavaleiro.,
+	      estatelar: Popó chegou a dizer, sobre isto, que haverá somente dois assaltos, no primeiro ele vai correr de mim, no segundo, vai I]estatelar no chão.,
+	      estirar: Reagiu de pronto ao ataque, A]estirando os atacantes.,
+	      prostrar: o Brasil inteiro viu na televisão, na imagem parada, no momento exato em que seu braço poderoso, como um alfange, I]prostrou o inimigo. ,
+	      tombar1: No fragor de um desses assaltos, I]tombou atingido por uma bala.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2355' = “Fazer cair ao chão.”
+	    {derribar: E ele I]derribou os altares de incenso que estavam acima deles.,
+	      derrubar: Chuva [derruba supermercado em Pernambuco.,
+	      despenhar: O cavalo estacou, H]despenhando o cavaleiro.,
+	      estatelar: I]Quase estatelou o aparelho no chão.,
+	      prostrar: Nada vi senão reluzir a faca que I]prostou o malvado. ,
+	      tombar: De repente a fachada do edifício [tombou sobre a esplanada., }
+
+Chave: DERRUBAR <verb.motion>
+ILI: 01923102
+
+Sense 4
+{01923102} <verb.motion> land1, put down, bring down -- (cause to come to the ground; "the pilot managed to land the airplane safely")
+       => {01947900} <verb.motion> arrive, get, come4 -- (reach a destination; arrive by movement or progress; "She arrived home at 7 o'clock"; "She didn't get to Chicago until after midnight")

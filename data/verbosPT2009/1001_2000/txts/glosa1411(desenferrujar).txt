@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA1411
+
+DADO O SYNSET:
+
+S='Glosa1411'
+{desenferrujar: Márcio conserta coisas, recuperar carros, I]desenferrujar portas,
+ desferrujar: x,
+	 desoxidar: Serve para I]desoxidar e limpar todas as superfícies de latão, cobre e bronze, preparando-as à oxidação a preto.,}
+	  
+A='Glosa1326'
+{enferrujar, oxidar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1411' = “retirar o oxigênio do composto; eliminar a ferrugem”
+{desenferrujar: De fato , não existe como I]desenferrujar cordas , o jeito é trocar.,
+ desoxidar: Vonder fosfatiza superfícies metálicas, remove ferrugem e I]desoxida alumínio.,}
+	  
+A='Glosa1326'
+{enferrujar, oxidar}
+Chave: DESENFERRUJAR <verb.change>
+ILI: 00230051
+
+Sense 1
+{00230051} <verb.change> deoxidize, deoxidise, reduce3 -- (to remove oxygen from a compound, or cause to react with hydrogen or form a hydride, or to undergo an increase in the number of electrons)
+       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA2979
+
+DADO O SYNSET:
+
+S='Glosa2979'
+	    {afundar-se: Os crentes e outros tripulantes, dando as mãos uns aos outros, começaram a cantar o hino à medida que o navio ia afundando-se! ,
+	      fundir-se2: x,
+	      submergir-se: A embarcação I]submergiu-se.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2979' = “Ir a pique, ficar totalmente submergido”
+	    {afundar-se: Os crentes e outros tripulantes, dando as mãos uns aos outros, começaram a cantar o hino à medida que o navio ia afundando-se!,
+	      perder-se: Uma desgraça abateu sobre Antonio: todos os seus navios I]perderam-se em águas oceânicas.,
+	      submergir-se: A embarcação I]submergiu-se.,}
+Chave: AFUNDAR-SE <verb.motion>
+ILI: 01931930
+
+Sense 4
+{01931930} <verb.motion> sink, settle7, go down, go under -- (go under, "The raft sank and its occupants drowned")
+       => {01912987} <verb.motion> descend, fall, go down2, come down -- (move downward and lower, but not necessarily all the way; "The temperature is going down"; "The barometer is falling"; "The curtain fell on the diva"; "Her hand went up and then fell again")
+           => {01782203} <verb.motion> travel, go, move3, locomote -- (change location; move, travel, or proceed; "How fast does your new car go?"; "We travelled from Rome to Naples by bus"; "The policemen went from door to door looking for the suspect"; "The soldiers moved towards the city in an attempt to take it before night fell")
+          Also See-> {01416511} <verb.contact> sink in#2 

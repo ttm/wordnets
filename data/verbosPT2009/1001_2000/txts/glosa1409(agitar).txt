@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA1409
+
+DADO O SYNSET:
+
+S='Glosa1409'
+{agitar: Era de ver como pegava um faca e [agitava o pequeno instrumento doméstico em cruz, repetidas vezes, sobre a sede da dor ou da tarefa, rezando em voz baixa.,
+ brandir: Os fãs choravam, cantavam e [brandiam cartazes da banda,
+	 desferir: M]Desferir uma harpa,
+ esgrimir: Gostava de H]esgrimir o guarda-chuva quando andava,
+	 sacudir: Freitas ergueu-se do sofá, para [sacudir as calças,
+	 vibrar: O velho Aimoré vacilou; seu braço que [vibrava o tacape com uma força hercúlea, caiu inerte.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1409' = “agitar, mover para frente e para trás rapidamente, geralmente de maneira descontrolada”  
+{agitar: A oradora era uma mulher baixa, de busto curto, gorda, com grandes seios altos e falava [agitando o leque fechado na mão direita.,
+ brandir: Os fãs choravam, cantavam e [brandiam cartazes da banda.,
+ esgrimir: Meu pai gostava mesmo era de fazer a barba do morto. Em geral conversava com ele. Dava tapinhas na face cadavérica, enquanto I]esgrimia sua navalha e o pincel cheio de espuma.,
+	 sacudir: Os médiuns chegavam perto da moça, davam um estremeção, ficavam com uns olhos desvairados, fixos, gritavam: «Sai, irmão!» -- e [sacudiam as mãos.,
+	 vibrar: O velho Aimoré vacilou; seu braço que [vibrava o tacape com uma força hercúlea, caiu inerte.,}
+Chave: AGITAR <verb.motion>
+ILI: 01836948
+
+Sense 1
+{01836948} <verb.motion> vibrate -- (shake, quiver, or throb; move back and forth rapidly, usually in an uncontrolled manner)
+       => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right")

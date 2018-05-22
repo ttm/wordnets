@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA2467
+
+DADO O SYNSET:
+
+S='Glosa2467'
+	    {soerguer: Estado exclui prefeitos e chama ONGs para I]soerguer a Mata Sul que ficou coberta pelas enchentes. ,
+	      sofraldar: A]Solfradar um cortinado.,
+	      solevantar: I]Solevantando as sobrancelhas e apertando os lábios: expressavam sua emoção sem dizer palavra.,
+	      solevar: Levantou-se um grande mar, e a lancha ficou para além dessa formidável montanha; e, quando o escarcéu descaiu para I]solevar a barca, um momento quieta nas fauces da voragem, os mareantes já não viram da galera senão o gume da quilha e à volta dela o bracejar dos agonizantes.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2467' = “Levantar de uma posição mais baixa para uma mais alta.”
+	    {soerguer: O meteorito mergulhou no mar e liberou uma quantidade de energia tão grande que I]soergueu o granito enterrado a 2.400 metros de profundidade.,
+	      sofraldar: A]Solfradar um cortinado.,
+	      solevar: A]Solevando e abaixando o lençol fino com o arfar cadenciado do seio, ela tinha uma expressão de tranqüilidade que me pareceu insolente".,}
+
+Chave: SOLEVAR <verb.motion>
+ILI: 01916187
+
+Sense 2
+{01916187} <verb.motion> raise, lift, elevate, get up, bring up -- (raise from a lower to a higher position; "Raise your hands"; "Lift a load")
+       => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant") 

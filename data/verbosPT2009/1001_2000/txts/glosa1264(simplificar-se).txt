@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA1264
+
+DADO O SYNSET:
+	  
+S='Glosa1264'
+{desembaraçar-se: DEVIANT,
+ desinntricar-se: DEVIANT,
+ desintrincrar-se: DEVIANT,
+ facilitar-se: Desta forma, I]facilitam-se as relações entre empresas que realizam atividades afins.,
+ simplificar-se: Reduzindo o capital fixo necessário a dada produção e os custos de desenvolvimento de produto, [simplifica-se a gestão da produção.,}
+	  
+A='Glosa1829'
+{complicar-se, dificultar-se, embararçar-se, encrencar-se, enredar-se, enroscar-se, intricar-se, intrincar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1264' = “tornar-se mais simples ou mais fácil em complexidade ou extensão”
+{facilitar-se: Desta forma, I]facilitam-se as relações entre empresas que realizam atividades afins.,
+ simplificar-se: Reduzindo o capital fixo necessário a dada produção e os custos de desenvolvimento de produto, [simplifica-se a gestão da produção.,}
+A='Glosa1829'
+{complicar-se, dificultar-se, embararçar-se, encrencar-se, enredar-se, enroscar-se, intricar-se, intrincar-se}
+Chave: SIMPLIFICAR-SE
+ILI: 00388314
+
+Sense 1
+{00388314} <verb.change> simplify -- (make simpler or easier or reduce in complxity or extent; "We had to simplify the instructions"; "this move will simplify our lives")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

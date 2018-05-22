@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA3785		
+
+DADO O SYNSET:
+	
+S='Glosa3785'
+{barafustar: Viam-no estremecer e I]barafustar de pranto. ,
+	 esbracejar: Por tudo lhe peço que não me fale nesse homem, gritou Dona Nela, I]esbracejando.,
+	 escabujar: Ele caiu e começou a I]escabujar no chão, soltando grandes gritos nervosos. ,
+	 espernear: O réu [esperneou, contraiu-se, o algoz cavalgou-o de um modo airoso e destro.,
+	 espernegar: A mameluca tentou por diferentes vezes livrar-se das mãos do rapazito, [espernegando como possessa.,
+	 estrebuchar: Etelvina caiu para trás, [estrebuchando num histérico.,
+	 pernear: A criança passava fome, frio e desamparo, vagindo e A]perneando na sua canastra.,
+	 pernejar: x }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3785' = “mover-se contorcendo os membros (especialmente para livra-los)”
+{barafustar: Viam-no estremecer e I]barafustar de pranto.,
+	 esbracejar: Por tudo lhe peço que não me fale nesse homem, gritou Dona Nela, I]esbracejando.,
+	 escabujar: Ele caiu e começou a I]escabujar no chão, soltando grandes gritos nervosos.,
+	 espernear: O réu [esperneou, contraiu-se, o algoz cavalgou-o de um modo airoso e destro.,
+	 espernegar: A mameluca tentou por diferentes vezes livrar-se das mãos do rapazito, [espernegando como possessa.,
+	 estrebuchar: Etelvina caiu para trás, [estrebuchando num histérico.,
+	 pernear: A criança passava fome, frio e desamparo, vagindo e A]perneando na sua canastra. }
+Chave: ESPERNEAR <verb.motion>
+ILI: 01814282
+
+Sense 1 
+{01814282} <verb.motion> writhe, wrestle, wriggle, worm, squirm, twist1 -- (to move in a twisting or contorted motion, (especially when struggling); "The prisoner writhed in discomfort"; "The child tried to wriggle free from his aunt's embrace")
+       => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right")

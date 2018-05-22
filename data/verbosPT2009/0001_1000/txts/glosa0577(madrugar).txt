@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0577
+
+DADO O SYNSET:
+
+S='Glosa577'
+{antealvorar: x,
+madrugar: Os que preferem [madrugar terças e sextas-feiras nos corredores perfumados e coloridos do Ceagesp terão de acrescentar novas espécies em seus dicionários.,
+matinar: O sino da fazenda [matinava os colonos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa577' = “acordar e sair da cama de madrugada”
+{madrugar: Os que preferem [madrugar terças e sextas-feiras nos corredores perfumados e coloridos do Ceagesp terão de acrescentar novas espécies em seus dicionários.,
+matinar: O sino da fazenda [matinava os colonos.,}
+
+Chave: MADRUGAR <verb.body>
+ILI: EQ_HAS_HYPERONYM - 00017853
+
+Sense 1
+{00017853} <verb.body> get up, turn out, arise, uprise, rise8 -- (get up and out of bed; "I get up at 7 A.M. every day"; "They rose early"; "He uprose at night")

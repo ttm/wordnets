@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA2434
+
+DADO O SYNSET:
+
+S='Glosa2434'
+	    {abjugar: x,
+	      abjungir: x,
+	      ajoujar: I]Ajoujavam os bois, enfrentavam cavalos, carregavam carros, os homens da guerra poliam as armas.,
+	      atrelar: É vedado I]atrelar animais de diferentes espécies no mesmo veículo.,
+	      emparelhar: Jugo, do hebreu môt , ôl, significa peça de madeira que serve para I]emparelhar dois animais para o mesmo trabalho.,
+	      encangar: x,
+	      jungir: Dos robles que nem bois I]jungir sabiam.,
+	      subjugar: O significado da palavra trabalho remonta à sua origem latina: tripalium (três paus), instrumento utilizado para I]subjugar os animais e forçar os escravos a aumentar a produção.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2434' = “Colocar jugo em ou unir com um jugo.”
+	    {ajoujar: I]Ajoujavam os bois, enfrentavam cavalos, carregavam carros, os homens da guerra poliam as armas.,
+	      atrelar: Para isso, I]atrelou a uma charrua dois animais de espécies diferentes.,
+	      emparelhar: I]Emparelhou o cavalo ao boi.,
+	      jungir: I]Jungia os cavalos empinados ao timão dos carros.,}
+
+Chave: ATRELAR <verb.contact>
+ILI: 01448729
+
+Sense 3
+{01448729} <verb.contact> yoke -- (put a yoke on or join with a yoke; "Yoke the draft horses together")
+       => {01257892} <verb.contact> attach1 -- (cause to be attached)
+           => {01314764} <verb.contact> connect, link, tie1, link up -- (connect, fasten, or put together two or more pieces; "Can you connect the two loudspeakers?"; "Tie the ropes together"; "Link arms") 

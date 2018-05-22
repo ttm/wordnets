@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA2916
+
+DADO O SYNSET:
+
+S='Glosa2916'
+	    {abalofar: O padeiro H]abalofou o pão.,
+	      afofar: Montamos um complexo esquema na porta do Espaço Unibanco, em São Paulo, para desatar todos os cintos de segurança, ajeitar o colar cervical e I]afofar os travesseiros que protegiam meu corpo, que ainda não tinha a rigidez atual, adquirida com muita fisioterapia.,
+	      fofar: H]Fofar almofadas.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2916' = “Tornar mais cheio sacudindo”
+	    {afofar: A senhora João I]afofou os travesseiros com. um tapinha enérgico.,
+	      fofar: Espreguiçar-me entre as dobras dos lençóis macios e I]fofar os travesseiros bem ao meio com as mãos, hoje é muito importante.,}
+Chave: AFOFAR <verb.contact>
+ILI: 01351555
+
+Sense 1
+{01351555} <verb.contact> fluff up, plump up, shake up -- (make fuller by shaking; "fluff up the pillows")
+       => {01835310} <verb.motion> shake, agitate1 -- (move or cause to move back and forth; "The chemist shook the flask vigorously"; "My hands were shaking")
+           => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right") 

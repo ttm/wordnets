@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA1130
+
+DADO O SYNSET:
+
+S='Glosa1130'
+{ambientar: Apesar de São Paulo também estar na mira de Mouillon, é unânime entre os organizadores a vocação do Rio para [ambientar a instalação ilusionista. # A repercussão lá foi fantástica e vimos que o Rio seria uma cidade ideal para [ambientar o projeto.,}
+	  
+A='Glosa1131'
+{desambientar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1130' = “adaptar[-se] a um ambiente ou condição”
+{ambientar: Antes do show propriamente dito, um vídeo com informações de segurança [ambientam e preparam as pessoas para a «experiência interativa».,}
+A='Glosa1131'
+{desambientar}
+Chave: AMBIENTAR <verb.change>
+ILI: 00144751
+
+Sense 2
+{00144751} <verb.change> adjust1, conform1, adapt2 -- (adapt or conform oneself to new or different conditions; "We must adjust to the bad economic situation")
+       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

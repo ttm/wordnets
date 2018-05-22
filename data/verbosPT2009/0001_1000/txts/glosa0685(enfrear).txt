@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0685
+
+DADO O SYNSET:
+
+S='Glosa685'
+{arrendar4: x,
+enfrear: Sem bulir pé nem mão o onagro deixou-se I]enfrear e selar.,
+enfrenar: Num potro que dava quase pra I]enfrenar.,}
+A='Glosa1329'
+{desenfrear, desenfrenar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa685' = “parar usando freios; pôr freio a”
+{enfrear: Sem bulir pé nem mão o onagro deixou-se I]enfrear e selar.,
+enfrenar: Num potro que dava quase pra I]enfrenar.,}
+A='Glosa1329'
+{desenfrear, desenfrenar}
+Chave: ENFREAR <verb.motion>
+ILI: 01809674
+
+Sense 2
+{01809674} <verb.motion> brake -- (cause to stop by applying the brakes; "brake the car before you go into a curve")
+       => {01805309} <verb.motion> stop1 -- (cause to stop; "stop a car"; "stop the thief")

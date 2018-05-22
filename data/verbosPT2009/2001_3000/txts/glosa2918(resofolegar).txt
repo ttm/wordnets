@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA2918
+
+DADO O SYNSET:
+
+S='Glosa2918'
+	    {desfolegar: x,
+	      esfolegar: E, num I]esfolegar febril e ruidoso, suplicava-lhe um pouco de compaixão, ao menos; que não o torturasse daquele modo; que não o obrigasse a sucumbir ao desespero de sua paixão! ,
+	      folegar: Sabendo que portava um horizonte maior que aquele que lhe confrontava, decidiu então: vestiu-se não só de cordas, ganchos e pinos, mas certeiro despiu-se das dúvidas, tristezas e tolas motivaçõ es trilho caminhos onde não havia vícios e resíduos subiu, virou, desceu e I]folegou, pulou, arranhou e torceu hematomas, cãibras, paraou, descansou e retornou denovo passou por onde a natureza criara perfeitas imperfeiçõ es, e quando ao cume chegou, a pergunta se fez novamente “oquê guardo em segredo pequeno ser?,
+	      resfolegar: Eo sussurro que se ouvia entre tantos milhares de homens era, apenas, o murmúrio das respirações opressas pelo frio nocturno e o I]resfolegar dos ginetes.,
+	      resfolgar: Deu-me água pela barba!... disse o escudeiro I]resfolgando.,
+	      respirar: O velho I]respirava com dificuldade, mas não perdia tempo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2918' = “Respirar ruidosamente, como quando se está cansado”
+	    {folegar: Desceu e I]folegou, pulou, arranhou e torceu hematomas, cãibras, para ou descansou e retornou, passou por onde a natureza criara perfeitas imperfeições, e quando ao cume chegou, a pergunta se fez novamente “o quê guardo em segredo pequeno ser?,
+	      resfolegar: O bicho I]resfolegou e começou a andar.,
+	      resfolgar: A carroça sacudia enquanto prosseguia pela trilha irregular, e vez ou outra os cavalos I]resfolgavam, fazendo pequenas nuvens de vapor sairem de suas narinas.,
+	      respirar: O velho I]respirava com dificuldade, mas não perdia tempo.,}
+Chave: RESFOLEGAR <verb.body>
+ILI: 00005390
+
+Sense 1
+{00005390} <verb.body> pant, puff, gasp, heave1 -- (breathe noisily, as when one is exhausted; "The runners reached the finish line, panting heavily")
+       => {00006911} <verb.body> blow -- (exhale hard; "blow on the soup to cool it down")
+           => {00004127} <verb.body> exhale, expire, breathe out -- (expel air; "Exhale when you lift the weight")
+               => {00001740} <verb.body> breathe, take a breath, respire, suspire3 -- (draw air into, and expel out of, the lungs; "I can breathe better when the air is clean"; "The patient is respiring") 

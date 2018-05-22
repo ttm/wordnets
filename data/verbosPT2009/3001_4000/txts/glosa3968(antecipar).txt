@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA3968
+
+DADO O SYNSET:
+
+S='Glosa3968'
+{abreviar: H]Abreviou a ida ao México para resolver problema em Miami.,
+ adiantar: Se pudesse, A]adiantaria o encontro que marcara para o mês seguinte.,
+ antecipar: O casal [antecipou a volta a Brasília e passou o dia de Páscoa no hospital .,
+ apressar: O selo teria uma frase afirmando que as explosões [apressaram o fim da guerra .,
+ precipitar: No entanto, tendo como vítima fatal Major Vaz, importante líder da aeronáutica, o atentado [precipitou uma grave crise política que levaria Vargas ao suicídio .,
+ prematurar: x,}
+	  
+A='Glosa2411'
+{adiar,deixar, pospor, procrastinar, rolar1, suspender}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3968' = “agir adiantadamente [a]; tratar de algo antes do tempo”
+{abreviar: Itamar [abreviou o constrangimento, seguindo logo para o almoço.,
+ adiantar: A equipe da Manchete [adiantou a gravação das cenas que irão ao ar nos próximos capítulos.,
+ antecipar: O casal [antecipou a volta a Brasília e passou o dia de Páscoa no hospital.,
+ apressar: O selo teria uma frase afirmando que as explosões [apressaram o fim da guerra.,
+ precipitar: O que no entanto [precipitou a deposição de Jango não foi nem tanto o comício de Jango na Central do Brasil mas sim a revolta dos sargentos em Brasília.}
+	  
+A='Glosa2411'
+{adiar,deixar, pospor, procrastinar, rolar1, suspender}
+Chave: ANTECIPAR <verb.social>
+ILI: 02489652
+
+Sense 2
+{02489652} <verb.social> anticipate, foresee, forestall, counter -- (act in advance of; deal with ahead of time)
+       => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

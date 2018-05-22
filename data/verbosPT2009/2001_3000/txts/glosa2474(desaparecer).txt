@@ -1,0 +1,36 @@
+ANÁLISE DA GLOSA2474
+
+DADO O SYNSET:
+
+S='Glosa2474'
+	    {amergulhar: x,
+	      desaparecer: A condensação cromossômica continua e a carioteca [desaparece.,
+	      desparecer: Caronte desistiu de empurrar seu barco e desceu-te na margem enfumaçada e ficou vendo o barco I]desparecer nas negras águas do Letes.,
+	      eclipsar-se: A menina a pretexto de estar com a amiga, não saía do terreiro; e se alguma vez entrava na sala era para I]eclipsar-se logo.,
+	      esconder-se: Uma mulher protege a criança que [se esconde em seus braços.,
+	      mergulhar: Conforme o sol I]mergulhava no horizonte, um silêncio desceu sobre a multidão.,
+	      meter-se: São animais curiosos, que gostam de xeretar tudo e I]meter-se em frestas e atrás de móveis.,
+	      ocultar-se: Se [me oculto, se fujo, é porque há uma fatalidade que a isto me obriga. # Teu rasto guiará o inimigo aonde [se oculta o guerreiro do vale.,
+	      socar-se: O mundo arrebentou-se todo, despencou todo na testa do rapaz, destronando o melepeiro em dois segundos: o cabra não tinha onde I]socar-se com a descompostura.,
+	      sumir-se: Ao I]sumir-se na espessura, Jão Fera voltou o rosto e por entre a basta ramagem esteve a contemplar o vulto esbelto da menina.,
+	      transpor-se: O sol H]transpôs-se atrás das montanhas.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2474' = “Impedir de ser visto ou descoberto.”
+	    {desaparecer: Apenas tive tempo de perceber os folhos de um vestido preto, envolto num largo burnous de seda branca, que [desapareceu na escada.,
+	      desparecer: E o índio [despareceu de novo nas sombras da noite que avançava rapidamente.,
+	      eclipsar-se: Quando fui ao Chile, Neruda I]eclipsou-se para não me ver, e fez muito bem.,
+	      esconder-se: Uma mulher protege a criança que [se esconde em seus braços.,
+	      mergulhar: Conforme o sol I]mergulhava no horizonte, um silêncio desceu sobre a multidão.,
+	      meter-se: Não lhe ficava mal a atitude, tranqüila, séria, quase indiferente; mas então para que se [meteu no carro ?.,
+	      ocultar-se: O coelhinho, porém, foi mais ligeiro; pulou fora da lata e I]ocultou-se atrás de uns vasos de plantas.,
+	      socar-se: Em que matas do além I]socou-se Sílvio Carlos?,
+	      sumir-se: Até que o bicho pulou num buraco e I]sumiu-se de terra a dentro.,
+	      transpor-se: O sol H]transpôs-se atrás das montanhas.,}
+
+Chave: DESAPARECER <verb.perception>
+ILI: EQ_NEAR_SYNONYM - 02082942
+
+Sense 1
+{02082942} <verb.perception> hide, conceal1 -- (prevent from being seen or discovered; "Muslim women hide their faces"; "hide the money") 

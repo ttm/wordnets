@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA3745
+
+DADO O SYNSET:
+	
+S='Glosa3745'
+{aleijar-se: x,
+	 atristar-se: x,
+	 contristar-se: H]Contrista-se com a pobreza à volta.,
+	 entristecer-se: Queria absorver toda sua tristeza e assim nunca vê-la I]entristecer-se e sofrer.,
+	 magoar-se: As pessoas deprimidas podem apresentar sentimentos de frustração, culpa e raiva em relação às pessoas amadas, que podem I]magoar-se com os problemas do indivíduo deprimido.,
+	 penar-se: O que desejo é que ela enxergue o mundo de uma outra maneira, pois não há motivos para I]penar-se.}
+
+A='Glosa3100'
+{alegrar-se, congratular-se, estimar, exultar, folgar, folgazar, iluminar-se, jubilar-se, regozijar-se, rejubilar-se, ufanar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3745' = “vir a se sentir triste”
+{contristar-se: H]Contrista-se com a pobreza à volta.,
+	 entristecer-se: Queria absorver toda sua tristeza e assim nunca vê-la I]entristecer-se e sofrer.,
+	 magoar-se: As pessoas deprimidas podem apresentar sentimentos de frustração, culpa e raiva em relação às pessoas amadas, que podem I]magoar-se com os problemas do indivíduo deprimido.,
+	 penar-se: O que desejo é que ela enxergue o mundo de uma outra maneira, pois não há motivos para I]penar-se.}
+
+A='Glosa3100'
+{alegrar-se, congratular-se, estimar, exultar, folgar, folgazar, iluminar-se, jubilar-se, regozijar-se, rejubilar-se, ufanar-se}
+Chave: ENTRISTECER-SE <verb.emotion>
+ILI: 01760721
+
+Sense 2
+{01760721} <verb.emotion> sadden -- (come to feel sad)
+       => {01720480} <verb.emotion> feel, experience -- (undergo an emotional sensation; "She felt resentful"; "He felt regret")

@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0952
+
+DADO O SYNSET:
+
+S='Glosa952'
+{conflagrar: Uma invasão no país de Saddam Hussein pelos Estados Unidos, com ou sem a cobertura da ONU, pode I]conflagrar a região e provocar um novo choque do petróleo.,
+convulsionar: O filme Revolução [convulsiona o sistema libertário de uma pequena lista de discussão sobre Gilles Deleuze.,
+revolucionar: A descoberta de vida além da Terra poderia [revolucionar nosso conhecimento de biologia.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa952'= “mudar radicalmente” 
+{conflagrar: Uma invasão no país de Saddam Hussein pelos Estados Unidos, com ou sem a cobertura da ONU, pode I]conflagrar a região e provocar um novo choque do petróleo.,
+convulsionar: O filme Revolução [convulsiona o sistema libertário de uma pequena lista de discussão sobre Gilles Deleuze.,
+revolucionar: A descoberta de vida além da Terra poderia [revolucionar nosso conhecimento de biologia.,}
+Chave: REVOLUCIONAR <verb.change>
+ILI: 00120799
+
+Sense 1
+{00120799} <verb.change> revolutionize, revolutionise, overturn -- (change radically; "E-mail revolutionized communication in academe")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

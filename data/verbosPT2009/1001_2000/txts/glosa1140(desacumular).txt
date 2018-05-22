@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA1140
+
+DADO O SYNSET:
+
+S='Glosa1140'
+{desacumular: Durante a tarde de ontem, 21, os servidores do INSS de Mococa trabalharam para I]desacumular os 300 processos que estavam parados.,
+ desamontoar: x,}
+	  
+A='Glosa1659'
+	    {acumular, cobrir, cumular, embatumar, encher}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1140' = “causar a separação [de uma concentração/acumulação]”
+{desacumular: Caso esteja desempregado, o indivíduo recebe um seguro desemprego.Depois de aposentado, recebe um benefício b e I]desacumula seu estoque de ativos.,}
+A='Glosa1659'
+	    {acumular, cobrir, cumular, embatumar, encher}
+Chave: DESACUMULAR <verb.change> 
+ILI: EQ_HAS_HYPERONYM - 00320230
+
+Sense 4
+{00320230} <verb.change> break up4, disperse, scatter -- (cause to separate; "break up kidney stones"; "disperse particles")
+       => {00135037} <verb.change> change integrity -- (change in physical make-up)
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

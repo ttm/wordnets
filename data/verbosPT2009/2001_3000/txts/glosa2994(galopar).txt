@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA2994
+
+DADO O SYNSET:
+
+S='Glosa2994'
+	    {galopar: Fechou os olhos e deixou que o cavalo corresse à toa, [galopando ruidosamente na terra úmida de orvalho.,
+	      galopear: Ana rosa montou na garupa e o cavalo saiu I]galopeando.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2994' = “Mover em velocidade de galope”
+	    {galopar: Fechou os olhos e deixou que o cavalo corresse à toa, [galopando ruidosamente na terra úmida de orvalho.,
+	      galopear: Ana rosa montou na garupa e o cavalo saiu I]galopeando.,}
+Chave: GALOPAR <verb.motion>
+ILI: 01903204
+
+Sense 2
+{01903204} <verb.motion> gallop1 -- (go at galloping speed; "The horse was galloping along")
+       => {02031682} <verb.motion> pace1 -- (go at a pace; "The horse paced")
+           => {01782203} <verb.motion> travel, go, move3, locomote -- (change location; move, travel, or proceed; "How fast does your new car go?"; "We travelled from Rome to Naples by bus"; "The policemen went from door to door looking for the suspect"; "The soldiers moved towards the city in an attempt to take it before night fell") 

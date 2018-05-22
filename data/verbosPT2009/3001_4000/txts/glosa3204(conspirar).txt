@@ -1,0 +1,47 @@
+ANÁLISE DA GLOSA3204
+
+DADO O SYNSET:
+
+S='Glosa3204'
+	    {
+	      armar: Odeio também gente que gosta de I]armar intriga.,
+	      arquitetar: Não teriam obtido melhor resultado se desejassem [arquitetar um plano para abater a nova moeda.,
+	      cabalar: De porta em porta, M]cabalava contra a reforma.,
+	      conjurar: I]Conjuravam e ligavam-se a outros grupos, no sentido de trazer sustentação ao projeto sedicioso.,
+	      conspirar: Eles são acusados de [conspirar para o assassinato do político democrata-cristão Salvo Lima, há dois anos na Sicília. ,
+	      cozinhar: Inescrupuloso, H]cozinhou-o sordidamente.,
+	      entecer: x,
+	      entretecer: M]Entretecer tramóias.,
+	      fiar1: H]Fiar intrigas.,
+	      intertecer: x,
+	      maquinar: Orestes Quércia, dado como acabado para a política por muita gente, anda [maquinando seu retorno.,
+	      obrar: M]Obrar intrigas.,
+	      preparar: Para ele, só alguém que vive há tempos em Buenos Aires poderia [preparar o ataque.,
+	      tecer: Começaram a I]tecer intrigas e armar tocaias para prender os dois.,
+	      traçar1: O PCB teria organizado um comitê militar revolucionário destinado a manter contato e a I]traçar os planos da conspiração.,
+	      tramar: Chun está sendo acusado de [tramar o golpe militar de 1979, que preparou a sua subida ao poder no ano seguinte. ,
+	      urdir: Ela ousou mesmo I]urdir contra ele uma conspiração dos deuses.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3204' = “comprometer-se em planejar ou entrar numa conspiração”
+	     {armar: Chaui [armou um aranzel para dizer que ele libertaria as massas oprimidas pelo capital.,
+	      arquitetar: Irada, a esposa de um "coronel do cacau" I]arquitetou um plano diabólico e mandou tocar fogo no bar.,
+	      cabalar: De porta em porta, M]cabalava contra a reforma.,
+	      conjurar: Tudo I]conjurou para que Sharon tivesse a oportunidade de retomar as rédeas das negociações de paz com os palestinos.,
+	      conspirar: Regente Feijó I]conspirou para a Inglaterra invadir a Amazônia clandestinamente no séc. 19. ,
+	      maquinar: Ele I]maquinou um complô para se livrar dos elementos de esquerda do país.,
+	      preparar: Logo após sua chegada a Pernambuco em 1637, Nassau I]preparou o ataque a Sirinhaém.,
+	      tecer: No plano ideológico, aproximou-se da social-democracia européia e, no plano político, I]teceu uma aliança com os socialistas franceses de Lionel Jospin.,
+	      traçar1: D. Fernando I]traçou o plano da invasão, não sem antes obrigar todos os parti-. cipantes a jurar que não tocariam nas portas antes dele.,
+	      tramar: Assessor parlamentar I]tramou mortes por telefone. ,
+	      urdir: O senador I]urdiu para que o projeto Frankstein fosse aprovado em surdina.,}
+Chave: CONSPIRAR <verb.cognition>
+ILI: 00683479
+
+Sense 1
+{00683479} <verb.cognition> conspire, cabal, complot, conjure, machinate -- (engage in plotting or enter into a conspiracy, swear together; "They conspired to overthrow the government")
+       => {00684578} <verb.cognition> plot -- (plan secretly, usually something illegal; "They plotted the overthrow fo the government")
+           => {00681336} <verb.cognition> plan -- (make plans for something; "He is planning a trip with his family")
+               => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

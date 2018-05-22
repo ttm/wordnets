@@ -1,0 +1,65 @@
+ANÁLISE DA GLOSA2945
+
+DADO O SYNSET:
+
+S='Glosa2945'
+	    {abater: O arco é remanescente de um grande salão existente na antiga entrada da gruta cujo teto I]abateu.,
+	      aluir: A ponte M]aluiu.,
+	      apear: M]Apear uma parede.,
+	      arrasar: Deus atirou por terra a cidade deles e I]arrasou a torre. ,
+	      arruinar: A Igreja foi restaurada no final do século XIX, após o incêndio que a I]arruinou em 1871.  ,
+	      delapidar: x,
+	      demolir: Terminou em tumulto a tentativa da prefeitura de [demolir 50 casas, construídas numa área de proteção ambiental às margens do Canal de Marapendi.,
+	      derribar: Pastores que se recusam a reconhecer os sinais dos tempos e continuam a I]derribar celeiros para construir outros maiores.,
+	      derrocar: H]Derrocar o prédio.,
+	      derrubar: Os fiscais avisaram que vão [derrubar minha casa com máquina, mas não tenho aposentadoria, nem consigo emprego com a minha idade. ,
+	      derruir: Em toda parte os obreiros da destruição se esforçam por I]derruir os antigos monumentos.,
+	      desapear: x,
+	      desfabricar: x,
+	      desmanchar: O comerciante Zigolfo Brüske, sentiu um aperto no coração ao ter de I]desmanchar a casa em que morava, com aproximadamente 100 anos e herança de sua família. ,
+	      desmantelar: O governo de Israel começou hoje a I]desmantelar assentamentos judeus construídos ilegalmente em áreas palestinas. ,
+	      desmontar: É triste ver I]desmontar uma parede recém construída, por não prestar, mesmo antes de terminar a obra!,
+	      desmoronar: Soares morreu logo após colidir com o muro, que [desmoronou e caiu sobre o carro.,
+	      destruir: Não será motivo de preocupação que alguém possa colher na Internet informações sobre como fabricar uma bomba, como a que [destruiu o prédio federal em Oklahoma?,
+	      dilapidar: H]Dilapidaram o antigo casarão.,
+	      dirruir: DEVIANT,
+	      esfacelar: x,
+	      esfrangalhar: x,
+	      frangalhar: x,
+	      subverter: E I]subverteu aquelas cidades e toda a planície.,}
+
+	  A='Glosa2868'
+	    {alçar: Criaram várias máquinas, entre as quais uma para I]alçar colunas.,
+	     arquitetar: Sostrate I]arquitetou o edifício.,
+	     construir: Gentileza foi sepultado ontem no cemitério municipal de Mirandópolis e, segundo parentes, estava feliz com a idéia de ser enterrado no túmulo dos pais, que ajudou [construir.,
+	     edificar: Rico com os lucros das empreitadas de construções de prédios, viúvo, o antigo quitandeiro retirarou-se dos negócios e vivia sossegado na ampla casa que ele mesmo [edificara e tinha todos os remates arquitetônicos do seu gosto predileto: compoteiras na cimalha, um imenso monograma sobre a porta da entrada, dois cães de louça, nos pilares do portão da entrada e outros detalhes equivalentes.,
+	     elevar: Nessa época, Leonardo convenceu finalmente o senhor de Milão a realizar um projeto que acalentava havia seis anos: I]elevar em praça pública uma gigantesca estátua eqüestre de Francisco Sforza, o pai do Mouro.,
+	     erguer: Pretendo I]erguer uma casa de três pavimentos na praia, um deles no subsolo.,
+	     erigir: Também não aceitemos a idéia simplória, frequentemente levantada, de que com os mesmos recursos se poderiam [erigir tantas casas, tantas salas de aula ou tantos leitos hospitalares.,
+	     fabricar: O engenheiro H]fabricou imponente  monumento.,
+	     fazer: O do meio I]fez a casa de madeira pois também não gostava muito de trabalhar. # Meu avô I]fez esta casa com muito empenho, para ele residir com a família (esposa e cinco filhos, dentre eles o meu pai).,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2945' = “Derrubar a fim de tornar achatado no chão”
+	    {aluir: De lá para cá, a mentalidade consumista, criada pela publicidade, se espalhou pelo mundo capitalista e I]aluiu o Muro de Berlim.,
+	      arrasar: Deus atirou por terra a cidade deles e I]arrasou a torre.,
+	      arruinar: A Igreja foi restaurada no final do século XIX, após o incêndio que a I]arruinou em 1871.,
+	      demolir: Brasil [demoliu a muralha da Rússia.,
+	      derribar: E ele I]derribou os altares de incenso que estavam acima deles.,
+	      derrubar: O mar invadiu a areia e [derrubou casas.,
+	      derruir: I]Derruiram-na, afinal, sem medo, pedra a pedra.,
+	      desmanchar: Não sabe por que o réu I]desmanchou a casa de Arni.,
+	      desmantelar: Milhares de refugiados que vivem nos campos no centro da faixa de Gaza passaram o dia ontem provocando soldados que [desmantelavam uma base israelense.,
+	      desmontar: A polícia [desmontou outras duas em torres de transmissão da Hydro-Québec em Montreal,
+	      destruir: Não será motivo de preocupação que alguém possa colher na Internet informações sobre como fabricar uma bomba, como a que [destruiu o prédio federal em Oklahoma?,}
+
+	  A='Glosa2868'
+	    {alçar, arquitetar, construir, edificar, elevar, erguer, erigir, fabricar, fazer}
+Chave: DEMOLIR <verb.creation>
+ILI: 01614562
+
+Sense 1
+{01614562} <verb.creation> level, raze, rase, dismantle2, tear down, take down, pull down -- (tear down so as to make flat with the ground; "The building was levelled")
+       => {01574188} <verb.creation> destroy, destruct -- (do away with, cause the destruction or undoing of; "The fire destroyed the house")
+           => {01573490} <verb.creation> unmake, undo -- (deprive of certain characteristics) 

@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA2630
+
+DADO O SYNSET:
+
+S='Glosa2630'
+	    {esmoer: Os dois porcos continuavam a trincar, a I]esmoer o milho, sem suspeitar da vizinhança de gente.,
+	      mastigar: Para eles, um dos princípios da boa alimentação é o de I]mastigar pelo menos cem vezes cada porção que vai à boca.,
+	      moer: Ao I]moer (similar ao "mastigar" da boca) o estômago "saboreia" a essência interior da comida. # O processo de I]moer é essencial à digestão; dissecar a grosseira substância do alimento em pequenas partes é necessário para libertar as centelhas de força de vida contida no alimento.,
+	      resmoer: Desandou o caminho percorrido, desvanecendo todo o indício de sua passagem até o ponto onde havia deixado o seu cavalo, que o esperava sem nenhuma impaciência, A]resmoendo o mais novo abrolho de mandacaru.,
+	      triturar: Para dor de dente I]triturar um raminho de folhas com um pouco de água.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2630' = “Triturar os alimentos com os dentes antes de engolir.”
+	    {esmoer: Os dois porcos continuavam a trincar, a I]esmoer o milho, sem suspeitar da vizinhança de gente.,
+	      mastigar: Ergueu os ombros e I]mastigou o pão de queijo com o café quentinho.,
+	      resmoer: O seu cavalo o esperava sem nenhuma impaciência, A]resmoendo o mais novo abrolho de mandacaru.,
+	      triturar: Para dor de dente I]triturar um raminho de folhas com um pouco de água.,}
+
+Chave: MASTIGAR <verb.consumption>
+ILI: 01164648
+
+Sense 2
+{01164648} <verb.consumption> chew, masticate, manducate, jaw -- (chew (food); "He jawed his bubble gum"; "Chew your food and don't swallow it!"; "The cows were masticating the grass")
+       => {01354012} <verb.contact> grate, grind -- (make a grating or grinding sound by rubbing together; "grate one's teeth in anger")
+           => {00327401} <verb.change> break up, fragment, fragmentize, fragmentise -- (break or cause to break into pieces; "The plate fragmented")
+               => {00323679} <verb.change> break, separate3, split up, fall apart3, come apart -- (become separated into pieces or fragments; "The figurine broke"; "The freshly baked loaf fell apart")
+                   => {00135037} <verb.change> change integrity -- (change in physical make-up)
+                       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night") 

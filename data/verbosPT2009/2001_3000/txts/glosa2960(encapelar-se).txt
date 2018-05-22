@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA2960
+
+DADO O SYNSET:
+
+S='Glosa2960'
+	    {avolumar-se: DEVIANT,
+	      empolar-se: Levantou-se um vento de tempestade, e I]empolaram-se as ondas do mar.,
+	      encapelar-se1: Uma noite, quando muitos anos já haviam se passado sem que nenhum dos meus chegasse a minha cidade, um grande vento soprou e o I]mar encapelou-se., 
+	      encarneirar-se: x,
+	      encrespar-se: A tripulação murmurava, dizendo que não havia dúvida de que ali o mar não era grande e que nunca ventaria o suficiente para voltar para a Espanha; mas depois o mar I]encrespou-se muito, e sem vento, o que os assombrou.,
+	      frisar-se1: Em um ponto mais escuro do rio, a água lurida I]frisou-se férvida, em borbulhas.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2960' = “Agitar (água) para formar ondas”
+	    {empolar-se: Levantou-se um vento de tempestade, e I]empolaram-se as ondas do mar.,
+	      encapelar-se1: Uma noite, quando muitos anos já haviam se passado sem que nenhum dos meus chegasse a minha cidade, um grande vento soprou e o I]mar encapelou-se.,
+	      encrespar-se: A tripulação murmurava, dizendo que não havia dúvida de que ali o mar não era grande e que nunca ventaria o suficiente para voltar para a Espanha; mas depois o mar I]encrespou-se muito, e sem vento, o que os assombrou.,
+	      frisar-se1: Em um ponto mais escuro do rio, a água I]frisou-se férvida, em borbulhas.,}
+Chave: ENCAPELAR-SE <verb.motion>
+ILI: 01981817
+
+Sense 1
+{01981817} <verb.motion> ripple, ruffle, riffle, cockle, undulate1 -- (stir up (water) so as to form ripples)
+       => {02007935} <verb.motion> flow1, flux -- (move or progress freely as if in a stream; "The crowd flowed out of the stadium")
+           => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right") 

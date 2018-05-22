@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA2276
+
+DADO O SYNSET:
+
+S='Glosa2276'
+	    {afatiar: A]Afatiar o bolo.,
+	      esfatiar: Robo gira Crono que I]esfatia os adversários com a espada.,
+	      fatiar: I]Fatie o queijo e coloque-o para dourar na mesma frigideira.,
+	      retalhar: Ele comia testículos e mamilos das vítimas nem sempre mortas, antes de ele as [retalhar.,
+	      trinchar: D. Ana I]trinchava finas fatias de presunto em quantidades industriais.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2276' = “ cortar em pedaços, fatias” 
+	    {afatiar: A]Afatiar o bolo.,
+	      esfatiar: Robo gira Crono que I]esfatia os adversários com a espada.,
+	      fatiar: I]Fatie o queijo e coloque-o para dourar na mesma frigideira.,
+	      retalhar: A acusada I]retalhou o corpo do marido em cem partes para se livrar dele mais facilmente.,
+	      trinchar: D. Ana I]trinchava finas fatias de presunto.,}
+
+Chave: FATIAR <verb.contact> 
+ILI: 01216586
+
+Sense 3
+{01216586} <verb.contact> slice, slice up -- (cut into slices; "Slice the salami, please")
+       => {01509511} <verb.contact> cut -- (separate with or as if with an instrument; "Cut the rope")
+           => {01513899} <verb.contact> separate1, disunite, divide1, part1 -- (force, take, or pull apart; "He separated the fighting children"; "Moses parted the Red Sea")
+               => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

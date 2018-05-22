@@ -1,0 +1,36 @@
+ANÁLISE DA GLOSA2905
+
+DADO O SYNSET:
+
+S='Glosa2905'
+	    {desaparecer: Afinal, ao longo de toda essa discussão, o nosso medo [desapareceu, se esfumaçou.,
+	      desflorir-se: x,
+	      desvaecer-se: x,
+	      desvanear-se: x,
+	      desvanecer-se: Se tão-somente crêssemos isto plenamente, I]desvanecer-se-iam todas as ansiedades inúteis.,
+	      dissipar-se: Eles também citam, geralmente, um desejo urgente de fugir de onde quer que o ataque de pânico esteja ocorrendo, mas com ataques recorrentes, parte do intenso temor pode I]dissipar-se. ,
+	      expirar: O prestígio desse líder M]expira notoriamente.,
+	      extinguir-se: Todos os seus anseios terrenos estão a ponto de I]extinguir-se para sempre! — Ele murmurou algumas palavras místicas de bênção.,
+	      findar: Ontem estivemos tratando do sofrimento e do I]findar do sofrimento.,
+	      ir: Eu tinha a mesma preocupação que vc, mas depois que comecei a utilizar a camera, todas as minhas preocupações I]foram embora.,
+	      ir-se: x,
+	      perder-se: Aonde foi que I]se perdeu a capacidade de compreender, de amar, de nos respeitarmos mutuamente, mesmo nas diferenças?,
+	      varrer-se: Com o avanço da ciência, I]varreu-se o obscurantismo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2905' = “Desaparecer ou chegar a um fim”
+	    {desaparecer: Afinal, ao longo de toda essa discussão, o nosso medo [desapareceu, se esfumaçou.,
+	      desvanecer-se: O afeto que você cultivou não I]se desvaneceu.,
+	      dissipar-se: No princípio ficamos com medo, mas quando o belo anjo começou a falar o nosso temor I]dissipou-se.,
+	      extinguir-se: Pois I]extinguiu-se toda nossa mágoa.,
+	      findar: Resquícios de uma relação que I]findou.,
+	      ir: Mas depois que comecei a utilizar a câmera, todas as minhas preocupações I]foram embora.,
+	      perder-se: Aonde foi que I]se perdeu a capacidade de compreender, de amar, de nos respeitarmos mutuamente, mesmo nas diferenças?,
+	      varrer-se: Levantou-se uma orelha do tapete, I]varreu-se o assunto, uma pena.,}
+Chave: FINDAR <verb.change>
+ILI: 00343622
+
+Sense 10
+{00343622} <verb.change> die1 -- (disappear or come to an end; "Their anger died"; "My secret will die with me!")
+       => {00414775} <verb.change> disappear, vanish, go away -- (get lost, especially without warning or explanation; "He disappeared without a trace") 

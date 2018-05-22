@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0195
+
+DADO O SYNSET:
+
+S='Glosa195'
+{esquivar-se: Depois de se informar de que os gols da vitória tinham sido de Romário e Sávio, Aldair tentou [esquivar-se de responder porque não volta de vez à Gávea.,
+furtar-se: O empresariado, principalmente, não deve [furtar-se à responsabilidade que possui como uma das forças mais significativas da Nação. ,
+roubar-se: I]Roubou-se aos sacerdotes tiranos o monopólio dos deuses para jungi-los à atrelagem do metro.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa195' = “evitar responder perguntas ou dar satisfação”
+{esquivar-se: Depois de se informar de que os gols da vitória tinham sido de Romário e Sávio, Aldair tentou [esquivar-se de responder porque não volta de vez à Gávea.,
+furtar-se: O empresariado, principalmente, não deve [furtar-se à responsabilidade que possui como uma das forças mais significativas da Nação. ,
+roubar-se: I]Roubou-se aos sacerdotes tiranos o monopólio dos deuses para jungi-los à atrelagem do metro.,}
+Chave: ESQUIVAR <verb.communication>
+ILI: 00783535
+
+Sense 3
+{00783535} <verb.communication> hedge, fudge, evade, put off3, circumvent, parry, elude, skirt, dodge, duck, sidestep -- (avoid or try to avoid fulfilling, answering, or performing (duties, questions, or issues); "He dodged the issue"; "she skirted the problem"; "They tend to evade their responsibilities"; "he evaded the questions skillfully")
+       => {00785083} <verb.communication> avoid -- (stay clear from; keep away from; keep out of the way of someone or something; "Her former friends now avoid her")

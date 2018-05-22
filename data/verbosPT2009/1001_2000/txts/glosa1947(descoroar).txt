@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA1947
+
+DADO O SYNSET:
+
+S='Glosa1947'
+{descoroar: Por outro lado, sendo ambíguo, o riso tira o rei do seu trono, I]descoroando-o por meio do deboche e da zombaria.,
+ escoroar: x,}
+
+A='Glosa723'
+{aureolar, coroar, nimbar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1947' = “remover a coroa”
+{descoroar: Por outro lado, sendo ambíguo, o riso tira o rei do seu trono, I]descoroando-o por meio do deboche e da zombaria.}
+
+A='Glosa723'
+{aureolar, coroar, nimbar}
+Chave: DESCOROAR <verb.social>
+ILI: EQ_HAS_HYPERONYM - 02319858
+
+Sense 1
+{02319858} <verb.social> dethrone -- (remove a monarch from the throne; "If the King does not abdicate, he will have to be dethroned")
+       => {02313901} <verb.social> divest, disinvest1 -- (deprive of status or authority; "he was divested of his rights and his title"; "They disinvested themselves of their rights")
+           => {02349028} <verb.social> free2, discharge1 -- (free from obligations or duties)

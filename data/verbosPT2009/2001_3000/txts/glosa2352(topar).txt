@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA2352
+
+DADO O SYNSET:
+
+S='Glosa2352'
+	    {enfrentar: H]Enfrentavam, no jardim, duas enormes paineira.# A colônia M]enfrenta a (ou com a) praia.,
+	      topar: Lá chega um belo dia em que o meu amigo, acompanhando sua família, [topa na rua, ou dentro de qualquer casa, com o cabra !.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2352' = “Estar defronte a algo ou alguém.”
+	    {enfrentar: H]Enfrentavam, no jardim, duas enormes paineiras.,
+	      topar: Lá chega um belo dia em que o meu amigo [topa na rua, ou dentro de qualquer casa, com o cabra !.,}
+
+Chave: TOPAR <verb.stative>
+ILI: 02612509
+
+Sense 4
+{02612509} <verb.stative> face2 -- (be opposite; "the facing page"; "the two sofas face each other")
+       => {02576058} <verb.stative> be5 -- (occupy a certain position or area; be somewhere; "Where is my umbrella?" "The toolshed is in the back"; "What is behind this behavior?") 

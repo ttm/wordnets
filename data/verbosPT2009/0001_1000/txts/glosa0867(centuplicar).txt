@@ -1,0 +1,18 @@
+ANÁLISE DA GLOSA0867
+
+DADO O SYNSET:
+
+S='Glosa867'
+      {centuplicar: A derrota do bloco comunista e a revolução da informática centuplicaram as energias do capitalismo,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa867' = “aumentar cem vezes”
+{centuplicar: A derrota do bloco comunista e a revolução da informática I]centuplicaram as energias do capitalismo,}
+Chave: CENTUPLICAR <verb.change>
+ILI: EQ_HAS_HYPERONYM - 00239103
+
+Sense 2
+{00239103} <verb.change> multiply, manifold1 -- (combine or increase by multiplication; "He managed to multiply his profits")
+       => {00147655} <verb.change> increase2 -- (make bigger or more; "The boss finally increased her salary"; "The university increased the number of students it admitted")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

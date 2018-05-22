@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA3588
+
+DADO O SYNSET:
+
+S='Glosa3588'
+	    {
+	      avantajar: Me parece que a mulher I]avantaja ao homem no plano da subjetividade.,
+	      desbancar: Um não precisa [desbancar o outro. / Você louva os outros porque sabe que ninguém é capaz de o [desbancar.  ,
+	      jantar: Bubba não foi o mais rápido nos treinos e nem gostou da pista, mas quando o gate caiu ele I]jantou a concorrência em pouco mais de duas curvas.,
+	      sobrelevar: A todos [sobreleva em beleza d' alma e corpo.,
+	      superar: Duvido que alguma escola consiga nos [superar.,
+	      suplantar: Nas últimas décadas do século XIX, o Realismo [suplantou o Romantismo na Europa. / O país vai disputar seu quarto mundial, um recorde que na Ásia será difícil [suplantar. ,
+	      vencer: Voltaire pegou dele para o meter no seu livro, e a ironia do filósofo [venceu a doçura do poeta.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3588' = “ser ou fazer algo a um grau mais elevado”
+	     {avantajar: Me parece que a mulher I]avantaja ao homem no plano da subjetividade.,
+	      desbancar: Um não precisa [desbancar o outro. / Você louva os outros porque sabe que ninguém é capaz de o [desbancar.  ,
+	      jantar: Bubba não foi o mais rápido nos treinos e nem gostou da pista, mas quando o gate caiu ele I]jantou a concorrência em pouco mais de duas curvas.,
+	      sobrelevar: A todos [sobreleva em beleza d' alma e corpo.,
+	      superar: Duvido que alguma escola consiga nos [superar.,
+	      suplantar: Nas últimas décadas do século XIX, o Realismo [suplantou o Romantismo na Europa. / O país vai disputar seu quarto mundial, um recorde que na Ásia será difícil [suplantar. ,
+	      vencer: Voltaire pegou dele para o meter no seu livro, e a ironia do filósofo [venceu a doçura do poeta.,}
+Chave: SUPERAR <verb.competition>
+ILI: 01070498
+
+Sense 4
+{01070498} <verb.competition> surpass, outstrip, outmatch, outgo, exceed, outdo, surmount1, outperform -- (be or do something to a greater degree; "her performance surpasses that of any other student I know"; "She outdoes all other athletes"; "This exceeds all my expectations"; "This car outperforms all others in its class")
+       => {01066844} <verb.competition> beat, beat out, crush, shell3, trounce, vanquish -- (come out better in a competition, race, or conflict; "Agassi beat Becker in the tennis championship"; "We beat the competition"; "Harvard defeated Yale in the last football game")
+           => {01072989} <verb.competition> get the better of, overcome3, defeat -- (win a victory over; "You must overcome all difficulties"; "defeat your enemies"; "He overcame his shyness"; "She conquered here fear of mice"; "He overcame his infirmity"; "Her anger got the better of her and she blew up")

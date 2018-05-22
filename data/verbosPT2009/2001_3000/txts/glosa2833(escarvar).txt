@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA2833
+
+DADO O SYNSET:
+
+S='Glosa2833'
+	    {escarvar: Cavalo escarvador, que tem a mania de I]escarvar com a pata no chão, pra deitar ou quando está com fome.,
+	      rapar: Sôfrego, o cavalo M]rapava o solo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2833' = “Raspar com as patas”
+	    {escarvar: O touro recuou um pouco, I]escarvou, meio dançando, retesou os lagartos, numa fúria de força.,}
+Chave: ESCARVAR
+ILI: 01174702
+
+Sense 1
+{01174702} <verb.contact> paw1 -- (scrape with the paws; "The bear pawed the door")
+       => {01269109} <verb.contact> scrape, grate1 -- (scratch repeatedly; "The cat scraped at the armchair")
+           => {01212021} <verb.contact> rub -- (move over something with pressure; "rub my hands"; "rub oil into her skin")
+               => {01175477} <verb.contact> guide, run1, draw13, pass -- (guide or pass over something; "He ran his eyes over her body"; "She ran her fingers along the carved figurine"; "He drew her hair through his fingers") 

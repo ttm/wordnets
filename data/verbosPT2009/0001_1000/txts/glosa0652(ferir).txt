@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA0652
+
+DADO O SYNSET:
+
+S='Glosa652'
+{aquebrantar: x,
+ferir: Por último, cuidará para que os jogadores não portem nada que possa [ferir um adversário (relógios, pulseiras metálicas etc . ,
+macerar: H]Macerava o corpo para salvar a alma.,
+machucar: Preocupado em não [machucar o companheiro, Zé Elias sempre entra leve.,
+mortificar: O sol causticante, qual hálito infernal, a I]mortificar os corpos ressequidos dos milhares que labutavam nos campos, era apenas parte dos tormentos.,
+quebrantar: O ataque injurioso A]quebrantou-a.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa652' = “causar ferimentos ou dano corporal a”
+{ferir: Por último, cuidará para que os jogadores não portem nada que possa [ferir um adversário (relógios, pulseiras metálicas etc . ,
+macerar: Como ele contemplou na face feliz de Lenora e I]macerou a alma dele.,
+machucar: Preocupado em não [machucar o companheiro, Zé Elias sempre entra leve.,
+mortificar: O sol causticante, qual hálito infernal, a I]mortificar os corpos ressequidos dos milhares que labutavam nos campos, era apenas parte dos tormentos.,
+quebrantar: Ele I]quebranta os fortes, sem inquiriçao, e põe outros em lugar deles.,}
+Chave: FERIR <verb.body>
+ILI: 00067690
+
+Sense 1
+{00067690} <verb.body> injure, wound -- (cause injuries or bodily harm to)
+       => {00062508} <verb.body> hurt1 -- (give trouble or pain to; "This exercise will hurt your back")
+           => {00062736} <verb.body> indispose -- (cause to feel unwell; "She was indisposed")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

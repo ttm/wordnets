@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA2263
+
+DADO O SYNSET:
+
+S='Glosa2263'
+	    {governar: O rei I]governa de acordo com a Sharia, a lei sagrada do islamismo.,
+	      imperar: Júlio César I]imperava no mundo.,
+	      reinar: Após [reinar como monarca presidencial de 58 a 69, o ex-presidente francês Charles De Gaulle morre em 9 de novembro de 70.,
+	      tronar1: x,
+	      tronear: x,
+	      tronejar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2263' = “exercer autoridade sobre uma nação ou pessoas”
+	    {governar: O rei I]governa de acordo com a lei sagrada do islamismo.,
+	      imperar: Júlio César I]imperava no mundo.,
+	      reinar: Após [reinar como monarca presidencial, o ex-presidente francês morre.,}
+
+Chave: GOVERNAR <verb.social>
+ILI: 02509613
+
+Sense 3
+{02509613} <verb.social> govern, rule -- (exercise authority over; as of nations; "Who is governing the country now?")
+       => {02367626} <verb.social> control, command -- (exercise authoritative control or power over; "control the budget"; "Command the military forces")

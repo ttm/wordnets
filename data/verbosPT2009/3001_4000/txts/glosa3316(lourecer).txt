@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA3316
+
+DADO O SYNSET:
+
+S='Glosa3316'
+	    {
+	      loirecer: x,
+	      loirejar: x,
+	      lourecer: O outono H]lourecia as folhas da amendoeira.,
+	      lourejar: Reverdecem os angicos; I]lourejam os juás em moitas, e as baraúnas de flores em cachos.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3316' = “tornar amarelo”
+	     {lourecer: O outono H]lourecia as folhas da amendoeira.,
+	      lourejar: Reverdecem os angicos; I]lourejam os juás em moitas, e as baraúnas de flores em cachos.,}
+Chave: LOURECER <verb.change>
+ILI: 00280796
+
+Sense 1
+{00280796} <verb.change> yellow -- (turn yellow; "The pages of the book began to yellow")
+       => {00272185} <verb.change> discolor, discolour, colour, color1 -- (change color, often in an undesired manner; "The shirts discolored")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

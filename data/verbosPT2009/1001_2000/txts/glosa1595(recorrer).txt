@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA1595
+
+DADO O SYNSET:
+	
+S='Glosa1595'
+    	{apelar: Jatene decidiu também [apelar para o primo banqueiro da Zélia Cardoso de Mello e espera-se que caia um envelope do céu com dinheiro para a Saúde, a qualquer momento .,
+      	 dirigir-se: Se a Administração não atuar de acordo com suas recomendações ou se se negar a prestar a colaboração pedida, o Provedor poderá [dirigir-se à Assembléia da República, expondo os motivos pelos quais tomou a decisão.,
+      	 recorrer: Procurando aparentar calma, os líderes governistas divulgaram a versão oficial de que bastA] recorrer ao presidente da Câmara para que os pontos sejam recuperados na votação em plenário.,
+      	 voltar-se: Se Fleury conseguisse destruir a candidatura Quércia, o PMDB poderia depois [voltar-se para outro candidato.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1595' = “recorrer [a]”
+    	{apelar: Jatene decidiu também [apelar para o primo banqueiro da Zélia Cardoso de Mello e espera-se que caia um envelope do céu com dinheiro para a Saúde, a qualquer momento.,
+      	 dirigir-se: Enquanto o Justitiekansler poderá enviar notificação ao presidente da República e ao Riksdag, para que sejam tomadas atitudes no sentido da realização de providências em determinado sentido, o Justitieombudsman não tem alternativa senão [dirigir-se ao Parlamento, que poderá ou não dar atenção àquela proposição de delegado parlamentar.,
+      	 recorrer: Procurando aparentar calma, os líderes governistas divulgaram a versão oficial de que basta] recorrer ao presidente da Câmara para que os pontos sejam recuperados na votação em plenário.,
+      	 voltar-se: Se Fleury conseguisse destruir a candidatura Quércia, o PMDB poderia depois [voltar-se para outro candidato.}
+Chave: RECORRER <verb.social>
+ILI: 02513274
+
+Sense 1
+{02513274} <verb.social> fall back, resort11, recur11 -- (have recourse to; "The government resorted to rationing meat")
+       => {01123102} <verb.consumption> use1, utilize, utilise, apply, employ -- (put into service; make work or employ (something) for a particular purpose or for its inherent or natural purpose; "use your head!"; "we only use Spanish at home"; "I can't make use of this tool"; "Apply a magnetic field here"; "This thinking was applied to many projects"; "How do you utilize this tool?"; "I apply this rule to get good results"; "use the plastic bags to store the food"; "He doesn't know how to use a computer")

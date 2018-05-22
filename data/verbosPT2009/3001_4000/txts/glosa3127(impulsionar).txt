@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA3127
+
+DADO O SYNSET:
+
+S='Glosa3127'
+	    {
+	      acelerar: Nos últimos anos, para [acelerar o desenvolvimento industrial, o Eire tem estimulado a entrada de capitais estrangeiros, através de incentivos fiscais. ,
+	      embalar1: Embora não exista declaração oficial nesse sentido, a torcida é pelo fracasso do Real, que [embalou até agora o crescimento de FHC. ,
+	      impulsar: Como parte destas iniciativas, o governo do México I]impulsou em abril o estabelecimento de um Relator Especial sobre os povos indígenas no marco da Comissão.,
+	      impulsionar: As exportações criariam uma base sustentada de aumento da taxa de formação bruta de capital para [impulsionar a economia. ,
+	      propulsionar: Este modo novo de pensamento I]propulsou uma revolução artística que atraiu a sentimentos de orgulho para folclore nacional, história, e ascendência.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3127' = “dar incentivo a um ação”
+	     {acelerar: Tal fato aumentou as possibilidades dos indivíduos e [acelerou o desenvolvimento global. ,
+	      embalar1: Software livre I]embala crescimento da Conectiva. ,
+	      impulsar: Como parte destas iniciativas, o governo do México I]impulsou em abril o estabelecimento de um Relator Especial sobre os povos indígenas no marco da Comissão.,
+	      impulsionar: O Plano Real [impulsionou a candidatura de Fernando Henrique Cardoso (PSDB). ,
+	      propulsionar: Este modo novo de pensamento I]propulsou uma revolução artística que atraiu a sentimentos de orgulho para folclore nacional, história, e ascendência.,}
+Chave: IMPULSIONAR <verb.creation>
+ILI: 01603134
+
+Sense 2
+{01603134} <verb.creation> motivate, actuate2, propel, move, prompt, incite -- (give an incentive for action; "This moved me to sacrifice my career")
+       => {01598809} <verb.creation> cause, do2, make8 -- (give rise to; cause to happen or occur, not always intentionally; "cause a commotion"; "make a stir"; "cause an accident")
+           => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

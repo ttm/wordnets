@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA3709
+
+DADO O SYNSET:
+
+S='Glosa3709'
+	{estar: Segundo ela, na quarta-feira, o músico [estava bem, apenas se sentia um pouco enjoado.,
+	 passar: A baixa umidade causada pela longa temporada de seca e a poluição fizeram muita gente [passar mal.,
+	 sentir-se: O importante é [se sentir bem.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3709' = “aparentar-se em relação a uma dada sensação”
+	{estar: Segundo ela, na quarta-feira, o músico [estava bem, apenas se sentia um pouco enjoado.,
+	 passar: A baixa umidade causada pela longa temporada de seca e a poluição fez muita gente [passar mal.,
+	 sentir-se: O importante é [se sentir bem.}
+Chave: SENTIR-SE <verb.body>
+ILI: 00103107
+
+Sense 4 
+{00103107} <verb.body> feel -- (seem with respect to a given sensation given; "My cold is gone--I feel fine today"; "She felt tired after the long hike")
+       => {02526983} <verb.stative> be3 -- (have the quality of being; (copula, used with an adjective or a predicate noun); "John is rich"; "This is not a good answer")

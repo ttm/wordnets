@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA1304
+
+DADO O SYNSET:
+
+S='Glosa1304'
+{assear-se: Uma vez convencido o mendigo, o levou a seu lugar de hospedagem, ofereceu-lhe roupa e a oportunidade de I]assear-se.,
+ banhar-se: Mas continuava a cumprir religiosamente seu ritual: [banhar-se de manhã e orar à tarde no templo.,
+ escasquear-se: x,
+ lavar-se: Quaresma despiu-se, [lavou-se, enfiou a roupa de casa, veio para a biblioteca, sentou-se a uma cadeira de balanço, descansando. ,
+ limpar-se: Kevin acabou, I]limpou-se, deu descarga, lavou as mãos como um homem civilizado e foi para a cozinha.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1304' = “limpar-se lavando o corpo” 
+{assear-se: Para preservar de maneira geral a higiene dos espaços, vias e logradouros públicos fica terminantemente proibido I]assear-se ou lavar roupas em chafarizes, fontes ou tanques situados em espaços, vias e logradouros públicos;
+banhar-se: Mas continuava a cumprir religiosamente seu ritual: [banhar-se de manhã e orar à tarde no templo.,
+ lavar-se: Quaresma despiu-se, [lavou-se, enfiou a roupa de casa, veio para a biblioteca, sentou-se a uma cadeira de balanço, descansando.,
+ limpar-se: Então fui ate o mar para tirar a areia das costas e das pernas, o Joshua me acompanhou e se I]limpou também.,}
+Chave: LIMPAR-SE <verb.body>
+ILI: 00034368
+
+Sense 1
+{00034368} <verb.body> bathe -- (cleanse the entire body; "bathe daily")
+       => {00034523} <verb.body> cleanse, clean -- (clean one's body or parts thereof, as by washing; "clean up before you see your grandparents"; "clean your fingernails before dinner")
+           => {00039108} <verb.body> groom, neaten -- (care for one's external appearance; "He is always well-groomed")
+               => {00284091} <verb.change> beautify, embellish, prettify -- (make more beautiful)
+                   => {00198579} <verb.change> better1, improve1, amend, ameliorate1, meliorate1 -- (to make better; "The editor improved the manuscript with his changes")
+                       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

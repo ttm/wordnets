@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA2028
+
+DADO O SYNSET:
+	
+S='Glosa2028'
+    	{casar: O padre fajuto fecha os olhinhos, clama por sua vidência e garante que a moça vai [casar daqui a um ano e meio .,
+      	 esposar: Dom Calogero acha lindo ver sua filha [esposar alguém de estirpe.,
+      	 matrimoniar: x,}
+  
+A='Glosa1109'
+    	{descasar, desquitar, divorciar, separar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2028' = “executar uma cerimônia de casamento”
+    	{casar: A mãe e o pai da noiva se adiantaram e o Pastor I]casou os dois também.,
+      	 esposar: Minha consciência me pedia: colocar num lugar digno a imagem de Nossa Senhora do Trajeto, filha dileta do Pai que quis ficar no colo da Mãe e I]esposá-la com o Espírito Santo, inspirador de todos os dons.}
+  
+A='Glosa1109'
+    	{descasar, desquitar, divorciar, separar}
+Chave: CASAR <verb.social>
+ILI: 02415146
+
+Sense 2
+{02415146} <verb.social> marry1, wed1, tie, splice -- (perform a marriage ceremony; "The minister married us on Saturday"; "We were wed the following week"; "The couple got spliced on Hawaii")
+       => {02310945} <verb.social> officiate1 -- (act in an official capacity in a ceremony or religious ritual, such as a wedding; "Who officiated at your wedding?")
+           => {02303902} <verb.social> perform2 -- (perform a function; "Who will perform the wedding?")
+               => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

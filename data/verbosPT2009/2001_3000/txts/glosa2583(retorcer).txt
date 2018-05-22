@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA2583
+
+DADO O SYNSET:
+
+S='Glosa2583'
+	    {retorcer: A atividade geralmente é improdutiva e repetitiva e consiste de comportamentos tais como caminhar a esmo, remexer-se, I]retorcer as mãos, puxar as roupas e incapacidade de ficar sentado quieto.,
+	      revirar: Com sua língua sempre branca conseguia I]revirar um cigarro aceso para dentro da boca e depois exteriorizá-lo ainda aceso.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2583' = “Mexer em movimentos contorcidos.”
+	    {retorcer: Paulo arrancava os cabelos, I]retorcia as mãos.,
+	      revirar: Quando caminha, seus quadris H]reviram.,}
+
+Chave: RETORCER <verb.motion>
+ILI: 01814282
+
+Sense 1
+{01814282} <verb.motion> writhe, wrestle, wriggle, worm, squirm, twist1 -- (to move in a twisting or contorted motion, (especially when struggling); "The prisoner writhed in discomfort"; "The child tried to wriggle free from his aunt's embrace")
+       => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right") 

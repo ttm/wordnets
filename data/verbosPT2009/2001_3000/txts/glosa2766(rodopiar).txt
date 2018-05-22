@@ -1,0 +1,36 @@
+ANÁLISE DA GLOSA2766
+
+DADO O SYNSET:
+
+S='Glosa2766'
+	    {corrupiar: Fora de si, Wilmar se achava ao volante de uma bólide a ponto de penetrar num outro plano de vida, porém pisou no freio, e o taxi derrapou,I]corrupiando na pista.,
+	      girar: As depressões consistem em círculos de ar que [giram num raio de centenas de quilômetros. # Os nêutrons [giram com determinada velocidade.,
+	      redopiar: Com efeito na ponte agitava-se uma numerosa multidão de chinesas e algumas inglesas e russas -- porque de homens havia muito poucos, tirando os carregadores. Vestidos bordados de flores e borboletas em metamorfose, sombrinhas multicores, aventais I]redopiando como pássaros, e risos, e gritos, e alegria e luta, tudo isso vibrava, reluzia, cantava, voava ao sol, como uma festa de vida e de amor. ,
+	      rodar: Arremessou-se Pojucã avante e desfechou o golpe; mas a lança[rodara e foi o chefe tocantim quem recebeu no peito a ponta farpada.,
+	      rodopiar: Segundo a Polícia Rodoviária Estadual, o ônibus da viação Vale do Tietê, que fazia o trajeto Laranjal Paulista-São Paulo, virou de lado ao [rodopiar na pista molhada.,
+	      rolar1: O recomendado é dar entre quatro e seis passos, esticar o braço para trás, flexionar as pernas (a da frente desliza suavemente) , arquear levemente o braço e, com a mão quase espalmada, [rolar a bola.,
+	      voltear: Tomando então a manopla e fazendo [voltear as bolas, o gaúcho atirou-as; o castelhano caiu estropiado a cinqüenta passos da casa.,
+	      voltejar: O maior espeto da cozinha podia I]voltejar um boi.,
+	      volutear: As alas da labareda I]voluteando pelos ares como um nastro de fitas vermelhas que farfalham ao vento na riçada cabeça de linda caipira, derramam pelo terreiro o prazer e o contentamento.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2766' = “Dar voltas rapidamente e repetidamente em torno de um eixo”
+	    {corrupiar: Também quando as mesas girantes atraíram a atenção de Kardec, a idéia reinante era que elas I]corrupiavam por um efeito elétrico ou magnético.,
+	      girar: Os nêutrons [giram com determinada velocidade.,
+	      redopiar: Cada um dos Zindunga, um por um, enquanto os outros I]redopiam e dançam, vai junto do doente.,
+	      rodar: E os piões não rodam entre os paralelepípedos.,
+	      rodopiar: Piões gigantescos que I]rodopiam de cabeça para baixo dezenas de metros acima do solo.,
+	      rolar1: Pedras que I]rolam não criam limo.,
+	      voltear: Lembra uma valsa de salão, em que os pares I]volteiam, marcando o final de cada tempo, com um gracioso bater de pés.,
+	      voltejar: Uma das jovens passou a mão no cabelo e algumas flores I]voltejaram e caíram na calçada.,
+	      volutear: No carrossel I]voluteavam bandos de crianças.,}
+
+Chave: RODPIAR <verb.motion>
+ILI: 01988466
+
+Sense 1
+{01988466} <verb.motion> spin1, spin around, whirl4, reel3, gyrate1 -- (revolve quickly and repeatedly around one's own axis; "The dervishes whirl around and around without getting dizzy")
+       => {01986772} <verb.motion> revolve, go around1, rotate1 -- (turn on or around an axis or a center; "The Earth revolves around the Sun"; "The lamb roast rotates on a spit over the fire")
+           => {02036615} <verb.motion> turn4 -- (move around an axis or a center; "The wheels are turning")
+               => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right") 

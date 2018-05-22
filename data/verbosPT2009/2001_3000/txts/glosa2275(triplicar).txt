@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA2275
+
+DADO O SYNSET:
+
+S='Glosa2275'
+	    {tresdobrar: Quando tornou, trazia alguns pares de contos de réis, que a fortuna dobrou, redobrou e I]tresdobrou.,
+	      triplicar: Esse peso duplica dos quatro aos cinco meses e [triplica até o final do primeiro ano de vida.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2275' = “aumentar ou multiplicar em três vezes”
+	    {tresdobrar: Quando tornou, trazia alguns pares de contos de réis, que a fortuna dobrou, redobrou e I]tresdobrou.,
+	      triplicar: Esse peso duplica dos quatro aos cinco meses e [triplica até o final do primeiro ano de vida.,}
+
+Chave: TRILICAR <verb.change>
+ILI: 00238459
+
+Sense 1
+{00238459} <verb.change> triple, treble -- (increase threefold; "Triple your income!")
+       => {00239103} <verb.change> multiply, manifold1 -- (combine or increase by multiplication; "He managed to multiply his profits")
+           => {00147655} <verb.change> increase2 -- (make bigger or more; "The boss finally increased her salary"; "The university increased the number of students it admitted")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

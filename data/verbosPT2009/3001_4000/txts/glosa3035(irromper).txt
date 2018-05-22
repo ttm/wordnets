@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA3035
+
+DADO O SYNSET:
+
+S='Glosa3035'
+	    {
+	      desatar: O rei, que percebia o negócio, [desatava a rir e o mandava embora.,
+	      golfar: A luz, que I]golfava em cascatas pelas janelas abertas sobre um terraço cercado de altos muros, enchia o aposento.,
+	      golfejar: A um momento inesperado, súbito clarão I]golfejava da porta principal da igreja que se abria.,
+	      irromper: E o tambor [irrompendo no ritual católico, como aliás o boi irrompe no tambor. # Note-se que, nas reflexões de Riobaldo, [irrompem freqüentemente as alusões a crimes contra os fundamentos da humanidade.,
+	      prorromper: Sentindo que a alcunha lhe era dirigida, não perdeu a dignidade, não [prorrompeu em doestos e insultos. # Os jornalistas, porém, que estavam próximo à mesa, ao ouvilo, [prorromperam em gargalhadas, certamente inconvenientes à majestade do lugar . ,
+	      romper: Em suma, trata-se de um contexto mais do que propício para quem [rompe com o silêncio e decide revolver um porão de recordações sem luz.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3035' = “libertar repentinamente algo que estava confinado”
+	     {desatar: O rei, que percebia o negócio, [desatava a rir e o mandava embora.,
+	      golfar: A luz, que I]golfava em cascatas pelas janelas abertas sobre um terraço cercado de altos muros, enchia o aposento.,
+	      golfejar: A um momento inesperado, súbito clarão I]golfejava da porta principal da igreja que se abria.,
+	      irromper: Até um desfile de figuras carnavalescas [irrompe na tela, sem mais nem menos, para realçar o colorido tropical. # Note-se que, nas reflexões de Riobaldo, [irrompem freqüentemente as alusões a crimes contra os fundamentos da humanidade.,
+	      prorromper: A entrada em campo das duas equipes, acompanhadas do juiz francês Guigue, a torcida I]prorrompeu em aplausos ensurdecedores. # Os jornalistas, porém, que estavam próximo à mesa, ao ouvi-lo, [prorromperam em gargalhadas, certamente inconvenientes à majestade do lugar . ,
+	      romper: Em suma, trata-se de um contexto mais do que propício para quem [rompe com o silêncio e decide revolver um porão de recordações sem luz.,}
+Chave: IRROMPER <verb.emotion>
+ILI: 01733664
+
+Sense 2
+{01733664} <verb.emotion> break, burst, erupt -- (force out or release suddenly and often violently something pent up; "break into tears"; "erupt in anger")
+       => {01750193} <verb.emotion> express emotion, express feelings -- (give verbal or other expression to one's feelings)

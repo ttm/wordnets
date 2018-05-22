@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA2359
+
+DADO O SYNSET:
+
+S='Glosa2359'
+	    {andar: As importações H]andam perto de um bilhão de reais.,
+	      calcular: Assim, os termos aditivos não poderiam ser superiores a R$ 25 milhões, [calcula.,
+	      computar: Ela [computa cerca de 120 erros diários de acabamento no jornal.,
+	      contar: Sem que ele percebesse, e começamos a I]contar o dinheiro. ,
+	      numerar: É dotado de um microfilme para 2.500 poses e um carimbo que [numera os cheques fotografados.,
+	      orçar: Tem que saber I]orçar seu dinheiro e viver dentro dos limites estabelecido pelo orçamento.,
+	      tocar: A dívida H]toca a milhões de reais.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2359' = “Somar em número ou quantidade.”
+	    {andar: As importações H]andam perto de um bilhão de reais.,
+	      calcular: O Sistema do primeiro termo aditivo [calculou em R$ 2,2 milhões os gastos com o serviço de vigilância.,
+	      computar: Ela [computa cerca de 120 erros diários de acabamento no jornal.,
+	      contar: A soma I]conta com 30 professores.,
+	      numerar: Crowley I]numerou o versos Capítulo I.,
+	      orçar: Tem que saber I]orçar seu dinheiro e viver dentro dos limites estabelecido pelo orçamento.,
+	      tocar: A dívida H]toca a milhões de reais.,}
+
+Chave: COMPUTAR <verb.stative>	
+ILI: 02566515
+
+Sense 1
+{02566515} <verb.stative> total, number, add up3, come12, amount1 -- (add up in number or quantity; "The bills amounted to $2,000"; "The bill came to $2,000")
+       => {02526983} <verb.stative> be3 -- (have the quality of being; (copula, used with an adjective or a predicate noun); "John is rich"; "This is not a good answer") 

@@ -1,0 +1,37 @@
+ANÁLISE DA GLOSA3799
+
+DADO O SYNSET:
+	
+S='Glosa3799'
+{escorrer: As mulheres amarravam lenços ao pescoço, por causa do suor que lhes [escorria da fronte.,
+	 exsuar: x,
+	 exsudar: Thomaz produziu mais luzes, entortou talheres e fez uma essência perfumada I]exsudar das pontas dos dedos. ,
+	 lentar: x,
+	 lentejar: x,
+	 lentescer: x,
+	 perspirar: Ele retornou para casa trêmulo, I]perspirando, ele tinha febre alta.,
+	 suar: No intervalo para o almoço, o deputado deixou a sala [suando, o colarinho de sua camisa estava molhado.,
+	 transcoar: Dos corpos exaustos M]transcoava o suor.,
+	 transpirar: Você irá perceber seu corpo I]transpirando, o que significa que sua caminhada está sendo feita corretamente. ,
+	 transudar: Nossos peitos I]transudavam um suor farto e de cheiro intenso de uma virilidade exacerbada. ,
+	 tressuar: Curva-se de fadiga, arrasta-se, I]tressua.}
+	
+A ANÁLISE RESULTA EM:
+
+S='Glosa3799' = “expelir transpiração através dos poros da pele”
+{escorrer: As mulheres amarravam lenços ao pescoço, por causa do suor que lhes [escorria da fronte.,
+	 exsudar: Thomaz produziu mais luzes, entortou talheres e fez uma essência perfumada I]exsudar das pontas dos dedos. ,
+	 perspirar: Ele retornou para casa trêmulo, I]perspirando, ele tinha febre alta.,
+	 suar: No intervalo para o almoço, o deputado deixou a sala [suando, o colarinho de sua camisa estava molhado.,
+	 transcoar: Dos corpos exaustos M]transcoava o suor.,
+	 transpirar: Você irá perceber seu corpo I]transpirando, o que significa que sua caminhada está sendo feita corretamente. ,
+	 transudar: Nossos peitos I]transudavam um suor farto e de cheiro intenso de uma virilidade exacerbada. ,
+	 tressuar: Curva-se de fadiga, arrasta-se, I]tressua.}
+Chave: SUAR <verb.body>
+ILI: 00065374
+
+Sense 1 
+{00065374} <verb.body> sweat, sudate, perspire -- (excrete perspiration through the pores in the skin; "Exercise makes one sweat")
+       => {00070835} <verb.body> excrete, egest, eliminate, pass -- (eliminate from the body; "Pass a kidney stone")
+           => {00102093} <verb.body> discharge, expel, eject, release1 -- (eliminate (substances) from the body)
+          Also See-> {00044504} <verb.body> sweat off#1

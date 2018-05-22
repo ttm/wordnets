@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA1558
+
+DADO O SYNSET:
+
+S='Glosa1558'
+{abrir: Uma vez que a maioria das correntes das bicicletas não é equipada por um nó especial por onde se possa rompê-la, a saída é usar uma ferramenta apropriada para I]abrir qualquer um de seus elos. ,
+ desligar: Não é necessário que o pino da bicicleta se solte completamente, basta que deixe I]desligar os elos interiores da corrente.,
+ destocar2: x,
+ separar: Use a alavanca e você irá separar este vagão do resto do trem.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1558' = “tornar desconectado, desunido ou desatado”
+{abrir: Uma vez que a maioria das correntes das bicicletas não é equipada por um nó especial por onde se possa rompê-la, a saída é usar uma ferramenta apropriada para I]abrir qualquer um de seus elos.,
+ desligar: Não é necessário que o pino da bicicleta se solte completamente, basta que deixe I]desligar os elos interiores da corrente.,
+ separar: Use a alavanca e você irá I]separar este vagão do resto do trem.,}
+Chave: SEPARAR <verb.contact>
+ILI: 01316129
+
+Sense 2
+{01316129} <verb.contact> disconnect -- (make disconnected, disjoin or unfasten)
+       => {01513899} <verb.contact> separate1, disunite, divide1, part1 -- (force, take, or pull apart; "He separated the fighting children"; "Moses parted the Red Sea")
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA1458
+
+DADO O SYNSET:
+
+S='Glosa1458'
+{desbocar-se: Já tardava a gente em I]desbocar-se, falando de traques, bufas e merda em sentido abrangente,
+ descomedir-se: O senhor está H]descomedindo-se em suas palavras,
+	 deslinguar-se: H]Deslinguou-se em palavrões,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1458' = “falar alto e sem moderação”
+{desbocar-se: Depois de eu ter feito uma gozação com o nome “complicado” Photosynthesis, e em cuja defesa se levantou uma perua míope que levou o xiste a sério e passou a se I]desbocar em palavrões dentro do meu discurso.
+ descomedir-se: O tipo, insensível à ofensa, continuou a I]descomedir-se exibindo o seu talento galináceo. Quando menos se esperava, erguia-se nas pontas dos pés, lançava o duro grito rolado.,}
+Chave: DESBOCAR-SE <verb.communication>
+ILI: 01014980
+
+Sense 1
+{01014980} <verb.communication> bawl, bellow -- (shout loudly and without restraint)
+       => {00882406} <verb.communication> shout -- (utter in a loud voice; talk in a loud voice (usually denoting characteristic manner of speaking); "My grandmother is hard of hearing--you'll have to shout")
+           => {00910961} <verb.communication> talk, speak, utter, mouth, verbalize, verbalise -- (express in speech; "She talks a lot of nonsense"; "This depressed patient does not verbalize")
+               => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                   => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                       => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

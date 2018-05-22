@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA2582
+
+DADO O SYNSET:
+
+  S='Glosa2582'
+	    {dirigir: Pense agora na palavra "atenção". É uma palavra relativamente inespecífica, já que podemos I]dirigir a atenção  a alguma imagem, som ou sensação, para algo externo ou interno a nós, ao passado, futuro ou presente, em maior ou menor grau de segmentação e ainda combinações dessas possibilidades.,
+	      revirar: Tudo acontecia em função da quantidade de fumaça ingerida que agregada à medicação tinha a propriedade de deixar-lhe com o pescoço duro, rígido, de fazê-lo I]revirar os olhos, ou ainda ficar com as mãos trêmulas.,
+	      virar: Tentei ver minha suposta companhia, mas uma força contrária, que só se sente nos sonhos, não me deixou I]virar os olhos.,
+	      voltar: Deslocar o tronco para diante apoiando-se bem sobre o pé que está à frente, I]voltar a cabeça para o lado contrário ao apoio.,
+	      volver: Ao chão seus olhos I]volvia.,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2582' = “Dirigir a alguém ou alguma coisa.”
+	    {dirigir: Juliana I]dirigiu o olhar para o sócio do sobrinho, piscando muito, visivelmente enraivecida com o sujeito.,
+	      revirar: Mary somente I]revirou o olhar, olhando feio para Joel.,
+	      virar: Ele I]virou os olhos para o espelho do guarda-roupa aberto e ficou assustado com a imagem que viu refletida.,
+	      voltar: Deslocar o tronco para diante apoiando-se bem sobre o pé que está à frente, I]voltar a cabeça para o lado contrário ao apoio.,
+	      volver: Todas as manhãs subia ao morro das areias e I]volvia os olhos ao mar.,}
+
+Chave: VOLVER <verb.competition>
+ILI: 01116365
+
+Sense 24
+{01116365} <verb.competition> turn13 -- (direct at someone; "She turned a smile on me"; "They turned their flashlights on the car")
+       => {01115611} <verb.competition> aim, take9, train, take aim, direct -- (aim or direct at; as of blows, weapons, or objects such as photographic equipment; "Please don't aim at your little brother!"; "He trained his gun on the burglar"; "Don't train your camera on the women"; "Take a swipe at one's opponent")
+           => {01929222} <verb.motion> position -- (cause to be in an appropriate place, state, or relation)
+               => {01452069} <verb.contact> put, set, place, pose2, position, lay1 -- (put into a certain place or abstract location; "Put your things here"; "Set the tray down"; "Set the dogs on the scent of the missing children"; "Place emphasis on a certain point")
+                   => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

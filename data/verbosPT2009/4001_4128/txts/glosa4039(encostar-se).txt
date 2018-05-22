@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA4039
+
+DADO O SYNSET:
+
+S='Glosa4039'
+{aproximar-se: Escutou os gritos confusos da multidão, I]aproximou-se do local e constatou que uma criança tinha caído no fosso dos animais.,
+cerrar-se: H]Cerraram-se-lhe os olhos diante de tanta luz.,
+cingir-se: O fugitivo H]cingia-se ao muro.,
+colar-se: Tão logo a vestiu, a roupa I]colou-se ao corpo de Héracles e principiou a arder em chamas.,
+coser-se: O cão A]cosia-se ao dono.,
+encostar-se: Descartei a possibilidade de estar indo para a casa de um parente quando ela I]encostou-se ao muro do cemitério Parque de Olinda, permanecendo ali por várias horas.,
+prolongar-se: H]Prolongaram-se junto ao muro para não serem vistos.,
+unir-se: A mulher e o amante I]uniram-se num abraço.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4039' = “entrar ou estar em contato próximo [a]; colar ou segurar-se e resistir a separação”
+{aproximar-se: Lalau [proximou-se de D. Antônia, que lhe compôs o cabeção do vestido; depois foi sentar-se defronte de mim, ao pé da outra hóspeda.,
+cerrar-se: O cavaleiro não fez nenhum gesto; sua direita enluvada com uma manopla férrea e bem encaixada I]cerrou-se mais ainda ao arção da cela.,
+cingir-se: O fugitivo H]cingia-se ao muro.,
+colar-se: Tão logo a vestiu, a roupa I]colou-se ao corpo de Héracles e principiou a arder em chamas.,
+coser-se: O cão A]cosia-se ao dono.,
+encostar-se: Descartei a possibilidade de estar indo para a casa de um parente quando ela I]encostou-se ao muro do cemitério Parque de Olinda, permanecendo ali por várias horas.,
+prolongar-se: H]Prolongaram-se junto ao muro para não serem vistos.,
+unir-se: A mulher e o amante I]uniram-se num abraço.,}
+Chave: ENCOSTAR-SE <verb.contact>
+ILI: 01183957
+
+Sense 1
+{01183957} <verb.contact> cling, cleave2, adhere1, stick1, cohere -- (come or be in close contact with; stick or hold together and resist separation; "The dress clings to her body"; "The label stuck to the box"; "The sushi rice grains cohere")
+       => {01169130} <verb.contact> touch1, adjoin3, meet, contact3 -- (be in direct physical contact with; make contact; "The two buildings touch"; "Their hands touched"; "The wire must not contact the metal cover"; "The surfaces contact at this point")
+
+
+

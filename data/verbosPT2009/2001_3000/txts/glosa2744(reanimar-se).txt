@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA2744
+
+DADO O SYNSET:
+
+  S='Glosa2744'
+	    {reanimar-se: Na década de quarenta, I]reanimar-se-ia o teatro em nossa cidade com a fundação do "Teatro Amador de ltajaí", iniciativa de três entusiastas: Mário Uriarte, Emílio Gazaniga e Ary Mascarenhas Passos.,
+	      reflorescer: Em 1934 Pirandello recebeu o Prêmio Nobel de Literatura "Por sua audaciosa e engenhosa maneira de fazer I]reflorescer a arte teatral e dramática".,
+	      reflorir: Por isso é, talvez, que se vai notando um belo I]reflorir das humanidades clássicas, a coincidir auspiciosamente com a florescência do neo-humanismo, que, embora norteado por ideais superiores, tem as raízes no humanismo da Renascença.,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2744' = “Restaurar de um estado desvalorizado, inativo ou não utilizado.”
+	    {reanimar-se: O naturismo enfraqueceu no Brasil e só I]reanimou-se no início da década de 80.,
+	      reflorescer: Em um ano, uma carreira que parecia encerrada I]refloresceu, após a gravação do primeiro disco.,
+	      reflorir: O maniqueísmo conseguiu desenvolver-se por mais de um século, influenciando as mentes. Na Idade Média I]refloriu na Bulgária e no Ocidente.,}
+
+Chave: REANIMAR-SE <verb.change>
+ILI: 00162424
+
+Sense 4
+{00162424} <verb.change> revive1, resurrect -- (restore from a depressed, inactive, or unused state; "He revived this style of opera"; "He resurrected the tango in this remote part of Argentina")
+       => {00162138} <verb.change> regenerate1, restore, rejuvenate4 -- (return to life; get or give new life or energy; "The week at the spa restored me")
+           => {01584867} <verb.creation> regenerate, renew -- (re-establish on a new, usually improved, basis or make new or like new; "We renewed our friendship after a hiatus of twenty years"; "They renewed their membership")
+               => {01573613} <verb.creation> re-create -- (create anew; "Re-create the boom of the West on a small scale")
+                   => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor") 

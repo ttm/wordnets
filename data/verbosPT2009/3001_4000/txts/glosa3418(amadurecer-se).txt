@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA3418
+
+DADO O SYNSET:
+
+S='Glosa3418'
+	    {
+	      amadurar-se: x,
+	      amadurecer-se: Nesta época as searas H]amadurecem-se.,
+	      assazoar-se: x,
+	      assazonar-se: x,
+	      madurar-se: x,
+	      madurecer-se: x,
+	      maturar-se: Ela (a árvore) nos fala do sol estival, que lhe A]maturou os frutos.,
+	      sazonar-se: Talvez de agora em diante apenas uns poucos notem certa demora em certas flores, certos frutos, no tempo de brotar e I]sazonar-se.  ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3418' = “causar amadurecimento ou desenvolver-se completamente”
+	     {amadurecer-se: Nesta época as searas H]amadurecem-se.,
+	      maturar-se: Ela (a árvore) nos fala do sol estival, que lhe A]maturou os frutos.,
+	      sazonar-se: Talvez de agora em diante apenas uns poucos notem certa demora em certas flores, certos frutos, no tempo de brotar e I]sazonar-se.,}
+Chave: AMADURECER-SE <verb.change>
+ILI: 00241617  
+
+Sense 1
+{00241617} <verb.change> ripen1, mature4 -- (cause to ripen or develop fully; "The sun ripens the fruit"; "Age matures a good wine")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

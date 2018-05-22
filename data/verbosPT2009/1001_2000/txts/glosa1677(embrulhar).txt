@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA1677
+
+DADO O SYNSET:
+
+S='Glosa1677'
+{dobrar: Quando entrega a estranhos seu cartão de visitas recheado de títulos imaginários, o Aristides acha chique dobrar-lhe a pontinha.,
+ embrulhar: Ontem, contudo, os seguranças da Câmara o obrigaram a I]embrulhar e guardar a bandeira.,
+ enrolar: O jovem nem teve tempo de [enrolar sua esteira como sempre fazia e nem pensou em café, abriu a porta e por intuito seguiu na direção do Homem com a enorme folha na mão.,}
+	  
+A='Glosa1271'
+{desdobrar, desembrulhar, desenrolar, estender}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1677' = “dispor fazendo com que uma parte cubra a outra”
+{dobrar: QO comandante da Guarda Municipal, Adão Derli de Azevedo, I]dobrou a bandeira de Porto Alegre que cobria o caixão e entregou ao prefeito José Fogaça.,
+ embrulhar: Ontem, contudo, os seguranças da Câmara o obrigaram a I]embrulhar e guardar a bandeira.,
+ enrolar: O jovem nem teve tempo de [enrolar sua esteira como sempre fazia e nem pensou em café, abriu a porta e por intuito seguiu na direção do Homem com a enorme folha na mão.,}
+	  
+A='Glosa1271'
+{desdobrar, desembrulhar, desenrolar, estender}
+Chave: EMBRULHAR <verb.contact>
+ILI: 01239868
+
+Sense 1
+{01239868} <verb.contact> fold, fold up, turn up -- (bend or lay so that one part covers the other; "fold up the newspaper"; "turn up your collar")
+       => {00345030} <verb.change> change surface -- (undergo or cause to undergo a change in the surface)
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

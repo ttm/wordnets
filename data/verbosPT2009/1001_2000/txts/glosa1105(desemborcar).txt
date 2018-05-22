@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA1105
+
+DADO O SYNSET:
+
+S='Glosa1105'
+{desaborcar: x,
+ desemborcar: Lourdinha, I]desemborque esse sapato senão a mãe morre.,}
+	  
+A='Glosa845'
+{capotar, emborcar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1105' = “mover girando”
+{desemborcar: São 10 anos e tanta coisa foi e voltou, tanta coisa virou de cabeça pra baixo e I]desemborcou novamente...,}
+A='Glosa845'
+{capotar, emborcar}
+Chave: DESEMBORCAR <verb.motion>
+ILI: 01812104
+
+Sense 1
+{01812104} <verb.motion> roll, turn over3 -- (move by turning over or rotating; "The child rolled down the hill"; "turn over on your left side")
+       => {01851475} <verb.motion> turn -- (change orientation or direction, also in the abstract sense; "Turn towards me"; "The mugger turned and fled before I could see his face"; "She turned from herself and learned to listen to others' needs")
+           => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right")
+          Also See-> {01909220} <verb.motion> roll down#1; {01813728} <verb.motion> roll over#1

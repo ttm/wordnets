@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA1814
+
+DADO O SYNSET:
+
+S='Glosa1814'
+{enlaçar: Se os caubóis conseguem I]enlaçar os touros com uma só mão, por que um homem precisaria de duas mãos para segurar o volante?,
+ laçar: Na arena, os concorrentes participavam de todas as provas normalmente presentes nos rodeios: montar cavalos xucros, [laçar novilhos e derrubar bois para fazer a marcação a ferro.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1814' = “apanhar com um laço”
+{enlaçar: Se os caubóis conseguem I]enlaçar os touros com uma só mão, por que um homem precisaria de duas mãos para segurar o volante?,
+ laçar: O vaqueiro também sabe o quanto ajuda molhar as mãos, para o laço não correr quando ele [laça um boi.,}
+Chave: LAÇAR <verb.contact>
+ILI: 01560346
+
+Sense 1
+{01560346} <verb.contact> lasso, rope3 -- (catch with a lasso; "rope cows")
+       => {01178666} <verb.contact> get9, catch1, capture1 -- (succeed in catching or seizing, especially after a chase; "We finally got the suspect"; "Did you catch the thief?")
+           => {01175818} <verb.contact> seize, prehend, clutch -- (take hold of; grab; "The salesclerk quickly seized the money on the counter"; "She clutched her purse"; "The mother seized her child by the arm"; "Birds of prey often seize small mammals")
+
+               => {01177510} <verb.contact> take, get hold of -- (get into one's hands, take physically; "Take a cookie!"; "Can you take this bag, please")

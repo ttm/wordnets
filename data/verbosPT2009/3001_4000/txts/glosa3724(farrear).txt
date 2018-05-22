@@ -1,0 +1,46 @@
+ANÁLISE DA GLOSA3724
+
+DADO O SYNSET:
+
+S='Glosa3724'
+{anarquizar: Vi um vídeo ao vivo de Yoshimi, com os integrantes da banda vestidos de coelho e mais um punhado de camaradas fantasiados de urso, gato, etc., I]anarquizando ao redor do palco.,
+	 badernar: A festa se estendeu pela madrugada toda, eles ficaram I]badernando até ao amanhecer.,
+	 bagunçar: Não faltava hotel, comida e cachaça, depois que eu resolvi [bagunçar, mascar fumo e pintar o sarambé.,
+	 baguncear: x,
+	 esborniar: Sinto que estou sem vontade de I]esborniar como antes.,
+	 estroinar: x,
+	 fandanguear: Ninguém sente canseira, tô chegando agora e quero I]fandanguear.,
+	 farrear: Vou I]farrear o fim de semana todo.,
+	 foliar: Espero que você esteja I]foliando muito nas férias.,
+	 fragalhotear: x,
+	 frangalhotear: x,
+	 furdunçar: x,
+	 pagodear: A lua ilumina o terreiro convidando o partideiro pra cantar a noite inteira, I]pagodeando até o sol raiar.,
+	 pandegar: Vamos todos, minha gente, I]pandegar no carnaval!,
+	 patuscar: Vivem M]patuscando esses rapazes.,
+	 pintar: Como M]pintam estes rapazes!,
+	 rosetar: Todo carnaval é a mesma chatice, eu quero é I]rosetar.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3724' = “participar de festividade”
+{anarquizar: Vi um vídeo ao vivo de Yoshimi, com os integrantes da banda vestidos de coelho e mais um punhado de camaradas fantasiados de urso, gato, etc., I]anarquizando ao redor do palco.,
+	 badernar: A festa se estendeu pela madrugada toda, eles ficaram I]badernando até ao amanhecer.,
+	 bagunçar: Não faltava hotel, comida e cachaça, depois que eu resolvi [bagunçar, mascar fumo e pintar o sarambé.,
+	 esborniar: Sinto que estou sem vontade de I]esborniar como antes.,
+	 fandanguear: Ninguém sente canseira, tô chegando agora e quero I]fandanguear.,
+	 farrear: Vou I]farrear o fim de semana todo.,
+	 foliar: Espero que você esteja I]foliando muito nas férias.,
+	 pagodear: A lua ilumina o terreiro convidando o partideiro pra cantar a noite inteira, I]pagodeando até o sol raiar.,
+	 pandegar: Vamos todos, minha gente, I]pandegar no carnaval!,
+	 patuscar: Vivem M]patuscando esses rapazes.,
+	 pintar: Como M]pintam estes rapazes!,
+	 rosetar: Todo carnaval é a mesma chatice, eu quero é I]rosetar.}
+Chave: FARREAR
+ILI: 01699138
+
+Sense 1 
+{01699138} <verb.social> carouse, roister, riot1 -- (engage in boisterous, drunken merry-making; "They were out carousing last night")
+       => {01697997} <verb.social> revel, racket, make whoopie, make merry, make happy, whoop it up, wassail -- (celebrate noisily; engage in uproarious festivities; "The members of the wedding party made merry all night"; "Let's whoop it up--the boss is gone!")
+           => {01697572} <verb.social> celebrate, fete -- (have a celebration; "They were feting the patriarch of the family"; "After the exam, the students were celebrating")
+               => {01694827} <verb.social> meet1, get together1 -- (get together socially or for a specific purpose)

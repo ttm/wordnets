@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA1124
+
+DADO O SYNSET:
+
+S='Glosa1124'
+	    {desalagar: A Serra da Carba é a linha divisória das águas entre as duas bacias e delas saem numerosos regatos que confluem no Támoga ou Santaballa e nos rios Trimaz e Magadalena que I]desalagam a maior parte do município,}
+	  
+A='Glosa462'
+	    {alagar, anaguar, inundar, submergir}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1124' = “esvaziar de líquido; drenar o líquido de algo”
+	    {desalagar: Um mergulhador com limitação motora  (tetraplegia), compartilha para colocar a máscara no rosto e não compartilha, diretamente, para I]desalaga-la.,}
+A='Glosa462'
+	    {alagar, anaguar, inundar, submergir}
+Chave: DESALAGAR <verb.change>
+ILI: EQ_NEAR_SYNONYM - 00438596
+
+Sense 3
+{00438596} <verb.change> drain1 -- (empty of liquid; drain the liquid from; "We drained the oil tank")
+       => {00436730} <verb.change> empty1 -- (make void or empty of contents; "Empty the box"; "The alarm emptied the building")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

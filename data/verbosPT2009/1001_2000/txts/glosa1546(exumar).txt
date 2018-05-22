@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA1546
+
+DADO O SYNSET:
+
+S='Glosa1546'
+{desenterrar: Cientistas franceses [desenterraram restos em bom estado de três rinocerontes com 23 milhões de anos, no sul da França.,
+ dessepultar: x,
+ dessoterrar: x,
+ exumar: Filhos querem [exumar cadáver de Nelson.,}
+	  
+A='Glosa2260'
+{enterrar, inumar, sepultar, tumular}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1546' = “retirar de sob a terra para enterrar novamente ou para investigação médica”
+{desenterrar: A polícia do Pará vai pedir autorização judicial para tentar [desenterrar, na fazenda Forkilha, o corpo de um homem que teria sido torturado e morto pelo fazendeiro.,
+ exumar: Filhos querem [exumar cadáver de Nelson.}
+	  
+A='Glosa2260'
+{enterrar, inumar, sepultar, tumular}
+Chave: EXUMAR <verb.social>
+ILI: 02383119
+
+Sense 1
+{02383119} <verb.social> disinter, exhume -- (dig up for reburial or for medical investigation; of dead bodies)
+       => {01274872} <verb.contact> excavate, dig up, turn up3 -- (find by digging in the ground; "I dug up an old box in the garden")
+           => {02173228} <verb.possession> obtain -- (come into possession of; "How did you obtain the visa?")
+               => {02147191} <verb.possession> get, acquire -- (come into the possession of something concrete or abstract; "She got a lot of paintings from her uncle"; "They acquired a new pet"; "Get your results the next day"; "Get permission to take a few days off from work")

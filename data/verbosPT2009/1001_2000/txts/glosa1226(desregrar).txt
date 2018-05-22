@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA1226
+
+DADO O SYNSET:
+
+S='Glosa1226'
+{descompassar: Um planejamento tributário feito pelas empresas para evitar a intermediação bancária, poderá I]descompassar a arrecadação do novo imposto. ,
+ desregrar: O pecado original tornou o homem inclinado para o mal e para o erro, e I]desregrou suas paixões.,}
+	  
+A='Glosa3729'
+{compassar, moderar, pautar, regrar, regular, taxar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1226' = “causar desordem”
+{descompassar: Um planejamento tributário feito pelas empresas para evitar a intermediação bancária, poderá I]descompassar a arrecadação do novo imposto.,
+ desregrar: O pecado original tornou o homem inclinado para o mal e para o erro, e I]desregrou suas paixões.,}
+A='Glosa3729'
+{compassar, moderar, pautar, regrar, regular, taxar}
+Chave: DESREGRAR
+ILI: 00267382 
+
+Sense 2
+{00267382} <verb.change> disorder, disarray -- (bring disorder to)
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

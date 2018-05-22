@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA2614
+
+DADO O SYNSET:
+
+S='Glosa2614'
+	    {alongar: Indiretamente, medidas como essa vão ajudar o governo a [alongar sua dívida. # E não se incluiriam por acaso ou mero desejo de [alongar o poema.,
+	      ampliar: A Camargo Corrêa acaba de [ampliar e asfaltar uma pista de dois mil metros quadrados do aeroporto de uma fazenda que tem em Buritis.,
+	      desenvolver: Para buscar essa água, as árvores da região [desenvolvem longas raízes.,
+	      prolongar: O Brasil, último assinante do Tratado Antártico, apesar de não poder registrar oficialmente a sua reclamação territorial na região, reivindica a posse da Antártida Brasileira, área compreendida entre os meridianos 29° e 53°20 ' de longitude oeste de Greenwich e, pontos localizados na foz do Arroio Chuí e na liha de Martim Vaz, respectivamente, que se [prolongam através de seus meridianos até o Pólo Sul.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2614' = “Tornar maior ou mais extenso; aumentar ou progredir.”
+	    {alongar: O problema da sua dívida interna [alongou unilateralmente o perfil do débito do governo.,
+	      ampliar: A Agência [ampliou sua rede significativamente em 30 anos.,
+	      desenvolver: Não rompeu com (sua obra) anterior, mas a [desenvolveu e aprofundou até extremos que pareciam inconcebíveis.,
+	      prolongar: Microsoft I]prolongou o suporte ao Windows 98 por temer que usuários mudem para o Linux.,}
+
+Chave: AMPLIAR <verb.change>
+ILI: 00223119
+
+Sense 2
+{00223119} <verb.change> grow -- (become larger, greater, or bigger; expand or gain; "The problem grew too large for me"; "Her business grew fast")
+       => {00150804} <verb.change> increase -- (become bigger or greater in amount; "The amount of work increased")
+           => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")
+          Also See-> {02002128} <verb.motion> grow over#1; {02465202} <verb.social> grow up#1 

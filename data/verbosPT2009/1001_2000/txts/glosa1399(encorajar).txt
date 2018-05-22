@@ -1,0 +1,46 @@
+ANÁLISE DA GLOSA1399
+
+DADO O SYNSET:
+
+S='Glosa1399'
+{acoroçoar: A cena exibida no anúncio, em vez de I]acoroçoar a violência, mostra a eficiência policial e uma gentileza ímpar do delegado,
+ afoitar: H]Afoitou uma tarefa complicada,
+	 afoutar: x,
+	 animar: Ele disse que «o espírito de Tancredo deve continuar a [animar o país.,
+	 bafejar: Ela, a menina alegre e feiticeira que só aprendera a sorrir, ela, o anjinho do prazer que [bafejava tudo quanto a rodeava, achou um gozo inefável em chorar,
+ desmodorrar: x,
+	 encorajar: Vale a pena investir num movimento que [encoraja os jovens a participarem mais ativamente do processo político americano. ,
+ esperançar: Meu desafio é de estabelecer um texto capaz de I]esperançar até as crianças,
+	 estimular: André Luis reconhece que a situação é difícil, mas que isso apenas o [estimula a continuar trabalhando.,
+	 excitar: Por sua repercussão e até pelo seu charme, o apitaço [excita o poder público a tomar uma providência.,
+ exortar: A Conferência Episcopal da Colômbia [exortou os deputados a procurarem a verdade e a promoverem um julgamento justo e imparcial de Samper,
+ incentivar: A grande safra, segundo a Companhia Nacional de Abastecimento, [incentiva os agricultores a investirem na produção .,}
+	  
+A='Glosa1400'
+{arriar, desanimar, desencorajar, desesperançar, desesperar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1399' = “inspirar com confiança; dar esperança ou ânimo [a]” 
+{acoroçoar: A cena exibida no anúncio, em vez de I]acoroçoar a violência, mostra a eficiência policial e uma gentileza ímpar do delegado.,
+ afoitar: As lavras cuiabanas eram extraídas de forma rudimentar o que I]afoitava os mineiros que na ânsia de encontrar ouro em maior quantidade deixavam Cuiabá.,
+	 animar: Condenação de ex-sócios do presidente em Whitewater [anima a oposição e leva promotor especial a acelerar as investigações.,
+ bafejar: A sorte também I]bafejou a estratégia da Gazeta e ela veio de onde
+menos se esperava: a concorrência.,
+ encorajar: Vale a pena investir num movimento que [encoraja os jovens a participarem mais ativamente do processo político americano.,
+ esperançar: Meu desafio é de estabelecer um texto capaz de I]esperançar até as crianças.,
+	 estimular: André Luis reconhece que a situação é difícil, mas que isso apenas o [estimula a continuar trabalhando.,
+	 excitar: Por sua repercussão e até pelo seu charme, o apitaço [excita o poder público a tomar uma providência.,
+ exortar: A Conferência Episcopal da Colômbia [exortou os deputados a procurarem a verdade e a promoverem um julgamento justo e imparcial de Samper.,
+ incentivar: A grande safra, segundo a Companhia Nacional de Abastecimento, [incentiva os agricultores a investirem na produção.,}
+A='Glosa1400'
+{arriar, desanimar, desencorajar, desesperançar, desesperar}
+Chave: ENCORAJAR <verb.emotion>
+ILI: 01765364
+
+Sense 2
+{01765364} <verb.emotion> encourage -- (inspire with confidence; give hope or courage to)
+       => {01760213} <verb.emotion> inspire, animate, invigorate, enliven, exalt -- (heighten or intensify; "These paintings exalt the imagination")
+           => {01710864} <verb.emotion> stimulate, shake, shake up, excite, stir1 -- (stir the feelings, emotions, or peace of; "These stories shook the community"; "the civil war shook the country")
+               => {01708538} <verb.emotion> arouse, elicit, enkindle, kindle, evoke, fire, raise8, provoke -- (call forth (emotions, feelings, and responses); "arouse pity"; "raise a smile"; "evoke sympathy")
+                   => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

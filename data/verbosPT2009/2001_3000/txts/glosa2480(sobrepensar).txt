@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA2480
+
+DADO O SYNSET:
+
+S='Glosa2480'
+	    {sobrepensar: É preciso refletir e I]sobrepensar estas questões antes de decidir destruir uma estrutura nacional de saúde.,
+	      sobrepesar: Deve o juiz I]sobrepesar os direitos em jogo, quando do embate de princípios constitucionais protegidos, e buscar a justiça no caso concreto.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2480' = “Refletir profundamente sobre um assunto.”
+	    {sobrepensar: É preciso refletir e I]sobrepensar estas questões antes de decidir destruir uma estrutura nacional de saúde.,
+	      sobrepesar: I]Sobrepesaram sobre o movimento comunista no ocidente.,}
+
+Chave: SOBREPENSAR <verb.cognition>
+ILI: 00610468
+
+Sense 3
+{00610468} <verb.cognition> chew over, think over, meditate, ponder, excogitate, contemplate1, muse, reflect, mull, mull over, ruminate, speculate -- (reflect deeply on a subject; "I mulled over the events of the afternoon"; "philosophers have speculated on the question of God for thousands of years"; "The scientist must stop to observe and start to excogitate")
+       => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

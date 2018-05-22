@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2771
+
+DADO O SYNSET:
+
+S='Glosa2771'
+	    {redintegrar: x,
+	      reincorporar: Com ações reeducativas e sensibilidade, se consegue orientar e I]reincorporar à sociedade jovens e adultos viciados e infratores da Lei.,
+	      reintegrar: O objetivo do projeto é [reintegrar os idosos na sociedade e na comunidade acadêmica jovem, além de trazer a rica experiência dos mais velhos como forma de enriquecimento do nível das aulas.,}
+
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2771' = “Tornar um (em um grupo), tornar integrado”
+	    {reincorporar: I]Reincorporou à vida social centenas de jovens delinqüentes.,
+	      reintegrar: Ele I]reintegrou pessoas, teve companhias, cultura e seus confidentes eram os pobres.,}
+
+
+Chave: REINTEGRAR <verb.change>
+ILI: EQ_HAS_HYPERONYM - 00454356
+
+Sense 3
+{00454356} <verb.change> integrate1 -- (become one; become integrated; "The students at this school integrate immediately, despite their different backgrounds")
+       => {00140715} <verb.change> change state, turn4 -- (undergo a transformation or a change of position or action; "We turned from Socialism to Capitalism"; "The people turned against the President when he stole the election")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night") 

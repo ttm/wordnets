@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA2784
+
+DADO O SYNSET:
+
+S='Glosa2784'
+	    {cortar: No caso do corte a laser, este mesmo arquivo que faz o pesponto é usado para I]cortar o tecido.,
+	      recortar: Amplie o molde das flores abaixo para I]recortar o tecido estampado.,
+	      talhar: Léonie trazia sempre muito bem calçada e vestida a afilhada, levando o capricho ao ponto de lhe mandar I]talhar a roupa da mesma fazenda com que fazia as suas e pela mesma costureira; arranjava-lhe chapéus escandalosos como os dela e dava-lhe jóias.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2784' = “criar (roupas) com tecido”
+	    {cortar: Fafá Oliveira, que assinava o modelo, pegou uma tesoura, I]cortou o vestido e foi aprovada por homens e mulheres.,
+	      recortar: Amplie o molde das flores abaixo para I]recortar o tecido estampado.,
+	      talhar: Léonie trazia sempre muito bem calçada e vestida a afilhada, levando o capricho ao ponto de lhe mandar I]talhar a roupa da mesma fazenda com que fazia as suas e pela mesma costureira.,}
+
+Chave: CORTAR <verb.creation>
+ILI: 01618602
+
+Sense 3
+{01618602} <verb.creation> sew, tailor, tailor-make -- (create (clothes) with cloth; "Can the seamstress sew me a suit by next week?")
+       => {01610998} <verb.creation> fashion, forge2 -- (make out of components (often in an improvising manner); "She fashioned a tent out of a sheet and a few sticks")
+           => {01606879} <verb.creation> make11 -- (make by shaping or bringing together constituents; "make a dress"; "make a cake"; "make a wall of stones")
+               => {01606076} <verb.creation> create from raw material, create from raw stuff -- (make from scratch)
+                   => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor") 

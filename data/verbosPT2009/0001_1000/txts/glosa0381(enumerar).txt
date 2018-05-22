@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA0381
+
+DADO O SYNSET:
+
+S='Glosa381'
+{adnumerar: As garantias constitucionais, buscam, em última análise, assegurar, tornar seguros os direitos que esse dispositivo I]adnumera.,
+enumerar: Assim, resumidamente, podemos [enumerar as seguintes funções desempenhadas pela água nos seres vivos.,
+enunciar: Apesar de que na solução de problemas é, as vezes, desejável usar um sistema especial de coordenadas, vamos [enunciar as leis da física em forma vetorial sempre que possível.,
+numerar: A revista Smack I]numerou 22 motivos para gostar do grupo CPM 22.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa381' = “especificar individualmente; definir”
+{adnumerar: 132 da Lei nº 8.112, de 1990, I]adnumera os casos em que a Administração compulsoriamente edita ato efetivando a desvinculação do servidor faltoso.,
+enumerar: Assim, resumidamente, podemos [enumerar as seguintes funções desempenhadas pela água nos seres vivos.,
+enunciar: Apesar de que na solução de problemas é, as vezes, desejável usar um sistema especial de coordenadas, vamos [enunciar as leis da física em forma vetorial sempre que possível.,
+numerar: A revista Smack I]numerou 22 motivos para gostar do grupo CPM 22.,}
+Chave: ENUMERAR <verb.communication>
+ILI: 00914968
+
+Sense 1
+{00914968} <verb.communication> enumerate, recite3, itemize, itemise -- (specify individually; "She enumerated the many obstacles she had encountered"; "The doctor recited the list of possible side effects of the drug")
+       => {00993093} <verb.communication> name2, identify -- (give the name or identifying characteristics of; refer to by name or some other identifying characteristic property; "Many senators were named in connection with the scandal"; "The almanac identifies the auspicious months")
+           => {00900863} <verb.communication> denote, refer -- (have as a meaning; "`multi-' denotes `many' ")
+               => {00923390} <verb.communication> mean1, intend -- (mean or intend to express or convey; "You never understand what I mean!"; "what do his words intend?")
+                   => {00898144} <verb.communication> convey, impart1 -- (make known; pass on, of information)
+                       => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                           => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                               => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

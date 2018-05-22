@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA
+
+DADO O SYNSET:
+
+S='Glosa1933'
+{amesurar: x,
+ cortejar: Ao passarem por nós, o agregado, que os conhecia, [cortejou-os com as deferências devidas, e pediu-lhes notícias minhas. ,
+ cumprimentar: Pegou crianças no colo, [cumprimentou moradores e dispensou a máscara até mesmo ao passar no meio da favela.,
+ mesurar: M]Mesurava as damas.,
+ salvar: A]Salvou os presentes ao entrar.  ,
+ 	 saudar: Não [saudou a hóspede; foi direito à mulher., }
+	  
+A ANÁLISE RESULTA EM:
+
+S='Glosa1933' = “dar saudação”
+{cortejar: Ao passarem por nós, o agregado, que os conhecia, [cortejou-os com as deferências devidas, e pediu-lhes notícias minhas.,
+ cumprimentar: Ele se levantou, [cumprimentou os convidados com um aceno de cabeça e colocou a mão dentro de uma bolsa que trazia.,
+ saudar: Stepanenko, ao assinar em Sinop o ato respectivo, [saudou a população com a mão espalmada que simboliza a candidatura de Fernando Henrique., }
+Chave: CUMPRIMENTAR
+ILI: 00867479
+
+Sense 2
+{00867479} <verb.communication> greet1 -- (send greetings to)
+       => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+           => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+               => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

@@ -1,0 +1,75 @@
+ANÁLISE DA GLOSA3584
+
+DADO O SYNSET:
+
+S='Glosa3584'
+	    {
+	      assombrar: Estava junto da torrente, preso nos ramos de uma azinheira gigantesca que I]assombrava o rio.,
+	      assombrear: O fino buço começou a I]assombrear-lhe o lábio superior e as faces. / O globo negro foi instalado no meio do palácio, com fontes a sua volta, e belas árvores a I]lhe assombrear.,
+	      eclipsar: Densas nuvens procuram I]eclipsar a brilhante luz do sol. ,
+	      empecer: Nuvens sombrias M]empeceram o horizonte. ,
+	      encobrir: A névoa cinzenta que [encobre vários bairros da cidade, desde a última segunda-feira, surpreendeu o carioca.,
+	      enegrecer: Agora a fumaça cobre e I]enegrece o céu.,
+	      enfuscar: Instantâneamente, uma chuva grossa caíu com ruído, I]enfuscando o dia ainda mais.,
+	      enlutar: Não tem azul, nem estrelas, a noite que [enlutam os ventos.,
+	      enoitecer: Olho para o céu e vejo a lua I]enoitecer aquilo que um dia foi claro.,
+	      ensombrar: Na Regaleira os frondosos castanheiros continuam a I]ensombrar o mais lindo terraço que tem a serra.,
+	      ensombrecer: O espaço [ensombrecia ao seu olhar. / A árvore frondosa I]ensombrece trechos da água com sua generosa ramagem.,
+	      entenebrecer: Subia a fumaça que I]entenebrecia o sol. ,
+	      entrevar2: Com o frio que já caía sobre os chalés, em paisagem de pedras e montanhas, a noite I]entrevando a serra que ao longe não mais se via.,
+	      entrevecer2: x,
+	      enturbar: Correm turvas as águas deste rio, que as do Céu e as do monte as I]enturbaram.,
+	      enturvar: Havia couve por toda parte, I]enturvando a água.,
+	      escurecer: A poeira levantada poderia [escurecer o Sol.,
+	      escurentar: O dia nublado H]escurentava aquele domingo.,
+	      obnubilar: Nuvens pardacentas M]obnubilaram o sol. ,
+	      obscurecer: Houve uma grande tempestade de poeira que I]obscureceu a superfície do planeta.,
+	      obumbrar: Eram 11 horas do dia; uma trovoada estava iminente, que nublava o céu [obumbrando os raios do sol.,
+	      ofuscar: O excesso de luz e superfícies que refletem muito a claridade podem [ofuscar a visão. ,
+	      sombrear: Oito árvores I]sombreavam uma estátua que representava o faraó sentado. ,
+	      sombrejar: Ao longe, I]sombrejando o horizonte, há uns arremedos de Capri, ilhas perdidas cujas corcovas montam por sobre a última linha do mar. ,
+	      toldar: Poeira fina a I]toldar o sol. ,
+	    }
+A='Glosa1747'
+	    {
+	     desassombrar: Podou os arbustos para A]desassombrar a varanda.  ,
+	     descobrir: Foi quando o céu I]descobriu-se das nuvens e da névoa, a lua ressurgiu no céu, ea festa na aldeia foi muito grande. ,
+	     desenfuscar: x,
+	     desenlutar: As nuvens H]desenlutaram-se.,
+	     desensombrar: H]Desensombraram a rua, podando as árvores.,
+	     desobscurecer: O dia H]desobscureceu repentinamente.,
+	     desobumbrar: M]Desobumbrar o jardim.,
+	     desofuscar: A luz do Sol A]desofuscou os salões sombrios.,
+	    }
+A ANÁLISE RESULTA EM:
+
+S='Glosa3584' = “tornar ou fazer mais escuro”
+	     {assombrar: Estava junto da torrente, preso nos ramos de uma azinheira gigantesca que I]assombrava o rio.,
+	      assombrear: O fino buço começou a I]assombrear-lhe o lábio superior e as faces. / O globo negro foi instalado no meio do palácio, com fontes a sua volta, e belas árvores a I]lhe assombrear.,
+	      eclipsar: Densas nuvens procuram I]eclipsar a brilhante luz do sol. ,
+	      encobrir: A névoa cinzenta que [encobre vários bairros da cidade, desde a última segunda-feira, surpreendeu o carioca.,
+	      enegrecer: Agora a fumaça cobre e I]enegrece o céu.,
+	      enfuscar: Instantâneamente, uma chuva grossa caíu com ruído, I]enfuscando o dia ainda mais.,
+	      enlutar: Imensa formação de nuvens H]enlutou o céu.,
+	      enoitecer: Olho para o céu e vejo a lua I]enoitecer aquilo que um dia foi claro.,
+	      ensombrar: Na Regaleira os frondosos castanheiros continuam a I]ensombrar o mais lindo terraço que tem a serra.,
+	      ensombrecer: O espaço [ensombrecia ao seu olhar. / A árvore frondosa I]ensombrece trechos da água com sua generosa ramagem.,
+	      entenebrecer: Subia a fumaça que I]entenebrecia o sol.,
+	      entrevar2: A noite H]entreva as florestas.,
+	      enturvar: Havia couve por toda parte, I]enturvando a água.,
+	      escurecer: A poeira levantada poderia [escurecer o Sol.,
+	      escurentar: O dia nublado H]escurentava aquele domingo.,
+	      obnubilar: Nuvens pardacentas M]obnubilaram o sol. ,
+	      obscurecer: Houve uma grande tempestade de poeira que I]obscureceu a superfície do planeta.,
+	      obumbrar: Eram 11 horas do dia; uma trovoada estava iminente, que nublava o céu [obumbrando os raios do sol.,
+	      ofuscar: O excesso de luz e superfícies que refletem muito a claridade podem [ofuscar a visão. ,
+	      sombrear: Oito árvores I]sombreavam uma estátua que representava o faraó sentado. ,
+	      sombrejar: Ao longe, I]sombrejando o horizonte, há uns arremedos de Capri, ilhas perdidas cujas corcovas montam por sobre a última linha do mar. ,
+	      toldar: Poeira fina a I]toldar o sol. ,}
+Chave: ESCURECER <verb.perception>
+ILI: 02100237
+
+Sense 2
+{02100237} <verb.perception> darken, dim -- (become or make darker; "The screen darkend"; "He darkened the colors by adding brown")
+       => {02128389} <verb.perception> change intensity -- (increase or decrease in intensity)
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

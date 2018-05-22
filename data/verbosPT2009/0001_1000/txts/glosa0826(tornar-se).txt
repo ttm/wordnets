@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0826
+
+DADO O SYNSET:
+
+S='Glosa826'
+{ficar: A pressão do ar dentro dos pulmões [fica menor do que a pressão do ar atmosférico.,
+tornar-se: As enzimas podem [tornar-se inativas devido à alteração da temperatura e do pH.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa826' = “passar por uma mudança ou desenvolvimento”
+{ficar: A pressão do ar dentro dos pulmões [fica menor do que a pressão do ar atmosférico.,
+tornar-se: As enzimas podem [tornar-se inativas devido à alteração da temperatura e do pH.,}
+Chave: TORNAR-SE <verb.stative>
+ILI: 02548361
+
+Sense 2
+{02548361} <verb.stative> become1, turn -- (undergo a change or development; "The water turned into ice"; "Her former friend became her worst enemy"; "He turned traitor")
+       => {00370033} <verb.change> transform3, transmute, metamorphose2 -- (change in outward structure or looks; "He transformed into a monster"; "The salesman metamorphosed into an ugly beetle")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

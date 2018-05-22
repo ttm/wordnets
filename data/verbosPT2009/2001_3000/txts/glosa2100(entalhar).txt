@@ -1,0 +1,36 @@
+ANÁLISE DA GLOSA2100
+
+DADO O SYNSET:
+	
+S='Glosa2100'
+    	{cinzelar: x,
+      	 entalhar: Mandou passar cera na tábua e I]entalhou a data da primeira noite, 24/08/1948. ,
+      	 escrever: Ao recuperar-se, pegou um canivete e I]escreveu na pedra: HOJE, MEU MELHOR AMIGO SALVOU A MINHA VIDA.,
+      	 esculpir: Vicente Yanez Pinzón desembarcou no Cabo de Santo Agostinho, tomou-o em nome do soberano espanhol, I]esculpiu o seu nome em vários troncos de árvores como registro de sua presença no local.,
+      	 exarar: A]Exararam na pedra uma inscrição comemorativa.,
+      	 gravar1: Dom Pedro II visitou o Corcovado e I]gravou seu nome em uma árvore. ,
+      	 inscrever: Morto o pai, compôs e A]inscreveu um comovente epitáfio.,
+      	 insculpir: Também ninguém soube explicar como os egípcios conseguiam I]insculpir hieróglifos nos obeliscos de granito com sulcos tão finos e precisos.,
+      	 lavrar: Divino oráculo que soprais palavras de fogo, sábias mensagens dignas de I]lavrar no mármore, preciso tom para as sumas verdades, que verdade há, senão, a contínua renovação das águas do rio?,
+      	 talhar: I]Talhou em outra pedra, do mesmo tamanho, o seu próprio nome.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2100' = “entalhar, cortar ou gravar num material ou superfície”
+    	{entalhar: Era um grosso toro de madeira, no qual a mão destra de um pajé [entalhara, com o dente da cutia, a cabeça de uma mulher.,
+      	 escrever: O amigo, ao recuperar-se, pegou um canivete e I]escreveu na pedra: “hoje, meu melhor amigo salvou a minha vida”.,
+      	 esculpir: Vicente Yanez Pinzón desembarcou no Cabo de Santo Agostinho, tomou-o em nome do soberano espanhol, I]esculpiu o seu nome em vários troncos de árvores como registro de sua presença no local.,
+      	 gravar1: Dom Pedro II visitou o Corcovado e I]gravou seu nome em uma árvore.,
+      	 inscrever: Ela lhe mostra que mandou I]inscrever na lápide o nome dele como um dos filhos de Wade.,
+      	 insculpir: Também ninguém soube explicar como os egípcios conseguiam I]insculpir hieróglifos nos obeliscos de granito com sulcos tão finos e precisos.,
+      	 lavrar: Divino oráculo que soprais palavras de fogo, sábias mensagens dignas de I]lavrar no mármore, preciso tom para as sumas verdades, que verdade há, senão, a contínua renovação das águas do rio?,
+      	 talhar: Michelangelo I]talhou seu nome na faixa que atravessa o seio da Virgem.}
+Chave: ENTALHAR <verb.contact>
+ILI: 01282708
+
+Sense 1
+{01282708} <verb.contact> engrave, grave, inscribe -- (carve, cut, or etch into a material or surface; "engrave a pen"; "engraved the winner's name onto the trophy cup")
+       => {01218546} <verb.contact> carve2, chip at -- (engrave or cut by chipping away at a surface; "carve one's name into the bark")
+           => {01509511} <verb.contact> cut -- (separate with or as if with an instrument; "Cut the rope")
+               => {01513899} <verb.contact> separate1, disunite, divide1, part1 -- (force, take, or pull apart; "He separated the fighting children"; "Moses parted the Red Sea")
+                   => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

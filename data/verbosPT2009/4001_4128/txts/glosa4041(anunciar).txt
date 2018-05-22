@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA4041
+
+DADO O SYNSET:
+
+S='Glosa4041'
+{anunciar: Meteorologia I]anuncia chuva em Montes Claros.,
+pressagiar: As nuvens cobrem os cimos das montanhas e I]pressagiam chuva.,
+prometer: O pôr do sol I]promete chuva.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4041' = “indicar por sinais”
+{anunciar: Este Dragão [anuncia sangue e não ficará pedra sobre pedra ..,
+pressagiar: As nuvens cobrem os cimos das montanhas e I]pressagiam chuva.,
+prometer: O pôr do sol I]promete chuva.,}
+Chave: ANUNCIAR <verb.communication>
+ILI: 00842964
+
+Sense 2
+{00842964} <verb.communication> bode, portend, auspicate, prognosticate1, omen, presage, betoken, foreshadow, augur, foretell1, prefigure, forecast1, predict1 -- (indicate by signs; "These signs bode bad news")
+       => {00891089} <verb.communication> bespeak1, betoken1, indicate1, point12, signal1 -- (be a signal for or a symptom of; "These symptoms indicate a serious illness"; "Her behavior points to a severe neurosis"; "The economic indicators signal that the euro is undervalued")
+           => {00920928} <verb.communication> tell -- (let something be known; "Tell them that you will be late")
+               => {00804489} <verb.communication> inform -- (impart knowledge of some fact, state or affairs, or event to; "I informed him of his rights")
+                   => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                       => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                           => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel") 

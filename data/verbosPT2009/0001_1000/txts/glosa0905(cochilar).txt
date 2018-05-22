@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA0905
+
+DADO O SYNSET:
+
+S='Glosa905'
+{cochilar: I]Cochilar depois do almoço engorda?,
+dormitar: Faltava dizer que ele e seus amigos ficavam até altas horas no Don Juan e que o dono, Juan, quando cansava de I]dormitar atrás do balcão chegava até eles e dizia.,
+toscanejar: Estejamos pois atentos a isso, sem I]toscanejar um momento sequer.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa905' = “dormir levemente por um curto período de tempo”
+{cochilar: ele I]cochila ou apenas relaxa na sala, no andar térreo,
+dormitar: Faltava dizer que ele e seus amigos ficavam até altas horas no Don Juan e que o dono, Juan, quando cansava de I]dormitar atrás do balcão chegava até eles e dizia.,
+toscanejar: Estejamos pois atentos a isso, sem I]toscanejar um momento sequer.,}
+Chave: COCHILAR <verb.body>
+ILI: 00014990
+
+Sense 1
+{00014990} <verb.body> snooze, drowse1, doze -- (sleep lightly or for a short period of time)
+       => {00015185} <verb.body> nap, catnap, catch a wink -- (take a siesta; "She naps everyday after lunch for an hour")
+           => {00014429} <verb.body> sleep, kip, slumber, log Z's, catch some Z's -- (be asleep)
+               => {00014092} <verb.body> rest -- (be at rest)
+                   => {01504618} <verb.contact> recumb, repose2, recline -- (lean in a comfortable resting position; "He was reposing on the couch")
+                       => {01504229} <verb.contact> lie -- (be lying, be prostrate; be in a horizontal position; "The sick man lay in bed all day"; "the books are lying on the shelf")
+          Also See-> {00016969} <verb.body> doze off#1

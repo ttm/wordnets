@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA1011
+
+DADO O SYNSET:
+
+S='Glosa1011'
+{cotizar: Além das excursões e circuitos indicados neste folheto, podemos organizar e I]cotizar os seus programas pessoais, ajustados às suas necessidades individuais. # O benefício vale para suplentes ou vices que tenham exercido o cargo por algumas semanas, desde que [cotizem para a carteira.,
+ quotizar: Os trabalhadores vão I]quotizar para a ADSE e continuar sem segurança na saúde, ou pagar seguros privados do seu bolso.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1011' = “dividir [algo] em cotas/parcelas”
+{cotizar: Então a sua turma de alunos se reunia, I]cotizava pensão e comida para cobrir suas despesas cotidianas.,
+ quotizar: Os Nunes resolveram, em conjunto, construir a micro central elétrica, I]quotizando entre si os elevados custos do empreendimento.}
+Chave: QUOTIZAR <verb.social>
+ILI: 02395019
+
+Sense 1
+{02395019} <verb.social> parcel -- (divide into parts; "The developers parceled the land")
+       => {02393614} <verb.social> divide, split3, split up2, separate1, dissever, carve up -- (separate into parts or portions; "divide the cake into three equal parts"; "The British carved up the Ottoman Empire after World War I")
+           => {00135037} <verb.change> change integrity -- (change in physical make-up)
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

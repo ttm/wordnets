@@ -1,0 +1,41 @@
+ANÁLISE DA GLOSA1178
+
+DADO O SYNSET:
+
+S='Glosa1178'
+{afoitar: H]Afoitou uma tarefa complicada,
+ animar: Quero I]animá-lo a sair fora dos limites normais da sua vida e começar a se ver de maneira diferente.,
+ desacobardar: x,
+ desacovardar: O sargento H]desacobardou os soldados,
+	 desatemorizar: x,
+              encorajar: Quero [encorajar o povo cubano a continuar lutando pela liberdade.,
+              esforçar: Perguntei-lhe com uma voz que [esforçava por ter calma,
+              estimular: André Luis reconhece que a situação é difícil, mas que isso apenas o [estimula a continuar trabalhando.,
+              incentivar: O movimento estudantil vai reeditar a campanha "Se liga 16", para [incentivar os jovens de 16 a 18 anos a tirar o título de eleitor.,
+              incitar: Eu lhes mandava e-mails para I]incitá-los a participar ou melhorar seu trabalho, mas concluí que alguns alunos precisam da disciplina da sala de aula.,}
+	  
+A='Glosa2376'
+{acobardar, acovardar, amedrontar, apavorar, apavorizar, assombrar, assustar, atemorar, atemorizar, aterrar2, aterrorizar, despavorir, encobardar, encovardar, espantar, espavorecer, espavorir, espavorizar, estarrecer, esterrecer, estremecer, gelar, intimidar, terrificar, terrorar, terrorizar, transir}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1178' = “dar coragem [a]”
+{afoitar: Nada tanto I]afoita a audácia dos maus, como a pusilanimidade dos bons.,
+ animar: Quero I]animá-lo a sair fora dos limites normais da sua vida e começar a se ver de maneira diferente.,
+ encorajar: O livro teve, entretanto, algum sucesso de livraria, o que [encorajou a obstinada mulher a prosseguir na sua ambiciosa tarefa.,
+ esforçar: A Venezuela tem uma grande equipe, que nos I]esforçou ao máximo para vencê-los hoje.,
+ estimular: A  publicação do caderno certamente [estimulou os leitores a pensar nesse assunto.,
+ incentivar: Foi Ulysses quem mais [incentivou o pai a entrar no negócio.,
+ incitar: A corte de Mannheim avaliou que Deckert [incitou o ódio racial.,}
+A='Glosa2376'
+{acobardar, acovardar, amedrontar, apavorar, apavorizar, assombrar, assustar, atemorar, atemorizar, aterrar2, aterrorizar, despavorir, encobardar, encovardar, espantar, espavorecer, espavorir, espavorizar, estarrecer, esterrecer, estremecer, gelar, intimidar, terrificar, terrorar, terrorizar, transir}
+Chave: ENCORAJAR <verb.emotion>
+ILI: 01765067
+
+Sense 1
+{01765067} <verb.emotion> cheer2, hearten, recreate, embolden -- (give encouragement to)
+       => {01765364} <verb.emotion> encourage -- (inspire with confidence; give hope or courage to)
+           => {01760213} <verb.emotion> inspire, animate, invigorate, enliven, exalt -- (heighten or intensify; "These paintings exalt the imagination")
+               => {01710864} <verb.emotion> stimulate, shake, shake up, excite, stir1 -- (stir the feelings, emotions, or peace of; "These stories shook the community"; "the civil war shook the country")
+                   => {01708538} <verb.emotion> arouse, elicit, enkindle, kindle, evoke, fire, raise8, provoke -- (call forth (emotions, feelings, and responses); "arouse pity"; "raise a smile"; "evoke sympathy")
+                       => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

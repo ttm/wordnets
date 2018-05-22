@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0615
+
+DADO O SYNSET:
+
+S='Glosa615'
+{dar: Previdência [dá salário mínimo a 11,2 milhões.,
+pagar: Com isso, concluiu a comissão, não há qualquer barreira à ação dos fraudadores, facilitada também pela falta de comunicação entre a Demec, que [paga as bolsas de estudo, e a secretaria, que confirma a autorização de funcionamento das escolas.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa615' = “dar dinheiro, geralmente em troca por bens ou serviços”
+{dar: Previdência [dá salário mínimo a 11,2 milhões.,
+pagar: Com isso, concluiu a comissão, não há qualquer barreira à ação dos fraudadores, facilitada também pela falta de comunicação entre a Demec, que [paga as bolsas de estudo, e a secretaria, que confirma a autorização de funcionamento das escolas.,}
+Chave: PAGAR <verb.possession>
+ILI: 02186811
+
+Sense 1
+{02186811} <verb.possession> pay -- (give money, usually in exchange for goods or services; "I paid four dollars for this sandwich"; "Pay the waitress, please")
+       => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+           => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children")
+          Also See-> {02151937} <verb.possession> fund#6; {02284395} <verb.possession> pay off#2; {02191814} <verb.possession> pay off3#3; {02218772} <verb.possession> pay off1#5; {02235041} <verb.possession> pay out#1

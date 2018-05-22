@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA2404
+
+DADO O SYNSET:
+
+S='Glosa2404'
+	    {abofetear: x,
+	      bofetar: O imperador cego I]bofetou e a esquartejou.,
+	      bofetear: Acostumado a I]bofetear e ofender colegas no Congresso e pretensos inimigos fora dali, ACM impõe-se como líder da mesma forma que se impunham os mandachuvas do Campo da Pólvora: à força.,
+	      esbofetear: Uma sensação de revolta que faz com que você tenha vontade de gritar, ou I]esbofetear alguém.,
+	      estapear: Magislene estava de mau humor e resolveu I]estapear Alepunk.,
+	      tapear2: Rogério I]tapeou de leve a cabeça do seu primo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2404' = “Bater com alguma coisa plana, como uma pá ou a mão aberta.”
+	    {bofetar: O imperador cego I]bofetou e a esquartejou.,
+	      bofetear: Aproximou-se dela e I]bofeteou-a, enraivecido.,
+	      esbofetear: Amir alterando-se I]esbofeteou Farid.,
+	      estapear: Comprovou-se que I]estapeou um padre durante interrogatório.,
+	      tapear2: Rogério I]tapeou de leve a cabeça do seu primo.,}
+
+Chave: ESBOFETEAR <verb.contact>
+ILI: 01376264
+
+Sense 1
+{01376264} <verb.contact> slap -- (hit with something flat, like a paddle or the open hand; "The impatient teacher slapped the student"; "a gunshot slapped him on the forehead")
+       => {01369678} <verb.contact> strike -- (deliver a sharp blow, as with the hand, fist, or weapon; "The teacher struck the child"; "the opponent refused to strike"; "The boxer struck the attacker dead")
+           => {01169634} <verb.contact> touch -- (make physical contact with, come in contact with; "Touch the stone for good luck"; "She never touched her husband") 

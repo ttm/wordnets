@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA1240
+
+DADO O SYNSET:
+
+S='Glosa1240'
+{descontar: DEVIANT,
+ recuperar: Cada novo diretor tem-se debatido para [recuperar o antigo glamour da instituição, cujo grande charme era a credibilidade inspirada por seus conselhos, hoje extintos.,
+ repor: Na prática, a fórmula adotada para [repor as perdas salariais provocadas pela URV atingirá poucos trabalhadores . ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1240' = “recuperar ou compensar” 
+{recuperar: A forma como ele [recuperou sua fortuna envolve palpites de um gênio da meteorologia, uma grande seca nos Estados Unidos e uma estatal.,
+ repor: Segundo Bonini, o aumento só [repôs as perdas acumuladas nos seis primeiros meses do governo Itamar, quando, segundo ele, foi imposto um “arrocho tarifário”.,}
+Chave: RECUPERAR <verb.possession>
+ILI: 02184542
+
+Sense 1
+{02184542} <verb.possession> recover1, recoup, recuperate -- (regain or make up for; "recuperate one's losses")
+       => {02147191} <verb.possession> get, acquire -- (come into the possession of something concrete or abstract; "She got a lot of paintings from her uncle"; "They acquired a new pet"; "Get your results the next day"; "Get permission to take a few days off from work")

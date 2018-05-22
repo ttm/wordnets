@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA1725
+
+DADO O SYNSET:
+
+S='Glosa1725'
+{encarapitar: Apesar da altura do muro eu conseguira me I]encarapitar e lá estava, bem no alto, com o olhar de um general que observa o campo de batalha.,
+ encarrapitar: O cachorro subiu nas costas do burro, o gato nas costas do cachorro e o galo se I]encarrapitou em cima do gato. ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1725' = “colocar [alguém ou algo], geralmente de modo a acomodar, em um local alto ou mais alto”
+{encarapitar: O eucalipto alto, solitário, em bosques, renques ou capões alienígenas, ensejou um novo patamar às caturritas, que logo I]encarapitaram seus ninhos no topo das árvores e assim fizeram-se inacessíveis a muitos dos seus predadores naturais.,
+ encarrapitar: Apanhando o busto lascado de um bruxo velho e feio de cima de um caixote próximo, ele colocou-o no alto do armário em que esconderá o livro, I]encarrapitou uma velha peruca empoeirada e uma TIARA oxidada na cabeça da estátua, para poder distingui-la.,}
+Chave: ENCARAPITAR <verb.contact>
+ILI: EQ_HAS_HYPERONYM – 01916187 – “levantar de uma posição baixa para uma mais elevada”
+
+Sense 2
+{01916187} <verb.motion> raise, lift, elevate, get up, bring up -- (raise from a lower to a higher position; "Raise your hands"; "Lift a load")
+       => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

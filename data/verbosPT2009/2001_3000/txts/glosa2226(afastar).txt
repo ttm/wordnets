@@ -1,0 +1,47 @@
+ANÁLISE DA GLOSA
+
+DADO O SYNSET:
+S='Glosa2226'
+	    {abduzir: x,
+	      abjugar: x,
+	      afastar: Foi atingido no exato momento em que puxava o amigo pelo braço e o I]afastava da briga.,
+	      amover: H]Amoveu um soldado do meio do batalhão.,
+	      apartar: Jurandir [apartou as mulheres daquele lugar.,
+	      arrancar: H]Arrancou um filho de uma situação difícil.,
+	      arredar: Ninguém consegue A]arredá-lo desta casa.,
+	      desachegar: H]Desachegava o bebê do colo.,
+	      desaconchegar: x,
+	      desapartar: x,
+	      desconchegar: A]Desconchegou a criança e a pôs no berço. ,
+	      despartir: x,
+	      desviar: x,
+	      distanciar: Ela deve ir fundo porque quando a gente ama, nada I]distancia a gente da pessoa amada.,
+	      espaçar: DEVIANT,
+	      espacejar: DEVIANT,
+	      remover: Suava frio, respirava fundo, mas nada a I]removia dali.,
+	      repartir: DEVIANT,
+	      separar: Nada me I]separa de você!,
+	      tirar: Queria I]tirá-lo de mim.,
+	      vastar1: x,}
+
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2226' =  “tirar de perto’
+	    {afastar: Foi atingido no exato momento em que puxava o amigo pelo braço e o I]afastava da briga.,
+	      amover: H]Amoveu um soldado do meio do batalhão.,
+	      apartar: Jurandir [apartou as mulheres daquele lugar.,
+	      arrancar: H]Arrancou um filho de uma situação difícil.,
+	      arredar: Ninguém consegue A]arredá-lo desta casa.,
+	      desachegar: H]Desachegava o bebê do colo.,
+	      distanciar: Ela deve ir fundo porque quando a gente ama, nada I]distancia a gente da pessoa amada.,
+	      remover: Suava frio, respirava fundo, mas nada a I]removia dali.,
+	      separar: Nada me I]separa de você!,
+	      tirar: Queria I]tirá-lo de mim.,}
+
+Chave: AFASTAR <verb.contact>
+ILI: 01513899
+
+Sense 2
+{01513899} <verb.contact> separate1, disunite, divide1, part1 -- (force, take, or pull apart; "He separated the fighting children"; "Moses parted the Red Sea")
+       => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

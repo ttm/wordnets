@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA3251
+
+DADO O SYNSET:
+
+S='Glosa3251'
+	    {
+	      amodernar: Você precisa H]amodernar este chapéu.,
+	      amodernizar: x,
+	      atualizar: O reinado de Ludwig II da Baviera foi um verdadeiro crepúsculo dos deuses, onde a velha ordem aristocrática ruía como um castelo de areia, para dar lugar a uma burguesia ascendente que queria [atualizar a Alemanha em relação à Revolução Industrial.,
+	      juvenescer: O magnífico virtuosismo de Nureyev se mostrou um contraponto à elegancia madura de Fonteyn, e logo sua parceria I]juvenesceu a carreira da moça. ,
+	      modernar: De que maneira pretende I]modernar a Aemp?,
+	      modernizar: Os golpistas prometem [modernizar o país e proporcionar uma melhor distribuição de renda à população.,
+	      rejuvenescer: O reitor da USP, Flávio Fava de Moraes, anunciou ontem a contratação, via concurso, de novos professores para [rejuvenescer a universidade.,
+	      renovar: O presidente Fernando Henrique e o presidente da Embratur, Caio Luiz de Carvalho, divulgam dia 7 de março a campanha publicitária feita pelo governo para [renovar a imagem que o Brasil tem no exterior. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3251' = “modernizar ou trazer para a data”
+	     {atualizar: O escritor [atualizou a obra, cuidando do direito a alimentos e das ações que o asseguram, de modo definitivo ou provisional.,
+	      modernizar: Ao longo do século XVIII, esse monarca ilustrado [modernizou o país através de reformas políticas, econômicas e sociais.,
+	      rejuvenescer: A consultoria de imagem feita pela Cooperativa da Kombi I]rejuveneceu o conceito geral da marca.,
+	      renovar: Seu legado [renovou completamente a música vocal, desenvolveu a música instrumental aperfeiçoando conceitos e técnicas que foram utilizadas mais tarde por todos os grandes compositores que lhe sucederam. ,}
+Chave: ATUALIZAR <verb.change>
+ILI: 00164191
+
+Sense 1
+{00164191} <verb.change> update -- (modernize or bring up to date; "We updated the kitchen in the old house")
+       => {00163320} <verb.change> modify -- (make less severe or harsh or extreme; "please modify this letter to make it more polite"; "he modified his views on same-gender marriage")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

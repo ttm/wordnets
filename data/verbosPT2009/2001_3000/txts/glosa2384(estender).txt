@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA2384
+
+DADO O SYNSET:
+
+S='Glosa2384'
+	    {abrir: Ao I]abrir as pernas o tronco deve se projetar a frente, executar 350vezes.,
+	      alongar: Os alongamentos são derivados de comportamentos humanos instintivos como I]alongar os braços e as pernas para espreguiçar e bocejar.,
+	      espichar: Pare ali para fazer um xixi, I]espichar as pernas e tomar mais um café. ,
+	      espraiar: x,
+	      estender: Para coroa-la, ele estende a mão como quem não pode fazer nada para ajudar.# Os braços de Pojucã, quando ele [estende na luta, não há quem os vergue; são dois penedos que saem da terra.,
+	      estiraçar: x,
+	      estirar: Ela por sua vez deve I]estirar suas pernas sobre as dele para que ambos desfrutem das deliciosas sensações provocadas pela posição.,
+	      tender: H]Tender os braços.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2384' = “Esticar os membros, músculos ou o corpo inteiro.”
+	    {abrir: Madalena I]abriu os braços para a vastidão da paisagem.,
+	      alongar: I]Alongou o braço até a mesinha próxima	      
+                   espichar: Na sala de honra, as senhoras [espichavam discretamente o pescoço, para ver o «Presidente novo».,
+	      estender: Os braços de Pojucã, quando ele [estende na luta, não há quem os vergue.,
+	      estirar: Depois [estirou os braços e atirou-mos sobre os ombros.,
+	      tender: H]Tender os braços.,}
+
+Chave: ESTENDER <verb.body>
+ILI: 00026695 
+
+Sense 8
+{00026695} <verb.body> stretch1, extend -- (extend one's limbs or muscles, or the entire body; "Stretch your legs!"; "Extend your right arm above your head")
+       => {00024764} <verb.body> tense, strain, tense up -- (make tense and uneasy or nervous or anxious;)
+           => {00019146} <verb.body> affect -- (act physically on; have an effect upon)
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

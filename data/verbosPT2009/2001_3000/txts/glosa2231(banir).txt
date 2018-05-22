@@ -1,0 +1,35 @@
+ANÁLISE DA GLOSA2231
+
+DADO O SYNSET:
+
+S='Glosa2231'
+	    {afastar: I]Afastou a idéia de que todas as órbitas planetárias teriam como ponto médio o centro da órbita terrestre.,
+	      afugentar: Ela se beliscou, mas a dor I]afugentou a idéia de estar sonhando.,
+	      banir: A]Baniu a idéia de querer morrer.,
+	      desconjurar: x,
+	      desterrar: O estrondo das máquinas H]desterra as avezinhas.,
+	      esconjurar: Um pensamento positivo H]esconjura maus agouros.,
+	      rechaçar: O exército A]rechaçou os invasores.,
+	      repelir: I]Repeliu a idéia com veemência.,
+	      varrer: H]Varreu da área os bandidos.,
+	      vastar1: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2231' = “expulsar algo; imperdir a realização”
+	    {afastar: I]Afastou a idéia de que todas as órbitas planetárias teriam como ponto médio o centro da órbita terrestre.,
+	      afugentar: Ela se beliscou, mas a dor I]afugentou a idéia de estar sonhando.,
+	      banir: A]Baniu a idéia de querer morrer.,
+	      desterrar: O estrondo das máquinas H]desterra as avezinhas.,
+	      esconjurar: Um pensamento positivo H]esconjura maus agouros.,
+	      rechaçar: José [rechaçou a idéia de que a combinação das duas estatais foi uma má privatização.,
+	      repelir: I]Repeliu a idéia com veemência.,
+	      varrer: A revolução de 25 de abril de 1974 [varreu a ditadura salazarista.,}
+
+Chave: BANIR <verb.motion>
+ILI: 01945373
+
+Sense 4
+{01945373} <verb.motion> banish -- (drive away; "banish bad thoughts"; "banish gloom")
+       => {01944734} <verb.motion> chase away, drive out1, turn back2, drive away, dispel, drive off6, run off -- (force to go away; used both with concrete and metaphoric meanings; "Drive away potential burglars"; "drive away bad thoughts"; "dispel doubts"; "The supermarket had to turn back many disappointed customers")
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

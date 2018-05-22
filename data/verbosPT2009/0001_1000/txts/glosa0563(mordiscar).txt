@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0563
+
+DADO O SYNSET:
+
+S='Glosa563'
+{amorsegar: x,
+mordicar: Rapaz alto, pele branca e um belo bigode pequeno muito negro, caido aos cantos, que ele costumava I]mordicar com os dentes.,
+mordiscar: O traumatismo causado pelo hábito de I]mordiscar a mucosa bucal é capaz de determinar lesões de diferentes profundidades, atingindo o tecido epitelial.,
+morsegar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa563' = “morder gentilmente”
+{mordicar: Rapaz alto, pele branca e um belo bigode pequeno muito negro, caido aos cantos, que ele costumava I]mordicar com os dentes.,
+mordiscar: Eu comecei a beijar seu pescoço, a lamber, a ]mordiscar os ombros dela, que parecia estar entregue.,}
+Chave: MORDISCAR <verb.contact>
+ILI: 01405104
+
+Sense 2
+{01405104} <verb.contact> nibble2 -- (bite gently; "The woman tenderly nibbled at her baby's ear")
+       => {01404753} <verb.contact> bite, seize with teeth -- (to grip, cut off, or tear with or as if with the teeth or jaws; "Gunny invariably tried to bite her")
+           => {01186979} <verb.contact> grip -- (hold fast or firmly; "He gripped the steering wheel")
+               => {01175818} <verb.contact> seize, prehend, clutch -- (take hold of; grab; "The salesclerk quickly seized the money on the counter"; "She clutched her purse"; "The mother seized her child by the arm"; "Birds of prey often seize small mammals")
+                   => {01177510} <verb.contact> take, get hold of -- (get into one's hands, take physically; "Take a cookie!"; "Can you take this bag, please")

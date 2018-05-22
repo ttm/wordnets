@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA3516
+
+DADO O SYNSET:
+
+S='Glosa3516'
+	    {
+	      dar: Essa estrada vai I]dar no mar. ,
+	      desaguar: Os fogos do forte criaram a ilusão de que uma cachoeira iluminada [desaguava no mar. ,
+	      desembocar: Todas as veias do corpo vão [desembocar em duas grossas veias: a veia cava inferior e a veia cava superior. / O rio Danúbio, com 2 860 km de extensão, nasce na Alemanha Ocidental e atravessa oito países até [desembocar no mar Negro .,
+	      morrer: A praia é emoldurada de um lado por um pequeno rio e por outro pela falésia branca que I]morre no mar.,
+	      terminar: A medula espinhal é um cordão nervoso que se inicia na base do encéfalo e [termina na região lombar. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3516' = “ter um fim, em sentido temporal, espacial ou quantitativo”
+	     {dar: Essa estrada vai I]dar no mar. ,
+	      desaguar: Os fogos do forte criaram a ilusão de que uma cachoeira iluminada [desaguava no mar. ,
+	      desembocar: Todas as veias do corpo vão [desembocar em duas grossas veias: a veia cava inferior e a veia cava superior. / O rio Danúbio, com 2 860 km de extensão, nasce na Alemanha Ocidental e atravessa oito países até [desembocar no mar Negro .,
+	      morrer: A praia é emoldurada de um lado por um pequeno rio e por outro pela falésia branca que I]morre no mar.,
+	      terminar: A medula espinhal é um cordão nervoso que se inicia na base do encéfalo e [termina na região lombar. ,}
+Chave: TERMINAR <verb.stative>
+ILI: 02531897
+
+Sense 1
+{02531897} <verb.stative> end, stop13, finish, terminate, cease13 -- (have an end, in a temporal, spatial, or quantitative sense; either spatial or metaphorical; "the bronchioles terminate in a capillary bed"; "Your rights stop where you infringe upon the rights of other"; "My property ends by the bushes"; "The symphony ends in a pianissimo")

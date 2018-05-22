@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA3515b
+
+DADO O SYNSET:
+
+S='Glosa3515'
+	    {
+	      crestar: Era a hora em que o cacto, a flor da noite, fechava o seu cálice cheio das gotas de orvalho com que destila o seu perfume, temendo que o sol [crestasse a alvura diáfana de suas pétalas.   ,
+	      estiolar-se: O inverno nos agasalhava... nutrindo com secos tubérculos florecem e voltam a fenecer, [estiolando-se.,
+	      morrer: Minha arruda morreu!!! / A planta de fato I]morreu.,
+	      queimar: Ordenava aos dias a brilhar de forma mais amena, pois não queria I]queimar as pétalas.  ,
+	      secar: Em dias quentes e secos, as folhas poderiam [murchar e secar, determinando a morte do vegetal. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3515b' = “descolorar e alterar o desenvolvimento natural (de plantas verdes), privando da luz do sol”
+	     {estiolar-se: O inverno nos agasalhava... nutrindo com secos tubérculos florecem e voltam a fenecer, [estiolando-se.,}
+Chave: ESTIOLAR-SE <verb.change>
+ILI: 00129086
+
+Sense 2
+{00129086} <verb.change> etiolate -- (bleach and alter the natural development of (a green plant) by excluding sunlight)
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

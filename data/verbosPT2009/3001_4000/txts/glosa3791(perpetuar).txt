@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA3791
+
+DADO O SYNSET:
+
+S='Glosa3791'
+{perpetuar: A mulher se ocupa da intimidade e o homem se ocupa da guerra, pois a cultura acabou por dar à mulher a gestão da Natureza, que é a gestação das crianças, em suma, tudo o que significa [perpetuar a espécie.,
+	 propagar: Ele não advoga o suicídio, apenas uma decisão firme de deixar de ajudar a [propagar a raça humana.}
++
+A ANÁLISE RESULTA EM:
+
+S='Glosa3791' = “fazer continuar ou prevalecer”
+{perpetuar: A mulher se ocupa da intimidade e o homem se ocupa da guerra, pois a cultura acabou por dar à mulher a gestão da Natureza, que é a gestação das crianças, em suma, tudo o que significa [perpetuar a espécie.,
+	 propagar: Ele não advoga o suicídio, apenas uma decisão firme de deixar de ajudar a [propagar a raça humana.}
+Chave: PERPERTUAR <verb.stative>
+ILI: 02569643
+
+Sense 1 
+{02569643} <verb.stative> perpetuate -- (cause to continue or prevail; "perpetuate a myth")
+       => {02599119} <verb.stative> continue, uphold, carry on, bear on1, preserve -- (keep or maintain in unaltered condition; cause to remain or last; "preserve the peace in the family"; "continue the family tradition"; "Carry on the old traditions")
+           => {02600965} <verb.stative> keep, maintain, hold -- (keep in a certain state, position, or activity; e.g., "keep clean"; "hold in place"; "She always held herself as a lady"; "The students keep me on my toes")

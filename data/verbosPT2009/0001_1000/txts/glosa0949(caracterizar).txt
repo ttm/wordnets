@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0949
+
+DADO O SYNSET:
+
+S='Glosa949'
+{caracterizar: Para entrar nesse assunto, sentiu-se necessidade de, inicialmente, [caracterizar o ser vivo, diferenciando-o do ser bruto.,
+caraterizar: O artigo se propõe a conceituar a central hidrelétrica de baixa queda e [caraterizar os seus grupos geradores, particularmente as turbinas hidráulicas.,
+retratar1: Vivia-se o clima de pós-guerra, entre a esperança e o terror, [retratado com sensibilidade no filme Dr. Marbuse. # No livro, lançado pela Editora Rosa dos Tempos, Kant é [retratado sem retoques, em sua repulsa à sensualidade.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa949' = “descrever ou retratar o caráter ou qualidades ou peculiaridades de”
+{caracterizar: Para entrar nesse assunto, sentiu-se necessidade de, inicialmente, [caracterizar o ser vivo, diferenciando-o do ser bruto.,
+caraterizar: O artigo se propõe a conceituar a central hidrelétrica de baixa queda e [caraterizar os seus grupos geradores, particularmente as turbinas hidráulicas.,
+retratar1: Vivia-se o clima de pós-guerra, entre a esperança e o terror, [retratado com sensibilidade no filme Dr. Marbuse. # No livro, lançado pela Editora Rosa dos Tempos, Kant é [retratado sem retoques, em sua repulsa à sensualidade.,}
+Chave: CARACTERIZAR <verb.communication>
+ILI: 00924929
+
+Sense 1
+{00924929} <verb.communication> qualify1, characterize, characterise -- (describe or portray the character or the qualities or peculiarities of; "You can characterize his behavior as that of an egotist"; "This poem can be characterized as a lament for a dead lover")
+       => {00589832} <verb.cognition> remember1, think of -- (keep in mind for attention or consideration; "Remember the Alamo"; "Remember to call your mother every day!"; "Think of the starving children in India!")

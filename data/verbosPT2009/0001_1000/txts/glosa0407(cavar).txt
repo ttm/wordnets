@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA0407
+
+DADO O SYNSET:
+
+S='Glosa407'
+{cavar: Martim [cavou a terra e fabricou a porta das fasquias da taquara.,
+revolver: O pecuarista precisa primeiro colocar o calcário, arar para [revolver a terra, jogar os adubos e, se for o caso, uns 5 quilos de semente ventilada por hectare.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa407' = “remover a parte interior (terra)”
+{cavar: Martim [cavou a terra e fabricou a porta das fasquias da taquara.,
+revolver: Atividades ligadas ao uso do solo tais como I]revolver a terra, plantar, arrancar mato, podar, regar não só constituem ótimo exercício físico como representam.,}
+Chave: CAVAR <verb.contact>
+ILI: 01271609
+
+Sense 4
+{01271609} <verb.contact> excavate1, dig2, hollow5 -- (remove the inner part or the core of; "the mining company wants to excavate the hillsite")
+       => {00166870} <verb.change> remove, take, take away1, withdraw1 -- (remove something concrete, as by lifting, pushing, taking off, etc. or remove something abstract; "remove a threat"; "remove a wrapper"; "Remove the dirty dishes from the table"; "take the gun from your pocket"; "This machine withdraws heat from the environment")

@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA3616
+
+DADO O SYNSET:
+
+S='Glosa3616'
+	    {
+	      deslustrar-se: Esse colorido M]se deslustra com o tempo.,
+	      desluzir-se: H]Desluzir-se um assoalho.,
+	      desvidrar-se: Antes dos 70 anos, sua pele já H]se desvidrara. ,
+	      embaçar-se: O espelho I]embaçou-se! ,
+	      embaciar-se: O único cuidado a tomar é o de não atingir as partes transparentes para não I]as embaciar.,
+	      empanar-se: Tudo isso [me empanava os olhos.,
+	      ofuscar-se: As luzes dos prédios vão I]se ofuscando diante do nevoeiro. / Viu a imagem I] se ofuscando.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3616' = “tornar-se obscuro ou sem brilho”
+	     {deslustrar-se: Esse colorido M]se deslustra com o tempo.,
+	      embaçar-se: O espelho I]embaçou-se! ,
+	      embaciar-se: O único cuidado a tomar é o de não atingir as partes transparentes para não I]as embaciar.,
+	      empanar-se: Mas logo à primeira linha sua fronte se anuviou, e o brilho de seus olhos se I]empanou de lágrimas.,
+	      ofuscar-se: As luzes dos prédios vão I]se ofuscando diante do nevoeiro. / Viu a imagem se I]ofuscando.,}
+Chave: EMBAÇAR-SE <verb.change>
+ILI: 00303644
+
+Sense 3
+{00303644} <verb.change> dim1 -- (become dim or lusterless; "the lights dimmed and the curtain rose")
+       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night") 

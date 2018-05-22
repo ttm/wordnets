@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA1716B
+
+DADO O SYNSET:
+
+S='Glosa1716'
+{cristalizar: Apesar de I]cristalizar muito devagar, o mel é realmente um líquido superarrefecido. ,
+ encandilar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1716'B = “assumir a forma cristalizada; tornar-se cristalizado”
+{cristalizar: Apesar de estar na temperatura de fusão, o tiossulfato não I]cristalizou.,
+ cristaliza-se: Contudo, acima de 2.000 atmosferas, a água se [cristaliza em várias formas diferentes.,}
+Chave: CRISTALIZAR <verb.change>
+ILI: 00431009
+
+Sense 3
+{00431009} <verb.change> crystallize, crystalize, crystalise, effloresce1 -- (assume crystalline form; become crystallized)
+       => {00432423} <verb.change> solidify -- (become solid; "The metal solidified when it cooled")
+           => {00135037} <verb.change> change integrity -- (change in physical make-up)
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")
+
+Contudo, acima de 2.000 atmosferas, a água se cristaliza em várias formas diferentes

@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0808
+
+DADO O SYNSET:
+
+S='Glosa808'
+{bufarinhar: x,
+mascatear: Com 7 anos começou a I]mascatear nos morros e praias cariocas, experiência que o levou à profissão de comerciante e industrial.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa808' = “vender (mercadorias) pelas ruas”
+{mascatear: Com 7 anos começou a I]mascatear nos morros e praias cariocas, experiência que o levou à profissão de comerciante e industrial.,}
+Chave: MASCATEAR <verb.possession>
+ILI: 02236118
+
+Sense 1
+{02236118} <verb.possession> peddle, monger, huckster, hawk, vend, pitch -- (sell or offer for sale from place to place)
+       => {02180066} <verb.possession> deal, sell1, trade11 -- (do business; offer for sale as for one's livelihood; "She deals in gold"; "The brothers sell shoes")
+           => {02180875} <verb.possession> transact14 -- (conduct business; "transact with foreign governments")
+               => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

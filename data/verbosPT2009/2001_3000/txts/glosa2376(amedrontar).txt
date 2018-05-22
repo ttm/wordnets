@@ -1,0 +1,65 @@
+ANÁLISE DA GLOSA2376
+
+DADO O SYNSET:
+
+S='Glosa2376'
+	    {acobardar: O paroxismo estupendo dos vencidos I]acobardava os vitoriosos.,
+	      acovardar: Um ataque que pode I]acovardar o inimigo.,
+	      amedrontar: É necessário haver uma lei que [amedronte os empresários brasileiros. disse.,
+	      apavorar: Prometida por Rubens Ricupero e ratificada por Ciro Gomes, a intenção de facilitar a entrada de produtos estrangeiros no país [apavora o concorrente nacional. # O filme de Mike Nichols, que estréia hoje em São Paulo, recorre aos sustos convencionais mas não [apavora ninguém.,
+	      apavorizar: A idéia do suicídio estava I]apavorizando a moça.,
+	      assombrar: Gostemos ou não dessa correnteza vertiginosa que varre o planeta e [assombra os homens, o fato é que a aceleração do tempo e a integração do espaço são traços fundamentais da nossa era.,
+	      assustar: Tiroteio do tráfico [assusta a Zona Sul.,
+	      atemorar: x,
+	      atemorizar: Segundo o governo, esse tipo de pesquisa [atemoriza parte da população. # Assassinato de PC surpreende e [atemoriza todos que, de alguma forma, estiveram envolvidos com o governo Fernando Collor.,
+	      aterrar2: Conseguiu afugentar, por ter recorrido aos meios só capazes de I]aterrar os rebeldes fora do Sertão circunvizinho.,
+	      aterrorizar: Corinthians em pânico Boeing 727 fretado pelo clube paulista não consegue decolar em Quito, pega fogo e [aterroriza jogadores.,
+	      despavorir: x,
+	      encobardar: x,
+	      encovardar: x,
+	      espantar: Partidos temem que decisão da Receita espante doadores.,
+	      espavorecer: x,
+	      espavorir: Feliciano largou uma desta maldições capazes de [espavorir toda a milícia celeste.,
+	      espavorizar: x,
+	      estarrecer: A estranheza dessa verdade deu para I]estarrecer de toda a gente. ,
+	      esterrecer: x,
+	      estremecer: E a multidão [estremece toda, assombrada.# Observando sua febre de acertar e executar em nome do pai, Joca Ramiro, Riobaldo [estremece e projeta-se, horrorizado, fora do universo jagunço.,
+	      gelar: Precisamos falar de nossa relação, estas são palavras que os fazem I]gelar de medo.,
+	      intimidar: João Valentão é brigão,para dar bofetão, não presta atenção e nem pensa na vida a todos João [intimida.,
+	      terrificar: O MST continua com sua organização pacífica e  em algumas áreas onde têm havido conflitos, isso se deve realmente a circunstâncias muito especiais, seja de rejeição local, seja de reação armada, nem sempre só da polícia, mas às vezes de grupos para-militares, que são terrivelmente armados, no sentido que podem I]terrificar e amedrontar as populações com armas.,
+	      terrorar: x,
+	      terrorizar: Covardemente, cerca de 20 marginais, uniformizados, invadiram o ônibus do Coritiba no estacionamento do estádio do Vasco para agredir, assaltar  e I]terrorizar os jogadores alviverdes.,
+	      transir: A espantosa visão M]transiu-o.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2376' = “Causar medo em.”
+	    {acobardar: A pobreza não o I]acobardava.,
+	      acovardar: Um ataque que pode I]acovardar o inimigo.,
+	      amedrontar: O tiroteio no morro Dona Marta [amedrontou não apenas os moradores da favela.,
+	      apavorar: A intenção de facilitar a entrada de produtos estrangeiros no país [apavora o concorrente nacional.,
+	      apavorizar: A idéia do suicídio estava I]apavorizando a moça.,
+	      assombrar: Os mesmo medos I]assombraram a mãe do jovem jornalista.,
+	      assustar: Tiroteio do tráfico [assusta a Zona Sul.,
+	      atemorizar: Segundo o governo, esse tipo de pesquisa [atemoriza parte da população.,
+	      aterrar: Ele, de repente, fingia que estava furioso e I]aterrava a aldeia inteira.,
+	      aterrorizar: Boeing 727 fretado pelo clube paulista não consegue decolar em Quito, pega fogo e [aterroriza jogadores.,
+	      espantar: A fama de mau que os tubarões têm não I]espantou as crianças.,
+	      espavorir: Escapar a essa visão que a I]espavoria.,
+	      estarrecer: A cena foi registrada pelas câmaras e I]estarreceu o mundo inteiro.,
+	      estremecer: Um grito espantoso retumbou, que I]estremeceu o assassino e o lançou espavorido fora do aposento.,
+	      gelar: A aparição M]gelou-os.,
+	      intimidar: A forte chuva não I]intimidou os pilotos.,
+	      terrificar: São terrivelmente armados, no sentido que podem I]terrificar e amedrontar as populações com armas.,
+	      terrorizar: Cerca de 20 marginais invadiram o ônibus do Coritiba no estacionamento do estádio para agredir e I]terrorizar os jogadores alviverdes.,
+	      transir: A espantosa visão M]transiu-o.,}
+
+Chave: AMEDRONTAR <verb.emotion>
+ILI: 01727523
+
+Sense 1
+{01727523} <verb.emotion> frighten, fright, scare, affright -- (cause fear in; "The stranger who hangs around the building frightens me")
+       => {01710864} <verb.emotion> stimulate, shake, shake up, excite, stir1 -- (stir the feelings, emotions, or peace of; "These stories shook the community"; "the civil war shook the country")
+           => {01708538} <verb.emotion> arouse, elicit, enkindle, kindle, evoke, fire, raise8, provoke -- (call forth (emotions, feelings, and responses); "arouse pity"; "raise a smile"; "evoke sympathy")
+               => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")
+          Also See-> {01734017} <verb.emotion> frighten off#1; {01734017} <verb.emotion> frighten away#1

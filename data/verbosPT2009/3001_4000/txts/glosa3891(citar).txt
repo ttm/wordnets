@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA3891
+
+DADO O SYNSET:
+
+S='Glosa3891'
+    	{aduzir: Segundo o princípio da eventualidade, acolhido pelo CPC, o réu deve [aduzir toda a sua defesa na contestação, ainda que convicto de que bastará esta ou aquela preliminar para pôr termo à ação; pois, eventualmente, a preliminar poderá ser repelida, e já não lhe será mais possível aditar a defesa .,
+      	 apontar: Antes de [apontar a data, o novo ministro precisará indicar as condições necessárias para a estréia do real .,
+      	 citar: Além de [citar homicídios praticados a mando dos contraventores cariocas, José de Souza Oliveira disse que o bicheiro Paulo Gaia era traficante e que toda a polícia baiana sabia de seu envolvimento com o jogo no Rio .,
+      	 escolher: M]Escolheu uma passagem do último livro que lera.,
+      	 pontar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3891' = “repetir uma passagem [de]”
+    	{aduzir: Era forte no catecismo e conhecia a história sagrada aos pedaços, [aduzindo a eles interpretações suas e interpolações pitorescas.,
+      	 apontar: Em seguida, apanha o livro «Arte Moderna», do crítico italiano Giulio Carlo Argan, e [aponta trecho sobre Morandi em que Argan fala da necessidade que o pintor sentia de buscar «a consciência que unifica sujeito e objeto».,
+      	 citar: A agência de notícias Reuter, ao narrar o «flerte» de Itamar com Lílian, [citou trecho do editorial da Folha de ontem.,
+      	 escolher: Desenrolando o livro, I]escolheu a passagem.}
+Chave: CITAR <verb.communication>
+ILI: 00990257
+
+Sense 1
+{00990257} <verb.communication> quote, cite2 -- (repeat a passage from; "He quoted the Bible to her")
+       => {00926576} <verb.communication> repeat, reiterate, ingeminate, iterate, restate, retell -- (to say, state, or perform again; "She kept reiterating her request")
+           => {00920928} <verb.communication> tell -- (let something be known; "Tell them that you will be late")
+               => {00804489} <verb.communication> inform -- (impart knowledge of some fact, state or affairs, or event to; "I informed him of his rights")
+                   => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                       => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                           => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

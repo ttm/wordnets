@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA2337
+
+DADO O SYNSET:
+
+S='Glosa2337'
+	    {pentear: I]Pentear cabelo molhado exige cuidado redobrado.,
+	      toucar: M]Toucar a cabeleira.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2337' = “Alisar, tornar liso, usando um pente.”
+	    {pentear: I]Pentear cabelo molhado exige cuidado redobrado.,
+	      toucar: M]Toucar a cabeleira.,}
+
+Chave: PENTEAR <verb.contact>
+ILI: 01553060
+
+Sense 1
+{01553060} <verb.contact> comb1 -- (straighten with a comb; "comb your hair"; "comb the wool")
+       => {01328500} <verb.contact> straighten, straighten out -- (make straight)
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

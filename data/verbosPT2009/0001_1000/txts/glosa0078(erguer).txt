@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0078
+
+DADO O SYNSET:
+
+S='Glosa78'
+{erguer: Com esforço grande, pôde [erguer o filho nos braços, e apresentá-lo ao pai, que o olhava extático em seu amor.,
+sobrelevar: Ordenou que H]sobrelevassem do chão a estátua tombada.,
+sublevar: Gigantesca onda M]sublevou o barco.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa78' = “elevar de uma posição inferior `a uma posição superior”
+{erguer: Com esforço grande, pôde [erguer o filho nos braços, e apresentá-lo ao pai, que o olhava extático em seu amor.,
+sobrelevar: a represa Isolina Inferior funciona para I]sobrelevar o nível d’água na captação.,}
+Chave: ERGUER <verb.motion>
+ILI: 01916187
+
+Sense 2
+{01916187} <verb.motion> raise, lift, elevate, get up, bring up -- (raise from a lower to a higher position; "Raise your hands"; "Lift a load")
+       => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

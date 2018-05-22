@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA1055
+
+DADO O SYNSET:
+
+S='Glosa1055'
+{decotar: Tinha essa vaidade singular, [decotava a mulher sempre que podia, e até onde não podia, para mostrar aos outros as suas venturas particulares.,
+ degotar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1055' = “estilizar e produzir vestimentas seguindo um modelo”
+{decotar: Tinha essa vaidade singular, [decotava a mulher sempre que podia, e até onde não podia, para mostrar aos outros as suas venturas particulares.,}
+Chave: DECOTAR 
+ILI: 01618992
+
+Sense 7
+{01618992} <verb.creation> cut, tailor1 -- (style and tailor in a certain fashion; "cut a dress")
+       => {01593978} <verb.creation> design1 -- (create the design for; create or execute in an artistic or highly skilled manner; "Chanel designed the famous suit")
+           => {01593671} <verb.creation> create13, make9 -- (create by artistic means; "create a poem"; "Schoenberg created twelve-tone music"; "Picasso created Cubism"; "Auden made verses")
+               => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor") 

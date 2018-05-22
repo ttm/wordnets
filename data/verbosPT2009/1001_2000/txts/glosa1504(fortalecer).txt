@@ -1,0 +1,37 @@
+ANÁLISE DA GLOSA1504
+
+DADO O SYNSET:
+
+  S='Glosa1504'
+{alentar: Uma esperança ainda o A]alentava.,
+ animar: Beppe Massaro ainda tentou [animar o colega.,
+ confortar: Eles [confortaram os jovens, fazendo-os ver que esta situação faz parte da vida e o mundo não pára só porque perdemos entes queridos.,
+ consolar: É necessário que FH vá ao local da tragédia [consolar as pessoas que passam por certas aflições.,
+ despenar2: Tentou o impossível para [despenar o amigo.,
+ fortalecer: Magic tornou-se quase obcecado em relação a fortalecer seu corpo, como se tentasse afastar a doença.,
+ fortificar: Para ali encontrar a inspiração que os há de  iluminar e I]fortificar nas dificuldades.,
+ sustentar: A fé o M]sustentava no meio dos perigos.,}
+	  
+A='Glosa2937'
+{abalar, abater, anemiar, baquear, combalir, consumir, debilitar, desfalecer, desfazer, desgastar, enfraquecer, fragilizar, gastar, quebrar}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa1504' = “tornar forte ou mais forte”
+{alentar: O Papa manifestou publicamente sua estima pelos representantes da Fundação e os I]alentou «a continuar em seu compromisso a favor dos mais necessitados».,
+ animar: Beppe Massaro ainda tentou [animar o colega.,
+ confortar: Eles [confortaram os jovens, fazendo-os ver que esta situação faz parte da vida e o mundo não pára só porque perdemos entes queridos.,
+ consolar: É necessário que FH vá ao local da tragédia [consolar as pessoas que passam por certas aflições.,
+ despenar2: Tentou o impossível para [despenar o amigo.,
+ fortalecer: A amizade e o amor o acompanharam e [fortaleceram durante algum tempo.,
+ fortificar: Às leitoras perguntaremos: cumprimos [...] nosso programa, auxiliando e aconselhando as senhoras mais econômicas, fornecendo-lhes os meios de reduzirem a sua despeza, sem diminuição alguma do grau de elegância a que as obrigava a respectiva posição na boa sociedade, incutindo ou [fortificando-lhes o gosto para o trabalho e moralizando a família, que por seu turno, saberão incutir sentimentos iguais ?,
+ sustentar: Esse entusiasmo e esse fanatismo, que o ampararam, que o animaram, que o [sustentaram, só teriam sido possíveis, depois de ter ele sido ajudante general do Império.,}
+	  
+A='Glosa2937'
+{abalar, abater, anemiar, baquear, combalir, consumir, debilitar, desfalecer, desfazer, desgastar, enfraquecer, fragilizar, gastar, quebrar}
+Chave: FORTALECER <verb.change>
+ILI: 00213400
+
+Sense 1
+{00213400} <verb.change> strengthen1, beef up, fortify1 -- (make strong or stronger; "This exercise will strengthen your upper body"; "strenghten the relations between the two countries")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0260
+
+DADO O SYNSET:
+
+S='Glosa260'
+{constituir: O rei renovou-lhe o mandato em 1510 e I]constituiu-o ainda como representante da Coroa na Capital, abrindo-lhe uma carreira brilhante na Administração Pública.,
+deixar: Ele H]deixou-o como herdeiro.,
+instituir: Jesus H]instituiu são Pedro como chefe de sua Igreja.,
+nomear: A juíza da 1.ª Vara Cível de Jequié (BA) encaminhou ontem ao empresário Mamede Paes Mendonça uma notificação [nomeando-o síndico da Serra da Pipoca Agropecuária.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa260' = “designar; incumbir uma nomeação a um cargo” 
+{constituir: O rei renovou-lhe o mandato em 1510 e I]constituiu-o ainda como representante da Coroa na Capital, abrindo-lhe uma carreira brilhante na Administração Pública.,
+deixar: Quincas Borba tivera ali alguns parentes, mortos já agora em 1867; o último foi o tio que o I]deixou por herdeiro de seus bens.,
+instituir: O Decreto nº 93.840, de 22 de dezembro de 1986, dispondo sobre a estruturação do Ministério Público Federal, I]instituiu, como integrante da estrutura básica do Órgão, a Secretaria de Controle Interno do MPF.,
+nomear: A juíza da 1.ª Vara Cível de Jequié (BA) encaminhou ontem ao empresário Mamede Paes Mendonça uma notificação [nomeando-o síndico da Serra da Pipoca Agropecuária.,}
+Chave: NOMEAR <verb.social>
+ILI: 02329516
+
+Sense 2
+{02329516} <verb.social> nominate2, propose -- (put forward; nominate for appointment to an office; "The President nominated her as head of the Civil Rights Commission")
+       => {00652154} <verb.cognition> choose, take1, select, pick out -- (pick out, select, or choose from a number of alternatives; "Take any one of these cards"; "Choose a good husband for your daughter"; "She selected a pair of shoes from among the dozen the salesgirl had shown her")
+           => {00674417} <verb.cognition> decide, make up one's mind, determine -- (reach, make, or come to a decision about something; "We finally decided after lengthy deliberations")

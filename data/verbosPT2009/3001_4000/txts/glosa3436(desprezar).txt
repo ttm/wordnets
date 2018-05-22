@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA3436
+
+DADO O SYNSET:
+
+S='Glosa3436'
+	    {
+	      acantoar: x,
+	      atropelar: Argumentam que, além de [atropelar a Constituição, a nova estatal contradiz as leis/Não se pode [atropelar a lei e cometer injustiças,
+	      desprezar: A promotora [desprezou o fato/Se [desprezarmos a massa oceânica da Terra, observamos que a massa de Marte é similar à terrestre,
+	      menospreçar: x,
+	      menosprezar: Eles entendem que não estamos [menosprezando a pátria deles/Segundo ele, parte do grupo [menosprezou a velocidade com que o Plano Real influenciaria o eleitorado,
+	      pospor: Se os sacerdotes souberem pospor tudo, até mesmo o sacerdócio, para garantir a presença de Jesus entre eles.../O historiador deve analisar os fatos em si, ]pospondo seus interesses pessoais,
+	      refugar: O gado, habituado ao cardápio convencional, pode [refugar o chocolate no início/Ele foi o escolhido para substituir Saldanha, mas [refugou,
+	      rejeitar1: Algumas experimentações simples bastariam para você [rejeitar essa hipótese/Hamlet [rejeita o amor de Ofélia,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3436' = “dar pouca ou nenhuma atenção”
+	     {atropelar: Ao abolir a licitação, Castro I]atropelou a lei e abriu mão de receita,
+	      desprezar: A promotora [desprezou o fato/Peng [desprezou os protestos que aconteceram em Hong Kong, na região próxima ao local da usina,
+	      menosprezar: Ele [menosprezou a disposição do presidente do sindicato dos Metalúrgicos de São Paulo, Paulo Pereira da Silva, de pedir ao presidente Fernando Henrique Cardoso a edição de uma Medida Provisória para dar suporte legal ao não-pagamento de encargos sociais,
+	      pospor: O verdadeiro pesquisador H]pospõe suas opiniões pessoais e busca a verdade nos fatos/O historiador deve analisar os fatos em si, ]pospondo seus interesses pessoais,
+	      refugar: O deputado Ari Artuzi (PDT) I]refugou as declarações do presidente municipal do partido, George Takimoto de que está fora da disputa pela Prefeitura,
+	      rejeitar1: Israel [rejeita provas sobre ataque a Caná,}
+Chave: DESPREZAR <verb.cognition>
+ILI: 00596614
+
+Sense 3
+{00596614} <verb.cognition> neglect1, ignore3, disregard -- (give little or no attention to; "Disregard the errors")

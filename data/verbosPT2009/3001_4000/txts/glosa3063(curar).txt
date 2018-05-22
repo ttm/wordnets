@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA3063
+
+DADO O SYNSET:
+
+S='Glosa3063'
+	    {
+	      curar: Ele sai da riqueza absoluta para a miséria total, indo trabalhar num manicômio e tendo que [curar doentes atacados pela terrível peste bubônica, que matou 20% da população de Londres em 1665.,
+	      debelar: x,
+	      guarecer: Agasalhado, num rancho próximo à povoação que se erguia perto do rio, indicou aos moradores ervas e chás para sua cura e as poucos I]guareceu.,
+	      guarir: x,
+	      sanar: Mas a fé sem obras é morta e em todos os casos em que Cristo I]sanou alguém, essa pessoa tinha que fazer alguma coisa.,
+	      sanear: E porque a varíola, a febre amarela e a peste bubônica eram um verdadeiro flagelo na cidade inteira, e não apenas nos subúrbios, enquanto Passos reformulava a cidade, o Dr. Oswaldo Cruz tratava de I]sanear o Rio de Janeiro.,
+	      sanificar: x,
+	      sarar: Com o remédio certo os micróbios morrem e as pessoas I]saram.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3063' = “tornar são novamente”
+	     {curar: José Dias [curou o feitor e uma escrava, e não quis receber nenhuma remuneração.,
+	      guarecer: Agasalhado, num rancho próximo à povoação que se erguia perto do rio, indicou aos moradores ervas e chás para sua cura e as poucos I]guareceu.,
+	      sanar: Mas a fé sem obras é morta e em todos os casos em que Cristo I]sanou alguém, essa pessoa tinha que fazer alguma coisa.,
+	      sanear: Oswaldo Cruz I]saneou a cidade, acabando com três epidemias terríveis que vinham assolando a população a cada ano: febre amarela, varíola e peste bubônica.,
+	      sarar: Com o remédio certo os micróbios morrem e as pessoas I]saram.,}
+Chave: CURAR <verb.body>
+ILI: 00079397
+
+Sense 1
+{00079397} <verb.body> bring around1, cure, heal1 -- (provide a cure for, make healthy again; "The treatment cured the boy's acne"; "The quack pretended to heal patients but never managed to")
+       => {00079717} <verb.body> help, aid -- (improve the condition of; "These pills will help the patient")
+           => {00198579} <verb.change> better1, improve1, amend, ameliorate1, meliorate1 -- (to make better; "The editor improved the manuscript with his changes")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

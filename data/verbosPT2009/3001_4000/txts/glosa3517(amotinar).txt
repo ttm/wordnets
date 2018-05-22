@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA3517
+
+DADO O SYNSET:
+
+S='Glosa3517'
+	    {
+	      amotinar: Quero I]amotinar as minhas emoções.,
+	      indispor: Manuel, soprado pelo compadre, [indispunha mais e mais o ânimo da filha contra o mulato.,
+	      motinar: Quem for la conferir o fato não pode deixar de constatar que, de graça, I]motinamos e expulsamos os membros.,
+	      revolver: Na reunião de ontem da Comissão de Constituição e Justiça, seus aliados [revolveram desejos de vingança o tempo todo. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3517' = “instigar sentimentos”
+	     {amotinar: Um deles, o Cilon, mais tarde I]amotinou o povo contra os pitagóricos, levando a cabo o incêndio.,
+	      indispor: Manuel, soprado pelo compadre, [indispunha mais e mais o ânimo da filha contra o mulato.,
+	      motinar: Quem for lá conferir o fato não pode deixar de constatar que, de graça, I]motinamos e expulsamos os membros.,}
+Chave: AMOTINAR
+ILI: 02054979
+
+Sense 3
+{02054979} <verb.perception> stimulate, excite, stir -- (stir feelings in; "stimulate my appetite"; "excite the audience"; "stir emotions")
+       => {02054639} <verb.perception> sensitize, sensitise -- (cause to sense; make sensitive; "She sensitized me with respect to gender differences in this traditional male-dominated society"; "My tongue became sensitized to good wine")

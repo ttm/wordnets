@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0077
+
+DADO O SYNSET:
+
+S='Glosa77'
+{arvorar: H]Arvoraram-no em presidente.,
+elevar: Considero porém qualquer leitura melhor do que um vazio intelectual perpétuo e até as produções que só se dirigem à imaginação [elevam um pouco o leitor acima da satisfação grosseira de seus instintos.,
+promover: Em junho de 1985, o Conselho Diretor [promoveu Paulo Renato para o nível da carreira que permitiria sua candidatura a professor-titular, o MS-5. ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa77' = “dar uma promoção a”
+{elevar: Considero porém qualquer leitura melhor do que um vazio intelectual perpétuo e até as produções que só se dirigem à imaginação [elevam um pouco o leitor acima da satisfação grosseira de seus instintos.,
+promover: Em junho de 1985, o Conselho Diretor [promoveu Paulo Renato para o nível da carreira que permitiria sua candidatura a professor-titular, o MS-5. ,}
+Chave: PROMOVER <verb.social>
+ILI: 02325893
+
+Sense 2
+{02325893} <verb.social> promote, upgrade, advance, kick upstairs, raise4, elevate -- (give a promotion to or assign to a higher position; "John was kicked upstairs when a replacement was hired"; "Women tend not to advance in the major law firms"; "I got promoted after many years of hard work")
+       => {02320208} <verb.social> delegate, designate, depute3, assign -- (give an assignment to (a person) to a post, or assign a task to (a person))
+           => {02401814} <verb.social> appoint, charge -- (assign a duty, responsibility or obligation to; "He was appointed deputy manager"; "She was charged with supervising the creation of a concordance")

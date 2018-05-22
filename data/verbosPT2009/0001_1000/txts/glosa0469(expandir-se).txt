@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA0469
+
+DADO O SYNSET:
+
+S='Glosa469'
+{alargar-se: Devido ao enfraquecimento ósseo, os ossos da cabeça se [alargam e os do tórax se deformam, originando o chamado peito de pombo.,
+dilatar-se: Em casa, quando esse consumo cai, a pessoa entra em uma espécie de síndrome de abstinência, os vasos se [dilatam e a enxaqueca aparece. ,
+distender-se: A mola do dinamômetro [se distende quando um corpo é suspenso por ele, pois a Terra puxa esse corpo, que, então, força a mola,
+expandir-se: O coração se [expande com o líquido e o leite tende a adquirir uma coloração rosa.,}
+A='Glosa956'
+{comprimir-se, confranger-se, contorcer-se, contrair-se, encolher-se, retrair-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa469' = “tornar (-se) maior, pando”
+{alargar-se: Devido ao enfraquecimento ósseo, os ossos da cabeça se [alargam e os do tórax se deformam, originando o chamado peito de pombo.,
+dilatar-se: Em casa, quando esse consumo cai, a pessoa entra em uma espécie de síndrome de abstinência, os vasos se [dilatam e a enxaqueca aparece. ,
+distender-se: A mola do dinamômetro [se distende quando um corpo é suspenso por ele, pois a Terra puxa esse corpo, que, então, força a mola,
+expandir-se: O coração se [expande com o líquido e o leite tende a adquirir uma coloração rosa.,}
+A='Glosa956'
+{comprimir-se, confranger-se, contorcer-se, contrair-se, encolher-se, retrair-se}
+Chave: EXPANDIR-SE <verb.change>
+ILI: 00151998
+
+Sense 3
+{00151998} <verb.change> enlarge -- (become larger or bigger)
+       => {00223119} <verb.change> grow -- (become larger, greater, or bigger; expand or gain; "The problem grew too large for me"; "Her business grew fast")
+           => {00150804} <verb.change> increase -- (become bigger or greater in amount; "The amount of work increased")
+               => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

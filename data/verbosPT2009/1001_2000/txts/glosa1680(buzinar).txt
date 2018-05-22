@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA1680
+
+DADO O SYNSET:
+
+S='Glosa1680'
+{abuzinar: A máquina barulhenta não parava de H]abuzinar.,
+ buzinar: Aproveita as longas avenidas vazias para acelerar o carro, algumas vezes gritar, [buzinar.,
+ embuzinar2: x,
+ fonfonar: Até a sede da fazenda, distante ainda seis léguas, as magníficas manadas correm saltitantes ou apenas levantam a cabeça, atentas, ao I]fonfonar do auto.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1680' = “usar a buzina de um carro”
+{buzinar: Parece que ninguém [buzina e todos andam mais devagar.,
+ fonfonar: O próximo Encontro Nacional de Carros Antigos, em Araxá, prevê meio milhão de modelos que I]fonfonaram nas respectivas épocas.,}
+Chave: BUZINAR <verb.communication>
+ILI: 01019765
+
+Sense 2
+{01019765} <verb.communication> honk1, claxon -- (use the horn of a car)
+       => {02110511} <verb.perception> make noise, resound, noise -- (emit a noise)
+           => {02113837} <verb.perception> sound, go -- (make a certain noise or sound; "She went `Mmmmm'"; "The gun went `bang'")
+               => {02062507} <verb.perception> cause to be perceived -- (have perceptible qualities)

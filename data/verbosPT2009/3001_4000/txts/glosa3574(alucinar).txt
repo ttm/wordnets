@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA3574
+
+DADO O SYNSET:
+
+S='Glosa3574'
+	    {
+	      alucinar: Nõa deve se martirizar por sentir ciúme da pessoa amada, nem perder o pé da situação e começar a I]alucinar.,
+	      cegar: Pobre Olavo,  a raiva o I]cega e o precipita em novos erros.,
+	      desvairar: São os psicopatas sociais que mais contribuem para afetar ou prejudicar a vida dos grupos e I]desvairar as multidões.,
+	      obcecar: A inveja I]obceca a mente completamente.,
+	      obdurar: Idéia fixa M]obdurava-o.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3574' = “desconcertar mentalmente, tirar o controle mental; fazer insano”
+	     {alucinar: O medo de me acontecer algo e deixar desamparado o meu filho, me I]alucinava.,
+	      cegar: Apaixonado por uma artista da noite, o ciúme o I]cegou.,
+	      desvairar: Não era o canto das sereias, mas a sua seminudez, harmônica, rósea e prateada, dividida pelo equador da cintura, a que atraia e I]desvairava a marinhagem.,
+	      obcecar: A inveja I]obceca a mente completamente.,
+	      obdurar: Idéia fixa M]obdurava-o.,}
+Chave: ALUCINAR <verb.emotion>
+ILI: 01713708
+
+Sense 1
+{01713708} <verb.emotion> unbalance, derange1 -- (derange mentally, throw out of mental balance; make insane; "The death of his parents unbalanced him")
+       => {01735946} <verb.emotion> madden2, craze -- (cause to go crazy; cause to lose one's mind)

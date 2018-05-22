@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA3696
+
+DADO O SYNSET:
+
+S='Glosa3696'
+	    {
+	      derivar: I]Derivam da linhagem galega dos de Lanços, de nobres e antigas origens.,
+	      descender: Em nosso inconsciente, gostaríamos todos de I]descender de famílias brancas. ,
+	      nascer: I]Nasceu de pais açorianos e cresceu no Pico.,
+	      partir: O cedro I]parte da montanha.,
+	      proceder: I]Procedem duma família muito nobre, descendente de João Fernandes de Andrade.,
+	      provir: Escassos cursos d' água [provêm da alta cordilheira, formando lagos subterrâneos, em que os sais flutuam formando uma grossa crosta na superfície.#Toda a humanidade I]provém de Adão e Eva. ,
+	      resultar: É importante observar que a célula-ovo é diplóide, porque [resulta da união de duas células haolóides. ,
+	      ser: Kátia [era de família numerosa. ,
+	      vir: Você [vem de uma família de pai e irmãos advogados.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3696' = “vir de; estar conectado por uma relação de sangue, por exemplo”
+	     {derivar: I]Derivam da linhagem galega dos de Lanços, de nobres e antigas origens.,
+	      descender: Ele I]descende de uma linhagem de importantes e tradicionais políticos da região.,
+	      nascer: I]Nasceu de pais açorianos e cresceu no Pico.,
+	      proceder: I]Procedem duma família muito nobre, descendente de João Fernandes de Andrade.,
+	      provir: Este gerente I]provém de uma família pobre das cercanias de Addis Abeba.#Toda a humanidade I]provém de Adão e Eva.,
+	      resultar: É importante observar que a célula-ovo é diplóide, porque [resulta da união de duas células haplóides.,
+	      ser: Kátia [era de família numerosa. ,
+	      vir: Você [vem de uma família de pai e irmãos advogados.,}
+Chave: PROVIR <verb.stative>
+ILI: 02657083
+
+Sense 5
+{02657083} <verb.stative> derive, come15, descend -- (come from; be connected by a relationship of blood, for example; "She was descended from an old Italian noble family"; "he comes from humble origins")

@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA4021
+
+DADO O SYNSET:
+
+S='Glosa4021'
+{dar: Durante dez anos um dos maiores bancos brasileiros escondeu que estava quebrado, funcionou quebrado, [deu lucro operacional quebrado, enriqueceu seus diretores quebrado, financiou campanhas eleitorais quebrado - e quando confessou o que tinha feito recebeu ajuda !,
+produzir: Na opinião de Miraglia, a greve [produziu ganhos políticos importantes .,
+render: Resumindo, para o comando do PFL - que fecha no apoio a Inocêncio Oliveira, o pivô da retirada de Soares -, a saída do presidente da comissão só [rendeu ganhos .,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4021' = “retornar”
+{dar: Durante dez anos um dos maiores bancos brasileiros escondeu que estava quebrado, funcionou quebrado, [deu lucro operacional quebrado, enriqueceu seus diretores quebrado, financiou campanhas eleitorais quebrado - e quando confessou o que tinha feito recebeu ajuda !,
+produzir: Na opinião de Miraglia, a greve [produziu ganhos políticos importantes .,
+render: Resumindo, para o comando do PFL - que fecha no apoio a Inocêncio Oliveira, o pivô da retirada de Soares -, a saída do presidente da comissão só [rendeu ganhos .,}
+Chave: RENDER <verb.possession>
+ILI: 02243071
+
+Sense 7
+{02243071} <verb.possession> render, return8 -- (give back; "render money")
+       => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+           => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children")
+

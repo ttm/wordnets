@@ -1,0 +1,43 @@
+ANÁLISE DA GLOSA2793
+
+DADO O SYNSET:
+
+  S='Glosa2793'
+	    {arranjar: H]Arranjar o aparelho de som.,
+	      arrumar: Depois de realizar o serviço, a Sabesp prometeu retornar em 72h para [arrumar minha calçada, afirma Ana Lucia.,
+	      beneficiar: O senador José Paulo Bisol (PSB-RS) , candidato à Vice-Presidência na chapa de Luiz Inácio Lula da Silva, voltou atrás e vai manter as emendas ao Orçamento de 1994 que destinam verbas para a cidade de Buritis (MG) e [beneficiam uma fazenda que ele tem naquele município.,
+	      consertar: Alguém aí pode me dizer onde é a oficina mais próxima para consertar meus dois computadores? # No contato seguinte, terça-feira, Amyr informou que conseguiu [consertar o motor já no domingo, garantindo tanto o abastecimento de energia elétrica como parte do aquecimento interno.,
+	      recompor: Nada pagou também pelas 300 horas de trator necessárias para [recompor a paisagem lunar aberta com o desmonte.,
+	      recuperar: O diretor do consórcio, Roberto Siriani, explica que a prioridade é [recuperar a pista sentido Rio-Niterói, em pior situação.,
+	      refazer: Segundo o superintendente de obras viárias da Secretaria Municipal de Vias Públicas, Paulo Eduardo Simão Taliba, 52, foi necessário encomendar a uma empresa as vigas de concreto para [refazer o pontilhão. #  Em depoimento aos membros da Comissão Parlamentar de Inquérito da Câmara (CPI) que investiga as irregularidades do projeto, Jane confirmou que a empreiteira ainda terá de [refazer duas grandes galerias de drenagem de águas pluviais nas ruas Dois de Dezembro e Gago Coutinho.,
+	      reformar: Sua tática é embutir nas verbas de organização de eventos os recursos necessários para [reformar o velho prédio que abrigou a sede do governo brasileiro, como fará para a reforma do terceiro andar.,
+	      regenerar: Painéis solares conseguiram [regenerar as baterias da sonda Clementine, lançada em 25 de janeiro para estudar em detalhes a geografia lunar.,
+	      remontar: Entrevistou 60 músicos para através dos depoimentos [remontar o ambiente das gravações no detalhado livreto de 36 páginas que acompanha os CDs.,
+	      renovar: Para os equipamentos nacionais, Intraco e Delta, foi instituído o sistema consórcio, que já ajudou muitos radioamadores a instalar ou [renovar sua estação.,
+	      reparar: Da mesma forma, robô nenhum poderia improvisar o salvamento do satélite Intelsat ou [reparar o telescópio espacial Hubble em plena órbita.,
+	      restabelecer: Nos próximos dias, o governo francês deverá [restabelecer a ligação aérea e marítima entre a França e a Argélia.,
+	      restaurar: A Prefeitura de Ribeirão Preto quer a participação da iniciativa privada para reformar e [restaurar o Mercado Municipal, tombado pelo município.,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2793' = “Pôr em bom estado, substituindo uma parte ou colocando o que está estragado ou quebrado”
+	    {arranjar: H]Arranjar o aparelho de som.,
+	      arrumar: O morador afirma que a última vez que a Codesan I]arrumou a rua foi depois que denunciou o desfile de máquinas da Codesan.,
+	      consertar: Também I]consertou o asfalto em quatro ruas da cidade.,
+	      recompor: Não I]recompôs a pista com o mesmo material da via.,
+	      recuperar: A Prefeitura I]recuperou a Praça Fernando Machado.,
+	      refazer: A Administração Municipal praticamente I]refez a ponte, pois o essencial não havia sido feito quando em sua construção.,
+	      reformar: Deu início às obras de alargamento da rua Prudente de Moraes, I]reformou a Praça 1º de Maio, erguendo o marco comemorativo.,
+	      remontar: Voltou ao hospital, testou novamente nos veteranos, I]remontou todo o aparelho e checou qualquer mau-contato, até certificar-se de que tudo estava funcionando.,
+	      renovar: Até o momento, já I]renovou o asfalto de 501 quilômetros de vias.,
+	      reparar: Tenho certeza foi enganado pelo cara que I]reparou a sua geladeira.,
+	      restabelecer: O sistema pré-pago foi abandonado e o governo I]restabeleceu as torneiras públicas.,
+	      restaurar: Somente quem já I]restaurou uma motocicleta sabe da infinidade de dificuldades que aparecem durante o processo.,}
+
+Chave: CONSERTAR <verb.change>
+ILI: 00251962
+
+Sense 1
+{00251962} <verb.change> repair, mend, fix1, bushel, doctor1, furbish up, restore1, touch on -- (restore by replacing a part or putting together what is torn or broken; "She repaired her TV set"; "Repair my shoes please")
+       => {00198579} <verb.change> better1, improve1, amend, ameliorate1, meliorate1 -- (to make better; "The editor improved the manuscript with his changes")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

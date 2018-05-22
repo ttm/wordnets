@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0006
+
+DADO O SYNSET:
+
+S='Glosa6'
+{impurificar: Deve-se tomar o cuidado para não I]impurificar os reagentes sólidos e as soluções.,
+sujar: Um pouco de noz moscada ou de essências aromáticas certamente produzirão o mesmo efeito: I]sujar a água e impedir que "a mosquita" ponha os ovos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa6' = “tornar(-se) impuro”
+{impurificar: Deve-se tomar o cuidado para não I]impurificar os reagentes sólidos e as soluções.,
+sujar: Petrobras pagou parte da multa por I]sujar rios.,}
+Chave: SUJAR <verb.change>
+ILI: 00479356
+
+Sense 1
+{00479356} <verb.change> pollute, foul3, contaminate -- (make impure; "The industrial wastes polluted the lake")
+       => {01491650} <verb.contact> dirty, soil, begrime, grime, colly, bemire -- (make soiled, filthy, or dirty; "don't soil your clothes when you play outside!")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

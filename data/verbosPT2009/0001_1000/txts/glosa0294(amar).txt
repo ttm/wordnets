@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0294
+
+DADO O SYNSET:
+
+S='Glosa294'
+{amar: Nestas noites de verão, lembrei-me do meu ex-namorado, um lindo cara de olhos azuis que me I]amava todas as noites.,
+copular: A toda hora eles tiravam a roupa e I]copulavam em todos os cômodos da casa.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa294' = “ter relação sexual com”
+{amar: Nestas noites de verão, lembrei-me do meu ex-namorado, um lindo cara de olhos azuis que me I]amava todas as noites.,
+copular: O gesto de cegar-se, para o homem que I]copulou e procriou com a mãe.,}
+Chave: AMAR <verb.contact>
+ILI: 01385612
+
+Sense 4
+{01385612} <verb.contact> roll in the hay, love, make out, make love, sleep with, get laid, have sex, know, do it, be intimate, have intercourse, have it away, have it off, screw4, fuck, jazz, eff, hump, lie with, bed, have a go at it, bang4, get it on, bonk1 -- (have sexual intercourse with; "This student sleeps with everyone in her dorm"; "Adam knew Eve"; "Were you ever intimate with this man?")
+       => {01388051} <verb.contact> copulate, mate, pair, couple -- (make love; "Birds mate in the Spring")
+           => {01252764} <verb.contact> join, conjoin -- (make contact or come together; "The two roads join here")
+               => {01314764} <verb.contact> connect, link, tie1, link up -- (connect, fasten, or put together two or more pieces; "Can you connect the two loudspeakers?"; "Tie the ropes together"; "Link arms")

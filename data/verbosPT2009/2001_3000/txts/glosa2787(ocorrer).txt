@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA2787
+
+DADO O SYNSET:
+
+S='Glosa2787'
+	    {acorrer: Jean Paul tentava desvencilhar-se do homem, mas este de alguma forma barrava-lhe a passagem. Já estava prestes a cometer uma grosseria, quando I]acorreu à cena “Joana D’arc”.,
+	      acudir: A imagem não é boa, nem verdadeira; foi a que [acudiu ao conselheiro, andando, ao voltar de Andaraí.,
+	      assaltar: Uma lembrança de infância, naquele momento, I]assaltou a mente de Laurindo.,
+	      assaltear: x,
+	      despontar: A]Despontou-lhe, de repente, a solução do problema.,
+	      escordar1: Foi logo depois da morte do seu cunhado? – Isso já me não I]escordo.,
+	      lembrar: Evito notícias ruins, me fazem [lembrar da minha desgraça, diz.,
+	      ocorrer: Nesse estágio, uma permuta I]ocorreu na mente da criança enquanto sua atenção estava focada na história e na ação que se movem rapidamente.,
+	      reconvir: x,
+	      recordar: Os inimigos adoram [recordar 85, quando o candidato à prefeitura sentou-se na cadeira de prefeito antes da eleição.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2787' = “Vir à mente de, sugerir-se”
+	    {acorrer: Já estava prestes a cometer uma grosseria, quando I]acorreu à cena “Joana D’arc”.,
+	      acudir: Então uma estranha idéia I]acudiu ao espírito sobressaltado do infeliz frade.,
+	      assaltar: Uma lembrança triste porem o I]assaltou.,
+	      despontar: Uma estranha idéia I]despontou-lhe no espírito.,
+	      ocorrer: Como lhe I]ocorreu a idéia de emprestar dinheiro às pessoas?.,}
+
+Chave: OCORRER <verb.cognition>
+ILI: 00699422
+
+Sense 2
+{00699422} <verb.cognition> occur, come14 -- (come to one's mind; suggest itself; "It occurred to me that we should hire another secretary"; "A great idea then came to her")
+       => {02545350} <verb.stative> become -- (come into existence; "What becomes has duration") 

@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA1500
+
+DADO O SYNSET:
+
+S='Glosa1500'
+{despedir-se: Ao [despedir-se prometeu visitá-lo em Santa Teresa, antes de ir a Minas,
+ ir: Deste jeito é melhor [ir embora.,
+ partir: Quem disse que eu chorei quando o meu amor I]partiu,
+ 	 retirar-se: Como não havia perdido o meu jeito calado e solitário, I]retirei-me de todos., }
+	  
+A='Glosa474'
+{aparecer, chegar, vir}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1500' = “ir embora, sair”
+{despedir-se: Depois da caminhada de trinta minutos, Lula [despediu-se com uma ironia., 
+ ir: Dona Célia, mãe de Dinho, passou mal e [foi embora, amparada pelos parentes.,
+ partir: Ele chegou na quarta-feira à noite e [partiu ontem à tarde.,
+ 	 retirar-se: Depois de reencontrar os «colegas» e de receber o troféu, a maioria dos atores [retirou-se rapidamente.,}
+	  
+A='Glosa474'
+{aparecer, chegar, vir}
+Chave: RETIRAR-SE <verb.motion>
+ILI: 01950409
+
+Sense 4
+{01950409} <verb.motion> depart, take leave, quit -- (go away or leave)
+       => {01951556} <verb.motion> leave1, go forth, go away -- (go away from a place; "At what time does your train leave?"; "She didn't leave until midnight"; "The ship leaves at midnight")

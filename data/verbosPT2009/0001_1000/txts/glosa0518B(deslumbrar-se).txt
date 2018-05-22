@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0518B
+
+DADO O SYNSET:
+
+S='Glosa518'
+{alucinar-se: Fracassa e enlouquece, mas continua sua vida, esquece do sentimento e I]alucina-se ao saber da morte cada vez mais amadurecida.,
+deslumbrar-se: Naquela mesma noite, Nelson levou-a a um dos melhores restaurantes da cidade. Ela, que não tinha o hábito de coisas caras e requintadas, I]deslumbrou-se.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa518B' = “fascinar (-se), seduzir (-se), maravilhar (-se)”
+{deslumbrar-se: Naquela mesma noite, Nelson levou-a a um dos melhores restaurantes da cidade. Ela, que não tinha o hábito de coisas caras e requintadas, I]deslumbrou-se.,}
+Chave: DESLUMBRAR-SE <verb.cognition>
+ILI: 00701048
+
+Sense 2
+{00701048} <verb.cognition> dazzle -- (amaze or bewilder, as with brilliant wit or intellect or skill; "Her arguments dazzled everyone"; "The dancer dazzled the audience with his turns and jumps")
+       => {00700834} <verb.cognition> amaze, astonish, astound -- (affect with wonder; "Your ability to speak six languages amazes me!")
+           => {00701276} <verb.cognition> surprise -- (cause to be surprised; "The news really surprised me")
+               => {01716999} <verb.emotion> affect, impress1, move, strike -- (have an emotional or cognitive impact upon; "This child impressed me as unusually mature"; "This behavior struck me as odd")

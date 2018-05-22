@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA2650
+
+DADO O SYNSET:
+
+  S='Glosa2650'
+	    {distender: Minos, em particular, despertava sua admiração, com seu porte gentil, ostentando o elmo e o escudo; sua agilidade, combinada com a força, em lançar o dardo; sua maneira de I]distender o arco, que o próprio Apolo não faria mais graciosamente.,
+	      esticar: Os cientistas do Instituto Pasteur e da Escola Superior Normal, em Paris, mostram que para [esticar o DNA, basta colocá-lo em uma gota d' água sobre uma placa coberta com uma substância especial que tem a propriedade de atrair partes do DNA.,
+	      estiraçar: x,
+	      estirar: Estaquear é I]estirar o couro por meio de estacas para secá-lo.,
+	      puxar: Você deve I]puxar um metro de corda para elevar a bandeira de um metro.,
+	      repuxar: O caixão não coubera na cova, daí aquele I]repuxar das cordas e o homem com a pá, escavando dos lados, alargando o coval.,
+	      retesar: A prova ganhou, assim, em qualidade, com a demonstração apurada da técnica de cada guerreiro ao I]retesar a corda, calibrar o arco e arremessar a flecha.,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2650' = “Tornar longo ou mais longo puxando ou estendendo.”
+	    {distender: Notou que o mesmo I]distendeu em torno de 40 cm.,
+	      esticar: Os cientistas mostram que para [esticar o DNA, basta colocá-lo em uma gota d' água sobre uma placa coberta com uma substância.,
+	      estirar: Gómez e outros 11 médicos implantaram pequenos dispositivos plásticos que I]estiraram a pele das gêmeas para que pudessem cobrir os cortes.,
+	      puxar: O primeiro irmão I]puxou a corda de lá e o irmão caçula puxou a corda de cá.,
+	      repuxar: Ele I]repuxou as extremidades da gabardina.,}
+
+Chave: PUXAR <verb.change>
+ILI: 00308836
+
+Sense 5
+{00308836} <verb.change> elongate, stretch4 -- (make long or longer by pulling and stretching; "stretch the fabric")
+       => {00307756} <verb.change> lengthen1 -- (make longer; "Lengthen this skirt, please")
+           => {00147655} <verb.change> increase2 -- (make bigger or more; "The boss finally increased her salary"; "The university increased the number of students it admitted")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

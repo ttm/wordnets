@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA1093
+
+DADO O SYNSET:
+
+S='Glosa1093'
+{arder: Sem poder enxergar pela fumaça que I]ardia a garganta.,
+ doer: Se a cada engolida sua garganta I]dói, seu humor fica como o meu.,
+ raspar: A garganta ainda I]raspa um pouquinho.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1093' = “sentir dor física”
+{arder: A garganta I]ardia, como se tivesse bebido gasolina.,
+ doer: Se a cada engolida sua garganta I]dói, seu humor fica como o meu.,
+ raspar: A garganta ainda I]raspa um pouquinho.,}
+Chave: DOER <verb.perception>
+ILI: 02060115
+
+Sense 6
+{02060115} <verb.perception> hurt1, ache1, suffer -- (feel physical pain; "Were you hurting after the accident?")
+       => {02045668} <verb.perception> perceive, comprehend -- (to become aware of through the senses; "I could perceive the ship coming over the horizon")

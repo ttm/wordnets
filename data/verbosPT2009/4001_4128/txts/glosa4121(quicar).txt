@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA4121
+
+DADO O SYNSET:
+
+S='Glosa4121'
+{pular: Tem gente que joga pedras no lago e fazem a pedra I]pular.,
+quicar: Uma parte da energia cinética da bola, antes dela I]quicar no chão, pode estar na forma de energia de rotação.,
+saltar: A pedra I]saltou várias vezes na água.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4121' = “bater em algo de forma que isso salte”
+{pular: Tem gente que joga pedras no lago e fazem a pedra I]pular.,
+quicar: Uma parte da energia cinética da bola, antes dela I]quicar no chão, pode estar na forma de energia de rotação.,
+saltar: A pedra I]saltou várias vezes na água.,}
+Chave: QUICAR <verb.contact>
+ILI: 01363851
+
+Sense 2
+{01363851} <verb.contact> bounce3 -- (hit something so that it bounces; "bounce a ball")
+       => {01364506} <verb.contact> hit3 -- (cause to move by striking; "hit a ball")
+           => {01469437} <verb.contact> propel, impel -- (cause to move forward with force; "Steam propels this ship")
+               => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

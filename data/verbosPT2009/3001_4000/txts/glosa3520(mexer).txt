@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA3520
+
+DADO O SYNSET:
+
+S='Glosa3520'
+	    {
+	      bulir: Entrava disfarçadarnente, fechava as rótulas da janela, e como sabia que o morador não aparecia àquela hora, começava a I]bulir nos livros.,
+	      mexer: O público não deve[mexer em focas e outros animais marinhos.,
+	      mover: A seguir, ele deve [mover a alavanca da bomba que ativa a saída de combustível, pôr a mangueira no bocal do tanque e acionar o gatilho . ,
+	      remexer: Em geral, quando o escritor morre, vem alguém, [remexe nas suas gavetas e publica tudo o que encontra pela frente. ,
+	      tocar: A vez era de Hortência e de novo chuá - cesta sem [tocar o aro. / Tenho formação animal, gosto de cheirar, sentir, [tocar, mexer.  ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3520' = “tocar, levantar ou segurar com as mãos”
+	     {bulir: Entrava disfarçadamente, fechava as rótulas da janela, e como sabia que o morador não aparecia àquela hora, começava a I]bulir nos livros.,
+	      mexer: Ela foi à árvore e I]mexeu nos brinquedos deixados pelos pais.,
+	      remexer: Voltou à mesa principal, [remexeu em pepéis, convocou assessores. ,
+	      tocar: No dia seguinte, ninguém I]tocou nas frutas/ Tenho formação animal, gosto de cheirar, sentir, [tocar, mexer.  ,}
+Chave: MEXER <verb.contact>
+ILI: 01173984
+
+Sense 4
+{01173984} <verb.contact> handle, palm -- (touch, lift, or hold with the hands; "Don't handle the merchandise")
+       => {01169634} <verb.contact> touch -- (make physical contact with, come in contact with; "Touch the stone for good luck"; "She never touched her husband")

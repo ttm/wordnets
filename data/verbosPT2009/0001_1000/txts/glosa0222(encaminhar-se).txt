@@ -1,0 +1,18 @@
+ANÁLISE DA GLOSA0222
+
+DADO O SYNSET:
+
+S='Glosa222'
+{abaixar: Dante M]abaixou ao inferno com Virgílio. ,
+encaminhar-se: Estava na hora de partir para o inferno. ... I]Encaminhou-se para o abismo, sem protestar, cantando e dançando.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa222' = “dirigir(-se) a um determinado curso; determinar a direção”
+{encaminhar-se: Estava na hora de partir para o inferno. ... I]Encaminhou-se para o abismo, sem protestar, cantando e dançando.,}
+Chave: ENCAMINHAR-SE <verb.motion>
+ILI: 01875920
+
+Sense 1
+{01875920} <verb.motion> steer, maneuver, manoeuver, manoeuvre, direct3, point5, head1, guide1, channelize3, channelise3 -- (direct the course; determine the direction of travelling)
+       => {02367626} <verb.social> control, command -- (exercise authoritative control or power over; "control the budget"; "Command the military forces")

@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA3747
+
+DADO O SYNSET:
+	
+S='Glosa3747'
+{apoiar-se: I]Apoiar-se na cadeira de rodas é como apoiar-se numa pessoa sentada numa cadeira comum. ,
+	 arrimar-se: Ubirajara [arrimou-se ao tacape e meditou.,
+	 ater-se: A] Ateve-se ao ombro da amiga, ao tropeçar.,
+	 encostar-se: O Menino [encostou-se no portão e passou a acompanhar o diálogo.,
+	 estribar-se: O templo M]estribava-se sobre duas colunas.,
+	 firmar-se: Sua admiração foi tão grande que, querendo [firmar-se nos ombros de Leonardo, deu-lhe quase um abraço pelas costas.,
+	 pender-se: A]Pendeu-se à bengala. }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3747' = “firmar-se em, como apoio”
+{apoiar-se: I]Apoiar-se na cadeira de rodas é como apoiar-se numa pessoa sentada numa cadeira comum. ,
+	 arrimar-se: Ubirajara [arrimou-se ao tacape e meditou.,
+	 ater-se: A] Ateve-se ao ombro da amiga, ao tropeçar.,
+	 encostar-se: O Menino [encostou-se no portão e passou a acompanhar o diálogo.,
+	 estribar-se: O templo M]estribava-se sobre duas colunas.,
+	 firmar-se: Sua admiração foi tão grande que, querendo [firmar-se nos ombros de Leonardo, deu-lhe quase um abraço pelas costas.,
+	 pender-se: A]Pendeu-se à bengala. }
+Chave: FIRMAR-SE <verb.contact>
+ILI: 01546434
+
+Sense 1
+{01546434} <verb.contact> lean on, rest on, lean against -- (rest on for support; "you can lean on me if you get tired")
+       => {01169130} <verb.contact> touch1, adjoin3, meet, contact3 -- (be in direct physical contact with; make contact; "The two buildings touch"; "Their hands touched"; "The wire must not contact the metal cover"; "The surfaces contact at this point") 

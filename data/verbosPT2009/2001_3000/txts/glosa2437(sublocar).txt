@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2437
+
+DADO O SYNSET:
+
+S='Glosa2437'
+	    {subalugar: De Plá fez a locação do imóvel eo I]subalugou à franqueada.,
+	      subarrendar: É vedado ao arrendatário ceder o contrato de arrendamento, I]subarrendar ou emprestar total ou parcialmente o imóvel rural, sem prévio e expresso consentimento do arrendador.,
+	      sublocar: A companhia aluga o terreno e [subloca ao dono do ponto com cobrança de 20% de aluguel.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2437' = “Arrendar ou alugar tudo ou parte de (uma propriedade arrendada ou alugada) a outra pessoa.”
+	    {subalugar: De Plá fez a locação do imóvel e o I]subalugou à franqueada.,
+	      subarrendar: A LACNIC I]subarrendou um espaço dentro dos escritórios de uma empresa de. tecnologias.,
+	      sublocar: A companhia aluga o terreno e [subloca ao dono do ponto com cobrança de 20% de aluguel.,}
+
+Chave: SUBLOCAR <verb.possession>
+ILI: 02145744
+
+Sense 1
+{02145744} <verb.possession> sublet, sublease -- (lease or rent all or part of (a leased or rented property) to another person; "We sublet our apartment over the summer")
+       => {02145386} <verb.possession> lease1, let, rent1 -- (grant use or occupation of under a term of contract; "I am leasing my country estate to some foreigners")
+           => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+               => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children") 

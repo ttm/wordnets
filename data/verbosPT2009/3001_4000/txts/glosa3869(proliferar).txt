@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA3869
+
+DADO O SYNSET:
+
+S='Glosa3869'
+{aumentar: Esta dera origem a chamada Guerra Guaranítica (1753-1756), que unira os jesuítas de origem portuguesa e espanhola contra as delimitações da fronteira no sul, e contrariava o intento de [aumentar a população por meio de casamentos inter-étnicos .,
+ avultar: A liderança de Luis Inácio da Silva, o Lula, que já se projetara no ano anterior, volta a [avultar no movimento ,
+ multiplicar: Esses traços vão se [multiplicar à medida que as mestiçagens arrastarem a sociedade mexicana para seus dédalos e turbilhões . ,
+ pluralizar: O lado positivo dessa parafernália é evidente: só não «frequenta» um mundo extremamente [pluralizado quem não o desejar ,
+ proliferar: Essa perspectiva, certamente, fará [proliferar nas academias uma profusão de discursos catastróficos, à maneira de Baudrillard . ,
+ prolificar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3869' = “fazer [algo] desenvolver ou aumentar rapidamente”
+{aumentar: Os autores fizeram um grande painel de experiências bem-sucedidas onde técnicas empresariais [aumentaram a eficiência das gestões públicas.,
+ avultar: Repararam como a abertura da Prefeitura I]avultou a quantidade de peças em cartaz na rede municipal do Rio?,
+ multiplicar: A situação [multiplica as dúvidas na cabeça do cliente.,
+ pluralizar: A globalização I]pluralizou as possibilidades e as pessoas entraram na angústia da escolha.,
+ proliferar: Era quase impossível ser aprovado no vestibular ao sair do ensino médio, o que I]proliferou a criação dos cursinhos.}
+Chave: PROLIFERAR <verb.change>
+ILI: 00239525
+
+Sense 2
+{00239525} <verb.change> proliferate1 -- (cause to grow or increase rapidly; "We must not proliferate nuclear arms")
+       => {00239103} <verb.change> multiply, manifold1 -- (combine or increase by multiplication; "He managed to multiply his profits")
+           => {00147655} <verb.change> increase2 -- (make bigger or more; "The boss finally increased her salary"; "The university increased the number of students it admitted")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

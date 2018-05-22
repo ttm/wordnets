@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA1977
+
+DADO O SYNSET:
+
+S='Glosa1977'
+    	{arranhar: No acidente, quebrou a perna direita, fraturou os dedos da mão esquerda, I]arranhou o rosto. ,
+      	 escoriar1: Correram por um caminho acidentado atras do Morag, suas roupas se prendiam nos espinhos e galhos secos I]escoriando-lhe os braços e rasgando as vestes e a capa.,
+      	 esfolar: Não satisfeito com os ferimentos pelas pedras que lhe atiram, usa-as ainda para [esfolar o próprio corpo.,
+      	 esfrolar: Na queda, H]esfrolou os braços.,
+      	 raspar: Caiu, I]raspou o joelho e voltou sorrindo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1977' = “machucar, cortar ou ferir a pele ou a superfície [de]”
+    	{arranhar: Com uma agulha especial, o artista [arranha a resina, deixando algumas partes do cobre expostas.,
+      	 escoriar1: Qualquer coisa um pouco mais fininha e de plástico (para não marcar a carcaça) serve - no primeiro tutorial que eu vi, o cara usou uma chave de fenda ou algo parecido, de metal, e I]escoriou a carcaça toda.,
+      	 esfolar: Não satisfeito com os ferimentos pelas pedras que lhe atiram, usa-as ainda para [esfolar o próprio corpo.,
+      	 raspar: Albarossi Neto morreu e Castro foi ferido por um tiro que [raspou seu pescoço.,}
+Chave: ARRANHAR <verb.contact>
+ILI: 01270427
+
+Sense 2
+{01270427} <verb.contact> skin2, scrape1 -- (bruise, cut, or injure the skin or the surface of; "The boy skinned his knee when he fell")
+       => {00067690} <verb.body> injure, wound -- (cause injuries or bodily harm to)
+           => {00062508} <verb.body> hurt1 -- (give trouble or pain to; "This exercise will hurt your back")
+               => {00062736} <verb.body> indispose -- (cause to feel unwell; "She was indisposed")
+                   => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

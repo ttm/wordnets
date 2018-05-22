@@ -1,0 +1,64 @@
+ANÁLISE DA GLOSA4064
+
+DADO O SYNSET:
+
+S='Glosa4064'
+{alanzoar: Jamais transmite dados concretos, só H]alanzoa.,
+cacarejar: A Velha I]cacarejou e disse para não fazer nada.,
+caquerejar: x,
+carcarejar: x,
+charlar: Todas as noites I]charlava com uma garota diferente.,
+chilrar: x,
+chilrear: Ouvia-se a criançada H]chilrear no recreio.,
+galrar: Ao abrirem a porta do pátio passavam na rua dois homens I]galrando.,
+garalhar: x,
+garrir: x,
+garrular: Caminhava adiante, I]garrulando sem cessar e voltando-se a cada instante para chamar a atenção dos dois moços a propósito de suas observações.,
+gralhar: Antes do filme começar, o bando I]gralhava, urrava e dava murros no ar.,
+gralhear: x,
+grazinar: Um bando I]grazinava alto, risonho.,
+grulhar: x,
+linguajar: E por vivermos imersos em linguagem e gostarmos de linguagem aqui estamos nós, uma hora, duas horas I]linguajando.,
+linguarejar: x,
+matraquear: Um grupinho de japonesinhas I]matraqueava alto.,
+palavrear: Eram apenas oito horas e já muita gente comia e I]palavreava na casa de pasto ao lado da venda.,
+palrar: Passava a tarde H]palrando com as vizinhas.,
+palrear: x,
+papagaiar: Eu queria que ele falasse um parágrafo ou dois, mas apesar disso ele I]papagaiava por quatro ou cinco páginas.,
+papaguear: Um sujeito um tanto histérico I]papagueava de forma insuportável.,
+papear: Tomava um sorvete enquanto I]papeava com o dono do carrinho.,
+parlar: x,
+parolar: Gosta de H]parolar com os vizinhos.,
+parolear: x,
+prosear: João I]proseava com Zulmira na janela da casa de Miranda.,
+tagarelar: I]Tagarelava sem parar a respeito de política, futebol, telenovela, e tudo mais.,
+tarelar: x,
+tartarear: x,
+treler: Juventina H]trelava sem cansaço horas a fio.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4064A' = “falar (sobre assuntos não importantes) rapidamente e incessantemente”
+{cacarejar: A Velha I]cacarejou e disse para não fazer nada.,
+galrar: Ao abrirem a porta do pátio passavam na rua dois homens I]galrando.,
+garrular: Caminhava adiante, I]garrulando sem cessar e voltando-se a cada instante para chamar a atenção dos dois moços a propósito de suas observações.,
+gralhar: Antes do filme começar, o bando I]gralhava, urrava e dava murros no ar.,
+grazinar: Um bando I]grazinava alto, risonho.,
+linguajar: E por vivermos imersos em linguagem e gostarmos de linguagem aqui estamos nós, uma hora, duas horas I]linguajando.,
+matraquear: Um grupinho de japonesinhas I]matraqueava alto.,
+palavrear: Eram apenas oito horas e já muita gente comia e I]palavreava na casa de pasto ao lado da venda.,
+palrar: Não queremos empregados que mais M]palrem do que trabalhem..,
+papagaiar: Eu queria que ele falasse um parágrafo ou dois, mas apesar disso ele I]papagaiava por quatro ou cinco páginas.,
+papaguear: Um sujeito um tanto histérico I]papagueava de forma insuportável.,
+tagarelar: I]Tagarelava sem parar a respeito de política, futebol, telenovela, e tudo mais.,
+treler: Juventina H]trelava sem cansaço horas a fio.,}
+Chave: TAGARELAR <verb.communication>
+ILI: 01003342
+
+Sense 4
+{01003342} <verb.communication> chatter, piffle, palaver2, prate, tittle-tattle, twaddle, clack, maunder1, prattle, blab2, gibber, tattle, blabber, gabble -- (speak (about unimportant matters) rapidly and incessantly)
+       => {00910961} <verb.communication> talk, speak, utter, mouth, verbalize, verbalise -- (express in speech; "She talks a lot of nonsense"; "This depressed patient does not verbalize")
+           => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+               => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")
+

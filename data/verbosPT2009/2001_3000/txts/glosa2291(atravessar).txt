@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA2291
+
+DADO O SYNSET:
+
+S='Glosa2291'
+	    {atravessar: Quando a onda [atravessa a corda, esta não se modifica .,
+	      entrar: I]Entrar pela caatinga exige destreza,
+	      passar: Segundo o promotor, se a obra continuar sem que seja reforçada a galeria do Córrego do Sapateiro, que atualmente [passa sobre o túnel, ela poderá ceder novamente, colocando em risco a vida de pessoas . ,
+	      transpor: Ainda hoje os moradores locais precisam utilizar balsas para I]transpor o rio.,
+	      travessar: José Rondini foi o sexto brasileiro a I]travessar o Canal da Mancha.,
+	      varar: A quinta, a admirável estrada de Oroya, dominou parte da serrania, mas ficou bem longe do seu objetivo essencial no transmontar as últimas cordas de serras, I]varar pelas planícies do Sacramento e alcançar o Purus. ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2291' = “viajar através de, atravessar ou percorrer”
+	    {atravessar: Os nervos dos motoristas que são obrigados a atravessar a Ponte Rio-Niterói começaram a ser testados ontem.,
+	      entrar: I]Entrar pela caatinga exige destreza,
+	      passar: Se as obras não existissem, poderíamos [passar pelo gramado tranquilamente. ,
+	      transpor: Os moradores locais precisam utilizar balsas para I]transpor o rio.,
+	      travessar: José Rondini foi o sexto brasileiro a I]travessar o Canal da Mancha.,
+	      varar: Pelé podia ir lá na sua intermediária, roubar a bola e [varar o campo inteiro.,}
+
+Chave: ATRAVESSAR <verb.motion>
+ILI: 01856347
+
+Sense 1
+{01856347} <verb.motion> traverse, track1, cover, cross, pass over1, get over, get across, cut through, cut across -- (travel across or pass over; "The caravan covered almost 100 miles each day")
+       => {01991747} <verb.motion> pass, go through, go across -- (go across or through; "We passed the point where the police car had parked"; "A terrible thought went through his mind")
+           => {01782203} <verb.motion> travel, go, move3, locomote -- (change location; move, travel, or proceed; "How fast does your new car go?"; "We travelled from Rome to Naples by bus"; "The policemen went from door to door looking for the suspect"; "The soldiers moved towards the city in an attempt to take it before night fell")

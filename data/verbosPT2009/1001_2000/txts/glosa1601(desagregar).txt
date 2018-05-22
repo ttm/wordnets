@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA1601
+
+DADO O SYNSET:
+
+S='Glosa1601'
+{desadunar: x,
+ desagregar: O objetivo dessa estratégia seria I]desagregar as lideranças a tal ponto que elas reconsiderassem a ida à guerra. ,
+ desgregar: Desde março de 2000,  a Embratel começou a discutir publicamente a necessidade de obrigar as operadoras locais a I]desgregar suas redes.,
+ disgregar: x,
+ separar: Peres prometeu [separar as populações judia e palestina com um intenso sistema de segurança e postos de controle.,}
+	  
+A='Glosa961'
+{adunar, agregar, ajuntar, coadunar, conglobar, conglomerar, congregar, juntar, reunir}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1601' = “separar em partes ou porções”
+{desagregar: O fechamento da rádio pela ditadura militar I]desagregou o grupo.,
+ desgregar: Desde março de 2000,  a Embratel começou a discutir publicamente a necessidade de obrigar as operadoras locais a I]desgregar suas redes.,
+ separar: Quando será extinto de fato o regime que [separou a maioria negra da minoria branca?,}
+	  
+A='Glosa961'
+{adunar, agregar, ajuntar, coadunar, conglobar, conglomerar, congregar, juntar, reunir}
+Chave: DESAGREGAR <verb.social>
+ILI: 02393614
+
+Sense 2
+{02393614} <verb.social> divide, split3, split up2, separate1, dissever, carve up -- (separate into parts or portions; "divide the cake into three equal parts"; "The British carved up the Ottoman Empire after World War I")
+       => {00135037} <verb.change> change integrity -- (change in physical make-up)
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

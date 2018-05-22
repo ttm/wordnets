@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0607
+
+DADO O SYNSET:
+
+S='Glosa607'
+{instar: I]Insta a todos os Estados que ajam estritamente de acordo com os dispositivos desta resolução, independentemente da existência de direitos conferidos. ,
+urgir: Diante das obras disponíveis em português, [urge editá-lo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa607' = “pressionar por algo necessário”
+{urgir: ele I]urge dentro de nós de muitas maneiras, nas necessidades que temos, como algo que brota do mais íntimo do nosso coração,.,}
+Chave: URGIR <verb.communication>
+ILI: 00845826
+
+Sense 2
+{00845826} <verb.communication> recommend1, urge3, advocate -- (push for something; "The travel agent recommended strongly that we not travel on Thanksgiving Day")
+       => {00846061} <verb.communication> propose, suggest, advise2 -- (make a proposal, declare a plan for something)
+           => {00977478} <verb.communication> declare -- (state emphatically and authoritatively; "He declared that he needed more money to carry out the task he was charged with")
+               => {00976600} <verb.communication> state, say, tell4 -- (express in words; "He said that he wanted to marry her"; "tell me what is bothering you"; "state your opinion"; "state your name")
+                   => {00909455} <verb.communication> express, verbalize3, verbalise3, utter1, give tongue to -- (articulate; either verbally or with a cry, shout, or noise; "She expressed her anger"; "He uttered a curse")

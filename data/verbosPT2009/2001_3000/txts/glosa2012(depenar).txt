@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA2012
+
+DADO O SYNSET:
+	
+S='Glosa2012'
+    	{depenar: A ajudante de cozinha, que estava sentada, tendo à frente uma galinha para I]depenar, caiu no sono. ,
+      	 deplumar: x,
+      	 desemplumar: H]Desmeplumar uma ave.,
+      	 despenar1: I]Despenar a pomba.,
+      	 desplumar: x,
+      	 espenicar: Matou e H]espenicou o frango para o jantar.,}
+  
+A='Glosa3868'
+    	{emplumar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2012' = “tirar as penas [de]”
+    	{depenar: Apareceu, então, um rapaz que havia caçado uma perdiz; sua mãe I]depenou-a ao fogo, cozinhou-a, deitou-a num pilão, reduziu-a a pó.,
+      	 despenar1: Aleix, na sua comemoração do terceiro gol, fez gestos simulando estar I]despenando uma galinha para fazer uma canja, o que provocou indignação na torcida adversária.,
+      	 despenicar: Eu daria tudo para ver o Coyote I]despenicando esse passarinho ridículo pelo menos uma vez.}
+  
+A='Glosa3868'
+    	{emplumar}
+Chave: DEPENAR <verb.contact>
+ILI: 01344072
+
+Sense 5
+{01344072} <verb.contact> pluck3, pull5, tear6, deplume, deplumate, displume -- (strip of feathers; "pull a chicken"; "pluck the capon")
+       => {01225426} <verb.contact> strip -- (remove the surface from; "strip wood")
+           => {00166870} <verb.change> remove, take, take away1, withdraw1 -- (remove something concrete, as by lifting, pushing, taking off, etc. or remove something abstract; "remove a threat"; "remove a wrapper"; "Remove the dirty dishes from the table"; "take the gun from your pocket"; "This machine withdraws heat from the environment")

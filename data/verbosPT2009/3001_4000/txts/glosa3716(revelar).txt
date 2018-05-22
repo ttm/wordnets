@@ -1,0 +1,61 @@
+ANÁLISE DA GLOSA3716
+
+DADO O SYNSET:
+
+S='Glosa3716' = “tornar claro e visível”
+{contar: Aos poucos, passei a ter vergonha de [contar em público que, na juventude, dando meus primeiros passos no violão, cheguei várias vezes a virar a antena da TV para fazê-la de pedestal de microfone e, assim, poder imitar Taiguara, escondido no quarto, altas da madrugada.,
+	 delatar: Uma garota presencia o assassinato de seu melhor amigo, mas pressões políticas a obrigam não [delatar o crime.,
+	 descerrar: A ciência do bem e do mal revelou-se atraente aos olhos de Lúcifer, parecendo I]descerrar um sentido de vida superior àquele oferecido pelo Criador, cujo reino possibilitava unicamente o conhecimento experimental do bem.,
+	 descobrir: Era a minha chance de [descobrir a técnica dos repórteres da colorida publicação.,
+	 descortinar: Foi competente em [descortinar propostas do partido que tem o candidato mais bem colocado nas pesquisas eleitorais.,
+	 desembuçar: x,
+	 desencerrar: x,
+	 desencobrir: Deus é o único que pode I]desencobrir o mistério das coisas, ou seja, o mistério do Ser, ou seja, o mistério da vida. ,
+	 desenterrar: O jovem conseguiu A]desenterrar toda a história da família.,
+	 dessoterrar: x,
+	 desvelar2: O ato criativo deverá se tornar algo capaz de [desvelar as partes mais profundas do ser, em busca daquilo que a sociedade ainda não havia artificialmente deformado.,
+	 desvendar: Há milhares de anos os cientistas tentam [desvendar os segredos do cosmo para responder a algumas questões filosóficas básicas: como tudo começou?,
+	 evidenciar: Chegando ao segundo turno com Erundina, Serra deverá ter o segundo voto de todos os candidatos derrotados no primeiro, o que [evidencia suas reais chances de vitória.,
+ expirar: A mulher deve A]expirar ternura.,
+	 expor: O primeiro a [expor suas opiniões foi Domingos Bernardo .,
+	 franquear: Algumas empresas dedicam-se mais à propaganda oficialesca que ao dever maior de [franquear ao público toda e qualquer informação a seu respeito.,
+	 mostrar: Depois de Porto Alegre, Curitiba e São Paulo, os russos vão [mostrar ao Rio de Janeiro a maior prova de que o balé clássico, ao contrário do que dizem alguns críticos, não morreu.,
+	 palrar: Os olhos M]palram os segredos dalma.,
+	 palrear: x,
+	 passar: Não M]passemos isso aos vizinhos.,
+	 patentear: Eça de Queirós é um dos artistas em cuja obra mais claramente se A]patenteia a influência do seu meio.,
+	 patentizar: x,
+	 respirar: Suas maneiras M]respiram primorosa educação.,
+	 revelar: O que eu prometi e vou cumprir é fazer uma doação para a associação de moradores, disse Stroppiana, sem, entretanto, [revelar a quantia .}
+	
+	A='Glosa3665'
+		{abafar, acafelar, acobertar, amofumbar, contrafazer, disfarçar, dissimular, emascarar, embuçar, empanar, encobertar, encobrir, mascarar, ocultar, paliar, rebuçar, reprimir, sufocar, velar2}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3716' = “tornar claro e visível”
+{descerrar: A ciência do bem e do mal revelou-se atraente aos olhos de Lúcifer, parecendo I]descerrar um sentido de vida superior àquele oferecido pelo Criador, cujo reino possibilitava unicamente o conhecimento experimental do bem.,
+	 descobrir: Era a minha chance de [descobrir a técnica dos repórteres da colorida publicação.,
+	 descortinar: Foi competente em [descortinar propostas do partido que tem o candidato mais bem colocado nas pesquisas eleitorais.,
+	 desencobrir: Deus é o único que pode I]desencobrir o mistério das coisas, ou seja, o mistério do Ser, ou seja, o mistério da vida. ,
+	 desvelar2: O ato criativo deverá se tornar algo capaz de [desvelar as partes mais profundas do ser, em busca daquilo que a sociedade ainda não havia artificialmente deformado.,
+	 desvendar: Há milhares de anos os cientistas tentam [desvendar os segredos do cosmo para responder a algumas questões filosóficas básicas: como tudo começou?,
+	 expor: O primeiro a [expor suas opiniões foi Domingos Bernardo .,
+	 franquear: Algumas empresas dedicam-se mais à propaganda oficialesca que ao dever maior de [franquear ao público toda e qualquer informação a seu respeito.,
+	 mostrar: Depois de Porto Alegre, Curitiba e São Paulo, os russos vão [mostrar ao Rio de Janeiro a maior prova de que o balé clássico, ao contrário do que dizem alguns críticos, não morreu.,
+	 palrar: Os olhos M]palram os segredos dalma.,
+	 passar: Não M]passemos isso aos vizinhos.,
+	 respirar: Suas maneiras M]respiram primorosa educação.,
+	 revelar: O que eu prometi e vou cumprir é fazer uma doação para a associação de moradores, disse Stroppiana, sem, entretanto, [revelar a quantia .}
+	
+	A='Glosa3665'
+		{abafar, acafelar, acobertar, amofumbar, contrafazer, disfarçar, dissimular, emascarar, embuçar, empanar, encobertar, encobrir, mascarar, ocultar, paliar, rebuçar, reprimir, sufocar, velar2}
+Chave: REVELAR <verb.perception>
+ILI: 01467644
+
+Sense 3
+{01467644} <verb.perception> reveal1, display1, show4 -- (make clear and visible; "The article revealed the policies of the government")
+       => {00503459} <verb.communication> communicate1, pass on, pass1, put across -- (let know; pass information on (to someone); "Please communicate this message to all employees")
+           => {01527059} <verb.possession> convey10, transmit10, communicate10 -- (transfer or deliver to another, as of information; "convey the news to everyone")
+               => {01527254} <verb.possession> transfer1 -- (move from one place to another, as of information; "transfer the data"; "transmit the news")
+                   => {01263706} <verb.motion> move1, displace2 -- (cause to move; "Move those boxes into the corner, please")

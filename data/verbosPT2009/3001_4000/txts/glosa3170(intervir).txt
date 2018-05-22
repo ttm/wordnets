@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA3170
+
+DADO O SYNSET:
+
+S='Glosa3170'
+	    {
+	      encaixar: DEVIANT,
+	      imiscuir-se: Os Estados Unidos não devem [imiscuir-se em assuntos internos nossos. # Como o senhor ousa [imiscuir-se na conversa alheia?,
+	      ingerir-se: Sam Dash critica o promotor independente por ultrapassar suas funções e I]ingerir-se em outro poder.,
+	      intervir: Os amigos de Sandro dizem ainda que os seguranças só decidiram [intervir no espancamento depois que um outro grupo de rapazes enfrentou a gangue que linchava o publicitário. ,
+	      intrometer-se: Dona Adelaide, calada, seguia com atenção o crochet que estava fazendo; Ricardo ouvia, com os olhos arregalados; e Olga [intrometeu-se na conversa. ,
+	      meter-se: I]Meter-se em assuntos de casa alheia, quando não damos conta nem das mazelas das nossas famílias brasileiras, é risível. # E por que, norte-americanos principalmente, e outros gringos têm de I]meter-se em assuntos que não lhes dizem respeito?,
+	      misturar-se: Mais solitário do que Tu, quero minhas mãos puras, ao contrário das Tuas que sujaram-se para sempre ao modelar a terra e ao I]misturar-se nos assuntos do mundo.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3170' = “intrometer-se em assuntos ou negócios alheios, interferir desnecessariamente”
+	     {imiscuir-se: O Tribunal Superior Eleitoral I]imiscuiu-se em atribuições que não são dele. # Ardanos I]imiscuiu-se nos assuntos dos Romanos e quase nos fez cair em desgraça.,
+	      ingerir-se: Como propagandista da fé, pressionou Estados, condicionou a política de numerosos países, I]ingeriu-se nos assuntos relativos ao aborto, à eutanásia e ao divórcio.,
+	      intervir: A polícia I]interveio para separar os dois grupos, que se atracaram, e prendeu Alexeyev. ,
+	      intrometer-se: Palocci, por vezes, I]intrometeu-se na seara de Dirceu na articulação política com o Congresso, em votações de matérias de interesse da economia. ,
+	      meter-se: Entrou em uma empresa, se I]meteu em assuntos dos quais nem sabia e conseguiu convencer os donos a fazerem as mudanças absurdas. # E por que, norte-americanos principalmente, e outros gringos têm de I]meter-se em assuntos que não lhes dizem respeito?.,}
+Chave: INTERVIR <verb.social>
+ILI: 02463974
+
+Sense 1
+{02463974} <verb.social> meddle, tamper -- (intrude in other people's affairs or business; interfere unwantedly; "Don't meddle in my affairs!")
+       => {02463620} <verb.social> intervene, step in, interfere, interpose -- (get involved, so as to alter or hinder an action, or through force or threat of force; "Why did the U.S. not intervene earlier in WW II?")
+           => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+               => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

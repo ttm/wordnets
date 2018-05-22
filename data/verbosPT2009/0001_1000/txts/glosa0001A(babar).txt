@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0001A
+
+DADO O SYNSET:
+
+S='Glosa1'
+{ababalhar: x,
+babar: Alguns doentes H]babam.,
+	escumar: O touro, bravio e enfurecido, M]escumava. ,
+	espumar: O cavalo está H]espumando.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1A' = “derramar saliva da boca”
+{babar: Anteontem, Bisol foi flagrado novamente num instante em que [babava paixão na camisa.,}
+Chave: BABAR <verb.body>
+ILI: 00100199
+
+Sense 1
+{00100199} <verb.body> drivel, drool, slabber, slaver, slobber, dribble -- (let saliva drivel from the mouth; "The baby drooled")
+       => {00100016} <verb.body> salivate -- (produce saliva; "We salivated when he described the great meal")
+           => {00009947} <verb.body> act involuntarily, act reflexively -- (act in an uncontrolled manner)
+               => {00010141} <verb.body> act, behave, do9 -- (behave in a certain manner; show a certain behavior; conduct or comport oneself; "You should act like an adult"; "Don't behave like a fool"; "What makes her do this way?"; "The dog acts ferocious, but he is really afraid of people")

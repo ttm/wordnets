@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA1234
+
+DADO O SYNSET:
+
+S='Glosa1234'
+{desconhecer: Até mesmo a Aeronáutica [desconhece o que chegou nos pacotes identificados apenas como «objetos pessoais. ,
+ ignorar: A maioria [ignora a que partidos pertencem quatro dos seis candidatos potenciais que figuraram na pesquisa.,}
+	  
+A='Glosa967'
+{conhecer, saber}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1234' = “estar/ser ignorante [sobre] ou desinformado [sobre]” 
+{desconhecer: Até mesmo a Aeronáutica [desconhece o que chegou nos pacotes identificados apenas como “objetos pessoais”.,
+ ignorar: Scorsese é o exemplo de um cineasta extremamente dotado que não sabe de jeito nenhum falar das mulheres, que [ignora o que é a mulher.,}
+A='Glosa967'
+{conhecer, saber}
+Chave: DESCONHECER <verb.cognition>
+ILI: 00576079
+
+Sense 5
+{00576079} <verb.cognition> ignore1 -- (be ignorant of or in the dark about)

@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA2057
+
+DADO O SYNSET:
+	
+S='Glosa2057'
+    	{acostar-se: Uma maneira muito simples de meditar e relaxar-se é sentar-se ou I]acostar-se confortavelmente e concentrar-se somente na respiração. ,
+      	 deitar-se: Chegou em sua casa, foi ao seu quarto nos fundos da casa, [deitou-se e dormiu.,
+      	 espichar-se: I]Espichou-se na cama, enquanto ela providenciava seu jantar. ,
+      	 estender-se: Depois I]estendeu-se na cama, e daí a pouco pôs-se a ressonar como se estivesse dormindo.,
+      	 estirar-se: I]Estirou-se na cama cobrindo-se com a manta.,
+      	 reclinar-se: Isa I]reclinou-se melhor em sua cama. ,
+      	 recostar-se: E, logo, nosso amigo I]recostou-se na cama imunda e adormeceu, ainda vestido com suas roupas amarrotadas.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2057' = “assumir uma posição reclinada”
+    	{acostar-se: Uma maneira muito simples de meditar e relaxar-se é sentar-se ou I]acostar-se confortavelmente e concentrar-se somente na respiração.,
+      	 deitar-se: Chegou em sua casa, foi ao seu quarto nos fundos da casa, [deitou-se e dormiu.,
+      	 espichar-se: I]Espichou-se na cama, enquanto ela providenciava seu jantar.,
+      	 estender-se: Depois I]estendeu-se na cama, e daí a pouco pôs-se a ressonar como se estivesse dormindo.,
+      	 estirar-se: I]Estirou-se na cama cobrindo-se com a manta.,
+      	 reclinar-se: Isa I]reclinou-se melhor em sua cama.,
+      	 recostar-se: Nosso amigo I]recostou-se na cama imunda e adormeceu, ainda vestido com suas roupas amarrotadas.}
+Chave: DEITAR-SE <verb.motion>
+ILI: 01927094
+
+Sense 1
+{01927094} <verb.motion> lie down, lie -- (assume a reclining position; "lie down on the bed until you feel better")
+       => {01925836} <verb.motion> change posture -- (undergo a change in bodily posture)
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA3494
+
+DADO O SYNSET:
+
+S='Glosa3494'
+	    {
+	      arregimentar: Zílio pensava em [arregimentar multidões na porta de fábricas/Ela foi encarregada de [arregimentar os 336 votos necessários ao afastamento do presidente, tarefa que lhe rendeu o título de musa do impeachment,
+	      mobilizar: Não conseguiu [mobilizar os trabalhadores/Era preciso [mobilizar as massas,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3494' = “fazer pronto para ação ou uso”
+	     {arregimentar: Em 2003, no município de Presidente Figueiredo, a 110 quilômetros de Manaus, ele I]arregimentou crianças para coletar aranhas em troca de alguns trocados/Ela foi encarregada de [arregimentar os 336 votos necessários ao afastamento do presidente, tarefa que lhe rendeu o título de musa do impeachment,
+	      mobilizar: O Exército [mobilizou 150 homens na operação /A empresa [mobilizou 250 operadores de trânsito durante o protesto,}
+Chave: MOBILIZAR <verb.change>
+ILI: 00261299
+
+Sense 1
+{00261299} <verb.change> mobilize2, mobilise2, marshal, summon -- (make ready for action or use; "marshal resources")
+       => {01340552} <verb.contact> gather, garner, collect, pull together -- (assemble or get together; "gather some stones"; "pull your thoughts together")

@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA0938
+
+DADO O SYNSET:
+
+S='Glosa938'
+{comprometer: A Williams decidiu botar o dedo na ferida da segurança de seus carros depois de ter sido acusada por McLaren e Benetton de [comprometer a segurança de seus pilotos.,
+compromissar: Com autorização expressa da Assembléia Geral, pode vender ou [compromissar a venda de bens móveis, ceder ou prometer, ceder direitos à aquisição dos mesmos, estipulando preços, prazos e condições.,
+empenhar: I]Empenhar sua palavra e desvalorizá-la é suicídio.,
+empenhorar: Vossa Alteza Real, aceitando o título de Defensor Perpétuo do Brasil, I]empenhorou mais, se é possível, a real promessa.,
+obrigar: A revolução é um ideal religioso, à medida que quer I]obrigar a Palavra a deixar de ser o que é para adquirir o poder de transformar o mundo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa938' = “contrair dívidas dando penhor; deixar como garantia”
+{comprometer: A Williams decidiu botar o dedo na ferida da segurança de seus carros depois de ter sido acusada por McLaren e Benetton de [comprometer a segurança de seus pilotos.,
+compromissar: Com autorização expressa da Assembléia Geral, pode vender ou [compromissar a venda de bens móveis, ceder ou prometer, ceder direitos à aquisição dos mesmos, estipulando preços, prazos e condições.,
+empenhar: I]Empenhar sua palavra e desvalorizá-la é suicídio.,
+empenhorar: Vossa Alteza Real, aceitando o título de Defensor Perpétuo do Brasil, I]empenhorou mais, se é possível, a real promessa.,
+obrigar: A revolução é um ideal religioso, à medida que quer I]obrigar a Palavra a deixar de ser o que é para adquirir o poder de transformar o mundo.}
+Chave: EMPENHORAR <verb.possession>
+ILI: 02279592
+
+Sense 1
+{02279592} <verb.possession> pawn, soak3, hock -- (leave as a guarantee in return for money; "pawn your grandfather's gold watch")
+       => {02280009} <verb.possession> consign, charge4 -- (give over to another for care or safekeeping; "consign your baggage")
+           => {02281584} <verb.possession> entrust, intrust, trust, confide, commit -- (confer a trust upon; "The messenger was entrusted with the general's secret"; "I commit my soul to God")
+               => {02166354} <verb.possession> pass, hand, reach, pass on1, turn over, give6 -- (place into the hands or custody of; "hand me the spoon, please"; "Turn the files over to me, please"; "He turned over the prisoner to his lawyers")
+                   => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children")

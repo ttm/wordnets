@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0861
+
+DADO O SYNSET:
+
+S='Glosa861'
+{acautelar: É que, então, as providências e circunstâncias não eram de molde a [acautelar o bem jurídico, em face do que o agente responde pelo crime.,
+cautelar: x,
+preservar: Peço desculpas por não poder ser filmado, mas é para [preservar o meu futuro.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa861' = “manter em segurança e proteger de dano, deteriorização, perda, ou destruição”
+{acautelar: É que, então, as providências e circunstâncias não eram de molde a [acautelar o bem jurídico, em face do que o agente responde pelo crime.,
+preservar: Peço desculpas por não poder ser filmado, mas é para [preservar o meu futuro.,}
+Chave: PRESERVAR <verb.possession>
+ILI: 02214155
+
+Sense 2
+{02214155} <verb.possession> conserve2, preserve, maintain, keep up -- (keep in safety and protect from harm, decay, loss, or destruction; "We preserve these archeological findings"; "The old lady could not keep up the building"; "children must be taught to conserve our national heritage"; "The museum curator conserved the ancient manuscripts")
+       => {02139484} <verb.possession> keep1 -- (look after; be the keeper of; have charge of; "He keeps the shop when I am gone")
+           => {02139918} <verb.possession> have, have got, hold -- (have or possess, either in a concrete or an abstract sense; "She has $1,000 in the bank"; "He has got two beautiful daughters"; "She holds a Master's degree from Harvard")

@@ -1,0 +1,44 @@
+ANÁLISE DA GLOSA3630a
+
+DADO O SYNSET:
+
+S='Glosa3630'
+	    {
+	      cobrear: Andava A]cobreando os quadris.,
+	      cobrejar: Os rios M]cobrejam nos prados.  ,
+	      colear: Por sobre as ramas da árvore I]coleia a lagarta.,
+	      colubrejar: Os rios de planície aluviônica são aqueles que colubrejam.,
+	      meandrar: O rio passa a I]meandrar sobre a planície calcária, em busca do oceano atlântico.,
+	      ondar: x,
+	      ondear: Eo pequeno cavaleiro tomou de uma espada para enfrentar a hidra que I]ondeava mil cabeças.,
+	      ondular: Está dividida ao meio por um rio que, antes de desaguar no oceano, I]ondula manso pela areia fina e dourada do lugar.,
+	      rastejar: Andam [rastejando pelos esgotos. ,
+	      serpear: O São Francisco ruge, brame e espadana a cauda gigantesca, a I]serpear entre rochedos, escavando, rasgando as entranhas das terras marginais. ,
+	      serpejar: Veio a chamar-se Ceará o rio onde crescia o coqueiro, e os campos onde [serpeja o rio. ,
+	      serpentar: Formava-se um redemoinho de fogo, que I]serpentava baixo sobre o solo sem mata.,
+	      serpentear: A vista do pequeno rio [serpenteando até a praia, do alto da serra, é um convite ao panteísmo. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3630a' = “mover lentamente; no caso de pessoas ou animais, com o corpo próximo ao chão”
+	     {cobrear: Os olhos da fera não se voltavam mais para ele, como ainda há pouco, mas seu corpo flexuoso I]cobreava.,
+	      colear: Por sobre as ramas da árvore I]coleia a lagarta.,
+	      ondear: E o pequeno cavaleiro tomou de uma espada para enfrentar a hidra que I]ondeava mil cabeças.,
+	      ondular: A criatura I]ondulava no ar como se estivesse nadando.,
+	      rastejar: Andam [rastejando pelos esgotos. ,
+	      serpear: Vam-se os dragões I]serpeando ao santuario. ,
+	      serpentar: Samuel I]serpentava confundindo-os, até que mudassem de rumo.,
+	      serpentear: Ela se contorcia, I]serpenteava, deixava escapar gemidos tão distantes que vez por outra ia à sua boca me entender com a língua que não falava.,}
+Chave: SERPENTEAR <verb.motion>
+ILI: 01831617
+
+Sense 1
+{01831617} <verb.motion> crawl, creep -- (move slowly; in the case of people or animals with the body near the ground; "The crocodile was crawling along the riverbed")
+       => {01782203} <verb.motion> travel, go, move3, locomote -- (change location; move, travel, or proceed; "How fast does your new car go?"; "We travelled from Rome to Naples by bus"; "The policemen went from door to door looking for the suspect"; "The soldiers moved towards the city in an attempt to take it before night fell")
+
+
+
+
+meandrar: O rio passa a I]meandrar sobre a planície calcária, em busca do oceano atlântico.,
+      serpejar: Veio a chamar-se Ceará o rio onde crescia o coqueiro, e os campos onde [serpeja o rio. ,

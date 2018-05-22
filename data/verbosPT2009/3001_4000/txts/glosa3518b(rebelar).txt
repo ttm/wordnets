@@ -1,0 +1,62 @@
+ANÁLISE DA GLOSA3518b
+
+DADO O SYNSET:
+
+S='Glosa3518'
+	    {
+	      abalar: Greves de metalúrgicos, mineiros e ferroviários I]abalam os Estados. ,
+	      agitar: Eis em escorço as paixões que deviam [agitar aquela sociedade política, depois da guerra que era a maior preocupação. / Há um clima de revolução política que logo começa a I]agitar o país.  ,
+	      alborotar: Começou então o povo a I]alborotar-se, pegando do desgraçado cético o arrastaram até o meio do rossio e ali o assassinaram. ,
+	      alevantar: x,
+	      alvoroçar: Eles vão I]alvoroçar a multidão contra você, para apedrejá-la e atravessar você com espadas.,
+	      alvorotar: Fez-se homem quando os acontecimentos do 7 de abril de 1831, I]alvorotando o país, provocaram em todo ele as lutas e conflitos.,
+	      amotinar: Jim descobre que Silver é na verdade um perigoso pirata que pretende I]amotinar a tripulação e usar o navio-espaçonave para encontrar um imenso tesouro. ,
+	      atumultar: x,
+	      atumultuar: ...I]atumultuaram multidões. ,
+	      conturbar: Vou pedir à polícia que retire pessoas que I]conturbam uma manifestacao.,
+	      convulsar: A crise financeira H]convulsou o país.,
+	      convulsionar: Revolução  convulsiona o sistema libertário ,
+	      faccionar: ...H]faccionar uma tropa.,
+	      facionar: x,
+	      indisciplinar: ... ele é quem criou a Rebelião dos Sargentos, ele é que I]indisciplinou as Forças Armadas.,
+	      insubordinar: Grupos armados cercavam os quartéis de Artilharia  e de Infantaria  tentando I[insubordinar os praças.,
+	      insurgir: ...adotaram o passo lento, aguardando o julgamento que lhes daria razões poderosas para [insurgir boa parte dos peemedebistas contra o candidato partidário. ,
+	      insurrecionar: x,
+	      levantar: Deixe-nos I]levantar em revolta, companheiros, e conosco o povo.,
+	      motinar: x,
+	      rebelar: frase_exemplo,
+	      rebelionar: x,
+	      revoltar: A medida [revoltou os moradores contra os funcionários.,
+	      revolucionar: As idéias liberais A]revolucionaram as colônias americanas.,
+	      sublevar: ... partiu com a esquadra do rei da Sardenha-Piemonte com o objetivo de sublevar Gênova.,
+	      subverter: Foi interrogado durante horas a fio, acusado de I]subverter o povo. / Foi ele homem de ação revolucionária, disposto a I]subverter pela força  ,
+	      tumultuar: A]Tumultuar os trabalhadores.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3518b' = “comprometer em um motim contra uma autoridade”
+	      {amotinar: Jim descobre que Silver é na verdade um perigoso pirata que pretende I]amotinar a tripulação e usar o navio-espaçonave para encontrar um imenso tesouro. ,
+	      faccionar: ...H]faccionar uma tropa.,
+	      indisciplinar: ... ele é quem criou a Rebelião dos Sargentos, ele é que I]indisciplinou as Forças Armadas.,
+	      insubordinar: Na semana passada, os grevistas ameaçaram se I]insubordinar contra seu diretor, o coronel Wilson Romão.,
+	      insurgir: ...adotaram o passo lento, aguardando o julgamento que lhes daria razões poderosas para [insurgir boa parte dos peemedebistas contra o candidato partidário. ,
+	      levantar: Deixe-nos I]levantar em revolta, companheiros, e conosco o povo.,
+	      rebelar: No comando do caminho novo, o alferes se estabelece na Fazenda da Rocinha da Negra e de lá I]rebelou a bandidagem que infestava os caminhos,
+	      revoltar: A medida [revoltou os moradores contra os funcionários.,
+	      revolucionar: As idéias liberais A]revolucionaram as colônias americanas.,
+	      sublevar: Dois anos depois, estava lotado na seção cartográfica do Bureau Árabe, no Cairo, pronto para I]sublevar as tribos beduínas.,
+	      subverter: Foi interrogado durante horas a fio, acusado de I]subverter o povo. / Foi ele homem de ação revolucionária, disposto a I]subverter pela força  ,}
+Chave: REBELAR <verb.social>
+ILI: 02507006
+
+Sense 1
+{02507006} <verb.social> mutiny -- (engage in a mutiny against an authority)
+       => {02506241} <verb.social> rebel, arise, rise, rise up -- (take part in a rebellion; renounce a former allegiance)
+           => {02446345} <verb.social> protest, resist2, dissent -- (express opposition through action or words; "dissent to the laws of the country")
+               => {00750427} <verb.communication> oppose, controvert, contradict1 -- (be resistant to; "The board opposed his motion")
+                   => {00788525} <verb.communication> refute, rebut -- (overthrow by argument, evidence, or proof; "The speaker refuted his opponent's arguments")
+                       => {00732724} <verb.communication> renounce, repudiate -- (cast off or disown; "She renounced her husband"; "The parents repudiated their son")
+                           => {00662708} <verb.cognition> reject -- (refuse to accept or acknowledge; "I reject the idea of starting a war"; "The journal rejected the student's paper")
+                               => {00647983} <verb.cognition> judge -- (form an opinion of or pass judgment on; "I cannot judge some works of modern art")
+                                   => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

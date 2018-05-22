@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0198
+
+DADO O SYNSET:
+
+S='Glosa198'
+{acarrear: Insurge-se a recorrente contra a sentença que a condenou solidariamente ao pagamento das despesas decorrentes de acidente de trabalho, que I]acarreou a perda de visão de um olho do recorrido.,
+acarretar: A interrupção do crescimento esconômico, na década de 80, [acarretou o aumento da desigualdade e da pobreza, e reforçou a concentração de renda. ,
+carrear: O controle eficaz da concepção trouxe à sociedade um avanço inconstestável, na medida em que facilitou a emancipação da mulher no mercado de trabalho; também I]carreou mudanças de mentalidade e costumes.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa198' = “ocasionar algo ou alguma coisa”
+{acarrear: Insurge-se a recorrente contra a sentença que a condenou solidariamente ao pagamento das despesas decorrentes de acidente de trabalho, que I]acarreou a perda de visão de um olho do recorrido.,
+acarretar: A interrupção do crescimento esconômico, na década de 80, [acarretou o aumento da desigualdade e da pobreza, e reforçou a concentração de renda. ,
+carrear: O controle eficaz da concepção trouxe à sociedade um avanço inconstestável, na medida em que facilitou a emancipação da mulher no mercado de trabalho; também I]carreou mudanças de mentalidade e costumes.,}
+Chave: ACARRETAR <verb.creation>
+ILI: 01599718
+
+Sense 1
+{01599718} <verb.creation> occasion -- (give occasion to)
+       => {01598809} <verb.creation> cause, do2, make8 -- (give rise to; cause to happen or occur, not always intentionally; "cause a commotion"; "make a stir"; "cause an accident")
+           => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

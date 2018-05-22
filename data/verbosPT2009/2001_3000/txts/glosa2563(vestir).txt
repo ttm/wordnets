@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA2563
+
+DADO O SYNSET:
+
+S='Glosa2563'
+	    {enroupar: O forro de suas arcas vai servir-nos para I]enroupar os homens que levarmos para as guerras da Irlanda.,
+	      entrajar: Magro e alto, I]entrajando sempre a sua bata de Mestre, Clementino recebe o visitante, colega de profissão ou não, sem nenhum protocolo, e de sua boca vai logo saindo, quase como um hobby, o rosário de problemas, uns velhos e outros novos, que prejudicam a sua Classe, secularmente esquecida e deslealmente desrespeitada pelos poderes públicos.,
+	      envergar: O bem encaminhado montador da Ford de são Paulo, não esquece de voltar para Poços de Caldas [envergar sua farda de veludo azul de Carlos Magno.,
+	      estar: Minha noiva I]estava de saia preta e blusa preta eu estava de calça bege, e camisa creme.,
+	      roupar: H]Roupar as crianças pequenas.,
+	      ter: Ela I]tinha uma saia tão bufante que não conseguia descer as escadarias do museu.,
+	      trajar: Em maio de 1995, Danielle foi barrada no Fórum por [trajar vestido incompatível com a altura dos joelhos.,
+	      trazer: Ela I]trazia uma faixa vermelha na cabeça, escondendo parte de sua cabeleira loira.,
+	      usar: Sei o que é lutar contra as injustiças e utilizo minha imagem pública para diminuir a apatia dos brasileiros», disse a atriz, que voltou a [usar luto depois do massacre dos sem-terra no Pará.,
+	      vestir: Ele [vestia apenas uma bermuda e estava sem documentos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2563' = “Estar vestido em.”
+	    {entrajar: Magro e alto, I]entrajando sempre a sua bata de Mestre, Clementino recebe o visitante.,
+	      envergar: A comadre aproveitou-se disso para dar conta dos últimos arranjos, e depois e[nvergou a mantilha e saiu para acudir a outras necessitadas.,
+	      estar: Minha noiva I]estava de saia preta e blusa preta eu estava de calça bege, e camisa creme.,
+	      ter: Ela I]tinha uma saia tão bufante que não conseguia descer as escadarias do museu.,
+	      trajar: Sua Alteza I]trajava um vestido de sêda cor de pérolas.,
+	      trazer: Ela I]trazia uma faixa vermelha na cabeça, escondendo parte de sua cabeleira loira.,
+	      usar: Tereza I]usava uma saia amarela com estampa laranja e azul de flores tropicais que lhe descia além da linha dos joelhos.,
+	      vestir: Ele [vestia apenas uma bermuda e estava sem documentos.,}
+
+Chave: VESTIR <verb.body>
+ILI: 00050599
+
+Sense 1
+{00050599} <verb.body> wear, have on -- (be dressed in; "She was wearing yellow that day")

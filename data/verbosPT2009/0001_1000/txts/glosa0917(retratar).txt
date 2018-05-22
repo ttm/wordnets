@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0917
+
+DADO O SYNSET:
+
+S='Glosa917'
+{descrever: A História dispõe de um método próprio de trabalho, com o qual [descreve os acontecimentos do passado, apontando suas condições de causa, efeito, época e local.,
+pintar: O comando tucano traçava ontem sua estratégia: fazer força para [pintar o episódio como um erro pessoal de Ricupero, que já está pagando o preço.,
+retratar1: Que melhor ambiente para [retratar deformações e distorções do que a Itália na passagem da Idade Média para o Renascimento.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa917' = “retratar em palavras”
+{descrever: A História dispõe de um método próprio de trabalho, com o qual [descreve os acontecimentos do passado, apontando suas condições de causa, efeito, época e local.,
+pintar: O comando tucano traçava ontem sua estratégia: fazer força para [pintar o episódio como um erro pessoal de Ricupero, que já está pagando o preço.,
+retratar1: Que melhor ambiente para [retratar deformações e distorções do que a Itália na passagem da Idade Média para o Renascimento.,}
+Chave: RETRATAR <verb.communication>
+ILI: 00956610
+
+Sense 1
+{00956610} <verb.communication> portray -- (portray in words; "The book portrays the actor as a selfish person")
+       => {00955766} <verb.communication> represent -- (serve as a means of expressing something; "The flower represents a young girl")
+           => {00909455} <verb.communication> express, verbalize3, verbalise3, utter1, give tongue to -- (articulate; either verbally or with a cry, shout, or noise; "She expressed her anger"; "He uttered a curse")

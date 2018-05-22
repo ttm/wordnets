@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA3954
+
+DADO O SYNSET:
+
+S='Glosa3954'
+    	{arremessar-se: Mas daí a pouco, voltou, e, desta vez, I]arremessou-se sobre Carlos.,
+      	 arremeter: O animal I]arremeteu contra outro vaqueiro.,
+      	 arrojar-se: O chefe tocantim [arrojou-se contra Jaguarê que travou-lhe dos pulsos, e outra vez os dois campeões ficaram imóveis .,
+      	 botar-se: I]Botou-se ao homem e, num abrir e fechar de olhos, sacou-lhe o primeiro dente.,
+      	 desembestar-se: DEVIANT,
+      	 investir: O presidente da Câmara, Luís Eduardo Magalhães, passeava pelos corredores do Congresso quando um grupo de parlamentares [investiu sobre ele, cobrando aumento de salário .,
+      	 lançar-se: M]Lançou-se sobre o dinheiro. ,
+      	 precipitar-se: Foi Domingas que a descobriu, e, num delito, [precipitou-se contra o cadáver, a beijar-lhe as mãos e as faces .,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3954' = “fazer um movimento de investida”
+    	{arremessar-se: Raimundo saiu de carreira para reunir-se a Manuel, porém a idiota alcançou-o, já no cemitério, e [arremessou-se de novo contra ele.,
+      	 arremeter: O animal I]arremeteu contra outro vaqueiro.,
+      	 arrojar-se: O chefe tocantim [arrojou-se contra Jaguarê que travou-lhe dos pulsos, e outra vez os dois campeões ficaram imóveis.,
+      	 botar-se: I]Botou-se ao homem e, num abrir e fechar de olhos, sacou-lhe o primeiro dente.,
+      	 investir: O presidente da Câmara, Luís Eduardo Magalhães, passeava pelos corredores do Congresso quando um grupo de parlamentares [investiu sobre ele, cobrando aumento de salário.,
+      	 lançar-se: Paquequer [lança-se rápido sobre o seu leito.,
+      	 precipitar-se: Foi Domingas que a descobriu, e, num delito, [precipitou-se contra o cadáver, a beijar-lhe as mãos e as faces.}
+Chave: ARREMESSAR-SE <verb.motion> 
+ILI: 02003784
+
+Sense 2
+{02003784} <verb.motion> lunge, hurl, hurtle, thrust1 -- (make a thrusting forward movement)
+       => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right")

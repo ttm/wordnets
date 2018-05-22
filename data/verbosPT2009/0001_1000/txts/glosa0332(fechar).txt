@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0332
+
+DADO O SYNSET:
+
+S='Glosa332'
+{cerrar: O que faço, em chegando ao fim, é [cerrar os olhos e evocar todas as cousas que não achei nele,/Descansando outra vez a cabeça no travesseiro, tornei a [cerrar os olhos, mas com a consciência de me achar completamente acordado e refletidamente determinado a fingir que dormia, ,
+encostar: I]Encostou a porta do quarto para que eu não pudesse acompanhar mais nada.,
+fechar: Durante a terceira novela que a emissora estreou no mesmo dia, o infeliz espectador aumentou o som, [fechou a janela, fez de tudo para tentar ouvir o que se passava no tal Colégio Brasil.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa332' = “mover de forma que uma abertura ou passagem é obstruída; tornar fechada”
+{cerrar: O que faço, em chegando ao fim, é [cerrar os olhos e evocar todas as cousas que não achei nele,/Descansando outra vez a cabeça no travesseiro, tornei a [cerrar os olhos, mas com a consciência de me achar completamente acordado e refletidamente determinado a fingir que dormia, ,
+encostar: Ela I]encostou a porta arrombada no portal vazio, permaneceu dentro de sua casa, dizendo que iria explicar como poderiam fugir da vila..,
+fechar: Durante a terceira novela que a emissora estreou no mesmo dia, o infeliz espectador aumentou o som, [fechou a janela, fez de tudo para tentar ouvir o que se passava no tal Colégio Brasil.,}
+Chave: FECHAR <verb.contact>
+ILI: 01305587
+
+Sense 3
+{01305587} <verb.contact> close, shut -- (move so that an opening or passage is obstructed; make shut; "Close the door"; "shut the window")

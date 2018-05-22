@@ -1,0 +1,41 @@
+ANÁLISE DA GLOSA3412
+
+DADO O SYNSET:
+
+S='Glosa3412'
+	    {
+	      banzar: Deixou-se ficar ali, o olhar perdido, H]banzando.,
+	      cismar: E quem o visse com ar tristonho e pensativo julgaria talvez que ele [cismava na sua posição e no caminho que havia tomar. ,
+	      corvejar: Inquieto, H]corvejava uma saída para o problema.,
+	      imaginar: E, [imaginando o colóquio, antevia o espanto do homem, depois o agastamento, depois os impropérios, as palavras duras que ele havia de dizer à mulher, miserável, indigna, vil. ,
+	      magicar: H]Magicava no que poderia ter feito.,
+	      matinar: Minha cabeça já I]matinava que iria tirar o atraso e compensar pela minha covardia da última fez no hotel em Recife.,
+	      matutar: Durante o desenrolar do jogo São Paulo e Inter, fiquei [matutando sobre o injusto regulamento que rege esse certame. ,
+	      parafusar: E A]parafusava sem lhe deparar nada que apaziguasse um tanto as iras exasperadas.,
+	      remoer: Aí gosto de me recolher, não falar com ninguém, ficar ali uma hora, duas ou três, ou um dia [remoendo, fazendo avaliações, por que foi, por que não foi. ,
+	      remorder: Ia refletindo, I]remordendo meias palavras, nessa reflexão difícil de um espírito obscuro e selvagem.,
+	      roer: H]Roer na questão.,
+	      ruminar: A força despendida por este era grande, porque o asno [ruminava se devia ou não sair do lugar; mas, não obstante esta superioridade, apanhava que era o diabo. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3412' = “refletir profundamente sobre um assunto”
+	     {banzar: Outras vezes I]banzava a espiar para as matas fora e quem o visse diria que ali estava a sua cabeça a remoer grandes coisas.,
+	      cismar: A moça beijando a mão do pai, se recolhera à alcova; e depois de rezar, I]cismava em sua vida, lembrando-se com saudade dos sonhos de ventura que fizera. ,
+	      corvejar: Inquieto, H]corvejava uma saída para o problema.,
+	      imaginar: Ali apenas I]imaginava um mundo ao seu redor. ,
+	      magicar: I]Magicou uma forma de levar a sua irmã aos ombros e num movimento rápido colocou-a sobre eles e tentando não tropeçar nos degraus.,
+	      matinar: O homem I]matinava em monólogo interior a definhar-se pouco e pouco em fluir.,
+	      matutar: E enquanto o tomava, I]matutava sobre o assunto. ,
+	      parafusar: Bonenfant I]parafusava na memória, repetindo a meia voz: "Uma recordação de Natal? . . . Uma recordação de Natal?..,
+	      remoer: I]Remoía fatos e pensamentos, vasculhava lembranças que podiam remontar à sua infância ou ao dia anterior. ,
+	      remorder: Enquanto ele farreava, sua mãe I]remordia uma angústia.,
+	      roer: H]Roer na questão.,
+	      ruminar: A força despendida por este era grande, porque o asno [ruminava se devia ou não sair do lugar; mas, não obstante esta superioridade, apanhava que era o diabo. ,}
+Chave: MATUTAR <verb.cognition>
+ILI: 00610468
+
+Sense 1
+{00610468} <verb.cognition> chew over, think over, meditate, ponder, excogitate, contemplate1, muse, reflect, mull, mull over, ruminate, speculate -- (reflect deeply on a subject; "I mulled over the events of the afternoon"; "philosophers have speculated on the question of God for thousands of years"; "The scientist must stop to observe and start to excogitate")
+       => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

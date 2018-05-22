@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA2970
+
+DADO O SYNSET:
+
+S='Glosa2970'
+	    {defumar: Naquele tempo, a sauna não só era local para o banho como também para [defumar carnes, secar roupas e, como era o recinto mais limpo da propriedade, fazer partos. ,
+	      fumar: H]Fumar o queijo.,
+	      fumigar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2970' = “preservar com fumaça”
+	    {defumar: Grande e desengonçado fogão à lenha ocupava lugar de destaque: enquanto preparava o arroz-com-feijão e couve-manteiga, I]defumava a lingüiça e o presunto.,}
+Chave: DEFUMAR <verb.change>
+ILI: EQ_HAS_HYPERONYM - 00513734
+
+Sense 1
+{00513734} <verb.change> cure -- (prepare by drying, salting, or chemical processing in order to preserve; "cure meats"; "cure pickles")
+       => {00205023} <verb.change> preserve, keep10 -- (prevent (food) from rotting; "preserved meats"; "keep potatoes fresh")
+           => {01616879} <verb.creation> cook, fix, ready, make7, prepare1 -- (prepare for eating by applying heat; "Cook me dinner, please"; "can you make me an omelette?"; "fix breakfast for the guests, please")
+               => {01606076} <verb.creation> create from raw material, create from raw stuff -- (make from scratch)
+                   => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

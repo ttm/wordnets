@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA3624
+
+DADO O SYNSET:
+
+S='Glosa3624'
+	    {
+	      cuidar: Somente viva porque tem de [cuidar dos filhos menores, a matriarca é incapaz de esconder a angústia com o presente e com as mudanças que jamais compreende. / Sem medir sacrifícios, há famílias pobres, que se dedicam com amor e carinho a [cuidar de seus idosos e enfermos.  ,
+	      olhar: Deus I]olhe por nós e ouça nossas súplicas.,
+	      velar1: A noite, mãe caritativa, encarrega-se de [velar a todos. ,
+	      vigiar: A boa Mónica, ajoelhada aos pés dela, [vigiava-a com a docilidade de um cão. ,
+	      vigilar: Oferecemos à gestante cuidados e consulta de pré natal, com o objetivo de I]vigilar a evolução da gravidez. ,
+	      zelar: O direito dedica à criança uma atenção especial, cujo interesse e necessidade precisam ser salvaguardados por um adulto que por ela se responsabilize e [zele . ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3624' = “guardar ou proteger de perigo ou dano”
+	     {cuidar: Seu Roberto I]cuidava da casa como se cuida de um corpo amado. / Sem medir sacrifícios, há famílias pobres, que se dedicam com amor e carinho a [cuidar de seus idosos e enfermos.  ,
+	      olhar: Uma vigiava a outra, e ninguém I]olhava por elas.,
+	      velar1: A noite, mãe caritativa, encarrega-se de [velar a todos. ,
+	      vigiar: A boa Mónica, ajoelhada aos pés dela, [vigiava-a com a docilidade de um cão. ,
+	      vigilar: Oferecemos à gestante cuidados e consulta de pré-natal, com o objetivo de I]vigilar a evolução da gravidez. ,
+	      zelar: No momento, Eramon cuidava e I]zelava por dois jovens irmãos, vítimas também de Valadoriün. ,}
+Chave: CUIDAR <verb.competition>
+ILI: 01094220
+
+Sense 2
+{01094220} <verb.competition> guard, ward -- (watch over or shield from danger or harm; protect; "guard my possessions while I'm away")
+       => {01093094} <verb.competition> protect -- (shield from danger, injury, destruction, or damage; "Weatherbeater protects your roof from the rain")
+           => {01092732} <verb.competition> defend -- (be on the defensive; act against an attack)
+               => {02377053} <verb.social> prevent, keep1 -- (prevent from doing something or being in a certain state; "We must prevent the cancer from spreading"; "His snoring kept me from falling asleep"; "Keep the child from eating the marbles")

@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA3361
+
+DADO O SYNSET:
+
+S='Glosa3361'
+	    {
+	      agenciar: A dinâmica de superação da alienação das massas exige mais do que por às claras os processos de exploração do capitalismo, mas I]agenciar o desejo de construir uma nova sociedade, a utopia-concreta.,
+	      atender: A rede de água e esgotos, a coleta do lixo, os transportes urbanos e o mercado de trabalho, entre outros fatores, são deficientes para [atender às necessidades da população. ,
+	      cuidar: Nosso propósito é tirar a escola do prédio, insiste Luiz Guilherme Bacellar, 45 anos, encarregado para [cuidar das questões ligadas à escola. ,
+	      curar: Precisavam H]curar do combate à corrupção.,
+	      manivelar: x,
+	      ocupar-se: A polícia e o Judiciário devem [ocupar-se dos grandes delitos criminais, como o tráfico de drogas e todos os crimes hediondos.,
+	      tratar: O governo já concluiu o texto da medida provisória que dá ao Tesouro Nacional competência para [tratar do destino dos bancos estaduais. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3361' = “estar encarregado ou dedicar-se”
+	     {agenciar: Ele [agencia o trabalho dos alunos e cobra 30% de cada cachê.,
+	      atender: O Senac Rio I]atende às necessidades dos clientes, propondo soluções e oportunidades de parcerias. ,
+	      cuidar: O IVP [cuida da certificação, da defesa nacional e internacional das marcas e da promoção dos vinhos. ,
+	      curar: Precisavam H]curar do combate à corrupção.,
+	      ocupar-se: AMR I]ocupa-se, entre outras coisas, da emissão e controle das permissões para importação e exportação, bem como dos certificados de refinanciamento, pagamento de refinanciamento de exportação e estipulação das taxas de exportação.,
+	      tratar: Em primeiro lugar, ele [trata de uma série de questões filosóficas de longa data através de um programa sistemático de pesquisa experimental. ,}
+Chave: TRATAR <verb.social>
+ILI: 02474278
+
+Sense 2
+{02474278} <verb.social> attend12, take care11, look13, see14 -- (take charge of or deal with; "Could you see about lunch?"; "I must attend to this matter"; "She took care of this business")
+       => {02474993} <verb.social> care13, give care -- (provide care for; "The nurse was caring for the wounded")
+           => {02472355} <verb.social> help, assist2, aid -- (give help or assistance; be of service; "Everyone helped out during the earthquake"; "Can you help me carry this table?"; "She never helps around the house")
+               => {02480483} <verb.social> support, back up -- (give moral or psychological support, aid, or courage to; "She supported him during the illness"; "Her children always backed her up")

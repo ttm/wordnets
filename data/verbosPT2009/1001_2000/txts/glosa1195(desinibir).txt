@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA1195
+
+DADO O SYNSET:
+
+S='Glosa1195'
+{desbloquear: Desinibir e I]desbloquear profissionais que precisam falar em público.,
+ desembaraçar: O contato com novos colegas H]desembaraçou-o,
+ desinibir: Esse exercício tem como objetivo, I]desinibir os alunos, e também deixá-los à vontade para fazer uma cena,}
+	  
+A='Glosa788'
+{bloquear, embaraçar, inibir}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1195' = “tirar a inibição [de]”
+{desbloquear: O diferencial desta técnica está no delicado banho de óleo sobre a cabeça. Com a continuidade do tratamento, ela I]desbloqueia corpo e mente e passa a olhar o mundo com mais facilidade.,
+ desembaraçar: Percebendo-me as dificuldades no ensaio do tratamento, ele mesmo I]desembaraçou-me: — Chame-me por irmão. Somos companheiros de jornada.,
+ desinibir: Seu discurso tocou e I]desinibiu o plenário, fazendo aumentar os votos a seu favor.,}
+A='Glosa788'
+{bloquear, embaraçar, inibir}
+Chave: DESINIBIR <verb.communication>
+ILI: EQ_HAS_HYPERONYM – 00745832 – “encorajar”
+
+Sense 3
+{00745832} <verb.communication> encourage -- (spur on; "His financial success encouraged him to look for a wife")
+       => {00744964} <verb.communication> induce, stimulate1, cause, have, get, make -- (cause to do; cause to act in a specified manner; "The ads induced me to buy a VCR"; "My children finally got me to buy a computer"; "My wife made me buy a new sofa")

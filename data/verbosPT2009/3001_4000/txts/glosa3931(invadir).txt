@@ -1,0 +1,36 @@
+ANÁLISE DA GLOSA3931
+
+DADO O SYNSET:
+	
+S='Glosa3931'
+    	{acometer: Novo acesso de tosse [acometeu a comadre .,
+      	 apossar-se: Imediatamente se I]apossou um medo terrível na alma de Renato.,
+      	 apossear-se: x,
+      	 assaltar: M]Assaltou-a o remorso.,
+      	 assaltear: x,
+      	 dominar: Foi esta poderosa nação que [dominou o deserto .,
+      	 entrar: Uma prostituta carioca recebeu a visita inesperada de um policial, abriu a janela e, por ela, [entrou bruscamente na sua casa,
+      	 interprender: x,
+      	 invadir: Para piorar a situação no local, a água [invadiu a ciclovia, obrigando quem passava por ali a mudar de caminho .,
+      	 possuir: A ambição H]possuiu-o.,
+      	 tomar: Também ao final da Segunda Guerra Mundial, com a saída dos japoneses da Indochina, uma organização de caráter socialista [tomou a cidade de Hanói, onde proclamou a República Popular do Vietnã do Norte .,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3931' = “penetrar ou assaltar de maneira prejudicial e injuriosa”
+    	{acometer: Novo acesso de tosse [acometeu a comadre.,
+      	 apossar-se: Imediatamente se I]apossou um medo terrível na alma de Renato.,
+      	 assaltar: Esta é a pergunta que com certeza já I]assaltou a mente de cada um de nós, quando éramos alunos.,
+      	 dominar: Quem tem fibromialgia não pode se acomodar senão a doença I]domina o corpo.,
+      	 entrar: Uma narrativa de como a doença I]entrou no enfermo.,
+      	 invadir: Ela que se contorce para romper a membrana e deixar o conteúdo do vírus [invadir a célula.,
+      	 possuir: Uma grande vontade de continuar ali sentado, quieto para não ser notado, para não ser mais nada além da própria escuridão I]possuiu-lhe completamente os músculos.,
+      	 tomar: Vive, sem saber o furor que a [toma.}
+Chave: INVADIR <verb.contact>
+ILI: 01190250
+
+Sense 4
+{01190250} <verb.contact> invade -- (penetrate or assault, in a harmful or injurious way; "The cancer had invaded her lungs")
+       => {01189997} <verb.contact> interpenetrate, permeate2 -- (penetrate mutually or be interlocked; "The territories of two married people interpenetrate a lot")
+           => {01190419} <verb.contact> penetrate, perforate3 -- (pass into or through, often by overcoming resistance; "The bullet penetrated her chest")
+               => {01958650} <verb.motion> enter, come in2, get into, get in1, go into, go in, move into -- (to come or go into; "the boat entered an area of shallow marshes")

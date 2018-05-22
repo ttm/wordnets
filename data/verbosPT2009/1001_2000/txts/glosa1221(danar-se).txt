@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA1221
+
+DADO O SYNSET:
+
+S='Glosa1221'
+{danar-se: Sinhá Vitória ia I]danar-se, e com razão.,
+ desgraçar-se: Acho que vai haver muita gente a I]desgraçar-se com esta expansão.,
+ perder-se: Abismo horrível me tragou, o mal de mim se apoderou; I]perdi-me no pecado.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1221' = “corromper-se moralmente ou sexualmente ou por intemperança" 
+{danar-se: Sinhá Vitória ia I]danar-se, e com razão.,
+ desgraçar-se: A deusa Afrodite apiedou-se dele e deu vida à estátua, transformando-a numa mulher, com quem Pigmalião casou-se e I]desgraçou-se.,
+ perder-se: Abismo horrível me tragou, o mal de mim se apoderou; I]perdi-me no pecado.,}
+Chave: DANAR-SE <verb.social>
+ILI: EQ_HAS_HYPERONYM - 02502628
+
+Sense 1
+{02502628} <verb.social> corrupt, pervert, subvert3, demoralize, demoralise, debauch, debase, profane1, vitiate, deprave, misdirect -- (corrupt morally or by intemperance or sensuality; "debauch the young people with wine and women"; "Socrates was accused of corrupting young men"; "Do school counselors subvert young children?"; "corrupt the morals")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA3590
+
+DADO O SYNSET:
+
+S='Glosa3590'
+	{anuviar-se: O rosto de Caubi [anuviou-se.,
+	 enevoar-se: O sorriso desapareceu do rosto de Kinno, e seus olhos brilnates I]se enevoaram com uma profunda tristeza.,
+	 ensombrar-se: Não é sem uma profunda tristeza a I]ensombrar-me a alma que vos digo.,
+ ensombrecer-se: Eo seu rosto I]ensombreceu-se./ Campos nunca logrou espantar de sua casa o ar triste que I]a ensombrecia.,
+	 entristecer-se: Seu rosto I]se entristece.,
+	 nevoar-se: x,
+	 nublar-se: Suas mãos tremeram, seu semblante I]nublou-se de repente.,
+	 obscurecer-se: E aconteceu que naqueles dias meu espírito I]se obscureceu ante o desprezo de meu bem-querer.,
+	 sombrear-se: Aquilo perturbava, [me sombreava. ,
+	 sombrejar-se: x }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3590' = “tornar triste ou deprimido”
+	{anuviar-se: O rosto de Caubi [anuviou-se.,
+	 enevoar-se: O sorriso desapareceu do rosto de Kinno, e seus olhos brilnates I]se enevoaram com uma profunda tristeza.,
+	 ensombrar-se: Não é sem uma profunda tristeza a I]ensombrar-me a alma que vos digo.,
+ ensombrecer-se: O seu rosto I]ensombreceu-se.,
+	 entristecer-se: Seu rosto I]se entristece.,
+	 nublar-se: Suas mãos tremeram, seu semblante I]nublou-se de repente.,
+	 obscurecer-se: Aconteceu que naqueles dias meu espírito I]se obscureceu ante o desprezo de meu bem-querer.,
+	 sombrear-se: Aquilo perturbava, [me sombreava.}
+Chave: NUBLAR-SE <verb.emotion>
+ILI: 01718524
+
+Sense 4
+{01718524} <verb.emotion> cloud -- (make gloomy or depressed; "Their faces were clouded with sadness")
+       => {01716999} <verb.emotion> affect, impress1, move, strike -- (have an emotional or cognitive impact upon; "This child impressed me as unusually mature"; "This behavior struck me as odd")

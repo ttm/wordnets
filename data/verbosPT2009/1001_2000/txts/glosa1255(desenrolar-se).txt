@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA1255
+
+DADO O SYNSET:
+
+S='Glosa1255'
+{desdobar-se: x,
+ desenovelar-se: Ao I]desenovelar-se, uma proteína passa de um estado termodinâmico no qual ela adota uma única conformação.,
+ desenrolar-se: Lançamos a mochila com a corda principal no poço lá embaixo e esta se I]desenrolou perfeitamente.,
+ desnovelar-se: x,}
+	  
+A='Glosa1818'
+{enovelar-se, enrolar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1255' = “desenrolar-se ou desdobrar-se de um estado enrolado ou dobrado” 
+{desenovelar-se: Ao I]desenovelar-se, uma proteína passa de um estado termodinâmico no qual ela adota uma única conformação.,
+ desenrolar-se: Lançamos a mochila com a corda principal no poço lá embaixo e esta se I]desenrolou perfeitamente.,}
+A='Glosa1818'
+{enovelar-se, enrolar-se}
+Chave: DESENROLAR-SE <verb.change>
+ILI: 00423103
+
+Sense 2
+{00423103} <verb.change> unfurl, unroll -- (unroll, unfold, or spread out or be unrolled, unfolded, or spread out from a furled state; "unfurl a banner")
+       => {00345030} <verb.change> change surface -- (undergo or cause to undergo a change in the surface)
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

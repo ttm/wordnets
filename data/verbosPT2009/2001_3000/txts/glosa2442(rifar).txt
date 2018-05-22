@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA2442
+
+DADO O SYNSET:
+
+S='Glosa2442'
+	    {rifar: Além do tradicional «sacolão», para a arrecadação de dinheiro, os organizadores vão [rifar um Corsa.,
+	      sortear: Os organizadores vão [sortear um automóvel Citroen, uma ensiladeira e um telefone celular, entre os presentes.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2442' = “Vender pela loteria.”
+	    {rifar: Além do tradicional «sacolão», para a arrecadação de dinheiro, os organizadores vão [rifar um Corsa.,
+	      sortear: Os organizadores vão [sortear um automóvel Citroen, uma ensiladeira e um telefone celular, entre os presentes.,}
+
+Chave: RIFAR <verb.possession>
+ILI: 02138531
+
+Sense 1
+{02138531} <verb.possession> raffle, raffle off -- (dispose of in a lottery; "We raffled off a trip to the Bahamas")
+       => {02137285} <verb.possession> give1, gift, present -- (give as a present; make a gift of; "What will you give her for her birthday?") 

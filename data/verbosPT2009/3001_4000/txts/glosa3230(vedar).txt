@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA3230
+
+DADO O SYNSET:
+
+S='Glosa3230'
+	    {
+	      isolar: Depois de [isolar o resistor, pode ser com um pequeno saco de plástico, o blindamos de forma a não deixar nenhuma possibilidade de vazamento.,
+	      proteger: DEVIANT,
+	      vedar: Além da rampa e das chapas de ferro, a clínica [vedou ralos para evitar que o alagamento aconteça pelos canos. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3230' = “tornar calafetado, seguro contra vazamento”
+	     {isolar: Depois de [isolar o resistor, pode ser com um pequeno saco de plástico, o blindamos de forma a não deixar nenhuma possibilidade de vazamento.,
+	      vedar: Além da rampa e das chapas de ferro, a clínica [vedou ralos para evitar que o alagamento aconteça pelos canos. ,}
+Chave: VEDAR <verb.contact>
+ILI: 01314097
+
+Sense 2
+{01314097} <verb.contact> seal3, seal off -- (make tight; secure against leakage; "seal the windows")
+       => {01305587} <verb.contact> close, shut -- (move so that an opening or passage is obstructed; make shut; "Close the door"; "shut the window")

@@ -1,0 +1,38 @@
+ANÁLISE DA GLOSA3428
+
+DADO O SYNSET:
+
+S='Glosa3428'
+	{aleijar-se: ]aleija-me com esses modos,
+	 atristar-se: Com feijão farinha e peixe se paga a tropa e ]me atrista,
+	 contristar-se: É próprio dos que não tem esperança ]contristar-se com a morte dos entes queridos,
+	 encaramujar-se: ...este rosto encaramujou-se,
+	 engoiar-se: x,
+	 enoitecer: Seu espírito elástico e móbil sacudiu as sombras de pesar que [o enoiteciam, ,
+	 entristecer-se: O que realmente [os entristecia era não terem uma boa ceia/...era bem sem razão que se entristecia,
+	 magoar-se: Essa palavra [magoou-me ainda mais,
+	 melancolizar-se: Santos Dumont inventou o avião acreditando que iria melhorar a vida humana, mas o homem usou-o nas guerras, então Santos Dumont ]melancolizou-se.}
+
+A='Glosa1382'
+	{alegrar-se, alvoroçar-se, alvorotar-se, desentristecer-se, entusiasmar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3428' = “tornar-se infeliz”
+	{aleijar-se: I]Aleija-me com esses modos.,
+	 atristar-se: Com feijão farinha e peixe se paga a tropa e A]me atrista.,
+	 contristar-se: É próprio dos que não tem esperança I]contristar-se com a morte dos entes queridos.,
+	 encaramujar-se: Este rosto [encaramujou-se.,
+	 enoitecer: Seu espírito elástico e móbil sacudiu as sombras de pesar que [o enoiteciam.,
+	 entristecer-se: O que realmente [os entristecia era não terem uma boa ceia/...era bem sem razão que se entristecia.,
+	 magoar-se: Essa palavra [magoou-me ainda mais.,
+	 melancolizar-se: Santos Dumont inventou o avião acreditando que iria melhorar a vida humana, mas o homem usou-o nas guerras, então Santos Dumont [melancolizou-se.}
+
+A='Glosa1382'
+	{alegrar-se, alvoroçar-se, alvorotar-se, desentristecer-se, entusiasmar-se}
+Chave: ENTRISTECER-SE <verb.emotion>
+ILI: 01760546
+
+Sense 1
+{01760546} <verb.emotion> sadden1 -- (make unhappy; `The news of her death saddened me')
+       => {01716999} <verb.emotion> affect, impress1, move, strike -- (have an emotional or cognitive impact upon; "This child impressed me as unusually mature"; "This behavior struck me as odd")

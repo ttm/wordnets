@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA3341
+
+DADO O SYNSET:
+
+S='Glosa3341'
+	    {
+	      amaldiçoar: I]Amaldiçoa a forma do trabalho do homem.,
+	      anatematizar: André Capelão dissera não haver amor no casamento, idéia reforçada na segunda parte por um veredicto do Tribuna do Amor, agora I]anatematiza o adultério.,
+	      desconjurar: I]Desconjura a mãe, e sua pressa infame em se unir a um sátiro lascivo. ,
+	      esconjurar: Que diferença existe, em termos morais, entre uma religião que [esconjura o prazer sexual a católica e uma religião que celebra o prazer sexual ? ,
+	      excomungar: O general H]excomungou todos os inimigos.,
+	      execrar: Ele lembrou que a sociedade, ao mesmo tempo em que incentiva o uso de bebidas alcoólicas, [execra a embriaguez. ,
+	      imprecar: M]Imprecando os fados que o fizeram nascer civilizado e homem.,
+	      maldiçoar: A mãe dela meteu o relho na menina... Chegou inté a A]maldiçoar a pobrezinha.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3341' = “desejar o mal, invocar o mal”
+	     {amaldiçoar: Curda I]amaldiçoa Saddam por ataque químico contra sua aldeia.,
+	      anatematizar: Pois foi assim que o profeta Malaquias I]anatematizou os que se afastaram da observância. da Lei.,
+	      desconjurar: I]Desconjura a mãe, e sua pressa infame em se unir a um sátiro lascivo. ,
+	      esconjurar: E naquele tempo Josué os I]esconjurou, dizendo: Maldito diante do SENHOR seja o homem que se levantar e reedificar esta cidade de Jericó. ,
+	      excomungar: Frederico Nietzsche I]excomungou o trono teológico, criou Zaratrustra, o anti-Cristo, e morreu louco, irritado pela falta da fé.,
+	      execrar: Um pastor alemão I]execrou o materialismo contemporâneo que, segundo ele, difunde-se cada vez mais no seio do povo e contribui para a expansão do amor livre. ,
+	      imprecar: No silêncio de seu rancor I]imprecava, amaldiçoava, xingava, jurava.,
+	      maldiçoar: O padre I]maldiçoou o demônio, inquiriu os santos eo poder de Deus.,}
+Chave: AMALDIÇOAR <verb.communication>
+ILI: 00837155
+
+Sense 3
+{00837155} <verb.communication> curse1, beshrew, damn, bedamn, anathemize, anathemise1, imprecate1, maledict -- (wish harm upon; invoke evil upon; "The bad witch cursed the child")
+       => {01583752} <verb.creation> raise1, conjure, conjure up, invoke, evoke2, stir, call down, arouse, bring up, put forward, call forth -- (evoke or call forth, with or as if by magic; "raise the specter of unemployment"; "he conjured wild birds in the air"; "stir a disturbance"; "call down the spirits from the mountain")
+           => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

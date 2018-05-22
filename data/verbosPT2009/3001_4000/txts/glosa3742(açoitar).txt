@@ -1,0 +1,54 @@
+ANÁLISE DA GLOSA3742
+
+DADO O SYNSET:
+	
+S='Glosa3742'
+{açoitar: O "fascis" era usado pelos romanos para [açoitar acusados de crimes.,
+	 açoutar: Protesta-se com o vigor da Lei contra quem I]açoutar o escravo Lino e gratifica-se quem prendê-lo e levá-lo à alguma estação policial ou à casa de seu Senhor.,
+	 alanhar: Com o rebenque o fazendeiro M]alanhava os animais.,
+	 atormentar: Ondas furiosas A]atormentavam o barco.,
+	 azorragar: x,
+	 azorraguear: x,
+	 chibatar: Ambrósio Caisseco teve de I]chibatar os cães para os impedir de o transformar em carniça. ,
+	 chibatear: Horácio, um poeta italiano, usava para I]chibatear apenas uma vergasta de rosas.,
+	 chicotar: x,
+	 chicotear: Você me pergunta se quero que pare, mas não consigo sequer erguer os olhos e você apenas por um minuto pára de I]chicotear minhas costas e nádegas.,
+	 flagelar: Pilatos mandou então I]flagelar a Jesus.,
+	 fustigar: O cocheiro [fustigou as mulas para ir buscar o patrão.,
+	 golpear: Este flagelo aparece pela primeira vez na história para [golpear os inimigos de Deus.,
+	 lambar: Ela pegou o chicotinho de couro e ele tirou o paletó, o chicotinho I]lambou as costas.,
+	 lapear: Há em Nhô Bernardo o destemor de I]lapear a jibóia que se enlaça num cachorrinho.,
+	 pelotear: x,
+	 surrar: Segundo Pádua, policiais encapuzados entraram na cela acompanhados do carcereiro e [surraram o preso Jorjão com porretes.,
+	 vapular: x,
+	 varar: M] Varava impiedosamente os escravos.,
+	 verberar: H]Verberava os escravos.,
+	 verdascar: H]Verdascava os escravos.,
+	 vergalhar: x,
+	 vergastar: Minúsculos grãos de terra que, em outras praias ficam quietinhos, no chão molhado, lá estão em constante reboliço, como se fossem mínimos caroços de chumbo a nos I]vergastar a cara, os olhos, as orelhas, a boca, os óculos, a filmadora, os braços, as pernas, as costas. ,
+	 zimbrar: Ao ver Berta, sentada no chão,  enlaçada pela cascavel, travou a cabeça do réptil como faria ao cabo de um chicote, e fugiu espavorido e I]zimbrando o próprio corpo com a serpente que lhe servia de látego.,
+	 zorragar: x,
+	 zurzir: Dona Amélia procurava conflitos de encomenda para I]zurzir os servos na chibata. }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3742'= “bater severamene”
+{açoitar: O "fascis" era usado pelos romanos para [açoitar acusados de crimes.,
+	 chibatar: Ambrósio Caisseco teve de I]chibatar os cães para os impedir de o transformar em carniça. ,
+	 chibatear: Horácio, um poeta italiano, usava para I]chibatear apenas uma vergasta de rosas.,
+	 chicotear: Você me pergunta se quero que pare, mas não consigo sequer erguer os olhos e você apenas por um minuto pára de I]chicotear minhas costas e nádegas.,
+	 flagelar: Pilatos mandou então I]flagelar a Jesus.,
+	 fustigar: O cocheiro [fustigou as mulas para ir buscar o patrão.,
+	 golpear: Este flagelo aparece pela primeira vez na história para [golpear os inimigos de Deus.,
+	 lambar: Ela pegou o chicotinho de couro e ele tirou o paletó, o chicotinho I]lambou as costas.,
+	surrar: Segundo Pádua, policiais encapuzados entraram na cela acompanhados do carcereiro e [surraram o preso Jorjão com porretes.,
+	 verberar: H]Verberava os escravos.,}
+
+
+Chave: AÇOITAR <verb.contact>
+ILI: 01357999
+
+Sense 2
+{01357999} <verb.contact> flagellate, scourge -- (whip; "The religious fanatics flagellated themselves")
+       => {01370540} <verb.contact> flog, welt, whip, lather1, lash1, slash2, strap1, trounce -- (beat severely with a whip or rod; "The teacher often flogged the students"; "The children were severely trounced")
+           => {01356759} <verb.contact> beat1, beat up1, work over -- (give a beating to; subject to a beating, either as a punishment or as an act of aggression; "Thugs beat him up when he walked down the street late at night"; "The teacher used to beat the students")	

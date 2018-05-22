@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA1309
+
+DADO O SYNSET:
+
+S='Glosa1309'
+{acastelar: x,
+ afortalezar: x,
+ casamatar: A]Casamatar os porões.,
+ encastelar: É um espaço de formação capaz de manter interlocução com a sociedade e seus dirigentes, e cada vez mais ávida por transpor os muros que freqüentemente I]encastelam a Universidade e tendem a fazê-la alienada do seu tempo.,
+ fortificar: Fundou a cidade de Quebec, [fortificando-a contra os ataques dos ingleses,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1309' = “encerrar como ou como se fosse uma fortificação”
+{casamatar: Partiu Leverger para a Colina de Melgaço, a fim de a I]casamatar contra a esperada subida da flotilha paraguaia.,
+ encastelar: Devido ao progresso que I]encastelou as famílias em altos prédios e nos condomínios fechados que se assemelham a modernas fortalezas.,
+ fortificar: Fundou a cidade de Quebec, [fortificando-a contra os ataques dos ingleses,}
+Chave: FORTIFICAR <verb.contact>
+ILI: 01562286
+
+Sense 2
+{01562286} <verb.contact> fortify, fort -- (enclose by or as if by a fortification)
+       => {01543739} <verb.contact> enclose, inclose, shut in -- (surround completely; "Darkness enclosed him")
+           => {01425761} <verb.contact> surround, skirt, border1 -- (extend on all sides of simultaneously; encircle; "The forest surrounds my property")
+               => {01169130} <verb.contact> touch1, adjoin3, meet, contact3 -- (be in direct physical contact with; make contact; "The two buildings touch"; "Their hands touched"; "The wire must not contact the metal cover"; "The surfaces contact at this point")

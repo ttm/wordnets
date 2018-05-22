@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA1081
+
+DADO O SYNSET:
+
+S='Glosa1081'
+{deixar: São jardins que não I]deixam folhas no chão, não sujam as calçadas e não incomodam os moradores.,
+ demitir: As tropas H]demitiram as armas logo após a rendição,
+ depor: H]Depôs o alicate para iniciar a pintura,
+ largar: Tande se esforça para [largar a cadeira de rodas que o acompanha nos aeroportos, exercitando seu tornozelo esquerdo, torcido há uma semana.,
+ soltar: O copeiro Raimundo da Silva Filho socorreu o garçom e, com um pedaço de madeira, desferiu vários golpes no braço de Silva até que este [soltou a arma.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1081' = “deixar de segurar”
+{deixar: Ele apanhou um gaviãozinho morto, retirou as vísceras, salgou-o como no preparo do charque e o [deixou ao sol numa cerca.,
+ depor: Pojucã [depôs o arco-chefe aos pés de Itaquê.,
+ largar: D. Maria ergueu-se da sua banquinha, e [largou a almofada da renda.,
+ soltar: O copeiro Raimundo da Silva Filho socorreu o garçom e, com um pedaço de madeira, desferiu vários golpes no braço de Silva até que este [soltou a arma.,}
+Chave: LARGAR <verb.contact>
+ILI: 01432719 
+
+Sense 1
+{01432719} <verb.contact> let go of, let go, release, relinquish2 -- (release, as from one's grip; "Let go of the door handle, please!"; "relinquish your grip on the rope--you won't fall")

@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSAXXXX
+
+DADO O SYNSET:
+
+S='GlosaXXXX'
+{incinerar-se: João e Chico trabalham para o Padre exibindo o filme A Paixão de Cristo, mas se distraem e a película I]incinera-se.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4133' = “ficar reduzido às cinzas”
+{incinerar-se: João e Chico trabalham para o Padre exibindo o filme A Paixão de Cristo, mas se distraem e a película I]incinera-se.,}
+Chave: INCINERAR-SE <verb.change>
+ILI: 00366710
+
+Sense 1
+{00366710} <verb.change> incinerate1 -- (become reduced to ashes; "The paper incinerated quickly")
+       => {00365718} <verb.change> burn down, burn up3, go up4 -- (burn completely; be consumed or destroyed by fire; "The hut burned down"; "The mountain of paper went up in flames")
+           => {00365423} <verb.change> burn, combust -- (undergo combustion; "Maple wood burns well")
+               => {00140715} <verb.change> change state, turn4 -- (undergo a transformation or a change of position or action; "We turned from Socialism to Capitalism"; "The people turned against the President when he stole the election")
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

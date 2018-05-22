@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA3735
+
+DADO O SYNSET:
+
+S='Glosa3735'
+{cair: É preciso sublinhar que Schrödinger absolutamente não [caiu no erro de atribuir um papel biológico ao indeterminismo quântico.,
+	 coincidir: M]Coincidir na mesma transgressão.,
+	 escorregar: M]Escorregou em contradição.,
+	 incidir: Dias Gomes I]incide num elitismo subliminar.,
+	 incorrer: O presidente nacional da OAB, José Roberto Batocchio, considera que a ação militar [incorre em crimes por abuso de autoridade.,
+	 pecar: As leis sobre a arborização apesar de disciplinar e atribuir obrigações ao plantio das árvores de calçadas, I]pecaram num importante detalhe: o lugar e o espaço ideal ideais destinados a à arborização.,
+	 recair: Há três anos foi criado o Gife (Grupo de Institutos, Fundações e Empresas), que hoje congrega cerca de 40 organizações interessadas em praticar a filantropia sem [recair no modelo paternalista.,
+	 tropeçar: O candidato chapa branca do governo vai [tropeçar nesse plano.}
+	
+A ANÁLISE RESULTA EM:
+
+S='Glosa3735' = “torna-se sujeito a; trazer para si; tornar-se responsável”
+{cair: É preciso sublinhar que Schrödinger absolutamente não [caiu no erro de atribuir um papel biológico ao indeterminismo quântico.,
+	 coincidir: M]Coincidir na mesma transgressão.,
+	 escorregar: M]Escorregou em contradição.,
+	 incidir: Dias Gomes I]incide num elitismo subliminar.,
+	 incorrer: O presidente nacional da OAB, José Roberto Batocchio, considera que a ação militar [incorre em crimes por abuso de autoridade.,
+	 pecar: As leis sobre a arborização apesar de disciplinar e atribuir obrigações ao plantio das árvores de calçadas, I]pecaram num importante detalhe: o lugar e o espaço ideal ideais destinados a à arborização.,
+	 recair: Há três anos foi criado o Gife (Grupo de Institutos, Fundações e Empresas), que hoje congrega cerca de 40 organizações interessadas em praticar a filantropia sem [recair no modelo paternalista.,
+	 tropeçar: O candidato chapa branca do governo vai [tropeçar nesse plano.}
+Chave: INCORRER <verb.stative>
+ILI: 02640992
+
+Sense 1
+{02640992} <verb.stative> incur -- (make oneself subject to; bring upon oneself; become liable to; "People who smoke incur a great danger to their health")
+       => {02049824} <verb.perception> subject3 -- (cause to experience or suffer or make liable or vulnerable to; "He subjected me to his awful poetry"; "The sergeant subjected the new recruits to many drills"; "People in Chernobyl were subjected to radiation")
+           => {00132263} <verb.change> affect, impact, bear upon, bear on, touch on1, touch -- (have an effect upon; "Will the new rules affect me?")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

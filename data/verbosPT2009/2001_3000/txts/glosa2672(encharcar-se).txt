@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA2672
+
+DADO O SYNSET:
+
+S='Glosa2672'
+	    {abeberar-se: A esponja H]abeberou-se à primeira pancada de chuva.,
+	      banhar-se: Ele observou que os ferimentos não sofriam putrefação quando tratados com vinho e que, quando ocorria evisceração, I]banhando-se as alças intestinais em vinho, antes de recolocá-las no abdome, evitava a peritonite.,
+	      embeberar-se: Mas uma voz do além falou mais alto e as vozes nativas se calaram. As armas venceram, as celas transbordaram de filhos de incas, os farrapos de soberania I]embeberam-se de sangue na guerrilha e nos cartéis, e, livres, os ricos e poderosos renderam graças na cripta oculta de suas consciências recompensadas. ,
+	      embeber-se: I]Embebe-se uma gaze no peróxido de hidrogênio a 35% que deve ser colocada sobre o dente e dentro da câmara pulpar.,
+	      empapar-se: Peguei outro tanto e coloquei-o sobre e senti arder eo papel I]empapou-se de sangue.,
+	      encharcar-se: Deixe o pão I]encharcar-se no leite.,
+	      ensopar-se: Pudim de queijo: corta-se o pão em fatias, I]ensopam-se estas em leite, passando-as depois em ovos batidos.,
+	      molhar-se: Recomendamos que em paredes, sejam feitas em tiras verticais, do teto ao piso, em faixas não maiores que 20 cm de largura, I]molhando-se a bucha e retirando-se o excesso sempre, procurando-se igualar a quantidade de tinta anteriormente usada.,
+	      repassar-se: H]Repassaram-se de orvalho as flores,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2672' = ”Encher (-se), saturar (-se)de água, ou imbuir (-se) totalmente.”
+	    {banhar-se: Retiraram-se os tegumentos e I]banharam-se em solução estéril de hipoclorito de sódio 0,5% por 10 min.,
+	      embeber-se: I]Embebe-se uma gaze no peróxido de hidrogênio a 35% que deve ser colocada sobre o dente e dentro da câmara pulpar.,
+	      empapar-se: Peguei outro tanto e coloquei-o sobre e senti arder e o papel I]empapou-se de sangue.,
+	      encharcar-se: Deixe o pão I]encharcar-se no leite.,
+	      ensopar-se: Pudim de queijo: corta-se o pão em fatias, I]ensopam-se estas em leite, passando-as depois em ovos batidos.,
+	      molhar-se: I]Molhou-se novamente o algodão.,
+	      repassar-se: H]Repassaram-se de orvalho as flores,}
+
+Chave: ENCHARCAR-SE <verb.change>
+ILI: 00443063
+
+Sense 8
+{00443063} <verb.change> soak, imbue1 -- (fill, soak, or imbue totally; "saturate the bandage with disinfectant")
+       => {00484286} <verb.change> impregnate, saturate4 -- (infuse or fill completely; "Impregnate the cloth with alcohol")
+           => {00439460} <verb.change> fill1, fill up, make full -- (make full, also in a metaphorical sense; "fill a container"; "fill the child with pride")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

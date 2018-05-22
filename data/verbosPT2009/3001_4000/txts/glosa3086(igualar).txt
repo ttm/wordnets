@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA3086
+
+DADO O SYNSET:
+
+S='Glosa3086'
+	    {
+	      equalizar: Camargo Neto critica ainda a decisão do governo de [equalizar as taxas de juros. # O redutor, fixado hoje em 1,2%, serve para [equalizar as diversas alternativas de aplicação financeira.,
+	      homogeneizar: Os espanhóis têm a opção entre o acesso a esse mundo de imagens estrangeiras, mas também podem sintonizar canais que falam a língua e preservam a cultura de regiões (Catalunha, País Basco, Galícia) que até os anos 70 o franquismo queria [homogeneizar.,
+	      homogenizar: Para estas situações o autobronzeador cai como uma luva, pois tem o poder de I]homogenizar o bronzeado.,
+	      igualar: Resolveu [igualar alguns preços de suas lojas aos mais baixos que encontrou na praça. # Isso permitiria iniciar a isonomia igualar os salários do Executivo com o Legislativo e Judiciário sem estourar as contas . ,
+	      igualizar: Ninguém fala sobre a luta para I]igualizar os salários dos novos (dos últimos 10 anos) colegas com os salários das pessoas que têm o mérito de ostentar o número de matrícula mais antigo.,
+	      padronizar: Para poder [padronizar os testes entre os diversos órgãos examinadores, é inevitável elaborar uma lista grande de questões.,
+	      uniformar: Esta proposta em muito assemelha-se aos critérios TNM utilizados para I]uniformar informações no caso do câncer. # Não digo de integração, pois não se trata de uma dificuldade em ocultar ou I]uniformar as diferenças originárias das diversas etnias.,
+	      uniformizar: As 6.500 escolas filiadas ao sindicato são acusadas de [uniformizar as fórmulas de reajustes, o que impede a concorrência . ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3086' = “tornar igual ou uniforme”
+	     {equalizar: O BCE apenas I]equalizou sua taxa de juros com a redução da pressão inflacionária , já que o petróleo caiu. # A diretoria agiu rápido, I]equalizou as questões internas e remotivou o grupo, que agora aposta numa nova vitória fora de casa.,
+	      homogeneizar: A escola ao longo da historia I]homogeneizou os sujeitos nela envolvidos.,
+	      homogenizar: A globalização permite o intercâmbio das expressões individuais e coletivas ou, ao contrário, ela I]homogeniza estas expressões com padrões comerciais.,
+	      igualar: Governo I]iguala benefícios para imóveis novos e usados e tenta ampliar verba disponível para o setor imobiliário., # Projeto I]iguala usuário de banco a consumidor. ,
+	      igualizar: A incidência do PIS/Cofins nas importações em 2004 corretamente I]igualizou o tratamento tributário entre bens produzidos no País e no exterior.,
+	      padronizar: Panificadora de Recife [padroniza produtos e serviços.,
+	      uniformar: Esta proposta em muito assemelha-se aos critérios TNM utilizados para I]uniformar informações no caso do câncer. # Não digo de integração, pois não se trata de uma dificuldade em ocultar ou I]uniformar as diferenças originárias das diversas etnias.,
+	      uniformizar: A 1ª Seção do STJ I]uniformizou o entendimento sobre a incidência de imposto de renda nas verbas trabalhistas. ,}
+Chave: IGUALAR <verb.change>
+ILI: 00404886
+
+Sense 3
+{00404886} <verb.change> equal, match7, equalize, equalise, equate -- (make equal, uniform, corresponding, or matching; "let's equalize the duties among all employees in this office"; "The company matched the discount policy of its competitors")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

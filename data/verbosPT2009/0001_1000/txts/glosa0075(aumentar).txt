@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0075
+
+DADO O SYNSET:
+
+S='Glosa75'
+{acrescentar: O primeiro, mesmo apresentando taxas médias de desemprego inferiores às do segundo, agregou ao contingente de desempregados 43 mil pessoas, enquanto o desemprego aberto I]acrescentou um contingente bem menor: 28 mil pessoas.,
+altear: O sujeito magro contou uma anedota, e tornou a tratar da casa, A]alteando a proposta.,
+aumentar: A]aumentou três páginas ao discurso.,
+elevar: Penido implantou na Samarco um expressivo programa de investimentos que I]elevou o faturamento anual da empresa de 200 para 500 milhões de dólares.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa75' = “tornar ou fazer maior ou mais”
+{acrescentar: Claramente comercial, não [acrescentou nada à carreira de Ava, apenas à sua conta bancária.,
+aumentar: A]aumentou três páginas ao discurso.,
+elevar: Penido implantou na Samarco um expressivo programa de investimentos que I]elevou o faturamento anual da empresa de 200 para 500 milhões de dólares.,}
+Chave: AUMENTAR <verb.change>
+ILI: 00147655
+
+Sense 2
+{00147655} <verb.change> increase2 -- (make bigger or more; "The boss finally increased her salary"; "The university increased the number of students it admitted")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

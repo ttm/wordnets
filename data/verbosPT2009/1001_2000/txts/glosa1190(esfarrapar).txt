@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA1190
+
+DADO O SYNSET:
+
+S='Glosa1190'
+{desbandalhar: x,
+ esbandalhar: M]Esbandalhou a roupa,
+ esfarrapar: Um velho, ao meu lado, com as barbas de um Abraão, arremessou-se a terra a arrepelar-se e a I]esfarrapar a túnica.,
+ farrapar: O bicho começou a I]farrapar novamente sua toalha,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1190' = “despedaçar em farrapos”
+{esbandalhar: Chegaram, I]esbandalharam o asfalto e não arrumaram,
+ esfarrapar: Agora, só restava ser queimado, aquele boneco nojento e sujo arrastado pelas ruas... E o povo, em fúria, I]esfarrapa a marionete. É a farra de Judas!,
+ farrapar: O bicho começou a I]farrapar novamente sua toalha,}
+Chave: ESFARRAPAR <verb.contact>
+ILI: 01530357 
+
+Sense 1
+{01530357} <verb.contact> shred, tear up, rip up -- (tear into shreds)
+       => {01529981} <verb.contact> tear, rupture, snap1, bust2 -- (separate or cause to separate abruptly; "The rope snapped"; "tear the paper")
+           => {01513899} <verb.contact> separate1, disunite, divide1, part1 -- (force, take, or pull apart; "He separated the fighting children"; "Moses parted the Red Sea")
+               => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

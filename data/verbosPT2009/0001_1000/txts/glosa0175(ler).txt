@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0175
+
+DADO O SYNSET:
+
+S='Glosa175'
+{ler: Sexta-feira, ela começou a [ler o roteiro, e ontem visitaria os estúdios Ronda, onde será gravada a novela.,
+ver: I]Veja carta da Al-Quaeda que reivindica ataques.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa175' = “interpretar algo que está escrito ou impresso”
+{ler: Sexta-feira, ela começou a [ler o roteiro, e ontem visitaria os estúdios Ronda, onde será gravada a novela.,
+ver: I]Veja carta da Al-Quaeda que reivindica ataques.,}
+Chave: LER <verb.cognition>
+ILI: 00604996
+
+Sense 1
+{00604996} <verb.cognition> read -- (interpret something that is written or printed; "read the advertisement"; "Have you read Salman Rushdie?")
+       => {00603028} <verb.cognition> interpret, construe, see13 -- (make sense of; assign a meaning to; "What message do you see in this letter?"; "How do you interpret his behavior?")
+           => {00570184} <verb.cognition> understand -- (know and comprehend the nature or meaning of; "She did not understand her husband"; "I understand what she means")

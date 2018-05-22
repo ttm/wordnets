@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA3464
+
+DADO O SYNSET:
+
+S='Glosa3464'
+	    {
+	      diminuir: ...posso ]diminuir o lápis,
+	      gastar: Não precisamos mais ]gastar lápis e papel, o computador faz tudo por nós,
+	      minuir: x,
+	    }
+
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3464' = “tornar menor ou perder substancia”
+	     {diminuir: ...posso ]diminuir o lápis,
+	      gastar: Gastou lápis anotando fatos, queimou neurônios inventando cenas,}
+Chave: DIMINUIR <verb.change>
+ILI: 00258801
+
+Sense 1
+{00258801} <verb.change> dwindle, dwindle away, dwindle down -- (become smaller or lose substance; "Her savings dwindled down")
+       => {00146081} <verb.change> decrease, diminish, lessen, fall6 -- (decrease in size, extent, or range; "The amount of homework decreased towards the end of the semester"; "The cabin pressure fell dramatically"; "her weight fall to under a hundred pounds"; "his voice fell to a whisper")
+           => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

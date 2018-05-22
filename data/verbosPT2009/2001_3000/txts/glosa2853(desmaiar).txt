@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA2853
+
+DADO O SYNSET:
+
+S='Glosa2853'
+	    {apagar: Pegou bem no queixo e ele I]apagou mesmo, o soco foi muito forte.,
+	      desacordar: A queda violenta pode I]desacordar o motociclista.,
+	      descair: Iremos juntos!... murmurou I]descaindo inerte sobre as almofadas do leito.,
+	      desfalecer: Pousando a criança nos braços paternos, a desventurada mãe [desfaleceu, como a jetica, se lhe arrancam o bulbo.,
+	      desmaiar: Ao encarar a agulha, ele começou a suar frio e ameaçou [desmaiar.,
+	      esfalecer: x,
+	      esmorecer: H]Esmoreceu de repente, e seu corpo tombou.,
+	      esvaecer: Confesso também que ao ver meu sangue escorrer daquela forma e sentir o corpo I]esvaecer, senti um medo sobre humano de não voltar a sorrir.,
+	      esvanecer: x,
+	      falir: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2853' = “Perder os sentidos por fraqueza, sofrimento físico ou emocional, devido a uma perda de abastecimento sangüíneo no cérebro”
+	    {apagar: Pegou bem no queixo e ele I]apagou mesmo, o soco foi muito forte.,
+	      desacordar: devolvi um soco que o I]desacordou, antes que pudesse dar mais alarde.,
+	      descair: Iremos juntos!... murmurou I]descaindo inerte sobre as almofadas do leito.,
+	      desfalecer: Pousando a criança nos braços paternos, a desventurada mãe [desfaleceu, como a jetica, se lhe arrancam o bulbo.,
+	      desmaiar: Margarida quase I]desmaiou de novo, ao ouvir que ele lhe chamava de bruxinha charmosa.,
+	      esmorecer: H]Esmoreceu de repente, e seu corpo tombou.,
+	      esvaecer: Confesso também que ao ver meu sangue escorrer daquela forma e sentir o corpo I]esvaecer, senti um medo sobre humano de não voltar a sorrir.,}
+Chave: DESMAIAR <verb.body> 
+ILI: 00023207
+
+Sense 1
+{00023207} <verb.body> faint, conk, swoon, pass out -- (pass out from weakness, physical or emotional distress due to a loss of blood supply to the brain)
+       => {00023429} <verb.body> zonk out1, pass out1, black out -- (lose consciousness due to a sudden trauma, for example)
+           => {00140715} <verb.change> change state, turn4 -- (undergo a transformation or a change of position or action; "We turned from Socialism to Capitalism"; "The people turned against the President when he stole the election")
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night") 

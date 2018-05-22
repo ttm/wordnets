@@ -1,0 +1,41 @@
+ANÁLISE DA GLOSA3213b
+
+DADO O SYNSET:
+
+S='Glosa3213'
+	    {
+	      adivinhar: Quando chegou junto ao grande morro das areias, viu que o rasto de Martim e Poti seguia ao longo da praia; e [adivinhou que eles eram partidos para a guerra. ,
+	      colher: E nestas condições é que ele I]colheu e selecionou a verdade no meio de tantos fatos e comentários divulgados oralmente e por escrito em inúmeros apócrifos.,
+	      coligir: Eis o que pudemos M]coligir do que afirmou o réu.,
+	      concluir: Podemos [concluir que o sistema socialista, em muitos casos, apresenta na prática traços marcantes do capitalismo.,
+	      deduzir: Pela sofisticação e complexidade das operações, é possível [deduzir que dirigentes, com poder de mando na organização, também teriam participado de toda a manobra.,
+	      depreender: O que se pode [depreender do episódio é muito mais do que um artiguinho comporta.,
+	      dessumir: Trata-se, como podemos I]dessumir, de idéia muito vaga, carecedora de precisão, não correspondendo a nenhum dado sensorial ou concreto.,
+	      eduzir: Pode-se I]eduzir que a Profª Dra. Helena Lucrécia Cornaro Piscopia era uma alma simples, sensível aos problemas contemporâneos.,
+	      extrair: DEVIANT,
+	      induzir: M]Induziu apenas uma explicação discutível.,
+	      inferir: Claro que podemos [inferir que esse resultado será o mais provável, quanto menor for a proporção de dispêndio total efetuado para tal mercadoria.,
+	      intuicionar: x,
+	      intuir: Comecei a [intuir que o radicalismo é uma questão de personalidade e a tentar descobrir qual a razão para a diferença.,
+	      tirar: Desses augúrios M]tirava a sua esperança.,
+	      ver: Só o que eu quis, todo o tempo, o que eu pelejei para achar, era uma só coisa, a inteira, cujo significado e vislumbrado dela eu [vejo que sempre tive. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3213b' = “decidir por raciocínio; deduzir ou chegar a uma conclusão”
+	     {concluir: Massini, um dos peritos mais importantes do país, [concluiu que os ferimentos apresentados pelos cadáveres indicavam que pelo menos dez dos 19 mortos foram executados pela PM depois de dominados.,
+	      deduzir: A polícia [deduziu que o Brasil é o favorito porque possui a proporção mais baixa de pagamento ao vencedor: 3 por 1.,
+	      depreender: Longe disso, Leopoldo I]depreendera das palavras do amigo, que ele estava sob a influência de uma paixão materialista.,
+	      dessumir: De tal conceito podemos I]dessumir que o legislador, preocupado com o quadro de transgressão da Lei e da ordem urbana, resolveu instrumentalizar o Poder Público de meios para acompanhar e fiscalizar a formação das cidades e seu desenvolvimento.,
+	      eduzir: Pode-se I]eduzir que a Profª Dra. Helena Lucrécia Cornaro Piscopia era uma alma simples, sensível aos problemas contemporâneos.,
+	      induzir: Galileu, que examinou a queda dos corpos no vácuo, I]induziu que todos caem com velocidade igual no mesmo.,
+	      inferir: Sperling [inferiu que a informação apresentada ao olho é mantida em uma memória sensorial, onde ela se deteriora em um segundo.,
+	      tirar: Desta essência dialética da realidade, Hegel I]tirou a conclusão que e parte indispensável de seu famosos aforismo "tudo o que é racional é real"..,
+	      ver: Só um dia depois polícia I]viu que brasileiro era inocente. ,}
+Chave: CONCLUIR <verb.cognition>
+ILI: 00614326
+
+Sense 1
+{00614326} <verb.cognition> reason1, reason out, conclude -- (decide by reasoning; draw or come to a conclusion; "We reasoned that it was cheaper to rent than to buy a house")
+       => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

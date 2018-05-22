@@ -1,0 +1,36 @@
+ANÁLISE DA GLOSA2635
+
+DADO O SYNSET:
+
+S='Glosa2635'
+	    {abandonar: A maioria dos moradores teve que [abandonar as casas inundadas.,
+	      abdicar: Por mais respeito que o Congresso tenha ao presidente eleito, não vai [abdicar do direito de alterar o Orçamento.,
+	      ceder: Concorde-se ou não com o raciocínio até aqui desenvolvido, a verdade é que, agora, o art. 1.418 do novo Código Civil expressa claramente que o promitente vendedor pode I]ceder seus direitos a terceiro, cabendo a este outorgar a escritura definitiva ao promissário comprador.,
+	      deixar: "Marvin [deixara uma verba que já não correspondia às necessidades e ele resolveu revender o sítio para o ex-prefeito Israel Klabin", relata Arleu. ,
+	      desapossar-se: Eros Roberto Grau citando a lição de Henry Jacquot, diz que, no contrato, as partes têm interesses opostos e desejam coisas diferentes: o vencedor quer I]desapossar-se de um bem com a condição de receber em troca o mais elevado preço possível.,
+	      desistir: O Instituto de Estudos Avançados da USP, que fez o convênio de transferência com a viúva, [desistiu formalmente de ter a biblioteca e passou a guarda a outro instituto da universidade, o de Estudos Brasileiros. ,
+	      desquitar: x,
+	      prescindir: Mas essa mesma tecnocracia que torce o nariz ao trabalho dos artistas não pode todavia ignorá-lo ou [prescindir dele, pois ela precisa, de um lado, legitimar-se socialmente através dele e, de outro, apropriar-se dos novos horizontes abertos com as descobertas ao nível estético.# O ministro da Fazenda, Rubens Ricupero, deixou claro que não pode [prescindir das taxas para controlar a inflação na primeira fase de implantação da nova moeda.,
+	      renunciar: Desacompanhada de advogado, a parte não pode [renunciar ao direito de recorrer.,
+	      resignar: Não alcançando ser reeleito deputado, por ocasião de dissolução da Câmara, o conselheiro Pedro Luís I]resignou do cargo de ministro.,
+	      retroceder: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2635' = “Abandonar a posse ou o controle de algo.”
+	    {abandonar: A atleta se apaixonou pelo caratê e de tal modo que I]abandonou as aulas.,
+	      abdicar: Por mais respeito que o Congresso tenha ao presidente eleito, não vai [abdicar do direito de alterar o Orçamento.,
+	      ceder: A última, inclusive, partiu do ex-deputado estadual Alfredo Marques, que I]cedeu de um arquivo pessoal cinco mil exemplares de periódicos.,
+	      deixar: O prefeito de São Paulo, José Serra, que é presidente licenciado e I]deixou a vaga para Azeredo, deverá reassumir o cargo.,
+	      desapossar-se: O vencedor quer I]desapossar-se de um bem com a condição de receber em troca o mais elevado preço possível.,
+	      desistir: Brasil ainda não I]desistiu da vaga.,
+	      prescindir: O ministro da Fazenda, Rubens Ricupero, deixou claro que não pode [prescindir das taxas para controlar a inflação na primeira fase de implantação da nova moeda.,
+	      renunciar: Desacompanhada de advogado, a parte não pode [renunciar ao direito de recorrer.,
+	      resignar: Não alcançando ser reeleito deputado, por ocasião de dissolução da Câmara, o conselheiro Pedro Luís I]resignou do cargo de ministro.,}
+
+Chave: ABDICAR <verb.possession>
+ILI: 02170372
+
+Sense 8
+{02170372} <verb.possession> surrender, cede, deliver2, give up1 -- (relinquish possession or control over; "The squatters had to surrender the building after the police moved in")
+       => {02137285} <verb.possession> give1, gift, present -- (give as a present; make a gift of; "What will you give her for her birthday?") 

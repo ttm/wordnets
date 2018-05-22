@@ -1,0 +1,35 @@
+ANÁLISE DA GLOSA3650
+
+DADO O SYNSET:
+
+S='Glosa3650'
+	    {
+	      animar-se: Se a história do banco não fosse segura, não [me animaria a perder o certo pelo duvidoso; mas é seguríssima./ Os índios vos respeitam, vos temem, e não se animarão a atacar-vos.,
+	      atrever-se: Newton tinha secretamente, pensamentos irracionais [que ele não se atreveu a publicar./  Os comunicadoresque têm programas no rádio ou na TV são forçados a deixar seus empregos se [se atreverem a disputar eleição.,
+	      comover-se: Apesar de mexer no painel, a Fiat não I]se comoveu a colocar um conta-giros no carro.,
+	      decidir-se: Procurando sempre ser justo e correto, pode demorar a [se decidir./ Porque I]se decidiu a começar seu próprio negócio no ramo de jogos?  ,
+	      deliberar-se: O corregedor [se deliberou a ir pessoalmente tratar da conclusão das obras da Praia. ,
+	      deslindar-se: x,
+	      determinar-se: Se você é um pai eficiente, é porque I]se determinou a isso.,
+	      empreender: Os críticos formalistas incitariam os seus colegas a [empreender a nova descrição da obra de arte,
+	      ousar: A Universidade tem que [ousar.,
+	      resolver-se: O Leonardo parou um instante a [resolver-se se entraria também ou não. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3650' = “decidir-se”
+	     {animar-se: Rubião, vendo a intervenção de D. Tonica, [animou-se a defender longamente a família Palha./ A neta que até ali ouvia calada a conversa [animou-se a dizer alguma coisa.,
+	      atrever-se: Lalau não ia à biblioteca; um dia, porem, [atreveu-se a entrar às escondidas./  Os comunicadores que têm programas no rádio ou na TV são forçados a deixar seus empregos se [se atreverem a disputar eleição.,
+	      comover-se: Apesar de mexer no painel, a Fiat não I]se comoveu a colocar um conta-giros no carro.,
+	      decidir-se: Leonardo, instado pelas senhoras, [decidiu-se a romper a parte lírica do divertimento./ Finalmente [decidiu-se a entrar.,
+	      deliberar-se: O corregedor [se deliberou a ir pessoalmente tratar da conclusão das obras da Praia. ,
+	      determinar-se: Boaz [determinou-se a vencer os obstáculos.,
+	      empreender: É um atleta do pensamento, que I]empreendeu fazer a síntese entre estruturalismo e marxismo,
+	      ousar: Em 1977 I]ousou fazer um festival de chôro e ainda convenceram a Rede Bandeirantes de Televisão a transmitir as finais.,
+	      resolver-se: Esse silêncio mais aumentava a ansiedade da família: finalmente [resolveu-se ela a rompê-lo. , }
+Chave: DETERMINAR-SE <verb.cognition>
+ILI: 00674417
+
+Sense 5
+{00674417} <verb.cognition> decide, make up one's mind, determine -- (reach, make, or come to a decision about something; "We finally decided after lengthy deliberations")

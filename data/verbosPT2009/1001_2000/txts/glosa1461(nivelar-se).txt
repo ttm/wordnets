@@ -1,0 +1,41 @@
+ANÁLISE DA GLOSA1461
+
+DADO O SYNSET:
+
+S='Glosa1461'
+{abaixar-se: M]Abaixemos esta montanha até o nosso pântano.,
+ abarbar-se: Na maré alta, o navio H]abarbava-se com a ponte.,
+ achanar-se: O mar se H]achana depois da tempestade.,
+ achatar-se: Quando encontram uma camada de ar quente estável, os topos podem I]achatar-se.,
+ afagar-se: DEVIANT,
+ alhanar-se: Cessada a ventania, a superfície do lago M]se alhanou,
+ alisar-se: Os melhores resultados são obtidos ao I]alisar-se a superfície por várias vezes,
+ aplainar-se: x,
+ aplanar-se: Com a enxurrada, o terreno H]aplanou-se.,
+ assentar-se: É importante aprender a fazer massa, [assentar-se os tijolos e instalar tubulação, ,
+ deslisar-se: Tinham duas rugas que lhe desciam da fronte e se uniam entre os sobrolhos, contraindo-se e A]deslisando-se rapidamente,
+ igualar-se: DEVIANT,
+ igualizar-se: DEVIANT,
+ nivelar-se: As pistas de velocidade se fundem, porém já subterrâneas, na parte central desse piso inferior que se estende em declive, até I]nivelar-se com a esplanada do setor de ministérios”. ,}
+	  
+A='Glosa485'
+{desigualar-se, desnivelar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1461' = “tornar-se plano ou nivelado” 
+{abaixar-se: O nível da água se I]abaixa em seguida; desça as escadas atrás do monstro, e cruze a porta seguinte. 
+ achatar-se: Quando encontram uma camada de ar quente estável, os topos podem I]achatar-se.,
+ aplanar-se: Vê o solo I]aplanar-se por graus e acabar por não ser mais do que uma. vas ta pla ní cie.,
+ assentar-se: Essa região constitui um grande platô elevado que se I]assenta sobre a Serra da Borborema.,
+ nivelar-se: As pistas de velocidade se fundem, porém já subterrâneas, na parte central desse piso inferior que se estende em declive, até I]nivelar-se com a esplanada do setor de ministérios.,}
+	  
+A='Glosa485'
+{desigualar-se, desnivelar-se}
+Chave: NIVELAR-SE <verb.change>
+ILI: 00345421
+
+Sense 6
+{00345421} <verb.change> level, level off -- (become level or even; "The ground levelled off")
+       => {00345030} <verb.change> change surface -- (undergo or cause to undergo a change in the surface)
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

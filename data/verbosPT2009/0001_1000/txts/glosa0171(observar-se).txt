@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0171
+
+DADO O SYNSET:
+
+S='Glosa171'
+{espiar-se: I]Espiavam-se uns aos outros os santos nos altares.,
+observar-se: O bandido e os policiais I]observavam-se cuidadosos: o bandido em seu esconderijo descoberto; os policiais atrás das viaturas.,
+vigiar-se: Naquela altura da batalha, os grupos, já encastelados, apenas I]vigiavam-se sem necessidade de desperdício de tiro.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa171' = “tomar em vista; olhar com atenção”
+{espiar-se: I]Espiavam-se uns aos outros os santos nos altares.,
+observar-se: O bandido e os policiais I]observavam-se cuidadosos: o bandido em seu esconderijo descoberto; os policiais atrás das viaturas.,
+vigiar-se: Naquela altura da batalha, os grupos, já encastelados, apenas I]vigiavam-se sem necessidade de desperdício de tiro.,}
+Chave: OBSERVAR-SE <verb.perception>
+ILI: 02092284
+
+Sense 1
+{02092284} <verb.perception> descry, spot, espy, spy -- (catch sight of)
+       => {02101907} <verb.perception> sight -- (catch sight of; to perceive with the eyes; "he caught sight of the king's men coming over the ridge")
+           => {02045668} <verb.perception> perceive, comprehend -- (to become aware of through the senses; "I could perceive the ship coming over the horizon")

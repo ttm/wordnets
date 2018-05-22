@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA3532
+
+DADO O SYNSET:
+
+S='Glosa3532'
+	    {
+	      cantar: Ele vai [cantar músicas de Chico Buarque. ,
+	      cantarejar: Continuou a I]cantarejar, muito embebida nos seus retalhos de fazenda.,
+	      cantarolar: Você [cantarola e todo mundo vem atrás. / Todo dia o pequeno pássaro agradecido, fazia-lhe uma visita [cantarolando em sua homenagem um belíssimo solo . ,
+	      musicar: Tinha a satisfação de compor canções satíricas contra o seu novo amo e de I]musicar-lhe ao ouvido profecias mais ou menos sinistras / O hábito de compor poesia para I]musicar em serestas ea sua enorme cultura o transformaram num poeta singular.,
+	      trautear: Embora não soubesse uma nota de música, [trauteava e compunha por intuição. / Ao falar de Portugal, começa subitamente a [trautear um fado.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3532' = “produzir tons com a voz”
+	     {cantar: Ele vai [cantar músicas de Chico Buarque. ,
+	      cantarejar: Continuou a I]cantarejar, muito embebida nos seus retalhos de fazenda.,
+	      cantarolar: Você [cantarola e todo mundo vem atrás. / Todo dia o pequeno pássaro agradecido, fazia-lhe uma visita [cantarolando em sua homenagem um belíssimo solo . ,
+	      musicar: Tinha a satisfação de compor canções satíricas contra o seu novo amo e de I]musicar-lhe ao ouvido profecias mais ou menos sinistras / O hábito de compor poesia para I]musicar em serestas e a sua enorme cultura o transformaram num poeta singular.,
+	      trautear: Embora não soubesse uma nota de música, [trauteava e compunha por intuição. / Ao falar de Portugal, começa subitamente a [trautear um fado.,}
+Chave: CANTAR <verb.creation>
+ILI: 01680326
+
+Sense 2
+{01680326} <verb.creation> sing -- (produce tones with the voice; "She was singing while she was cooking"; "My brother sings very well")
+       => {00910961} <verb.communication> talk, speak, utter, mouth, verbalize, verbalise -- (express in speech; "She talks a lot of nonsense"; "This depressed patient does not verbalize")
+           => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+               => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

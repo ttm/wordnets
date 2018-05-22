@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA3276
+
+DADO O SYNSET:
+
+S='Glosa3276'
+{escrever: Foi ele quem I]escreveu a lei que criou a Fundação de Amparo à Pesquisa do Estado de São Paulo (Fapesp).,
+	 lavrar: Não te vexes; manda-me dizer o que achares mais bonito, e faço [lavrar imediatamente o decreto.,
+	 redigir: O líder do governo na Câmara, Luiz Carlos Santos, ficou de [redigir emenda à Lei de Diretrizes Orçamentárias, prevendo esses recursos para a educação.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3276' = “marcar ou traçar sobre uma superfície”
+{escrever: Foi ele quem I]escreveu a lei que criou a Fundação de Amparo à Pesquisa do Estado de São Paulo (Fapesp).,
+	 lavrar: Não te vexes; manda-me dizer o que achares mais bonito, e faço [lavrar imediatamente o decreto.,
+	 redigir: O líder do governo na Câmara, Luiz Carlos Santos, ficou de [redigir emenda à Lei de Diretrizes Orçamentárias, prevendo esses recursos para a educação.}
+Chave: LAVRAR <verb.creation>
+ILI: 01642871
+
+Sense 7
+{01642871} <verb.creation> write1 -- (mark or trace on a surface; "The artist wrote Chinese characters on a big piece of white paper")
+       => {01539039} <verb.contact> trace, draw1, line1, describe, delineate -- (make a mark or lines on a surface; "draw a line"; "trace the outline of a figure in the sand")
+           => {00494390} <verb.change> mark -- (make or leave a mark on; "mark the trail so that we can find our way back")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue"

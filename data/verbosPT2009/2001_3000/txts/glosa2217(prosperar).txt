@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA2217
+
+DADO O SYNSET:
+
+S='Glosa2217'
+	    {desenvolver: DEVIANT,
+	      enflorescer: x,
+	      espigar: DEVIANT,
+	      florescer: A democracia [floresceu na Grécia nos séculos 5º e 4º AC.,
+	      medrar: No Brasil, a burocracia cresceu com a diversificação das funções do Estado e a tecnocracia [medrou em todos os setores, todavia mais em tarefas intrincadas do aparelho estatal e das grandes empresas e corporações.,
+	      prosperar: Engano que fez [prosperar o populismo econômico, uma forma perversa de politização da economia que se exprimiu, sobretudo nos países em desenvolvimento, num «ethos» nacionalista protecionista e antimercado.,
+	      vegetar: DEVIANT,
+	      vingar: O Parnasianismo é uma escola literária que [vingou na segunda metade do século XIX, ao lado de tendências realistas e naturalistas.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2217' = “difundir; desenvolver”
+	    {florescer: A democracia [floresceu na Grécia nos séculos 5º e 4º AC.,
+	      medrar: A burocracia cresceu com a diversificação das funções do Estado e a tecnocracia [medrou em todos os setores.,
+	      prosperar: Engano que fez [prosperar o populismo econômico, uma forma perversa de politização da economia que se exprimiu.,
+	      vingar: O Parnasianismo é uma escola literária que [vingou na segunda metade do século XIX.,}
+
+Chave: PROSPERAR <verb.change>
+ILI: 00300610
+
+Sense 1
+{00300610} <verb.change> boom, prosper, thrive, get ahead, flourish1, expand1 -- (grow stronger; "The economy was booming")
+       => {00223119} <verb.change> grow -- (become larger, greater, or bigger; expand or gain; "The problem grew too large for me"; "Her business grew fast")
+           => {00150804} <verb.change> increase -- (become bigger or greater in amount; "The amount of work increased")
+               => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

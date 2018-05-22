@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA2431
+
+DADO O SYNSET:
+
+S='Glosa2431' = “colocar abaixo ou embaixo de”
+	    {sotopor: Uma obra na qual a AIL se orgulha de I]sotopor sua marca.,
+	      subpor: A efígie da Fênix deverá I]subpor o símbolo do CBMERJ, ela representa a bravura e a nobreza do oficial.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2431' = “
+	    {sotopor:  A] Sotoponha os livros aos cadernos.,
+	      subpor: A] Subpus ao seu o meu nome.,}
+
+Chave: SOTOPOR <verb.contact>
+ILI: 01454882
+
+Sense 1
+{01454882} <verb.contact> underlay -- (put (something) under or beneath; "They underlaid athe shingles with roofing paper")
+       => {01452069} <verb.contact> put, set, place, pose2, position, lay1 -- (put into a certain place or abstract location; "Put your things here"; "Set the tray down"; "Set the dogs on the scent of the missing children"; "Place emphasis on a certain point")
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

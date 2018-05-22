@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0404
+
+DADO O SYNSET:
+
+S='Glosa404'
+{assoprar: O convidado especial da festa, o sociólogo Herbert de Souza, não pôde vir a São Paulo para [assoprar as velas do bolo de 5 toneladas,
+soprar: Com direito a bolo, ele [soprou velinhas e recebeu e cumprimentou colegas da banda e da produção.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa404' = “dirigir o sopro para”
+{assoprar: O convidado especial da festa, o sociólogo Herbert de Souza, não pôde vir a São Paulo para [assoprar as velas do bolo de 5 toneladas,
+soprar: Com direito a bolo, ele [soprou velinhas e recebeu e cumprimentou colegas da banda e da produção.,}
+Chave: SOPRAR <verb.body>
+ILI: 00006911
+
+Sense 1
+{00006911} <verb.body> blow -- (exhale hard; "blow on the soup to cool it down")
+       => {00004127} <verb.body> exhale, expire, breathe out -- (expel air; "Exhale when you lift the weight")
+           => {00001740} <verb.body> breathe, take a breath, respire, suspire3 -- (draw air into, and expel out of, the lungs; "I can breathe better when the air is clean"; "The patient is respiring")

@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA0478
+
+DADO O SYNSET:
+
+S='Glosa478'
+{lactar: x,
+mamar: No colo, as mães acham que os bebês I]mamam melhor, engordando mais rápido.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa478' = “sugar leite dos seios (peitos) da mãe”
+{mamar: No colo, as mães acham que os bebês I]mamam melhor, engordando mais rápido.,}
+Chave: MAMAR <verb.consumption>
+ILI: 01151140
+
+Sense 1
+{01151140} <verb.consumption> suckle1 -- (suck milk from the mother's breasts; "the infant was suckling happily")
+       => {01143746} <verb.consumption> feed, eat2 -- (take in food; used of animals only; "This dog doesn't eat certain kinds of meat"; "What do whales eat?")
+           => {01121136} <verb.consumption> consume, ingest, take in, take, have -- (serve oneself to, or consume regularly; "Have another bowl of chicken soup!"; "I don't take sugar in my coffee")

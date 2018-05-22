@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA2935
+
+DADO O SYNSET:
+
+S='Glosa2935'
+	    {fossilizar: As condições durante o dilúvio foram ideais para I]fossilizar milhões de animais, plantas e até mesmo dinossauros. ,
+	      petrificar: Muitos séculos, que decorreram, M]petrificaram as plantas.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2935' = “Transformar em fóssil”
+	    {fossilizar: O esqueleto da preguiça gigante, portanto, I]fossilizou onde hoje é o oceano.,
+	      petrificar: Embora os fósseis compreendam todo organismo que I]petrificou, são consideradas fósseis as impressões de folhas, bactérias, conchas, algas, insetos, pegadas, chuvas e ondas.,}
+Chave: FOSSILIZAR <verb.change>
+ILI: 00494022
+
+Sense 1
+{00494022} <verb.change> fossilize, fossilise -- (convert to a fossil; "The little animals fossilized and are now embedded in the limestone")
+       => {00369301} <verb.change> convert, change over2 -- (change from one system to another or to a new plan or policy; "We converted from 220 to 110 Volt")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

@@ -1,0 +1,18 @@
+ANÁLISE DA GLOSA1307
+
+DADO O SYNSET:
+
+S='Glosa1307'
+{desinsetar: x,
+ desinsetizar: I]Desinsetizar o escritório ou edificação somente com produtos devidamente registrados pelo Ministério da Saúde,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1307' = “livrar de insetos” 
+{desinsetizar: Os condomínios devem I]desinsetizar e desratizar suas dependências e instalações,}
+Chave: DESINSETIZAR <verb.possession> 
+ILI: EQ_HAS_HYPERONYM – 02282996 – “livrar de animais nocivos,  de praga”
+
+Sense 1
+{02282996} <verb.possession> disinfest -- (rid of vermin; "The exterminator disinfests the house")
+       => {02282547} <verb.possession> rid, free2, disembarrass -- (relieve from; "Rid the the house of pests")

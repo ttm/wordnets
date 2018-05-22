@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA3771
+
+DADO O SYNSET:
+
+S='Glosa3771'
+{acabar: Só agora H]acabei meu artigo.,
+	 aperfeiçoar: Pediu mais tempo para A]aperfeiçoar a obra.,
+	 perfeiçoar: x,
+	 rematar: O autor releu notas não concluídas e então teve uma idéia singular: I]rematar a obra agora, fosse como fosse; qualquer cousa servia.}	
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3771' = “tornar perfeito ou completo”
+{acabar: Só agora H]acabei meu artigo.,
+	 aperfeiçoar: Pediu mais tempo para A]aperfeiçoar a obra.,
+	 rematar: O autor releu notas não concluídas e então teve uma idéia singular: I]rematar a obra agora, fosse como fosse; qualquer cousa servia.}
+
+Chave: APERFEIÇOAR <verb.change>
+ILI: 00460283
+
+Sense 1 
+{00460283} <verb.change> perfect, hone -- (make perfect or complete; "perfect your French in Paris!")
+       => {00198579} <verb.change> better1, improve1, amend, ameliorate1, meliorate1 -- (to make better; "The editor improved the manuscript with his changes")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2658
+
+DADO O SYNSET:
+
+S='Glosa2658'
+	    {descansar: Na localidade de Pistoia, na Itália, I]descançam alguns heróis da Força Expedicionária Brasileira, bravos patrícios que lutaram e morreram para que a Liberdade - maior bem do homem - pudesse continuar entre os povos de boa vontade. ,
+	      jazer: A posição da lápida da árvore serviram de resguardo ao epitáfio; Raimundo passou o lenço por ama dele e conseguiu ler o seguinte: "Aqui [jazem os restos mortais de Quitéria Inocência de Freitas Santiago, filha extremosa, esposa exemplar; Casou em 15 de dezembro de 1845 e faleceu em 1849.",
+	      repoisar: Na solidão da morte — ali I]repoisam ossos de Pai, de irmãos!,
+	      repousar: Jandira é noiva de Ubirajara, e se ele não quiser aceitá-la, o guanumbi (38) a levará para os campos alegres onde [repousam as virgens que morreram. # E a viúva Onassis foi enterrada em Washington, no Cemitério Nacional de Arlington, onde [repousam os heróis da pátria.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2658' = “Estar enterrado quando morto.”
+	    {descansar: Na Itália, I]descansam alguns heróis da Força Expedicionária Brasileira, bravos patrícios que lutaram e morreram para que a Liberdade.,
+	      jazer: Aqui [jazem os restos mortais de Quitéria Inocência de Freitas Santiago, filha extremosa, esposa exemplar; Casou em 15 de dezembro de 1845 e faleceu em 1849.",
+	      repoisar: Na solidão da morte — ali I]repoisam ossos de Pai, de irmãos!,
+	      repousar: E a viúva Onassis foi enterrada em Washington, no Cemitério Nacional de Arlington, onde [repousam os heróis da pátria.,}
+
+Chave: JAZER <verb.contact>
+ILI: 01505282
+
+Sense 3
+{01505282} <verb.contact> repose -- (lie when dead; "Mao reposes in his mausoleum")
+       => {01504229} <verb.contact> lie -- (be lying, be prostrate; be in a horizontal position; "The sick man lay in bed all day"; "the books are lying on the shelf") 

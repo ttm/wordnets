@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA3125
+
+DADO O SYNSET:
+
+S='Glosa3125'
+	    {
+	      desaplaudir: x,
+	      desaprovar: Novamente o treinador [desaprovou a performance da equipe.,
+	      improbar: x,
+	      improvar: x,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3125' = “considerar ruim ou errado”
+	     {desaprovar: Novamente o treinador [desaprovou a performance da equipe.,}
+Chave: DESAPROVAR <verb.cognition>
+ILI: 00651887
+
+Sense 1
+{00651887} <verb.cognition> disapprove -- (consider bad or wrong)
+       => {00647983} <verb.cognition> judge -- (form an opinion of or pass judgment on; "I cannot judge some works of modern art")
+           => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

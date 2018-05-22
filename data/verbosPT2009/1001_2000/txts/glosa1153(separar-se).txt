@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA1153
+
+DADO O SYNSET:
+
+S='Glosa1153'
+{abcidar-se: x,
+ abscidar-se: x,
+ afastar-se: A história começa quando um músico importante morre deixando uma filha, que, a partir desse momento, procura [afastar-se de tudo o que se relaciona com seu passado,
+ desafeiçoar-se: Em decorrência dessa circunstância ganha o autor, e muito mais ganha o leitor que, por esses dias infelizmente instado a I]desafeiçoar-se de seu lastro cívico pelos meios de comunicação, vê-se ao longo dessas páginas contemplado com narrações que resgatam o que verdadeiramente somos no sentido mais puro de nossos recursos.,
+ desligar-se: Os do Sul já haviam prometido [desligar-se da União caso Lincoln triunfasse,
+ romper: O vice-presidente de futebol,Eurico Miranda, decidiu [romper com a Federação por considerar que a entidade não ficou ao seu lado na briga com a Suderj,
+ separar-se: Reino Unido e Itália são exemplos de sucesso ao [separar-se do malfadado câmbio fixo do Sistema Monetário Europeu/Três Sukhoi-25 bombardearam Grozni, capital da república autônoma russa da Tchetcheno-Inguchétia, que tenta [separar-se de Moscou,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1153' = “terminar uma ligação [com]”
+{afastar-se: Há dois anos, Quércia e Dias [se afastaram em razão de uma briga pelo controle do PMDB.,
+ desafeiçoar-se: Quando os representantes se tornam muito afastados, os eleitores perdem a percepção de que exercem influência sobre a produção de políticas, I]desafeiçoam-se e se abstêm da participação.,
+ desligar-se: Injuriado, Lucas [desligou-se do sindicato,
+ romper: O príncipe Charles, 45, [rompeu com Camilla Parker-Bowles.,
+ separar-se: O casal [separou-se em novembro de 93.,}
+Chave: SEPARAR-SE
+ILI: 02358665
+
+Sense 1
+{02358665} <verb.social> break with -- (end a relationship; "China broke with Russia")
+       => {02358151} <verb.social> separate2, part, split up1, split, break13, break up -- (discontinue an association or relation; go different ways; "The business partners broke over a tax question"; "The couple separated after 25 years of marriage"; "My friend and I split up")

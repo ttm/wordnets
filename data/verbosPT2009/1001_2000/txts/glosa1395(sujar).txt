@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA1395
+
+DADO O SYNSET:
+
+S='Glosa1395'
+{enxovalhar: Depois veio o dilúvio, a enxurrada que I]enxovalhou o Brasil.,
+ impurificar: Depois de obter as drogas em alto grau de pureza, os quimicos da televisão propositadamente as contaminam! Ora esta, I]impurificar o que se purificara!,
+ sujar: A higiene consiste em limpar o sujo, mas essencialmente não I]sujar o limpo.,}
+	  
+A='Glosa3779'
+{abluir, alimpar, apurar, clarificar, depurar, escoimar, escoriar2, expurgar, lavar, limpar, mundificar, perlavar, purgar, purificar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1395' = “tornar sujo, impuro”
+{enxovalhar: Charpinel pôs a difamá-las nas vendas e botequins das estradas, da vila, caluniou-as, I]enxovalhou-as de lama.,
+ impurificar: Frank propõe que os estabelecimentos industriais que I]impurifiquem o ar e sujem as ruas e os rios, como as tinturarias e os curtumes, exerçam suas atividades fora das cidades.
+ sujar: O dono de um frigorífico I]sujou a água com sangue de um montão de animais e contaminou o rio com restos de tanino que saiam de seu curtume.,}
+A='Glosa3779'
+{abluir, alimpar, apurar, clarificar, depurar, escoimar, escoriar2, expurgar, lavar, limpar, mundificar, perlavar, purgar, purificar}
+Chave: SUJAR <verb.change>
+ILI: 00478960
+
+Sense 6
+{00478960} <verb.change> foul1 -- (make unclean; "foul the water")
+       => {01491650} <verb.contact> dirty, soil, begrime, grime, colly, bemire -- (make soiled, filthy, or dirty; "don't soil your clothes when you play outside!")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

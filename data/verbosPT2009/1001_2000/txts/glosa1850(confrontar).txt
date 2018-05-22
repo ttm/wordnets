@@ -1,0 +1,39 @@
+ANÁLISE DA GLOSA1850
+
+DADO O SYNSET:
+
+S='Glosa1850'
+{abarbar: Nós, oásis, estamos I]abarbando tempos bicudos e receio que, em breve, poderemos ser tidos na conta de gaiatos irresponsáveis.,
+ acarar: A facilidade de se comunicar levou o empresário mais longe e a I]acarar de fato a vida pública, tendo como conseqüência a sua eleição para vereador.,
+ afitar: x,
+ afrentar: x,
+ afrontar: Não é através de soluções obtidas no plano do indivíduo que Heidegger pensa poder [afrontar os problemas da civilização contemporânea.,
+ arrostar: Eis o desafio que Lula precisa [arrostar e, desta vez, vencer.,
+ atrever-se: É tão medroso que nem a um gato se A]atreve.,
+ confrontar: Genoíno tem de [confrontar a bancada justamente como fez Vicentinho ao confrontar a CUT e o partido.,
+ contrastar: Não tinha meio para A]contrastar as forças inimigas.,
+ defrontar: Sabemos que o FC Porto pode I]defrontar qualquer adversário. ,
+ desafiar1: Gil De Ferran e Christian Fittipaldi escoltaram Zanardi até o pódio mas em nenhum momento da corrida mostraram-se em condições de [desafiar o italiano.,
+ encarar: Quando perguntada sobre a razão de sua adoração por Jane Austen, Emma Thompson não vacila: «Os livros de Jane Austen me ensinaram que a melhor forma de encarar os problemas é [enfrentar tudo com bom humor.,
+ enfrentar: Depois de [enfrentar o preconceito de ser sempre um «negro inteligente» entre os brancos, Wideman é um homem otimista.,
+ entestar: Este Gonçalves era o espírito menos jurídico, menos apto para I]entestar com as questões de direito.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1850' = “opor-se [a], como numa hostilidade ou competição”
+{abarbar: Nós, oásis, estamos I]abarbando tempos bicudos e receio que, em breve, poderemos ser tidos na conta de gaiatos irresponsáveis.,
+ acarar: A facilidade de se comunicar levou o empresário mais longe e a I]acarar de fato a vida pública, tendo como conseqüência a sua eleição para vereador.,
+ afrontar: Não é através de soluções obtidas no plano do indivíduo que Heidegger pensa poder [afrontar os problemas da civilização contemporânea.,
+ arrostar: Apesar de financeiramente abalado, o Jornal da Bahia I]arrostou corajosamente as intempéries.,
+ confrontar: Genoíno tem de [confrontar a bancada justamente como fez Vicentinho ao confrontar a CUT e o partido.,
+ defrontar: Nunca o mundo I]defrontou tantos problemas desconcertantes como na atualidade.,
+ desafiar1: Gil De Ferran e Christian Fittipaldi escoltaram Zanardi até o pódio mas em nenhum momento da corrida mostraram-se em condições de [desafiar o italiano.,
+ encarar: Mas a gente I]encarou todo mundo até agora..,
+ enfrentar: Depois de [enfrentar o preconceito de ser sempre um «negro inteligente» entre os brancos, Wideman é um homem otimista.,
+ entestar: Este Gonçalves era o espírito menos jurídico, menos apto para I]entestar com as questões de direito.,}
+Chave: CONFRONTAR <verb.competition>
+ILI: 01044330
+
+Sense 1
+{01044330} <verb.competition> confront, face -- (oppose, as in hostility or a competition; "You must confront your opponent"; "Jackson faced Smith in the boxing ring"; "The two enemies finally confronted each other")
+       => {01045027} <verb.competition> meet, encounter, play2, take on1 -- (contend against an opponent in a sport, game, or battle; "Princeton plays Yale this weekend"; "Charlie likes to play Mary")

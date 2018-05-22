@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA3186
+
+DADO O SYNSET:
+
+S='Glosa3186'
+{acumular-se: DEVIANT,
+	 adensar-se: Deixar o leite gordo I]adensar-se em manteiga e comer.,
+	 avolumar-se: Por causa da retenção de líquidos, a parte superior do tronco I]avoluma-se, assim como braços e rosto.,
+	 condensar-se: O ectomesênquima desenvolve-se cercado parcialmente pela parte invaginada do epitélio interno do órgão dental. Em seguida, I]condensa-se para formar a papila dentária que é o órgão formador de dentina.,
+	 engrossar-se: Quando os ossos desprenderem da pouca carne neles existente, retiram-se os sólidos e I]engrossa-se o caldo restante com farinha de trigo até que vire um molho. ,
+	 espessar-se: Os astrócitos são as maiores células da neuróglia e apresentam grande número de prolongamentos, cujas extremidades podem [espessar-se e envolver a parede de capilares sangüíneos. ,
+	 inspissar-se: O sumo da babosa H]inspissou-se. }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3186' = “crescer ou intensificar-se”
+{adensar-se: Deixar o leite gordo I]adensar-se em manteiga e comer.,
+	 avolumar-se: Por causa da retenção de líquidos, a parte superior do tronco I]avoluma-se, assim como braços e rosto.,
+	 condensar-se: O ectomesênquima desenvolve-se cercado parcialmente pela parte invaginada do epitélio interno do órgão dental. Em seguida, I]condensa-se para formar a papila dentária que é o órgão formador de dentina.,
+	 engrossar-se: Quando os ossos desprenderem da pouca carne neles existente, retiram-se os sólidos e I]engrossa-se o caldo restante com farinha de trigo até que vire um molho. ,
+	 espessar-se: Os astrócitos são as maiores células da neuróglia e apresentam grande número de prolongamentos, cujas extremidades podem [espessar-se e envolver a parede de capilares sangüíneos. ,
+	 inspissar-se: O sumo da babosa H]inspissou-se. }
+Chave: AVOLUMAR-SE <verb.change>
+ILI: 00152104
+
+Sense 2
+{00152104} <verb.change> augment -- (grow or intensify; "The pressure augmented")
+       => {00223119} <verb.change> grow -- (become larger, greater, or bigger; expand or gain; "The problem grew too large for me"; "Her business grew fast")
+           => {00150804} <verb.change> increase -- (become bigger or greater in amount; "The amount of work increased")
+               => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA2325
+
+DADO O SYNSET:
+
+S='Glosa2325'
+	    {revolucionar: Voto [revoluciona a política indiana.,
+	      transfazer: x,
+	      transformar: Deus morto, escreve Camus, é preciso [transformar e organizar o mundo com as forças do homem.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2325' = “mudar radicalmente.”
+	    {revolucionar: Voto [revoluciona a política indiana.,
+	      transformar: É preciso [transformar e organizar o mundo com as forças do homem.,}
+
+Chave: REVOLUCIONAR <verb.change>
+ILI: 00120799
+
+Sense 1
+{00120799} <verb.change> revolutionize, revolutionise, overturn -- (change radically; "E-mail revolutionized communication in academe")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

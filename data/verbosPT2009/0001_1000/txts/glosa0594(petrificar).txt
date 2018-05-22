@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0594
+
+DADO O SYNSET:
+
+S='Glosa594'
+{empedernecer: O pessimista contamina aqueles com quem vive e I]empedernece os sentimentos, demorando-se indiferente a tudo.,
+empedernir: A luta pela sobrevivência, a nossa própria ou de nossos semelhantes, acaba nos I]empedernindo, tornando-nos pessoas frias.,
+empedrenir: x,
+lapidificar: A experiência da guerra H]lapidifica os sentimentos.,
+petrificar: E toda ilusão me deixou maluco e I]petrificou meu coração.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa594' = “fazer ficar como pedra ou duro”
+{empedernecer: O pessimista contamina aqueles com quem vive e I]empedernece os sentimentos, demorando-se indiferente a tudo.,
+empedernir: A luta pela sobrevivência, a nossa própria ou de nossos semelhantes, acaba nos I]empedernindo, tornando-nos pessoas frias.,
+petrificar: E toda ilusão me deixou maluco e I]petrificou meu coração.,}
+Chave: PETRIFICAR <verb.change>
+ILI: 00185818
+
+Sense 1
+{00185818} <verb.change> petrify1 -- (cause to become stone-like or stiff or dazed and stunned; "The horror petrified his feelings"; "Fear petrified her thinking")
+       => {00185398} <verb.change> deaden1, blunt2 -- (make less lively, intense, or vigorous; impair in vigor, force, activity, or sensation; "Terror blunted her feelings"; "deaden a sound")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

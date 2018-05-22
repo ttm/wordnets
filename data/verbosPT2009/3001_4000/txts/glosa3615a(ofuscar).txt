@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA3615a
+
+DADO O SYNSET:
+
+S='Glosa3615'
+	    {
+	      avantajar-se: As coisas imortais I]se avantajam às mortais.,
+	      obscurecer: A aparente trivialidade desta afirmação não deve [obscurecer o que é essencial ressaltar. / A ênfase que dávamos à redação na primeira fase [obscurecia a segunda fase.,
+	      ofuscar: Não conseguiu [ofuscar a beleza de Miriam. / Foi aplaudido de pé nos dois concertos e quase [ofuscou o excelente desempenho da orquestra. ,
+	      suplantar: Passaram-se quarenta anos até que a física newtoniana [suplantasse firmemente a física cartesiana.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3615a' = “atrair mais atenção e elogios que outros”
+	     {obscurecer: Para ele, todo esse debate em torno das conversões para URV [obscurece o mais importante, que são as regras de introdução do real. / A ênfase que dávamos à redação na primeira fase [obscurecia a segunda fase.,
+	      ofuscar: A condenação do maior astro da história do futebol argentino [ofuscou a cerimônia de juramento da nova Constituição, transmitida em rede obrigatória de TV. / Foi aplaudido de pé nos dois concertos e quase [ofuscou o excelente desempenho da orquestra. ,}
+Chave: OFUSCAR <verb.competition>
+ILI: 01072095
+
+Sense 2
+{01072095} <verb.competition> outshine -- (attract more attention and praise than others; "This film outshone all the others in quality")
+       => {01070498} <verb.competition> surpass, outstrip, outmatch, outgo, exceed, outdo, surmount1, outperform -- (be or do something to a greater degree; "her performance surpasses that of any other student I know"; "She outdoes all other athletes"; "This exceeds all my expectations"; "This car outperforms all others in its class")
+           => {01066844} <verb.competition> beat, beat out, crush, shell3, trounce, vanquish -- (come out better in a competition, race, or conflict; "Agassi beat Becker in the tennis championship"; "We beat the competition"; "Harvard defeated Yale in the last football game")
+               => {01072989} <verb.competition> get the better of, overcome3, defeat -- (win a victory over; "You must overcome all difficulties"; "defeat your enemies"; "He overcame his shyness"; "She conquered here fear of mice"; "He overcame his infirmity"; "Her anger got the better of her and she blew up") 

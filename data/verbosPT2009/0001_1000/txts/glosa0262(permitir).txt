@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA0262
+
+DADO O SYNSET:
+
+S='Glosa262'
+{consentir: As buscas domiciliares serão executadas de dia, salvo se o morador [consentir que se realizem à noite.,
+deixar: Giuliani [deixou que eu o seguisse por dois meses.,
+permitir: É evidente que a humanidade não pode [permitir que isso aconteça.,}
+A='Glosa972'
+{proibir: O papa Gregório VII [proibiu os imperadores de concederem investiduras em cargos eclesiásticos e quem desobedecesse seria excomungado.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa262' = “consenter; dar permissão”
+{consentir: As buscas domiciliares serão executadas de dia, salvo se o morador [consentir que se realizem à noite.,
+deixar: Giuliani [deixou que eu o seguisse por dois meses.,
+permitir: É evidente que a humanidade não pode [permitir que isso aconteça.,}
+A='Glosa972'
+{proibir}
+Chave: PERMITIR <verb.communication>
+ILI: 00776433
+
+Sense 1
+{00776433} <verb.communication> permit, allow, let2, countenance -- (consent to, give permission; "She permitted her son to visit her estranged husband"; "I won't let the police search her basement"; "I cannot allow you to see your exam")
+          EX:  They permit him to write the letter

@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA0701
+
+DADO O SYNSET:
+
+S='Glosa701'
+{cevar: x,
+iscar: Para I]iscar, aperte ligeiramente a parte mais grossa da minhoca e quando esta expuser o apêndice bucal, espete o anzol na boca com cuidado.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa701' = “pôr isca em; provocar”
+{iscar: Ele I]iscou em uma das varas um pequeno chuveirinho de tilápias com uma coxinha de massa.,}
+Chave: ISCAR <verb.social>
+ILI: 02501106
+
+Sense 2
+{02501106} <verb.social> bait -- (lure, entice, or entrap with bait)
+       => {00756826} <verb.communication> entice, lure, tempt4 -- (provoke someone to do something through (often false or exaggerated) promises or persuasion; "He lured me into temptation")
+           => {00768370} <verb.communication> provoke, stimulate -- (provide the needed stimulus for)
+               => {00839696} <verb.communication> challenge -- (issue a challenge to; "Fischer challenged Spassky to a match")
+                   => {00767907} <verb.communication> invite, bid -- (ask someone in a friendly way to do something)
+                       => {00728656} <verb.communication> request2 -- (ask (a person) to do something; "She asked him to be here at noon"; "I requested that she type the entire manuscript")
+                           => {00727721} <verb.communication> ask1 -- (make a request or demand for something to somebody; "She asked him for a loan")
+                               => {00727992} <verb.communication> request1, bespeak, call for4, quest1 -- (express the need or desire for; ask for; "She requested an extra bed in her room"; "She called for room service")
+                                   => {00717906} <verb.communication> communicate1, pass on, pass1, put across -- (transmit information ; "Please communicate this message to all employees")
+                                       => {02167243} <verb.possession> convey10, transmit10, communicate10 -- (transfer to another; "communicate a disease")
+                                           => {02167764} <verb.possession> transfer1 -- (move from one place to another; "transfer the data"; "transmit the news"; "transfer the patient to another hospital")
+                                               => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

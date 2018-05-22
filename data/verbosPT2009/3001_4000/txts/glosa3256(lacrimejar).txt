@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA3256
+
+DADO O SYNSET:
+
+S='Glosa3256'
+	    {
+	      lacrimejar: Um detalhe estraga a perfeição: no inverno, seus olhos não param de [lacrimejar. ,
+	      lagrimejar: Já ardeu muito os olhos, que chegam a I]lagrimejar, você nem sabe o porquê, e mesmo fechando os olhos continua a arder?,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3256' = “secretar ou formar água, como lágrimas ou saliva” 
+	     {lacrimejar: Seus olhos arregalados I]lacrimejavam, mas não piscavam, e o nariz, esmagado contra o vidro, recebia todo o frio daquela límpida noite de julho.,
+	      lagrimejar: A cabeça doía, a respiração falhava, e os olhos I]lagrimejavam.,}
+Chave: LACRIMEJAR <verb.body> 
+ILI: 00067381
+
+Sense 3
+{00067381} <verb.body> water -- (secrete or form water, as tears or saliva; "My mouth watered at the prospect of a good dinner"; "His eyes watered")
+       => {00067106} <verb.body> secrete, release -- (generate and separate from cells or bodily fluids; "secrete digestive juices"; "release a hormone into the blood stream")
+           => {00065828} <verb.body> exude, exudate, transude, ooze out, ooze -- (release (a liquid) in drops or small quantities; "exude sweat through the pores")
+               => {00070835} <verb.body> excrete, egest, eliminate, pass -- (eliminate from the body; "Pass a kidney stone")
+                   => {00102093} <verb.body> discharge, expel, eject, release1 -- (eliminate (substances) from the body)

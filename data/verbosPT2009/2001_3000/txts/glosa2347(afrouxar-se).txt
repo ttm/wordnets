@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA2347
+
+DADO O SYNSET:
+
+S='Glosa2347'
+	    {afrouxar-se: Logo em seguida o corpo começa I]afrouxar-se de novo. # Um dia notou a mulher um leve I]afrouxar-se das pálpebras. ,
+	      entibiar-se: Aquela prega do solo, onde se improvisara um hospital de sangue, era a imagem material do golpe que sulcara a expedição abrindo-a de meio a meio, considerando-a entibiavam-se os mais fortes. ,
+	      entorpecer: Estas drogas que vem para o Brasil para I]entorpecer nossas crianças.# Esses fármacos utilizados hoje nas cirurgias abdominais já eram utilizados durante a caça indígena para I]entorpecer os animais.,
+	      torpecer: x.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2347' = “Tornar fraco por diminuir a tensão ou a firmeza.”
+	    {afrouxar-se: Logo em seguida o corpo começa I]afrouxar-se de novo.,
+	      entorpecer: O remédio lhe I]entorpeceu os músculos.,}
+
+Chave: AFROUXAR-SE <verb.change>
+ILI: 00408992
+
+Sense 4
+{00408992} <verb.change> slacken1, remit -- (make slack as by lessening tension or firmness)
+       => {00407260} <verb.change> loosen1, loose2 -- (make loose or looser; "loosen the tension on a rope")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

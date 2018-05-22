@@ -1,0 +1,50 @@
+ANÁLISE DA GLOSA1896
+
+DADO O SYNSET:
+
+S='Glosa1896'
+    	{acondicionar: A loja criou uma rede de fornecedores, a maioria pequenas empresas e pessoas que trabalham em casa fabricando chocolates, personalizando canetas, criando cestas e caixas para [acondicionar os presentes.,
+      	 emaçar: Achou divertidíssimo que o Dr. Finkelstein ainda usasse barbante para I]emaçar e não lhe ocorria que outra pessoa tivesse feito o pacote que não ele. ,
+      	 emalar: Apesar de velha e magra, Ângela era forte e sadia; atarefada I]emalava ferramentas e movia fardos com facilidade.,
+      	 embalar2: Três [embalavam a droga e cinco vigiavam a local.,
+      	 embrulhar: Naquele dia, alguém manipulou e [embrulhou os ossos.,
+      	 empacar2: x,
+      	 empacotar: Uma vez preso pelo gelo, Amyr [empacotou todos os equipamentos de navegação que não são necessários na invernagem (antenas de radar, Satnav, pilotos automáticos, leme de vento e leme principal) .,
+      	 encapar: x,
+      	 enfardar: Para sanar esta situação, a Embrapa Algodão (Campina Grande-PB) projetou uma mini-usina de fácil operação, para descaroçar e I]enfardar o algodão.,
+      	 enfardelar: x,
+      	 enfeixar: x,
+      	 enrolar: Mandou H]enrolar o presente com papel de seda.,
+      	 ensacar: Ou um pequeno carvoeiro posando com um garfo enorme, maior que ele, usado para [ensacar carvão.,
+      	 entroixar: x,
+      	 entrouxar: Pegou das costuras, I]entrouxou-as, pôs um xale às costas, um rosário ao pescoço, deu cinco ou seis ordens à sobrinha e caminhou para a porta. ,
+      	 envolver: I]Envolveu o vaso de porcelana num pano de linho e amarrou-o nas quatro pontas para melhor poder carregá-lo. , }
+
+A='Glosa1387'
+    	{desembalar, desembrulhar, desempacotar, desencapar, desenfardar, desentrouxar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1896' = “dispor em um recipiente”
+    	{acondicionar: A loja criou uma rede de fornecedores, a maioria pequenas empresas e pessoas que trabalham em casa fabricando chocolates, personalizando canetas, criando cestas e caixas para [acondicionar os presentes.,
+      	 emaçar: Achou divertidíssimo que o Dr. Finkelstein ainda usasse barbante para I]emaçar e não lhe ocorria que outra pessoa tivesse feito o pacote que não ele.,
+      	 emalar: Apesar de velha e magra, Ângela era forte e sadia; atarefada I]emalava ferramentas e movia fardos com facilidade.,
+      	 embalar2: Três [embalavam a droga e cinco vigiavam a local.,
+      	 embrulhar: Naquele dia, alguém manipulou e [embrulhou os ossos.,
+      	 empacotar: Uma vez preso pelo gelo, Amyr [empacotou todos os equipamentos de navegação que não são necessários na invernagem (antenas de radar, Satnav, pilotos automáticos, leme de vento e leme principal).,
+      	 enfardar: Para sanar esta situação, a Embrapa Algodão (Campina Grande-PB) projetou uma mini-usina de fácil operação, para descaroçar e I]enfardar o algodão.,
+      	 ensacar: Ou um pequeno carvoeiro posando com um garfo enorme, maior que ele, usado para [ensacar carvão.,
+      	 entrouxar: Pegou das costuras, I]entrouxou-as, pôs um xale às costas, um rosário ao pescoço, deu cinco ou seis ordens à sobrinha e caminhou para a porta.,
+      	 envolver: I]Envolveu o vaso de porcelana num pano de linho e amarrou-o nas quatro pontas para melhor poder carregá-lo.,}
+
+A='Glosa1387'
+    	{desembalar, desembrulhar, desempacotar, desencapar, desenfardar, desentrouxar}
+Chave: EMBALAR <verb.contact>
+ILI: 01440449
+
+Sense 1
+{01440449} <verb.contact> pack -- (arrange in a container; "pack the books into the boxes")
+       => {01444327} <verb.contact> encase, incase, case1 -- (enclose in, or as if in, a case; "my feet were encased in mud")
+           => {01543739} <verb.contact> enclose, inclose, shut in -- (surround completely; "Darkness enclosed him")
+               => {01425761} <verb.contact> surround, skirt, border1 -- (extend on all sides of simultaneously; encircle; "The forest surrounds my property")
+                   => {01169130} <verb.contact> touch1, adjoin3, meet, contact3 -- (be in direct physical contact with; make contact; "The two buildings touch"; "Their hands touched"; "The wire must not contact the metal cover"; "The surfaces contact at this point")

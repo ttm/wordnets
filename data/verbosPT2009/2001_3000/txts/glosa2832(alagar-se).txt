@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA2832
+
+DADO O SYNSET:
+
+S='Glosa2832'
+	    {alagar-se: No Pantanal, existem terras sempre secas (as partes mais altas) , terras que [se alagam apenas nos períodos de chuvas e terras que permanecem continuamente alagadas, promovendo a ocorrência de uma vegetação variada . ,
+	      encher-se: I]Encheu-se o fundo do frasco com água.,
+	      invadir-se: x,
+	      ocupar-se: x,
+	      rasar-se: Os olhos da menina H]rasaram-se de lágrimas.,
+	      tomar-se: A roupa suada M]toma-se de mau cheiro.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2832' = “Encher ou cobrir completamente, geralmente com água”
+	    {alagar-se: Áreas I]se alagaram e riachos se formaram.,
+	      encher-se: O convés dos passageiros I]encheu-se de água rapidamente e o pânico logo tomou conta do navio.,
+	      rasar-se: Honestamente, meus olhos I]se rasaram d’água quando ela diz que fabricou um “mini-protótipo” da Soyuz para pessoalmente entregar a Marcos.,}
+Chave: ALAGAR-SE <verb.change>
+ILI: 00210267
+
+Sense 2
+{00210267} <verb.change> inundate, deluge, submerge2 -- (fill or cover completely, usually with water)
+       => {00209719} <verb.change> flood -- (cover with liquid, usually water; "The swollen river flooded the village"; "The broken vein had flooded blood in her eyes")
+           => {01171349} <verb.contact> cover1, spread over -- (form a cover over; "The grass covered the grave")
+               => {01169130} <verb.contact> touch1, adjoin3, meet, contact3 -- (be in direct physical contact with; make contact; "The two buildings touch"; "Their hands touched"; "The wire must not contact the metal cover"; "The surfaces contact at this point") 

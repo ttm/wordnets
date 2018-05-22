@@ -1,0 +1,56 @@
+ANÁLISE DA GLOSA4008
+
+DADO O SYNSET:
+
+S='Glosa4008'
+{avantajar-se: O crime organizado está se [avantajando e quer mudar de rumo .,
+brilhar: Os heroísmos da caridade M]brilharão sempre em todo o universo.,
+destacar-se: Além de seu importante papel como jornalista, Jobim [destacou-se também como professor de jornalismo, na antiga Universidade do Brasil, e como professor visitante nas universidades de Paris e do Texas .,
+distinguir-se: Freqüentava altas rodas e se [distinguira entre os mais notáveis.,	eclodir: x,
+evidenciar-se: O proletariado não se I]evidenciou como juiz da sociedade capitalista.,
+fulgir: Ali seu talento M]fulgira.,
+fulgurar: Estava cheia da glória de Deus, e cintilava e I]fulgurava como uma pedra preciosa, de cristal puro como o jaspe.,
+galhardear: M]Galhardeou como marcador de quadrilha.,
+predominar: Os navios de guerra romanos H]predominaram no Mediterrâneo.,
+prelevar: Naquele governo, A]prelevava a prosperidade do povo.,
+primar: M]Primou nas ciências e nas letras,
+realçar: O sol com seu último reflexo esclarecia a barba e os cabelos brancos do velho fidalgo, e [realçava a beleza daquele basto de antigo cavalheiro .,
+relevar-se: M]Releva-se em diversos ramos do saber. ,
+ressair: Tais qualidades [ressaem quando o vocábulo, o conceito, a frase feita se engastam num adágio, numa sentença, numa estrofe.,
+ressaltar: O contraste entre o marido e a mulher H]ressalta muito.,
+salientar-se: M]Salientou-se como escritor.,
+sobrepujar: x,
+sobressair: E um deles, recém-lançado, I]sobressai pela pesquisa minuciosa realizada pelo autor: A capital da solidão, do jornalista Roberto Pompeu de Toledo.,
+sublimar-se: M]Sublimou-se o apóstolo entre os seus pares.,
+transcender: Aquele homem A]transcende em numerosos talentos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4008' = “distinguir-se”
+{avantajar-se: O crime organizado está se [avantajando e quer mudar de rumo .,  
+brilhar: Corredora catarinense, já classificada, [brilhou e ganhou o primeiro lugar no Rio.,  
+destacar-se: Além de seu importante papel como jornalista, Jobim [destacou-se também como professor de jornalismo, na antiga Universidade do Brasil, e como professor visitante nas universidades de Paris e do Texas ., 
+distinguir-se: Freqüentava altas rodas e se [distinguira entre os mais notáveis., 
+evidenciar-se: Esse artista está se M]evidenciando., 
+fulgir: Ali seu talento M]fulgira., 
+fulgurar: A irradiação do seu nome foi rápida, e I]fulgurou com a publicação de Poesias.,
+galhardear: M]Galhardeou como marcador de quadrilha.,
+primar: M]Primou nas ciências e nas letras, 
+realçar: O sol com seu último reflexo esclarecia a barba e os cabelos brancos do velho fidalgo, e [realçava a beleza daquele basto de antigo cavalheiro .,
+relevar-se: M]Releva-se em diversos ramos do saber. , 
+ressair: Tais qualidades [ressaem quando o vocábulo, o conceito, a frase feita se engastam num adágio, numa sentença, numa estrofe., 
+ressaltar: O contraste entre o marido e a mulher H]ressalta muito., 
+salientar-se: M]Salientou-se como escritor. 
+sobressair: E um deles, recém-lançado, I]sobressai pela pesquisa minuciosa realizada pelo autor: A capital da solidão, do jornalista Roberto Pompeu de Toledo., 
+sublimar-se: M]Sublimou-se o apóstolo entre os seus pares., 
+transcender: Aquele homem A]transcende em numerosos talentos.,}
+Chave: DESTACAR-SE <verb.stative>
+ILI: 02593369
+
+Sense 1
+{02593369} <verb.stative> excel, stand out, surpass -- (distinguish oneself; "She excelled in math")
+       => {02588847} <verb.stative> exceed, transcend1, overstep, pass4, go past, top -- (go beyond; "She exceeded our expectations"; "She topped her performance of last year")
+       => {02593248} <verb.stative> rank, outrank -- (take precedence or surpass others in rank)
+       => {02593744} <verb.stative> shine at, excel at -- (be good at; "She shines at math")
+       => {02624480} <verb.stative> overshadow, eclipse -- (exceed in importance; outweigh; "This problem overshadows our lives right now")
+

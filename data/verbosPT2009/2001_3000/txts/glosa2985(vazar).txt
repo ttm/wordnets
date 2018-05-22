@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA2985
+
+DADO O SYNSET:
+
+S='Glosa2985'
+	    {fundir1: Após a vitória sobre o rei macedônio Demétrio Poliorcetes, os habitantes de Rodes decidiram I]fundir uma estátua em honra do seu deus protetor. ,
+	      fusionar: x,
+	      moldar: Chares provavelmente começou fazendo versões menores da estátua e as usou como um guia para I]moldar cada porção de bronze da estátua.  ,
+	      vazar: M]Vazar o bronze, o ouro, a prata.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2985' = “Formar despejando (parafina ou metal quente) em um molde ou forma”
+	    {fundir1: Na Itália renascentista, o processo de cera perdida foi muito utilizado por Benevenuto Cellini, que em 1540 fundiu em bronze, a estátua  “Perseu e a Cabeça de Medusa”.,
+	      moldar: Com a chegada do 60.º aniversário da vitória sobre a Alemanha nazista, ele I]moldou uma monumental estátua de bronze reproduzindo Stalin ao lado de Churchill.,}
+Chave: MOLDAR <verb.creation>
+ILI: 01615496
+
+Sense 7
+{01615496} <verb.creation> cast, mold, mould -- (form by pouring (e.g., wax or hot metal) into a cast or mold; "cast a bronze sculpture")
+       => {01612040} <verb.creation> shape, form, work12, mold1, mould1, forge3 -- (make something, usually for a specific function; "She molded the riceballs carefully"; "Form cylinders from the dough"; "shape a figure"; "Work the metal into a sword")
+           => {01606076} <verb.creation> create from raw material, create from raw stuff -- (make from scratch)
+               => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor") 

@@ -1,0 +1,35 @@
+ANÁLISE DA GLOSA3155
+
+DADO O SYNSET:
+
+S='Glosa3155'
+	    {
+	      caracterizar-se: Apresentando grandes contrastes, caracteriza-se por possuir as mais elevadas montanhas do mundo (Pico Everest com 8.848 m) e áreas, a exemplo do Mar Morto, localizadas a mais de 300 metros abaixo do nível do mar. ,
+	      caraterizar-se: A África apresenta duas zonas diferenciadas: a do norte e noroeste, que inclui o Saara e I]carateriza-se por uma fauna parecida com a da Eurásia. ,
+	      destacar-se: A República Sul-Africana, com quase 40 milhões de cabeças, [destaca-se como o maior criador de ovinos da África. ,
+	      distinguir-se: Em mais de 30 anos de carreira, sua obra [distingue-se pelo retrato poético da miséria, composta através de experimentações heterodoxas de um quase autodidata.,
+	      especializar-se: Os conceitos objetivos, os entes de razão; se, ademais, é real, como no caso do homem em concreto, cuja existência é um fato, I]especializa-se a imaterialidade como espiritualidade.,
+	      individualizar-se: É nesses seres, que estais longe de conhecer inteiramente, que o princípio inteligente se elabora, se I]individualiza pouco a pouco, e ensaia para a vida.,
+	      individuar-se: E isso o funcionalista não responde, pois a partir de sua concepção de propriedade mental como propriedade funcional I]individuam-se estados mentais. ,
+	      particularizar-se: A atividade pecuária, também, I]particulariza-se pela baixa rotatividade de seus estoques, comparada a outros setores, e pelo crescimento natural do gado. ,
+	      singularizar-se: A Guiana I]singulariza-se por ser país sul-americano de língua inglesa e uma nação jovem, cuja independência foi obtida em 1966.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3155' = “tornar-se distinto e adquirir caráter diferente”
+	     {caracterizar-se: A Zona dos Cocais [caracteriza-se pelo predomínio de palmeiras de grande importância comercial como o babaçu e a carnaúba. ,
+	      caraterizar-se: A África apresenta duas zonas diferenciadas: a do norte e noroeste, que inclui o Saara e I]carateriza-se por uma fauna parecida com a da Eurásia. ,
+	      destacar-se: Cartão postal do país, a cidade I]destaca-se por sua exuberante beleza natural, formada pela perfeita harmonia entre o mar e a montanha. ,
+	      distinguir-se: Em mais de 30 anos de carreira, sua obra [distingue-se pelo retrato poético da miséria, composta através de experimentações heterodoxas de um quase autodidata.,
+	      especializar-se: O profissional de História especializa-se no estudo do processo social, sob a perspectiva da temporalidade e nos vários níveis que compõem a realidade.,
+	      individualizar-se: O Nordeste I]individualiza-se pela repulsão populacional e pela disseminação da pobreza.,
+	      particularizar-se: A atividade pecuária, também, I]particulariza-se pela baixa rotatividade de seus estoques, comparada a outros setores, e pelo crescimento natural do gado. ,
+	      singularizar-se: A Guiana I]singulariza-se por ser país sul-americano de língua inglesa e uma nação jovem, cuja independência foi obtida em 1966.,}
+Chave: DISTINGUIR-SE <verb.change>
+ILI: 00114489
+
+Sense 6
+{00114489} <verb.change> differentiate -- (become distinct and acquire a different character)
+       => {00154678} <verb.change> dissimilate -- (become dissimilar or less similar; "These two related tribes of people gradually dissimilated over time")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

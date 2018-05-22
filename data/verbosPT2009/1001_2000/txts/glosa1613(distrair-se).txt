@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA1613
+
+DADO O SYNSET:
+
+S='Glosa1613'
+{cochilar: Fez boa prova, mas H]cochilou num caso de regência.,
+ descuidar-se: Julgando que a eleição de Lula eram favas contadas, abandonou os ideais parlamentaristas, [descuidou-se da constituinte exclusiva e deixou para segundo plano as propostas de controle social sobre a saúde.,
+ desligar-se: Foi ao cinema para H]desligar-se dos aborrecimentos.,
+ distrair-se: É inegável que um botão de emergência grande e colocado num local central e que possa ser acionado sem que o condutor tenha que se I]distrair do que está fazendo é um fator de segurança. ,
+ dormir: Quem [dormiu feio foi o governo, os outros estavam de olhos bem abertos, atentos e fortes.,
+ esquecer-se: Sentou na varanda e H]esqueceu-se.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1613' = “cometer um erro”
+{cochilar: A abordagem mais comum entre os telejornais leva em conta que o governo I]cochilou e foi derrotado numa votação de resultado apertado.,
+ descuidar-se: Durante os momentos de terror, Fábio I]descuidou-se e a garota apoderou-se da arma.,
+ desligar-se: Nessas festas, conhecidas como DIONÍSIAS, surgiu o primeiro traço do teatro: um dos participantes do coro se I]desligou e disse ser um deus, e não ele mesmo.,
+ distrair-se: Ayrton se [distraiu, o austríaco lhe arrancou a pasta da mão, abriu a porta do helicóptero já em movimento e arremessou o precioso objeto para as águas do lago.,
+ dormir: Quem [dormiu feio foi o governo, os outros estavam de olhos bem abertos, atentos e fortes.,}
+Chave: DISTRAIR-SE <verb.cognition>
+ILI: 00597760
+
+Sense 4
+{00597760} <verb.cognition> stumble, slip up, trip up1 -- (make an error; "She slipped up and revealed the name")
+       => {00597451} <verb.cognition> err, mistake1, slip -- (to make a mistake or be incorrect)

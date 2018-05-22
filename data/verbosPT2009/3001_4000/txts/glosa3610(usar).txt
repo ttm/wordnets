@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA3610
+
+DADO O SYNSET:
+
+S='Glosa3610'
+	    {
+	      aproveitar: Os estudantes [aproveitavam até o último instante para estudar com o material promocional que é distribuído por cursinhos. / Prefiro fazer na área de português, já que meu professor disse que posso I]aproveitar no mestrado.,
+	      empregar: Apesar de gastar muito tempo nos deveres do ofício e na igreja, sempre lhe sobrara algum para [empregar em outras coisas. ,
+	      ocupar: Ali um comício invejável, a massa esperava ansiosa e os organizadores não sabiam mais como [ocupar o tempo. ,
+	      recorrer: Para proteger-se do raio, o homem [recorre ao pára-raios ,
+	      servir-se: Compreendiam que havia em tudo isto uma arma terrível, o veneno; mas não podiam saber os meios de que o índio [se servira ou pretendia [servir-se para usar desse agente de destruição. / Vai aprendendo lentamente a [servir-se da boca de fogo.   ,
+	      usar: Podes [usar da tua luneta com a mais plena liberdade.,
+	      utilizar: Queria saber I]utilizar o tempo, para aprender a aproveitar cada minuto ao seu serviço. / O presidente da República [utilizará todos os meios de que dispõe o Poder Executivo para garantir o cumprimento da lei .,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3610' = “por em serviço; empregar (algo) para um propósito particular ou  para seu propósito inerente ou natural”
+	     {aproveitar: Os estudantes [aproveitavam até o último instante para estudar com o material promocional que é distribuído por cursinhos. / A Associação Paulista de Cirurgiões Dentistas (APCD) [aproveita a informática para aumentar a comunicação entre os profissionais.,
+	      empregar: Entretanto, ele também [emprega o termo com um sentido bem diferente, que denota tanto a definição dos problemas quanto o conjunto de técnicas a serem empregadas para analisá-los. ,
+	      ocupar: Barbie [ocupa seu tempo esperando marido vestida de baile, usando jóias vistosas, malhando, esquiando na neve ou se bronzeando à beira da piscina. ,
+	      recorrer: Para proteger-se do raio, o homem [recorre ao pára-raios ,
+	      servir-se: O relato [serve-se dos elementos da indeterminação desta figura para pontuar as aporias da reflexão do narrador no que diz respeito ao bem e ao mal, ao amor e ao ódio, à vida e à morte. / Vai aprendendo lentamente a [servir-se da boca de fogo.   ,
+	      usar: Podes [usar da tua luneta com a mais plena liberdade.,
+	      utilizar: Queria saber I]utilizar o tempo, para aprender a aproveitar cada minuto ao seu serviço. / O presidente da República [utilizará todos os meios de que dispõe o Poder Executivo para garantir o cumprimento da lei.,}
+Chave: USAR <verb.consumption>
+ILI: 01123102
+
+Sense 1
+{01123102} <verb.consumption> use1, utilize, utilise, apply, employ -- (put into service; make work or employ (something) for a particular purpose or for its inherent or natural purpose; "use your head!"; "we only use Spanish at home"; "I can't make use of this tool"; "Apply a magnetic field here"; "This thinking was applied to many projects"; "How do you utilize this tool?"; "I apply this rule to get good results"; "use the plastic bags to store the food"; "He doesn't know how to use a computer")

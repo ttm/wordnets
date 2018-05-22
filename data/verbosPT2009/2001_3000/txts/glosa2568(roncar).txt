@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA2568
+
+DADO O SYNSET:
+
+S='Glosa2568'
+	    {roncar: Quando ele bebe, costuma [roncar mais, diz.,
+	      ronquejar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2568' = “Respirar ruidosamente durante o sono.”
+	    {roncar: I]Ele roncava muito alto, na mesma cama que ocupava há dias.,}
+
+Chave: RONCAR <verb.body>
+ILI: 00016718
+
+Sense 1
+{00016718} <verb.body> snore, saw wood, saw logs -- (breathe noisily during one's sleep; "she complained that her husband snores")
+       => {00001740} <verb.body> breathe, take a breath, respire, suspire3 -- (draw air into, and expel out of, the lungs; "I can breathe better when the air is clean"; "The patient is respiring") 

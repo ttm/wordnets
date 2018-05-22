@@ -1,0 +1,40 @@
+ANÁLISE DA GLOSA3787
+
+DADO O SYNSET:
+
+S='Glosa3787'
+{acambetar: x,
+	 cambetear: Com um garrafão, venho pelo caminho trupicando e chutando os barrancos, venho I]cambeteando.,
+	 capengar: O homem soluçava, [capengava e, sobretudo, cheirava a álcool puro.,
+	 capenguear: x,
+	 caxingar: Maria Batalhão I]caxingava por causa da unha encravada.,
+	 claudicar: A paciente, logo após a retirada da haste, começou a I]claudicar e refraturou o fêmur.,
+	 coxear: Um rapaz, ao terminar a quadrilha, refugiava-se, [coxeando, na varanda, pois tinham-lhe pisado o melhor calo.,
+	 mancar: Roberto Baggio fez dois gols, mas saiu a 15 minutos do final do jogo, [mancando.,
+	 manquejar: Em 1924, Lampião sofreu  um ferimento no pé, em combate, o que o fez I]manquejar pelo resto da vida.,
+	 manquetear: x,
+	 manquitar: x,
+	 manquitolar: Mesmo [manquitolando levemente, com uma coxeira protegendo a contusão da sua perna direita, o jogador realizou uma peleja extraordinária, na proporção do seu sacrifício.,
+	 pernetear: E assim de seguida, em dois, três, oito ou mais, que cada corredor boleasse; esses não podiam mais disparar, ficavam I]perneteando no meio do campo!,
+	 renguear: Basta-lhes um par de muletas com que I]renguear pelo resto da vida.}
+	
+A ANÁLISE RESULTA EM:
+
+S='Glosa3787' = “caminhar estorvado por alguma limitação física ou algum ferimento”
+{cambetear: Com um garrafão, venho pelo caminho trupicando e chutando os barrancos, venho I]cambeteando.,
+	 capengar: O homem soluçava, [capengava e, sobretudo, cheirava a álcool puro.,
+	 caxingar: Maria Batalhão I]caxingava por causa da unha encravada.,
+	 claudicar: A paciente, logo após a retirada da haste, começou a I]claudicar e refraturou o fêmur.,
+	 coxear: Um rapaz, ao terminar a quadrilha, refugiava-se, [coxeando, na varanda, pois tinham-lhe pisado o melhor calo.,
+	 mancar: Roberto Baggio fez dois gols, mas saiu a 15 minutos do final do jogo, [mancando.,
+	 manquejar: Em 1924, Lampião sofreu  um ferimento no pé, em combate, o que o fez I]manquejar pelo resto da vida.,
+	 manquitolar: Mesmo [manquitolando levemente, com uma coxeira protegendo a contusão da sua perna direita, o jogador realizou uma peleja extraordinária, na proporção do seu sacrifício.,
+	 pernetear: E assim de seguida, em dois, três, oito ou mais, que cada corredor boleasse; esses não podiam mais disparar, ficavam I]perneteando no meio do campo!,
+	 renguear: Basta-lhes um par de muletas com que I]renguear pelo resto da vida.}
+Chave: MANCAR <verb.motion>
+ILI: 01861283
+
+Sense 1 
+{01861283} <verb.motion> limp, hobble, hitch1 -- (walk impeded by some physical limitation or injury; "The old woman hobbles down to the store every day")
+       => {01849285} <verb.motion> walk -- (use one's feet to advance; advance by steps; "Walk, don't run!"; "We walked instead of driving"; "She walks with a slight limp"; "The patient cannot walk yet"; "Walk over to the cabinet")
+           => {01782203} <verb.motion> travel, go, move3, locomote -- (change location; move, travel, or proceed; "How fast does your new car go?"; "We travelled from Rome to Naples by bus"; "The policemen went from door to door looking for the suspect"; "The soldiers moved towards the city in an attempt to take it before night fell")

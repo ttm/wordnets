@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA3182
+
+DADO O SYNSET:
+
+S='Glosa3182'
+	    {
+	      anestesiar: O bombardeio de atrocidades que se desenvolvem sob os olhos do observador ao longo da série chega a [anestesiar o espírito, que se acostuma à barbárie. ,
+	      dessensibilizar: O poder tende a I]dessensibilizar as pessoas e gerar um duplo ser capaz ao mesmo tempo de considerar a morte de um homem uma tragédia humana e de milhares de homens, dados estatísticos.,
+	      insensibilizar: Pode a constatação em forma de foto ou filme nos trazer conhecimento, ajudar na construção de uma nova consciência anti-bélica? Ou, pelo contrário, I]insensibiliza o espectador, pela repetição da violência? ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3182' = “tornar insensível”
+	     {anestesiar: A direção do PT I]anestesiou um partido acostumado ao debate e à mobilização de rua. ,
+	      dessensibilizar: O incremento da violência urbana cada vez mais I]dessensibiliza o ser humano.,
+	      insensibilizar: O egoísmo I]insensibiliza o ser humano com relação às necessidades de seu. Semelhante. ,}
+Chave: INSENSIBILIZAR <verb.change>
+ILI: 00263792
+
+Sense 2
+{00263792} <verb.change> desensitize, desensitise -- (make insensitive; "His military training desensitized him")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

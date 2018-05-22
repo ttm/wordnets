@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0252
+
+DADO O SYNSET:
+
+S='Glosa252'
+{mover: O vestido rodava quando ela I]movia o corpo ea macia trança de seus cabelos saltava de um ombro para outro.,
+saracotear: Foi Norman Granz quem ajudou a mudar isso: integrou racialmente as platéias, proibiu-as de [saracotear enquanto os músicos tocavam.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa252' = “mover(-se) em vaivém”
+{mover: O vestido rodava quando ela I]movia o corpo e a macia trança de seus cabelos saltava de um ombro para outro.,
+saracotear: Foi Norman Granz quem ajudou a mudar isso: integrou racialmente as platéias, proibiu-as de [saracotear enquanto os músicos tocavam.,}
+Chave: SARACOTEAR <verb.motion>
+ILI: 01843107
+
+Sense 1
+{01843107} <verb.motion> jiggle, joggle, wiggle -- (move to and fro; "Don't jiggle your finger while the nurse is putting on the bandage!")
+       => {01835310} <verb.motion> shake, agitate1 -- (move or cause to move back and forth; "The chemist shook the flask vigorously"; "My hands were shaking")
+           => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right")

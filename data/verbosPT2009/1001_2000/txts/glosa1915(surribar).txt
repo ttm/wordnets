@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA1915
+
+DADO O SYNSET:
+
+S='Glosa1915'
+{esboiçar: x,
+ esbouçar: x,
+ saibrar: x,
+ surribar: Quando estes lá chegaram, construíram as primeiras casas e começaram a I]surribar as terras arenosas e a cultivar o milho. ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1915' = “escavar (a terra) para afofá-la”
+{surribar: Quando estes lá chegaram, construíram as primeiras casas e começaram a I]surribar as terras arenosas e a cultivar o milho.,}
+Chave: SURRIBAR <verb.creation>
+ILI: EQ_HAS_HYPERONYM – 01692277 – “preparar [a terra] para semear”
+
+Sense 2
+{01692277} <verb.creation> cultivate1, crop1, work9 -- (prepare for crops; "Work the soil"; "cultivate the land")
+       => {00394129} <verb.change> fix3, prepare, set up2, ready, gear up, set9 -- (make ready or suitable or equip in advance for a particular purpose or for some use, event, etc; "Get the children ready for school!"; "prepare for war"; "I was fixing to leave town after I paid the hotel bill")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

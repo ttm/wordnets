@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA3311
+
+DADO O SYNSET:
+
+S='Glosa3311'
+	    {
+	      derreter-se: A amostra usada pelo indigitados pesquisadores I]derreteu-se por completo, transformando-se em um monte imprestável de fuligem contaminada. ,
+	      dissolver-se: Nas condições do experimento, o enxofre [dissolve-se muito pouco em água, já o dióxido de enxofre é, em parte, solúvel em água. ,
+	      fundir-se1: Já o ferro começa a [fundir-se, isto é, a passar para a fase líquida, à temperatura de 1 535°C.,
+	      liquefazer-se: I]Liquefaz-se por compreeção a uma temperatura inferior a 31graus, seu ponto critico.,
+	      liquescer-se: x,
+	      liqüidificar: x,
+	      liquidificar-se: I]Liquidifica-se a cerca de 37 graus centígrados.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3311' = “reduzir de um estado sólido para um estado liquido, geralmente por aquecimento”
+	     {derreter-se: A amostra usada pelo indigitados pesquisadores I]derreteu-se por completo, transformando-se em um monte imprestável de fuligem contaminada. ,
+	      dissolver-se: Nas condições do experimento, o enxofre [dissolve-se muito pouco em água, já o dióxido de enxofre é, em parte, solúvel em água. ,
+	      fundir-se1: O gelo I]funde-se, convertendo-se de novo em água, à temperatura de 0°C, o ponto de fusão, como é denominado, às vezes.,
+	      liquefazer-se: Os tecidos I]liquefazem-se, primeiro, e gaseificam-se, depois.,
+	      liquidificar-se: O tesouro de ouro fundiu-se e I]liquidificou-se transformando-se na Lagoa Dourada.,}
+Chave: DERRETER-SE <verb.change>
+ILI: 00431897
+
+Sense 1
+{00431897} <verb.change> melt1, run, melt down -- (reduce or cause to be reduced from a solid to a liquid state, usually by heating; "melt butter"; "melt down gold"; "The wax melted in the sun")
+       => {00434545} <verb.change> dissolve1, resolve7, break up3 -- (cause to go into a solution; "The recipe says that we should dissolve a cup of sugar in two cups of water")
+           => {00135037} <verb.change> change integrity -- (change in physical make-up)
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

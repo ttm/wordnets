@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA3761
+
+DADO O SYNSET:
+	
+S='Glosa3761'
+{peraltar: x,
+	 peraltear: Nuvens de abelhas revoam, I]peralteando, gazeando as lavadeiras.,
+	 reinar: Toda criança gosta de M]reinar.,
+	 retoiçar: Pela porta da cozinha sai um enxame de crianças, enfarinhadas, trazendo pedaços de pão, I]retoiçando alegres.,
+	 retouçar: x,
+	 traquinar: Íamos I]traquinar nas tralhas da oficina do avô Joaquim.,
+	 trasguear: x,
+	 travessear: x,
+	 zarelhar: Os pais trabalhavam e a meninada H]zarelhava no jardim.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3761'= “participar ou envolver-se em atividades lúdicas; divertir-se como criança”
+{peraltear: Nuvens de abelhas revoam, I]peralteando, gazeando as lavadeiras.,
+	 reinar: Toda criança gosta de M]reinar.,
+	 retoiçar: Pela porta da cozinha sai um enxame de crianças, enfarinhadas, trazendo pedaços de pão, I]retoiçando alegres.,
+	 traquinar: Íamos I]traquinar nas tralhas da oficina do avô Joaquim.,
+	 zarelhar: Os pais trabalhavam e a meninada H]zarelhava no jardim.}
+Chave: TRAQUINAR <verb.social>
+ILI: 02345648
+
+Sense 1
+{02345648} <verb.social> play3 -- (be at play; be engaged in playful activity; amuse oneself in a way characteristic of children; "The kids were playing outside all day"; "I used to play with trucks as a little girl")
+       => {02346017} <verb.social> act7 -- (be engaged in an activity, often for no particular purpose other than pleasure)

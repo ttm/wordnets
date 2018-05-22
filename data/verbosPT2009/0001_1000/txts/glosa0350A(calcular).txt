@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0350A
+
+DADO O SYNSET:
+
+S='Glosa350'
+{apurar: Falta [apurar, depois do repouso de sábado, cerca de 175.000 votos, que em tese poderiam alterar o resultado.,
+calcular: Não me atreverei a [calcular os percentuais, mas desconfio que FHC obteve a pole-position por maioria absoluta, tal como ocorreu com os votos propriamente ditos. ,
+contar: O secretário-geral do PT pôs, hoje, uma pá de cal na tentativa dos petistas cariocas de [contar os votos da prévia eleitoral que definirá o candidato do partido à sucessão municipal.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa350A' = “julgar de forma experimental ou formar uma estimativa sobre (quantidades ou vezes)”
+{calcular: Não me atreverei a [calcular os percentuais, mas desconfio que FHC obteve a pole-position por maioria absoluta, tal como ocorreu com os votos propriamente ditos.,}
+Chave: CALCULAR <verb.cognition>
+ILI: 00650033
+
+Sense 1
+{00650033} <verb.cognition> estimate, gauge, approximate, guess1, judge1 -- (judge tentatively or form an estimate of (quantities or time); "I estimate this chicken to weigh three pounds")
+       => {00617041} <verb.cognition> calculate, cipher, cypher, compute, work out6, reckon1, figure -- (make a mathematical calculation or computation)
+           => {00612517} <verb.cognition> reason -- (think logically; "The children must learn to reason")
+               => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")
+          Also See-> {00649617} <verb.cognition> overestimate#1; {00651349} <verb.cognition> underestimate#2

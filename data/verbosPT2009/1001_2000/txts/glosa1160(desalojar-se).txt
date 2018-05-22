@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA1160
+
+DADO O SYNSET:
+
+S='Glosa1160'
+{desalojar-se: Ainda que se arriscassem a perdas pelo caminho, ainda que não conseguissem lucrar nada, I]desalojaram-se, desafiaram-se e conquistaram a glória.,
+ desaquartelar-se: x,}
+	 
+A='Glosa517'
+{aboletar-se, alojar-se, aquartelar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1160' = “deslocar-se por imposição”
+{desalojar-se: Dedetizações para eliminar os escorpiões não eliminam o problema. Alguns tipos de veneno chegam a piorar o problema, uma vez que irritam o escorpião, que I]se desaloja e ataca as casas.,}
+A='Glosa517'
+{aboletar-se, alojar-se, aquartelar-se}
+Chave: DESALOJAR-SE
+ILI: EQ_HAS_HYPERONYM – 01955676  
+
+Sense 4
+{01955676} <verb.motion> displace, force out -- (force to move; "the refugees were displaced by the war")
+       => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

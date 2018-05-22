@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA2076
+
+DADO O SYNSET:
+	
+S='Glosa2076'
+    	{assinalar-se: Como uma derivação dessa cultura negligente, I]assinala-se a violência institucional, cuja maior expressão são os asilos de idosos, sobretudo os conveniados com o Estado, onde são comuns processos de maus-tratos, de despersonalização, de destituição de poder e vontade.,
+      	 caracterizar-se: A Zona dos Cocais [caracteriza-se pelo predomínio de palmeiras de grande importância comercial como o babaçu e a carnaúba.,
+      	 caraterizar-se: x,
+      	 distinguir-se: Em mais de 30 anos de carreira, sua obra [distingue-se pelo retrato poético da miséria, composta através de experimentações heterodoxas de um quase autodidata.,
+      	 estremar-se: M]Estremou-se na consagração ao trabalho missionário.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2076' = “ser altamente notável”
+    	{assinalar-se: Como uma derivação dessa cultura negligente, I]assinala-se a violência institucional, cuja maior expressão são os asilos de idosos, onde são comuns processos de maus-tratos.,
+      	 caracterizar-se: A Zona dos Cocais [caracteriza-se pelo predomínio de palmeiras de grande importância comercial como o babaçu e a carnaúba.,
+      	 distinguir-se: Em mais de 30 anos de carreira, sua obra [distingue-se pelo retrato poético da miséria, composta através de experimentações heterodoxas de um quase autodidata.,
+      	 estremar-se: A língua galego-portuguesa surgeno século XIII e se I]estrema de todos os falares da Península Ibérica por lhe ser totalmente desconhecida a ditongação.}
+Chave: DISTINGUIR-SE <verb.stative>
+ILI: 02593861
+
+Sense 1
+{02593861} <verb.stative> leap out, jump out, jump, stand out2, stick out2 -- (be highly noticeable)
+       => {02071636} <verb.perception> look1, appear, seem -- (give a certain impression or have a certain outward aspect; "She seems to be sleeping"; "This appears to be a very difficult problem"; "This project looks fishy"; "They appeared like people who had not eaten or slept for a long time")
+           => {02526983} <verb.stative> be3 -- (have the quality of being; (copula, used with an adjective or a predicate noun); "John is rich"; "This is not a good answer")

@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA2682
+
+DADO O SYNSET:
+
+S='Glosa2682'
+	    {reaparecer: Em pouco tempo a vida normal voltou a reinar no povoado, a saúde retornou às casas e a alegria I]reapareceu nas ruas.,
+	      renascer: Serviu para reerguer os ânimos, recuperar confianças e [renascer as esperanças.,
+	      ressurgir: A lembrança da pátria, apagada pelo amor, [ressurgiu em seu pensamento.,
+	      reviver: Nas ruas, cerca de três mil atletas - observados por 10 mil pessoas - fizeram o carioca [reviver a alegria de uma das suas festas mais tradicionais.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2682' = “Ser restaurado.”
+	    {reaparecer: Sinal de que o sorriso voltou a teu rosto e a I]alegria reapareceu.,
+	      renascer: A I]esperança renasceu no coração de cada um.,
+	      ressurgir: Além disso, I]ressurgiu a esperança de colocar fim à violência.,
+	      reviver: A minha I]esperança reviveu.,}
+
+Chave: RESSURGIR <verb.change>
+ILI: 00533428
+
+Sense 9
+{00533428} <verb.change> come back, return1 -- (be restored; "Her old vigor returned")
+       => {00414118} <verb.change> reappear, re-emerge -- (appear again; "The sores reappeared on her body"; "Her husband reappeared after having left her years ago")
+           => {00409939} <verb.change> appear -- (come into sight or view; "He suddenly appeared at the wedding"; "A new star appeared on the horizon") 

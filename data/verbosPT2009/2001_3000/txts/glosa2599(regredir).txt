@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA2599
+
+DADO O SYNSET:
+
+S='Glosa2599'
+	    {involuir: As lesões do impertigo podem I]involuir espontaneamente mas muitas vezes propagam-se às regiões próximas formando novas lesões. # A partir da puberdade o timo começa a I]involuir até chegar a 10 gramas no idoso.,
+	      regredir: A partir de 1860, desenvolveu-se uma larva que dizimou uma boa parte da produção do Rio de Janeiro, que só voltou a se recuperar a partir de 1865, quando a moléstia [regrediu naturalmente.,
+	      retroceder: Medicamentos e a distribuição de cestas básicas teriam feito a doença [retroceder no início do ano.,}
+
+	  A='Glosa2097'
+	    {evolucionar: Nossa sociedade I]evolucionou tecnologicamente, sem que houvesse expansão da sua consciência.,
+	     evoluir: A sociedade [evoluiu e se modernizou. ,
+	     evolver: Dentro de um século, tanto I]evolveu a Cirurgia que é quase temerário ligá-la ao que, para traz, se praticava.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2599' = “diminuir a intensidade”
+	    {involuir: A mãe não seguiu a orientação e o nódulo I]involuiu espontaneamente.,
+	      regredir: A moléstia [regrediu naturalmente.,
+	      retroceder: Medicamentos e a distribuição de cestas básicas teriam feito a doença [retroceder no início do ano.,}
+
+	  A='Glosa2097'
+	    {Evolucionar, evoluir, evolver}
+
+Chave: REGREDIR <verb.change>
+ILI: 00217329
+
+Sense 1
+{00217329} <verb.change> weaken1 -- (lessen the strength of; "The fever weakened his body")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

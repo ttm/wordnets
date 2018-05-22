@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA1633
+
+DADO O SYNSET:
+
+S='Glosa1633'
+{avançar: A equipe transformou toda a cenografia para uma balada, com 300 convidados, que I]avançou pela madrugada. ,
+ desenrolar-se: Esse inquérito I]desenrolou-se de 1 de Fevereiro a 1 de Março de 2000, tendo participado 5 721 utilizadores.,
+ desenvolver-se: A ação da peça H]desenvolveu-se em três atos.,
+ durar: O julgamento [durou até a noite do dia 13 e depois disso o preso foi levado de volta para a Polínter.,
+ estender-se: O domínio mongol [estendeu-se pelos séculos XIV e XV.,
+ projetar-se: x,
+ prolongar-se: H]Prolongou-se muito a festa.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1633' = “persistir ou estender-se [no tempo]”
+{avançar: A delegação chegou anteontem à noite e, do aeroporto de Cumbica, seguiu para uma comemoração na casa noturna Banana Banana, que [avançou até as 4h da madrugada de ontem.,
+ desenrolar-se: É importante lembrar que a guerra na Península Ibérica se [desenrolou por cinco anos consecutivos.,
+ desenvolver-se: O trabalho de construção do Plano Estadual de Educação teve início em 1999 e se I]desenvolveu até 2001 com a elaboração da Constituinte.,
+ durar: O julgamento [durou até a noite do dia 13 e depois disso o preso foi levado de volta para a Polínter.,
+ estender-se: O domínio mongol [estendeu-se pelos séculos XIV e XV.,
+ prolongar-se: A reunião se [prolongou pela noite sem que o resultado fosse anunciado.,}
+Chave: DURAR <verb.stative>
+ILI: 02623605
+
+Sense 1
+{02623605} <verb.stative> last, endure6 -- (persist or be long; in time; "The bad weather lasted for three days")
+       => {02623026} <verb.stative> measure -- (have certain dimensions; "This table surfaces measures 20inches by 36 inches")
+           => {02526983} <verb.stative> be3 -- (have the quality of being; (copula, used with an adjective or a predicate noun); "John is rich"; "This is not a good answer")

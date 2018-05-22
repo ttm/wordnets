@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA0595
+
+DADO O SYNSET:
+
+S='Glosa595'
+{afeiçoar-se: Também como era de costume a futura escritora I]afeiçoou-se à leitura de livros de diversas áreas, construindo sua instrução.,
+apegar-se: Antigamente, para se sentir segura, Dora precisava [se apegar a um namorado.,
+dedicar-se: Ter mais tempo para [dedicar-se à família. # As mulheres têm outras ambições e expectativas além da [dedicar-se aos filhos.,}
+A='Glosa1154'
+{desafeiçoar-se, desapegar-se, despegar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa595' = “criar laços sociais ou emocionais”
+{afeiçoar-se: Também como era de costume a futura escritora I]afeiçoou-se à leitura de livros de diversas áreas, construindo sua instrução.,
+apegar-se: Antigamente, para se sentir segura, Dora precisava [se apegar a um namorado.,}
+A='Glosa1154'
+{desafeiçoar-se, desapegar-se, despegar-se}
+Chave: APEGAR-SE <verb.social>
+ILI: 02462804
+
+Sense 4
+{02462804} <verb.social> bind1, tie1, attach3, bond13 -- (create social or emotional ties; "The grandparents want to bond with the child")
+       => {02384110} <verb.social> relate -- (have or establish a relationship to; "She relates well to her peers")
+           => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+               => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

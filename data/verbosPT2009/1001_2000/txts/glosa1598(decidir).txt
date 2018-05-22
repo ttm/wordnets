@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA1598
+
+DADO O SYNSET:
+	
+S='Glosa1598'
+    	{assentar: A princípio a idéia deslumbrou ao padrinho, porém mais tarde acudiu-lhe a reflexão, e [assentou que seria rebaixar o menino e comprometer a sua dignidade futura.,
+      	 decidir: Em 1984, John, depois de inventariar a América do sofrimento negro e do preconceito branco, em todas as suas inversões e nuanças, [decidiu escrever sobre si e seu irmão .,
+      	 deliberar: A Câmara I]deliberou, por unanimidade, atribuir um subsídio no montante de duzentos e cinquenta euros. ,
+      	 delivrar: x,
+      	 dirimir: A organização defende a propriedade intelectual e I]dirime questões acerca de registros de domínios.,
+      	 resolver: O juiz [resolveu voltar atrás para não interferir na liberdade de expressão artística.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1598' = “fazer chegar a um fim; estabelecer conclusivamente”
+    	{assentar: A princípio a idéia deslumbrou ao padrinho, porém mais tarde acudiu-lhe a reflexão, e [assentou que seria rebaixar o menino e comprometer a sua dignidade futura.,
+      	 decidir: Em 1984, John, depois de inventariar a América do sofrimento negro e do preconceito branco, em todas as suas inversões e nuanças, [decidiu escrever sobre si e seu irmão .,
+      	 deliberar: A Câmara I]deliberou, por unanimidade, atribuir um subsídio no montante de duzentos e cinquenta euros.,
+      	 resolver: O juiz [resolveu voltar atrás para não interferir na liberdade de expressão artística.}
+Chave: DECIDIR <verb.cognition>
+ILI: 00675647
+
+Sense 2
+{00675647} <verb.cognition> decide1, settle, resolve1, adjudicate -- (bring to an end; settle conclusively; "The case was decided"; "The judge decided the case in favor of the plaintiff"; "The father adjudicated when the sons were quarreling over their inheritance")
+       => {00341640} <verb.change> end1, terminate1 -- (bring to an end or halt; "She ended their friendship when she found out that he had once been convicted of a crime"; "The attack on Poland terminated the relatively peaceful period after WWI")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

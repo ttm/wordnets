@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA1320
+
+DADO O SYNSET:
+
+S='Glosa1320'
+{acalmar-se: Diante das reclamações de repórteres sobre o comportamento de Lula, cada vez mais avesso a jornalistas, seus assessores chegaram a aconselhá-lo a [acalmar-se. ,
+ calmar-se: x,
+ desagastar-se: Ele tem bom gênio, logo irá H]desagastar-se,
+ desbravecer-se: x,
+ desembravecer-se: O touro H]desembraveceu-se diante do toureiro,
+	 desencruar-se: x,
+ tranqüilizar-se: Procuravam o líder do governo, Roberto Freire, mas só [se tranquilizavam após a aquiescência de Genebaldo,}
+	  
+A='Glosa3933'
+	    {abespinhar-se, agastar-se, apostemar-se, aquecer-se, arrebatar-se, arrebitar-se, assanhar-se, azedar-se, chispar, danar-se, encolerizar-se, encruecer-se, endemoninhar-se, enfurecer-se, espevitar-se, espinhar-se, espirrar-se, esquentar-se, estomagar-se, exaltar-se, exasperar-se, exceder-se, excitar-se, frender, fumar, impacientar-se, incitar-se, indignar-se, irar-se, irritar-se, rabiar, remorder-se, revoltar-se, torvar-se, zangar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1320' = “tornar-se calmo, especialmente após um estado de agitação”
+{acalmar-se: Diante das reclamações de repórteres sobre o comportamento de Lula, cada vez mais avesso a jornalistas, seus assessores chegaram a aconselhá-lo a [acalmar-se.,
+ tranqüilizar-se: Procuravam o líder do governo, Roberto Freire, mas só [se tranqüilizavam após a aquiescência de Genebaldo.,}
+A='Glosa3933'
+	    {abespinhar-se, agastar-se, apostemar-se, aquecer-se, arrebatar-se, arrebitar-se, assanhar-se, azedar-se, chispar, danar-se, encolerizar-se, encruecer-se, endemoninhar-se, enfurecer-se, espevitar-se, espinhar-se, espirrar-se, esquentar-se, estomagar-se, exaltar-se, exasperar-se, exceder-se, excitar-se, frender, fumar, impacientar-se, incitar-se, indignar-se, irar-se, irritar-se, rabiar, remorder-se, revoltar-se, torvar-se, zangar-se}
+Chave: ACALMAR-SE <verb.emotion>
+ILI: 01712951
+
+Sense 3
+{01712951} <verb.emotion> calm1, calm down1, cool off, chill out, simmer down, settle down, cool it -- (become quiet or calm, especially after a state of agitation; "After the fight both men need to cool off."; "It took a while after the baby was born for things to settle down again.")
+       => {00140715} <verb.change> change state, turn4 -- (undergo a transformation or a change of position or action; "We turned from Socialism to Capitalism"; "The people turned against the President when he stole the election")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA2302
+
+DADO O SYNSET:
+
+  S='Glosa2302'
+	    {exercitar-se: O idoso atleta I]exercita-se das 4 horas da manhã até o fim da tarde, isso quando não termina o dia malhando na academia. ,
+	      traquear: x,
+	      traquejar: Pela primeira vez, após 10 anos na brincadeira, ele terá a missão de I]traquejar a agremiação.,
+	      treinar: Revistas e livros sobre o tema também fazem parte do acervo do pequeno lutador, que é faixa laranja, começou a lutar aos 7 anos e [treina duas horas por dia, de segunda à sexta.,
+	      trenar: Os jogadores tem de I]trenar das 8 às 11 da manhã e de tarde das 2 às 6.,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2302' = “fazer exercícios físicos”
+	    {exercitar-se: O idoso atleta I]exercita-se das 4 horas da manhã até o fim da tarde
+	      treinar: Começou a lutar aos 7 anos e [treina duas horas por dia, de segunda à sexta.,
+	      trenar: Antes eu I]trenava todas as manhãs de segunda a sexta.,}
+
+Chave: TREINAR <verb.body>
+ILI: 00096978
+
+Sense 4
+{00096978} <verb.body> exercise, work out -- (do physical exercise; "She works out in the gym every day")

@@ -1,0 +1,35 @@
+ANÁLISE DA GLOSA
+
+DADO O SYNSET:
+
+S='Glosa1770'
+    	{aperrar: x,
+      	 emperrar: A falta de lubrificação M]emperrou a engrenagem.,
+      	 encravar: Alguma roda da engrenagem universal I]encravou. ,
+      	 endurar: DEVIANT,
+      	 endurecer: DEVIANT,
+      	 endurentar: DEVIANT,
+      	 entravar: Cuidadoso, H]entravou a roda.,
+      	 travar: O meu desespero era tanto que a chave I]travou! ,}
+  
+A='Glosa1380'
+    	{desemperrar, destravar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1770' = “ficar emperrado e imobilizado”
+    	{emperrar: Palazzo teve que encharcar os pés na água para empurrar o veículo, que [emperrou no meio da poça d' água.,
+      	 encravar: Alguma roda da engrenagem universal I]encravou.,
+      	 entravar: No meio do treino de Kenjutsu, minha coluna I]entravou.,
+      	 travar: O meu desespero era tanto que a chave I]travou!,}
+  
+A='Glosa1380'
+    	{desemperrar, destravar}
+Chave: EMPERRAR <verb.contact>
+ILI: 01482896
+
+Sense 5
+{01482896} <verb.contact> jam1 -- (get stuck and immobilized; "the mechanism jammed")
+       => {01483014} <verb.contact> malfunction, misfunction -- (fail to function or function improperly; "the coffee maker malfunctioned")
+           => {00422006} <verb.change> fail, go bad1, give way, die4, give out, conk out, go3, break5, break down -- (stop operating or functioning; "The engine finally went"; "The car died on the road"; "The bus we travelled in broke down on the way to town"; "The coffee maker broke"; "The engine failed on the way to town"; "her eyesight went after the accident")
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

@@ -1,0 +1,40 @@
+ANÁLISE DA GLOSA2902
+
+DADO O SYNSET:
+
+S='Glosa2902'
+	    {abainhar: x,
+	      acairelar: Mandei H]acairelar a toalha de mesa.,
+	      bainhar: x,
+	      beirar: x,
+	      bordar: Me deu um conjunto de tolhas amarelas lindas de morrer, que ela I]bordou.,
+	      brolar: x,
+	      broslar: x,
+	      cairelar: x,
+	      debruar: O overlock de uma cabeça serve para chulear e I]debruar longas partes de tecidos. ,
+	      embainhar: Para fazer um boné tipo sextavado, formado por capa e aba,coloque carneira do próprio tecido com 3 cm de largura I]embainhando todo o contorno interno inferior.,
+	      fimbriar: H]Fimbriar a saia e a blusa.,
+	      franjar: H]Franjar uma colcha.,
+	      orlar: I]Orlar uma vela, toldo ou sanefa com bainha.,}
+
+	  A='Glosa1090'
+	    {descoser: Tudo é velho, e meu é somente o fio ea agulha; o resto não me custou nada mais que I]descoser e voltar a cosê-lo a meu gosto,
+	     desembainhar: H]Desembainhou uma saia,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2902' = “Prover com debrum ou borda”
+	    {debruar: Para inserir vivos ou I]debruar tecidos delicados, cubra o cordão.,
+	      embainhar: Pregar o colarinho no pé e I]embainhar o pé do colarinho. Máquina de costura reta. Fechar os punhos.,
+	      orlar: E pelo menos oito filas de contas coloridas cobriram a frente dela solto, I]orlou, bordou, vestido de beaded.,}
+
+	  A='Glosa1090'
+	    {descoser, desembainhar}
+Chave: DEBRUAR <verb.possession>
+ILI: 02293900
+
+Sense 4
+{02293900} <verb.possession> border, edge -- (provide with a border or edge; "edge the tablecloth with embroidery")
+       => {02259805} <verb.possession> supply, provide, render2, furnish -- (provide or furnish with; "We provided the room with an electrical heater")
+           => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+               => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children") 

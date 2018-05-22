@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0307
+
+DADO O SYNSET:
+
+S='Glosa307'
+{excluir: Os senadores aprovaram uma emenda apresentada por Patrick Leahy, senador democrata do estado de Vermont, que [exclui as disposições relativas ao asilo. ,}
+A='Glosa3117'
+{abranger, compreender, conter, encerrar, englobar, enquadrar, implicar,      incluir, possuir, ter}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa307' = “impedir de ser incluído ou aceitado; de realizar uma ação”
+{excluir: Os senadores aprovaram uma emenda apresentada por Patrick Leahy, senador democrata do estado de Vermont, que [exclui as disposições relativas ao asilo.,}
+A='Glosa3117'
+{abranger, compreender, conter, encerrar, englobar, enquadrar, implicar,      incluir, possuir, ter}
+Chave: EXCLUIR <verb.cognition>
+ILI: 00595585
+
+Sense 1
+{00595585} <verb.cognition> exclude1, except, leave out1, leave off, omit1, take out -- (prevent from being included or considered or accepted; "The bad results were excluded from the report"; "Leave off the top piece")
+       => {00458531} <verb.change> eliminate1, get rid of, do away with -- (terminate or take out; "Let's eliminate the course on Akkadian hieroglyphics")
+           => {01574188} <verb.creation> destroy, destruct -- (do away with, cause the destruction or undoing of; "The fire destroyed the house")
+               => {01573490} <verb.creation> unmake, undo -- (deprive of certain characteristics)

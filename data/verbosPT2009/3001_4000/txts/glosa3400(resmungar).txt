@@ -1,0 +1,45 @@
+ANÁLISE DA GLOSA3400
+
+DADO O SYNSET:
+
+S='Glosa3400'
+	{cochinar: x,
+	 fungar: Desde cedo anda H]fungando pelos cantos.,
+	 gosmar: x,
+	 grazinar: Vive a H]grazinar pelos cantos da casa.,
+	 grunhir: Quando a Matriarca o provocou, perguntando se precisaria de mais perfume para que ele não esquecesse a localização da sala, ele apenas I]grunhiu uma resposta.,
+	 gungunar: O povão começou a I]gungunar baixinho, uns a olhar para ela com olhos de fome, outros com um risinho de gaiato brotando no canto da boca.,
+	 mascar: Ele tergiversava, H]mascava, sem dúvida evitando uma resposta direta.,
+	 mastigar: Falava baixinho, H]mastigava, não chegava a dizer nada.,
+	 murmurar: Aonde? [murmurava de vez em quando o frade com a voz cava.,
+	 regougar: O velhinho ficou a H]regougar.,
+	 resmonear: Maldito seja este cabeçudo, principiou a I]resmonear.,
+	 resmungar: A princípio fugia de mim, [resmungando coisas indecifráveis.,
+	 resmuninhar: x,
+	 rezingar: Invariavelmente, Maricota ouvia do seu quarto o pai I]rezingar quase todas as noites. ,
+	 rosnar: Entre os velhos o hábito de H]rosnar é comum.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3400' = “falar indistintamente; normalmente com voz baixa”
+	{fungar: Desde cedo anda H]fungando pelos cantos.,
+	 grazinar: Vive a H]grazinar pelos cantos da casa.,
+	 grunhir: Quando a Matriarca o provocou, perguntando se precisaria de mais perfume para que ele não esquecesse a localização da sala, ele apenas I]grunhiu uma resposta.,
+	 gungunar: O povão começou a I]gungunar baixinho, uns a olhar para ela com olhos de fome, outros com um risinho de gaiato brotando no canto da boca.,
+	 mascar: Ele tergiversava, H]mascava, sem dúvida evitando uma resposta direta.,
+	 mastigar: Falava baixinho, H]mastigava, não chegava a dizer nada.,
+	 murmurar: Aonde? [murmurava de vez em quando o frade com a voz cava.,
+	 regougar: O velhinho ficou a H]regougar.,
+	 resmonear: Maldito seja este cabeçudo, principiou a I]resmonear.,
+	 resmungar: A princípio fugia de mim, [resmungando coisas indecifráveis.,
+	 rezingar: Invariavelmente, Maricota ouvia do seu quarto o pai I]rezingar quase todas as noites. ,
+	 rosnar: Entre os velhos o hábito de H]rosnar é comum.}
+Chave: RESMUNGAR <verb.communication>
+ILI: 01010969
+
+Sense 1
+{01010969} <verb.communication> mumble, mutter1, maunder, mussitate -- (talk indistinctly; usually in a low voice)
+       => {00910961} <verb.communication> talk, speak, utter, mouth, verbalize, verbalise -- (express in speech; "She talks a lot of nonsense"; "This depressed patient does not verbalize")
+           => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+               => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

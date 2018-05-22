@@ -1,0 +1,17 @@
+ANÁLISE DA GLOSA1203
+
+DADO O SYNSET:
+
+S='Glosa1203'
+{descafeinar: Hoje, para I]descafeinar o produto, é usada água quente e dióxido de carbono.,
+ descafeinizar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1203' = “remover a cafeína”
+{descafeinar: Trabalho em uma empresa que I]descafeína café com cloreto de metileno.}
+Chave: DESCAFEINAR <verb.change>
+ILI: EQ_HAS_HYPERONYM - 00166870
+
+Sense 1
+{00166870} <verb.change> remove, take, take away1, withdraw1 -- (remove something concrete, as by lifting, pushing, taking off, etc. or remove something abstract; "remove a threat"; "remove a wrapper"; "Remove the dirty dishes from the table"; "take the gun from your pocket"; "This machine withdraws heat from the environment")

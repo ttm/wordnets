@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA3463
+
+DADO O SYNSET:
+
+S='Glosa3463'
+	    {
+	      abreviar: No que se segue pretendemos dar conta dessa tarefa preferindo, contudo, lidar com exemplos mais simples que inventamos para [abreviar a discussão/Disseram-lhe que sim, acrescentando Batista, para [abreviar a visita, que estavam bastante cansados,
+	      acurtar: x,
+	      diminuir: Além ou aquém do seu pH ótimo, as enzimas [diminuem gradativamente a sua atividade, até se tornarem inativas/A pena pode ser [diminuída de 1/6 para 1/3,
+	      encurtar: O fumo e o sedentarismo [encurtam a vida/...para [encurtar uma longa história,
+	      minuir: x,
+	      reduzir: Ele [reduziu as pistas e construiu calçadões que só servem de estacionamentos/A confissão de Emanuel pode [reduzir substancialmente sua pena,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3463' = “fazer mais curto do que originalmente intencionado; reduzir ou abreviar em extensão ou duração” 
+	     {abreviar: O técnico Telê Santana, do São Paulo, I]abreviou a permanência dos jogadores no campo, depois de terminado o jogo,
+	      diminuir: Segundo ele, nos últimos 50 anos [diminuiu a idade em que as crianças deixam os brinquedos de lado /A pena pode ser [diminuída de 1/6 para 1/3,
+	      encurtar: O fumo e o sedentarismo [encurtam a vida/...para [encurtar uma longa história,
+	      reduzir: O BC também [reduziu o prazo dos empréstimos e fixou em cinco anos o limite máximo de tempo desses financiamentos /A confissão de Emanuel pode [reduzir substancialmente sua pena,}
+Chave: ENCURTAR <verb.change>
+ILI: 00306824
+
+Sense 1
+{00306824} <verb.change> shorten1 -- (make shorter than originally intended; reduce or retrench in length or duration; "He shortened his trip due to illness")
+       => {00416885} <verb.change> reduce, cut down, cut back1, trim, trim down, trim back, cut6, bring down -- (cut down on; make a reduction in; "reduce your daily fat intake"; "The employer wants to cut back health benefits")
+           => {00428838} <verb.change> decrease1, lessen2, minify -- (make smaller; "He decreased his staff")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

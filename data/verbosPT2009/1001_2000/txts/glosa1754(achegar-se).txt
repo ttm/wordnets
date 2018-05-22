@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA1754
+
+DADO O SYNSET:
+
+S='Glosa1754'
+{achegar-se: A índia tornou-se triste por causa dessa obstinação com que o prisioneiro recusava o que lhe oferecia e [achegando-se levantou a cabeça pensativa de Peri.,
+ aconchegar-se: Aí o gato I]aconchegou-se bem junto a mim, e eu o acariciei e conversei com ele.,
+ aninhar-se: Os cães gostam de seguir seu dono como uma sombra pela casa, jamais perdem a chance de I]aninhar-se em seu colo, de pedir carinho ou fazer gracinhas para serem notados. ,
+ chegar-se: A rapariga atravessou então o valado, entrou na leira e [chegou-se, risonha.,
+ conchegar-se: A menina, por um movimento instintivo de terror, [conchegou-se ao seu amigo.,
+ encolher-se: Atsuko I]encolheu-se nos braços do filho, muito envergonhada.,
+ enconchar-se: M]Enconchar-se na cama.,
+ estreitar-se: A cúpula da palmeira, em que se achavam Peri e Cecília, parecia uma ilha de verdura banhando-se nas águas da corrente; as palmas que se abriam formavam no centro um berço mimoso, onde os dois amigos, [estreitando-se, pediam ao céu para ambos uma só morte, pois uma só era a sua vida.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1754' = “aproximar-se, ficando bem próximo”
+{achegar-se: E só estendeu o braço ao notar que Suplicy se [achegava.,
+ aconchegar-se: Aí o gato I]aconchegou-se bem junto a mim, e eu o acariciei e conversei com ele.,
+ aninhar-se: A negrinha [aninha-se perto dos restos de brasa do fogão a lenha.,
+ chegar-se: Nessa ocasião, o cavalo do morto [chegou-se ao corpo para o farejar, soltando lamentos de dor.,
+ conchegar-se: A menina, por um movimento instintivo de terror, [conchegou-se ao seu amigo.,
+ encolher-se: Atsuko I]encolheu-se nos braços do filho, muito envergonhada.,
+ estreitar-se: E os dois [estreitaram-se, fechados nos braços um do outro.,}
+Chave: ACHEGAR-SE <verb.motion>
+ILI: 01996117
+
+Sense 9
+{01996117} <verb.motion> close10, come together3 -- (come together, as if in an embrace; "Her arms closed around her long lost relative")
+       => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right")

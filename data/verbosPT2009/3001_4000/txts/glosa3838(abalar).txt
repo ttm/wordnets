@@ -1,0 +1,38 @@
+ANÁLISE DA GLOSA3838
+
+DADO O SYNSET:
+
+S='Glosa3838'
+{abalar: E será um absurdo que uma chacina que [abalou o mundo fique impune, disse o sociólogo Herbert de Souza, o Betinho.,
+	 afetar: A briga de domingo [afetou também a mãe do atacante, Sirley, medicada com calmantes na enfermaria do Morumbi.,
+	 bulir: A triste melodia A]buliu com ela, deixando-a aos prantos.,
+	 comover: A ternura com que me disse isto era de [comover as pedras.,
+	 emocionar: Por lá, as pessoas tentam [emocionar os outros.,
+	 empolgar: Não por serem ruins, mas por não conseguirem [empolgar o público e terem aumentado muito a duração do show.,
+	 enternecer: Um dia as duas encontraram-se na missa, tornaram-se a falar; as desgraças do Leonardo, que fizeram tema a essa conversação, [enterneceram a D. Maria, que por seu turno também referiu à comadre tudo quanto sucedia agora à pobre Luisinha.,
+	 impressionar: O massacre no Pará [impressionou fortemente o presidente Fernando Henrique.,
+	 mover: Nenhuma notícia o [moveu, no entanto.,
+	 piriricar: A notícia A]piriricou todos os amigos.,
+	 sufocar: A moça não respondeu; sentiu a doce exprobração que havia naquelas palavras; mas sentia também o amor ardente que enchia sua alma e a [sufocava.,
+	 tocar: As pessoas se deixam [tocar pela poesia teatral criada pelo Gabriel.}
+	
+A ANÁLISE RESULTA EM:
+
+S='Glosa3838' = “ter um impacto emocional ou cognitivo [sobre]”
+{abalar: E será um absurdo que uma chacina que [abalou o mundo fique impune, disse o sociólogo Herbert de Souza, o Betinho.,
+	 afetar: A briga de domingo [afetou também a mãe do atacante, Sirley, medicada com calmantes na enfermaria do Morumbi.,
+	 bulir: A triste melodia A]buliu com ela, deixando-a aos prantos.,
+	 comover: A ternura com que me disse isto era de [comover as pedras.,
+	 emocionar: Por lá, as pessoas tentam [emocionar os outros.,
+	 empolgar: Não por serem ruins, mas por não conseguirem [empolgar o público e terem aumentado muito a duração do show.,
+	 enternecer: Um dia as duas encontraram-se na missa, tornaram-se a falar; as desgraças do Leonardo, que fizeram tema a essa conversação, [enterneceram a D. Maria, que por seu turno também referiu à comadre tudo quanto sucedia agora à pobre Luisinha.,
+	 impressionar: O massacre no Pará [impressionou fortemente o presidente Fernando Henrique.,
+	 mover: Nenhuma notícia o [moveu, no entanto.,
+	 piriricar: A notícia A]piriricou todos os amigos.,
+	 sufocar: A moça não respondeu; sentiu a doce exprobração que havia naquelas palavras; mas sentia também o amor ardente que enchia sua alma e a [sufocava.,
+	 tocar: As pessoas se deixam [tocar pela poesia teatral criada pelo Gabriel.}
+Chave: ABALAR <verb.emotion>
+ILI: 01716999
+
+Sense 5 
+{01716999} <verb.emotion> affect, impress1, move, strike -- (have an emotional or cognitive impact upon; "This child impressed me as unusually mature"; "This behavior struck me as odd")

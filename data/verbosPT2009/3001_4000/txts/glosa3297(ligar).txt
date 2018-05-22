@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA3297
+
+DADO O SYNSET:
+
+S='Glosa3297'
+	    {
+	      coordenar: Em relação ao terrorismo, o texto destaca a decisão de [coordenar esforços em níveis bilateral, regional e multilateral para coibir atos de terror.,
+	      interligar: Dirigindo-se contra a implosão e a visão fragmentada do conhecimento, os professores procuram [interligar as várias disciplinas, permitindo que o aluno possa criar a partir da associação de idéias. ,
+	      liar: x,
+	      ligar: Embora o professor Zellig Harris tivesse falado sobre regras transformacionais que poderiam [ligar sentenças, Chomsky foi além da mera asserção de que tais regras poderiam regularizar as relações entre sentenças.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3297' = “fazer conexão lógica ou causal”
+	     {coordenar: O MPS I]coordena a demanda do mercado com os recursos internos da empresa de forma a programar taxas adequadas de produção de produtos finais.,
+	      interligar: O sistema [interliga postos da rede pública e pronto-socorro e funciona desde o final de dezembro. ,
+	      ligar: Desta forma, a lei, e somente ela, I]liga o fato à pena, ou seja, através da descrição legal das condutas consideradas como crimes ou contravenções penais.,}
+Chave: LIGAR <verb.cognition>
+ILI: 00689759
+
+Sense 1
+{00689759} <verb.cognition> associate, tie in, relate, link, colligate2, link up, connect -- (make a logical or causal connection; "I cannot connect these two pieces of evidence in my mind"; "colligate these facts"; "I cannot relate these events at all")
+       => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

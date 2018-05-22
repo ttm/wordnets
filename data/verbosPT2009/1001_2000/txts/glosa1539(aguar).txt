@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA1539
+
+DADO O SYNSET:
+
+S='Glosa1539'
+{aguar: O Gin eo Vermuth são misturados e gelados no "mixing glass" (copo de mistura), com 5 cubos inteiros de gelo, para não I]aguar a bebida.,
+ destemperar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1539' = “adelgaçar por meio da adição de água”
+{aguar: O Gin eo Vermuth são misturados e gelados no "mixing glass" (copo de mistura), com 5 cubos inteiros de gelo, para não I]aguar a bebida.,}
+Chave: AGUAR <verb.change>
+ILI: 00474843
+
+Sense 2
+{00474843} <verb.change> water down4 -- (thin by adding water to; "They watered down the moonshine")
+       => {00474441} <verb.change> adulterate, stretch15, dilute2, debase1 -- (corrupt, debase, or make impure by adding a foreign or inferior substance; often by replacing valuable ingredients with inferior ones; "adulterate liquor")
+           => {00196044} <verb.change> corrupt, spoil1 -- (alter from the original)
+               => {00163320} <verb.change> modify -- (make less severe or harsh or extreme; "please modify this letter to make it more polite"; "he modified his views on same-gender marriage")
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

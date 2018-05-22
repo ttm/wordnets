@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA1796
+
+DADO O SYNSET:
+
+S='Glosa1796'
+{adulterar: Aquele que I]adulterar com a mulher do seu próximo, certamente será morto, tanto o adúltero, como a adúltera. # Não M]adulterarás.,
+ chifrar: O máximo que me aconteceu foi I]chifrar uma namorada.,
+ cornear: Tenho um casal de amigos, ela [corneou o marido a vida toda, dizem que ele tinha chifre até no calcanhar.,
+ enganar: D. Ritinha Torres, adquiriu há tempos a dolorosa certeza de que o marido a I]enganava, namorando escandalosamente uma senhora vizinha deles.,
+ trair: No entanto, ela não queria [trair o novo marido, nem em sonho.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1796' = “ser sexualmente infiel a um parceiro no casamento”
+{adulterar: Um pai de família adultera, a esposa se separa e leva os filhos para morar com os pais, que são crentes.,
+ chifrar: E uma amante reclamou que ele a I]chifrou com outra amante.,
+ cornear: Tenho um casal de amigos, ela [corneou o marido a vida toda, dizem que ele tinha chifre até no calcanhar.,
+ enganar: D. Ritinha Torres, adquiriu há tempos a dolorosa certeza de que o marido a I]enganava, namorando escandalosamente uma senhora vizinha deles.,
+ trair: No entanto, ela não queria [trair o novo marido, nem em sonho.,}
+Chave: TRAIR <verb.social>
+ILI: 02499754
+
+Sense 4
+{02499754} <verb.social> cheat on, cheat9, cuckold, betray1, wander -- (be sexually unfaithful to one's partner in marriage; "She cheats on her husband"; "Might her husband be wandering?")
+       => {02498705} <verb.social> deceive, lead on, delude, cozen1 -- (be false to; be dishonest with)
+           => {02497828} <verb.social> victimize1, victimise1 -- (make a victim of; "I was victimized by this con-man")
+               => {02438990} <verb.social> wrong -- (treat unjustly; do wrong to)
+                   => {02439188} <verb.social> treat, handle3, do by -- (interact in a certain way; "Do right by her"; "Treat him with caution, please"; "Handle the press reporters gently")
+                       => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                           => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

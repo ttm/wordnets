@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA0771
+
+DADO O SYNSET:
+
+S='Glosa771'
+{cerzir: Trata-se, portanto, de desemendar e remendar, de tecer e de [cerzir, enfim, de construir com linhas descontínuas,
+consertar: Depois, tentou [consertar aquela blusa.,
+coser: D. Antônia cuidou de lhe completar a educação; sabia ler e escrever, [coser e bordar; aprendia agora a fazer crivo e renda.,
+costurar: Não adiantava [costurar sete blusas.,
+remendar: Para [remendar o short que de tão pequeno não conteve suas formas. # O juiz Renato Marsiglia mandou [remendar a rede para que o jogo pudesse continuar.,}
+A='Glosa629'
+{descoser, descosturar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa771' = “fixar por meio de costura; fazer costura em”
+{cerzir: Trata-se, portanto, de desemendar e remendar, de tecer e de [cerzir, enfim, de construir com linhas descontínuas,
+consertar: Ela I]consertou as roupas, beijou-me nas faces e foi sentar-se numa das poltronas vazias.,
+coser: D. Antônia cuidou de lhe completar a educação; sabia ler e escrever, [coser e bordar; aprendia agora a fazer crivo e renda.,
+costurar: Ela I]costurou uma mini-saia de baianinha com mini-blusa, no turbante frutas de plástico
+remendar: Para [remendar o short que de tão pequeno não conteve suas formas. # O juiz Renato Marsiglia mandou [remendar a rede para que o jogo pudesse continuar.,}
+A='Glosa629'
+{descoser, descosturar}
+Chave: COSTURAR <verb.contact>
+ILI: 01289858
+
+Sense 1
+{01289858} <verb.contact> sew, run up1, sew together, stitch -- (fasten by sewing; do needlework)
+       => {01300906} <verb.contact> fasten1, fix, secure1 -- (cause to be firmly attached; "fasten the lock onto the door"; "she fixed her gaze on the man")
+           => {01257892} <verb.contact> attach1 -- (cause to be attached)
+               => {01314764} <verb.contact> connect, link, tie1, link up -- (connect, fasten, or put together two or more pieces; "Can you connect the two loudspeakers?"; "Tie the ropes together"; "Link arms")

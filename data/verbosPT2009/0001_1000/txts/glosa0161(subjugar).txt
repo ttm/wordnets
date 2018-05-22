@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0161
+
+DADO O SYNSET:
+
+S='Glosa161'
+{adstringir: x,
+subjugar: Os reinos medo e persa surgiram no século 7º a.C. Ciro, o aquemênida, [subjugou a Anatólia e a Mesopotâmia.,
+submeter: Estabeleceu sua capitas em Jerusalém; I]submeteu os filisteus, os moabitas, os amonitas e os idumeus.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa161' = “fazer subserviente; forçar a submeter ou sujeitar”
+{subjugar: Os reinos medo e persa surgiram no século 7º a.C. Ciro, o aquemênida, [subjugou a Anatólia e a Mesopotâmia.,
+submeter: Estabeleceu sua capitas em Jerusalém; I]submeteu os filisteus, os moabitas, os amonitas e os idumeus.,}
+Chave: SUBJUGAR <verb.social>
+ILI: 02422244
+
+Sense 2
+{02422244} <verb.social> subjugate, subject -- (make subservient; force to submit or subdue)
+       => {02464207} <verb.social> dominate, master -- (have dominance or the power to defeat over; "Her pain completely mastered her"; "The methods can master the problems")
+           => {02367626} <verb.social> control, command -- (exercise authoritative control or power over; "control the budget"; "Command the military forces")

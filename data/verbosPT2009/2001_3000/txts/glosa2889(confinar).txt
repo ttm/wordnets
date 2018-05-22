@@ -1,0 +1,64 @@
+ANÁLISE DA GLOSA2889
+
+DADO O SYNSET:
+
+S='Glosa2889'
+	    {aferrolhar: M]Aferrolhou-os em prisões infectas.,
+	      ajaular: x,
+	      aprear: x,
+	      aprisionar: É bom não esquecer de incluir compartimentos especiais para [aprisionar extraterrestres capturados, que servirão de estudo para sua equipe de cientistas.,
+	      carcerar: x,
+	      cativar: x,
+	      clausurar: x,
+	      confinar: Quando Bin Laden começou a escrever seus tratados contra o regime saudita, o rei Fahd o I]confinou e Bin Laden fugiu do país, se refugiando no Sudão. ,
+	      deter: Detetive reconhece que prendeu o bandido errado e inicia operação para [deter o verdadeiro líder do tráfico em Parada de Lucas.,
+	      emprisionar: x,
+	      encadear: A polícia H]encadeou o bandido.,
+	      encarcerar: O Departamento Correcional gastou US$ 44 milhões para [encarcerar estrangeiros criminosos.,
+	      encelar: H]Encelar um criminoso.,
+	      encerrar: H]Encerrou o próprio irmão na masmorra.,
+	      enclaustrar: x,
+	      enclausurar: O tutor e sua mulher do tutor I]enclausuram a órfã para obrigá-la a aceitar o que lhe é imposto.,
+	      enjaular: Quanto mais rico, mais e melhor a promotoria trabalha para I]enjaular o criminoso.,
+	      entaipar: x,
+	      ferrolhar: x,
+	      prear: Sabe-se que durante o século XVI, o Paraná foi alvo de bandeiras paulistas,expedições que tinham o objetivo de I]prear índios para vendê-los como escravos,e procura de metais preciosos.  ,
+	      prender: Ontem, a polícia [prendeu, em lugares diferentes, duas senhoras idosas que se sustentavam com a venda de entorpecentes.,
+	      represar: A falta de vagas reflete no Centro de Internamento Provisório (CIP) de Chapecó, que acaba I]represando menores que deveriam estar no CER.,
+	      subjugar: Com a arma de fogo é possível enfrentar e I]subjugar os bandidos.,
+	      trancafiar: Segundo Ayatollah Khomeini, líder religioso Iraniano, você deve matar, queimar e I]trancafiar aqueles na oposição.,
+	      trancar: Grilo I]trancou os três negros naquela mesma prisão.,
+	      trincafiar: x,}
+
+	  A='Glosa2108'
+	    {descativar: A]Descativar os presos.,
+	     desencarcerar: Atento em saber quando seria o tal domingo - pois os pássaros não conhecem o tempo dos homens - usou de sua astúcia para conseguir até um pardal-batedor e colocar em ação seu bem disposto exército de bicos e penas pronto para a missão de libertação dos seus o que consegue, derrubando todas as gaiolas I]desencarcerando todos os seus companheiros de canto e de vôo.,
+	     desencerrar: H]Desencerrar os pássaros.,
+	     desenclaustrar: x,
+	     excarcerar: x,
+	     libertar: Apesar de ter confirmado ao JORNAL DO BRASIL que participou da operação para [libertar o estudante, o comandante disse ontem que só esteve no cativeiro depois que uma equipe de policiais já havia retirado o rapaz do cárcere.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2889' = “Fechar em ou enclausurar”
+	    {aferrolhar: O xá aferrolhou a donzela no ergástulo.,
+	      aprisionar: Quando os inimigos perceberam que o lugar lhes oferecia grandes dificuldades de ataque, vieram de noite, mas por água, e I]aprisionaram a quantos encontraram.,
+	      confinar: Quando Bin Laden começou a escrever seus tratados contra o regime saudita, o rei Fahd o I]confinou e Bin Laden fugiu do país, se refugiando no Sudão.,
+	      encadear: A polícia H]encadeou o bandido.,
+	      encarcerar: Este, com intenção de mata-los, I]encarcerou-os.,
+	      encerrar: Por isso I]encerrou-a numa torre. Na torre havia duas janelas, mas Santa Bárbara mandou construir uma terceira, em honra à Santíssima Trindade.,
+	      enclausurar: O tutor e sua mulher do tutor I]enclausuram a órfã para obrigá-la a aceitar o que lhe é imposto.,
+	      enjaular: Ela ganhou muita repercussão porque fechou a loja Daslu em São Paulo e I]enjaulou por algumas horas seus donos.,
+	      prender: A partir daí, toda vez que ele usava algum feitiço, era severamente punido, até que aos 13 anos seu pai o I]prendeu no quarto e nunca mais o tirou de lá.,
+	      trancafiar: Um homem que trancafiou a mulher e a filha de 10 meses dentro de casa por mais de 6 horas foi condenado.,
+	      trancar: Mãe I]trancou suas três filhas no escuro durante sete anos.,}
+
+	  A='Glosa2108'
+	    {descativar, desencarcerar, desencerrar, libertar}
+Chave: CONFINAR <verb.stative>
+ILI: 02631709
+
+Sense 4
+{02631709} <verb.stative> enclose, hold in, confine -- (close in or confine)
+       => {02619614} <verb.stative> hold13, bear14, carry3, contain13 -- (contain or hold; have within; "The jar carries wine"; "The canteen holds fresh water"; "This can contains water")
+           => {02554437} <verb.stative> include -- (have as a part, be made up out of; "The list includes the names of many famous writers") 

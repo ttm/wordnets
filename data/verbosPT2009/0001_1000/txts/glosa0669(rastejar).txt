@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA0669
+
+DADO O SYNSET:
+
+S='Glosa669'
+{arrastar: Cobras M]arrastam na (ou pela) terra. # Têm de ir embora M]arrastando.,
+arrastrar: x,
+rastejar: Segundo a direção do presídio, na madrugada de ontem o italiano Ricardo Rigacchi e o baiano Rildo Pereira de Carvalho [rastejaram 250 metros até chegar a um dos muros de saída do presídio.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa669' = “mover vagarosamente; no caso de pessoas ou animais com o corpo próximo ao chão”
+{rastejar: Segundo a direção do presídio, na madrugada de ontem o italiano Ricardo Rigacchi e o baiano Rildo Pereira de Carvalho [rastejaram 250 metros até chegar a um dos muros de saída do presídio.,}
+Chave: RASTEJAR <verb.motion>
+ILI: 01831617
+
+Sense 1
+{01831617} <verb.motion> crawl, creep -- (move slowly; in the case of people or animals with the body near the ground; "The crocodile was crawling along the riverbed")
+       => {01782203} <verb.motion> travel, go, move3, locomote -- (change location; move, travel, or proceed; "How fast does your new car go?"; "We travelled from Rome to Naples by bus"; "The policemen went from door to door looking for the suspect"; "The soldiers moved towards the city in an attempt to take it before night fell")

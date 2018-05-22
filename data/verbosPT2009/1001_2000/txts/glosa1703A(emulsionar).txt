@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA1703A
+
+DADO O SYNSET:
+
+S='Glosa1703'
+{emulsificar: A bile serve para I]emulsificar gorduras, aumentando a superfície de contato, facilitando a ação das lipases pancreáticas e entéricas. ,
+ emulsionar: A lecitina é usada em muitas rações animais devido suas propriedades nutricionais e funcionais, com aplicações principais em I]emulsionar a gordura para melhorar a digestão e a eficiência da alimentação animal.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1703'A = “transfromar [algo] em emulsão”
+{emulsificar: O processo de desengraxe convencional desloca e I]emulsifica óleos e outros complexos orgânicos da superfície de peças metálicas.,
+ emulsionar: A bile I]emulsiona as gorduras, ou seja, transforma grandes gotas de gordura em gotículas de gordura, aumentando a superfície de contato com as lipases.,}
+Chave: EMULSIONAR <verb.change>
+ILI: 00487379
+
+Sense 1
+{00487379} <verb.change> emulsify1 -- (cause to become an emulsion; make into an emulsion)
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA1090
+
+DADO O SYNSET:
+
+S='Glosa1090'
+{descoser: Tudo é velho, e meu é somente o fio ea agulha; o resto não me custou nada mais que I]descoser e voltar a cosê-lo a meu gosto,
+ desembainhar: H]Desembainhou uma saia,}
+	  
+A='Glosa2902'
+{abainhar, acairelar, bainhar, beirar, bordar, brolar, broslar, cairelar, debruar, embainhar, fimbriar, franjar, orlar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1090' = “cancelar, anular, ou reverter o processo de coser”
+{descoser: Depois disso Pedro I]descoseu os sofás, as cortinas, tirou os panos, lavou tudo e colocou de novo.,}
+A='Glosa2902'
+{abainhar, acairelar, bainhar, beirar, bordar, brolar, broslar, cairelar, debruar, embainhar, fimbriar, franjar, orlar}
+Chave: DESCOSER <verb.contact>
+ILI: EQ_HAS_HYPERONYM - 01477750
+
+Sense 1
+{01477750} <verb.contact> undo -- (cancel, annul, or reverse an action or its effect; "I wish I could undo my actions")
+       => {00133458} <verb.change> change by reversal, turn, reverse -- (change to the contrary; "The trend was reversed"; "the tides turned against him"; "public opinion turned when it was revealed that the president had an affair with a White House intern")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

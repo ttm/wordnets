@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA1585
+
+DADO O SYNSET:
+
+S='Glosa1585'
+{demarcar: O que se pretende com essa iniciativa é [demarcar claramente as diferenças entre os social-democratas e os neoliberais que formam a base dos aliados do governo Fernando Henrique Cardoso.,
+ desnivelar: Satanás vem como orgulho, jactância (tem coisa melhor para ele do que I]desnivelar os irmão da igreja criando classes, um se achando melhor que o outro, ou um se sentindo inferior a outro?) ,
+ diferençar: Assim o isospin foi introduzido por ordenar e [diferençar o próton e o nêutron.,
+ diferenciar: Esse é um detalhe importante para [diferenciar uma célula vegetal de uma célula animal.,
+ discernir: Em Syntactic Structures, Chomsky primeiro anunciou um conjunto de objetivos e então descreveu o tipo de gramática que parecia ser necessária para que se pudesse [discernir as regularidades próprias do inglês - ou, na verdade, de qualquer língua.,
+ discriminar: Suponha que ele não conhece nada da escrita chinesa e talvez nem seja capaz de [discriminar o chinês de outros tipos de rabiscos .,
+ distinguir: Isso proporciona ao indivíduo [distinguir diferentes sensações, como o calor, o frio, a dor ou a pressão.,
+ separar: É difícil [separar o que é boato e o que é notícia com fundamento, indicando uma mudança de política econômica.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1585' = “assinalar como diferente”
+{demarcar: A comparação entre o «nada» na obra dos dois também serve para [demarcar diferenças na representação da guerra em cada um deles.,
+ diferençar: Por tudo isso, a III CONFERÊNCIA teve uma peculiaridade que a I]diferençou das anteriores.,
+ diferenciar: Isso, dizem, foi o que [diferenciou bibliotecas ocidentais das orientais.,
+ discernir: Aristóteles I]discerniu de modo claro dois momentos diferentes da memória: o armazenamento (memorizar) e o lançar mão das recordações (recordar-se).,
+ discriminar: Entre os cambistas, a polícia [discrimina dois tipos de crime: a venda de ingressos acima do preço (quatro presos) e a revenda de ingressos, por valor correto, mas em local não autorizado (três).,
+ distinguir: Já no «Quarteto em sol maior KV 387» de Mozart o conjunto [distinguiu muito bem os estilos de Haydn e Mozart.,
+ separar: A polícia não [separa na favela quem é bandido e quem é trabalhador.,}
+Chave: DISTINGUIR <verb.cognition>
+ILI: 00628816
+
+Sense 1
+{00628816} <verb.cognition> distinguish, separate1, differentiate1, secern1, secernate, severalize, severalise, tell1, tell apart -- (mark as different; "We distinguish several kinds of maple")
+       => {00598581} <verb.cognition> identify, place -- (recognize as being; establish the identity of someone or something; "She identified the man on the 'wanted' poster")
+           => {00676553} <verb.cognition> determine1, set4 -- (fix conclusively or authoritatively; "set the rules")

@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA3566
+
+DADO O SYNSET:
+
+S='Glosa3566'
+	    {
+	      desnortear-se: O mundo I]se desnorteou. / Busca na memóría de sua vida o ponto em que I]se desnorteou.,
+	      desorientar-se1: Essa exigência alemã [o desorientou. ,
+	    }
+A='Glosa573'
+	    {
+	     anortear-se: x,
+	     guiar-se: A prova direta da injusta recusa no recebimento da quantia ou da coisa devida é extremamente difícil, razão pela qual deve o julgador [guiar-se pelos indícios e provas circunstanciais,
+	     nortear-se: Conquanto a lei assim não dispusesse enfaticamente, a jurisprudência há anos I]norteava-se por tais critérios, observados os interesses do menor.,
+	     orientar-se: Ao contrário dos que pagavam tributo às teorias em moda, o colunista I]orientava-se por idéias sucintas e descomplicadas.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3566' = “causar estar perdido ou desorientado”
+	     {desnortear-se: O mundo I]se desnorteou. / Algum tempo depois, teve que ir a Jacuí; I]desnorteou-se pelo caminho, em meio a matagal fechado, perdendo por completo o rumo a seguir.,
+	      desorientar-se1: O próprio Cabral I]desorientou-se ao buscar o caminho das Índias e veio dar nas costas do Brasil.,}
+A='Glosa573'
+	    {guiar-se: A prova direta da injusta recusa no recebimento da quantia ou da coisa devida é extremamente difícil, razão pela qual deve o julgador [guiar-se pelos indícios e provas circunstanciais,
+	     nortear-se: Conquanto a lei assim não dispusesse enfaticamente, a jurisprudência há anos I]norteava-se por tais critérios, observados os interesses do menor.,
+	     orientar-se: Ao contrário dos que pagavam tributo às teorias em moda, o colunista I]orientava-se por idéias sucintas e descomplicadas.,}
+Chave: DESORIENTAR-SE <verb.perception>
+ILI: 02097775
+
+Sense 1
+{02097775} <verb.perception> disorient, disorientate -- (cause to be lost or disoriented)
+       => {00601611} <verb.cognition> confuse3, throw, fox, befuddle, fuddle, bedevil, confound2, discombobulate -- (be confusing or perplexing to; cause to be unable to think clearly; "These questions confuse even the experts"; "This question completely threw me"; "This question befuddled even the teacher")
+           => {02526983} <verb.stative> be3 -- (have the quality of being; (copula, used with an adjective or a predicate noun); "John is rich"; "This is not a good answer")

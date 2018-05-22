@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0439
+
+DADO O SYNSET:
+
+S='Glosa439'
+{agenciar: Anastassia, pseudônimo criado por uma mulher de 37 anos que afirma [agenciar modelos em São Paulo, diz que trabalha das 10h às 23h em um escritório no centro.,
+contratar: Consciente de suas pretensões musicais, Luciana acabou resistindo ao apelo do influente selo norte-americano CTI, que estava interessado em [contratá-la. ,
+recrutar: Já estudava engenharia no Mackenzie quando frequentou o mesmo curso técnico do qual nos anos seguintes [recrutaria, como empresário, seus melhores funcionários.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa439' = “entrar em um acordo contractual”
+{agenciar: Anastassia, pseudônimo criado por uma mulher de 37 anos que afirma [agenciar modelos em São Paulo, diz que trabalha das 10h às 23h em um escritório no centro.,
+contratar: Consciente de suas pretensões musicais, Luciana acabou resistindo ao apelo do influente selo norte-americano CTI, que estava interessado em [contratá-la. ,
+recrutar: Já estudava engenharia no Mackenzie quando frequentou o mesmo curso técnico do qual nos anos seguintes [recrutaria, como empresário, seus melhores funcionários.,}
+Chave: CONTRATAR
+ILI: 00859374
+
+Sense 1
+{00859374} <verb.communication> contract, undertake1 -- (enter into a contractual arrangement)
+       => {00854515} <verb.communication> promise, assure2 -- (make a promise or commitment)
+           => {00977478} <verb.communication> declare -- (state emphatically and authoritatively; "He declared that he needed more money to carry out the task he was charged with")
+               => {00976600} <verb.communication> state, say, tell4 -- (express in words; "He said that he wanted to marry her"; "tell me what is bothering you"; "state your opinion"; "state your name")
+                   => {00909455} <verb.communication> express, verbalize3, verbalise3, utter1, give tongue to -- (articulate; either verbally or with a cry, shout, or noise; "She expressed her anger"; "He uttered a curse")

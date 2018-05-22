@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA0959
+
+DADO O SYNSET:
+
+S='Glosa959'
+{confraternar: A congregação H]confraternava senhoras pias em torno de obras caritativas.,
+confraternizar: Depois de passar quatro dias em Dublin, e gostar, ele se sentiu tentado a pedir desculpas a Joyce por [confraternizar com o inimigo.,
+congeminar1: Que de agora em diante esse fórum sinta inúmeros orgasmos para nascer milhares de novas idéias e assim, I]congeminar com todos os ideais envolvidos.,
+fraternizar: Parte-se da convicção de que é possível I]fraternizar o amor universal, pois ele abre caminhos de justiça e solidariedade, despertando a coragem de lutar.,
+irmanar: A história nos mostra que nossos momentos de maior glória se situam nos momentos em que estivemos [irmanados na busca do bem comum, e o futuro nos aponta essa direção.,}
+A='Glosa1421'
+{desfraternizar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa959' = “estar, ficar em termoas amigáveis com alguém, como se com um irmão”
+{confraternizar: Depois de passar quatro dias em Dublin, e gostar, ele se sentiu tentado a pedir desculpas a Joyce por [confraternizar com o inimigo.,
+congeminar1: Que de agora em diante esse fórum sinta inúmeros orgasmos para nascer milhares de novas idéias e assim, I]congeminar com todos os ideais envolvidos.,
+fraternizar: Parte-se da convicção de que é possível I]fraternizar o amor universal, pois ele abre caminhos de justiça e solidariedade, despertando a coragem de lutar.,
+irmanar: A história nos mostra que nossos momentos de maior glória se situam nos momentos em que estivemos [irmanados na busca do bem comum, e o futuro nos aponta essa direção.}
+
+A='Glosa1421'
+{desfraternizar}
+Chave: CONFRATERNIZAR <verb.social>
+ILI: 02318384
+
+Sense 1
+{02318384} <verb.social> fraternize, fraternise -- (be on friendly terms with someone, as if with a brother, especially with an enemy)
+       => {02317425} <verb.social> socialize1, socialise1 -- (take part in social activities; interact with others; "He never socializes with his colleagues"; "The old man hates to socialize")
+           => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+               => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

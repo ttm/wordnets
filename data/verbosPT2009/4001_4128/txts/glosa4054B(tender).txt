@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA4054
+
+DADO O SYNSET:
+
+S='Glosa4054'
+{digirir-se: Um expressivo grupo se I]dirigiu ao planalto do Rio Grande do Sul.,
+direcionar-se: Sabrina se levantou rapidamente, com uma cara amarrada, e se I]direcionou ao banheiro.,
+encaminhar-se: O técnico se I]encaminhou ao alambrado e deu uma das bolas para eles.,
+encarrilhar: x,
+orientar-se: M]Orientou-se no rumo certo.,
+propender: Direcionar e atuar nos locais reconhecidamente que I]propende ao consumo das aludidas substâncias tem sido forma de profilaxia desse mal.,
+tender: Muitos grandes pensadores afirmam que os seres humanos I]tendem ao crescimento, ao bem estar e ao prazer.,
+tomar: O caminhoneiro I]tomou a Estrada das Neves, em direção ao bairro Serra Alta.,}
+
+  A='Glosa1731'
+	    {derrotar2, descarrilhar, desencaminhar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4054B' = “ter tendência ou disposição para fazer ou ser algo, ter inclinação”
+{propender: Direcionar e atuar nos locais reconhecidamente que I]propende ao consumo das aludidas substâncias tem sido forma de profilaxia desse mal.,
+tender: Muitos grandes pensadores afirmam que os seres humanos I]tendem ao crescimento, ao bem estar e ao prazer.,}
+Chave: TENDER <verb.stative>
+ILI: 02639433
+
+Sense 1
+{02639433} <verb.stative> tend1, be given, lean1, incline1, run1 -- (have a tendency or disposition to do or be something; be inclined; "She tends to be nervous before her lectures"; "These dresses run small"; "He inclined to corpulence")
+       => {02526983} <verb.stative> be3 -- (have the quality of being; (copula, used with an adjective or a predicate noun); "John is rich"; "This is not a good answer")

@@ -1,0 +1,35 @@
+ANÁLISE DA GLOSA2939
+
+DADO O SYNSET:
+
+S='Glosa2939'
+	    {cindir: Philip Morris pode [cindir suas empresas.,
+	      dividir: A idéia do plano é a de [dividir a área do município em cinco parques, um dos quais destinado a indústrias leves.,
+	      escindir: x,
+	      fracionar: Para facilitar a ocupação de prédios que antes só eram alugados inteiros, a Savoy os está [fracionando em conjuntos comerciais.,
+	      fragmentar: Mais complicado ainda, imagina a direção do PT, seria manter unida nesse processo a frente que apóia Lula e evitar que a discussão volte a [fragmentar o próprio partido, momentaneamente unido devido à perspectiva de vitória de Lula. ,
+	      partir: O vento [partiu ao meio as pernas da escultura de uma mulher da Gaviões da Fiel.,
+	      retalhar: A degredação do patrimônio da Rede se acentuou a partir das privatizações, que I]retalharam a malha ferroviária em seis áreas distintas. ,
+	      seccionar: A orquestra permitia [seccionar os sons como se fossem blocos sólidos, a partir dos quais construiria a percepção de unidade para, rapidamente, diluí-la na tensão da da execução.,
+	      secionar: O ideal é I]secionar cada ano em, no mínimo, trimestres e projetar trimestralmente o cenário em toda a sua extensão.,
+	      separar: É difícil [separar as duas coisas.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2939' = “Dividir em segmentos”
+	    {cindir: Reforma é o nome dado ao grande movimento religioso do século XVI que I]cindiu a Igreja cristã em duas partes:- o protestantismo e o romanismo.,
+	      dividir: Devido às características do terreno onde será localizado o Porto de Navegantes, a projetista I]dividiu a área de construção em duas regiões.,
+	      fracionar: I]Fracionou a categoria de agente de apoio em auxiliar de serviços gerais e auxiliar operacional.,
+	      fragmentar: A modernidade I]fragmentou o campo religioso e fez emergir uma diversidade de religiões.] ,
+	      partir: Não sei se você viu, mas o Lula I]partiu o Ibama em 2 orgãos, um será o Ibama e outro o Instituto Chico Mendes.,
+	      retalhar: A degradação do patrimônio da Rede se acentuou a partir das privatizações, que I]retalharam a malha ferroviária em seis áreas distintas.,
+	      seccionar: A construção de um grande viaduto sobre a linha férrea I]seccionou a área.,
+	      secionar: Interessante trabalho da Agência Nacional de Águas – ANA, I]secionou a Bacia em regiões.,
+	      separar: Num primeiro momento, ela identificou os produtos mais vendidos em dois estabelecimentos comerciais e os I]separou em dois grupos.,}
+Chave: SECIONAR <verb.contact>
+ILI: 01519704
+
+Sense 1
+{01519704} <verb.contact> segment, section -- (divide into segments; "segment an orange"; "segment a compound word")
+       => {01514734} <verb.contact> separate, divide, part -- (come apart; "The two pieces that we had glued separated")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night") 

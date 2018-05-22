@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA4014
+
+DADO O SYNSET:
+
+S='Glosa4014'
+{correr: O jantar M]correu indiferente e quase insípido.,
+desenvolver-se: Essa ação se M]desenvolve em variados episódios.,
+desfilar: Velhas lembranças iam H]desfilando pelo seu pensamento.,
+passar-se: Não entendia direito o que se I]passava naquele espaço do estádio municipal, não entendia as manifestações daquele gente.,
+processar-se: Tudo isso, é bem verdade, vai muito distante, e já no século XIX, pelo menos na sua última metade, I]processavam-se transformações profundas.,
+seguir-se: I]Seguiu-se um debate com a possibilidade de perguntas ao palestrante. ,
+sobrevir-se: À realidade I]sobrevém-se a imaginação.,
+suceder: Os dias I]sucediam as noites.,
+suceder-se: M]Sucederam-se as desilusões.,}
+  
+A ANÁLISE RESULTA EM:
+
+S='Glosa4014' = “vir a passar”
+{correr: Durante os primeiros tempos de serviço tudo [correu às mil maravilhas; só algum mal-intencionado poderia notar em casa de Vidinha uma certa fartura desusada na despensa; mas isso não era coisa em que alguém fizesse conta.,
+desenvolver-se: Filho e neto de pastores protestantes, a infância de Nietzsche [desenvolveu-se naturalmente numa atmosfera cristã, pietista e moralista.,
+passar-se: Não entendia direito o que se I]passava naquele espaço do estádio municipal, não entendia as manifestações daquele gente.,
+processar-se: Tudo isso, é bem verdade, vai muito distante, e já no século XIX, pelo menos na sua última metade, I]processavam-se transformações profundas.,
+seguir-se: I]Seguiu-se um debate com a possibilidade de perguntas ao palestrante. ,
+sobrevir-se: Após a derrubada da mata, I]sobreviram alterações.,
+suceder: Começa a [suceder a destruição das hemácias.,
+suceder-se: M]Sucederam-se as desilusões.,}
+Chave: SUCEDER <verb.change>
+ILI: 00329254
+
+Sense 1
+{00329254} <verb.change> happen, hap, go on, pass off, occur, pass, fall out, come about, take place -- (come to pass; "What is happening?"; "The meeting took place off without an incidence"; "Nothing occurred that seemed important")
+

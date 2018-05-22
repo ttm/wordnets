@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA3448
+
+DADO O SYNSET:
+
+S='Glosa3448'
+	    {
+	      metodizar: O que Pelé queria agora era sistematizar, [metodizar, impessoalizar, enfim, essa produção, criando uma infra-estrutura para que a geração de craques na Vila fosse tão somente consequência natural do investimento básico/O defeito de Bilac foi não metodizar o invento,
+	      ordenar: Ao terminar a elaboração das pranchas, o artista [ordenou o trabalho e gravou a numeração na parte inferior esquerda de cada uma delas/: para alcançar esta meta, seria necessário ordenar recursos infinitos,
+	      regularizar: O computador nivela e regulariza tudo aquilo que se mostra selvagem, incerto, perturbado e indistinto/Faltavam documentos para regularizar as remessas ao exterior,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3448' = “levar ordem para”
+	     {metodizar: Mikao Usui I]metodizou a prática desta terapia e passou a ensinar novos mestres em Reiki,
+	      ordenar: Ao terminar a elaboração das pranchas, o artista [ordenou o trabalho e gravou a numeração na parte inferior esquerda de cada uma delas,
+	      regularizar: O computador nivela e [regulariza tudo aquilo que se mostra selvagem, incerto, perturbado e indistinto,}
+Chave: ORDENAR <verb.change>
+ILI: 00268653
+
+Sense 5
+{00268653} <verb.change> order -- (bring order to or into; "Order these files")
+       => {01422386} <verb.contact> arrange, set up -- (put into a proper or systematic order; "arrange the books on the shelves in chronological order")
+           => {01452069} <verb.contact> put, set, place, pose2, position, lay1 -- (put into a certain place or abstract location; "Put your things here"; "Set the tray down"; "Set the dogs on the scent of the missing children"; "Place emphasis on a certain point")
+               => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

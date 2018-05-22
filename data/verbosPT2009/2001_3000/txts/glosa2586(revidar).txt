@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA2586
+
+DADO O SYNSET:
+
+S='Glosa2586'
+	    {contra-atacar: O comandante de uma base área (Sterling Hayden) mete na cabeça que os russos estão envenenando a água da América e resolve [contra-atacar, mandando seus B-52 bombardearem vários alvos soviéticos, o que desencadeará inevitavelmente uma retaliação nuclear.,
+	      descontar: Não adianta dizer para a criança que apanhou [descontar.,
+	      reenvidar: O agredido A]reenvidou os golpes.,
+	      responder: Na verdade, o governo procura [responder, com o anúncio, às constantes críticas de exportadores ao câmbio e, ao mesmo tempo, reverter a tendência de déficit da balança comercial. # No início da noite de ontem, o presidente do Flamengo, Kleber Leite, [respondeu às críticas.,
+	      revidar: Bülent Aydin, redator-chefe do jornal Özgür Politika, ligado ao PKK, conta que, depois dos distúrbios de março, dezenas de pessoas ligaram para o jornal, declarando-se dispostas a [revidar a violência policial. # Mais supreendente do que o sermão moralista de Prodi é o momento escolhido por ele para [revidar as insistentes provocações lançadas por Berlusconi, seus aliados e as três poderosas redes nacionais de televisão que os sustentam.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2586' = “Fazer um contra-ataque, e dar em troca de maneira igual, especialmente uma maldade por outra.”
+	    {contra-atacar: A Microsoft I]contra-atacou a Comissão Européia.,
+	      descontar: Levou uma cotovelada mas logo H]descontou(-a).,
+	      reenvidar: O agredido A]reenvidou os golpes.,
+	      responder: Londres I]respondeu aos ataques sem alimentar o terror.,
+	      revidar: A Polícia I]revidou os ataques dos criminosos.,}
+
+Chave: REVIDAR <verb.competition>
+ILI: 01117641
+
+Sense 1
+{01117641} <verb.competition> retaliate, strike back4 -- (make a counterattack and return like for like, especially evil for evil; "The Empire strikes back"; "The Giants struck back and won the opener"; "The Israeli army retaliated for the Hamas bombing")
+
+       => {01088878} <verb.competition> strike, hit -- (make a strategic, offensive, assault against an enemy, opponent, or a target; "The Germans struck Poland on Sept. 1, 1939"; "We must strike the enemy's oil fields"; "in the fifth inning, the Giants struck, sending three runners home to win the game 5 to 2")
+           => {01084194} <verb.competition> attack, assail1 -- (launch an attack or assault on; begin hostilities or start warfare with; "Hitler attacked Poland on September 1, 1939 and started World War II"; "Serbian forces assailed Bosnian towns all week")
+               => {01055630} <verb.competition> fight, struggle -- (be engaged in a fight; carry on a fight; "the tribesmen fought each other"; "Siblings are always fighting") 

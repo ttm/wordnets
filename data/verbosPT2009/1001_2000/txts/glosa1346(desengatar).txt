@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA1346
+
+DADO O SYNSET:
+
+S='Glosa1346'
+{desembrear2: O correto é segurar o peso do automóvel com o freio e I]desembrear o veículo apenas no momento de colocá-lo em movimento.,
+ desengatar: O motorista Santino Donizete Belmonte afirmou que momentos antes do acidente [desengatou a marcha do ônibus, como sempre costuma fazer em descidas.,}
+	  
+A='Glosa1807'
+{embraiar, embrear2, engatar, engrenar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1346' = “soltar a embreagem de um veículo automóvel”
+{desembrear2: O correto é segurar o peso do automóvel com o freio e I]desembrear o veículo apenas no momento de colocá-lo em movimento.,
+ desengatar: O motorista Santino Donizete Belmonte afirmou que momentos antes do acidente [desengatou a marcha do ônibus, como sempre costuma fazer em descidas.,}
+A='Glosa1807'
+{embraiar, embrear2, engatar, engrenar}
+Chave: DESENGATAR <verb.change>
+ILI: 00516965
+
+Sense 1
+{00516965} <verb.change> declutch -- (disengage the clutch of a car)
+       => {00212807} <verb.change> disengage -- (become free; "in neutral, the gears disengage")
+           => {00140715} <verb.change> change state, turn4 -- (undergo a transformation or a change of position or action; "We turned from Socialism to Capitalism"; "The people turned against the President when he stole the election")
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

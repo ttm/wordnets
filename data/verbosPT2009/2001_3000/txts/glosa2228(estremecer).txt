@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA
+
+DADO O SYNSET:
+
+S='Glosa2228'
+	    {estremecer: O tremor de terra H]estremeceu os alicerces das construções.,
+	      oscilar: Nos altares H]oscilam as imagens.,
+	      tremer: O avião I]tremeu ao atravessar uma turbulência.,
+	      vacilar: A construção começou a H]vacilar nos alicerces.,
+	      vasquejar: A lâmpada I]vasqueja.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2228' = “sacudir para diante e para trás rapidamente”
+	    {estremecer: Dá para sentir a terra [estremecer e o barulho parece o de um trovão.,
+	      oscilar: Nos altares H]oscilam as imagens.,
+	      tremer: O avião I]tremeu ao atravessar uma turbulência.,
+	      vacilar: A construção começou a H]vacilar nos alicerces.,
+	      vasquejar: A lâmpada I]vasqueja.,}
+
+
+Chave: ESTREMECER <verb.motion>
+ILI: 01824558 
+
+Sense 5
+{01824558} <verb.motion> flicker, waver2, flitter, flutter1, quiver4 -- (move back and forth very rapidly; "the candle flickered")
+       => {01822383} <verb.motion> move back and forth -- (move in one direction and then into the opposite direction)
+           => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right")

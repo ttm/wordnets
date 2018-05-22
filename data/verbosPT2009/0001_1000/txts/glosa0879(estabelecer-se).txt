@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA0879
+
+DADO O SYNSET:
+
+S='Glosa879'
+{chantar-se: Deveria estudar e não I]chantar-se nos seus preconceitos.,
+estabelecer-se: Há uma diferença entre conhecer a vida e conhecer a vidinha de um lugar, e entrar na vidinha depende de [estabelecer-se na comunidade por alguns anos.,
+fixar-se: Com a retirada dos holandeses de Pernambuco, muitos preferiram [fixar-se em Barbados, com os conhecimentos adquiridos e escravos. # Stevenson pára em Vailima e [fixa-se naquela ilha, trabalhando nos livros e nos consertos da casa.,
+plantar-se: No dia seguinte, um grupo do círculo dos bolivarianos I]plantou-se em frente do edifício do jornal e impediu a saída de seus trabalhadores durante mais de meia hora.,
+sentar-se: Melhor [sentar-se com a Alemanha, por exemplo, do que com Botsuana, país que divide com o Brasil a característica de ser o de pior distribuição de renda do mundo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa879' = “ficar determinado em algo, ou estabilizado e estável em uma residência ou estilo de vida”
+{chantar-se: Deveria estudar e não I]chantar-se nos seus preconceitos.,
+estabelecer-se: Há uma diferença entre conhecer a vida e conhecer a vidinha de um lugar, e entrar na vidinha depende de [estabelecer-se na comunidade por alguns anos.,
+fixar-se: Com a retirada dos holandeses de Pernambuco, muitos preferiram [fixar-se em Barbados, com os conhecimentos adquiridos e escravos. # Stevenson pára em Vailima e [fixa-se naquela ilha, trabalhando nos livros e nos consertos da casa.,
+plantar-se: No dia seguinte, um grupo do círculo dos bolivarianos I]plantou-se em frente do edifício do jornal e impediu a saída de seus trabalhadores durante mais de meia hora.,
+sentar-se: Melhor [sentar-se com a Alemanha, por exemplo, do que com Botsuana, país que divide com o Brasil a característica de ser o de pior distribuição de renda do mundo.,}
+Chave: ESTABELECER-SE <verb.change>
+ILI: 00403265
+
+Sense 7
+{00403265} <verb.change> settle2, root2, take root1, steady down, settle down -- (become settled or established and stable in one's residence or life style; "He finally settled down")
+       => {00263055} <verb.change> stabilize, stabilise -- (become stable or more stable; "The economy stabilized")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

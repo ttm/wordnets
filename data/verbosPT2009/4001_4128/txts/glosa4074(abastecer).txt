@@ -1,0 +1,48 @@
+ANÁLISE DA GLOSA4074
+
+DADO O SYNSET:
+
+S='Glosa4074'
+{abastar: H]Abastou o celeiro do trigo que faltava.,
+abastecer: A carne do gado I]abastecia todo o sertão.,
+aperceber: H]Aperceberam a embarcação de provisões.,
+aprovisionar: Sua importância é inquestionável, uma vez que suporta toda atividade humana e I]aprovisiona, com bens e serviços, o mundo que nos mantém vivos.,
+fornecer: A colônia do Brasil I]fornecia ao reino luso produtos tropicais.,
+fornir: H]Forniu a casa de víveres para o inverno.,
+guarnecer: H]Guarneceu a casa de modo que nenhum conforto lhe faltasse.,
+munir: A evolução nos I]muniu com uma forma de raciocínio.,
+prover: Recolhendo-o em casa, curou-o e M]proveu-o do necessário.,
+provisionar: x,
+refazer: H]Refez de alimentos e remédios a região arrasada.,
+sortir: H]Sortiu a loja com mercadorias novas.,
+suprir: Os vencimentos da aposentadoria não o [suprem.,}
+	  
+A='Glosa1165'
+{desabastecer, desprover}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4074' = “prover com o que é desejado ou necessário, especialmente apoio, comida ou sustento”
+{abastar: H]Abastou o celeiro do trigo que faltava.,
+abastecer: A carne do gado I]abastecia todo o sertão.,
+aperceber: H]Aperceberam a embarcação de provisões.,
+aprovisionar: H]Aprovisionou a despensa com tudo o que as crianças gostavam.,
+fornecer: A colônia do Brasil I]fornecia ao reino luso produtos tropicais.,
+fornir: H]Forniu a casa de víveres para o inverno.,
+guarnecer: H]Guarneceu a casa de modo que nenhum conforto lhe faltasse.,
+munir: A]Muni-o do necessário para a excursão.,
+prover: Recolhendo-o em casa, curou-o e M]proveu-o do necessário.,
+refazer: H]Refez de alimentos e remédios a região arrasada.,
+sortir: H]Sortiu a loja com mercadorias novas.,
+suprir: Conhecida como Vila de Monforte, abrigava um “pesqueiro real”, que por décadas I]supriu de pescado e outros gêneros a capital da província.,}
+	  
+A='Glosa1165'
+{desabastecer, desprover}
+Chave: ABASTECER <verb.consumption>
+ILI: 01146590
+
+Sense 3
+{01146590} <verb.consumption> provide, supply, ply, cater -- (provide what is desired or needed, especially support, food or sustenance; "The hostess provided lunch for all the guests")
+       => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+           => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children")
+ 

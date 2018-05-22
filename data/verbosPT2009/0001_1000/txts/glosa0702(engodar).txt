@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA0702
+
+DADO O SYNSET:
+
+S='Glosa702'
+{engodar: Segundo ele, a afirmação do candidato petista de que vai desapropriar terras pelo valor venal é feita para [engodar o povo.,
+iscar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa702' = “atrair, seduzir ou instigar”
+{engodar: Segundo ele, a afirmação do candidato petista de que vai desapropriar terras pelo valor venal é feita para [engodar o povo.,}
+Chave: ENGODAR <verb.communication>
+ILI: 00768094
+
+Sense 1
+{00768094} <verb.communication> tempt1, allure -- (dispose or incline or entice to; "We were tempted by the delicious-looking food")
+       => {00767907} <verb.communication> invite, bid -- (ask someone in a friendly way to do something)
+           => {00728656} <verb.communication> request2 -- (ask (a person) to do something; "She asked him to be here at noon"; "I requested that she type the entire manuscript")
+               => {00727721} <verb.communication> ask1 -- (make a request or demand for something to somebody; "She asked him for a loan")
+                   => {00727992} <verb.communication> request1, bespeak, call for4, quest1 -- (express the need or desire for; ask for; "She requested an extra bed in her room"; "She called for room service")
+                       => {00717906} <verb.communication> communicate1, pass on, pass1, put across -- (transmit information ; "Please communicate this message to all employees")
+                           => {02167243} <verb.possession> convey10, transmit10, communicate10 -- (transfer to another; "communicate a disease")
+                               => {02167764} <verb.possession> transfer1 -- (move from one place to another; "transfer the data"; "transmit the news"; "transfer the patient to another hospital")
+                                   => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

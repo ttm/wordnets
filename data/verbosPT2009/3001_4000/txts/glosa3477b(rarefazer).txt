@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA3477b
+
+DADO O SYNSET:
+
+S='Glosa3477'
+	    {
+	      arrarar: x,
+	      clarear: ...]clarear um bosque,
+	      desbastar: Os tiras haviam [desbastado a cabeleira de Carioca/Recomenda-se [desbastar preferencialmente as árvores bifurcadas, tortas e fracas,
+	      desbastecer: x,
+	      diminuir: O erro de Capitu foi não deixá-los crescer infinitamente, antes [diminuir até às dimensões normais, e dar-lhe o movimento do costume,
+	      enrarecer: O tempo costuma ]enrarecer os cabelos pretos,
+	      minuir: x,
+	      podar: A Prefeitura de Belo Horizonte vai [podar cerca de 40 mil árvores no próximo mês,
+	      rarear: Nosso colega, Nini, sentiu dificuldades para continuar quando começou a ]rarear a vegetação e ele precisava para se orientar/...a exploração do pau-brasil era monopólio régio e a madeira já começava a ]rarear junto ao litoral,
+	      rarefazer: O processo de ocupação da bacia do Itajaí teve, em grandes extensões, o efeito de ]rarefazer a cobertura vegetal e reduzir a espessura da liteira,
+	      talhar: ...]talhar plantas,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3477B' = “diminuir a densidade ou a solidez”
+	     {diminuir: A luz I]diminuía à medida que a profundidade aumentava em direção ao fundo da gruta,
+	      rarear: Já era possível apreciar a paisagem ao redor a medida que a mata I]rareava,
+	      rarefazer: Em seus trechos mais planos o sub-bosque se rarefaz, evidenciando a maturidade da mata, antiga, com grande dominância de canelas,}
+Chave: RAREFAZER <verb.change>
+ILI: 00554820
+
+Sense 1
+{00554820} <verb.change> rarefy3 -- (lessen the density or solidity of; "The bones are rarefied")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

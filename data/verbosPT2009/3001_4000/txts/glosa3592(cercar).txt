@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA3592
+
+DADO O SYNSET:
+
+S='Glosa3592'
+	    {
+	      assediar: Eles contam, depois de algumas escaramuças, I]assediar aqueles pobres-diabos nos Canudos para arrasá-los com a artilharia.,
+	      cercar: Em 1867, o agora Marquês de Caxias foi nomeado chefe das forças de ação da Guerra do Paraguai, iniciando as manobras para [cercar Humaitá./ Na madrugada de 10 de novembro, tropas da cavalaria [cercaram o Palácio Tiradentes. ,
+	      cercear: O índio tirou a sua faca, e [cerceando a cúpula dessa torre em miniatura, deixou a descoberto um buraco que penetrava pelo interior da terra.,
+	      embretar: Os paranaenses I]embretaram o Inter na defesa. ,
+	      obsidiar: M]Obsidiar uma fortaleza.,
+	      rodear: Os moços o [rodeavam, espiando-o de longe. / Livre do maior perigo, o índio [rodeou a casa para ver se tudo estava em sossego.,
+	      sitiar: Funcionários públicos invadiram o Ministério da Fazenda, [sitiaram o ministro em seu gabinete e quebraram vidraças e portas. / Em fevereiro de 1649, nova sortida dos holandeses resultou na segunda batalha dos Guararapes, que os [sitiou definitivamente no Recife. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3592' = “cercar forçando a desistência”
+	     {assediar: Mais de 30.000 dinamarqueses I]assediaram Paris e prósperas colônias foram reduzidas a cinzas.,
+	      cercar: Cerca de 1.500 homens do Exército e da Polícia Militar I]cercaram e ocuparam ontem o conjunto de morros do Complexo de São Carlos, no Estácio (zona norte)./ Na madrugada de 10 de novembro, tropas da cavalaria [cercaram o Palácio Tiradentes. ,
+	      rodear: Os moços o [rodeavam, espiando-o de longe. / Livre do maior perigo, o índio [rodeou a casa para ver se tudo estava em sossego.,
+	      sitiar: Funcionários públicos invadiram o Ministério da Fazenda, [sitiaram o ministro em seu gabinete e quebraram vidraças e portas. / Em fevereiro de 1649, nova sortida dos holandeses resultou na segunda batalha dos Guararapes, que os [sitiou definitivamente no Recife. ,}
+Chave: CERCAR <verb.competition>
+ILI: 01092348
+
+Sense 4
+{01092348} <verb.competition> besiege, beleaguer, surround, hem in, circumvent1 -- (surround so as to force to give up; "The Turks besieged Vienna")
+       => {01084194} <verb.competition> attack, assail1 -- (launch an attack or assault on; begin hostilities or start warfare with; "Hitler attacked Poland on September 1, 1939 and started World War II"; "Serbian forces assailed Bosnian towns all week")
+           => {01055630} <verb.competition> fight, struggle -- (be engaged in a fight; carry on a fight; "the tribesmen fought each other"; "Siblings are always fighting")

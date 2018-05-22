@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA1280
+
+DADO O SYNSET:
+
+S='Glosa1280'
+{desempoar: H]Desempoar os livros,
+ desempoeirar: É melhor você I]desempoeirar o seu velho Phantom System e ir alugar umas fitinhas,}
+	  
+A='Glosa626'
+{empoar, empoeirar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1280' = “remover a poeira [de]”
+{desempoar: A senhora Max I]desempoa com sua vassoura meticulosa o alpendre que dá para a rua.,
+ desempoeirar: Ele I]desempoeirou a velha máquina de datilografar.,}
+A='Glosa626'
+{empoar, empoeirar}
+Chave: DESEMPOEIRAR <verb.contact>
+ILI: 01206656
+
+Sense 1
+{01206656} <verb.contact> dust -- (remove the dust from; "dust the cabinets")
+       => {01490246} <verb.contact> clean, make clean -- (make clean by removing dirt, filth, or unwanted substances from; "Clean the stove!"; "The dentist cleaned my teeth")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

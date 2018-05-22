@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA1490
+
+DADO O SYNSET:
+
+S='Glosa1490'
+{denudar-se: A mesma sensação de louco prazer pode surgir ao tocar, vestir, I]desnudar-se ou esfregar-se nos objetos que se ama.,
+ descompor-se: H]Descompôs-se para dormir,
+ desnuar-se: H]Desnudou-se diante de todos,
+ desnudar-se: Um aluno me contou do seu desejo de I]desnudar-se na frente de todo mundo,
+ despir-se: Estaremos na praia orientando os usuários, informando sobre o código de ética do naturismo, para que não haja desentendimento entre os que tomam banho nus e os que preferem não [se despir,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1490' = “ficar sem vestuário” 
+{desnudar-se: Convença a amada a se [desnudar.,
+ despir-se: Ele se [despiu, vestiu uma camisinha e pegou a arma,}
+Chave: DESPIR-SE <verb.body>
+ILI: 00048143
+
+Sense 1
+{00048143} <verb.body> undress, discase, uncase, unclothe, strip1, strip down, disrobe1, peel2 -- (get undressed; "please don't undress in front of everybody!"; "She strips in front of strangers every night for a living")
+       => {00172676} <verb.change> take off -- (take away or remove; "Take that weight off me!")
+           => {00166870} <verb.change> remove, take, take away1, withdraw1 -- (remove something concrete, as by lifting, pushing, taking off, etc. or remove something abstract; "remove a threat"; "remove a wrapper"; "Remove the dirty dishes from the table"; "take the gun from your pocket"; "This machine withdraws heat from the environment")

@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA1779
+
+DADO O SYNSET:
+
+S='Glosa1779'
+{cravar: A seta partiu, e foi [cravar a cabeça de um chefe tapuia, fincada na estaca, à entrada da taba.,
+ cravar-se: Jaguarê arremessou a lança, que vibrou nos ares e foi [cravar-se além no grosso tronco da emburana.,
+ enfincar-se: x,
+ fincar-se: Minhas unhas sentem a dor que as pedras produzem, misturam-se aos meus cabelos e querem I]fincar-se no crânio abalroado pelas tormentas. ,
+ penetrar: Mas a pedra fulminante varou o espaço, contornou os ventos e, certeira, I]penetrou-lhe a fronte.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1779' = “introduzir-se, penetrar [em]”
+{cravar: Minha mão raspava a superfície, as unhas I]cravavam no caule.,
+ cravar-se: Então um busca-pé, descrevendo no ar incendiados caracóis de grossas faiscas, foi [cravar-se no rebordo da varanda.,
+ fincar-se: O facão I]fincou-se teimosamente no caule do galho para onde tinha se movido a camaleoa.,
+ penetrar: MO cisto se abre no intestino delgado, a larva imatura I]penetra na parede intestinal.,}
+Chave: CRAVAR-SE <verb.contact>
+ILI: 01400641
+
+Sense 14
+{01400641} <verb.contact> stick3 -- (pierce or penetrate or puncture with something pointed; "He stuck the needle into his finger")
+       => {01400358} <verb.contact> pierce1, thrust1 -- (penetrate or cut through with a sharp instrument)
+           => {01190419} <verb.contact> penetrate, perforate3 -- (pass into or through, often by overcoming resistance; "The bullet penetrated her chest")
+               => {01958650} <verb.motion> enter, come in2, get into, get in1, go into, go in, move into -- (to come or go into; "the boat entered an area of shallow marshes")

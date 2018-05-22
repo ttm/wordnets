@@ -1,0 +1,48 @@
+ANÁLISE DA GLOSA3195
+
+DADO O SYNSET:
+
+S='Glosa4029'
+{abalsar-se: Quando deprimido, M]abalsava-se no bosque. ,
+abrenhar-se: I]Abrenhou-se sertão adentro.,
+adentrar-se: No livro seguinte, abandona o conselho desastrado do amigo, para I]adentrar-se pelos labirintos das cidades fantasmas do interior paulista.,
+afundar-se: I]Afundar-se no pensamento é procurar persistentemente sempre refazer os modos de perguntar.,
+amergulhar-se: x,
+amodornar-se: x,
+amodorrar-se: M]Amodorra-se em soturna tristeza.,
+atufar-se: João Coelho de Sousa tem agora no peito, bem assente, esta ousada idéia: I]atufar-se por esses silvedos adentro em busca da serra da prata.,
+embeber-se: Eu, que sempre fui cuidadoso com meu sangue, aqui vejo-o I]embeber-se em solo estéril.,
+embrenhar-se: Imaginar expedições de brancos a I]embrenhar-se nos matos africanos e armar emboscadas para capturar escravos é algo tão comum quanto, geralmente, falso.,
+empegar-se: x,
+engolfar-se: Assim, pois, esqueceu-se dela, para I]engolfar-se de novo nas cismas que lhe estavam afagando a mente. ,
+entranhar-se: Basta I]entranhar-se pelas veredas transversais.,
+fundir-se2: x,
+imergir-se: O atleta projeta-se no ar e conduz seu corpo a uma queda controlada no espaço para I]imergir-se na água.,
+mergulhar-se: Os golfinhos vinham à tona e H]mergulhavam-se com rítmica precisão.,
+meter-se: Você não se cansa de I]meter-se em enrascadas.,
+penetrar: Desde a mitologia grega vem a alusão de que a mente humana é capaz de I]penetrar em labirintos.,
+remergulhar: I]Remergulhou na floresta, e toda a tarde, enquanto a luz se arrastou pelas frondes, arrancou ramos aos troncos, cautelosamente, destramente.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4029A' = “fazer-se um caminho mais fundo em ou através de”
+{abalsar-se: Quando deprimido, M]abalsava-se no bosque. ,
+abrenhar-se: I]Abrenhou-se sertão adentro.,
+adentrar-se: No livro seguinte, abandona o conselho desastrado do amigo, para I]adentrar-se pelos labirintos das cidades fantasmas do interior paulista.,
+atufar-se: João Coelho de Sousa tem agora no peito, bem assente, esta ousada idéia: I]atufar-se por esses silvedos adentro em busca da serra da prata.,
+embeber-se: Eu, que sempre fui cuidadoso com meu sangue, aqui vejo-o I]embeber-se em solo estéril.,
+embrenhar-se: Imaginar expedições de brancos a I]embrenhar-se nos matos africanos e armar emboscadas para capturar escravos é algo tão comum quanto, geralmente, falso.,
+entranhar-se: Basta I]entranhar-se pelas veredas transversais.,
+imergir-se: O animal A]imergiu na floresta.  .,
+mergulhar-se: A]Mergulhou-se na mata, e o perdemos de vista.,
+meter-se: Apenas o moço dobrou o ângulo que formava o rochedo, o italiano desceu a ladeira rapidamente, e [meteu-se pelo mato.,
+remergulhar: I]Remergulhou na floresta, e toda a tarde, enquanto a luz se arrastou pelas frondes, arrancou ramos aos troncos, cautelosamente, destramente.,}
+Chave: ADENTRAR-SE <verb.motion>
+ILI: 01934981
+
+Sense 5
+{01934981} <verb.motion> penetrate6 -- (make one's way deeper into ar through; "The hikers did not manage to penetrate the dense forest")
+       => {01934453} <verb.motion> advance, progress, pass on1, move on, march on, go on -- (move forward, also in the metaphorical sense; "Time marches on")
+           => {01782203} <verb.motion> travel, go, move3, locomote -- (change location; move, travel, or proceed; "How fast does your new car go?"; "We travelled from Rome to Naples by bus"; "The policemen went from door to door looking for the suspect"; "The soldiers moved towards the city in an attempt to take it before night fell")
+
+

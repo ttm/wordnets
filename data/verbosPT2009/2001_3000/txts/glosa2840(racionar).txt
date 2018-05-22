@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA2840
+
+DADO O SYNSET:
+
+S='Glosa2840'
+	    {arraçoar: H]Arraçoar os soldados da tropa.,
+	      racionar: Os povos do deserto estão com isso tendo dificuldade de conseguir comida e estão sendo obrigados a I]racionar a água e a comida.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2840' = “Restringir o consumo de um artigo relativamente escasso, como durante uma guerra”
+	    {racionar: Como Deus é brasileiro, veio a salvação: o povo I]racionou energia.,}
+Chave: RACIONAR <verb.possession>
+ILI: 02170131
+
+Sense 1
+{02170131} <verb.possession> ration1 -- (restrict the consumption of a relatively scarce commodity, as during war; "Bread was rationed during the siege of the city")
+       => {00227757} <verb.change> limit, circumscribe, confine1 -- (restrict or confine, "I limit you to two visits to the pub a day")
+           => {00428838} <verb.change> decrease1, lessen2, minify -- (make smaller; "He decreased his staff")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0291
+
+DADO O SYNSET:
+
+S='Glosa291'
+{eliminar-se: H]Eliminou-se devido à falta de emprego.,
+matar-se: Penetrado da impossibilidade de retribuir o ultraje à senhora a quem havia amado, escutava imóvel, cogitando no que lhe cumpria fazer; se matá-la a ela, e [matar-se a si, ou matar a ambos.,
+suicidar-se: Um homem, com duas armas semi-automáticas e uma pistola, entrou em uma firma de advocacia em São Francisco e abriu fogo, matando nove pessoas, antes de [suicidar-se.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa291' = “pôr fim , terminar a própria vida”
+{matar-se: Getúlio I]matou-se em 1954 e a Era Vargas ainda está aí assombrando as pessoas.,
+suicidar-se: Um homem, com duas armas semi-automáticas e uma pistola, entrou em uma firma de advocacia em São Francisco e abriu fogo, matando nove pessoas, antes de [suicidar-se.,}
+Chave: SUICIDAR-SE <verb.contact>
+ILI: 01285690
+
+Sense 1
+{01285690} <verb.contact> commit suicide -- (kill oneself; "the terminally ill patient committed suicide")
+       => {01284688} <verb.contact> kill -- (cause to die; put to death, usually intentionally or knowingly; "This man killed several people when he tried to rob a bank"; "The farmer killed a pig for the holidays")

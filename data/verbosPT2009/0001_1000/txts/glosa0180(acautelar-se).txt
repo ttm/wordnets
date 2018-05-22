@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA0180
+
+DADO O SYNSET:
+
+S='Glosa180'
+{acautelar-se: As medidas adotadas indicam que, face a possíveis dificuldades, o governo preferiu [acautelar-se e agir preventivamente. ,
+adargar-se: x,
+afortalezar-se: x,
+anteparar-se: x,
+defender-se: Para [defender-se diante das manifestações oposicionistas que proliferam na Argentina, Menem utilizou um exemplo bem próximo, tão pedagógico quanto descortês. ,
+proteger-se: Uma empresa deve [proteger-se para não ficar cativa de sua própria perícia e limitar seu campo de atividades ao que apenas seus recursos possam cobrir.,
+refugiar-se: Após tantos sofrimentos, A]refugiou-se na meditação.,
+resguardar-se: O candidato de Luis Alberto Lacalle, atual mandatário, preferiu [resguardar-se para conversações futuras.,
+velar-se: H]Velou-se das más companhias.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa180' = “prevenir fortemente; por em guarda”
+{acautelar-se: As medidas adotadas indicam que, face a possíveis dificuldades, o governo preferiu [acautelar-se e agir preventivamente. ,
+defender-se: Para [defender-se diante das manifestações oposicionistas que proliferam na Argentina, Menem utilizou um exemplo bem próximo, tão pedagógico quanto descortês. ,
+proteger-se: Uma empresa deve [proteger-se para não ficar cativa de sua própria perícia e limitar seu campo de atividades ao que apenas seus recursos possam cobrir.,
+refugiar-se: Após tantos sofrimentos, A]refugiou-se na meditação.,
+resguardar-se: O candidato de Luis Alberto Lacalle, atual mandatário, preferiu [resguardar-se para conversações futuras.,
+velar-se: Linda I]velou-se em uma nuvem de rubor.,}
+Chave: PROTEGER-SE
+ILI: 00842235
+
+Sense 1
+{00842235} <verb.communication> caution, admonish1, monish1 -- (warn strongly; put on guard)
+       => {00841271} <verb.communication> warn -- (notify of danger, potential harm, or risk; "The director warned him that he might be fired"; "The doctor warned me about the dangers of smoking")
+           => {00804489} <verb.communication> inform -- (impart knowledge of some fact, state or affairs, or event to; "I informed him of his rights")
+               => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                   => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                       => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

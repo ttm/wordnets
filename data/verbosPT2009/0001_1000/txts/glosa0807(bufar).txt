@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0807
+
+DADO O SYNSET:
+
+S='Glosa807'
+{bufar: Com as mãos cruzadas, como se estivesse rezando, Chelsea gritava e [bufava a cada frustrado ataque norte-americano.,
+fungar: Eu sem entender nada e muita gente I]fungando de raiva com o atraso.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa807' = “expelir ar com grande ruído mostrando descontentamento”
+{bufar: Com as mãos cruzadas, como se estivesse rezando, Chelsea gritava e [bufava a cada frustrado ataque norte-americano.,
+fungar: Eu sem entender nada e muita gente I]fungando de raiva com o atraso.,}
+Chave: BUFAR <verb.body>
+ILI: 00006423
+
+Sense 2
+{00006423} <verb.body> snort -- (make a snorting sound by exhaling hard; "The critic snorted contemtuously")
+       => {00004127} <verb.body> exhale, expire, breathe out -- (expel air; "Exhale when you lift the weight")
+           => {00001740} <verb.body> breathe, take a breath, respire, suspire3 -- (draw air into, and expel out of, the lungs; "I can breathe better when the air is clean"; "The patient is respiring")

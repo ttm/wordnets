@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0364
+
+DADO O SYNSET:
+
+S='Glosa364'
+{copiar: Quando isso acontece, o hardware [copia o conteúdo do contador de instruções para uma pilha na memória principal. ,
+ler: Depois ele coloca a conta na máquina, que [lê o código de barras para efetuar o pagamento.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa364' = “obter dados de fitas ou conteúdos magnéticos”
+{copiar: Quando isso acontece, o hardware [copia o conteúdo do contador de instruções para uma pilha na memória principal. ,
+ler: Depois ele coloca a conta na máquina, que [lê o código de barras para efetuar o pagamento.,}
+Chave: LER <verb.cognition>
+ILI: 00607499
+
+Sense 4
+{00607499} <verb.cognition> read6, scan -- (obtain data from magnetic tapes; "This dictionary can be read by the computer")
+       => {00603028} <verb.cognition> interpret, construe, see13 -- (make sense of; assign a meaning to; "What message do you see in this letter?"; "How do you interpret his behavior?")
+           => {00570184} <verb.cognition> understand -- (know and comprehend the nature or meaning of; "She did not understand her husband"; "I understand what she means")

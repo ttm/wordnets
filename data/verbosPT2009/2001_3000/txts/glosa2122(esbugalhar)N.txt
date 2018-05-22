@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA2122
+
+DADO O SYNSET:
+	
+S='Glosa2122'
+    	{abugalhar: x,
+      	 arregalar: O Velho esfregou o ouvido, [arregalou os olhos ao identificar que a origem do sonífero chamado vinha exatamente do jovem Yarlen !,
+      	 esbugalhar: Os rapazes [esbugalharam os olhos.,
+      	 escancarar: O bugre I]escancarou os olhos.,
+      	 escancelar: x,
+      	 esgazear: Quando Xilave levantava-se para a proteger, o mineiro I]esgazeou os olhos, encurvou-se, pôs a mão nas peúgas e ensurdeceu a casota: - Cobarde! Foi você! ,
+      	 espamparar: x,
+      	 exorbitar: M]Exorbitar os olhos.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2122' = “abrir os olhos desmesuradamente”
+    	{arregalar: O Velho esfregou o ouvido, [arregalou os olhos ao identificar que a origem do sonífero chamado vinha exatamente do jovem Yarlen.,
+      	 esbugalhar: Os rapazes [esbugalharam os olhos.,
+      	 escancarar: O bugre I]escancarou os olhos.,
+      	 esgazear: Quando Xilave levantava-se para a proteger, o mineiro I]esgazeou os olhos.,
+      	 exorbitar: Pedro gesticulava furioso e B]exorbitava os olhos azuis.}
+Chave: ESBUGALHAR <verb.motion>
+ILI: EQ_NEAR_SYNONYM – 02022814
+
+Sense 1
+{02022814} <verb.motion> protrude, pop, pop out1, bulge, bulge out, bug out, come out -- (bulge outward; "His eyes popped")
+       => {00135866} <verb.change> change shape, change form, deform2 -- (assume a different shape or form)
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

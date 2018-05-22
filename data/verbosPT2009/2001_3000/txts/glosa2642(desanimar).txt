@@ -1,0 +1,47 @@
+ANÁLISE DA GLOSA2642
+
+DADO O SYNSET:
+
+S='Glosa2642'
+	    {arrefecer: Twickenham [arrefeceu de pronto, e a vitória inglesa ficou destruída.,
+	      arrefentar: O trabalho não os I]arrefentava - nunca se tinham furtado a dar o seu esforço. Contudo, queriam pão certo - queriam ser homens.,
+	      desalentar: Se a primeira bomba, pelo seu efeito de terror, podia ter o objetivo de [desalentar os japoneses e evitar aos Estados Unidos a lenta reconquista e o meio milhão de homens que talvez teria custado, a segunda teve um caráter de experimento científico às custas de cem mil vidas.,
+	      desanimar: Numa prova calma, onde quase todos os nossos detectives foram totalistas, há que referir uma surpresa completa, a escorregadela de Jomaro que foi só o vencedor isolado do Supertorneio do ano transacto e que constitui a resposta cabal aos "sherlocks" que [desanimam dizendo não ser possível desalojar os primeiros.,
+	      desfalecer: Até deixei de me sentir ameaçado de I]desfalecer ou entrar em pânico diante dos insultos da vida.,
+	      entibiar: Quando o homem começa a I]entibiar, receia o menor trabalho e procura avidamente as consolações externas.,
+	      entorpecer: x,
+	      esfalecer: x,
+	      esfriar: Título antecipado e turbulência econômica I]esfriam F-1 no Japão.,
+	      esmorecer: Embora a adesão não tenha correspondido às expectativas dos responsáveis pela organização -- dos oito mil habitantes de Vila D' Este compareceram apenas 50 --, o entusiasmo dos moradores não pareceu [esmorecer perante a escassez de materiais de limpeza.,
+	      refecer: x,
+	      resfriar: Enquanto os termos científicos I]resfriam quando articulados denotativamente, inflamam-se quando articulados pelo poeta.,
+	      torpecer: x,}
+
+	  A='Glosa1851'
+	    {afervorar: São momentos de celebrações festivas, que contribuem para I]afervorar os corações e fortalecer a Fé.,
+	     alentar: Resistiram à fraqueza, afastaram-se envergonhados, sem ânimo de afrontar de novo a luz dura, receosos de perder a esperança que os I]alentava.,
+	     animar: Esse entusiasmo e esse fanatismo, que o ampararam, que o [animaram, que o sustentaram, só teriam sido possíveis, depois de ter ele sido ajudante general do Império.,
+	     entusiasmar: A atitude brincalhona de Sua Divina Graça sempre I]entusiasmava o coração dos devotos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2642' = “Tirar o entusiasmo de.”
+	    {arrefecer: Twickenham [arrefeceu de pronto, e a vitória inglesa ficou destruída.,
+	      arrefentar: O trabalho não os I]arrefentava.,
+	      desalentar: Jamais tal episódio o I]desalentou, nem fê-lo atuar menos ou medrosamente nas atividades do Movimento Espírita.,
+	      desanimar: A chuva não I]desanimou os fãs da banda alemã Blind Guardian.,
+	      desfalecer: Até deixei de me sentir ameaçado de I]desfalecer ou entrar em pânico diante dos insultos da vida.,
+	      entibiar: Quando o homem começa a I]entibiar, receia o menor trabalho e procura avidamente as consolações externas.,
+	      esfriar: Esse é um sinal claro de que a Bao não perdeu seu interesse nos projetos no Brasil e também de que a China não I]esfriou sua boa vontade.,
+	      esmorecer: Porém, Anand não I]esmoreceu em seus planos de chegar a campeão do mundo.,
+	      resfriar: Parecia que fatos acontecidos nesses últimos anos I]resfriaram os ânimos.,}
+
+	  A='Glosa1851'
+	    {afervorar, alentar, animar, entusiasmar}
+
+Chave: DESANIMAR <verb.emotion>
+ILI: 01766516
+
+Sense 1
+{01766516} <verb.emotion> dishearten, put off -- (take away the enthusiasm of)
+       => {01766276} <verb.emotion> discourage -- (deprive of courage or hope; take away hope from; cause to feel discouraged) 

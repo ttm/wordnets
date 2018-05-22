@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA1050
+
+DADO O SYNSET:
+
+S='Glosa1050'
+{anunciar: O patronato e a Prefeitura de São Paulo já [anunciaram disposição de recorrer da sentença.,
+ declarar: Estamos aqui para [declarar estado de emergência em escala planetária.,
+ expedir: Austin garantiu que, ao sinal de qualquer mudança muito significativa nesse prognóstico, o 6° Distrito [expedirá imediatamente um aviso dando conta das alterações metereológicas.,
+ promulgar: O processo de conversão em massa de muitos membros dos povos conquistados foi planejado pelas próprias lideranças árabes, que [promulgaram facilidades fiscais aos fiéis seguidores de Alá.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1050' = “expor um documento oficial”
+{anunciar: A subprefeitura da Barra [anunciou ontem a criação de uma central telefônica para atender à chamadas de moradores.,
+ declarar: O 4° Grupo de Câmaras Cíveis do Tribunal de Justiça do estado [declarou, por cinco votos a dois, a «ausência» do ex-guerrilheiro, por morte presumida.,
+ expedir: Austin garantiu que, ao sinal de qualquer mudança muito significativa nesse prognóstico, o 6° Distrito [expedirá imediatamente um aviso dando conta das alterações metereológicas.,
+ promulgar: O Congresso revisor [promulgou ontem a emenda constitucional que cria o Fundo Social de Emergência.,}
+Chave: ANUNCIAR <verb.communication>  
+ILI: 01029199
+
+Sense 3
+{01029199} <verb.communication> issue1 -- (bring out an official document (such as a warrant))
+       => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+           => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+               => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

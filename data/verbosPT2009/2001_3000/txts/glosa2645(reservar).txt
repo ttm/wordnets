@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2645
+
+DADO O SYNSET:
+
+S='Glosa2645'
+	    {marcar: Mas quem se importa com a cronologia cristã? Para I]marcar uma passagem de avião, por exemplo, quase o mundo todo. ,
+	      reservar: Neste fim de ano, dois episódios concentraram em si duas tendências do fim do milénio: a violência irracional e desesperada de Estrasburgo, com carros incendiados por jovens que resolveram trocar o champanhe por gasolina em chamas; e a vertigem da corrida sem rumo face ao futuro, com milhares de pessoas já ocupadas em [reservar um lugar privilegiado (para ver a aurora ou simplesmente para se embriagarem com requinte) na passagem do ano 1999 para o mítico ano 2000.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2645' = “Organizar para e reservar (alguma coisa para alguém) com atencedência.”
+	    {marcar: Mas quem se importa com a cronologia cristã? Para I]marcar uma passagem de avião, por exemplo, quase o mundo todo.,
+	      reservar: Ela então foi no cais do porto, I]reservou uma passagem, arrumou os panos dela e pegou um carro.,}
+
+Chave: RESERVAR <verb.social>
+ILI: 02423676
+
+Sense 2
+{02423676} <verb.social> reserve, hold, book1 -- (arrange for and reserve (something for someone else) in advance; "reserve me a seat on a flight"; "The agent booked tickets to the show for the whole family"; "please hold a table at Maxim's")
+       => {00727992} <verb.communication> request1, bespeak, call for4, quest1 -- (express the need or desire for; ask for; "She requested an extra bed in her room"; "She called for room service")
+           => {00717906} <verb.communication> communicate1, pass on, pass1, put across -- (transmit information ; "Please communicate this message to all employees")
+               => {02167243} <verb.possession> convey10, transmit10, communicate10 -- (transfer to another; "communicate a disease")
+                   => {02167764} <verb.possession> transfer1 -- (move from one place to another; "transfer the data"; "transmit the news"; "transfer the patient to another hospital")
+                       => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant") 

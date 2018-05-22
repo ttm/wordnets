@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA28881
+
+DADO O SYNSET:
+
+S='Glosa2881'
+	    {acolchoar: x,
+	      almofadar: Entre estas duas faces, o saco de dormir é recheado com fibras sintéticas "fofinhas" I]almofadando o espaço entre os tecidos.,
+	      bastear: H]Bastear um sofá.,
+	      chumaçar: O estofador não H]chumaçou bem o sofá.,
+	      embastar: x,
+	      enchumaçar: x,
+	      estofar: Nessa mesma época a direção da casa mandou I]estofar as poltronas e pintar as paredes, seguindo as tendências dos grandes centros urbanos. ,
+	      estopar: x,
+	      feltrar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2881' = “Adicionar enchimento a”
+	    {almofadar: Espuma de 5 cm para I]almofadar as cadeiras de roda.,
+	      estofar: Nessa mesma época a direção da casa mandou I]estofar as poltronas e pintar as paredes, seguindo as tendências dos grandes centros urbanos.,}
+Chave: ESTOFAR <verb.change>
+ILI: 00311195
+
+Sense 4
+{00311195} <verb.change> pad, bolster -- (add padding to; "pad the seat of the chair")
+       => {00439460} <verb.change> fill1, fill up, make full -- (make full, also in a metaphorical sense; "fill a container"; "fill the child with pride")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

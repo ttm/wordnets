@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA3833
+
+DADO O SYNSET:
+	
+S='Glosa3833'
+{crespir: x,
+	 mosquear: Meu procedimento é pintar o modelo com uma cor de fundo clara então I]mosquear e desgastá-lo com os pastéis.,
+	 pintalgar: As moitas de flor-do-campo I]pintalgavam de vermelho, amarelo, lilás, cor-de-rosa e branco o tapete que se estendia suavemente por entre os troncos.,
+	 salpicar: Ou das arraias que I]salpicavam o céu com um montão de cores, balançando-se em disputas.,
+	 salpintar: Mas, nessas quadras cruéis, em que as soalheiras se agravam, à vezes, com os incêndios espontaneamente acesos pelas ventanias atritando rijamente os galhos secos e estonados sobre o depauperamento geral da vida, em roda, eles agitam as ramagens virentes, alheios às estações, floridos sempre, I]salpintando o deserto com as flores cor de ouro, álacres, esbatidas no pardo dos restolhos - à maneira de oásis verdejantes efestivos.,
+	 sarapintar: Com um pequeno pincel traçam uma roda no centro da face e a prolongam em espiral, azul, amarela ou verde, mosqueando e I]sarapintando o rosto inteiro.,
+	 tachonar: E até sol-posto foi um rumor alegre de vozes naquele jardim, e um correr de meninos pelos gramados, I]tachonando-os com as cores alegres dos seus vestidos e dos seus chapéus floridos.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3833' = “marcar ou revestir com manchas de cor ou textura diferentes; deixar parecendo salpicado ou manchado”
+{mosquear: Meu procedimento é pintar o modelo com uma cor de fundo clara, então I]mosquear e desgastá-lo com os pastéis.,
+	 pintalgar: As moitas de flor-do-campo I]pintalgavam de vermelho, amarelo, lilás, cor-de-rosa e branco o tapete que se estendia suavemente por entre os troncos.,
+	 salpicar: Ou das arraias que I]salpicavam o céu com um montão de cores, balançando-se em disputas.,
+	 salpintar: Nessas quadras cruéis, com os incêndios espontaneamente acesos pelas ventanias atritando os galhos secos, em roda, eles agitam as ramagens viventes, alheios às estações, floridos sempre, I]salpintando o deserto com as flores cor de ouro.
+	 sarapintar: Com um pequeno pincel traçam uma roda no centro da face e a prolongam em espiral, azul, amarela ou verde, mosqueando e I]sarapintando o rosto inteiro.,
+	 tachonar: E até sol-posto foi um rumor alegre de vozes naquele jardim, e um correr de meninos pelos gramados, I]tachonando-os com as cores alegres dos seus vestidos e dos seus chapéus floridos.}
+Chave: SALPICAR <verb.contact>
+ILI: 01297331
+
+Sense 4 
+{01297331} <verb.contact> splash6 -- (mark or overlay with patches of contrasting color or texture; cause to appear splashed or spattered; "The mountain was splashed with snow")
+       => {01297102} <verb.contact> overlay, cover14 -- (put something on top of something else; "cover the meat with a lot of gravy")

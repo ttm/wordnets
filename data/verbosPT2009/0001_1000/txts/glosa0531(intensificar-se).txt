@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA0531
+
+DADO O SYNSET:
+
+S='Glosa531'
+{agravar-se: A circulação de veiculos e pessoas tende a [agravar-se nas grandes cidades pelo aumento crescente de ambos, principalmente quando localizadas em países em desenvolvimento.,
+aumentar-se: Mas se dobrando a quantidade de nicotina [aumentam-se ainda mais os riscos, esta informação passa a ser relevante e tem que estar no cigarro.,
+intensificar-se: A partir daí, [intensificaram-se os estudos a respeito, abrindo-se uma enorme me lista de aplicações vantajosas da cerâmica como condutora,}
+A='Glosa3853'
+{abaixar-se, abrandar-se, acalmar-se, afroixar-se, afrouxar-se, aliviar-se, amainar-se,     ameigar-se, amenizar-se, amortecer-se, aplacar-se, arrefecer-se, atenuar-se, atordoar-se, 	     calmar-se, diluir-se, diminuir-se, minorar-se, minuir-se, mitigar-se, moderar-se, placar-se,     reduzir-se, refecer-se, suavizar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa531' = “tornar (-se) maior, intensive, ampliar (-se)”
+{agravar-se: A circulação de veiculos e pessoas tende a [agravar-se nas grandes cidades pelo aumento crescente de ambos, principalmente quando localizadas em países em desenvolvimento.,
+aumentar-se: Mas se dobrando a quantidade de nicotina [aumentam-se ainda mais os riscos, esta informação passa a ser relevante e tem que estar no cigarro.,
+intensificar-se: A partir daí, [intensificaram-se os estudos a respeito, abrindo-se uma enorme me lista de aplicações vantajosas da cerâmica como condutora,}
+A='Glosa3853'
+{abaixar-se, abrandar-se, acalmar-se, afroixar-se, afrouxar-se, aliviar-se, amainar-se,     ameigar-se, amenizar-se, amortecer-se, aplacar-se, arrefecer-se, atenuar-se, atordoar-se, 	     calmar-se, diluir-se, diminuir-se, minorar-se, minuir-se, mitigar-se, moderar-se, placar-se,     reduzir-se, refecer-se, suavizar-se}
+
+Chave: INTENSIFICAR-SE <verb.change>
+ILI: 00147655
+
+Sense 2
+{00147655} <verb.change> increase2 -- (make bigger or more; "The boss finally increased her salary"; "The university increased the number of students it admitted")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

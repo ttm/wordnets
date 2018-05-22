@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA1224
+
+DADO O SYNSET:
+
+S='Glosa1224'
+{decolorar: x,
+ descolorar: Não vou I]descolorar o cabelo para ficar loira,
+ descolorir: Jamais tente [descolorir cabelos em casa,}
+	  
+A='Glosa3144'
+{abrilhantar, avivar, brilhantar, colorar, colorear, colorir, colorizar, condecorar, engraçar, incrementar, ornamentar, realçar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1224' = “tornar menos vívido, intenso ou vigoroso”
+{descolorar: Quão triste é verificar que as intempéries normais da vida muitas vezes são capazes de I]descolorar as frases feitas estampadas em muitos ministérios,
+ descolorir: De repente, você I]descoloriu minha alegria, me fez estranhar o caminho que eu já conhecia.,}
+A='Glosa3144'
+{abrilhantar, avivar, brilhantar, colorar, colorear, colorir, colorizar, condecorar, engraçar, incrementar, ornamentar, realçar}
+Chave: DESCOLORIR <verb.change>
+ILI: EQ_HAS_HYPERONYM - 00185398
+
+Sense 6
+{00185398} <verb.change> deaden1, blunt2 -- (make less lively, intense, or vigorous; impair in vigor, force, activity, or sensation; "Terror blunted her feelings"; "deaden a sound")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

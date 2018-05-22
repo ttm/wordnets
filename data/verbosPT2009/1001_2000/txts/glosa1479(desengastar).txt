@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA1479
+
+DADO O SYNSET:
+
+S='Glosa1479'
+{descravejar: H]Descravejou o crucifixo para avaliar as pedras separadamente,
+ desembutir: H]Desembutiu uma mesa.,
+ desencastoar: H]Desencastoou o maior brilhante,
+ desengastar: H]Desengastou uma pedra do anel,
+ desmontar: x,}
+	  
+A='Glosa1733'
+{cravar, cravejar, embutir, encastoar, encastrar, encravar, engastar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1479' = “remover do engaste” 
+{desengastar: I]Desengaste os dois brilhantes,}
+	  
+A='Glosa1733'
+{cravar, cravejar, embutir, encastoar, encastrar, encravar, engastar}
+Chave: DESENGASTAR <verb.change>
+ILI: EQ_HAS_HYPERONYM - 00166870
+
+Sense 1
+{00166870} <verb.change> remove, take, take away1, withdraw1 -- (remove something concrete, as by lifting, pushing, taking off, etc. or remove something abstract; "remove a threat"; "remove a wrapper"; "Remove the dirty dishes from the table"; "take the gun from your pocket"; "This machine withdraws heat from the environment")

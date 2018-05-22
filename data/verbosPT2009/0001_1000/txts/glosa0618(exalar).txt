@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0618
+
+DADO O SYNSET:
+
+S='Glosa618'
+{brotar: Essas nozes H]brotam um óleo perfumado.,
+dar: Se pelo menos eles tivessem usado uma boa fragrância de rosa oriental combinada com lavanda suíça, que juntas I]dão um cheiro de manga rosa brasileira, seria bem melhor do que esse ranço de salada... ,
+deitar: O ambiente H]deita um odor de rosas.,
+exalar: Além disso, esta mulher [exala um perfume singular.,
+lançar: Essa bomba I]lança um cheiro repelente e que mantém os inimigos à distância ou dispersa as manifestações.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa618' = “emitir, emanar (odores); desprender cheiro” 
+{dar: Se pelo menos eles tivessem usado uma boa fragrância de rosa oriental combinada com lavanda suíça, que juntas I]dão um cheiro de manga rosa brasileira, seria bem melhor do que esse ranço de salada... ,
+exalar: Além disso, esta mulher [exala um perfume singular.,
+lançar: Essa bomba I]lança um cheiro repelente e que mantém os inimigos à distância ou dispersa as manifestações.,}
+Chave: EXALAR <verb.body>
+ILI: 00004487
+
+Sense 2
+{00004487} <verb.body> exhale1, give forth, emanate -- (give out (breath or an odor); "The chimney exhales a thick smoke")
+       => {00102482} <verb.body> emit, breathe1, pass off -- (expel (gases or odors))
+           => {00102093} <verb.body> discharge, expel, eject, release1 -- (eliminate (substances) from the body)

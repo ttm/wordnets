@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0384
+
+DADO O SYNSET:
+
+S='Glosa384'
+{adoecer: Do contrário, pode [adoecer algum tempo depois do contágio.,
+adoentar: Mal era chegada a Semana Santa começavam por I]adoentar todas as garotas e morriam passado pouco tempo padecidas de doenças esquisitas nas golas e cabruncos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa384' = “ficar doente”
+{adoecer: De repente, a Rosita I]adoeceu e faleceu. Ficamos quatro.,
+adoentar: É inútil, vamos nos desgastar, I]adoentar, e não vamos resolver o que só Ele resolve.,}
+Chave: ADOECER <verb.body>
+ILI: 00085000
+
+Sense 2
+{00085000} <verb.body> sicken, come down -- (get sick; "She fell sick last Friday, and now she is in the hospital")
+       => {00196646} <verb.change> worsen, decline1 -- (grow worse; "Conditions in the slum worsened")
+           => {00140715} <verb.change> change state, turn4 -- (undergo a transformation or a change of position or action; "We turned from Socialism to Capitalism"; "The people turned against the President when he stole the election")
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

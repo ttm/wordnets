@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA2213
+
+DADO O SYNSET:
+
+S='Glosa2213'
+	    {agitar: Ela pode muito bem dar golpes, erguer e virar uma mesa, I]agitar uma campainha, puxar cortinas.,
+	      badalar: Os torcedores da Suíça foram autorizados pela Fifa a [badalar sinos durante os jogos da Copa do Mundo.,
+	      sacudir: Um preto vestido de ganga I]sacudia uma grande campainha.,
+	      ventanear: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2213' = “fazer algo tocar, emitir som”
+	    {agitar: Ela pode muito bem dar golpes, erguer e virar uma mesa, I]agitar uma campainha, puxar cortinas.,
+	      badalar: Os torcedores da Suíça foram autorizados pela Fifa a [badalar sinos durante os jogos da Copa do Mundo.,
+	      sacudir: Um preto vestido de ganga I]sacudia uma grande campainha.,}
+
+Chave: BADALAR <verb.perception>
+ILI: 02118940
+
+Sense 3
+{02118940} <verb.perception> ring1, knell1 -- (make (bells) ring, often for the purposes of musical edification; "Ring the bells"; "My uncle rings every Sunday at the local church")
+       => {02116920} <verb.perception> sound1 -- (cause to sound; "sound the bell"; "sound a certain note")

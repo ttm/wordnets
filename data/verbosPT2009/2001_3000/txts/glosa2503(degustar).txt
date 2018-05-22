@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA2503
+
+DADO O SYNSET:
+
+S='Glosa2503'
+	    {degustar: Já havia mencionado o desejo de recolher-se a uma cabana de sapé, onde pudesse [degustar uma boa cachacinha.,
+	      delibar: Sou um destes entes malfadados, que nunca ousam levar aos lábios a taça que se lhes apresenta cheia a trasbordar; uma dessas abelhas, a quem as rosas mostram o cálice entre aberto, e que volteiam em torno delas, sem ousarem ir I]delibar o seu mel na redoma flagrante que se lhes apresenta. ,
+	      libar: Em vão meus lábios sôfregos cobiçam I]libar a taça que aos mortais of’reces!,
+	      provar: Não devemos ter pressa para degustar um bom charuto e I]provar uma boa bebida.,
+	      sentir: Para I]sentir o gosto do vinho, é necessário tomar um pouco e não engolir imediatamente.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2503' = “Perceber através do paladar.”
+	    {degustar: Ele entrou no mar e I]degustou as delícias oferecidas no local.,
+	      delibar: Sem prestar notas aos parceiros, I]delibou gole derradeiro, e seguiu até a matrona num passeio certeiro.,
+	      libar: Martim lho arrebatou das mãos, e I]libou as gotas do verde e amargo licor.,
+	      provar: E ainda não foi desta vez que I]provou de seu próprio tempero: rejeitou o almoço.,
+	      sentir: Anselmo provou, I]sentiu um gosto adocicado de amêndoas.,}
+
+Chave: DEGUSTAR <verb.perception>
+ILI: 02128865
+
+Sense 3
+{02128865} <verb.perception> taste -- (perceive by the sense of taste; "Can you taste the garlic?")
+       => {02045668} <verb.perception> perceive, comprehend -- (to become aware of through the senses; "I could perceive the ship coming over the horizon") 

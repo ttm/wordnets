@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA1453
+
+DADO O SYNSET:
+
+S='Glosa1453'
+{acionar: Assim, para [acionar a hélice e dar partida no avião bastou ao ladrão acionar a ignição automática,
+ ativar: O autor desse livro está utilizando um reostato de 300 e 300 W em série com os 220 V da rede para [ativar seu amplificador linear,
+ liar: x,
+	 ligar: Se [ligarmos uma lâmpada a uma fonte geradora de eletricidade, através de um fio condutor, teremos um circuito simples,}
+	  
+A='Glosa645'
+{desligar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1453' = “fazer [algo] funcionar acionando uma chave/interruptor” 
+{acionar: Assim, para [acionar a hélice e dar partida no avião bastou ao ladrão [acionar a ignição automática.,
+ ativar: Regiane I]ativou o controle remoto.,
+ ligar: Quando um dos guardas voltou ao seu carro e [ligou o motor, ele ouviu um estampido e chamas espalharam-se pelo capô.,}
+	  
+A='Glosa645'
+{desligar}
+Chave: LIGAR <verb.contact>
+ILI: 01468130
+
+Sense 1
+{01468130} <verb.contact> switch on, turn on -- (cause to operate by flipping a switch; "switch on the light"; "turn on the stereo")
+       => {01467904} <verb.contact> throw1, flip1, switch -- (cause to go on or to be engaged or set in operation; "switch on the light"; "throw the lever")
+           => {01468558} <verb.contact> engage, mesh1, lock1, operate2 -- (keep engaged; "engaged the gears")
+               => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA3319
+
+DADO O SYNSET:
+
+S='Glosa3319'
+	    {
+	      brincar: Tem que ser assim pra você entrar na minha, é o refrão da marcha que pretende estimular a população a [brincar um Carnaval seguro. ,
+	      carnavalear: x,
+	      dançar: Para que esse comunitarismo se expresse no cantar em uníssono, e na harmonia do tocar e [dançar juntos, em bloco, diretores e componentes fazem promessas e pedidos de proteção aos santos. ,
+	      doidejar: As crianças A]doidejavam pelo parque.,
+	      doudejar: x,
+	      foliar: No sábado de Zé Pereira vou novamente I]foliar.,
+	      louquejar: x,
+	      pular: Ao passo que antes da chegada das finas máscaras importadas da Europa, ainda [pulavam pelas ruas do Rio, indo até começos do século XX, mascarados que remetiam a antigos costumes.,
+	      saltar: E um grupo de pretos retintos, que I]saltam, que pulam, que dançam, que bailam.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3319' = “ocupar-se em atividades de recreação em vez de trabalho, ocupar-se com diversão”
+	     {brincar: O público estimado em 100 mil pessoas I]brincou o Carnaval entre sábado (25) e terça-feira (28) na passarela do samba "Edivaldo de Camargo". ,
+	      dançar: Para festejar e afastar a solidão, os homens do grupo cantavam e I]dançavam com as armas, que batiam ritmicamente no chão. ,
+	      doidejar: As crianças A]doidejavam pelo parque.,
+	      foliar: Domingo, aos arredores da Cadeia Velha, a trupe do Pirão Geral I]foliou com marchinhas inovadoras, mas não conseguiu sair pela cidade como previsto.,
+	      pular: Os baianos I]pulavam a tarde inteira atrás dos trios, jantavam um caldo de mocotó e depois pulavam nos clubes até o sol nascer.,
+	      saltar: Só as crianças I]saltavam e riam, em sua dúvida rebelde.,}
+Chave: BRINCAR <verb.social>
+ILI: 02345383
+
+Sense 11
+{02345383} <verb.social> play, recreate -- (engage in recreational activities rather than work; occupy oneself in a diversion; "On weekends I play"; "The students all recreate alike")

@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA0860
+
+DADO O SYNSET:
+
+S='Glosa860'
+{causticar: A celidônia é usada para I]causticar calos e verrugas e tem ação sedativa local.,
+queimar: Para sarar a doença efectuou tratamentos que consistiram em I]queimar a ferida.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa860' = “queimar ferida usando ferro quente, corrente elétrica ou agente caustico”
+{causticar: A celidônia é usada para I]causticar calos e verrugas e tem ação sedativa local.,
+queimar: Para sarar a doença efectuou tratamentos que consistiram em I]queimar a ferida.,}
+Chave: QUEIMAR <verb.change>
+ILI: 00362353
+
+Sense 11
+{00362353} <verb.change> cauterize, cauterise, burn8 -- (burn, sear, or freeze (tissue) using a hot iron or electric current or a caustic agent; "The surgeon cauterized the wart")
+       => {00076458} <verb.body> treat, care for -- (provide treatment for; "The doctor treated my broken leg"; "The nurses cared for the bomb victims"; "The patient must be treated right away or she will die"; "Treat the infection with antibiotics")

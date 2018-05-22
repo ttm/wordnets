@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA1719
+
+DADO O SYNSET:
+
+S='Glosa1719'
+{doutorar-se: Em 1976, Teolinda Gersão [doutorou-se em Filologia Germânica com uma tese sobre Alfred Dublin.,
+ encapelar-se2: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1719' = “receber o título de doutor”
+{doutorar-se: Em 1976, Teolinda Gersão [doutorou-se em Filologia Germânica com uma tese sobre Alfred Dublin.,}
+Chave: DOUTORAR-SE <verb.possession>
+ILI: EQ_HAS_HYPERONYM – 02198994 – “receber um título acadêmico pela conclusão de seu estudo”
+
+Sense 1
+{02198994} <verb.possession> graduate -- (receive an academic degree upon completion of one's studies; "She graduated in 1990")
+       => {02146575} <verb.possession> receive, have3 -- (get something; come into possession of; "receive payment"; "receive a gift"; "receive letters from the front")
+           => {02147191} <verb.possession> get, acquire -- (come into the possession of something concrete or abstract; "She got a lot of paintings from her uncle"; "They acquired a new pet"; "Get your results the next day"; "Get permission to take a few days off from work")

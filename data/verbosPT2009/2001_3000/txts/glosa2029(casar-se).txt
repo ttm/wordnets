@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA2029
+
+DADO O SYNSET:
+	
+S='Glosa2029'
+    	{amarrar-se: M]Amarrou-se a uma provinciana.,
+      	 arranjar-se: É melhor H]arranjá-la com o primeiro que aparecer.,
+      	 arrumar-se: Depois de anos de solteiro, ele finalmente se H]arrumou.,
+      	 casar-se: Depois de uma vida de pobreza, como condutor de caravanas, Maomé [casou-se com uma rica viúva chamada Cadidja.,
+      	 esposar-se: Ai da menina que chega a I]esposar-se com um desses jovens da escola peralvilha de Paris!,
+      	 matrimoniar-se: I]Matrimoniou-se com D.Maria Henriquez de Guzmán, filha dos Condes de Alba de Liste.,}
+  
+A='Glosa1527'
+    {descasar-se, desquitar-se, divorciar-se, quitar-se, separar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2029' = “unir-se por matrimônio”
+    	{amarrar-se: O palhaço Pára-choque já viveu com 29 mulheres, mas I]amarrou-se com Adaílsa, uma das bailarinas do Alana Circo.,
+      	 arranjar-se: Aluísio de Azevedo, rejeitado, I]arranjou-se com Filomena Borges e foram morar num cortiço lá pros lados da Tijuca.,
+      	 arrumar-se: Antes de virar vilão ele se I]arruma com a Rainha e se torna pai de Luke.,
+      	 casar-se: Depois de uma vida de pobreza, como condutor de caravanas, Maomé [casou-se com uma rica viúva chamada Cadidja.,
+      	 esposar-se: Ai da menina que chega a I]esposar-se com um desses jovens da escola peralvilha de Paris!,
+      	 matrimoniar-se: Leonor Flora I]matrimoniou-se com Carlos Glennie.}
+  
+A='Glosa1527'
+    {descasar-se, desquitar-se, divorciar-se, quitar-se, separar-se}
+Chave: CASAR-SE <verb.social>
+ILI: 02414542
+
+Sense 1
+{02414542} <verb.social> marry, get married, wed, conjoin, hook up with, get hitched with, espouse -- (take in marriage)
+       => {02395769} <verb.social> unite, unify -- (act in concert or unite in a common purpose or belief)
+           => {02361668} <verb.social> join, fall in, get together2 -- (become part of; become a member of a group or organization; "He joined the Communist Party as a young man")

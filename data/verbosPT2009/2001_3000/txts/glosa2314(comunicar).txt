@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA2314
+
+DADO O SYNSET:
+
+S='Glosa2314'
+	    {comunicar: A Pioneer [comunica o lançamento no Brasil de sua exclusiva Pioneer Puttasson Technology.,
+	      noticiar: O jornal americano USA Today [noticia o julgamento dos suspeitos e define: quem está sendo julgado é o compromisso do Brasil com os direitos humanos.,
+	      transmitir: O Safrasnet [transmite para todo o país, via satélite ou por sinal de FM, todos os serviços informativos em tempo real produzidos pelo grupo.,
+	      vocalizar: Ele [vocaliza rapidamente, com argúcia, o sentimento de massa.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2314' = “passar adiante, contar uma informação.”
+	    {comunicar: A Pioneer [comunica o lançamento no Brasil de sua exclusiva Pioneer Puttasson Technology.,
+	      noticiar: O «Jornal do Brasil» [noticiou que ele havia conversado comigo sobre a candidatura.,
+	      transmitir: Arlete [transmitiu a informação para o vereador Adriano Diogo.,
+	      vocalizar: Lula [vocaliza o sentimento da massa.,}
+
+Chave: COMUNICAR <verb.communication>
+ILI: 00717906
+
+Sense 1
+{00717906} <verb.communication> communicate1, pass on, pass1, put across -- (transmit information ; "Please communicate this message to all employees")
+       => {02167243} <verb.possession> convey10, transmit10, communicate10 -- (transfer to another; "communicate a disease")
+           => {02167764} <verb.possession> transfer1 -- (move from one place to another; "transfer the data"; "transmit the news"; "transfer the patient to another hospital")
+               => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant") 

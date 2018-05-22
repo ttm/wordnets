@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0486
+
+DADO O SYNSET:
+
+S='Glosa486'
+{resolver: H] Resolver um tumor. O edema H]resolveu.,
+sarar: A sensação é de que uma infecção mal I]sarou e outra já inicia.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa486' = “curar; restituir a saúde”
+{sarar: A sensação é de que uma infecção mal I]sarou e outra já inicia.,}
+Chave: SARAR <verb.change>
+ILI: 00261645
+
+Sense 1
+{00261645} <verb.change> mend1, heal -- (heal or recover; "My broken leg is mending")
+       => {00197826} <verb.change> better, improve, ameliorate, meliorate -- (get better; "The weather improved toward evening")
+           => {00140715} <verb.change> change state, turn4 -- (undergo a transformation or a change of position or action; "We turned from Socialism to Capitalism"; "The people turned against the President when he stole the election")
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0644
+
+DADO O SYNSET:
+
+S='Glosa644'
+{acionar: Costuma H]acionar entusiasticamente durante seus pronunciamentos.,
+gesticular: Além disso, a International Board determina que se um ou mais jogadores da equipe contrária movimentar-se ou [gesticular de forma intencional, tal atitude será considerada como conduta incoveniente e o jogador ou jogadores culpados deverão ser advertidos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa644' = “mostrar, demonstrar ou dirigir através do movimento”
+{gesticular: Além disso, a International Board determina que se um ou mais jogadores da equipe contrária movimentar-se ou [gesticular de forma intencional, tal atitude será considerada como conduta incoveniente e o jogador ou jogadores culpados deverão ser advertidos.,}
+Chave: GESTICULAR <verb.communication>
+ILI: 00959756
+
+Sense 1
+{00959756} <verb.communication> gesticulate, gesture, motion -- (show, express or direct through movement; "He gestured his desire to leave")
+       => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+           => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+               => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0592
+
+DADO O SYNSET:
+
+S='Glosa592'
+{apedrar: As batatas H]apedraram,
+empedernecer: x,
+empedernir: x,
+empedrar: Para o açúcar não I]empedrar, experimente colocar uma ameixa preta dentro do recipiente.,
+empedrenir: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa592' = “transformar em pedra”
+{empedrar: Para o açúcar não I]empedrar, experimente colocar uma ameixa preta dentro do recipiente.,}
+Chave: EMPEDRAR <verb.change>
+ILI: 00493843
+
+Sense 2
+{00493843} <verb.change> lapidify, petrify -- (change into stone; "the wood petrified with time")
+       => {00494022} <verb.change> fossilize, fossilise -- (convert to a fossil; "The little animals fossilized and are now embedded in the limestone")
+           => {00369301} <verb.change> convert, change over2 -- (change from one system to another or to a new plan or policy; "We converted from 220 to 110 Volt")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

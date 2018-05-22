@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA1653
+
+DADO O SYNSET:
+
+S='Glosa1653'
+{abalsar: Quando deprimido, M]abalsava-se no bosque.,
+ abrenhar: x,
+ embalçar: x,
+ embrenhar: Mesmo assim, garimpeiros conseguem se [embrenhar na floresta . # O capitão H]embrenhou a tropa na mata.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1653' = “esconder dentro do mato”
+{embrenhar: Nosso índio como astuto que era I]embrenhou mata adentro para não morrer.,}
+Chave: EMBRENHAR <verb.perception>
+ILI: EQ_NEAR_SYNONYM - 02085079 - “esconder na terra, como um animal caçado/perseguido”
+
+Sense 1
+{02085079} <verb.perception> earth -- (hide in the earth like a hunted animal)
+       => {02083903} <verb.perception> hide1, hide out -- (be or go into hiding; keep out of sight, as for protection and safety; "Probably his horse would be close to where he was hiding"; "She is hiding out in a cabin in Montana")

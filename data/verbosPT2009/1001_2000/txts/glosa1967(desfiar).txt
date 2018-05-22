@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA1967
+
+DADO O SYNSET:
+
+S='Glosa1967'
+    	{desenfiar: x,
+      	 desfiar: Esqueça de vez as reclamações de que a balada está fraca, o lugar está abafado ou sua meia I]desfiou.,
+      	 esfiar: x,}
+  
+A='Glosa1412'
+    	{enfiar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1967' = “tornar-se desfeito”
+    	{desfiar: O voil é um tecido que I]desfia facilmente, por isso passamos a vela por toda a sua borda aproximando-a da chama.,}
+  
+A='Glosa1412'
+    	{enfiar}
+Chave: DESFIAR <verb.change>
+ILI: 00322310
+
+Sense 3
+{00322310} <verb.change> run4, unravel1 -- (become undone; "the sweater unraveled")
+       => {00385553} <verb.change> disintegrate -- (break into parts or components or lose cohesion or unity; "The material disintegrated"; "the group disintegrated after the leader died")
+           => {00135037} <verb.change> change integrity -- (change in physical make-up)
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

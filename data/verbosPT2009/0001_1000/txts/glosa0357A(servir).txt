@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0357A
+
+DADO O SYNSET:
+
+S='Glosa357'
+{atender: Não [atendeu a um freguês, e logo a outro, que ali foram, a despeito da hora e de ser domingo, confiar-lhe as caras à navalha. ,
+despachar: Sabendo que Adriana não sabia a que horas eu voltava, I]despachou o cliente, agendando uma reunião para o dia seguinte.,
+servir: Nos poucos supermercados abertos, filas se estendem porta afora e o atendimento é confuso, com funcionários tentando ao mesmo tempo limpar e arrumar prateleiras e [servir clientes.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa357a' = “x”
+{atender: Não [atendeu a um freguês, e logo a outro, que ali foram, a despeito da hora e de ser domingo, confiar-lhe as caras à navalha. ,
+servir: Nos poucos supermercados abertos, filas se estendem porta afora e o atendimento é confuso, com funcionários tentando ao mesmo tempo limpar e arrumar prateleiras e [servir clientes.,}
+Chave: SERVIR <verb.consumption>
+ILI: 01145176
+
+Sense 5
+{01145176} <verb.consumption> serve1, help -- (help to some food; help with food or drink; "I served him three times, and after that he helped himself")
+       => {01146590} <verb.consumption> provide, supply, ply, cater -- (provide what is desired or needed, especially support, food or sustenance; "The hostess provided lunch for all the guests")
+           => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+               => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children")

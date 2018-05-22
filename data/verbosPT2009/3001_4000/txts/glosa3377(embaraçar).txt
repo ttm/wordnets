@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA3377
+
+DADO O SYNSET:
+
+S='Glosa3377'
+	    {
+	      emaranhar: Uma nova testemunha H]emaranhou a solução do crime.,
+	      embaraçar: Entendo, como o MPF, que o ato não tolheu a liberdade de ir e vir dos pacientes e sim I]embaraçou o livre exercício do mister profissional dos mesmos.,
+	      empeçar: H]Empeça nas declarações.,
+	      enlear: As coisas do coração sempre a H]enlearam facilmente.,
+	      enredar: O professor H]enredou os alunos com palavras difíceis.,
+	      enredear: x,
+	      ilaquear: Mas sabemos também que essas falsas opiniões poderão I]ilaquear os menos cautos.,
+	      maranhar: x,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3377' = “atrapalhar ou impedir o progresso ou realização”
+	     {emaranhar: No Brasil, um sistema de apoio à cultura e às artes baseado em dedução fiscal I]emaranhou essas fontes.,
+	      embaraçar: O episódio I]embaraçou autoridades da embaixada, que não haviam sido avisadas sobre a presença do grupo no país.,
+	      empeçar: H]Empeça nas declarações.,
+	      enlear: Com fala bem posta, articulada e clara, I]enleava os alunos com aulas de sutilezas filológicas e de completo domínio dos segredos da língua portuguesa.,
+	      enredar: o técnico Gilson Kleina acabou fazendo as escolhas erradas e I]enredou o Papão na trama muito bem armada pelos palmeirenses no segundo tempo de jogo.,
+	      ilaquear: Fernando Henrique Cardoso I]ilaqueou todo o Brasil, com a mentira de que com o real acabou a inflação.,}
+Chave: EMBARAÇAR <verb.social>
+ILI: 02481538
+
+Sense 1
+{02481538} <verb.social> obstruct, blockade, block, hinder, stymie, stymy, embarrass -- (hinder or prevent the progress or accomplishment of; "His brother blocked him at every turn")
+       => {02379144} <verb.social> prevent1, forestall1, foreclose, preclude, forbid3 -- (keep from happening or arising; have the effect of preventing; "My sense of tact forbids an honest answer")

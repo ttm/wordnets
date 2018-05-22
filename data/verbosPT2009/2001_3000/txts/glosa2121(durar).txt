@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA2121
+
+DADO O SYNSET:
+	
+S='Glosa2121'
+    	{durar: Se ainda I]dura o Gentio antigo rito, a Deusas é sagrada esta floresta. ,
+      	 existir: Ao que fomos informados, essas autoridades estão na Espanha e na Inglaterra, países onde ainda I]existe a monarquia.,
+      	 permanecer: Sua presença, entretanto, ainda I]permanece nos objetos espalhados pelos vários cantos. ,
+      	 subsistir: Em todo homem M]subsiste a vaga reminiscência de uma vida anterior.,
+      	 ter: DEVIANT,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2121' = “persistir ou durar no tempo”
+    	{durar: Em 1850, a ilha foi transformada em porto livre, norma que [existe até hoje.,
+      	 existir: Ao que fomos informados, essas autoridades estão na Espanha e na Inglaterra, países onde ainda I]existe a monarquia.,
+      	 permanecer: A filosofia [permanecerá como uma fonte de questões importantes, um repositório de reflexões inestimáveis sobre essas questões e uma crítica valiosa das práticas científicas cognitivas.,
+      	 subsistir: A liminar [subsiste enquanto não transitar em julgado a sentença de improcedência ou de extinção.}
+Chave: DURAR <verb.stative>
+ILI: 02623605
+
+Sense 6
+{02623605} <verb.stative> last, endure6 -- (persist or be long; in time; "The bad weather lasted for three days")
+       => {02623026} <verb.stative> measure -- (have certain dimensions; "This table surfaces measures 20inches by 36 inches")
+           => {02526983} <verb.stative> be3 -- (have the quality of being; (copula, used with an adjective or a predicate noun); "John is rich"; "This is not a good answer")

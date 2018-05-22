@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA1291
+
+DADO O SYNSET:
+
+S='Glosa1291'
+{arejar: No terraço está a lanchonete onde é possível I]arejar, olhar um pouco a "Bela Vista" da cidade, se alimentar.,
+ desencalmar-se: Finalmente uma sombra onde puderam H]desencalmar-se,
+ refrescar-se: Para [se refrescar no verão, o gordo é incapaz de pedir picolé de limão,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1291' = “tornar-se fresco novamente” 
+{arejar: No terraço está a lanchonete onde é possível I]arejar, olhar um pouco a "Bela Vista" da cidade, se alimentar.,
+ refrescar-se: Para [se refrescar no verão, o gordo é incapaz de pedir picolé de limão,}
+Chave: REFRESCAR-SE <verb.body>
+ILI: 00024375
+
+Sense 2
+{00024375} <verb.body> freshen2, refresh2, refreshen, freshen up2 -- (become or make oneself fresh again; "She freshened up after the tennis game")
+       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

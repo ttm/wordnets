@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA1769
+
+DADO O SYNSET:
+
+S='Glosa1769'
+	{abaular: Do lado do Mary Dota, a parede interna do vão começou a I]abaular, formando uma barriga, e surgiram rachaduras verticais. ,
+	 alamborar: x,
+	 alcatruzar: H]Alcatruzar um vasilhame.,
+	 alombar: M]Alombar uma estrada, uma superfície. ,
+	 arquear: Para [arquear os tubos de aço que formam a estrutura do teto, o arquiteto usou uma máquina portátil de dobrar canos e curvou os tubos um a um, adaptando-os milimetricamente ao teto durante a colocação.,
+	 endorsar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1769' = “curvar (ou ficar curvado) no meio, para cima” 
+	{abaular: Do lado do Mary Dota, a parede interna do vão começou a I]abaular, formando uma barriga, e surgiram rachaduras verticais.,
+	 arquear: Ele olhou para os sapatos sobre o sofá, I]arqueou as solas mantendo-se nas pontas dos pés.,}
+Chave: ABAULAR <verb.motion>
+ILI: 01977314
+
+Sense 1
+{01977314} <verb.motion> camber -- (curve upward in the middle)
+       => {01976875} <verb.motion> arch, curve1, arc -- (form an arch or curve; "her back arches"; "her hips curve nicely")
+           => {01977754} <verb.motion> bend, flex -- (form a curve; "The stick does not bend")
+               => {00135866} <verb.change> change shape, change form, deform2 -- (assume a different shape or form)
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

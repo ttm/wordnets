@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA3423
+
+DADO O SYNSET:
+
+S='Glosa3423'
+	    {
+	      amear: x,
+	      dimidiar: x,
+	      mear: Estavam demolindo um quarto que I]meava a parede e eu tinha a impressão que a minha casa ia cair.,
+	      mediar: Caminhava em direção ao campo do jundu, que I]mediava entre a praia e o outeirinho da Vila, quando ouviu dois urros pavorosos.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3423' = “fazer uma divisão ou separação”
+	     {mear: Estavam demolindo um quarto que I]meava a parede e eu tinha a impressão que a minha casa ia cair.,
+	      mediar: Caminhava em direção ao campo do jundu, que I]mediava entre a praia e o outeirinho da Vila, quando ouviu dois urros pavorosos.,}
+Chave: MEDIAR <verb.motion>
+ILI: 01973194
+
+Sense 5
+{01973194} <verb.motion> separate1, divide -- (make a division or separation)

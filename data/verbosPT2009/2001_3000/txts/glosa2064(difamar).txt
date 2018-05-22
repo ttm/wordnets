@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA2064
+
+DADO O SYNSET:
+	
+S='Glosa2064'
+    	{abocanhar: Intrigante, costuma A]abocanhar amigos e inimigos.,
+      	 aboquejar: Os desocupados H]aboquejavam a vida da moça.,
+      	 atassalhar: Quererá ainda que compareça, como réu, para defender-me perante o tribunal revolucionário dessa vil chusma de patifes e celerados, que tem o luciferino gostinho de morder e I]atassalhar com raiva hidrofóbica a reputação de qualquer homem sábio ou virtuoso?,
+      	 boquejar: M]Boquejar na reputação de outrem.,
+      	 caluniar: Pode ocorrer que o sujeito manifeste frase em que não se mostre com evidência a intenção de [caluniar, difamar ou injuriar, causando dúvida ao intérprete quanto à sua significação.,
+      	 difamar: Ele acrescenta que Romano não tinha a intenção de injuriar ou I]difamar Cardoso Alves.,
+      	 morder: Língua pérfida, M]morde todas as reputações.,
+      	 tasquinhar: M]Tasquinhava na reputação dos colegas.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2064' = “falar desfavoravelmente [sobre]”
+    	{atassalhar: Quererá ainda que compareça, como réu, para defender-me perante o tribunal revolucionário dessa vil chusma de patifes e celerados, que tem o luciferino gostinho de morder e I]atassalhar com raiva hidrofóbica a reputação de qualquer homem sábio ou virtuoso?,
+      	 caluniar: Uma mulher lançou uma biografia [caluniando os dois.,
+      	 difamar: Ele acrescenta que Romano não tinha a intenção de injuriar ou I]difamar Cardoso Alves.,
+      	 tasquinhar: As duas moças gastaram assim algum tempo a I]tasquinhar na pele de pessoas que nós não conhecemos nem precisamos disso.}
+Chave: DIFAMAR <verb.communication>
+ILI: 00820582
+
+Sense 1
+{00820582} <verb.communication> badmouth, malign, traduce, drag through the mud -- (speak unfavorably about; "She badmouthes her husband everywhere")
+       => {00818976} <verb.communication> defame, slander, smirch, asperse, denigrate1, calumniate, smear, sully, besmirch -- (charge falsely or with malicious intent; attack the good name and reputation of someone; "The journalists have defamed me!" "The article in the paper sullied my reputation")
+           => {00815975} <verb.communication> charge2, accuse1 -- (blame for, make a claim of wrongdoing or misbehavior against; "he charged me director with indifference")

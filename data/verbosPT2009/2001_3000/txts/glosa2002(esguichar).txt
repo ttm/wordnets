@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2002
+
+DADO O SYNSET:
+	
+S='Glosa2002'
+    	{esguichar: No carro abre alas, uma fonte computadorizada, I]esguichava água à uma altura de 4 metros e ao ritmo do samba.,
+ espadanar: x,
+      	 espirrar: A água I]espirrava contra um pequeno lado onde palmeiras mergulhavam suas folhas, fornecendo uma trilha sonora enquanto perambulávamos por um túnel de pés de cacau, com sua fruta madura nascendo direto do casco. ,
+      	 jorrar: Sempre abrimos uma torneira esperando ver I]jorrar água fresca e limpa.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2002' = “jorrar num repentino fluxo ou jato”
+    	{esguichar: Foi aí que comecei a ver água I]esguichando no pára-brisa e a fumaça saindo do capô.,
+ 	 espirrar: A água I]espirrava contra um pequeno lado onde palmeiras mergulhavam suas folhas.,
+      	 jorrar: Sempre abrimos uma torneira esperando ver I]jorrar água fresca e limpa.}
+Chave: ESGUICHAR <verb.motion>
+ILI: 02009838
+
+Sense 1
+{02009838} <verb.motion> spurt1, spirt1, gush, spout -- (gush forth in a sudden stream or jet; "water gushed forth")
+       => {02010665} <verb.motion> pour2 -- (flow in a spurt; "Water poured all over the floor")
+           => {02008364} <verb.motion> run1, flow, feed4, course -- (move along, of liquids; "Water flowed into the cave"; "the Missouri feeds into the Mississippi")
+               => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right")

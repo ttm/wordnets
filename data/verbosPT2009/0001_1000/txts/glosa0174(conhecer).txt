@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0174
+
+DADO O SYNSET:
+
+S='Glosa174'
+{conhecer: Venha [conhecer a nova casa: contamos com sua presença na festa de inauguração, a ser realizada no dia 30 de janeiro próximo. ,
+ver: Outras traduzem o espanto dos pesquisadores, como o rosto estupefato de Cousteau ao [ver a pororoca.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa174' = “ter conhecimento ou contato com algo pela primeira vez”
+{conhecer: Venha [conhecer a nova casa: contamos com sua presença na festa de inauguração, a ser realizada no dia 30 de janeiro próximo. ,
+ver: Outras traduzem o espanto dos pesquisadores, como o rosto estupefato de Cousteau ao [ver a pororoca.,}
+Chave: CONHECER <verb.social>
+ILI: EQ_HAS_HYPONYM – 02414196 – “ir ver por uma visita social”
+
+Sense 12
+{02414196} <verb.social> see12 -- (go to see for a social visit; "I went to see my friend Mary the other day")
+       => {02413281} <verb.social> visit, call in, call -- (pay a brief visit; "The mayor likes to call on some of the prominent citizens")
+           => {02412640} <verb.social> meet1, get together1 -- (get together socially or for a specific purpose)

@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA1244
+
+DADO O SYNSET:
+
+S='Glosa1244'
+{desconversar: Indagado sobre a indicação de Serra para o Planejamento, Covas preferiu [desconversar,
+ dissimular: O discurso irônico pressupõe a percepção da possibilidade de fingir, mentir ou [dissimular,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1244' = “ocultar os verdadeiros motivos [de] ao elaborar aparentes boas intenções a fim de conseguir o que quer”
+{desconversar: Indagado sobre a indicação de Serra para o Planejamento, Covas preferiu [desconversar.,
+ dissimular: O discurso irônico pressupõe a percepção da possibilidade de fingir, mentir ou [dissimular.,}
+Chave: DISSIMULAR <verb.communication>
+ILI: EQ_HAS_HYPERONYM - 00811913
+
+Sense 1
+{00811913} <verb.communication> bamboozle, snow, hoodwink, pull the wool over someone's eyes, lead by the nose, play false -- (conceal one's true motives from especially by elaborately feigning good intentions so as to gain an end; "He bamboozled his professors into thinking that he knew the subject well")
+       => {00826744} <verb.communication> deceive, betray3, lead astray -- (cause someone to believe an untruth; "The insurance company deceived me when they told me they were covering my house")
+           => {00806775} <verb.communication> misinform, mislead -- (give false or misleading information to)
+               => {00804489} <verb.communication> inform -- (impart knowledge of some fact, state or affairs, or event to; "I informed him of his rights")
+                   => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                       => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                           => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

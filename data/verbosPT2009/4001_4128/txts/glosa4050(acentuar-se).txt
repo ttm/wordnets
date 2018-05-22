@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA4050
+
+DADO O SYNSET:
+
+S='Glosa4050'
+{acentuar-se: Sua beleza A]acentua-se a cada dia.,
+destacar-se: Pensando assim e possuindo esta postura profissional mais agressiva, suas chances de I]destacar-se serão muito maiores.,
+pronunciar-se: A calvície I]pronunciou-se.,
+realçar-se: É de inteira justiça I]realçar-se entre os argumentos nela apresentados, o de ser a questão em discussão.,
+recortar-se: x,
+salientar-se: Um homem feio e charmoso pode I]salientar-se mais do que um homem bonito mas narcísico ou insosso.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4050' = “aumentar”
+{acentuar-se: Sua beleza A]acentua-se a cada dia.,
+pronunciar-se: A calvície I]pronunciou-se.,
+realçar-se: Como se vê, I]realçava-se a participação social – o que era uma conquista –, mas não. se entrava em detalhes sobre as formas de capacitar essa participação.,
+salientar-se: Concomitante ao seu progresso intelectual I]salientava-se naquele jovem o interesse pela política.,}
+Chave: ACENTUAR-SE <verb.change>
+ILI: 00222014
+
+Sense 1
+{00222014} <verb.change> enhance, heighten, raise -- (increase; "This will enhance your enjoyment"; "heighten the tension")
+       => {00219593} <verb.change> intensify1, compound1, heighten4, deepen1 -- (make more intense, stronger, or more marked; "The efforts were intensified", "Her rudeness intensified his dislike for her"; "Potsmokers claim it heightens their awareness"; "This event only deepened my convictions")
+           => {00150804} <verb.change> increase -- (become bigger or greater in amount; "The amount of work increased")
+               => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA0091
+
+DADO O SYNSET:
+
+S='Glosa91' = “fazer sentir(-se) confuso, atrapalhado ou perturbado”
+{afobar-se: Como arguto e tranqüilo psicanalista,  não se I]afoba diante de críticas deslocadas à psicanálise.,
+atarantar-se: Mas alguma coisa os escoceses também viram, e ali se assombraram, e [se atarantaram, e perderam a pouca cor que têm.,
+atrapalhar-se: Segurança se I]atrapalha na chegada da Seleção.,
+perturbar-se: Eo rei Herodes, ouvindo isto, I]perturbou-se, e toda Jerusalém com ele.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa91' = “fazer sentir(-se) confuso, atrapalhado ou perturbado”
+{afobar-se: Como arguto e tranqüilo psicanalista,  não se I]afoba diante de críticas deslocadas à psicanálise.,
+atarantar-se: Mas alguma coisa os escoceses também viram, e ali se assombraram, e [se atarantaram, e perderam a pouca cor que têm.,
+atrapalhar-se: Segurança se I]atrapalha na chegada da Seleção.,
+perturbar-se: Eo rei Herodes, ouvindo isto, I]perturbou-se, e toda Jerusalém com ele.,}
+
+Chave: ATRAPALHAR-SE <verb.emotion>
+ILI: 01738809
+
+Sense 3
+{01738809} <verb.emotion> confuse, flurry, disconcert2, put off2 -- (cause to feel embarrassment; "The constant attention of the young man confused her")
+       => {01740167} <verb.emotion> embarrass, abash -- (cause to be embarrassed; cause to feel self-conscious)
+           => {01738090} <verb.emotion> upset1, discompose, untune, disconcert1, discomfit -- (cause to lose one's composure)
+               => {01708538} <verb.emotion> arouse, elicit, enkindle, kindle, evoke, fire, raise8, provoke -- (call forth (emotions, feelings, and responses); "arouse pity"; "raise a smile"; "evoke sympathy")
+                   => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

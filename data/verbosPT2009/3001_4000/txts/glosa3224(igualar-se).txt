@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA3224
+
+DADO O SYNSET:
+
+S='Glosa3224'
+	    {
+	      emparelhar-se: Enfatize áreas concretas nas quais suas habilidades e interesses I]emparelham-se com as necessidades de seus alvos.,
+	      igualar-se: De resto, o PTB espera pelo menos [igualar-se ao PMDB em número de ministérios.,
+	      igualizar-se: Tanto projeto do início da República como o do final do século XX, contraditoriamente, I]igualizam-se pela crença de que a sociedade capitalista, quando desenvolvida democraticamente, elimina as contradições sociais.,
+	      irmanar-se: Crianças e educadores I]irmanam-se em uma atmosfera lúdica e mágica. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3224' = “ser igual em qualidade ou habilidade”
+	     {emparelhar-se: Bonini I]emparelha-se com nomes consagrados da área de Lingüística e Letras do Brasil, entre os quais Ingedore Koch, Maria José Ciracini, Mônica Veloso Borges.,
+	      igualar-se: Seu trabalho I]iguala-se àquele trabalho universal de Max Weber sobre ética política.,
+	      igualizar-se: A não citação do cinema brasileiro na Semana quase I]igualiza-se à arquitetura que teve representação no hall de exposição através de Moya e do desconhecido Georg Prszirembl.,
+	      irmanar-se: Crianças e educadores I]irmanam-se em uma atmosfera lúdica e mágica. ,}
+Chave: IGUALAR-SE <verb.stative>
+ILI: EQ_NEAR_SYNONYM - 02591609
+
+Sense 4
+{02591609} <verb.stative> equal1, touch2, rival, match1 -- (be equal to in quality or ability; "Nothing can rival cotton for durability"; "Your performance doesn't even touch that of your colleagues"; "Her persistence and ambition only matches that of her parents")
+       => {01037983} <verb.competition> compete, vie, contend -- (compete for something; engage in a contest; measure oneself against others)

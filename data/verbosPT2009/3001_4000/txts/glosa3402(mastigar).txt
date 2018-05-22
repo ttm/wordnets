@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA3402
+
+DADO O SYNSET:
+
+S='Glosa3402'
+	    {
+	      mascar: Roberto de Carvalho, de smoking de cetim preto e óculos escuros, [mascava chicletes sem parar; e Jorge Benjor, tomando guaraná e dançando sem parar. ,
+	      mascotar: x,
+	      mastigar: Não dá pra pagar o palito que Telê [mastiga sem parar durante os jogos.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3402' = “mastigar (comida)”
+	     {mascar: Roberto de Carvalho, de smoking de cetim preto e óculos escuros, [mascava chicletes sem parar; e Jorge Benjor, tomando guaraná e dançando sem parar. ,
+	      mastigar: Com um enorme hambúrguer nas mãos, a cantora I]mastigava os pedaços do lanche com a boca aberta.,}
+Chave: MASTIGAR <verb.consumption>
+ILI: 01164648 
+
+Sense 1
+{01164648} <verb.consumption> chew, masticate, manducate, jaw -- (chew (food); "He jawed his bubble gum"; "Chew your food and don't swallow it!"; "The cows were masticating the grass")
+       => {01354012} <verb.contact> grate, grind -- (make a grating or grinding sound by rubbing together; "grate one's teeth in anger")
+           => {00327401} <verb.change> break up, fragment, fragmentize, fragmentise -- (break or cause to break into pieces; "The plate fragmented")
+               => {00323679} <verb.change> break, separate3, split up, fall apart3, come apart -- (become separated into pieces or fragments; "The figurine broke"; "The freshly baked loaf fell apart")
+                   => {00135037} <verb.change> change integrity -- (change in physical make-up)
+                       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

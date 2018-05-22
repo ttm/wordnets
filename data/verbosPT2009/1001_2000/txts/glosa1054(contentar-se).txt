@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA1054
+
+DADO O SYNSET:
+
+S='Glosa1054'
+{contentar-se: O Judiciário não pode [contentar-se com o aspecto formal das normas jurídicas.,
+ passar: DEVIANT,
+ remediar-se: Compete ao intérprete I]remediar-se com o que existe.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1054' = “satisfazer-se de modo limitado”
+{contentar-se: O Judiciário não pode [contentar-se com o aspecto formal das normas jurídicas.,
+ remediar-se: Compete ao intérprete I]remediar-se com o que existe.,}
+Chave: CONTENTAR-SE <verb.consumption>
+ILI: 01157873 
+
+Sense 1
+{01157873} <verb.consumption> content -- (satisfy in a limited way; "He contented himself with one glass of beer per day")
+       => {00227757} <verb.change> limit, circumscribe, confine1 -- (restrict or confine, "I limit you to two visits to the pub a day")
+           => {00428838} <verb.change> decrease1, lessen2, minify -- (make smaller; "He decreased his staff")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2373
+
+DADO O SYNSET:
+
+S='Glosa2373'
+	    {assinalar: I] Assinalar os documentos anexados ao formulário Redarf, informando quantas cópias de Darf/ Darf simples estão sendo anexadas.,
+	      marcar: Um instrumento de madeira, metal, borracha ou cortiça, seja ele para I]marcar papéis, madeira, documentos, ou até mesmo para gravar.,
+	      sinalar: x,
+	      ticar: I]Ticar o título a ser renovado.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2373' = “Pôr uma marca ou sinal em cima ou perto de alguma coisa.”
+	    {assinalar: I] Assinalar os documentos anexados ao formulário, informando quantas cópias simples estão sendo anexadas.,
+	      marcar: I]Marcar o documento a ser enviado com o carimbo do SIPAR.,
+	      ticar: I]Ticar o título a ser renovado.,}
+
+Chave: ASSINALAR <verb.cognition>
+ILI: 00640231
+
+Sense 13
+{00640231} <verb.cognition> check1, check off, mark8, mark off, tick off, tick -- (put a check mark on or next to; "Please check each name on the list"; "tick off the items")
+       => {00642483} <verb.cognition> verify1 -- (confirm the truth of; "Please verify that the doors are closed"; "verify a claim")
+           => {00643814} <verb.cognition> confirm, corroborate, sustain, substantiate, support, affirm -- (establish or strengthen as with new evidence or facts; "his story confirmed my doubts"; "The evidence supports the defendant") 

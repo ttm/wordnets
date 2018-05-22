@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA3022
+
+DADO O SYNSET:
+
+S='Glosa3022'
+	    {
+	      engessar: Adotei várias precauções, antes de [engessar o relevo. ,
+	      estucar: Para [estucar uma superfície bastante grande, a mistura deve ser muito líquida, com proporções de ½ a ¾ de gesso para cada parte de água.,
+	      gessar: x,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3022' = “aplicar gesso”
+	     {engessar: Apenas no dia 8 um médico examinou a menina, receitou medicamentos e [engessou seu braço. ,}
+Chave: ENGESSAR <verb.contact>
+ILI: 01322604
+
+Sense 3
+{01322604} <verb.contact> plaster2 -- (apply a plaster cast to; "plaster the broken arm")
+       => {01293336} <verb.contact> cover -- (provide with a covering or cause to be covered; "cover her face with a handkerchief"; "cover the child with a blanket"; "cover the grave with flowers")

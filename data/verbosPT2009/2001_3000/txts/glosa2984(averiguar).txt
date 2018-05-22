@@ -1,0 +1,47 @@
+ANÁLISE DA GLOSA2984
+
+DADO O SYNSET:
+
+S='Glosa2984'
+	    {afuroar: Como, então, deverá o homem começar a I]afuroar o mistério do eu?,
+	      apurar: Antônio Carlos Rocha abriu sindicância para [apurar se os detetives foram coniventes na fuga.,
+	      averiguar: O IPM vai [averiguar a veracidade das imagens e a data registrada no vídeo.,
+	      buscar: Sócrates fundou um método de conhecimento através do questionamento das ideologias vigentes, caminho pelo qual [buscava a verdade.,
+	      demandar: Covas sempre I]demandou informações gerenciais. ,
+	      escavar: Depois da prisão de William Kennedy Smith, um artigo do New York Times I]escavou informações sobre detalhes pessoais irrelevantes da vítima.,
+	      espreitar: Aí vem ele M]espreitar sobre o serviço.,
+	      esquadrinhar: Os discípulos vão [esquadrinhando diferentes aspectos da chamada realidade nacional.,
+	      furoar: x,
+	      indagar: Osvaldo Sunkel [indagava se medidas com finalidades estabilizadoras alcançarão os resultados prometidos, conseguindo gerar situações de equilíbrio estável. ,
+	      inquirir: Submeter idéias ou atitudes ao exame genealógico é o mesmo que [inquirir se são signos de plenitude de vida ou da sua degeneração.,
+	      investigar: Um cobrava verbas para a preservação do Parque Guará e o outro [investigava mudanças no projeto do metrô.,
+	      perguntar: Roncari [perguntava sobre a situação das direções de pesquisa neste momento, depois do fim da guerra fria.,
+	      perscrutar: Detendo-se sobre o imenso poder de que desfrutam os leitores, a autora revela a escritora, a [perscrutar cuidadosamente, em seu leitor, os gestos de dúvida, de questionamento, de cumplicidade.,
+	      pesquisar: Ele é capaz de [pesquisar até se houve um acréscimo do número de pulgas na cidade depois das chuvas.,
+	      procurar: No Rio, não precisa [procurar muito para encontrar alguém insatisfeito com a demora no reembolso ou a falta de médicos nas clínicas credenciadas.,
+	      tatear: M]Tatear os costumes de um povo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2984' = “Examinar criticamente ou de forma abarcante ou em detalhe minucioso”
+	    {apurar: Meticuloso em citar nomes, datas e horários, Collor citou "abusos" da CPI mista que I]apurou as denúncias feitas pelo irmão do então presidente.,
+	      averiguar: A pesquisa I]averiguou ainda o tipo de violência oferecida.,
+	      buscar: Sócrates fundou um método de conhecimento através do questionamento das ideologias vigentes, caminho pelo qual [buscava a verdade.,
+	      demandar: Covas sempre I]demandou informações gerenciais.,
+	      escavar: Depois da prisão de William Kennedy Smith, um artigo do New York Times I]escavou informações sobre detalhes pessoais irrelevantes da vítima.,
+	      espreitar: Pois bem, inadvertidamente, o julgador não I]espreitou o princípio da proporcionalidade.,
+	      esquadrinhar: Sempre em busca dos fatos, Joaquim de Carvalho foi a campo e I]esquadrinhou cada centímetro da vida das vítimas, dos parentes, amigos ou qualquer outra pessoa.,
+	      indagar: Osvaldo Sunkel [indagava se medidas com finalidades estabilizadoras alcançarão os resultados prometidos, conseguindo gerar situações de equilíbrio estável. ,
+	      inquirir: A avó I]inquiria a miúdo se o pequeno estava muito mal, se escaparia.,
+	      investigar: Um cobrava verbas para a preservação do Parque Guará e o outro [investigava mudanças no projeto do metrô.,
+	      perguntar: Roncari [perguntava sobre a situação das direções de pesquisa neste momento, depois do fim da guerra fria.,
+	      perscrutar: Ao longo de toda sua carreira filosófica Nietzsche I]perscrutou os mais diversos assuntos.,
+	      pesquisar: A Pioneer 11 [pesquisou mais detidamente o planeta gigante.,
+	      procurar: I]Procurou nestas páginas e não encontrou a resposta aqui.,
+	      tatear: À noite, enquanto o ex-governador paulista I]tateava alguma rota de regresso ao porto seguro, o senador distraía-se no telão da casa em Brasília.,}
+Chave: AVERIGUAR <verb.perception>
+ILI: 02091359
+
+Sense 1
+{02091359} <verb.perception> size up, take stock, scrutinize, scrutinise -- (to look at critically or searchingly, or in minute detail; "he scrutinized his likeness in the mirror")
+       => {02069480} <verb.perception> examine, see13 -- (observe, check out, and look over carefully or inspect; "The customs agent examined the baggage"; "I must see your passport before you can enter the country") 

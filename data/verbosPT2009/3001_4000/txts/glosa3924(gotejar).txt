@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA3924
+
+DADO O SYNSET:
+	
+S='Glosa3924'
+    	{gotear: x,
+      	 gotejar: A umidade deslizava ao longo das pedras e I]gotejava pela abóbada.,
+      	 marejar: Luzia ouvia calada, com os olhos fitos na cacimba, onde a água I]marejava lentamente.,
+      	 porejar: A testa I]porejou instantaneamente.,
+      	 ressudar: Cristo A]ressudou sangue no Calvário.,
+      	 ressumar: O sangue começa a I]ressumar de seu corpo inteiro e, momentos depois, o sangue cessa. ,
+      	 ressumbrar: x,
+      	 rever2: Sua fronte M]revia suor frio.,
+     	 revir1: x,
+      	 suar: M]Suavam as paredes do túnel.,
+      	 transudar: Uma lágrima correu pela face guerreira, como as umidades que durante os ardores do estio [transudam da escarpa dos rochedos .,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3924' = “cair ou fazer cair em gotas/pingos”
+    	{gotejar: A umidade deslizava ao longo das pedras e I]gotejava pela abóbada.,
+      	 marejar: Luzia ouvia calada, com os olhos fitos na cacimba, onde a água I]marejava lentamente.,
+      	 porejar: Suor frio [porejou-lhe pela testa, e a mais pungente angústia apertou-lhe o coração.,
+      	 ressudar: Tinha as mãos úmidas, e o suor das axilas mapeava o paletó de linho branco; descobertas, as entradas I]ressudavam, apesar do vasto lenço branco com o qual tentava enxugar-se.,
+      	 ressumar: O sangue começa a I]ressumar de seu corpo inteiro e, momentos depois, o sangue cessa.,
+      	 suar: A pobre criatura [suava como o fundo de um prato de sopa.,
+      	 transudar: Uma lágrima correu pela face guerreira, como as umidades que durante os ardores do estio [transudam da escarpa dos rochedos.}
+Chave: GOTEJAR <verb.contact>
+ILI: 01567526
+
+Sense 15
+{01567526} <verb.contact> dribble10, drip10, drop12 -- (let or cause to fall in drops; "dribble oil into the mixture")
+       => {02010968} <verb.motion> pour3 -- (cause to run; "pour water over the floor")
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

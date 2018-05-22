@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA1931
+
+DADO O SYNSET:
+
+S='Glosa1931'
+{abugalhar-se: x,
+ arregalar-se: Seus olhos azuis I]arregalaram-se e apareceu neles um brilho de zombaria. ,
+ esbugalhar-se: Seus olhos I]esbugalharam-se, tornaram-se quase brancos, e seus cabelos se puseram em pé.,
+ escancarar-se: Os olhos do agregado [escancararam-se, as sobrancelhas arquearam-se, e o prazer que eu contava dar-lhe com a escolha da proteção não se mostrou em nenhum dos músculos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1931' = “formar protuberância para fora”
+{arregalar-se: Seus olhos azuis I]arregalaram-se e apareceu neles um brilho de zombaria.,
+ esbugalhar-se: Seus olhos I]esbugalharam-se, tornaram-se quase brancos, e seus cabelos se puseram em pé.,
+ escancarar-se: Os olhos do agregado [escancararam-se, as sobrancelhas arquearam-se, e o prazer que eu contava dar-lhe com a escolha da proteção não se mostrou em nenhum dos músculos.,}
+Chave: ARREGALAR-SE <verb.motion>
+ILI: 02022814
+
+Sense 1
+{02022814} <verb.motion> protrude, pop, pop out1, bulge, bulge out, bug out, come out -- (bulge outward; "His eyes popped")
+       => {00135866} <verb.change> change shape, change form, deform2 -- (assume a different shape or form)
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

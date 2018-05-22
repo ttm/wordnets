@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA2453
+
+DADO O SYNSET:
+
+S='Glosa2453'
+	    {sonetar: Nas mulheres o rejuvenescimento torna-se mais compulsório quanto mais avança a idade, e essa imposição estética levou muitos poetas a I]sonetar como eu fiz.,
+	      sonetear: Geraldo vai nos ensinar a arte de I]sonetear.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2453' = “Compor um soneto.”
+	    {sonetar: I]Sonetou pouco, mas não se afastou da norma.,
+	      sonetear: Geraldo vai nos ensinar a arte de I]sonetear.,}
+
+Chave: SONETEAR 
+ILI: 01654871
+
+Sense 2
+{01654871} <verb.creation> sonnet -- (compose a sonnet)
+       => {01653772} <verb.creation> verse, versify, poetize, poetise -- (compose verses or put into verse; "He versified the ancient saga")
+           => {01649807} <verb.creation> write, compose1, pen, indite -- (produce a literary work; "She composed a poem"; "He wrote four novels")
+               => {01649365} <verb.creation> create verbally -- (create with or from words)
+                   => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor") 

@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA0079
+
+DADO O SYNSET:
+
+S='Glosa79'
+{alevantar-se: O escravo deu todas as energias ao progresso humano, sempre inconsciente da própria força, e quando no fim do século XVIII uma grande aura libertadora perpassou a terra, ele se I]alevantou. ,
+levantar-se: Só na última prova Pedro conseguiu H]levantar-se na escola.,
+reabilitar-se: No dia seguinte escrevi-te; e assim, sem me trair, pude ao menos [reabilitar-me na tua estima; doía-me muito que, ainda mesmo não me conhecendo, tivesses sobre mim uma idéia tão injusta.,
+reerguer-se: Carey fala francamente de como, depois de oito anos, conseguiu I]reerguer-se.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa79' = “ajudar a (-se) readaptar, como a um estado anterior de saúde ou boa reputação” 
+{alevantar-se: O escravo deu todas as energias ao progresso humano, sempre inconsciente da própria força, e quando no fim do século XVIII uma grande aura libertadora perpassou a terra, ele se I]alevantou. ,
+levantar-se: O pessimista senta-se e lastima, o otimista I]levanta-se e age.,
+reabilitar-se: No dia seguinte escrevi-te; e assim, sem me trair, pude ao menos [reabilitar-me na tua estima; doía-me muito que, ainda mesmo não me conhecendo, tivesses sobre mim uma idéia tão injusta.,
+reerguer-se: Carey fala francamente de como, depois de oito anos, conseguiu I]reerguer-se.,}
+
+Chave: REABILITAR-SE <verb.social>
+ILI: 02476705
+
+Sense 3
+{02476705} <verb.social> rehabilitate -- (help to re-adapt, as to a former state of health or good repute; "The prisoner was successfully rehabilitated"; "After a year in the mental clinic, the patient is now rehabilitated")
+       => {02476974} <verb.social> restore1, reconstruct4 -- (return to its original or usable and functioning condition; "restore the forest to its original pristine condition")
+           => {01584867} <verb.creation> regenerate, renew -- (re-establish on a new, usually improved, basis or make new or like new; "We renewed our friendship after a hiatus of twenty years"; "They renewed their membership")
+               => {01573613} <verb.creation> re-create -- (create anew; "Re-create the boom of the West on a small scale")
+                   => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

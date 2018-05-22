@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA2257
+
+DADO O SYNSET:
+
+S='Glosa2257'
+	    {cuidar: Mr. Yenda, o domador tcheco de Tânia, foi trazido dos estúdios Universal especialmente para [cuidar da elefanta.,
+	      defender: Para [defender a região, foram fundadas ordens militares: os Templários, os Hospitaleiros e os Teutônicos.,
+	      proteger: O governo brasileiro é incapaz e não dispõe de recursos administrativos para [proteger os índios. ,
+	      tutelar: O imperador José 2º decidiu [tutelar o teatro em 1776, dando-lhe o nome de Teatro Nacional Alemão.,
+	      tutorar: É possível um leigo I]tutorar um grupo sem conhecer o tema em questão? ,
+	      tutorear: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2257' = “ ficar encarregado de algo, tomar conta de alguma coisa”
+	    {cuidar: Ana conta que a segunda mulher afastou o pai dos filhos e [cuidou do patrimônio alheio.,
+	      defender: Para [defender a região, foram fundadas ordens militares.,
+	      proteger: Navegador e militar português, que fundou a colônia de São Vicente, [protegeu as costas brasileiras.,
+	      tutelar: O imperador José 2º decidiu [tutelar o teatro em 1776.,
+	      tutorar: É possível um leigo I]tutorar um grupo sem conhecer o tema em questão?,}
+
+Chave: CUIDAR <verb.social>
+ILI: 02363018
+
+Sense 4
+{02363018} <verb.social> manage, deal13, care11, handle -- (be in charge of, act on, or dispose of; "I can deal with this crew of workers"; "This blender can't handle nuts"; "She managed her parents' affairs after they got too old")
+       => {02367626} <verb.social> control, command -- (exercise authoritative control or power over; "control the budget"; "Command the military forces")

@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2827
+
+DADO O SYNSET:
+
+S='Glosa2827'
+	    {acompanhar: x,
+	      rastejar: Ele partira na última lua para I]rastejar a marcha dos tapuias; e voltava senhor do caminho da guerra quando encontrou Ubirajara.,
+	      rastrear: O cruzamento de dados existe para [rastrear os suspeitos, descobrir por onde passaram, quando e onde estão os supostos terroristas.,
+	      seguir: Segundo Pedrosa, a polícia I]seguiu os passos da quadrilha, chegando a perseguir um suspeito, porém, não obteve sucesso para efetuar a prisão.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2827' = “Ir atrás com a intenção de pegar, prender”
+	    {rastejar: Ele partira na última lua para I]rastejar a marcha dos tapuias; e voltava senhor do caminho da guerra quando encontrou Ubirajara.,
+	      rastrear: Ele acabou capturado pelo serviço de segurança inglês, que I]rastreou seus movimentos e colocou em isolamento todos os que tiveram contato com o fujão.,
+	      seguir: Segundo Pedrosa, a polícia I]seguiu os passos da quadrilha, chegando a perseguir um suspeito, porém, não obteve sucesso para efetuar a prisão.,}
+
+Chave: RASTREAR
+ILI: 01943890
+
+Sense 3
+{01943890} <verb.motion> chase, chase after, trail, tail, tag, give chase, dog, go after1, track -- (go after with the intent to catch; "The policeman chased the mugger down the alley"; "the dog chased the rabbit")
+       => {01942900} <verb.motion> pursue, follow13 -- (follow in or as if in pursuit; "The police car pursued the suspected attacker"; "Her bad deed followed her and haunted her dreams all her life")
+           => {01782203} <verb.motion> travel, go, move3, locomote -- (change location; move, travel, or proceed; "How fast does your new car go?"; "We travelled from Rome to Naples by bus"; "The policemen went from door to door looking for the suspect"; "The soldiers moved towards the city in an attempt to take it before night fell") 

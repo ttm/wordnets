@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA2160
+
+DADO O SYNSET:
+
+S='Glosa2160'
+	    {desaportar: x,
+	      partir: O Navio I]partiu do Arsenal de Marinha do Rio de Janeiro(AMRJ) rumo ao litoral paulista, fazendo uma escala no Porto de Santos em 15 de março deste ano. ,
+	      zarpar: As corvetas portuguesas [zarparam para o Rio de Prata e Floriano Peixoto decidiu romper as relações entre os dois países.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2160' = “sair de algum lugar em direção a outro”
+	    {partir: O Navio I]partiu do Arsenal de Marinha do Rio de Janeiro(AMRJ) rumo ao litoral paulista. ,
+	      zarpar: As corvetas portuguesas [zarparam para o Rio de Prata e Floriano Peixoto decidiu romper as relações entre os dois países.,}
+
+Chave: PARTIR <verb.motion>
+ILI: 01951556
+
+Sense 1
+{01951556} <verb.motion> leave1, go forth, go away -- (go away from a place; "At what time does your train leave?"; "She didn't leave until midnight"; "The ship leaves at midnight")

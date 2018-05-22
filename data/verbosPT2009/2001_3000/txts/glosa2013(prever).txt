@@ -1,0 +1,39 @@
+ANÁLISE DA GLOSA2013
+
+DADO O SYNSET:
+	
+S='Glosa2013'
+    	{adivinhar: Interlocutores que perceberam o grande interesse de Ciro nas críticas dos empresários do Iedi à política cambial [adivinham qual o objetivo do ministro: usar os argumentos para reforçar sua posição na disputa contra a própria equipe.,
+      	 augurar: Acontecimento auspicioso, que A]augurava a vitória.  ,
+      	 calcular: Com os descontos em folha, os funcionários [calculam que receberão cerca de metade desse total.,
+      	 conjecturar: Reconheceu os princípios subjacentes ao movimento dos corpos do sistema planetário, I]conjecturou a existência da força gravitacional.,
+      	 conjeturar: Procurou A]conjeturar as possíveis razões de sua zanga.  ,
+      	 desconfiar: O presidente Ricardo Teixeira pode alegar inocência, mas eu [desconfio que a CBF montou uma rede de espionagem de acordo com o Itamarati, só para bisbilhotar nossos adversários nas Olimpíadas.,
+      	 entrever: Não A]entrevira as dificuldades que veio a enfrentar.  ,
+      	 esmar: x,
+      	 esperar: A Receita [espera receber, este ano, um total de 7 milhões de declarações.,
+      	 prever: Mesmo assim, o orçamento municipal [prevê gastar US$ 220 milhões com as obras do Rio Cidade - a pesquisa mostra que 39% acham que as obras são apenas de maquiagem - e US$ 40 milhões com contenção de encostas.,
+      	 prognosticar: A sondagem da FGV mostra que, com relação às expectativas para o quarto trimestre de 1994, 52% da indústria [prognostica aumento dos custos de produção.,
+      	 supor: Sem rodeios, [supôs que as duas senhoras vinham de alguma aventura amorosa, e deduziu isto de três fatos, que sou obrigado a enfileirar aqui para não deixar este homem sob a suspeita de caluniador gratuito .,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2013' = “avaliar como provável” 
+    	{adivinhar: Interlocutores que perceberam o grande interesse de Ciro nas críticas dos empresários do Iedi à política cambial [adivinham qual o objetivo do ministro: usar os argumentos para reforçar sua posição na disputa contra a própria equipe.,
+      	 augurar: Era a vizinha que [augurava mau fim ao Leonardo.,
+      	 calcular: Com os descontos em folha, os funcionários [calculam que receberão cerca de metade desse total.,
+      	 conjecturar: Reconheceu os princípios subjacentes ao movimento dos corpos do sistema planetário, I]conjecturou a existência da força gravitacional.,
+      	 conjeturar: O próprio Lancaster [conjeturou que sua teoria cria novas conclusões com relação à improbabilidade dos bens de Giffen.,
+      	 desconfiar: O presidente Ricardo Teixeira pode alegar inocência, mas eu [desconfio que a CBF montou uma rede de espionagem de acordo com o Itamarati, só para bisbilhotar nossos adversários nas Olimpíadas.,
+      	 entrever: Cecília tinha ainda um pensamento que lhe sorria: queria abrir ao seu amigo o céu que ela [entrevia na sua fé cristã; queria dar-lhe um lugar perto dela na mansão dos justos.,
+      	 esperar: A Receita [espera receber, este ano, um total de 7 milhões de declarações.,
+      	 prever: O orçamento municipal [prevê gastar US$ 220 milhões com as obras do Rio Cidade.,
+      	 prognosticar: A sondagem da FGV mostra que, com relação às expectativas para o quarto trimestre de 1994, 52% da indústria [prognostica aumento dos custos de produção.,
+      	 supor: Sem rodeios, [supôs que as duas senhoras vinham de alguma aventura amorosa, e deduziu isto de três fatos, que sou obrigado a enfileirar aqui para não deixar este homem sob a suspeita de caluniador gratuito.}
+Chave: PREVER <verb.cognition>
+ILI: 00688745
+
+Sense 2
+{00688745} <verb.cognition> calculate3, estimate1, reckon3, count on1, figure1, forecast -- (judge to be probable)
+       => {00647983} <verb.cognition> judge -- (form an opinion of or pass judgment on; "I cannot judge some works of modern art")
+           => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

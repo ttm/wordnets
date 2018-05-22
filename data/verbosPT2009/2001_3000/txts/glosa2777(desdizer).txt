@@ -1,0 +1,35 @@
+ANÁLISE DA GLOSA2777
+
+DADO O SYNSET:
+
+S='Glosa2777'
+	    {desdizer: "Não tenho nada a [desdizer nem a acrescentar em relação ao que já disse", resumiu.,
+	      recuar: Na quinta-feira, o líder I]recuou, explicando que foi um mal entendido.,
+	      retirar: Não posso mais retroceder nenhum dos meus atos praticados como também não posso I]retirar palavras que pronunciei impensadamente.,
+	      retratar2: H]Retratar a palavra empenhada.,}
+
+	  A='Glosa951'
+	    {afirmar: O presidente da Telebrás, Adyr da Silva, [afirma que as informações jornalísticas a respeito da aquisição descentralizada de 500 mil terminais são procedentes.,
+	     confirmar: As explicações que daremos a seguir baseiam-se nesses conceitos, os quais, aliás, servem para [confirmar as conclusões a que Mendel chegou. ,
+	     manter: A África do Sul, por exemplo, investe em armamentos e enormes somas de dinheiro para [manter sua política do apartheid.,
+	     sustentar: Para ele, a letra da música não é motivo suficiente para [sustentar uma alegação jurídica,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2777' = “Negar ou retirar o que foi dito”
+	    {desdizer: O rei ficou indignado, I]desdisse todos os louvores que fizera ao sexo feminino e perdeu a aposta.,
+	      recuar: Na quinta-feira, o líder I]recuou, explicando que foi um mal entendido.,
+	      retirar: Agora parece que I]retirou o que disse.,}
+
+	  A='Glosa951'
+	    {afirmar, confirmar, manter, sustentar}
+
+Chave: DESDIZER <verb.communication>
+ILI: 00773240
+
+Sense 5
+{00773240} <verb.communication> swallow, take back, unsay, withdraw1 -- (take back what one has said; "He swallowed his words")
+       => {00732724} <verb.communication> renounce, repudiate -- (cast off or disown; "She renounced her husband"; "The parents repudiated their son")
+           => {00662708} <verb.cognition> reject -- (refuse to accept or acknowledge; "I reject the idea of starting a war"; "The journal rejected the student's paper")
+               => {00647983} <verb.cognition> judge -- (form an opinion of or pass judgment on; "I cannot judge some works of modern art")
+                   => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere") 

@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA3484
+
+DADO O SYNSET:
+
+S='Glosa3484'
+	    {
+	      desidratar: Por isso a verdura é trocada para que não se [desidrate/Para ]desidratar um buquê inteiro é necessário que todas as plantas usadas possam ser desidratadas com o mesmo método,
+	      exsicar: ]Exsicar sua lágrimas não com lenço e sim com palavras gentis,
+	      mirrar: Não renuncia à vigília para a rosa de Sharon não ]mirrar no deserto,
+	      ressecar: Banho quente pode [ressecar a pele/Com a seca o gado emagreceu, a laranja murchou, o feijão [ressecou,
+	      ressequir: ...uma invasão de luz intensa, que me obrigou a piscar os olhos, de um som forte, que me fez estremecer e de uma lufada de ar fresco, que me ]ressequiu os pulmões,
+	      ressicar: A paisagem ]ressicava,
+	      secar: Em geral, as técnicas usadas para ]secar sementes não diferem daquelas utilizadas para ]secar grãos,
+	    }
+
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3484' = “perder água ou umidade”
+	     {desidratar: Por isso a verdura é trocada para que não se [desidrate/O engaço I]desidrata relativamente rápido após a colheita, sob condições de ambiente natural,
+	      mirrar: A semente I]mirrou debaixo dos seus torrões, os celeiros foram assolados, os armazéns, derribados, porque se perdeu o cereal,
+	      ressecar: Banho quente pode [ressecar a pele/Com a seca o gado emagreceu, a laranja murchou, o feijão [ressecou,
+	      ressequir: O corpo I]ressequia,
+	      secar: O bambu [secou,}
+
+Chave: DESIDRATAR <verb.change>
+ILI: 00203726
+
+Sense 3
+{00203726} <verb.change> dehydrate, dry up, desiccate -- (lose water or moisture; "In the desert, you get dehydrated very quickly")
+       => {00211006} <verb.change> dry1, dry out5 -- (remove the moisture from and make dry; "dry clothes"; "dry hair")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

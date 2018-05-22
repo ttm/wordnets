@@ -1,0 +1,18 @@
+ANÁLISE DA GLOSA2188
+
+DADO O SYNSET:
+
+S='Glosa2188'
+	    {quinar1: Jogaram o lote. Por coincidência, Amaro e Amélia, sentados lado a lado, I]quinaram. ,
+	      visporar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2188' = “vencer em competição ou disputa”
+	    {quinar1: Jogaram o lote. Por coincidência, Amaro e Amélia, sentados lado a lado, I]quinaram. ,}
+
+Chave: QUINAR <verb.competition>
+ILI: EQ_NEAR_HYPERONYM – 01065094 - “be the winner in a contest or competition”
+
+Sense 1
+{01065094} <verb.competition> win -- (be the winner in a contest or competition; be victorious; "He won the Gold Medal in skating"; "Our home team won"; "Win the game")

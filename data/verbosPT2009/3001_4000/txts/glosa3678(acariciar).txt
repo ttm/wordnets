@@ -1,0 +1,54 @@
+ANÁLISE DA GLOSA3678
+
+DADO O SYNSET:
+
+S='Glosa3678'
+	    {
+	      acalentar: Quem vai te acalentar nessa noite fria? ,
+	      acariciar: Ela ria se exageradamente; estava corada, muito inquieta e nervosa; tinha vontade de [acariciar o pai, abraçá lo, beijá lo, despedir. ,
+	      acarinhar: Entrou em casa, correu aos pequenos, e [acarinhou-os com tão estranha expressão, que a mãe desconfiou alguma cousa, e quis saber o que era. ,
+	      acocar: Não fique [acocando esse aí!,
+	      afagar: Raimundo puxou-a carinhosamente para junto dele; [afagou-a, chamando-lhe a cabeça para seu peito. ,
+	      agradar: I]Agradou o rapaz em público.,
+	      ameigar: Chegou-se para ela, [ameigou-a; estava arrependido de ter sido tão ríspido.,
+	      amimar: Cecília estava sentada num tapete de peles sobre a relva e [amimava ao seio a sua rolinha predileta.,
+	      apaparicar: Os nossos antepassados macacos passavam muito tempo a I]apaparicar os machos dominantes do bando.,
+	      bafejar: Isabel estava branca como a cambraia do seu vestido; sentia a pressão das mãos do moço nas suas e o seu hálito que vinha [bafejar-lhe as faces. ,
+	      cariciar: Nem sei como a mão tão calejada sabe I]cariciar a face da mulher ou rosto de criança.,
+	      cofiar: I]Cofiando seus bigodes, Alberto ponderou.,
+	      embalar1: Se me querem por no colo, me [embalar, o que que eu posso fazer?,
+	      mimar1: Vou I]mimar você.# Deixe-se I]mimar no nosso centro de saúde e beleza. ,
+	      mimosear: Entrementes, dançam unindo as testas, girando sobre si mesmos, I]mimoseando- se e coçando a cabeça um do outro. ,
+	      paparicar: Por mais cansada que ela esteja, sempre tem tempo para abraçar, beijar e I]paparicar os filhos. ,
+	    }
+	  A='Glosa62'
+	    {
+	     maltratar: Cá no meu modo de pensar, entendo que não [maltratem as coitadinhas, mas também é preciso não dar asas às formigas.,
+	    }
+
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3678' = “tocar ou afagar levemente, de maneira carinhosa e afetuosa”
+	     {acalentar: Esta [acalentava o filho, aquela repetia as modas que lhe ensinara a gajoa.,
+	      acariciar: Cara de cachorro volta para sua casa, beija a mulher e [acaricia o filho pequeno. ,
+	      acarinhar: Entrou em casa, correu aos pequenos, e [acarinhou-os com tão estranha expressão, que a mãe desconfiou alguma cousa, e quis saber o que era.,
+	      afagar: Raimundo puxou-a carinhosamente para junto dele; [afagou-a, chamando-lhe a cabeça para seu peito.,
+	      agradar: I]Agradou o rapaz em público.,
+	      ameigar: Chegou-se para ela, [ameigou-a; estava arrependido de ter sido tão ríspido.,
+	      amimar: Cecília estava sentada num tapete de peles sobre a relva e [amimava ao seio a sua rolinha predileta.,
+	      bafejar: E dizendo estas palavras Guaraciaba lançava seus mimosos braços ao colo de Itajiba e o I]bafejava com seu amor.,
+	      cariciar: não respondeu nada, mas I]cariciou docemente o cabeça da menina.,
+	      cofiar: A aparição I]cofiou os finos e longos bigodes assentados à goma.,
+	      embalar1: Perguntas desse tipo certamente passaram pela mente de Maria enquanto I]embalava seu bebê recém-nascido.,
+	      mimar1: A moça queria roubar-lhe todos os segredos e por isso I]mimava o corpo dele e fazia ternuras no seu espírito.,
+	      mimosear: Entrementes, dançam unindo as testas, girando sobre si mesmos, I]mimoseando-se e coçando a cabeça um do outro.,
+	      paparicar: Jones se deleitou com o filhinho e I]paparicou sua esposa.,}
+	  A='Glosa62'
+	    {maltratar: Cá no meu modo de pensar, entendo que não [maltratem as coitadinhas, mas também é preciso não dar asas às formigas.,}
+Chave: ACARICIAR <verb.contact>
+ILI: 01188978
+
+Sense 1
+{01188978} <verb.contact> caress -- (touch or stroke lightly in a loving or endearing manner; "He caressed her face"; "They caressed in the back seat of the taxi")
+       => {01169634} <verb.contact> touch -- (make physical contact with, come in contact with; "Touch the stone for good luck"; "She never touched her husband")

@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA1431
+
+DADO O SYNSET:
+
+S='Glosa1431'
+{desimanar: x,
+ desimanizar: x,
+	 desimantar: Você saberia como I]desimantar um imã?,
+	 desmagnetizar: A força que um eletroímã pode aplicar em um corpo ferromagnético depende da facilidade com que o material do núcleo se magnetiza e [desmagnetiza.,}
+	  
+A='Glosa1432'
+{imantar, magnetizar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1431' = “tornar desmagnetizado; tirar as propriedades magnéticas [de]”
+{desimantar: Você saberia como I]desimantar um imã?,
+	 desmagnetizar: O componente anti-estático I]desmagnetiza o polímero e impede a atração de partículas de poeira.,}
+	  
+A='Glosa1432'
+{imantar, magnetizar}
+Chave: DESMAGNETIZAR <verb.change>
+ILI: 00387988
+
+Sense 2
+{00387988} <verb.change> demagnetize, demagnetise, degauss -- (make nonmagnetic; take away the magnetic properties (of); "demagnetize the iron shavings"; "they degaussed the ship")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

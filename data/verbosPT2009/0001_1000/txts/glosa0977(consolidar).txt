@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA0977
+
+DADO O SYNSET:
+
+S='Glosa977'
+{consolidar: Despejar o sobrenadante e ressuspender cada pellet em 50ml de glicerol 10% frio e estéril. depois, I]consolidar em uma garrafa.,
+solidar: O frio intenso H]solidou a água.,
+solidificar: Bolsões de fusão que [solidificam durante metamorfismo retrogressivo.,}
+A='Glosa3309'
+{coliquar, delir, derreter, dissolver, fundir1, liquefazer, liquescer, liquidificar, 	     liqüidificar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa977' = “formar em um todo ou massa sólida”
+{consolidar: Despejar o sobrenadante e ressuspender cada pellet em 50ml de glicerol 10% frio e estéril. depois, I]consolidar em uma garrafa.,
+solidar: O frio intenso H]solidou a água.,
+solidificar: Bolsões de fusão que [solidificam durante metamorfismo retrogressivo.}
+
+A='Glosa3309'
+{coliquar, delir, derreter, dissolver, fundir1, liquefazer, liquescer, liquidificar, 	     liqüidificar}
+Chave: CONSOLIDAR <verb.change>
+ILI: 00159760
+
+Sense 4
+{00159760} <verb.change> consolidate4 -- (form into a solid mass or whole; "The mud had consolidated overnight")
+       => {00432423} <verb.change> solidify -- (become solid; "The metal solidified when it cooled")
+           => {00135037} <verb.change> change integrity -- (change in physical make-up)
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

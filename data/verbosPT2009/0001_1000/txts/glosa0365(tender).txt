@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0365
+
+DADO O SYNSET:
+
+S='Glosa365'
+{carregar: x,
+pender: O ministro ainda [pende pela permanência no governo federal.,
+tender: O Markus [tende para a improvisação e eu tendo para composição.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa365' = “ter uma tendência ou disposição para fazer algo; estar inclinado”
+{pender: O ministro ainda [pende pela permanência no governo federal.,
+tender: O Markus [tende para a improvisação e eu tendo para composição.,}
+Chave: TENDER <verb.stative>
+ILI: 02639433
+
+Sense 1
+{02639433} <verb.stative> tend1, be given, lean1, incline1, run1 -- (have a tendency or disposition to do or be something; be inclined; "She tends to be nervous before her lectures"; "These dresses run small"; "He inclined to corpulence")
+       => {02526983} <verb.stative> be3 -- (have the quality of being; (copula, used with an adjective or a predicate noun); "John is rich"; "This is not a good answer")

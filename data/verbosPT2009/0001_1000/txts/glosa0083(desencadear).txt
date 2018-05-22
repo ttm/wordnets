@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0083
+
+DADO O SYNSET:
+
+S='Glosa83'
+{alevantar-se: Recentemente, I]alevantou-se, de forma incipiente, discussão sobre a forma de escolha dos Ministros do Supremo Tribunal Federal.,
+desencadear-se: Em vista disso, em 1929, [desencadeou-se uma crise no sistema capitalista, representada pela superprodução industrial e agrícola. ,
+levantar-se: Grande temporal ameaçava A]levantar-se.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa83' = “soltar ou dar vazão, como emoções ou reações” 
+{alevantar-se: Como um antídoto infalível I]alevanta-se iluminando ao norte o nosso grande ideal.,
+desencadear-se: Em vista disso, em 1929, [desencadeou-se uma crise no sistema capitalista, representada pela superprodução industrial e agrícola. ,}
+Chave: DESENCADEAR <verb.contact>
+ILI: 01433584
+
+Sense 1
+{01433584} <verb.contact> unleash -- (release or vent; "unleash one's anger")
+       => {01432719} <verb.contact> let go of, let go, release, relinquish2 -- (release, as from one's grip; "Let go of the door handle, please!"; "relinquish your grip on the rope--you won't fall")

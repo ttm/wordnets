@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0068
+
+DADO O SYNSET:
+
+S='Glosa68'
+{alongar-se: O intestino I]alonga-se em uma alça.,
+estender-se: O tecido nervoso é formado por células capazes de conduzir informações e [estende-se como uma rede de comunicações por todas as partes do corpo. ,
+estirar-se: É um componente de encurtamento oblíquo e na direção de cisalhamento causa dobras flambadas na foliação, que podem [estirar-se para tornar-se dobras oblíquas. ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa68' = “tonar(-se) maior sendo estendido ou puxado”
+{alongar-se: O intestino I]alonga-se em uma alça.,
+estender-se: Esta linha I]estende-se por sob a rede, de uma linha lateral até a outra. ,
+estirar-se: É um componente de encurtamento oblíquo e na direção de cisalhamento causa dobras flambadas na foliação, que podem [estirar-se para tornar-se dobras oblíquas. ,}
+Chave: ESTENDER-SE <verb.change>
+ILI: 00232930
+
+Sense 4
+{00232930} <verb.change> stretch -- (become longer by being stretched and pulled; "The fabric stretches")
+       => {00223119} <verb.change> grow -- (become larger, greater, or bigger; expand or gain; "The problem grew too large for me"; "Her business grew fast")
+           => {00150804} <verb.change> increase -- (become bigger or greater in amount; "The amount of work increased")
+               => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA4088
+
+DADO O SYNSET:
+
+S='Glosa4088'
+{perceber: No Colégio São Vicente de Paula, a professora de Português da quarta série, Kedma de Oliveira, [percebeu a tristeza e propôs que os alunos fizessem redações, ilustradas ou não .,
+pressentir: Ali eu já [pressentia o perigo .,
+pulsar: A platéia A]pulsou o constrangimento do orador. ,
+sentir: Com a mesma perspicácia, I]sentiu o valor da obra que acabara de ler e, sem relutância, firmou contrato com Júlio Verne.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4088' = “ficar ciente [de] não através dos sentidos, mas instintivamente”
+{perceber: No Colégio São Vicente de Paula, a professora de Português da quarta série, Kedma de Oliveira, [percebeu a tristeza e propôs que os alunos fizessem redações, ilustradas ou não .,
+pressentir: Ali eu já [pressentia o perigo .,
+pulsar: A platéia A]pulsou o constrangimento do orador. ,
+sentir: Com a mesma perspicácia, I]sentiu o valor da obra que acabara de ler e, sem relutância, firmou contrato com Júlio Verne.,}
+Chave: PERCEBER <verb.cognition>
+ILI: 00570729
+
+Sense 3
+{00570729} <verb.cognition> sense3 -- (become aware of not through the senses but instinctively; "I sense his hostility")
+       => {00572644} <verb.cognition> perceive -- (become conscious of; "She finally perceived the futility of her protest")
+           => {00572258} <verb.cognition> understand1, realize, realise, see1 -- (perceive (an idea or situation) mentally; "Now I see!"; "I just can't see your point"; "Does she realize how important this decision is?"; "I don't understand the idea")
+ 

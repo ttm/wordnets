@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA1696
+
+DADO O SYNSET:
+
+S='Glosa1696'
+{chocar2: Para [chocar os ovos, há no mercado chocadeiras de tamanho pequeno.,
+ empirrear: x,
+ empolhar: x,
+ incubar: Toda semana, nascem 30 mil codornas de um total de 40 mil ovos colocados para [incubar na Granja Preto Aves, em Cambé, município vizinho a Londrina, no norte do Paraná.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1696' = “sentar sobre ovos”
+{chocar2: O filme é muito “literário”: do verbete sobre a tela explicando o valor real e simbólico do título ao recurso de uma introdução em que camponeses sicilianos descobrem um corvo-macho [chocando ovos e passam da linchagem à sua soltura, transformando a ave numa espécie de narrador silencioso que costura os contos.,
+ incubar: Muitas aves I]incubam seus ovos durante o dia e a noite,. outras ficam apenas parte do dia.,}
+Chave: CHOCAR <verb.body>
+ILI: 00058159
+
+Sense 5
+{00058159} <verb.body> brood, hatch, cover2, incubate -- (sit on (eggs); "Birds brood"; "The female covers the eggs")
+       => {00053313} <verb.body> reproduce, procreate, multiply1 -- (have offspring or young; "The deer in our neighborhood reproduce madly"; "The Catholic Church tells people to procreate, no matter what their economic situation may be")
+           => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

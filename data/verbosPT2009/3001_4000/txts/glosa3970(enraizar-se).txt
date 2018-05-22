@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA3970
+
+DADO O SYNSET:
+	
+S='Glosa3970'
+    	{apegar: x,
+      	 arraigar-se: No espírito popular, I]arraigou-se a figura do judeu como símbolo da malvadez.,
+      	 arreigar-se: Por cada dia que passava, mais se I]arreigava na mente dos habitantes da cidade a ideia de que qualquer coisa havia corrido mal.,
+      	 enraizar-se: A amendoeira H]enraíza-se rapidamente.,
+      	 prender: A árvore M]prende na terra.,
+      	 radicar-se: M]Radicou-se no protestantismo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3970' = “criar raízes e começar a crescer”
+    	{arraigar-se: A Paspalum notatum vegeta bem e I]arraiga-se ao solo mediante o desenvolvimento e ramificação de rizomas supraterrâneos, formando uma pastagem bem “entrelaçada”.,
+      	 enraizar-se: Se os Gafanhotos conseguissem entrar no acampamento, entrariam pelo tronco da Árvore da Vida que I]enraíza-se no acampamento do Eufrates.,
+      	 prender: As árvores  evitam a erosão, pois suas raízes se I]prendem no solo.}
+Chave: ENRAIZAR-SE <verb.change>
+ILI: 00346906
+
+Sense 1
+{00346906} <verb.change> root -- (take root and begin to grow; "this plant roots quickly")
+       => {00223119} <verb.change> grow -- (become larger, greater, or bigger; expand or gain; "The problem grew too large for me"; "Her business grew fast")
+           => {00150804} <verb.change> increase -- (become bigger or greater in amount; "The amount of work increased")
+               => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

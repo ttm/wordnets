@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA0740
+
+DADO O SYNSET:
+
+S='Glosa740'
+{despachar: O relator é um juiz conhecido pela preocupação em [despachar com rapidez e pela forma incisiva como defende seus argumentos,
+resolver: Há disposição do governo de [resolver o assunto esta semana.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa740' = “realizar ou cumprir algum dever ou algo necessário”
+{despachar: O relator é um juiz conhecido pela preocupação em [despachar com rapidez e pela forma incisiva como defende seus argumentos,
+resolver: Há disposição do governo de [resolver o assunto esta semana.,}
+Chave: DESPACHAR <verb.social>
+ILI: 02487921
+
+Sense 2
+{02487921} <verb.social> dispatch, discharge, complete -- (complete or carry out; "discharge one's duties")
+       => {01594283} <verb.creation> carry through, accomplish, execute, carry out, action, fulfill, fulfil -- (put in effect; "carry out a task"; "execute the decision of the people"; "He actioned the operation")
+           => {00470712} <verb.change> complete2, finish2 -- (come or bring to a finish or an end; "He finished the dishes"; "She completed the requirements for her Master's Degree"; "The fastest runner finished the race in just over 2 hours; others finished in over 4 hours")
+               => {00341640} <verb.change> end1, terminate1 -- (bring to an end or halt; "She ended their friendship when she found out that he had once been convicted of a crime"; "The attack on Poland terminated the relatively peaceful period after WWI")
+                   => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")
+           => {01596269} <verb.creation> effect, effectuate, bring about, set up3 -- (produce; "The scientists set up a shockwave")
+               => {01598809} <verb.creation> cause, do2, make8 -- (give rise to; cause to happen or occur, not always intentionally; "cause a commotion"; "make a stir"; "cause an accident")
+                   => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

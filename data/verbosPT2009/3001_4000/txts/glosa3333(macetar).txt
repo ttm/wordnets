@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA3333
+
+DADO O SYNSET:
+
+S='Glosa3333'
+	    {
+	      macetar: O Junior conseguiu I]macetar o prego com apenas 1 martelada.,
+	      macetear: x,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3333' = “bater fortemente com a mão, punho ou instrumento pesado”
+	     {macetar: O Junior conseguiu I]macetar o prego com apenas 1 martelada.,}
+Chave: MACETAR <verb.contact>
+ILI: 01374037
+
+Sense 1
+{01374037} <verb.contact> thump, pound, poke2 -- (hit hard with the hand, fist, or some heavy instrument; "the salesman pounded the door knocker"; "a bible-thumping Southern Baptist")
+       => {01359510} <verb.contact> hit -- (deal a blow to, either with the hand or with an instrument; "He hit her hard in the face")
+           => {01169634} <verb.contact> touch -- (make physical contact with, come in contact with; "Touch the stone for good luck"; "She never touched her husband")

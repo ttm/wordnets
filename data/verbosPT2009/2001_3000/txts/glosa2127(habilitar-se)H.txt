@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA2127
+
+DADO O SYNSET:
+	
+S='Glosa2127'
+    	{adestrar-se: Lá I]adestrou-se em fisiologia e fisiopatologia pulmonares, trazendo para a EPM novas técnicas de investigação. ,
+      	 amaestrar-se: x,
+      	 amestrar-se: Aos sete anos de idade o pequeno já sabia matar passarinhos com seu bodoque, presente que lhe fizera o pai com expressa recomendação de I]amestrar-se em seu uso para que viesse a ser mais tarde um escopeteiro consumado.,
+      	 estudar: A começar pelo produtor Manny Monteiro, que morou 14 anos em Nova Iorque, [estudou no Instituto de Pesquisas Sonoras, instituição local, tocou bateria com figuras do naipe de David Sanborn e do mítico baixista Jaco Pastorious.,
+      	 exercitar-se: Falava, além do polonês, latim, italiano, francês, inglês e alemão. Mais tarde, como Papa, I]exercitou-se em vários outros idiomas, especialmente para suas viagens apostólicas.,
+      	 experienciar-se: x,
+      	 experimentar-se: x,
+      	 habilitar-se: Mas garantir o sustento apenas com a arte era uma tarefa difícil, por isso decidiu trabalhar com madeira e I]habilitou-se em marcenaria.,
+      	 instruir-se: Com diversos mestres ilustres de seu tempo, o jovem imperador I]instruiu-se em português e literatura, francês, inglês, alemão, geografia, ciências naturais.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2127' = “munir-se de conhecimentos precisos para qualquer fim”
+    	{adestrar-se: Os nobres cresciam [adestrando-se para serem armados cavaleiros.,
+      	 amestrar-se: Aos sete anos de idade o pequeno já sabia matar passarinhos com seu bodoque, presente que lhe fizera o pai com expressa recomendação de I]amestrar-se em seu uso para que viesse a ser mais tarde um escopeteiro consumado.,
+      	 estudar: Pode ser que eu tenha assistido a algum jogo muito, muito tempo atrás, quando ainda estava [estudando para ser carioca.,
+      	 exercitar-se: Com um estilo livre, Frears [exercita-se atualizando os mestres do cinema.,
+      	 habilitar-se: Concluiu os seus preparatórios, [habilitou-se a entrar para a Academia.,
+      	 instruir-se: Com diversos mestres ilustres de seu tempo, o jovem imperador I]instruiu-se em português e literatura, francês, inglês, alemão, geografia, ciências naturais.}
+Chave: HABILITAR-SE <verb.cognition>
+ILI: EQ_HAS_HYPERONYM – 00578275
+
+Sense 1
+{00578275} <verb.cognition> learn, larn, acquire -- (acquire or gain knowledge or skills; "She learned dancing from her sister"; "I learned Sanskrit"; "Children acquire language at an amazing rate")

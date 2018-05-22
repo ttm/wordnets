@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA1341
+
+DADO O SYNSET:
+
+S='Glosa1341'
+{engomar: Ela já [engoma os babados para o casamento de seus dois filhos, que mantêm o ar de realeza na família.,
+ gomar1: Vivia de lavar e I]gomar roupas para uma freguesia cativa,}
+	  
+A='Glosa1342'
+{desengomar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1341' = “engrossar com goma; alisar a roupa com ferro de engomar”
+{engomar: O caixão central foi recoberto por seda japonesa. Para impermeabilizá-la, Calassa, como Dumont, I]engomou-a com um grude à base de polvilho.,
+ gomar1: Sua mãe , além de cuidar de cinco filhos , lavava , passava e I]gomava roupa para fora.,}
+A='Glosa1342'
+{desengomar}
+Chave: ENGOMAR <verb.change>
+ILI: 00405741
+
+Sense 1
+{00405741} <verb.change> starch -- (stiffen with starch; "starch clothes")
+       => {00405481} <verb.change> stiffen1 -- (make stiff or stiffer; "Stiffen the cream by adding gelatine")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

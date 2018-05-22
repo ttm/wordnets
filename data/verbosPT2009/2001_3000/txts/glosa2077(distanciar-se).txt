@@ -1,0 +1,47 @@
+ANÁLISE DA GLOSA2077
+
+DADO O SYNSET:
+	
+S='Glosa2077'
+    	{ablegar-se: DEVIANT,
+      	 afastar-se: Como Sinha Vitória negou-lhe uma aposta no bozó, Fabiano I]afastou-se da família e foi beber pinga. ,
+      	 alongar-se: Há meses que se A]alongou de sua terra.  ,
+      	 alonginquar-se: x,
+      	 apartar-se: A sexta geração foi representada inicialmente pelos filhos de Gabriel, Geraldo e Rubens Junqueira de Andrade. O primeiro I]apartou-se do irmão, indo afazendar-se em São José do Rio Pardo, SP, onde comprou velha fazenda de café, transformando-a em pecuária.,
+      	 arredar-se: Mas a verdade é que, antes mesmo da nossa primeira contenda doméstica, quando éramos ainda um para o outro, só afagos e sorrisos, eu, apesar de amá-la muito, gostava já de vê-la I]arredar-se de mim por qualquer tempo. ,
+      	 desgrudar-se: Eles tinham um amigo em comum chamado Hillel Slovak que tocava guitarra e os três não se I]desgrudavam e faziam todas as peripécias de adolescentes juntos. ,
+      	 desligar-se: I]Desligar-se da família e do casarão correspondeu a desenraizar-se de sua natureza profunda e, por isso, sucumbindo às tentações o mundo.,
+      	 distanciar-se: Apesar de sua origem na ala esquerda do PT, Erundina [distanciou-se desse grupo ao assumir a Prefeitura de São Paulo.,
+      	 divorciar-se: A física reinava como modelo de ciência apontando um conjunto de procedimentos a serem seguidos por todas as demais, o que leva a química a I]divorciar-se da alquimia  e a medicina a expulsar de seu seio todos os representantes estranhos às pretensões científicas. # A cada passo, H]divorciava-se da fé.,
+      	 estremar-se: O sacerdote, pelo seu celibato, é homem solitário. Ele preparou-se para esta solidão, que deve ser plenitude interior e exterior de caridade, escolheu-a não para subtrair-se às responsabilidades comuns, não para I]estremar-se dos irmãos ou por desestima do mundo. ,
+      	 separar-se: Mas, ou fosse da índole dele, ou do meu caráter sacerdotal, vi desaparecer-lhe logo esse pequeno assomo; Félix sorriu e confessou que não podia [separar-se da mãe.,}
+  
+A='Glosa969'
+    	{aproximar-se, conjugar-se, ligar-se, relacionar-se, tocar-se, unir-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2077' = “afastar-se dos outros”
+    	{afastar-se: A saída dele era um modo de [afastar-se da pessoa amada.,
+      	 alongar-se: E o rebanho se atira e B]alonga.,
+      	 apartar-se: Gabriel I]apartou-se do irmão, indo afazendar-se em São José do Rio Pardo.,
+      	 arredar-se: Eu, apesar de amá-la muito, gostava já de vê-la I]arredar-se de mim por qualquer tempo.,
+      	 desgrudar-se: Eles tinham um amigo em comum chamado Hillel Slovak que tocava guitarra e os três não se I]desgrudavam e faziam todas as peripécias de adolescentes juntos.,
+      	 desligar-se: I]Desligar-se da família e do casarão correspondeu a desenraizar-se de sua natureza profunda e, por isso, sucumbindo às tentações o mundo.,
+      	 distanciar-se: Apesar de sua origem na ala esquerda do PT, Erundina [distanciou-se desse grupo ao assumir a Prefeitura de São Paulo.,
+      	 divorciar-se: Pelo jeito o piloto sabia da manobra dos japoneses, e assim ficou mais fácil I]divorciar-se dos italianos.,
+      	 estremar-se: O sacerdote  preparou-se para esta solidão, que deve ser plenitude interior e exterior de caridade, escolheu-a não para subtrair-se às responsabilidades comuns, não para I]estremar-se dos irmãos ou por desestima do mundo.,
+      	 separar-se: Félix sorriu e confessou que não podia [separar-se da mãe.,}
+  
+A='Glosa969'
+    	{aproximar-se, conjugar-se, ligar-se, relacionar-se, tocar-se, unir-se}
+Chave: DISTANCIAR-SE <verb.change>
+ILI: 00482597
+
+Sense 6
+{00482597} <verb.change> seclude, sequester, sequestrate1, withdraw -- (keep away from others; "He sequestered himself in his study to write a book")
+       => {00480883} <verb.change> isolate, insulate -- (place or set apart; "They isolated the political prisoners from the other inmates")
+           => {02437378} <verb.social> discriminate12, separate, single out -- (treat differently on the basis of sex or race)
+               => {00628816} <verb.cognition> distinguish, separate1, differentiate1, secern1, secernate, severalize, severalise, tell1, tell apart -- (mark as different; "We distinguish several kinds of maple")
+                   => {00598581} <verb.cognition> identify, place -- (recognize as being; establish the identity of someone or something; "She identified the man on the 'wanted' poster")
+                       => {00676553} <verb.cognition> determine1, set4 -- (fix conclusively or authoritatively; "set the rules")

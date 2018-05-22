@@ -1,0 +1,54 @@
+ANÁLISE DA GLOSA2280
+
+DADO O SYNSET:
+
+S='Glosa2280'
+	    {aquebrantar: Vencer, rasgando leis passadas, enfrentando trilhas falsas que confundem e levam a pesadelos, I]aquebrantando tabus para poder abrir o casulo da esperança.,
+	      contravir: Se a velocidade máxima numa estrada é fixada em 90 km horários, pode-se, com aparelhos, determinar com precisão quem I]contravém ou não à proibição.,
+	      desacatar: O ator resistiu à prisão e [desacatou as autoridades anteontem.,
+	      desconjurar: I]Desconjurou o dono do bar, ameaçando multá-lo por ofensas morais. ,
+	      descumprir: Se Brasil [descumprir renegociação, terá que pagar aos credores US$ 23,8 bi.,
+	      desobedecer: Em 1990, porque [desobedeceu as normas islâmicas de uso do hejab (véu), ela foi demitida da universidade.,
+	      desrespeitar: Segundo o relator, o Supremo tem competência para julgar atos que [desrespeitam as normas legais. ,
+	      infringir: Para o deputado, Diniz [infringiu o Código do Consumidor.,
+	      ofender: A instituição de hipoteca judiciária sobre imóvel residencial de casal ou de entidade familiar [ofende o princípio da impenhorabilidade.,
+	      postergar: Não era só meu nome que I]postergava o direito de antiguidade.,
+	      profanar: Em cada uma delas o homem I]profanava a memória viva das grandes descobertas.,
+	      quebrantar: Em nenhum momento I]quebrantou a vontade daqueles que efetivamente queriam construir um saber universitário.,
+	      quebrar: [Quebrou o princípio da anualidade previsto nas regras do Plano Real.,
+	      romper: Diretor [rompe silêncio, diz que tem encontro com Boni e analisa sua nova atividade.,
+	      transgredir: Estamos plenamente convencidos de que uma pessoa que [transgrediu a lei não pode ser o chefe da nação.,
+	      transpassar: Neste tipo de ataque, a estação fonte especifica a rota que um pacote deve tomar através da internet. Ele é projetado para I]transpassar as medidas de segurança e causar que um pacote siga um caminho inesperado à partir da sua destinação.,
+	      traspassar: No Direito Administrativo jamais se poderá I]traspassar o uso e gozo do bem público com as características da locação civil, porque implicaria renúncia de poderes irrenunciáveis da Administração.,
+	      trespassar: O Estado ou seus delegados não podem I]trespassar semelhante noção ao qualificar um bem para fins expropiatórios.,
+	      violar: Marco Aurélio defendeu a tese de que o STF também deveria julgar se a presidência da Câmara [violou o regimento interno da casa.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2280' = “atuar desrespeitando leis e regras”
+	    {aquebrantar: Vencer I]aquebrantando tabus para poder abrir o casulo da esperança.,
+	      contravir: Se a velocidade máxima numa estrada é fixada em 90 km, pode-se, com aparelhos, determinar quem I]contravém à proibição.,
+	      desacatar: A prefeitura mais uma vez I]desacatou a lei.,
+	      desconjurar: O pessoal I]desconjurou nosso esporte. ,
+	      descumprir: Se Brasil [descumprir renegociação, terá que pagar aos credores US$ 23,8 bi.,
+	      desobedecer: Porque [desobedeceu as normas islâmicas de uso do hejab (véu), ela foi demitida da universidade.,
+	      desrespeitar: O Supremo tem competência para julgar atos que [desrespeitam as normas legais. ,
+	      infringir: Diniz [infringiu o Código do Consumidor.,
+	      ofender: A instituição de hipoteca judiciária sobre imóvel residencial de casal ou de entidade familiar [ofende o princípio da impenhorabilidade.,
+	      postergar: O condutor da  viatura policial militar I]postergou normas estabelecidas pelo Código Brasileiro de Trânsito.,
+	      quebrantar: Adão I]quebrantou a ordenança divina.,
+	      quebrar: O ator Russell Crowe I]quebrou uma lei anti-tabagista em seu próprio país.,
+	      romper: Súbito, um súdito I]rompeu a lei estabelecida, lendo o exemplar 666 do Tio Patinhas.,
+	      transgredir: Estamos plenamente convencidos de que uma pessoa que [transgrediu a lei não pode ser o chefe da nação.,
+	      transpassar: A perspectiva ética I]transpassou todas as categorias.,
+	      trespassar: Não é por nada que alguém que I]trespassou certos limites prescritos pela sociedade  recebe como castigo a perca da sua liberdade.,
+	      violar: Marco Aurélio defendeu a tese de que o STF também deveria julgar se a presidência da Câmara [violou o regimento interno da casa.,}
+Chave: INFRINGIR <verb.social>
+ILI: 02490637
+
+Sense 2
+{02490637} <verb.social> transgress, offend, infract, violate, go against, breach, break -- (act in disregard of laws and rules; "offend all laws of humanity"; "violate the basic laws or human civilization"; "break a law")
+       => {02383832} <verb.social> disrespect -- (show a lack of respect for)
+           => {02384110} <verb.social> relate -- (have or establish a relationship to; "She relates well to her peers")
+               => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

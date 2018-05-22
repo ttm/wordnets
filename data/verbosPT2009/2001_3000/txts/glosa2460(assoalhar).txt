@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA2460
+
+DADO O SYNSET:
+
+S='Glosa2460'
+	    {assoalhar: Mando I]assoalhar a paróquia de São Pedro de Limpias, custeando a decoração do altar mor e seu esplendor, colocando nele três imagens: a de Nosso Redentor agonizando na Cruz, a de Sua Mãe Santíssima e a do Evangelista São João.,
+	      entabuar: Este pequeno veleiro, totalmente construído em madeira, é uma ótima opção para iniciar o nautimodelismo, construído pelo método de seções, você aprendera a I]entabuar o costado, sem imitações de folhinhas de madeira.,
+	      entabular: x,
+	      soalhar: O madeiramento que I]soalhava o chão tinha riscos discretos, sem comprometer a estética original.,
+	      solhar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2460' = “cobrir com assoalho”
+	    {assoalhar: Colocou o novo tabernáculo e as novas banquetas no altar-mor e retirou as lajes das sepulturas da Igreja e I]assoalhou-a com madeira.,
+	      entabuar: Você aprenderá a I]entabuar o costado, sem imitações de folhinhas de madeira.,
+	      soalhar: O madeiramento que I]soalhava o chão tinha riscos discretos, sem comprometer a estética original.,}
+
+Chave: ASSOALHAR <verb.contact>
+ILI: EQ_HAS_HYPRONYM - 01293336
+
+{01293336} <verb.contact> cover -- (provide with a covering or cause to be covered; "cover her face with a handkerchief"; "cover the child with a blanket"; "cover the grave with flowers")

@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA3492
+
+DADO O SYNSET:
+
+S='Glosa3492'
+	    {
+	      agitar: Ele faz questão de [agitar a bandeira do arco-íris, símbolo do movimento gay,
+	      mexer: Tomei uma porretada de um policial nas costas e no braço, não consigo [mexer a mão/Fico com a musculatura tensa e preciso andar um pouco pelo escritório e [mexer o corpo para relaxar um pouco,
+	      mobilizar: ...]mobilizar este músculo/...preciso ]mobilizar o acidentado/...]mobilizar a energia,
+	      mover: As células especializadas para [mover o animal ou partes do animal são as musculares/Não achei que dizer; tentei [mover os beiços, mas não tinha palavra,
+	      movimentar: Todos sabemos o que significa fazer força ou empregá-la para [movimentar ou parar um corpo/Já consigo [movimentar o pé bem melhor,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3492' = “movimentar para mudar de posição, executar uma ação não uniforme”
+	    {agitar: A rolinha que dormia sobre a cômoda no seu ninho de algodão ergueu-se e [agitou as asas,
+	      mexer: Tomei uma porretada de um policial nas costas e no braço, não consigo [mexer a mão/Fico com a musculatura tensa e preciso andar um pouco pelo escritório e [mexer o corpo para relaxar um pouco,
+	      mobilizar: Ele I]mobilizou a coluna e as articulações costais, aliviando a sua dor,
+	      mover: Peri não se [moveu,
+	      movimentar: O primeiro-ministro I]movimentou o braço direito e a perna de forma mais vigorosa que ontem, e hoje também movimentou o braço esquerdo,}
+Chave: MOVER <verb.motion>
+ILI: 01778173
+
+Sense 3
+{01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right")
+          Also See-> {01794921} <verb.motion> move over#1

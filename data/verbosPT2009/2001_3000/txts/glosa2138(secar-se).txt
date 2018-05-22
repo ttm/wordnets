@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2138
+
+DADO O SYNSET:
+
+S='Glosa2138'
+	    {exsicar-se: Baixam as águas e nota-se que o terreno cresceu; e alteia-se de cheia em cheia, aprumando-se as "barreiras" altas, I]exsicando-se os pantanais e "igapós".,
+	      ressecar-se: Ao impedir que a umidade atinja o subsolo, ele tende a I]ressecar-se mais rapidamente.,
+	      ressequir-se: x,
+	      ressicar-se: x,
+	      secar-se: I]Secou-se a erva, e caiu a sua flor.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2138' = “tonar-se seco, sem humidade ou sem  água”
+	    {exsicar-se: Baixam as águas e nota-se que o terreno cresceu; e alteia-se de cheia em cheia, aprumando-se as "barreiras" altas, I]exsicando-se os pantanais e "igapós".,
+	      ressecar-se: Ao impedir que a umidade atinja o subsolo, ele tende a I]ressecar-se mais rapidamente.,
+	      secar-se: Continuei olhando e vi muitos rios I]se secando.,}
+
+Chave: SECAR-SE <verb.change>
+ILI: 00211934
+
+Sense 2
+{00211934} <verb.change> dry, dry out -- (become dry or drier; "The laundry dries in the sun")
+       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

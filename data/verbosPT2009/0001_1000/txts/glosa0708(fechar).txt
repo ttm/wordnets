@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0708
+
+DADO O SYNSET:
+
+S='Glosa708'
+{adensar: A sala clareou de jacto ea luz forte do gás, esbatendo-se no jardim, como que ainda mais lhe I]adensou as sombras crepusculares.,
+cerrar: H]Cerrou o céu.,
+fechar: Ontem, após uma manhã quente e ensolarada, o tempo [fechou, quando o treino oficial já tinha terminado.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa708' = “escurecer o tempo ou ficar escuro”
+{adensar: A sala clareou de jacto e a luz forte do gás, esbatendo-se no jardim, como que ainda mais lhe I]adensou as sombras crepusculares.,
+fechar: Ontem, após uma manhã quente e ensolarada, o tempo [fechou, quando o treino oficial já tinha terminado.,}
+Chave: FECHAR <verb.change>
+ILI: 00302508
+
+Sense 1
+{00302508} <verb.change> darken -- (become dark or darker; "The sky darkened")
+       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

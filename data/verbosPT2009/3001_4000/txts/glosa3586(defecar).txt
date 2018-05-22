@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA3586
+
+DADO O SYNSET:
+
+S='Glosa3586'
+	    {
+	      defecar: Ele urinou e [defecou e suas fezes caíram no chão.,
+	      dejetar: O pato I]dejetava liquidamente ali.,
+	      estercar: Nesta época, pasto com broto faz o boi I]estercar mole.,
+	      estrabar: x,
+	      estravar: x,
+	      evacuar: A criança passa a [evacuar menos, mas a infecção intestinal não está controlada.,
+	      laxar: M]Laxar o ventre.,
+	      obrar: Dona Amélia, essa criança vai I]obrar verde.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3586' = “ter um movimento intestinal”
+	     {defecar: Ele urinou e [defecou e suas fezes caíram no chão.,
+	      dejetar: O pato I]dejetava liquidamente ali.,
+	      estercar: Nesta época, pasto com broto faz o boi I]estercar mole.,
+	      evacuar: A criança passa a [evacuar menos, mas a infecção intestinal não está controlada.,
+	      laxar: M]Laxar o ventre.,
+	      obrar: Dona Amélia, essa criança vai I]obrar verde.,}
+Chave: DEFECAR <verb.body>
+ILI: 00071830	
+
+Sense 1
+{00071830} <verb.body> stool, defecate, shit, take a shit, take a crap, ca-ca, crap, make -- (have a bowel movement; "The dog had made in the flower beds")
+       => {00070835} <verb.body> excrete, egest, eliminate, pass -- (eliminate from the body; "Pass a kidney stone")
+           => {00102093} <verb.body> discharge, expel, eject, release1 -- (eliminate (substances) from the body)

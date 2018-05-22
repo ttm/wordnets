@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA1556
+
+DADO O SYNSET:
+
+S='Glosa1556'
+{descruzar: Fulana agora está com a mania de cruzar e I]descruzar as pernas sem parar.,
+ desencruzar: x,
+ destraçar: Depois A]destraçou as pernas, passou a esquerda para cima da direita.,}
+	  
+A='Glosa2269'
+{cruzar, traçar1, trocar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1556' = “mudar de uma posição cruzada para uma descruzada”
+{descruzar: Fulana agora está com a mania de cruzar e I]descruzar as pernas sem parar.,}
+	  
+A='Glosa2269'
+{cruzar, traçar1, trocar}
+Chave: DESCRUZAR <verb.motion>
+ILI: 01858980
+
+Sense 1
+{01858980} <verb.motion> uncross -- (change from a crossed to an uncrossed position; "She uncrossed her legs")
+       => {01536067} <verb.contact> unfold, spread3, spread out3, open8 -- (spread out or open from a closed or folded state; "open the map"; "spread your arms")
+           => {01477750} <verb.contact> undo -- (cancel, annul, or reverse an action or its effect; "I wish I could undo my actions")
+               => {00133458} <verb.change> change by reversal, turn, reverse -- (change to the contrary; "The trend was reversed"; "the tides turned against him"; "public opinion turned when it was revealed that the president had an affair with a White House intern")
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

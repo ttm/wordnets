@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA0106
+
+DADO O SYNSET:
+
+S='Glosa106'
+{manear: O Sr. Adelino ao I]manear um animal, este lhe deu um coice, derrubando-o de seu banquinho por cima do esterco.,
+manejar: Ensina como instalar e I]manejar o plantio de hortaliças.,
+manusear: Contratar um florista profissional capacitado para criar arranjos e I]manusear as flores é importante para quem não tem experiência no setor. ,
+menear: Orvile Derby M]meneou todos os mapas antigos.,
+tratar: M]Tratemos estes volumes com mais cuidado.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa106' = “lidar ou manejar alguma coisa efetivamente”
+{manear: O Sr. Adelino ao I]manear um animal, este lhe deu um coice, derrubando-o de seu banquinho por cima do esterco.,
+manejar: Ensina como instalar e I]manejar o plantio de hortaliças.,
+manusear: Contratar um florista profissional capacitado para criar arranjos e I]manusear as flores é importante para quem não tem experiência no setor. ,
+tratar: Não te aconselho a comprar violões usados. Sabe-se lá como o dono anterior I]tratou o violão.,}
+Chave: MANUSEAR <verb.contact>
+ILI: 01187393
+
+Sense 2
+{01187393} <verb.contact> wield, handle1 -- (handle effectively; "The burglar wielded an axe")
+       => {01174946} <verb.contact> manipulate -- (hold something in one's hands and move it)
+           => {01173984} <verb.contact> handle, palm -- (touch, lift, or hold with the hands; "Don't handle the merchandise")
+               => {01169634} <verb.contact> touch -- (make physical contact with, come in contact with; "Touch the stone for good luck"; "She never touched her husband")

@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA3350
+
+DADO O SYNSET:
+
+S='Glosa3350'
+	    {
+	      abusar: Ela é o preço pago pelos poderes que [abusam de suas prerrogativas e tentam nos impingir mais do que estamos dispostos a aceitar. ,
+	      mal-usar: O Poder Judiciário tem punido administradores públicos que I]mal-usam os recursos do governo.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3350' = “mudar o propósito inerente ou a função”
+	     {abusar: Usa e [abusa de aliterações, paronomásias e jogos de palavras. ,
+	      mal-usar: O Poder Judiciário tem punido administradores públicos que I]mal-usam os recursos do governo.,}
+Chave: ABUSAR <verb.change>
+ILI: 00196176
+
+Sense 2
+{00196176} <verb.change> pervert, misuse, abuse -- (change the inherent purpose or function of something; "Don't abuse the system"; "The director of the factory misused the funds intended for the health care of his workers")
+       => {01122820} <verb.consumption> use, expend -- (use up, consume fully; "The legislature expended its time on school questions")

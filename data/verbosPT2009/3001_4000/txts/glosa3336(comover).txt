@@ -1,0 +1,45 @@
+ANÁLISE DA GLOSA3336
+
+DADO O SYNSET:
+
+S='Glosa3336'
+	    {
+	      abrandar: I]Abrandar o coração para com os seus antagonistas.,
+	      amaciar: As coisas mais simples e singelas, que podem I]amaciar o nosso coração, só serão descobertas com uma parada no corre-corre diário.,
+	      amolecer: Em Central, reina Fernanda Montenegro, que brilha das cenas iniciais ao inesquecível final, capaz de I]amolecer o coração do mais insensível dos homens.,
+	      brandear: Seu temperamento H]brandeou com a idade.,
+	      comover: Súplicas acabaram A]comovendo o pai.,
+	      degelar: Teve que H]degelar o espírito para fazer as pazes com o irmão.,
+	      derreter: Estas cenas já não I]derretem mais os corações dos motoristas.,
+	      desempedernecer: x,
+	      desempedernir: Seus rogos acabaram A]desempedernindo o coração paterno.,
+	      desencruar: Deus os M]desencrue.,
+	      embrandecer: O sorriso do guri I]embrandeceu aquele duro coração.,
+	      enternecer: O que me I]enterneceu foi pensar que alguém, um fotógrago, um artista, persiga essa forma de fazer arte.,
+	      maciar: x,
+	      render: O sofrimento A]rende até os mais duros de coração.,
+	      sensibilizar: Eu percebi que há uma violência industrial, que nem te [sensibiliza.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3336' = “afetar emocionalmente”
+	     {abrandar: A alteração I]abrandou o controle administrativo ao transformar uma conduta antes tipificada como gravíssima em infração grave.,
+	      amaciar: Nem mesmo o fato de Evandro Rogério Roman ter bons antecedentes I]amaciou o coração de Leão.,
+	      amolecer: O desemprego I]amoleceu a resistência dos sindicatos à flexibilização legal (e informal) dos contratos de trabalho.,
+	      brandear: Seu temperamento H]brandeou com a idade.,
+	      comover: O depoimento de Júlio César Castro de Oliveira I]comoveu o diretor da Koralle, empresa parceira que lhe ofereceu bolsa de estudos.,
+	      degelar: Teve que H]degelar o espírito para fazer as pazes com o irmão.,
+	      derreter: A inesperada sessão musical I]derreteu o sisudo Amaral Jr.,
+	      desempedernir: Seus rogos acabaram A]desempedernindo o coração paterno.,
+	      desencruar: Deus os M]desencrue.,
+	      embrandecer: O sorriso do guri I]embrandeceu aquele duro coração.,
+	      enternecer: A cena I]enterneceu o homem e o fez juntar-se aos três.,
+	      render: O sofrimento A]rende até os mais duros de coração.,
+	      sensibilizar: O esforço [sensibilizou alguns eleitores.,}
+Chave: COMOVER <verb.emotion>
+ILI: 01719747
+
+Sense 3
+{01719747} <verb.emotion> touch, stir -- (affect emotionally; "A stirring movie"; "I was touched by your kind letter of sympathy")
+       => {01716999} <verb.emotion> affect, impress1, move, strike -- (have an emotional or cognitive impact upon; "This child impressed me as unusually mature"; "This behavior struck me as odd")

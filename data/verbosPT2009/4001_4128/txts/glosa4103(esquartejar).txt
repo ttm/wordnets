@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA4103
+
+DADO O SYNSET:
+
+S='Glosa4103'
+{espostejar: Cansou de H]esquartejar inimigos.,
+esquartejar: Matou e I]esquartejou o corpo do pai.,
+quartejar: x,
+retalhar: Ele foi um monarquista que I]retalhou centenas de inimigos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4103' = “separar com violência (uma pessoa) através de quatro cavalos amarrados a suas extremidades, para que a execute”
+{espostejar: Cansou de H]espostejar inimigos.,
+esquartejar: Matou e I]esquartejou o corpo do pai.,
+retalhar: Ele foi um monarquista que I]retalhou centenas de inimigos.,}
+Chave: ESQUARTEJAR <verb.contact>
+ILI: 02409277
+
+Sense 2
+{02409277} <verb.social> draw13, quarter, draw and quarter -- (pull (a person) apart with four horses tied to his extremities, so as to execute him; "in the old days, people were drawn and quartered for certain crimes")
+       => {01284688} <verb.contact> kill -- (cause to die; put to death, usually intentionally or knowingly; "This man killed several people when he tried to rob a bank"; "The farmer killed a pig for the holidays")
+

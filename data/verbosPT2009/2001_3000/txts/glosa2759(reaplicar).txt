@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA2759
+
+DADO O SYNSET:
+
+S='Glosa2759'
+	    {reaplicar: Ainda é muito vantajoso [reaplicar o dinheiro com os juros pagos no Brasil.,
+	      reempregar: As populações empregam técnicas inadequadas e degradam regiões, migram para outras e [reempregam as mesmas técnicas.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2759' = “Colocar em serviço, colocar em uso (alguma coisa) para um propósito particular ou para seu propósito inerente ou natural”
+	    {reaplicar: Os ganhos vão para os fundos, que I]reaplicam os recursos na compra de mais ações.,
+	      reempregar: As populações empregam técnicas inadequadas e degradam regiões, migram para outras e [reempregam as mesmas técnicas.,}
+
+Chave: REAPLICAR <verb.consumption>
+ILI: EQ_HAS_HYPERONYM - 01123102
+
+Sense 1
+{01123102} <verb.consumption> use1, utilize, utilise, apply, employ -- (put into service; make work or employ (something) for a particular purpose or for its inherent or natural purpose; "use your head!"; "we only use Spanish at home"; "I can't make use of this tool"; "Apply a magnetic field here"; "This thinking was applied to many projects"; "How do you utilize this tool?"; "I apply this rule to get good results"; "use the plastic bags to store the food"; "He doesn't know how to use a computer") 

@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA1267
+
+DADO O SYNSET:
+
+S='Glosa1267'
+{desembebedar-se: H]Desembebedou-se após 12 horas de sono,
+ desemborrachar-se: x,
+ desembriagar-se: x,}
+
+A='Glosa3429'
+	    {afogar-se, alcoolizar-se, alegrar-se, avinhar-se, embebedar-se, embriagar-se, encharcar-se, enfrascar-se, inebriar-se, toldar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1267' = “ficar sóbrio após consumo excessivo de álcool”
+{desembriagar-se: Logo vou me I]desembriagar.,}
+A='Glosa3429'
+	    {afogar-se, alcoolizar-se, alegrar-se, avinhar-se, embebedar-se, embriagar-se, encharcar-se, enfrascar-se, inebriar-se, toldar-se}
+Chave: DESEMBRIAGAR-SE <verb.change>
+ILI: 00143564
+
+Sense 1
+{00143564} <verb.change> sober up, sober -- (become sober after excessive alcohol consumption; "Keep him in bed until he sobers up")
+       => {00144029} <verb.change> become, go4, get -- (enter or assume a certain state or condition; "He became annoyed when he heard the bad news"; "It must be getting more serious"; "her face went red with anger"; "She went into ecstasy"; "Get going!")
+           => {00140715} <verb.change> change state, turn4 -- (undergo a transformation or a change of position or action; "We turned from Socialism to Capitalism"; "The people turned against the President when he stole the election")
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

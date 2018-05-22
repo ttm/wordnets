@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2007
+
+DADO O SYNSET:
+	
+S='Glosa2007'
+    	{desfazer: Outra vez o sol I]desfez o enxoval da cerração.,
+      	 dispersar: O Sol I]dispersou as nuvens.,
+      	 dissipar: Passando a noite em contínuo alarme, logo que o sol I]dissipou a cerração e não ocorreu novidade, mandei recolher as sentinelas.,
+      	 esfazer: x,
+      	 espancar: É noite. O fogo flameja / No rancho, A]espancando a treva.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2007' = “fazer [algo] ficar separado, disperso”
+    	{desfazer: Outra vez o sol I]desfez o enxoval da cerração.,
+      	 dispersar: O Sol I]dispersou as nuvens.,
+      	 dissipar: Passando a noite em contínuo alarme, logo que o sol I]dissipou a cerração e não ocorreu novidade, mandei recolher as sentinelas.,
+      	 espancar: E uma nova luz espancou do horizonte as trevas que nos confrangiam o espírito.}
+Chave: DISPERSAR <verb.change>
+ILI: 00320230
+
+Sense 4
+{00320230} <verb.change> break up4, disperse, scatter -- (cause to separate; "break up kidney stones"; "disperse particles")
+       => {00320416} <verb.change> backscatter -- (scatter (radiation) by the atoms of the medium through which it passes)

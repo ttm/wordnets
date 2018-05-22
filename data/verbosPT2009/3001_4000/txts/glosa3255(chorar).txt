@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA3255
+
+DADO O SYNSET:
+
+S='Glosa3255'
+	    {
+	      chorar: E desatou a [chorar mais forte ainda, desorientada, apaixonadamente.,
+	      estilar1: M]Estilou muitas lágrimas.,
+	      lacrimar: Sei, não é momento, mas tento não I]lacrimar.,
+	      lagrimar: Ao vê-la I]lagrimar, me senti a pior criatura do universo.,
+	      prantear: E quando o povo ouviu esta má notícia, pôs-se a I]prantear, e nenhum deles vestiu os seus atavios.,
+	      soluçar: A dor era comunicativa em si mesma complicada da lembrança de minha mãe, doeu-me mais, e, quando enfim pensei em Capitu, senti um ímpeto de [soluçar também.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3255' = “emitir lágrimas por tristeza, raiva ou dor”
+	     {chorar: O jogador [chorou muito e ontem continuava arrasado.,
+	      estilar1: M]Estilou muitas lágrimas.,
+	      lacrimar: Seus olhinhos negros, manhosos I]lacrimavam com as quedas e astúcia de menina levada.,
+	      lagrimar: A menina I]lagrimou em ver aquele olhar lúgubre e desvanecido.,
+	      prantear: Esmeralda I]pranteou a morte de Dorotéia Cabral (Ah minha mãe, minha mãe! dizia) até cair de cansaço nos braços de Nicolau.,
+	      soluçar: Do outro lado uma voz chorosa I]soluçava.,}
+Chave: CHORAR <verb.body>
+ILI: 00064020
+
+Sense 1
+{00064020} <verb.body> cry, weep -- (shed tears because of sadness, rage, or pain; "She cried bitterly when she heard the news of his death"; "The girl in the wheelchair wept with frustration when she could not get up the stairs")
+       => {01750193} <verb.emotion> express emotion, express feelings -- (give verbal or other expression to one's feelings)

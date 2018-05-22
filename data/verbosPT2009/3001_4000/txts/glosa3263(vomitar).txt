@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA3263
+
+DADO O SYNSET:
+
+S='Glosa3263'
+	    {
+	      abolçar: x,
+	      arrevesar: As folhas são muito estimadas para quem I]arrevesa, passa mal e não póde ter o que come, untando o estômago com óleo.,
+	      arrevessar: Ia de novo ganhar a saída, mas soltou um gemido surdo e caiu no chão sem força, I]arrevessando uma golfada de sangue .,
+	      bolçar: H]Bolçava todo o alimento ingerido.,
+	      desengolir: Durante semanas H]desengolia diariamente a alimentação.,
+	      lançar: Mal acabara de comer, M]lançou.,
+	      regurgitar: Ela I]regurgitava aqui e ali, até que caísse aos seus pés, de onde partia submissa e lúcida.,
+	      rejeitar1: O estômago I]rejeitava tudo.,
+	      reversar: x,
+	      revessar: x,
+	      vomitar: Todos os dias, às seis da tarde, após mais uma jornada de trabalho, ele saía do estúdio em seu carro, estacionava numa esquina, punha a cabeca pra fora da janela e [vomitava.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3263' = “expelir conteúdos do estomago pela boca”
+	     {bolçar: Ela sempre I]bolçou muito e com um mês de idade o pediatra suspeitou de uma estenose do piloro.,
+	      desengolir: Durante semanas H]desengolia diariamente a alimentação.,
+	      regurgitar: Num forte espasmo, Roberto I]regurgitou seu inacabado almoço, sujando-se todo.,
+	      rejeitar1: O estômago I]rejeitava tudo.,
+	      vomitar: Ele I]vomitou tudo ali pros peixes, lá no trapiche de uma cidade litorânea qualquer.,}
+Chave: VOMITAR <verb.body>
+ILI: EQ_NEAR_SYNONYM - 00074101
+
+Sense 1
+{00074101} <verb.body> vomit, vomit up, purge4, cast, sick, cat, be sick1, disgorge, regorge, retch, puke, barf, spew, spue, chuck, upchuck, honk, regurgitate, throw up -- (eject the contents of the stomach through the mouth; "After drinking too much, the students vomited"; "He purged continuously"; "The patient regurgitated the food we gave him last night")
+       => {00070835} <verb.body> excrete, egest, eliminate, pass -- (eliminate from the body; "Pass a kidney stone")
+           => {00102093} <verb.body> discharge, expel, eject, release1 -- (eliminate (substances) from the body)

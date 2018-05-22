@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0719
+
+DADO O SYNSET:
+
+S='Glosa719'
+{amodernar-se: Os idosos H]amodernam-se em contato com os jovens,
+amodernizar-se: x,
+atualizar-se: A idéia do Prodenge é criar uma rede de conhecimentos - por via satélite, Internet e multimídia - que permita aos engenheiros de todas as regiões brasileiras [se atualizarem constantemente,
+modernar-se: x,
+modernizar-se: Ladeira também defendeu os supermercados, alegando que as redes [se modernizaram, cortaram custos e, por isso, podem vender produtos mais baratos,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa719' = “tornar (-se) tecnologicamente avançado”
+{atualizar-se: A idéia do Prodenge é criar uma rede de conhecimentos - por via satélite, Internet e multimídia - que permita aos engenheiros de todas as regiões brasileiras [se atualizarem constantemente,
+modernizar-se: Ladeira também defendeu os supermercados, alegando que as redes [se modernizaram, cortaram custos e, por isso, podem vender produtos mais baratos,}
+Chave: MODERNIZAR-SE <verb.change>
+ILI: 00398930
+
+Sense 2
+{00398930} <verb.change> modernize2, modernise2, develop9 -- (become technologically advanced; "Many countries in Asia are now developing at a very fast pace"; "Viet Nam is modernizing rapidly")
+       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

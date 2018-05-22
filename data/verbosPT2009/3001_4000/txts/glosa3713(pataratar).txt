@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA3713
+
+DADO O SYNSET:
+
+S='Glosa3713'
+	{pataratar: Regressou do Coliseu como que em estado de graça, extasiado pelos dotes de super comunicador do Engenheiro, coisa que o fez I]pataratar de tal jeito e com tal despropósito que só lido, contado ninguém acredita. ,
+	 pataratear: H]Pataratear sucesso e fortuna. }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3713' = “gababar-se”
+	{pataratar: Regressou do Coliseu como que em estado de graça, extasiado pelos dotes de super comunicador do Engenheiro, coisa que o fez I]pataratar de tal jeito e com tal despropósito que só lido, contado ninguém acredita.,
+	 pataratear: H]Pataratear sucesso e fortuna. }
+Chave: PATARATAR <verb.communication>
+ILI: 00853748
+
+Sense 1
+{00853748} <verb.communication> boast, tout, swash, shoot a line, brag, gas, blow3, bluster, vaunt, gasconade -- (show off)
+       => {00812495} <verb.communication> overstate, exaggerate, overdraw, hyperbolize, hyerbolise, magnify, amplify -- (to enlarge beyond bounds or the truth; "tended to romanticize and exaggerate this `gracious Old South' imagery")
+           => {00806775} <verb.communication> misinform, mislead -- (give false or misleading information to)
+               => {00804489} <verb.communication> inform -- (impart knowledge of some fact, state or affairs, or event to; "I informed him of his rights")
+                   => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                       => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                           => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA2809
+
+DADO O SYNSET:
+
+S='Glosa2809'
+	    {desarticular: A sua destreza cirúrgia era reconhecida: ele poderia remover um menisco inteiro em cinco minutos e I]desarticular um quadril em dez minutos.,
+	      descanhotar: Na queda, A]descanhotou o pulso.,
+	      desconjuntar: Chegando à portaria não houve forças humanas que a contivessem. Os ferrolhos cederam ao impulso duma fraca mulher, forte da sua desesperação; e esta virgem, com hábitos de noviça, e bela, na sua agonia, como um corpo epiléptico que se levanta amortalhado do esquife, corria por entre as multidões que principiavam a aglomerar-se para testemunharem o I]desconjuntar dos ossos do pescoço dum padecente entre as mãos do carrasco, seu irmão, ambos filhos do mesmo Deus, ambos remidos pelo sangue do mesmo Cristo.  ,
+	      deslocar: Bom, a trombada foi tão violenta que I]deslocou meu nariz.,
+	      desmentir: A]desmentir um dedo.,
+	      desnocar: H]Desnocar o pé.,
+	      destroncar: O homem, quando acontece a fratura, escuta habitualmente um "clec" seco como o I]destroncar de um dedo.,
+	      esnocar: x,
+	      estroncar: x,
+	      exarticular: x,
+	      luxar: Se você I]luxar o seu cotovelo, sentirá uma dor intensa e não será capaz de mover esta junta, que parecerá deformada e começará a inchar.,
+	      recalcar: Com a queda, A]recalcou a perna.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2809' = “Mover para fora da posição correta”
+	    {desarticular: Aos cinco anos de idade foi acometida de forte dor na perna esquerda; era o início de porose óssea, que lhe I]desarticulou o quadril.,
+	      desconjuntar: Depois estripou pelos fundos tudo o que havia dentro das carcaças e I]desconjuntou cada articulação.,
+	      deslocar: Bom, a trombada foi tão violenta que I]deslocou meu nariz.,
+	      destroncar: No afã de tentar levantá-lo, I]destroncou o seu braço.,
+	      luxar: Mas a duas semanas da competição I]luxou o ombro e, quando todos esperavam sua desistência, lá estava Robinson jogando pela Unifesp.,}
+
+Chave: LUXAR <verb.change>
+ILI: 00452703
+
+Sense 1
+{00452703} <verb.change> dislocate, luxate, splay, slip3 -- (move out of position; "dislocate joints"; "the artificial hip joint luxated and had to be put back surgically")
+       => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant") 

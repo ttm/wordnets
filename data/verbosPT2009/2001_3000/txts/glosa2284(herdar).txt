@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA2284
+
+DADO O SYNSET:
+
+S='Glosa2284'
+	    {herdar: O formato do nariz e da boca são próprias de cada indivíduo, que as [herda de seus pais e transmite-as a seus filhos.,
+	      receber: x,
+	      trazer: Daniel já I]traz de família o gosto pela bebida.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2284' = “receber por transmissão genética” 
+	    {herdar: O formato do nariz e da boca são próprias de cada indivíduo, que as [herda de seus pais.,
+	      trazer: Daniel já I]traz de família o gosto pela bebida.,}
+
+Chave: HERDAR <verb.possession>
+ILI: 02248624
+
+Sense 3
+{02248624} <verb.possession> inherit1 -- (receive by genetic transmission; "I inherited my good eyesight from my mother")
+       => {02146575} <verb.possession> receive, have3 -- (get something; come into possession of; "receive payment"; "receive a gift"; "receive letters from the front")
+           => {02147191} <verb.possession> get, acquire -- (come into the possession of something concrete or abstract; "She got a lot of paintings from her uncle"; "They acquired a new pet"; "Get your results the next day"; "Get permission to take a few days off from work")

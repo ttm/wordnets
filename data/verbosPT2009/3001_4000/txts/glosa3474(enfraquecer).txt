@@ -1,0 +1,39 @@
+ANÁLISE DA GLOSA3474
+
+DADO O SYNSET:
+
+S='Glosa3474'
+	    {
+	      apoucar: Sentia que as suas forças se ]apoucavam,
+	      cair: Os obstáculos parecem [cair dia a dia, os horizontes se ampliam cada vez mais/A teoria marxista nos diz que quando os salários aumentam a mais-valia tende a [cair,
+	      decair: O país viu sua indústria [decair entre 80 e 92/Você crê que o futebol brasileiro decaiu depois de 70 ?,
+	      declinar: Se a economia mundial [declinar, todos perdemos,
+	      diminuir: As invasões do século IX e X fizeram [diminuir ainda mais a reduzida corrente comercial existente em raros pontos da Europa,
+	      eivar: Essas distorções [eivam não apenas os setores que se encarregam de funções típicas do Estado como também aqueles responsáveis por atividades estranhas ao poder público,
+	      enfraquecer: O conflito [enfraqueceu os senhores feudais de ambos os paises, política e militarmente/O saldo comercial cambial [enfraqueceu,
+	      enfraquentar: x,
+	      exinanir: x,
+	      fraquear: Rubião esteve a pique de [fraquear,
+	      fraquejar: Há sinais de que a perna fiscal do programa de estabilização pode vir a [fraquejar/Se os bens deste mundo lhe são retirados, se conhece a desgraça, isto significa que a sua virtude [fraquejou,
+	      minuir: x,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3474' = “piorar”
+	     {apoucar: O Estado I]apoucou-se; estatais elefantinas e bancos estaduais contaminados pelo vírus da má gestão foram vendidos ou saneados,
+	      cair: Os obstáculos parecem [cair dia a dia, os horizontes se ampliam cada vez mais/A teoria marxista nos diz que quando os salários aumentam a mais-valia tende a [cair,
+	      decair: O país viu sua indústria [decair entre 80 e 92/Você crê que o futebol brasileiro [decaiu depois de 70 ?,
+	      declinar: O volume de novos empréstimos hipotecários [declinou 14% em relação a março,
+	      diminuir: A pesca em Nagasaki e Fukuda [diminuiu,
+	      eivar: Essas distorções [eivam não apenas os setores que se encarregam de funções típicas do Estado como também aqueles responsáveis por atividades estranhas ao poder público,
+	      enfraquecer: O conflito [enfraqueceu os senhores feudais de ambos os paises, política e militarmente/O saldo comercial cambial [enfraqueceu,
+	      fraquear: A CPL I]fraqueou vistas e solicitou a rubrica das licitantes nos documentos de habilitação, bem. como fez constar a rubrica dos membros da CPL,
+	      fraquejar: Tanto silêncio que perturbou alguns e I]fraquejou a memória de outros/Se os bens deste mundo lhe são retirados, se conhece a desgraça, isto significa que a sua virtude [fraquejou,}
+Chave: ENFRAQUECER <verb.change>
+ILI: 00196646
+
+Sense 1
+{00196646} <verb.change> worsen, decline1 -- (grow worse; "Conditions in the slum worsened")
+       => {00140715} <verb.change> change state, turn4 -- (undergo a transformation or a change of position or action; "We turned from Socialism to Capitalism"; "The people turned against the President when he stole the election")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

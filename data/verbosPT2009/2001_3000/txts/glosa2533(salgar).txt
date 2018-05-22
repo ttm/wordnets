@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2533
+
+DADO O SYNSET:
+
+S='Glosa2533'
+	    {salgar: Picar bem os tomates, I]salgar levemente e colocar sobre uma peneirinha para perder água.,
+	      salmoirar: x,
+	      salmourar: O fim de novembro, conhecido como período preparativo de Gim-Chi, era o tempo mais ocupado do ano para as mulheres coreanas, pois costumavam aproveitar o período para I]salmourar, temperar e armazenar o Gim-Chi a comer durante o inverno.,
+	      salpicar: I]Salpicar novamenteo bacalhau com sal grosso e pimenta-do-reino.,
+	      salpresar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2533' = “Adicionar sal em.”
+	    {salgar: Voltou, I]salgou a carne e a enfiou inteira no espeto duplo.,
+	      salmourar: O fim de novembro era o tempo mais ocupado do ano para as mulheres coreanas, pois costumavam aproveitar o período para I]salmourar, temperar e armazenar o Gim-Chi a comer durante o inverno.,
+	      salpicar: I]Salpicar novamente o bacalhau com sal grosso e pimenta-do-reino.,}
+
+Chave: SALGAR <verb.perception>
+ILI: 02133302
+
+Sense 1
+{02133302} <verb.perception> salt -- (add salt to)
+       => {02129085} <verb.perception> season, flavor, flavour -- (lend flavor to; "Season the chicken breast after roasting it") 

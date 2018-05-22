@@ -1,0 +1,35 @@
+ANÁLISE DA GLOSA
+
+DADO O SYNSET:
+
+S='Glosa1759'
+{crespar: x,
+ crespir: x,
+ encarapinhar: x,
+	 encrespar: Em 1908, Marcel de France introduziu o Marcel wave, uma nova técnica de I]encrespar os cabelos com a ajuda de ferros quentes.,
+ enriçar: x,
+ frisar1: PRODUTOS PARA ONDULAR OS CABELOS: destinados a ondular ou I]frisar os cabelos, de maneira mais ou menos duradoura, podendo ser coloridos ou perfumados.,
+ riçar: A dama pôde então ir [riçar os seus cabelos, e preparar o seu toucado domingueiro. ,}
+	  
+A='Glosa1459'
+{alisar, desencarapinhar, desencrespar, desenriçar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1759' = “fazer ondulações [em]” 
+{encrespar: Em 1908, Marcel de France introduziu o Marcel wave, uma nova técnica de I]encrespar os cabelos com a ajuda de ferros quentes.,
+ frisar1: Para conseguir esse efeito, o cabeleireiro Evandro Ângelo primeiramente I]frisou todos os fios, para dar volume.,
+ riçar: A dama pôde então ir [riçar os seus cabelos, e preparar o seu toucado domingueiro.,}
+	  
+A='Glosa1459'
+{alisar, desencarapinhar, desencrespar, desenriçar}
+Chave: ENCRESPAR <verb.body>
+ILI: 00038235
+
+Sense 5
+{00038235} <verb.body> wave -- (set waves in; "she asked the hairdresser to wave her hair")
+       => {00037596} <verb.body> dress4, arrange, set5, do4, coif, coiffe, coiffure -- (arrange attractively; "dress my hair for the wedding")
+           => {00039108} <verb.body> groom, neaten -- (care for one's external appearance; "He is always well-groomed")
+               => {00284091} <verb.change> beautify, embellish, prettify -- (make more beautiful)
+                   => {00198579} <verb.change> better1, improve1, amend, ameliorate1, meliorate1 -- (to make better; "The editor improved the manuscript with his changes")
+                       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

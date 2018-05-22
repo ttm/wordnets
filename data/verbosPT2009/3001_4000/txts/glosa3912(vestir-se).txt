@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA3912
+
+DADO O SYNSET:
+	
+S='Glosa3912'
+    	{entrajar-se: x,
+      	 pôr-se: Leonardo-Pataca, depois de tudo arranjado, quando viu que a única coisa que restara era esperar a natureza, como dizia a comadre, [pôs-se em menores, quero dizer, despiu os calções e o colete, ficou em ceroulas e chinelas, amarrou à cabeça, segundo um antigo costume, um lenço encarnado, e pôs-se a passear na sala de um lado para outro, com uma cara de fazer dó: parecia que era ele e não Chiquinha quem se achava com dores de parto .,
+      	 trajar-se: Ângelo levantou-se, arrancou o hábito com um gesto desesperado, e pisou-o aos pés; sobre o recosto do leito havia uma muda de roupa com que [trajou-se; tirou as armas do cadáver, apanhou o chapéu de feltro, e apertando ao peito o manuscrito, dirigiu-se à porta .,
+      	 tratar-se: Fundamental é investir na auto-estima, se curtir, valorizar-se, I]tratar-se bem, cuidar da aparência e da vida interior. ,
+      	 vestir-se: Maria-Regalada [vestiu-se à pressa, tomou a sua mantilha, e ao lado da cadeirinha em que ia D. Maria partiram para a casa do major .,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3912' = “colocar roupas”
+    	{trajar-se: Ângelo levantou-se, arrancou o hábito com um gesto desesperado, e pisou-o aos pés; sobre o recosto do leito havia uma muda de roupa com que [trajou-se.,
+      	 tratar-se: Ninguém sabe sua idade, pois ela se B]trata muito bem.,
+      	 vestir-se: Chamou atenção a maneira espalhafatosa como o empresário José Lírio se [vestiu para receber FHC num churrasco em sua casa.}
+Chave: VESTIR-SE <verb.body>
+ILI: 00045016
+
+Sense 1
+{00045016} <verb.body> dress, get dressed -- (put on clothes; "we had to dress quickly"; "dress the patient"; "Can the child dress by herself?")
+       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")
+          Also See-> {00042675} <verb.body> dress up#1; {00043854} <verb.body> dress down#2

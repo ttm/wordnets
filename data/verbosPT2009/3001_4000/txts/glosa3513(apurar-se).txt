@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA3513
+
+DADO O SYNSET:
+
+S='Glosa3513'
+	    {
+	      afinar-se: Aprender ou não com os poetas é também uma contradição, porque se pode aprender emotivamente ou pode aprender-se, I]afinar-se a emoção. / É sobre tentar I]afinar-se em sua percepção em ser capaz de realmente entender e aprender observando, quieto, ouvindo e fazendo.,
+	      apurar-se: O espirito critico é necessário para viver e, ao viver I]apurar-se a capacidade de crítica.,
+	      educar-se: A nova enciclopédia musical pareceria um bom remédio, ou paliativo para quem quiser [se educar musicalmente. ,
+	      morigerar-se: Essa associação estuda as condições de trabalho nas fábricas? I]Morigera-se? Instrui-se? ,
+	      polir-se: Quem deseja adquirir sabedoria deve I]polir-se. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3513' = “trazer para um estado altamente desenvolvido, acabado ou refinado”
+	     {afinar-se: Sua pintura se I]afina substancialmente nos anos 40, período em que revela em plenitude sua potencialidade enquanto artista.,
+	      apurar-se: A qualidade se I]apura com a experiência, conseqüentemente o trabalho tende a ficar cada vez melhor.,
+	      educar-se: Filho de um conhecido cantor da ópera imperial de São Petersburgo, I]educou-se em excelente meio artístico e cultural. ,
+	      polir-se: Quem deseja adquirir sabedoria deve I]polir-se. ,}
+Chave: APURAR-SE <verb.change>
+ILI: EQ_NEAR_SYNONYM - 00460492
+
+Sense 3
+{00460492} <verb.change> polish, round1, round off2, polish up, brush up -- (bring to a highly developed, finished, or refined state; "polish your social manners")
+       => {00460283} <verb.change> perfect, hone -- (make perfect or complete; "perfect your French in Paris!")
+           => {00198579} <verb.change> better1, improve1, amend, ameliorate1, meliorate1 -- (to make better; "The editor improved the manuscript with his changes")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

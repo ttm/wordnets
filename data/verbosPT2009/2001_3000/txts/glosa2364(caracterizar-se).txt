@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2364
+
+DADO O SYNSET:
+
+S='Glosa2364'
+	    {caracterizar-se: A mitose é o tipo de divisão celular que [se caracteriza pela existência de apenas uma duplicação de cromossomos para cada divisão do núcleo.,
+	      caraterizar-se: O curso deverá I]caraterizar-se pelo pluralismo metodológico, em coerência com o caráter plural da Ciência Econômica.,
+	      tipificar-se: A coisa julgada, para I]tipificar-se, exige que se constate a identidade de partes.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2364' = “Ser característico de alguma coisa.”
+	    {caracterizar-se: A mitose é o tipo de divisão celular que [se caracteriza pela existência de apenas uma duplicação de cromossomos para cada divisão do núcleo.,
+	      caraterizar-se: O curso deverá I]caraterizar-se pelo pluralismo metodológico.,
+	      tipificar-se: A coisa julgada, para I]tipificar-se, exige que se constate a identidade de partes.,}
+
+Chave: CARACTERIZAR-SE <verb.stative>
+ILI: 02616751
+
+Sense 2
+{02616751} <verb.stative> characterize1, characterise1 -- (be characteristic of; "What characterizes a Venetian painting?")
+       => {00630273} <verb.cognition> distinguish2, mark9, differentiate2 -- (be a distinctive feature, attribute, or trait; sometimes in a very positive sense; "His modesty distinguishes him form his peers")
+           => {00924929} <verb.communication> qualify1, characterize, characterise -- (describe or portray the character or the qualities or peculiarities of; "You can characterize his behavior as that of an egotist"; "This poem can be characterized as a lament for a dead lover")
+               => {00589832} <verb.cognition> remember1, think of -- (keep in mind for attention or consideration; "Remember the Alamo"; "Remember to call your mother every day!"; "Think of the starving children in India!")

@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA3481
+
+DADO O SYNSET:
+
+S='Glosa3481'
+	    {
+	      desejar: Disse-lhe que não podia [desejar melhor nora para si,
+	      mirar: ... um novo ser deve se ]mirar, numa visão abrangente,para construção de um novo mundo/Você sempre pode ]mirar objetivos a médio e longo prazos,
+	      pretender: Pensavam que eu podia reunir pessoas na rua ou [pretender me candidatar a presidente,
+	      querer: Já não tenho a pressa e nem a vaidade de querer ser pop star,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3481' = “esperar e ter vontade”
+	     {desejar: Madonna [deseja ser uma atriz de sucesso,
+	      mirar: Romero I]mirava uma profunda transformação no papel que a crítica literária,
+	      pretender: Jerry [pretende arrecadar um gordo resgate do sogro, pagar aos marginais uma pequena parte e acertar sua vida com o resto,
+	      querer: No Rio de Janeiro, o governo [quer limpar a Baía da Guanabara,}
+Chave: DESEJAR <verb.emotion>
+ILI: 01773587
+
+Sense 2
+{01773587} <verb.emotion> hope1, trust, desire2 -- (expect and wish; "I trust you will behave better from now on"; "I hope she understands that she cannot expect a raise")
+       => {01771203} <verb.emotion> wish -- (hope for; have a wish; "I wish I could go home now")
+           => {01772101} <verb.emotion> desire, want -- (feel or have a desire for; want strongly; "I want to go home now"; "I want my own room")

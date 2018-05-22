@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2764
+
+DADO O SYNSET:
+
+S='Glosa2764'
+	    {quadruplicar-se: Uma das conseqüências da galopante pobreza, lê-se na nota, é que "o trabalho infantil I]quadruplicou-se numa década, especialmente nas zonas urbanas, como evidenciam os dados do Censo de 1993.,
+	      redobrar-se: Se, de outro lado, conferiu a Constituição especial dignidade à jurisdição das liberdades, certo é que, nesta área, a nossa vigilância deve I]redobrar-se.,
+	      reduplicar-se: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2764' = “Tornar (-se) duas  vezes maior ou intenso”
+	    {quadruplicar-se: Uma das conseqüências da galopante pobreza, lê-se na nota, é que "o trabalho infantil I]quadruplicou-se numa década.,
+	      redobrar-se: A vigilância de Auxiliadora I]redobrou-se.,}
+
+Chave: REDOBRAR-SE <verb.change>
+ILI: 00219470
+
+Sense 3
+{00219470} <verb.change> redouble1 -- (make twice as great or intense; "The screaming redoubled")
+       => {00218994} <verb.change> intensify, deepen -- (become more intense; "The debate intensified"; "His dislike for raw fish only deepened in Japan")
+           => {00150804} <verb.change> increase -- (become bigger or greater in amount; "The amount of work increased")
+               => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night") 

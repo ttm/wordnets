@@ -1,0 +1,36 @@
+ANÁLISE DA GLOSA1277
+
+DADO O SYNSET:
+
+S='Glosa1277'
+{ajudar: Figura paterna de parente I]ajuda no desenvolvimento infantil.,
+ desabafar: x,
+ desembaraçar: A peça foi revigorada e popularizada por Plauto, que lhe deu cores mais pitorescas, I]desembaraçou-lhe a ação, multiplicou os jogos de palavras e de peripécias.,
+ desembargar: Concessão de medida liminar para I]desembargar a obra, permitindo a continuidade da construção da penitenciária.,
+ desempecilhar: x,
+ desimpedir: O governo brasileiro não pretende fabricar mísseis, apenas encontrar mais boa vontade para [desimpedir o acesso às tecnologias dos países. ,
+ facilitar: Esse recurso [facilita imensamente o acesso à rede de computadores,
+ favorecer: A presença do vírus [favorece o desenvolvimento do bacilo da tuberculose, e as duas doenças associadas geralmente matam em pouco tempo. ,
+ propiciar: Os jogos, os esportes, as ocupações científicas, literárias e artísticas e, até mesmo, a simples ociosidade, freqüentemente, [propiciam a aproximação de indivíduos. ,}
+	  
+A='Glosa3734'
+	    {abarrancar, atrancar, atravancar, barrar1, dificultar, embaraçar, embargar, empecilhar, estorvar, fechar, impedir, obstaculizar, obstar, obstruir, pear, pejar, represar, tolher, vedar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1277' = “fazer ficar livre de restrições” 
+{ajudar: Figura paterna de parente I]ajuda no desenvolvimento infantil.,
+ desembaraçar: A peça foi revigorada e popularizada por Plauto, que lhe deu cores mais pitorescas, I]desembaraçou-lhe a ação, multiplicou os jogos de palavras e de peripécias.,
+ desembargar: Concessão de medida liminar para I]desembargar a obra, permitindo a continuidade da construção da penitenciária.,
+ desimpedir: O governo brasileiro não pretende fabricar mísseis, apenas encontrar mais boa vontade para [desimpedir o acesso às tecnologias dos países. ,
+ facilitar: Esse recurso [facilita imensamente o acesso à rede de computadores,
+ favorecer: A presença do vírus [favorece o desenvolvimento do bacilo da tuberculose, e as duas doenças associadas geralmente matam em pouco tempo.,
+ propiciar: Os jogos, os esportes, as ocupações científicas, literárias e artísticas e, até mesmo, a simples ociosidade, freqüentemente, [propiciam a aproximação de indivíduos.,}
+A='Glosa3734'
+	    {abarrancar, atrancar, atravancar, barrar1, dificultar, embaraçar, embargar, empecilhar, estorvar, fechar, impedir, obstaculizar, obstar, obstruir, pear, pejar, represar, tolher, vedar}
+Chave: FACILITAR <verb.social>
+ILI: 02435144
+
+Sense 1
+{02435144} <verb.social> derestrict -- (make free from restrictions)
+       => {02488325} <verb.social> exempt, relieve2, free7 -- (grant relief or an exemption from a rule or requirement to; "She exempted me from the exam")

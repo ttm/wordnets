@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA2687
+
+DADO O SYNSET:
+
+S='Glosa2687'
+	    {ameninar-se: Com a dieta, ela H]se ameninou.,
+	      enverdecer-se: x,
+	      enverdejar-se: x,
+	      juvenescer-se: x,
+	      rejuvenescer-se: A revista relatava o caso de um Coronel inglês de 70 anos de idade que vivia na Índia e soube que no Tibet existia uma Lamaseria onde as pessoas podiam I]rejuvenescer-se.,
+	      remoçar-se: Iria viver com os recém-casados, compartilhar de suas alegrias, I]remoçar-se com seus filhos.,
+	      reverdecer-se: O casal como que M]se reverdecia no único filho.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2687' = “Tornar mais jovem ou mais juvenil.”
+	    {rejuvenescer-se: A revista relatava o caso de um Coronel inglês de 70 anos de idade que vivia na Índia e soube que no Tibet existia uma Lamaseria onde as pessoas podiam I]rejuvenescer-se.,
+	      remoçar-se: Iria viver com os recém-casados, compartilhar de suas alegrias, I]remoçar-se com seus filhos.,}
+
+Chave: REJUVENERSCER-SE <verb.change>
+ILI: 00242525
+
+Sense 3
+{00242525} <verb.change> rejuvenate -- (make younger or more youthful; "The contact with his grandchildren rejuvenated him")
+       => {00094878} <verb.body> regenerate, revitalize -- (restore strength; "This food revitalized the patient")
+           => {00198579} <verb.change> better1, improve1, amend, ameliorate1, meliorate1 -- (to make better; "The editor improved the manuscript with his changes")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

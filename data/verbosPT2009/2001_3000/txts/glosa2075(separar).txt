@@ -1,0 +1,46 @@
+ANÁLISE DA GLOSA2075
+
+DADO O SYNSET:
+	
+S='Glosa2075'
+    	{abandar1: A]Abandou parte do seu quinhão.  ,
+      	 apartar: Com uma alavanca, A]apartou as rochas que fechavam a gruta.,
+      	 departir: A]Departir o joio do trigo.,
+      	 desajuntar: x,
+      	 desajustar: x,
+      	 desapartar: O médico procura I]desapartar a briga mas leva alguns empurrões e até um soco dado a esmo por um barbadiano. # Abriu a bolsa, A]desapartou algumas cédulas de um bolo grudento.,
+      	 desconjuntar: O mecânico teve de H]desconjuntar a engrenagem das rodas.,
+      	 despegar: A]Despegou cuidadosamente as páginas coladas.  ,
+      	 despregar1: Mandou H]despregar o quadro da parede.,
+      	 destacar: As petálas da rosa H]destacavam-se pouco a pouco.,
+      	 desunir: H]Desunir fios.,
+      	 dividir: Os cientistas A]dividiram o átomo.,
+      	 estremar: Sobre a ação de divisão e a ação demarcatória de terras particulares, pode-se afirmar que: cabe a ação de divisão ao proprietário, ou proprietários, para obrigar seu confinante a I]estremar os respectivos prédios, fixando-se novos limites entre eles. # H]Estremar um objeto do outro.,
+      	 separar: Rompimento das pontes de hidrogênio que ligam as bases nitrogenadas, de maneira a [separar os dois filamentos que constituem a molécula de DNA; o filamento de DNA pode ser rompido total ou parcialmente, uma vez que pode ocorrer a cópia de apenas uma parte da molécula .,}
+  
+A='Glosa2463'
+    	{abraçar, aproximar, conjugar, juntar, reunir, soldar, unir}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2075' = “colocar separadamente”
+    	{apartar: Hamlet, para [apartar de si o sentimento de Ofélia, se finge de louco.,
+      	 departir: Afonso Henriques, depois da batalha, fixou o desenho das armas reais, dando-lhe a forma de uma cruz azul em campo branco, I]departindo a cruz em cinco escudos.,
+      	 desapartar: Os homens I]desapartaram o Sebastião da Maria Luiza.,
+      	 desconjuntar: O turismo descontrolado I]desconjuntou a graciosidade do clima ameno, do colorido marítimo.,
+      	 despegar: Sou talvez por demais sensível àquilo que a modernidade-mundo nos I]despegou para sempre, nos arrancou em definitivo.,
+      	 despregar1: A força foi tamanha que I]despregou a cadeira do barco e a mesma teve de ser amarrada por trás.,
+      	 destacar: O movimento circular quase o I]destacou da folha; ele ficou pendurado.,
+      	 desunir: A velha contrariava-o nas suas mais justas pretensões de marido, I]desunindo-o da mulher.,
+      	 dividir: Um mesmo espaço limitado o I]dividiu de seu amigos.,
+      	 estremar: A presente é uma ação discriminatória, aforada pelo Estado de Minas Gerais, como único meio de se identificarem as terras públicas, incluídas as devolutas, I]estremando-as das terras particulares
+      	 separar: A mulher, com uma faca de cozinha, [separou o marido de seu pênis.}
+  
+A='Glosa2463'
+    	{abraçar, aproximar, conjugar, juntar, reunir, soldar, unir}
+Chave: SEPARAR <verb.contact>
+ILI: 01513899
+
+Sense 2
+{01513899} <verb.contact> separate1, disunite, divide1, part1 -- (force, take, or pull apart; "He separated the fighting children"; "Moses parted the Red Sea")
+       => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

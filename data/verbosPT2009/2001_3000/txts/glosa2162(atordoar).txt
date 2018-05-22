@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA2162
+
+DADO O SYNSET:
+
+S='Glosa2162'
+	    {atordoar: O som ensurdecedor dos trovões me I]atordoava, mas eu ainda tentava ajudar Ansgar a se levantar. ,
+	      azoar: Um formigueiro de homens suados, barulho de guindastes, locomotivas arfando, vozes, gritos, apitos. Uma lida dos diabos, que A]azoava e atraía Severino.,
+	      azoinar: "Declaro-te o que sinto, em que hei sentado; / Nem mais teimem comigo, nem me A]azoinem".,
+	      ensurdecer: Não contei do medo que eu senti das lâmpadas que balançavam, nem da barulheira afiada que I]ensurdecia, nem da escuridão amarela, cheia de sombras, que rodeava quem estivesse lá dentro. ,
+	      zabumbar: Barulheira que M]zabumba a gente. }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2162' = “causar perturbação”
+	    {atordoar: O som ensurdecedor dos trovões me I]atordoava, mas eu ainda tentava ajudar Ansgar a se levantar. ,
+	      azoar: Um formigueiro de homens suados, barulho de guindastes, locomotivas arfando, vozes, gritos, apitos. Uma lida dos diabos, que A]azoava e atraía Severino.,
+	      azoinar: A fé e a sofreguidão davam ao ajuntamento enorme a voz das cascatas em época de enchente; saía dela um ruído que I]azoinava.,
+	      ensurdecer: Não contei do medo que eu senti das lâmpadas que balançavam, nem da barulheira afiada que I]ensurdecia, nem da escuridão amarela, cheia de sombras, que rodeava quem estivesse lá dentro. ,
+	      zabumbar: Barulheira que M]zabumba a gente. ,}
+
+Chave: ATORDOAR  <verb.emotion>
+ILI: 01736079
+
+Sense 2
+{01736079} <verb.emotion> annoy, rag1, get to, bother, get at, irritate, rile, nark, nettle, gravel, vex, chafe, devil -- (cause annoyance in; disturb, especially by minor irritations; "Mosquitoes buzzing in my ear really bothers me"; "It irritates me that she never closes the door after she leaves")
+       => {01764259} <verb.emotion> displease -- (give displeasure to) 

@@ -1,0 +1,48 @@
+ANÁLISE DA GLOSA3188
+
+DADO O SYNSET:
+
+S='Glosa3188'
+	    {
+	      acrescentar: Dependendo da sutileza das intervenções que se quer praticar, podem-se [acrescentar novas alças, mais próximas umas das outras, para produzir efeitos mais finos, ou eliminar outras.,
+	      agregar: Planejam o próximo e ambicioso passo: fazer o Mercosul dar certo e crescer a ponto de [agregar também o outro grupo de países da América do Sul, o Pacto Andino, que reúne Bolívia, Equador, Colômbia, Peru e Venezuela. ,
+	      agrupar: Ele conseguiu [agrupar na equipe alguns jogadores com uma base técnica correta e uma boa forma física.,
+	      anexar: A União Soviética, além de [anexar ao seu território a Estônia, a Letônia e a Lituânia, recebeu também uma parte da Finlândia e da Romênia. ,
+	      apender: Em perguntas, o latim costuma I]apender à primeira palavra a partícula -ne, que pode ser traduzida por por acaso.,
+	      apensar: O mencionado servidor juntou defesa no referido processo, à qual I]apensou farta documentação.,
+	      apor: Sabia-se, de antemão, que muitos valer-se-iam do mesmo para limitar a I]apor suas opiniões, muitas vezes jogadas de forma atabalhoada.,
+	      combinar: DEVIANT,
+	      grupar: Algumas discriminam a lista dos componentes realmente medidos no ar, enquanto outras tentam I]grupar todos os componentes num índice numérico arbitrário.,
+	      incorporar: Como [incorporar na antena VK2AOU as faixas de 10 e 15 m?,
+	      integralizar: O índice de regularidade (IR) corresponde ao quociente entre o número de créditos acumulados e o número de semestres gastos para I]integralizá-los ao currículo do curso.,
+	      integrar: Na Europa, a reforma da cidade foi inspirada pelos ideais de reforma social, numa tentativa de [integrar a população pobre ao tecido social. ,
+	      juntar: Na reunião com seus ministros, o presidente vai [juntar a estas resoluções outras ordens de ação em toda a área social, que agora terá um plano sistematizado a ser lançado no dia 6. ,
+	      reunir: No séc. XVI a Espanha A]reuniu várias colônias a seu império.,
+	      suplementar: A suplementação de cálcio é encontrada em várias formas: citrato de cálcio, lactato de cálcio e carbonato de cálcio e pessoas com problemas na produção de ácido gástrico devem I]suplementar este último durante as refeições.,
+	      unir: Ele [uniu à alegria e jovialidade da sátira espanhola do tempo de Cervantes, um espírito muito mais moderno, ou ao menos, que tem sido buscado nos tempos modernos.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3188' = “fazer uma adição, juntar, combinar ou unir com outros; aumentar a quantidade, qualidade, tamanho ou o alcance”
+	     {acrescentar: A poesia de Cláudio [acrescentou alguns elementos ao arcadismo: motivação pré-romântica, sentido melancólico de perda ou abandono, às vezes de exílio.,
+	      agregar: Por outro lado, a transformação tecnológica [agregou novos condimentos ao chamado Estado de Bem-Estar Social. ,
+	      agrupar: E em 2004, I]agrupou ao resultado da pesquisa a percepção de correspondentes estrangeiros no Brasil sobre o desempenho do governo.,
+	      anexar: Ele [anexou ao ofício, de cinco páginas, outras 16 páginas de documentos, indicando que o juiz Craveiro ganhou seu cargo «numa ata montada, um documento nulo, viciado, que deturpa a lei». ,
+	      apensar: Naquela Casa, o deputado João Almeida (PSDB-BA), relator da matéria, I]apensou à sua proposta, projeto do deputado Félix Mendonça (PFL-BA).,
+	      apor: Presidente do Tribunal de Justiça I]apõe a faixa de Padroeira na Imagem de Nossa Senhora da Natividade.,
+	      incorporar: O Terraço Jardins I]incorporou o jazz ao seu tradicional Brunch e passa a oferecer todos os domingos, o Sunday Jazz Brunch.,
+	      integralizar: O governo do Estado já I]integralizou ao patrimônio do Fundo de Previdência Estadual – FPE, 40% das ações da SANEAGO.,
+	      integrar: Em janeiro de 1999, O Museu Paulista da USP I]integrou ao seu acervo fotográfico, através de doação patrocinada pelo BNDES – Banco Nacional de Desenvolvimento Social – um conjunto de 189 negativos flexiveis e em vidro que documentam a construção da Ferrovia Madeira – Mamoré. ,
+	      juntar: A reclamada I]juntou ao processo, como dele se noticia, prova documental em grande volume, tendo o Juízo determinado a realização de perícia contábil. ,
+	      reunir: No séc. XVI a Espanha A]reuniu várias colônias a seu império.,
+	      suplementar: A partir dos dados iniciais, I]suplementou-se a farinha de gergelim com outras farinhas de feijäo carioca, feijäo guandú e de soja.,
+	      unir: Ele [uniu à alegria e jovialidade da sátira espanhola do tempo de Cervantes, um espírito muito mais moderno, ou ao menos, que tem sido buscado nos tempos modernos.,}
+Chave: ACRESCENTAR <verb.change>
+ILI: 00176022
+
+Sense 1
+{00176022} <verb.change> add -- (make an addition (to); join or combine or unite with others; increase the quality, quantity, zise or scope of; "We added two students to that dorm room"; "She added a personal note to her letter"; "Add insult to injury"; "Add some extra plates to the dinner table")
+       => {00150804} <verb.change> increase -- (become bigger or greater in amount; "The amount of work increased")
+           => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA0818
+
+DADO O SYNSET:
+
+S='Glosa818'
+{azarar: Que ninguém fique I]azarando o time antes do tempo.,
+cafifar: Não sabe jogar e H]cafifa os parceiros.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa818' = “pôr um feitiço em alguém, torcer por má sorte de”
+{azarar: Que ninguém fique I]azarando o time antes do tempo.,}
+Chave: AZARAR <verb.communication>
+ILI: 00751320
+
+Sense 1
+{00751320} <verb.communication> hex, bewitch1, glamour, witch, enchant1, jinx2 -- (cast a spell over someone or something; put a hex on someone or something)
+       => {02509452} <verb.social> charm, becharm -- (control by magic spells, as by practicing witchcraft)
+           => {02367626} <verb.social> control, command -- (exercise authoritative control or power over; "control the budget"; "Command the military forces")

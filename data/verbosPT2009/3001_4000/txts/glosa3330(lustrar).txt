@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA3330
+
+DADO O SYNSET:
+
+S='Glosa3330'
+	    {
+	      engraxar: No início do Real uma sapataria cobrou R$ 2 para [engraxar um par de sapatos.,
+	      lustrar: Um dos poucos engraxates que ainda trabalham em Londres, vestido com a mesma jaqueta vermelha e calças pretas que eram usadas no início do século 19, l[ustra os sapatos dos transeuntes como antigamente.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3330' = “tornar (superfície) brilhante”
+	     {engraxar: O cantor já vendeu doces na Central do Brasil e I]engraxou sapatos.,
+	      lustrar: Um dos poucos engraxates que ainda trabalham em Londres, vestido com a mesma jaqueta vermelha e calças pretas que eram usadas no início do século 19, [lustra os sapatos dos transeuntes como antigamente.,}
+Chave: LUSTRAR <verb.contact>
+ILI: 01207942
+
+Sense 1
+{01207942} <verb.contact> polish, smooth1, smoothen1, shine -- ((of surfaces) make shine; "shine the silver, please"; "polish my shoes")
+       => {00284091} <verb.change> beautify, embellish, prettify -- (make more beautiful)
+           => {00198579} <verb.change> better1, improve1, amend, ameliorate1, meliorate1 -- (to make better; "The editor improved the manuscript with his changes")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

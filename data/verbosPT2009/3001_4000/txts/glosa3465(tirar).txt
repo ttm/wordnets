@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA3465
+
+DADO O SYNSET:
+
+S='Glosa3465'
+	    {
+	      desfalcar: Um dia ]desfalcou a própria Igreja em 120 mil contos,
+	      diminuir: Surge a trigonometria, que facilita muito os cálculos, especialmente os celestes, em que é preciso somar, ]diminuir ou multiplicar valores de ângulos,
+	      minuir: x,
+	      subtrair: ...subtrair um quinto dos ovos/Entretanto, cumpriu já um ano de cadeia, a [subtrair ao total,
+	      tirar: As grandes companhias, em vez de partilharem, [tiram/O leitor poderá verificar que mais nenhum número de ovos inferior a 4 dá número inteiro, depois de [tirar 4/5 dos ovos e ainda 1/5 de ovo,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3465' = “remover (uma mercadoria) de (fonte de fornecimento)”
+	     {desfalcar: Um dia ]desfalcou a própria Igreja em 120 mil contos,
+	      diminuir: Surge a trigonometria, que facilita muito os cálculos, especialmente os celestes, em que é preciso somar, I]diminuir ou multiplicar valores de ângulos,
+	      subtrair: Pirataria I]subtrai dois milhões de empregos,
+	      tirar: As grandes companhias, em vez de partilharem, [tiram/O leitor poderá verificar que mais nenhum número de ovos inferior a 4 dá número inteiro, depois de [tirar 4/5 dos ovos e ainda 1/5 de ovo,}
+Chave: TIRAR <verb.possession>
+ILI: 02244406
+
+Sense 13
+{02244406} <verb.possession> withdraw, draw1, take out, draw off4 -- (remove (a commodity) from (a supply source); "She drew $2,000 from the account"; "The doctors drew medical supplies from the hospital's emergency bank")
+       => {00166870} <verb.change> remove, take, take away1, withdraw1 -- (remove something concrete, as by lifting, pushing, taking off, etc. or remove something abstract; "remove a threat"; "remove a wrapper"; "Remove the dirty dishes from the table"; "take the gun from your pocket"; "This machine withdraws heat from the environment")

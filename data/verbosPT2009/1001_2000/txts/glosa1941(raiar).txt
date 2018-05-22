@@ -1,0 +1,37 @@
+ANÁLISE DA GLOSA1941
+
+DADO O SYNSET:
+
+S='Glosa1941'
+{alvejar1: Eis que já M]alveja a manhã.,
+ alvorar: Cedo, ao I]alvorar do outro dia, partimos para o devoto Jordão. ,
+ alvorecer: O jejum recomeça ao I]alvorecer, assim que a luz do dia for suficiente para se "distinguir um fio branco de um negro". ,
+ alvorejar: Quando adormeceu, já o dia H]alvorejava.,
+ alvorescer: Foi além das trevas da noite, dos raios de sol ao I]alvorescer, do fulgor do meio-dia.,
+ amanhecer: Pensou... pensou... até o dia amanhecer.,
+ aurorar: No I]aurorar de um novo dia. ,
+ aurorescer: x,
+ despontar: As horas correram silenciosamente nessa muda contemplação; a aragem fresca que anuncia o [despontar do dia bafejou o rosto da menina; e pouco depois o primeiro albor da manhã desmaiou o negrume do horizonte.,
+ esclarecer: O dia A]esclareceu.,
+ raiar1: Embrulhei-me no meu capote, deitei-me e fechei os olhos, para não ver a noite adiantar-se, as estrelas empalidecerem e o dia [raiar.,}
+
+A='Glosa3563'
+	    {anoitar, anoitecer, enoitar, escurecer, noitecer, noutecer}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1941' = “tornar-se claro [no amanhecer]”
+{alvorar: Assim que o sol I]alvorava, as 15 portas de madeira do armazém do seu Edgar se abriam para a freguesia.,
+ alvorecer: Naquela região do planeta o dia já I]alvoreceu 12 horas antes de nosso país e os informantes já enviaram mensagens sobre a queda das ações.,
+ amanhecer: O dia [amanheceu nublado, mas por volta das 9h o sol apareceu, obrigando os ciclistas a fazer um verdadeiro «strip-tease» e amarrar os casacos na cintura.,
+ despontar: Quando acordei, o dia [despontava sobre as montanhas da Tijuca.,
+ raiar1: Embrulhei-me no meu capote, deitei-me e fechei os olhos, para não ver a noite adiantar-se, as estrelas empalidecerem e o dia [raiar.,}
+
+A='Glosa3563'
+	    {anoitar, anoitecer, enoitar, escurecer, noitecer, noutecer}
+Chave: RAIAR <verb.change>
+ILI: 00514940
+
+Sense 3
+{00514940} <verb.change> dawn -- (become light; "It started to dawn, and we had to get up")
+       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

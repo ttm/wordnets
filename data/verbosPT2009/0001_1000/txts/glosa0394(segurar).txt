@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA0394
+
+DADO O SYNSET:
+
+S='Glosa394'
+	    {aferrar: O tigre é capaz de matar um búfalo com uma patada e, I]aferrando-o com as presas, arrastá-lo por centenas de metros.,
+	     segurar: Aparentemente o animal [segurava a presa com os apêndices e a esmagava com a boca, dizem especialistas.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa394' = “pegar ou capturar a força”
+	    {aferrar: O tigre é capaz de matar um búfalo com uma patada e, I]aferrando-o com as presas, arrastá-lo por centenas de metros.,
+	     segurar: Aparentemente o animal [segurava a presa com os apêndices e a esmagava com a boca, dizem especialistas.,}
+Chave: SEGURAR <verb.contact>
+ILI: 01176859
+
+Sense 2
+{01176859} <verb.contact> seize1 -- (take or capture by force; "The terrorists seized the politicians"; "The rebels threaten to seize civilian hostages")
+       => {01177510} <verb.contact> take, get hold of -- (get into one's hands, take physically; "Take a cookie!"; "Can you take this bag, please")

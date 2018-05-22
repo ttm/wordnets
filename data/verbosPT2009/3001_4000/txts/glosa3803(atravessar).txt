@@ -1,0 +1,52 @@
+ANÁLISE DA GLOSA3803
+
+DADO O SYNSET:
+
+S='Glosa3803'
+{atravessar: O moço levou a clavina ao rosto; e a bala sibilando foi [atravessar o crânio do selvagem. # De repente listras de fogo [atravessaram o ar, e se abateram sobre o edifício,
+	 cindir: Mas acabamos decolando e descemos em Guarulhos, enquanto relampejava em torno, clarões terrificantes I]cindiam as nuvens por cima das asas. ,
+	 cortar: As ferrovias construídas por Portugal [cortam o país de leste a oeste, ligando nações do interior da África aos portos de Moçambique.,
+	 cruzar: Os cidadãos podem [cruzar as fronteiras para obter tratamento em outros países.,
+	 despassar: A transação na ação civil pública não é de ser afastada ao argumento de que o interesse tutelado I]despassa a figura do autor.,
+	 extrapassar: A liberdade de informação jornalística não pode I]extrapassar os limites da legalidade, ameaçando e lesando direitos.,
+	 passar: A luz branca, ao [passar por um prisma, divide-se em vários comprimentos de onda com cores características.,
+	 pervagar: Depois, continuou a I]pervagar o mesmo caminho, porém com apego ao realce constitucional do jus proprietatis.,
+	 romper: O teatro de Recife [rompeu as fronteiras de Pernambuco e chegou até o Rio de Janeiro, mais precisamente ao Teatro Ipanema.,
+	 singrar: O Casusa, inteiramente fora de si, saltava, ia e vinha, [singrando por entre todos, atravessando o bonde com as senhoras ainda assentadas.,
+	 sulcar: x,
+	 surcar: x,
+	 transcorrer: Ao H]transcorrerem a serra, avistaram o castelo na planície.,
+	 transcursar: x,
+	 transpassar: Este mistério alivia a angústia de quem acredita ser possível I]transpassar o profundo abismo entre as pessoas.,
+	 transpor: O programa cartesiano fazia a física [transpor fronteiras que lhe foram atribuídas em seguida a partir do século XVIII.,
+	 traspassar: O ideal de que, um dia, os homens consigam viver em harmonia entre si e com a natureza, deve nos dar força para I]traspassar tais barreiras.,
+	 travessar: José Rondini foi o sexto brasileiro a I]travessar o Canal da Mancha.,
+	 trespassar: Era impossível I]trespassar a armadura, por causa do maldito encanto.,
+	 ultrapassar: Os raios luminosos que vencem a pupila [ultrapassam o cristalino e se projetam no fundo do olho.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3803'= “deslocar-se de um lado para o outro”
+{atravessar: O moço levou a clavina ao rosto; e a bala sibilando foi [atravessar o crânio do selvagem. # De repente listras de fogo [atravessaram o ar, e se abateram sobre o edifício,
+	 cindir: Mas acabamos decolando e descemos em Guarulhos, enquanto relampejava em torno, clarões terrificantes I]cindiam as nuvens por cima das asas. ,
+	 cortar: As ferrovias construídas por Portugal [cortam o país de leste a oeste, ligando nações do interior da África aos portos de Moçambique.,
+	 cruzar: Os cidadãos podem [cruzar as fronteiras para obter tratamento em outros países.,
+	 despassar: A transação na ação civil pública não é de ser afastada ao argumento de que o interesse tutelado I]despassa a figura do autor.,
+	 extrapassar: A liberdade de informação jornalística não pode I]extrapassar os limites da legalidade, ameaçando e lesando direitos.,
+	 passar: A luz branca, ao [passar por um prisma, divide-se em vários comprimentos de onda com cores características.,
+	 pervagar: Depois, continuou a I]pervagar o mesmo caminho, porém com apego ao realce constitucional do jus proprietatis.,
+	 romper: O teatro de Recife [rompeu as fronteiras de Pernambuco e chegou até o Rio de Janeiro, mais precisamente ao Teatro Ipanema.,
+	 singrar: O Casusa, inteiramente fora de si, saltava, ia e vinha, [singrando por entre todos, atravessando o bonde com as senhoras ainda assentadas.,
+	 transcorrer: Ao H]transcorrerem a serra, avistaram o castelo na planície.,
+	 transpassar: Este mistério alivia a angústia de quem acredita ser possível I]transpassar o profundo abismo entre as pessoas.,
+	 transpor: O programa cartesiano fazia a física [transpor fronteiras que lhe foram atribuídas em seguida a partir do século XVIII.,
+	 traspassar: O ideal de que, um dia, os homens consigam viver em harmonia entre si e com a natureza, deve nos dar força para I]traspassar tais barreiras.,
+	 travessar: José Rondini foi o sexto brasileiro a I]travessar o Canal da Mancha.,
+	 trespassar: Era impossível I]trespassar a armadura, por causa do maldito encanto.,
+	 ultrapassar: Os raios luminosos que vencem a pupila [ultrapassam o cristalino e se projetam no fundo do olho.}
+Chave: ATRAVESSAR <verb.motion>
+ILI: 01991747
+
+Sense 1
+{01991747} <verb.motion> pass, go through, go across -- (go across or through; "We passed the point where the police car had parked"; "A terrible thought went through his mind")
+       => {01782203} <verb.motion> travel, go, move3, locomote -- (change location; move, travel, or proceed; "How fast does your new car go?"; "We travelled from Rome to Naples by bus"; "The policemen went from door to door looking for the suspect"; "The soldiers moved towards the city in an attempt to take it before night fell")

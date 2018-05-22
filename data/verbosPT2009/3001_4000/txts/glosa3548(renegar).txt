@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA3548
+
+DADO O SYNSET:
+
+S='Glosa3548'
+	    {
+	      abandonar: Vai ser avisado para [abandonar o discurso de oposição ao PDT para não fazer de Miro Teixeira seu principal adversário de campanha. / Morreu aos 90 anos, suspenso pela igreja, mas sem [abandonar os votos.,
+	      arrenegar: Um jesuíta teve o descoro de I]arrenegar a sua religião. ,
+	      negar: Velhas almas arrependidas decidem [negar, ao final de suas vidas, os dogmas de seus passados. ,
+	      renegar: Sofri quinze anos de exílio sem renegar minhas convicções.,
+	      repudiar: Nietzsche estava completamente sob a influência de Schopenhauer e por isso [repudiara o otimismo socrático. / [Repudio tudo o que escrevi. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3548' = “recusar a reconhecer ou admitir”
+	     {abandonar: FH [abandonou as posições de esquerda. / Ele também [abandonou a noção exposta na peça de que Che Guevara e Eva Peron tivessem se encontrado.,
+	      arrenegar: Um jesuíta teve o descoro de I]arrenegar a sua religião. ,
+	      negar: Velhas almas arrependidas decidem [negar, ao final de suas vidas, os dogmas de seus passados. ,
+	      renegar: Ele [renegou o seu passado, encantou-se com os salões do governo e do capitalismo e tornou-se um instrumento daqueles grupos que sempre dominaram e exploraram o Brasil.,
+	      repudiar: Nietzsche estava completamente sob a influência de Schopenhauer e por isso [repudiara o otimismo socrático. / [Repudio tudo o que escrevi. ,}
+Chave: RENEGAR <verb.communication>
+ILI: 00790829
+
+Sense 7
+{00790829} <verb.communication> deny4 -- (refuse to recognize or acknowledge; "Peter denied Jesus")
+       => {00793261} <verb.communication> disavow -- (refuse to acknowledge; disclaim knowledge of; responsibility for, or association with; "Her husband disavowed her after 30 years of marriage and six children")
+           => {00790236} <verb.communication> deny -- (declare untrue; contradict; "He denied the allegations"; "She denied that she had taken money")
+               => {00796537} <verb.communication> contradict, negate, contravene -- (deny the truth of)
+                   => {00778773} <verb.communication> disagree, differ, dissent1, take issue -- (be of different opinions; "I beg to differ!"; "She disagrees with her husband on many questions")

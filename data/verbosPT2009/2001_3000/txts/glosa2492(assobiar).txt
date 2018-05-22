@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2492
+
+DADO O SYNSET:
+
+S='Glosa2492'
+	    {assobiar: Muitas aves cantam, enquanto algumas silvam, sibilam ou I]assobiam, como fazem cobras e serpentes.,
+	      assoviar: Por sobre estátuas, pássaros noturnos I]assoviavam.,
+	      sobiar: x,
+	      trinar: E de repente as rosas fulgurantes foram se apagando, vi uma nuvem negra, feia, horroroso, preparando em seu seio tempestade violenta, senti a trovoada e o raio, as trevas perto da luz, o estridor abafando e o [trinar das aves.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2492' = “Fazer sons sibilantes.”
+	    {assobiar: Muitas aves cantam, enquanto algumas silvam, sibilam ou I]assobiam, como fazem cobras e serpentes.,
+	      assoviar: Por sobre estátuas, pássaros noturnos I]assoviavam.,
+	      trinar: Já I]trinaram mil passarinhos.,}
+
+Chave: ASSOBIAR <verb.perception>
+ILI: 02120981
+
+Sense 1
+{02120981} <verb.perception> whistle -- (make whistling sounds; "He lay there, snoring and whistling")
+       => {02113837} <verb.perception> sound, go -- (make a certain noise or sound; "She went `Mmmmm'"; "The gun went `bang'")
+           => {02062507} <verb.perception> cause to be perceived -- (have perceptible qualities) 

@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0753
+
+DADO O SYNSET:
+
+S='Glosa753'
+{bancar: Depois de ter patrocinado a exposição Fala, Getúlio, a estatal agora deverá [bancar a reforma do terceiro andar do Palácio. # Para convencer um grande estúdio a [bancar um filme de época se mostrou uma tarefa das mais complicadas.,
+custear: A verba vai [custear um amplo pacote de treinamento e assistência técnica, além de equipamentos ultramodernos de contraterrorismo, como robôs e detectores de bombas.,
+financiar: O Departamento de Energia dos Estados Unidos concordou em [financiar metade dos 39 milhões de dólares do orçamento do projeto.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa753' = “Prover à(s) depesa(s) para a construção ou realização de algo”
+{bancar: Depois de ter patrocinado a exposição Fala, Getúlio, a estatal agora deverá [bancar a reforma do terceiro andar do Palácio. # Para convencer um grande estúdio a [bancar um filme de época se mostrou uma tarefa das mais complicadas.,
+custear: A verba vai [custear um amplo pacote de treinamento e assistência técnica, além de equipamentos ultramodernos de contraterrorismo, como robôs e detectores de bombas.,
+financiar: O Departamento de Energia dos Estados Unidos concordou em [financiar metade dos 39 milhões de dólares do orçamento do projeto.,}
+Chave: CUSTEAR
+ILI: 02154295
+
+Sense 2
+{02154295} <verb.possession> finance1 -- (sell or provide on credit)
+       => {02199349} <verb.possession> credit -- (accounting: enter as credit; "We credit your account with $100")
+           => {02199815} <verb.possession> account, calculate -- (keep an account of)

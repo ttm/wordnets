@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA2047
+
+DADO O SYNSET:
+	
+S='Glosa2047'
+    	{estagnar-se: A ciência, com isso, I]estagnou-se em muitos de seus ramos, não sendo raros os casos em que sofreu franco retrocesso. ,
+      	 estancar-se: I]Estancou-se o desenvolvimento, e mobilidade, que caracterizou nossa sociedade no século XX ea nação está cada vez mais dependente. ,
+      	 paralisar-se: Não tardou e novamente veio a crise da borracha e, com ela, I]paralisou-se o processo de povoamento, com reflexo automático nas atividades econômicas. ,
+      	 vedar-se: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2047' = “ficar parado”
+    	{estagnar-se: Os índices de audiência de TV se [estagnaram.,
+      	 estancar-se: É incontestável que a inflação não se I]estancou por completo.,
+      	 paralisar-se: Se as investigações conduzirem a provas contra os Clinton, o governo corre o risco de se [paralisar ou, pelo menos, ser desacelerado.}
+Chave: ESTAGNAR-SE <verb.stative>
+ILI: 02645157
+
+Sense 1
+{02645157} <verb.stative> stagnate1 -- (stand still; "Industry will stagnate if we do not stimulate our economy")
+       => {02526983} <verb.stative> be3 -- (have the quality of being; (copula, used with an adjective or a predicate noun); "John is rich"; "This is not a good answer")

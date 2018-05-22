@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA3036
+
+DADO O SYNSET:
+
+S='Glosa3036'
+	    {
+	      golfar: Os zigomáticos distenderam-lhe a pele descorada e macilenta do rosto, e um jato de bile amarela e espumosa I]golfou no fundo do vaso. ,
+	      golfejar: Em círculos de ferro, com tal força, que dele o sangue em borbotões I]golfeja.,
+	      gorgolar: Eles não podem subir à superfície e ficam a I]gorgolar a lama no fundo do rio.,
+	      gorgolhar: x,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3036' = “verter um jato de líquido”
+	     {golfar: Os zigomáticos distenderam-lhe a pele descorada e macilenta do rosto, e um jato de bile amarela e espumosa I]golfou no fundo do vaso. ,
+	      golfejar: Ele ainda tentou dizer alguma coisa, mas o sangue purulento já lhe I]golfejava da boca e caía-lhe em jorro pelo corpo.,
+	      gorgolar: O rombo na arcada I]gorgolava sangue de gosto ruim.,}
+Chave: GOLFAR <verb.motion>
+ILI: 02009838
+
+Sense 1
+{02009838} <verb.motion> spurt1, spirt1, gush, spout -- (gush forth in a sudden stream or jet; "water gushed forth")
+       => {02010665} <verb.motion> pour2 -- (flow in a spurt; "Water poured all over the floor")
+           => {02008364} <verb.motion> run1, flow, feed4, course -- (move along, of liquids; "Water flowed into the cave"; "the Missouri feeds into the Mississippi")
+               => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right")

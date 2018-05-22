@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0717
+
+DADO O SYNSET:
+
+S='Glosa717'
+{atropelar: Nélson começou I]atropelando, soltando fortes socos em Geremias, que passou a apenas se defender das investidas do curitibano.,
+empurrar: Quem chegasse primeiro via melhor e os outros iriam I]empurrando as pessoas até conseguir um espacinho.,
+empuxar: Este dá um pulo de tigre e agarrando a Gonçalo pelo braço I]empuxa-o violentamente e brada.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa717' = “machucar ou matar alguém passando por cima”
+{atropelar: Nélson começou I]atropelando, soltando fortes socos em Geremias, que passou a apenas se defender das investidas do curitibano.,
+empurrar: Quem chegasse primeiro via melhor e os outros iriam I]empurrando as pessoas até conseguir um espacinho.,
+empuxar: Este dá um pulo de tigre e agarrando a Gonçalo pelo braço I]empuxa-o violentamente e brada.,}
+Chave: ATROPELAR <verb.body>
+ILI: 00104050
+
+Sense 3
+{00104050} <verb.body> run down1, run over -- (injure or kill by running over, as with a vehicle)
+       => {00067690} <verb.body> injure, wound -- (cause injuries or bodily harm to)
+           => {00062508} <verb.body> hurt1 -- (give trouble or pain to; "This exercise will hurt your back")
+               => {00062736} <verb.body> indispose -- (cause to feel unwell; "She was indisposed")
+                   => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

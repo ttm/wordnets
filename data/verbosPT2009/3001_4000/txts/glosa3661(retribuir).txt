@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA3661
+
+DADO O SYNSET:
+
+S='Glosa3661'
+	    {
+	      corresponder: Tanto Gil quanto Billy Blundell [corresponderam ao apoio de suas respectivas torcidas uniformizadas.,
+	      pagar: Reza, reza, que Deus lhe dá de pagar. # I]Pagar o mal com o bem.,
+	      responder: Não [respondeu aos apertos de mão.,
+	      retribuir: É muito melhor dizer «eu te amo» do que ser obrigado a [retribuir todo o carinho da frase com um burocrático «eu também te amo» # Acho que estou [retribuindo todo o apoio dos meus pais. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3661' = “agir ou dar recompensa em reconhecimento ao comportamento ou ações alheias”
+	     {corresponder: Tanto Gil quanto Billy Blundell [corresponderam ao apoio de suas respectivas torcidas uniformizadas.,
+	      pagar: Birgit Dressel, alemã do heptatlo, [pagou com a morte em 88 seu coquetel de 15 drogas diárias. # I]Pagar o mal com o bem.,
+	      responder: Não [respondeu aos apertos de mão.,
+	      retribuir: Cobain [retribui a amizade como o padrinho da entrada do Melvins no mundo das grandes gravadoras  # Bem tratada, [retribui com maciez. ,}
+Chave: RETRIBUIR <verb.possession>
+ILI: 02276767
+
+Sense 1
+{02276767} <verb.possession> reward, repay2, pay back -- (act or give recompensation in recognition of someone's behavior or actions)
+       => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

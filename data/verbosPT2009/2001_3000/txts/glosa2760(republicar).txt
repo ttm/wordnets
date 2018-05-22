@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA2760
+
+DADO O SYNSET:
+
+S='Glosa2760'
+	    {reeditar: A Ibrasa vai [reeditar duas outras obras essenciais de Henry Miller, "Trópico de Capricórnio", em 13 de dezembro, e "Primavera Negra", em 22 de janeiro.,
+	      reeditorar: x,
+	      reestampar: O DOU de 18-6-1974 I]reestampou uma 2ª edição, acompanhada da exposição de motivos de cada livro.,
+	      reimprimir: Reza a boa norma que a melhor lição textual é a da última publicação em vida do autor; por esse critério, bastaria I]reimprimir a obra de 1958, a ela acrescentando algum material inédito, postumamente localizado. ,
+	      republicar: Albert Uderzo, 63, criador do personagem Asterix, está buscando judicialmente obter os direitos para [republicar as 24 primeiras aventuras do herói, que atualmente pertencem à editora Dargaud.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2760' = “Publicar de novo”
+	    {reeditar: A Companhia das Letras saiu na frente: I]reeditou o clássico A Sangue Frio.,
+	      reestampar: Na página 27 dessa publicação, que I]reestampa nada mais nada menos do que matérias da imprensa.,
+	      reimprimir: I]Reimprimiu outros dois livros, anteriormente produzidos pelo MEC.,
+	      republicar: A Universidade Princeton, americana, [republicou um livro com todos os desenhos arqueológicos da obra.,}
+
+Chave: REPUBLICAR <verb.creation>
+ILI: 01696905
+
+Sense 1
+{01696905} <verb.creation> republish -- (publish again; "The scientist republished his results after he made some corrections")
+       => {01696482} <verb.creation> print2, publish1 -- (put into print; "The newspaper published the news of the royal couple's divorce"; "These news should not be printed")
+           => {01575778} <verb.creation> produce, make1, create3 -- (create or manufacture a man-made product; "We produce more cars than we can sell"; "The company has been making toys for two centuries") 

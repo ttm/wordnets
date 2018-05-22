@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA1069
+
+DADO O SYNSET:
+
+S='Glosa1069'
+{atribuir: São [atribuídas ao RE as seguintes funções, dentro da célula.,
+ dar: O virtual presidente eleito, Fernando Henrique Cardoso, disse que não pretende [dar qualquer cargo no governo à sua mulher ou a familiares.,
+ delegar: Indicando um outro como o dr. Hilário, o delegado não faz nada mais do que [delegar suas funções jurídicas a outro cidadão.,
+ investir: Para resolver a saia justa de sua exclusão, I]investiram-no como patrono.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1069' = “transferir poder para alguém”
+{atribuir: São [atribuídas ao RE as seguintes funções, dentro da célula.,
+ dar: O virtual presidente eleito, Fernando Henrique Cardoso, disse que não pretende [dar qualquer cargo no governo à sua mulher ou a familiares.,
+ delegar: Indicando um outro como o dr. Hilário, o delegado não faz nada mais do que [delegar suas funções jurídicas a outro cidadão.,
+ investir: Para resolver a saia justa de sua exclusão, I]investiram-no como patrono.,}
+Chave: ATRIBUIR <verb.social>  
+ILI: 02323723 
+
+Sense 1
+{02323723} <verb.social> delegate1, depute -- (transfer power to someone)
+       => {02320208} <verb.social> delegate, designate, depute3, assign -- (give an assignment to (a person) to a post, or assign a task to (a person))
+           => {02401814} <verb.social> appoint, charge -- (assign a duty, responsibility or obligation to; "He was appointed deputy manager"; "She was charged with supervising the creation of a concordance")

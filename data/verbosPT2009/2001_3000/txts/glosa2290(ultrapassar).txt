@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA2290
+
+DADO O SYNSET:
+S='Glosa2290'
+	    {aquebrantar: As convenções coletivas por imposição constitucional obrigam as categorias nelas representadas, não sendo possível I]aquebrantar a força vinculante de suas cláusulas.  ,
+	      atravessar: As ondas sonoras [atravessam o ar e atingem o microfone .,
+	      extrapassar: É importante ressaltar que enquanto intérpretes do direito não podemos I]extrapassar os limites do normativo.,
+	      quebrantar: Farei todo o possível por I]quebrantar a minha vontade, procurando antes satisfazer os desejos dos outros que os meus.  ,
+	      transgredir: Uma forma de [transgredir fronteiras é viajar.,
+	      transpor: Dentre aqueles que conseguiram I]transpor a barreira do transporte, pudemos constatar que a grande maioria, se não a totalidade, não tinham completado o segundo grau,
+	      travessar: O emprego em gestante é formalmente contra-indicado por travessar a barreira placentária e atingir o feto.  ,
+	      ultrapassar: De vez em quando [ultrapassa as fronteiras de Rondônia e do Pará .,}
+
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2290' = “ir além de limites ou fronteiras”
+	    {aquebrantar: Não sendo possível I]aquebrantar a força vinculante de suas cláusulas.  ,
+	      atravessar: As bolsas estão em meio à uma tendência de alta que deve [atravessar o primeiro semestre do novo ano.,
+	      extrapassar: Enquanto intérpretes do direito não podemos I]extrapassar os limites do normativo.,
+	      quebrantar: Farei todo o possível por I]quebrantar a minha vontade, procurando antes satisfazer os desejos dos outros que os meus.  ,
+	      transgredir: Uma forma de [transgredir fronteiras é viajar.,
+	      transpor: Dentre aqueles que conseguiram I]transpor a barreira do transporte, pudemos constatar que a grande maioria não tinha completado o segundo grau,
+	      travessar: O emprego em gestante é formalmente contra-indicado por travessar a barreira placentária e atingir o feto.  ,
+	      ultrapassar: Somente se o rombo [ultrapassar o limite mínimo, o Tesouro socorreria o Banco Central.,}
+
+Chave: ULTRAPASSAR <verb.motion>
+ILI: 01961683
+
+Sense 4
+{01961683} <verb.motion> transgress, trespass, overstep -- (pass beyond (limits or boundaries))
+       => {01991747} <verb.motion> pass, go through, go across -- (go across or through; "We passed the point where the police car had parked"; "A terrible thought went through his mind")
+           => {01782203} <verb.motion> travel, go, move3, locomote -- (change location; move, travel, or proceed; "How fast does your new car go?"; "We travelled from Rome to Naples by bus"; "The policemen went from door to door looking for the suspect"; "The soldiers moved towards the city in an attempt to take it before night fell")

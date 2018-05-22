@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA2724
+
+DADO O SYNSET:
+
+S='Glosa2724'
+	    {inscrever-se: Os candidatos terão que [se inscrever por telefone e aguardar o sorteio.,
+	      registar-se: Qualquer outro visitante é convidado a I]registar-se e a publicar comentários a artigos.,
+	      registrar-se: Após I]registrar-se, automaticamente você receberá uma senha de acesso aos nossos serviços em seu celular.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2724' = “Fazer inscrição formalmente como um participante ou membro.”
+	    {inscrever-se: No dia do chat, no qual você I]se inscreveu, o sistema lhe enviará uma mensagem lembrando-lhe de sua realização.,
+	      registar-se: Você já I]Registou-se? Você deve estar registrado de forma a poder Entrar.,
+	      registrar-se: Você ainda não I]se registrou? Clique aqui e cadastre-se gratuitamente.,}
+
+Chave: INSCREVER-SE
+ILI: 02397243
+
+Sense 2
+{02397243} <verb.social> enroll, inscribe, enter6, enrol, recruit1 -- (register formally as a participant or member; "The party recruited many new members")
+       => {02397606} <verb.social> register -- (record in writing; enter into a book of names or events or transactions)
+           => {00967710} <verb.communication> record, enter4, put down5 -- (make a record of; set down in permanent form)
+               => {02161122} <verb.possession> save, preserve1 -- (to keep up and reserve for personal or special use; "She saved the old family photographs in a drawer")
+                   => {02138940} <verb.possession> keep, hold on -- (retain possession of; "Can I keep my old stuffed animals?"; "She kept her maiden name after she married")
+                       => {02139918} <verb.possession> have, have got, hold -- (have or possess, either in a concrete or an abstract sense; "She has $1,000 in the bank"; "He has got two beautiful daughters"; "She holds a Master's degree from Harvard") 

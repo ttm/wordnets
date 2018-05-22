@@ -1,0 +1,35 @@
+ANÁLISE DA GLOSA3570
+
+DADO O SYNSET:
+
+S='Glosa3570'
+	    {
+	      bordejar: [Bordejava pelo campo. ,
+	      cambalear: Felicíssimo, [cambaleando, com os olhos tortos e compridos, saiu para o meio da sala, gritando com voz difícil. ,
+	      cambar1: Os pés I]cambavam,mal equilibrados no calçado, bambeavam os joelhos passadas de bêbado.,
+	      nutar: O velho I]nutava entre a  cólera e a vergonha.,
+	      oscilar: Essa cena de enforcamento mostra ao fundo condenados que acabaram de cair do patíbulo, e [oscilam como pêndulos enquan to seus corpos se contorcem nos últimos instantes de vida. ,
+	      titubar: O cliente, I]titubando, engana-se de porta e vai pela porta do jardim, não vê o degrau e cai na piscina.,
+	      titubear: Deu de costas e apertou o passo, apertou tanto que o passo tremia e I]titubeava. ,
+	      trambecar: Chico e João precisavam vagamente de voltar a casas. O Chico, sinuoso, I]trambecando; de que valia, em teoria, entreafastar tanto as pernas? ,
+	      vacilar: Estava tão perturbado, tão comovido dessa situação incompreensível, que me senti [vacilar e deixei-me cair sobre o sofá./ Cecília [vacilou; soltando um gemido plangente caiu desmaiada de encontro à almofada da janela. ,
+	      vanguejar: x,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3570' = “andar vacilante”
+	     {bordejar: Tonto de sono, I]bordejou até o quarto. ,
+	      cambalear: Teve vertigens, [cambaleou, mas não atendia aos apelos dos bombeiros. ,
+	      cambar1: Os pés I]cambavam, mal equilibrados no calçado, bambeavam os joelhos passadas de bêbado.,
+	      titubar: O cliente, I]titubando, engana-se de porta e vai pela porta do jardim, não vê o degrau e cai na piscina.,
+	      titubear: Deu de costas e apertou o passo, apertou tanto que o passo tremia e I]titubeava. ,
+	      trambecar: Chico e João precisavam vagamente de voltar a casas. O Chico, sinuoso, I]trambecando; de que valia, em teoria, entreafastar tanto as pernas? ,
+	      vacilar: Por fim [vacilou: reclinando sobre o ombro de Álvaro, como uma flor desfalecida sobre a haste, murmurou./ Cecília [vacilou; soltando um gemido plangente caiu desmaiada de encontro à almofada da janela. ,}
+Chave: CAMBALEAR <verb.motion>
+ILI: 01845590
+
+Sense 3
+{01845590} <verb.motion> stumble1, falter, bumble -- (walk unsteadily; "The drunk man stumbled about")
+       => {01849285} <verb.motion> walk -- (use one's feet to advance; advance by steps; "Walk, don't run!"; "We walked instead of driving"; "She walks with a slight limp"; "The patient cannot walk yet"; "Walk over to the cabinet")
+           => {01782203} <verb.motion> travel, go, move3, locomote -- (change location; move, travel, or proceed; "How fast does your new car go?"; "We travelled from Rome to Naples by bus"; "The policemen went from door to door looking for the suspect"; "The soldiers moved towards the city in an attempt to take it before night fell")

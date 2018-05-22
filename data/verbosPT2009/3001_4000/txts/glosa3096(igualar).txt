@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA3096
+
+DADO O SYNSET:
+
+S='Glosa3096'
+	    {
+	      emparelhar: A idéia é [emparelhar as grades da programação da TVE e da TV Cultura, para intercâmbio de programas.,
+	      empatar: Raul Fretes e Ricardo Góes I]empatam na liderança após segunda volta do Diners Tour em Porto Alegre.,
+	      igualar: Como há uma tendência de [igualar os níveis elétricos dos terminais, forma-se uma corrente elétrica do terminal de maior potencial para o de menor potencial. ,
+	      igualizar: Ninguém fala sobre a luta para I]igualizar os salários dos novos (dos últimos 10 anos) colegas com os salários das pessoas que têm o mérito de ostentar o número de matrícula mais antigo.,
+	      rivalizar: De 1895 a 1915 nenhum país da Europa ocidental pôde [rivalizar com a Rússia nesse particular.,
+	      seguir: Schummy desafiou Rubinho a I]seguí-lo no seu empenho e dificultou, com categoria e esportivamente, o privilégio do parceiro de time e provar que era digno da inversão de posições.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3096' = “ser equivalente em qualidade ou habilidade”
+	     {emparelhar: Em um ano de liquidez externa abundante e altos preços de commodities, o Brasil I]emparelhou com o Japão e a União Européia, que sofrem de crescimento anêmico.,
+	      empatar: No último domingo o Santos I]empatou com o Paraná Clube por 1 a 1 em Curitiba.,
+	      igualar: Agora o Google se I]igualou com empresas como Yahoo! e Microsoft. ,
+	      igualizar: Ninguém fala sobre a luta para I]igualizar os salários dos novos (dos últimos 10 anos) colegas com os salários das pessoas que têm o mérito de ostentar o número de matrícula mais antigo.,
+	      rivalizar: De certa forma, a pintura impressionista I]rivalizou com a fotografia, porque, como ela, mostrava instantâneos da vida.,}
+Chave: IGUALAR <verb.stative>
+ILI: 02591609
+
+Sense 2
+{02591609} <verb.stative> equal1, touch2, rival, match1 -- (be equal to in quality or ability; "Nothing can rival cotton for durability"; "Your performance doesn't even touch that of your colleagues"; "Her persistence and ambition only matches that of her parents")
+       => {01037983} <verb.competition> compete, vie, contend -- (compete for something; engage in a contest; measure oneself against others)

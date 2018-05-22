@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA3285
+
+DADO O SYNSET:
+
+S='Glosa3285'
+	    {
+	      contundir-se: Apontado como a maior revelação do clube na década de 90, Sávio [contundiu-se no primeiro tempo na estréia no campeonato e só volta a jogar hoje. ,
+	      ferir-se: Mas espere, tornou o colchoeiro, o senhor feriu-se?,
+	      lanhar-se: A]Lanhou-se na cerca de arame farpado.,
+	      lesar-se: I]Lesou-se gravemente num acidente na pista não-duplicada da BR 101.,
+	      lesionar-se: Em 2000, a atleta I]lesionou-se durante a competição e nem foi à final.,
+	      machucar-se: Gore, 46, [machucou-se durante um jogo de basquete.,
+	      marcar-se: DEVIANT,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3285' = “sentir dor”
+	     {contundir-se: Apontado como a maior revelação do clube na década de 90, Sávio [contundiu-se no primeiro tempo na estréia no campeonato e só volta a jogar hoje. ,
+	      ferir-se: Rubinho [feriu-se em um braço, quebrou o nariz e teve uma costela trincada.,
+	      lanhar-se: A]Lanhou-se na cerca de arame farpado.,
+	      lesar-se: I]Lesou-se gravemente num acidente na pista não-duplicada da BR 101.,
+	      lesionar-se: Em 2000, a atleta I]lesionou-se durante a competição e nem foi à final.,
+	      machucar-se: Gore, 46, [machucou-se durante um jogo de basquete.,}
+Chave: FERIR-SE <verb.body>
+ILI: 00062917
+
+Sense 7
+{00062917} <verb.body> suffer, hurt2 -- (feel pain or be in pain)
+       => {02526983} <verb.stative> be3 -- (have the quality of being; (copula, used with an adjective or a predicate noun); "John is rich"; "This is not a good answer")

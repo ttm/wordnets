@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA1446
+
+DADO O SYNSET:
+
+S='Glosa1446'
+{desencanastrar: x,
+ desenlaçar: Se tiver feito um número ímpar de rotações da esfera, não será capaz de I]desenlaçar os fios,
+ desentrançar: A mulher I]desentrançava os cabelos longos e louros com as pontas dos dedos e parecia a Iara.,
+ deslaçar: Era um maço atado com fita preta, I]deslaçou o maço e abriu as cartas,
+	 destrançar: As dançarinas I]trançam e destrançam as fitas,}
+	  
+A='Glosa3202'
+{enastrar, entrançar, entrelaçar, entretecer, interlaçar, trançar, travar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1446' = “soltar os laços [de]”
+{desenlaçar: Se tiver feito um número ímpar de rotações da esfera, não será capaz de I]desenlaçar os fios.,
+ desentrançar: É o vento também que lhe eriça os pêlos e os I]desentrança.,
+ deslaçar: Era um maço atado com fita preta, I]deslaçou o maço e abriu as cartas.,
+	 destrançar: O piloto inspeciona a boca superior do balão e ajusta a válvula de escape de ar, I]destrança a corda distendendo-a no prolongamento do envelope.,}
+	  
+A='Glosa3202'
+{enastrar, entrançar, entrelaçar, entretecer, interlaçar, trançar, travar}
+Chave: DESTRANÇAR <verb.contact>
+ILI: 01246934
+
+Sense 2
+{01246934} <verb.contact> unloose, unloosen -- (loosen the ties of; "unloose your sneakers")
+       => {01246236} <verb.contact> untie, unbrace, unlace -- (undo the ties of; "They untied the prisoner")
+           => {01477750} <verb.contact> undo -- (cancel, annul, or reverse an action or its effect; "I wish I could undo my actions")
+               => {00133458} <verb.change> change by reversal, turn, reverse -- (change to the contrary; "The trend was reversed"; "the tides turned against him"; "public opinion turned when it was revealed that the president had an affair with a White House intern")
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

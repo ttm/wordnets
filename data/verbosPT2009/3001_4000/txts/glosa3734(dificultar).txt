@@ -1,0 +1,69 @@
+ANÁLISE DA GLOSA3734
+
+DADO O SYNSET:
+
+S='Glosa3734'
+{abarrancar: Sua ausência H]abarrancou nosso trabalho.,
+	 abarreirar: DEVIANT,
+	 abarrocar: x,
+	 apejar: x,
+	 atochar: DEVIANT,
+	 atrancar: Darwin recriminava as lutas sociais e sindicais, uma vez que suas exigências por solidariedade I]atrancavam o processo de seleção natural.,
+	 atranqueirar: x,
+	 atrapachar: x,
+	 atravancar: Se uma das partes do processo desconsidera os comandos contidos nas decisões prolatadas numa evidente intenção de I]atravancar a execução, resta a ocorrência de litigância de má-fé.,
+	 barrar1: Compreende-se que um deputado de perfil conservador tente [barrar essas propostas.,
+	 dificultar: O secretário-geral do Itamarati retornou ontem dos Estados Unidos e garantiu que não houve nenhuma instrução para [dificultar a concessão de visto a Michael Jackson.,
+	 embaraçar: A falta de dinheiro não podia [embaraçar a execução do meu plano.,
+	 embargar: Na redação anterior, era o oficial de justiça quem intimava o devedor para [embargar a execução; agora, as leis de organização judiciária podem dispor diversamente.,
+	 empecilhar: Confrontos acabam por I]empecilhar a circulação adequada de conteúdos audiovisuais.,
+	 estorvar: Era preciso acertar um processo de ação para destruir as ficções sociais sem I]estorvar a criação da liberdade futura.,
+	 fechar: DEVIANT,
+	 impedir: No inverno, as árvores perdem suas folhas para [impedir a perda da água por transpiração.,
+	 obstaculizar: A repartição federal não poderá, sob nenhum pretexto, [obstaculizar o recebimento da reclamação.,
+	 obstar: O presidente não vai [obstar os trabalhos da CPI.,
+	 obstruir: Em entrevista à CNN, o primeiro-ministro libanês, Rafic Hariri, acusou Israel de [obstruir as negociações.,
+	 pear: Não o I]pearam tão pequeninos empeços. ,
+	 pejar: I]Pejaria a relação de politicidade.,
+	 represar: Joca Ramiro sabia [represar os excessos.,
+	 tolher: É importante combinar os estilos e não [tolher a criatividade.,
+	 tomar: DEVIANT,
+	 vedar: Temos que [vedar a fonte de recursos do bicho, que serve inclusive para a corrupção.}
+
+A='Glosa1277'
+{ajudar, desabafar, desembaraçar, desembargar, desempecilhar, desimpedir,  facilitar, favorecer, propiciar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3734' = “obstar o progresso ou o livre movimento de”
+{abarrancar: Sua ausência H]abarrancou nosso trabalho.,
+	 atrancar: Darwin recriminava as lutas sociais e sindicais, uma vez que suas exigências por solidariedade I]atrancavam o processo de seleção natural.,
+	 atravancar: Se uma das partes do processo desconsidera os comandos contidos nas decisões prolatadas numa evidente intenção de I]atravancar a execução, resta a ocorrência de litigância de má-fé.,
+	 barrar1: Compreende-se que um deputado de perfil conservador tente [barrar essas propostas.,
+	 dificultar: O secretário-geral do Itamarati retornou ontem dos Estados Unidos e garantiu que não houve nenhuma instrução para [dificultar a concessão de visto a Michael Jackson.,
+	 embaraçar: A falta de dinheiro não podia [embaraçar a execução do meu plano.,
+	 embargar: Na redação anterior, era o oficial de justiça quem intimava o devedor para [embargar a execução; agora, as leis de organização judiciária podem dispor diversamente.,
+	 empecilhar: Confrontos acabam por I]empecilhar a circulação adequada de conteúdos audiovisuais.,
+	 estorvar: Era preciso acertar um processo de ação para destruir as ficções sociais sem I]estorvar a criação da liberdade futura.,
+	 impedir: No inverno, as árvores perdem suas folhas para [impedir a perda da água por transpiração.,
+	 obstaculizar: A repartição federal não poderá, sob nenhum pretexto, [obstaculizar o recebimento da reclamação.,
+	 obstar: O presidente não vai [obstar os trabalhos da CPI.,
+	 obstruir: Em entrevista à CNN, o primeiro-ministro libanês, Rafic Hariri, acusou Israel de [obstruir as negociações.,
+	 pear: Não o I]pearam tão pequeninos empeços. ,
+	 pejar: I]Pejaria a relação de politicidade.,
+	 represar: Joca Ramiro sabia [represar os excessos.,
+	 tolher: É importante combinar os estilos e não [tolher a criatividade.,
+	 vedar: Temos que [vedar a fonte de recursos do bicho, que serve inclusive para a corrupção.}
+
+A='Glosa1277'
+{ajudar, desabafar, desembaraçar, desembargar, desempecilhar, desimpedir, facilitar, favorecer, propiciar}
+
+Chave: DIFICULTAR <verb.change>
+ILI: 00162509
+
+Sense 1 
+{00162509} <verb.change> hamper, halter, cramp -- (prevent the progress or free movement of; "He was hampered in his efforts by the bad weather")
+       => {00160443} <verb.change> restrict, restrain, trammel, limit1, bound, confine, throttle1 -- (place limits on; "restrict the use of this parking lot")
+           => {01711244} <verb.social> control1, hold in, hold15, contain, check8, curb, moderate -- (lessen the intensity of; temper; hold in restraint; hold or keep within limits; "moderate your alcohol intake" "hold your tongue"; "hold your temper"; "control your anger")
+               => {01648949} <verb.social> restrain1, keep, keep back, hold back -- (keep under control)
+                   => {01669882} <verb.social> prevent, keep1 -- (prevent from doing something or being in a certain state; "We must prevent the cancer from spreading")

@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA1797
+
+DADO O SYNSET:
+
+S='Glosa1797'
+{endentar-se: x,
+ enganchar-se: Antes de iniciar a jornada de trabalho devem ser retirados anéis, pulseiras e cordões, que poderão I]enganchar-se em galhos e farpas de madeira.,
+ enroscar-se: Há ainda o risco de a tartaruga ser morta em redes ou anzóis de pesca, I]enroscar-se em alguma pedra ou rede e perder o transmissor.,
+ ganchar-se: x,
+ prender-se: Ela [prendeu-se-lhe ao pescoço.,
+ travar-se: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1797' = “ficar preso [a]”
+{enganchar-se: Antes de iniciar a jornada de trabalho devem ser retirados anéis, pulseiras e cordões, que poderão I]enganchar-se em galhos e farpas de madeira.,
+ enroscar-se: Há ainda o risco de a tartaruga ser morta em redes ou anzóis de pesca, I]enroscar-se em alguma pedra ou rede e perder o transmissor.,
+ prender-se: Os cipós e as parasitas, engrazando-se pelos ramos das árvores vizinhas, desciam até o chão, formando grinaldas e cortinas de folhagem, que se [prendiam às hastes da palmeira.,}
+Chave: PRENDER-SE <verb.contact>
+ILI: 01252135
+
+Sense 3
+{01252135} <verb.contact> attach -- (become attached; "The spider's thread attached to the window sill")
+       => {01252764} <verb.contact> join, conjoin -- (make contact or come together; "The two roads join here")
+           => {01314764} <verb.contact> connect, link, tie1, link up -- (connect, fasten, or put together two or more pieces; "Can you connect the two loudspeakers?"; "Tie the ropes together"; "Link arms")
+          Also See-> {02636434} <verb.stative> attach to1#1

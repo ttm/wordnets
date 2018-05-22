@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA1724
+
+DADO O SYNSET:
+
+S='Glosa1724'
+{encarangar: Já perto da praia, acho que o rapaz I]encarangou porque o frio era horrível. ,
+ encaranguejar: x,
+ entrevar1: Era uma velhinha linda, super meiga e boazinha. Mas quando adoeceu e I]entrevou, todos a evitavam dizendo: não aguento ver Madrinha assim...,
+ entrevecer: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1724' = “fazer ficar paralisado, imobilizado”
+{encarangar: Em verdade, alguém há de estar pensando em como faria Thereza de Jesus para comer a não ser bebida, ou como poderia ela sentir o encolher dos nervos, quando o que lhe I]encarangavam eram os músculos.,
+ entrevar: É uma doença que deixa a criança paralítica, I]entreva as mãos e braços, ou pernas esquecidas,ou deformações em outras partes do corpo, mudo, retardado, como se tivesse derrame.,
+ paralisar: Nesse dia, Costa e Silva foi vítima de uma trombose, que [paralisou seu lado direito, tornando-o incapacitado para exercer o cargo.,}
+Chave: ENTREVAR <verb.change>
+ILI: 00259579
+
+Sense 2
+{00259579} <verb.change> paralyze, paralyse -- (cause to be paralyzed and immobile; "The poison paralyzed him"; "Fear paralyzed her")
+       => {00260242} <verb.change> immobilize, immobilise -- (cause to be unable to move; "The sudden storm immobilized the traffic")
+           => {00228980} <verb.change> restrict2, curtail, curb, cut back -- (place restrictions on; "curtail drinking in school")
+               => {00227757} <verb.change> limit, circumscribe, confine1 -- (restrict or confine, "I limit you to two visits to the pub a day")
+                   => {00428838} <verb.change> decrease1, lessen2, minify -- (make smaller; "He decreased his staff")
+                       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

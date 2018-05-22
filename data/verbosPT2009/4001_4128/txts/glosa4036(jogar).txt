@@ -1,0 +1,56 @@
+ANÁLISE DA GLOSA4036
+
+DADO O SYNSET:
+
+S='Glosa4036'
+{alijar: M]Alijou tudo ao mar.,
+arremessar: Um grupo de torcedores [arremessou ovos podres e insultos contra o time, na volta para a Cidade do México, na noite de domingo passado .,
+arremeter: O caçador H]arremeteu o cão contra as feras.,
+arrojar: Lhes I]arrojaram pedras de argila endurecida.,
+arrumar: H]Arrumaram-lhe uma pedra que o feriu.,
+atirar: Depois, I]atirou o jarro para longe de si.,
+cuspir: No rodeio, o touro feroz H]cuspiu o peão contra a cerca.,
+desfechar: I]Desfechou os tiros que causaram a morte da vítima.,
+disparar: O policial I]disparou os tiros que mataram um pastor e uma estudante. ,
+expelir: O vulcão Mayon I]expeliu para o ar uma espessa coluna de erupção carregada de cinzas e rochas incandescentes.,
+impetar: x,
+jacular: H]Jaculou um disco a distância.,
+jogar: Assim que ele me viu I]jogou uma pedra em mim.,
+lançar: Marquinhos I]lançou uma pedra que atingiu a perna esquerda do Bruno.,
+mandar: As chaminés H]mandavam rolos de fumo ao ar.,
+pinçar: A]Pinçou as sobrancelhas e depois chorou de dor.,
+pregar1: O lutador A]lançou com o adversário no tablado.,
+projetar: A catapulta A]projetava grandes pedras.,
+remessar: x,
+rojar: As crianças A]rojavam pedras.,
+sacudir: A besta I]sacudiu a carga acumulada.,
+tacar: Na hora da guerra Davi I]tacou uma pedra no meio da testa do gigante.,
+vibrar: O lutador A]vibrava golpes a esmo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4036' = “projetar pelo ar”
+{alijar: M]Alijou tudo ao mar.,
+arremessar: Um grupo de torcedores [arremessou ovos podres e insultos contra o time, na volta para a Cidade do México, na noite de domingo passado .,
+arrojar: Lhes I]arrojaram pedras de argila endurecida.,
+arrumar: H]Arrumaram-lhe uma pedra que o feriu.,
+atirar: Depois, I]atirou o jarro para longe de si.,
+cuspir: No rodeio, o touro feroz H]cuspiu o peão contra a cerca.,
+disparar: O goleiro Régis, que não bebe, ainda mais em serviço, pegou a garrafa e I]disparou na direção do juiz do jogo, que tem um nome espetacular: Wladyerisson Oliveira. ,
+expelir: M]Expelir pedras.,
+jacular: H]Jaculou um disco a distância.,
+jogar: Assim que ele me viu I]jogou uma pedra em mim.,
+lançar: Marquinhos I]lançou uma pedra que atingiu a perna esquerda do Bruno.,
+mandar: As chaminés H]mandavam rolos de fumo ao ar.,
+projetar: A catapulta A]projetava grandes pedras.,
+rojar: As crianças A]rojavam pedras.,
+sacudir: A besta I]sacudiu a carga acumulada.,
+tacar: Na hora da guerra Davi I]tacou uma pedra no meio da testa do gigante.,
+vibrar: M]Vibravam flechas aos inimigos.,}
+Chave: JOGAR <verb.contact>
+ILI: 01466080
+
+Sense 1
+{01466080} <verb.contact> throw -- (project through the air; "throw a frisbee")
+       => {01469437} <verb.contact> propel, impel -- (cause to move forward with force; "Steam propels this ship")
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his ne

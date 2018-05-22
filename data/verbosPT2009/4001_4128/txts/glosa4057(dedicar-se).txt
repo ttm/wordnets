@@ -1,0 +1,39 @@
+ANÁLISE DA GLOSA4057
+
+DADO O SYNSET:
+
+S='Glosa4057'
+{absorver-se: Pavia, com os olhos cravados no chão, I]absorvia-se em meditações.,
+aplicar-se: O programa I]aplica-se ao estudo de arcos, ângulos, circunferência, circunferência trigonométrica e das funções seno, cosseno, tangente, cotangente.,
+concentrar-se: Vidinha parou um instante, [concentrou-se, meditou, e depois, como tomando uma grande resolução.,
+consagrar-se: Entendeu-se com os orientadores de Israel, comentando a excelsitude das Leis Divinas; entretanto, I]consagrou-se à recuperação dos alienados mentais.,
+dar-se: Por seis anos se I]deu ao estudo da bíblia e dos livros devotos e lutou contra o iluminismo francês da época.,
+dedicar-se: Norton, na direção diametralmente oposta, [dedicou-se à pesquisa de formas fractais abstratas, as quais ele se mostrou capaz de explorar com uma imaginação delirante .,
+destinar-se: O workshop I]destinou-se ao estudo dos jazimentos ofiolíticos e houve também trabalho de campo para verificação e análise no local de aflorantes.,
+devotar-se: O filólogo Antenor de Veras Nascentes I]devotou-se ao estudo da língua portuguesa.,
+empregar-se: x,
+entranhar-se: H]Entranhou-se num projeto e não quis mais sair dele.,
+propor-se: Esta universidade H]propõe-se a formar engenheiros.,
+sacrificar-se: H]Sacrificou-se aos caprichos do marido.,
+votar-se: H]Votou-se aos pais o tempo que pôde.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4057' = “dar-se inteiramente a uma pessoa, atividade ou causa específica”
+{absorver-se: Como todo estudante inteligente e aplicado, I]absorveu-se totalmente na preparação das provas.,
+aplicar-se: Entretanto o compadre [aplicava-se a trabalhar na realização de seus intentos, e começou por ensinar o ABC ao menino; porém, por primeira contrariedade, este empacou no F, e nada o fazia passar adiante.,
+concentrar-se: Karl Duncker (1945) [concentrou-se na solução de problemas de engenharia - por exemplo, como se pode direcionar raios X para eliminar um tumor sem destruir uma porção desnecessária de tecidos intermediários.,
+consagrar-se: Entendeu-se com os orientadores de Israel, comentando a excelsitude das Leis Divinas; entretanto, I]consagrou-se à recuperação dos alienados mentais.,
+dar-se: Por seis anos se I]deu ao estudo da bíblia e dos livros devotos e lutou contra o iluminismo francês da época.,
+dedicar-se: Norton, na direção diametralmente oposta, [dedicou-se à pesquisa de formas fractais abstratas, as quais ele se mostrou capaz de explorar com uma imaginação delirante .,
+destinar-se: O workshop I]destinou-se ao estudo dos jazimentos ofiolíticos e houve também trabalho de campo para verificação e análise no local de aflorantes.,
+devotar-se: O filólogo Antenor de Veras Nascentes I]devotou-se ao estudo da língua portuguesa.,
+entranhar-se: H]Entranhou-se num projeto e não quis mais sair dele.,
+sacrificar-se: H]Sacrificou-se aos caprichos do marido.,
+votar-se: H]Votou-se aos pais o tempo que pôde.,}
+Chave: DEDICAR-SE <verb.communication>
+ILI: 00858050
+
+Sense 1
+{00858050} <verb.communication> give3, dedicate, consecrate4, commit1, devote -- (give entirely to a specific person, activity, or cause; "She committed herself to the work of God"; "give one's talents to a good cause"; "consecrate your life to the church")
+       => {01123102} <verb.consumption> use1, utilize, utilise, apply, employ -- (put into service; make work or employ (something) for a particular purpose or for its inherent or natural purpose; "use your head!"; "we only use Spanish at home"; "I can't make use of this tool"; "Apply a magnetic field here"; "This thinking was applied to many projects"; "How do you utilize this tool?"; "I apply this rule to get good results"; "use the plastic bags to store the food"; "He doesn't know how to use a computer")

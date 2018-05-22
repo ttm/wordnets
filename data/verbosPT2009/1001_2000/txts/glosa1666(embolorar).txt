@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA1666
+
+DADO O SYNSET:
+
+S='Glosa1666'
+{abolorecer: O queijo M]embolorecera.,
+ abolorentar: x,
+ bolorecer: x,
+ embolorar: Nunca guarde calçados úmidos, pois eles podem I]embolorar. ,
+ embolorecer: x,
+ mofar2: A umidade pode apodrecer, estourar e [mofar as tiras de madeira.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1666' = “ficar/tornar embolorado; estragar por causa da humidade”
+{embolorar: O tecido tem duas grandes vantagens: pode ficar exposto ao tempo sem o perigo de [embolorar e não “gruda” na pele nos dias de calor, como os emborrachados.,
+ mofar2: Apesar de contar em seu elenco com dois atores globais, Andréa Beltrão e Tony Ramos, há quase quatro anos que “Minas, Texas” [mofa nas prateleiras.,}
+Chave: EMBOLORAR <verb.change>
+ILI: 00203356
+
+Sense 1
+{00203356} <verb.change> mold, mildew -- (become moldy; spoil due to humidity; "The furniture molded in the old house")
+       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

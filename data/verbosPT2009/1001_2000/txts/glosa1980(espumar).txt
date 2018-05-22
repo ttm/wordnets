@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA1980
+
+DADO O SYNSET:
+
+S='Glosa1980'
+{afumegar: x,
+ escumar: x,
+ esfumear: x,
+ espumar: Um monge, chamado Don Pérignon, despenseiro-chefe das adegas da Abadia Beneditina de Hautvillers, descobriu que o vinho da região de Champagne I]espumava e retinha a espuma depois de uma segunda fermentação.,
+ fumegar: M]Fumega nas taças o champanha.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1980' = “ficar borbulhante”
+{espumar: Um monge, chamado Don Pérignon, despenseiro-chefe das adegas da Abadia Beneditina de Hautvillers, descobriu que o vinho da região de Champagne I]espumava e retinha a espuma depois de uma segunda fermentação.,}
+Chave: ESPUMAR <verb.change> 
+ILI: 00498179
+
+Sense 2
+{00498179} <verb.change> froth1, spume, suds -- (make froth or foam and become bubbly; "The river foamed")
+       => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

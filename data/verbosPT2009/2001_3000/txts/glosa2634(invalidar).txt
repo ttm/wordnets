@@ -1,0 +1,56 @@
+ANÁLISE DA GLOSA2634
+
+DADO O SYNSET:
+
+S='Glosa2634'
+	    {abolir: O país reduziu as tarifas de importação, abriu-se ao capital estrangeiro, [aboliu licenças e quotas de produção e importação, adotou nova política industrial e iniciou um programa de privatizações do setor público. # O novo Código [aboliu a extinção do processo pela ausência injustificada do advogado do autor à audiência.,
+	      ab-rogar: Não penseis que vim I]ab-rogar a Lei. Eu vim plenificá-la.,
+	      anular: O deputado Kevin Andrews anunciou ontem mesmo sua decisão de apresentar nas próximas horas ao Parlamento Federal - que tem jurisdição sobre todo o país, formado por seis estados e dois territórios - um projeto de lei voltado para a [anular a lei do Território do Norte.,
+	      cancelar: O desmentido, feito pelos dois bancos, fez CVM [cancelar a ordem.,
+	      cassar: A proibição do clipe levou o ator e vereador Antonio Pitanga (PT) a entrar com recurso no Tribunal de Justiça, tentando [cassar a liminar. ,
+	      derrogar: Para o efeito da investigação, poderá o Comissário exigir de toda pessoa ou órgão toda a informação ou documento que possa, a seu critério, ser-lhe útil na investigação da queixa, dentro do prazo e forma por ele fixada em seu requerimento; toda pessoa que for requisitada para fornecer informação ou documento, de acordo com o já dito, deverá cumprir com o requerimento; as disposições deste parágrafo não [derrogam as normas dos Art.,
+	      desatar: Para I]desatar contrato de leasing, por mora do arrendatário, a ação própria é reintegratória de posse.,
+	      desfazer: Diante da indignação popular, presidente do Paraguai tenta [desfazer acordo que levaria golpista ao Ministério da Defesa.,
+	      desvalidar: O coordenador tem total autonomia para validar e I]desvalidar a ordem a qualquer momento.,
+	      dissolver: Em 12 de novembro de 1823, em um golpe de força, D. Pedro [dissolveu a Assembléia Constituinte, sob a promessa de uma carta duplicadamente mais liberal.,
+	      esfazer: x,
+	      invalidar: Na sede do processo de inventário não tem lugar ação de [invalidar documentos públicos, tais como certidões de nascimentos destinadas a habilitação de herdeiros no inventário.,
+	      rescindir: Neste caso, o fornecedor é obrigado a entregar o produto completo, oferecer outra mercadoria como compensação ou rescindir o contrato.,
+	      resilir: Não havendo concordância do CONTRATANTE, este poderá I]resilir o contrato, sem qualquer ônus, mediante comunicação por e-mail ou via postal.,
+	      revocar: As Comunicações Federais Comissionam (o "FCC") arquivou uma ação para I]revocar a licença de rádio de amador de Kevin Mitnick.,
+	      revogar: Haddad afirmou que [revogará a liminar caso considere convincentes os argumentos da prefeitura e da produtora Skyligth.,
+	      suprimir: O inciso II foi alterado pela Lei 5.925, de 1.10.73, que [suprimiu a referência, nele constante, ao art. 324.,
+	      suspender: Sandra disse não ter tomado esta providência durante o fim de semana porque o plantão no Fórum é dado por juízes de primeira instância, que não têm poder para [suspender o julgamento. # Já foi marcada a data do julgamento no Supremo Tribunal Federal da liminar que [suspendeu a tramitação da reforma da Previdência: será no dia 8 de maio.,
+	      viciar: Ora, a mesma ilegitimidade que comprometia o Tratado de Assunção, pela ausência de discussão com a sociedade civil e pela falta de profundos estudos a orientar seu encaminhamento, está a [viciar a nova proposta brasileira.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2634' = “Declarar inválido, nulo.”
+	    {abolir: O novo Código [aboliu a extinção do processo pela ausência injustificada do advogado do autor à audiência.,
+	      ab-rogar: Não penseis que vim I]ab-rogar a Lei. Eu vim plenificá-la.,
+	      anular: O deputado Andrews anunciou ontem sua decisão de apresentar nas ao Parlamento Federal um projeto de lei para a [anular a lei do Território do Norte.,
+	      cancelar: O desmentido, feito pelos dois bancos, fez CVM [cancelar a ordem.,
+	      cassar: A proibição do clipe levou o ator e vereador Antonio Pitanga a entrar com recurso tentando [cassar a liminar. ,
+	      derrogar: As disposições deste parágrafo não [derrogam as normas dos Art.,
+	      desatar: Para I]desatar contrato de leasing, por mora do arrendatário, a ação própria é reintegratória de posse.,
+	      desfazer: Diante da indignação popular, presidente do Paraguai tenta [desfazer acordo que levaria golpista ao Ministério da Defesa.,
+	      desvalidar: O coordenador tem total autonomia para validar e I]desvalidar a ordem a qualquer momento.,
+	      dissolver: Após prisões, julgamentos e mortes em fogueiras, o papa Clemente V I]dissolveu a ordem.,
+	      invalidar: Na sede do processo de inventário não tem lugar ação de [invalidar documentos públicos.,
+	      rescindir: Neste caso, o fornecedor é obrigado a entregar o produto completo, oferecer outra mercadoria como compensação ou I]rescindir o contrato.,
+	      resilir: Não havendo concordância do contratante, este poderá I]resilir o contrato.,
+	      revocar: As Comunicações Federais Comissionam arquivou uma ação para I]revocar a licença de rádio de amador de Kevin Mitnick.,
+	      revogar: Haddad afirmou que [revogará a liminar.,
+	      suprimir: O inciso II foi alterado pela Lei 5.925, de 1.10.73, que [suprimiu a referência, nele constante, ao art. 324.,
+	      suspender: Já foi marcada a data do julgamento no Supremo Tribunal Federal da liminar que [suspendeu a tramitação da reforma da Previdência: será no dia 8 de maio.,
+	      viciar: Ora, a mesma ilegitimidade que comprometia o Tratado de Assunção está a [viciar a nova proposta brasileira.,}
+
+Chave: INVALIDAR <verb.social>
+ILI: 02403814
+
+Sense 1
+{02403814} <verb.social> invalidate, annul, quash1, void, avoid, nullify -- (declare invalid; "The contract was annulled"; "void a plea")
+       => {02403187} <verb.social> cancel, strike down -- (declare null and void; make ineffective; "Cancel the election results"; "strike down a law")
+           => {00795481} <verb.communication> declare4, adjudge, hold11 -- (declare to be; "She was declared incompetent"; "judge held that the defendant was innocent")
+               => {00647983} <verb.cognition> judge -- (form an opinion of or pass judgment on; "I cannot judge some works of modern art")
+                   => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere") 

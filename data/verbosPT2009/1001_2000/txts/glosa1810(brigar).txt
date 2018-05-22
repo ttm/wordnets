@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA1810
+
+DADO O SYNSET:
+
+S='Glosa1810'
+{brigar: Comentava-se que ele [brigou com o Barbeiro de Sevilha.,
+ encrencar: Edílson, do Flamengo, marcou dois gols que deram a vitória ao rubro-negro e, depois de arrumar confusão do Diego Lugano, I]encrencou com Jean.,
+ enguiçar: Depois da confusão, as duas H]enguiçaram.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1810' = “travar combate [com], numa luta”
+{brigar: A confusão aconteceu porque, ao sair de campo, Edmundo discutiu com os jogadores são-paulinos e [brigou fisicamente com o lateral André.,
+ encrencar: Edílson, do Flamengo, marcou dois gols que deram a vitória ao rubro-negro e, depois de arrumar confusão do Diego Lugano, I]encrencou com Jean.,}
+Chave: BRIGAR <verb.competition>
+ILI: 01055630
+
+Sense 1
+{01055630} <verb.competition> fight, struggle -- (be engaged in a fight; carry on a fight; "the tribesmen fought each other"; "Siblings are always fighting")
+          Also See-> {01096026} <verb.competition> fight off#1

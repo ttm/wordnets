@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA3944
+
+DADO O SYNSET:
+	
+S='Glosa3944'
+    	{preambular: A admissão se dará por processo seletivo I]preambular de caráter classificatório.,
+      	 prefaciar: Quando a tese se fez livro, Dante generosamente a I]prefaciou.,
+      	 preludiar: A cavalgada de um dos circos de cavalinhos I]preludiava, ao mesmo tempo que as folias, a Festa do Divino.,
+      	 proemiar: O filólogo M]proemiou o dicionário.,
+      	 prologar: Ao lado de Vicente Huidobro e Alberto Hidalgo, Borges I]prologou uma importante antologia que buscava reunir os dispersos poetas da América Hispânica.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3944' = “escrever ou discursar um prólogo”
+    	{preambular: Os prolegômenos de Kant, por sua vez, foram elaborados para I]preambular a Crítica da Razão Pura, obra que foi composta antes dos Prolegômenos.,
+      	 prefaciar: Díaz del Castillo escreveu sua própria “Verdadeira História da Conquista da Nova Espanha”, e [prefaciou sua obra sinceramente despretensiosa com uma declaração muito simples.,
+      	 prologar: Sartre, com a grandeza espiritual e a generosidade que o caracterizam, [prologou seu primeiro livro.}
+Chave: PREFACIAR <verb.communication>
+ILI: 00872606
+
+Sense 1
+{00872606} <verb.communication> prologize, prologuize, prologise -- (write or speak a prologue)
+       => {00872152} <verb.communication> precede3, preface, premise1, introduce1 -- (furnish with a preface or introduction; "She always precedes her lectures with a joke"; "He prefaced his lecture with a critical remark about the institution")
+           => {00976600} <verb.communication> state, say, tell4 -- (express in words; "He said that he wanted to marry her"; "tell me what is bothering you"; "state your opinion"; "state your name")
+               => {00909455} <verb.communication> express, verbalize3, verbalise3, utter1, give tongue to -- (articulate; either verbally or with a cry, shout, or noise; "She expressed her anger"; "He uttered a curse")

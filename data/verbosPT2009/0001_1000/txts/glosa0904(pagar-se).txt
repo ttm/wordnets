@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0904
+
+DADO O SYNSET:
+
+S='Glosa904'
+{cobrar-se: A]Cobrou-se com os seus próprios recursos.,
+pagar-se: Cuscuz não fez concorrência para compra de material, fez doações ilegais de cestas básicas, comprou brindes, e mais, I]pagou-se e ao seu vice, com salários excessivos. }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa904' = “dar dinheiro, geralmente em troca de bens ou serviços”
+{pagar-se: Cuscuz não fez concorrência para compra de material, fez doações ilegais de cestas básicas, comprou brindes, e mais, I]pagou-se e ao seu vice, com salários excessivos. }
+Chave: PAGAR-SE <verb.possession>
+ILI: 02186811
+
+Sense 1
+{02186811} <verb.possession> pay -- (give money, usually in exchange for goods or services; "I paid four dollars for this sandwich"; "Pay the waitress, please")
+       => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+           => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children")
+          Also See-> {02151937} <verb.possession> fund#6; {02284395} <verb.possession> pay off#2; {02191814} <verb.possession> pay off3#3; {02218772} <verb.possession> pay off1#5; {02235041} <verb.possession> pay out#1

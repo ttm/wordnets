@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA3565
+
+DADO O SYNSET:
+
+S='Glosa3565'
+	    {
+	      nomenclar: Nem I]nomenclaram a bactéria.,
+	      nomenclaturar: Decidimos I]nomenclaturar esse período como pré-cabralino.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3565' = “designar um nome específico, próprio” 
+	     {nomenclar: Nem I]nomenclaram a bactéria.,
+	      nomenclaturar: Decidimos I]nomenclaturar esse período como pré-cabralino.,}
+Chave: NOMENCLATURAR <verb.communication>
+ILI: EQ_NEAR_SYNONYM - 00995511 
+
+Sense 1
+{00995511} <verb.communication> name3, call2 -- (assign a specified, proper name to; "They named their son David"; "The new school was named after the famous Civil Rights leader")
+       => {00996581} <verb.communication> label -- (assign a label to; designate with a label; "These students were labelled `learning disabled'")
+           => {00996861} <verb.communication> designate, denominate -- (assign a name or title to)

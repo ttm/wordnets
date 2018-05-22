@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA3032
+
+DADO O SYNSET:
+
+S='Glosa3032'
+	    {
+	      aglutinar: Este segundo componente deve I]aglutinar as partículas trituradas de PET durante a fase de prensagem.,
+	      colar: Ainda há quem se reúna para arrecadar prendas, catar lenha para a fogueira, ensaiar a quadrilha, trocar receitas de comidas típicas e [colar bandeirinhas.,
+	      glutinar: x,
+	      grudar: O pó e o suor [grudam nos belos trajes. # Quando você [gruda recortes de jornal numa tela, tem uma colagem.,
+	      pegar: Está colando a madeira com cianocrilato e não quer I]pegar? Coloque o cianocrilato e ponha um pingo d'água que cola no ato.  ,
+	      unir: Para I]unir blocos ou tijolos ao construir uma parede, que materiais descritosabaixo você poderia utilizar. # Se quiser, pode usar cola para I]unir mais as fibras.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3032' = “juntar ou combinar”
+	     {aglutinar: Este livro, coletivo, I]aglutina muitos autores e reúne uma diversidade de temas.,
+	      colar: Há um ano, Geller [colou 5.000 garfos e colheres entortados em um Cadillac que havia comprado e nunca usado nos anos 70 ..,
+	      grudar: O pó e o suor [grudam nos belos trajes. # Quando você [gruda recortes de jornal numa tela, tem uma colagem.,
+	      pegar: Se a comida I]pegava na panela, era obra de Satanás.  ,
+	      unir: O tecido conjuntivo [une e alimenta os demais tecidos. # A posse da terra [unia os proprietários.,}
+Chave: UNIR <verb.change>
+ILI: 00235024
+
+Sense 5
+{00235024} <verb.change> unite2, unify1, merge2 -- (join or combine; "We merged our resources")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

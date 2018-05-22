@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA2400
+
+DADO O SYNSET:
+
+S='Glosa2400'
+	    {tarrafar: Então nós pedíamos para os tarrafeiros não I]tarrafar, que era pra não espantar o peixe, que estava dormindo ali, na beira da praia,
+	      tarrafear: Não há pescador que diga eu vou tarrafar, mas sim I]tarrafear.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2400' = “pescar com redes”
+	    {tarrafar: Então nós pedíamos para os tarrafeiros não I]tarrafar, que era pra não espantar o peixe, que estava dormindo ali, na beira da praia,
+	      tarrafear: Não há pescador que diga eu vou tarrafar, mas sim I]tarrafear.,}
+
+Chave: TARRAFEAR <verb.competition> 
+ILI: 01108147
+
+Sense 1
+{01108147} <verb.competition> net fish -- (fish with nets)
+       => {01105530} <verb.competition> fish -- (catch or try to catch fish or shellfish; "I like to go fishing on weekends")
+           => {01398038} <verb.contact> catch, grab, take hold of1 -- (take hold of so as to seize or restrain or stop the motion of; "Catch the ball!"; "Grab the elevator door!")
+               => {01175818} <verb.contact> seize, prehend, clutch -- (take hold of; grab; "The salesclerk quickly seized the money on the counter"; "She clutched her purse"; "The mother seized her child by the arm"; "Birds of prey often seize small mammals")
+                   => {01177510} <verb.contact> take, get hold of -- (get into one's hands, take physically; "Take a cookie!"; "Can you take this bag, please")

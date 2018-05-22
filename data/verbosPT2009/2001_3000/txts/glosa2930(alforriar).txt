@@ -1,0 +1,41 @@
+ANÁLISE DA GLOSA2930
+
+DADO O SYNSET:
+
+S='Glosa2930'
+	    {aforrar1: Certa ideologia colonial ainda hoje não H]aforrou escravos.,
+	      alforriar: A "Sociedade Cearense Libertadora" decidira, num gesto emblemático, I]alforriar todos os escravos de Aracape.,
+	      descravizar: H]Descravizar os oprimidos.,
+	      emancipar: Durante a década de 60, o país acaba com a escravidão e com o sistema de castas, inicia uma reforma agrária e [emancipa as mulheres, dando um grande passo em direção à modernização.,
+	      forrar2: ''Se alguém I]forrar seu escravo, livrando-o de toda a servidão e depois que for forro, cometer contra quem o forrou, alguma ingratidão pessoal em sua presença, ou em absência, quer seja verbal quer de feito e real, poderá esse patrono revogar a liberdade que deu a esse liberto, e reduzi-lo à servidão em que antes estava.,
+	      libertar: Em fevereiro de 1990, de Klerk repudia o apartheid e [liberta Mandela.,
+	      manumitir: Quanto àqueles que repudiarem as suas mulheres pelo zihar (1610) e logo se retratarem disso, deverão I]manumitir um escravo, antes de as tocarem.,
+	      redimir: Deus me consagrou, e por isso me enviou a dar boa notícia aos pobres, I]redimir os aprisionados, recuperar a visão aos que não vêem, restituir a liberdade aos oprimidos, proclamar o tempo da graça.,
+	      remir: Eu ajudo a I]remir os cativos e oprimidos.,
+	      resgatar: Embora a polícia nunca tenha conseguido provar, Negão da Serra é apontado também como um dos prováveis participantes da quadrilha que I]resgatou 31 prisioneiros da penitenciária de Alcaçuz, no dia 4 de novembro de 2000, em Nísia Floresta - RN. # A Revolução Francesa I]resgatou os oprimidos.,}
+
+	  A='Glosa413'
+	    {escravizar: Araújo foi acusado de [escravizar 49 trabalhadores nas fazendas Pau Preto e Acapu.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2930' = “Libertar de escravidão ou trabalhos forçados”
+	    {aforrar1: E é verdade! se me não engano, creio que ele uma ocasião me disse que foi você quem lhas I]aforrou. Não é isso?.,
+	      alforriar: Coutinho anuncia que I]alforriou todos os seus escravos.,
+	      emancipar: Lembrado como o presidente que I]emancipou os escravos de seu país, Lincoln é considerado um dos inspiradores da moderna democracia.,
+	      forrar2: O dono do engenho forrava seus escravos.,
+	      libertar: Em fevereiro de 1990, de Klerk repudia o apartheid e [liberta Mandela.,
+	      manumitir: Esses libertos compraram escravos e os I]manumitiram devido a laços familiares.,
+	      redimir: Ele não I]redimiu os oprimidos nem legou um partido novo.,
+	      remir: Isabel remiu os negros.,
+	      resgatar: A Revolução Francesa I]resgatou os oprimidos.,}
+
+	  A='Glosa413'
+	    {escravizar}
+Chave: ALFORRIAR <verb.social>
+ILI: 02421944
+
+Sense 2
+{02421944} <verb.social> manumit, emancipate -- (free from slavery or servitude)
+       => {02422490} <verb.social> liberate, set free2 -- (grant freedom to; "The students liberated their slaves upon graduating from the university")
+           => {02349028} <verb.social> free2, discharge1 -- (free from obligations or duties) 

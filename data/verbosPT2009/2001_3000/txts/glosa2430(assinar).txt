@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA2430
+
+DADO O SYNSET:
+
+  S='Glosa2430'
+	    {assinar: A França [assinou ontem em Estrasburgo a convenção europeia sobre a televisão transfronteiras.,
+	      firmar: É contrária a ética profissional I]firmar documentos ou fazer declarações que, especialmente no exercício de cargo de direção ou de chefia, desvirtuem a verdade ou resultem em favorecimento próprio ou de grupo, tanto profissional como político,
+	      subscrever: Afinal, alguém poderia I]subscrever o boletim em seu nome. ,
+	      subscritar: A resolução aprovada pelos deputados europeus foi apresentada pelo grupo da coligação de esquerda e [subscrita pelos três deputados comunistas, Barros Moura, Miranda da Silva e Sérgio Ribeiro.,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2430' = “Marcar com uma assinatura; escrever um nome em.” 
+	    {assinar: Em 1966, [assinou um contrato com a Phillips e lançou o primeiro LP.,
+	      firmar: O promotor [firmou um acordo com as cinco maiores redes de supermercados de Brasília,
+	      subscrever: Falta de autenticação da firma de quem [subscreveu a mensagem inviabiliza o agravo manifestado por telex.,
+	      subscritar: Mas apenas I]subscritou contrato de adesão.,}
+
+Chave: ASSINAR <verb.communication>
+ILI: 00964079
+
+Sense 2
+{00964079} <verb.communication> sign2, subscribe2 -- (mark with one's signature; write one's name (on); "She signed the letter and sent it off"; "Please sign here")
+       => {00960729} <verb.communication> write -- (communicate or express by writing; "Please write to me every week")
+           => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+               => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel") 

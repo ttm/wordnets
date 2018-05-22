@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA2627
+
+DADO O SYNSET:
+
+S='Glosa2627'
+	    {alojar: As áreas físicas do museu destinadas a I]alojar as coleções são precárias ou encontram-se em precário estado de conservação, a ponto de até colocar em risco a integridade de seus acervos.,
+	      armazenar: Jukebox pode I]armazenar até 80 CDs.,
+	      caber: Em cada setor do refeitório I]cabem 8 fileiras de mesas e, em cada fileira, cabem 14 mesas.,
+	      comportar: De qualquer modo, nascido e falecido pobre com um palácio (em Sintra) que não podia [comportar o volume da encomenda não parece ter sido ele a encomenda-las . ,
+	      conter: Este álbum I]contem 144 itens.,
+	      recolher: A Fisher-Price, uma empresa especializada em produtos para crianças, decidiu [recolher às suas fábricas cerca de 900 mil cadeiras para uso em automóveis que apresentam um defeito que torna difícil libertar o cinto de segurança ou coloca-lo na posição correcta.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2627' = “Ser capaz de conter ou compreender.”
+	    {alojar: As áreas físicas do museu destinadas a I]alojar as coleções são precárias, a ponto de até colocar em risco a integridade de seus acervos.,
+	      armazenar: Jukebox pode I]armazenar até 80 CDs.,
+	      comportar: Um único CD I]comporta o equivalente a 150 livros de 200 páginas cada.,
+	      conter: Este álbum I]contem 144 itens
+                   recolher: A Fisher-Price, uma empresa especializada em produtos para crianças, decidiu [recolher às suas fábricas cerca de 900 mil cadeiras.,}
+
+Chave: ARMAZENAR <verb.stative>
+ILI: 02619957
+
+Sense 5
+{02619957} <verb.stative> contain14, take15, hold14 -- (be capable of holding or containing; "This box won't take all the items"; "The flask holds one gallon")
+       => {02526983} <verb.stative> be3 -- (have the quality of being; (copula, used with an adjective or a predicate noun); "John is rich"; "This is not a good answer") 

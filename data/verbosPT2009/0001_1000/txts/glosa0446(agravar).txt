@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA0446
+
+DADO O SYNSET:
+
+S='Glosa446'
+{agravar: Comida em excesso H]agrava o estômago.,
+sobrecarregar: O esforço repetido pode [sobrecarregar músculos e articulações e causar lesões.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa446' = “tornar pior; oprimir com peso”
+{agravar: Obras de hidrelétricas podem I]agravar casos de malária em Porto Velho.,
+sobrecarregar: O esforço repetido pode [sobrecarregar músculos e articulações e causar lesões.,}
+Chave: AGRAVAR <verb.change>
+ILI: 00200852
+
+Sense 1
+{00200852} <verb.change> worsen1, aggravate, exacerbate, exasperate -- (make worse; "This drug aggravates the pain")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

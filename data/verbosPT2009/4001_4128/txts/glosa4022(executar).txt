@@ -1,0 +1,48 @@
+ANÁLISE DA GLOSA4022
+
+DADO O SYNSET:
+
+S='Glosa4022'
+{consumar: Não se pode confundir o agente provocador com o funcionário policial que, informado previamente acerca de crime que alguém está praticando ou vai [consumar, diligencie prendê-lo em flagrante, pois em tal hipótese a intervenção da autoridade não provocou, não induziu o autor do fato criminoso a cometê-lo.,
+cumprir: Apesar do massacre, Pantoja garantiu que está tranqüilo e certo de que [cumpriu seu dever .,
+desempenhar: Durante anos, ela [desempenhou um papel secundário e submisso, como namorada e depois mulher de um jogador de basquete, papel este que a Cookie disse ter se tornado difícil .,
+executar: O pintor [executou exatamente o que foi solicitado.,
+exercer: Alencar passa por um período meteórico de vida política, tomando posições conservadoras, quando [exerceu a função de deputado federal e, logo depois, quando assumiu a pasta do Ministério da Justiça (1868-1870) .,
+experienciar: x,
+experimentar: H]Experimentou o novo método de enlatar as ervilhas.,
+fazer: Sua mulher [fez gestos de desagrado à aproximação da imprensa .,
+obrar: Preferiu dar prevalência aos interesses da minoria, na realização de um "milagre" que I]obrou maravilhas de superestrutura.,
+operar: O Senhor I]operou maravilhas na criação do mundo, I]opera maravilhas na redenção do gênero humano.,
+praticar: Um escritor como Edgar Allan Poe [praticou de forma intuitiva estruturas permutativas bastante afinadas com a descrição algébrica.,
+professar: O governo A]professa os compromissos assumidos na eleição.,
+promover: O novo regime [promoveu grandes reformas na organização da produção .,
+realizar: Interessado em reconstituir o antigo Império Romano, Justiniano [realizou campanhas militares contra os vândalos, no norte da África, os ostrogodos, na Itália, e os visigodos, na Espanha .,
+resgatar: Esperidião Amin I]resgatou compromisso de estar junto com a população.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4022' = “colocar em prática”
+{consumar: Não se pode confundir o agente provocador com o funcionário policial que, informado previamente acerca de crime que alguém está praticando ou vai [consumar, diligencie prendê-lo em flagrante, pois em tal hipótese a intervenção da autoridade não provocou, não induziu o autor do fato criminoso a cometê-lo.,
+cumprir: Apesar do massacre, Pantoja garantiu que está tranqüilo e certo de que [cumpriu seu dever .,
+desempenhar: Durante anos, ela [desempenhou um papel secundário e submisso, como namorada e depois mulher de um jogador de basquete, papel este que a Cookie disse ter se tornado difícil .,
+executar: O pintor [executou exatamente o que foi solicitado.,
+exercer: Alencar passa por um período meteórico de vida política, tomando posições conservadoras, quando [exerceu a função de deputado federal e, logo depois, quando assumiu a pasta do Ministério da Justiça (1868-1870) .,
+fazer: A prova desta superioridade mecânica é que Fittipaldi [fez a volta mais rápida da corrida, logo na segunda passagem.,
+obrar: Preferiu dar prevalência aos interesses da minoria, na realização de um "milagre" que I]obrou maravilhas de superestrutura.,
+operar: O Senhor I]operou maravilhas na criação do mundo, I]opera maravilhas na redenção do gênero humano.,
+praticar: Um escritor como Edgar Allan Poe [praticou de forma intuitiva estruturas permutativas bastante afinadas com a descrição algébrica.,
+professar: O governo A]professa os compromissos assumidos na eleição.,
+promover: O novo regime [promoveu grandes reformas na organização da produção .,
+realizar: Interessado em reconstituir o antigo Império Romano, Justiniano [realizou campanhas militares contra os vândalos, no norte da África, os ostrogodos, na Itália, e os visigodos, na Espanha .,
+resgatar: Esperidião Amin I]resgatou compromisso de estar junto com a população.,}
+Chave: EXECUTAR <verb.creation>
+ILI: 01594283
+
+Sense 1
+{01594283} <verb.creation> carry through, accomplish, execute, carry out, action, fulfill, fulfil -- (put in effect; "carry out a task"; "execute the decision of the people"; "He actioned the operation")
+       => {00470712} <verb.change> complete2, finish2 -- (come or bring to a finish or an end; "He finished the dishes"; "She completed the requirements for her Master's Degree"; "The fastest runner finished the race in just over 2 hours; others finished in over 4 hours")
+           => {00341640} <verb.change> end1, terminate1 -- (bring to an end or halt; "She ended their friendship when she found out that he had once been convicted of a crime"; "The attack on Poland terminated the relatively peaceful period after WWI")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")
+       => {01596269} <verb.creation> effect, effectuate, bring about, set up3 -- (produce; "The scientists set up a shockwave")
+           => {01598809} <verb.creation> cause, do2, make8 -- (give rise to; cause to happen or occur, not always intentionally; "cause a commotion"; "make a stir"; "cause an accident")
+               => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

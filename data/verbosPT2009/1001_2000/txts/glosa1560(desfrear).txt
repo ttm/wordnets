@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA1560
+
+DADO O SYNSET:
+
+S='Glosa1560'
+{desbrecar: Entrou no carro e, sem querer, I]desbrecou o veículo que começou a descer, sem controle. ,
+ desentravar: x,
+ desfrear: O pistão do freio, assim  comprimido,  faz funcionar o freio. Para I]desfrear, o maquinista liga novamente o ar comprimido. ,
+ destravar: O rapaz me ensinou como I]destravar o freio de mão.,}
+	  
+A='Glosa3879'
+{brecar, enfrear, enfrenar, frear, frenar, refrear, travar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1560' = “cancelar ou anular os freios”
+{desbrecar: Entrou no carro e, sem querer, I]desbrecou o veículo que começou a descer, sem controle.,
+ desfrear: O pistão do freio, assim  comprimido,  faz funcionar o freio. Para I]desfrear, o maquinista liga novamente o ar comprimido.,
+ destravar: O rapaz me ensinou como I]destravar o freio de mão.}
+	  
+A='Glosa3879'
+{brecar, enfrear, enfrenar, frear, frenar, refrear, travar}
+Chave: DESFREAR <verb.contact>
+ILI: EQ_HAS_HYPERONYM – 01477750
+
+Sense 1
+{01477750} <verb.contact> undo -- (cancel, annul, or reverse an action or its effect; "I wish I could undo my actions")
+       => {00133458} <verb.change> change by reversal, turn, reverse -- (change to the contrary; "The trend was reversed"; "the tides turned against him"; "public opinion turned when it was revealed that the president had an affair with a White House intern")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night") 

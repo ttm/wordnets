@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA1704
+
+DADO O SYNSET:
+
+S='Glosa1704'
+{enarrar: O que mais se faz, - falando, escrevendo,fazendo frases, - é descrever, I]enarrar. ,
+ enumerar: Não vou I]enumerar o que de fato me angustia até porque ficaria uma coisa extremamente chata, mas vou colocar aqui alguns pensamentos interessantes que aliviaram um pouquinho a minha angústia interior.,
+ narrar: Estamos longe da ingenuidade de um famoso historiador alemão do século passado, que disse ser tarefa do historiador simplesmente I]narrar como se passaram as coisas.,
+ numerar: Durante a manhã, o candidato conversou com os esportistas sobre seu primeiro mandato e I]numerou seus projetos transformados em leis.,
+ relatar: No ano passado, foi a vez da telúrica cantora Baby (ex-Consuelo, agora do Brasil) I]relatar sua experiência na Espanha através do lançamento do diário Peregrina - Meu caminho no Caminho.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1704' = “especificar individualmente”
+{enarrar: Após I]enarrar aspectos históricos do Fundo de Garantia por Tempo de Serviço - FGTS, notadamente, quanto aos critérios de remuneração, conclui o demandante que houve desrespeitos às determinações sobre a espécie.,
+ enumerar: Pela enésima vez, volto a [enumerar as qualidades de Parreira para ajudar o leitor no retrospecto.,
+ narrar: Na súmula, o juiz da partida [narra os fatos que levaram à expulsão do atleta.,
+ numerar: Durante a manhã, o candidato conversou com os esportistas sobre seu primeiro mandato e I]numerou seus projetos transformados em leis.,
+ relatar: O delegado-geral me [relatou as providências que foram tomadas nos dois casos e as achei suficientes.,}
+Chave: ENUMERAR <verb.communication>
+ILI: 00914968
+
+Sense 1
+{00914968} <verb.communication> enumerate, recite3, itemize, itemise -- (specify individually; "She enumerated the many obstacles she had encountered"; "The doctor recited the list of possible side effects of the drug")
+       => {00993093} <verb.communication> name2, identify -- (give the name or identifying characteristics of; refer to by name or some other identifying characteristic property; "Many senators were named in connection with the scandal"; "The almanac identifies the auspicious months")
+           => {00900863} <verb.communication> denote, refer -- (have as a meaning; "`multi-' denotes `many' ")
+               => {00923390} <verb.communication> mean1, intend -- (mean or intend to express or convey; "You never understand what I mean!"; "what do his words intend?")
+                   => {00898144} <verb.communication> convey, impart1 -- (make known; pass on, of information)
+                       => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                           => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                               => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA3956
+
+DADO O SYNSET:
+
+S='Glosa3956'
+    	{arrumar: I]Arrumou os livros todos na ordem cronológica e por assunto.,
+      	 categorizar: O ministério da Saúde vai H]categorizar todos os medicamentos.,
+      	 classificar: H]Classificou as obras de arte na galeria de acordo com o seu critério.,
+      	 dividir: Quando I]dividiu os entrevistados por nível de escolaridade, foi registrado novo dado. ,
+      	 graduar: O mais difícil era M]graduar candidatos em concurso.,
+      	 ordenar: A]Ordenou todos os seus livros por assunto.,
+      	 predicamentar: H]Ele tem mania de predicamentar as pessoas.,
+      	 seriar: Ao I]seriar um conjunto pela inserção de objetos, que envolvem as atividades de níveis mais avançados no jogo, a criança estará trabalhando a mesma lógica.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3956' = “organizar ou ordenar por classes ou categorias”
+    	{arrumar: I]Arrumou os livros todos na ordem cronológica e por assunto.,
+      	 categorizar: O autor I]categorizou os problemas em 6 tipos.,
+      	 classificar: Podemos [classificá-las de acordo com a relação de autoridade e com o número de cônjuges.,
+      	 dividir: Quando I]dividiu os entrevistados por nível de escolaridade, foi registrado novo dado.,
+      	 graduar: Este teste I]gradua vinte posições específicas adquiridas pelo indivíduo.,
+      	 ordenar: O que [ordenou a sequência foram as próprias imagens.,
+      	 seriar: Quanto à noção temporal relacionada nesse estudo ao aspecto rítmico, os sujeitos A1, A3, B1 e B3 demonstraram ter noção temporal, pois descreviam os acontecimentos musicais, relatando-os em uma seqüência correta, I]seriando o som que aparecia antes e o que vinha depois.}
+Chave: CLASSIFICAR <verb.cognition>
+ILI: 00632728
+
+Sense 1
+{00632728} <verb.cognition> classify, class, sort, assort, sort out, separate -- (arrange or order by classes or categories; "How would you classify these pottery shards--are they prehistoric?")
+       => {00635327} <verb.cognition> categorize, categorise -- (place into or assign to a category; "Children learn early on to categorize")
+           => {00612517} <verb.cognition> reason -- (think logically; "The children must learn to reason")
+               => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

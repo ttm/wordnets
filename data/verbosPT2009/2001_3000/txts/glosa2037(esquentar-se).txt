@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA2037
+
+DADO O SYNSET:
+	
+S='Glosa2037'
+    	{acalorar-se: Ao mesmo tempo, I]acalorou-se o debate, até então restrito aos cordiais entendimentos entre o presidente recém eleito e os governadores de Estado.,
+      	 encalmar-se: x,
+      	 esquentar-se: O canto do Leonardo foi o derradeiro toque de rebate para I]esquentar-se a brincadeira, foi o adeus às cerimônias.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2037' = “ganhar calor ou ficar quente”
+    	{acalorar-se: O sopro, ora suave, se I]acalorou.,
+      	 esquentar-se: No friozinho, a cerâmica que se I]esquentou com a entrada de luz solar é tão atraente quanto o piso de madeira.}
+Chave: ESQUENTAR-SE <verb.change>
+ILI: 00361270
+
+Sense 4
+{00361270} <verb.change> heat, hot up2, heat up1 -- (gain heat or get hot; "The room heated up quickly")
+       => {00140715} <verb.change> change state, turn4 -- (undergo a transformation or a change of position or action; "We turned from Socialism to Capitalism"; "The people turned against the President when he stole the election")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

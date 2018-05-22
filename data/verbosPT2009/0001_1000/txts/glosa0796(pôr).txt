@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA0796
+
+DADO O SYNSET:
+
+S='Glosa796'
+{botar1: Sabe lá o que é [botar dez quilos de roupa todo dia?,
+pôr: Só Lou Reed seria capaz de [pôr uma música dessas na abertura de um disco sobre renovação espiritual e redescoberta pessoal.,}
+A='Glosa1207'
+{descalçar, despir, tirar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa796' = “colocar em um certo lugar ou localidade abstrata”
+{botar1: Sabe lá o que é [botar dez quilos de roupa todo dia?,
+pôr: Só Lou Reed seria capaz de [pôr uma música dessas na abertura de um disco sobre renovação espiritual e redescoberta pessoal.}
+
+A='Glosa1207'
+{descalçar, despir, tirar}
+Chave: PÔR <verb.contact>
+ILI: 01452069
+
+Sense 1
+{01452069} <verb.contact> put, set, place, pose2, position, lay1 -- (put into a certain place or abstract location; "Put your things here"; "Set the tray down"; "Set the dogs on the scent of the missing children"; "Place emphasis on a certain point")
+       => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")
+          Also See-> {02564241} <verb.stative> put over#2; {01269330} <verb.contact> put back#1; {02621369} <verb.stative> put back#2; {02564241} <verb.stative> put off#1; {01923102} <verb.motion> put down#3; {02419814} <verb.social> put away#3; {01609650} <verb.creation> put together#1; {01323844} <verb.contact> put on#7; {01526952} <verb.contact> put up#1; {01501920} <verb.contact> put down#2; {00717906} <verb.communication> put across#1

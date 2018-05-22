@@ -1,0 +1,42 @@
+ANÁLISE DA GLOSA3896
+
+DADO O SYNSET:
+
+S='Glosa3896'
+    	{apontar: Isso I]aponta seu caráter ideológico.,
+      	 assinalar: A lividez do rosto M]assinala sua enfermidade.,
+      	 caracterizar: O poder de síntese A]caracteriza sua obra.,
+      	 caraterizar: Diante do policentrismo que I]carateriza a economia globalizada, diz Faria, o direito positivo enfrenta enormes limitações estruturais.,
+      	 descobrir: Suas atitudeds A]descobriram seu caráter. ,
+      	 desencobrir: x,
+      	 detectar: Por esse exame, pode-se [detectar se a pessoa está anêmica ou não .,
+      	 distinguir: O amor M]distingue o cristão.,
+      	 identificar: Os documentos H]identificaram o morto.,
+      	 pontar: x,
+ sinalar: x, }
+
+A='Glosa1214'
+    	{descaracterizar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3896' = “ser uma característica [de]”
+    	{apontar: Isso I]aponta seu caráter ideológico.,
+      	 assinalar: Mas esse paradoxo, que [assinala talvez um traço novo e notável das propriedades da matéria em seu crivo mais fino, exige, para ser comentado, uma análise pelo menos sumária do que entendemos pelo conceito de “partícula elementar”.,
+      	 caracterizar: É essa instrução moral que [caracteriza a obra do imortal Richardson.,
+      	 caraterizar: Diante do policentrismo que I]carateriza a economia globalizada, diz Faria, o direito positivo enfrenta enormes limitações estruturais.,
+      	 descobrir: O grotesco derruba essa necessidade e I]descobre seu caráter relativo e limitado.,
+      	 detectar: Isso [detecta não a inflação passada, mas a tendência atual.,
+      	 distinguir: A adoração transforma-se naturalmente no culto da própria individualidade, nessa exageração prodigiosa do estalão humano que [distingue as idades heróicas.,
+      	 identificar: O vermelho que [identifica o partido está na estrela de cinco pontas que acompanha o «Lula Brasil».}
+
+A='Glosa1214'
+    	{descaracterizar}
+Chave: CARACTERIZAR <verb.stative>
+ILI: 02616751
+
+Sense 1
+{02616751} <verb.stative> characterize1, characterise1 -- (be characteristic of; "What characterizes a Venetian painting?")
+       => {00630273} <verb.cognition> distinguish2, mark9, differentiate2 -- (be a distinctive feature, attribute, or trait; sometimes in a very positive sense; "His modesty distinguishes him form his peers")
+           => {00924929} <verb.communication> qualify1, characterize, characterise -- (describe or portray the character or the qualities or peculiarities of; "You can characterize his behavior as that of an egotist"; "This poem can be characterized as a lament for a dead lover")
+               => {00589832} <verb.cognition> remember1, think of -- (keep in mind for attention or consideration; "Remember the Alamo"; "Remember to call your mother every day!"; "Think of the starving children in India!")

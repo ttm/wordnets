@@ -1,0 +1,40 @@
+ANÁLISE DA GLOSA4118
+
+DADO O SYNSET:
+
+S='Glosa4118'
+{aqueixar-se: x,
+arrepelar-se: Vive se H]arrepelando pelo pecado cometido.,
+carpir-se: Não se I]carpiam, como se estivessem realizando um destino irremediável.,
+chorar-se: Mesmo nas piores situações não o vemos H]chorar-se.,
+conjurar-se: Todas as criaturas parecem que se I]conjuram contra nós.,
+deplorar-se: H]Deplorou-se pelo fracasso do projeto.,
+esconjurar-se: Mas antes, I]esconjura-se com o que lhe aconteceu.,
+lamentar-se: Cida se I]lamentou por ter ficado com o amigo.,
+lamuriar-se: Vanderlei não se I]lamuriou como fizeram os treinadores.,
+lastimar-se: O personagem dele é o de um ator que se I]lastimava por ter que passar a vida dublando canastrões.,
+prantear-se: H]Pranteava-se dia e noite.,
+queixar-se: Sorria o tempo todo e não se I]queixava de nada.,
+querelar-se: H]Querelava-se das injustiças sofridas.,
+reclamar: O vendedor I]reclamou que a negociação não foi concretizada.,
+vagir: Ferido, o cão H]vagia desesperado.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4118' = “arrepender-se profundamente”
+{arrepelar-se: Vive se H]arrepelando pelo pecado cometido.,
+carpir-se: Não se I]carpiam, como se estivessem realizando um destino irremediável.,
+chorar-se: Mesmo nas piores situações não o vemos H]chorar-se.,
+conjurar-se: Não se M]conjure tanto, que muitos são ainda mais desventurados.,
+deplorar-se: H]Deplorou-se pelo fracasso do projeto.,
+esconjurar-se: Mas antes, I]esconjura-se com o que lhe aconteceu.,
+lamentar-se: Cida se I]lamentou por ter ficado com o amigo.,
+lamuriar-se: Vanderlei não se I]lamuriou como fizeram os treinadores.,
+lastimar-se: O personagem dele é o de um ator que se I]lastimava por ter que passar a vida dublando canastrões.,
+prantear-se: H]Pranteava-se dia e noite.,}
+Chave: LAMENTAR-SE <verb.communication>
+ILI: 00881348
+
+Sense 2
+{00881348} <verb.communication> deplore1, lament, bewail, bemoan -- (regret strongly; "I deplore this hostile action"; "we lamented the loss of benefits")
+       => {00877347} <verb.communication> complain, kick, plain, sound off, quetch, kvetch -- (express complaints, discontent, displeasure, or unhappiness; "My mother complains all day"; "She has a lot to kick about")

@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA1282
+
+DADO O SYNSET:
+
+S='Glosa1282'
+{arrancar: Antes de renunciar, Inocêncio o [arrancou da cadeira, para outra conversa na sala da liderança.,
+ arrebatar: Ao vê-los hesitantes, I]arrebatou o machado das mãos de um deles.,
+ empolgar: A]Empolgou os bens que não lhe pertenciam.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1282' = “arrancar, geralmente com certa violência e empenho; também utilizado no sentido abstrato”
+{arrancar: Antes de renunciar, Inocêncio o [arrancou da cadeira, para outra conversa na sala da liderança.,
+ arrebatar: Ao vê-los hesitantes, I]arrebatou o machado das mãos de um deles.,
+ empolgar: Saí depois da Revisão e ingressei na Redação, e o sr. Acácio ficou no seu posto, até que a morte o I]empolgou em suas garras.,}
+Chave: ARRANCAR <verb.contact>
+ILI: 01311287
+
+Sense 15
+{01311287} <verb.contact> extract4, pull out, pull10, pull up, take out9, draw out5 -- (draw or pull out, usually with some force or effort; also used in an abstract sense; "pull weeds"; "extract a bad tooth"; "take out a splinter"; "extract information from the telegram")
+       => {00166870} <verb.change> remove, take, take away1, withdraw1 -- (remove something concrete, as by lifting, pushing, taking off, etc. or remove something abstract; "remove a threat"; "remove a wrapper"; "Remove the dirty dishes from the table"; "take the gun from your pocket"; "This machine withdraws heat from the environment")

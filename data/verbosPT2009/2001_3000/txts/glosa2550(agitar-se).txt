@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA2550
+
+DADO O SYNSET:
+
+S='Glosa2550'
+	    {agitar-se: Bandeiras de todos os clubes [se agitam, mas nas arquibancadas a soma de todas essas cores parece se fundir em duas só: torcedores unidos por um objetivo maior e único deixam a condição de arqui-inimigos para juntos torcerem fraternalmente para o selecionado brasileiro.# As tochas fúnebres [se agitam.# A hidratação é importante para você que vai transpirar muito sob o sol ou I]agitar-se na avenida.,
+	      sacolejar-se: Voar debaixo de uma garoa havia de ser maravilhoso, depois, I]sacolejar-se ao sol aquecendo-se, e voar, voar, voar...,
+	      sacudir-se: No Carnaval, a moça promete [se sacudir na Caprichosos de Pilares, com o marido Hans Donner.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2550' = “Mexer-se muito ligeiramente.”
+	    {agitar-se: A hidratação é importante para você que vai transpirar muito sob o sol ou I]agitar-se na avenida.,
+	      sacolejar-se: Alguém me explicou se tratar de "Brutal Death Metal", em que o cantor I]se sacolejava no palco que nem uma enguia.,
+	      sacudir-se: Aos gritos de "vamos lá", ele andou, pulou, gritou e I]se sacudiu pelo palco durante um evento.,}
+
+Chave: AGITAR-SE <verb.motion>
+ILI: 01839599
+
+Sense 4
+{01839599} <verb.motion> stir, shift1, budge, agitate -- (move very slightly; "He shifted in his seat")
+       => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right") 

@@ -1,0 +1,37 @@
+ANÁLISE DA GLOSA3111
+
+DADO O SYNSET:
+
+S='Glosa3111'
+	    {
+	      caber: A eles [cabe integrar e ajustar as atividades dos outros sistemas às necessidades de todo o organismo.,
+	      competir: Como essa transferência é um serviço que [compete exclusivamente à Telerj, precisamos esperar ela concluí-lo.,
+	      correr: A]Corre à polícia o dever de averiguar as denúncias.,
+	      cumprir: Ao autor [cumpre precisar os fatos que autorizam a concessão da providência jurídica reclamada, incumbindo ao juiz conferir-lhes o adequado enquadramento legal.,
+	      impender: I]Impende ao juiz ampliar o leque de exigência.,
+	      incumbir: A resolução dos assuntos deve ser precedida de um relatório que [incumbe a um funcionário da secretaria ou a um relator nomeado ad hoc. ,
+	      interessar: Das disposições trazidas pela norma suso transcrita I]interessa ao caso vertente aquelas que impõem ao juiz eleitoral, uma vez recebida a relação dos filiados a determinado partido, determinar seu arquivamento e sua publicação. ,
+	      pertencer: A responsbilidade dos atos criminosos não [pertence tão só aos que lutam, mas também aos que se calam.,
+	      respeitar: Estas circunstâncias M]respeitam à moralidade e à virtude.,
+	      tocar: Sempre no sentido de alcançar a igualdade com o homem cuja dominação denuncia, não discute a parte que lhe [toca naturalmente de representar a consciência moral, a qual lhe dá um status de que não abdica. ,
+	    }
+
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3111' = “conferir responsabilidade”
+	     {caber: I]Cabe a ele instaurar processo disciplinar contra os membros da instituição, em caso de falta funcional, e organizar e manter o prontuário dos membros do MP.,
+	      competir: I]Compete à Procuradoria de Serviços Públicos atuar nos procedimentos administrativos e nos processos judiciais que não se enquadram nas competências das demais Procuradorias.,
+	      correr: A]Corre à polícia o dever de averiguar as denúncias.,
+	      cumprir: Após a coleta do sangue, I]cumpre ao hemocentro realizar todos os testes à sua disposição.,
+	      impender: I]Impende ao juiz ampliar o leque de exigência.,
+	      incumbir: Aos coordenadores-gerais I]incumbe coordenar e supervisionar a execução das várias atividades a seu cargo. ,
+	      pertencer: A responsbilidade dos atos criminosos não [pertence tão só aos que lutam, mas também aos que se calam.,
+	      tocar: Sei que isso I]toca ao Presidente José Sarney, que presidiu este Congresso e este País. ,}
+Chave: CABER <verb.possession>
+ILI: 02281584
+
+Sense 5
+{02281584} <verb.possession> entrust, intrust, trust, confide, commit -- (confer a trust upon; "The messenger was entrusted with the general's secret"; "I commit my soul to God")
+       => {02166354} <verb.possession> pass, hand, reach, pass on1, turn over, give6 -- (place into the hands or custody of; "hand me the spoon, please"; "Turn the files over to me, please"; "He turned over the prisoner to his lawyers")
+           => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children")

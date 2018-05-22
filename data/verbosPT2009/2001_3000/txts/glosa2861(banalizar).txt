@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA2861
+
+DADO O SYNSET:
+
+S='Glosa2861'
+	    {banalizar: O excesso de exposição tende a I]banalizar a violência.,
+	      familiarizar: x,
+	      trivializar: Estes aspectos são importantes para o médico não I]trivializar o problema obesidade, ou restringi-lo somente a uma questão estética ou de auto-estima.,
+	      vulgar: x,
+	      vulgarizar: O perigo dos comentários irresponsáveis da articulista é que eles [vulgarizam um problema grave.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2861' = “Rebaixar e tornar comum”
+	    {banalizar: O trato diário com o celular I]banalizou esse aparelhinho fantástico.,
+	      trivializar: Essa freqüência I]trivializou a prática e os sentidos do beijar.,
+	      vulgarizar: O perigo dos comentários irresponsáveis da articulista é que eles [vulgarizam um problema grave.,}
+Chave: BANALIZAR <verb.change>
+ILI: 00566652
+
+Sense 2
+{00566652} <verb.change> vulgarise1, vulgarize1 -- (debase and make vulgar; "The Press has vulgarized Love and Marriage")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

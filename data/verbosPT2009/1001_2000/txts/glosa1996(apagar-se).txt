@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA1996
+
+DADO O SYNSET:
+
+S='Glosa1996'
+{amortecer-se: M]Amorteciam-se vagarosamente as velas.,
+ amortiçar-se: x,
+ apagar-se: Quando iam entrar, a luz que o aventureiro levava na mão para esclarecer o caminho, [apagou-se de repente.,
+ desvaecer-se: x,
+ desvanecer-se: x,
+ esmaecer: A luz da capela H]esmaecia devagar.,
+ esmorecer: O cônego, pesado, cerrava as pálpebras; tudo na sala parecia ir gradualmente adormecendo; a luz do candeeiro I]esmorecia. ,
+ extinguir-se: Sobre a cômoda, dentro de uma bacia, a lamparina I]extinguia-se.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1996' = “ficar apagado”
+{apagar-se: Quando iam entrar, a luz que o aventureiro levava na mão para esclarecer o caminho, [apagou-se de repente.,
+ esmaecer: De repente, a luz I]esmaeceu e com um solavanco o carro parou.,
+ esmorecer: O cônego, pesado, cerrava as pálpebras; tudo na sala parecia ir gradualmente adormecendo; a luz do candeeiro I]esmorecia.,
+ extinguir-se: Sobre a cômoda, dentro de uma bacia, a lamparina I]extinguia-se.,}
+Chave: APAGAR-SE <verb.change>
+ILI: 00341233
+
+Sense 4
+{00341233} <verb.change> go out -- (become extinguished; "The lights suddenly went out and we were in the dark")
+       => {02531897} <verb.stative> end, stop13, finish, terminate, cease13 -- (have an end, in a temporal, spatial, or quantitative sense; either spatial or metaphorical; "the bronchioles terminate in a capillary bed"; "Your rights stop where you infringe upon the rights of other"; "My property ends by the bushes"; "The symphony ends in a pianissimo")

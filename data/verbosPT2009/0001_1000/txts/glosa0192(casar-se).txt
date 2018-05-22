@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0192
+
+DADO O SYNSET:
+
+S='Glosa192'
+{afamilhar-se: x,
+afamiliar-se: x,
+casar-se: Em 1469, quando Fernando de Aragão e Isabel de Castela [se casaram, seus reinos compreendiam quase todas as atuais terras espanholas, menos o reino muçulmano de Granada, situado no Sul, e o pequeno reino nordestino de Navarra.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa192' = “tomar em casamento”
+{casar-se: Em 1469, quando Fernando de Aragão e Isabel de Castela [se casaram, seus reinos compreendiam quase todas as atuais terras espanholas, menos o reino muçulmano de Granada, situado no Sul, e o pequeno reino nordestino de Navarra.,}
+Chave: CASAR-SE <verb.social>
+ILI: 02414542
+
+Sense 1
+{02414542} <verb.social> marry, get married, wed, conjoin, hook up with, get hitched with, espouse -- (take in marriage)
+       => {02395769} <verb.social> unite, unify -- (act in concert or unite in a common purpose or belief)
+           => {02361668} <verb.social> join, fall in, get together2 -- (become part of; become a member of a group or organization; "He joined the Communist Party as a young man")

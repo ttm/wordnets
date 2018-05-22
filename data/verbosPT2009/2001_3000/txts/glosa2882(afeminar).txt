@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA2882
+
+DADO O SYNSET:
+
+S='Glosa2882'
+	    {afeminar: É, japonês gosta mesmo de I]afeminar os personagens masculinos.,
+	      efeminar: Os meninos não têm direito a uma moral diferente das meninas e ambos têm o direito de ser educados como tais, sem I]efeminar uns, nem virilizar outros.,
+	      efeminizar: Se o culto do século dezenove da vida estrênua era baseado em temores de que a vida moderna era excessivamente arregimentada, I]efeminizando os homens e fazendo-os escravos da tecnologia e burocracia, Houdini era um dos exemplos do culto. ,
+	      emascular: x,
+	      feminizar: Diríamos talvez, simbolicamente, que tem pessoas que produzem úlceras e outras que produzem câncer; que existem esposas que I]feminizam seu marido.,}
+
+	  A='Glosa1647'
+	    {desfeminizar: O maquiador H]desfeminizava as atrizes.,
+	     masculinizar: No começo dessa transição, a mulher que se arriscava precisava, para se impor, I]masculinizar sua figura, vestindo  figurinos os mais próximos dos homens.,
+	     virilizar: Madeleine Pelletier, psiquiatra que viveu no início do século XX,  defendia que as mulheres se deviam I]virilizar para conseguir a igualdade.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2882' = “Dar qualidade ou aparência (mais) feminina ou afeminada” 
+	    {afeminar: É, japonês gosta mesmo de I]afeminar os personagens masculinos.,
+	      efeminar: Entregando-os a desnaturados que os I]efeminavam e os ensinavam a tocar música, cantar e dançar.,
+	      efeminizar: Este objeto faz parte do universo e do espaço femininos; se o espelho é portado pelo homem, o I]efeminiza.,
+	      feminizar: Diríamos talvez, simbolicamente, que tem pessoas que produzem úlceras e outras que produzem câncer; que existem esposas que I]feminizam seu marido.,}
+
+	  A='Glosa1647'
+	    {desfeminizar, masculinizar, virilizar}
+Chave: AFEMINAR <verb.change>
+ILI: 00550811
+
+Sense 1
+{00550811} <verb.change> feminize, feminise, effeminize, erreminise, womanize -- (to give a (more) feminine, effeminate, or womanly quality or appearance to; "This hairdo feminizes the man")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

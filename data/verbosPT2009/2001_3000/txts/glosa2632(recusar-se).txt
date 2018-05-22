@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA2632
+
+DADO O SYNSET:
+
+S='Glosa2632'
+	    {denegar-se: A carta rogatória deverá ser cumprida de oficio pela autoridade jurisdicional competente do Estado requerido, e somente poderá I]denegar-se quando a medida solicitada, por sua natureza, atente contra os princípios de ordem pública do Estado requerido. ,
+	      negar-se: I]Negar-se a emprestar aquela saia caríssima (da qual você morre de ciúme) para uma amiga, negar-se a fazer o trabalho dos outros, negar-se a assumir papéis que você não quer, negar-se a respirar fumaça de cigarro em uma área de não-fumantes, dizer que não vai comprar nada para aquela vendedora que fica empurrando mercadorias é arriscar-se a encarar reprovações.,
+	      opor-se: Ao autor assiste o direito de I]opor-se à representação ou execução que não seja suficientemente ensaiada.,
+	      recusar-se: Para Westermann, "há uma fronteira no humanismo» que, «por toda a compreensão com a necessidade da expulsão, é ultrapassada por métodos" como amarrar refugiados que [se recusam a entrar no avião que os repatria.,
+	      resistir: Por vezes é impossível [resistir a um desejo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2632' = “Mostrar relutância a respeito de alguma coisa.”
+	    {denegar-se: H]Denegou-se a colaborar com os inimigos.,
+	      negar-se: Carvalho I]negou-se a sair e teve de ser demitido.,
+	      opor-se: Foi ele quem proclamou a igualdade de todos os homens e I]opôs-se a vingança privada decisivamente.,
+	      recusar-se: Para Westermann, há uma fronteira no humanismo que é ultrapassada por métodos como amarrar refugiados que [se recusam a entrar no avião que os repatria.,
+	      resistir: Por vezes é impossível [resistir a um desejo.,}
+
+Chave: RECUSAR-SE <verb.communication>
+ILI: 00771620
+
+Sense 1
+{00771620} <verb.communication> refuse, decline -- (show unwillingness towards; "he declined to join the group on a hike")
+       => {00693825} <verb.cognition> react, respond -- (show a response or a reaction to something)
+           => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel") 

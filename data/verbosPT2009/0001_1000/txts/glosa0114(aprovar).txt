@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA0114
+
+DADO O SYNSET:
+
+S='Glosa114'
+{adotar: Onze países da Comunidade Econômica Européia, à exceção da Grã-Bretanha, que mantém estreitos laços comerciais com o país do apartheid, decidiram também [adotar sanções políticas e econômicas.,
+aprovar: A Câmara dos Deputados [aprovou anteontem projeto de lei legalizando a esterilização voluntária de homens e mulheres.,
+outorgar: Não pode o cônsul, pois, [outorgar mandato judicial em representação do Estado estrangeiro, visando ajuizar demanda perante a Justiça brasileira.,}
+
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa114' = “dar sanção a”
+{adotar: Onze países da Comunidade Econômica Européia, à exceção da Grã-Bretanha, que mantém estreitos laços comerciais com o país do apartheid, decidiram também [adotar sanções políticas e econômicas.,
+aprovar: A Câmara dos Deputados [aprovou anteontem projeto de lei legalizando a esterilização voluntária de homens e mulheres.,
+outorgar: Não pode o cônsul, pois, [outorgar mandato judicial em representação do Estado estrangeiro, visando ajuizar demanda perante a Justiça brasileira.,}
+Chave: APROVAR <verb.communication>
+ILI: 00780419
+
+Sense 1
+{00780419} <verb.communication> approve, O.K., okay, sanction1 -- (give sanction to; "I approve of his educational policies")
+       => {00777368} <verb.communication> authorize, authorise, pass, clear1 -- (grant authorization or clearance for; "Clear the manuscript for publication"; "The rock star never authorized this slanderous biography")
+           => {00776433} <verb.communication> permit, allow, let2, countenance -- (consent to, give permission; "She permitted her son to visit her estranged husband"; "I won't let the police search her basement"; "I cannot allow you to see your exam")
+               => {00771887} <verb.communication> accept, consent, go for -- (give an affirmative reply to; respond favorably to; "I cannot accept your invitation"; "I go for this resolution")
+                   => {00693825} <verb.cognition> react, respond -- (show a response or a reaction to something)
+                       => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

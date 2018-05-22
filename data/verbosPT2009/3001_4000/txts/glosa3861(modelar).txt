@@ -1,0 +1,39 @@
+ANÁLISE DA GLOSA3861
+
+DADO O SYNSET:
+	
+S='Glosa3861'
+{afeiçoar2: Quando já iam longe, depois de algumas horas de trabalho, reconheceu o tenente-coronel Siqueira de Meneses a impossibilidade de I]afeiçoar os caminhos com a presteza necessária. ,
+	 amodelar: x,
+	 amoldar: Selecione os conteúdos dos jarros e então repita o procedimento do passo 37 para I]amoldar o topo da peça. ,
+	 calcar: DEVIANT,
+	 emoldar: x,
+	 esculpir: Com a ajuda de alguns instrumentos, tais como pinças ou bastonetes, podemos [esculpir essa massa da maneira que quisermos.,
+	 formar: As abelhas estavam [formando uma colméia em seu açougue e atacaram o comerciante, que morreu por reação alérgica.,
+	 modelar: Mas se estamos [modelando figuras muito complexas, sobretudo aquelas definidas por formas curvas, a técnica se mostra bastante limitada.,
+	 moldar: Foi pensando na estética que a ótica Fiore Miguel começou a [moldar óculos de acordo com o rosto do cliente, há 25 anos.,
+	 plasmar: Nina Moraes convive com Ester Grinspum, e seus «Vasos Fechados», que retomam a forma em contenção, mas também a expansão ilimitada do espaço interno ao vaso de cerâmica; lembremos do oleiro que molda o vazio, [plasmando seu vaso em torno dele.}
+
+A='Glosa1415'
+{deformar, desajeitar, desformar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3861' = “planejar ou criar de acordo com um modelo ou modelos”
+{afeiçoar2: Quando já iam longe, depois de algumas horas de trabalho, reconheceu o tenente-coronel Siqueira de Meneses a impossibilidade de I]afeiçoar os caminhos com a presteza necessária.,
+	 amoldar: Selecione os conteúdos dos jarros e então repita o procedimento do passo 37 para I]amoldar o topo da peça. ,
+	 esculpir: Com a ajuda de alguns instrumentos, tais como pinças ou bastonetes, podemos [esculpir essa massa da maneira que quisermos.,
+	 formar: As abelhas estavam [formando uma colméia em seu açougue e atacaram o comerciante, que morreu por reação alérgica.,
+	 modelar: Mas se estamos [modelando figuras muito complexas, sobretudo aquelas definidas por formas curvas, a técnica se mostra bastante limitada.,
+	 moldar: Foi pensando na estética que a ótica Fiore Miguel começou a [moldar óculos de acordo com o rosto do cliente, há 25 anos.,
+	 plasmar: Lembremos do oleiro que molda o vazio, [plasmando seu vaso em torno dele.}
+
+A='Glosa1415'
+{deformar, desajeitar, desformar}
+Chave: MODELAR <verb.creation>
+ILI: 01694597
+Sense 1 
+{01694597} <verb.creation> model2, pattern -- (plan or create according to a model or models)
+       => {01693699} <verb.creation> imitate, copy, simulate4 -- (reproduce someone's behavior or looks; "The mime imitated the passers-by"; "Children often copy their parents or older siblings")
+           => {01687654} <verb.creation> reproduce -- (make a copy or equivalent of; "reproduce the painting")
+               => {01575778} <verb.creation> produce, make1, create3 -- (create or manufacture a man-made product; "We produce more cars than we can sell"; "The company has been making toys for two centuries")

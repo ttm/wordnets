@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0772
+
+DADO O SYNSET:
+
+S='Glosa772'
+{reduzir: A] Reduzir reais a dólares.,}
+A='Glosa4052'
+{alargar, alongar, ampliar, amplificar, aumentar, continuar, delongar, dilatar,      distender, estender, prolongar, propagar, prorrogar, protrair}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa772' = “tornar menor; diminuir o tamanho de”
+{reduzir: O Supremo Tribunal de Justiça I]reduziu em dois anos e meio a pena de prisão de um homem que tinha sido condenado por abuso sexual de menores.,}
+A='Glosa4052'
+{alargar, alongar, ampliar, amplificar, aumentar, continuar, delongar, dilatar, distender, estender, prolongar, propagar, prorrogar, protrair}
+Chave: REDUZIR <verb.change>
+ILI: 00416885
+
+Sense 1
+{00416885} <verb.change> reduce, cut down, cut back1, trim, trim down, trim back, cut6, bring down -- (cut down on; make a reduction in; "reduce your daily fat intake"; "The employer wants to cut back health benefits")
+       => {00428838} <verb.change> decrease1, lessen2, minify -- (make smaller; "He decreased his staff")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA2502
+
+DADO O SYNSET:
+
+S='Glosa2502'
+	    {distinguir: O ouvido humano só consegue [distinguir dois sons se eles atingirem o ouvido com um intervalo de tempo de no mínimo 0,1 s.,
+	      entender: O português pode ser uma língua fácil de [entender, mas não é tão fácil de falar. # O pastor não bem I]entendeu o que aquele homem estava dizendo.,
+	      entreouvir: O que ele deixa entrever, ou melhor, [entreouvir, é uma voz, nem mais, nem menos.,
+	      escutar: Aurélia atravessou o aposento, e chegando à porta que ficava fronteira aquela pôr onde entrara, curvou de leve a cabeça recolhendo-se para [escutar; mas não ouviu senão o arfar do seio, que lhe ofegava.,
+	      ouvir: São também famosas as histórias de índios que encostam a orelha no chão para [ouvir o galope de cavalos suficientemente distantes para não serem vistos, podendo portanto as ondas sonoras se deslocar nos sólidos, como é o caso do solo.,
+	      perceber: Assim, para que possamos [perceber o eco, o som deve, entre a ida e a volta, percorrer uma distância mínima de 34 metros, ou seja, 17 metros na ida e 17 na volta. # O ouvido humano normal consegue [perceber freqüências entre 20 Hz e 20 000 Hz, aproximadamente.,
+	      sentir: Trata-se de uma "adaptação" do cérebro para prover também os surdos da capacidade de I]sentir o som.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2502' = “Perceber (som) pelo sentido auditivo.”
+	    {distinguir: O ouvido humano só consegue [distinguir dois sons se eles atingirem o ouvido com um intervalo de tempo de no mínimo 0,1 s.,
+	      entender: O pastor não bem I]entendeu o que aquele homem estava dizendo.,
+	      entreouvir: O que ele deixa entrever, ou melhor, [entreouvir, é uma voz, nem mais, nem menos.,
+	      escutar: Recuperou a consciência – [escutou uma voz de mulher.,
+	      ouvir: São também famosas as histórias de índios que encostam a orelha no chão para [ouvir o galope de cavalos suficientemente distantes para não serem vistos., 
+	      perceber: O ouvido humano normal consegue [perceber freqüências entre 20 Hz e 20 000 Hz, aproximadamente.,}
+
+Chave: OUVIR <verb.perception>
+ILI: 02107444
+
+Sense 1
+{02107444} <verb.perception> hear -- (perceive (sound) via the auditory sense)
+       => {02045668} <verb.perception> perceive, comprehend -- (to become aware of through the senses; "I could perceive the ship coming over the horizon") 

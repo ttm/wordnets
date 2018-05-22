@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA2110
+
+DADO O SYNSET:
+	
+S='Glosa2110'
+    	{defender-se: Em esclarecimentos acerca de imputações relacionadas ao recém-falecido conde de Essex, Bacon I]defendeu-se da acusação de traição.,
+      	 desculpar-se: Mais tarde I]desculpou-se pretextando sua doença (epilepsia), dizendo que os que dela padecem de forma alguma podem permanecer firmes, falando de pé à multidão, mas perdem a noção das coisas quando se sentem sacudidos, turbados, acossados de vertigens. ,
+      	 exculpar-se: O acusado busca com sua declaração I]exculpar-se.,
+      	 justificar-se: Em inquérito policial instaurado em face do primeiro Requerido, este I]justificou-se alegando que exercia a atividade de massagista e que possuía, também, um diploma de técnico em fisioterapia.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2110' = “defender-se, explicar-se ou desculpar-se [por algo] usando a razão” 
+    	{defender-se: O relator se [defende afirmando que cumpriu o seu papel de fazer os pareceres.,
+      	 desculpar-se: Mais tarde I]desculpou-se pretextando sua doença (epilepsia), dizendo que os que dela padecem de forma alguma podem permanecer firmes, falando de pé à multidão.,
+      	 exculpar-se: O acusado busca com sua declaração I]exculpar-se.,
+      	 justificar-se: Sobre isso, Bloom se [justifica dizendo que conhece pouco a literatura brasileira e que, por exemplo, as traduções dos livros de Machado de Assis são «inadequadas».}
+Chave: JUSTIFICAR-SE <verb.communication>
+ILI: 00865308
+
+Sense 3
+{00865308} <verb.communication> apologize1, apologise1, excuse1, justify2, rationalize, rationalise -- (defend, explain, clear away, or make excuses for by reasoning; "rationalize the child's seemingly crazy behavior"; "he rationalized his lack of success")
+       => {00865802} <verb.communication> defend, support1, fend for -- (argue or speak in defense of; "She supported the motion to strike")
+           => {00746664} <verb.communication> argue2, reason -- (present reasons and arguments)
+               => {00747406} <verb.communication> present, represent11, lay out -- (bring forward and present to the mind; "We presented the arguments to him"; "We cannot represent this knowledge to our formal reason")
+                   => {00976600} <verb.communication> state, say, tell4 -- (express in words; "He said that he wanted to marry her"; "tell me what is bothering you"; "state your opinion"; "state your name")
+                       => {00909455} <verb.communication> express, verbalize3, verbalise3, utter1, give tongue to -- (articulate; either verbally or with a cry, shout, or noise; "She expressed her anger"; "He uttered a curse")

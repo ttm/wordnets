@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA1628
+
+DADO O SYNSET:
+
+S='Glosa1628'
+{derivar: As obras H]derivaram as águas do rio para outro curso.,
+ desviar: Pois o soberano o contratou para um projeto grandioso, I]desviar o curso do rio Nilo para controlar as cheias. ,
+ drenar: DEVIANT,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1628' = “mudar a direção de um curso reto, de uma direção fixa”
+{derivar: Um empreendimento que I]derivou águas públicas sem concessão administrativa expedida pelo DNAEE, ou pela ANA, depois disso, permanece irregular, até que obtenha a outorga.,
+ desviar: Os empresários do Estado não concordam com o projeto do governo de transposição do rio São Francisco, que [desvia o curso do rio para Paraíba, Rio Grande do Norte e Ceará.,}
+Chave: DESVIAR <verb.motion>
+ILI: EQ_HAS_HYPERONYM - 01976188
+
+Sense 2
+{01976188} <verb.motion> deflect1, bend2, turn away -- (turn from a straight course , fixed direction, or line of interest)
+       => {01851475} <verb.motion> turn -- (change orientation or direction, also in the abstract sense; "Turn towards me"; "The mugger turned and fled before I could see his face"; "She turned from herself and learned to listen to others' needs")
+           => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right")

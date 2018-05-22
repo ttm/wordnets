@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA2934
+
+DADO O SYNSET:
+
+S='Glosa2934'
+	    {fosforear: Como o pirilampo I]fosforeia, a trova tem as luzes, sons e imagens, mas não marca a glória das reais paisagens com que se canta o amor e a dor pranteia.,
+	      fosforejar: Sinto como a tua íris I]fosforeja entre um poema, um riso e uma cerveja.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2934' = “Brilhar intensamente, como se com alta temperatura”
+	    {fosforear: Como o pirilampo I]fosforeia, a trova tem as luzes, sons e imagens, mas não marca a glória das reais paisagens com que se canta o amor e a dor pranteia.,
+	      fosforejar: Sinto como a tua íris I]fosforeja entre um poema, um riso e uma cerveja.,}
+Chave: FOSFOREAR <verb.weather>
+ILI: 02686771
+
+Sense 2
+{02686771} <verb.weather> burn1, glow -- (shine intensely, as if with heat; "The coals were glowing in the dark"; "The candles were burning")
+       => {02681817} <verb.weather> shine, beam3 -- (emit light; be bright, as of the sun or a light; "The sun shone bright that day"; "The fire beamed on their faces") 

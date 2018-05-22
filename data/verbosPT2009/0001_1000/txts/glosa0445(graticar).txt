@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA0445
+
+DADO O SYNSET:
+
+S='Glosa445'
+{agradecer: Vou pedir permissão para [agradecer a minha emissora, a Fundação Roberto Marinho, porque devo minha vida à ela.,
+gratificar: H]Gratifiquemos àqueles que nos auxiliam.,}
+A='Glosa1118'
+{desagradecer}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa445' = “expressar gratidão ou mostrar apreciação para”
+{agradecer: Vou pedir permissão para [agradecer a minha emissora, a Fundação Roberto Marinho, porque devo minha vida à ela.,
+gratificar: Do ponto de vista pessoal, a experiência do CD I]gratificou-me, por me mostrar a força da herança sonora da poesia popular nordestina em minha produção.,}
+A='Glosa1118'
+{desagradecer}
+Chave: GRATIFICAR <verb.communication>
+ILI: 00862885
+
+Sense 1
+{00862885} <verb.communication> thank, give thanks4 -- (express gratitude or show appreciation to)
+       => {00898144} <verb.communication> convey, impart1 -- (make known; pass on, of information)
+           => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+               => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

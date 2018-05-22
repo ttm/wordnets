@@ -1,0 +1,45 @@
+ANÁLISE DA GLOSA3340
+
+DADO O SYNSET:
+
+S='Glosa3340'
+	    {
+	      abominar: Embora ele mesmo se julgue um lento, dado a abraçar teorias com décadas de atraso, é também, sem dúvida, um descobridor, mas que [abomina os modismos.,
+	      aborrecer: Tem no mundo um amor, é sua filha; [aborrece Américo; mas finge que o estima para ver se consegue casar Anica ou com ele ou em último recurso comigo.,
+	      amaldiçoar: Araquém abraçará sua filha, para não [amaldiçoar o estrangeiro ingrato.,
+	      arrenegar: Daí teria vindo o hábito de I]arrenegar os desafetos e inimigos, mandando-os para os Quintos dos infernos.,
+	      desadorar1: Contra o que era de esperar, o chefe expedicionário não I]desadorou o alvitre.,
+	      desamar: Clamavam então os ortodoxos que eu malfazia à República, que eu a I]desamava e combalia, embaraçando os vícios de situações que a estragavam.,
+	      desquerer: Fingiu que fôra vontade de Deus, sendo duas vontades de Rebeca: uma com que queria a Jacó, e outra com que I]desqueria a Esaú. ,
+	      detestar: Minha mãe o [detestava e não queria que a gente casasse de jeito nenhum.,
+	      execrar: Viu-se conservador em política, porque o pai o era, o tio, os amigos da casa, o vigário da paróquia, e ele começou na escola a [execrar os liberais. ,
+	      maldiçoar: x,
+	      malquerer: Vira-se a última página do romance As Desencantadas, A]malquerendo o romancista pela impressão profunda de tristeza que ele nos influiu ao findar.,
+	      odiar: Fiquei surpreso, pois as críticas contra minha ex-banda eram tantas que eu achava que todo mundo me [odiava.,
+	      ojerizar: O consumidorlesado obterá uma satisfação monetária pelos transtornos e constrangimentos sofridos nasua via crucis, pois já se sabe que os juízes I]ojerizam este entendimento tão divulgado pela Justiça americana.,
+	      renegar: M]Renegar o pecado.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3340' = “achar repugnante”
+	     {abominar: Como bom engenheiro, [abomina os arroubos, os impulsos, os atos «incompreensíveis» que faziam a glória de um Jânio Quadros, por exemplo.,
+	      aborrecer: O ‘pluralismo político’ – que é um dos fundamentos da República – I]aborrece a unificação compulsória de um modelo de organização e decisão partidárias.,
+	      amaldiçoar: Em 2002, Armando Nogueira I]amaldiçoava o chute de bico.,
+	      arrenegar: Daí teria vindo o hábito de I]arrenegar os desafetos e inimigos, mandando-os para os Quintos dos infernos.,
+	      desadorar1: Fora disso muitos homens de juízo e de letras I]desadoravam o império e faziam por menospreza-lo.,
+	      desamar: Clamavam então os ortodoxos que eu malfazia à República, que eu a I]desamava e combalia, embaraçando os vícios de situações que a estragavam.,
+	      desquerer: Fingiu que fôra vontade de Deus, sendo duas vontades de Rebeca: uma com que queria a Jacó, e outra com que I]desqueria a Esaú. ,
+	      detestar: Apesar do gosto heterogêneo, Cássia com razão [detesta ser chamada de eclética.,
+	      execrar: Ele lembrou que a sociedade, ao mesmo tempo em que incentiva o uso de bebidas alcoólicas, I]execra a embriaguez. ,
+	      malquerer: Vira-se a última página do romance As Desencantadas, A]malquerendo o romancista pela impressão profunda de tristeza que ele nos influiu ao findar.,
+	      odiar: Intelectual [odeia peruas.,
+	      ojerizar: O pessoal politizado I]ojerizava a música americana.,
+	      renegar: Ele I]renega e combate todos os valores humanistas da cultura antiga.,}
+Chave: ABOMINAR <verb.emotion>
+ILI: 01723090
+
+Sense 1
+{01723090} <verb.emotion> abhor, loathe, abominate, execrate -- (find repugnant; "I loathe that man"; "She abhors cats")
+       => {01722800} <verb.emotion> hate, detest -- (dislike intensely; feel antipathy or aversion towards; "I hate Mexican food"; "She detests politicians")
+           => {01725265} <verb.emotion> dislike -- (have or feel a dislike or distaste for; "I really dislike this salesman")

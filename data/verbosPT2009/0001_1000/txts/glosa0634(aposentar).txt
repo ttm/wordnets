@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0634
+
+DADO O SYNSET:
+
+S='Glosa634'
+{aposentar-se: O pobre que começa a trabalhar quando ainda é criança, só consegue [aposentar-se por idade, pois durante boa parte de sua vida não tem registro de trabalho,
+jubilar-se: H]Jubilou-se após 35 anos de magistério,
+reformar-se: Em 23 Set 1966, I]reformou-se no Posto de Major Brigadeiro, com um total de 7.420 horas de vôo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa634' = “entrar em aposentadoria; parar de realizar um trabalho ou serviço”
+{aposentar-se: O pobre que começa a trabalhar quando ainda é criança, só consegue [aposentar-se por idade, pois durante boa parte de sua vida não tem registro de trabalho,
+jubilar-se: O Desembargador Antônio Guilherme Tanger Jardim, nomeado em maio de 1975, depois de 28 anos de carreira, I]jubilou-se em agosto de 2003.,
+reformar-se: Em 23 Set 1966, ele I]reformou-se no Posto de Major Brigadeiro, com um total de 7.420 horas de vôo.,}
+Chave: APOSENTAR-SE <verb.social>
+ILI: 02308628
+
+Sense 1
+{02308628} <verb.social> retire1 -- (go into retirement; stop performing one's work or withdraw from one's position; "He retired at age 68")
+       => {02311225} <verb.social> leave office, quit, step down, resign5 -- (give up or retire from a position; "The Secretary fo the Navy will leave office next month"; "The chairman resigned over the financial scandal")
+           => {02312014} <verb.social> leave, depart, pull up stakes -- (remove oneself from an association with or participation in; "She wants to leave"; "The teenager left home"; "She left her position with the Red Cross"; "He left the Senate after two terms"; "after 20 years with the same company, she pulled up stakes")
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

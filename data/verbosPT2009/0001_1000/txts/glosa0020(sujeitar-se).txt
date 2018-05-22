@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0020
+
+DADO O SYNSET:
+
+S='Glosa20'
+{conformar-se: Brizola parece-me o candidato menos suscetível de [conformar-se ao Consenso de Washington e o mais comprometido, política e sobretudo intimamente, com o programa que esbocei.,
+sujeitar-se: Mais fácil fora renunciar à vida na flor da mocidade, quando tudo lhe sorria, do que [sujeitar-se a esse suicídio moral.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa20' = “tornar(-se) vulnerável ou suscetível a”
+{conformar-se: Brizola parece-me o candidato menos suscetível de [conformar-se ao Consenso de Washington e o mais comprometido, política e sobretudo intimamente, com o programa que esbocei.,
+sujeitar-se: Mais fácil fora renunciar à vida na flor da mocidade, quando tudo lhe sorria, do que [sujeitar-se a esse suicídio moral.,}
+Chave: SUJEITAR-SE <verb.communication>
+ILI: 02049824
+
+Sense 1
+{02049824} <verb.perception> subject3 -- (cause to experience or suffer or make liable or vulnerable to; "He subjected me to his awful poetry"; "The sergeant subjected the new recruits to many drills"; "People in Chernobyl were subjected to radiation")
+       => {00132263} <verb.change> affect, impact, bear upon, bear on, touch on1, touch -- (have an effect upon; "Will the new rules affect me?")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

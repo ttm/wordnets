@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA2906
+
+DADO O SYNSET:
+
+S='Glosa2906'
+	    {driblar: Hoje, no Fluminense, além de bater faltas, escanteios, passar, [driblar, chutar, fazer gols assoviar e chupar cana, Aílton é procurado em campo pelos companheiros - não há uma jogada do time que não se inicie ou, pelo menos, tenha o carimbo de Aílton.,
+	      fintar: E agora a câmera se aproxima quando um jogador avança sozinho em direção ao gol adversário, facilitando o movimento para I]fintar o goleiro.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2906' = “enganar o adversário no jogo de futebol com negaças e fintas”
+	    {driblar: Sirijiam, à esquerda, I]driblou dois adversários, isolou-se na grande área e trombeou vitorioso.,
+	      fintar: Luiz Henrique dominou dentro da área, fintou para o meio e fez o gol da vitória.,}
+Chave: DRIBLAR <verb.competition>
+ILI: EQ_HAS_HYPERONYM - 01069483
+
+Sense 1
+{01069483} <verb.competition> cheat, chouse, shaft, screw, chicane, jockey1 -- (defeat someone in an expectation through trickery or deceit)
+       => {01066844} <verb.competition> beat, beat out, crush, shell3, trounce, vanquish -- (come out better in a competition, race, or conflict; "Agassi beat Becker in the tennis championship"; "We beat the competition"; "Harvard defeated Yale in the last football game")
+           => {01072989} <verb.competition> get the better of, overcome3, defeat -- (win a victory over; "You must overcome all difficulties"; "defeat your enemies"; "He overcame his shyness"; "She conquered here fear of mice"; "He overcame his infirmity"; "Her anger got the better of her and she blew up")

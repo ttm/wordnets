@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA3119
+
+DADO O SYNSET:
+
+S='Glosa3119'
+	    {
+	      exportar: Há seis meses, a Indelqui - que desde o ano passado [exporta boa parte de sua produção para São Paulo - paga um curso intensivo de português para Marina. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3119' = “vender para o exterior”
+	     {exportar: A Etti já [exporta 20% de seus produtos, principalmente para EUA e Canadá. ,}
+Chave: EXPORTAR <verb.possession>
+ILI: 02278799
+
+Sense 1
+{02278799} <verb.possession> export -- (sell or transfer abroad; "we export less than we import and have a negative trade balance")
+       => {02195069} <verb.possession> trade1, merchandise -- (engage in the trade of; "he is merchandising telephone sets")

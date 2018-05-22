@@ -1,0 +1,38 @@
+ANÁLISE DA GLOSA2727
+
+DADO O SYNSET:
+
+  S='Glosa2727'
+	    {agrumelar: x,
+	      agrumular: Ele H]agrumulou o leite ao deixá-lo fora da geladeira.,
+	      coagular: Adicione o sal e depois o limão aos poucos até I]coagular o leite e evaporar a água.,
+	      coalhar: Essa acidez altera as propriedades das proteínas que compõem o leite, ocasionando a formação de grumos, ou seja, fazendo o leite I]coalhar.,
+	      congelar: Para I]congelar mais rapidamente, coloque o sorvete em uma fôrma de alumínio.,
+	      encaramelar: Tia Dá no pé do fogão e o açúcar I]encaramelando o coco na panela de barro.,
+	      regelar: A nós frontes queimadas pelo mormaço do sol da vida, a nós sobre cuja cabeça a velhice I]regelou os cabelos, essas crenças frias?,
+	      solidar: O frio intenso H]solidou a água.,
+	      solidificar: O aço líquido é derramado em moldes, nos quais fica até [solidificar, formando os lingotes, cujas massas variam de 50ÿkg a 30 toneladas.,}
+
+	  A='Glosa3310'
+	    {liquefazer: Coleta-se o líquido seminal e o coágulo com uma seringa de 6ml e coloca-se para I]liquefazer por 30-60 minutos.,
+	     liquescer: x,
+	     liquidificar: I]Liquidificar a polpa, os ovos, creme de leite, sal e pimenta do reino.,
+	     liqüidificar: I]Liqüidificar os morangos, passá-los na peneira e adoçar.,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2727' = “Transformar-se em coalhos.”
+	    {coagular: Em contato com as substâncias, o leite I]coagulou.,
+	      coalhar: O bolo não assou, o brigadeiro passou do ponto, a cobertura I]coalhou.,
+	      encaramelar: Tia Dá no pé do fogão e o açúcar I]encaramelando o coco na panela de barro.,}
+
+	  A='Glosa3310'
+	    {liquefazer, liquidificar, liqüidificar}
+
+Chave: COALHAR <verb.change>
+ILI: 00444692
+
+Sense 3
+{00444692} <verb.change> curdle, clabber, clot -- (turn into curds; "curdled milk")
+       => {00140715} <verb.change> change state, turn4 -- (undergo a transformation or a change of position or action; "We turned from Socialism to Capitalism"; "The people turned against the President when he stole the election")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night") 

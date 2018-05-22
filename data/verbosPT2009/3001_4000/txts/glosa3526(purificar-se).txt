@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA3526
+
+DADO O SYNSET:
+
+S='Glosa3526'
+	    {
+	      abluir-se: Um homem tinha grave ferimento e quando chegou a hora de rezar perguntou se podia rezar sem I]se abluir com água.,
+	      absterger-se: x,
+	      alimpar-se: Senhor, se quereis, podereis I]alimpar-me.,
+	      apurar-se: I]Deus pôs-se aqui para apurar-me. ,
+	      depurar-se: Era uma coisa singular na vida dessa menina; todas as paixões, todos os sentimentos que a envolviam sofriam a influência de sua inocência, e iam a pouco e pouco [depurando-se. ,
+	      expurgar-se: Ao vencer os preconceitos da classe acomodada, à qual aborrecia seu tom vulgar, curva-se o tango à ética de classe: [expurgaram-no das letras obscenas, ensinaram-lhe catecismo, vestiram-no pudicamente, para que entrasse em lares honrados . ,
+	      limpar-se: O principal é estar pronto para as mudanças, é I]limpar-se interiormente, libertando-se.,
+	      mundificar-se: Indigno é de usar o hábito amarelo quem de suas impurezas não I]se mundificou.,
+	      purificar-se: Em Varanasi, sobre as margens do Ganges há terraços onde hindus de todas as partes do mundo fazam banho de imersão para [se purificar dos pecados. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3526' = “tornar-se limpo ou puro ou livre de culpa e pecado”
+	     {abluir-se: Um homem tinha grave ferimento e quando chegou a hora de rezar perguntou se podia rezar sem I]se abluir com água.,
+	      apurar-se: H]apuraram-se com a religião. ,
+	      depurar-se: Para escapar dele, o discípulo deve I]depurar-se através da yoga. ,
+	      expurgar-se: Goethe I]expurgou-se do pecado do suicídio escrevendo o Werther . ,
+	      limpar-se: Ao concluir a oração, aquele que a pronunciou I]limpou-se dos maus fluidos e envolveu-se na atmosfera sadia dos bons fluidos.,
+	      purificar-se: E tendo ele sabido deste fato, I]purificou-se e orou, para que o poder de Iahweh não o fulminasse de pronto. ,}
+Chave: PURIFICAR-SE <verb.change>
+ILI: 00462826
+
+Sense 3
+{00462826} <verb.change> purify2 -- (become clean or pure or free of guilt and sin; "The hippies came to the ashram in order to purify")
+       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

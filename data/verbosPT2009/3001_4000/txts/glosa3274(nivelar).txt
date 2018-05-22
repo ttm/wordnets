@@ -1,0 +1,61 @@
+ANÁLISE DA GLOSA3274
+
+DADO O SYNSET:
+
+S='Glosa3274'
+{abaixar: M]Abaixemos esta montanha até o nosso pântano.,
+	 abarbar: A torre quase M]abarbava com a montanha.,
+	 achanar: H]Achanou a estrada.,
+	 achatar: A erosão A]achatou parte do terreno.,
+	 afagar: H]Afagou a tábua corrida do assoalho.,
+	 alhanar: M]Alhanar arenas para jogos.,
+	 alisar: Ele afirma que a régua pode I]alisar uma superfície de até mil metros quadrados em oito horas de operação.,
+	 alivelar: x,
+	 anivelar: x,
+	 aplainar: Colônias de cinco espécies de pinguins foram destruídas quando os engenheiros estavam [aplainando o local onde seria construída a pista.,
+	 aplanar: Só assim veríamos nas telas um trator Buldôzer, que serve para destruir casas e I]aplanar terrenos.,
+	 assentar: A mesma serve para I]assentar o solo e grudar o mesmo junto as raízes.,
+	 complanar: H] Complanar  morros.,
+	 deprimir: Em caso de necessidade, será feita a drenagem do terreno para I]deprimir o nível do lençol d’água subterrâneo.,
+	 deslisar: DEVIANT,
+	 igualar: No primeiro encontro da profissional com os proprietários, suas idéias de eliminar os tais desníveis, I]igualar o pé-direito e substituir o acabamento rústico foram prontamente aceitas.,
+	 igualizar: x,
+	 lavrar: DEVIANT,
+	 nivelar: Teremos que colocar terra para [nivelar o campo e plantar mais grama.,
+	 rasar: H] Rasar uma extensão de terra.,
+	 rasoirar: x,
+	 rasourar: x,
+	 respaldar: H] Respaldar um terreno.}
+
+A='Glosa221'
+{desnivelar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3274' = “tornar nivelado ou reto”
+{abaixar: M]Abaixemos esta montanha até o nosso pântano.,
+	 abarbar: A torre quase M]abarbava com a montanha.,
+	 achanar: H]Achanou a estrada.,
+	 achatar: A erosão A]achatou parte do terreno.,
+	 afagar: H]Afagou a tábua corrida do assoalho.,
+	 alhanar: M]Alhanar arenas para jogos.,
+	 alisar: Ele afirma que a régua pode I]alisar uma superfície de até mil metros quadrados em oito horas de operação.,
+	 aplainar: Colônias de cinco espécies de pingüins foram destruídas quando os engenheiros estavam [aplainando o local onde seria construída a pista.,
+	 aplanar: Só assim veríamos nas telas um trator Buldôzer, que serve para destruir casas e I]aplanar terrenos.,
+	 assentar: A mesma serve para I]assentar o solo e grudar o mesmo junto as raízes.,
+	 complanar: H] Complanar  morros.,
+	 deprimir: Em caso de necessidade, será feita a drenagem do terreno para I]deprimir o nível do lençol d’água subterrâneo.,
+	 igualar: No primeiro encontro da profissional com os proprietários, suas idéias de eliminar os tais desníveis, I]igualar o pé-direito e substituir o acabamento rústico foram prontamente aceitas.,
+	 nivelar: Teremos que colocar terra para [nivelar o campo e plantar mais grama.,
+	 rasar: H] Rasar uma extensão de terra.,
+	 respaldar: H] Respaldar um terreno.}
+
+A='Glosa221'
+{desnivelar}
+Chave: NIVELAR <verb.contact>
+ILI: 01268109
+
+Sense 3
+{01268109} <verb.contact> flush3, level1, even out, even -- (make level or straight; "level the ground")
+       => {00345030} <verb.change> change surface -- (undergo or cause to undergo a change in the surface)
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

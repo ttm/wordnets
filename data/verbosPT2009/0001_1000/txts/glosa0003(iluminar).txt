@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0003
+
+DADO O SYNSET:
+
+S='Glosa3'
+{aclarar: A lua cheia H]aclarava tudo em volta.,
+alumiar: Veio o dia e [alumiou o campo.,
+clarear: Apenas uma lâmpada fraca, a do abajur na sala, [clareava o ambiente. ,
+iluminar: A eletricidade é extremamente útil para o nosso conforto, pois a energia elétrica, além de [iluminar as casas, é responsável pelo funcionamento de grande número de aparelhos domésticos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3' = “tornar mais claro”
+{aclarar: As lágrimas inflamadas do foguete [aclaravam todo o Campo.,
+alumiar: Veio o dia e [alumiou o campo.,
+clarear: Apenas uma lâmpada fraca, a do abajur na sala, [clareava o ambiente. ,
+iluminar: A eletricidade é extremamente útil para o nosso conforto, pois a energia elétrica, além de [iluminar as casas, é responsável pelo funcionamento de grande número de aparelhos domésticos.,}
+Chave: ILUMINAR <verb.change>
+ILI: 00282678
+
+Sense 1
+{00282678} <verb.change> light, illume, illumine, light up, illuminate3 -- (make lighter or brighter; "This lamp lightens the room a bit")
+       => {00272032} <verb.change> lighten2, lighten up1 -- (become lighter; "The room lightened up")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

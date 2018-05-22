@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA2089
+
+DADO O SYNSET:
+	
+S='Glosa2089'
+    	{esvoaçar: Ele sabia que o vampiro procuraria a luz, e iria [esvoaçar em torno dos dois aventureiros; contava que as gotas de sangue que caiam de sua asa ferida os enganaria; a realidade correspondeu às suas previsões.,
+      	 esvoejar: A mariposa vermelha A]esvoejando sobre a lenha, mal poisando, depois mordendo a madeira seca, e já abrindo as asas quentes para o bailado exótico´.,
+      	 flutuar: Naquele campo elíseo vislumbro deusas a I]flutuar.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2089' = “voar suspendendo-se [sobre]”
+    	{esvoaçar: Ele sabia que o vampiro procuraria a luz, e iria [esvoaçar em torno dos dois aventureiros.,
+      	 esvoejar: Ela I]esvoejou em torno dele, se bicaram.,
+      	 flutuar: Com traços simples, desenhou uma figura de asas amarelas, [flutuando sobre ondas azuis, para representar «Ícaro».}
+Chave: FLUTUAR <verb.motion>
+ILI: 01886772
+
+Sense 3
+{01886772} <verb.motion> hover -- (hang in the air; fly or be suspended above)
+       => {01883780} <verb.motion> fly, wing -- (travel through the air; be airborne; "Man cannot fly")
+           => {01782203} <verb.motion> travel, go, move3, locomote -- (change location; move, travel, or proceed; "How fast does your new car go?"; "We travelled from Rome to Naples by bus"; "The policemen went from door to door looking for the suspect"; "The soldiers moved towards the city in an attempt to take it before night fell")

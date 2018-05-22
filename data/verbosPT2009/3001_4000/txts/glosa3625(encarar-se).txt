@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA3625
+
+DADO O SYNSET:
+
+S='Glosa3625'
+	    {
+	      abarbar-se: M]Abarbou-se com muitos perigos.,
+	      acarar-se: x,
+	      arrostar-se: A época era de crises e lutas, I]arrostou-as sem medo.,
+	      confrontar-se: Era um escritor que, um dia, [[confrontava-se com seres extraterrestres do planeta Gama Y-12. ,
+	      defrontar-se: Urutu Branco terá de [defrontar-se menos com o Hermógenes. ,
+	      encarar-se: Há oponentes que, não podendo I]encarar-se mutuamente, existem delimitando território em nosso corpo.,
+	      olhar-se: I]Olharam-se cheios de raiva.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3625' = “opor-se, como em hostilidade ou competição”  
+	     {abarbar-se: M]Abarbou-se com muitos perigos.,
+	      arrostar-se: A época era de crises e lutas, I]arrostou-as sem medo.,
+	      confrontar-se: No segundo turno, Lula I]confrontou-se com José Serra, que ocupara os cargos de ministro da Saúde e do Planejamento do governo Fernando Henrique Cardoso.,
+	      defrontar-se: Liberada, [defrontou-se com hordas de moralistas, que a consideraram nojenta, obscena e coisas piores.,
+	      encarar-se: Há oponentes que, não podendo I]encarar-se mutuamente, existem delimitando território em nosso corpo.,
+	      olhar-se: I]Olharam-se cheios de raiva.,}
+Chave: ENCARAR-SE <verb.competition>
+ILI: 01044330
+
+Sense 2
+{01044330} <verb.competition> confront, face -- (oppose, as in hostility or a competition; "You must confront your opponent"; "Jackson faced Smith in the boxing ring"; "The two enemies finally confronted each other")
+       => {01045027} <verb.competition> meet, encounter, play2, take on1 -- (contend against an opponent in a sport, game, or battle; "Princeton plays Yale this weekend"; "Charlie likes to play Mary")
+          Also See-> {01049548} <verb.competition> face off#1

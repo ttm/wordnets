@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA3669
+
+DADO O SYNSET:
+
+S='Glosa3669'
+	    {
+	      palmatoar: Tinha o hábito de I]palmatoar a criança mimada, sem com ela trocar palavra ou lhe dar explicações.,
+	      palmatoriar: x,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3669' = “bater com algo plano, como uma pá ou a mão aberta”
+	     {palmatoar: Tinha o hábito de I]palmatoar a criança mimada, sem com ela trocar palavra ou lhe dar explicações.,}
+
+Chave: PALMATOAR <verb.contact>
+ILI: 01376264
+
+Sense 1
+{01376264} <verb.contact> slap -- (hit with something flat, like a paddle or the open hand; "The impatient teacher slapped the student"; "a gunshot slapped him on the forehead")
+       => {01369678} <verb.contact> strike -- (deliver a sharp blow, as with the hand, fist, or weapon; "The teacher struck the child"; "the opponent refused to strike"; "The boxer struck the attacker dead")
+           => {01169634} <verb.contact> touch -- (make physical contact with, come in contact with; "Touch the stone for good luck"; "She never touched her husband")

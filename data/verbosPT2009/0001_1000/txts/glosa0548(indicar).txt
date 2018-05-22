@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0548
+
+DADO O SYNSET:
+
+S='Glosa548'
+{ameaçar: M]Ameaçou com os olhos o lugar onde estivera o acusado.,
+indicar: De lá, [indicou através de um desenho que planejava voltar ao Brasil, também clandestinamente.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa548' = “afirmar ou expressar brevemente”
+{indicar: De lá, [indicou através de um desenho que planejava voltar ao Brasil, também clandestinamente.,}
+Chave: INDICAR <verb.communication>
+ILI: 00897547
+
+Sense 3
+{00897547} <verb.communication> indicate -- (to state or express briefly; "indicated his wishes in a letter")
+       => {00804489} <verb.communication> inform -- (impart knowledge of some fact, state or affairs, or event to; "I informed him of his rights")
+           => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+               => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

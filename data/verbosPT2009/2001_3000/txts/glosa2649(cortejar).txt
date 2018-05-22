@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA2649
+
+DADO O SYNSET:
+
+S='Glosa2649'
+	    {aperuar: x,
+	      conversar: Tentou H]conversá-la, mas nada conseguiu.,
+	      cortejar: Era filho de Teresa e Luís Távora, oficial do Exército que viajou às Índias e que, ao retornar, soube que o rei D. José 1º [cortejara sua mulher.,
+	      damejar: A]Dameja uma senhora belíssima.,
+	      galantear: Extranha que os homens desprezem a companhia de uma mulher ajuizada, preferindo I]galantear meninotas de cabeça no ar.,
+	      namorar: Quando éramos jovens, ele era o mais bonito, o mais simpático, o mais bem vestido. I]Namorava todas as meninas da cidade. Todas as meninas adoravam o Carneirinho. Mas ele nunca se casou.,
+	      peruar: H]Perua tudo que é mulher que encontra.,
+	      requebrar: H]Requebrava as colegas de escola.,
+	      requerer: Vários rapazes a M]requeriam.,
+	      requestar: Se as requestava ou [requestara todas ?,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2649' = “Fazer aproximações amorosas em direção a.”
+	    {cortejar: Ao retornar, soube que o rei D. José 1º [cortejara sua mulher.,
+	      galantear: I]Galanteou a própria cunhada segurando em suas mãos,e oferecendo seu ombro.,
+	      namorar: I]Namorava todas as meninas da cidade. Todas as meninas adoravam o Carneirinho. Mas ele nunca se casou.,
+	      requestar: O Rodovalho I]requestou a Joanna.,}
+
+Chave: CORTEJAR <verb.social>	
+ILI: 02459228
+
+Sense 2
+{02459228} <verb.social> woo, court, romance, solicit -- (make amorous advances towards; "John is courting Mary")
+       => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel") 

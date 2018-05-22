@@ -1,0 +1,47 @@
+ANÁLISE DA GLOSA3552
+
+DADO O SYNSET:
+
+S='Glosa3552'
+	    {
+	      alvejar1: Se a mancha for provocada por corantes, o jeito é I]alvejar o tecido com água sanitária ou um sabão em pó de última geração.,
+	      branquear: I]Branquear e remover manchas escuras.,
+	      branquejar: Eu não arriscaria nem um fio de cabelo de minha cabeça, a não ser algum desses que começam a I]branquejar-me.,
+	      embranquecer: Rosto comprido, magro, um pouco moreno, cabelos que começam a [esbranquecer... este homem tem mais de cinqüenta anos de idade. ,
+	      embranquiçar: Na verdade, o Imortal usava há tempos uma complicada tintura de ervas para I]esbranquiçar os cabelos naturalmente negros e manter a aparência de um venerável. ,
+	      nevar: Longos anos decorreram e seus cabelos M]nevaram.,
+	    }
+A='Glosa3550'
+	    {
+	     denegrir: I]Denegriram-se as casas, melaram as plantas.,
+	     enegrecer: O dia [enegreceu; era noite já. ,
+	     escurecer: A poeira levantada poderia [escurecer o Sol.,
+	     escurentar: Logo o céu se I]escurentou de sopetão e uma nuvem subiu no horizonte entardecendo a calma do dia.,
+	     negrejar: Havia um depósito de lixo, onde os jardineiros acumulavam as varreduras da chácara, [negrejando putrefatas, virando estrume ao tempo. / Quando muito via I]negrejar a tinta e alvejar o papel. ,
+	     pretejar: Em uma semana ou, no máximo em 15 dias, a prata já começa a [pretejar.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3552' = “fazer mais branco ou mais claro”
+	     {alvejar1: Se a mancha for provocada por corantes, o jeito é I]alvejar o tecido com água sanitária ou um sabão em pó de última geração.,
+	      branquear: I]Branquear e remover manchas escuras.,
+	      branquejar: Eu não arriscaria nem um fio de cabelo de minha cabeça, a não ser algum desses que começam a I]branquejar-me.,
+	      embranquecer: Rosto comprido, magro, um pouco moreno, cabelos que começam a [esbranquecer... este homem tem mais de cinqüenta anos de idade. ,
+	      embranquiçar: Na verdade, o Imortal usava há tempos uma complicada tintura de ervas para I]esbranquiçar os cabelos naturalmente negros e manter a aparência de um venerável. ,
+	      nevar: Longos anos decorreram e seus cabelos M]nevaram.,}
+A='Glosa3550'
+	    {denegrir: I]Denegriram-se as casas, melaram as plantas.,
+	     enegrecer: O dia [enegreceu; era noite já. ,
+	     escurecer: A poeira levantada poderia [escurecer o Sol.,
+	     escurentar: Logo o céu se I]escurentou de sopetão e uma nuvem subiu no horizonte entardecendo a calma do dia.,
+	     negrejar: Havia um depósito de lixo, onde os jardineiros acumulavam as varreduras da chácara, [negrejando putrefatas, virando estrume ao tempo. / Quando muito via I]negrejar a tinta e alvejar o papel. ,
+	     pretejar: Em uma semana ou, no máximo em 15 dias, a prata já começa a [pretejar.,}
+Chave: BRANQUEAR <verb.change>
+ILI: 00270459
+
+Sense 2
+{00270459} <verb.change> bleach -- (make whiter or lighter; "bleach the laundry")
+       => {00271295} <verb.change> whiten, white -- (turn white; "This detergent will whiten your laundry")
+           => {00272185} <verb.change> discolor, discolour, colour, color1 -- (change color, often in an undesired manner; "The shirts discolored")
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

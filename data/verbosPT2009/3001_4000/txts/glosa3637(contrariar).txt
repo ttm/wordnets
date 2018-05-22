@@ -1,0 +1,55 @@
+ANÁLISE DA GLOSA3637
+
+DADO O SYNSET:
+
+S='Glosa3637'
+	    {
+	      adversar: Esses juristas agigantam freqüentemente a voz para I]adversar como reacionária a mínima sugestão. ,
+	      avessar: Jovens que H]avessam os pais.,
+	      colidir: A posição de Franco [colide com a de outros membros da equipe econômica.,
+	      combater: O movimento dos iconoclastas [combatia o culto às imagens. / O marxismo ainda é a matriz de qualquer heresia que [combata os dogmas antigos.,
+	      confutar: A obra sofreu desde logo violentíssimos ataques da parte de muitos que trataram de I]confutar certas proposições do autor.,
+	      contestar: O diretor disse que os resultados [contestam a idéia de que só entram na universidade pessoas de origem mais abastada. ,
+	      contraditar: Peço a palavra para I]contraditar, Sra. Presidente./ O autor I]contraditava os que defendiam que o País deveria seguir os Estados Unidos como exemplo. ,
+	      contradizer: A conclusão do relatório [contradiz afirmações do secretário de Segurança Pública.,
+	      contrariar: Damásio [contraria assim a idéia de que a lógica não deve ser invadida pela emoção.,
+	      desencontrar: A Psicanálise I]desencontra o Marxismo. ,
+	      desfavorecer: x,
+	      entrechocar-se: O leitor assiste portanto a uma luta de informações que [entrechocam-se.,
+	      impugnar: O réu poderá [impugnar, no prazo da contestação, o valor atribuído à causa pelo autor. ,
+	      opugnar: Aquela absurdez I]opugna também o princípio da tipicidade./ Rogério I]opugnaria um boicote da sociedade a todo e qualquer produto de origem ianque. ,
+	      refutar: Suas palavras não ambicionam provar qualquer coisa, nem defender ou ]refutar uma tese.,
+	    }
+	  A='Glosa163'
+	    {
+	     apoiar: Quanto mais o tempo passa maior é a resistência política dos partidos que não [apóiam o nome de Fernando Henrique Cardoso para a Presidência da República. ,
+	     defender: Por isso, o grupo [defende vigorosamente sua cultura e reprime os membros que desobedecem às normas culturais ou tentam modificá-las profundamente.,
+	     propugnar: Alcança sua verdadeira estatura quando se converte em romance dos homens que, com suas paixões e mesquinharias, assumem o tempo em que vivem e assim [propugnam a transformação da sociedade e deles mesmos.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3637' = “estar em contradição com” 
+	     {colidir: A posição de Franco [colide com a de outros membros da equipe econômica.,
+	      combater: O movimento dos iconoclastas [combatia o culto às imagens. / O marxismo ainda é a matriz de qualquer heresia que [combata os dogmas antigos.,
+	      confutar: O autor da representação I]confutou a defesa, dizendo que esta não negou a entrega do cheque ao pastor e que igrejas são bens de uso comum.,
+	      contestar: O diretor disse que os resultados [contestam a idéia de que só entram na universidade pessoas de origem mais abastada. ,
+	      contraditar: O patrono do reclamante I]contraditou uma testemunha./ O autor I]contraditava os que defendiam que o País deveria seguir os Estados Unidos como exemplo. ,
+	      contradizer: A conclusão do relatório [contradiz afirmações do secretário de Segurança Pública.,
+	      contrariar: Damásio [contraria assim a idéia de que a lógica não deve ser invadida pela emoção.,
+	      desencontrar: A Psicanálise I]desencontra o Marxismo. ,
+	      entrechocar-se: Em nenhuma época, entretanto, interesses e contradições se I]entrechocaram com tanta agudeza e emergência.,
+	      impugnar: O Estado de MS I]impugnou as contestações apresentadas. ,
+	      opugnar: Aquela absurdez I]opugna também o princípio da tipicidade./ Rogério I]opugnaria um boicote da sociedade a todo e qualquer produto de origem ianque. ,
+	      refutar: FHC [refutou as informações de que teria conversado com o presidente Itamar Franco sobre sua candidatura.,}
+	  A='Glosa163'
+	    {apoiar: Quanto mais o tempo passa maior é a resistência política dos partidos que não [apóiam o nome de Fernando Henrique Cardoso para a Presidência da República. ,
+	     defender: Por isso, o grupo [defende vigorosamente sua cultura e reprime os membros que desobedecem às normas culturais ou tentam modificá-las profundamente.,
+	     propugnar: Alcança sua verdadeira estatura quando se converte em romance dos homens que, com suas paixões e mesquinharias, assumem o tempo em que vivem e assim [propugnam a transformação da sociedade e deles mesmos.,}
+Chave: CONTRARIAR <verb.stative>
+ILI: 02583617
+
+Sense 1
+{02583617} <verb.stative> contradict, belie, negate -- (be in contradiction with)
+       => {02582064} <verb.stative> deviate, vary, diverge1, depart -- (be at variance with; be out of line with)
+           => {02586169} <verb.stative> differ -- (be different; "These two tests differ in only one respect")

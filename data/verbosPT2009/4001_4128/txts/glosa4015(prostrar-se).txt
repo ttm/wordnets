@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA4015
+
+DADO O SYNSET:
+
+S='Glosa4015'
+{procumbir: Os súditos A]procumbiam diante do soberano.,
+prosternar-se: As preces cotidianas são feitas cinco vezes ao dia. Nelas, o fiel deve voltar-se à direção de Meca, ajoelhar-se e I]prosternar-se.,
+prostrar-se: Quanto ao Papa, ninguém o adora e o sentido de I]prostar-se, é de homenagem, respeito, saudação.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4015' = “assumir uma posição prostrada, como em submissão”
+{procumbir: Os súditos A]procumbiam diante do soberano.,
+prosternar-se: As preces cotidianas são feitas cinco vezes ao dia. Nelas, o fiel deve voltar-se à direção de Meca, ajoelhar-se e I]prosternar-se.,
+prostrar-se: Quanto ao Papa, ninguém o adora e o sentido de I]prostar-se, é de homenagem, respeito, saudação.,}
+Chave: PROSTRAR-SE <verb.motion>
+ILI: 02005035
+
+Sense 1
+{02005035} <verb.motion> prostrate, bow down -- (get into a prostrate position, as in submission)
+       => {01927094} <verb.motion> lie down, lie -- (assume a reclining position; "lie down on the bed until you feel better")
+           => {01925836} <verb.motion> change posture -- (undergo a change in bodily posture)
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

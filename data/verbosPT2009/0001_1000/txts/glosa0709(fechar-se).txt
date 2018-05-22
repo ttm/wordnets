@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0709
+
+DADO O SYNSET:
+
+S='Glosa709'
+{acumular-se: Entre as estrelas I]acumulam-se nuvens de gás e pó, resíduos dessa reação, que funcionam como verdadeiros laboratórios de química.,
+adensar-se: As colunas de fumo, rompentes de vários lugares, a um tempo, I]adensam-se no espaço e interceptam a descarga do solo,
+cerrar: H]Cerraram as nuvens.,
+fechar-se: As águas I]fecharam-se sobre ele e o barulho do rio tornou-se maior ao saltar por cima da pedra negra.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa709' = “escurecer (-se) o tempo”
+{acumular-se: Entre as estrelas I]acumulam-se nuvens de gás e pó, resíduos dessa reação, que funcionam como verdadeiros laboratórios de química.,
+adensar-se: As colunas de fumo, rompentes de vários lugares, a um tempo, I]adensam-se no espaço e interceptam a descarga do solo,
+fechar-se: As águas I]fecharam-se sobre ele e o barulho do rio tornou-se maior ao saltar por cima da pedra negra.,}
+Chave: FECHAR-SE <verb.change>
+ILI: 00302508
+
+Sense 1
+{00302508} <verb.change> darken -- (become dark or darker; "The sky darkened")
+       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

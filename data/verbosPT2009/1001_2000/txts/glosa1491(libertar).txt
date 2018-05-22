@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA1491
+
+DADO O SYNSET:
+
+S='Glosa1491'
+{liberar: Apesar de conhecer a verdadeira identidade e sua função na quadrilha de Uê, os policiais [liberaram Guilherme sob o argumento de que nada constava contra ele. ,
+ libertar: Márcia afirmou que quando o valor exigido era muito alto os soldados do tráfico recolhiam doações dos moradores para [libertar o marido,}
+	  
+A='Glosa3822'
+{agarrar, apanhar, apresar, aprisionar, capturar, filar, pegar, pilhar, prender}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1491' = “libertar de aprisionamento”
+{liberar: Apesar de conhecer a verdadeira identidade e sua função na quadrilha de Uê, os policiais [liberaram Guilherme sob o argumento de que nada constava contra ele.,
+ libertar: O ex-racista De Klerk [libertou o ex-extremista Mandela em 1990, após 27 anos de prisão.,}
+	  
+A='Glosa3822'
+{agarrar, apanhar, apresar, aprisionar, capturar, filar, pegar, pilhar, prender}
+Chave: LIBERTAR <verb.social>
+ILI: 02348394
+
+Sense 2
+{02348394} <verb.social> free, liberate2, release, unloose, unloosen, loose -- (grant freedom to; free from confinement)

@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA1877
+
+DADO O SYNSET:
+
+S='Glosa1877'
+{deter: A mulher ia a sair, o marido [deteve-a, ela estremeceu.,
+ entreter: A mulher I]entreteve o policial enquanto os assaltantes praticavam o roubo.  ,
+ segurar: Oscar I]segurou-o para que não fugisse nem escapasse para banda alguma.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1877' = “segurar [algo, alguém] a fim deter, refrear ou parar o seu movimento”
+{deter: A mulher ia a sair, o marido [deteve-a, ela estremeceu.,
+ entreter: A mulher I]entreteve o policial enquanto os assaltantes praticavam o roubo.,
+ segurar: Oscar I]segurou-o para que não fugisse nem escapasse para banda alguma.,}
+Chave: DETER <verb.contact>
+ILI: 01398038
+
+Sense 1
+{01398038} <verb.contact> catch, grab, take hold of1 -- (take hold of so as to seize or restrain or stop the motion of; "Catch the ball!"; "Grab the elevator door!")
+       => {01175818} <verb.contact> seize, prehend, clutch -- (take hold of; grab; "The salesclerk quickly seized the money on the counter"; "She clutched her purse"; "The mother seized her child by the arm"; "Birds of prey often seize small mammals")
+           => {01177510} <verb.contact> take, get hold of -- (get into one's hands, take physically; "Take a cookie!"; "Can you take this bag, please")

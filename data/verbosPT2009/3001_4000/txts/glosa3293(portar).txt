@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA3293
+
+DADO O SYNSET:
+
+S='Glosa3293'
+	    {
+	      levar: Sílvio César prestou depoimento na 33ª Vara Criminal e mudou a versão que dera na delegacia: disse ser usuário eventual de drogas e que era sua a maconha e a cocaína que [levava. ,
+	      portar: O Homem jovem que [portava a máquina fotográfica, parecendo ter mais jeito para lidar com aquela situação abraçou o menino.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3293' = “ter consigo”
+	     {levar: Cada um destes meninos [levava um instrumento pastoril em que tocavam, pandeiro, machete e tamboril. ,
+	      portar: Murillo César de Faria, 28, [portava seis cartuchos de munição e um carregador para revólver.,}
+Chave: PORTAR <verb.stative>
+ILI: 02637172
+
+Sense 2
+{02637172} <verb.stative> carry1, pack, take10 -- (have with oneself; have on one's person; "She always takes an umbrella"; "I always carry money"; "She packs a gun when she goes into the mountains")
+       => {02551893} <verb.stative> have, feature -- (have as a feature; "This restaurant features the most famous chefs in France")

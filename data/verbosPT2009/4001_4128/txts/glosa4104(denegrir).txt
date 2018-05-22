@@ -1,0 +1,76 @@
+ANÁLISE DA GLOSA4104
+
+DADO O SYNSET:
+
+S='Glosa4104'
+{abaçanar: x,
+assetar: x,
+assetear: x,
+caluniar: Nunca [caluniou ninguém, tendo concentrado o discurso nas propostas para um Portugal de futuro.,
+demolir: A revista I]demoliu o filme antes dele entrar em cartaz.,
+denegrecer: x,
+denegrir: Tais hábitos H]denigriram sua honra.,
+desacreditar: Rompeu com o amigo e tentou A]desacreditá-lo. ,
+desafamar: x,
+desagaloar: x,
+desclassificar: A argumentação nunca deve deser ao insulto, ou ao ataque pessoal, que só I]desclassifica e nunca clarifica.,
+descreditar: Nós encontramos Gish tentando I]descreditar Davidson Black.,
+desdoirar: x,
+desdourar: Contudo, desde há algum tempo deixei de ver graça em atitudes que além de não nos promover como Pátria e Cidadãos; apenas nos I]desdouram, nos desqualificam.,
+deslustrar: Eles próprios I]deslustram o caráter.,
+desmerecer: Isto não [desmerece nem a ele nem a outros.,
+desmoralizar: Os norte-americanos [desmoralizavam seus adversários muçulmanos enterrando seus mortos embrulhados em couro de porco .,
+desonestar: H]Desonestaram suas origens.,
+desonrar: São atos que o H]desonram.,
+detrair: Vivia M]detraindo o governo.,
+detratar: A sociedade simplesmente I]detratava os negros.,
+difamar: Breno disse que o pai o I]difamava.,
+enegrecer: Criminalizar o comunismo é I]enegrecer o passado comunista para melhor excluir as perspectivas do futuro da humanidade ao destruir a perspectiva revolucionária. ,
+esquartejar: A imprensa irresponsável H]esquartejou-o.,
+improperar: Em seu discurso, H]improperava o governo.,
+infamar: Vossa Senhoria I]infamou a função de presidente da Câmara e maculou sua história política ao trazer a policia militar para coibir as legítimas provas.,
+injuriar: A aluna I]injuriou o professor.,
+macular: Pupetta dizia que o filme [maculava sua honra .,
+marear: As adições H]marearam o texto original.,
+quartejar: x,
+rebaixar: Peço que pense em quantas vezes seu chefe te I]rebaixou, quantas humilhações já sofreu.,
+setear: x,
+vituperar: M]Vituperava os fracos e desleais.,}
+	  
+A='Glosa2993'
+{aclarar, agaloar, alumbrar, alumiar, clarear, desescurecer, elogiar, enaltar, enaltecer, esclarecer, gabar, iluminar, louvar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4104' = “acusar falsamente ou com intenção maliciosa, atacar o nome ou reputação de alguém”
+{caluniar: Nunca [caluniou ninguém, tendo concentrado o discurso nas propostas para um Portugal de futuro.,
+demolir: A revista I]demoliu o filme antes dele entrar em cartaz.,
+denegrir: O carnaval só serve para [denegrir a imagem do Falabella.,
+desacreditar: Rompeu com o amigo e tentou A]desacreditá-lo. ,
+desclassificar: A argumentação nunca deve deser ao insulto, ou ao ataque pessoal, que só I]desclassifica e nunca clarifica.,
+descreditar: Nós encontramos Gish tentando I]descreditar Davidson Black.,
+desdourar: Contudo, desde há algum tempo deixei de ver graça em atitudes que além de não nos promover como Pátria e Cidadãos; apenas nos I]desdouram, nos desqualificam.,
+deslustrar: Eles próprios I]deslustram o caráter.,
+desmerecer: Isto não [desmerece nem a ele nem a outros.,
+desmoralizar: “Não conseguiram me subornar nem me intimidar, então tentam me [desmoralizar”.,
+desonrar: São atos que o H]desonram.,
+detrair: Vivia M]detraindo o governo.,
+detratar: Fiquei impressionado com a falta de educação da pessoa que I]detratou o nosso estado e a nossa Veneza brasileira.,
+difamar: Breno disse que o pai o I]difamava.,
+enegrecer: Criminalizar o comunismo é I]enegrecer o passado comunista para melhor excluir as perspectivas do futuro da humanidade ao destruir a perspectiva revolucionária. ,
+infamar: Vossa Senhoria I]infamou a função de presidente da Câmara e maculou sua história política ao trazer a policia militar para coibir as legítimas provas.,
+injuriar: A aluna I]injuriou o professor.,
+macular: Pupetta dizia que o filme [maculava sua honra .,
+marear: As adições H]marearam o texto original.,
+rebaixar: Peço que pense em quantas vezes seu chefe te I]rebaixou, quantas humilhações já sofreu.,
+vituperar: M]Vituperava os fracos e desleais.,}
+	  
+A='Glosa2993'
+{aclarar, agaloar, alumbrar, alumiar, clarear, desescurecer, elogiar, enaltar, enaltecer, esclarecer, gabar, iluminar, louvar}
+Chave: DENEGRIR <verb.communication>
+ILI: 00818976
+
+Sense 1
+{00818976} <verb.communication> defame, slander, smirch, asperse, denigrate1, calumniate, smear, sully, besmirch -- (charge falsely or with malicious intent; attack the good name and reputation of someone; "The journalists have defamed me!" "The article in the paper sullied my reputation")
+       => {00815975} <verb.communication> charge2, accuse1 -- (blame for, make a claim of wrongdoing or misbehavior against; "he charged me director with indifference")
+

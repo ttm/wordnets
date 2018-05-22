@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA3523
+
+DADO O SYNSET:
+
+S='Glosa3523'
+	    {
+	      desdobrar-se: Cada trabalho [se desdobra em outros. ,
+	      multiplicar-se: Os seres unicelulares [se multiplicaram. / As versões para a derrota [multiplicavam-se.  ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3523' = “crescer rapidamente”
+	     {desdobrar-se: Cada trabalho [se desdobra em outros. ,
+	      multiplicar-se: Os seres unicelulares [se multiplicaram. / As versões para a derrota [multiplicavam-se.  ,}
+Chave: MULTIPLICAR-SE <verb.change>
+ILI: 00300817
+
+Sense 1
+{00300817} <verb.change> proliferate -- (grow rapidly; "Pizza parlors proliferate in this area")
+       => {00223119} <verb.change> grow -- (become larger, greater, or bigger; expand or gain; "The problem grew too large for me"; "Her business grew fast")
+           => {00150804} <verb.change> increase -- (become bigger or greater in amount; "The amount of work increased")
+               => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

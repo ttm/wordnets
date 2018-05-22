@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA3923
+
+DADO O SYNSET:
+	
+S='Glosa3923'
+    	{colocar-se: Nesse trabalho, o autor simplesmente [coloca-se no papel de voyeur em banheiros-públicos etc... e coleta dados a respeito de práticas homossexuais conseguindo, até mesmo, entrevistar muitos praticantes .,
+      	 pôr-se: O Leonardo, supondo que ele tinha achado a Maria, e que sem dúvida a trazia pela mão contrita e humilhada, quis fazer-se de bom 3: ergueu-se, meteu as mãos nos bolsos, e [pôs-se de costas para o lugar donde vinha o compadre .,
+      	 posicionar-se: Também veloz e bom driblador, [posiciona-se bem na área, sabendo aproveitar as jogadas construídas em toques rápidos .,
+      	 postar-se: Desconhecendo a dinâmica e a complexidade da indústria cultural brasileira e seu principal produto, a telenovela, o movimento negro [posta-se ao lado da arrogância da Igreja Católica, da prepotência do Estado e da interferência cínica da emissora .,
+      	 situar-se: A indústria de embalagens plásticas [situou-se entre as de maior crescimento no país .,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3923' = “tomar uma determinada posição”
+    	{colocar-se: Um dos bandeiristas, ao ouvir estas palavras, chegou as esporas à cavalgadura, e avançando algumas braças, [colocou-se ao lado do moço.,
+      	 pôr-se: Mustafá Contursi, presidente do Palmeiras, se [pôs ao lado de De Rey.,
+      	 posicionar-se: Também veloz e bom driblador, [posiciona-se bem na área, sabendo aproveitar as jogadas construídas em toques rápidos.,
+      	 postar-se: Receosos com as vaias, eles se [postaram atrás da mesa e ficaram encobertos pelas lideranças do PSDB.,
+      	 situar-se: O público indesejável que ia ali simplesmente cruzou a rua e se I]situou na esquina de L e 23.}
+Chave: POSICIONAR-SE <verb.possession>
+ILI: EQ_HAS_HYPERONYM – 02266215 – “determinar um local [para]”
+
+Sense 4
+{02266215} <verb.possession> locate1, place, site -- (assign a location to; "The company located some of their agents in Los Angeles")
+       => {01054384} <verb.competition> station, post, base, send, place -- (assign to a station)
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

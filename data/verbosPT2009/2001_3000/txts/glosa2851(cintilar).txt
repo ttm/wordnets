@@ -1,0 +1,36 @@
+ANÁLISE DA GLOSA2851
+
+DADO O SYNSET:
+
+S='Glosa2851'
+	    {chamejar: Muito mais acima elevavam-se as rochas enormes, tomando as mais fantásticas formas; aqui e além o reflexo do sol na neve assinalava as arestas das suas fendas, que pareciam I]chamejar.,
+	      chispar: No céu ver relâmpago sinistro I]chispar.,
+	      chispear: A lua em seu minguante era apenas como um traço em semicírculo, com as pontas viradas sobre o nascente, deixando entrever, ou antes, quase adivinhar a parte mergulhada na penumbra, de modo que toda a luz emanava da multidão de estrelas no firmamento límpido e sereno, secundadas em terra por um aluvião de vagalumes volitando e I]chispeando à maneira de faíscas escapadas de algum isqueiro imenso e perdendo-se nos ares. ,
+	      cintilar: Sem que eles percebessem, a porta da sacada foi se abrindo lentamente, descortinando o céu noturno iluminado, de quando em quando, pelos fogos de artifício que [cintilam agora sem ruído.,
+	      dardejar: E o sol, num monte, a I]dardejar na cal.,
+	      faiscar: A dança abalava-os a todos as senhoras iam-se já levantando; arrastavam-se cadeiras; a luz do gás mordia os ombros nus e fazia [faiscar os diamantes; as rabecas começavam a gemer.,
+	      relampadear: x,
+	      relampadejar: x,
+	      relampaguear: Quando as trevas eram mais cerradas e profundas viam-se à claridade das estrelas I]relampaguear as armas dos hunos.,
+	      relampear: Só ouço o índio gritando que a peleia vai pegar, começa a I]relampear faca e a moçada assustada foi gritando em disparada pra mode de apartar.,
+	      relampejar: O magma pulsante feito de ouro líquido toma o centro do quadro deixando entrever o vermelho que aquece suas profundezas e faz I]relampejar suas bordas.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2851' = “Refletir de forma muito brilhante”
+	    {chamejar: Os fogos estalaram, depois I]chamejaram gigantescos na noite.,
+	      chispar: Os arqueólogos acreditam que as primeiras faíscas I]chisparam na China 350 mil anos atrás.,
+	      cintilar: Sem que eles percebessem, a porta da sacada foi se abrindo lentamente, descortinando o céu noturno iluminado, de quando em quando, pelos fogos de artifício que [cintilam agora sem ruído.,
+	      dardejar: Um clarão I]dardejou diante de meus olhos.,
+	      faiscar: Asteróides sem rumo I]faiscaram no cosmo e onde caíram trouxeram destruição.,
+	      relampaguear: Levantou os olhos e seus óculos I]relampaguearam uma centelha hostil na direção de Winston.,
+	      relampear: as facas brandidas convulsivamente I]relampeavam. ameaçadoras por cima de suas cabeças.,
+	      relampejar: De vez em quando ela eriçava-se de baionetas, e elas I]relampejavam aqui e ali em pequenos grupos.,}
+
+Chave: CINTILAR <verb.weather>
+ILI: 02684341
+
+Sense 1
+{02684341} <verb.weather> sparkle, scintillate3, coruscate -- (reflect brightly; "Unquarried marble sparkled on the hillside")
+       => {02683911} <verb.weather> reflect, shine1 -- (be bright by reflecting or casting light; "Drive carefully--the wet road reflects")
+           => {02685205} <verb.weather> emit, give out, give off -- (give off, send forth, or discharge; as of light, heat, or radiation, vapor, etc.; "The ozone layer blocks some harmful rays which the sun emits") 

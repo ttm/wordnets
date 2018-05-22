@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA0185
+
+DADO O SYNSET:
+
+S='Glosa185'
+{defender-se: Os moradores da Favela Heliópolis, onde um incêndio provocou a morte de quatro pessoas na segunda-feira, [resistiram ontem à remoção. ,
+resistir: Os moradores da Favela Heliópolis, onde um incêndio provocou a morte de quatro pessoas na segunda-feira, [resistiram ontem à remoção.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa185' = “lutar contra, ou resistir fortemente”
+{defender-se:  I]Defendeu-se bravamente da terrível ameaça da sociedade. ,
+resistir: Os moradores da Favela Heliópolis, onde um incêndio provocou a morte de quatro pessoas na segunda-feira, [resistiram ontem à remoção.,}
+Chave: DEFENDER-SE <verb.competition>
+ILI: 01056643
+
+Sense 4
+{01056643} <verb.competition> fight1, oppose1, fight back, fight down, defend5 -- (fight against or resist strongly; "The senator said he would oppose the bill"; "Don't fight it!")
+       => {01055630} <verb.competition> fight, struggle -- (be engaged in a fight; carry on a fight; "the tribesmen fought each other"; "Siblings are always fighting")

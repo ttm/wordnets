@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA0749
+
+DADO O SYNSET:
+
+S='Glosa749'
+{bacorejar: x,
+bacorinhar: x,
+grunhir: O enorme cevado de grandes orelhas pendentes levantava-se dificilmente, e solenemente vinha mergulhar a cabeça na caldeira; noutro compartimento os bacorinhos [grunhiam e grunhindo, vinham com a mãe chafurdar-se na comida.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa749' = “soltar grunhidos, imitar a voz do porco”
+{grunhir: O enorme cevado de grandes orelhas pendentes levantava-se dificilmente, e solenemente vinha mergulhar a cabeça na caldeira; noutro compartimento os bacorinhos [grunhiam e grunhindo, vinham com a mãe chafurdar-se na comida.,}
+Chave: GRUNHIR <verb.communication>
+ILI: 01009703
+
+Sense 1
+{01009703} <verb.communication> grunt -- (issue a grunting, low, animal-like noise; "He grunted his reluctant approval")
+       => {00951670} <verb.communication> utter2, emit, let out2, let loose -- (express audibly; utter sounds (not necessarily words); "She let out a big heavy sigh"; "He uttered strange sounds that nobody could understand"

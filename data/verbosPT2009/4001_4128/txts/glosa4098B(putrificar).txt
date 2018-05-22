@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA4098
+
+DADO O SYNSET:
+
+S='Glosa4098'
+{apodrecer: Um carro de bois I]apodrecia debaixo das catingueiras sem folhas.,
+apodrentar: x,
+chocar2: A maionese ficou fora da geladeira e H]chocou.,
+corromper: A ferrugem H]corrompe o ferro.,
+	decompor-se: Viam que o corpo do defunto se I]decompunha.,      
+putrefazer: A umidade H]putrefaz a madeira.,
+putrificar: Asa morreu de uma doença que I]putrificou seus pés.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4098B' = “deteriorar ou entrar em decomposição”
+putrefazer: A umidade H]putrefaz a madeira.,
+putrificar: Asa morreu de uma doença que I]putrificou seus pés.,}
+Chave: PUTRIFICAR <verb.change>
+ILI: 00387476
+
+Sense 1
+{00387476} <verb.change> putrefy -- (become putrid; decay with an offensive smell; "organic matter putrefies")
+       => {00537495} <verb.change> decay2 -- (undergo decay or decomposition; "The body started to decay and needed to be cremated")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

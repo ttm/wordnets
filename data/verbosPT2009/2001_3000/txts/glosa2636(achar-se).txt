@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA2636
+
+DADO O SYNSET:
+
+  S='Glosa2636'
+	    {achar-se: No relevo asiático vamos encontrar o ponto mais elevado do mundo: o pico Everest, com 8848 m, e que se localiza na cordilheira do Himalaia, onde também [se acham alguns maciços de grande altitude.,
+	      estar: Isto mostra uma das grandes vantagens do setor de software: ele não precisa [estar nas grandes cidades. ,
+	      residir: Acreditava que a obra era contraditória em vários sentidos, mas precisamente nisto [residia a vantagem do romance sobre o ensaio. ,
+	      sentir-se: Romário de Souza Faria, o jogador da seleção brasileira, parece [sentir-se parte desse universo seleto.,
+	      ser: A vantagem [é que com apenas uma instalação a sua empresa consegue a unificação instantânea dos dados e a possibilidade de acesso remoto de qualquer lugar do Brasil.,
+	      tornar-se: x,
+	      ver-se: Um presidente pode [ver-se sem uma maioria no Congresso que aprova as leis, os orçamentos e a política que ele deseja seguir.,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2636' = “Ser inerente em alguma coisa.”
+	    {achar-se: No relevo asiático vamos encontrar o ponto mais elevado do mundo: o pico Everest, onde também [se acham alguns maciços de grande altitude.,
+	      estar: Isto mostra uma das grandes vantagens do setor de software: ele não precisa [estar nas grandes cidades. ,
+	      residir: Acreditava que a obra era contraditória em vários sentidos, mas precisamente nisto [residia a vantagem do romance sobre o ensaio. ,
+	      sentir-se: Romário de Souza Faria, o jogador da seleção brasileira, parece [sentir-se parte desse universo seleto.,
+	      ser: A vantagem [é que com apenas uma instalação a sua empresa consegue a unificação instantânea dos dados.,
+	      ver-se: Não se I]vê vantagem em imobilizar o joelho.,}
+
+Chave: ACHAR-SE <verb.stative>
+ILI: 02574483
+
+Sense 1
+{02574483} <verb.stative> inhere -- (be inherent in something)
+       => {02574255} <verb.stative> dwell1, consist, lie1, belong, lie in -- (originate (in); "The problems dwell in the social injustices in this country")
+           => {02526084} <verb.stative> exist, be -- (have an existence, be extant; "Is there a God?") 

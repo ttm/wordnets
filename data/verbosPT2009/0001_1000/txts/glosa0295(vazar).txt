@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0295
+
+DADO O SYNSET:
+
+S='Glosa295'
+{refluir: Pouco depois do meio-dia verifiquei que o mar estava bastante calmo e que a maré I]refluíra tanto que eu poderia avançar até a distância de apenas quatrocentos metros do navio.,
+vazar: A canoa balança bem devagar e a maré I]vazou, encheu.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa295' = “escaper(-se); ir(-se) escoando o líquido”
+{refluir: Pouco depois do meio-dia verifiquei que o mar estava bastante calmo e que a maré I]refluíra tanto que eu poderia avançar até a distância de apenas quatrocentos metros do navio.,
+vazar: A maré encheu, A maré I]vazou, Os cabelos da morena O riacho carregou.,}
+Chave: VAZAR <verb.change>
+ILI: 00438596
+
+Sense 3
+{00438596} <verb.change> drain1 -- (empty of liquid; drain the liquid from; "We drained the oil tank")
+       => {00436730} <verb.change> empty1 -- (make void or empty of contents; "Empty the box"; "The alarm emptied the building")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

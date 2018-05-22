@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA1031
+
+DADO O SYNSET:
+
+S='Glosa1031'
+{conceber: É díficil [conceber que alguém invista, como plataforma política para o futuro, em um projeto único e ainda assim impopular, como é o novo imposto do Jatene.,
+ congeminar2: Há gente assim, que vive nas memórias das coisas, poderiam I]congeminar os turistas de ocasião.,
+ considerar: Ela chega a pelo menos uma espécie extinta por dia, se [considerarmos a devastação da Floresta Amazônica e demais florestas tropicais do planeta. # Preferem [considerar essas sensações como formas especiais de sensibilidade cutânea, superficial ou profunda.,
+ cuidar: A princípio, vendo a afeição com que ela tratava a mocinha, [cuidei que os aprovava.,
+ desconfiar: Não falava alegre, o que me fez [desconfiar que mentia, para me não meter medo, mas jurou que era a verdade pura.,
+ imaginar: Quando tentamos [imaginar o Brasil recém descoberto, este descrito pela primeira vez pelo escrivão de Cabral, pensamos em praias de águas cristalinas, areias imaculadas, com exuberante vegetação.,
+ julgar: Nunca vendi milhões de discos para [julgar o que aconteceria comigo.,
+ pensar: Mas quem [pensa que ela escolheu a carreira de modelo, se engana.,
+ supor: Mas não devemos [supor, porém, que a détente signifique o fim das rivalidades entre norte-americanos e soviéticos, que possuem interesses antagônicos e divergências ideológicas bastante sensíveis,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1031' = “julgar, considerar”
+{conceber: Chéreau [concebe a destruição como a marca indelével da história, e extrai o máximo proveito desta premissa.,
+ congeminar2: O Homem, independentemente do social, I]congemina uma imagem das coisas que é transversal a todas as culturas.,
+ considerar: O Banco Central [considerou a operação como um empréstimo ilegal.,
+ cuidar: A princípio, vendo a afeição com que ela tratava a mocinha, [cuidei que os aprovava.,
+ desconfiar: Castiglione [desconfia que o avião esteja fora do país.,
+ imaginar: Quem [imagina que o jovem diretor fala da boca para fora, sem nenhuma experiência, se surpreende com seu tom determinado, na administração há 19 anos.,
+ julgar: No meu próprio trabalho [julguei ser útil distinguir cinco aspectos ou “sintomas” fundamentais da ciência cognitiva.,
+ pensar: As pessoas [pensam que Andy Warhol é só pop arte, mas essa é uma visão muito limitada.,
+ supor: Que massa de oxigênio (O2) você [supõe ser necessária para reagir totalmente com 0,005 g de hidrogênio (H2)?}
+Chave: PENSAR <verb.cognition>
+ILI: 00666260 
+
+Sense 1
+{00666260} <verb.cognition> think1, believe4, consider8, conceive -- (judge or regard; look upon; judge; "I think he is very smart"; "I believe her to be very smart"; "I think that he is her boyfriend"; "The racist conceives such people to be inferior")
+       => {00647983} <verb.cognition> judge -- (form an opinion of or pass judgment on; "I cannot judge some works of modern art")
+           => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

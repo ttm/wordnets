@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA2023
+
+DADO O SYNSET:
+	
+S='Glosa2023'
+    	{caducar: Por isso não só existiram elementos para apreciar a petição (a causa de pedir é existente) como ainda o prazo não I]caducou, porquanto existe reclamação anterior, cuja cópia se pede que seja junta.,
+      	 expirar: Ontem, [expirou o prazo para que a Unimed e as empresas de planos de saúde ligadas à Associação Brasileira de Medicina de Grupo (Abramge) entregassem ao Ministério da Fazenda suas planilhas de custos, justificando os reajustes considerados abusivos pelo governo .,
+      	 prescrever: Informa que em tese o caso não será apurado pela Justiça Eleitoral porque o prazo para isso já I]prescreveu.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2023' = “perder validade”
+    	{caducar: Por isso não só existiram elementos para apreciar a petição (a causa de pedir é existente) como ainda o prazo não I]caducou, porquanto existe reclamação anterior, cuja cópia se pede que seja junta.,
+      	 expirar: Ontem, [expirou o prazo para que a Unimed e as empresas de planos de saúde ligadas à Associação Brasileira de Medicina de Grupo entregassem ao Ministério da Fazenda suas planilhas de custos.,
+      	 prescrever: Informa que em tese o caso não será apurado pela Justiça Eleitoral porque o prazo para isso já I]prescreveu.}
+Chave: EXPIRAR <verb.stative>
+ILI: 02603946
+
+Sense 1
+{02603946} <verb.stative> run out, expire -- (lose validity; "My passports expired last month")
+       => {02602987} <verb.stative> discontinue1 -- (come or be at an end; "the support from our sponsoring agency will discontinue after March 31")
+           => {02531897} <verb.stative> end, stop13, finish, terminate, cease13 -- (have an end, in a temporal, spatial, or quantitative sense; either spatial or metaphorical; "the bronchioles terminate in a capillary bed"; "Your rights stop where you infringe upon the rights of other"; "My property ends by the bushes"; "The symphony ends in a pianissimo")

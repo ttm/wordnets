@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0148
+
+DADO O SYNSET:
+
+S='Glosa148'
+{amelindrar-se: x,
+irritar-se: George, portador da síndrome de Down que foge do hospital em que vive e acaba fazendo amizade com o bem-sucedido executivo Harry, [se irrita com o amigo: Mongolóide!         ,
+melindrar-se: Aquela que [se melindra à toa, exige tudo arrumadinho dentro de casa, superprotege os filhos e sofre de cólicas existenciais mais intensas e freqüentes que as menstruais.,
+queimar-se: H]Queimou-se com o chefe porque não foi promovido.,
+zangar-se: Sávio [se zanga quando lhe perguntam se nos tempos de menino em Vitória, era tricolor como o pai, Seu Mazinho.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa148' = “causar aborrecimento, perturbar(-se) especialmente por coisas de menor importância”
+{irritar-se: George, portador da síndrome de Down que foge do hospital em que vive e acaba fazendo amizade com o bem-sucedido executivo Harry, [se irrita com o amigo: Mongolóide!.,
+melindrar-se: Aquela que [se melindra à toa, exige tudo arrumadinho dentro de casa, superprotege os filhos e sofre de cólicas existenciais mais intensas e freqüentes que as menstruais.,
+queimar-se: Bornhausen I]queimou-se com a alteração presidencial.,
+zangar-se: Sávio [se zanga quando lhe perguntam se nos tempos de menino em Vitória, era tricolor como o pai, Seu Mazinho.,}
+Chave: IRRITAR-SE <verb.emotion>
+ILI: 01736079
+
+Sense 1
+{01736079} <verb.emotion> annoy, rag1, get to, bother, get at, irritate, rile, nark, nettle, gravel, vex, chafe, devil -- (cause annoyance in; disturb, especially by minor irritations; "Mosquitoes buzzing in my ear really bothers me"; "It irritates me that she never closes the door after she leaves")
+       => {01764259} <verb.emotion> displease -- (give displeasure to)

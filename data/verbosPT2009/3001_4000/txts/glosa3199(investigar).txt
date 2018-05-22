@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA3199
+
+DADO O SYNSET:
+
+S='Glosa3199'
+	    {
+	      interrogar: A]Interrogar as causas de um delito.,
+	      investigar: Destinou-se a [investigar as causas do endividamento do setor agrícola, o elevado custo dos seus financiamentos e as condições de importação de alimentos.,
+	      sindicalizar: DEVIANT,
+	      sindicar: Entendo que a companhia tem todo o direito de I]sindicar e averiguar os fatos.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3199' = “conduzir um inquérito ou investigação”
+	     {interrogar: O artigo de M.T. Leme Fleury [interroga conjuntamente o sistema de gestão e a política de recursos humanos das empresas tecnologicamente avançadas no Brasil e no Japão.,
+	      investigar: Detetive [investiga assassinato de dois jovens que viviam nas ruas de Botafogo.,
+	      sindicar: A polícia também I]sindicou dois menores que faziam parte do esquema.,}
+Chave: INVESTIGAR <verb.communication>
+ILI: 00760225
+
+Sense 2
+{00760225} <verb.communication> investigate1, inquire2, enquire2 -- (conduct an inquiry or investigation of; "The district attorney's office investigated reports of possible irregularities"; "inquire into the disappearance of the rich old lady")
+       => {00762719} <verb.communication> probe, examine1 -- (question or examine thoroughly and closely)
+           => {00763144} <verb.communication> investigate, look into -- (investigate scientifically; "Let's investigate the syntax of Chinese")
+               => {00623929} <verb.cognition> analyze, analyse, study2, examine, canvass2, canvas2 -- (consider in detail and subject to an analysis in order to discover essential features or meaning; "analyze a sonnet by Shakespeare"; "analyze the evidence in a criminal trial"; "analyze your real motives")

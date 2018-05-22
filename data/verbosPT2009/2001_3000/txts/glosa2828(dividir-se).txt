@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA2828
+
+DADO O SYNSET:
+
+S='Glosa2828'
+	    {cindir-se: O Partido Republicano Federal [se cindiu, com Francisco Glicério fazendo oposição ao presidente.,
+	      dispartir-se: Subiam os adventícios, muitos deles portugueses já desiludidos com as Gerais, às montantes dos rios Turvo e Xopotó, atravessando regiões sesmadas. Nas matas, I]dispartindo-se, deram origem a novos núcleos em Calambau, Dores do Turvo, Conceição e Rosário da Aliança. Apesar de pobres e pedregosas a montante, as terras prestavam-se ao amanho em suas baixadas úmidas e irrigáveis, nos vales tributários dos rios Ubá e Paraopeba.,
+	      dividir-se: O comando de greve [se dividiu em três grupos de ocupação: na rua, nos acessos internos e no 5° andar, o do gabinete.,
+	      partir-se: A Coréia H]partiu-se em duas depois da Guerra de 1950.,
+	      rasgar-se: O sindicato sempre se H]rasga em época de eleição.,
+	      seccionar-se: A representação das TVs jamais deveria I]seccionar-se, porque isso pode propiciar a volta da censura pelo Estado.,
+	      secionar-se: Método de estudo anatomopatológico do linfonodo sentinela utilizado no Centro de Tratamento e Pesquisa Hospital do Câncer: I]secciona-se transversalmente o linfonodo em seu menor eixo, em 3 partes iguais, identifica-se, e embloca-se separadamente em parafina.,
+	      separar-se: A estrada A]separava-se em três ramais.,}
+
+	  A='Glosa59'
+	    {unir-se: O departamento de agronomia da empresa naquele país [uniu-se a entidades governamentais para incentivar os produtores rurais a desenvolver espécies tolerantes ao fungo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2828' = “Fazer uma divisão ou uma separação”
+	    {cindir-se: O Partido Republicano Federal [se cindiu, com Francisco Glicério fazendo oposição ao presidente.,
+	      dispartir-se: Durante o período imperial tínhamos uma estrutura social muito simplificada, de maneira que a vida política não se distribuía por vários centros da atividade, não se dispartia por várias classes ou grupos profissionais (EV,88).,
+	      dividir-se: O comando de greve [se dividiu em três grupos de ocupação: na rua, nos acessos internos e no 5° andar, o do gabinete.,
+	      partir-se: Conto que escreve para si próprio, nesse momento em que o seu destino I]partiu-se em dois.,
+	      seccionar-se: Em princípio, havia A Curia Regis, Tribunal do rei, que I]se seccionou em diferentes jurisdições especializadas.,
+	      separar-se: Nesse período remoto, a escolástica budista I]se separou em diversas seitas.,}
+
+	  A='Glosa59'
+	    {unir-se}
+Chave: DIVIDIR-SE <verb.motion>
+ILI: 01973194
+
+Sense 9
+{01973194} <verb.motion> separate1, divide -- (make a division or separation) 

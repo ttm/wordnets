@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA0462
+
+DADO O SYNSET:
+
+S='Glosa462'
+{alagar: O goaná do lago voa longe, longe, para banhar-se nas águas da chuva que [alagaram a várzea.,
+anaguar: x,
+inundar: Em Copacabana, as águas [inundaram as ruas, invadiram as lojas e garagens e deixaram dezenas de carros submersos,
+submergir: O lago da usina vai [submergir 110 km2 de terras férteis, 2 km2 de Mata Atlântica.,}
+A='Glosa1124'
+{desalagar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa462' = “cobrir de água; transbordar”
+{alagar: O goaná do lago voa longe, longe, para banhar-se nas águas da chuva que [alagaram a várzea.,
+inundar: Em Copacabana, as águas [inundaram as ruas, invadiram as lojas e garagens e deixaram dezenas de carros submersos,
+submergir: O lago da usina vai [submergir 110 km2 de terras férteis, 2 km2 de Mata Atlântica.,}
+A='Glosa1124'
+{desalagar}
+Chave: INUNDAR <verb.contact>
+ILI: 01482245
+
+Sense 1
+{01482245} <verb.contact> deluge, flood, inundate, swamp -- (fill quickly beyond capacity; as with a liquid; "the basement was inundated after the storm"; "The images flooded his mind")
+       => {00439460} <verb.change> fill1, fill up, make full -- (make full, also in a metaphorical sense; "fill a container"; "fill the child with pride")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

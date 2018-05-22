@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA2446
+
+DADO O SYNSET:
+
+S='Glosa2446'
+	    {conter-se: Ea ninfa, que I]conter-se não podia, uma risada solta.,
+	      domar-se: Hábil, sabendo [domar-se a tempo, Sofia dissimulou o despeito, e restituiu sorrindo a carta da prima.,
+	      dominar-se: Com enorme sacrifício, procura [dominar-se.,
+	      refrear-se: Embora o homem viva tentando I]refrear-se em relação ao dinheiro, ao sexo, ao poder, à fama e ao egoísmo, vê-se constantemente tentado por eles.,
+	      sopitar-se: Ele espia, escuta, indaga, protela ou palia, I]se sopita, se retarda, faz véspera, tempera, cala a boca, matuta, distorce, engambela, pauteia e se prepara" para a vida, que sempre lhe foi dura, e para a arte, que ele foi dominando aos poucos, com vagar e paciência, autodidaticamente,
+	      soporizar-se: x,
+	      subjugar-se: Foi necessária uma violência inaudita para obrigar o trabalhador a I]subjugar-se a este novo estado de coisas, ao qual resistiu como pôde.,
+	      vencer-se: Só Capitu, amparando a viúva, parecia [vencer-se a si mesma.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2446' = “Manter (-se) sob controle.”
+	    {conter-se: Ela sentia-se curiosa, já interessada em acercar-se dele e sentir seu corpo, mas I]conteve-se.,
+	      domar-se: A histeria coletiva I]domava-se aos poucos.,
+	      dominar-se: O homem I]dominou-se com um tremendo esforço e soltou uma risada falsa.,
+	      refrear-se: O rapaz ergueu a mão mais uma vez para bater na porta mas I]refreou-se.,
+	      sopitar-se: Ele espia, escuta, indaga, protela, I]se sopita, se retarda, faz véspera, tempera, cala a boca, matuta, distorce, engambela, pauteia e se prepara para a vida, que sempre lhe foi dura, e para a arte, que ele foi dominando aos poucos.,
+	      subjugar-se: Cheguei a ouvir um prorromper de lágrimas, e digo-lhes que estive a ponto de voltar, para as enxugar com um beijo; mas I]subjuguei-me e saí.,
+	      vencer-se: Estácio desviou os olhos; custava-lhe encará-la, mas I]venceu-se.,}
+
+Chave: REFREAR-SE <verb.social>
+ILI: 02349665
+
+Sense 1
+{02349665} <verb.social> restrain1, suppress3, keep, keep back, hold back -- (keep under control; keep in check; "suppress a smile"; "Keep your temper"; "keep your cool")
+       => {02377053} <verb.social> prevent, keep1 -- (prevent from doing something or being in a certain state; "We must prevent the cancer from spreading"; "His snoring kept me from falling asleep"; "Keep the child from eating the marbles") 

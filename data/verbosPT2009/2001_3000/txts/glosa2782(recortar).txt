@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2782
+
+DADO O SYNSET:
+
+S='Glosa2782'
+	    {cortar: Imagine ficar sem dormir, I]cortar papel pra maquete, cortar papel pra desenho, estudar, estudar, estudar, ler, reler, pensar e ir à aula de manhã.,
+	      picar: I]Picar o papel em partes bem pequenas.,
+	      recortar: Pois pode [recortar este pedaço do seu Folhateen para esfregar na cara desses amigos bem cobras que você tem.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2782' = “Cortar em pedaços”
+	    {cortar: Bartolo trouxe da secretaria a folha de papel almaço, I]cortou os pedaços, escreveu os números na frente do mestre.,
+	      picar: Após lermos o papel, você o pegou e o I]picou em pedacinhos.,
+	      recortar: Trabalhando com afinco, o garoto I]recortou o papel em bom tamanho e no trabalho colou.,}
+
+Chave: RECORTAR <verb.contact>
+ILI: 01220020
+
+Sense 1
+{01220020} <verb.contact> chop1, chop up -- (cut into pieces; "Chop wood"; "chop meat")
+       => {01509511} <verb.contact> cut -- (separate with or as if with an instrument; "Cut the rope")
+           => {01513899} <verb.contact> separate1, disunite, divide1, part1 -- (force, take, or pull apart; "He separated the fighting children"; "Moses parted the Red Sea")
+               => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant") 

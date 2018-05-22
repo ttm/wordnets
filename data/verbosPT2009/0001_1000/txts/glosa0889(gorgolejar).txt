@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0889
+
+DADO O SYNSET:
+
+S='Glosa889'
+      {chuchurrear: Ela chupava talhadas de laranja, I]chuchurreando tão alto que se ouvia de fora,
+     gorgolejar: Glenn ligou uma cafeteira, ela I]gorgolejou e exalou um vapor aromático,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa889' = “emitir som característico do ato de sugar ou sorver”
+{chuchurrear: Ela chupava talhadas de laranja, I]chuchurreando tão alto que se ouvia de fora,
+gorgolejar: Glenn ligou uma cafeteira, ela I]gorgolejou e exalou um vapor aromático,}
+Chave: GORGOLEJAR <verb.communication>
+ILI: 02116681
+
+Sense 1
+{02116681} <verb.perception> squelch -- (make a sucking sound)
+       => {02113837} <verb.perception> sound, go -- (make a certain noise or sound; "She went `Mmmmm'"; "The gun went `bang'")
+           => {02062507} <verb.perception> cause to be perceived -- (have perceptible qualities)

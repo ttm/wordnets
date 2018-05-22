@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0375
+
+DADO O SYNSET:
+
+S='Glosa375'
+{adjutorar: O meu fiel companheiro Ary, nosso melhor investigador mas que tem problemas nas gengivas e virilhas, sói I]adjutorar-me nos assuntos estratégicos. ,
+assessorar: À Divisão de Segurança e Informações compete [assessorar o Ministro de Estado em todos os assuntos pertinentes à segurança nacional.,
+assistir: Acontece que Deming foi convidado, nos fins da década de 40, pelo general Mac Arthur, na época comandante-supremo das forças americanas de ocupação no Japão, para [assisti-lo em estudos de população e de habitação.,
+auxiliar: Bernardinho terá um psicólogo para [auxiliá-lo na preparação da seleção feminina, que irá disputar o Mundial de Vôlei.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa375' = “dar ajuda ou assistência; estar a serviço”
+{adjutorar: O meu fiel companheiro Ary, nosso melhor investigador mas que tem problemas nas gengivas e virilhas, sói I]adjutorar-me nos assuntos estratégicos. ,
+assessorar: À Divisão de Segurança e Informações compete [assessorar o Ministro de Estado em todos os assuntos pertinentes à segurança nacional.,
+assistir: Acontece que Deming foi convidado, nos fins da década de 40, pelo general Mac Arthur, na época comandante-supremo das forças americanas de ocupação no Japão, para [assisti-lo em estudos de população e de habitação.,
+auxiliar: Bernardinho terá um psicólogo para [auxiliá-lo na preparação da seleção feminina, que irá disputar o Mundial de Vôlei.,}
+Chave: AUXILIAR <verb.social>
+ILI: 02472355
+
+Sense 1
+{02472355} <verb.social> help, assist2, aid -- (give help or assistance; be of service; "Everyone helped out during the earthquake"; "Can you help me carry this table?"; "She never helps around the house")
+       => {02480483} <verb.social> support, back up -- (give moral or psychological support, aid, or courage to; "She supported him during the illness"; "Her children always backed her up")

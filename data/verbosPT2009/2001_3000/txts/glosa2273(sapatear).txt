@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA2273
+
+DADO O SYNSET:
+
+S='Glosa2273'
+	    {sapatear: De pronto, Casusa e Sebastião pularam ao meio da sala e puseram-se a [sapatear agilmente. ,
+	      tripudiar: O dançarino H]tripudiou demoradamente.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2273' = “dançar e fazer sons ritmados por sapatos com a ponta da sola de metal”
+	    {sapatear: Tip e Tap são ratinhos que sabem [sapatear.,
+	      tripudiar: O dançarino H]tripudiou demoradamente.,}
+Chave: SAPATEAR <verb.motion>
+ILI: 01841374
+
+Sense 1
+{01841374} <verb.motion> tapdance, tap1 -- (dance and make rhythmic clicking sounds by means of metal plates nailed to the sole of the dance shoes; "Glover tapdances better than anybody")
+       => {01659897} <verb.creation> dance, trip the light fantastic, trip the light fantastic toe -- (move in a pattern; usually to musical accompaniment; do or perform a dance; "My husband and I like to dance at home to the radio")
+           => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right")

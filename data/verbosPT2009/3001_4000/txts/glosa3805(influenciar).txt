@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA3805
+
+DADO O SYNSET:
+	
+S='Glosa3805'
+{influenciar: Esse magro resultado tende a [influenciar na definição das linhas do governo Fernando Henrique Cardoso.,
+	 pesar: As atividades extracurriculares não podem ser obrigatórias nem [pesar na avaliação do aluno.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3805' = “ter ou exercer influência ou efeito”
+{influenciar: Esse magro resultado tende a [influenciar na definição das linhas do governo Fernando Henrique Cardoso.,
+	 pesar: As atividades extracurriculares não podem ser obrigatórias nem [pesar na avaliação do aluno.}
+Chave: INFLUENCIAR <verb.social>
+ILI: 02461275
+
+Sense 1
+{02461275} <verb.social> influence, act upon, work10 -- (have and exert influence or effect; "The artist's work influenced the young painter"; "She worked on her friends to support the political candidate")
+       => {00132263} <verb.change> affect, impact, bear upon, bear on, touch on1, touch -- (have an effect upon; "Will the new rules affect me?")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

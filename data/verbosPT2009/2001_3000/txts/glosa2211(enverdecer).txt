@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA2211
+
+DADO O SYNSET:
+
+S='Glosa2211'
+	    {enverdecer: Assim, antigas regiões poluídas podem I]enverdecer, enquanto outras se degradar.,
+	      enverdejar: x,
+	      reverdecer: De modo que elaborei um plano destinado a I]reverdecer o campus da Universidade, transformando-o da sua totalidade rubra e ferruginosa num verde fresco e viçoso.,
+	      verdecer: A pedra negra A]verdecia.,
+	      verdejar: Só aquele juazeiro, devastado e espinhento, I]verdejava a copa hospitaleira na desolação cor de cinza da paisagem., }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2211' = “tornar verde”
+	    {enverdecer: As plantas sugaram da água que caíra no solo e I]enverdeceram totalmente.,
+	      reverdecer: De modo que elaborei um plano destinado a I]reverdecer o campus da Universidade, transformando-o da sua totalidade rubra e ferruginosa num verde fresco e viçoso.,
+	      verdecer: A pedra negra A]verdecia.,
+	      verdejar: Só aquele juazeiro, devastado e espinhento, I]verdejava a copa hospitaleira na desolação cor de cinza da paisagem.,}
+
+Chave: ENVERDECER <verb.change>
+ILI: 00507712
+
+Sense 1
+{00507712} <verb.change> green -- (turn or become green; "The trees are greening")
+       => {00272185} <verb.change> discolor, discolour, colour, color1 -- (change color, often in an undesired manner; "The shirts discolored")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

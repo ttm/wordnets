@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA3267
+
+DADO O SYNSET:
+
+S='Glosa3267'
+	    {
+	      lapidificar-se: x,
+	      petrificar-se: Nesse fundo formaram-se grandes dunas de areia que I]petrificaram-se há milhões de anos após o recuo do mar.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3267' = ”tornar-se pedra”
+	     {petrificar-se: a sopa H]petrificou-se no congelador.,}
+Chave: PETRIFICAR-SE <verb.change>
+ILI: 00493843
+
+Sense 2
+{00493843} <verb.change> lapidify, petrify -- (change into stone; "the wood petrified with time")
+       => {00494022} <verb.change> fossilize, fossilise -- (convert to a fossil; "The little animals fossilized and are now embedded in the limestone")
+           => {00369301} <verb.change> convert, change over2 -- (change from one system to another or to a new plan or policy; "We converted from 220 to 110 Volt")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

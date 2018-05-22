@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA1804
+
+DADO O SYNSET:
+
+S='Glosa1804'
+{engrampar: x,
+grampar: x,
+grampear: Dias afirmou que não pode acusar Joaquim Roriz de ter mandado [grampear os telefones de sua casa e seu escritório em Curitiba .,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1804' = “interceptar um fio de telefone ou telégrafo a fim de obter informações”
+{grampear: A polícia, ontem à tarde, [grampeou (colocou escuta) o telefone da casa.,}
+Chave: GRAMPEAR <verb.perception>
+ILI: 02126149
+
+Sense 2
+{02126149} <verb.perception> wiretap, tap, intercept, bug -- (tap a telephone or telegraph wire to get information; "The FBI was tapping the phone line of the suspected spy"; "Is this hotel room bugged?")
+       => {02127015} <verb.perception> listen in, eavesdrop -- (listen without the speaker's knowledge; "the jealous man was eavesdropping on his wife's conversations")
+           => {02107615} <verb.perception> listen -- (hear with intention; "Listen to the sound of this cello")
+               => {02045668} <verb.perception> perceive, comprehend -- (to become aware of through the senses; "I could perceive the ship coming over the horizon")

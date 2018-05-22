@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2159
+
+DADO O SYNSET:
+
+S='Glosa2159'
+	    {betar: H]Betar de verde um papel.,
+	      listar: x,
+	      listrar: Começou utilizando os próprios ferros aldinos, mas soube a partir deles chegar a uma infinidade de modelos em forma de folha, que vazou e I]listrou, criando belíssimo efeito. # M]Listrar um lenço.,
+	      zebrar: Alexandre Herchcovitch brincou com maestria e domínio em sua coleção New Wave, I]zebrando e quadriculando bermudas e calças., }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2159' = “fazer ou assinalar com  listras”
+	    {betar: H]Betar de verde um papel.,
+	      listrar: Começou utilizando os próprios ferros aldinos, mas soube a partir deles chegar a uma infinidade de modelos em forma de folha, que vazou e I]listrou, criando belíssimo efeito. # M]Listrar um lenço.,
+	      zebrar: Alexandre Herchcovitch brincou com maestria e domínio em sua coleção New Wave, I]zebrando e quadriculando bermudas e calças.,}
+
+Chave: LISTRAR <verb.contact>
+ILI: 01235162
+
+Sense 1
+{01235162} <verb.contact> stripe -- (mark with stripes)
+       => {00494390} <verb.change> mark -- (make or leave a mark on; "mark the trail so that we can find our way back")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA0306
+
+DADO O SYNSET:
+
+S='Glosa306'
+{abrancar: x,
+embrancar: Apresenta tristes episódios como o do jogador Carlos Alberto, que teria utilizado pó de arroz para I]embrancar, sendo delatado pelo próprio suor no afã de ganhar a partida.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa306' = “tornar branco; embranquecer”
+{embrancar: Apresenta tristes episódios como o do jogador Carlos Alberto, que teria utilizado pó de arroz para I]embrancar, sendo delatado pelo próprio suor no afã de ganhar a partida.,}
+Chave: EMBRANCAR <verb.change>
+ILI: 00271295
+
+Sense 1
+{00271295} <verb.change> whiten, white -- (turn white; "This detergent will whiten your laundry")
+       => {00272185} <verb.change> discolor, discolour, colour, color1 -- (change color, often in an undesired manner; "The shirts discolored")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

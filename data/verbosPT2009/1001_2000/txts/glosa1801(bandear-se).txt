@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA1801
+
+DADO O SYNSET:
+
+S='Glosa1801'
+{baldear-se: Itamar, prevendo a derrota, retirou sua candidatura a presidente do PMDB e arruma as malas para I]baldear-se para o PDT de Leonel Brizola.,
+ bandear-se: Foi fundador do PT em Campos, interior do Estado, depois [bandeou-se para o PDT.,
+ desertar: A]Desertou para a facção oposta.  ,
+ engorrar-se: x,
+ passar-se: A]Passou-se para as tropas inimigas.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1801' = “desertar um partido ou grupo de amigos, por exemplo, para a vantagem pessoal de alguém”
+{baldear-se: Itamar, prevendo a derrota, retirou sua candidatura a presidente do PMDB e arruma as malas para I]baldear-se para o PDT de Leonel Brizola.,
+ bandear-se: Tucanos muito próximos a FHC ameaçam: se o PFL se I]bandear para uma possível candidatura Sarney, o PSDB abre mão da disputa e apóia Lula, que liquidaria a fatura já no primeiro turno.,
+ desertar: Um dos mais famosos casos de traição foi o de Judas Iscariotes, que fazia parte do grupo dos doze apóstolos mas I]desertou para o lado dos fariseus.,
+ passar-se: Como foi que Lula, que tanto criticava a TV Globo pelo encaminhamento que ainda hoje pratica, se I]passou para o lado da maior rede de telealienação?,}
+Chave: BANDEAR-SE <verb.social>
+ILI: 02507523
+
+Sense 1
+{02507523} <verb.social> rat -- (desert one's party or group of friends, for example, for one's personal advantage)
+       => {02507145} <verb.social> defect, desert -- (desert (a cause, a country or an army), often in order to join the opposing cause, country, or army; "If soldiers deserted Hitler's army, they were shot")
+           => {02016731} <verb.motion> flee, fly3, take flight -- (run away quickly; "He threw down his gun and fled")
+               => {02016325} <verb.motion> run4, scarper, turn tail, lam, run away, hightail it, bunk, head for the hills, take to the woods, escape2, fly the coop, break away -- (flee; take to one's heels; cut and run; "If you see this man, run!"; "The burglars escaped before the police showed up")
+                   => {01951556} <verb.motion> leave1, go forth, go away -- (go away from a place; "At what time does your train leave?"; "She didn't leave until midnight"; "The ship leaves at midnight")

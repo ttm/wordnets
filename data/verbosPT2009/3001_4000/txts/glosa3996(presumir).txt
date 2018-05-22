@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA3996
+
+DADO O SYNSET:
+	
+S='Glosa3996'
+{conjecturar: x,
+ conjeturar: Apenas I]conjeturou que os jovens são muito volúveis.,
+ prefigurar: Fazendo que a observação rápida do estrangeiro I]prefigure dilatada região vivaz e feracíssima,
+ prejulgar: A visão estática da vida I]prejulgou que toda verdade tinha sido revelada.,
+ pressupor: I]Pressuponho que possa existir interesses nessa divulgação.,
+ presumir: Pulou com vontade e tomando a direção do asfalto I]presumiu que voava mais rápido do que as gotas de chuva.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3996' = “aceitar [algo] como verdadeiro sem verificação ou prova”
+{conjeturar: Alguns I]conjeturam que a vida veio do espaço, trazida talvez por algum meteoro.,
+ prefigurar: Criticando, como muitos, a “timidez” e a decadência do Ocidente, Cioran [prefigura, sem dúvida, a confusa situação ideológica que se vive nos países desenvolvidos .
+ prejulgar: A visão estática da vida I]prejulgou que toda verdade tinha sido revelada.,
+ pressupor: I]Pressuponho que possa existir interesses nessa divulgação.,
+ presumir: Alguns programas mostram uma inclinação por unidades de pequena escala, [presumindo que uma compreensão perfeita destas unidades e processos elementares é o caminho mais seguro rumo à explicação definitiva de unidades e entidades complexas.}
+Chave: PRESUMIR <verb.cognition>
+ILI: 00612180
+
+Sense 1
+{00612180} <verb.cognition> assume, presume, take for granted -- (take to be the case or to be true; accept without verification or proof; "I assume his train was late")
+       => {00695861} <verb.cognition> expect, anticipate -- (regard something as probable or likely; "The meteorologists are expecting rain for tomorrow")
+           => {00647983} <verb.cognition> judge -- (form an opinion of or pass judgment on; "I cannot judge some works of modern art")
+               => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

@@ -1,0 +1,49 @@
+ANÁLISE DA GLOSA3557
+
+DADO O SYNSET:
+
+S='Glosa3557'
+	    {
+	      afligir: A crise crônica [aflige o país há mais de dez anos. ,
+	      alhanar: Em poucos dias, os invasores H]alhanaram toda a mata.,
+	      arrasar: Terremotos, a qualquer momento, podem [arrasar a cidade.,
+	      assolar: A neve, o frio e a lama foram os fantasmas que [assolaram os pilotos no retorno à Europa, depois de vários dias sob temperaturas que chegaram aos 50 graus Celsius positivos no continente africano. ,
+	      decimar: Em tempos este foi um povo de grandes guerreiros, mas que I]decimaram as suas próprias gentes através de guerras constantes.,
+	      depredar: As pessoas que dirigem a escola depredam e deixam [depredarem o palacete. / Armados de barras de ferro, pedaços de paus e pedras, os presos começaram a [depredar a prisão. ,
+	      destruir: Um cometa vai chocar-se com Júpiter, numa colisão que seria suficiente para [destruir a vida na Terra. ,
+	      devastar: Chuvas fortes voltaram a atingir o norte da Itália, provocando o temor de novas inundações como as que [devastaram a região no começo da semana. ,
+	      devorar: Além das pragas, a saúva era um outro grande problema para os fazendeiros: causavam enormes prejuízos à agricultura, [devorando as folhagens dos cafeeiros. / O incêndio I]devora tudo.,
+	      dizimar: A Peste Negra foi um surto de peste bubônica que [dizimou a população européia. ,
+	      escalar: As cavalgadas cristãs M]escalavam terras de mouros.,
+	      infestar: Urge varrer a complacência do futebol, junto com os cartolas que o [infestaram e os técnicos que andam com a cabeça fora do lugar.  ,
+	      nivelar: Quando M]nivelava com a espada as profundas desigualdades políticas e sociais da velha Europa.,
+	      sorver: É a guerra aquela tempestade terrestre, que leva os campos, as casas, as vilas, os castelos, as cidades, e talvez em um momento I]sorve os reinos e monarquias inteiras.,
+	      talar: I]Talar plantações.,
+	      varrer: Ventos, chuvas e tempestades de neve [varreram ontem todo o nordeste dos EUA, atrasando milhares de viagens de avião e trem.,
+	      vastar2: x,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3557' = “pôr fim, causar a destruição ou a ruína”
+	     {afligir: A crise crônica [aflige o país há mais de dez anos. ,
+	      alhanar: Em poucos dias, os invasores H]alhanaram toda a mata.,
+	      arrasar: Terremotos, a qualquer momento, podem [arrasar a cidade.,
+	      assolar: A mais famosa e considerada uma pandemia é a que [assolou o mundo em 1918-1919, quando pelo menos 20 milhões de pessoas morreram. ,
+	      decimar: Em tempos este foi um povo de grandes guerreiros, mas que I]decimaram as suas próprias gentes através de guerras constantes.,
+	      depredar: As pessoas que dirigem a escola depredam e deixam [depredarem o palacete. / Armados de barras de ferro, pedaços de paus e pedras, os presos começaram a [depredar a prisão. ,
+	      destruir: Um cometa vai chocar-se com Júpiter, numa colisão que seria suficiente para [destruir a vida na Terra. ,
+	      devastar: Chuvas fortes voltaram a atingir o norte da Itália, provocando o temor de novas inundações como as que [devastaram a região no começo da semana. ,
+	      devorar: Além das pragas, a saúva era um outro grande problema para os fazendeiros: causavam enormes prejuízos à agricultura, [devorando as folhagens dos cafeeiros. / O incêndio I]devora tudo.,
+	      dizimar: A Peste Negra foi um surto de peste bubônica que [dizimou a população européia. ,
+	      escalar: As cavalgadas cristãs M]escalavam terras de mouros.,
+	      nivelar: Quando M]nivelava com a espada as profundas desigualdades políticas e sociais da velha Europa.,
+	      sorver: É a guerra aquela tempestade terrestre, que leva os campos, as casas, as vilas, os castelos, as cidades, e talvez em um momento I]sorve os reinos e monarquias inteiras.,
+	      talar: I]Talar plantações.,
+	      varrer: Ventos, chuvas e tempestades de neve [varreram ontem todo o nordeste dos EUA, atrasando milhares de viagens de avião e trem.,}
+Chave: DESTRUIR <verb.creation>
+ILI: 01574188
+
+Sense 1
+{01574188} <verb.creation> destroy, destruct -- (do away with, cause the destruction or undoing of; "The fire destroyed the house")
+       => {01573490} <verb.creation> unmake, undo -- (deprive of certain characteristics)

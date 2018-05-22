@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA2538
+
+DADO O SYNSET:
+
+S='Glosa2538'
+	    {aligeirar-se: I]Aligeiro-me, outrossim, da responsabilidade de prometer, pois acredito que a marca do homem útil é ser lento de promessa e veloz de execução.,
+	      alijar-se: Trata-se, portanto, de norma cogente, não podendo o contribuinte I]alijar-se de tal obrigação.,
+	      desembaraçar-se: É o romance feito sobre uma aposta comigo mesma de escrever alguma coisa que tinha sido uma experiência tão forte, que, sem [me desembaraçar dela, não conseguiria escrever mais nada, e acabei por ceder a essa tentação.,
+	      desempachar-se: Ficou calmo, depois que H]se desempachou das tarefas incômodas.,
+	      livrar-se: As informações são transmitidas a fim de [se livrar das responsabilidades.,
+	      quitar-se: Em nascendo, contrai-se para com a Pátria uma dívida imensa, que não pode I]quitar-se jamais.,
+	      sair-se: A possibilidade de afrontar o senso comum e I]sair-se bem é nula.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2538' = “Libertar-se de embaraço ou dificuldade.”
+	    {aligeirar-se: I]Aligeiro-me da responsabilidade de prometer, pois acredito que a marca do homem útil é ser lento de promessa e veloz de execução.,
+	      alijar-se: Ao contrário, ele se burocratizou porque I]se alijou dos movimentos sociais.,
+	      desembaraçar-se: Só faltou lembrar que a Baesa ainda precisa I]se desembaraçar de um processo que entrou dias antes na Justiça.,
+	      livrar-se: Na última terça-feira, Flávio Veras I]se livrou de mais um processo.,
+	      quitar-se: Em nascendo, contrai-se para com a Pátria uma dívida imensa, que não pode I]quitar-se jamais.,
+	      sair-se: Conserva um sorriso as vezes até matreiro de quem com facilidade I]saiu-se de uma situação difícil ardilada.,}
+
+Chave: LIVRAR-SE <verb.contact>
+ILI: 01542454
+
+Sense 1
+{01542454} <verb.contact> extricate, untangle1, disentangle2, disencumber -- (release from entanglement of difficulty; "I cannot extricate myself from this task")
+       => {01434122} <verb.contact> free1, disengage1 -- (free or remove obstruction from; "free a path across the cluttered floor") 

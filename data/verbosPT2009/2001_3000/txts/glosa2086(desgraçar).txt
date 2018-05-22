@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA2086
+
+DADO O SYNSET:
+	
+S='Glosa2086'
+    	{aluir: A]Aluir uma reputação.,
+      	 arruinar: O "homem de Piltdown'', crânio humano descoberto em 1912, [arruinou a reputação de Arthur Woodward, chefe de paleontologia do Museu de História Natural de Londres, que até o fim da vida defendeu a autenticidade do fóssil.,
+      	 danar: Se esse procedimento não é tolerável nem numa simples pesquisa histórica, sem efeitos práticos na ordem moral, quanto mais abusivo ele não há de ser num processo montado para I]danar a reputação de um homem!,
+      	 desgraçar: Você [desgraçou a família dos meus amigos.,
+      	 estrepar: Tive 1% ou 2% de pareceres em que o assessor estava I]estrepando a vida do candidato ou do cientista de que ele não gostava. ,
+      	 estuporar: A febre H]estuporou-o.,
+      	 perder: As más companhias I]perderam-no. ,
+      	 prejudicar: Ela afirma que Trollope [prejudicou sua reputação ao revelar que se sentava diariamente à mesa de trabalho com o relógio de bolso diante dele, e que seus esforços deixavam uma (falsa) impressão de superficialidade e tédio.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2086' = “causar dano ou afetar negativamente”
+    	{aluir: O Sr. Alencar I]aluiu a reputação literária do Sr. Magalhães.,
+      	 arruinar: O "homem de Piltdown'', crânio humano descoberto em 1912, [arruinou a reputação de Arthur Woodward, chefe de paleontologia do Museu de História Natural de Londres, que até o fim da vida defendeu a autenticidade do fóssil.,
+      	 danar: Se esse procedimento não é tolerável nem numa simples pesquisa histórica, sem efeitos práticos na ordem moral, quanto mais abusivo ele não há de ser num processo montado para I]danar a reputação de um homem!,
+      	 desgraçar: Você [desgraçou a família dos meus amigos.,
+      	 estrepar: Tive 1% ou 2% de pareceres em que o assessor estava I]estrepando a vida do candidato ou do cientista de que ele não gostava.,
+      	 estuporar: Baixaria é isso aí, a bandalheira com dinheiro público, que I]estupora a consciência do brasileiro, alienando, anestesiando para que se satisfaça em ser cidadão de segunda, terceira e quarta classe.,
+      	 perder: As más companhias I]perderam-no.,
+      	 prejudicar: Ela afirma que Trollope [prejudicou sua reputação ao revelar que se sentava diariamente à mesa de trabalho com o relógio de bolso diante dele, e que seus esforços deixavam uma (falsa) impressão de superficialidade e tédio.}
+Chave: DESGRAÇAR <verb.change>
+ILI: 00251784
+
+Sense 3
+{00251784} <verb.change> hurt4, injure4 -- (cause damage or affect negatively; "Our business was hurt by the new competition")
+       => {00250328} <verb.change> damage -- (inflict damage upon; "The snow damaged the roof"; "She damaged the car when she hit the tree")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

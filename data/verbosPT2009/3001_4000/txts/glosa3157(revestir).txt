@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA3157
+
+DADO O SYNSET:
+
+S='Glosa3157'
+	    {
+	      cobrir: Minha mãe, que Deus a abençoe, costumava dizer que depois de chegar a uma certa idade você deveria comprar um pedaço de tule rosa para [cobrir o espelho pois assim tudo ficará ótimo.,
+	      indutar: x,
+	      revestir: Convém [revestir o gancho de arame com tubo plástico, para que a fricção com o eventual movimento do microfone não cause barulho na transmissão.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3157' = “prover cobertura”
+	     {cobrir: Vendo que o mingau ainda não estava bem cozido, I]cobriu a mesa com uma toalha, pôs os talheres e serviu só a sopa e o pão.,
+	      revestir: Com tijolos de demolição, a arquiteta I]revestiu uma parede até o teto, criando um painel para a bancada de imbuia, composta por módulos volantes de laca.,}
+Chave: REVESTIR <verb.contact>
+ILI: 01293336
+
+Sense 1
+{01293336} <verb.contact> cover -- (provide with a covering or cause to be covered; "cover her face with a handkerchief"; "cover the child with a blanket"; "cover the grave with flowers")

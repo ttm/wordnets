@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0793
+
+DADO O SYNSET:
+
+S='Glosa793'
+{bombar: A máquina de esquerdas da praia da Joaquina, em Florianópolis (SC) , não parou de [bombar.,
+bombear: Para a partida mais rápida deve-se [bombear combustível antes de ligar o motor, apertando o pedal do acelerador uma ou duas vezes.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa793' = “operar como uma bomba; mover para cima e para baixo, como um êmbolo ou pedal”
+{bombar: A máquina de esquerdas da praia da Joaquina, em Florianópolis (SC) , não parou de [bombar.,
+bombear: Para a partida mais rápida deve-se [bombear combustível antes de ligar o motor, apertando o pedal do acelerador uma ou duas vezes.,}
+Chave: BOMBEAR <verb.contact>
+ILI: 01188580
+
+Sense 1
+{01188580} <verb.contact> pump -- (operate like a pump; move up and down, like a handle or a pedal)
+       => {01187393} <verb.contact> wield, handle1 -- (handle effectively; "The burglar wielded an axe")
+           => {01174946} <verb.contact> manipulate -- (hold something in one's hands and move it)
+               => {01173984} <verb.contact> handle, palm -- (touch, lift, or hold with the hands; "Don't handle the merchandise")
+                   => {01169634} <verb.contact> touch -- (make physical contact with, come in contact with; "Touch the stone for good luck"; "She never touched her husband")

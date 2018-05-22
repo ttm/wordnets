@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA2015
+
+DADO O SYNSET:
+	
+S='Glosa2015'
+    	{desaproveitar: Isto dá uma oportunidade para alcançar um acordo com os palestinos, algo que Israel não deseja [desaproveitar.,
+      	 desperdiçar: Seria um crime [desperdiçar essa oportunidade.,
+      	 esperdiçar: Preferir a derrota prévia à dúvida da vitória é I]esperdiçar a oportunidade de merecer. ,
+      	 perder: Além disso, diversas associações foram criadas para defendê-los e certamente não [perderão a oportunidade de denunciar mais uma vez a violência policial contra menores abandonados.,}
+  
+A='Glosa648'
+    	{aproveitar, explorar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2015' = “usar inapropriada ou ineficazmente”
+    	{desaproveitar: Isto dá uma oportunidade para alcançar um acordo com os palestinos, algo que Israel não deseja [desaproveitar.,
+      	 desperdiçar: Seria um crime [desperdiçar essa oportunidade.,
+      	 esperdiçar: Preferir a derrota prévia à dúvida da vitória é I]esperdiçar a oportunidade de merecer. ,
+      	 perder: Além disso, diversas associações foram criadas para defendê-los e certamente não [perderão a oportunidade de denunciar mais uma vez a violência policial contra menores abandonados.}
+  
+A='Glosa648'
+    	{aproveitar, explorar}
+Chave: DESPERDIÇAR <verb.consumption>
+ILI: 01125157
+
+Sense 2
+{01125157} <verb.consumption> waste5 -- (use inefficiently or inappropriately; "waste heat"; "waste a joke on an unappreciative audience")
+       => {01123102} <verb.consumption> use1, utilize, utilise, apply, employ -- (put into service; make work or employ (something) for a particular purpose or for its inherent or natural purpose; "use your head!"; "we only use Spanish at home"; "I can't make use of this tool"; "Apply a magnetic field here"; "This thinking was applied to many projects"; "How do you utilize this tool?"; "I apply this rule to get good results"; "use the plastic bags to store the food"; "He doesn't know how to use a computer")

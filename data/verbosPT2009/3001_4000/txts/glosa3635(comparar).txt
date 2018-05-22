@@ -1,0 +1,40 @@
+ANÁLISE DA GLOSA3635
+
+DADO O SYNSET:
+
+S='Glosa3635'
+	    {
+	      aferir: Os fiscais vão I]aferir os preços de cinco supermercados.,
+	      balançar: Só o fato de que um novo pacote preventivo esteja sendo discutido já ajuda a obrigar os administradores de I]balançar prós e contras.,
+	      balancear: O projeto pode mudar em virtude de erros de fatos e para I]balancear opiniões baseado nos comentários recebidos até o prazo final. / Isto significa I]balancear os prós e os contras, ouvindo essas opiniões antes de considerar cuidadosamente sua própria conclusão. ,
+	      checar: Acho que o Estado deve manter a sua estatal, inclusive como referência para [checar o desempenho das outras que se estabelecerem no negócio.,
+	      colacionar: Cabe ao pesquisador I]colacionar dados e reunir evidências científicas. ,
+	      combinar: É uma pesquisa que busca I]combinar diferentes fontes de informação:documentos de domínio público, dados etnográficos e entrevistas. ,
+	      comparar: O quadro seguinte permite visualizar e [comparar a potência de algumas hidrelétricas brasileiras.,
+	      conferir: Só vamos [conferir com os dados que já temos.,
+	      confrontar: O dever daquele que se dedica à experimentação é [confrontar as previsões de uma teoria com observações firmes e relevantes.,
+	      contrapor: Todas as tentativas de [contrapor culturas com o objetivo de constatar qual delas é a mais desenvolvida fatalmente serão apenas projeções idiotas do ódio votado pela cultura ocidental a suas próprias sombras. ,
+	      cotejar: Vamos[cotejar as informações./ Tive também o cuidado de [cotejar o texto original com o texto da Odisséia editado por Victor Bérard.,
+	      opor: Com esta peça eu faço uma brincadeira de [opor as histórias tristes, apolíneas, com as histórias orientais de Dionísio, que é desobediência e completa falta de respeito . ,
+	      reverificar: A Segunda meta da educação é formar mentes que estejam em condições de criticar ,I]reverificar e não aceitar tudo o que a elas se propõe.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3635' = “examinar e observar as similaridades ou diferenças”
+	     {aferir: Os fiscais vão I]aferir os preços de cinco supermercados.,
+	      balançar: Só o fato de que um novo pacote preventivo esteja sendo discutido já ajuda a obrigar os administradores de I]balançar prós e contras.,
+	      balancear: O legislador I]balanceou vantagens e desvantagens. / A gente I]balanceou as qualidades e os defeitos, mas ela foi bastante exigente. ,
+	      combinar: É uma pesquisa que busca I]combinar diferentes fontes de informação: documentos de domínio público, dados etnográficos e entrevistas. ,
+	      comparar: A polícia de Miami só descobriu a ligação entre o suicídio de Escalona e a morte da brasileira quando I]comparou as balas retiradas dos dois corpos.,
+	      conferir: Para coletar este "tesouro", A. M. Machado se valeu da memória e I]conferiu com as obras de pesquisadores e folcloristas
+	      confrontar: O exame [confrontou a bala que matou a menina com outras duas disparadas pela metralhadora e pelo revólver apreendidos com os policiais.,
+	      contrapor: Geertz (1973, 1983) [contrapõe sua posição aos «dogmas» científico-cognitivos centrais, onde o pensamento é visto como unificado. ,
+	      cotejar: Ao menos, é certo que [cotejou o achado com o texto da conversação./ Tive também o cuidado de [cotejar o texto original com o texto da Odisséia editado por Victor Bérard.,
+	      opor: Bacha I]opôs a teoria inercial baseada em desequilíbrios nos preços relativos à teoria do conflito distributivo.,}
+Chave: COMPARAR <verb.cognition>
+ILI: 00631088
+
+Sense 1
+{00631088} <verb.cognition> compare -- (examine and note the similarities or differences of; "John compared his haircut to his friend's"; "We compared notes after we had both seen the movie")
+       => {00623929} <verb.cognition> analyze, analyse, study2, examine, canvass2, canvas2 -- (consider in detail and subject to an analysis in order to discover essential features or meaning; "analyze a sonnet by Shakespeare"; "analyze the evidence in a criminal trial"; "analyze your real motives")

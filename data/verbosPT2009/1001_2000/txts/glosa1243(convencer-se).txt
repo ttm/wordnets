@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA
+
+DADO O SYNSET:
+
+S='Glosa1243'
+{convencer-se: Oxalá possa encontrar neste livro boas razões para [convencer-se dos benefícios que resultariam de uma tal leitura.,
+ persuadir-se: Somente aqueles que não são indiferentes a esses bens podem I]persuadir-se de que o estudo da filosofia não é perda de tempo. ,}
+	  
+A='Glosa1430'
+{demover-se, descapacitar-se, desconvencer-se, desimaginar-se, despersuadir-se, dissuadir-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1243' = “concordar, entender ou perceber a verdade ou validez de algo”
+{convencer-se: O mesmo os líderes da velha guarda, como Marvin Minsky e Allen Newell, [convenceram-se das limitações dos programas generalistas.,
+ persuadir-se: Somente aqueles que não são indiferentes a esses bens podem I]persuadir-se de que o estudo da filosofia não é perda de tempo. ,}
+A='Glosa1430'
+{demover-se, descapacitar-se, desconvencer-se, desimaginar-se, despersuadir-se, dissuadir-se}
+Chave: CONVENCER-SE <verb.communication>
+ILI: 00744116
+
+Sense 1
+{00744116} <verb.communication> convert, win over, convince -- (make (someone) agree, understand, or realize the truth or validity of something; "He had finally convinced several customers of the advantages of his product")
+       => {00741138} <verb.communication> persuade -- (cause somebody to adopt a certain position, belief, or course of action; twist somebody's arm; "You can't persuade me to buy this ugly vase!")
+           => {00744964} <verb.communication> induce, stimulate1, cause, have, get, make -- (cause to do; cause to act in a specified manner; "The ads induced me to buy a VCR"; "My children finally got me to buy a computer"; "My wife made me buy a new sofa")

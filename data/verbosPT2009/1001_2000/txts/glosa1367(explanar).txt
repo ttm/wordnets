@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA1367
+
+DADO O SYNSET:
+
+S='Glosa1367'
+{desenrolar: A]Desenrolou com precisão aquele caso escabroso.,
+ explanar: Em seguida, passou-se a palavra ao Frei Betto, que I]explanou os principais pontos e objetivos do Mutirão Contra a Fome.,
+ expor: O problema é que os proibicionistas encontram dificuldades para [expor seus discursos,
+ tratar: A intenção é [tratar de forma leve um assunto árido, que sempre afasta as pessoas.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1367' = “tornar claro e compreensível” 
+{desenrolar: Paulo I]desenrolou este fato de uma forma mais extensa, em Romanos (7.14-25), ao relatar sua própria experiência inicial como Cristão.,
+ explanar: Em seguida, passou-se a palavra ao Frei Betto, que I]explanou os principais pontos e objetivos do Mutirão Contra a Fome.,
+ expor: O problema é que os proibicionistas encontram dificuldades para [expor seus discursos.,
+ tratar: A intenção é [tratar de forma leve um assunto árido, que sempre afasta as pessoas.,}
+Chave: EXPLANAR <verb.communication>
+ILI: 00908384
+
+Sense 1
+{00908384} <verb.communication> explain, explicate -- (make palin and comprehensible; "He explained the laws of physics to his students")
+       => {00804489} <verb.communication> inform -- (impart knowledge of some fact, state or affairs, or event to; "I informed him of his rights")
+           => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+               => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

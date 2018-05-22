@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA4004
+
+DADO O SYNSET:
+	
+S='Glosa4004'
+{avançar: Marcos Vieira disse que a revisão salarial dos funcionários não pode ser feita porque o governo I]avançou o limite prudencial estipulado pela Lei.,
+extrapassar: Acrescenta, ainda, que a Resolução em comento não I]extrapassou os limites legais.,
+extrapolar: Ao mesmo tempo em que a guerra moderna [extrapolou o campo de batalha para invadir o além dos limites do quadro .,
+preterir: H]Preteria os limites do desejável.,
+pretermitir: x,
+ultrapassar: No governo Costa e Silva a população urbana [ultrapassou a barreira dos 50% em relação ao total de brasileiros .,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4004' = “ir além”
+{avançar: Marcos Vieira disse que a revisão salarial dos funcionários não pode ser feita porque o governo I]avançou o limite prudencial estipulado pela Lei.,
+extrapassar: Acrescenta, ainda, que a Resolução em comento não I]extrapassou os limites legais.,
+extrapolar: Ao mesmo tempo em que a guerra moderna [extrapolou o campo de batalha para invadir o além dos limites do quadro .,
+preterir: H]Preteria os limites do desejável.,
+ultrapassar: No governo Costa e Silva a população urbana [ultrapassou a barreira dos 50% em relação ao total de brasileiros .,}
+Chave: ULTRAPASSAR <verb.stative>
+ILI: 02589158
+
+Sense 4
+{02589158} <verb.stative> exceed1, transcend, surpass1 -- (go beyond; "Their loyalty exceeds their national bonds")
+
+
+
+
+

@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA1776
+
+DADO O SYNSET:
+
+S='Glosa1776'
+    	{enfiar: Ajude-me a [enfiar esta manga. # Algumas vezes, chega a levantar-se, rápido, e começa a I]enfiar a roupa até compreender, estremunhado de sono, a incoerência do gesto. ,
+      	 pôr: Pois o desavergonhado não queria vir trazer água na sala, sem [pôr uma camisa? ,
+      	 vestir: Apressado em [vestir a camisa, ela lhe fica presa sobre a cabeça e lhe tolhe a visão., }
+  
+A='Glosa1508'
+   	{descompor, desenroupar, desnuar, desnudar, despir, desvestir}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1776' = “colocar vestimentas [em alguém ou em algo]”
+    	{enfiar: Enquanto a mãe ia I]enfiando a roupa no menino, ele reclamava que aquela blusa pinicava.,      	 
+ pôr: Ela despe a cadeira de rede vermelha, sua cúmplice, e I]põe a roupa no corpo mapeado.,
+      	 vestir: Após despi-la e amarrá-la com fios elétricos, o assassino [vestiu a dentista com a blusa pelo avesso e a calça.,}
+  
+A='Glosa1508'
+   	{descompor, desenroupar, desnuar, desnudar, despir, desvestir}
+Chave: VESTIR <verb.body>
+ILI: 00046409
+
+Sense 2
+{00046409} <verb.body> dress1, clothe, enclothe, garb, raiment, tog, garment, habilitate, fit out, apparel -- (provide with clothes or put clothes on; "Parents must feed and dress their child")
+       => {00140715} <verb.change> change state, turn4 -- (undergo a transformation or a change of position or action; "We turned from Socialism to Capitalism"; "The people turned against the President when he stole the election")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

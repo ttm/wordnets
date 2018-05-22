@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA3490
+
+DADO O SYNSET:
+
+S='Glosa3490'
+	    {
+	      imunizar-se: Se bem que soubéssemos há muito [nos imunizar contra ele, enquanto existisse um único HIV, o perigo permanecia,
+	      mitridatizar-se: x,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3490' = “executar vacinações ou produzir imunização por inoculação”
+	     {imunizar-se: Nessas comunidades, grande parte dos indivíduos I]imuniza-se naturalmente por meio de infecções com quadro inaparente ou inespecífico,}
+Chave: IMUNIZAR-SE <verb.body>
+ILI: EQ_NEAR_SYNONYM - 00084381
+
+Sense 2
+{00084381} <verb.body> immunize, immunise, inoculate, vaccinate -- (perform vaccinations or produce immunity in by inoculation; "We vaccinate against scarlet fever"; "The nurse vaccinated the children in the school")
+       => {00083884} <verb.body> inject, shoot -- (give an injection to; "We injected the glucose into the patient's vein")
+           => {00078744} <verb.body> administer, dispense -- (give or apply (medications))
+               => {00076458} <verb.body> treat, care for -- (provide treatment for; "The doctor treated my broken leg"; "The nurses cared for the bomb victims"; "The patient must be treated right away or she will die"; "Treat the infection with antibiotics")

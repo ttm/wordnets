@@ -1,0 +1,77 @@
+ANÁLISE DA GLOSA4114
+
+DADO O SYNSET:
+
+S='Glosa4114'
+{acabrunhar: Agora é tarde, e o meu pungente arrependimento não me aproveita, e só duplica a aflição que me [acabrunha .,
+acossar: Uma dúvida I]acossou Moacir.,
+afligir: Com os olhos em mim, Capitu queria saber que notícia era a que me [afligia tanto .,
+agoniar: Procurei me lembrar de tantas vezes na minha vida em que agi desse modo vivendo um momento e pensando em outro, me [agoniando com coisas que tinham dia e hora certos para serem vividas .,
+alanhar: x,
+amachucar: x,
+amofinar: H]Vivia amofinando os vizinhos.,
+angustiar: Um grande problema I]angustiava os grandes senhores de todo o Brasil.,
+ansiar: H]Ansiava-o a idéia de perdê-la.,
+apoquentar: Dona Carlota Joaquina I]apoquentava os vizinhos.,
+aporrear: x,
+atormentar: Pragas e doenças que sempre [atormentaram os produtores de cacau e borracha, não foram registradas no plantio das flores e do palmito .,
+avexar: x,
+cauterizar: A ascensão do ateu H]cauterizava o coração simples dos crentes.,
+comprimir: Temores terríveis H]comprimiam-lhe o ânimo.,
+confranger: Aquela grande miséria I]confrangia a alma de todos.,
+contristar: A indiferença dos parentes H]contristou-o.,
+desolar: A morte do Getúlio Vargas [desolou toda a nação.,
+despedaçar: Aquela infernal dúvida lhe M]despedaçava o coração.,
+espremer: H]Espremeram-no até confessar o que não fez.,
+golpear: H]Golpearam meu coração fazendo aquelas ameaças.,
+lancear: x,
+lancinar: Seu forte aspecto ameaçador I]lancinava os homens.,
+lanhar: x,
+morder: Os acontecimentos funestos H]mordiam-no.,
+oprimir: Jamais o problema da vida e da morte me I]oprimira o cérebro.,
+pungir: Caminhava a passo lento e frouxo com a cabeça descaída, revolvendo na mente reminiscências que lhe I]pungiam o coração.,
+ralar: Um barulhinho estridente e monótono que M]ralava as pessoas. ,
+roer: A solidão H]rói-lhe o coração.,
+torturar: Lembranças que fortalecem a saudade e H]torturam meu coração.,
+verrumar: O ciúme H]verrumou-lhe o coração.,
+vexar: H]Vexava a família com suas dívidas.,}
+	  
+A='Glosa1157'
+{desapoquentar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4114' = “perturbar a tranqüilidade [de]; afligir com agitação mental ou angústia”
+{acabrunhar: Agora é tarde, e o meu pungente arrependimento não me aproveita, e só duplica a aflição que me [acabrunha.,
+acossar: Uma dúvida I]acossou Moacir.,
+afligir: Com os olhos em mim, Capitu queria saber que notícia era a que me [afligia tanto .,
+agoniar: Procurei me lembrar de tantas vezes na minha vida em que agi desse modo vivendo um momento e pensando em outro, me [agoniando com coisas que tinham dia e hora certos para serem vividas .,
+amofinar: Aquela preocupação A]amofinava-o, consumia-o. ,
+angustiar: Um grande problema I]angustiava os grandes senhores de todo o Brasil.,
+ansiar: H]Ansiava-o a idéia de perdê-la.,
+apoquentar: Esta idéia I]apoquentava-me há algumas semanas.,
+atormentar: Uma esperança que lhe fugia, que a [atormentava.,
+cauterizar: A ascensão do ateu H]cauterizava o coração simples dos crentes.,
+comprimir: Temores terríveis H]comprimiam-lhe o ânimo.,
+confranger: Aquela grande miséria I]confrangia a alma de todos.,
+contristar: A indiferença dos parentes H]contristou-o., 
+desolar: A morte do Getúlio Vargas [desolou toda a nação.,
+lancinar: E a dor da brutalidade daqueles maltratos que I]lancinava a alma.,
+morder: Os acontecimentos funestos H]mordiam-no.,
+oprimir: Jamais o problema da vida e da morte me I]oprimira o cérebro.,
+pungir: Caminhava a passo lento e frouxo com a cabeça descaída, revolvendo na mente reminiscências que lhe I]pungiam o coração.,
+ralar: H]Ralar a alma. ,
+torturar: Lembranças que fortalecem a saudade e H]torturam meu coração.,
+verrumar: O ciúme H]verrumou-lhe o coração.,
+vexar: O seu olhar terrível, cheio de nobre desprezo, humilha-me, e a sua indiferença A]vexa-me.,}
+	  
+A='Glosa1157'
+{desapoquentar}
+Chave: APOQUENTAR <verb.emotion>
+ILI: 01714958
+
+Sense 2
+{01714958} <verb.emotion> worry1, vex2 -- (disturb the peace of mind of; afflict with mental agitation or distress; "I cannot sleep--my daughter's health is worrying me")
+       => {01713293} <verb.emotion> perturb, unhinge, disquiet, trouble, cark, distract2, disorder -- (disturb in mind or make uneasy or cause to be worried or alarmed; "She was rather perturbed by the news that her father was seriously ill")
+           => {01719446} <verb.emotion> disturb, upset, trouble1 -- (move deeply; "This book upset me"; "A troubling thought")
+               => {01716999} <verb.emotion> affect, impress1, move, strike -- (have an emotional or cognitive impact upon; "This child impressed me as unusually mature"; "This behavior struck me as odd")

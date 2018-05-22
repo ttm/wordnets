@@ -1,0 +1,58 @@
+ANÁLISE DA GLOSA2903
+
+DADO O SYNSET:
+
+S='Glosa2903'
+	    {acabar: Quando teu pai M]acabou, tinhas apenas dez anos.,
+	      cair: Acreditamos que mil morreram em ação", declarou Perkins, após ser  questionado sobre quantos soldados I]caíram do lado iraquiano.,
+	      descansar: Abias I]descansou com seus pais, sepultaram-no na Cidade de Davi.,
+	      desencarnar: A hemorragia não cedia, ele ia I]desencarnar.,
+	      desviver: O povo, ele todo, soube, Cachorro começava ali a I]desviver, contam que mesmo naquela horinha já começou a perder a cor, feito figura da gente nos vidros das lojas, que a gente vê e vê as coisas por detrás, já entrando estava no outro mundo, a passagem comprada.,
+	      emborcar: x,
+	      emborquilhar: x,
+	      enfenecer: x,
+	      expirar: Apenas a mãe I]expirou, uma criada viu a criança, de pé, sobre uma mesa, apertando ao coração a imagem de Maria. ,
+	      falecer: O avô de Dinho [faleceu três meses depois, de câncer no estômago.,
+	      faltar: I]Faltando-lhe os avós ficou sem tão valiosa proteção no meio do seu curso de humanidades, e vendose com 19 anos, só e sem fortuna, e precisado de angariar meios de subsistência, valeu-se da arte do canto, em que era curioso, e conseguiu um lugar de capelão cantor na patriarcal de Lisboa. ,
+	      fenecer: Sua própria família não podia fazer nada além de vê-lo I]fenecer. ,
+	      finar-se: Todo ele era mau trato e fraqueza; tinha o estômago muito sujo, a língua saburrenta, o corpo a [finar-se de reumatismo e tosse convulsa, o sangue predisposto à anemia escrofulosa.,
+	      ir: Seu filho pode estar aleijado, mas ainda está com você, já os nossos filhos I]foram para sempre. ,
+	      ir-se: Em 20 de março I]foi-se um amigo, ficou a lembrança sempre querida do Zé da Vic ou Vala da Nisa.,
+	      morrer: Quinhentos anos depois, o pau-brasil é uma árvore em extinção, nossos poucos índios agora [morrem de malária, e o Nordeste morre de sede.,
+	      perecer: A professora que pereceu durante a fuzilaria foi identificada como Gwen Meyer. # A gente nunca imaginaria que um ídolo desses poderia [perecer assim.,
+	      sucumbir: O gênio de Vico comprovou-se pelo fato de que ele fornecera, embora inconscientemente, a cura para a doença a que ele próprio [sucumbira.# Então o índio por sua vez contou ao moço o que tinha ouvido na touça de cardos; o projeto que formara de matar os três aventureiros naquela manhã; e finalmente a carta que lhe escrevera por intermédio de Cecília, para, no caso de [sucumbir ele, saber o cavalheiro quem eram os inimigos.,}
+
+	  A='Glosa804'
+	    {gerar-se: Foi o maior casamento que o Pacujá já viu e dessa união I]gerou-se uma prole hilariante.,
+	     nascer: As possibilidades de [nascer menino ou menina são, portanto, iguais, ou seja, de 50%.,
+	     vir: As necessidades que o bebê tem de receber esse leite mágico, repleto de substâncias que vão suprir a fome, protegê-lo de qualquer doença e além de tudo conseguir passar através dele todo o amor, todo o carinho que a mamãe e o papai tem por esse bebê que I]veio para alegrar e trazer esperanças de um mundo melhor.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2903' = “Passar da vida física e perder todos os atributos e funções corporais necessários para manter a vida”
+	    {acabar-se: Ou seja, I]acabou-se, morreu junto com Artigas.,
+	      cair: Acreditamos que mil morreram em ação", declarou Perkins, após ser  questionado sobre quantos soldados I]caíram do lado iraquiano.,
+	      descansar: Abias I]descansou com seus pais, sepultaram-no na Cidade de Davi.,
+	      desencarnar: Nessa última semana não estava muito bem - e I]desencarnou motivado por uma parada cardíaca.,
+	      desviver: Ao menos I]desviveu quentinho . e uma botija é sempre uma boa companhia.,
+	      expirar: Apenas a mãe I]expirou, uma criada viu a criança, de pé, sobre uma mesa, apertando ao coração a imagem de Maria.,
+	      falecer: O avô de Dinho [faleceu três meses depois, de câncer no estômago.,
+	      faltar: Aos trinta e cinco, I]faltou-lhe a mãe. Ficou muito abatido.,
+	      fenecer: A maioria dos informantes desses tempos – cantores e músicos com idades compreendidas entre 60 e 80 anos – já I]feneceram.,
+	      finar-se: ]Finou-se em pleno vôo. Foi um mal que lhe deu. E foi-se.,
+	      ir: Seu filho pode estar aleijado, mas ainda está com você, já os nossos filhos I]foram para sempre. ,
+	      ir-se: Em 20 de março I]foi-se um amigo, ficou a lembrança sempre querida do Zé da Vic ou Vala da Nisa.,
+	      morrer: Quinhentos anos depois, o pau-brasil é uma árvore em extinção, nossos poucos índios agora [morrem de malária, e o Nordeste morre de sede.,
+	      perecer: A professora que I]pereceu durante a fuzilaria foi identificada como Gwen Meyer.,
+	      sucumbir: O gênio de Vico comprovou-se pelo fato de que ele fornecera, embora inconscientemente, a cura para a doença a que ele próprio [sucumbira.,}
+
+	  A='Glosa804'
+	    {gerar-se, nascer, vir}
+Chave: MORRER <verb.change>
+ILI: 00347202
+
+Sense 1
+{00347202} <verb.change> die, decease, perish, go, exit, pass away, expire, pass11 -- (pass from physical life and lose all all bodily attributes and functions necessary to sustain life; "She died from cancer"; "They children perished in the fire"; "The patient went peacefully")
+       => {00140715} <verb.change> change state, turn4 -- (undergo a transformation or a change of position or action; "We turned from Socialism to Capitalism"; "The people turned against the President when he stole the election")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")
+          Also See-> {00415508} <verb.change> die out#1; {00415508} <verb.change> die off#1; {00234016} <verb.change> die down#1; {00216596} <verb.change> die down2#2 

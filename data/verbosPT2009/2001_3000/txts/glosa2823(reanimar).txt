@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA2823
+
+DADO O SYNSET:
+
+S='Glosa2823'
+	    {despertar: O Divino Mestre naquela oportunidade buscava I]despertar a esperança no coração de um povo eleito para receber a Boa-Nova, escolhido por reunir almas que já assimilavam a idéia de um único Deus (monoteísmo). ,
+	      reacender: Sacchi ainda tentou [reacender o time com a entrada do fogoso Nicola Berti na posição de Conte.,
+	      reanimar: O empate em 1 a 1 com o Cruzeiro na terça-feira abalou a confiança de alguns, mas a goleada de ontem sobre o Olaria tratou de [reanimar os ânimos.,
+	      reativar: Zâmbia tenta ir a Atenas e I]reativar seu futebol.,
+	      reavivar: Desenvolvido em uma época que a Igreja tentava [reavivar o fervor católico, enfraquecido pela pregação protestante na Europa dos séculos 16, 17 e 18, o barroco celebra o sofrimento de Cristo e abre as portas do céu aos devotos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2823' = “Restaurar de um estado desvalorizado, inativo ou não utilizado”
+	    {despertar: Vestindo camiseta do Olodum, calça jeans e sapato preto, Michael [despertou a curiosidade dos fãs pelo branco da pele.,
+	      reacender: A reformulação do personagem [reacendeu o interesse do público e, consequentemente, da editora.,
+	      reanimar: A decisão de substituir o vice de Fernando Henrique Cardoso, senador Guilherme Palmeira, [reanimou ontem as divergências entre o PSDB e o PFL.,
+	      reativar: O massacre de 32 pessoas na Universidade de Tecnologia de Virgínia, em Blacksburg, por um estudante sul-coreano que depois se suicidou [reativou o debate sobre a posse de armas.,
+	      reavivar: A acusação a Rodríguez [reavivou suspeita de que uma luta violenta pelo poder se desenrola dentro do PRI.,}
+Chave: REAVIVAR <verb.change>
+ILI: 00162424
+
+Sense 4
+{00162424} <verb.change> revive1, resurrect -- (restore from a depressed, inactive, or unused state; "He revived this style of opera"; "He resurrected the tango in this remote part of Argentina")
+       => {00162138} <verb.change> regenerate1, restore, rejuvenate4 -- (return to life; get or give new life or energy; "The week at the spa restored me")
+           => {01584867} <verb.creation> regenerate, renew -- (re-establish on a new, usually improved, basis or make new or like new; "We renewed our friendship after a hiatus of twenty years"; "They renewed their membership")
+               => {01573613} <verb.creation> re-create -- (create anew; "Re-create the boom of the West on a small scale")
+                   => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor") 

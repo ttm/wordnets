@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA2288
+
+DADO O SYNSET:
+
+S='Glosa2288'
+	    {atravessar: Isto dá oportunidade de se pensar sobre um assunto que [atravessa décadas sem solução.,
+	      aturar: I]aturou mais ou menos umas três horas ou mais de operação.,
+	      durar: O inverno [dura uns 150 dias ,
+	      ficar: Patrocinado pelo governo do Japão, Kenji Nakata [fica dois anos no Brasil para ensinar a aprimorar empresas ,
+	      perdurar: O exame desse tratado é chave para a compreensão da decisiva influência de Bacon sobre uma das correntes mais vivas do pensamento pedagógico, que se inicia de modo sistemático com Comênio, e que [perdura até hoje . ,
+	      persistir: Quando a carência de vitamina A [persiste durante um certo tempo, a córnea (membrana translúcida do olho) torna-se espessa e ulcerada.,
+	      subsistir: Ilustra uma problemática político-moral «sui generis», da qual algo [subsiste até hoje ,
+	      travessar: Pela sua notória consistência o aristotelismo continuará a I]travessar os tempos. Pela sua notória consistência o aristotelismo continuará a travessar os tempos., }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2288' = “persistir ou ser duradouro em relação”
+	    {atravessar: Isto dá oportunidade de se pensar sobre um assunto que [atravessa décadas sem solução.,
+	      aturar: I]aturou mais ou menos umas três horas ou mais de operação.,
+	      durar: O inverno [dura uns 150 dias ,
+	      ficar: O trânsito [ficou parado por 30 minutos,
+	      perdurar: O exame desse tratado é chave para a compreensão da decisiva influência de Bacon sobre uma das correntes mais vivas do pensamento pedagógico que [perdura até hoje . ,
+	      persistir: Quando a carência de vitamina A [persiste durante um certo tempo, a córnea torna-se espessa e ulcerada.,
+	      subsistir: Ilustra uma problemática político-moral, da qual algo [subsiste até hoje ,
+	      travessar: Pela sua notória consistência o aristotelismo continuará a I]travessar os tempos., }
+
+Chave: DURAR <verb.stative>
+ILI: 02623605
+
+Sense 1
+{02623605} <verb.stative> last, endure6 -- (persist or be long; in time; "The bad weather lasted for three days")
+       => {02623026} <verb.stative> measure -- (have certain dimensions; "This table surfaces measures 20inches by 36 inches")
+           => {02526983} <verb.stative> be3 -- (have the quality of being; (copula, used with an adjective or a predicate noun); "John is rich"; "This is not a good answer") 

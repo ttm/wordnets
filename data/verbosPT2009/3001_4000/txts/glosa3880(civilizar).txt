@@ -1,0 +1,42 @@
+ANÁLISE DA GLOSA3880
+
+DADO O SYNSET:
+
+S='Glosa3880'
+{adomesticar: x,
+ civilizar: Talvez por isso, associações de pacientes e especialistas no assunto se esforçam para tentar [civilizar essa relação .,
+ desbarbarizar: A tese que gostaria de discutir é a de que I]desbarbarizar tornou-se a questão mais urgente da educação hoje em dia.,
+ desbrutalizar: Jesus foi uma grande alma movida por ideais elevados, com o objetivo de tentar I]desbrutalizar a humanidade.,
+ desembrutecer: Sensibilizar-se é I]desembrutecer-se, é passar a perceber e poder atuar em um nível mais sutil.,
+ desmoitar: x,
+ desmoutar: x,
+ domesticar: Mas verifiquemos antes que nosso filósofo a propósito daquela distinção clássica nas funções da linguagem reservará justamente à cultura urbana do letrado a tarefa espúria de [domesticar a linguagem enquanto instrumento de comunicação e objetivação do universo, ao passo que o iletrado, por não saber lidar com a norma culta, em vez de manipular palavras inertes, por assim dizer fixa residência nelas (como o Ser heideggeriano) , devolvendo-as à sua vocação mais primitiva de valor e horizonte .,
+ humanar: x,
+ humanizar: Segundo o reitor Antônio Diomário Queiroz, a UFSC já tentou [humanizar o trote .,
+ limar: O convívio com os parentes citadinos H]limou as suas maneiras provincianas.,
+ policiar: DEVIANT,
+ urbanizar: A organização Cruzada São Sebastião, criada em 1956, tinha como objetivo principal  ["urbanizar, humanizar e cristianizar" as favelas cariocas.,}
+
+A='Glosa1830'    
+{abrutalhar, animalizar, asselvajar, barbarizar, bestializar, bestificar, brutalizar, brutificar, descivilizar, embrutecer}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3880' = “tirar da condição bárbara e elevar para a condição civilizada”
+{civilizar: Ele anda muito esquecido, exatamente porque sua pregação principal, a da não-violência pacificando e [civilizando o mundo inteiro, é o que há de mais “out” no momento.,
+ desbarbarizar: É preciso também que se I]desbarbarize toda a sociedade.,
+ desbrutalizar: A imolação voluntária do homem pela sua raça, pela sua fé, ou pelo seu ideal; eis o que I]desbrutaliza a guerra, o que legitima o soldado, o que nobilita a espada.,
+ desembrutecer: A evolução anímica pode colaborar com o sentido estético da beleza, I]desembrutecendo o primitivo, e facultando-lhe a receptividade para as expressões artísticas.,
+ domesticar: Heloísa Helena e o babaísmo fazem parte da lógica “jesuítas I]domesticam os bárbaros de novo”.,
+ humanizar: Segundo o reitor Antônio Diomário Queiroz, a UFSC já tentou [humanizar o trote.,
+ limar: A pedra me I]limou a mente áspera e dispersa.,
+ urbanizar: Esta lua I]urbaniza a desrazão dos loucos, prostitutas e poetas.,}
+
+A='Glosa1830'    
+{abrutalhar, animalizar, asselvajar, barbarizar, bestializar, bestificar, brutalizar, brutificar, descivilizar, embrutecer}
+Chave: CIVILIZAR <verb.change>
+ILI: 00399222
+
+Sense 2
+{00399222} <verb.change> civilize1, civilise1 -- (raise from a barbaric to a civilized state; "The wild child found wandering in the forest was gradually civilized")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA0614
+
+DADO O SYNSET:
+
+S='Glosa614'
+{atribuir: Mas [atribuir exclusividade a elas acabará nos levando a desculpar o policial que chacina só porque ele também é pobre,
+conferir: Quando os escrivães dos Livros das linhagens procuravam usar a imaginação para [conferir maior interesse às narrativas sobre a vida dos senhores feudais, este gênero ganhou a maturidade no século 19.,
+dar: Todos esses autores, embora com preocupações diversas e a partir de orientações diferentes, [deram à questão metodológica uma importância central. ,
+impor: Serginho é um caso interessantíssimo: simples, falando direto, [impôs um ânimo e uma coragem a um elenco que cresceu acima das suas próprias condições técnicas. ,
+pôr: I]Puseram-lhe o nome de Jaime e esse Jaime viria a ser uma das maiores glórias do teatro nacional na primeira metade do século seguinte : Jaime Costa.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa614' = “atribuir ou creditar a”
+{atribuir: Mas [atribuir exclusividade a elas acabará nos levando a desculpar o policial que chacina só porque ele também é pobre,
+conferir: Quando os escrivães dos Livros das linhagens procuravam usar a imaginação para [conferir maior interesse às narrativas sobre a vida dos senhores feudais, este gênero ganhou a maturidade no século 19.,
+dar: Todos esses autores, embora com preocupações diversas e a partir de orientações diferentes, [deram à questão metodológica uma importância central. ,
+impor: Serginho é um caso interessantíssimo: simples, falando direto, [impôs um ânimo e uma coragem a um elenco que cresceu acima das suas próprias condições técnicas. ,
+pôr: Os Kamanáwavo (a mesma gente da onça) nela puseram o nome de Tome.,}
+Chave: ATRIBUIR <verb.cognition>
+ILI: 00702302
+
+Sense 1
+{00702302} <verb.cognition> impute, ascribe, assign2, attribute -- (attribute or credit to; "We attributed this quotation to Shakespeare"; "People impute great cleverness to cats")
+       => {00647983} <verb.cognition> judge -- (form an opinion of or pass judgment on; "I cannot judge some works of modern art")
+           => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

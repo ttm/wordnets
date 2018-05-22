@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA3277
+
+DADO O SYNSET:
+
+S='Glosa3277'
+	    {
+	      alastrar-se: O motim [alastrou-se para as ruas, culminando com a queda do governo no dia seguinte.,
+	      espalhar-se: Com o crescimento do crime organizado e do tráfico de drogas, [espalhou-se também a corrupção entre uma corporação de 30 mil policiais.,
+	      estender-se: A luta encarniçada tomou conta de Madri, [estendeu-se pelo dia e avançou noite adentro.,
+	      grassar: O peleguismo, o corporativismo e o fisiologismo passaram a [grassar pesadamente.,
+	      inçar: o revisor não deu conta dos erros que H]inçavam o original a seus cuidados.,
+	      invadir: O capim mais popular no país [invadiu também pastagens antes ocupadas com forrageiras nativas como o colonião, o jaraguá e o capim gordura. ,
+	      lavrar: Nos anos 80, a grossa corrupção que [lavrou por toda a estrutura do Estado, mais o pesado jogo especulativo que se montou no mercado de capitais e de câmbio, constituíram-se em combustível a mais para esse espírito antiempresarial. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3277' = “distribuir ou tornar muito difundido”
+	     {alastrar-se: O motim [alastrou-se para as ruas, culminando com a queda do governo no dia seguinte.,
+	      espalhar-se: Com o crescimento do crime organizado e do tráfico de drogas, [espalhou-se também a corrupção entre uma corporação de 30 mil policiais.,
+	      estender-se: A luta encarniçada tomou conta de Madri, [estendeu-se pelo dia e avançou noite adentro.,
+	      grassar: Em 1752, uma epidemia de cólera I]grassou em Macapá.,
+	      inçar: o revisor não deu conta dos erros que H]inçavam o original a seus cuidados.,
+	      invadir: O capim mais popular no país [invadiu também pastagens antes ocupadas com forrageiras nativas como o colonião, o jaraguá e o capim gordura. ,
+	      lavrar: Nos anos 80, a grossa corrupção que [lavrou por toda a estrutura do Estado, mais o pesado jogo especulativo que se montou no mercado de capitais e de câmbio, constituíram-se em combustível a mais para esse espírito antiempresarial. ,}
+Chave: ESPALHAR-SE <verb.contact>
+ILI: 01340036
+
+Sense 2
+{01340036} <verb.contact> spread7, propagate6 -- (become distributed or widespread; "the infection spread"; "Optimism spread among the population")
+       => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right")

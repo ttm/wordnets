@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA3856
+
+DADO O SYNSET:
+
+S='Glosa3856'
+{planear: Do mesmo modo, nenhuma família I]planeava mudar de local de residência num futuro próximo.,
+	 planejar: A previsão de safra é importante para que o governo possa [planejar importações, exportações, créditos rurais e demais investimentos na agricultura.,
+	 programar: Como o tempo é curto, tenho que [programar muito bem o ritmo da volta à atividade física.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3856' = “fazer planos para alguma coisa”
+{planear: Do mesmo modo, nenhuma família I]planeava mudar de local de residência num futuro próximo.,
+	 planejar: A previsão de safra é importante para que o governo possa [planejar importações, exportações, créditos rurais e demais investimentos na agricultura.,
+	 programar: Como o tempo é curto, tenho que [programar muito bem o ritmo da volta à atividade física.}
+Chave: PLANEJAR <verb.cognition>
+ILI: 00681336
+
+Sense 2
+{00681336} <verb.cognition> plan -- (make plans for something; "He is planning a trip with his family")
+       => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

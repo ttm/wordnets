@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA3784
+
+DADO O SYNSET:
+
+S='Glosa3784'
+{entremear-se: x,
+	 entremeter-se: x,
+	 entrepor-se: Preparou o golpe final quando a senhora do castelo interveio, I]entrepondo-se entre eles. ,
+	 intermear-se: x,
+	 intermediar-se: DEVIANT,
+	 intermeter-se: x,
+	 interpor-se: Metia-me por algum recanto da floresta, onde nenhum importuno viesse I]interpor-se entre mim e a natureza.,
+	 permear-se: Aquelas lembranças A]interpunham-se entre uma infância feliz e uma juventude atormentada.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3784' = “estar ou vir entre”
+{entrepor-se: Preparou o golpe final quando a senhora do castelo interveio, I]entrepondo-se entre eles. ,
+	 interpor-se: Metia-me por algum recanto da floresta, onde nenhum importuno viesse I]interpor-se entre mim e a natureza.,
+	 permear-se: Aquelas lembranças A]interpunham-se entre uma infância feliz e uma juventude atormentada.}
+Chave: INTERPOR-SE <verb.motion>
+ILI: 02039358
+
+Sense 1 
+{02039358} <verb.motion> interpose1 -- (be or come between; "An interposing thicket blocked their way")

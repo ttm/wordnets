@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA3621
+
+DADO O SYNSET:
+
+S='Glosa3621'
+	    {
+	      contemplar: É doloroso para o observador [contemplar a cena por muito tempo. / essas imagens nem se oferecem mais como espetáculo, algo que se deva [contemplar e admirar passivamente, mas como objetos de manipulação.,
+	      mirar: Fiquei passeando na longa sala, custeando as estantes, detendo-me para [mirar os livros, mas realmente pensando em Lalau.,
+	      olhar: Ao [olhar o embrulho, viu que lá dentro havia vários envelopes e suspeitou que tivesse sido jogados pelos traficantes. / Restava ir até o calçadão e [olhar o sol se pondo atrás do Morro Dois Irmãos. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3621' = “olhar atenciosamente; observar absorto”
+	     {contemplar: Manuel, um tanto comovido, [contemplava demoradamente as ruínas que o cercavam. / O hippie [contemplava o pôr-do-sol quando chegou um colega que estudara com ele na universidade.,
+	      mirar: Fiquei passeando na longa sala, custeando as estantes, detendo-me para [mirar os livros, mas realmente pensando em Lalau.,
+	      olhar: De costas para o palanque, num silêncio inquieto, o resto da cidade [olhava a esquina onde ele deveria aparecer. / Restava ir até o calçadão e [olhar o sol se pondo atrás do Morro Dois Irmãos. ,}
+Chave: CONTEMPLAR <verb.perception>
+ILI: 02102980
+
+Sense 1
+{02102980} <verb.perception> contemplate -- (look at thoughtfully; observe deep in thought; "contemplate one's navel")
+       => {02068519} <verb.perception> view, consider8, look at1 -- (look at carefully; study mentally; "view a problem")
+           => {00623929} <verb.cognition> analyze, analyse, study2, examine, canvass2, canvas2 -- (consider in detail and subject to an analysis in order to discover essential features or meaning; "analyze a sonnet by Shakespeare"; "analyze the evidence in a criminal trial"; "analyze your real motives")

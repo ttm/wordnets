@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0353A
+
+DADO O SYNSET:
+
+S='Glosa353'
+{acometer: A anorexia é um distúrbio psiquiátrico que [acomete em geral mulheres extremamente magras, às vezes desnutridas, que não comem por acharem que são gordas. ,
+afetar: A doença [afetou o olho direito.,
+contagiar: Estão bem perto de identificar o vírus dessa pneumonia, também chamada de Sars, que já matou pelo menos 11 pessoas e I]contagiou 400 em todo o mundo.,
+contaminar: No entanto, é preciso tomar cuidado com as dosagens, para não [contaminar as plantas, pois não há produtos específicos para uso em estufa.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa353A' = “agir fisicamente em; ter um efeito sobre”
+{acometer: A anorexia é um distúrbio psiquiátrico que [acomete em geral mulheres extremamente magras, às vezes desnutridas, que não comem por acharem que são gordas. ,
+afetar: A doença [afetou o olho direito.,}
+Chave: AFETAR <verb.body>
+ILI: 00019146
+
+Sense 2
+{00019146} <verb.body> affect -- (act physically on; have an effect upon)
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

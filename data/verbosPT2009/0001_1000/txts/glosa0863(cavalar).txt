@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0863
+
+DADO O SYNSET:
+
+S='Glosa863'
+{cavalar: Na rua o realejo calara-se, por cima do tecto já não A] cavalavam as crianças.,
+cavaloar: x,
+escavaloar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa863' = “prover com cavalos”
+{cavalar: Na rua o realejo calara-se, por cima do tecto já não A] cavalavam as crianças.,}
+Chave: CAVALAR <verb.consumption>
+ILI: 01147906
+
+Sense 1
+{01147906} <verb.consumption> horse -- (provide with a horse or horses)
+       => {01146590} <verb.consumption> provide, supply, ply, cater -- (provide what is desired or needed, especially support, food or sustenance; "The hostess provided lunch for all the guests")
+           => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+               => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children")

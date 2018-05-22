@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA2101
+
+DADO O SYNSET:
+	
+S='Glosa2101'
+    	{apurar: Enquanto não é afastado da delegacia, Antônio Carlos Rocha abriu sindicância para [apurar se os detetives Cícero Perez Alves e Willian Oliveira Vilela foram coniventes na fuga.,
+      	 averiguar: Comissão assim decidir, nomeará o presidente do Tribunal Supremo de Justiça uma comissão investigadora que [averiguará o assunto; a Comissão Investigadora será regida pelas disposições da Lei de Comissões Investigadoras, de 1968.,
+      	 checar: O objetivo era [checar se as escolas realmente ofereciam o número de bolsas indicado.,
+      	 constatar: Os técnicos do IC [constataram também que houve duas e não três ligações para Fernando Coleoni.,
+      	 deslindar: A polícia dispõe de 30 dias para concluir todas as diligências necessárias para I]deslindar os fatos.,
+      	 exatificar: x,
+      	 verificar: Mesmo assim, ela foi intimada a depor, já que os policiais também [verificaram irregularidades no registro dos carros com acesso ao estacionamento.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2101' = “confirmar a verdade de”
+    	{apurar: A reportagem de ISTOÉ [apurou que o relato de Espínola tem fundamento.,
+      	 averiguar: Tendo acesso ao manuscrito, o crítico deve ainda, se houver dúvida, [averiguar sua autenticidade por um estudo técnico e comparado da tinta, do papel e da caligrafia.,
+      	 checar: O objetivo era [checar se as escolas realmente ofereciam o número de bolsas indicado.,
+      	 constatar: Os técnicos do IC [constataram também que houve duas e não três ligações para Fernando Coleoni.,
+      	 deslindar: Foi a própria Nintendo que I]deslindou que vários domínios na internet têm o nome de Wii.,
+      	 verificar: Mesmo assim, ela foi intimada a depor, já que os policiais também [verificaram irregularidades no registro dos carros com acesso ao estacionamento.}
+Chave: CONSTATAR <verb.cognition>
+ILI: 00642483
+
+Sense 1
+{00642483} <verb.cognition> verify1 -- (confirm the truth of; "Please verify that the doors are closed"; "verify a claim")
+       => {00643814} <verb.cognition> confirm, corroborate, sustain, substantiate, support, affirm -- (establish or strengthen as with new evidence or facts; "his story confirmed my doubts"; "The evidence supports the defendant")

@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA3847
+
+DADO O SYNSET:
+	
+S='Glosa3847'
+{empiscar: x,
+	 pestanear: Foi então que eu vi um banheiro no meio do caminho e, sem I]pestanear, entrei.,
+	 pestanejar: Aí o plantador de amendoins olhou o ditador-general direto nos olhos e [pestanejou.,
+	 piscar: Afaste bem lentamente o livro, sem desviar o olhar desse ponto e sem [piscar.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3847' = “fechar brevemente os olhos”
+{pestanear: Foi então que eu vi um banheiro no meio do caminho e, sem I]pestanear, entrei.,
+	 pestanejar: Aí o plantador de amendoins olhou o ditador-general direto nos olhos e [pestanejou.,
+	 piscar: Afaste bem lentamente o livro, sem desviar o olhar desse ponto e sem [piscar.}
+Chave: PISCAR <verb.body>
+ILI: 00007638
+
+Sense 3
+{00007638} <verb.body> blink, wink, nictitate, nictate -- (briefly shut the eyes; "The TV announcer never seems to blink")
+       => {00009947} <verb.body> act involuntarily, act reflexively -- (act in an uncontrolled manner)
+           => {00010141} <verb.body> act, behave, do9 -- (behave in a certain manner; show a certain behavior; conduct or comport oneself; "You should act like an adult"; "Don't behave like a fool"; "What makes her do this way?"; "The dog acts ferocious, but he is really afraid of people")

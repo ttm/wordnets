@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA1286
+
+DADO O SYNSET:
+
+S='Glosa1286'
+{desacanhar: Mas deixou tudo para vir falar-me, com um alvoroço, um prazer tão sincero, que me I]desacanhou logo.,
+ desencabular: Pensei que você nunca iria I]desencabular.,}
+	  
+A='Glosa1287'
+	    {acanhar, avexar, encabular, envergonhar, humilhar, oprimir, vexar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1286' = “incitar a fim de tornar menos reservado” 
+{desacanhar: Mas deixou tudo para vir falar-me, com um alvoroço, um prazer tão sincero, que me I]desacanhou logo.,
+ desencabular: Eu gostava de escrever cartas para I]desencabular os sentimentos mais entranhados.,}
+A='Glosa1287'
+	    {acanhar, avexar, encabular, envergonhar, humilhar, oprimir, vexar}
+Chave: DESENCABULAR <verb.emotion>
+ILI: 01765798
+
+Sense 6
+{01765798} <verb.emotion> bring out -- (encourage to be less reserved; "The teacher tried to bring out the shy boy")
+       => {01765364} <verb.emotion> encourage -- (inspire with confidence; give hope or courage to)
+           => {01760213} <verb.emotion> inspire, animate, invigorate, enliven, exalt -- (heighten or intensify; "These paintings exalt the imagination")
+               => {01710864} <verb.emotion> stimulate, shake, shake up, excite, stir1 -- (stir the feelings, emotions, or peace of; "These stories shook the community"; "the civil war shook the country")
+                   => {01708538} <verb.emotion> arouse, elicit, enkindle, kindle, evoke, fire, raise8, provoke -- (call forth (emotions, feelings, and responses); "arouse pity"; "raise a smile"; "evoke sympathy")
+                       => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

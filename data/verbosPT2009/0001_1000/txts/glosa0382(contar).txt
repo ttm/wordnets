@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0382
+
+DADO O SYNSET:
+
+S='Glosa382'
+{adnumerar: x,
+contar: Num posto de gasolina da Estrada do Tindiba, eram tantos uns sobre os outros que era difícil [contá-los.,
+enumerar: É impossível [enumerar todos os recursos oferecidos para aprender código de telegrafia.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa382' = “determinar o número ou quantidade de”
+{contar: Num posto de gasolina da Estrada do Tindiba, eram tantos uns sobre os outros que era difícil [contá-los.,
+enumerar: É impossível [enumerar todos os recursos oferecidos para aprender código de telegrafia.,}
+Chave: CONTAR <verb.communication>
+ILI: 00916888
+
+Sense 1
+{00916888} <verb.communication> count, number, enumerate1, numerate -- (determine the number or amount of; "Can you count the books on your shelf?"; "Count your change")
+       => {00888752} <verb.communication> determine, find, find out, ascertain1 -- (after a calculation, investigation, experiment, survey, or study; "find the product of two numbers"; "The physicist who found the elusive particle won the Nobel Prize")

@@ -1,0 +1,66 @@
+ANÁLISE DA GLOSA2938
+
+DADO O SYNSET:
+
+S='Glosa2938'
+	    {alquebrar-se: H]Alquebrara-se de tanto trabalhar.,
+	      cansar-se: A pessoa com asma moderada apresenta chiados, I]cansa-se mais facilmente, tem tosse.,
+	      debilitar-se: Como Ra foi I]debilitando-se com a idade, sua mente se deteriorou. ,
+	      deprimir-se: O paciente I]deprimiu-se tanto que nem forças encontrava para deixar o leito.,
+	      derrear-se: I]Derreou-se com a caminhada.,
+	      desvigorar-se: H]Desvigorou-se após o nascimento dos filhos.,
+	      emascular-se: x,
+	      enervar-se: Sua inteligência H]enervou-se, graças ao ócio pós-aposentadoria.,
+	      enfraquecer-se: Soube que estava em casa da irmã casada e ia pior, cada vez mais abismada na sua mania, [enfraquecendo-se de corpo. ,
+	      enfraquentar-se: x,
+	      estiolar-se: Antônio José I]estiolava-se na prisão.,
+	      extenuar-se: Muitas crianças, principalmente meninas, têm sacrificado sua infância I]extenuando-se no trabalho, sem qualquer tipo de remuneração.,
+	      fragilizar-se: Leo M]fragiliza-se pela bebida.,
+	      prostrar-se: H]Prostraram-se com a caminhada.,
+	      quebrantar-se: x,}
+
+	  A='Glosa3655'
+	    {afortalecer-se: x,
+	     arrijar-se: x,
+	     avigorar-se: Na verdade, Capitu ia crescendo às carreiras, as formas arredondavam-se e [avigoravam-se com grande intensidade moralmente a mesma cousa. ,
+	     desenervar-se: x,
+	     enrijar-se: À proporção que o corpo enfraquecia, I]enrijava-se-lhe a mente. ,
+	     enrijecer-se: Eram práticas vigentes no século XVIII o hábito de atar as crianças como forma de I]enrijecer-lhes os músculos.,
+	     fortalecer-se: Bernardo tomava muitas pílulas de vitaminas na cozinha, tentando [se fortalecer para a viagem terrível. ,
+	     fortificar-se: As crianças, mesmo a contragosto, eram obrigadas a engolir o rícino amargo para [se fortificarem.,
+	     invalescer: x,
+	     oxigenar-se: Quando você está relaxando e I]se oxigenando, seu corpo físico é submetido a altas freqüências de energia.,
+	     renovar-se: Você atravessa um bom momento para [se renovar interiormente.,
+	     retemperar-se: Mumificara conservando os traços fisionômicos, de modo a incutir a ilusão exata de um lutador cansado, [retemperando-se em tranquilo sono, à sombra daquela árvore benfazeja . ,
+	     revigorar-se: A terra [se revigorava, e era capaz de - no ano seguinte - aceitar a semente do agricultor. ,
+	     revitalizar-se: O Mercosul [revitalizou-se, com o Brasil recobrando a confiança para exercer o papel protagonista que lhe cabe na região.#coisas boas estavam acontencendo com o corpo. Órgão e sistemas estressados eram capazes de se recuperar e I]se revitalizar. ,
+	     robustecer-se: Os gordos emagreceriam, os subnutridos I]robustecer-se-iam e todos ficariam normais. ,
+	     temperar-se: Quais foram os inimigos que o bolchevismo enfrentou, dentro do movimento operário, para poder crescer, I]fortalecer-se e temperar-se? ,
+	     tonificar-se: As pessoas debilitadas, os portadores de enfermidades crônicas, devem, para I]tonificar-se, começar com banhos frios parciais.,
+	     vigorizar-se: Fez por I]vigorizar-se para a jornada.,
+	     vitalizar-se: É recomendável I]vitalizar-se através da religação com a natureza.,}
+
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2938' = “Enfraquecer ou destruir no espírito ou corpo”
+	    {alquebrar-se: Submetido a violências e privações, I]alquebrou-se fisicamente.,
+	      cansar-se: Os discípulos foram duramente premidos pela incredulidade, e I]cansaram-se num infrutífero labor.,
+	      debilitar-se: Ao prosseguir nesse caminho, I]debilitou-se e adoeceu.,
+	      deprimir-se: O paciente I]deprimiu-se tanto que nem forças encontrava para deixar o leito.,
+	      derrear-se: I]Derreou-se com a caminhada.,
+	      enfraquecer-se: O urso perdeu os dentes, I]enfraqueceu-se, mas não está morto.,
+	      estiolar-se: Antônio José I]estiolava-se na prisão.,
+	      extenuar-se: Muitas crianças, principalmente meninas, têm sacrificado sua infância I]extenuando-se no trabalho, sem qualquer tipo de remuneração.,
+	      prostrar-se: Quando desafiada pelo marido e filhos, Dona Morgadinha I]prostrava-se e perdia a vontade de limpar a casa.,}
+
+	  A='Glosa3655'
+	    {avigorar-se, enrijar-se, enrijecer-se, fortalecer-se	, fortificar-se, oxigenar-se, renovar-se, retemperar-se, revigorar-se, revitalizar-se, robustecer-se, temperar-se, tonificar-se, vigorizar-se, vitalizar-se}
+
+Chave: DEBILITAR-SE <verb.body>
+ILI: 00029724
+
+Sense 59
+{00029724} <verb.body> break10 -- (weaken or destroy in spirit or body; "His resistance was broken"; "a man broken by the terrible experience of near-death")
+       => {00217329} <verb.change> weaken1 -- (lessen the strength of; "The fever weakened his body")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

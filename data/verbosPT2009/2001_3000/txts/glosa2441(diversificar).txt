@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA2441
+
+DADO O SYNSET:
+
+S='Glosa2441'
+	    {diversificar: Líder do setor de fotografia [diversifica produtos e serviços e eleva faturamento em 10% .,
+	      sortir: Afinal, já lhe não bastava I]sortir o seu estabelecimento nos armazéns fornecedores; começou a receber alguns gêneros diretamente da Europa.,
+	      variar: A arquitetura funcional não pode [variar de maneira que demande uma explicação cognitiva (em termos de objetivos, crenças, representações etc.),}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2441' = “Tornar (mais) diverso.”
+	    {diversificar: Líder do setor de fotografia [diversifica produtos e serviços e eleva faturamento em 10% .,
+	      sortir: Só um gênero de leitura não é recomendável; convém M]sorti-la um pouco.,
+	      variar: Contra Cuba, I]ele variou muito as jogadas,}
+
+Chave: DIVERSIFICAR <verb.change>
+ILI: 00424711
+
+Sense 1
+{00424711} <verb.change> diversify2 -- (make (more) diverse; "diversify a course of study")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

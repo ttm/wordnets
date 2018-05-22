@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA2415
+
+DADO O SYNSET:
+
+S='Glosa2415'
+	    {abasbacar-se: x,
+	      aboleimar-se: x,
+	      admirar-se: Não [se admire, minha prima; tenho uma teoria a respeito dos perfumes.,
+	      assombrar-se: A mesma mídia que agora [se assombra com os mendigos de Recife comendo carne humana retirada do lixo de um hospital, não por que apreciem carne humana no cardápio, mas por que têm fome.,
+	      embasbacar-se: Sem embargo, o tucano haveria de I]embasbacar-se novamente com uma primária e ridiculamente fácil questão sobre a Guerra da Abissínia.,
+	      espantar-se: É natural que o senhor [se espante, concordo; dou-lhe toda a razão; está no seu direito !,
+	      maravilhar-se: É preciso nunca ter medo de I]maravilhar-se com palavras. ,
+	      pasmar-se: Não sei porque ainda I]pasmar-se ao lembra-se da frase de FHC no ano passado quando disse que nada pode ficar tapado e que tudo deve ser esclarecido.,
+	      surpreender-se: Sobre essa projeção social de Éder, Hildegard Angel também [se surpreende: «Éder é um personagem, com um grande talento para o marketing pessoal.,
+	      surpresar-se: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2415' = “Fazer com que se surpreenda.”
+	    {admirar-se: Não [se admire, minha prima; tenho uma teoria a respeito dos perfumes.,
+	      assombrar-se: Nise I]assombrou-se com o número e a qualidade plástica das pinturas que representavam mandalas.,
+	      embasbacar-se: A opinião pública I]embasbacou-se com as histórias recentes de fraudes contábeis.,
+	      espantar-se: É natural que o senhor [se espante.,
+	      maravilhar-se: Ruy Carlos Ostermann acompanhou os primeiros passos do menino e I]maravilhou-se com seus dribles e malabarismos.,
+	      pasmar-se: A crítica de época I]pasmou-se com o resultado do quadro.,
+	      surpreender-se: Sobre essa projeção social de Éder, Hildegard Angel também [se surpreende: «Éder é um personagem, com um grande talento para o marketing pessoal.,}
+
+Chave: SURPREENDER-SE <verb.cognition>
+ILI: 00701276
+
+Sense 1
+{00701276} <verb.cognition> surprise -- (cause to be surprised; "The news really surprised me")
+       => {01716999} <verb.emotion> affect, impress1, move, strike -- (have an emotional or cognitive impact upon; "This child impressed me as unusually mature"; "This behavior struck me as odd") 

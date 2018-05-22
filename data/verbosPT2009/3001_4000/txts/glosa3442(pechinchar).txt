@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA3442
+
+DADO O SYNSET:
+
+S='Glosa3442'
+	    {
+	      chorar: ...atitudes tipicamente brasileiras, como pechinchar ou [chorar por uma melhor avaliação, são estritamente proibidas,
+	      mesquinhar: Por que é tão importante para os criadores ]mesquinhar e economizar no preço da comida de seu animal?,
+	      pechinchar: Vamos [pechinchar para conseguir um preço menor/Na hora de comprar não se deve deixar de [pechinchar,
+	      regatear: depois de se [regatear um pouco o preço, chegaram os dois a um acordo/]Regatear com os vendedores,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3442' = “discutir (sobre preço, termos de um acordo, etc)
+	     {chorar: I]Chorou o preço depois de ter arrematado o item, mas pagou rápido direitinho o combinado,
+	      mesquinhar: Por que é tão importante para os criadores ]mesquinhar e economizar no preço da comida de seu animal?,
+	      pechinchar: O indivíduo I]pechinchou para valer, não atendido pediu um copo de água, bebeu e saiu,
+	      regatear: I]Regateou e conseguiu baixar o pagamento para R$ 40 mil,}
+Chave: PECHINCHAR <verb.possession>
+ILI: 02194254
+
+Sense 1
+{02194254} <verb.possession> haggle, higgle, chaffer, huckster1 -- (wrangle (over a price, terms of an agreement, etc.); "Let's not haggle over a few dollars")
+       => {02194536} <verb.possession> dicker, bargain -- (negotiate the terms of an exchange; "We bargained for a beautiful rug in the bazaar")
+           => {00736631} <verb.communication> negociate, negotiate, talk terms -- (discuss the terms of an arrangement; "They negotiated the sale of the house")
+               => {00787668} <verb.communication> hash out, discuss, talk over -- (speak with others about (something); talk (something) over in detail; have a discussion; "We discussed our household budget")
+                   => {00912516} <verb.communication> talk of, talk about1 -- (discuss or mention; "They spoke of many things")
+                       => {00910961} <verb.communication> talk, speak, utter, mouth, verbalize, verbalise -- (express in speech; "She talks a lot of nonsense"; "This depressed patient does not verbalize")
+                           => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                               => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

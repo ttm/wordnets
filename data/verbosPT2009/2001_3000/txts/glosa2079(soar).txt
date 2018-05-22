@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA2079
+
+DADO O SYNSET:
+	
+S='Glosa2079'
+    	{estremecer: Aquela voz retumbava e M]estremecia em nossos ouvidos.,
+      	 estrepitar: A viagens transcorriam rápidas naquelas avenidas continentais, animadas e vibrantes, onde I]estrepitava a galopada dos correios precipitando-se para as Gálias.,
+      	 soar: Mal a avistava ao longe, chorava e cantava horas inteiras, sem descanso, até que se partia o bárbaro que nunca dela dera fé, nem mesmo quando dormindo na gruta, o canto [soava sobre a sua cabeça.,
+      	 vibrar: De vez em quando, semelhante ao eco de um som abafado, I]vibrava-me nos ouvidos um grito fraco e agudo, uma voz de mulher.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2079' = “fazer soar”
+    	{estremecer: A Black Friday I]estremece as caixas de som com os melhores hits da black music.,
+      	 estrepitar: A voz do grande rio vem rolando, I]estrepitando as ondas tributárias.,
+      	 soar: Houve outrora uma disputa, que terminou em processo, para se saber a qual das ordens religiosas cabia o direito de I]soar primeiro o toque das matinas; e determinou-se que cabia soá-lo primeiro a quem primeiro se levantasse.
+      	 vibrar: O músico pendurou o seu instrumento de cordas em uma das corcovas da fêmea e o vento começou a I]vibrá-las.}
+Chave: SOAR <verb.perception>
+ILI: 02116920
+
+Sense 6
+{02116920} <verb.perception> sound1 -- (cause to sound; "sound the bell"; "sound a certain note")
+          Also See-> {01604209} <verb.creation> sound off#2

@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA2292
+
+DADO O SYNSET:
+
+S='Glosa2292'
+	    {amargar: Para não I]amargar o quentão, retire, com uma faca bem afiada, toda a parte branca das cascas de laranja ou limão. ,
+	      travar: O tanino é um elemento contido só nos vinhos tintos e que dá a impressao de I]travar a boca. ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2292' = “tornar amargo”
+	    {amargar: Para não I]amargar o quentão, retire toda a parte branca das cascas de laranja ou limão. ,
+	      travar: O tanino é um elemento contido só nos vinhos tintos e que dá a impressão de I]travar a boca. ,}
+
+Chave: AMARGAR <verb.perception>
+ILI: 02132839
+
+Sense 1
+{02132839} <verb.perception> bitter -- (make bitter)
+       => {02134036} <verb.perception> change taste -- (alter the flavor of)
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

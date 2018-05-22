@@ -1,0 +1,35 @@
+ANÁLISE DA GLOSA3282
+
+DADO O SYNSET:
+
+S='Glosa3282'
+	    {
+	      alealdar: x,
+	      asselar: Daí o acerto de Amílcar de Araújo Falcão ao I]asselar que a identificação do contribuinte incumbe ao intérprete, independe de menção na lei.,
+	      autenticar: Com a ajuda do choque emocional após a morte de Doadorim, Riobaldo abandona toda prevenção, é chorando nos braços daquela Mulher que ele [autentica a face positiva da mãe.,
+	      lealdar: x,
+	      legalizar: Nunca mais as leis de nosso país vão separar o povo ou [legalizar sua opressão e repressão, disse Mandela diante da Assembléia Constituinte.,
+	      legitimar: O presidente está absolutamente convicto de que não existe outra maneira para [legitimar qualquer decisão de governo que não seja a negociação política. ,
+	      lidimar: Estas causas o explicam e o M]lidimam.,
+	      validar: É advogar em prol da visão surpreendente de que teorias ou hipóteses acerca de questões sociais devem ser validadas de forma diferente daquela utilizada para [validar teorias ou hipóteses acerca de fenômenos naturais.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3282' = “declarar ou fazer legalmente válido”
+	     {asselar: Daí o acerto de Amílcar de Araújo Falcão ao I]asselar que a identificação do contribuinte incumbe ao intérprete, independe de menção na lei.,
+	      autenticar: Inimá analisou e I]autenticou mais de 1.000 obras.,
+	      legalizar: O rei Juan Carlos I assumiu o trono, I]legalizou os partidos políticos e marcou eleições legislativas.,
+	      legitimar: Ele [legitima a guerra como um projeto iluminista e comtiano, cujo alvo é a instituição do Estado moderno, resumido no lema «Ordem, paz, progresso e constituição da lei». ,
+	      lidimar: Estas causas o explicam e o M]lidimam.,
+	      validar: O Superior Tribunal de Justiça I]validou uma decisão da Justiça italiana, que reconheceu o pedido de um transexual.,}
+Chave: VALIDAR <verb.social>
+ILI: 02404438
+
+Sense 1
+{02404438} <verb.social> validate, formalize1, formalise1 -- (declare or make legally valid)
+       => {00777368} <verb.communication> authorize, authorise, pass, clear1 -- (grant authorization or clearance for; "Clear the manuscript for publication"; "The rock star never authorized this slanderous biography")
+           => {00776433} <verb.communication> permit, allow, let2, countenance -- (consent to, give permission; "She permitted her son to visit her estranged husband"; "I won't let the police search her basement"; "I cannot allow you to see your exam")
+               => {00771887} <verb.communication> accept, consent, go for -- (give an affirmative reply to; respond favorably to; "I cannot accept your invitation"; "I go for this resolution")
+                   => {00693825} <verb.cognition> react, respond -- (show a response or a reaction to something)
+                       => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

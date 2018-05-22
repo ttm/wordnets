@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA2187
+
+DADO O SYNSET:
+
+  S='Glosa2187'
+	    {vitaminar: I]Vitaminar as farinhas custa pouco.,
+	      vitaminizar: x, }
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2187' = “adicionar vitaminas como suplemento”
+	    {vitaminar: I]Vitaminar as farinhas custa pouco.,}
+
+Chave: VITAMINAR <verb.possession>
+ILI: 02274982
+
+Sense 1
+{02274982} <verb.possession> vitaminize, vitaminise -- (add vitamins as a supplement; "vitaminized processed foods")
+       => {02274692} <verb.possession> supplement -- (add as a supplement to what seems insufficient; "supplement your diet")
+           => {00176022} <verb.change> add -- (make an addition (to); join or combine or unite with others; increase the quality, quantity, zise or scope of; "We added two students to that dorm room"; "She added a personal note to her letter"; "Add insult to injury"; "Add some extra plates to the dinner table")
+               => {00150804} <verb.change> increase -- (become bigger or greater in amount; "The amount of work increased")
+                   => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+                       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

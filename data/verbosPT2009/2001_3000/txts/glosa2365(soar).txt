@@ -1,0 +1,39 @@
+ANÁLISE DA GLOSA2365
+
+DADO O SYNSET:
+
+S='Glosa2365'
+	    {badalar: Os sinos continuavam a I]badalar aflitos.,
+	      bater: I]Bate o sino pequenino, sino de Belém.,
+	      bimbalhar: Os sinos continuavam a I]bimbalhar. # O sino da nossa igreja chamava o povo com seu I]bimbalhar alegre e sonoro.,
+	      dar: Quando o grande sino I]deu doze soturnas badaladas, dispersando a neve que caía sobre os meus pensamentos, algemei minhas reflexões e sorri, debilmente.,
+	      dobrar: Espero que o sino que I]dobrou esta manhã em honra desta convenção possa ser o toque fúnebre de todo fanatismo, de toda a opressão feita com a espada ou com a caneta, e que todos os sentimentos inclementes entre as pessoas se dirijam para o mesmo caminho.,
+	      garrir: x,
+	      ressoar: De súbito, no pátio, I]ressoaram uns sons agudos, sacudidos, metálicos. # Vivas e gritos de vitória I]ressoaram. # Foi no meio dessas reflexões que tocou a sineta, e as suas badaladas I]ressoaram em minha alma como o dobre de uma campa.,
+	      soar: É o I]soar brando do sino da minha aldeia.# Os estudantes componentes da delegação de Coimbra fizeram I]soar 80 badaladas.# Depois de I]soar o alarme (que o usuário seleciona com valores de tempo) o ventilador troca a ventilação mandatória controlada por volume.,
+	      tintinabular: O bronze da matriz M]tintinabulava funebremente.,
+	      toar: E atravessaram serranias íngremes, tabuleiros estéreis e chapadas rasas na marcha cadenciada pelo I]toar das ladainhas e pelo passo tardo do profeta.,
+	      tocar: O povo participou do banquete e o sino I]tocou muitas vezes ao longo do dia. # Ouviram-se as cotovias cantar, os sinos I]tocavam.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2365' = “Emitir ou produzir som alto e sonoro.”
+	    {badalar: Os sinos continuavam a I]badalar aflitos.,
+	      bater: I]Bate o sino pequenino, sino de Belém.,
+	      bimbalhar: Os sinos continuavam a I]bimbalhar.,
+	      dar: Quando o grande sino I]deu doze soturnas badaladas algemei minhas reflexões e sorri.,
+	      dobrar: Espero que o sino que I]dobrou esta manhã em honra desta convenção possa ser o toque fúnebre de todo fanatismo.,
+	      ressoar: Foi no meio dessas reflexões que tocou a sineta, e as suas badaladas I]ressoaram em minha alma. ,
+	      soar: O I]relógio soou as 12 badaladas da meia-noite.,
+	      tintinabular: O bronze da matriz M]tintinabulava funebremente.,
+	      toar: Um trovão H]toou ao longe.,
+	      tocar: O povo participou do banquete e o sino I]tocou muitas vezes ao longo do dia.,}
+
+Chave: SOAR <verb.perception>
+ILI: 02118300
+
+Sense 1
+{02118300} <verb.perception> ring, peal1 -- (sound loudly and sonorously; "the bells rang")
+       => {02113837} <verb.perception> sound, go -- (make a certain noise or sound; "She went `Mmmmm'"; "The gun went `bang'")
+           => {02062507} <verb.perception> cause to be perceived -- (have perceptible qualities)
+          Also See-> {02113466} <verb.perception> ring out#1 

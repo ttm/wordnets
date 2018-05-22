@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA0990
+
+DADO O SYNSET:
+
+S='Glosa990'
+{controverter: As circunstâncias é que determinam os contornos, por isso procuro cotidianamente I]controverter minhas próprias convicções.,
+discutir: Seria um exemplo de demagogia política se eu fosse [discutir com os moradores se eles preferem enfrentar engarrafamentos ou ficar com o Rio Rainha poluído,
+questionar: A elite intelectual é colonial, porque tem vergonha de [questionar atitudes vindas do Primeiro Mundo.,
+rebater: Spallanzani não conseguiu [rebater os argumentos de Needham.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa990' = “desafiar a acuidade, integridade, ou propriedade de”
+{controverter: As circunstâncias é que determinam os contornos, por isso procuro cotidianamente I]controverter minhas próprias convicções.,
+discutir: Seria um exemplo de demagogia política se eu fosse [discutir com os moradores se eles preferem enfrentar engarrafamentos ou ficar com o Rio Rainha poluído,
+questionar: A elite intelectual é colonial, porque tem vergonha de [questionar atitudes vindas do Primeiro Mundo.,
+rebater: Spallanzani não conseguiu [rebater os argumentos de Needham.,}
+Chave: QUESTIONAR <verb.communication>
+ILI: 00838577
+
+Sense 1
+{00838577} <verb.communication> question1, oppugn, call into question -- (challenge the accuracy, probity, or propriety of; "We must question your judgment in this matter")
+       => {00839696} <verb.communication> challenge -- (issue a challenge to; "Fischer challenged Spassky to a match")
+           => {00767907} <verb.communication> invite, bid -- (ask someone in a friendly way to do something)
+               => {00728656} <verb.communication> request2 -- (ask (a person) to do something; "She asked him to be here at noon"; "I requested that she type the entire manuscript")
+                   => {00727721} <verb.communication> ask1 -- (make a request or demand for something to somebody; "She asked him for a loan")
+                       => {00727992} <verb.communication> request1, bespeak, call for4, quest1 -- (express the need or desire for; ask for; "She requested an extra bed in her room"; "She called for room service")
+                           => {00717906} <verb.communication> communicate1, pass on, pass1, put across -- (transmit information ; "Please communicate this message to all employees")
+                               => {02167243} <verb.possession> convey10, transmit10, communicate10 -- (transfer to another; "communicate a disease")
+                                   => {02167764} <verb.possession> transfer1 -- (move from one place to another; "transfer the data"; "transmit the news"; "transfer the patient to another hospital")
+                                       => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

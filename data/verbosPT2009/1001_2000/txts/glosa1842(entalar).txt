@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA1842
+
+DADO O SYNSET:
+
+S='Glosa1842'
+{apertar: Os músicos não conseguem tirar dos pulmões o sopro necessário aos instrumentos, tanto é a comoção que lhes I]aperta a garganta.,
+ entalar: É difícil de compreender o amor quando o nó que nos I]entala a garganta nos impede de encarar a vida como ela é.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1842' = “obstruir”
+{apertar: Os músicos não conseguem tirar dos pulmões o sopro necessário aos instrumentos, tanto é a comoção que lhes I]aperta a garganta.,
+ entalar: É difícil de compreender o amor quando o nó que nos I]entala a garganta nos impede de encarar a vida como ela é.,}
+Chave: ENTALAR <verb.contact>
+ILI: 01437387
+
+Sense 9
+{01437387} <verb.contact> stuff1, lug2, choke up, block2 -- (obstruct; "My nose is all stuffed"; "Her arteries are blocked")
+       => {01436675} <verb.contact> clog, choke off, clog up, back up, congest, choke1, foul -- (become or cause to become obstructed; "The leaves clog our drains in the Fall"; "The water pipe is backed up")
+           => {01434634} <verb.contact> obstruct, obturate, impede, occlude, jam2, block12, close up -- (block passage through; "obstruct the path")
+               => {02377880} <verb.social> impede, hinder1 -- (be a hindrance or obstacle to; "She is impeding the progress of our project")
+                   => {02377053} <verb.social> prevent, keep1 -- (prevent from doing something or being in a certain state; "We must prevent the cancer from spreading"; "His snoring kept me from falling asleep"; "Keep the child from eating the marbles")

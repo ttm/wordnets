@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA2040
+
+DADO O SYNSET:
+	
+S='Glosa2040'
+    	{assinalar: H]Assinalou alguém da assistência com a ponta do dedo.,
+      	 delinear: x,
+      	 escolher: Correu o dedo no mapa e H]escolheu o lugar para passar a noite.,
+      	 marcar: H]Marcar um itinerário num mapa.,
+      	 sinalar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2040' = “designar como se fosse com uma marca”
+    	{assinalar: O programa vai guiá-lo, [assinalando na tela em vermelho, como se fosse uma caneta, mostrando com animações passo a passo.,
+      	 marcar: Ele levantou-se, foi até a parede e I]marcou no mapa o próximo destino nas suas férias.}
+Chave: MARCAR <verb.communication>
+ILI: 00891509
+
+Sense 2
+{00891509} <verb.communication> mark2 -- (designate as if by a mark; "This sign marks the border"; "He indicated where the border ended")
+       => {00891089} <verb.communication> bespeak1, betoken1, indicate1, point12, signal1 -- (be a signal for or a symptom of; "These symptoms indicate a serious illness"; "Her behavior points to a severe neurosis"; "The economic indicators signal that the euro is undervalued")
+           => {00920928} <verb.communication> tell -- (let something be known; "Tell them that you will be late")
+               => {00804489} <verb.communication> inform -- (impart knowledge of some fact, state or affairs, or event to; "I informed him of his rights")
+                   => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                       => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                           => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

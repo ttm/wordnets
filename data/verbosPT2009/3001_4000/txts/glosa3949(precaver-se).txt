@@ -1,0 +1,52 @@
+ANÁLISE DA GLOSA3949
+
+DADO O SYNSET:
+
+S=’Glosa3949’
+    	{abarreirar-se: Convém M]abarreirar-se contra doenças contagiosas.,
+      	 acautelar-se: Sabendo que elas existiam, porém, I]acautelava-se com a bebida.,
+      	 armar-se: M]Armou-se contra o frio.,
+      	 cuidar-se: Em meio à crise, todos devem se H]cuidar.,
+      	 dispor-se: O júri H]dispôs-se a condenar o acusado.,
+      	 garantir-se: M]Garantiu-se contra o mau tempo levando capa e guarda-chuva.,
+      	 guardar-se: I]Guardou-se de apresentar-se com seu cortejo de passes.,
+      	precatar-se: A população M]precatou-se contra a varíola,
+      	 precaucionar-se: H]Precauciona-se contra a gripe tomando vacina.,
+      	 precautelar-se: x,
+      	 precaver-se: Além disso, outras sete se I]precaveram à possibilidade de serem atingidas por uma paralisação e negociaram com a central.,
+      	 premunir-se: Importa I]premunir-se contra o charlatanismo, que não deixará de tentar explorar em proveito próprio.,
+      	 preparar-se: A]Preparou-se com cuidado para a festa.,
+      	 prevenir-se: Até para que os leitores se I]prevenissem contra os charlatões de plantão, verdadeiros açougueiros, que praticam medicina ilegal nos fundos dos quintais.,
+      	 recatar-se: Devemos A]recatar-nos dos nossos inimigos.,
+      	 resguardar-se: Os operários sabem I]resguardar-se da polícia.,
+      	 vigiar-se: Aconselhei-o a H]vigiar-se no centro da cidade.,
+      	 vigilar-se: x,}
+  
+A=’Glosa1514’
+    	{desacautelar-se, descuidar-se, facilitar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3949' = “tomar precauções a fim de evitar alguma conseqüência indesejada”
+    	{acautelar-se: Esses argumentos me permitem um conselho: [acautele-se caro presidente do Tribunal de Contas, pois pôr fogo no lixo sem limpar essa promiscuidade administrativa poluirá não só o ar como a ética.,
+      	 armar-se: Estado [arma-se contra a doença através de aumento da fiscalização, maior rigor nas fronteiras e trabalhos de desinfecção.,
+      	 cuidar-se: Eu tenho certeza que você sabe se [cuidar para não engravidar antes da hora nem pegar alguma doença sexualmente transmissível.,
+      	 garantir-se: O jogador respondeu que havia perdido o documento e que o melhor era se [garantir com o passaporte para evitar qualquer problema.,
+      	 guardar-se: A maioria das coisas se fecha ou se oculta para se I]guardar contra o frio.,
+      	 precatar-se: O governo teria de ser B]precatar contra o risco de perder a maioria no Congresso.,
+      	 precaver-se: Além disso, outras sete se I]precaveram à possibilidade de serem atingidas por uma paralisação e negociaram com a central.,
+      	 premunir-se: O Espiritismo desperta a consciência dos que se I]premunem contra a falsidade ideológica dos cultos tendentes ao perdão sem a competente imersão na dor a que os vícios e o mau procedimento constrangem.,
+      	 preparar-se: A esmagadora maioria das instituições financeiras se I]prepararam contra os efeitos colaterais do câmbio flutuante.,
+      	 prevenir-se: Ao desembarcar em Punta del Este, [previna-se e compre a passagem de volta.,
+      	 recatar-se: Prudente, o filho de César I]recata-se.,
+      	 resguardar-se: Os operários sabem I]resguardar-se da polícia.,
+      	 vigiar-se: Ele se I]vigiou ao escrever, tentando evitar criar "personagens-funções".}
+  
+A='Glosa1514'
+    	{desacautelar-se, descuidar-se, facilitar}
+Chave: PRECAVER-SE <verb.social>
+ILI: 02523064
+
+Sense 4
+{02523064} <verb.social> guard1 -- (take precautions in order to avoid some unwanted consequence; "guard against becoming too friendly with the staff"; "guard against infection")
+       => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

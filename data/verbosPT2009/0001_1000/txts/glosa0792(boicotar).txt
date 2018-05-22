@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0792
+
+DADO O SYNSET:
+
+S='Glosa792'
+{boicotar: Em 1991 e 1992, o PKK conseguiu [boicotar a ida de milhares de turistas alemães à Turquia,
+boicotear: Segundo artigo no Philadelphia Inquirer, Richard Costello, presidente do regimento 5 do FOP da Filadélfia ameaçou I]boicotear o estádio First/O indivíduo espera tanto de si próprio que inclusive será capaz de I]boicotear os seus próprios,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa792' = “recusar a fazer negócios com, não comprar mercadoria de um certo alguém”
+{boicotar: Em 1991 e 1992, o PKK conseguiu [boicotar a ida de milhares de turistas alemães à Turquia,
+boicotear: Segundo artigo no Philadelphia Inquirer, Richard Costello, presidente do regimento 5 do FOP da Filadélfia ameaçou I]boicotear o estádio First/O indivíduo espera tanto de si próprio que inclusive será capaz de I]boicotear os seus próprios,}
+Chave: BOICOTAR <verb.social>
+ILI: 02391483
+
+Sense 1
+{02391483} <verb.social> boycott -- (refuse to sponsor; refuse to do business with)
+       => {02391647} <verb.social> ostracize, ostracise -- (avoid speaking to or dealing with; "Ever since I spoke up, my colleagues ostracize me")
+           => {02375870} <verb.social> exclude, keep out, shut out, shut -- (prevent from entering; shut out; "The trees were shutting out all sunlight"; "This policy excludes people who have a criminal record from entering the country")
+               => {02377053} <verb.social> prevent, keep1 -- (prevent from doing something or being in a certain state; "We must prevent the cancer from spreading"; "His snoring kept me from falling asleep"; "Keep the child from eating the marbles")

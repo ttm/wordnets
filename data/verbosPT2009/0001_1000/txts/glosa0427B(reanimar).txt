@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0427B
+
+DADO O SYNSET:
+
+S='Glosa427'
+{aliviar: Transportar esse sentimento de perda íntima para a obra literária I]aliviou-o, fê-lo compreender melhor o que sentia. ,
+reanimar: O empate em 1 a 1 com o Cruzeiro na terça-feira abalou a confiança de alguns, mas a goleada de ontem sobre o Olaria tratou de [reanimar os ânimos.,
+refrescar: As lágrimas que derramou não foram como as de sua prima, de alivio e consolo; foram lágrimas ardentes, que em vez de [refrescarem o coração, o queimam como o rescaldo da paixão.,
+restaurar: O monomate também é um líquido regenerativo capaz de I]restaurar as energias de um indivíduo, com ação eficaz e imediata.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa427B' = “dar nova vida ou energia para”
+{reanimar: O empate em 1 a 1 com o Cruzeiro na terça-feira abalou a confiança de alguns, mas a goleada de ontem sobre o Olaria tratou de [reanimar os ânimos.,
+restaurar: O monomate também é um líquido regenerativo capaz de I]restaurar as energias de um indivíduo, com ação eficaz e imediata.,}
+Chave: REANIMAR <verb.body>
+ILI: 00023840
+
+Sense 1
+{00023840} <verb.body> animate, recreate2, reanimate, revive, renovate, repair3, quicken, vivify, revivify -- (give new life or energy to; "A hot soup will revive me"; "This will renovate my spirits"; "This treatment repaired my health")
+       => {00022265} <verb.body> stimulate, arouse, brace, energize, energise, perk up1 -- (cause to be alert and energetic; "Coffee and tea stimulate me"; "This herbal infusion doesn't stimulate")
+           => {00019146} <verb.body> affect -- (act physically on; have an effect upon)
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

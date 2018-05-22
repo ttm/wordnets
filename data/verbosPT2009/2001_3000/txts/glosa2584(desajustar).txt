@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA2584
+
+DADO O SYNSET:
+
+S='Glosa2584'
+	    {desajustar: Tamanhos de texto exagerados podem I]desajustar o alinhamento dos elementos visuais previstos no projeto artístico deste site.,
+	      desarranjar: Ao ousar I]desarranjar o arranjo do artista conceitual (que não cria propriamente formas estéticas a partir do material informe, mas forma conceitos a partir de objetos não-estéticos deslocados de seu contexto natural ou social), o embaixador israelense violou um tabu, e converteu-se num bárbaro, negando o valor da obra conceitual: "Isso não é uma obra de arte, mas uma monstruosidade, uma distorção obscena da realidade".,
+	      descompor: Ele, além de tudo, I]descompunha minha coleção de livros.,
+	      desordenar: Um vírus pode I]desordenar o sistema de diretórios nos discos, provocando a perda do registro dos outros arquivos.,
+	      disturbar: Alguém ao seu redor o odeia, tem inveja, ou não concorda com suas ações e quer I]disturbar ou destruir o que você está fazendo.,
+	      entortar: Sabendo dos problemas, a concessionária queria colocar calços em diversos pontos, [entortar escapamento e realizar outros serviços que não poderiam ser feitos em um carro zero km. # Em outras ocasiões poéticas, advertiu que se o verso dele não dava certo, a culpa cabia ao ouvido do leitor, que [entortara.,
+	      revirar: Um erro nessa decisão pode entornar o caldo e [revirar as linhas do tal gráfico.,
+	      transtornar: Mas isto seria I]transtornar a ordem do conto.,
+	      transverter: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2584' = “Perturbar a organização de.”
+	    {desajustar: Tamanhos de texto exagerados podem I]desajustar o alinhamento dos elementos visuais.,
+	      desarranjar: A louca correria do câmbio no ano passado I]desarranjou todas as relações de equilíbrio entre os preços.,
+	      descompor: Ele, além de tudo, I]descompunha minha coleção de livros.,
+	      desordenar: Um vírus pode I]desordenar o sistema de diretórios nos discos., 
+	      disturbar: Fortinbras refaz o equilíbrio que as personagens da tragédia I]disturbaram.,
+	      entortar: Em outras ocasiões poéticas, advertiu que se o verso dele não dava certo, a culpa cabia ao ouvido do leitor, que [entortara.,
+	      revirar: Um erro nessa decisão pode entornar o caldo e [revirar as linhas do tal gráfico.,
+	      transtornar: Mas isto seria I]transtornar a ordem do conto.,}
+
+Chave: DESAJUSTAR <verb.change>
+ILI: 00269111
+
+Sense 2
+{00269111} <verb.change> disarrange -- (disturb the arrangement of; "disarrange the papers")
+       => {00267382} <verb.change> disorder, disarray -- (bring disorder to)
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

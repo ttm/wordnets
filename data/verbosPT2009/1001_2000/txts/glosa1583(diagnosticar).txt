@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA1583
+
+DADO O SYNSET:
+
+S='Glosa1583'
+{detectar: Pesquisadores portugueses [detectaram o vírus HIV em bolhas na pele de uma mulher com Aids.,
+ diagnosticar: Os médicos [diagnosticaram uma neuro-toxoplasmose (infecção causada por um protozoário, que ataca o sistema nervoso central) .,
+ identificar: O médico deve procurar I]identificar qual doença que cada paciente tem. ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1583' = “determinar ou distinguir a natureza de um problema ou uma doença por meio de uma análise diagnóstica” 
+{detectar: Pesquisadores portugueses [detectaram o vírus HIV em bolhas na pele de uma mulher com Aids.,
+ diagnosticar: Os médicos [diagnosticaram uma neuro-toxoplasmose (infecção causada por um protozoário, que ataca o sistema nervoso central) .,
+ identificar: Cientistas nos EUA [identificaram um gene responsável pelo relógio biológico nos mamíferos.,}
+Chave: DIAGNOSTICAR <verb.cognition>
+ILI: 00624898
+
+Sense 1
+{00624898} <verb.cognition> diagnose, name -- (determine or distinguish the nature of a problem or an illness through a diagnostic analysis)
+       => {00623929} <verb.cognition> analyze, analyse, study2, examine, canvass2, canvas2 -- (consider in detail and subject to an analysis in order to discover essential features or meaning; "analyze a sonnet by Shakespeare"; "analyze the evidence in a criminal trial"; "analyze your real motives")

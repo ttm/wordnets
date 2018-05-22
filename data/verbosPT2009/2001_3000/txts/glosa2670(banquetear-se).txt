@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA2670
+
+DADO O SYNSET:
+
+S='Glosa2670'
+	    {banquetear-se: Atraídos pelo cheiro que saía do palácio, mudaram-se para lá aos milhares e passaram, imediatamente, a I]banquetear-se com os queijos reais.,
+	      repastar-se: Os povos interplanetários, todos os mundo do infinito regozijavam-se, bebendo do seu melhor néctar e I]repastavam-se em festas.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2670' = “Participar de um banquete.”
+	    {banquetear-se: Juca I]banqueteou-se à vontade e ficou muito satisfeito,com a galinha caipira servida.,
+	      repastar-se: Os povos interplanetários regozijavam-se, bebendo do seu melhor néctar e I]repastavam-se em festas.,}
+
+Chave: BANQUETEAR-SE
+ILI: 01149800
+
+Sense 2
+{01149800} <verb.consumption> feast, banquet, junket -- (partake in a feast or banquet)
+       => {01130349} <verb.consumption> eat1 -- (eat a meal; take a meal; "We did not eat until 10 P.M. because there were so many phone calls"; "I didn't eat yet, so I gladly accept your invitation")
+           => {01121136} <verb.consumption> consume, ingest, take in, take, have -- (serve oneself to, or consume regularly; "Have another bowl of chicken soup!"; "I don't take sugar in my coffee")

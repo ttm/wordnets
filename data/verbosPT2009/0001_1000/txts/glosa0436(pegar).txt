@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA0436
+
+DADO O SYNSET:
+
+S='Glosa436'
+{apanhar: As armas são prevenção porque não temos intenção de [apanhar o animal agora.,
+caçar: Sem o respeito à ecologia, não há animais para [caçar nem peixes para pescar.,
+pegar: Não pesco fêmea ovada, nem filhote e não uso armadilha para [pegar os bichos.,}
+A='Glosa815'
+{libertar, soltar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa436' = “suceder em capturer ou agarrar, especialmente após uma perseguição”
+{apanhar: As armas são prevenção porque não temos intenção de [apanhar o animal agora.,
+caçar: Sem o respeito à ecologia, não há animais para [caçar nem peixes para pescar.,
+pegar: Não pesco fêmea ovada, nem filhote e não uso armadilha para [pegar os bichos.,}
+A='Glosa815'
+{libertar, soltar}
+Chave: PEGAR <verb.contact>
+ILI: 01178666
+
+Sense 5
+{01178666} <verb.contact> get9, catch1, capture1 -- (succeed in catching or seizing, especially after a chase; "We finally got the suspect"; "Did you catch the thief?")
+       => {01175818} <verb.contact> seize, prehend, clutch -- (take hold of; grab; "The salesclerk quickly seized the money on the counter"; "She clutched her purse"; "The mother seized her child by the arm"; "Birds of prey often seize small mammals")
+           => {01177510} <verb.contact> take, get hold of -- (get into one's hands, take physically; "Take a cookie!"; "Can you take this bag, please")

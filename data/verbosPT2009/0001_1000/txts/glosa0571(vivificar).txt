@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0571
+
+DADO O SYNSET:
+
+S='Glosa571'
+{animar: A defesa da minha luneta fora devida à incredulidade materialista, que o levava até o selvagem extremo de negar a existência do espírito que [anima o homem.,
+animizar: Restaurou o valor do adjetivo, dando-lhe relevo na frase e usando-o como forma de I]animizar e dar sentido humano aos dados objetivos.,
+vivificar: Mas o Espírito I]vivifica unicamente os membros que se encontram no corpo que ele vivifica.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa571' = “tornar vivo, animado”
+{animar: A defesa da minha luneta fora devida à incredulidade materialista, que o levava até o selvagem extremo de negar a existência do espírito que [anima o homem.,
+animizar: Restaurou o valor do adjetivo, dando-lhe relevo na frase e usando-o como forma de I]animizar e dar sentido humano aos dados objetivos.,
+vivificar: Mas o Espírito I]vivifica unicamente os membros que se encontram no corpo que ele vivifica.,}
+Chave: VIVIFICAR <verb.change>
+ILI: 00186189
+
+Sense 1
+{00186189} <verb.change> enliven, liven, liven up, invigorate, animate -- (make lively; "let's liven up this room a bit")
+       => {00022265} <verb.body> stimulate, arouse, brace, energize, energise, perk up1 -- (cause to be alert and energetic; "Coffee and tea stimulate me"; "This herbal infusion doesn't stimulate")
+           => {00019146} <verb.body> affect -- (act physically on; have an effect upon)
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

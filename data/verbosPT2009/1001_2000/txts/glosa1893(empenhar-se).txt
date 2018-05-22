@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA1893
+
+DADO O SYNSET:
+
+S='Glosa1893'
+{aplicar-se: Entretanto o compadre [aplicava-se a trabalhar na realização de seus intentos, e começou por ensinar o ABC ao menino; porém, por primeira contrariedade, este empacou no F, e nada o fazia passar adiante.,
+ apostar-se: H]Apostou-se em auxiliar os filhos.,
+ desvelar-se1: I]Desvelava-se a boa mãe em desenvolver cautelosamente no coração do filhinho os germes do bem.,
+ empenhar-se: Sucessor de Miguel Arraes, que fora exilado pelo governo militar, Guerra [empenhava-se em fazer a administração normalizar-se.,
+ empenhorar-se: x,
+ envidar-se: H]Envidou-se em provar sua capacidade.,
+ esforçar-se: Quando com os olhos fitos naquela graciosa visão ele [esforçava-se por adivinhar a causa de tão súbita alegria, a índia soltou um segundo grito selvagem, um grito terrível.,
+ esmerar-se: Ele I]esmerava-se em escrever com a letra nédia, caligraficamente perfeita. ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1893' = “esforçar-se empregando empenho”
+{aplicar-se: Entretanto o compadre [aplicava-se a trabalhar na realização de seus intentos, e começou por ensinar o ABC ao menino; porém, por primeira contrariedade, este empacou no F, e nada o fazia passar adiante.,
+ desvelar-se1: I]Desvelava-se a boa mãe em desenvolver cautelosamente no coração do filhinho os germes do bem.,
+ empenhar-se: Sucessor de Miguel Arraes, que fora exilado pelo governo militar, Guerra [empenhava-se em fazer a administração normalizar-se.,
+ envidar-se: Contudo, os membros dessa Comissão se I]envidaram no sentido de se chegar no objetivo.,
+ esforçar-se: Quando com os olhos fitos naquela graciosa visão ele [esforçava-se por adivinhar a causa de tão súbita alegria, a índia soltou um segundo grito selvagem, um grito terrível.,
+ esmerar-se: Ele I]esmerava-se em escrever com a letra nédia, caligraficamente perfeita.,}
+Chave: EMPENHAR-SE <verb.social>
+ILI: 02455962
+
+Sense 1
+{02455962} <verb.social> endeavor, endeavour, strive -- (attempt by employing effort; "we endeavor to make our customers happy")
+       => {02454930} <verb.social> try, seek, attempt, essay, assay -- (make an effort or attempt; "He tried to shake off his fears"; "The infant had essayed a few wobbly steps"; "The police attempted to stop the thief"; "He sought to improve himself"; "She always seeks to do good in the world")
+           => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA2909
+
+DADO O SYNSET:
+
+S='Glosa2909'
+	    {aloirar: Ainda mais com a tentadora possibilidade de, em poucas linhas de conversa, I]aloirar os cabelos e emagrecer uns três quilinhos.,
+	      alourar: Podemos mencionar, por exemplo, a tortura diária de andar com sapatos de saltos altos, depilar as sobrancelhas, depilar as pernas e axilas com ceras dos mais variados tipos (todos dolorosos), produtos químicos para esticar, enrolar, I]alourar ou escurecer o cabelo, horas e mais horas na academia tentando aumentar isso, diminuir aquilo, sem mencionar as operações plásticas para mudar várias partes do corpo para fazê-las conforme um ideal de beleza muitas vezes completamente alheio ao nosso tipo físico.,
+	      enloirar: Depois de I]enloirar de vez a gata agora de piercing no queixo?,
+	      enloirecer: No sábado de manhã fui na cabeleleira para I]enloirecer os cabelos.,
+	      enlourar: x,
+	      enlourecer: A apresentadora de TV vê o estereótipo da loira burra como a parte mais incômoda do I]enlourecer.,
+	      flavescer: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2909' = “tornar o cabelo loiro”
+	    {aloirar: Alongou os cabelos com megahair e I]aloirou as madeixas.,
+	      alourar: A escritora feminista George Sand, aquela que implantou o uso das calças masculinas, bengalas e cartola, e fumava em público, I]alourava os cabelos curtos.,
+	      enloirar: Eu prometi falar mau do melvin aqui pra ele se sentir famoso de novo... voltando aos velhos tempos da primeira vez que ele I]enloirou o cabelo,
+	      enloirecer: No sábado de manhã fui na cabeleleira para I]enloirecer os cabelos.,
+	      enlourecer: A apresentadora de TV vê o estereótipo da loira burra como a parte mais incômoda do I]enlourecer.,}
+Chave: ALOIRAR <verb.change>
+ILI: EQ_HAS_HYPERONYM - 00302983
+
+Sense 1 
+
+{00302983} <verb.change> brighten1, lighten up, lighten1 -- (make lighter or brighter; "The paint will brighten the room")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

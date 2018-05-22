@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA3468
+
+DADO O SYNSET:
+
+S='Glosa3468'
+	    {
+	      abaixar: Algumas drogas são usadas para ]abaixar o nível de colesterol.,
+	      baixar: A âncora cambial foi o instrumento utilizado para ]baixar a inflação/Nosso desafio será ]baixar a taxa de trabalhadores sem terra,
+	      cortar: Prefeito também cancela verba para o metrô, alegando necessidade de [cortar despesas para concluir projetos/O ministro José Serra tinha que se preocupar em privatizar mais, [cortar o déficit fiscal e controlar o orçamento do Tesouro,
+	      decair: Assim que a velocidade e a altitude da órbita vão [decaindo através das manobras de reentrada em S, o veículo passa a funcionar como um planador,
+	      decrescer: A velocidade [decresce rapidamente/A corrente cresce até chegar a um valor máximo em uma direção, logo começa a [decrescer, chega a zero...,
+	      diminuir: Decidiu introduzir profundas alterações nas forças de segurança, [diminuindo as forças armadas de 7.500 para 1.500 homens, ,
+	      minuir: x,
+	      reduzir: Em virtude dos massacres a que foi submetida, [reduziu-se para 161 000 indivíduos, segundo o censo de 1976/]Reduzir a velocidade em pistas escorregadias,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3468' = “reduzir, fazer uma redução”
+	     {abaixar: O Governo do Estado I]abaixou os preços de algumas linhas.,
+	      baixar: O grupo Schahin Cury [baixou seu preço de US$ 245 milhões para US$ 180 milhões e ganhou a concorrência,
+	      cortar: No Orçamento deste ano o governo [cortou cerca de 40% das despesas da máquina administrativa e dos investimentos,
+	      decair: O índice acetabular médio final I]decaiu para 26,3 graus,
+	      decrescer: A velocidade [decresce rapidamente/A corrente cresce até chegar a um valor máximo em uma direção, logo começa a [decrescer, chega a zero...,
+	      diminuir: A onda de inadimplência I]diminuiu, os boatos sobre bancos em dificuldade cessaram, mas nem por isso as preocupações dos banqueiros diminuíram ,
+	      reduzir: O BC também [reduziu o prazo dos empréstimos e fixou em cinco anos o limite máximo de tempo desses financiamentos,}
+Chave: REDUZIR <verb.change>
+ILI: EQ_NEAR_SYNONYM - 00416885
+
+Sense 1
+{00416885} <verb.change> reduce, cut down, cut back1, trim, trim down, trim back, cut6, bring down -- (cut down on; make a reduction in; "reduce your daily fat intake"; "The employer wants to cut back health benefits")
+       => {00428838} <verb.change> decrease1, lessen2, minify -- (make smaller; "He decreased his staff")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

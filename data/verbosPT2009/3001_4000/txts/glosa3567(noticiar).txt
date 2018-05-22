@@ -1,0 +1,38 @@
+ANÁLISE DA GLOSA3567
+
+DADO O SYNSET:
+
+S='Glosa3567'
+{anunciar: Depois de [anunciar em uma crônica que estava com Aids, Caio passou a usar de bom humor e ironia para tratar de sua própria morte. ,
+	 comunicar: A deputada  ligou para seu colegapara [comunicar que aderiu à defesa da coligação do PT com o PDT nas eleições do Rio. / Fiz questão de [comunicar minha saída aos ministros. ,
+	 contar: Tenho uma história linda para [contar. ,
+	 dar: Preferimos não lhe [dar a notícia.,
+	 informar: Viemos solicitar-lhes o obséquio de nos [informar o que está acontecendo.,
+	 noticiar: Ao [noticiar o caso, a agência de notícias disse que o espião foi detido no fim de abril e está atualmente na prisão.,
+	 notificar: A imprensa há muito afastou-se da função de I]notificar o fato e assumiu ares de julgadora.,
+	 participar: Qualquer iate que se retirar deverá I]participar o fato. ,
+	 relatar: Ele convidava regularmente um grupo de psicólogos para visitar o instituto e [relatar os recentes avanços de sua área. ,
+	 reportar: No trabalho que fiz até hoje, há a intenção de [reportar o que ocorre.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3567' = “tornar conhecido; fazer um anúncio”
+{anunciar: Depois de [anunciar em uma crônica que estava com Aids, Caio passou a usar de bom humor e ironia para tratar de sua própria morte.,
+	 comunicar: A deputada  ligou para seu colega para [comunicar que aderiu à defesa da coligação do PT com o PDT nas eleições do Rio.,
+	 contar: Tenho uma história linda para [contar.,
+	 dar: Preferimos não lhe [dar a notícia.,
+	 informar: Viemos solicitar-lhes o obséquio de nos [informar o que está acontecendo.,
+	 noticiar: Ao [noticiar o caso, a agência de notícias disse que o espião foi detido no fim de abril e está atualmente na prisão.,
+	 notificar: A imprensa há muito afastou-se da função de I]notificar o fato e assumiu ares de julgadora.,
+	 participar: Qualquer iate que se retirar deverá I]participar o fato.,
+	 relatar: Ele convidava regularmente um grupo de psicólogos para visitar o instituto e [relatar os recentes avanços de sua área.,
+	 reportar: No trabalho que fiz até hoje, há a intenção de [reportar o que ocorre.}
+Chave: NOTICIAR <verb.communication>
+ILI: 00942334
+
+Sense 1 
+{00942334} <verb.communication> announce, denote2 -- (make known; make an announcement; "She denoted her feelings clearly")
+       => {00804489} <verb.communication> inform -- (impart knowledge of some fact, state or affairs, or event to; "I informed him of his rights")
+           => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+               => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

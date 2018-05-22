@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA3247
+
+DADO O SYNSET:
+
+S='Glosa3247'
+	    {
+	      abreviar: A] Abrevia o seu estilo ao de anatole France.,
+	      acomodar: Embalaram-se no populismo e no fisiologismo exaltados, que acabou [acomodando esse populismo econômico-social com um imobilismo político desastroso. ,
+	      ajustar: O desacordo entre o direito formalizado e as exigências de equidade se faz mais aparente quando tem lugar um desenvolvimento social sem que a legislação vá [ajustando suas normas às novas condições.,
+	      justar2: A advogada Kate Fox, interpretada por Alicia em Miss Match, que estréia no dia 22 de outubro na FOX, tenta I]justar casais.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3247' = “fazer correspondente ou semelhante”
+	     {abreviar: A] Abrevia o seu estilo ao de Anatole France.,
+	      acomodar: Lúcio Costa fez uma acertada leitura do sítio e I]acomodou seu projeto à forma do mesmo. ,
+	      ajustar: A estratégia do PFL se [ajusta a do PSDB, que também quer deixar os prefeitos de fora da reeleição.,
+	      justar2: A advogada Kate Fox, interpretada por Alicia em Miss Match, que estréia no dia 22 de outubro na FOX, tenta I]justar casais.,}
+
+Chave: AJUSTAR <verb.change>
+ILI: 00288920
+
+Sense 4
+{00288920} <verb.change> adjust3 -- (make correspondent or conformable; "Adjust your eyes to the darkness")
+       => {00290397} <verb.change> adapt1, accommodate -- (make fit for, or change to suit a new purpose; "Adapt our native cuisine to the available food resources of the new country")
+           => {00118358} <verb.change> change2, alter, vary1 -- (make or become different in some particular way, without permanently losing one's or its former characteristics or essence; "her mood changes in accordance with the weather"; "The supermarket's selection of vegetables varies according to the season")

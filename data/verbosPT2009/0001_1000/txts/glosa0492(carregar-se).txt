@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0492
+
+DADO O SYNSET:
+
+S='Glosa492'
+{carregar-se: Qual a massa de ferro que se forma ao [se carregar o alto-forno com hematita?.,}
+A='Glosa491'
+{descarregar-se, esvaziar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa492' = “preencher, pôr carga dentro ou sobre”
+{carregar-se: Podemos dizer que quanto maior o valor do capacitor maior será o tempo necessário para I]ele se carregar.,}
+A='Glosa491'
+{descarregar-se, esvaziar-se}
+Chave: CARREGAR-SE <verb.contact>
+ILI: 01447785
+
+Sense 1
+{01447785} <verb.contact> load1, lade1, laden1, load up -- (fill or place a load on; "load a car"; "load the truck with hay")
+       => {00439460} <verb.change> fill1, fill up, make full -- (make full, also in a metaphorical sense; "fill a container"; "fill the child with pride")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA2944
+
+DADO O SYNSET:
+
+S='Glosa2944'
+	    {abrir: O para-choque do ônibus bateu contra a cabeça do cachorro e I]abriu a cabeça do coitado, espalhando sangue e miolos para todos os lados.,
+	      arrunhar: x,
+	      atassalhar: x,
+	      dilacerar: A hélice I]dilacerou na hora a perna direita do iatista. ,
+	      esfarrapar: x,
+	      esfrangalhar: x,
+	      espandongar: x,
+	      farrapar: x,
+	      frangalhar: x,
+	      lacerar: Mas a bala I]lacerou seu corpo e saiu pelo peito.,
+	      rasgar: Eu sigo em frente, jogando as máscaras para suavizar o corte profundo que I]rasgou seu corpo e fez Rosito morrer numa madrugada de novembro de 1997.,
+	      romper: Só que ele não esperava que, tão forte foi o tapa que I]rompeu uma veia da mão da menina.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2944' = “Cortar ou despedaçar de forma irregular”
+	    {abrir: O para-choque do ônibus bateu contra a cabeça do cachorro e I]abriu a cabeça do coitado, espalhando sangue e miolos para todos os lados.,
+	      dilacerar: A hélice I]dilacerou na hora a perna direita do iatista.,
+	      lacerar: Mas a bala I]lacerou seu corpo e saiu pelo peito.,
+	      rasgar: Eu sigo em frente, jogando as máscaras para suavizar o corte profundo que I]rasgou seu corpo e fez Rosito morrer numa madrugada de novembro de 1997.,}
+Chave: DILACERAR <verb.contact>
+ILI: 01516246
+
+Sense 1
+{01516246} <verb.contact> lacerate -- (cut or tear irregularly)
+       => {01529981} <verb.contact> tear, rupture, snap1, bust2 -- (separate or cause to separate abruptly; "The rope snapped"; "tear the paper")
+           => {01513899} <verb.contact> separate1, disunite, divide1, part1 -- (force, take, or pull apart; "He separated the fighting children"; "Moses parted the Red Sea")
+               => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant") 

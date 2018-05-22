@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA1012
+
+DADO O SYNSET:
+
+S='Glosa1012'
+{cozer: Deixe [cozer, até que o vinho evapore totalmente. # Mantenha a lata suspensa, amarrada com barbantes, erguendo dois terços para fora e deixando [cozer três minutos.,
+ cozinhar: Para a menina a lista inclui a caça de peixe, [cozinhar sagu, carregar uma criança, ou outras circunstâncias.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1012' = “preparar uma refeição quente”
+{cozer: Usando uma técnica artesanal que nada mudou até hoje, os criadores [cozem o milho em água e sal.,
+ cozinhar: Stone [cozinhou um tipo de arroz doce servido nos monastérios tibetanos.,}
+Chave: COZINHAR <verb.creation>  
+ILI: 01617913
+
+Sense 1
+{01617913} <verb.creation> cook1 -- (prepare a hot meal; "My husband doesn't cook")
+       => {01606076} <verb.creation> create from raw material, create from raw stuff -- (make from scratch)
+           => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA1384
+
+DADO O SYNSET:
+
+S='Glosa1384'
+{desatascar: Parei para I]desatascar uma Ford F4000,
+ desatolar: O comboio ajudou a [desatolar dois caminhões pesados,
+ desembarrancar: H]Desembarranquei um carro de bois,
+ desenvasar: x,}
+	  
+A='Glosa704'
+{atascar, atolar1}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1384' = “tirar do atoleiro, da lama”
+{desatascar: Parei para I]desatascar uma Ford F4000.,
+ desatolar: O comboio ajudou a [desatolar dois caminhões pesados.,}
+A='Glosa704'
+{atascar, atolar1}
+Chave: DESATOLAR
+ILI: EQ_HAS_HYPERONYM – 01311287 – “puxar ou arrancar, geralmente com certo esforço”
+
+Sense 3
+{01311287} <verb.contact> extract4, pull out, pull10, pull up, take out9, draw out5 -- (draw or pull out, usually with some force or effort; also used in an abstract sense; "pull weeds"; "extract a bad tooth"; "take out a splinter"; "extract information from the telegram")
+       => {00166870} <verb.change> remove, take, take away1, withdraw1 -- (remove something concrete, as by lifting, pushing, taking off, etc. or remove something abstract; "remove a threat"; "remove a wrapper"; "Remove the dirty dishes from the table"; "take the gun from your pocket"; "This machine withdraws heat from the environment")

@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0608
+
+DADO O SYNSET:
+
+S='Glosa608'
+{contaminar: Assim, fezes depositadas em iugares inadequados acabam por [contaminar a própria água que se bebe: os micróbios eliminados com as fezes chegam à água, são ingeridos e causam doenças.,
+poluir: Devagarzinho, devagarzinho, os paliteiros voltaram a [poluir a Praia de Copacabana, mas as providências já foram tomadas.,}
+A='Glosa1512'
+{descontaminar, despoluir, higienizar}
+	
+A ANÁLISE RESULTA EM:
+
+S='Glosa608' = “tornar impuro, sujar”
+{contaminar: Assim, fezes depositadas em lugares inadequados acabam por [contaminar a própria água que se bebe: os micróbios eliminados com as fezes chegam à água, são ingeridos e causam doenças.,
+poluir: Devagarzinho, devagarzinho, os paliteiros voltaram a [poluir a Praia de Copacabana, mas as providências já foram tomadas.,}
+A='Glosa1512'
+{descontaminar, despoluir, higienizar}
+Chave: CONTAMINAR <verb.change>
+ILI: 00479356
+
+Sense 1
+{00479356} <verb.change> pollute, foul3, contaminate -- (make impure; "The industrial wastes polluted the lake")
+       => {01491650} <verb.contact> dirty, soil, begrime, grime, colly, bemire -- (make soiled, filthy, or dirty; "don't soil your clothes when you play outside!")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

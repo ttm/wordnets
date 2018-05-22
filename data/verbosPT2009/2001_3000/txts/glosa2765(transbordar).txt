@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA2765
+
+DADO O SYNSET:
+
+S='Glosa2765'
+	    {circunfluir: x,
+	      derramar1: Nele, a criança teria que descascar uma cebola com um facão, sem [derramar sequer uma lágrima.,
+	      desbordar: os recipientes A]desbordavam.,
+	      esbordar: x,
+	      esborrar: Xexéu foi reclamar e ligaram a bomba da caixa, que estava cheia e I]esborrou.,
+	      extravasar: Em usinas desse tipo, o vertedouro é utilizado praticamente na totalidade do tempo para I]extravasar o excesso de água.,
+	      redundar: O rio A]redundou.,
+	      transbordar: Tietê e córrego Aricanduva [transbordam, causam uma morte e 137 km de congestionamentos.,
+	      trasbordar: “Cinquenta e cinco anos e cinquenta e cinco enchentes que enfrentei”, diz lembrando que um dia de sol o rio começou a encher e I]trasbordar. ,
+	      verter: Ora, nesse mesmo Capítulo, [verteu ela umas lágrimas, que enxugou sem explicar, e que nenhum dos presentes nem tio Cosme, nem prima Justina, nem o agregado José Dias entendeu absolutamente: eu, que estava atrás da porta, não as entendi mais que eles.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2765' = “Inundar ou sair fora de (um limite ou borda)” 
+	    {derramar1: A banheira estava cheia até a borda, e quando ele entrou, uma certa quantidade de água I]derramou sobre o piso de pedra.,
+	      esborrar: O problema foi que a descarga emperrou e água I]esborrou por todo banheiro.,
+	      extravasar: A lagoa I]extravasou e as águas mais adiante originaram um novo rio.,
+	      transbordar: A lagoa de captação do Panatis 2, em frente à casa dela, não comportou o volume trazido pela enxurrada e I]transbordou pela rua Laureano Gomes.,
+	      trasbordar: Foi no verão, num mês de janeiro bastante chuvoso em que a água do lago I]trasbordou vindo dar próximo à soleira da casinha onde ficava o tanque de lavar.,
+	      verter: A água I]verteu em todos os demais reservatórios.,}
+
+Chave: TRASNBORDAR <verb.motion>
+ILI: 02013558
+
+Sense 1
+{02013558} <verb.motion> overflow, overrun, well over, run over, brim over -- (flow or run over (a limit or brim))
+       => {02011305} <verb.motion> spill, run out -- (flow, run or fall out and become lost; "The milk spilled across the floor"; "The wine spilled onto the table")
+           => {02008364} <verb.motion> run1, flow, feed4, course -- (move along, of liquids; "Water flowed into the cave"; "the Missouri feeds into the Mississippi")
+               => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right") 

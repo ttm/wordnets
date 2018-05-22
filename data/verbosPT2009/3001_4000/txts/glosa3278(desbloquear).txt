@@ -1,0 +1,50 @@
+ANÁLISE DA GLOSA3278
+
+DADO O SYNSET:
+
+S='Glosa3278'
+	    {
+	      abrir: Em alguns casos é necessário I]abrir os caminhos ao óvulo e aos espermatozóides.,
+	      aplainar: E quando os antigos habitantes voltavam, ou novos moradores chegavam à região, o hábito normal era simplesmente I]aplainar as ruínas e construir uma nova.,
+	      aplanar: Já não é alguém que vem I]aplanar os caminhos daquele que há de vir, mas Aquele que veio e nos abre e mostra o caminho.,
+	      desalagar: A]Desalagou o bairro de malandros.,
+	      desbloquear: A polícia continuava ontem com suas operações para I]desbloquear uma estrada estratégica que liga Pristina, capital de Kosovo, com Pec.,
+	      descongestionar: A proposta é criar dois novos acessos que possibilitem I]descongestionar a entrada da avenida Washington Luís e dar comodidade a quem precisa chegar ao aeroporto.,
+	      desembaraçar: Neste caso, sugere Lepenier, é preciso perseguir o itinerário da disciplina e I]desembaraçar o seu campo das ciências afins.,
+	      desempachar: H]Desempachou um armazém de mercadorias encalhadas.,
+	      desencalhar: Congresso dos EUA pode I]desencalhar plano energético.,
+	      desentaipar: x,
+	      desentravar: Quando as pessoas, por meio daquilo que vestem, sentem-se elas próprias, tendem a agir de forma mais natural e autêntica, fato que contribui para I]desentravar canais de comunicação e afastar obstáculos que impedem a aproximação de outrem.,
+	      desentulhar: Ocorre que são árvores velhas, que ameaçam a segurança dos estudantes, dos que transitam por ali e que precisam ser sacrificadas para I]desentulhar a paisagem urbana pra lá de comprometida.,
+	      desentupir: No caso dos maiores, mastigar um chiclete contribui para I]desentupir os ouvidos e aliviar a dor.,
+	      desestorvar: x,
+	      desimpedir: Têm de decidir o que fazer para I]desimpedir a rua, uma vez que não podem sair de casa com seus carros.,
+	      desobstruir: A angioplastia é uma técnica realizada com o objetivo de I]desobstruir uma ou mais artérias do coração.,
+	      despejar: Shell Brasil consegue autorização para I]despejar posto de gasolina.,
+	      laxar: x,
+	      livrar: Isso sem contar com aqueles galhos que tiramos de nossa frente para I]livrar a passagem pode estar pendurado um enorme ninho de maribondos. ,
+	      safar: A] Safou o caminho, e os passantes tiveram livre trânsito.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3278' = “tornar desobstruído”
+	     {abrir: A estrada I]abriu caminho ao cortar desníveis e morros e substitui a antiga rota Sete Curvas, conhecida pelo alto número de acidentes.,
+	      aplainar: Esse encontro-chave I]aplainou o caminho para a Conferência do Milênio das Nações Unidas, que ocorreu em setembro de 2000.,
+	      aplanar: O sacramento da Penitência ou Reconciliação I]aplana o caminho para cada um dos homens, mesmo quando sobrecarregados com graves culpas.,
+	      desbloquear: A Polícia Rodoviária Federal I]desbloqueou o quilômetro 364 da rodovia, perto de Miranorte (304 km de Palmas), na madrugada desta sexta-feira.,
+	      descongestionar: A trincheira I]descongestionou o trânsito no local e beneficiou os usuários de transporte coletivo com a diminuição no tempo das viagens para as regiões Norte .,
+	      desembaraçar: O trânsito de repente I]desembaraçou-se na esquina da Pacheco Leão e eu cruzei a frente do Jardim Botânico a 60 quilômetros por hora .,
+	      desentravar: O acordo I]desentrava negociações e cria um ponto zero para o zoneamento.,
+	      desentulhar: Em Vitória, Rubim I]desentulhou ruas e praias e fez grandes desaterros para a construção de praças.,
+	      desentupir: Então, Josefina foi a escola e I]desentupiu os buracos para que a água saísse.,
+	      desimpedir: A polícia I]desimpediu pontos de acesso bloqueados pelos manifestantes que se sentavam no chão e doze pessoas foram detidas para interrogatório.,
+	      desobstruir: Diante da abertura de negociações, o grupo I]desobstruiu as estradas.,
+	      livrar: Isso sem contar com aqueles galhos que tiramos de nossa frente para I]livrar a passagem pode estar pendurado um enorme ninho de maribondos. ,
+	      safar: A] Safou o caminho, e os passantes tiveram livre trânsito.,}
+Chave: DESBLOQUEAR <verb.contact>
+ILI: 01437192
+
+Sense 1
+{01437192} <verb.contact> unclog -- (become or cause to become unobstructed; "The chemical that we poured down the drain unclogged it")
+       => {01434122} <verb.contact> free1, disengage1 -- (free or remove obstruction from; "free a path across the cluttered floor")

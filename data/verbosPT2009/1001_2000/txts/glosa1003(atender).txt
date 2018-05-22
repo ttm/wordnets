@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA1003
+
+DADO O SYNSET:
+
+S='Glosa1003'
+{atender: O grande beneficiado foram os Estados Unidos que, para [atender às necessidades dos países europeus arrasados pela Guerra, passaram a conhecer um outro período de grande desenvolvimento econômico.,
+	 corresponder: Sou alguém que mereceu a confiança de outra pessoa e conseguiu [corresponder a essa expectativa.,
+ cumprir: São cidades equipadas para [cumprir este objetivo e de acordo com suas características, classificam-se em cidades balneárias, estações de águas, cidades litorâneas. ,
+	 realizar: Flamengo pagará US$ 2,5 milhões e atacante diz que vai [realizar um sonho.,
+	 satisfazer: Para [satisfazer as suas necessidades fisiológicas fundamentais, o homem tem que fazer uso dos produtos que pode lhe oferecer o meio em que vive.} 
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1003' = “atender às necessidades ou expectativas”
+{atender: Massola disse que o processo [atendeu às exigências do BID.,
+	 corresponder: A figura do rei [corresponde aos quesitos estéticos necessários à construção da «coisa pública».,
+ 	 cumprir: O Makro não [cumpriu o ritual de apresentação das notas fiscais.,
+	 realizar: Flamengo pagará US$ 2,5 milhões e atacante diz que vai [realizar um sonho.,
+	 satisfazer: Não estávamos [satisfazendo as expectativas dos funcionários.,}
+Chave: ATENDER <verb.stative> 
+ILI: 02591336
+
+Sense 3
+{02591336} <verb.stative> satisfy, fulfill, fulfil, live up to -- (fulfil the requirements or expectations of)
+       => {02587702} <verb.stative> meet1, fit1, conform to1 -- (satisfy a condition or restriction; "Does this paper meet the requirements for the degree?")
+           => {02578124} <verb.stative> match, fit4, correspond, check8, jibe, gibe, tally, agree -- (be compatible, similar or consistent; coincide in their characteristics; "The two stories don't agree in many details"; "The handwriting checks with the signature on the check"; "The suspect's fingerprints don't match those on the gun")
+               => {02584716} <verb.stative> equal, be7 -- (be identical or equivalent to; "One dollar equals 1,000 rubles these days!")

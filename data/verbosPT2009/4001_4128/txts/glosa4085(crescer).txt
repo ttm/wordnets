@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA4085
+
+DADO O SYNSET:
+
+S='Glosa4085'
+{crescer: A gente morava num lote de terra da prefeitura, em Cascavel, onde tinha muito pinho, não I]crescia nada.,
+desenvolver-se: A sorte é que não se I]desenvolve nada mais do que isso.,
+medrar: Por fim chegou a chuva que iria H]medrar as plantações.,
+pular: Na primavera, a vida H]pula nos campos.,
+subir: Tentei girar o objeto embaixo de alguns fiapos no mar, mas não I]subia nada, como era previsível.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4085' = “aumentar de tamanho através de processo natural”
+{crescer: Poti levou o cristão aonde [crescia um frondoso jatobá.,
+desenvolver-se: Se a semente é lançada em terreno insalubre, não consegue diferenciar-se e [desenvolver-se.,
+medrar: Por fim chegou a chuva que iria H]medrar as plantações.,
+pular: Exuberante natureza, onde tudo M]pula.,
+subir: A árvore já principia a A]subir.,}
+Chave: CRESCER <verb.change>
+ILI: 00224068
+
+Sense 3
+{00224068} <verb.change> grow2 -- (increase in size by natural process; "Corn doesn't grow here"; "In these forests, mushrooms grow under the trees")
+       => {00243643} <verb.change> develop -- (grow, progress, unfold, or evolve through a process of evolution, natural growth, differentiation, or a conducive environment; "A flower developed on the branch"; "The country developed into a mighty superpower"; "The embryo develops into a fetus"; "This situation has developed over a long time")
+           => {00223119} <verb.change> grow -- (become larger, greater, or bigger; expand or gain; "The problem grew too large for me"; "Her business grew fast")
+               => {00150804} <verb.change> increase -- (become bigger or greater in amount; "The amount of work increased")
+                   => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+                       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

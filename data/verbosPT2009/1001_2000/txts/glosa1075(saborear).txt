@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA1075
+
+DADO O SYNSET:
+
+S='Glosa1075'
+{delibar: Era-me grato petiscar, I]delibar aquela boa comida sergipana,
+ libar: x,
+ saborear: Ao princípio da tarde, costuma [saborear um gin tónico e à noite não dispensa o seu uísque.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1075' = “provar de maneira apreciativa” 
+{delibar: Era-me grato petiscar, I]delibar aquela boa comida sergipana,
+ saborear: O tucano [saboreou dois pedaços de pizza marguerita e dois de pizza de calabresa.,}
+Chave: SABOREAR <verb.perception> 
+ILI: 02131196
+
+Sense 3
+{02131196} <verb.perception> savor, savour -- (taste appreciatively; "savor the soup")
+       => {02128865} <verb.perception> taste -- (perceive by the sense of taste; "Can you taste the garlic?")
+           => {02045668} <verb.perception> perceive, comprehend -- (to become aware of through the senses; "I could perceive the ship coming over the horizon")

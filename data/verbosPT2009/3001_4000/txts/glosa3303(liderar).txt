@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA3303
+
+DADO O SYNSET:
+
+S='Glosa3303'
+	    {
+	      encabeçar: A Rede Brasileira de Educação Ambiental (Rebea), que I]encabeçava uma campanha de protesto, comemorou a decisão do ministro. ,
+	      liderar: Amaral disse à Folha que não [liderava o movimento.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3303' = “estar na frente ou no topo”
+	     {encabeçar: Brasil I]encabeça a lista de crescimento publicitário mundial. ,
+	      liderar: Doohan I]lidera a competição na classificação geral com 121 pontos, enquanto Barros está em quarto lugar.,}
+Chave: LIDERAR <verb.stative>
+ILI: 02613105
+
+Sense 7
+{02613105} <verb.stative> head -- (be in the front of or on top of; "The list was headed by the name of the president")
+       => {02609765} <verb.stative> lie -- (be located or situated somewhere; occupy a certain position)
+           => {02576058} <verb.stative> be5 -- (occupy a certain position or area; be somewhere; "Where is my umbrella?" "The toolshed is in the back"; "What is behind this behavior?")

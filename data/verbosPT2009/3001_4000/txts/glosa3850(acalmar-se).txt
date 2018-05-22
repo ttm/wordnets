@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA3850
+
+DADO O SYNSET:
+
+S='Glosa3850'
+{acalmar-se: Ela insiste uma segunda vez e não se aproveita da tempestade que a dissimula aos olhos destes guardas, porém espera que o vento se [acalme para prosseguir de maneira provocante em sua tarefa.,
+	 amainar: Quando o fogo [amainou, pelo meio-dia, as pessoas saíram dos abrigos.,
+	 aplacar: Só [aplacou essa chama quando ele tocou a terra, onde dormia sua esposa; porque nesse instante seu coração transudou, como o tronco do jataí nos ardentes calores, e orvalhou sua tristeza de lágrimas abundantes.,
+	 asserenar: O clima I]asserenou somente depois que o coordenador da bancada e dois técnicos do Ministério dos Transportes anunciaram que o Pará disporia também de R$ 18 milhões provenientes do financiamento concedido em 2002 pelo Banco Mundial ao governo brasileiro.,
+	 calmar-se: E apenas mediu, pesou, fixou estas duas resoluções, a sua grande cólera I]calmou-se.,
+	 melhorar: Somente a partir de amanhã o tempo deve [melhorar. ,
+	 placar: x,
+	 serenar: Enfim [serenou a tormenta.}
+	
+A ANÁLISE RESULTA EM:
+
+S='Glosa3850' = “tornar-se calmo ou menos intenso”
+{acalmar-se: Ela insiste uma segunda vez e não se aproveita da tempestade que a dissimula aos olhos destes guardas, porém espera que o vento se [acalme para prosseguir de maneira provocante em sua tarefa.,
+	 amainar: Quando o fogo [amainou, pelo meio-dia, as pessoas saíram dos abrigos.,
+	 aplacar: Só [aplacou essa chama quando ele tocou a terra, onde dormia sua esposa; porque nesse instante seu coração transudou, como o tronco do jataí nos ardentes calores, e orvalhou sua tristeza de lágrimas abundantes.,
+	 asserenar: O clima I]asserenou somente depois que o coordenador da bancada e dois técnicos do Ministério dos Transportes anunciaram que o Pará disporia também de R$ 18 milhões provenientes do financiamento concedido em 2002 pelo Banco Mundial ao governo brasileiro.,
+	 calmar-se: E apenas mediu, pesou, fixou estas duas resoluções, a sua grande cólera I]calmou-se.,
+	 melhorar: Somente a partir de amanhã o tempo deve [melhorar. ,
+	 serenar: Enfim [serenou a tormenta.}
+Chave: ACALMAR-SE <verb.change>
+ILI: 00542638
+
+Sense 2 
+{00542638} <verb.change> lull, calm down3 -- (become quiet or less intensive; "the fighting lulled for a moment")
+       => {00448470} <verb.change> hush1, quieten, silence, still, shut up, hush up -- (cause to be quiet or not talk; "Please silence the children in the church!")
+           => {00449069} <verb.change> suppress, stamp down, inhibit, subdue1, conquer, curb1 -- (to put down by force or authority; "suppress a nascent uprising"; "stamp down on littering"; "conquer one's desires")
+               => {02435410} <verb.social> control1, hold in, hold15, contain, check8, curb, moderate -- (lessen the intensity of; temper; hold in restraint; hold or keep within limits; "moderate your alcohol intake"; "hold your tongue"; "hold your temper"; "control your anger")
+                   => {02349665} <verb.social> restrain1, suppress3, keep, keep back, hold back -- (keep under control; keep in check; "suppress a smile"; "Keep your temper"; "keep your cool")
+                       => {02377053} <verb.social> prevent, keep1 -- (prevent from doing something or being in a certain state; "We must prevent the cancer from spreading"; "His snoring kept me from falling asleep"; "Keep the child from eating the marbles")

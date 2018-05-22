@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA1681
+
+DADO O SYNSET:
+
+S='Glosa1681'
+{amuar: Acusado de retranqueiro por todo mundo, Zagallo, como diriam nossos irmãos lá do além-mar, [amuou-se.,
+ emburrar: Cuidado com crianças muito pequenas, pois existe a possibilidade destas poderem chorar, I]emburrar e acabarem destoando do cerimonial.,
+ embuziar: x,
+ embuzinar1: x,}
+	  
+A='Glosa1274'
+{desamuar, desemburrar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1681' = “provocar amuo [a]”
+{amuar: Não se sabe exatamente o que ocorreu, se o consumidor final comprou menos ou se a inadimplência I]amuou o consumo no País.,
+ emburrar: Com um pouco de raiva de sua situação, ele I]emburrou o rosto.,}
+	  
+A='Glosa1274'
+{desamuar, desemburrar}
+Chave: EMBURRAR <verb.emotion>
+ILI: EQ_HAS_HYPERONYM – 01760546 – “tornar infeliz, descontente”
+
+Sense 1
+{01760546} <verb.emotion> sadden1 -- (make unhappy; `The news of her death saddened me')
+       => {01716999} <verb.emotion> affect, impress1, move, strike -- (have an emotional or cognitive impact upon; "This child impressed me as unusually mature"; "This behavior struck me as odd")

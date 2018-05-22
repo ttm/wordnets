@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0718
+
+DADO O SYNSET:
+
+S='Glosa718'
+{empurrar: Dizendo-se pesquisador do assunto há 30 anos, Castan declara que o filme de Steven Spielberg é uma farsa que estão [empurrando ao mundo.,
+impingir: Entre abril e maio de 1970, na região do Vale do Ribeira, cinco guerrilheiros comandados pelo ex-capitão Carlos Lamarca furam o bloqueio de 1.733 soldados, [impingindo uma humilhante derrota ao Exército Brasileiro.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa718' = “impor algo desagradável”
+{empurrar: Dizendo-se pesquisador do assunto há 30 anos, Castan declara que o filme de Steven Spielberg é uma farsa que estão [empurrando ao mundo.,
+impingir: Entre abril e maio de 1970, na região do Vale do Ribeira, cinco guerrilheiros comandados pelo ex-capitão Carlos Lamarca furam o bloqueio de 1.733 soldados, [impingindo uma humilhante derrota ao Exército Brasileiro.,}
+Chave: IMPINGIR <verb.communication>
+ILI: 00723747
+
+Sense 1
+{00723747} <verb.communication> inflict, bring down, visit1, impose -- (impose something unpleasant; "The principal visited his rage on the students")
+       => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+           => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+               => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA2638
+
+DADO O SYNSET:
+
+S='Glosa2638'
+	    {pagar: Como faço para I]pagar o saldo de minha conta?,
+	      resgatar: Você poderá I]resgata todo o dinheiro acumulado no fundo, ou transformá-lo em uma renda mensal.,
+	      saldar: O colonialismo ibérico destinou riquezas para o pagamento dos déficits comerciais, importações realizadas principalmente com a Inglaterra e para [saldar empréstimos realizados junto a banqueiros europeus.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2638' = “Cancelar ou solver uma dívida.”
+	    {pagar: A propriedade do bem é devolvida ao seu titular depois que ele I]pagou a dívida.,
+	      resgatar: O responsável não I]resgatou a dívida e apresentou elementos adicionais de defesa.,
+	      saldar: Salmoria I]saldou o empréstimo de R$ 85,61 – com uma entrada de R$ 29,00 e mais duas prestações de R$ 34,98.,}
+
+Chave: SALDAR <verb.possession>
+ILI: 02187999
+
+Sense 5
+{02187999} <verb.possession> pay up, ante up, pay4 -- (cancel or discharge a debt; "pay up, please!")
+       => {02188222} <verb.possession> pay14 -- (discharge or settle; "pay a debt"; "pay an obligation")
+           => {02189291} <verb.possession> settle -- (dispose of; make a financial settlement)
+               => {00988646} <verb.communication> arrange4, fix up -- (make arrangements for; "Can you arrange a meeting with the President?")
+                   => {00779329} <verb.communication> agree, hold15, concur, concord -- (be in accord; be in agreement; "We agreed on the terms of the settlement"; "I can't agree with you!"; "I hold with those who say life is sacred"; "Both philosophers concord on this point") 

@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2525
+
+DADO O SYNSET:
+
+S='Glosa2525'
+	    {ajeitar-se: O mínimo que se pode dizer, com boa vontade, é que Palocci foi presa fácil dos esquemas que controlavam o governo anterior e buscam I]ajeitar-se no governo atual.,
+	      remediar-se: Acreditamos fundamentalmente que toda a sociedade mexicana, como a sociedade internacional, estão convencidas de que a situação atual dos povos indígenas é insustentável e que isso deve I]remediar-se.,
+	      sanar-se: Penso, no entanto, que o defeito apontado pode I]sanar-se mediante projeto de lei que torne viável a execução da regra fixada no aludido parágrafo, e que pretendo oportunamente submeter à apreciação dos Senhores Membros do Congresso Nacional.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2525' = “Corrigir-se ou adequar-se”
+	    {ajeitar-se: Os anos passam e tudo I]se ajeita.,
+	      remediar-se: Só no século seguinte I]se remediou o mal.,
+	      sanar-se: Durante a fase de testes com a área piloto, I]sanou-se. problemas com polígonos do tipo ilha.,}
+
+Chave: REMEDIAR-SE <verb.change>
+ILI: 00192935
+
+Sense 4
+{00192935} <verb.change> rectify, remediate, remedy, repair2, amend1 -- (set straight or right; "remedy these deficiencies"; "rectify the inequities in salaries"; "repair an oversight")
+       => {00192682} <verb.change> correct, rectify2, right -- (make right or correct; "Correct the mistakes"; "rectify the calculation")
+           => {00133458} <verb.change> change by reversal, turn, reverse -- (change to the contrary; "The trend was reversed"; "the tides turned against him"; "public opinion turned when it was revealed that the president had an affair with a White House intern")
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night") 

@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA3921
+
+DADO O SYNSET:
+	
+S='Glosa3921'
+    	{eleger: A atriz Rosamaria Murtinho [elegeu uma amiga como sua representante.,
+      	 escolher: Porque não há outra palavra mais leve para se definir o clima em que o PSDB - note-se, o partido do presidente da República, a agremiação mais elegante do país - [escolheu seu candidato neste domingo .,
+      	 nomear: Para seu lugar, o ex-senador [nomeou a filha Myriam, mulher de Cabral .,
+      	 pôr: O Estado A]pôs 15 representantes por deputados.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3921' = “selecionar [alguém], por meio de voto, para um cargo ou para um quadro de associados”
+    	{eleger: E o Brasil é prova disto, tendo visto os grupos que deram guarida incondicional à ditadura e [elegeram corruptos como presidentes.,
+      	 escolher: Se esta autoridade não respeita a propriedade alheia e privada, imaginem os senhores que respeito ele oferece aos eleitores que o I]escolheram para o cargo.,
+      	 nomear: Cada eleitor I]nomeia apenas um ou poucos deputados numa assembléia composta ordinariamente de algumas centenas de deputados., 
+ pôr: Só pra vocês terem uma idéia de quem esse pessoal vai I]pôr no senado.}
+Chave: ELEGER <verb.social>
+ILI: 02328789
+
+Sense 1
+{02328789} <verb.social> elect -- (select by a vote for an office or membership; "We elected him chairman of the board")
+       => {00652154} <verb.cognition> choose, take1, select, pick out -- (pick out, select, or choose from a number of alternatives; "Take any one of these cards"; "Choose a good husband for your daughter"; "She selected a pair of shoes from among the dozen the salesgirl had shown her")
+           => {00674417} <verb.cognition> decide, make up one's mind, determine -- (reach, make, or come to a decision about something; "We finally decided after lengthy deliberations")

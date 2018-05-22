@@ -1,0 +1,37 @@
+ANÁLISE DA GLOSA1840
+
+DADO O SYNSET:
+
+S='Glosa1840'
+{adereçar1: H]Adereçou o salão para as festividades.,
+ aparelhar: Desejamos a integração do ensino com a vida, da universidade com a indústria, de modo a I]aparelhar o novo homem para exercer o seu papel na sociedade.,
+ aperceber: A]Aperceberam as naus para a longa travessia.  ,
+ aprestar: Convencido D. Manoel do quanto lhe seria aproveitável a exploração da nova terra descoberta por Álvares Cabral, mandou I]aprestar uma expedição composta de três caravelas.,
+ aprontar: Afinal, oito dias depois, D. Antônia mandou [aprontar a sege, e foi buscá-la.,
+ dispor: M]Dispôs tudo para a partida. ,
+ engatilhar: Aprendeu a I]engatilhar armas com seis anos de idade; com oito anos já tinha feito um curso de primeiros socorros, aprendido como atividade escolar.,
+ entabular: x,
+ preparar: Você teria, ainda, que I]preparar as suas próprias armas e se defender.,}
+	  
+A='Glosa1149'
+{desaparelhar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1840' = “deixar [algo] preparado para um propósito ou evento”
+{aparelhar: Pela fé, Noé, divinamente instruído acerca de acontecimentos que ainda não se viam e sendo temente a Deus, I]aparelhou uma arca para a salvação de sua casa.,
+ aprestar: Noé, porém, era homem. E, como tal, I]aprestou as armas de defesa.,
+ aprontar: Você já sabe o que vai ocorrer, por exemplo, quando um palhaço [apronta seu piquenique no campo um exército de formigas invade o ambiente.,
+ dispor: Instrumentador de cirurgia I]dispõe os instrumentos cirúrgicos sobre mesa apropriada, colocando na ordem de utilização.,
+ engatilhar: O presidente do Flamengo, Kleber Leite, tem [engatilhado um projeto do qual participariam a Antarctica, Umbro e Lojas Americanas.,
+ preparar: A Du Loren [preparou um anúncio ousado para o Dia dos Pais.,}
+	  
+A='Glosa1149'
+{desaparelhar}
+Chave: APRONTAR <verb.change>
+ILI: 00395680
+
+Sense 4
+{00395680} <verb.change> set up, lay out, set12 -- (get ready for a particular purpose or event; "set up an experiment"; "set the table"; "lay out the tools for the surgery")
+       => {00394129} <verb.change> fix3, prepare, set up2, ready, gear up, set9 -- (make ready or suitable or equip in advance for a particular purpose or for some use, event, etc; "Get the children ready for school!"; "prepare for war"; "I was fixing to leave town after I paid the hotel bill")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

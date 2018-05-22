@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA3120
+
+DADO O SYNSET:
+
+S='Glosa3120'
+	    {
+	      importar: Viveremos sempre essa bagunça sempre que a juventude I]importa modismos, denigre o patrimônio artístico-cultural e não está nem aí para o presente.,
+	      introduzir: Enquanto isso, no Brasil o francês Laurent Suaudeau [introduz sabores orientais e exóticos nos pratos de seu restaurante Laurent. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3120' = “trazer do exterior”
+	     {importar: A PF [importou cães das raças da Inglaterra e Canadá.,
+	      introduzir: Norueguês I]introduziu esporte nos EUA. ,}
+Chave: IMPORTAR <verb.possession>
+ILI: 02278526
+
+Sense 1
+{02278526} <verb.possession> import -- (bring in from abroad)
+       => {02195069} <verb.possession> trade1, merchandise -- (engage in the trade of; "he is merchandising telephone sets")

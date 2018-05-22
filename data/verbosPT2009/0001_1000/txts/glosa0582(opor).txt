@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0582
+
+DADO O SYNSET:
+
+S='Glosa582'
+{contrastar: Evidentemente o seu livro mais político, mais contestatório, começa por [contrastar duas imagens arquetípicas do imaginário português: a mulher e o mar. # Conversamos de Santa Sonora, de S. Carlos Maria e de Santa Fernanda, que para [contrastar com S. Gonçalo, fez-se casamenteira das moças.,
+opor: Eu penso que é difícil que alguém ouse [opor uma ideologia mitificada proposta por todo o lado sobre a qual se tem a idéia de inevitável,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa582' = “ir contra; expresser oposição a”
+{contrastar: Evidentemente o seu livro mais político, mais contestatório, começa por [contrastar duas imagens arquetípicas do imaginário português: a mulher e o mar. # Conversamos de Santa Sonora, de S. Carlos Maria e de Santa Fernanda, que para [contrastar com S. Gonçalo, fez-se casamenteira das moças.,
+opor: Eu penso que é difícil que alguém ouse [opor uma ideologia mitificada proposta por todo o lado sobre a qual se tem a idéia de inevitável,}
+Chave: OPOR <verb.communication>
+ILI: 00750217
+
+Sense 1
+{00750217} <verb.communication> oppose1 -- (be against; express opposition to; "We oppose the ban on abortion")
+       => {00747871} <verb.communication> argue, contend1, debate1, fence -- (have an argument about something)
+           => {00932753} <verb.communication> converse, discourse1 -- (carry on a conversation)
+               => {00930524} <verb.communication> talk1, speak1 -- (exchange thoughts; talk with; "We often talk business"; "Actions talk louder than words")
+                   => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                       => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                           => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

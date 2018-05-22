@@ -1,0 +1,49 @@
+ANÁLISE DA GLOSA3375
+
+DADO O SYNSET:
+
+S='Glosa3375'
+	    {
+	      abatocar: As alunas H]abatocaram o professor.,
+	      afobar: Não queira pressa para não I]afobá-lo e principalmente não lhe peça para pensar.,
+	      atrapalhar: Seus numerosos encargos A] atrapalharam-no.,
+	      confundir: Confesso que esta aparente contradição [confundiu-me.,
+	      emaranhar: x,
+	      embaraçar: O excesso de regras H]embaraça os estudantes.,
+	      embatocar: x,
+	      embatucar: A sutileza da jornalista H]embatucou o entrevistado.,
+	      empacar1: DEVIANT,
+	      empatar: x,
+	      engodilhar: H]Engodilhava mentes frágeis.,
+	      engrolar: H]Engrolou a mãe, dizendo que ia dormir na casa da amiga.,
+	      enlear: x,
+	      enlinhar: x,
+	      entrelaçar: x,
+	      entupir: A notícia inesperada H]entupiu a moça.,
+	      escachar: Ao mesmo tempo faziam assoalhar que o revisor bahiano do projecto, convidado a I]escachar-me, tinha na fragoa, a grandes baterias de martinete.,
+	      interlaçar: x,
+	      maranhar: x,
+	      perturbar: Só pode ser alguém que está querendo [perturbar minha vida.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3375' = “incomodar a mente ou tornar inquieto ou causar preocupação ou alarmar”
+	     {abatocar: As alunas H]abatocaram o professor.,
+	      afobar: A necessidade da vitória I]afobou a equipe da região de Sorocaba.,
+	      atrapalhar: O calor o I]atrapalhava.,
+	      confundir: A escuridão o I]confundia.,
+	      embaraçar: Esta questão I]embaraçava-o, mas meia dúzia de desenhos num caderno, feitos por um dos guardas, esclareceram-no completamente.,
+	      embatucar: A pergunta do senador Pedro Simon (PMDB-RS) I]embatucou o senador Renan Calheiros (PMDB-AL).,
+	      engodilhar: H]Engodilhava mentes frágeis.,
+	      engrolar: H]Engrolou a mãe, dizendo que ia dormir na casa da amiga.,
+	      entupir: A notícia inesperada H]entupiu a moça.,
+	      escachar: O suplicio I]escachava-lhe o espirito.,
+	      perturbar: Barulho de obra [perturba leitora.,}
+Chave: PERTURBAR <verb.emotion>
+ILI: 01713293
+
+Sense 1
+{01713293} <verb.emotion> perturb, unhinge, disquiet, trouble, cark, distract2, disorder -- (disturb in mind or make uneasy or cause to be worried or alarmed; "She was rather perturbed by the news that her father was seriously ill")
+       => {01719446} <verb.emotion> disturb, upset, trouble1 -- (move deeply; "This book upset me"; "A troubling thought")
+           => {01716999} <verb.emotion> affect, impress1, move, strike -- (have an emotional or cognitive impact upon; "This child impressed me as unusually mature"; "This behavior struck me as odd")

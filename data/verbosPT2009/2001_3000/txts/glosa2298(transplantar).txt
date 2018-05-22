@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA2298
+
+DADO O SYNSET:
+S='Glosa2298'
+	    {desplantar: H]Desplantou as flores do jardim para o canteiro.,
+	      transladar: x,
+	      transplantar: I]Transplantar é retirar a planta de um perfil menor ou berçário e colocar no perfil maior para proporcionar mais espaço para crescimento da planta.,
+	      trasladar: Considerando esse fator limitante, há que se projetar a cadeia de frio visando, mais do que estocar,I] trasladar as frutas da origem aos pontos de consumo, aumentando sua vida útil e preservando sua qualidade.,}
+
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2298' = “retirar uma planta de algum lugar e replantá-la em outro”
+	    {desplantar: H]Desplantou as flores do jardim para o canteiro.,
+	      transplantar: I]Transplantar é retirar a planta de um perfil menor ou berçário e colocar no perfil maior.,}
+
+Chave: TRANSPLANTAR <verb.motion>
+ILI: 01801502
+
+Sense 1
+{01801502} <verb.motion> transplant, transfer5 -- (lift and reset in another soil or situation; "Transplant the young rice plants")
+       => {01955676} <verb.motion> displace, force out -- (force to move; "the refugees were displaced by the war")
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant") 

@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA2571
+
+DADO O SYNSET:
+
+S='Glosa2571'
+	    {rastear: A morte de Ivan Ilych" de Tolstoy aborda uma relação similar ; Ivan está morrendo " e assim em seu leito de morte , ele tem a sensação de estar I]rasteando por um túnel longo negro e macio, semelhante a um intestino.,
+	      rastejar: O touro era amarrado pelos chifres por uma corda de 23 metros de extensão a uma estaca no centro de uma arena em forma de círculo e defendia-se com os chifres tentando cornear o abdome do cão, que desenvolveu  a tática de I]rastejar para proteger-se dessas investidas.,
+	      rastrear: x,
+	      rojar: Ver a azul borboleta que esvoaça, a suçuarana que raivada passa, e a cobra de coral I]rojar no pó!,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2571' = “Mover vagarosamente, no caso de pessoas ou animais, com o corpo perto do chão.”
+	    {rastear: Ele tem a sensação de estar I]rasteando por um túnel longo negro e macio, semelhante a um intestino.,
+	      rastejar: Torturado pela sede, ele I]rastejou até um pequeno lago, bebeu água e caiu no sono.,
+	      rojar: Ver a azul borboleta que esvoaça, a suçuarana que raivada passa, e a cobra de coral I]rojar no pó!,}
+
+Chave: RASTEJAR <verb.motion>
+ILI: 01831617
+
+Sense 1
+{01831617} <verb.motion> crawl, creep -- (move slowly; in the case of people or animals with the body near the ground; "The crocodile was crawling along the riverbed")
+       => {01782203} <verb.motion> travel, go, move3, locomote -- (change location; move, travel, or proceed; "How fast does your new car go?"; "We travelled from Rome to Naples by bus"; "The policemen went from door to door looking for the suspect"; "The soldiers moved towards the city in an attempt to take it before night fell") 

@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA2811
+
+DADO O SYNSET:
+
+S='Glosa2811'
+	    {rebramar: Era o trilar do inambu, o piar do macuco, o berrar do tucano, o grasnar gargalhado do jacu, o retinir da araponga, o chiar do serelepe, o I]rebramar do veado, o miar plangente, quase humano dos felinos.,
+	      rebramir: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2811' = “
+	    {rebramar: Cabrruuunnnn, brummmm, brumm, o trovão I]rebramou continuado.,}
+
+Chave: REBRAMAR <verb.communication>
+ILI: EQ_HAS_HYPERONYM - 01012485
+
+Sense 1
+{01012485} <verb.communication> roar1, howl1 -- (make a loud noise, as of wind, water, or vehicles; "The wind was howling in the trees"; "The water roared down the chute")
+       => {02110511} <verb.perception> make noise, resound, noise -- (emit a noise)
+           => {02113837} <verb.perception> sound, go -- (make a certain noise or sound; "She went `Mmmmm'"; "The gun went `bang'")
+               => {02062507} <verb.perception> cause to be perceived -- (have perceptible qualities) 

@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA3432
+
+DADO O SYNSET:
+
+S='Glosa3432'
+	{celebrar: um dos familiares começou a disparar a sua metralhadora para [celebrar o sétimo aniversário do fim da guerra/É tempo de celebrar,
+	 comemorar: Todos comemoravam o título num bar/Mesmo que os criminosos não sejam descobertos, a polícia já pode [comemorar uma vitória,
+	 festejar: Tínhamos que [festejar em um lugar significativo/Missa, bolo e eventos [festejam o aniversário do Rio de Janeiro,
+	 memorar: Convido vocês a atender o convite do comité nacional e ]memorar 14 de Março/ Para ]memorar, o restaurante lança um novo cardápio com 10 novos pratos. }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3432' = “ter uma festividade”
+	{celebrar: A]Celebrar um aniversário.,
+	 comemorar: Todos [comemoravam o título num bar.,
+	 festejar: Missa, bolo e eventos [festejam o aniversário do Rio de Janeiro.,
+	 memorar: Para I]memorar, o restaurante lança um novo cardápio com 10 novos pratos.}
+Chave: COMEMORAR <verb.social>
+ILI: 02416567
+
+Sense 2 
+{02416567} <verb.social> celebrate, fete -- (have a celebration; "They were feting the patriarch of the family"; "After the exam, the students were celebrating")
+       => {02412640} <verb.social> meet1, get together1 -- (get together socially or for a specific purpose)

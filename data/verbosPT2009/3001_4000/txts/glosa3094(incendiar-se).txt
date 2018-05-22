@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA3094
+
+DADO O SYNSET:
+
+S='Glosa3094'
+	    {
+	      abrasar-se: Chove fogo do céu, I]abrasam-se as cidades; e que fizeram os anjos executores desta justiça?,
+	      afoguear-se: x,
+	      ardejar: Nas viagens xamânicas pelos veios da rede sinto palpitar o sangue que ardeja orgânico.,
+	      arder: São combustíveis materiais que I]ardem tais como, panos, couros, papelões, madeira.,
+	      comburir-se: Nossa única árvore H]comburiu-se com a queimada.,
+	      combustar-se: x,
+	      esfoguear-se: x,
+	      foguear-se: x,
+	      ignificar-se: x,
+	      incendiar-se: Ele andou pelo mundo, viu uma cidade I]incendiar-se no crepúsculo, conheceu um vilarejo em que todos os homens têm o mesmo nome (homenagem a um padre).,
+	      queimar-se: Mito de origem egípcia mas venerado também pelos gregos; essa ave fabulosa vivia vários séculos; como não tinha fêmea, o modo de perpetuar a espécie era I]queimar-se em uma pira de ervas mágicas.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3094' = “destruir por fogo”
+	     {abrasar-se: Chove fogo do céu, I]abrasam-se as cidades; e que fizeram os anjos executores desta justiça?,
+	      ardejar: Nas viagens xamânicas pelos veios da rede sinto palpitar o sangue que I]ardeja orgânico.,
+	      arder: São combustíveis materiais que I]ardem tais como, panos, couros, papelões, madeira.,
+	      comburir-se: A paisagem enche-se de seiva e a vida superabunda, o ar torna-se anestesiante, a poesia enerva, o sol I]combure e mata.,
+	      incendiar-se: Um grupo de estudantes de Zen-budismo estava reunido numa casa de campo, quando o caseiro chegou contando uma tragédia nas redondezas; uma casa I]incendiou-se, deixando mãe e filha desabrigados.,
+	      queimar-se: Outra cópia, em posse da família, também I]queimou-se num incêndio em 1978.,}
+Chave: INCENDIAR-SE <verb.change>
+ILI: 00367013
+
+Sense 8
+{00367013} <verb.change> burn2, fire1, burn down2 -- (destroy by fire; "They burned the house and his diaries")
+       => {01520843} <verb.contact> destroy, ruin -- (destroy completely; damage irreparably; "You have ruined my car by pouring sugar in the tank!"; "The tears ruined her make-up")

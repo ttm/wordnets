@@ -1,0 +1,18 @@
+ANÁLISE DA GLOSA3254
+
+DADO O SYNSET:
+
+S='Glosa3254'
+	    {
+	      cerar: x,
+	      lacrar: A Vigilância Sanitária de Florianópolis [lacrou a tubulação da rede de esgoto do Hotel Joaquina Beach, na praia da Joaquina. ,
+	      selar1: Antes de [selar de novo no ponto de vazamento, o cabo deverá ser secado por dentro.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3254' = “tornar calafetado, seguro contra vazamento”
+	     {lacrar: A Vigilância Sanitária de Florianópolis [lacrou a tubulação da rede de esgoto do Hotel Joaquina Beach, na praia da Joaquina. ,
+	      selar1: Fragmento de Fáscia temporal I]selou perfuração larga póstero-superior criada na cirurgia.,}
+Chave: SELAR <verb.contact>
+ILI: EQ_NEAR_SYNONYM - 01314097

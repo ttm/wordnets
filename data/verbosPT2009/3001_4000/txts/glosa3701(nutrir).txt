@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA3701
+
+DADO O SYNSET:
+	  
+S='Glosa3701'
+	    {
+	      acalentar: O coração do povo [acalenta justos anseios: melhoria imediata no atendimento à saúde, garantia de educação para todos, programa agrário e agrícola que acelere o acesso à terra e ao trabalho, etc.,
+	      afagar: A voz maviosa da virgem [afagou a esperança de todos os campeões; mas seus olhos ternos só viam o nobre semblante de Jurandir, o escolhido de sua alma. ,
+	      alentar: O perfume desta flor pode I]alentar esperança àqueles que passaram por um processo cirúrgico ou se encontram em tratamento de uma doença grave. ,
+	      alimentar: O melhor é [alimentar esse desejo lá dentro, fazendo ele crescer ,
+	      apascentar: M] Apascentar a vaidade.,
+	      nutrir: Os cientistas [nutriam esperanças de conhecer melhor a evolução da terra ao explorar a Lua, mas as missões Apollo não solucionaram todos os mistérios da conjunção da Terra e seu satélite. ,
+	      pascentar: x,
+	      sustentar: O dinheiro do contribuinte [sustenta a fisiologia ou o sonho reformador e bem-intencionado de pessoas contratadas para exercer um papel definido. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+	 
+ S='Glosa3701' = “alimentar; prover”
+	     {acalentar: O coração do povo [acalenta justos anseios: melhoria imediata no atendimento à saúde, garantia de educação para todos, programa agrário e agrícola que acelere o acesso à terra e ao trabalho, etc.,
+	      afagar: A voz maviosa da virgem [afagou a esperança de todos os campeões; mas seus olhos ternos só viam o nobre semblante de Jurandir, o escolhido de sua alma.,
+	      alentar: E essa intuição lhe I]alentava.,
+	      alimentar: O Chef Jairo Susyn, paulista, autodidata apaixonado pela cozinha, há algum tempo I]alimentava o desejo de morar em Curitiba.,
+	      apascentar: O governador José Serra (PSDB) I]apascentou a letargia na qual florescem os letais cogumelos de irrelevância da ação política no país.,
+	      nutrir: Os cientistas [nutriam esperanças de conhecer melhor a evolução da terra ao explorar a Lua, mas as missões Apollo não solucionaram todos os mistérios da conjunção da Terra e seu satélite. ,
+	      sustentar: O dinheiro do contribuinte [sustenta a fisiologia ou o sonho reformador e bem-intencionado de pessoas contratadas para exercer um papel definido.,}
+Chave: NUTRIR <verb.consumption>
+ILI: 01145047
+
+Sense 3
+{01145047} <verb.consumption> feed3 -- (feed into; supply; "Her success feeds her vanity")
+       => {02259805} <verb.possession> supply, provide, render2, furnish -- (provide or furnish with; "We provided the room with an electrical heater")
+           => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+               => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children")

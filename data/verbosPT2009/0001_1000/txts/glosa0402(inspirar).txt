@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0402
+
+DADO O SYNSET:
+
+S='Glosa402'
+{aflar: x,
+inspirar: Por outro lado, também é possível você [inspirar além de uma inspiração normal. # Quando a pessoa é portadora de enfisema ou outras doenças pulmonares, a quantidadede ar que ela pode [inspirar e expirar fica diminuída.,}
+A='Glosa287'
+{expirar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa402' = “introduzir ar nos pulmões por meio dos movimentos toráxicos”
+{inspirar: Por outro lado, também é possível você [inspirar além de uma inspiração normal. # Quando a pessoa é portadora de enfisema ou outras doenças pulmonares, a quantidadede ar que ela pode [inspirar e expirar fica diminuída.,}
+A='Glosa287'
+{expirar}
+Chave: INSPIRAR <verb.body>
+ILI: 00004923
+
+Sense 6
+{00004923} <verb.body> inhale, inspire, breathe in -- (draw in (air); "Inhale deeply"; "inhale the fresh mountain air"; "The patient has trouble inspiring"; "The lung cancer patient cannot inspire air very well")
+       => {00001740} <verb.body> breathe, take a breath, respire, suspire3 -- (draw air into, and expel out of, the lungs; "I can breathe better when the air is clean"; "The patient is respiring")

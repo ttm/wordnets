@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA1852
+
+DADO O SYNSET:
+
+S='Glosa1852'
+{aporfiar: x,
+ competir: Sempre que não quer [competir com a novela das oito, o SBT põe qualquer coisa no ar e espera a novela concorrente acabar para, enfim, programar a sério.,
+ contender: Roma estava muito longe, e se Roma e Constantinopla I]contendiam, que diferença isso podia fazer na prática de um cristão comum da Síria ou da Palestina? ,
+ emular: Então, se hoje eles soam tão violentos quanto os nomes pop que I]emulavam no início, de Phil Spectorz a Motown, podem tirar onda de seu passado.,
+ porfiar: Burgueses, quer conservadores ou ultrademocráticos, I]porfiavam entre si ao lançar difamações contra ele.,
+ rivalizar: Nasceu na segunda-feira de Carnaval, nos Estados Unidos, um Gulliver das comunicações e do entretenimento capaz de [rivalizar com a Time Warner e a Disney.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1852' = “ser o rival [de], estar em competição [com]”
+{competir: Sempre que não quer [competir com a novela das oito, o SBT põe qualquer coisa no ar e espera a novela concorrente acabar para, enfim, programar a sério.,
+ contender: E disseram que o Brasil [compete com o Chile na disputa pela nova fábrica da empresa.,
+ emular: Esses são os mesmos grupos que, a partir dos anos 60, pensadores como Marcuse – [emulando a tese marxista de que o proletariado era a classe revolucionária -- começaram a ver como detentores de valores progressistas, chegando ao paroxismo de conferir sentido político positivo a tal ou qual conduta sexual...,
+ porfiar: Burgueses, quer conservadores ou ultrademocráticos, I]porfiavam entre si ao lançar difamações contra ele.,
+ rivalizar: O «shogun», ou supremo chefe militar, [rivalizava, em poder, com o imperador, e seu cargo tornou-se hereditário a partir de 1192.,}
+Chave: RIVALIZAR <verb.competition>
+ILI: 01087184
+
+Sense 2
+{01087184} <verb.competition> rival -- (be the rival of, be in competition with; "we are rivaling for first place in the race")
+       => {01037983} <verb.competition> compete, vie, contend -- (compete for something; engage in a contest; measure oneself against others)

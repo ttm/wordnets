@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA3937
+
+DADO O SYNSET:
+
+S='Glosa3937'
+    	{abnoitar: O boêmio H]abnoitou na margem do rio.,
+      	 dormir: Jonas foi conduzido para a delegacia e acabou contando também que havia ajudado “Carçudo”, que I]dormiu na rua com algema pendurada.,
+      	 ficar: Durante a noite, H]ficamos numa caverna.,
+      	 pernoitar: Ameaçados de morte, os técnicos do tiveram de [pernoitar no quartel do Exército .,
+      	 pernoutar: x,
+      	 pousar: Mas conseguimos um local para I]pousar, no sítio mesmo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3937' = “passar a noite fora”
+    	{dormir: Às vezes [durmo naquela praça.,
+      	 ficar: Durante a noite, H]ficamos numa caverna.,
+      	 pernoitar: O casal [ficou numa suíte com vista para o mar, cuja diária era de R$ 230,00.,
+      	 pousar: Os dois sairam para passar pelos campos e à noite I]pousaram na casa de um camponês.,}
+Chave: PERNOITAR <verb.stative>
+ILI: 02573603
+
+Sense 1
+{02573603} <verb.stative> sleep over, stay over -- (stay overnight; "The boy's friends were allowed to sleep over after the birthday party")
+       => {02573368} <verb.stative> lodge2 -- (be a lodger; stay temporarily; "Where are you lodging in Paris?")
+           => {02571132} <verb.stative> dwell, shack, reside, live8, inhabit, people, populate, domicile, domiciliate -- (make one's home or live in; "She resides officially in Iceland"; "I live in a 200-year old house"; "These people inhabited all the islands that are now deserted"; "The plains are sparsely populated")
+               => {02576058} <verb.stative> be5 -- (occupy a certain position or area; be somewhere; "Where is my umbrella?" "The toolshed is in the back"; "What is behind this behavior?")

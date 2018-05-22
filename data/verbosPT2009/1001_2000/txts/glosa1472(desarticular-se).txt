@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA1472
+
+DADO O SYNSET:
+
+S='Glosa1472'
+{desarcar-se: x,
+ desarticular-se: Com o esbarrão, o enfeite de mesa H]desarticulou-se.,
+ descanhotar-se: DEVIANT,
+ desconjuntar-se: Tenho o meu corpo cheio de ligaduras, sinto os ossos I]desconjuntar-se. # Com a continuação da tortura, os quadris, e os cotovelos começavam a I]desconjuntar-se, separando-se por fim, ruidosamente.,
+ desengonçar-se: O armário H]desengonçou-se em pouco tempo.,
+ desmembrar-se: x,
+ desunir-se: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1472' = “tornar-se separado, desconectado ou desarticulado”
+{desarticular-se: Também é colocada uma tração no fêmur, porque, nesse caso, o osso da perna se I]desarticula da bacia.,
+ desconjuntar-se: Com a continuação da tortura, os quadris, e os cotovelos começavam a I]desconjuntar-se, separando-se por fim, ruidosamente.,
+ desengonçar-se: O Sou como um boneco de peças encaixadas, que às vezes ameaça se I]desengonçar.,}
+Chave: DESARTICULAR-SE <verb.contact>
+ILI: 01255684
+
+Sense 2
+{01255684} <verb.contact> disjoin, disjoint -- (become separated, disconnected or disjoint)
+       => {01514734} <verb.contact> separate, divide, part -- (come apart; "The two pieces that we had glued separated")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

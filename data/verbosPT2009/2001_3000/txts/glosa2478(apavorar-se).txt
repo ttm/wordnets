@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA2478
+
+DADO O SYNSET:
+
+S='Glosa2478'
+	    {apavorar-se: Sabia que ela ia I]se apavorar se eu falasse o que estava acontecendo, por isso, somente falei com o coração.,
+	      atemorizar-se: Que se as perturbações se agravam e aparecem dores, não há razão para I]atemorizar-se: todo tratamento apresenta alternativas inesperadas e os sofrimentos são a maior parte das vezes a prova de uma reação salutar.,
+	      sobressaltar-se: Tendo se lançado a seu peito, aos soluços, volta a I]sobressaltar-se, angustiada.,
+	      sobressaltear-se: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2478' = “Causar medo em.”
+	    {apavorar-se: A menininha I]apavorou-se com a experiência incomum que acabara de viver e desatou a correr pelo caminho por onde viera.,
+	      atemorizar-se: Ela o justificou, dizendo ter sido acordada pela manhã por um forte barulho e que, ao abrir a janela, I]atemorizou-se com a presença de um helicóptero.,
+	      sobressaltar-se: I]Sobressaltou-se quando descobriu que fazia parte de uma lista de “marcados para morrer”.,}
+
+Chave: APAVORAR-SE <verb.emotion>
+ILI: 01727523
+
+Sense 1
+{01727523} <verb.emotion> frighten, fright, scare, affright -- (cause fear in; "The stranger who hangs around the building frightens me")
+       => {01710864} <verb.emotion> stimulate, shake, shake up, excite, stir1 -- (stir the feelings, emotions, or peace of; "These stories shook the community"; "the civil war shook the country")
+           => {01708538} <verb.emotion> arouse, elicit, enkindle, kindle, evoke, fire, raise8, provoke -- (call forth (emotions, feelings, and responses); "arouse pity"; "raise a smile"; "evoke sympathy")
+               => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")
+          Also See-> {01734017} <verb.emotion> frighten off#1; {01734017} <verb.emotion> frighten away#1 

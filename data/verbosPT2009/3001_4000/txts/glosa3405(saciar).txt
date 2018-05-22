@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA3405
+
+DADO O SYNSET:
+
+S='Glosa3405'
+	    {
+	      extinguir: Beber a grandes tragos I]extingue a sede; beber em pequenos goles prolonga o prazer da bebida.,
+	      matar: É o segundo copo d' água quando o primeiro já [matou a sede.,
+	      saciar: Sestapam-se os cabaços nos quais intrépido mete os braços, a que logo acodem as filas, já para [saciar a fome.,
+	      satisfazer: Iracema acendeu o fogo da hospitalidade; e trouxe o que havia de provisões para [satisfazer a fome e a sede.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3405' = “encher até satisfazer”
+	     {extinguir: Beber a grandes tragos I]extingue a sede; beber em pequenos goles prolonga o prazer da bebida.,
+	      matar: Ali refrescou o seu corpo e I]matou a fome e a sede com alguns gomos de cana.,
+	      saciar: E a partilha dos pães e dos peixes I]saciou a fome de todos.,
+	      satisfazer: Iracema é o símbolo da hospitalidade cearense: ela I]satisfez a fome e a sede do estrangeiro com boa caça, farinha-d’água, frutos silvestres, favos de mel.,}
+Chave: SACIAR <verb.consumption>
+ILI: 01157356
+
+Sense 1
+{01157356} <verb.consumption> satiate, sate, replete, fill -- (fill to satisfaction; "I am sated")
+       => {01121136} <verb.consumption> consume, ingest, take in, take, have -- (serve oneself to, or consume regularly; "Have another bowl of chicken soup!"; "I don't take sugar in my coffee")

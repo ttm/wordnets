@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA2034
+
+DADO O SYNSET:
+	
+S='Glosa2034'
+    	{acordar1: Spike Lee [acordou às 6h, ontem, e às 6h20 já estava no restaurante do hotel Rio Othon, na Avenida Atlântica, em Copacabana, tomando café da manhã .,
+      	 desadormecer: x,
+      	 desadormentar: x,
+      	 desmodorrar: x,
+      	 despertar: Certo dia, I]despertou às 5 horas da madrugada e ficou à espreita até que acordou Matilde, pedindo-lhe que lhe ajudasse. ,
+      	 despreguiçar: x,
+      	 escordar2: x,
+      	 espertar: Pediu-me que a M]espertasse às seis.,
+      	 espreguiçar: x,}
+  
+A='Glosa2445'
+    	{adormecer, adormentar, descansar, dormir, sopitar, soporizar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2034' = “parar de dormir”
+    	{acordar1: Spike Lee [acordou às 6h, e às 6h20 já estava no restaurante tomando café da manhã.,
+      	 despertar: Os pais de crianças que responderam a pesquisa apontaram que as crianças em idade pré escolar I]despertam às 8 horas.,
+      	 espertar: Lembro que ele morria de sono, passava a aula toda bocejando, só I]espertava mesmo na hora do lanche.}
+  
+A='Glosa2445'
+    	{adormecer, adormentar, descansar, dormir, sopitar, soporizar}
+Chave: ACORDAR <verb.body>
+ILI: 00018221
+
+Sense 2
+{00018221} <verb.body> wake up, awake, arouse5, awaken1, wake1, come alive, waken -- (stop sleeping; "She woke up to the sound of the alarm clock")
+       => {00140715} <verb.change> change state, turn4 -- (undergo a transformation or a change of position or action; "We turned from Socialism to Capitalism"; "The people turned against the President when he stole the election")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

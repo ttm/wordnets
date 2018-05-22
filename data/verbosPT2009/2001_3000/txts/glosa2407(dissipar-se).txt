@@ -1,0 +1,36 @@
+ANÁLISE DA GLOSA2407
+
+DADO O SYNSET:
+
+S='Glosa2407'
+	    {dissipar-se: O metano, que hoje [se dissipa na atmosfera, gerando efeito estufa, deverá ser utilizado como energia limpa em substituição à gasolina e ao diesel em parte apreciável da frota da cidade. # Segundo a Cetesb, a fumaça não [se dissipa devido à massa de ar frio que a comprime para baixo.,
+	      esvaecer-se: Um enorme balão de São João enrosca-se nos cabos e "lambe" a boca dele fica presa entre a bandeira e fio mais proximo fazendo jorrar faíscas elétricas para todos os lados, ali debaixo chegávamos a ouvir o pipocar ininterruptos e vêr as faíscas correndo em volta e por entre os fios da fina estrutura carbonizada que se formava , ao mesmo tempo que esvaecia-se e em fraçoes de minutos.,
+	      esvair-se: Sigo os traços dessa lua pouco a pouco se acabando I]esvaindo-se nas frestas.,
+	      esvanecer-se: A água salgada do mar molhava-me os pés; a espuma branca ficava em meus pêlos para depois I]esvanecer-se no ar da alvorada.,
+	      evaporar-se: Você pode notar que enquanto a vela é consumida, ela vai desaparecendo, I]evaporando-se.,
+	      evaporizar-se: x,
+	      evolar-se: A imagem da morte não passa de uma fantasia constituída pelas terríveis imagens que forma a fumaça ao I]evolar-se dos fornos crematórios.,
+	      ir-se: x,
+	      subtilizar-se: x,
+	      sutilizar-se: x,
+	      vaporar-se: x,
+	      vaporizar-se: Sob grande pressão no interior da Terra, os gases estão dissolvidos nos componentes mais pesados, mas ao atingirem a superfície podem I]vaporizar-se.,
+	      volatilizar-se: As emanações alcoólicas apossavam-se particularmente da estrada gástrica, inalando a bebida a I]volatilizar-se da cárdia ao piloro.,
+	      volatizar-se: Depois do raio nova nuvem você vai se transformando, I]volatizando-se , reunindo-se com seus átomos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2407' = “Tornar invisível ou não perceptível.”
+	    {dissipar-se: Segundo a Cetesb, a fumaça não [se dissipa devido à massa de ar frio que a comprime para baixo.,
+	      esvaecer-se: Rodrigo ainda não estava lá e as últimas luzes do dia I]esvaeciam-se.,
+	      esvair-se: Sigo os traços dessa lua pouco a pouco se acabando I]esvaindo-se nas frestas.,
+	      esvanecer-se: A água salgada do mar molhava-me os pés; a espuma branca ficava em meus pêlos para depois I]esvanecer-se no ar da alvorada.,
+	      evaporar-se: Você pode notar que enquanto a vela é consumida, ela vai desaparecendo, I]evaporando-se.,
+	      evolar-se: Porque a forma humana do anjo, que a Eva então cativara, subitamente I]evolou-se e desvanecida se foi.,}
+
+Chave: DISSIPAR-SE <verb.perception>
+ILI: 02094464
+
+Sense 2
+{02094464} <verb.perception> vanish, disappear, go away -- (become invisible or unnoticeable; "The effect vanished when day broke")
+       => {02531897} <verb.stative> end, stop13, finish, terminate, cease13 -- (have an end, in a temporal, spatial, or quantitative sense; either spatial or metaphorical; "the bronchioles terminate in a capillary bed"; "Your rights stop where you infringe upon the rights of other"; "My property ends by the bushes"; "The symphony ends in a pianissimo") 

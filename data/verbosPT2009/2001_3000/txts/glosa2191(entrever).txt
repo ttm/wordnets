@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA2191
+
+DADO O SYNSET:
+
+S='Glosa2191'
+	    {bispar: Raimundo, logo que o [bispou, escondera se no quarto, com medo.,
+	      entrever: Subindo entre copas de acácias e castanheiras, o teleférico permite [entrever olivais e campos cultivados.,
+	      lobrigar: O Pajé [lobrigou os dois vultos que avançavam; cuidou ver a sombra de uma árvore solitária que vinha alongando-se pelo vale fora.,
+	      vislumbrar: Sentia uma solidão distraída, [vislumbrando de longe a Cinelândia, vazia, perdida na noite.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2191' = “detectar com a visão”
+	    {bispar: Raimundo, logo que o [bispou, escondera se no quarto, com medo.,
+	      entrever: Subindo entre copas de acácias e castanheiras, o teleférico permite [entrever olivais e campos cultivados.,
+	      lobrigar: O Pajé [lobrigou os dois vultos que avançavam; cuidou ver a sombra de uma árvore solitária que vinha alongando-se pelo vale fora.,
+	      vislumbrar: Sentia uma solidão distraída, [vislumbrando de longe a Cinelândia, vazia, perdida na noite.,}
+
+Chave: ENTREVER <verb.perception>
+ILI: 02130513
+
+Sense 1
+{02130513} <verb.perception> recognize1, recognise1, distinguish, discern, pick out, make out, tell apart -- (detect with the senses; "The fleeing convicts were picked out of the darkness by the watchful prison guards"; "I can't make out the faces in this photograph")
+       => {02130870} <verb.perception> resolve -- (make clearly visible; "can this image be resolved?")
+       => {02131023} <verb.perception> discriminate -- (distinguish; "I could not discriminate the different tastes in this complicated dish")

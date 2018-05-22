@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA3007b
+
+DADO O SYNSET:
+
+S='Glosa3007'
+	     {abafar: Deixar a criança com pouca roupa evitando I]abafá-la com cobertores.,
+	      acobertar: Pesadas armaduras A]acobertavam os cavaleiros medievais.,
+	      agasalhar: Após o banho, pode-se I]agasalhar o animal?,
+	      arroupar: x,
+	      cobrir: O asno que carrega a urna domina o centro da imagem: ele tem sinos pendurados no pescoço e um manto [cobrindo as ancas. ,
+	      encobertar: x,
+	      enroupar: O forro de suas arcas vai servir-nos para I]enroupar os homens que levarmos para as guerras da Irlanda.,
+	      gasalhar: x,
+	      recobrir: Gramíneas [recobriam os campos que se estendiam a partir de Curitiba e podiam fornecer uma perfeita alimentação para os animais. ,
+	      resguardar: É um vaso, em parte cilíndrico, que serve para [resguardar líquidos delicados.,
+	      revestir: As células meristemáticas acabam por formar a epiderme que [reveste a raiz.,
+	      roupar: H]Rouparam as crianças pequenas.,
+	      tapar: Piso de borracha revestia o chão e forros de eucatex [tapavam clarabóias. ,
+	      velar2: Em seguida, ele correu a cortina que I]velava o quadro da Independência, pronunciando em seguida uma alocução patriótica.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3007b' = “colocar proteção; cobrir uma superfície”
+                  {cobrir: O asno que carrega a urna domina o centro da imagem: ele tem sinos pendurados no pescoço e um manto [cobrindo as ancas. ,
+	      recobrir: Gramíneas [recobriam os campos que se estendiam a partir de Curitiba e podiam fornecer uma perfeita alimentação para os animais. ,
+	      revestir: Essa mucosa [reveste o interior das fossas nasais.,}
+Chave: COBRIR <verb.contact>
+ILI: 01226248
+
+Sense 1
+{01226248} <verb.contact> coat, surface -- (put a coat on; cover the surface of; furnish with a surface; "coat the cake with chocolate")
+       => {01293336} <verb.contact> cover -- (provide with a covering or cause to be covered; "cover her face with a handkerchief"; "cover the child with a blanket"; "cover the grave with flowers")

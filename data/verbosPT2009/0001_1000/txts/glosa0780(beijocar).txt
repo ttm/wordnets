@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0780
+
+DADO O SYNSET:
+
+S='Glosa780'
+{beijocar: Amância [beijocou a cara de Maria Bárbara.,
+bitocar: E pra piorar, estava I]bicotando o menino que a aniversariante curte.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa780' = “beijar levemente, dar beijoca”
+{beijocar: Amância [beijocou a cara de Maria Bárbara.,
+bitocar: E pra piorar, estava I]bitocando o menino que a aniversariante curte.,}
+Chave: BEIJOCAR <verb.contact>
+ILI: 01391007
+
+Sense 4
+{01391007} <verb.contact> smack1, peck -- (kiss lightly)
+       => {01390383} <verb.contact> kiss, buss, osculate -- (touch with the lips or press the lips (against someone's mouth or other body part) as an expression of love, greeting, etc.; "The newly married couple kissed"; "She kissed her grandfather on the forehead when she entered the room")
+           => {01169634} <verb.contact> touch -- (make physical contact with, come in contact with; "Touch the stone for good luck"; "She never touched her husband")

@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA3792
+
+DADO O SYNSET:
+
+S='Glosa3792'
+{perrengar: Nessa hora, eu olho para o ponto onde I]perrenguei e vejo que não era uma vaca tão grande assim.,
+	 perrenguear: Mineiro escuta, espia, tolera, I]perrengueia, sorri, escapole, se retarda, cala a boca, matuta, engambela.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3792' = “sujeitar, coibir ou superar por sofrer com um sentimento de terror; apavorar-se (como com ameaças)”
+{perrengar: Nessa hora, eu olho para o ponto onde I]perrenguei e vejo que não era uma vaca tão grande assim.,
+	 perrenguear: Mineiro escuta, espia, tolera, I]perrengueia, sorri, escapole, se retarda, cala a boca, matuta, engambela.}
+Chave: PERRENGAR <verb.emotion>
+ILI: 01728108
+
+Sense 1 
+{01728108} <verb.emotion> overawe, cow -- (subdue, restrain, or overcome by affecting with a feeling of awe; frighten (as with threats))
+       => {01727949} <verb.emotion> awe -- (inspire awe in; "The famous professor awed the undergraduates")
+           => {01727523} <verb.emotion> frighten, fright, scare, affright -- (cause fear in; "The stranger who hangs around the building frightens me")
+               => {01710864} <verb.emotion> stimulate, shake, shake up, excite, stir1 -- (stir the feelings, emotions, or peace of; "These stories shook the community"; "the civil war shook the country")
+                   => {01708538} <verb.emotion> arouse, elicit, enkindle, kindle, evoke, fire, raise8, provoke -- (call forth (emotions, feelings, and responses); "arouse pity"; "raise a smile"; "evoke sympathy")
+                       => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

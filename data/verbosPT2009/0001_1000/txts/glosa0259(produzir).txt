@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0259
+
+DADO O SYNSET:
+
+S='Glosa259'
+{dar: Só que as cabras não têm cria e, por essa razão, não I]dão leite. ,
+deixar: DEVIANT,
+produzir: A seringueira é um exemplo de planta que [produz látex.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa259' = “gerar; fornecer; dar existência”
+{dar: Só que as cabras não têm cria e, por essa razão, não I]dão leite. ,
+produzir: A seringueira é um exemplo de planta que [produz látex.,}
+Chave: PRODUZIR <verb.creation>
+ILI: 01703330
+
+Sense 1
+{01703330} <verb.creation> produce2, bring forth -- (bring forth or yield; "The tree would not produce fruit")
+       => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

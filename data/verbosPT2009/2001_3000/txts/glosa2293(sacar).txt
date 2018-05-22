@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA2293
+
+DADO O SYNSET:
+
+S='Glosa2293'
+	    {puxar: E nesse momento ele [puxa a sua arma e aponta para mim, e antes que atirasse eu ainda consegui suplicar ,
+	      sacar: Pelo contrário, logo no início Stowe, dita Cody Zamora, [saca sua pistola em defesa de uma colega humilhada e ofendida . ,
+	      travar: O barbeiro meteu a navalha no estojo, I]travou da espada e saiu .,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2293' = “retirar ou arrancar algo de algum recipiente ou cobertura”
+	    {puxar: E nesse momento ele [puxa a sua arma e aponta para mim,
+	      sacar: Logo no início Stowe [saca sua pistola em defesa de uma colega humilhada e ofendida . ,
+	      travar: O barbeiro meteu a navalha no estojo, I]travou da espada e saiu .,}
+
+Chave: SACAR <verb.motion>
+ILI: 01937125
+
+Sense 5
+{01937125} <verb.motion> draw1, pull3, pull out3, get out2, take out10 -- (bring, take, or pull out of a container or from under a cover; "draw a weapon"; "pull out a gun"; "The mugger pulled a knife on his victim")
+       => {00166870} <verb.change> remove, take, take away1, withdraw1 -- (remove something concrete, as by lifting, pushing, taking off, etc. or remove something abstract; "remove a threat"; "remove a wrapper"; "Remove the dirty dishes from the table"; "take the gun from your pocket"; "This machine withdraws heat from the environment") 

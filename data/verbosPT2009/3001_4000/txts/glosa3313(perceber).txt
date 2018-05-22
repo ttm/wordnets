@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA3313
+
+DADO O SYNSET:
+
+S='Glosa3313'
+	    {
+	      aperceber: O que signfica que, metamorfoseado, ele I]apercebe, exterior a si, uma nova visão que é a concretização apolínea do seu estado.,
+	      enxergar: A simplicidade com que [enxerga a própria obra pode transformar as palavras da gravadora Anna Letycia, 66 anos, num agudo menosprezo.,
+	      lobrigar: Cansado por fim, opresso, qual viajor que não I]lobriga o termo da jornada, exclamei: Meu Deus, tende compaixão de mim.,
+	      notar: O autor da matéria [nota que um dos problemas que terá de enfrentar no Rio será o de cobrar as ligações elétricas clandestinas em locais notoriamente controlados pelos caids do narcotráfico.,
+	      perceber: A gente nunca sabe quem está sentado nela, mas [percebe que houve alguma mudança porque ela logo se reflete na tela . ,
+	      sentir: Já fui advogado (Marcello defendeu presos políticos na década de 60) e estou [sentindo que a defesa está se mexendo e tumultuando o processo.,
+	      ver: Estou [vendo que você operou logo com transceptores duo-banda.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3313' = “tornar-se consciente de”
+	     {aperceber: O que signfica que, metamorfoseado, ele I]apercebe, exterior a si, uma nova visão que é a concretização apolínea do seu estado.,
+	      enxergar: O infeliz crônico I]enxerga a vida pelo lado oposto, ao invés de aproveitar os momentos presentes, lamenta-se sempre do que poderia ter acontecido.,
+	      lobrigar: O Pajé [lobrigou os dois vultos que avançavam; cuidou ver a sombra de uma árvore solitária que vinha alongando-se pelo vale fora.,
+	      notar: Ele I]notou o crescimento em potencial do cuidado a longo prazo em um país onde a população está envelhecendo, aumentando a faixa acima de 65 anos de 10 milhões nos anos sessenta para 35 milhões em 2000.,
+	      perceber: Raimundo estremeceu, ficou gelado ate a raiz dos cabelos, [percebeu aquela tremenda ameaça e mediu instintivamente a altura da janela, como se premeditasse uma fuga. ,
+	      sentir: Diante disso, Portugal [sentiu a necessidade de se aliar a uma potência, mesmo que isso representasse a perda de parte de sua soberania.,
+	      ver: Banco do Brasil diante de seguidos prejuízos [viu seu valor de mercado despencar de US$ 12 bilhões para apenas US$ 5,8 bilhões, queda de 58%.,}
+Chave: PERCEBER <verb.cognition>
+ILI: 00572644
+
+Sense 2
+{00572644} <verb.cognition> perceive -- (become conscious of; "She finally perceived the futility of her protest")
+       => {00572258} <verb.cognition> understand1, realize, realise, see1 -- (perceive (an idea or situation) mentally; "Now I see!"; "I just can't see your point"; "Does she realize how important this decision is?"; "I don't understand the idea")

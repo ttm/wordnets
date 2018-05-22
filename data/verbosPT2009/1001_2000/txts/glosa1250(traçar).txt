@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA1250
+
+DADO O SYNSET:
+
+S='Glosa1250'
+{descrever: Um observador colocado na Terra verá o pacote [descrever uma trajetória parabólica,
+ fazer: Faça o carro I]fazer uma trajetória circular, fixando com uma fita colante na parte inferior do carro a direção das rodas.,
+ perfazer: Acompanhei em camera lenta meu celular rodar no ar ao se descolar da minha mão na queda e I]perfazer uma trajetória parabólica em direção ao chão. ,
+ produzir: Isto corresponde às condições iniciais, que nas unidades que utilizamos devem I]produzir uma trajetória circular,
+ traçar1: Nós podemos, então, [traçar o percurso inverso, no sentido correto da luz, e calcular todas as perdas e acréscimos de intensidade que ocorrem. ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1250' = “atravessar, passar [por]”
+{descrever: Um observador colocado na Terra verá o pacote [descrever uma trajetória parabólica.,
+ fazer: Faça o carro I]fazer uma trajetória circular, fixando com uma fita colante na parte inferior do carro a direção das rodas.,
+ perfazer: Acompanhei em camera lenta meu celular rodar no ar ao se descolar da minha mão na queda e I]perfazer uma trajetória parabólica em direção ao chão.,
+ produzir: Isto corresponde às condições iniciais, que nas unidades que utilizamos devem I]produzir uma trajetória circular.,
+ traçar1: Nós podemos, então, [traçar o percurso inverso, no sentido correto da luz, e calcular todas as perdas e acréscimos de intensidade que ocorrem.,}
+Chave: TRAÇAR <verb.motion>
+ILI: 01856347
+
+Sense 1
+{01856347} <verb.motion> traverse, track1, cover, cross, pass over1, get over, get across, cut through, cut across -- (travel across or pass over; "The caravan covered almost 100 miles each day")
+       => {01991747} <verb.motion> pass, go through, go across -- (go across or through; "We passed the point where the police car had parked"; "A terrible thought went through his mind")
+           => {01782203} <verb.motion> travel, go, move3, locomote -- (change location; move, travel, or proceed; "How fast does your new car go?"; "We travelled from Rome to Naples by bus"; "The policemen went from door to door looking for the suspect"; "The soldiers moved towards the city in an attempt to take it before night fell")

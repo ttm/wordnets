@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0633
+
+DADO O SYNSET:
+
+S='Glosa633'
+{aposentar: Temos 5.500 professores, 120 estão completando 70 anos, outros 800 com tempo para [aposentar.,
+jubilar: O prefeito H]jubilou-o por tempo de serviço.,
+reformar: Costa e Silva baixou o AI-5 decretando, entre outras medidas, a atribuição do presidente do poder de intervir nos estados e municípios e demitir ou I]reformar oficiais das forças armadas e das polícias militares.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa633' = “entrar em aposentadoria; parar de realizar um trabalho”
+{aposentar: Temos 5.500 professores, 120 estão completando 70 anos, outros 800 com tempo para [aposentar.,
+reformar: Costa e Silva baixou o AI-5 decretando, entre outras medidas, a atribuição do presidente do poder de intervir nos estados e municípios e demitir ou I]reformar oficiais das forças armadas e das polícias militares.,}
+Chave: APOSENTAR <verb.social>
+ILI: 02308628
+
+Sense 1
+{02308628} <verb.social> retire1 -- (go into retirement; stop performing one's work or withdraw from one's position; "He retired at age 68")
+       => {02311225} <verb.social> leave office, quit, step down, resign5 -- (give up or retire from a position; "The Secretary fo the Navy will leave office next month"; "The chairman resigned over the financial scandal")
+           => {02312014} <verb.social> leave, depart, pull up stakes -- (remove oneself from an association with or participation in; "She wants to leave"; "The teenager left home"; "She left her position with the Red Cross"; "He left the Senate after two terms"; "after 20 years with the same company, she pulled up stakes")
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

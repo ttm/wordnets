@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA3136
+
+DADO O SYNSET:
+
+S='Glosa3136'
+{dispor-se: O Governo FHC I]dispôs-se a seguir à risca a cartilha do FMI e não chegou a acumular, nos últimos 3 anos de arrocho fiscal.,
+	 inclinar-se: E isto agora serve-nos, concluiu ele, porque o governo [inclina-se à paz.,
+	 pender: Apesar de a ampla maioria do PT [pender pelo apoio a Covas discutindo até a eventual participação em um governo tucano, ao menos uma ala prega o voto nulo: a corrente O Trabalho.,
+	 predispor-se: A representação da mulher na mídia é simbolizada por um aspecto de dominação e mistério onde todo o aparato imagético I]predispõe-se a construir a idéia da mulher associada a animais selvagens.}
+	
+A ANÁLISE RESULTA EM:
+
+S='Glosa3136' = “ter tendência ou disposição para fazer ou para ser alguma coisa”
+{dispor-se: O Governo FHC I]dispôs-se a seguir à risca a cartilha do FMI e não chegou a acumular, nos últimos 3 anos de arrocho fiscal.,
+	 inclinar-se: E isto agora serve-nos, concluiu ele, porque o governo [inclina-se à paz.,
+	 pender: Apesar de a ampla maioria do PT [pender pelo apoio a Covas discutindo até a eventual participação em um governo tucano, ao menos uma ala prega o voto nulo: a corrente O Trabalho.,
+	 predispor-se: A representação da mulher na mídia é simbolizada por um aspecto de dominação e mistério onde todo o aparato imagético I]predispõe-se a construir a idéia da mulher associada a animais selvagens.}
+Chave: INCLINAR-SE <verb.stative>
+ILI: 02639433
+
+Sense 1
+{02639433} <verb.stative> tend1, be given, lean1, incline1, run1 -- (have a tendency or disposition to do or be something; be inclined; "She tends to be nervous before her lectures"; "These dresses run small"; "He inclined to corpulence")
+       => {02526983} <verb.stative> be3 -- (have the quality of being; (copula, used with an adjective or a predicate noun); "John is rich"; "This is not a good answer")

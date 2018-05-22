@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA3737
+
+DADO O SYNSET:
+	
+S='Glosa3737'
+{captar: O conversor recebe os sinais e os converte para uma freqüência que a TV consegue I]captar.,
+	 interceptar: Sensores eletro-magnéticos são usados para I]interceptar as emissões de radar e rádio comunicadores de submarinos.,
+	 pegar: Essa rádio evangélica muda de nome toda semana e sem contar o fato de que no centro de Brasília ela não I]pega bem. }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3737' = “converter em sons ou imagens sinais de rádio ou televisão”
+{captar: A antena receptora pode I]captar o sinal emitido pela antena emissora, trazido pela onda.
+	 interceptar: Sensores eletro-magnéticos são usados para I]interceptar as emissões de radar e rádio comunicadores de submarinos.,
+	 pegar: Garanto que se você colocar a antena num adaptador que está a essa distância, poderá I]pegar o sinal que está vindo do Roteador a 100 metros. }
+Chave: CAPTAR <verb.change>
+ILI: 00077943
+
+Sense 8
+{00077943} <verb.change> receive -- (convert into sounds or pictures, of incoming radio signals)
+       => {00077276} <verb.change> convert3 -- (change the nature of something; "convert lead into gold")
+           => {00083947} <verb.change> change1, alter1 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

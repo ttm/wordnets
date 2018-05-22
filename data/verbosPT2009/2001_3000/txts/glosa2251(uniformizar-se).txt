@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2250
+
+DADO O SYNSET:
+
+S='Glosa2251'
+	    {fardar-se: Para completar o time, [fardou-se e jogou. ,
+	      uniformar-se: x,
+	      uniformizar-se: O país se I]uniformizou, de verde e amarelo, e de chuteiras., }
+
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2251' = “vestir-se com roupas iguais, uniformes ou fardas”
+	    {fardar-se: Para completar o time, [fardou-se e jogou. ,
+	      uniformizar-se: O país se I]uniformizou, de verde e amarelo, e de chuteiras., }
+
+Chave: UNIFORMIZAR-SE<verb.possession>
+ILI: 02264330
+
+Sense 1
+{02264330} <verb.possession> uniform -- (provide with uniforms; "The guards were uniformed")
+       => {02259805} <verb.possession> supply, provide, render2, furnish -- (provide or furnish with; "We provided the room with an electrical heater")
+           => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+               => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children")

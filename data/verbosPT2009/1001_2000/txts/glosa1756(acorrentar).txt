@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA1756
+
+DADO O SYNSET:
+
+S='Glosa1756'
+{acorrentar: Depois de algum tempo você aprende a diferença, a sutil diferença entre dar a mão e I]acorrentar uma alma.,
+ agrilhoar: Obstruir-se a formulação de juízos arrojados, modernos ou modernizantes, será castrar a criatividade e I]agrilhoar a sociedade. ,
+ encorrentar: x,
+ escravizar: Ricky tenta [escravizar Lucy. # Lamento muito que você tenha abandonado a Deus para I]escravizar-se a demônios. ,
+ subjugar: O espírito que encarnou após [subjugar e ser subjugado durante séculos pela família Mayfair pode não parecer uma criatura tão sedutora quanto o vampiro Lestat .,
+ sujeitar: «O Congresso Nacional Africano pretende perpetuar a tirania do governo central e sujeitar o povo de KwaZulu a uma ditadura comunista», afirmou Buthelezi em comício. # Quero humilhar-me e I]sujeitar a minha vontade à de minhas irmãzinhas.,}
+	  
+A='Glosa1135'
+{desacorrentar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1756' = “encarcerar ou prender com correntes”
+{acorrentar: Pais [acorrentam há 1 ano filho de 15 anos.,
+ agrilhoar: Os bens materiais nos tornam escravos; I]agrilhoam o homem a Terra.,
+ escravizar: Acadêmico e baseando-se em modelos a priori, H. tira o sustento da servidão que o anula, que o [escraviza a uma classe ociosa.,
+ subjugar: O fogo lhe forneceu o meio de construir as armas com que I]subjugou os animais e as ferramentas com que cultivou a terra.,
+ sujeitar: Sendo assim, Deus I]sujeitou toda a Terra e animais a Adão.,}
+
+A='Glosa1134'
+{desacorrentar, desagrilhoar, libertar}
+Chave: ACORRENTAR <verb.contact>
+ILI: 01250198
+
+Sense 1
+{01250198} <verb.contact> enchain -- (restrain or bind with chains)
+       => {01262432} <verb.contact> restrain, confine1, hold3 -- (to close within bounds, limit or hold back from movement; "This holds the local until the express passengers change trains"; "About a dozen animals were held inside the stockade"; "The illegal immigrants were held at a detention center"; "The terrorists held the journalists for ransom")
+           => {00498510} <verb.change> disable, disenable, incapacitate -- (make unable to perform a certain action; "disable this command on your computer")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

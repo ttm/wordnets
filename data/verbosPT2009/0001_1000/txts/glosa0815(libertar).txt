@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0815
+
+DADO O SYNSET:
+
+S='Glosa815'
+{libertar: Sobre as extorsões sofridas por Jorge Luís, Márcia afirmou que quando o valor exigido era muito alto, os soldados do tráfico recolhiam doações dos moradores para [libertar o marido.,
+soltar: Os policiais do RPMont, de Campo Grande, que [soltaram dois estudantes do cativeiro no ano passado, não foram promovidos.,}
+A='Glosa436'
+{apanhar, caçar, pegar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa815' = “dar liberdade a”
+{libertar: Sobre as extorsões sofridas por Jorge Luís, Márcia afirmou que quando o valor exigido era muito alto, os soldados do tráfico recolhiam doações dos moradores para [libertar o marido.,
+soltar: Os policiais do RPMont, de Campo Grande, que [soltaram dois estudantes do cativeiro no ano passado, não foram promovidos.,}
+A='Glosa436'
+{apanhar, caçar, pegar}
+Chave: LIBERTAR <verb.social>
+ILI: 02422490
+
+Sense 3
+{02422490} <verb.social> liberate, set free2 -- (grant freedom to; "The students liberated their slaves upon graduating from the university")
+       => {02349028} <verb.social> free2, discharge1 -- (free from obligations or duties)

@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0354
+
+DADO O SYNSET:
+
+S='Glosa354'
+{acudir: Promove a divulgação do conteúdo e significado de cada um dos direitos e liberdades fundamentais, assim como dos fins do Serviço do Provedor de Justiça, de seus meios de atuação e de como se pode [acudir a seu serviço.,
+atender: A Associação manterá quatro pessoas em tempo integral para [atender às emergências.,
+obedecer: O porta-voz da força de proteção da ONU disse que o exército sérvio-bósnio ainda não [obedeceu o pedido da Otan para retirar tropas e armas pesadas.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa354' = “agir de acordo com o desejo ou pedido de alguém”
+{acudir: Promove a divulgação do conteúdo e significado de cada um dos direitos e liberdades fundamentais, assim como dos fins do Serviço do Provedor de Justiça, de seus meios de atuação e de como se pode [acudir a seu serviço.,
+atender: A Associação manterá quatro pessoas em tempo integral para [atender às emergências.,
+obedecer: O porta-voz da força de proteção da ONU disse que o exército sérvio-bósnio ainda não [obedeceu o pedido da Otan para retirar tropas e armas pesadas.,}
+Chave: ATENDER <verb.social>
+ILI: 02467166
+
+Sense 1
+{02467166} <verb.social> comply, follow, abide by -- (act in accordance with someone's rules, commands, or wishes; "He complied with my instructions"; "You must comply or else!"; "Follow these simple rules"; "abide by the rules")
+       => {02467663} <verb.social> obey -- (be obedient to)
+           => {00144751} <verb.change> adjust1, conform1, adapt2 -- (adapt or conform oneself to new or different conditions; "We must adjust to the bad economic situation")
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

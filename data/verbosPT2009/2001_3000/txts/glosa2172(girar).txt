@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA2172
+
+DADO O SYNSET:
+
+  S='Glosa2172'
+	    {caracolar: Gostava de fazer M]girar o pião.,
+	      caracolear: x,
+	      girar: Enquanto a roleta [girava, a equipe torcia desesperadamente para que o percentual sorteado fosse o menor 5% .,
+	      voltar: O carrossel M]voltou celeremente.,
+	      voltear: Dizendo isto, para iludir a mulher, sentiu a probabilidade das hipóteses, e outra vez se abateu; mas três minutos depois, as borboletas da esperança [volteavam diante dele, não duas, nem quatro, mas um turbilhão, que cegava o ar .,
+	      voltejar: Destes um veio aninhar-se no seu seio, o outro começou a [voltejar em torno de sua cabeça loura como se tomasse a sua boquinha rosada por um fruto .,
+	      volutear: Por isso não me custa imaginar Babu, bem menino, já sabendo fazer elaboradíssimas gaivotas que lançava das janelas de casa para vê-las I]volutear.,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2172' = “mexer em movimentos circulares”
+	    {caracolar: Gostava de fazer M]caracolar o pião.,
+	      girar: Enquanto a roleta [girava, a equipe torcia desesperadamente para que o percentual sorteado fosse o menor 5% .,
+	      voltar: O carrossel M]voltou celeremente.,
+	      voltear: As borboletas da esperança [volteavam diante dele, não duas, nem quatro, mas um turbilhão, que cegava o ar .,
+	      voltejar: Destes um veio aninhar-se no seu seio, o outro começou a [voltejar em torno de sua cabeça loura.,
+	      volutear: Babu já sabendo fazer elaboradíssimas gaivotas que lançava das janelas de casa para vê-las I]volutear.,}
+
+Chave: GIRAR <verb.motion>
+ILI: 01990805
+
+Sense 1
+{01990805} <verb.motion> gyrate, spiral, coil -- (to wind or move in a spiral course; "the muscles and nerves of his fine drawn body were coiling for action"; "black smoke coiling up into the sky"; "the young people gyrated on the dance floor")
+       => {01851475} <verb.motion> turn -- (change orientation or direction, also in the abstract sense; "Turn towards me"; "The mugger turned and fled before I could see his face"; "She turned from herself and learned to listen to others' needs")
+           => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right") 

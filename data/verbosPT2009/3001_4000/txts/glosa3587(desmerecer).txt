@@ -1,0 +1,81 @@
+ANÁLISE DA GLOSA3587
+
+DADO O SYNSET:
+
+S='Glosa3587'
+{assetar: x,
+	 assetear: x,
+	 caluniar: [Caluniavam o pobre rapaz. / Era amante dos dois e agora [calunia os dois.,
+	 demolir: Feyerabend não pretende [demolir apenas a metodologia; o alvo real de suas farpas céticas é a influência repressiva da própria ciência. / Estão [demolindo os mitos. ,
+	 denegrecer: x,
+	 denegrir: Não entendo por que as pessoas adoram [denegrir a imagem desse rapaz. ,
+	 desacreditar: Para defendê-lo, seu advogado adotará a estratégia de [desacreditar a idoneidade dos denunciantes.,
+	 desafamar: x,
+	 desagaloar: x,
+	 desclassificar: Antônio Carlos Magalhães I]desclassifica as denúncias do jornalista Luiz Cláudio Cunha.,
+	 descreditar: Eles tendem a estigmatizar, e injustamente I]descreditar as pessoas.  ,
+	 desdoirar: Opiniões pessoais não I]desdoiram o Espiritismo. ,
+	 desdourar: Desde há algum tempo deixei de ver graça em atitudes que, além de não nos promover como Pátria e Cidadãos, apenas nos I]desdouram, nos desqualificam. ,
+	 deslustrar: João de Barros omite tudo quanto possa I]deslustrar os reis e os grandes personagens, assim como o decoro da nação portuguesa.,
+	 desmerecer: Algumas vezes ele e seus seguidores [desmereceram a pesquisa empírica na psicolingüística, objetando que suas teorias têm a ver com a competência idealizada e não com os fatos do desempenho individual .  ,
+	 desmoralizar: Então o prefeito está tentando [desmoralizar a segurança do estado?/ ,
+	 desonestar: Negar um provimento jurisdicional desta grandeza I]seria desonestar o próprio remédio constitucional que tutela o magnífico bem da liberdade contra arbitrariedades providas do Poder Publico. ,
+	 desonrar: [Desonrava o sacerdócio, ultrajando o Cristo com exemplos de desmoralização e de ganância pervertedores do rebanho católico.,
+	 detrair: Prossegue em I]detrair-me, em praguejar-me. ,
+	 detratar: Tem gana de I]detratar seus detratores. / Comprometera-se a não I]detratar os matadores de César em público.,
+	 difamar: Ele acrescenta que Romano não tinha a intenção de injuriar ou [difamar Cardoso Alves. / O artigo 325 do Código Eleitoral prevê pena de três meses a um ano de detenção para quem [difamar alguém, na propaganda eleitoral, ou visando a fins de propaganda, imputando-lhe fato ofensivo à sua reputação. ,
+	 enegrecer: Se difundam notícias dirigidas a I]enegrecer cada vez mais a imagem da Justiça, em geral e dos Juízes, em especial, perante a opinião pública.,
+	 enxovalhar: Enquanto o objetivo, explícito, é o de [enxovalhar a imagem dos profissionais servidores públicos, vamos continuar a amargar as filas do INSS, da Polícia Federal, dos hospitais, das escolas de 1º e 2º graus, das universidades etc. ,
+	 ignominiar: Abominável pecado M]ignominiara-o.,
+	 infamar: Afastem-se do exemplo de I]infamar sem prova.,
+	 injuriar: Ele acrescenta que Romano não tinha a intenção de [injuriar ou difamar Cardoso Alves. ,
+	 manchar: Ou ele liberava o patrocínio ou ela entregava as fitas à imprensa, [manchando a imagem da empresa.,
+	 mazelar: O escândalo M]mazelou-a.,
+	 obscurecer: Os craques sempre conseguem driblar os infortúnios e uma hora fazem o sol de sua arte iluminar o que as mentes daninhas tentam [obscurece. ,
+	 rebaixar: Estão querendo [rebaixar o africâner, numa espécie de vingança, como se fôssemos responsáveis por todos os problemas da África do Sul. / Convertê-la em um meio de alcançar outros objetivos que lhe são estranhos, equivale a I]rebaixar o mérito da obra. ,
+	 setear: x,
+	 sugilar: x,
+	 vituperar: Não se trata, pois, de elogiar ou I]vituperar a linguagem de Portugal ou a do Brasil.}
+
+A='Glosa3955'
+	{elogiar, enaltecer, encarecer, encomiar, gabar, louvar, preconizar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3587' = “falar desfavoravelmente [sobre]”
+{caluniar: [Caluniavam o pobre rapaz.,
+	 demolir: Estão [demolindo os mitos.,
+	 denegrir: Não entendo por que as pessoas adoram [denegrir a imagem desse rapaz.,
+	 desacreditar: Para defendê-lo, seu advogado adotará a estratégia de [desacreditar a idoneidade dos denunciantes.,
+	 desclassificar: Antônio Carlos Magalhães I]desclassifica as denúncias do jornalista Luiz Cláudio Cunha.,
+	 descreditar: Eles tendem a estigmatizar, e injustamente I]descreditar as pessoas.,
+	 desdoirar: Opiniões pessoais não I]desdoiram o Espiritismo.,
+	 desdourar: Desde há algum tempo deixei de ver graça em atitudes que, além de não nos promover como Pátria e Cidadãos, apenas nos I]desdouram, nos desqualificam.,
+	 deslustrar: João de Barros omite tudo quanto possa I]deslustrar os reis e os grandes personagens, assim como o decoro da nação portuguesa.,
+	 desmerecer: Algumas vezes ele e seus seguidores [desmereceram a pesquisa empírica na psicolingüística, objetando que suas teorias têm a ver com a competência idealizada e não com os fatos do desempenho individual.,
+	 desmoralizar: Então o prefeito está tentando [desmoralizar a segurança do estado?,
+	 desonestar: Negar um provimento jurisdicional desta grandeza I]seria desonestar o próprio remédio constitucional que tutela o magnífico bem da liberdade contra arbitrariedades providas do Poder Publico.,
+	 desonrar: [Desonrava o sacerdócio, ultrajando o Cristo com exemplos de desmoralização e de ganância pervertedores do rebanho católico.,
+	 detrair: Prossegue em I]detrair-me, em praguejar-me.,
+	 detratar: Comprometera-se a não I]detratar os matadores de César em público.,
+	 difamar: Ele acrescenta que Romano não tinha a intenção de injuriar ou [difamar Cardoso Alves.,
+	 enegrecer: Se difundam notícias dirigidas a I]enegrecer cada vez mais a imagem da Justiça, em geral e dos Juízes, em especial, perante a opinião pública.,
+	 enxovalhar: Enquanto o objetivo é o de [enxovalhar a imagem dos profissionais servidores públicos, vamos continuar a amargar as filas do INSS, da Polícia Federal, etc.,
+	 ignominiar: Abominável pecado M]ignominiara-o.,
+	 infamar: Afastem-se do exemplo de I]infamar sem prova.,
+	 injuriar: Ele acrescenta que Romano não tinha a intenção de [injuriar ou difamar Cardoso Alves.,
+	 manchar: Ou ele liberava o patrocínio ou ela entregava as fitas à imprensa, [manchando a imagem da empresa.,
+	 mazelar: O escândalo M]mazelou-a.,
+	 obscurecer: Os craques sempre conseguem driblar os infortúnios e uma hora fazem o sol de sua arte iluminar o que as mentes daninhas tentam [obscurece.,
+	 rebaixar: Convertê-la em um meio de alcançar outros objetivos que lhe são estranhos, equivale a I]rebaixar o mérito da obra.,
+	 vituperar: Não se trata, pois, de elogiar ou I]vituperar a linguagem de Portugal ou a do Brasil.}
+
+A='Glosa3955'
+	{elogiar, enaltecer, encarecer, encomiar, gabar, louvar, preconizar}
+Chave: DESMERECER <verb.communication>
+ILI: 00820582
+
+Sense 1
+{00820582} <verb.communication> badmouth, malign, traduce, drag through the mud -- (speak unfavorably about; "She badmouthes her husband everywhere")
+       => {00818976} <verb.communication> defame, slander, smirch, asperse, denigrate1, calumniate, smear, sully, besmirch -- (charge falsely or with malicious intent; attack the good name and reputation of someone; "The journalists have defamed me!" "The article in the paper sullied my reputation")
+           => {00815975} <verb.communication> charge2, accuse1 -- (blame for, make a claim of wrongdoing or misbehavior against; "he charged me director with indifference")

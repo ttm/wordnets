@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA1335
+
+DADO O SYNSET:
+
+S='Glosa1335'
+{desengasgar-se: O cúmulo da paz é o Bin Laden dar umas palmadinhas nas costas do Bush para ele I]se desengasgar de um biscoito,}
+	  
+A='Glosa1334'
+{engasgar-se, sufocar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1335' = “fazer-se ficar com a garganta desobstruída” 
+{desengasgar-se: O cúmulo da paz é o Bin Laden dar umas palmadinhas nas costas do Bush para ele se I]desengasgar de um biscoito.,}
+A='Glosa1334'
+{engasgar-se, sufocar-se}
+Chave: DESENGASGAR-SE <verb.contact>
+ILI: EQ_HAS_HYPERONYM - 01437736 - “fazer-se ficar desobstruído”  
+
+Sense 1
+{01437736} <verb.contact> unstuff, loosen up -- (cause to become unblocked; "The medicine unstuffed my nose in minutes!")
+       => {01434122} <verb.contact> free1, disengage1 -- (free or remove obstruction from; "free a path across the cluttered floor")

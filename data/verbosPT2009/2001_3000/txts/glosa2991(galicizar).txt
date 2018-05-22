@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA2991
+
+DADO O SYNSET:
+
+S='Glosa2991'
+	    {galicismar: x,
+	      galicisparlar: DEVIANT,
+	      galicizar: À medida que os judeus migraram de um país para outro, por força ou por escolha, tinham constantemente de anglicizar, I]galicizar, hebraizar, diminuir, aumentar, dar outra grafia, reinterpretar ou simplesmente mudar nomes que antes tinham significado em outra língua.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2991' = “reescrever com galicismos”
+	    {galicizar: À medida que os judeus migraram de um país para outro, por força ou por escolha, tinham constantemente de anglicizar, I]galicizar, hebraizar, diminuir, aumentar, dar outra grafia, reinterpretar ou simplesmente mudar nomes que antes tinham significado em outra língua.,}
+Chave: GALICIZAR <verb.communication>
+ILI: EQ_HAS_HYPERONYM - 00962294
+
+Sense 1
+{00962294} <verb.communication> transliterate, transcribe -- (rewrite in a different script; "The Sanskrit text had to be transliterated")
+       => {00963450} <verb.communication> rewrite -- (write differently; alter the writing of; "The student rewrote his thesis")
+           => {00960729} <verb.communication> write -- (communicate or express by writing; "Please write to me every week")
+               => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                   => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                       => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

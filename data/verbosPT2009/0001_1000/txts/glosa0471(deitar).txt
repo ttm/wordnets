@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0471
+
+DADO O SYNSET:
+
+S='Glosa471'
+{acamar: Convém o mais possível [acamar as pessoas segundo leitos horizontais para que melhor resistam a esforços de compressão.,
+deitar: Teófilo tentou sorrir e olhou para a mulher, que aproveitou a ocasião para mandar [deitar os filhos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa471' = “por alguém em posição horizontal, fazer repousar na cama” 
+{acamar: O tique-taque do relógio vai acamá-lo num instante..,
+deitar: Teófilo tentou sorrir e olhou para a mulher, que aproveitou a ocasião para mandar [deitar os filhos.,}
+Chave: DEITAR <verb.contact>
+ILI: 01501920
+
+Sense 2
+{01501920} <verb.contact> lay, put down, repose1 -- (put in a horizontal position; "lay the books on the table"; "lay the patient carefully onto the bed")
+       => {01452069} <verb.contact> put, set, place, pose2, position, lay1 -- (put into a certain place or abstract location; "Put your things here"; "Set the tray down"; "Set the dogs on the scent of the missing children"; "Place emphasis on a certain point")
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")
+          Also See-> {01427664} <verb.contact> lay over#2; {02238982} <verb.possession> lay away#1; {02200506} <verb.possession> lay aside#1

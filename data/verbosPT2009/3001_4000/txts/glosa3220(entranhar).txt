@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA3220
+
+DADO O SYNSET:
+
+S='Glosa3220'
+	    {
+	      arraigar: A apresentação anunciou o debate sobre a necessidade de I]arraigar os valores ecológicos na sociedade brasileira e de formar uma consciência mundial.,
+	      arreigar-se: x,
+	      cravar: Em seu melhor trabalho até hoje, Cássia Eller definitivamente [cravou seu nome na história da MPB.,
+	      entranhar: Nesses termos, a nova reforma da previdência faz I]entranhar, nas instituições do serviço público, sério risco de insegurança jurídica e social. ,
+	      implantar: Era antes um movimento para [implantar um espírito de cidadania, não para acabar com a miséria, uma ação que exige muito mais do que o assistencialismo formal. ,
+	      introduzir: Para Platão, a educação musical é a mais poderosa, porque permite I]introduzir na alma da criança, desde a mais tenra infância, o amor à beleza.,
+	      inviscerar: x,
+	      radicar: O proselitismo de Santa Isabel lograriam levá-la a patrocinar e, porventura, institucionalizar nos inícios do séc. XIV tais festejos com um aparato nunca antes visto, o que terá contribuído para I]radicar a tradição.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3220' = “colocar firmemente na mente”
+	     {arraigar: Timeu de Locres, seu discípulo, I]arraigou no espírito do povo a transformação das almas.,
+	      cravar: Em seu melhor trabalho até hoje, Cássia Eller definitivamente [cravou seu nome na história da MPB.,
+	      entranhar: A preocupação com a técnica, aliás, já I]entranhou o cotidiano de quem trabalha com o Rei. ,
+	      implantar: O socialismo [implantou na Tanzânia o sistema de aldeias comunais (as ujamaa) , baseado no cooperativismo. ,
+	      introduzir: Esta, [introduziu na cavalaria um código de honra, segundo o qual, o cavaleiro dedicar-se-ia à luta contra os muçulmanos; combateria lealmente e protegeria o fraco.,
+	      radicar: Logosofia I]radicou o problema humano na mente e é ali onde o resolve com meridiana clareza e força sugestiva.,}
+Chave: ENTRANHAR <verb.cognition>
+ILI: 00710590
+
+Sense 3
+{00710590} <verb.cognition> plant, implant -- (put firmly in the mind; "Plant a thought in the students' minds")
+       => {00717906} <verb.communication> communicate1, pass on, pass1, put across -- (transmit information ; "Please communicate this message to all employees")
+           => {02167243} <verb.possession> convey10, transmit10, communicate10 -- (transfer to another; "communicate a disease")
+               => {02167764} <verb.possession> transfer1 -- (move from one place to another; "transfer the data"; "transmit the news"; "transfer the patient to another hospital")
+                   => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

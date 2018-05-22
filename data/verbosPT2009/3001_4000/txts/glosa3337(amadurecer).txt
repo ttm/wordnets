@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA3337
+
+DADO O SYNSET:
+
+S='Glosa3337'
+	    {
+	      amadurar: Também acho que as frutas não climatéricas não precisam desse pico para I]amadurar totalmente.,
+	      amadurecer: No resto do mundo, o tomate é colhido verde e [amadurece durante o transporte, o que altera seu sabor.,
+	      assazoar: x,
+	      assazonar: x,
+	      madurar: A banana maçã deverá ter tamanho médio, casca lisa, de cor uniforme e estar ainda para I]madurar.,
+	      madurecer: Quero ficar feliz quando I]madurece o primeiro caju ou a primeira manga, quando a jabuticabeira fica pretinha de fruta.,
+	      maturar: As unidades produzidas em fazendas demoram de 4 a 10 semanas para I]maturar.,
+	      sazonar: O clima propício M]sazona as vinhas.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3337' = “causar amadurecimento ou desenvolver completamente”
+	     {amadurar: Uma ponta verde brotou; depois uma haste cresceu; depois uma espiga I]amadurou.,
+	      amadurecer: No resto do mundo, o tomate é colhido verde e [amadurece durante o transporte, o que altera seu sabor.,
+	      madurar: O pinhão neste ano I]madurou mais cedo e as pinhas começaram a cair mais cedo das araucárias.,
+	      madurecer: As frutas são robustas e I]madurecem vermelhinhas.,
+	      maturar: A fruta I]maturou, resta colhê-la.,
+	      sazonar: O tempo I]sazona o fruto verde, altera a feição do charco, amolece o rochedo e cobre o ramo fanado de novas flores.,}
+Chave: AMADURECER <verb.change>
+ILI: 00241617
+
+Sense 1
+{00241617} <verb.change> ripen1, mature4 -- (cause to ripen or develop fully; "The sun ripens the fruit"; "Age matures a good wine")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA1985
+
+DADO O SYNSET:
+
+S='Glosa1985'
+{desgarrar-se: A nau de Diogo Dias I]desgarrou-se e foi parar em Mogadíscio, na Somália.,
+ desnortear-se: Então, de volta, I]desnorteou-se numa tempestade em alto mar, na costa da África, onde era pago como honrado cavaleiro da bela rainha moura.,
+ desorientar-se: Encontrando severas condições meteorológicas, desviou-se da rota, vindo a desorientar-se e colidir com o solo. ,
+ esgarrar-se: O navio H]esgarrou-se.,
+ esmadrigar: x,
+ perder-se: Foi o que ocorreu com os governantes republicanos, depois que o navio Alagoas conduzindo D. Pedro II e a Família Imperial I]perdeu-se nas brumas do Atlântico.,
+ transviar-se: x,
+ tresmalhar-se: A grande armada, de treze navios, chegou à vista de Calacute reduzida a seis (um perdera-se nos mares do arquipélago de Cabo Verde; outro regressara a Portugal com a notícia do achamento do Brasil; quatro soçobraram no Atlântico Sul, fustigados por súbita tempestade; e o sétimo I]tresmalhou-se e não chegou à Índia, embora tivesse regressado a Portugal).,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1985' = “ficar perdido de seu trajeto direito” 
+{desgarrar-se: A nau de Diogo Dias I]desgarrou-se e foi parar em Mogadíscio, na Somália.,
+ desnortear-se: João Pimenta de Abreu teve que ir a Jacuí; I]desnorteou-se pelo caminho, em meio a matagal fechado, perdendo por completo o rumo a seguir.,
+ desorientar-se: Só que, neste caso, se concluiu que o piloto se I]desorientou ao entrar na escuridão e colidiu com o solo pouco antes de cruzar o litoral.,
+ perder-se: O local é muito frequentado por pessoas que costumam passear e até se [perder em suas trilhas.,
+ tresmalhar-se: A grande armada, de treze navios, chegou à vista de Calacute reduzida a seis (um perdera-se nos mares do arquipélago de Cabo Verde; outro regressara a Portugal com a notícia do achamento do Brasil; quatro soçobraram no Atlântico Sul, fustigados por súbita tempestade; e o sétimo I]tresmalhou-se e não chegou à Índia, embora tivesse regressado a Portugal).,}
+Chave: DESORIENTAR-SE <verb.motion>
+ILI: 01869733
+
+Sense 2
+{01869733} <verb.motion> stray, err, drift4 -- (wander from a direct course or at random; "The child strayed from the path and her parents lost sight of her"; "don't drift from the set course")
+       => {01782203} <verb.motion> travel, go, move3, locomote -- (change location; move, travel, or proceed; "How fast does your new car go?"; "We travelled from Rome to Naples by bus"; "The policemen went from door to door looking for the suspect"; "The soldiers moved towards the city in an attempt to take it before night fell")

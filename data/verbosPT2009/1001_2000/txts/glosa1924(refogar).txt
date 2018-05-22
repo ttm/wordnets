@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA1924
+
+DADO O SYNSET:
+
+S='Glosa1924'
+{afogar2: I]Afogar o arroz com açafrão e cozinhar com o caldo do frango. ,
+ guisar: Em seguida, leve ao fogo para I]guisar, até ficar um molho grosso, deixando cozinhar. ,
+ refogar: Em outra frigideira, I]refogar a berinjela no azeite com masala, temperar e reservar.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1924' = “fritar levemente sobre temperatura alta”
+{guisar: Era um pouquinho pior porque, certa feita, tirou os peixinhos do aquário e I]guisou-os.,
+ refogar: Nessa mesma panela, [refogue a cebola.,}
+Chave: REFOGAR <verb.change>
+ILI: 00316326
+
+Sense 1
+{00316326} <verb.change> saute -- (fry briefly over high heat; "saute the onions")
+       => {00315035} <verb.change> fry -- (cook on a hot surface using fat; "fry the pancakes")
+           => {00312547} <verb.change> cook -- (transform and make suitable for consumption by heating; "These potatoes have to cook for 20 minutes")
+               => {00135037} <verb.change> change integrity -- (change in physical make-up)
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

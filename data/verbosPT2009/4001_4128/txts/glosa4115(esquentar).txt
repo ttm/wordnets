@@ -1,0 +1,35 @@
+ANÁLISE DA GLOSA4115
+
+DADO O SYNSET:
+
+S='Glosa4115'
+{abrasar: O sol H]abrasava o solo.,
+acalorar: A água fervente H]acalora as marmitas.,
+aquecer: Era o fogão à lenha num canto da sala, o qual, além de esquentar a comida, I]aquecia o ambiente .,
+aquentar: x,
+cozinhar: H]Cozinhou o pudim em banho-maria.,
+desenregelhar: x,
+encalmar: O sol do meio-dia A]encalmava os caminhantes.,
+esquentar: Diego I]esquentou a comida para os dois.,
+quentar: Senta, a comida já I]quentou.,}
+	  
+A='Glosa2739'
+{esfriar, gelar, refrigerar, resfriar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4115' = “tornar quente ou mais quente”
+{abrasar: O sol H]abrasava o solo.,
+acalorar: A água fervente H]acalora as marmitas.,
+aquecer: Era o fogão à lenha num canto da sala, o qual, além de esquentar a comida, I]aquecia o ambiente .,
+esquentar: Diego I]esquentou a comida para os dois.,
+quentar: Como sempre, a mãe foi à cozinha A]quentar o leite e fazer o café.,}
+	  
+A='Glosa2739'
+{esfriar, gelar, refrigerar, resfriar}
+Chave: ESQUENTAR <verb.change>
+ILI: 00359947
+
+Sense 1
+{00359947} <verb.change> heat1, heat up -- (make hot or hotter; "heat the soup")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2248
+
+DADO O SYNSET:
+
+S='Glosa2248'
+	    {descaracterizar: O juiz entendeu que a instalação dos módulos provisórios [descaracteriza o projeto .,
+	      desindividualizar: Talvez a pior consequência da pornografia seja o fato de que ela I]desindividualiza o amor.,
+	      generalizar: A «VSD», revista de variedades, [generaliza o luto com a capa «Os anjos feridos», sobre os vários acidentados ou mortos da F-1 .,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2248' = “tornar vague ou indistinto”
+	    {descaracterizar: O juiz entendeu que a instalação dos módulos [descaracteriza o projeto .,
+	      desindividualizar: A pior consequência da pornografia é que ela I]desindividualiza o amor.,
+	      generalizar: A revista de variedades [generaliza o luto com a capa «Os anjos feridos».,}
+
+Chave: DESCARACTERIZAR <verb.change>
+ILI: 00301277
+
+{00301277} <verb.change> blur, dim4, slur -- (become vague or indistinct; "The distinction between the two theories blurred")
+       => {00216002} <verb.change> weaken -- (become weaker; "The prisoner's resistance weakened after seven days")
+           => {00146081} <verb.change> decrease, diminish, lessen, fall6 -- (decrease in size, extent, or range; "The amount of homework decreased towards the end of the semester"; "The cabin pressure fell dramatically"; "her weight fall to under a hundred pounds"; "his voice fell to a whisper")
+               => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

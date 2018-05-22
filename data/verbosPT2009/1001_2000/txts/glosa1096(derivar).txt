@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA1096
+
+DADO O SYNSET:
+
+S='Glosa1096'
+{bifurcar: Difluência é uma característica do escoamento em que as linhas de corrente afastam ou I]bifurcam, corrente abaixo,
+ derivar: A unidade SI de força é o newton (N) , que [deriva de duas unidades: uma de base, a unidade de massa (kg) , e uma derivada, a unidade de aceleração (m / s2)/A Igreja fazia uma interpretação de que a Teologia da Libertação [derivava do marxismo,
+ ramificar: Diques e veios têm uma tendência para [ramificar e mudar de direção de modo complexo, especialmente onde eles cortam através de outros diques,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1096' = “dividir em dois ou mais ramos de modo a formar uma bifurcação”
+{bifurcar: Em 1995, o canal I]bifurcou e rompeu o delta ao sul.,
+ derivar: A Igreja fazia uma interpretação de que a Teologia da Libertação [derivava do marxismo,
+ ramificar: E na artéria que está obstruída a coronária do lado direito I]ramificou e foi até o lado esquerdo.,}
+Chave: DERIVAR <verb.change>
+ILI: 00318467
+
+Sense 2
+{00318467} <verb.change> branch, ramify, fork, furcate, separate4 -- (divide into two or more branches so as to form a fork; "The road forks")
+       => {01974373} <verb.motion> diverge -- (move or draw apart; "The two paths diverge here")
+           => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right")
+          Also See-> {00424026} <verb.change> branch out#1

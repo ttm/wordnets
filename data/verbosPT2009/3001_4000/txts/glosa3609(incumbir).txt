@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA3609
+
+DADO O SYNSET:
+
+S='Glosa3609'
+	    {
+	      incumbir: Luxemburgo [incumbiu Mazinho de comandar o meio-campo.,
+	      ocupar: I]Ocupar os alunos na escola com atividades.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3609' = “impor uma tarefa ou designar uma responsabilidade ”
+	     {incumbir: Luxemburgo [incumbiu Mazinho de comandar o meio-campo.,
+	      ocupar: Ele respeitava os brahmanas duas vezes nascidos e I]ocupava-os na execução de sacrifícios diários.,}
+Chave: INCUMBIR <verb.communication>
+ILI: 00725770
+
+Sense 18
+{00725770} <verb.communication> charge1, saddle, burden -- (impose a task upon, assign a responsibility to; "He charged her with cleaning up all the files over the weekend")
+       => {00726786} <verb.communication> command, require, compel -- (make someone do something)
+           => {00722209} <verb.communication> order1, tell2, enjoin, say4 -- (give instructions to or direct somebody to do something with authority; "I said to him to go home"; "She ordered him to do the shopping"; "The mother told the child to get dressed")
+               => {00728656} <verb.communication> request2 -- (ask (a person) to do something; "She asked him to be here at noon"; "I requested that she type the entire manuscript")
+                   => {00727721} <verb.communication> ask1 -- (make a request or demand for something to somebody; "She asked him for a loan")
+                       => {00727992} <verb.communication> request1, bespeak, call for4, quest1 -- (express the need or desire for; ask for; "She requested an extra bed in her room"; "She called for room service")
+                           => {00717906} <verb.communication> communicate1, pass on, pass1, put across -- (transmit information ; "Please communicate this message to all employees")
+                               => {02167243} <verb.possession> convey10, transmit10, communicate10 -- (transfer to another; "communicate a disease")
+                                   => {02167764} <verb.possession> transfer1 -- (move from one place to another; "transfer the data"; "transmit the news"; "transfer the patient to another hospital")
+                                       => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

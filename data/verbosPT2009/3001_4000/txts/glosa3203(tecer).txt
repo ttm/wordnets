@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA3203
+
+DADO O SYNSET:
+
+S='Glosa3203'
+	    {
+	      entretecer: x,
+	      intertecer: x,
+	      tecer: Começa a [tecer colcha de retalhos, faz doce de banana.,
+	      tramar: Sua mão ligeira [tramava a teia de uma rede, que entretecia das penes douradas do galo-da-serra.,
+	      urdir: Nesse momento as mulheres colocadas em duas filas, com as mãos erguidas, [urdiam os fios de algodão, passados pelos dedos abertos em forma de pente. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3203' = “entrelaçar por ou como se por tecelagem”
+	     {tecer: Atena I]teceu no seu tapete a imagem do penhasco da acrópole de Atenas, lugar que ela conquistou após uma luta com Posídon.,
+	      tramar: Sua mão ligeira [tramava a teia de uma rede, que entretecia das penes douradas do galo-da-serra.,
+	      urdir: Nesse momento as mulheres colocadas em duas filas, com as mãos erguidas, [urdiam os fios de algodão, passados pelos dedos abertos em forma de pente. ,}
+Chave: TECER <verb.contact>
+ILI: 01476697
+
+Sense 1
+{01476697} <verb.contact> weave, interweave -- (interlace by or as it by weaving)
+       => {01186160} <verb.contact> twist1, twine4, distort1 -- (form into a spiral shape; "The cord is all twisted")
+           => {00135866} <verb.change> change shape, change form, deform2 -- (assume a different shape or form)
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

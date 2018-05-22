@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA0942
+
+DADO O SYNSET:
+
+S='Glosa942'
+{aclamar: O melhor de tudo era logo [aclamar o imperador.,
+conclamar: Aos 33 anos, Jesus de Nazaré foi I]conclamado pelo povo como rei dos judeus.,
+coroar: Nove anos depois, Joana D' Arc conseguiu [coroar o delfim Carlos Vll, em Reims. # Pepino, o Breve, fez-se [coroar rei, após depor o último merovíngio.,
+eleger: Os franceses não admitiam serem governados por um inglês, então I]elegeram Felipe IV como seu novo rei.,
+proclamar: Quando notou que estavam querendo levá-lo para I]proclamá-lo rei, Jesus retirou-se de novo, sozinho, para o monte.# O padre Ildefonso Xavier Ferreira, resolveu comprometer D. Pedro I definitivamente com a independência, assumindo a iniciativa de I]proclamá-lo rei do Brasil.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa942' = “declarar, anunciar formalmente sobre alguém como sendo algo; de títulos”
+{aclamar: O melhor de tudo era logo [aclamar o imperador.,
+conclamar: Aos 33 anos, Jesus de Nazaré foi I]conclamado pelo povo como rei dos judeus.,
+coroar: Nove anos depois, Joana D' Arc conseguiu [coroar o delfim Carlos Vll, em Reims. # Pepino, o Breve, fez-se [coroar rei, após depor o último merovíngio.,
+eleger: Os franceses não admitiam serem governados por um inglês, então I]elegeram Felipe IV como seu novo rei.,
+proclamar: Quando notou que estavam querendo levá-lo para I]proclamá-lo rei, Jesus retirou-se de novo, sozinho, para o monte.# O padre Ildefonso Xavier Ferreira, resolveu comprometer D. Pedro I definitivamente com a independência, assumindo a iniciativa de I]proclamá-lo rei do Brasil.,}
+Chave: PROCLAMAR <verb.communication>
+ILI: 00946105
+
+Sense 1
+{00946105} <verb.communication> proclaim2 -- (declare formally; declare someone to be something; of titles; "He was proclaimed King")
+       => {00996229} <verb.communication> entitle, title -- (give a title to)
+           => {00995511} <verb.communication> name3, call2 -- (assign a specified, proper name to; "They named their son David"; "The new school was named after the famous Civil Rights leader")
+               => {00996581} <verb.communication> label -- (assign a label to; designate with a label; "These students were labelled `learning disabled'")
+                   => {00996861} <verb.communication> designate, denominate -- (assign a name or title to)

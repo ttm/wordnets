@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA2497
+
+DADO O SYNSET:
+
+S='Glosa2497'
+	    {assassinar: Entre elas, as foices dos sem-terra e que supostamente também teriam sido usadas pelos PMs para [assassinar alguns dos manifestantes.# Quase ao final da leitura da sentença, anunciou uma pena de 309 anos de reclusão ao ex-soldado PM Marcus Vinícius Borges Emmanuel, um dos nove acusados de [assassinar oito crianças na madrugada de 23 de julho de 1993, no centro do Rio.,
+	      aviar: Recebeu ordem para M]aviar o ladrão.,
+	      despachar: Use a Stun Grenade para I]despachar os inimigos que vêm de trás.,
+	      matar: O filho de John Wideman foi preso aos 15 anos por [matar outro adolescente num acampamento de verão.,
+	      silenciar: Zé Botinha silenciou uma das vozes mais ativas de Águas Lindas em defesa da cidadania e dos direitos humanos, João Elízio Pessoa, que desde 1997 denuncia a ação criminosa da polícia na cidade goiana a 50 quilômetros de Brasília, foi executado com três tiros na noite de segunda-feira.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2497' = “Matar intencionalmente e com premeditação.”
+	    {assassinar: Anjos disse que [assassinou o estudante com um tiro porque Oliveira descobriu que os dois namoravam a mesma garota.,
+	      despachar: O xerife do condado de Brown I]despachou Widman, um recruta que estudava justiça criminal na universidade Washburn.,
+	      matar: Nélson Cunha declarou que só [matou um menor durante a expedição criminosa na Candelária.,
+	      silenciar: Zé Botinha I]silenciou uma das vozes mais ativas de Águas Lindas em defesa da cidadania e dos direitos humanos, João Elízio Pessoa, foi executado com três tiros na noite de segunda-feira.,}
+
+Chave: ASSASSINAR <verb.social>
+ILI: 02408144
+
+Sense 1
+{02408144} <verb.social> murder, slay, hit, dispatch1, bump off, polish off, remove1 -- (kill intentionally and with premeditation; "The mafia boss ordered his enemies murdered")
+       => {01284688} <verb.contact> kill -- (cause to die; put to death, usually intentionally or knowingly; "This man killed several people when he tried to rob a bank"; "The farmer killed a pig for the holidays") 

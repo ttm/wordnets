@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA1930
+
+DADO O SYNSET:
+
+S='Glosa1930'
+{chover: Se não [chover, podemos aguardar para a semana que vem o declínio da curva do número de casos da doença.,}
+	  
+A='Glosa1929'
+{estiar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1930' = “precipitar-se como chuva”
+{chover: Se não [chover, podemos aguardar para a semana que vem o declínio da curva do número de casos da doença.,}
+	  
+A='Glosa1929'
+{estiar}
+Chave: CHOVER <verb.weather>
+ILI: 02674675
+
+Sense 1
+{02674675} <verb.weather> rain, rain down -- (precipitate as rain; "If it rains much more, we can expect some flooding")
+       => {02674938} <verb.weather> precipitate, come down, fall -- (fall from clouds; "rain, snow and sleet were falling"; "Vesuvius precipitated its fiery, destructive rage on Herculaneum")

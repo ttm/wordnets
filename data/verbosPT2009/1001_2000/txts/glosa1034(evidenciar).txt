@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA1034
+
+DADO O SYNSET:
+
+S='Glosa1034'
+{cunhar: Michel Foucault, impressionado com a novidade, [cunhou, em 1969, uma frase emblemática em resenha publicada na revista Critique.,
+ evidenciar: Se os documentos que instruírem a petição [evidenciarem a ilegalidade da coação, o juiz ou o tribunal ordenará que cesse imediatamente o constrangimento.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1034' = “destacar, tornando mais visível ou proeminente”
+{cunhar: A superação pessoal, a qual você empreendeu para chegar à aprovação, I]cunhou um caráter, uma organização, uma força pessoal, que podem e devem servir para ajudar a enfrentar os novos desafios que estão surgindo..,
+ evidenciar: Se os documentos que instruírem a petição [evidenciarem a ilegalidade da coação, o juiz ou o tribunal ordenará que cesse imediatamente o constrangimento.,}
+Chave: EVIDENCIAR <verb.change>
+ILI: 00500393
+
+Sense 1
+{00500393} <verb.change> foreground, highlight, spotlight1, play up -- (move into the foreground to make more visible or prominent; "The introduction highlighted the speaker's distinguished career in linguistics")
+       => {00500787} <verb.change> bring out, set off2 -- (direct attention to, as if by means of contrast; "This dress accentuates your nice figure!"; "I set off these words by brackets")
+           => {00980547} <verb.communication> stress, emphasize, emphasise, punctuate, accent1, accentuate -- (to stress, single out as important; "Dr. Jones emphasizes exercise in addition to a change in diet")
+               => {00912790} <verb.communication> express1, show2, evince -- (give expression to; "She showed her disappointment")
+                   => {00898144} <verb.communication> convey, impart1 -- (make known; pass on, of information)
+                       => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                           => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                               => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

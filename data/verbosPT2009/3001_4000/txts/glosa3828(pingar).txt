@@ -1,0 +1,36 @@
+ANÁLISE DA GLOSA3828
+
+DADO O SYNSET:
+	
+S='Glosa3828'
+{acoar: x,
+	 alambicar: x,
+	 coar: As nuvens cinzentas A]coavam uma chuva miúda.,
+	 destilar: Sentiu já o golpe no coração e como a copaíba ferida no âmago, [destila as lágrimas em fio.,
+	 escorrer: E com o cabelo a I]escorrer água, porque tinha arrumado o carro dois quarteirões mais adiante e no meio do meu desaire claro que nunca mais me lembrei do chapéu de chuva. ,
+	 estilar1: Que quererão dizer estas espadas sem dono, a I]estilar sangue e descoradas, neste lugar de paz?,
+	 gotear: Como um chuveiro gigantesco, fica I]goteando, chovendo internamente, embora acima dele a chuva já tenha parado.,
+	 gotejar: Utilizando a seringa [goteje água no tubo de ensaio.,
+	 pingar: Para os que não dispõem de água clorada, recomenda-se [pingar duas gotas de hipoclorito de sódio por litro e esperar 30 minutos para beber ou usar a água.,
+	 pingotear: x,
+	 respingar2: Faz uma espécie de dança sobre a obra, [respingando tinta sobre uma tela esticada no chão.,
+	 transcoar: x }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3828' = “cair em gotas”
+{coar: As nuvens cinzentas A]coavam uma chuva miúda.,
+	 destilar: Sentiu já o golpe no coração e como a copaíba ferida no âmago, [destila as lágrimas em fio.,
+	 escorrer: E com o cabelo a I]escorrer água, porque tinha arrumado o carro dois quarteirões mais adiante e no meio do meu desaire claro que nunca mais me lembrei do chapéu de chuva.,
+	 estilar1: Que quererão dizer estas espadas sem dono, a I]estilar sangue e descoradas, neste lugar de paz?,
+	 gotear: Como um chuveiro gigantesco, fica I]goteando, chovendo internamente, embora acima dele a chuva já tenha parado.,
+	 gotejar: Utilizando a seringa [goteje água no tubo de ensaio.,
+	 pingar: Para os que não dispõem de água clorada, recomenda-se [pingar duas gotas de hipoclorito de sódio por litro e esperar 30 minutos para beber ou usar a água.,
+	 respingar2: Faz uma espécie de dança sobre a obra, [respingando tinta sobre uma tela esticada no chão.}
+Chave: PINGAR <verb.motion>
+ILI: 02012541
+
+Sense 1
+{02012541} <verb.motion> drip -- (fall in drops; "Water is dripping from the faucet")
+       => {01912987} <verb.motion> descend, fall, go down2, come down -- (move downward and lower, but not necessarily all the way; "The temperature is going down"; "The barometer is falling"; "The curtain fell on the diva"; "Her hand went up and then fell again")
+           => {01782203} <verb.motion> travel, go, move3, locomote -- (change location; move, travel, or proceed; "How fast does your new car go?"; "We travelled from Rome to Naples by bus"; "The policemen went from door to door looking for the suspect"; "The soldiers moved towards the city in an attempt to take it before night fell")

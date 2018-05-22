@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA2161
+
+DADO O SYNSET:
+	  S='Glosa2161'
+	    {
+	      estridular: Rodolfo César apresentará uma obra (A Noite em Conchas) cuja peça de resistência é o cricrilar de um grilo, o coachar de um sapo e o I]estridular de uma cigarra - previamente gravados, é claro. ,
+	      estrilar: Os grilos A]estrilavam em rumorejo.,
+	      fretenir: Mas sou forte como a primavera e perseverante como as cigarras que soltam seu I]fretenir na luz da manhã. ,
+	      retinir: Era o trilar do inambu, o piar do macuco, o berrar do tucano, o grasnar gargalhado do jacu, o I]retinir da araponga, o chiar do serelepe...,
+	      zangarrear: Suportei a recordação com algum esforço; mas um barbeiro da vizinhança lembrou-se de I]zangarrear na clássica rabeca, e essa voz porque até então a recordação era muda, - essa voz do passado, fanhosa e saudosa me comoveu.,
+	      ziziar: O I]ziziar das cigarras cumprimentam a lua.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2506' = “produzir som agudo como o do grilo” 
+	    {estridular: Rodolfo César apresentará uma obra (A Noite em Conchas) cuja peça de resistência é o cricrilar de um grilo, o coachar de um sapo e o I]estridular de uma cigarra - previamente gravados, é claro. ,
+	      estrilar: Os grilos A]estrilavam em rumorejo.,
+	      fretenir: Mas sou forte como a primavera e perseverante como as cigarras que soltam seu I]fretenir na luz da manhã. ,
+	      retinir: Era o trilar do inambu, o piar do macuco, o berrar do tucano, o grasnar gargalhado do jacu, o I]retinir da araponga, o chiar do serelepe...,
+	      zangarrear: Suportei a recordação com algum esforço; mas um barbeiro da vizinhança lembrou-se de I]zangarrear na clássica rabeca, e essa voz porque até então a recordação era muda, - essa voz do passado, fanhosa e saudosa me comoveu.,
+	      ziziar: O I]ziziar das cigarras cumprimentam a lua., }
+
+Chave: ESTRILAR <verb.communication>
+ILI: 01018712
+
+{01018712} <verb.communication> peep, twirp, cheep, chirp, chirrup -- (make high-pitched sounds; of birds)
+       => {00951670} <verb.communication> utter2, emit, let out2, let loose -- (express audibly; utter sounds (not necessarily words); "She let out a big heavy sigh"; "He uttered strange sounds that nobody could understand")

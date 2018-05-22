@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA3445
+
+DADO O SYNSET:
+
+S='Glosa3445'
+	    {
+	      comprometer-se: O governo teve que assinar um acordo por escrito [se comprometendo a preservar o privilégio/As montadoras [se comprometeram a investir,
+	      compromissar-se: Os candidatos que não comprovaram o registro deverão ]compromissar-se a apresentá-lo no prazo de 60 dias/Sente-se só, mas tem medo de ]se compromissar,
+	      enfrascar-se: x,
+	      envolver-se: Romário também não quis [se envolver/Ele tem que ser candidato e não [se envolver em coisas de governo,
+	      implicar-se: ]Implicaram-no em crime de furto,
+	      meter-se: O Congresso não tem que [se meter com os bancos/Achava-o incapaz de [se meter com essas coisas,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3445' = “levar para dentro de ligação íntima e incriminatória” 
+	     {comprometer-se: A companhia I]comprometeu-se com a afirmação de que será capaz de realizar lucros compensáveis, aproveitando-se dos créditos tributários ao longo de 5 anos,
+	      envolver-se: João Magno I]envolveu-se no escândalo do "mensalão" por ter sacado cerca de R$ 420 mil das contas de Valério,
+	      implicar-se: O deputado I]implicou-se em negócios ilícitos,
+	      meter-se: Depois I]meteu-se em confusões que o levaram a sofrer um triste processo inquisitorial na Bahia,}
+Chave: COMPROMETER-SE <verb.stative>
+ILI: EQ_NEAR_SYNONYM - 02596575
+
+Sense 1
+{02596575} <verb.stative> implicate1 -- (bring into intimate and incriminating connection; "He is implicated in the scheme to defraud the government")
+       => {02596340} <verb.stative> involve1, affect, regard -- (connect closely and often incriminatingly; "This new ruling affects your business")
+           => {02595351} <verb.stative> refer, pertain1, relate, concern, come to3, bear on, touch, touch on -- (have to do with or be relevant to; "There were lots of questions referring to her talk"; "My remark pertained to your earlier comments")

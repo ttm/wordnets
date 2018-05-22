@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA3687
+
+DADO O SYNSET:
+
+S='Glosa3687'
+	    {
+	      afigurar: Antes I]afigurava um deus sereno e forte. ,
+	      aparentar: A mulher tem a pele morena clara, tem cabelo castanho claro pintado e [aparenta ter 32 anos.,
+	      demonstrar: Você parece anos mais jovem, não I]demonstra sua idade. ,
+	      figurar: Em luta uma com outra, ambas se achavam de acordo nesse ponto, de [figurarem os selvagens como feras humanas. ,
+	      parentar: Veja as pessoas como boas e bonitas, mesmo que elas pareçam se esforçar para não I]parentar isso.,
+	      representar: Senti que ela I]representava, em si mesma, a convergência da fragilidade de uma idade muito avançada. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3687' = “dar uma certa impressão ou ter um certo aspecto externo”
+	     {afigurar: Antes I]afigurava um deus sereno e forte.,
+	      aparentar: A mulher tem a pele morena clara, tem cabelo castanho claro pintado e [aparenta ter 32 anos.,
+	      demonstrar: Você parece anos mais jovem, não I]demonstra sua idade.,
+	      figurar: M]Figurava ter menos idade.,
+	      parentar: Os olhares I]parentavam o cansaço da caminhada.,
+	      representar: Senti que ela I]representava, em si mesma, a convergência da fragilidade de uma idade muito avançada.,}
+Chave: APARENTAR <verb.perception>
+ILI: 02071636
+
+Sense 1
+{02071636} <verb.perception> look1, appear, seem -- (give a certain impression or have a certain outward aspect; "She seems to be sleeping"; "This appears to be a very difficult problem"; "This project looks fishy"; "They appeared like people who had not eaten or slept for a long time")
+       => {02526983} <verb.stative> be3 -- (have the quality of being; (copula, used with an adjective or a predicate noun); "John is rich"; "This is not a good answer")

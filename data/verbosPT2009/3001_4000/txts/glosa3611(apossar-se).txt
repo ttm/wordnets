@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA3611
+
+DADO O SYNSET:
+
+S='Glosa3611'
+	    {
+	      apoderar-se: As potências européias, nos séculos XV e XVI, [apoderaram-se da terra americana e da sua gente, fundando colônias. ,
+	      apossar-se: O governo, sabendo que aqui era terra indígena, deu para fazendeiros I]se apossarem.,
+	      ocupar: Acreditamos que [ocupar terra improdutiva é um direito de cidadania.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3611' = “tomar posse por força, como após uma invasão”
+	     {apoderar-se: As potências européias, nos séculos XV e XVI, [apoderaram-se da terra americana e da sua gente, fundando colônias. ,
+	      apossar-se: Na aldeia de São Lourenço, por exemplo, arrendatários e foreiros I]apossaram-se rapidamente dos terrenos das aldeias, apoderando-se deles fraudulentamente.,
+	      ocupar: No início de maio, 600 famílias de sem-terra [ocuparam uma destas fazendas, que tem 12 mil hectares.,}
+Chave: APOSSAR-SE <verb.possession>
+ILI: 02206880
+
+Sense 3
+{02206880} <verb.possession> appropriate, capture, seize1, conquer -- (take possession of by force, as after an invasion; "the invaders seized the land and property of the inhabitants"; "The army seized the town"; "The militia captured the castle")
+       => {02208641} <verb.possession> assume, usurp, seize7, take over7, arrogate -- (seize and take control without authority and possibly with force; take as one's right or possession; "He assumed to himself the right to fill all positions in the town"; "he usurped my rights"; "She seized control of the throne after her husband died")
+           => {02143102} <verb.possession> take1 -- (take by force; "Hitler took the Baltic Republics"; "The army took the fort on the hill")

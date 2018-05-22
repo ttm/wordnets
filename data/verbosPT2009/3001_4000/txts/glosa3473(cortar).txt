@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA3473
+
+DADO O SYNSET:
+
+S='Glosa3473'
+	    {
+	      aguarentar: x,
+	      aparar1: O fato de Lula [aparar a barba toda vez que grava para o programa do PT está deixando seus escudeiros preocupados/Ela pintou os cabelos de negro azulado, e o marido apenas [aparou as madeixas,
+	      cercear: Todas as vezes que os indígenas compunham uma palavra, [cerceavam as sílabas dos vocábulos que entravam na composição, para ligá-las mais eufonicamente,
+	      cortar: FHC deixou ontem o Alvorada mais cedo para [cortar o cabelo em casa/Você deverá cortar as duas partes do tecido/Cortar o excesso do tecido,
+	      diminuir: Elas querem apertar a cintura, trocar golas de casacos ou [diminuir tamanhos de saias e calças,
+	      encurtar: Você pode ]encurtar o cabelo,
+	      minuir: x,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3473' = “encurtar cortando as bordas ou as pontas”
+	     {aparar1: Fez um «curso intensivo» de números sobre a realidade brasileira, [aparou a barba, dialogou à exaustão com empresários, melhorou seu português etc/Ela pintou os cabelos de negro azulado, e o marido apenas [aparou as madeixas,
+	      cercear: H]cercear a fronde de uma árvore,
+	      cortar: Logo pela manhã, Fernando Henrique [cortou os cabelos e foi ao Ministério da Fazenda se despedir dos funcionários,
+	      diminuir: Elas querem apertar a cintura, trocar golas de casacos ou [diminuir tamanhos de saias e calças,
+	      encurtar: A polícia tem sua descrição, por isso I]encurtou o cabelo, desfiou-o com lâmina de barbear,}
+Chave: CORTAR <verb.change>
+ILI: 00545615
+
+Sense 32
+{00545615} <verb.change> cut14 -- (shorten as if by severing the edges or ends of; "cut my hair")
+       => {00545418} <verb.change> shorten9 -- (make short or shorter; "shorten the skirt"; "shorten the rope by a few inches")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

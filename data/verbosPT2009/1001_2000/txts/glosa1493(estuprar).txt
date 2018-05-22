@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA1493
+
+DADO O SYNSET:
+
+S='Glosa1493'
+{abusar: Duas diretoras da Escola de Educação Infantil Base de São Paulo foram acusadas de [abusar sexualmente de seus alunos,
+ desonestar: A]Desonestavam todas as cachopas destas três léguas em roda.,
+ desonrar: Se I]desonrar alguém, alguma virgem, lhe dará um dote e casará com ela,
+ estuprar: Ele citou o índio caiapó Paiakan, acusado de [estuprar uma estudante há dois anos em Redenção,
+ forçar: M]Forçar uma donzela.,
+ violar: Todos nós concordamos que roubar, I]violar criancinhas e matar pessoas é mau,
+ violentar: A promotora Eliete Almeida de Sousa informou que o julgamento das sete pessoas acusadas de [violentar e matar 20 meninos,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1493' = “forçar [alguém] a fazer sexo contra sua vontade”
+{abusar: Me amarraram na cama, amarraram os braços, tiraram a minha roupa e um deles [abusou de mim umas três, quatro vezes.,
+ desonrar: A mãe da menina entrou em desespero: “Ele quase I]desonrou a minha filha”; e o pintor nega a acusação: “Não relei a mão na menina, sou inocente”.,
+ estuprar: Ele citou o índio caiapó Paiakan, acusado de [estuprar uma estudante há dois anos em Redenção.,
+ violar: Mas outro homem, ateu, violou a mulher tatuada, e depois morreu. Do estupro nasceram duas gêmeas, puras e virgens.,
+ violentar: Um cidadão americano - se é que se pode chamá-lo de cidadão – I]violentou-a, e ela ficou grávida.}
+Chave: ESTUPRAR <verb.social>
+ILI: 02491481
+
+Sense 1
+{02491481} <verb.social> rape, ravish, violate1, assault3, dishonor2, dishonour2, outrage -- (force (someone) to have sex against their will; "The woman was raped on her way home at night")
+       => {01085076} <verb.competition> assail, assault, set on, attack2 -- (attack someone physically or emotionally; "The mugger assaulted the woman"; "Nightmares assailed him regularly")

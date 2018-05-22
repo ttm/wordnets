@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA2178
+
+DADO O SYNSET:
+
+S='Glosa2178'
+	    {abeirar: A]Abeirou o animal do regato.  ,
+	      acaroar: H]Acaroar uma embarcação com outra.,
+	      acercar: H]Acercou do trono os sábios do reino.,
+	      achegar: E Vladin I]achegou mais uma vez a vela aos seus colhões.,
+	      avizinhar: H]Avizinhou a lâmpada do sofá.,
+	      vizinhar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2178' =”aproximar em direção de algo”
+	    {abeirar: A]Abeirou o animal do regato.  ,
+	      acaroar: H]Acaroar uma embarcação com outra.,
+	      acercar: H]Acercou do trono os sábios do reino.,
+	      achegar: E Vladin I]achegou mais uma vez a vela aos seus colhões.,
+	      avizinhar: H]Avizinhou a lâmpada do sofá.,}
+
+Chave: ACHEGAR <verb.motion>
+ILI: EQ_NEAR_SYNONYM - 01995535
+Sense 1
+{01995535} <verb.motion> approach, near, come on, go up3, draw near, draw close, come near -- (move towards; "We were approaching our destination"; "They are drawing near"; "The enemy army came nearer and nearer")
+       => {01795677} <verb.motion> come, come up2 -- (move toward, travel toward something or somebody or approach something or somebody; "He came singing down the road"; "Come with me to the Casbah"; "come down here!"; "come out of the closet!"; "come into the room")
+           => {01782203} <verb.motion> travel, go, move3, locomote -- (change location; move, travel, or proceed; "How fast does your new car go?"; "We travelled from Rome to Naples by bus"; "The policemen went from door to door looking for the suspect"; "The soldiers moved towards the city in an attempt to take it before night fell")

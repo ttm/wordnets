@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA1527
+
+DADO O SYNSET:
+
+S='Glosa1527'
+	    {descasar-se: Sinatra, participou de 12 filmes, teve dois filhos, [descasou-se da primeira mulher (Nancy) e  casou-se com a segunda (Ava Gardner).,
+	      desquitar-se: É dessa época o início de seu relacionamento com Zélia Gattai, após I]desquitar-se da primeira esposa.,
+	      divorciar-se: Gisele queria se [divorciar de Pascini.,
+	      quitar-se: M]Quitou-se a mulher do marido.,
+	      separar-se: Afonso é um médico que, depois de [separar-se de Alcina, passa a viver com Lídia.,}
+
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1527' = “obeter divórcio”
+	    {descasar-se: Sinatra, participou de 12 filmes, teve dois filhos, [descasou-se da primeira mulher (Nancy) e  casou-se com a segunda (Ava Gardner).,
+	      desquitar-se: É dessa época o início de seu relacionamento com Zélia Gattai, após I]desquitar-se da primeira esposa.,
+	      divorciar-se: Gisele queria se [divorciar de Pascini.,
+	      quitar-se: M]Quitou-se a mulher do marido.,
+	      separar-se: Afonso é um médico que, depois de [separar-se de Alcina, passa a viver com Lídia.,
+                   repudiar: Ora, eu estou casado há dez anos e não tenho filhos; cabe-me, portanto, segundo a Lei, o direito de I]repudiar minha esposa!,}
+
+Chave: DIVORCIAR-SE <verb.social>
+ILI: 02416324
+
+Sense 2
+{02416324} <verb.social> divorce, split up -- (get a divorce; formally terminate a marriage; "The couple divorced after only 6 months")
+       => {02358151} <verb.social> separate2, part, split up1, split, break13, break up -- (discontinue an association or relation; go different ways; "The business partners broke over a tax question"; "The couple separated after 25 years of marriage"; "My friend and I split up") 

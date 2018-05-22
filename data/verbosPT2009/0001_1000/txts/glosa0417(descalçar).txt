@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0417
+
+DADO O SYNSET:
+
+S='Glosa417'
+{descalçar: Ia [descalçar a primeira botina, quando espantou-se com a lembrança de Ana Rosa.,
+tirar: Ele contou que, ao ser interrogado na tenda, foi obrigado a [tirar os sapatos, mostrar documentos e provar que sabia usar a navalha para se barbear.,}
+A='Glosa797'
+	    {botar1, calçar, pôr}
+
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa417' = “tirar o que estava calçado”
+{descalçar: Ia [descalçar a primeira botina, quando espantou-se com a lembrança de Ana Rosa.,
+tirar: Ele contou que, ao ser interrogado na tenda, foi obrigado a [tirar os sapatos, mostrar documentos e provar que sabia usar a navalha para se barbear.,}
+A='Glosa797'
+	    {botar1, calçar, pôr}
+Chave: DESCALÇAR <verb.change>
+ILI: 00166870
+
+Sense 1
+{00166870} <verb.change> remove, take, take away1, withdraw1 -- (remove something concrete, as by lifting, pushing, taking off, etc. or remove something abstract; "remove a threat"; "remove a wrapper"; "Remove the dirty dishes from the table"; "take the gun from your pocket"; "This machine withdraws heat from the environment")

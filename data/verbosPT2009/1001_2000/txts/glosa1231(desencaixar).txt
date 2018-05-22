@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA1231
+
+DADO O SYNSET:
+
+S='Glosa1231'
+{desconchavar: O mecânico teve de H]desconchavar duas rodas dentadas da máquina,
+ desencaixar: Fazer trilhas apresenta sérios riscos, pois em caso de quedas, se o pé não I]desencaixar no ato da queda, a bike arrasta e pode ferir seriamente o ciclista,}
+	 
+A='Glosa1232'
+{conchavar, encaixar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1231' = “retirar de seu local, posição ou relação usual”
+{desencaixar: A modernização I]“desencaixou” o indivíduo feudal de sua identidade fixa no tempo e no espaço.,}
+A='Glosa1232'
+{conchavar, encaixar}
+Chave: DESENCAIXAR <verb.change>
+ILI: 00402661
+
+Sense 2
+{00402661} <verb.change> dislocate1, displace -- (put out of its usual place, position, or relationship; "The colonists displaced the natives")
+       => {00403695} <verb.change> resettle -- (settle in a new place; "The immigrants had to resettle")
+           => {00401714} <verb.change> settle, locate -- (take up residence and become established; "The immigrants settled in the Midwest")

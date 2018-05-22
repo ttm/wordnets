@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA2633
+
+DADO O SYNSET:
+
+S='Glosa2633'
+	    {acoar: x,
+	      coar: x,
+	      escampar: Fiquemos no sentido pejorativo do verbo manipular: ser enganado. Nem desse I]escampamos todos os dias nesse mundo moderno, com mídia por todos os lados.,
+	      escapar: Desde o Verão de 1993 mais de sete mil xiitas iraquianos fugiram para o Irão, atravessando imensos lamaçais, para [escapar às perseguições e ataques do Exército do presidente Saddam Hussein.,
+	      escapulir: A onça fez I]escapulir o menino.,
+	      evadir: Idealmente, o atacante deve conseguir surpresa total e chegar no alvo sem ser detectado. Se detectado, o piloto deve I]evadir ou se preparar para o engajamento. ,
+	      evitar: A detenção deu-se na cidade de Brescia, para onde aparentemente o juiz foi para [evitar ser preso no tribunal.,
+	      fugir: Dezenas de estrangeiros estão a [fugir de Monróvia, aproveitando uma operação aérea montada pelos EUA.,
+	      resilir: x,
+	      zarpar: Viu que o esperavam e H]zarpou.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2633' = “Livrar-se de aprisionamento.”
+	    {escapar: Battisti I]escapou da prisão em 1981 e passou vários anos morando na França.,
+	      escapulir: Ela I]escapuliu da casa por uma janela.,
+	      evadir: apurava-se a responsabilização dos pais de adolescente que I]evadiu da escola.,
+	      fugir: Envolvido em latrocínio que I]fugiu da cadeia municipal é preso em Vitória.,
+	      zarpar: Mas ele não acatou a ordem e I]zarpou.,}
+
+Chave: FUGIR <verb.motion>
+ILI: 02015953
+
+Sense 1
+{02015953} <verb.motion> escape, get away, break loose -- (run away from confinement; "The convicted murderer escaped from a high security prison")
+       => {02016731} <verb.motion> flee, fly3, take flight -- (run away quickly; "He threw down his gun and fled")
+           => {02016325} <verb.motion> run4, scarper, turn tail, lam, run away, hightail it, bunk, head for the hills, take to the woods, escape2, fly the coop, break away -- (flee; take to one's heels; cut and run; "If you see this man, run!"; "The burglars escaped before the police showed up")
+               => {01951556} <verb.motion> leave1, go forth, go away -- (go away from a place; "At what time does your train leave?"; "She didn't leave until midnight"; "The ship leaves at midnight") 

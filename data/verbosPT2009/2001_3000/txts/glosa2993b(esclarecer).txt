@@ -1,0 +1,77 @@
+ANÁLISE DA GLOSA2993b
+
+DADO O SYNSET:
+
+S='Glosa2993B'
+	    {aclarar: Recebem-se embargos de declaração, com a finalidade de [aclarar obscuridade decorrente de truncamento, por erro datilográfico, do dispositivo do acórdão.,
+	      aclarecer: x,
+	      agaloar: A lei da força é a lei da insídia, que nega a noção de todas as leis, que autoriza a perfídia, consagra a brutalidade, I]agaloa a insolência e eterniza o ódio.,
+	      alumbrar: Para I]alumbrar o panorama dentro do qual se encarta a temática do desvio do poder, é útil considerar alguns tópicos concernentes à caracterização da atividade administrativa dentro do Estado de Direito.,
+	      alumiar: A própria paixão não I]alumiou os seus vislumbres sombrios.,
+	      clarear: Um giro pelo céu da Pátria vai [clarear suas idéias.,
+	      desenegrecer: x,
+	      desentenebrecer: x,
+	      desescurecer: M]Desescurecer a mentalidade.,
+	      elogiar: Ele repete as velhas teses colonialistas e [elogia a França pelas grandes obras civilizatórias.,
+	      enaltar: Devo I]enaltar que a rodovia dos Bandeirantes, se não é a melhor, é uma das melhores rodovias brasileiras.,
+	      enaltecer: Quando se canoniza alguém, a intenção é [enaltecer a eficácia da santidade de Jesus.,
+	      esclarecer: Este bem intencionado esforço não I]esclareceu a natureza da realidade homossexual feminina.,
+	      gabar: São muito poucos os países que se podem [gabar de contar com um sistema de distribuição de renda relativamente equitativo que garanta a todos pelo menos a sobrevivência digna.,
+	      galonar: x,
+	      iluminar: Este único exemplo [ilumina o mecanismo de vários outros tipos de relações humanas ou de situações políticas.,
+	      louvar: É importante I]louvar o fato de que o PT divulgou com antecedência quais são suas diretrizes para o setor elétrico.,}
+
+	  A='Glosa4104'
+	    {abaçanar: x,
+	     assetar: x,
+	     assetear: x,
+	     caluniar: Nunca [caluniou ninguém, tendo concentrado o discurso nas propostas para um Portugal de futuro.,
+	     demolir: A revista I]demoliu o filme antes dele entrar em cartaz.,
+	     denegrecer: x,
+	     denegrir: Tais hábitos H]denigriram sua honra.,
+	     desacreditar: Rompeu com o amigo e tentou A]desacreditá-lo. ,
+	     desafamar: x,
+	     desagaloar: x,
+	     desclassificar: A argumentação nunca deve deser ao insulto, ou ao ataque pessoal, que só I]desclassifica e nunca clarifica.,
+	     descreditar: Nós encontramos Gish tentando I]descreditar Davidson Black.,
+	     desdoirar: x,
+	     desdourar: Contudo, desde há algum tempo deixei de ver graça em atitudes que além de não nos promover como Pátria e Cidadãos; apenas nos I]desdouram, nos desqualificam.,
+	     deslustrar: Eles próprios I]deslustram o caráter.,
+	     desmerecer: Isto não [desmerece nem a ele nem a outros.,
+	     desmoralizar: Os norte-americanos [desmoralizavam seus adversários muçulmanos enterrando seus mortos embrulhados em couro de porco .,
+	     desonestar: H]Desonestaram suas origens.,
+	     desonrar: São atos que o H]desonram.,
+	     detrair: Vivia M]detraindo o governo.,
+	     detratar: A sociedade simplesmente I]detratava os negros.,
+	     difamar: Breno disse que o pai o I]difamava.,
+	     enegrecer: Criminalizar o comunismo é I]enegrecer o passado comunista para melhor excluir as perspectivas do futuro da humanidade ao destruir a perspectiva revolucionária. ,
+	     esquartejar: A imprensa irresponsável H]esquartejou-o.,
+	     improperar: Em seu discurso, H]improperava o governo.,
+	     infamar: Vossa Senhoria I]infamou a função de presidente da Câmara e maculou sua história política ao trazer a policia militar para coibir as legítimas provas.,
+	     injuriar: A aluna I]injuriou o professor.,
+	     macular: Pupetta dizia que o filme [maculava sua honra .,
+	     marear: As adições H]marearam o texto original.,
+	     quartejar: x,
+	     rebaixar: Peço que pense em quantas vezes seu chefe te I]rebaixou, quantas humilhações já sofreu.,
+	     setear: x,
+	     vituperar: M]Vituperava os fracos e desleais.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2993B' = “Tornar claro e (mais) comprrensível”
+	    {aclarar: Recebem-se embargos de declaração, com a finalidade de [aclarar obscuridade decorrente de truncamento, por erro datilográfico, do dispositivo do acórdão.,
+	      alumbrar: Para I]alumbrar o panorama dentro do qual se encarta a temática do desvio do poder, é útil considerar alguns tópicos concernentes à caracterização da atividade administrativa dentro do Estado de Direito.,
+	      alumiar: A própria paixão não I]alumiou os seus vislumbres sombrios.,
+	      clarear: Um giro pelo céu da Pátria vai [clarear suas idéias.,
+	      esclarecer: Este bem intencionado esforço não I]esclareceu a natureza da realidade homossexual feminina.,
+	      iluminar: Este único exemplo [ilumina o mecanismo de vários outros tipos de relações humanas ou de situações políticas.,} 
+Chave: ESCLARECER <verb.communication>
+ILI: 00908946
+
+Sense 1
+{00908946} <verb.communication> clarify, clear up, elucidate -- (make clear and (more) comprehensible; "clarify the mystery surrounding her death")
+       => {00908384} <verb.communication> explain, explicate -- (make palin and comprehensible; "He explained the laws of physics to his students")
+           => {00804489} <verb.communication> inform -- (impart knowledge of some fact, state or affairs, or event to; "I informed him of his rights")
+               => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                   => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                       => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel") 

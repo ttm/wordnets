@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA0567
+
+DADO O SYNSET:
+
+S='Glosa567'
+{aliciar: Uma seita de olho no Brasil, Missão Bíblica Cristadelfiana, tenta I]aliciar evangélicos brasileiros.,
+angariar: Não é o tipo de frase capaz de [angariar simpatizantes para uma tradução pela Biblioteca do Exército.,
+atrair: Sem acredita que, para formar o novo governo, o PBJ deverá [atrair alguns deputados do Partido do Congresso, que está num declínio potencialmente terminal.,
+recrutar: Ali funcionava a empresa Fera Empreendimentos, supostamente montada por Watanabe para [recrutar dekasseguis.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa567' = “obter ou reunir”
+{aliciar: Uma seita de olho no Brasil, Missão Bíblica Cristadelfiana, tenta I]aliciar evangélicos brasileiros.,
+angariar: Não é o tipo de frase capaz de [angariar simpatizantes para uma tradução pela Biblioteca do Exército.,
+atrair: Sem acredita que, para formar o novo governo, o PBJ deverá [atrair alguns deputados do Partido do Congresso, que está num declínio potencialmente terminal.,
+recrutar: Ali funcionava a empresa Fera Empreendimentos, supostamente montada por Watanabe para [recrutar dekasseguis.,}
+Chave: ANGARIAR <verb.possession>
+ILI: 02238144
+
+Sense 1
+{02238144} <verb.possession> roll up3, collect, accumulate, pile up, amass, compile, hoard -- (get or gather together; "I am accumulating evidence for the man's unfaithfulness to his wife"; "She is amassing a lot of data for her thesis"; "She rolled up a small fortune")
+       => {02215096} <verb.possession> store, hive away, lay in, put in, salt away, stack away, stash away -- (keep or lay aside for future use; "store grain for the winter"; "The bear stores fat for the period of hibernation when he doesn't eat")
+           => {02138940} <verb.possession> keep, hold on -- (retain possession of; "Can I keep my old stuffed animals?"; "She kept her maiden name after she married")
+               => {02139918} <verb.possession> have, have got, hold -- (have or possess, either in a concrete or an abstract sense; "She has $1,000 in the bank"; "He has got two beautiful daughters"; "She holds a Master's degree from Harvard")

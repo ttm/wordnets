@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA0731
+
+DADO O SYNSET:
+
+S='Glosa731'
+{automatizar: A Fiat voltou atrás na decisão de [automatizar totalmente algumas fases da linha de produção.,
+mecanizar: O solo estava pobre e cada vez mais precisávamos comprar adubos e [mecanizar os cultivos, sem melhorar os resultados.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa731' = “fazer automático ou controlar ou operar automaticamente”
+{automatizar: A Fiat voltou atrás na decisão de [automatizar totalmente algumas fases da linha de produção.,
+mecanizar: O solo estava pobre e cada vez mais precisávamos comprar adubos e [mecanizar os cultivos, sem melhorar os resultados.,}
+Chave: AUTOMATIZAR <verb.change>
+ILI: 00466607
+
+Sense 2
+{00466607} <verb.change> automatize, automatise, automate -- (make automatic or control or operate automatically; "automatize the production"; "automate the movement of the robot")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

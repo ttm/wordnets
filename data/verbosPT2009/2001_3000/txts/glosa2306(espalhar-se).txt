@@ -1,0 +1,39 @@
+ANÁLISE DA GLOSA2306
+
+DADO O SYNSET:
+
+S='Glosa2306'
+	    {derramar-se: O aposento é iluminado pôr uma grande lâmpada de gás, cujo globo de cristal opaco filtra uma claridade serena e doce, que [derrama-se sobre os objetos e os envolve como de um creme de luz .,
+	      despargir-se: x,
+	      difluir: Por entre grandes blocos M]difluíam tênues fios de água cristalina.,
+	      difundir-se: Este gás [se difunde pelo interior do alto-forno, entrando em contato com os diferentes compostos de ferro, formados nas diferentes etapas do processo.,
+	      discorrer: A água H]discorreu pela planície.,
+	      entornar-se: A arraiada branqueava o céu, tingiria depois o cimo dos montes, I]entornarse-ia enfim pela encosta abaixo, até aparecer o sol.,
+	      espalhar-se: Ao abrirmos o recipiente, o hidrogênio [se espalhará pelo ambiente.,
+	      espargir-se: Até um estudo sobre os mosquitos da região foi feito para [se espargir a quantidade certa de inseticida na véspera para o show não ser perturbado.,
+	      esparzir-se: As vibrações plangentes daquela súplica I]esparziram-se no ar, confundidas à música infinita e perene da poesia.,
+	      transbordar: No bairro do Anil, em Jacarepaguá, o canal do Anil [transbordou inundando casas e arrastando carros.,
+	      transvazar-se: x,
+	      trasbordar: “Cinquenta e cinco anos e cinquenta e cinco enchentes que enfrentei”, diz lembrando que um dia de sol o rio começou a encher e I]trasbordar.,}
+
+A ANÁLISE RESULTA EM:
+S='Glosa2306' = “esparramar ou destribuir sobre uma área”
+	    {derramar-se: Quando fica em cima, o útero vira e o conteúdo se I]derrama.,
+	      difluir: Por entre grandes blocos M]difluíam tênues fios de água cristalina.,
+	      difundir-se: Este gás [se difunde pelo interior do alto-forno, entrando em contato com os diferentes compostos de ferro.,
+	      discorrer: A água H]discorreu pela planície.,
+	      entornar-se: os estudantes fizeram uma «campanha da sujeira», [entornando no chão, todas as latas de lixo que encontravam no caminho.,
+	      espalhar-se: Ao abrirmos o recipiente, o hidrogênio [se espalhará pelo ambiente.,
+	      espargir-se: Até um estudo sobre os mosquitos da região foi feito para [se espargir a quantidade certa de inseticida.,
+	      esparzir-se: Os ramos da acácia silvestre I]esparziam flores sobre os úmidos cabelos.,
+	      transbordar: As lixeiras estavam abertas e o lixo [transbordava para a rua.,
+	      trasbordar: A água que I]trasbordou do rio também causou alagamento na Rua Sérgio Carneiro.,}
+
+
+Chave: ESPALHAR-SE <verb.motion>
+ILI: 02023514
+
+Sense 7
+{02023514} <verb.motion> spread, scatter2, spread out4 -- (strew or distribute over an area; "He spread fertilizer over the lawn"; "scatter cards across the table")
+       => {01984927} <verb.motion> circulate3, pass around, pass on, distribute -- (cause to be distributed; "This letter is circulating among the faculty")
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

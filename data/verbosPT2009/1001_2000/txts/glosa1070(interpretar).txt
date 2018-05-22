@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA1070
+
+DADO O SYNSET:
+
+S='Glosa1070'
+{decifrar: Somente a pressuposição de que um dia as diferentes taxonomias construídas, por exemplo, por Chomsky, Piaget, Lévi-Strauss, Marx e Freud, todas confluirão e [decifrarão uma grande Linguagem Universal da Natureza. # Ele tomou para si a tarefa de tentar [decifrar o que poderia ser esta linguagem,
+ decodificar: Os teens têm muita facilidade de [decodificar símbolos em idéias,
+ decriptar: Alguns algoritmos utilizam a mesma chave para encriptar e I]decriptar, enquanto outros utilizam chaves diferentes para estas operações,
+ descodificar: Os sonhos exprimam muitas vezes uma mensagem que temos que I]descodificar,
+ interpretar: A visão, a audição, o tato, o paladar e o olfato constituem os 5 sentidos fundamentais que nos permitem [interpretar todos os fenômenos que se passam ao nosso redor, no mundo que nos cerca,
+ ler: Coppola esqueceu os nomes dos membros do júri e, sem achar o papel com o nome de um dos vencedores, teve de abrir o diploma para [ler o resultado.,
+ soletrar: Aprendeu a ler inglês antes de [soletrar em russo, estudou pintura, praticou esportes e gozava as férias nos mais bucólicos recantos da Criméia.,
+ traduzir: Nada mais natural que o ator tenha convidado Clara para [traduzir O pedido de casamento, peça de Tchekov que ele estrela e dirige.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1070' = “formar um sentido de algo; designar uma significação para algo”
+{decifrar: Dois filmes [decifram fase mítica de Artaud.,
+ decodificar: Os teens têm muita facilidade de [decodificar símbolos em idéias.,
+ decriptar: O dispositivo do emissor encripta a informação para texto codificado antes de enviá-la através do túnel, e o dispositivo no receptor [decripta a informação de volta para texto claro.,
+ descodificar: Os sonhos exprimam muitas vezes uma mensagem que temos que I]descodificar.,
+ interpretar: Lafuente Ferrari [interpretou essa imagem como uma manifestação do anti-clericalismo do artista.,
+ ler: Foi o que ele [leu nos olhos parados.,
+ soletrar: Onde Ivo soletrou a lição do povo?,
+ traduzir: Quintana [traduziu vários clássicos de literatura mundial.,}
+Chave: INTERPRETAR <verb.cognition>
+ILI: 00603028 
+
+Sense 1
+{00603028} <verb.cognition> interpret, construe, see13 -- (make sense of; assign a meaning to; "What message do you see in this letter?"; "How do you interpret his behavior?")
+       => {00570184} <verb.cognition> understand -- (know and comprehend the nature or meaning of; "She did not understand her husband"; "I understand what she means")

@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA0912
+
+DADO O SYNSET:
+
+S='Glosa912'
+{colgar: A]Colgou o quadro e pôs-se a contemplá-lo.,
+dependurar: De alguns quartos saíram mulheres que vinham [dependurar cá fora, na parede, a gaiola do papagaio, e os louros, à semelhança dos donos, cumprimentavam-se ruidosamente, espanejando-se à luz nova do dia,
+pender: De cada tronco brotam até quatro cachos, onde I]pendem os frutos.,
+pendurar: Ele tentava [pendurar roupas usando como varal um arame que estava próximo a um gerador de força. #O espetáculo terá a participação do público e os voluntários receberão uma melancia pra [pendurar no pescoço,
+suspender: O método consiste em I]suspender o objeto por um ponto bem na beira do mesmo, utilizando um fio de prumo.,}
+A='Glosa1505'
+{descolgar, despendurar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa912' = “fazer ficar suspenso ou fixado a certa altura do chão”
+{dependurar: De alguns quartos saíram mulheres que vinham [dependurar cá fora, na parede, a gaiola do papagaio, e os louros, à semelhança dos donos, cumprimentavam-se ruidosamente, espanejando-se à luz nova do dia,
+pender: De cada tronco brotam até quatro cachos, onde I]pendem os frutos.,
+pendurar: Ele tentava [pendurar roupas usando como varal um arame que estava próximo a um gerador de força. #O espetáculo terá a participação do público e os voluntários receberão uma melancia pra [pendurar no pescoço,
+suspender: O método consiste em I]suspender o objeto por um ponto bem na beira do mesmo, utilizando um fio de prumo.,}
+
+A='Glosa1505'
+{descolgar, despendurar}
+Chave: PENDURAR <verb.contact> 
+ILI: 01439378
+
+Sense 2
+{01439378} <verb.contact> hang, hang up1 -- (cause to be hanging or suspended; "Hang that picture on the wall")
+       => {01300906} <verb.contact> fasten1, fix, secure1 -- (cause to be firmly attached; "fasten the lock onto the door"; "she fixed her gaze on the man")
+           => {01257892} <verb.contact> attach1 -- (cause to be attached)
+               => {01314764} <verb.contact> connect, link, tie1, link up -- (connect, fasten, or put together two or more pieces; "Can you connect the two loudspeakers?"; "Tie the ropes together"; "Link arms")

@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA1549
+
+DADO O SYNSET:
+
+S='Glosa1549'
+{absonar: x,
+ desacordar: O violão H]desacordou com o tempo.,
+ desafinar: Dominava a cena musical numa época em que grandes músicos podiam [desafinar à vontade e improvisar.,
+ desentoar: Bacana é todo mundo em frente à tevê, ligadão, cantando sem I]desentoar, pra empurrar os meninos em direção a mais um caneco.,
+ dessoar: x,
+ destemperar: A laringite A]destemperou-lhe a voz.  ,
+ destoar: Na orquestra só um violino H]destoa.,
+ dissonar: x,}
+	  
+A='Glosa2389'
+{afinar, temperar, toar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1549' = “estar fora de harmonia” 
+{desafinar: Dominava a cena musical numa época em que grandes músicos podiam [desafinar à vontade e improvisar.,
+ desentoar: Bacana é todo mundo em frente à tevê, ligadão, cantando sem I]desentoar, pra empurrar os meninos em direção a mais um caneco.,
+ destemperar: Gosto da Marisa Monte, um pouco bossa-nova demais, podia I]destemperar um pouco de vez em quando.,
+ destoar: No meio de tanta atonalidade, a equalização do som foi que I]destoou.,}
+	  
+A='Glosa2389'
+{afinar, temperar, toar}
+Chave: DESAFINAR <verb.perception>
+ILI: 02073491
+
+Sense 1
+{02073491} <verb.perception> dissonate -- (be dissonant or harsh; "The violins in this piece dissonated disturbingly")
+       => {02073211} <verb.perception> sound3 -- (give off a certain sound or sounds; "This record sounds scratchy") 

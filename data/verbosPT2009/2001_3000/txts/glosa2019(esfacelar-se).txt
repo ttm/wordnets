@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA2019
+
+DADO O SYNSET:
+	
+S='Glosa2019'
+    	{arrebentar: x,
+      	 arrebentar-se: x,
+      	 esfacelar-se: O barco H]esfacelou-se nas rochas.,
+      	 estalar: M]Estalou o vidro.,
+      	 estralar: x,
+      	 partir-se: A louça M]partiu-se.,
+      	 quebrar-se: M]Quebrara-se o pote.,
+      	 rebentar: A louça atirada A]rebentou.,
+      	 rebentar-se: x,
+      	 romper-se: O vasoA]rompeu-se na queda.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2019' = “despedaçar-se em pedaços”
+    	{esfacelar-se: Mas também é possível que os fragmentos se [esfacelem ao penetrar na atmosfera de Júpiter, causando só uma chuva de meteoros.,
+      	 estalar: O telescópio espacial Spitzer achou um extravagante anel de matéria ao redor dos restos magnéticos de uma estrela que I]estalou em pedaços.,
+      	 partir-se: A peça da instalação de Nuno [partiu-se numa das extremidades porque ele trabalha com materiais frágeis.,
+      	 quebrar-se: Esta amostra provavelmente é um pedaço pequeno do núcleo de um asteróide grande que I]quebrou-se em pedaços.,
+      	 rebentar: Com uma explosão tremenda, a grande belonave I]rebentou em pedaços, perdendo-se praticamente toda a tripulação.,
+      	 romper-se: A bomba [rompeu-se com o impacto porque seu pára-quedas não se abriu depois de o avião soltar a carga letal.}
+Chave: ESFACELAR-SE <verb.contact>
+ILI: 01329213
+
+Sense 42
+{01329213} <verb.contact> break, wear, wear out, bust, fall apart -- (go to pieces; "The lawn mower finally broke"; "The gears wore out"; "The old chair finally fell apart completely")
+       => {00201478} <verb.change> decay, crumble13, delapidate -- (fall into decay or ruin; "The unoccupied house started to decay")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")
+          Also See-> {01221620} <verb.contact> break away#1; {01221620} <verb.contact> break off1#3; {01518967} <verb.contact> break up2#4; {01518967} <verb.contact> break apart#2

@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0132
+
+DADO O SYNSET:
+
+S='Glosa132'
+{abonar-se: Desacreditado, procurou H]abonar-se com um deputado de prestígio.,
+apadrinhar-se: O candidato do PSDB a deputado federal Juca Alves I]apadrinhou-se também com o candidato ao Senado pelo PL, Magno Malta.,
+autorizar-se: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa132' = “conceder um privilégio, favorecer(-se)”
+{abonar-se: Desacreditado, procurou H]abonar-se com um deputado de prestígio.,
+apadrinhar-se: Um jornalista mineiro querendo se transferir para a Capital da República, I]apadrinhou-se com o governador de sua terra e levou uma carta dele o apresentando.,}
+Chave: APADRINHAR-SE <verb.social>
+ILI: 02379771
+
+Sense 4
+{02379771} <verb.social> privilege, favor3, favour3 -- (bestow a privilege upon)
+       => {00776433} <verb.communication> permit, allow, let2, countenance -- (consent to, give permission; "She permitted her son to visit her estranged husband"; "I won't let the police search her basement"; "I cannot allow you to see your exam")
+           => {00771887} <verb.communication> accept, consent, go for -- (give an affirmative reply to; respond favorably to; "I cannot accept your invitation"; "I go for this resolution")
+               => {00693825} <verb.cognition> react, respond -- (show a response or a reaction to something)
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

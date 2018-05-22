@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA2425
+
+DADO O SYNSET:
+
+S='Glosa2425'
+	    {atuar1: O BC começou a [atuar no mercado internacional de ouro no fim do anos 70. # O objetivo é formar recursos humanos competentes que possam [atuar em áreas estratégicas para o desenvolvimento do país.,
+	      influenciar: A obra de Nietzsche [influencia sua vida constantemente - para que a vida não se corrompa.,
+	      influir: Importa agora empreender a procura do Arquétipo yin, de forma a evidenciar como ele [influi no comportamento do protagonista.,
+	      inspirar: Saint Peter [inspira os chefes de cozinha.,
+	      sugestionar: Use o poder das mensagens subliminares para I]sugestionar seu cérebro positivamente.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2425' = “Ter e exercer influência ou efeito.”
+	    {atuar1: Nota-se que o meio em que tais populações viviam [atuava de maneira bastante influente em suas manifestações musicais.,
+	      influenciar: O premiado René Clément influenciou as gerações seguintes.,
+	      influir: Importa agora empreender a procura do Arquétipo yin, de forma a evidenciar como ele [influi no comportamento do protagonista.,
+	      inspirar: Saint Peter [inspira os chefes de cozinha.,
+	      sugestionar: O projeto I]sugestionava as crianças á entrar na escola para poder participar da capoeira.,}
+
+Chave: INFLUENCIAR <verb.social>
+ILI: 02461275
+
+Sense 1
+{02461275} <verb.social> influence, act upon, work10 -- (have and exert influence or effect; "The artist's work influenced the young painter"; "She worked on her friends to support the political candidate")
+       => {00132263} <verb.change> affect, impact, bear upon, bear on, touch on1, touch -- (have an effect upon; "Will the new rules affect me?")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

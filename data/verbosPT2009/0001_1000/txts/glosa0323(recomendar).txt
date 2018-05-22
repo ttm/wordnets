@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0323
+
+DADO O SYNSET:
+
+S='Glosa323'
+{lembrar: Quando encontrares o João, H]lembra-nos a ele.,
+recomendar: I]Recomende-me ao seu marido, um beijo em seu filhinho.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa323' = “aconselhar ou pedir todo o cuidado para”
+{recomendar: Segundo a transcrição do PSL-Brasil de um acórdão do TCU, o órgão I]recomendou ao ITI “a adoção de medidas com o intuito de que se avalie a oportunidade.,}
+Chave: RECOMENDAR <verb.communication>
+ILI: 00845826
+
+Sense 1
+{00845826} <verb.communication> recommend1, urge3, advocate -- (push for something; "The travel agent recommended strongly that we not travel on Thanksgiving Day")
+       => {00846061} <verb.communication> propose, suggest, advise2 -- (make a proposal, declare a plan for something)
+           => {00977478} <verb.communication> declare -- (state emphatically and authoritatively; "He declared that he needed more money to carry out the task he was charged with")
+               => {00976600} <verb.communication> state, say, tell4 -- (express in words; "He said that he wanted to marry her"; "tell me what is bothering you"; "state your opinion"; "state your name")
+                   => {00909455} <verb.communication> express, verbalize3, verbalise3, utter1, give tongue to -- (articulate; either verbally or with a cry, shout, or noise; "She expressed her anger"; "He uttered a curse")

@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA1651
+
+DADO O SYNSET:
+
+S='Glosa1651'
+{balançar: No gingado da baiana eu também vou [balançar.,
+ balancear: Teu jeito de I]balancear o corpo faz meu corpo incendiar.,
+ embalar1: A coleção Jazz Drive reúne diamantes de décadas passadas, fazendo um convite irrecusável para I]embalar-se ao som dos anos 30, 40 e 50.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1651' = “fazer um grande gesto ou movimento arrebentador”
+{balançar: O guerreiro I]balançou o corpo, virando o punho e girando a katana com toda sua força.,
+ balancear: Ela estremece a terra e I]balanceia o mar.,
+ embalar1: A festa que I]embalou as prendas e os peões presentes também foi oportunidade para o lançamento da 2ª Aldeia da Música do Mercosul.,}
+Chave: BALANÇAR <verb.contact>
+ILI: 01550178
+
+Sense 5
+{01550178} <verb.contact> swing, sweep3, swing out -- (make a big sweeping gesture or movement)
+       => {01187393} <verb.contact> wield, handle1 -- (handle effectively; "The burglar wielded an axe")
+           => {01174946} <verb.contact> manipulate -- (hold something in one's hands and move it)
+               => {01173984} <verb.contact> handle, palm -- (touch, lift, or hold with the hands; "Don't handle the merchandise")
+                   => {01169634} <verb.contact> touch -- (make physical contact with, come in contact with; "Touch the stone for good luck"; "She never touched her husband")

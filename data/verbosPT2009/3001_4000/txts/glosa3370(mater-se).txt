@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA3370
+
+DADO O SYNSET:
+
+S='Glosa3370'
+	    {
+	      conservar-se: Takayuki, que se recupera de um derrame, [conserva-se lúcido e bem-humorado.,
+	      manter-se: O vestuário de golfe da Giorgio Amani [mantém-se fiel à sua sofisticada paleta de cores.,
+	      manutenir-se: x,
+	      vir: A esperança ainda M]vinha viva no coração dos náufragos.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3370' = “conservar-se em uma certa condição, posição ou atividade”
+	     {conservar-se: Takayuki, que se recupera de um derrame, [conserva-se lúcido e bem-humorado.,
+	      manter-se: O vestuário de golfe da Giorgio Amani [mantém-se fiel à sua sofisticada paleta de cores.,
+	      vir: A esperança ainda M]vinha viva no coração dos náufragos.,}
+Chave: MANTER-SE <verb.stative>
+ILI: EQ_NEAR_SYNONYM - 02600965
+
+Sense 1
+{02600965} <verb.stative> keep, maintain, hold -- (keep in a certain state, position, or activity; e.g., "keep clean"; "hold in place"; "She always held herself as a lady"; "The students keep me on my toes")

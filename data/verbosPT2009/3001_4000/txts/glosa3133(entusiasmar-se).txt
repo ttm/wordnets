@@ -1,0 +1,43 @@
+ANÁLISE DA GLOSA3133
+
+DADO O SYNSET:
+
+S='Glosa3133'
+	    {
+	      abrasar-se: H]Abrasou-se pela causa da liberdade.,
+	      acalorar-se: Resolvi que não vale mais a pena I]acalorar-se debates com a legião americanizada de jovens sul-americanos.,
+	      acender-se: Chegando Moisés ao arraial, e vendo o bezerro e as danças, I]acendeu-se-lhe o furor.,
+	      afervorar-se: M]Afervorar-se na devoção. M]Afervorar-se no trabalho.,
+	      eletrizar-se: Por isso, o ar da Vila, ao cair da tarde, I]eletrizou-se, quando a bola começou a rolar eo São Paulo partiu para cima do adversário, marcando por pressão. ,
+	      entusiasmar-se: Se você é daqueles que acham impossível I]entusiasmar-se com as condições atuais, acredite - jamais sairá dessa situação.,
+	      exaltar-se: Sabedores pela história, que há cem anos tínhamos este grande companheiro no pódio mais elevado da poesia, I]exalta-se o nosso íntimo.,
+	      incender-se: Afinal, quando I]incender-se a sua ira (praza a Deus que não seja breve!) bem-aventurados todos os que nele confiam.,
+	      incendiar-se: Alguns deles, ao ouvirem as qualidades do Buddha, I]incendeiam-se de apego e raiva, atormentados sobre se outras pessoas se interessarão também.,
+	      inflamar-se: Todas estão aí para que a alma, relembrada de seu corpo por palavras a que está acostumada, possa I]inflamar-se de tal modo pelas palavras do amor. ,
+	      referver-se: M]Refervia-se a alma em pavorosa ebulição.,
+	      vulcanizar-se: H] Vulcaniza-se na luta.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3133' = “emitir entusiasmo”
+	     {abrasar-se: H]Abrasou-se pela causa da liberdade.,
+	      acalorar-se: A discussão I]acalorou-se até que nasceu a idéia do Encontro Cultural de Laranjeiras, dedicado a pesquisar, estudar e difundir a cultura do povo sergipano.,
+	      acender-se: A sua ira I]acendeu-se contra eles por causa dessas queixas.,
+	      afervorar-se: Durante o século XIX e primeira metade do XX, I]afervorou-se a discussão.,
+	      eletrizar-se: Por isso, o ar da Vila, ao cair da tarde, I]eletrizou-se, quando a bola começou a rolar e o São Paulo partiu para cima do adversário, marcando por pressão. ,
+	      entusiasmar-se: O Vasco I]entusiasmou-se com a vitória sobre o Guarani, apesar da confusão causada com a entrada do atacante Jardel.,
+	      exaltar-se: O secretário I]exaltou-se ao ser questionado sobre o cálculo dos incentivos, respondendo que a bancada petista sabia "na carne" que não há nenhum exagero no comprometimento com a montadora.,
+	      incendiar-se: Alguns deles, ao ouvirem as qualidades do Buddha, I]incendeiam-se de apego e raiva, atormentados sobre se outras pessoas se interessarão também.,
+	      inflamar-se: O Riocentro I]inflamou-se quando a atleta pisou no tablado de apresentação. ,
+	      referver-se: M]Refervia-se a alma em pavorosa ebulição.,
+	      vulcanizar-se: H] Vulcaniza-se na luta.,}
+Chave: ENTUSIASMAR-SE <verb.emotion>
+ILI: 00886613
+
+Sense 2
+{00886613} <verb.communication> enthuse -- (utter with enthusiasm)
+       => {00910961} <verb.communication> talk, speak, utter, mouth, verbalize, verbalise -- (express in speech; "She talks a lot of nonsense"; "This depressed patient does not verbalize")
+           => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+               => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

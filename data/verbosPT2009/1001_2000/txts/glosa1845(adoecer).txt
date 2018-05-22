@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA1845
+
+DADO O SYNSET:
+
+S='Glosa1845'
+    	{acamar: Diante reconhecimento e da fama vindos de todo o mundo, uma estranha doença I]o acamou, devorando seu corpo aos poucos e apagando a última chama de sua vida.,
+      	 adoecer: Em 86, ambos decidiram ir à Itália retomar o filme, mas Leon [adoeceu - era portador do vírus da Aids - e morreu no ano seguinte.,
+      	 enfermar: Regressando ao Rio, I]enfermou gravemente, falecendo a 9 de fevereiro de 1920, em Petrópolis. ,
+      	 entecar: x,}
+  
+A='Glosa1774'
+    	{convalescer, desenfermar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1845' = “fazer [alguém] ficar doente”
+    	{acamar: O vírus Fijian, que já I]acamou milhares de pessoas na Europa e nos Estados Unidos, chegou ao Brasil,
+      	 adoecer: Peter teve uma infecção no tórax que o I]adoeceu por uns dias.,
+      	 enfermar: Por outro lado, se o vício que os I]enferma passar despercebido, produzirão efeitos 'per omnia secula seculorum', tal como se se tratasse de um ato perfeitamente regular.,}
+  
+A='Glosa1774'
+    	{convalescer, desenfermar}
+Chave: ADOECER <verb.body>
+ILI: 00085755
+
+Sense 4
+{00085755} <verb.body> sicken1 -- (make sick or ill; "This kind of food sickens me")
+       => {00099811} <verb.body> harm -- (cause or do harm to; "These pills won't harm your system")
+           => {00067690} <verb.body> injure, wound -- (cause injuries or bodily harm to)
+               => {00062508} <verb.body> hurt1 -- (give trouble or pain to; "This exercise will hurt your back")
+                   => {00062736} <verb.body> indispose -- (cause to feel unwell; "She was indisposed")
+                       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

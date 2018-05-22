@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA3439
+
+DADO O SYNSET:
+
+S='Glosa3439'
+	    {
+	      figurar: muitos foram os desportistas cuja trajetória marcaram época e por isso merecem ]figurar na lembrança de todos ,
+	      imaginar: Você conseguiria ]imaginar o mundo sem Deus?/Na maioria dos meus contos, eu tento ]imaginar um jogo que eu gosto dentro de um contexto real,
+	      mentalizar: ]Mentalizar somente coisas boas/ Você deve ]mentalizar um número de 1 a 10,
+	      ver: E eis que começo a ouvir o sotaque e a ]ver as imagens de um passado não muito distante,
+	      visualizar: História é uma matéria difícil de ]visualizar/Eu transportei esta percepção para a dança no sentido de ]visualizar a música em minha mente,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3439' = “formar uma imagem mental de algo que não está presente ou que não é o caso”
+	     {figurar: I]Figurava um mundo novo a ser imitado e reinventado ,
+	      imaginar: Natividade I]imaginava outro e maior baile naquela mesma ilha,
+	      mentalizar: As aulas eram ministradas para turmas imaginárias, ele I]mentalizava a sala, os alunos e lecionava filosofia,
+	      ver: Nesses partidos e grupos I]via o futuro da revolução mundial,
+	      visualizar: A estética construtivista I]visualizava o espaço e a forma sem a referência ao mundo real,}
+Chave: MENTALIZAR <verb.creation>
+ILI: 01590121
+
+Sense 1
+{01590121} <verb.creation> imagine, conceive of1, ideate1, envisage -- (form a mental image of something that is not present or that is not the case; "Can you conceive of him as the president?")
+       => {01585330} <verb.creation> create by mental act, create mentally -- (create mentally and abstractly rather than with one's hands)
+           => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

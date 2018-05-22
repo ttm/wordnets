@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA2195
+
+DADO O SYNSET:
+
+S='Glosa2195'
+	    {castificar: ... I]Castificando nossas intenções, nossas conversas, nossos olhares, nossos abraços, enfim tudo o que envolve uma amizade, nós seremos mais livres.,
+	      purificar: As mulheres devem se esforçar em [purificar seu coração.,
+	      virginizar: M]Virginizar um coração.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2195' = “fazer puro ou livre de pecado ou culpa”
+	    {castificar:  I]Castificando nossas intenções, nossas conversas, nossos olhares, nossos abraços, enfim tudo o que envolve uma amizade, nós seremos mais livres.,
+	      purificar: As mulheres devem se esforçar em [purificar seu coração.,
+	      virginizar: M]Virginizar um coração.,}
+
+Chave: PURIFICAR <verb.change>
+ILI: 00462512
+
+Sense 2
+{00462512} <verb.change> purify1, purge4, sanctify -- (make pure or free from sin or guilt; "he left the monastery purified")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

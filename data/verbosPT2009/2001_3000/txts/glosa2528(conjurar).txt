@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA2528
+
+DADO O SYNSET:
+
+  S='Glosa2528'
+	    {benzer: Precisamos nos [benzer, afirmou.,
+	      conjurar: Para [conjurar essa divindade maléfica, tinham sacerdotes, os pajés, que buscavam sua força e virtude no fumo da planta sagrada, o tabaco.,
+	      saludar: x,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2528' = “Invocar ou suscitar, com ou como se fosse por feitiçaria.”
+	    {benzer: Um budista I]benzeu o local e as pessoas da equipe.,
+	      conjurar: Para [conjurar essa divindade maléfica, tinham sacerdotes que buscavam sua força e virtude no fumo da planta sagrada, o tabaco.,}
+
+Chave: CONJURAR <verb.creation>
+ILI: 01583752
+
+Sense 1
+{01583752} <verb.creation> raise1, conjure, conjure up, invoke, evoke2, stir, call down, arouse, bring up, put forward, call forth -- (evoke or call forth, with or as if by magic; "raise the specter of unemployment"; "he conjured wild birds in the air"; "stir a disturbance"; "call down the spirits from the mountain")
+       => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

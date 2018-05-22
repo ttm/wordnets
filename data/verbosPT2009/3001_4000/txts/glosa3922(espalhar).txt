@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA3922
+
+DADO O SYNSET:
+	
+S='Glosa3922'
+{espalhar: Coloque gelo picado no copo até a altura de 2cm e [espalhe sobre ele um pouco de sal .,
+ passar: Se você aproveitar o momento de I]passar o creme no rosto para fazer uma massagem, os resultados poderão ser muito melhores.,
+ pôr: H]Pôr um emplastro para tirar a dor.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3922' = “espalhar ou distribuir sobre uma área”
+{espalhar: Coloque gelo picado no copo até a altura de 2cm e [espalhe sobre ele um pouco de sal.,
+ passar: Também não se importou com os fotógrafos, que a clicaram de biquíni enquanto [passava creme hidratante nas longas pernas.,
+ pôr: Mulher faz o jantar, I]põe creme no rosto, pensa no que tem de fazer amanhã e ainda diz: o que foi, meu amor?}
+Chave: ESPALHAR <verb.motion>
+ILI: 02023514
+
+Sense 6
+{02023514} <verb.motion> spread, scatter2, spread out4 -- (strew or distribute over an area; "He spread fertilizer over the lawn"; "scatter cards across the table")
+       => {01984927} <verb.motion> circulate3, pass around, pass on, distribute -- (cause to be distributed; "This letter is circulating among the faculty")
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

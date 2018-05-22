@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA2491
+
+DADO O SYNSET:
+
+S='Glosa2491'
+	    {exceder: O texto relido não é portanto um espelho em que admira-se o escritor, mas o viès através do qual insinua-se um Terceiro no texto, que seja a tradição literária ou histórica, o inconsciente do autor ou outros fatores que [excedem o escritor.,
+	      exceler: É a estratégia de Donald Rumsfeld cuja mente I]excele em perversidade. # Quem I]excele na guerra, confia em seu poder estratégico e percebe as vantagens de se conduzir um inimigo para onde quiser.,
+	      excelir: Sembobitis, que I]excelia na arte da medicina, viu que ele ainda respirava.,
+	      sobrar: É a constatação, por lideranças políticas de diferentes partidos, dos atrativos que faltam a ele e [sobram em Covas para uma convergência multipartidária que enfrente Lula com possibilidades reais de êxito.,
+	      superar: A briga vai ser de um corredor tentando [superar o outro, avalia o brasiliense Valdenor, uma das atrações da prova.,
+	      transmontar: O talento da irmã H]transmonta o dos irmãos.,
+	      trasmontar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2491' = “Ser ou fazer alguma coisa em um grau maior.”
+	    {exceder: O líder trabalhista cometeu todos os erros políticos que pode cometer um homem público, mas ninguém o I]excedeu em patriotismo.,
+	      exceler: É a estratégia de Donald Rumsfeld cuja mente I]excele em perversidade., 
+	      excelir: Sembobitis, que I]excelia na arte da medicina, viu que ele ainda respirava.,
+	      sobrar: Atrativos que faltam a ele e [sobram em Covas.,
+	      superar: RPG I]supera em eficiência técnica tradicional de tratamento da coluna.,
+	      transmontar: O talento da irmã H]transmonta o dos irmãos.,}
+
+Chave: EXCELIR <verb.competition>
+ILI: 01070498
+
+Sense 3
+{01070498} <verb.competition> surpass, outstrip, outmatch, outgo, exceed, outdo, surmount1, outperform -- (be or do something to a greater degree; "her performance surpasses that of any other student I know"; "She outdoes all other athletes"; "This exceeds all my expectations"; "This car outperforms all others in its class")
+       => {01066844} <verb.competition> beat, beat out, crush, shell3, trounce, vanquish -- (come out better in a competition, race, or conflict; "Agassi beat Becker in the tennis championship"; "We beat the competition"; "Harvard defeated Yale in the last football game")
+           => {01072989} <verb.competition> get the better of, overcome3, defeat -- (win a victory over; "You must overcome all difficulties"; "defeat your enemies"; "He overcame his shyness"; "She conquered here fear of mice"; "He overcame his infirmity"; "Her anger got the better of her and she blew up") 

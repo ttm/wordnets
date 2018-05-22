@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA3972
+
+DADO O SYNSET:
+	
+S='Glosa3972'
+{apertar: Não usava o cinto de segurança porque este lhe I]apertava a barriga.,
+ comprimir: Um cãozinho vira-lata de dois meses não conseguia se alimentar por causa de uma deficiência na aorta que lhe I]comprimia o esôfago.,
+ espremer: M]Espremeram a pobre mulher no ônibus superlotado.,
+ estringir: A sucuri M]estringiu o bezerro.,
+ imprensar: I]Imprensou entre os dois carros uma moto que quase virou "farelo" na confusão.,
+ obstringir: x,
+ premer: Qualquer bom violonista aprende cedo que o polegar só serve de apoio atrás, nunca para I]premer as cordas.,
+ premir: x,
+ prensar: O veículo derrapou e, descontrolado, I]prensou o Gol cinza de encontro ao barranco.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3972' = “apertar ou espremer tudo junto”
+{apertar: Ela [apertou as solas sobre minhas faces escanhoadas e trincou os dentes da frente.,
+ comprimir: Aparelhos chamados de anéis focalizadores de feixes I]comprimem os pacotes de elétrons até o tamanho de 6 mm de comprimento e com um milésimo da espessura de um fio de cabelo.,
+ espremer: O negro carregando lenha, o negro [espremendo cana, são estampas antropológicas, imutáveis.,
+ estringir: O fogo broca os alicerces e I]estringe tudo como um rolo.,
+ imprensar: Esses insetos não desistem fácil... Renato ficou bem debaixo do monte e I]imprensou-os com a madeira.,
+ premer: A dúvida as gerou e em suas garras I]preme-as
+ prensar: A Aleris Latasa, maior empresa de reciclagem de alumínio do Brasil, já I]prensou 25 toneladas de latas coletadas.}
+Chave: PRENSAR <verb.contact>
+ILI: 01347521
+
+Sense 2
+{01347521} <verb.contact> compress, constrict, squeeze1, compact, contract4, press2 -- (squeeze or press together; "she compressed her lips"; "the spasm contracted the muscle")
+       => {00407836} <verb.change> tighten -- (become tight or tighter; "The rope tightened")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

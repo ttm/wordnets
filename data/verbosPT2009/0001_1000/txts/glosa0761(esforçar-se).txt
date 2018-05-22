@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0761
+
+DADO O SYNSET:
+
+S='Glosa761'
+{acoroçoar-se: O sucesso inicial H]acoroçoou-nos a continuar,
+animar-se: Para ele o suicídio era uma ação ridícula e vergonhosa; então, para [animar-se, evocava a memória dos fortes, lembrava-se dos que lutaram muito mais contra os preconceitos de todos os tempos.,
+encorajar-se: É preciso voar, mesmo não tendo asas, pensa de si para si, para [se encorajar.,
+esforçar-se: Em outras palavras, ele contrapôs a paixão natural para a procriação» à tendência smithiana igualmente natural de cada indivíduo de [esforçar-se para melhorar sua condição.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa761' = “fazer um esforço estrênuo ou trabalhoso”
+{animar-se: Para ele o suicídio era uma ação ridícula e vergonhosa; então, para [animar-se, evocava a memória dos fortes, lembrava-se dos que lutaram muito mais contra os preconceitos de todos os tempos.,
+encorajar-se: É preciso voar, mesmo não tendo asas, pensa de si para si, para [se encorajar.,
+esforçar-se: Em outras palavras, ele contrapôs a paixão natural para a procriação» à tendência smithiana igualmente natural de cada indivíduo de [esforçar-se para melhorar sua condição.,}
+Chave: ESFORÇAR-SE
+ILI: 02334710
+
+Sense 1
+{02334710} <verb.social> fight, struggle -- (make a strenuous or labored effort; "She struggled for years to survive without welfare"; "He fought for breath")
+       => {02454930} <verb.social> try, seek, attempt, essay, assay -- (make an effort or attempt; "He tried to shake off his fears"; "The infant had essayed a few wobbly steps"; "The police attempted to stop the thief"; "He sought to improve himself"; "She always seeks to do good in the world")
+           => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

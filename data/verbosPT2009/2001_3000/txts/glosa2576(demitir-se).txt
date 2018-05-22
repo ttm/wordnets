@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA2576
+
+DADO O SYNSET:
+
+S='Glosa2576'
+	    {deixar: Crise faz presidente do Parma I]deixar o cargo.,
+	      demitir-se: Em 1825 foi nomeado Presidente da Bolívia, cargo do qual [se demitiu dois anos depois.,
+	      exonerar-se: O servidor público não efetivo, exclusivamente detentor de cargo comissionado,deverá I]exonerar-se definitivamente, nos prazos de seis meses e quatro meses.,
+	      riscar-se: Um dos sócios A]riscou-se da firma.,
+	      sair: Ele presidiu a empresa por 10 dez anos e I]saiu da empresa em março de 2000.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2576' = “Deixar (um trabalho, um posto ou cargo) voluntariamente.”
+	    {deixar: No ano seguinte, porém, I]deixou o cargo para integrar a equipe do então presidente Fernando Henrique Cardoso.,
+	      demitir-se: Em 1825 foi nomeado Presidente da Bolívia, cargo do qual [se demitiu dois anos depois.,
+	      exonerar-se: O servidor público não efetivo, exclusivamente detentor de cargo comissionado, deverá I]exonerar-se definitivamente, nos prazos de seis meses e quatro meses.,
+	      sair: Ele presidiu a empresa por 10 dez anos e I]saiu da empresa em março de 2000.,}
+
+Chave: DEMITIR-SE <verb.social>
+ILI: 02296272
+
+Sense 1
+{02296272} <verb.social> vacate, resign, renounce, give up5 -- (leave (a job, post, post, or position) voluntarily; "She vacated the position when she got pregnant"; "The chairman resigned when he was found to have misappropriated funds")
+       => {02311225} <verb.social> leave office, quit, step down, resign5 -- (give up or retire from a position; "The Secretary fo the Navy will leave office next month"; "The chairman resigned over the financial scandal")
+           => {02312014} <verb.social> leave, depart, pull up stakes -- (remove oneself from an association with or participation in; "She wants to leave"; "The teenager left home"; "She left her position with the Red Cross"; "He left the Senate after two terms"; "after 20 years with the same company, she pulled up stakes")
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night") 

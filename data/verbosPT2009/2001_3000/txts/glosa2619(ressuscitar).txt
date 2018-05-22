@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA2619
+
+DADO O SYNSET:
+
+  S='Glosa2619'
+	    {reanimar: Os médicos da Universidade de Minnesota desenvolveram o aparelho depois que o filho que um paciente conseguiu [reanimar o pai usando um desentupidor de pia por dez minutos em seu peito.,
+	      ressurgir: Disse-lhe Marta: Sei que ele há de I]ressurgir na ressurreição, no último dia.,
+	      ressuscitar: Dué é um deus do fogo arrasador e ele tem poderes de vida e morte, podendo, desta forma, destruir e [ressuscitar homens, animais e plantas.,
+	      reviver: Os indígenas encerravam suas múmias em túmulos especiais, a que davam o nome de Camucins; e as acompanhavam não só das armas e objetos de uso próprio, como de alimentos para a viagem aos campos alegres, onde iam [reviver os guerreiros e suas mulheres.,
+	      revivescer: O visitante fez a exumação de seus mortos, e o poeta I]revivesceu-os. Para sempre.,
+	      revivificar: Vênus e Cupido, na tradição clássica, surgiam ao final do inverno a I]revivificar os campos, semeando a beleza e a atração entre os seres.,
+	      vivificar: Adubar na biodinâmica significa, portanto aviventar ou I]vivificar o solo e não fornecer nutrientes para as plantas.,
+	      voltar: Uma paciente que fora declarada morta, apesar de heróicos esforços para ressuscitá-la nos últimos minutos, I]voltou à vida espontaneamente, três horas e meia depois.,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2619' = “Fazer recuperar a consciência.”
+	    {reanimar: O filho que um paciente conseguiu [reanimar o pai usando um desentupidor de pia por dez minutos em seu peito.,
+	      ressurgir: H]Ressurgiu os mortos.,
+	      ressuscitar: Dué é um deus do fogo arrasador e ele tem poderes de vida e morte, podendo, desta forma, destruir e [ressuscitar homens, animais e plantas.,
+	      reviver: Ele I]Reviveu o homem e se levantou sobre os pés.,
+	      revivescer: O visitante fez a exumação de seus mortos, e o poeta I]revivesceu-os. Para sempre.,
+	      revivificar: Segundo certas lendas, o Cristo I]revivificava os corpos passando-os pelo fogo da fornalha da forja.,
+	      vivificar: Deus ressuscitou Cristo da morte; no Pentecostes, ele I]vivificou o corpo de Cristo.,
+	      voltar: Uma paciente que fora declarada morta, apesar de heróicos esforços para ressuscitá-la nos últimos minutos, I]voltou à vida espontaneamente, três horas e meia depois.,}
+
+Chave: RESSUSCITAR <verb.body>
+ILI: 00095340
+
+Sense 1
+{00095340} <verb.body> resuscitate, revive1 -- (cause to regain consciousness; "The doctors revived the comatose man")
+       => {00021692} <verb.body> bring to, bring back, bring round, bring around -- (bring back to consciousness; "These pictures bring back sad memories")
+           => {00018508} <verb.body> awaken, wake2, waken1, rouse2, wake up1, arouse1 -- (cause to become awake or conscious; "He was roused by the drunken men in the street"; "Please wake me at 6 AM.")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

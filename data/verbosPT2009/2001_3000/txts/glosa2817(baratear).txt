@@ -1,0 +1,56 @@
+ANÁLISE DA GLOSA2817
+
+DADO O SYNSET:
+
+S='Glosa2817'
+	    {abaratar: Sem a revolução tecnotrônica não teria sido possível a globalização econômica, a atual divisão transnacional do trabalho, as profundas mudanças no consumo de aparelhos eletrônicos, especialmente os de informação e comunicação, que o desenvolvimento capitalista conseguiu I]abaratar em extremo para permitir o acesso das classes subalternas ao seu uso.,
+	      abaratear: x,
+	      abater: Combate à pirataria pode I]abater o preço dos CDs originais. ,
+	      arrefeçar: x,
+	      avilar: x,
+	      aviltar: A]Aviltar os gêneros alimentícios.,
+	      baratar: E, particularmente, acho que uma iniciativa dessas deve ser prestigiada mesmo, deve-se colaborar (leia-se comprar) esses livros, até mesmo para contribuir para I]baratar o preço do livro.,
+	      baratear: Isto, de acordo com Pereira, vai facilitar o trânsito de produtos veterinários entre os quatro países e aumentar a oferta, o que pode [baratear os preços.,
+	      demonetizar: x,
+	      depreciar: Outra situação difícil diz respeito ao excesso de leite ofertado, o que fatalmente vai I]depreciar o preço, com mais prejuízo ao produtor.,
+	      desabonar: Até o momento, a julgar pelas informações existentes, inclusive oriundas da Organização Mundial da Saúde, nada foi possível descobrir que viesse I]desabonar os produtos transgênicos em geral e a soja transgênica em particular.,
+	      desencarecer: Uma maneira de I]desencarecer o feitio do livro foi lançada, com o Projeto Pacote de Poesia: ao invés do livro tradicional, o grupo adotou como capa um envelope ou pacote de pão, e dentro iam as páginas interiores, em folhas soltas.,
+	      desvalorizar: Especialmente porque ações constituem investimento de risco, que podem valorizar ou [desvalorizar.,
+	      envilecer: A oferta excessiva no mercado H]envileceu o produto.,
+	      rebaixar: Para justificar o garrote monetário da economia em um governo petista politicamente constrangido, a equipe econômica repete aos quatro ventos que a inflação (em declínio) ainda é uma bomba-relógio. Resultado: quem ensaiava segurar ou I]rebaixar preços, acaba ficando na moita do "reajuste preventivo".,
+	      regatear: A profusão de cores e modelos e o assédio dos vendedores, sempre dispostos a I]regatear, desafiam até os turistas mais arredios às compras.,
+	      vilificar: x,}
+
+	  A='Glosa2239'
+	    {agravar: H]Agravou os tributos dos novos contribuintes.,
+	     aumentar: O governo português I]aumentou as taxas alfandegárias sobre as mercadorias importadas da Inglaterra.,
+	     avultar: Aquelas histórias H]avultavam o temor nas crianças.,
+	     elevar: O Brasil I]elevou as taxas de juros a níveis altíssimos.,
+	     encarecer: A alta da moeda norte-americana I]encareceu o valor dos equipamentos.,
+	     majorar: A ganância fiscal lhe I]majorou os impostos prediais.,
+	     subir: O rei I]subiu os impostos.,
+	     valorar: x,
+	     valorizar: O revestimento de mármore I]valorizou o valor do apartamento.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2817' = “Diminuir o valor de alguma coisa”
+	    {abaratar: Procedimentos normalizadores permitiam superar as dificuldades originadas pela diferença de especificações, I]abaratavam os custos e se mostraram imprescindíveis na hora de fabricar material bélico durante a 2ª Guerra Mundial.,
+	      abater: O ministro I]abateu o valor da doação do total que será gasto na compra do Kaletra para chegar aos US$ 0,59 centavos por unidade.,
+	      aviltar: A maior presença do café brasileiro no mercado externo não I]aviltou as cotações internacionais.,
+	      baratar: Acho que uma iniciativa dessas deve ser prestigiada mesmo, deve-se colaborar (leia-se comprar) esses livros, até mesmo para contribuir para I]baratar o preço do livro.,
+	      baratear: Segundo ele, a queda do dólar no mercado internacional [barateou o preço do petróleo, causando um equilíbrio dos custos.,
+	      depreciar: Outro fator que I]depreciou os preços foi o recuo significativo na cotação do etanol.,
+	      desvalorizar: O ex-premiê Redha Malek, de linha dura, renunciou ontem depois que o governo da Argélia [desvalorizou sua moeda, o dinar.,
+	      rebaixar: A coluna é frontalmente contrária à medida provisória do presidente da República que [rebaixou indevidamente o valor das mensalidades escolares nas escolas privadas.,
+	      regatear: No dia seguinte procurou uma mula, I]regateou seu preço, de 500 para 480 contos de réis, fechou negócio e foi ao encontro da tropa.,}
+
+	  A='Glosa2239'
+	    {agravar, aumentar, avultar, elevar, encarecer, majorar, subir, valorizar}
+Chave: BARATEAR <verb.change>
+ILI: 00305432
+
+Sense 2
+{00305432} <verb.change> depreciate1 -- (lower the value of something; "The Fed depreciated the dollar once again")
+       => {00480317} <verb.change> devalue -- (lower the value or quality of; "The tear devalues the painting")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0117
+
+DADO O SYNSET:
+
+S='Glosa117' = “tomar após uma conquista ou invasão”
+{apreender: Em uma de suas operações, o comandante I]apreendeu dois navios brasileiros esvaziando seus porões e provocando a ira da população que não admitia a invasão.,
+conquistar: Entre 334 e 324 a.C., [conquistou o Egito e o imenso Império Persa, chegando a atravessar o rio Indo.,
+tomar: Com a saída dos japoneses da Indochina, uma organização de caráter socialista [tomou a cidade de Hanói, onde proclamou a República Popular do Vietnã do Norte.,}
+
+A ANÁLISE RESULTA EM:
+
+
+S='Glosa117' = “tomar após uma conquista ou invasão”
+{apreender: Em uma de suas operações, o comandante I]apreendeu dois navios brasileiros esvaziando seus porões e provocando a ira da população que não admitia a invasão.,
+conquistar: Entre 334 e 324 a.C., [conquistou o Egito e o imenso Império Persa, chegando a atravessar o rio Indo.,
+tomar: Com a saída dos japoneses da Indochina, uma organização de caráter socialista [tomou a cidade de Hanói, onde proclamou a República Popular do Vietnã do Norte.,}
+
+Chave: CONQUISTAR <verb.possession>
+ILI: 02206880
+
+Sense 2
+{02206880} <verb.possession> appropriate, capture, seize1, conquer -- (take possession of by force, as after an invasion; "the invaders seized the land and property of the inhabitants"; "The army seized the town"; "The militia captured the castle")
+       => {02208641} <verb.possession> assume, usurp, seize7, take over7, arrogate -- (seize and take control without authority and possibly with force; take as one's right or possession; "He assumed to himself the right to fill all positions in the town"; "he usurped my rights"; "She seized control of the throne after her husband died")
+           => {02143102} <verb.possession> take1 -- (take by force; "Hitler took the Baltic Republics"; "The army took the fort on the hill")

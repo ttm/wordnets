@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA2312
+
+DADO O SYNSET:
+
+S='Glosa2312'
+	    {mudar: Das 60 famílias do loteamento apenas 25 aceitaram [mudar para as casas doadas pelo município em Costa Barros, na Zona Suburbana.,
+	      transferir: A verticalização das favelas é feita em duas etapas: na primeira fase a prefeitura desaloja o equivalente a 30% dos favelados e os [transfere para alojamentos provisórios.,
+	      transladar: I]Transladou de São Paulo para o Rio, e vice-versa.# O projeto de I]transladar os restos mortais do poeta simbolista Cruz e Sousa, enterrado há cem anos no cemitério São Francisco Xavier, Rio de Janeiro, para um mausoléu em Florianópolis, terminou em discussão.,
+	      transmudar: H]Transmudou os hóspedes, colocando-os no chalé.,
+	      transmutar: x,
+	      trasladar: Na foto acima a tripulação do MD-11 da Thai que retornou com a aeronave para vôos de linha, I]trasladando a mesma do Rio de Janeiro para Frankfurt.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2312' = “trocar a posição ou localização de algo por propósitos comerciais, legais, educacionais ou militares”
+	    {mudar: Quando é que ela se [mudou de Conquista para Franca ?.,
+	      transferir: O eixo da diplomacia brasileira se [transferiu de Londres para Washington.,
+	      transladar: O projeto de I]transladar os restos mortais do poeta simbolista Cruz e Sousa terminou em discussão.,
+	      transmudar: H]Transmudou os hóspedes, colocando-os no chalé.,
+	      trasladar: Os esforços seriam feitos no sentido de [trasladar o corpo do piloto o mais rápido possível para o Brasil.,}
+
+Chave: MUDAR <verb.motion>
+ILI: 02027267
+
+Sense 8
+{02027267} <verb.motion> remove, transfer1 -- (shift the position or location of, as for business, legal, educational, or military purposes; "He removed his children to the countryside"; "Remove the troops to the forest surrounding the city"; "remove a case to another court")
+       => {01954449} <verb.motion> transfer, shift2 -- (move around; "transfer the packet from his trouser pockets to a pocket in his jacket")
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant") 

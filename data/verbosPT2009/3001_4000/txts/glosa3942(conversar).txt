@@ -1,0 +1,35 @@
+ANÁLISE DA GLOSA3942
+
+DADO O SYNSET:
+
+S='Glosa3942'
+    	{comentar: Na manhã de sua viagem para Atlanta, o prefeito se reuniu com o prefeitinho do Leme e Copacabana, Índio da Costa, e numa conversa informal [comentou que no início do seu governo os eventos de praia eram muito importantes porque levavam as pessoas para a rua .,
+      	 conversar: Os dois [conversaram animadamente sobre o gosto de ambos por viagens e comentaram a beleza da cidade de Lisboa .,
+      	 dialogar: Foi quando, segundo alguns participantes, os dois [dialogaram sobre as principais diferenças entre o churrasco gaúcho e o cearense .,
+      	 dizer: O conselheiro do Itamaraty Eduardo Farias [disse que o documento não abordará a crise de Cuba e a intervenção no Haiti .,
+      	 falar: Não entendo por que o Domingos, que sempre foi um militante dessa arte, [falou que teatro é chato .,
+      	 praticar: A professora M]praticava afetuosamente com as alunas. ,}
+  
+A='Glosa1885'
+    	{calar-se, emudecer, silenciar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3942' = “levar uma conversa adiante”
+    	{comentar: O vizinho vai saber, vou [comentar com meu amigo, que vai comentar com o amigo...,
+      	 conversar: Os dois [conversaram animadamente sobre o gosto de ambos por viagens e comentaram a beleza da cidade de Lisboa.,
+      	 dialogar: Foi quando, segundo alguns participantes, os dois [dialogaram sobre as principais diferenças entre o churrasco gaúcho e o cearense.,
+      	 falar: Eles [falaram com o chefe.,
+      	 praticar: As comadres B]praticavam na sala.}
+  
+A='Glosa1885'
+    	{calar-se, emudecer, silenciar}
+Chave: CONVERSAR <verb.communication>
+ILI: 00932753
+
+Sense 1
+{00932753} <verb.communication> converse, discourse1 -- (carry on a conversation)
+       => {00930524} <verb.communication> talk1, speak1 -- (exchange thoughts; talk with; "We often talk business"; "Actions talk louder than words")
+           => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+               => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

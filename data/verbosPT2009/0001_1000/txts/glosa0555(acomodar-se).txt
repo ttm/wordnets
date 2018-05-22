@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0555
+
+DADO O SYNSET:
+
+S='Glosa555'
+{acomodar-se: Fila para pedir a comida; tortuosas caminhadas na multidão, equilibrando a bandeja, em busca de uma mesa; malabarismo para [acomodar-se com outras pessoas.,
+amesendar-se: Para que, sem atropelos, todos possam I]amesendar-se.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa555' = “dispor (-se) comodamente; prover (-se) acomodação; alojar (-se)”
+{acomodar-se: O líder I]acomodou-se confortavelmente no local indicado, mas não disse nada. No silêncio sério que se formara, apenas contemplava a dança das chamas.,
+amesendar-se: Para que, sem atropelos, todos possam I]amesendar-se.,}
+Chave: ACOMODAR-SE
+ILI: 02572298
+
+Sense 5
+{02572298} <verb.stative> lodge, accommodate1 -- (provide housing for; "We are lodging three foreign students this semester")
+       => {02385180} <verb.social> house, put up, domiciliate -- (provide housing for; "The immigrants were housed in a new development outside the town")
+           => {02577295} <verb.stative> shelter -- (provide shelter for; "After the earthquake, the government could not provide shelter for the thousands of homeless people")
+               => {02259805} <verb.possession> supply, provide, render2, furnish -- (provide or furnish with; "We provided the room with an electrical heater")
+                   => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+                       => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children")

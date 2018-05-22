@@ -1,0 +1,69 @@
+ANÁLISE DA GLOSA3991
+
+DADO O SYNSET:
+	
+S='Glosa3991'
+    	{adscrever: As desordens H]adscreverão o governo à ação.,
+      	 adstringir: A]Adstringiu-o ao cumprimento da lei.,
+      	 algemar: Dominadora, H]algemou o marido ao lar.,
+      	 amordaçar: O estado de sítio propiciou a repressão e as leis para [amordaçar a imprensa .,
+      	 apertar: H]Apertou a testemunha a falar somente a verdade.,
+      	 asfixiar: Mais sensato que impedir a entrada, ou seja, tentar [asfixiar a oferta de dólares, talvez seja estimular a saída, quer dizer, dar vazão à procura .,
+      	 cingir: A timidez A]cingiu-lhe o gesto.,
+      	 coagir: A]Coagiram-no a demitir-se do cargo.,
+      	 coatar: x,
+      	 compelir: «É um meio coativo para [compelir alguém ao cumprimento de certa obrigação» (Magalhães Noronha, Curso de direito processual penal, São Paulo, Saraiva, 1974, p. 160) .,
+      	 constranger: A]Constrangeram-no a poder de ameaças.,
+      	 contrafazer: H]Contrafizeram-na a fazer uma denúncia contra o agressor.,
+      	 dobrar: Não há razões nem argumentos que o M]dobrem.,
+      	 emordaçar: x,
+      	 forçar: I]Forçou-a a entrar em seu carro, mas encontrou resistência.,
+      	 impelir: Más paixões nos M]impelem ao mal.,
+      	 maniatar: Com tão nobre atitude M]maniatara os opositores.,
+      	 manietar: H]Manietava, sempre que podia, as atitudes dos filhos.,
+      	 obrigar: "...se qualquer te M]obrigar a caminhar uma milha, vai com ele duas" (Evangelho segundo São Mateus, 5, 41  trad de J. F. de Almeida).,
+      	 oprimir: x,
+      	 prensar: DEVIANT,
+      	 pressionar: A CBS I]pressionou Justin a se desculpar no Grammy. ,
+      	 reduzir: Os vitoriosos A]reduziram os vencidos à escravidão.,
+      	 reprimir: M]Reprimiu a razão.,
+      	 urgir: M]Urgia-me a consciência para que o ajudasse.,
+      	 violentar: M]Violentou-me a concordar.,}
+
+A='Glosa1494'
+    	{aliviar, desafogar, desafrontar, desapertar, descarregar, desopressar, desoprimir, libertar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3991' = “forçar ou compelir alguém a fazer algo”
+    	{adscrever: Contra esta projeção cristã que subordina o homem sob as previdências esotéricas do cristianismo, Feuerbach I]adscreveu a este a função de produção fantasmagórica do homem em busca de uma vida melhor, além de sua vida concreto-atual.,
+      	 adstringir: A hegemonia patriarcal I]adstringiu a mulher ao lar enquanto não interessava ao capitalismo sua mão-de-obra.,
+      	 algemar: A dívida não é um mal, desde que não vicie o devedor nem o I]algeme a prestações que nunca acabam.,
+      	 amordaçar: O estado de sítio propiciou a repressão e as leis para [amordaçar a imprensa.,
+      	 apertar: O relator Osmar Serraglio I]apertou Henrique Pizzolato para que revelasse quem autorizou repasses de recursos da Visanet para a DNA.,
+      	 asfixiar: A sangrenta repressão política promovida pelo golpe de 1964 I]asfixiou o movimento popular pelo fechamento dos sindicatos e outras organizações de expressão.,
+      	 cingir: O que foi feito de nós, humanos, que nos I]cingiu o sentimento diante da dor de outro humano?,
+      	 coagir: Ele é acusado de ter [coagido vários presos a atuar como cabos eleitorais.,
+      	 compelir: O século 19 [compeliu muito seus homens de sucesso a montar imperiozinhos particulares.,
+      	 constranger: Os seus amigos rodearam-no e I]constrangeram-no a ficar.,
+      	 contrafazer: H]Contrafizeram-na a fazer uma denúncia contra o agressor.,
+      	 dobrar: Em 1983, eles I]dobraram a sisudez de um júri com a música “Um Estudo Muito Confuso” e abocanharam um sério 2º lugar.,
+      	 forçar: Nos últimos anos, as populações têm exigido do Estado brasileiro melhor qualidade e condições de vida, [forçando-o a assumir responsabilidades que ultrapassam sua capacidade de atendimento.,
+      	 impelir: Camus insiste sobre as motivações profundas que [impelem um homem a criar universos outros que não este.,
+      	 maniatar: Com tão nobre atitude M]maniatara os opositores.,
+      	 manietar: Só com o afastamento de Saddam Hussein o Iraque retomará seu destino de nação rica, interrompido pela megalomania de um ditador que I]manietou a população a serviço de objetivos pessoais.,
+      	 obrigar: Amin disse que primeiro o PT forçou Bisol a uma autocrítica, depois humilhou-o e, por fim, [obrigou-o a renunciar.,
+      	 pressionar: A CBS I]pressionou Justin a se desculpar no Grammy.,
+      	 reduzir: Mas, se se amesquinhar o objetivo e [reduzir-lo a deixar sadio o Estado e fortes as empresas, amesquinha-se também o resultado.,
+      	 reprimir: M]Reprimiu a razão.,
+      	 urgir: O PT foi bastante pusilânime e, até, omisso em relação à participação na Ação da Cidadania e ao próprio presidente Itamar, a quem [urgiu assumir a tarefa de declarar guerra à fome e de iniciar a implantação da Política de Segurança Alimentar.,
+      	 violentar: A extrema miséria I]violentou-o a retirar-se daquela localidade com a maioria da população.}
+
+A='Glosa1494'
+    	{aliviar, desafogar, desafrontar, desapertar, descarregar, desopressar, desoprimir, libertar}
+Chave: COMPELIR <verb.social>
+ILI: 02431663
+
+Sense 1
+{02431663} <verb.social> compel, oblige, obligate -- (force or compel somebody to do something; "We compel all students to fill out this form")
+       => {00744964} <verb.communication> induce, stimulate1, cause, have, get, make -- (cause to do; cause to act in a specified manner; "The ads induced me to buy a VCR"; "My children finally got me to buy a computer"; "My wife made me buy a new sofa")

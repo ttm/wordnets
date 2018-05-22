@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA1015
+
+DADO O SYNSET:
+
+S='Glosa1015'
+	    {debitar: Na data acordada, os computadores do Bradesco [debitarão a conta do cliente e creditarão a empresa vendedora.,}
+
+A='Glosa1014'
+	    {creditar, depositar, lançar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1015' = “lançar (uma quantia) como dívida (de alguém)”
+	    {debitar: Na data acordada, os computadores do Bradesco [debitarão a conta do cliente e creditarão a empresa vendedora.}
+
+A='Glosa1014'
+	    {creditar, depositar, lançar}
+Chave: DEBITAR <verb.possession>  
+ILI: 02200144 
+
+Sense 1
+{02200144} <verb.possession> debit -- (enter as debit)
+       => {02199815} <verb.possession> account, calculate -- (keep an account of)

@@ -1,0 +1,46 @@
+ANÁLISE DA GLOSA3140
+
+DADO O SYNSET:
+
+S='Glosa3140'
+{abrir: Filme de 83 com a nata da MPB é finalizado para [abrir Festival de Veneza.,
+	 começar: Mas, com novas chuvas, vai [começar tudo de novo e daqui a 15 dias mais casos aparecerão.,
+	 encetar: O presidente eleito reúne as condições necessárias para [encetar as modificações que todos desejamos.,
+	 entabular: Pessoalmente, eu acho difícil que se possa fazer mais que [entabular negociações preparatórias para que se possa ter com mais propriedade essas reformas realizadas logo. ,
+	 entrar: O conhecimento direto da ciência greco-arábica estimulou a inteligência latina e [entrou a preparar a renascença da cultura clássica. ,
+	 estabelecer: Rio Grande do Sul e Santa Catarina também têm condições de [estabelecer maiores contatos com o continente.,
+	 estrear: Esta semana, Xuxa embarca para o México, onde irá acertar os detalhes para a gravação do programa que irá [estrear na Televisa.,
+	 incoar: Restará, ainda, a necessidade de I]incoar procedimento executivo contra as Fazendas Públicas e suportar todos os privilégios legais conferidos a esses.,
+	 iniciar: Reginaldo Faria anteontem assinou contrato com os dois advogados do prisioneiro para [iniciar a captação de verbas e a criação do roteiro de um filme sobre a vida de Pareja.,
+	 principiar: E dispuseram-se para a nova festa que ia [principiar.,
+	 puxar: Lá, em qualquer lugar que a gente pára, vem alguém [puxar assunto, querendo saber coisas.,
+	 romper: Um violento ataque de aviação A]rompeu a guerra.,
+	 travar: Qualquer acharia nisso um benefício, Gouveia achou dous: o legado e a ocasião de [travar relações com o pai de Flora.}
+
+A='Glosa4047'
+	{acabar, aprontar, arrematar, cerrar, complementar, completar, concluir, consumar, desfechar, encerrar, epilogar, expirar, fechar, fenecer, finalizar, finar-se, findar, inteirar, liquidar, morrer, perfazer, prontificar, rematar, selar1, terminar, trancar, ultimar, vencer}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3140' = “começar [a]; causar o início”
+{abrir: Filme de 83 com a nata da MPB é finalizado para [abrir Festival de Veneza.,
+	 começar: Mas, com novas chuvas, vai [começar tudo de novo e daqui a 15 dias mais casos aparecerão.,
+	 encetar: O presidente eleito reúne as condições necessárias para [encetar as modificações que todos desejamos.,
+	 entabular: Pessoalmente, eu acho difícil que se possa fazer mais que [entabular negociações preparatórias para que se possa ter com mais propriedade essas reformas realizadas logo.,
+	 entrar: O conhecimento direto da ciência greco-arábica estimulou a inteligência latina e [entrou a preparar a renascença da cultura clássica.,
+	 estabelecer: Rio Grande do Sul e Santa Catarina também têm condições de [estabelecer maiores contatos com o continente.,
+	 estrear: Esta semana, Xuxa embarca para o México, onde irá acertar os detalhes para a gravação do programa que irá [estrear na Televisa.,
+	 incoar: Restará, ainda, a necessidade de I]incoar procedimento executivo contra as Fazendas Públicas e suportar todos os privilégios legais conferidos a esses.,
+	 iniciar: Reginaldo Faria anteontem assinou contrato com os dois advogados do prisioneiro para [iniciar a captação de verbas e a criação do roteiro de um filme sobre a vida de Pareja.,
+	 principiar: E dispuseram-se para a nova festa que ia [principiar.,
+	 puxar: Lá, em qualquer lugar que a gente pára, vem alguém [puxar assunto, querendo saber coisas.,
+	 romper: Um violento ataque de aviação A]rompeu a guerra.,
+	 travar: Qualquer acharia nisso um benefício, Gouveia achou dois: o legado e a ocasião de [travar relações com o pai de Flora.}
+
+A='Glosa4047'
+	{acabar, aprontar, arrematar, cerrar, complementar, completar, concluir, consumar, desfechar, encerrar, epilogar, expirar, fechar, fenecer, finalizar, finar-se, findar, inteirar, liquidar, morrer, perfazer, prontificar, rematar, selar1, terminar, trancar, ultimar, vencer}
+Chave: PRINCIPIAR <verb.change>
+ILI: 00337587
+
+Sense 2
+{00337587} <verb.change> begin1, lead off, start1, commence1 -- (set in motion, cause to start; "The U.S. started a war in the Middle East"; "The Iraqis began hostilities"; "begin a new chapter in your life")

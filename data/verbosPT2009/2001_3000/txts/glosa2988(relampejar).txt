@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA2988
+
+DADO O SYNSET:
+
+S='Glosa2988'
+	    {afuzilar: x,
+	      coriscar: O Harmonizador de Ieschouah simboliza o Deus Pai e se propaga na Luz do Santo Espírito, ao I]coriscar do relâmpago ou raio da Criação. ,
+	      coruscar: O sol queimava, A]coruscando nas pedras.,
+	      fuzilar: Os olhos da cartomante A]fuzilaram.,
+	      relampadear: x,
+	      relampadejar: x,
+	      relampaguear: Quando as trevas eram mais cerradas e profundas viam-se à claridade das estrelas I]relampaguear as armas dos hunos.,
+	      relampear: O facão I]relampeou na direitura do coração da Velinda.,
+	      relampejar: Por um segundo, seu olhar I]relampejou e percebi alegria.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2988' = “Emitir uma breve rajada de luz”
+	    {coriscar: De repente, uma faísca I]coriscou nas nuvens, trincando o céu de cima a baixo.,
+	      coruscar: Mais rápido do que o pensamento, um relâmpago I]coruscou no horizonte e cortou os céus de meio a meio.,
+	      fuzilar: Os relâmpagos I]fuzilavam amiúde; e a chuva começava a bater no telhado.,
+	      relampaguear: O relâmpago I]relampagueou, o trovão trovejou, um raio caiu do espaço, abriu-se um abismo, o barranco se desbarrancou.,
+	      relampear: O facão I]relampeou na direitura do coração da Velinda.,
+	      relampejar: Ou foi a terra que I]relampejou? Interrogou o horizonte, por cima das árvores.,}
+Chave: RELAMPEJAR <verb.change>
+ILI: 00412704
+
+Sense 8
+{00412704} <verb.change> flash4 -- (emit a brief burst of light; "A shooting star flashed and was gone")
+       => {00409939} <verb.change> appear -- (come into sight or view; "He suddenly appeared at the wedding"; "A new star appeared on the horizon") 

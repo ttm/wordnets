@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA3207
+
+DADO O SYNSET:
+
+S='Glosa3207'
+	    {
+	      intimar: Então, o orador reforçou a voz, reforçou o gesto, e I]intimou a multidão a jurar sobre o cadáver, que não deixaria morrer a idéia pela qual combatera.,
+	      mandar: Para completar, o presidente russo [mandou pagar imediatamente (sem dizer de onde irá tirar o dinheiro) os salários atrasados do funcionalismo público.,
+	      ordenar: Segundo essa lenda, tal deus [ordenou que seus adoradores encontrassem uma águia em cima de um cacto com uma serpente em seu bico. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3207' = “dar instruções com autoridade”
+	    {intimar: Então, o orador reforçou a voz, reforçou o gesto, e I]intimou a multidão a jurar sobre o cadáver, que não deixaria morrer a idéia pela qual combatera.,
+	      mandar: Para completar, o presidente russo [mandou pagar imediatamente (sem dizer de onde irá tirar o dinheiro) os salários atrasados do funcionalismo público.,
+	      ordenar: Segundo essa lenda, tal deus [ordenou que seus adoradores encontrassem uma águia em cima de um cacto com uma serpente em seu bico. ,}
+Chave: ORDENAR <verb.communication>
+ILI: 00722209
+
+Sense 1
+{00722209} <verb.communication> order1, tell2, enjoin, say4 -- (give instructions to or direct somebody to do something with authority; "I said to him to go home"; "She ordered him to do the shopping"; "The mother told the child to get dressed")
+       => {00728656} <verb.communication> request2 -- (ask (a person) to do something; "She asked him to be here at noon"; "I requested that she type the entire manuscript")
+           => {00727721} <verb.communication> ask1 -- (make a request or demand for something to somebody; "She asked him for a loan")
+               => {00727992} <verb.communication> request1, bespeak, call for4, quest1 -- (express the need or desire for; ask for; "She requested an extra bed in her room"; "She called for room service")
+                   => {00717906} <verb.communication> communicate1, pass on, pass1, put across -- (transmit information ; "Please communicate this message to all employees")
+                       => {02167243} <verb.possession> convey10, transmit10, communicate10 -- (transfer to another; "communicate a disease")
+                           => {02167764} <verb.possession> transfer1 -- (move from one place to another; "transfer the data"; "transmit the news"; "transfer the patient to another hospital")
+                               => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

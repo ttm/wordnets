@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA1375
+
+DADO O SYNSET:
+
+S='Glosa1375'
+{desencavar: No ano seguinte, a equipe de Johanson I]desencavou na mesma região os ossos de mais 13 membros da espécie.,
+ desencovar: x,
+	 desenterrar: A polícia do Pará vai pedir autorização judicial para tentar [desenterrar, na fazenda Forkilha, o corpo de um homem que teria sido torturado e morto pelo fazendeiro.,
+ dessoterrar: x,}
+	  
+A='Glosa1376'
+{encovar, enterrar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1375' = “retirar de sob a terra ou de sob a neve”
+{desencavar: No ano seguinte, a equipe de Johanson I]desencavou na mesma região os ossos de mais 13 membros da espécie.,
+ desenterrar: Quanto a este, sem se importar com o que eles pensavam, tirou a espada, e depois de [desenterrar a pedra, começou a cavar.,}
+A='Glosa1376'
+{encovar, enterrar}
+Chave: DESENTERRAR <verb.contact>
+ILI: 01273210
+
+Sense 1
+{01273210} <verb.contact> dig out3 -- (dig out from underneath earth or snow)
+       => {01434122} <verb.contact> free1, disengage1 -- (free or remove obstruction from; "free a path across the cluttered floor") 

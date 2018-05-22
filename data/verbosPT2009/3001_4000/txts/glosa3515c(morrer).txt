@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA3515c
+
+DADO O SYNSET:
+
+S='Glosa3515'
+	    {
+	      crestar: Era a hora em que o cacto, a flor da noite, fechava o seu cálice cheio das gotas de orvalho com que destila o seu perfume, temendo que o sol [crestasse a alvura diáfana de suas pétalas.   ,
+	      estiolar-se: O inverno nos agasalhava... nutrindo com secos tubérculos florecem e voltam a fenecer, [estiolando-se.,
+	      morrer: Minha arruda morreu!!! / A planta de fato I]morreu.,
+	      queimar: Ordenava aos dias a brilhar de forma mais amena, pois não queria I]queimar as pétalas.  ,
+	      secar: Em dias quentes e secos, as folhas poderiam [murchar e secar, determinando a morte do vegetal. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3515c' = “passar da vida física e perder todos os atributos e funções corporais necessárias para suster a vida” 
+	     {morrer: Plantas I]morrem por altas temperaturas em solos compactados/ A planta de fato I]morreu.,
+	      secar: Desde que foram plantados, há oito meses, uma das plantas já I]secou por completo e as demais também estão secando. ,}
+Chave: MORRER <verb.change>
+ILI: 00347202
+
+Sense 1
+{00347202} <verb.change> die, decease, perish, go, exit, pass away, expire, pass11 -- (pass from physical life and lose all all bodily attributes and functions necessary to sustain life; "She died from cancer"; "They children perished in the fire"; "The patient went peacefully")
+       => {00140715} <verb.change> change state, turn4 -- (undergo a transformation or a change of position or action; "We turned from Socialism to Capitalism"; "The people turned against the President when he stole the election")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")
+          Also See-> {00415508} <verb.change> die out#1; {00415508} <verb.change> die off#1; {00234016} <verb.change> die down#1; {00216596} <verb.change> die down2#2

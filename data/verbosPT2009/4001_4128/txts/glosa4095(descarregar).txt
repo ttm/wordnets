@@ -1,0 +1,36 @@
+ANÁLISE DA GLOSA4095
+
+DADO O SYNSET:
+
+S='Glosa4095'
+{aligeirar: Cada um fazendo o melhor para I]aligeirar o fardo da mãe.,
+alijar: Outros iraquianos vieram e I]alijaram a carga.,
+aliviar: I]Aliviaram a carga do navio.,
+desabafar: A]Desabafou-o de responsabilidades.,
+desafogar: H]Desafogou um caminhão.,
+desalijar: O desabafo H]desalijou-o de seus tormentos.,
+descarregar: I]Descarregou as embarcações em Eniwetok.,
+descarretar: x,
+desembaraçar: H]Desembaraçou sua mãe de um fardo imenso.,
+desencarregar: x,
+livrar: Entregou-se ao inimigo para A]livrar os dedmais companheiros. ,
+purgar: H]Purgou a cidade de malfeitores.,}
+	  
+A='Glosa1125'
+{embaraçar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4095' = “remover a carga [de]”
+{aligeirar: As despesas feitas para I]aligeirar o navio não são reputadas avarias, e correm por conta do navio.,
+alijar: Outros iraquianos vieram e I]alijaram a carga.,
+aliviar: I]Aliviaram a carga do navio.,
+desafogar: H]Desafogou um caminhão.,
+descarregar: I]Descarregou as embarcações em Eniwetok.,
+livrar: Para I]livrar o convés ou I]livrar o porão da embarcação, os valores desta tabela serão cobrados do Requisitante com redução de 30%.,}
+Chave: DESCARREGAR <verb.contact>
+ILI: 01447175
+
+Sense 5
+{01447175} <verb.contact> discharge1 -- (remove the charge from)
+       => {00166870} <verb.change> remove, take, take away1, withdraw1 -- (remove something concrete, as by lifting, pushing, taking off, etc. or remove something abstract; "remove a threat"; "remove a wrapper"; "Remove the dirty dishes from the table"; "take the gun from your pocket"; "This machine withdraws heat from the environment")

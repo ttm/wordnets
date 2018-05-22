@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0838
+
+DADO O SYNSET:
+
+S='Glosa838'
+{calcar: Nem mesmo a censura dos colegas impediu Wagner de I]calcar adesivos do desenho, que acompanham o sorvete do Bob Esponja, em algumas prateleiras da oficina. ,
+decalcar: Procurando ter controle sobre todas as operações pictóricas para investigá-las, a artista usa recortes e [decalca papéis pintados sobre a superfície trabalhada.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa838' = “fazer uma marca ou linhas sobre uma superfície; copiar sobre papel transparente posto sobre modelo”
+{calcar: Nem mesmo a censura dos colegas impediu Wagner de I]calcar adesivos do desenho, que acompanham o sorvete do Bob Esponja, em algumas prateleiras da oficina. ,
+decalcar: Procurando ter controle sobre todas as operações pictóricas para investigá-las, a artista usa recortes e [decalca papéis pintados sobre a superfície trabalhada.,}
+Chave: DECALCAR <verb.contact>
+ILI: 01539039
+
+Sense 2
+{01539039} <verb.contact> trace, draw1, line1, describe, delineate -- (make a mark or lines on a surface; "draw a line"; "trace the outline of a figure in the sand")
+       => {00494390} <verb.change> mark -- (make or leave a mark on; "mark the trail so that we can find our way back")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

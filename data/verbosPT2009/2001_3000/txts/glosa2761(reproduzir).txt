@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA2761
+
+DADO O SYNSET:
+S='Glosa2761'
+	    {reeditar: A idéia do ex-governador do Rio, conforme a Folha adiantou ontem, seria [reeditar com Maluf a aliança de 1950 entre Getúlio Vargas e o então governador de São Paulo Adhemar de Barros, que levou o primeiro à Presidência.,
+	      repetir: Perto da Rua Figueiredo Magalhães, um Corcel cinza placa KOS 1492, [repetia a cena.,
+	      reproduzir: As TVs a cabo, até agora, optaram pelo caminho mais fácil: o de simplesmente [reproduzir programações estrangeiras, seja em que língua for.,}
+
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2761' = “Fazer uma cópia ou equivalente de”
+	    {reeditar: O presidente da República recentemente repetiu velhas ações, I]reeditou velhas intenções e tentou responsabilizar o Legislativo pela crise de segurança.,
+	      repetir: Perto da Rua Figueiredo Magalhães, um Corcel cinza placa KOS 1492, [repetia a cena.,
+	      reproduzir: a pretexto de ensinar o vocabulário de uma estrutura familiar, reproduzia conversas absurdas entre marido e mulher.,}
+
+Chave: REPRODUZIR <verb.creation>
+ILI: 01687654
+
+Sense 1
+{01687654} <verb.creation> reproduce -- (make a copy or equivalent of; "reproduce the painting")
+       => {01575778} <verb.creation> produce, make1, create3 -- (create or manufacture a man-made product; "We produce more cars than we can sell"; "The company has been making toys for two centuries") 

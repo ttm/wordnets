@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0280A
+
+DADO O SYNSET:
+
+S='Glosa280'
+{restabelecer: Reagindo contra a subordinação aos imperadores alemães, sobressairam alguns papas, que tentaram [restabelecer o prestígio político do papado.,
+restaurar: O dinheiro teria servido para ajudar a presidente da Nicarágua, Violeta Chamorro, a [restaurar a democracia naquele país.,
+validar: De fato, Newton tinha um interesse similar na Grande Pirâmide de Queóps, e com sua tentativa de usar experimentos alquimistas para [validar a teoria da gravitação, e este interêsse estava alem de um passatempo não relacionado.,}
+A='Glosa2634'
+{abolir, ab-rogar, anular, cancelar, cassar, derrogar, desatar, desfazer, desvalidar, dissolver, invalidar, rescindir, resilir, revocar, revogar, suprimir, suspender, viciar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa280A' = “trazer de volta à existência original, uso, função, ou posição”
+{restabelecer: Reagindo contra a subordinação aos imperadores alemães, sobressairam alguns papas, que tentaram [restabelecer o prestígio político do papado.,
+restaurar: O dinheiro teria servido para ajudar a presidente da Nicarágua, Violeta Chamorro, a [restaurar a democracia naquele país.,}
+A='Glosa2634'
+{abolir, ab-rogar, anular, cancelar, cassar, derrogar, desatar, desfazer, desvalidar, dissolver, invalidar, rescindir, resilir, revocar, revogar, suprimir, suspender, viciar}
+Chave: RESTABELECER <verb.social>
+ILI: 02353684
+
+Sense 1
+{02353684} <verb.social> restore, reinstate1, reestablish -- (bring back into original existence, use, function, or position; "restore law and order"; "reestablish peace in the region"; "restore the emperor to the throne")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

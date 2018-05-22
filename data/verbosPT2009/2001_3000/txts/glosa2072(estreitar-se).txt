@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA2072
+
+DADO O SYNSET:
+	
+S='Glosa2072'
+    	{acanhar-se: A larga estrada A]acanhava-se na curva.,
+      	 apertar-se: O que acontece é que o rio passa de repente dos cerca de 25 metros de largura para três metros, e como consequência, o rio I]aperta-se e a corrente acelera.,
+      	 estrangular-se: x,
+      	 estreitar-se: A estrada I]estreitava-se a medida que os aventureiros continuavam a Travessia.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2072' = “ficar mais estreito ou delimitado” 
+    	{acanhar-se: Deu-se o crime numa curva, justamente onde a estrada se B]acanha.,
+      	 apertar-se: O que acontece é que o rio passa, de repente, dos cerca de 25 metros de largura para três metros, conseqüência: o rio I]aperta-se e a corrente acelera.,
+      	 estreitar-se: A estrada I]estreitava-se a medida que os aventureiros continuavam a Travessia.}
+Chave: ESTREITAR-SE <verb.change>
+ILI: 00295534
+
+Sense 1
+{00295534} <verb.change> narrow, contract -- (make or become more narrow or restricted; "The selection was narrowed"; "The road narrowed")
+       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")
+          Also See-> {00473257} <verb.change> narrow down#2; {00425035} <verb.change> narrow down1#3

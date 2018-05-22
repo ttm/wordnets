@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA1780
+
+DADO O SYNSET:
+
+S='Glosa1780'
+{cravar-se: Essas setas assim inflamadas, despedidas dos seus arcos voavam pelos ares e iam [cravar-se nas vigas e portas das casas; o fogo que o vento incitava, lambia a madeira, estendia a sua língua vermelha, e lastrava pelo edifício.,
+ enfincar-se: Feito isto I]enfincava-se um pau preparado no chão. Estava pronto o Galamarte.Os meninos montavam nas duas extremidades e começavam a rodar. ,
+ enterrar-se: No momento em que o fidalgo deitava Cecília quase desmaiada sobre o regaço materno, o índio saltava no meio do vale; a pedra girando sobre si, precipitada do alto da colina, [enterrava-se profundamente no chão.,
+ fincar-se: Quando o pilum, arremessado, I]fincava-se em uma superfície - o escudo ou o corpo de um desditoso adversário - a parte de madeira se mantinha unida ao metal.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1780' = “enterrar-se (uma faca ou espada) na carne”
+{cravar-se: Mas quando os incrédulos voltavam a idolatrá-lo, quando os fiéis renovavam suas glórias, quando o mundo via-se obrigado a curvar-se ante sua imagem, a espada da vingança [cravou-se em seu peito.,
+ enfincar-se: De repente uma lança voa na sua frente e se I]enfinca entre suas pernas.,
+ enterrar-se: Vebert cai, mas atira a faca, que se I]enterra na perna de Foskel.,
+ fincar-se: Minhas unhas sentem a dor que as pedras produzem, misturam-se aos meus cabelos e querem I]fincar-se no crânio abalroado pelas tormentas.,}
+Chave: ENTERRAR-SE <verb.contact>
+ILI: 01534968
+
+Sense 3
+{01534968} <verb.contact> sheathe2 -- (plunge or bury (a knife or sword) in flesh)
+       => {01534101} <verb.contact> immerse, plunge1 -- (thrust or throw into; "Immerse yourself in hot water")
+           => {01190419} <verb.contact> penetrate, perforate3 -- (pass into or through, often by overcoming resistance; "The bullet penetrated her chest")
+               => {01958650} <verb.motion> enter, come in2, get into, get in1, go into, go in, move into -- (to come or go into; "the boat entered an area of shallow marshes")

@@ -1,0 +1,38 @@
+ANÁLISE DA GLOSA2801
+
+DADO O SYNSET:
+
+S='Glosa2801'
+	    {debruçar: Quando Bruke chegou em casa, sentou em sua cadeira de madeira, I]debruçou a cabeça sobre mesa e começou a pensar.,
+	      decair: No início foi fácil, mas esta posição cansa muito depressa - e a cabeça começa a I]decair, os músculos do pescoço entram em colapso, e você simplesmente não consegue manter a posição.,
+	      desaprumar: Jean Paul I]desaprumou a boina sobre a cabeça tentando cobrir o rosto.,
+	      inclinar: I]Inclinar a cabeça ao máximo para a esquerda esticando a mão direita para o solo.,
+	      pender: De repente, o velhinho começou a I]pender vagarosamente para a esquerda. # Arrio lembra que nestas circunstâncias, a planta chega a I]pender até um metro.,
+	      reclinar: Depois a voz se calou na garganta, I]reclinou a cabeça e expirou. ,}
+
+	  A='Glosa3772'
+	    {aprumar: Caldas [aprumava o busto na cadeira e jogava com a serenidade de um lorde-almirante numa partida de whist.,
+	     desinclinar: x,
+	     empertigar: Dizia-se que, quando o fulano virava a esquina da Rua do Triunfo, logo I]empertigava o corpo fazendo pose.,
+	     endireitar: O peito de Victor se apertou tanto que ele teve de [endireitar o corpo e respirar fundo.,
+	     engrilar: O cão A]engrilou as orelhas.,
+	     perfilar: Ela sentiu seu sangue de águia correr nas veias, I]perfilou, devagar, suas asas e partiu num vôo lindo, até que desapareceu no horizonte azul.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2801' = “Fazer ficar de forma mais ou menos horiontal”
+	    {debruçar: Quando Bruke chegou em casa, sentou em sua cadeira de madeira, I]debruçou a cabeça sobre mesa e começou a pensar.,
+	      inclinar: O velho [inclinou a fronte para escutar o sibilo de sua flecha que talhava o azul do céu.,
+	      pender: Isabel [pendeu a cabeça lânguida sobre o ombro de Álvaro.,
+	      reclinar: Depois a voz se calou na garganta, I]reclinou a cabeça e expirou.,}
+
+	  A='Glosa3772'
+	    {aprumar, empertigar, endireitar, engrilar, perfilar}
+
+Chave: RECLINAR <verb.contact>
+ILI: 01504851
+
+Sense 2
+{01504851} <verb.contact> recline3 -- (cause to recline; "She reclined her head on the pillow")
+       => {01452069} <verb.contact> put, set, place, pose2, position, lay1 -- (put into a certain place or abstract location; "Put your things here"; "Set the tray down"; "Set the dogs on the scent of the missing children"; "Place emphasis on a certain point")
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant") 

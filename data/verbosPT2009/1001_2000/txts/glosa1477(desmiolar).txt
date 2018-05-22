@@ -1,0 +1,35 @@
+ANÁLISE DA GLOSA1477
+
+DADO O SYNSET:
+
+S='Glosa1477'
+{desajuizar: A cólera A]desajuizou-o.,
+ desassisar: Com tantos problemas, H]desassisou de vez,
+ desatinar: Onde quer que chegue, malgrado as suas super-boas intenções, acaba sempre por criar as maiores confusões e fazer I]desatinar os mais pacíficos intervenientes .,
+ desatremar: As flechas de ironia I]desatremam o leitor,
+ descarrilar: Falando consigo mesmo, o doente H]descarrilava.,
+ descarrilhar: Eu tô tranquilo, tô na minha , tô andando só na linha sem I]descarrilhar.,
+	 descerebrar: Tentou I]descerebrar os brasileiros deixando-os sem capacidade de raciocinar.,
+ desencarrilar: x,
+ desencarrilhar: x,
+ desjuizar: x,
+ desmiolar: A paixão não correspondida A]desmiolou-a.,
+ despropositar: O outro I]despropositou; falou outra vez de assassinato, de crime e de prisão.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1477' = “tornar besta ou tonto”
+{desajuizar: O “pé de cabra” I]desajuizou a normalista.,
+ desassisar: A inclemência do mecânico contato com quem não se vê, culmina por I]desassisar quem se arvora em obter um esclarecimento, mínimo que seja.,
+ desatinar: Onde quer que chegue, malgrado as suas super-boas intenções, acaba sempre por criar as maiores confusões e fazer I]desatinar os mais pacíficos intervenientes.,
+ desatremar: As flechas de ironia I]desatremam o leitor.,
+ descarrilar: Ouço vozes tuas I]descarrilando a razão.,
+ descarrilhar: Ao longo dos dias da vida, porém, muitas coisas vêm quebrar esta busca, desanimando uns, fraturando a alma de tantos, I]descarrilhando o coração de outros.,
+	 descerebrar: Tentou I]descerebrar os brasileiros deixando-os sem capacidade de raciocinar.,
+ desmiolar: Aquilo que aconteceu quase que I]desmiola meu pensamento.,}
+Chave: DESMIOLAR <verb.change>
+ILI: 00518207
+
+Sense 1
+{00518207} <verb.change> dizzy -- (make dizzy or giddy; "a dizzying pace")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

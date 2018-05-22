@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA2896
+
+DADO O SYNSET:
+
+S='Glosa2896'
+	    {adotar: A família de André tenta, há seis meses, I]adotar uma criança.,
+	      filhar: João pede informações a Raul sobre como I]filhar alguém.,
+	      filiar: x,
+	      perfilhar: Em direito, sempre foi entendida pelo ato de I]perfilhar alguém ou assumir na condição de filho, fazendo gerar aquelas relações previstas para a família biológica, inclusive a de impedimento para o matrimônio entre adotante e adotado.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2896' = “Tomar como filho”
+	    {adotar: Mora com uma família que I]o adotou, ainda pequeno.,
+	      perfilhar: O cônego Monteiro não o I]perfilhou, mas criou-o em sua casa com todo o conforto.,}
+Chave: ADOTAR <verb.change>
+ILI: 00401069
+
+Sense 5
+{00401069} <verb.change> adopt, take in3 -- (take into one's family; "They adopted two children from Nicaragua")
+       => {02141767} <verb.possession> take -- (take into one's possession; "We are taking an orphan from Romania"; "I'll take three salmon steaks") 

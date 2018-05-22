@@ -1,0 +1,41 @@
+ANÁLISE DA GLOSA4042
+
+DADO O SYNSET:
+
+S='Glosa4042'
+{afiançar: Lula mais de uma vez I]afiançou que não haveria intervenção para evitar valorização do real.,
+afirmar: A SCO I]afirmou que vai processar uma grande companhia por usar o Linux.,
+assegurar: I]Assegurou que a preocupação do governo é garantir o tratamento condigno dos brasileiros que viajam aos EUA.,
+asseverar: I]Asseverou que ficaram assustados e saíram do local, tendo em vista a aproximação de um veículo, embora tivessem cogitado ajudar a vítima.,
+caucionar: A presença materna H]cauciona os filhos de segurança.,
+garantir: O jornal I]garantiu que não ia revelar o enredo do livro até a data de lançamento.,
+jurar: Carol I]jurou que não ia discutir sobre a relevância do papel de seda azul na conservação das roupas brancas.,
+penhorar: A correção do amigo H]penhorou-lhe respeito,
+prometer: Você I]prometeu que não ia me matar.,
+segurar: x,
+testificar: Deus I]testificou que a sua Palavra é suficientemente poderosa e que tudo que foi prometido, será cumprido.,}
+	  
+A='Glosa1185'
+{denegar, desautorizar, desmentir, negar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4042' = “informar positivamente e com certeza e confiança”
+{afiançar: Lula mais de uma vez I]afiançou que não haveria intervenção para evitar valorização do real.,
+afirmar: De Klerk procurou tranqüilizar os investidores, [afirmando que a política econômica do governo está no rumo certo.,
+assegurar: I]Assegurou que a preocupação do governo é garantir o tratamento condigno dos brasileiros que viajam aos EUA.,
+asseverar: I]Asseverou que ficaram assustados e saíram do local, tendo em vista a aproximação de um veículo, embora tivessem cogitado ajudar a vítima.,
+garantir: O chefe do Serviço Regional de Aviação Civil também [garantiu que o piloto e o co-piloto do Lear Jet que matou os Mamonas Assassinas estavam habilitados a comandar o avião.,
+testificar: Desse modo, ela I]testificou: É verdade, nasceu Jesus, o Salvador do mundo.,}
+	  
+A='Glosa1185'
+{denegar, desautorizar, desmentir, negar}
+Chave: ASSEGURAR <verb.communication>
+ILI: 00986696
+
+Sense 2
+{00986696} <verb.communication> assure, tell8 -- (inform positively and with certainty and confidence; "I tell you that man is a crook!")
+       => {00978355} <verb.communication> affirm, verify3, assert, avow, aver, swan, swear3 -- (to declare or affirm solemnly and formally as true; "Before God I swear I am innocent")
+           => {00977478} <verb.communication> declare -- (state emphatically and authoritatively; "He declared that he needed more money to carry out the task he was charged with")
+               => {00976600} <verb.communication> state, say, tell4 -- (express in words; "He said that he wanted to marry her"; "tell me what is bothering you"; "state your opinion"; "state your name")
+                   => {00909455} <verb.communication> express, verbalize3, verbalise3, utter1, give tongue to -- (articulate; either verbally or with a cry, shout, or noise; "She expressed her anger"; "He uttered a curse") 

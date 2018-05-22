@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA0281
+
+DADO O SYNSET:
+
+S='Glosa281'
+{repatriar: Mas o presidente Clinton destacou que não mudou a política de [repatriar os haitianos encontrados em alto-mar.,}
+A='Glosa3355'
+{ablegar, banir, degredar, deportar, desterrar, exilar, expatriar, exterminar,      mandar, relegar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa281' = “admitir (de volta) no país”
+{repatriar: Mas o presidente Clinton destacou que não mudou a política de [repatriar os haitianos encontrados em alto-mar.,}
+A='Glosa3355'
+{ablegar, banir, degredar, deportar, desterrar, exilar, expatriar, exterminar,  mandar, relegar}
+Chave: REPATRIAR <verb.social>
+ILI: 02427599
+
+Sense 2
+{02427599} <verb.social> repatriate -- (admit back into the country)
+       => {02427748} <verb.social> admit1, allow in, let in2, intromit -- (allow to enter; grant entry to; "We cannot admit non-members into our club")
+           => {00776433} <verb.communication> permit, allow, let2, countenance -- (consent to, give permission; "She permitted her son to visit her estranged husband"; "I won't let the police search her basement"; "I cannot allow you to see your exam")
+               => {00771887} <verb.communication> accept, consent, go for -- (give an affirmative reply to; respond favorably to; "I cannot accept your invitation"; "I go for this resolution")
+                   => {00693825} <verb.cognition> react, respond -- (show a response or a reaction to something)
+                       => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

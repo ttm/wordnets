@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA2011
+
+DADO O SYNSET:
+	
+S='Glosa2011'
+    	{espelhar: O rio I]espelhava o céu.,
+      	 refletir: O espelho das águas, liso e polido como um cristal, [refletia a claridade das estrelas, que já desmaiavam com a aproximação do dia; tudo estava imóvel e quedo.,
+      	 repetir: As águas límpidas A]repetiam a Lua.  ,
+      	 retratar1: As águas da lagoa A]retratam a Lua.  ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2011' = “refletir como se fosse num espelho”
+    	{espelhar: O rio I]espelhava o céu.,
+      	 refletir: O espelho das águas, liso e polido como um cristal, [refletia a claridade das estrelas, que já desmaiavam com a aproximação do dia; tudo estava imóvel e quedo.}
+Chave: ESPELHAR <verb.weather>
+ILI: 02684840
+
+Sense 1
+{02684840} <verb.weather> mirror -- (reflect as if in a mirror; "The smallest pond at night mirrors the firmament above")
+       => {02074416} <verb.perception> reflect, reverberate4 -- (to throw or bend back or reflect (from a surface); "A mirror in the sun can reflect light into a person's eyes"; "Sound is reflected well in this auditorium")

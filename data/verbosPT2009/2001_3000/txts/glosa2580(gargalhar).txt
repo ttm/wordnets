@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA2580
+
+DADO O SYNSET:
+
+S='Glosa2580'
+	    {cachinar: Acabo uma vez mais viajando perdido por meus desvaneios, fico a I]cachinar, rindo à toa.,
+	      caquinar: x,
+	      casquinar: Do fundo da sala, vinha a alegria dos jogadores de bagatela; mas aquele I]casquinar não diminuía em nada a exposição das palavras sinistras do meu amigo.,
+	      gargalhadear: Se I]gargalhadear é sintoma da felicidade plena, o engenheiro Renato Bastos Schaefer é com certeza um homem feliz.,
+	      gargalhar: "Manhattan Murder Mystery" me fez I]gargalhar até chorar e acho que sou um dos poucos que curtiu tanto esse filme.,
+	      rinchavelhar: Não contentes com a exposição dos corpos ainda chamavam os transeuntes, atiravam-lhes botes e era em toda a ala, nos pavimentos térreos e nos sobrados, um I]rinchavelhar devasso de centenas de criaturas e aquilo lembrava uma cena de mercado oriental onde acudiam piratas levando mulheres de todos os países.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2580' = “Rir tempestuosamente.”
+	    {cachinar: Acabo uma vez mais viajando perdido por meus desvaneios, fico a I]cachinar, rindo à toa.,
+	      casquinar: E ele I]casquinava com vaidade paparreta.,
+	      gargalhadear: Se I]gargalhadear é sintoma da felicidade plena, o engenheiro Renato Bastos Schaefer é com certeza um homem feliz.,
+	      gargalhar: Ao invés de me sentir ofendida ou escandalizada eu I]gargalhei.,
+	      rinchavelhar: Puseram-se aos saltos, aos abraços e I]rinchavelharam estentóreos.,}
+
+Chave: GARGALHAR <verb.body>
+ILI: 00030359
+
+Sense 1
+{00030359} <verb.body> guffaw, laugh loudly1 -- (laugh boisterously)
+       => {00030639} <verb.body> laugh, express joy, express mirth -- (produce laughter)
+           => {01750193} <verb.emotion> express emotion, express feelings -- (give verbal or other expression to one's feelings) 

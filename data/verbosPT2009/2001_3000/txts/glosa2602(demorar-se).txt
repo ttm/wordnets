@@ -1,0 +1,40 @@
+ANÁLISE DA GLOSA2602
+
+DADO O SYNSET:
+
+  S='Glosa2602'
+	    {atrasar-se: Brasileiros [se atrasam no debate.,
+	      delongar-se: E, como desse ônus não se desincumbiu o Reclamante, não há por que o Judiciário I]delongar-se nas razões de decidir, a bem da esperada celeridade processual, em face do crescente número de demandas.,
+	      demorar-se: E, se ele [demorar-se muito na rua, faça o que lhe disse !,
+	      deter-se: E desde já, aliás, convém até [deter-se menos na questão do primeiro turno e mais no cenário que se repete, por trás dos sucessivos retratos: a política nacional pode mergulhar num vácuo de lideranças entre os partidos derrotados.,
+	      prolongar-se: O discurso de FHC no Senado corre o risco de [prolongar-se indefinidamente e bater o recorde de apartes.,
+	      retardar-se: I]Retardar-se a sua publicação seria não somente uma afronta à probidade científica mas também carrearia o risco de que práticas médicas impróprias poderiam continuar a despeito do novo entendimento, e de que as oportunidades terapêuticas dependentes dele, não se tornem largamente conhecidas. ,
+	      retrasar-se: x,}
+
+	  A='Glosa1084'
+	    {acelerar-se: Com a privatização dos ramais da Rede Ferroviária, as obras de Sepetiba tem que [se acelerar,
+	     adiantar-se: Consultou o relógio, o ponteiro marcava pouco mais de oito horas e parecia-lhe como nunca disposto a [adiantar-se,
+	     aforçurar-se: O tempo disparava, tiveram de H]aforçurar-se,
+	     apressar-se: Quem pretende comprar sua casa própria ou investir em um imóvel residencial deve [apressar-se,
+	     apressurar-se: x,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2602' = “Comportar-se de maneira mais demorada do que o planejado, fixado ou exigido.”
+	    {atrasar-se: Brasileiros [se atrasam no debate.,
+	      delongar-se: A resposta às suas amigáveis linhas I]delongou-se porque eu mesmo me vi recentemente muito sobrecarregado de trabalhos.,
+	      demorar-se: Certo é que ele não se [demorou muito na sala.,
+	      deter-se: No caminho de volta, I]deteve-se na Inglaterra e na Holanda, onde se encontrou com Espinosa.,
+	      prolongar-se: O discurso de FHC corre o risco de [prolongar-se indefinidamente.,
+	      retardar-se: ]IRetardava-se na escolha de seu candidato.,}
+
+	  A='Glosa1084'
+	    {acelerar-se, adiantar-se, aforçurar-se, apressar-se}
+
+Chave: DEMORAR-SE <verb.stative>
+ILI: 02563384
+
+Sense 2
+{02563384} <verb.stative> delay -- (act later than planned, scheduled, or required; "Don't delay your application to graduate school or else it won't be considered")
+       => {02562977} <verb.stative> wait1, hold off, hold back -- (wait before acting)
+           => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel") 

@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0008
+
+DADO O SYNSET:
+
+S='Glosa8'
+{purgar: O óleo de mamona bebe-se com igual quantidade de água morna para I]purgar o corpo. ,}
+A='Glosa6'
+{impurificar, sujar}
+	    
+A ANÁLISE RESULTA EM:
+
+S='Glosa8' = “fazer excretar ou evacuar algum orgão do corpo humano, como o intestino”
+{purgar: Bananas não são somente frescas, mas frias, apesar de poderem limpar o calor e I]purgar o intestino quando necessário. ,}
+A='Glosa6'
+{impurificar, sujar}
+Chave: PURGAR <verb.body>
+ILI: 00071623
+
+Sense 7
+{00071623} <verb.body> purge -- (excrete or evacuate (someone's bowels or body); "The doctor decided that the patient must be purged")
+       => {00076458} <verb.body> treat, care for -- (provide treatment for; "The doctor treated my broken leg"; "The nurses cared for the bomb victims"; "The patient must be treated right away or she will die"; "Treat the infection with antibiotics")

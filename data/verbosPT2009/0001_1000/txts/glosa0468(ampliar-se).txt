@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA0468
+
+DADO O SYNSET:
+
+S='Glosa468'
+{alargar-se: No mapa do saber abria-se um rasgo profundo destinado a [alargar-se continuamente.,
+ampliar-se: Um tema que poderia [ampliar-se para um país inteiro que parece não ter outro tema,
+aumentar-se: Trata-se da terceirização, através da qual se organiza o sistema produtivo, diminui-se o tamanho das organizações e se [aumenta a eficiência dos processos.,
+desenvolver-se: A medida que a povoação aumentava, o progresso se I]desenvolvia, de par com o entusiasmo de seus habitantes.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa468' = “aumentar (-se) em tamanho, volume, importância ou alcance”
+{alargar-se: No mapa do saber abria-se um rasgo profundo destinado a [alargar-se continuamente.,
+ampliar-se: Um tema que poderia [ampliar-se para um país inteiro que parece não ter outro tema,
+aumentar-se: Trata-se da terceirização, através da qual se organiza o sistema produtivo, diminui-se o tamanho das organizações e se [aumenta a eficiência dos processos.,
+desenvolver-se: A medida que a povoação aumentava, o progresso se I]desenvolvia, de par com o entusiasmo de seus habitantes.,}
+Chave: AMPLIAR-SE <verb.change>
+ILI: 00421709
+
+Sense 1
+{00421709} <verb.change> magnify, amplify -- (increase in size, volume or significance; "Her terror was magnified in her mind")
+       => {00151998} <verb.change> enlarge -- (become larger or bigger)
+           => {00223119} <verb.change> grow -- (become larger, greater, or bigger; expand or gain; "The problem grew too large for me"; "Her business grew fast")
+               => {00150804} <verb.change> increase -- (become bigger or greater in amount; "The amount of work increased")
+                   => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+                       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

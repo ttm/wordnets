@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA2133
+
+DADO O SYNSET:
+
+S='Glosa2133'
+	    {desentranhar-se: H]Desentrenhar-se em lamentações.,
+	      enunciar-se: Presidente do gabinetede 30 de março de 1855, ao aspecto da situação de seu país dous anosdepois, I]enunciou-se nestes memoráveis termos. # H]Enunciava-se em termos reticentes.,
+	      exalar: x,
+	      expressar-se: O Senhor Presidente passou a palavra ao Senhor Luís Henrique Lima, que I]expressou-se nos seguintes termos: "Faço um elogio à Comissão de Minas e Energia da Casa pela importância da Audiência, escolha do tema e a amplitude da convocação. ,
+	      exprimir-se: O Legislador I]exprimiu-se com clareza no artº. 63º, nº. 5 da LGT ao atribuir a competência aos Tribunais Comuns para o conhecimento dos pedidos de suprimento extrínsecos aos casos litigiosos do contencioso judicial tributário.,
+	      exteriorizar-se: O professor se H]exteriorizou sem nenhuma inibição.,
+	      externar-se: x,
+	      manifestar-se: Genoino [manifestou-se em termos quase idênticos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2133' = “mostrar-se, explicitar-se pelo discurso ou fala”
+	    {desentranhar-se: H]Desentrenhar-se em lamentações.,
+	      enunciar-se: Presidente do gabinetede I]enunciou-se nestes memoráveis termos. # H]Enunciava-se em termos reticentes.,
+	      expressar-se: O Senhor Presidente passou a palavra ao Senhor Luís Henrique Lima, que I]expressou-se nos seguintes termos.,
+	      exprimir-se: O Legislador I]exprimiu-se com clareza no artº. 63º, nº. 5 da LGT ao atribuir a competência aos Tribunais Comuns.,
+	      exteriorizar-se: O professor se H]exteriorizou sem nenhuma inibição.,
+	      manifestar-se: Genoino [manifestou-se em termos quase idênticos.,}
+
+Chave: EXPRESSAR-SE <verb.communication>
+ILI: EQ_HAS_HYPERONYM - 00910961 - “express in speech”
+
+Sense 3
+{00910961} <verb.communication> talk, speak, utter, mouth, verbalize, verbalise -- (express in speech; "She talks a lot of nonsense"; "This depressed patient does not verbalize")
+       => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+           => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+               => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

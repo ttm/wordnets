@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA3684
+
+DADO O SYNSET:
+
+S='Glosa3684'
+	    {
+	      aparar1: Ele [aparou a bola e Zinho chutou da entrada da área. ,
+	      deter: Os laterais corintianos, Leandro e Elias, não conseguiam [deter os atacantes adversários e ainda faziam faltas próximas de sua área. ,
+	      parar: Todos sabemos o que significa fazer força ou empregá-la para movimentar ou [parar um corpo. ,
+	      segurar: Na dúvida entre [segurar e espalmar a bola, o goleiro não fez nem uma coisa e nem outra.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3684' = “fazer parar”
+	     {aparar1: Ele [aparou a bola e Zinho chutou da entrada da área.,
+	      deter: Um trabalho junto aos proprietários rurais vizinhos ao parque I]deteve as queimadas. ,
+	      parar: Em Copacabana, a chuva causou deslizamentos, arrancou calçadas e [parou o trânsito. ,
+	      segurar: O governo apenas [segurou uma expansão desenfreada.,}
+Chave: DETER <verb.motion>
+ILI: 01805309
+
+Sense 5
+{01805309} <verb.motion> stop1 -- (cause to stop; "stop a car"; "stop the thief")

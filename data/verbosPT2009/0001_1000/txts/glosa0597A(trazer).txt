@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0597A
+
+DADO O SYNSET:
+
+S='Glosa597'
+{chamar: Fazer num lugar grande, divulgar decentemente e [chamar o pessoal da indústria fonográfica para ver.,
+trazer: Resolveram [trazer estrelas estrangeiras para shows durante o carnaval. # A idéia é levar alunos daqui para um estágio na Suécia e [trazer alunos suecos para uma temporada no Brasil.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa597A' = “transportar ou fazer vir algo ou alguém”
+{trazer: Neste segundo ano, o evento I]trouxe a banda The Pietasters, umas das precursoras do Ska 3th Wave em Washington D.C.,}
+Chave: TRAZER <verb.motion>
+ILI: 02018551
+
+Sense 1
+{02018551} <verb.motion> bring, convey, take10 -- (take something or somebody with oneself somewhere; "Bring me the box from the other room"; "Take these letters to the boss"; "This brings me to the main point")
+       => {01408676} <verb.contact> transport, carry2 -- (move while supporting, either in a vehicle or in one's hands or on one's body; "You must carry your camping gear"; "carry the suitcases to the car"; "This train is carrying nuclear waste"; "These pipes carry waste water into the river")
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")
+          Also See-> {01935876} <verb.motion> bring forward#1; {01923102} <verb.motion> bring down#4; {01915250} <verb.motion> bring down1#1; {01916187} <verb.motion> bring up#4; {02095018} <verb.perception> bring on#2; {02095018} <verb.perception> bring out1#5

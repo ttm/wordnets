@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA0790
+
+DADO O SYNSET:
+
+S='Glosa790'
+{bocejar: Você nos faz [bocejar. # O aconselhável é [bocejar quando os econoartistas de plantão estiverem abrindo a boca.,
+boquejar: x,
+oscitar: x,}
+	
+A ANÁLISE RESULTA EM:
+
+S='Glosa790' = “abrir a boca, emitir bocejo, como por falta de oxigênio ou quando está cansado”
+{bocejar: Você nos faz [bocejar. # O aconselhável é [bocejar quando os econoartistas de plantão estiverem abrindo a boca.,}
+Chave: BOCEJAR <verb.body>
+ILI: 00007227
+
+Sense 1
+{00007227} <verb.body> yawn -- (utter a yawn, as from lack of oxygen or when one is tired; "The child yawned during the long performance")
+       => {00001740} <verb.body> breathe, take a breath, respire, suspire3 -- (draw air into, and expel out of, the lungs; "I can breathe better when the air is clean"; "The patient is respiring")

@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA3844
+
+DADO O SYNSET:
+	
+S='Glosa3844'
+{andar: Quando a conheci já estava muito idosa, [andava com dificuldade, mas vivia sempre cercada dos amigos.,
+	 caminhar: É interessante comparar, neste contexto, as palavras do Menino na primeira travessia com as palavras do Cristo [caminhando sobre as águas.,
+	 pisar: Orestes Quércia deixou o Maksoud Plaza [pisando duro.}
+	
+A ANÁLISE RESULTA EM:
+
+S='Glosa3844' = “usar os próprios pés para avançar; avançar com passos”
+{andar: Quando a conheci já estava muito idosa, [andava com dificuldade, mas vivia sempre cercada dos amigos.,
+	 caminhar: É interessante comparar, neste contexto, as palavras do Menino na primeira travessia com as palavras do Cristo [caminhando sobre as águas.,
+	 pisar: Orestes Quércia deixou o Maksoud Plaza [pisando duro.}
+Chave: CAMINHAR <verb.motion>
+ILI: 01849285
+
+Sense 1
+{01849285} <verb.motion> walk -- (use one's feet to advance; advance by steps; "Walk, don't run!"; "We walked instead of driving"; "She walks with a slight limp"; "The patient cannot walk yet"; "Walk over to the cabinet")
+       => {01782203} <verb.motion> travel, go, move3, locomote -- (change location; move, travel, or proceed; "How fast does your new car go?"; "We travelled from Rome to Naples by bus"; "The policemen went from door to door looking for the suspect"; "The soldiers moved towards the city in an attempt to take it before night fell")
+          Also See-> {01855163} <verb.motion> walk around#1; {01855163} <verb.motion> walk about#1

@@ -1,0 +1,35 @@
+ANÁLISE DA GLOSA1874
+
+DADO O SYNSET:
+
+S='Glosa1874'
+{ababelar-se: x,
+ baralhar-se: As idéias baralhavam-se na cabeça; lembrava-me de canções e de frases de contos suaves. ,
+ confundir-se: Na época, as idéias humanistas I]confundiam-se com heresia e desrespeito pela Igreja Católica porque estavam muito associadas a nomes como o de Martinho Lutero.,
+ desarranjar-se: x,
+ desordenar-se: x,
+ embaralhar-se: Pareciam, I]embaralhar-se, muitas vezes, as idéias na cabeça. ,
+ embrulhar-se: x,
+ entremesclar-se: H]Entremesclar-se um pensamento.,
+ entremisturar-se: x,
+ misturar-se: Os velhos preconceitos ante a mulher que fica sozinha (a solteirona) I]misturavam-se à lógica competitiva da sociedade capitalista.,
+ obscurecer-se: x,
+ perder-se: M]Perde-se a memória na multidão dos fatos.,
+ unir-se: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1874' = “ficar vago, indistinto”
+{baralhar-se: Minhas idéias se [baralharam, minha cabeça começou a pesar.,
+ confundir-se: N Quer dizer que a visão técnica do arquiteto e a visão ficcional do romancista se [confundem em face do mesmo choque.,
+ embaralhar-se: Pareciam, I]embaralhar-se, muitas vezes, as idéias na cabeça.,
+ misturar-se: Tudo se I]mistura quando te encontro.,}
+Chave: EMBARALHAR-SE <verb.change>
+ILI: 00301277
+
+Sense 6
+{00301277} <verb.change> blur, dim4, slur -- (become vague or indistinct; "The distinction between the two theories blurred")
+       => {00216002} <verb.change> weaken -- (become weaker; "The prisoner's resistance weakened after seven days")
+           => {00146081} <verb.change> decrease, diminish, lessen, fall6 -- (decrease in size, extent, or range; "The amount of homework decreased towards the end of the semester"; "The cabin pressure fell dramatically"; "her weight fall to under a hundred pounds"; "his voice fell to a whisper")
+               => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

@@ -1,0 +1,38 @@
+ANÁLISE DA GLOSA2506
+
+DADO O SYNSET:
+
+S='Glosa2506'
+	    {apanhar: O paulista fez menção de [apanhar o dinheiro da mesa, mas o general se antecipou.,
+	      apoderar-se: Nossa tradição será conservada, mais "autêntica", pelos disciplinados grupos 'parafolclóricos" de Maceió, os quais, na festa de Bom Jesus de Penedo, [se apoderam do espaço destinado aos poucos e teimosos grupos ribeirinhos que vêm comemorar o santo com sua dança e devoção de sempre?,
+	      apossar-se: Vinogradov chegou a [se apossar dos cachês dos bailarinos durante as turnês internacionais do Kirov.,
+	      apossear-se: x,
+	      apropriar-se: Basta observar como a indústria da cultura conseguiu [se apropriar de uma festa popular como o desfile das escolas de samba do Rio de Janeiro, transformando-a numa coreografia para as câmeras de televisão.,
+	      assenhorar-se: O PSDB vai querer [se assenhorar do poder, e todo mundo sabe disso.,
+	      assenhorear-se: A lei natural é que o ser humano pode aproveitar essas divinas dádivas da natureza e com elas prosperar satisfatoriamente sem ser cativado pela motivação predatória de I]assenhorear-se da natureza material.,
+	      empossar-se: x,
+	      ensenhorerar-se: x,
+	      roubar: Até que o Sol, do qual Júpiter [roubara o cometa, voltou a interferir.,
+	      senhorear: Sua Alteza os quer ver todos convertidos mande-os sujeitar e deve fazer estender os cristãos pela terra dentro e repartir-lhes o serviço dos índios àqueles que os ajudarem a conquistar e I]senhorear em outras partes de terras novas.,
+	      tomar: Não temos interesse em tomar o [poder, queremos destruí-lo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2506' = “obter ilegal ou inescrupulosamente”
+	    {apanhar: A menina I]apanhou o dinheiro e se afastou devagar em direção à porta, sem tirar os olhos por um minuto sequer do homem que acabara de dominar.,
+	      apoderar-se: [Se apoderam do espaço destinado aos poucos e teimosos grupos ribeirinhos que vêm comemorar o santo com sua dança e devoção de sempre?,
+	      apossar-se: Outra pessoa I]se apossou da senha, login e e-mail cadastrado do Orkut.,
+	      apropriar-se: Constatado que a Autuada I]se apropriou indevidamente de créditos de ICMS.,
+	      assenhorar-se: Em 1994, o Instituto de Terras de Mato Grosso I]se assenhorou de cerca de 330 mil hectares.,
+	      assenhorear-se: O Estado I]se assenhoreou de um bem público. O Estado é apenas o gestor, não o dono.,
+	      roubar: Mônica garante ter vergonha de André, que I]roubou os bens de Júlia.,
+	      senhorear: Homem ambicioso, I]senhoreou os cabedais que ele ajuntara, logrando multiplicá-los imensamente.,
+	      tomar: Não temos interesse em tomar o [poder, queremos destruí-lo.,}
+
+Chave: APODERAR-SE
+ILI: 02290575
+
+Sense 1
+{02290575} <verb.possession> grab3 -- (obtain illegally or unscrupulously; "Grab power")
+       => {02173228} <verb.possession> obtain -- (come into possession of; "How did you obtain the visa?")
+           => {02147191} <verb.possession> get, acquire -- (come into the possession of something concrete or abstract; "She got a lot of paintings from her uncle"; "They acquired a new pet"; "Get your results the next day"; "Get permission to take a few days off from work")

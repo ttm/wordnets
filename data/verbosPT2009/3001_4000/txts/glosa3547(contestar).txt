@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA3547
+
+DADO O SYNSET:
+
+S='Glosa3547'
+	{contestar: No feudalismo, nenhum senhor tinha força suficiente para [contestar o poder do Clero. ,
+	 negar: Para que o marxismo permanecesse infalível, seria então necessário [negar as descobertas biológicas após Darwin. }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3547' = “provar ser falso ou incorreto”
+	{contestar: No feudalismo, nenhum senhor tinha força suficiente para [contestar o poder do Clero.,
+	 negar: Para que o marxismo permanecesse infalível, seria então necessário [negar as descobertas biológicas após Darwin. }
+Chave: CONTESTAR <verb.cognition>
+ILI: 00645495
+
+Sense 2
+{00645495} <verb.cognition> refute, rebut, controvert -- (prove to be false or incorrect)
+       => {00645190} <verb.cognition> disprove, confute -- (prove to be false; "The physicist disproved his colleagues' theories")
+           => {00644688} <verb.cognition> negate, contradict -- (prove negative; show to be false)
+               => {00642734} <verb.cognition> prove, demonstrate, establish, show, shew -- (establish the validity of something, as by an example, explanation or experiment; "The experiment demonstrated the instability of the compound"; "The mathematician showed the validity of the conjecture")
+                   => {00643814} <verb.cognition> confirm, corroborate, sustain, substantiate, support, affirm -- (establish or strengthen as with new evidence or facts; "his story confirmed my doubts"; "The evidence supports the defendant")

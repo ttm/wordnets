@@ -1,0 +1,39 @@
+ANÁLISE DA GLOSA3005
+
+DADO O SYNSET:
+
+S='Glosa3005'
+	    {abrigar: A Prefeitura, através das secretarias de Infra-Estrutura e Ação Social, está I]abrigando as famílias. ,
+	      absorver: x,
+	      acoitar: x,
+	      acolher: Fundou hospitais, organizou dezenas de mutirões para construção de açudes e criou 22 casas de caridade para I]acolher órfãos.,
+	      aconchegar: x,
+	      acoutar: x,
+	      agasalhar: Peço I]agasalhar, por conta do Comitê, todas as crianças órfãs, de ambos os sexos, sejam filhas de soldados ou jagunços. ,
+	      aguaritar: x,
+	      albergar: Albergues Públicos: em sua fundação, o objetivo era I]albergar os sem-teto, mas hoje em dia se tenta ressocializá-los e reintegrá-los à sociedade.,
+	      aposentar: A]Aposentou o viandante que lhe bateu à porta.,
+	      colher: x,
+	      gasalhar: x,
+	      recolher: A]Recolheu os viajantes cansados.  ,
+	      tomar: x,
+	      tratar: x,}
+
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3005' = “prover abrigo”
+	      {abrigar: A Prefeitura, através das secretarias de Infra-Estrutura e Ação Social, está I]abrigando as famílias. ,
+	      acolher: Tibério vai [acolher meninos de rua.,
+	      agasalhar: Campanha da SED vai I]agasalhar moradores do Monte Cristo e Pedregal. ,
+	      albergar: O vosso país I]albergou criminosos como Emmanuel Constant um dos líderes mais sanguinários do Taiti.,
+	      aposentar: A]Aposentou o viandante que lhe bateu à porta.,
+	      recolher: A]Recolheu os viajantes cansados.  ,}
+Chave: ABRIGAR <verb.stative>  
+ILI: 02577295
+
+Sense 1
+{02577295} <verb.stative> shelter -- (provide shelter for; "After the earthquake, the government could not provide shelter for the thousands of homeless people")
+       => {02259805} <verb.possession> supply, provide, render2, furnish -- (provide or furnish with; "We provided the room with an electrical heater")
+           => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+               => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children")

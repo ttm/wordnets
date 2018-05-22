@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA3680
+
+DADO O SYNSET:
+
+S='Glosa3680'
+	    {
+	      apodar: I]Apodava este regime de governo com o anterior.,
+	      assemelhar: Apressou-se em I]assemelhar a música dos compositores mineiros à de Pergolesi, Haydn e Mozart. ,
+	      assimilhar: Muitas vezes I]assimilham o homem aos irracionais na ferocidade e no egoísmo.,
+	      comparar: Para se entender melhor a formação da corrente elétrica, podemos [compará-la-com a água que corre de um reservatório de nível mais alto para um de nível mais baixo, até que os dois níveis se igualem. ,
+	      paragonar: x,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3680' = “considerar ou descrever como similar, igual ou análogo”
+	     {apodar: I]Apodava este regime de governo com o anterior.,
+	      assemelhar: J. Lang, ex-ministro da Cultura da França, os I]assemelhou a “vorazes raposas a tomar conta de um galinheiro”.,
+	      assimilhar: Muitas vezes I]assimilham o homem aos irracionais na ferocidade e no egoísmo.,
+	      comparar: A maioria das crianças [comparou a alegria do nascimento com a tristeza da morte. ,}
+Chave: ASSEMELHAR <verb.cognition>
+ILI: 00631790
+
+Sense 3
+{00631790} <verb.cognition> compare1, liken, equate -- (consider or describe as similar, equal, or analogous; "We can compare the Han dynasty to the Romans"; "You cannot equate success in financial matters with greed")
+       => {02104471} <verb.perception> study, consider -- (give careful consideration to; "consider the possibility of moving")
+           => {00610468} <verb.cognition> chew over, think over, meditate, ponder, excogitate, contemplate1, muse, reflect, mull, mull over, ruminate, speculate -- (reflect deeply on a subject; "I mulled over the events of the afternoon"; "philosophers have speculated on the question of God for thousands of years"; "The scientist must stop to observe and start to excogitate")
+               => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

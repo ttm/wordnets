@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2807
+
+DADO O SYNSET:
+
+S='Glosa2807'
+	    {descrever: Faça-o agora I]descrever uma circunferência, movendo com grande rapidez o braço esticado, para frente, para cima e depois para trás.,
+	      figurar: A fumaça exalada do cigarro H]figurava pequenos círculos.,
+	      representar: Na única colagem de sua obra, O Meu Vestido Está ali Pendurado, ela I]representou um retrato irônico desse mesmo capitalismo e apontou, por meio de símbolos da sociedade industrial da América moderna, para a decadência social e para a destruição de valores humanos fundamentais.,
+	      retratar1: O pintor, conhecido por [retratar algumas das principais figuras internacionais, recusa igualmente transformar o caso numa tentativa de «publicidade» e de «chantagem» relativamente aos «clientes» a quem os quadros eram destinados e que não se chegaram a mostrar interessados nesta gigantesca epopeia pictórica da Guerra do Golfo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2807' = “Criar uma imagem de”
+	    {descrever: Do segundo, partiu um horrível rastro de fumaça negra, que I]descreveu um arco que terminou numa pastagem.,
+	      figurar: Em plano mais afastado, I]figurou uma seqüência em três quadros.,
+	      representar: A classe Arc, que I]representa um arco na tela, é derivada da classe Circle.,
+	      retratar1: Di Cavalcanti foi um dos artistas brasileiros que mais I]retratou a temática popular.,}
+Chave: FIGURAR <verb.creation>
+ILI: 01637996
+
+Sense 9
+{01637996} <verb.creation> represent1, interpret1 -- (create an image or likeness of; "The painter represented his wife as a young girl")
+       => {01573613} <verb.creation> re-create -- (create anew; "Re-create the boom of the West on a small scale")
+           => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor") 

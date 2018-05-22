@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA2611
+
+DADO O SYNSET:
+
+S='Glosa2611'
+	    {desafrontar: Logo marcharem léguas para atacar as povoações inimigas, com o único objetivo de fazer prisioneiros destinados à morte ritual e I]desafrontar as ofensas.,
+	      desagravar: Seu fim é I]desagravar o Imaculado Coração de Maria, das ofensas e ultrajes de que é objeto por parte dos homens ingratos.,
+	      desforrar: Aliás, esses mesmos calouros que hoje sofrem a violência, estarão no próximo ano, já veteranos, tentando praticar atos iguais contra os novatos, como a I]desforrar os constrangimentos sofridos anteriormente.,
+	      despicar: Este sabia da injuriosa vingança em que o outro se ia I]despicando; fingia-se invulnerável à detracção; mas de dia para dia se lhe azedava a bílis.,
+	      retaliar: Firmino Rodrigues Alves, vice-presidente da apas, diz que se elas não voltarem atrás, os supermercados vão [retaliar.,
+	      vingar: Os dois atentados de ontem ocorreram apenas dois dias depois da reabertura das fronteiras de Israel com os territórios palestinos de Cisjordânia e Gaza, determinado a partir de informações de que radicais muçulmanos tentariam [vingar a morte de Ayash.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2611' = “Fazer vingança a um erro percebido.”
+	    {desafrontar: Mas a grandeza d'alma do esposo fez malograr o ato de heroísmo, e daí pouco um negro instrumento da sociedade I]desafrontava-a.,
+	      desagravar: Os petistas mineiros I]desagravaram José Dirceu e denunciaram os desmandos dos tucanos e do governo de FHC.,
+	      desforrar: Algum tempo depois, num amistoso, na Itália, eles I]desforraram, Leão tomou um frangaço, parece que foi 1x0, não recordo bem.,
+	      despicar: Decidiu H]despicar o amigo daquela ofensa,
+	      retaliar: Um elefante africano I]retaliou os abusos de um grupo de turistas, lançando uma pedra contra a multidão e atingindo uma menina na face.,
+	      vingar: Ela não sossegou enquanto não I]vingou a morte da irmã.,}
+
+Chave: VINGAR <verb.competition>
+ILI: 01117944
+
+Sense 1
+{01117944} <verb.competition> revenge, avenge, retaliate1 -- (take revenge for a perceived wrong; "He wants to avenge the murder of his brother")
+       => {02424949} <verb.social> punish, penalize, penalise -- (impose a penalty on; inflict punishment on; "The students were penalized for showing up late for class"; "we had to punish the dog for soiling the floor again") 

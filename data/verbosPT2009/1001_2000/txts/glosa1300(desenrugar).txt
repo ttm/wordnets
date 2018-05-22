@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA1300
+
+DADO O SYNSET:
+
+S='Glosa1300'
+{desarrugar: x,
+ desencarquilhar: x,
+ desenrugar: Deixe as sobrancelhas voltarem ao normal e a fronte I]desenrugar suavemente,
+ desrugar: Uma aura de bem-aventurança I]desrugou a fronte do médico e seus lábios abriram-se num sorriso,}
+	  
+A='Glosa2749'
+{corrugar, encarquilhar, enrugar, refegar, rugar, sulcar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1300' = “tornar desenrugado; tirar as rugas [de]”
+{desenrugar: Assim que ela se recuperou e sabendo o tempo que lhe restava neste mundo, ela decidiu mudar de vida. I]Desenrugou o rosto, colocou silicone nos seios, fez lipo na cintura, encurtou o nariz etc...
+ desrugar: Uma aura de bem-aventurança I]desrugou a fronte do médico e seus lábios abriram-se num sorriso,}
+A='Glosa2749'
+{corrugar, encarquilhar, enrugar, refegar, rugar, sulcar}
+Chave: DESENRUGAR <verb.contact>
+ILI: EQ_HAS_HYPERONYM – 01215101 – “tornar liso ou mais liso, como se esfregasse”
+
+Sense 1
+{01215101} <verb.contact> smooth, smoothen -- (make smooth or smoother, as if by rubbing; "smooth the surface of the wood")
+       => {00345030} <verb.change> change surface -- (undergo or cause to undergo a change in the surface)
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")
+          Also See-> {02441281} <verb.social> smooth over#1

@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA2829
+
+DADO O SYNSET:
+
+S='Glosa2829'
+	    {atravessar: Torcedores do Botafogo e do Fluminense que voltavam do estádio Caio Martins em direção ao Rio, motoristas procedentes da Região dos Lagos e banhistas recém-saídos das praias oceânicas de Niterói acabaram levando mais de uma hora, ontem, para [atravessar a Ponte Rio-Niterói, onde dois acidentes, envolvendo cinco automóveis, causaram um engarrafamento que durou mais de duas horas.,
+	      cruzar: E não é só isso, as cinco moças que recebem as ligações diariamente, de 6h às 21h, ainda calculam o tempo que o motorista deve levar para [cruzar a ponte, dão a previsão do tempo - com direito a velocidade do vento - e abusam de bons conselhos, como dirija com cuidado e use o cinto de segurança.,
+	      encruzar: Barcos aguardando a subida do nível já no interior do elevador, para I]encruzar o rio Tietê.,
+	      encruzilhar: x,
+	      penetrar: Em seguida a trilha fica bem mais delicada, pois o nível de dificuldade e de risco aumenta bastante ao I]penetrar a floresta fechada, passando por trechos bem pedegrosos, íngremes e beirando precipícios tão lindos quanto assustadores.,
+	      rasgar: Sem uma boa referência decidimos estabelecer um rumo fixo e I]rasgar o mato.,
+	      transpor: As batatas apenas chegam para alimentar uma das tribos, que assim adquire forças para [transpor a montanha e ir à outra vertente, onde há batatas em abundância; mas, se as duas tribos dividirem em paz as batatas do campo, não chegam a nutrir-se suficientemente e morrem de inanição.,
+	      travessar: Após I]travessar o rio Paraná seguirá um longo trecho sem boas opções de refeição e hospedagem ( entre Porto XV de Novembro e Nova Alvorada do Sul ), quando entrará á esquerda até Dourados.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2829' = “Percorrer de um lado para o outro ou passar por”
+	    {atravessar: I]Atravessou mata fechada e lago socorrendo vítimas de acidentes.,
+	      cruzar: O rapaz I]cruzou o deserto, e chegou finalmente ao mosteiro de Sceta.,
+	      penetrar: Em seguida a trilha fica bem mais delicada, pois o nível de dificuldade e de risco aumenta bastante ao I]penetrar a floresta fechada, passando por trechos bem pedegrosos.,
+	      rasgar: Sem uma boa referência decidimos estabelecer um rumo fixo e I]rasgar o mato.,
+	      transpor: Antonio Raposo Tavares, no segundo ataque que levou a efeito aos 'pueblos' espanhóis de Vila Rica do Espírito Santo e Ciudad Real del Guaira, I]transpôs o rio Paraná, atingindo o 'pueblo" de Santiago de Xéres.,
+	      travessar: Ele abriu a porta para o quintal e I]travessou o pequeno pátio.,}
+Chave: ATRAVESSAR <verb.motion>
+ILI: 01856347
+
+Sense 1
+{01856347} <verb.motion> traverse, track1, cover, cross, pass over1, get over, get across, cut through, cut across -- (travel across or pass over; "The caravan covered almost 100 miles each day")
+       => {01991747} <verb.motion> pass, go through, go across -- (go across or through; "We passed the point where the police car had parked"; "A terrible thought went through his mind")
+           => {01782203} <verb.motion> travel, go, move3, locomote -- (change location; move, travel, or proceed; "How fast does your new car go?"; "We travelled from Rome to Naples by bus"; "The policemen went from door to door looking for the suspect"; "The soldiers moved towards the city in an attempt to take it before night fell") 

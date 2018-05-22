@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA2496
+
+DADO O SYNSET:
+
+S='Glosa2496'
+	    {sincopar: M]Sincopar maior, formando mor.,
+	      sincopizar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2496' = “Omitir o som ou uma letra em uma palavra.”
+	    {sincopar: Este exemplo isolado demonstra que o nandorin, como o quenya, I]sincopou a segunda de duas vogais idênticas em sílabas adjacentes.,}
+
+Chave: SINCOPAR <verb.change>
+ILI: 00307142
+
+Sense 1
+{00307142} <verb.change> syncopate1 -- (omit a sound or letter in a word; "syncopate a word")
+       => {00306824} <verb.change> shorten1 -- (make shorter than originally intended; reduce or retrench in length or duration; "He shortened his trip due to illness")
+           => {00416885} <verb.change> reduce, cut down, cut back1, trim, trim down, trim back, cut6, bring down -- (cut down on; make a reduction in; "reduce your daily fat intake"; "The employer wants to cut back health benefits")
+               => {00428838} <verb.change> decrease1, lessen2, minify -- (make smaller; "He decreased his staff")
+                   => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

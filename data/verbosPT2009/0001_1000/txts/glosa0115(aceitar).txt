@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA0115
+
+DADO O SYNSET:
+
+S='Glosa115'
+{aceitar: Makiguti I]aceitou-o como professor substituto.,
+admitir: I]Admitiu-o na última Ceia com os demais Apóstolos.,
+adotar: O cinema [adotou-o em 1918 na pele de Elmo Lincoln, logo sucedido por uma manada de outros atores.,
+receber: Todos pensaram que ele era um pouco idiota; ainda assim, I]receberam-no como amigo.,
+reconhecer: O que deve ser criticável em Quércia é sua visão política da apropriação do Estado pelo político, não o filho que ele não [reconheceu . ,
+tomar: I]Tomaram-no como protetor dos carpinteiros e no Rio de Janeiro foi o padroeiro da bandeira desse ofício.,}
+A='Glosa4006'
+{chutar, desprezar, enjeitar, preterir, rejeitar1, repelir, repudiar, vilipendiar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa115' = “considerar ou manter como verdadeiro”
+{aceitar: Makiguti I]aceitou-o como professor substituto.,
+admitir: I]Admitiu-o na última Ceia com os demais Apóstolos.,
+adotar: O cinema [adotou-o em 1918 na pele de Elmo Lincoln, logo sucedido por uma manada de outros atores.,
+receber: Todos pensaram que ele era um pouco idiota; ainda assim, I]receberam-no como amigo.,
+reconhecer: O Tribunal de Contas da União I]reconheceu que houve um desvio de R$. 36,1 milhões do Sistema Federação das Indústrias do Estado do Paraná. ,
+tomar: I]Tomaram-no como protetor dos carpinteiros e no Rio de Janeiro foi o padroeiro da bandeira desse ofício.,}
+A='Glosa4006'
+{chutar, desprezar, enjeitar, preterir, rejeitar1, repelir, repudiar, vilipendiar}
+Chave: ACEITAR <verb.cognition>
+ILI: 00663436
+
+Sense 1
+{00663436} <verb.cognition> accept -- (consider or hold as true; "I cannot accept the dogma of this church"; "accept an argument")
+       => {00647983} <verb.cognition> judge -- (form an opinion of or pass judgment on; "I cannot judge some works of modern art")
+           => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

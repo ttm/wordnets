@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA2514
+
+DADO O SYNSET:
+
+S='Glosa2514'
+	    {anestesiar: Por exemplo, quando o dentista tradicional chinês deseja I]anestesiar a região da maxila, para efetuar uma extração dentária, ele estimula pontos localizados próximos ao pulso, que segundo a teoria da acupuntura, é o ponto relacionado da linha energética.,
+	      entorpecer: É uma forma de I]entorpecer os sentidos e fazer com que eles se afastem da realidade, por isso meninos de rua cheiram para anestesiar a fome e o frio.,
+	      narcotizar: O obstetra tem sempre em mente a urgência do tratamento para distocia eqüina, mas se de início o feto apresentar-se morto, ele deve considerar a vantagem obtida em I]narcotizar a égua e colocá-la em decúbito lateral ou dorsal para então proceder à fetotomia.,
+	      sedar: Uma das maiores irresponsabilidades que um tosador pode cometer é I]sedar um animal com a pretensa desculpa de que a tosa ficará mais fácil de ser realizada.,
+	      torpecer: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2514' = “Tornar inconsciente por meio de drogas anestésicas.”
+	    {anestesiar: O dentista William Thomas Green Morton I]anestesiou com éter o impressor Gilbert Abbot.,
+	      entorpecer: Pode ter ocorrido um vazamento de algum produto tóxico que I]entorpeceu o piloto.,
+	      narcotizar: Se de início o feto apresentar-se morto, ele deve considerar a vantagem obtida em I]narcotizar a égua e colocá-la em decúbito lateral ou dorsal para então proceder à fetotomia.,
+	      sedar: Guardas afastaram os leões com jatos de água e a polícia os I]sedou com dardos tranqüilizantes.,}
+
+Chave: ANESTESIAR <verb.body>
+ILI: 00020689
+
+Sense 1
+{00020689} <verb.body> anesthetize, anaesthetize, anesthetise, anaesthetise, put to sleep, put under, put out -- (make unconscious by means of anesthetic drugs; "The patient must be anesthetized before the operation")
+       => {00082302} <verb.body> drug, dose -- (administer a drug to; "They drugged the kidnapped tourist")
+           => {00081830} <verb.body> medicate, medicine -- (treat medicinally, treat with medicine)
+               => {00076458} <verb.body> treat, care for -- (provide treatment for; "The doctor treated my broken leg"; "The nurses cared for the bomb victims"; "The patient must be treated right away or she will die"; "Treat the infection with antibiotics") 

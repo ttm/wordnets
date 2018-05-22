@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA4062
+
+DADO O SYNSET:
+
+S='Glosa4062'
+{arremessar: Jaguarê [arremessou a lança, que vibrou nos ares e foi cravar-se além no grosso tronco da emburana .,
+arrojar: Os arcos são hastes flexíveis semi-curvas, que podem ser feitas de materiais como madeira, aço ou materiais compostos, cujas extremidades estão ligadas por uma corda que, tencionada, serve para [arrojar setas ou flechas .,
+impelir: A locomotiva americana não apenas [impeliu a atividade econômica nacional também puxou para cima a produção de outros países destinada à exportação .,
+projetar: A catapulta A]projetava grandes pedras .,
+propelir: A turbina do avião o H]propele para decolar.,
+propulsar: Estes trampolins modernos podem I]propulsar tão alto os atletas treinados, que estes podem chegar a até 30 pés durante as performances.,
+propulsionar: A potência necessária para I]propulsionar uma aeronave aumenta com o aumento da área da asa.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4062' = “jogar, lançar, ou arremessar para frente”
+{arremessar: Jaguarê [arremessou a lança, que vibrou nos ares e foi cravar-se além no grosso tronco da emburana .,
+arrojar: Os arcos são hastes flexíveis semi-curvas, que podem ser feitas de materiais como madeira, aço ou materiais compostos, cujas extremidades estão ligadas por uma corda que, tencionada, serve para [arrojar setas ou flechas .,
+impelir: Um empurrão o M]impeliu contra a parede.,
+projetar: A catapulta A]projetava grandes pedras .,
+propelir: H]Propelir um foguete.,
+propulsar: Estes trampolins modernos podem I]propulsar tão alto os atletas treinados, que estes podem chegar a até 30 pés durante as performances.,
+propulsionar: A potência necessária para I]propulsionar uma aeronave aumenta com o aumento da área da asa.,}
+Chave: PROJETAR <verb.contact>
+ILI: 01473450
+
+Sense 11
+{01473450} <verb.contact> project, send off -- (throw, send, or cast forward; "project a missile")
+       => {01469437} <verb.contact> propel, impel -- (cause to move forward with force; "Steam propels this ship")
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")
+ 
+

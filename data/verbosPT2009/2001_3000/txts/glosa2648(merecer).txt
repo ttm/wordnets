@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA2648
+
+DADO O SYNSET:
+
+S='Glosa2648'
+	    {merecer: Já os ultimatos de Marcelo [merecem menos aprovação. # Há muita gente que pensa que estes ataques dos cépticos não [merecem grande atenção.,
+	      requerer: Reportando-se à política de infra-estruturas rodoviárias, primeiro-ministro disse ainda que esta é uma grande reforma que nem trato no livro que escrevi porque nem sequer [requereu um esforço legislativo.,
+	      valer: Em 1957, no seu segundo filme, "Sublime Tentação" é um adolescente que entra em conflito com o pai (Gary Cooper) e as tradições Mormons, interpretação que lhe [valeu uma nomeação para o Óscar.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2648' = “Ser digno ou merecedor de.”
+	    {merecer: Há muita gente que pensa que estes ataques dos cépticos não [merecem grande atenção.,
+	      requerer: Reportando-se à política de infra-estruturas rodoviárias, o primeiro-ministro disse ainda que esta é uma grande reforma que nem trato no livro que escrevi porque nem sequer [requereu um esforço legislativo.,
+	      valer: Já o conjunto óptico (lentes e zoom) do equipamento I]vale atenção redobrada.,}
+
+Chave: MERECER <verb.stative>
+ILI: 02567824
+
+Sense 1
+{02567824} <verb.stative> deserve, merit4 -- (be worthy or deserving; "You deserve a promotion after all the hard work you have done")
+       => {02526983} <verb.stative> be3 -- (have the quality of being; (copula, used with an adjective or a predicate noun); "John is rich"; "This is not a good answer") 

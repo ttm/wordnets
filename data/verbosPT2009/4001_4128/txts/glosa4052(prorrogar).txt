@@ -1,0 +1,48 @@
+ANÁLISE DA GLOSA4052
+
+DADO O SYNSET:
+
+S='Glosa4052'
+{alargar: Lá constituiu família e I]alargou seu círculo de amizades. ,
+ alongar: A americana Expressjet I]alongou o prazo de entrega de aeronaves já negociadas.,
+ ampliar: O governo não I]ampliou o prazo de adesão ao programa.,
+ amplificar: Ainda assim, foi a mídia que [amplificou as acusações, ao divulgá-las sem uma checagem mais aprofundada .,
+ aumentar: Tal fato [aumentou as possibilidades dos indivíduos e acelerou o desenvolvimento global .,
+ continuar: O operário H]continuará o muro até a linha divisória.,
+ delongar: A dor física H]delongava seu sofrimento.,
+ dilatar: À medida que convalescia, ia [dilatando as caminhadas.,
+ distender: O Banco Central I]distendeu o controle sobre influxo de capitais e restringiu a liquidez.,
+ esfraldar: x,
+ estender: Os EUA, pós Segunda Guerra Mundial, I]estendeu seu domínio pelo mundo.,
+ prolongar: O governo I]prolongou o prazo em alguns meses.,
+ propagar: O rei Dario I A]propagou as fronteiras do Império Persa.,
+ prorrogar: No ano passado, o Departamento de Comércio I]prorrogou o mandato do Icann por mais três anos.,
+ protrair: O medicamento não salvará a doente, mas A]protrairá sua vida.,}
+	  
+A='Glosa772'
+{reduzir}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4052' = “fazer durar além do prazo estabelecido”
+{alargar: Vamos I]alargar a temporada para cinco meses.,
+ alongar: A americana Expressjet I]alongou o prazo de entrega de aeronaves já negociadas.,
+ ampliar: O governo não I]ampliou o prazo de adesão ao programa.,
+ aumentar: Robert Gates I]aumentou o prazo de permanência das tropas no Iraque.,
+ delongar: Marialva I]delongou o máximo que pôde a canção amada.,
+ dilatar: A demora na assinatura da carta não [dilata o prazo para a apresentação dos embargos.,
+ distender: O trabalho I]distende sua permanência temporal e se desdobra em formas de existir distintas daquela em que foi concebida.,
+ estender: O projeto não só foi aprovado por unanimidade como ainda ganhou um substitutivo que [estendeu o fim da pensão especial aos demais poderes.,
+ prolongar: O governo I]prolongou o prazo em alguns meses.,
+ prorrogar: No ano passado, o Departamento de Comércio I]prorrogou o mandato do Icann por mais três anos.,}
+	  
+A='Glosa772'
+{reduzir}
+Chave: PRORROGAR <verb.change>
+ILI: 00255542
+
+Sense 1
+{00307944} <verb.change> prolong, protract, extend2, draw out -- (lengthen in time; cause to be or last longer; "We prolonged our stay"; "She extended her visit by another day"; "The meeting was drawn out until midnight")
+       => {00307756} <verb.change> lengthen1 -- (make longer; "Lengthen this skirt, please")
+           => {00147655} <verb.change> increase2 -- (make bigger or more; "The boss finally increased her salary"; "The university increased the number of students it admitted")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA2190
+
+DADO O SYNSET:
+
+S='Glosa2190'
+	    {bispar-se: x,
+	      escafeder-se: Esperto, Mário [escafedeu-se no momento em que o Parque está em festa com a chegada de Moacir e a esperança da vinda de Dener ou a da permanência de Rivaldo.,
+	      escapar: Leonardo, notando que ninguém vigiava a casa, se desvencilhou das cordas, conseguiu entortar a barra de ferro da parte inferior da porta, que estava enferrujado, e [escapou pelo buraco .,
+	      esgueirar-se: Com um frêmito apavorado, mas contente por nada ter sofrido nas mãos do mago, Sam I]esgueirou-se para casa. # O ladrão A]esgueirou-se pela janela.  ,
+	      fugir: Em depoimento à polícia civil, Leonardo afirma que [fugiu do cativeiro localizado na Rua Feira de Santana, no bairro Beira Mar, em São João de Meriti, sem a ajuda da polícia.,
+	      raspar-se: Antes que fosse tarde demais, I]raspou-se dali a grande velocidade.,
+	      safar-se: Reginaldo I]safou-se graças à solidariedade de um vizinho.,
+	      vispar-se: H]Vispou-se da festa, assim que começou a confusão.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2190' = “desviar-se ou afastar-se rapidamente”
+	    {escafeder-se: Esperto, Mário [escafedeu-se no momento em que o Parque estava em festa com a chegada de Moacir.,
+	      escapar: Leonardo, notando que ninguém vigiava a casa, [escapou pelo buraco .,
+	      esgueirar-se: Com um frêmito apavorado, Sam I]esgueirou-se para casa. # O ladrão A]esgueirou-se pela janela.  ,
+	      fugir: Em depoimento à polícia civil, Leonardo afirma que [fugiu do cativeiro sem a ajuda da polícia.,
+	      raspar-se: Antes que fosse tarde demais, I]raspou-se dali a grande velocidade.,
+	      safar-se: Reginaldo I]safou-se graças à solidariedade de um vizinho.,
+	      vispar-se: H]Vispou-se da festa, assim que começou a confusão.,}
+
+Chave: FUGIR <verb.motion>
+ILI: 02016731
+
+Sense 1
+{02016731} <verb.motion> flee, fly3, take flight -- (run away quickly; "He threw down his gun and fled")
+       => {02016325} <verb.motion> run4, scarper, turn tail, lam, run away, hightail it, bunk, head for the hills, take to the woods, escape2, fly the coop, break away -- (flee; take to one's heels; cut and run; "If you see this man, run!"; "The burglars escaped before the police showed up")
+           => {01951556} <verb.motion> leave1, go forth, go away -- (go away from a place; "At what time does your train leave?"; "She didn't leave until midnight"; "The ship leaves at midnight")

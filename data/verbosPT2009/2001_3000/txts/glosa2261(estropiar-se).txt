@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA2261
+
+DADO O SYNSET:
+
+S='Glosa2261'
+	    {aleijar-se: A Brabus quer acabar com o problema de sair de um carro no escuro, podendo levar ao condutor ficar com os sapatos molhados ou I]aleijar-se em algum buraco.,
+	      estropiar-se: Se alguém confiar ao próximo a guarda de um jumento ou qualquer outro animal, e este morrer, I]estropiar-se ou for capturado sem testemunhas...,
+	      mutilar-se: Ontem, aos gritos, ele exigiu ser atendido pelo presidente do congresso e, como não conseguiu, sacou uma faca e I]mutilou-se.,
+	      truncar-se: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2261' = “tonar-se ferido ou machucado”
+	    {aleijar-se: O filho do Moleiro caiu de uma escada e I]aleijou-se.,
+	      estropiar-se: O Fidel caiu , se estropiou todo , se levantou e fez um discurso.,
+	      mutilar-se: Ele exigiu ser atendido pelo presidente do congresso e, como não conseguiu, sacou uma faca e I]mutilou-se.,}
+
+Chave: ESTROPIAR-SE <verb.body>
+ILI: 00088146
+
+Sense 3
+{00088146} <verb.body> mutilate, mar -- (destroy or injure severely; "mutilated bodies")
+       => {00088326} <verb.body> maim -- (injure or wound seriously and leave permanent disfiguration or mutilation; "people were maimed by the explosion")
+           => {00067690} <verb.body> injure, wound -- (cause injuries or bodily harm to)
+               => {00062508} <verb.body> hurt1 -- (give trouble or pain to; "This exercise will hurt your back")
+                   => {00062736} <verb.body> indispose -- (cause to feel unwell; "She was indisposed")
+                       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

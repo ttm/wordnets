@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA2621
+
+DADO O SYNSET:
+
+  S='Glosa2621'
+	    {concitar-se: Primeiramente se delimitaria a área, depois I]concitar-se-á os moradores para formar a sua própria segurança.,
+	      eletrizar-se: Então, a mente de Natan I]eletrizou-se. Cerrou os cílios e um agonizante embrar o dominou. Reviu um quarto. Sangue por toda parte.,
+	      estimular-se: É possível I]estimular-se as inteligências emocionais?,
+	      excitar-se: I]Excitou-se a tal ponto com as cartas do Paracleto, que entrou como um perdido, bradando por um cônego da Sé que lhe acudisse.,
+	      ressentir-se: Ocidente [ressente-se nos grandes sonhos, das utopias motivadoras, da energia que se apóia no reconhecimento de valores que transcedem a individualidade rasteira das preocupações contemporâneas.,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2621' = “Agitar os sentimentos, emoções ou a paz de.”
+	    {eletrizar-se: Então, a mente de Natan I]eletrizou-se. Cerrou os cílios e um agonizante lembrar o dominou. Reviu um quarto. Sangue por toda parte.,
+	      estimular-se: Porém, a mulher moderna I]estimulou-se com outros desafios e passou a viver mais.,
+	      excitar-se: I]Excitou-se a tal ponto com as cartas do Paracleto, que entrou como um perdido, bradando por um cônego da Sé que lhe acudisse.,
+	      ressentir-se: Ocidente [ressente-se nos grandes sonhos e das utopias motivadoras.,}
+
+Chave: ESTIMULAR-SE <verb.emotion>
+ILI: 01710864
+
+Sense 3
+{01710864} <verb.emotion> stimulate, shake, shake up, excite, stir1 -- (stir the feelings, emotions, or peace of; "These stories shook the community"; "the civil war shook the country")
+       => {01708538} <verb.emotion> arouse, elicit, enkindle, kindle, evoke, fire, raise8, provoke -- (call forth (emotions, feelings, and responses); "arouse pity"; "raise a smile"; "evoke sympathy")
+           => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor") 

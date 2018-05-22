@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA4018
+
+DADO O SYNSET:
+
+S='Glosa4018'
+{apresentar: Eduardo Vaz também I]apresentou o documento final aprovado pela Associação Médica Brasileira.,
+exibir: I]Exibiu o documento de habilitação em sua destinação específica probatória.,
+produzir: O réu A]produziu inúmeras testemunhas em sua defesa.,}
+  
+A ANÁLISE RESULTA EM:
+
+S='Glosa4018' = “pôr em exibição”
+{apresentar: Eduardo Vaz também I]apresentou o documento final aprovado pela Associação Médica Brasileira.,
+exibir: I]Exibiu o documento de habilitação em sua destinação específica probatória.,
+produzir: O réu A]produziu inúmeras testemunhas em sua defesa.,}
+Chave: APRESENTAR <verb.perception>
+ILI: 02079175
+
+Sense 4
+{02079175} <verb.perception> produce1, bring forth -- (bring out for display; "The proud father produced many pictures of his baby"; "The accused brought forth a letter in court that he claims exonerates him")
+       => {02078062} <verb.perception> expose, exhibit1, display -- (to show, make visible or apparent; "The Metropolitan Museum is exhibiting Goya's works this month"; "Why don't you show your nice legs and wear shorter skirts?"; "National leaders will have to display the highest skills of statesmanship")
+           => {02075197} <verb.perception> show -- (make visible or noticeable; "She showed her talent for cooking"; "Show me your etchings, please")
+
+

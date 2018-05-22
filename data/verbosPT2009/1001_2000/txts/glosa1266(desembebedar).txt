@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA1266
+
+DADO O SYNSET:
+
+S='Glosa1266'
+{desembebedar: H]Desembebedá-lo foi um sacrifício,
+ desemborrachar: x,
+ desembriagar: x,}
+	  
+A='Glosa3287'
+{alcoolizar, alegrar, embebedar, embriagar, inebriar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1266' = “fazer [alguém] ficar sóbrio após consumo excessivo de álcool”
+{desembebedar: Sou mais especialista em ficar bêbada! O suficiente para animar uma torcida, e, no entanto, suficientemente sóbria para limpar vômitos alheios e dar conselhos de como I]desembebedar uma bêbada.,}
+A='Glosa3287'
+{alcoolizar, alegrar, embebedar, embriagar, inebriar}
+Chave: DESEMBEBEDAR <verb.change>
+ILI: 00143564
+
+Sense 1
+{00143564} <verb.change> sober up, sober -- (become sober after excessive alcohol consumption; "Keep him in bed until he sobers up")
+       => {00144029} <verb.change> become, go4, get -- (enter or assume a certain state or condition; "He became annoyed when he heard the bad news"; "It must be getting more serious"; "her face went red with anger"; "She went into ecstasy"; "Get going!")
+           => {00140715} <verb.change> change state, turn4 -- (undergo a transformation or a change of position or action; "We turned from Socialism to Capitalism"; "The people turned against the President when he stole the election")
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

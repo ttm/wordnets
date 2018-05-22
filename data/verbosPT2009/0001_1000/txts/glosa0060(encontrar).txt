@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0060
+
+DADO O SYNSET:
+
+S='Glosa60'
+{adregar-se: x,
+defrontar-se: Quando o grupo do Augusto se encontrava no meio da ponte, I]defrontou-se com o grupo do Sidônio que vinha em sentido contrário.,
+deparar-se: Lá, [deparou-se com o líder do PT na Câmara, José Fortunati, na fila de espera de um vôo para Brasília.,
+encontrar-se: As polícias Federal e Civil [encontraram-se ontem na favela de Vigário Geral, zona norte do Rio.,
+topar-se: I]Topar-se com uma tropa de animais ou com uma embarcação carregada de couros pode ser algo absolutamente inócuo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa60' = “encontrar inesperadamente”
+{defrontar-se: Quando o grupo do Augusto se encontrava no meio da ponte, I]defrontou-se com o grupo do Sidônio que vinha em sentido contrário.,
+deparar-se: Lá, [deparou-se com o líder do PT na Câmara, José Fortunati, na fila de espera de um vôo para Brasília.,
+encontrar-se: As polícias Federal e Civil [encontraram-se ontem na favela de Vigário Geral, zona norte do Rio.,
+topar-se: I]Topar-se com uma tropa de animais ou com uma embarcação carregada de couros pode ser algo absolutamente inócuo.,}
+
+Chave: DEPARAR-SE <verb.motion>
+ILI: 01965169
+
+Sense 1
+{01965169} <verb.motion> meet1, ran into1, encounter, run across, come across, see -- (come together; "I'll probably see you at the meeting"; "How nice to see you again!")

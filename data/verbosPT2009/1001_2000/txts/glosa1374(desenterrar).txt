@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA1374
+
+DADO O SYNSET:
+
+S='Glosa1374'
+{desenterrar: Cientistas franceses [desenterraram restos em bom estado de três rinocerontes, com 23 milhões de anos.,
+ dessoterrar: x,}
+	  
+A='Glosa337'
+{encovar, enterrar, sepultar, soterrar, subterrar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1374' = “retirar de debaixo da terra ou de neve”
+{desenterrar: Cientistas franceses [desenterraram restos em bom estado de três rinocerontes, com 23 milhões de anos.,}
+A='Glosa337'
+{encovar, enterrar, sepultar, soterrar, subterrar}
+Chave: DESENTERRAR <verb.contact>
+ILI: 01273210
+
+Sense 1
+{01273210} <verb.contact> dig out3 -- (dig out from underneath earth or snow)
+       => {01434122} <verb.contact> free1, disengage1 -- (free or remove obstruction from; "free a path across the cluttered floor")

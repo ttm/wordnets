@@ -1,0 +1,38 @@
+ANÁLISE DA GLOSA2322
+
+DADO O SYNSET:
+
+S='Glosa2322'
+	    {deitar: O componente de risco, a cargo de São Pedro, geralmente não é levado em conta, pois o agricultor é um otimista por profissão e, no geral, não tem outra alternativa senão [deitar a semente à terra, torcer para colher alguma coisa e, depois, conseguir vender sem prejuízos.,
+	      derramar1: Caminhão capota e [derrama óleo na SP-55.,
+	      despargir: Em seus caminhos flores I]despargindo.,
+	      desparzir: Cheirosas flores I]desparzir sorrindo.,
+	      difundir: A flor cumpre seu objetivo de I]difundir sementes de sua espécie.,
+	      entornar: Não beba dirigindo, pois você pode I]entornar a cerveja.,
+	      espalhar: O vento [espalha as sementes sobre a terra, faz o fogo arder com mais brilho e dispersa as nuvens, para que a água caia sobre todos os homens.,
+	      espargir: Enquanto isto, os campos de concentração e o tiro no pescoço eram os herbicidas que eles se viam obrigados a I]espargir.,
+	      esparzir: Eles levam a semente a I]esparzir. ,
+	      lançar: Em Miami, José Basulto, líder dos Irmãos para o Resgate, anunciou a intenção de repetir no próximo sábado o vôo desafiador que resultou no incidente, para [lançar flores no local - segundo ele de águas internacionais - onde os dois outros foram derrubados.,
+	      transfundir: M]Transfundir aguardente, vinho.,
+	      verter: A inundação tinha coberto as margens do rio até onde a vista podia alcançar; as grandes massas de água, que o temporal durante uma noite inteira [vertera sobre as cabeceiras dos confluentes do Paraíba, desceram das serranias, e, de torrente em torrente, haviam formado essa tromba gigantesca que se abatera sobre a várzea.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2322' = “despejar em gotas ou pequenas quantidades ou como se fosse gotas ou pequenas quantidades.”
+	    {deitar: [Deitou nos lábios algumas gotas do liquido.,
+	      derramar1: Caminhão capota e [derrama óleo na SP-55.,
+	      difundir: O seu corpo, atravessado pela lança, I]difundiu água e sangue.,
+	      entornar: Não beba dirigindo, pois você pode I]entornar a cerveja.,
+	      espargir: Moisés I]espargiu o sangue sobre o altar.,
+	      esparzir: E I]esparziu sobre todos gotas de perfume. ,
+	      lançar: José Basulto anunciou a intenção de repetir o vôo desafiador que resultou no incidente, para [lançar flores no local onde os dois outros foram derrubados.,
+	      transfundir: M]Transfundir aguardente, vinho.,
+	      verter: As grandes massas de água, que o temporal durante uma noite inteira [vertera, desceram das serranias,.,}
+
+Chave: DERRAMAR <verb.contact>
+ILI: 01499190
+
+Sense 4
+{01499190} <verb.contact> spill1, shed2, pour forth -- (pour out in drops or small quantities or as if in drops or small quantities; "shed tears"; "spill blood"; "God shed His grace on Thee")
+       => {02010968} <verb.motion> pour3 -- (cause to run; "pour water over the floor")
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant") 

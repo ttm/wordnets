@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA1895
+
+DADO O SYNSET:
+
+S='Glosa1895'
+{enviuvar: Também Julia, irmã de Carla, suicidar-se-á, aos 50 anos, depois de [enviuvar e de percorrer uma trajetória de afastamento das convenções burguesas semelhantes à de Julia, a mãe.,
+ viuvar: Depois ele I]viuvou e casou-se com uma paulista, dona Isabel de Proença. ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1895' = “fazer [alguém] ficar viúvo(a)”
+{enviuvar: Digo para a minha filhinha: aquele senhor bem vestido dentro do Mercedes cinza, ao lado da moça loura, só hoje, com muita calma, assassinou 500 crianças; exterminou 300, I]enviuvou 10 mil mulheres, velhinhos, levou ao suicídio 50 pais de família.,
+ viuvar: O preço de ficar I]“viuvando” os heróis da bela campanha de 2005 pode custar muito caro, a ponto de nos jogar de volta pra segundona.,}
+Chave: ENVIUVAR <verb.change>
+ILI: 00348913
+
+Sense 1
+{00348913} <verb.change> widow -- (cause to be without a spouse; "The war widowed many women in the former Yugoslavia")
+       => {00348668} <verb.change> leave3, leave behind -- (be survived by after one's death; "He left six children"; "At her death, she left behind her husband and 11 cats")

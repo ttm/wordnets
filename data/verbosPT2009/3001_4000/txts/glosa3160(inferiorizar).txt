@@ -1,0 +1,40 @@
+ANÁLISE DA GLOSA3160
+
+DADO O SYNSET:
+
+S='Glosa3160'
+	    {
+	      apoucar: É outro caso onde se revela a incrível capacidade já agregada à cultura de SC de I]apoucar seus próprios valores.,
+	      depreciar: Liberal na aparência, capaz de se desmoralizar para não [depreciar um jogador, na intimidade das concentrações, age como um ditador. ,
+	      desengrandecer: Sua atitude anterior o enobreceu, mas a de agora o A]desengrandece.,
+	      desenobrecer: Poeta de espreita: aquele que não só despoetiza e I]desenobrece o sujeito, então individualista, senão que suspeita do que mostra.,
+	      desgabar: x,
+	      deslustrar: Quando se fazem denúncias de dificuldades da administração, no campo de uma gestão transparente, naturalmente acabamos por I]deslustrar o próprio Estado. ,
+	      desnobrecer: A fortuna o I]desnobreceu, o aviltou, desumanou-o grosseiramente, alarvajou-lhe os costumes, condenou-o à esqualidez.,
+	      desprestigiar: Estão, portanto, fora do reto caminho os que criticam, tentam I]desmoralizar e desprestigiar o Bispo, ou diminuir a sua autoridade.,
+	      desprimorar: Preste uma informação sem I]desprimorar quem a solicita.,
+	      desvirtuar: Triunfo obterei com este trabalho se com ele conseguir não incorra o aluno no desacerto comum de desprazer e malfadar nosso idioma, de preteri-lo aos de outras terras, de I]desvirtuar-lhe a vitalidade.,
+	      inferiorizar: Ao I]inferiorizar os alunos pobres, a escola lhes ensina a resignação frente ao fracasso.,
+	      rebaixar: A princípio a idéia deslumbrou ao padrinho, porém mais tarde acudiu-lhe a reflexão, e assentou que seria [rebaixar o menino e comprometer a sua dignidade futura. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3160' = “diminuir a qualidade, reduzir o valor”
+	     {apoucar: Os velhos liberais moderados I]apoucaram-na a tal ponto que, mantido o censo pecuniário e literário, reduziam o eleitorado a 1/20 da população.,
+	      depreciar: O sambista Martinho da Vila I]depreciou as feministas da década de 70 com "Você não passa de uma mulher". ,
+	      desengrandecer: Sua atitude anterior o enobreceu, mas a de agora o A]desengrandece.,
+	      desenobrecer: Poeta de espreita: aquele que não só despoetiza e I]desenobrece o sujeito, então individualista, senão que suspeita do que mostra.,
+	      deslustrar: Nunca a fala dos dignitários brasileiros I]deslustrou, comprometeu, o respeitável mandato das duas centenas de nações ali postadas como ouvintes atentos. ,
+	      desnobrecer: A fortuna o I]desnobreceu, o aviltou, desumanou-o grosseiramente, alarvajou-lhe os costumes, condenou-o à esqualidez.,
+	      desprestigiar: A derrota militar de meu país I]desprestigiou-o perante o seu império.,
+	      desvirtuar: Lula I]desvirtuou uma boa política.,
+	      inferiorizar: Osias I]inferiorizou, desprezou e diminuiu Zé dos Anjos usando palavras que este não conhecia.,
+	      rebaixar: Meu trabalho como artista jamais I]rebaixou o meu status. ,}
+Chave: INFERIORIZAR <verb.change>
+ILI: 00200370
+
+Sense 3
+{00200370} <verb.change> degrade, cheapen -- (lower the grade of something; reduce its worth)
+       => {00200852} <verb.change> worsen1, aggravate, exacerbate, exasperate -- (make worse; "This drug aggravates the pain")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

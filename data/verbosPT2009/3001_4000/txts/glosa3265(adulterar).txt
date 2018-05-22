@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA3265
+
+DADO O SYNSET:
+
+S='Glosa3265'
+	    {
+	      adulterar: A regionalização dos benefícios baseia-se nas enormes diferenças existentes entre as várias regiões do Brasil, que acabam por [adulterar o sentido da seguridade pelo fato simples das necessidades não serem iguais. ,
+	      alterar: FHC, por sua vez, escolheu o atual secretário-executivo do Ministério da Fazenda para a Casa Civil e [alterou a concepção do cargo. ,
+	      desfigurar: Foi o livro que mais contribuiu para [desfigurar o verdadeiro perfil do filósofo. # E não precisou [desfigurar a sóbria dignidade daquele trecho. ,
+	      deturpar: Dizer isso não é imputar nenhuma inferioridade aos negros, nem é [deturpar a história brasileira.,
+	      estropiar: Se o Congresso não [estropiar a lógica do plano com alterações descabidas na MP, o que caracteriza a reforma monetária em curso, então abre-se um cenário que seria impensável.,
+	      lanhar: A lei complementar prevista no art. 156, III, da Constituição não pode I]lanhar o princípio da autonomia municipal.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3265' = “corromper, degradar ou fazer impuro, adicionando sustância estranha ou inferior, frequentemente substituindo ingredientes valiosos por inferiores”
+	     {adulterar: O exército americano I]adulterou os crachás e registros militares de David e de outros dois judeus de seu batalhão para esconder a identidade judaica. ,
+	      alterar: FHC, por sua vez, escolheu o atual secretário-executivo do Ministério da Fazenda para a Casa Civil e [alterou a concepção do cargo. ,
+	      desfigurar: Projeto substitutivo do senador Ney Suassuna I]desfigurou proposta encaminhada pela Câmara, que terá de votar a lei novamente. ,
+	      deturpar: Ele I]deturpou as letras que conhecemos em nossas canções, que giram em torno das Forças Armardas.,
+	      estropiar: Se o Congresso não [estropiar a lógica do plano com alterações descabidas na MP, o que caracteriza a reforma monetária em curso, então abre-se um cenário que seria impensável.,
+	      lanhar: A lei complementar prevista no art. 156, III, da Constituição não pode I]lanhar o princípio da autonomia municipal.,}
+
+Chave: ADULTERAR <verb.change>
+ILI: 00474441
+
+Sense 1
+{00474441} <verb.change> adulterate, stretch15, dilute2, debase1 -- (corrupt, debase, or make impure by adding a foreign or inferior substance; often by replacing valuable ingredients with inferior ones; "adulterate liquor")
+       => {00196044} <verb.change> corrupt, spoil1 -- (alter from the original)
+           => {00163320} <verb.change> modify -- (make less severe or harsh or extreme; "please modify this letter to make it more polite"; "he modified his views on same-gender marriage")
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

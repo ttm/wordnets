@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA3636
+
+DADO O SYNSET:
+
+S='Glosa3636'
+	    {
+	      impugnar: O Ombudsman, por iniciativa própria, pode [impugnar decisões tomadas pelos conselhos municipais ou provinciais.,
+	      objetar: A imprensa divulgou que por duas vezes o Ministério da Saúde foi vencido ao [objetar tal medida./ As interessadas em [objetar o acordo devem postar, no máximo até amanhã, um formulário à Corte de Justiça informando que não desejam qualquer acordo. ,
+	      opor: Pode-se [opor embargos de declaração em favor do réu.,
+	      opor-se: Eu penso que é difícil que alguém ouse [se opor a uma ideologia mitificada. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3636' = “expressar ou levantar uma objeção ou protesto ou critica ou expressar discordância”
+	     {impugnar: O governo do Paraná [impugnou a participação de quatro concorrentes na licitação de transporte coletivo.,
+	      objetar: Croce [objetava a qualquer tipo de procedimento sócio-científico./ A Câmara Municipal de Norfolk I]objetou a inclusão da palavra “cristão” nos estatutos da Casa Barnabé. ,
+	      opor: O governo I]opôs uma barreira contra aqueles que,voltam suas baterias contra os que, no governo, defendem as mudanças.,
+	      opor-se: O partido se [opôs a todas as privatizações e promete uma auditoria no programa. ,}
+Chave: OPOR-SE <verb.communication>
+ILI: 00781342
+
+Sense 1
+{00781342} <verb.communication> object -- (express or raise an objection or protest or criticism or express dissent; "She never objected to the amount of work her boss charged her with"; "When asked to drive the truck, she objected that she did not have a driver's license")
+       => {00781077} <verb.communication> disapprove, reject -- (deem wrong or inappropriate; "I disapprove of her child rearing methods")
+           => {00647983} <verb.cognition> judge -- (form an opinion of or pass judgment on; "I cannot judge some works of modern art")
+               => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

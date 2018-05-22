@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA2416
+
+DADO O SYNSET:
+
+S='Glosa2416'
+	    {arregoar: Faz os roçados e [arregoa as estreitas faixas de solo arável à orla dos ribeirões.,
+	      regoar: x,
+	      sulcar: I]Sulcar a terra com arado ou charrua.,
+	      surcar: Virão I]surcar as campinas.,
+	      talar: Nosso exército a percorrer densas matas, incendiar casas, I]talar campos e matar inimigos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2416' = “Escavar a forma de um sulco.”
+	    {arregoar: Faz os roçados e [arregoa as estreitas faixas de solo arável à orla dos ribeirões.,
+	      sulcar: I]Sulcou a terra no arrastão do arado e deu seu nome ao carro.,
+	      surcar: Virão I]surcar as campinas.,
+	      talar: Os Botocudos I]talavam fazendas resendenses e maltratavam os Puris.,}
+
+Chave: ARREGOAR <verb.contact>
+ILI: 01239325
+
+Sense 2
+{01239325} <verb.contact> furrow, rut, groove -- (hollow out in the form of a furrow or groove; "furrow soil")
+       => {01270650} <verb.contact> dig, delve, cut into1, turn over -- (turn up, loosen, or remove earth; "Dig we must"; "turn over the soil for aeration")
+           => {00166870} <verb.change> remove, take, take away1, withdraw1 -- (remove something concrete, as by lifting, pushing, taking off, etc. or remove something abstract; "remove a threat"; "remove a wrapper"; "Remove the dirty dishes from the table"; "take the gun from your pocket"; "This machine withdraws heat from the environment") 

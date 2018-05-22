@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA3460
+
+DADO O SYNSET:
+
+S='Glosa3460'
+	    {
+	      desconhecer: Como as ONGs nascem desgarradas da gravitação estatal, incomodam os governantes presos a uma visão antiga, que [desconhece e esconjura novos canais de representação social/Seu comportamento foi estranho, porque ao expulsar Edílson e recomeçar o jogo ele [desconheceu uma das recomendações da Fifa, ,
+	      desdenhar: Nietzsche não [desdenha os imperativos da razão/O major já tinha as suas idéias patrióticas, mas não desdenhava conversar com o quitandeiro/Avisado do alerta do governador, Itamar [desdenhou os riscos e manteve a viagem,
+	      minimizar: O secretário [minimizou a importância da licitação em alguns casos/No começo da noite de ontem, o Vaticano insistia em [minimizar a importância da nova doença de João Paulo II,
+	      subestimar: A Igreja Católica não [subestima os sofrimentos do povo judeu/Ninguém pode subestimar a inteligência dos adversários,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3460' = “designar valor muito baixo”
+	     {desconhecer: Como as ONGs nascem desgarradas da gravitação estatal, incomodam os governantes presos a uma visão antiga, que [desconhece e esconjura novos canais de representação social/Seu comportamento foi estranho, porque ao expulsar Edílson e recomeçar o jogo ele [desconheceu uma das recomendações da Fifa, ,
+	      desdenhar: Nietzsche não [desdenha os imperativos da razão/Repousando dos combates, o formidável guerreiro não [desdenhava as artes da paz /Avisado do alerta do governador, Itamar [desdenhou os riscos e manteve a viagem,
+	      minimizar: O secretário [minimizou a importância da licitação em alguns casos/Fernandes [minimizou a importância da decisão da Justiça,
+	      subestimar: A Igreja Católica não [subestima os sofrimentos do povo judeu/O partido admite que I]subestimou o peso eleitoral do plano econômico,}
+Chave: SUBESTIMAR <verb.cognition>
+ILI: 00672642
+
+Sense 1
+{00672642} <verb.cognition> undervalue, underestimate2 -- (assign too low a value to; "Don't underestimate the value of this heirlooom-you may sell it at a good price")
+       => {00672107} <verb.cognition> value3 -- (fix or determine the value of; assign a value to; "value the jewelry and art work in the estate")
+           => {00676553} <verb.cognition> determine1, set4 -- (fix conclusively or authoritatively; "set the rules")

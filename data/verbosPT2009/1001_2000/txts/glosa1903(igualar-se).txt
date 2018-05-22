@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA1903
+
+DADO O SYNSET:
+
+S='Glosa1903'
+{alinhar-se: Tem a ousadia de querer A]alinhar-se ao mestre.,
+ comparar-se: Nenhuma destas, porém, poderia I]comparar-se, em rigor, com aquela que existia na antiga Índia. ,
+ equiparar-se: É entristecedora a postura de Mackenzie, Faap (Fundação Armando Álvares Penteado) entre outras, ao tentar [equiparar-se com uma universidade pública como Unesp e USP.,
+ eqüiponderar-se: x,
+ igualar-se: Seu sonho secreto era ganhar mais dois títulos para [igualar-se a Juan Manuel Fangio e, então, encerrar a carreira.,
+ igualizar-se: Como dizem alguns, a criatura tenta vingar-se do criador e esta vingança é patrocinada pela tentativa de [igualizar-se ao seu criador. ,
+ medir-se: Ninguém é capaz de H]medir-se com ele em inteligência e coragem.,
+ nivelar-se: Entretanto, a modéstia de Dante ao optar pela comédia - ele não ousava I]nivelar-se a seus mestres das tragédias greco-romanas - , não impediu que seu talento fosse amplamente reconhecido.,
+ ombrear-se: Quem, como Copérnico, mudou a Terra de posição e a enviou a fazer revoluções em torno do Sol, ou que, como Darwin, percebeu nas névoas do passado as transformações genéticas das espécies, pode [ombrear-se com o maior dos poetas.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1903' = “ser igual [a] em qualidade ou habilidade”
+{alinhar-se: Uma mulher sob um nome de homem, Suso Cecchi d' Amico, [alinha-se com os grandes nomes do cinema italiano do pós-guerra.,
+ comparar-se: Nenhuma destas, porém, poderia I]comparar-se, em rigor, com aquela que existia na antiga Índia.,
+ equiparar-se: É entristecedora a postura de Mackenzie, Faap (Fundação Armando Álvares Penteado) entre outras, ao tentar [equiparar-se com uma universidade pública como Unesp e USP.,
+ igualar-se: Seu sonho secreto era ganhar mais dois títulos para [igualar-se a Juan Manuel Fangio e, então, encerrar a carreira.,
+ igualizar-se: Como dizem alguns, a criatura tenta vingar-se do criador e esta vingança é patrocinada pela tentativa de [igualizar-se ao seu criador. ,
+ medir-se: Políticos profissionais de larga experiência e cujo passado com frequência se confunde com a defesa do «golpe militar» e a opressão da ditadura, maculados até as raízes dos cabelos, preferem destruir os adversários a [medirem-se com eles produtivamente.,
+ nivelar-se: Entretanto, a modéstia de Dante ao optar pela comédia - ele não ousava I]nivelar-se a seus mestres das tragédias greco-romanas - , não impediu que seu talento fosse amplamente reconhecido.,
+ ombrear-se: Quem, como Copérnico, mudou a Terra de posição e a enviou a fazer revoluções em torno do Sol, ou que, como Darwin, percebeu nas névoas do passado as transformações genéticas das espécies, pode [ombrear-se com o maior dos poetas.,}
+Chave: IGUALAR-SE <verb.stative>
+ILI: 02591609
+
+Sense 2
+{02591609} <verb.stative> equal1, touch2, rival, match1 -- (be equal to in quality or ability; "Nothing can rival cotton for durability"; "Your performance doesn't even touch that of your colleagues"; "Her persistence and ambition only matches that of her parents")
+       => {01037983} <verb.competition> compete, vie, contend -- (compete for something; engage in a contest; measure oneself against others)

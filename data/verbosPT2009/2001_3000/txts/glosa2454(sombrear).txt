@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA2454
+
+DADO O SYNSET:
+
+S='Glosa2454'
+	    {adumbrar: Frondoso arvoredo M]adumbra o caminho.,
+	      sombrear: Plantas que utilizam os recursos do meio mais precocemente conseguem I]sombrear as demais, reduzindo a quantidade ea qualidade da luz incidente sobre os vizinhos ,
+	      sombrejar: As árvores H]sombrejavam o jardim.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2454' = “Projetar uma sombro sobre.”
+	    {adumbrar: Frondoso arvoredo M]adumbra o caminho.,
+	      sombrear: Mas logo a folhagem I]sombreou toda a rua.,
+	      sombrejar: As árvores H]sombrejavam o jardim.,}
+
+Chave: SOMBREAR <verb.weather>
+ILI: 02686599
+
+Sense 2
+{02686599} <verb.weather> shadow, shade, shade off -- (cast a shadow over)
+       => {00303771} <verb.change> obscure, bedim1, overcloud -- (make obscure or unclear; "The distinction was obscured")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

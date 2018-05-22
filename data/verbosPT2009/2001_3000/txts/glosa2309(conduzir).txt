@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2309
+
+DADO O SYNSET:
+
+S='Glosa2309'
+	    {conduzir: Além de conduzir a urina, vinda da bexiga, para o meio externo, a uretra também [conduz o sêmen, proveniente do duto ejaculador. #  Então, a célula joga esses produtos indesejáveis no sangue e ele as [conduz aos pulmões (gás carbônico) ou aos rins (uréia).,
+	      transmitir: Logo, mediante a síntese de RNA, o DNA [transmite as informações para a síntese enzimática e controla indiretamente as reações celulares. # Os neurônios, ou células nervosas, têm a propriedade de receber e [transmitir estímulos, permitindo ao organismo responder a alterações do meio. ,
+	      transportar: As hemácias servem para [transportar o oxigênio para todas as partes do organismo e delas trazer o gás carbônico.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2309' = “deixar, fazer passar além ou servir como um meio para uma transmissão”
+	    {conduzir: A célula joga esses produtos indesejáveis no sangue e ele as [conduz aos pulmões (gás carbônico) ou aos rins (uréia).,
+	      transmitir: Os neurônios têm a propriedade de receber e [transmitir estímulos, permitindo ao organismo responder a alterações do meio. ,
+	      transportar: As hemácias servem para [transportar o oxigênio para todas as partes do organismo e delas trazer o gás carbônico.,}
+
+Chave: CONDUZIR <verb.motion>
+ILI: 02020828
+
+Sense 3
+{02020828} <verb.motion> conduct, transmit, convey2, carry3, channel1 -- (transmit or serve as the medium for transmission; "Sound carries well over water"; "The airwaves carry the sound"; "Many metals conduct heat")
+       => {02018551} <verb.motion> bring, convey, take10 -- (take something or somebody with oneself somewhere; "Bring me the box from the other room"; "Take these letters to the boss"; "This brings me to the main point")
+           => {01408676} <verb.contact> transport, carry2 -- (move while supporting, either in a vehicle or in one's hands or on one's body; "You must carry your camping gear"; "carry the suitcases to the car"; "This train is carrying nuclear waste"; "These pipes carry waste water into the river")
+               => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

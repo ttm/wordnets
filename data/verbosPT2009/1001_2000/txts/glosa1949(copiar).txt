@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA1949
+
+DADO O SYNSET:
+
+S='Glosa1949'
+{copiar: Tive vontade de mandar uma poesia a uma pessoa, mas não encontrei nenhum meio, tive que I]copiar a poesia para depois digitá-la.,
+ escrever: x,
+ tirar: Peguei uma antologia e A]tirei dois sonetos.,
+ transcrever: Julguei importante [transcrever esse longo editorial, pelo que revela dos mecanismos já implantados, em pleno século XIX, de uma verdadeira multinacional.,
+ transladar: Nele são questionados os modos de I]transladar teorias, as maneiras de diluir e de ultrapassar fronteiras, presentes nos procedimentos comparativos que nos habituamos a adotar.,
+   trasladar: Era poeta de improviso, não escrevia os versos, os outros é que os ouviam e A]trasladavam ao papel, dando-lhe cópias, muitas das quais perdia.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1949' = “reproduzir como é”        
+{copiar: Tive vontade de mandar uma poesia a uma pessoa, mas não encontrei nenhum meio, tive que I]copiar a poesia para depois digitá-la.,
+ tirar: Que tal quando for ficar no ctrl+c, ctrl+v colocar a fonte de onde I]tirou o texto?,
+ transcrever: O funcionário [transcreveu o número sem anotar que este era o valor em dólares.,}
+Chave: COPIAR <verb.creation>
+ILI: 01698134
+
+Sense 1
+{01698134} <verb.creation> copy5 -- (copy down as is; "The students were made to copy the alphabet over and over")
+       => {01642871} <verb.creation> write1 -- (mark or trace on a surface; "The artist wrote Chinese characters on a big piece of white paper")
+           => {01539039} <verb.contact> trace, draw1, line1, describe, delineate -- (make a mark or lines on a surface; "draw a line"; "trace the outline of a figure in the sand")
+               => {00494390} <verb.change> mark -- (make or leave a mark on; "mark the trail so that we can find our way back")
+                   => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

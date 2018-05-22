@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA0380A
+
+DADO O SYNSET:
+
+S='Glosa380'
+{acionar: Assim, para [acionar a hélice e dar partida no avião bastou ao ladrão acionar a ignição automática.,
+comandar: O programa que [comanda o funcionamento da máquina (sistema operacional) pode ser Unix, Open VMS, ou Windows NT.,
+manipular: Além de o operador poder I]manipular o robô por meio de controle remoto, o equipamento pode ser conectado a um notebook.,
+manobrar: O engenheiro A]manobrava a bomba de ar.,
+operar: Por isso o treinamento dos trabalhadores deve ser orientado não apenas para torná-lo apto a [operar várias máquinas, mas também para as condições próprias ao trabalho em grupo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa380A' = “manusear (manejar) e fazer funcionar”
+{comandar: O programa que [comanda o funcionamento da máquina (sistema operacional) pode ser Unix, Open VMS, ou Windows NT.,
+manipular: Além de o operador poder I]manipular o robô por meio de controle remoto, o equipamento pode ser conectado a um notebook.,
+manobrar: O engenheiro A]manobrava a bomba de ar.,
+operar: Por isso o treinamento dos trabalhadores deve ser orientado não apenas para torná-lo apto a [operar várias máquinas, mas também para as condições próprias ao trabalho em grupo.,}
+Chave: OPERAR <verb.contact>
+ILI: 01187658
+
+Sense 3
+{01187658} <verb.contact> operate, control -- (handle and cause to function; "do not operate machinery after imbibing alcohol"; "control the lever")
+       => {01174946} <verb.contact> manipulate -- (hold something in one's hands and move it)
+           => {01173984} <verb.contact> handle, palm -- (touch, lift, or hold with the hands; "Don't handle the merchandise")
+               => {01169634} <verb.contact> touch -- (make physical contact with, come in contact with; "Touch the stone for good luck"; "She never touched her husband")

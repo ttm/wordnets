@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA0335
+
+DADO O SYNSET:
+
+S='Glosa335'
+{acotar: x,
+avaliar: Agrônomos, agricultores e indústria começam a [avaliar os prejuízos causados às lavouras e pastos do Estado de São Paulo. ,
+calcular: O vice-presidente da área de seguros da Sul América informou que a seguradora ainda aguarda a fixação do coeficiente dos honorários dos médicos para [calcular o reajuste. ,
+cotar: Todo dia o Banco Central dará a cotação da URV em cruzeiros e que, nesse cálculo, vai usar o mesmo critério que utiliza para [cotar o dólar comercial. ,
+estimar: A condição é ainda mais insatisfatória, uma vez que é quase impossível [estimar o défict habitacional correspondente àquelas residênciais sem as condições mínimas de higiene e saneamento. ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa335' = “julgar ser provável; prever (as conseqüências)”
+{avaliar: Agrônomos, agricultores e indústria começam a [avaliar os prejuízos causados às lavouras e pastos do Estado de São Paulo.,
+calcular: O vice-presidente da área de seguros da Sul América informou que a seguradora ainda aguarda a fixação do coeficiente dos honorários dos médicos para [calcular o reajuste.,
+cotar: Todo dia o Banco Central dará a cotação da URV em cruzeiros e que, nesse cálculo, vai usar o mesmo critério que utiliza para [cotar o dólar comercial.,
+estimar: A condição é ainda mais insatisfatória, uma vez que é quase impossível [estimar o défict habitacional correspondente àquelas residênciais sem as condições mínimas de higiene e saneamento.,}
+Chave: ESTIMAR <verb.cognition>
+ILI: 00688745
+
+Sense 2
+{00688745} <verb.cognition> calculate3, estimate1, reckon3, count on1, figure1, forecast -- (judge to be probable)
+       => {00647983} <verb.cognition> judge -- (form an opinion of or pass judgment on; "I cannot judge some works of modern art")
+           => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

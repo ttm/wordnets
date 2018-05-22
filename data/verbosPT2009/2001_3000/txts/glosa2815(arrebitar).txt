@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA2815
+
+DADO O SYNSET:
+
+S='Glosa2815'
+	    {arrebitar: Concebido para I]arrebitar as pontas dos cravos depois de cortados, estas são dobradas facilmente com a ajuda dos dentes desta ferramenta que foram talhados um por um somente depois de forjada, conferindo um melhor agarre e força no momento do arrebitamento. ,
+	      dobrar: Alicate Deve ser usado para cortar ou I]dobrar arames e fios.,
+	      rebater: Que dizer então da absurda “liberdade artística” nas cenas em que Jesus é jogado fora do parapeito da estrada e as correntes impedem que se esborrache lá embaixo, em que carrega a cruz inteira e não a parte de cima, em que é pregado na palma das mãos (e não nos pulsos) e em que a cruz é revirada para I]rebater a ponta dos pregos?,
+	      rebitar: Torna-se muito difícil I]rebitar chapas com espessuras maiores do que 2 polegadas.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2815' = “Levantar, dobrar para cima”
+	    {arrebitar: E Chico Pedro esporeou o cavalo, I]arrebitou a aba sovada do chapéu e suspirou.,
+	      dobrar: Quando não havia ninguém na estrada, ele I]dobrou a aba de seu chapéu preto, colocou-o sobre seu ouvido e pegando a arma, encostou-a em sua cabeça e apertou o gatilho.,
+                   rebater: Nos vestiários havia martelo e um pé de ferro para I]rebater os pregos}
+
+Chave: ARREBITAR <verb.motion>
+ILI: 01925071
+
+Sense 1
+{01925071} <verb.motion> prick up, prick, cock up -- (raise; "The dog pricked up his ears")
+       => {01924931} <verb.motion> rear1, erect -- (cause to rise up)
+           => {01916187} <verb.motion> raise, lift, elevate, get up, bring up -- (raise from a lower to a higher position; "Raise your hands"; "Lift a load")
+               => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant") 

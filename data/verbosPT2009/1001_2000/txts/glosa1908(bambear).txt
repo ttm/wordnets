@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA1908
+
+DADO O SYNSET:
+
+S='Glosa1908'
+{bambar: x,
+ bambear: Equilibrar-se para andar de bicicleta requer algum treino e, como vamos descobrindo na prática, é ganhando velocidade que a gente pára de I]bambear e consegue andar legal. ,
+ embambecer: x,
+ esbambear: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1908' = “ficar bambo”
+{bambear: O soldado levantou-se estremunhado; e, dando com aqueles dois oficiais superiores, concertou-se rapidamente, fez a continência que lhes era devida e ficou com a mão no boné, um instante firme, mas logo [bambeou.,}
+Chave: BAMBEAR <verb.change>
+ILI: EQ_HAS_HYPERONYM – 00456687 – “perder resistência, energia”
+
+Sense 1
+{00456687} <verb.change> wilt1 -- (lose strength; "My opponent was wilting")
+       => {00216002} <verb.change> weaken -- (become weaker; "The prisoner's resistance weakened after seven days")
+           => {00146081} <verb.change> decrease, diminish, lessen, fall6 -- (decrease in size, extent, or range; "The amount of homework decreased towards the end of the semester"; "The cabin pressure fell dramatically"; "her weight fall to under a hundred pounds"; "his voice fell to a whisper")
+               => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

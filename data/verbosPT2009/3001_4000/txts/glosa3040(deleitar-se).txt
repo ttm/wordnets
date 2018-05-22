@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA3040
+
+DADO O SYNSET:
+
+S='Glosa3040'
+	    {
+	      comprazer-se: Enquanto a rainha Vitória ou os czares, Einstein ou Freud [comprazem-se a brincar com uma esfera metálica que é ao mesmo tempo globo terrestre, mente humana e átomo, o goleiro entra e sai de cena, repetindo uma rotina visual que encerra o ciclo histórico abordado. ,
+	      deleitar-se: As ventas dilatadas aspiravam fortemente e pareciam [deleitar-se já com o odor do sangue da vítima.,
+	      deliciar-se: Nas platéias, além daqueles que compreendem e se [deliciam com as belezas da música, há até quem se comova com a má sorte da infeliz.,
+	      gozar-se: Vinham habitar o novo país, do qual tantos elogios se diziam, e onde se divulgava ser fácil ganhar a vida, entesourar ouro e prata, I]gozar-se de ameno clima.,
+	      lisonjear-se: Quem, dentre nós, poderia, sem ser tachado de presunçoso, I]lisonjear-se de possuir o espírito de método e organização de que se mostram iluminados todos?,
+	      regozijar-se: Já na capital, continuaria nele a atração pelo título, a ponto de [regozijar-se quando Lage da Silva o chama de doutor.,
+	      repastar-se: A sua imaginação começou a I]repastar-se logo histericamente nas perspectivas deliciosas dessa existência, em que se figurava constantemente a dar-lhe beijos.,
+	      saborear-se: Você poderá I]saborear-se de poesias, contos e crônicas; beber belos e pequenos pensamentos ou até devorar dicas literárias. # Como gostaria de não perder um só momento, para voar solta, livre, embriagar-se de calor de cores, I]saborear-se de vida.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3040' = “dar prazer”
+	     {comprazer-se: Enquanto a rainha Vitória ou os czares, Einstein ou Freud [comprazem-se a brincar com uma esfera metálica que é ao mesmo tempo globo terrestre, mente humana e átomo, o goleiro entra e sai de cena, repetindo uma rotina visual que encerra o ciclo histórico abordado. ,
+	      deleitar-se: O público que lotou o Metropolitan se [deleitou com a voz e o charme de José Carreras.,
+	      deliciar-se: Nas platéias, além daqueles que compreendem e se [deliciam com as belezas da música, há até quem se comova com a má sorte da infeliz.,
+	      gozar-se: Vinham habitar o novo país, do qual tantos elogios se diziam, e onde se divulgava ser fácil ganhar a vida, entesourar ouro e prata, I]gozar-se de ameno clima.,
+	      lisonjear-se: D. Antônia lembrou-se que em rapariga fora namorada do defunto, e por um momento I]lisonjeou-se com a idéia de que o velho maníaco se houvesse lembrado dela.,
+	      regozijar-se: Parecia a Iorek a coisa certa a dizer, e ele I]regozijou-se por notar que estava certo.,
+	      repastar-se: A sua imaginação começou a I]repastar-se logo histericamente nas perspectivas deliciosas dessa existência, em que se figurava constantemente a dar-lhe beijos.,
+	      saborear-se: Você poderá I]saborear-se de poesias, contos e crônicas; beber belos e pequenos pensamentos ou até devorar dicas literárias. # Como gostaria de não perder um só momento, para voar solta, livre, embriagar-se de calor de cores, I]saborear-se de vida.,}
+Chave: DELEITAR-SE <verb.emotion>
+ILI: 01762811
+
+Sense 1
+{01762811} <verb.emotion> please, delight -- (give pleasure to or be pleasing to; "These colors please the senses"; "a pleasing sensation")
+       => {01763578} <verb.emotion> satisfy, gratify -- (make happy or satisfied)

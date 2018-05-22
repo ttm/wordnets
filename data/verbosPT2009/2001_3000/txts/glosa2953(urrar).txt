@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA2953
+
+DADO O SYNSET:
+
+S='Glosa2953'
+	    {berrar: Uma águia mergulhou, agarrou o ursinho e voou com ele; o filhote I]berrava o tempo todo.,
+	      bramar: Sansão desceu a Timna; e, chegando às vinhas de Timna, eis que um leão, I]bramando, lhe saiu ao encontro.,
+	      bramir: [Bramiu a fera.,
+	      esturrar: Zeca, ainda vou na tua aldeia passear pra ver vaca parida e touro bravo I]esturrar.,
+	      fremir: Lá estava a menina que viera ao mundo para ter aquele cachorro que I]fremia.,
+	      roncar: DEVIANT,
+	      rugir: Esse é um dos poucos lugares onde os felinos gigantes continuam [rugindo.,
+	      rugitar: x,
+	      urrar: O tigre [urrou de fome.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2953' = “Fazer um barulho alto, como de um animal”
+	    {berrar: Uma águia mergulhou, agarrou o ursinho e voou com ele; o filhote I]berrava o tempo todo.,
+	      bramar: Desceu o mancebo à fonte, onde o boi bufava e I]bramava para ele.,
+	      bramir: [Bramiu a fera.,
+	      esturrar: Assim que a onça I]esturrou A juriti arrulhou E o morcego foi trissar.,
+	      fremir: Lá estava a menina que viera ao mundo para ter aquele cachorro que I]fremia.,
+	      rugir: Houve um tempo em que o leão [rugia e a floresta se calava.,
+	      urrar: O tigre [urrou de fome.,}
+Chave: URRAR <verb.communication>
+ILI: 01015129
+
+Sense 2
+{01015129} <verb.communication> bellow1, roar5 -- (make a loud noise, as of animal; "The bull bellowed")
+       => {00951670} <verb.communication> utter2, emit, let out2, let loose -- (express audibly; utter sounds (not necessarily words); "She let out a big heavy sigh"; "He uttered strange sounds that nobody could understand") 

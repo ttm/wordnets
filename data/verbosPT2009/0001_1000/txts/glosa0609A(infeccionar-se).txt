@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0609A
+
+DADO O SYNSET:
+
+S='Glosa609'
+{contaminar-se: DEVIANT,
+infeccionar-se: Em alguns casos, mais raros, podem I]infeccionar-se, causando uma ulceração maior,
+inflamar-se: Com essa doença, os nervos [se inflamam e degeneram e os músculos se atrofiam, ocasionando a paralisia dos membros,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa609A' = “contaminar (-se) com uma doença ou microorganismo”
+{infeccionar-se: A lesão pode I]infeccionar-se evoluindo para o surgimento de um impetigo (infecção bacteriana) causando outros problemas de saúde.,}
+Chave: INFECCIONAR-SE <verb.body>
+ILI: 00086241
+
+Sense 2
+{00086241} <verb.body> infect, taint -- (contaminate with a disease or microorganism)
+       => {00479356} <verb.change> pollute, foul3, contaminate -- (make impure; "The industrial wastes polluted the lake")
+           => {01491650} <verb.contact> dirty, soil, begrime, grime, colly, bemire -- (make soiled, filthy, or dirty; "don't soil your clothes when you play outside!")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

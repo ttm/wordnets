@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0408
+
+DADO O SYNSET:
+
+S='Glosa408'
+{revirar: Ângela Maria [reuniu os colegas no estúdio, revirou o velho baú e sacou, mesmo caminhando para o fim de sua carreira, um disco bem bom. ,
+revolver: O colecionador [revolveu pastas e afinal trouxe de lá um papel onde leu.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa408' = “tornar a virar; virar às avessas a fim de procurar algo”
+{revirar: Ângela Maria reuniu os colegas no estúdio, [revirou o velho baú e sacou, mesmo caminhando para o fim de sua carreira, um disco bem bom. ,
+revolver: O colecionador [revolveu pastas e afinal trouxe de lá um papel onde leu.,}
+Chave: REVIRAR <verb.contact>
+ILI: 01185936
+
+Sense 8
+{01185936} <verb.contact> flip3, flip over, turn over1 -- (turn upside down, or throw so as to reverse; "flip over the pork chop"; "turn over the pancakes")
+       => {01851475} <verb.motion> turn -- (change orientation or direction, also in the abstract sense; "Turn towards me"; "The mugger turned and fled before I could see his face"; "She turned from herself and learned to listen to others' needs")
+           => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right")

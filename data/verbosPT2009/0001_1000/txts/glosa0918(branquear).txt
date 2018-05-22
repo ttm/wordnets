@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA0918
+
+DADO O SYNSET:
+
+S='Glosa918'
+{branquear: Graças dou por seu cabelo, que o tempo I]branqueou.,
+branquejar: É o negro velho dos engenhos, muito velho, a avaliar pelo cabelo pixaim que começa a I]branquejar.,
+encanecer: Mordomo do mundo não é somente aquele que I]encanece os cabelos, à frente dos interesses coletivos.,
+grisalhar: E o coque que com que ela os arrematava na nuca era uma marca do estilo personalizado da sua cabeleira a I]grisalhar.,
+pintar: Os cabelos do irmão mais velho H]pintaram tardiamente.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa918' = “ficar branco”
+{branquear: Graças dou por seu cabelo, que o tempo I]branqueou.,
+branquejar: É o negro velho dos engenhos, muito velho, a avaliar pelo cabelo pixaim que começa a I]branquejar.,
+encanecer: Mordomo do mundo não é somente aquele que I]encanece os cabelos, à frente dos interesses coletivos.,
+grisalhar: E o coque que com que ela os arrematava na nuca era uma marca do estilo personalizado da sua cabeleira a I]grisalhar.,}
+Chave: BRANQUEAR <verb.change>
+ILI: 00271295
+
+Sense 1
+{00271295} <verb.change> whiten, white -- (turn white; "This detergent will whiten your laundry")
+       => {00272185} <verb.change> discolor, discolour, colour, color1 -- (change color, often in an undesired manner; "The shirts discolored")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

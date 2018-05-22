@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA3110
+
+DADO O SYNSET:
+
+S='Glosa3110'
+	    {
+	      impar: Minha avó I]impava de emoção quando contava como um soldado alemão brandira sua espada e ameaçara o russo, dizendo que agora era tarde.,
+	      soluçar: A crise tinha cessado de todo; a doente [soluçava baixinho, com o rosto escondido entre dois travesseiros.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3110' = “chorar convulsivamente”
+	     {impar: Minha avó I]impava de emoção quando contava como um soldado alemão brandira sua espada e ameaçara o russo, dizendo que agora era tarde.,
+	      soluçar: A crise tinha cessado de todo; a doente [soluçava baixinho, com o rosto escondido entre dois travesseiros.,}
+Chave: SOLUÇAR <verb.body>
+ILI: 00064958
+
+Sense 1
+{00064958} <verb.body> sob -- (weep convulsively; "He was sobbing inconsolably")
+       => {00064020} <verb.body> cry, weep -- (shed tears because of sadness, rage, or pain; "She cried bitterly when she heard the news of his death"; "The girl in the wheelchair wept with frustration when she could not get up the stairs")
+           => {01750193} <verb.emotion> express emotion, express feelings -- (give verbal or other expression to one's feelings)

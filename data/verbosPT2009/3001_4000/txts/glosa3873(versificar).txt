@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA3873
+
+DADO O SYNSET:
+
+S='Glosa3873'
+    	{poetar: Assim o coração é capaz de I]poetar liricamente,
+      	 poetificar: x,
+      	 poetizar: Naquele poema "Alguns Toureiros" eu digo que aprendi com Manolete a não [poetizar o poema .,
+      	 rimar: Quem mandou só [rimar amor com dor ?,
+      	 trovar: Os Bastiãos ou Palhaços fazem a parte cômica da Folia; além do conhecimento precisam ter capacidade ou facilidade de I]trovar versos.,
+      	 versar2: Muito jovem ainda, aprendeu a I]versar.,
+      	 versejar: Ana Rosa tirou um bogari da cabeça e passou-o ao trovador, que [versejou logo.,
+      	 versificar: "Romeu e Julieta" ou "Sonho de Uma Noite de Verão" permitem que, no Brasil, muita gente se esqueça de que "a tarefa de Shakespeare foi a de [versificar a vida", e todos nós sabemos que nem tudo na vida é lírico ou romântico.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3873' = “compor versos ou colocar na forma de versos”
+    	{poetar: Magalena apenas I]poetou alguns sonetos como experiência, mas esse não é o seu forte!,
+      	 poetizar: Cioran não quer anunciar nenhum «super-homem», nem [poetiza ao modo de Zaratustra.,
+      	 rimar: Artistas que criaram maravilhosas telas,esculturas e poesias que I]rimaram o brilho das estrelas.,
+      	 trovar: Os repentistas I]trovam muito bem, eles têm um dom para isso.,
+      	 versar2: Expusemos no Paço Municipal mais de 70 trabalhos de artistas plásticos com o tema “Porto Alegre de Quintana”, em homenagem ao centenário do nosso poeta maior e a cidade que I]versou.,
+      	 versejar: Ana Rosa tirou um bogari da cabeça e passou-o ao trovador, que [versejou logo.,
+      	 versificar: Casimiro de Abreu I]versificou sua saudade da infância.}
+Chave: VERSIFICAR <verb.creation>
+ILI: 01653772
+
+Sense 1
+{01653772} <verb.creation> verse, versify, poetize, poetise -- (compose verses or put into verse; "He versified the ancient saga")
+       => {01649807} <verb.creation> write, compose1, pen, indite -- (produce a literary work; "She composed a poem"; "He wrote four novels")
+           => {01649365} <verb.creation> create verbally -- (create with or from words)
+               => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA0890
+
+DADO O SYNSET:
+
+S='Glosa890'
+{absorver: Graças a este pigmento, as plantas conseguem [absorver parte da energia luminosa e com ela sintetizar matéria orgânica a partir de compostos inorgânicos.,
+chupar: Use um pedaço de papel de filtro na borda da lamínula para [chupar o excesso de água e corante.,
+sorver: Colou ardentemente os lábios no tronco, e [sorveu o óleo, que entrou no seu seio como um bálsamo poderoso.,
+tragar: Mas tão depressa buscava as pupilas, a onda que saía delas vinha crescendo, cava e escura, ameaçando envolver-me, puxar-me e [tragar-me.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa890' = “embeber, consumir”
+{absorver: Graças a este pigmento, as plantas conseguem [absorver parte da energia luminosa e com ela sintetizar matéria orgânica a partir de compostos inorgânicos.,
+chupar: Use um pedaço de papel de filtro na borda da lamínula para [chupar o excesso de água e corante.,
+sorver: Colou ardentemente os lábios no tronco, e [sorveu o óleo, que entrou no seu seio como um bálsamo poderoso.,
+tragar: Mas tão depressa buscava as pupilas, a onda que saía delas vinha crescendo, cava e escura, ameaçando envolver-me, puxar-me e [tragar-me.}
+Chave: ABSORVER <verb.contact>
+ILI: 01497173
+
+Sense 1
+{01497173} <verb.contact> absorb1 -- (become imbued; "The liquids, light, and gases absorb")
+       => {01497863} <verb.contact> sorb, take up4 -- (take up a liquid or a gas either by adsorption or by absorption)
+           => {00140715} <verb.change> change state, turn4 -- (undergo a transformation or a change of position or action; "We turned from Socialism to Capitalism"; "The people turned against the President when he stole the election")
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

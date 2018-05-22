@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA1981
+
+DADO O SYNSET:
+
+S='Glosa1981'
+{desfiar: Quase I]desfiou minha blusa nova! # Saiba guardar dinheiro e compre uma calça de marca, que não vá I]desfiar.,
+ escarçar: x,
+ esgaçar: Chegaram até a I]esgaçar a roupa dele.,
+ esgarçar: A saia M]esgarçou.,
+ rasgar: Para tanto, fez de tudo: [rasgou a camisa, fez o sinal da cruz diversas vezes e abriu os braços como o Cristo que se avista acima dos barracos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1981' = “rasgar(-se) desfiando”
+{desfiar: Saiba guardar dinheiro e compre uma calça de marca, que não vá I]desfiar.,
+ esgarçar: As três cartas, aqui publicadas, exprimem a delicadeza do tecido da amizade, o cuidado recíproco dos dois tecelões para não [esgarçá-lo nem rompê-lo e sua incapacidade para mantê-lo íntegro, pois, a cada novo fio trançado pelo avesso, algo se desfia no desenho do direito.,
+ rasgar: Riker arranca sua barba e bigode e então segura seu uniforme, o I]rasga em pedaços, revelando um uniforme dourado por baixo.,}
+Chave: DESFIAR <verb.contact>
+ILI: 01329071
+
+Sense 1
+{01329071} <verb.contact> fray, frazzle -- (wear away by rubbing; "The friction frayed the sleeve")
+       => {01329213} <verb.contact> break, wear, wear out, bust, fall apart -- (go to pieces; "The lawn mower finally broke"; "The gears wore out"; "The old chair finally fell apart completely")
+           => {00201478} <verb.change> decay, crumble13, delapidate -- (fall into decay or ruin; "The unoccupied house started to decay")
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

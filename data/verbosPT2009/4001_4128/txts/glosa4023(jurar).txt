@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA4023
+
+DADO O SYNSET:
+
+S='Glosa4023'
+{jurar: O Leonardo soube logo do que havia, e [jurou que esse seria o dia da vingança.,
+professar: A]Professou afeição profunda aos companheiros.,
+prometer: Em troca, caso obtivessem sucesso, [prometeu reincorporá-los em delegacias de maior expressão .,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4023' = “fazer um juramento ou promessa”
+{jurar: O Leonardo soube logo do que havia, e [jurou que esse seria o dia da vingança.,
+professar: A]Professou afeição profunda aos companheiros.,
+prometer: Em troca, caso obtivessem sucesso, [prometeu reincorporá-los em delegacias de maior expressão .,}
+Chave: JURAR <verb.communication>
+ILI: 00857344
+
+Sense 1
+{00857344} <verb.communication> vow -- (make a vow; promise; "He vowed never to drink alcohol again")
+       => {00855145} <verb.communication> pledge, plight -- (promise solemnly and formally; "I pledge that will honor my wife")
+           => {00854515} <verb.communication> promise, assure2 -- (make a promise or commitment)
+               => {00977478} <verb.communication> declare -- (state emphatically and authoritatively; "He declared that he needed more money to carry out the task he was charged with")
+                   => {00976600} <verb.communication> state, say, tell4 -- (express in words; "He said that he wanted to marry her"; "tell me what is bothering you"; "state your opinion"; "state your name")
+                       => {00909455} <verb.communication> express, verbalize3, verbalise3, utter1, give tongue to -- (articulate; either verbally or with a cry, shout, or noise; "She expressed her anger"; "He uttered a curse")
+

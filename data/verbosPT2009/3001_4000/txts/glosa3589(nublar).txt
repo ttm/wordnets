@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA3589
+
+DADO O SYNSET:
+
+S='Glosa3589'
+	{anuviar: Contraía-se quando uma sombra de melancolia [anuviava o teu semblante.,
+	 enevoar: Deixei a magoa I]enevoar a minha mente./ O pranto no rosto triste I]enevoou teu sorriso. ,
+	 entristecer: Veio-lhe então um sobressalto de contentamento mas logo depois caiu a [entristecer. ,
+	 enturbar: O verdor dos anos e o amargor das lutas o I]enturbavam.,
+	 enturvar: O resultado negativo I]enturvou um pouco a turma. ,
+	 nevoar: x,
+	 nublar: Freqüentemente vosso espírito se poderá I]nublar por causa do sofrimento.,
+	 obscurecer: Nada poderia I]obscurecer o brilho do extraordinário sorriso gravado no rosto triste de Augusto. / O desapontamento começava a I]obscurecer minha animação. ,
+	 sombrear: Uma nuvem de melancolia I]sombreou a face da rapariga.,
+	 sombrejar: x }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3589' = “tornar triste ou deprimido”
+	{anuviar: Contraía-se quando uma sombra de melancolia [anuviava o teu semblante.,
+	 enevoar: Deixei a magoa I]enevoar a minha mente.,
+	 entristecer: Veio-lhe então um sobressalto de contentamento mas logo depois caiu a [entristecer. ,
+	 enturbar: O verdor dos anos e o amargor das lutas o I]enturbavam.,
+	 enturvar: O resultado negativo I]enturvou um pouco a turma.,
+	 nublar: Freqüentemente vosso espírito se poderá I]nublar por causa do sofrimento.,
+	 obscurecer: O desapontamento começava a I]obscurecer minha animação.,
+	 sombrear: Uma nuvem de melancolia I]sombreou a face da rapariga.}
+Chave: NUBLAR <verb.emotion>
+ILI: 01718524
+
+Sense 4
+{01718524} <verb.emotion> cloud -- (make gloomy or depressed; "Their faces were clouded with sadness")
+       => {01716999} <verb.emotion> affect, impress1, move, strike -- (have an emotional or cognitive impact upon; "This child impressed me as unusually mature"; "This behavior struck me as odd")

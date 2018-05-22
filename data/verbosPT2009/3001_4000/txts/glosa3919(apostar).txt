@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA3919
+
+DADO O SYNSET:
+	
+S='Glosa3919'
+    	{apostar: O fazendeiro pegou todo dinheiro que tinha, [apostou no coelho .,
+      	 arriscar: Quem quer [arriscar a sorte, pode optar entre as 17 mesas de bacará, «black jack» (ou 21), jogo de dados, roletas americana e francesa .,
+      	 jogar: No dia seguinte, I]jogou todo seu dinheiro no vinte e cinco, vaca.,
+      	 pôr: M]Põe todos os dias muito dinheiro na dezena.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3919' = “apostar no resultado de um desfecho”
+    	{apostar: O fazendeiro pegou todo dinheiro que tinha, [apostou no coelho.,
+      	 arriscar: Motorista I]arriscou tudo que tinha em negócio que não conhecia.,
+      	 jogar: No dia seguinte, I]jogou todo seu dinheiro no vinte e cinco, vaca.,
+      	 pôr: Ele I]põe todas as suas fichas no 27, sob os olhos admirados dos outros jogadores.}
+Chave: APOSTAR <verb.competition>
+ILI: 01120124
+
+Sense 2
+{01120124} <verb.competition> bet, wager, play8 -- (stake on the outcome of an issue; "I bet $100 on that new horse"; "She played all her money on the dark horse")
+       => {01103259} <verb.competition> gamble -- (play games for money)
+           => {01038634} <verb.competition> play -- (participate in games or sport; "We played hockey all afternoon"; "play cards"; "Pele played for the Brazilian teams in many important matches")
+               => {01037983} <verb.competition> compete, vie, contend -- (compete for something; engage in a contest; measure oneself against others)

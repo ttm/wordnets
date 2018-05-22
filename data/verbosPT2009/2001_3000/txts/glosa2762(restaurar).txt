@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA2762
+
+DADO O SYNSET:
+
+S='Glosa2762'
+	    {reedificar: O Conde de Sabugosa mandou I]reedificar o Forte, conhecido como Forte “São Francisco Xavier da Barra”, em 1726, dando-lhe forma circular e aparelhando-o com 15 peças.,
+	      reformar: Se [reformar igreja fosse passagem para o céu, eu já estaria lá há muito tempo», diz o empresário, que pretende se candidatar a prefeito de Juiz de Fora nas próximas eleições pelo PPB (do senador Espiridião Amin) e, em 98, tentará se reeleger deputado federal.,
+	      restaurar: Quando completou 18 anos, ela pediu ao avô licença para [restaurar a casa.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2762' = “Melhorar pela alteração ou pela correção de erros ou defeitos e colocar em uma melhor condição”
+	    {reformar: Todo mundo aqui I]reformou a casa e melhorou de vida.,
+	      restaurar: A Obra Social da Cidade I]restaurou uma casa em Botafogo que funcionará como espaço para atividades socioculturais gratuitas para idosos.,}
+
+Chave: RESTAURAR <verb.change>
+ILI: 00256793
+
+Sense 5
+{00256793} <verb.change> reform8 -- (improve by alteration or correction of errors or defects and put into a better condition; "reform the health system in this country")
+       => {00198579} <verb.change> better1, improve1, amend, ameliorate1, meliorate1 -- (to make better; "The editor improved the manuscript with his changes")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

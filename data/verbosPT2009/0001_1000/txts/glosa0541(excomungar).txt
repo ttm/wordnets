@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0541
+
+DADO O SYNSET:
+
+S='Glosa541'
+{anatematizar: O coito interrompido, método anticoncepcional mais usado ao longo dos séculos, é [anatematizado com ardor apocalíptico.,
+excomungar: O Imperador revoltou-se contra a decisão de Gregório VII, e este o [excomungou, além de dispensar seus vassalos das obrigações que tinham para com ele.,}
+A='Glosa1406'
+{desexcomungar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa541' = “expulsar ou excluir de um grupo ou associação por decreto”
+{anatematizar: O coito interrompido, método anticoncepcional mais usado ao longo dos séculos, é [anatematizado com ardor apocalíptico.,
+excomungar: O Imperador revoltou-se contra a decisão de Gregório VII, e este o [excomungou, além de dispensar seus vassalos das obrigações que tinham para com ele.,}
+A='Glosa1406'
+{desexcomungar}
+Chave: EXCOMUNGAR <verb.social>
+ILI: 02330059
+
+Sense 2
+{02330059} <verb.social> excommunicate -- (oust or exclude from a group or membership by decree)
+       => {02329756} <verb.social> oust, throw out, drum out, boot out, kick out, expel1 -- (remove from a position or office; "The chairman was ousted after he misappropriated funds")
+           => {02331921} <verb.social> remove -- (remove from a position or an office)

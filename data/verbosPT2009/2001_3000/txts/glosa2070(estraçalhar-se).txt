@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA2070
+
+DADO O SYNSET:
+	
+S='Glosa2070'
+    	{abrir-se: Com o terremoto as paredes do teto se A]abriraram.,
+      	 carcavar-se: x,
+      	 dilacerar-se: x,
+      	 esfrangalhar-se: x,
+      	 estraçalhar-se: Fiz pontaria e aí, a espoleta I]estraçalhou-se e vários estilhaços vieram dar em meu rosto.,
+      	 fender-se: A árvore I]fendeu-se desde o olho até à raiz em duas metades.,
+      	 rasgar-se: x,
+      	 romper-se: Depois de frio, I]rompeu-se o tubo de quartzo e extraiu-se o monocristal.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2070' = “ficar rompido em várias partes”
+    	{abrir-se: Separaram-se os braços do guerreiro cego, e a cabeça de Canicrã [abriu-se como um coco que se fende pelo meio.,
+      	 estraçalhar-se: Fiz pontaria e aí, a espoleta I]estraçalhou-se e vários estilhaços vieram dar em meu rosto.,
+      	 fender-se: Desta colisão, Tiamat I]fendeu-se em grandes rachaduras e seu satélite principal, Kingu, perdeu sua órbita independente.,
+      	 romper-se: A galeria do córrego do Sapateiro que passa sob a avenida e sobre o túnel se [rompeu, solapou a pista e destruiu uma adutora da Sabesp.}
+Chave: ESTRAÇALHAR-SE <verb.change>
+ILI: 00323396
+
+Sense 1
+{00323396} <verb.change> shatter -- (break into many pieces; "The wine glass shattered")
+       => {00323232} <verb.change> burst1, bust -- (break open or apart suddenly and forcefully; "The dam burst")
+           => {00323679} <verb.change> break, separate3, split up, fall apart3, come apart -- (become separated into pieces or fragments; "The figurine broke"; "The freshly baked loaf fell apart")
+               => {00135037} <verb.change> change integrity -- (change in physical make-up)
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

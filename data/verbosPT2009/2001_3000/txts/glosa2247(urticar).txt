@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA2247
+
+DADO O SYNSET:
+
+S='Glosa2247'
+	    {urticar: Este líquido H]urticou meu braço.,
+	      urtigar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2247' = “produzir ardência com ou como se fosse urticária”
+	    {urticar: Este líquido H]urticou meu braço.,}
+
+Chave: URTICAR <verb.perception>
+ILI: 02059407
+
+Sense 2
+{02059407} <verb.perception> nettle, urticate -- (sting with or as with nettles and cause a stinging pain or sensation)
+       => {02059143} <verb.perception> bite, sting2, burn -- (cause a sharp or stinging pain or discomfort; "The sun burned his face")
+           => {02060768} <verb.perception> ache, smart, hurt -- (be the source of pain)
+               => {02062507} <verb.perception> cause to be perceived -- (have perceptible qualities)

@@ -1,0 +1,35 @@
+ANÁLISE DA GLOSA2709
+
+DADO O SYNSET:
+
+  S='Glosa2709'
+	    {desfadigar-se: H]Desfadigou-se antes de iniciar o carnaval.,
+	      relaxar-se: Nunca tenho tempo de assistir televisão mas gosto de ler as revista fáceis para [me relaxar.,
+	      releixar-se: x,}
+
+	  A='Glosa3407'
+	    {afadigar-se: O profissional liberal enfrenta dificuldades, para o desempenho dos compromissos, luta e I]afadiga-se para bem os atender.,
+	     afanar-se: O homem trabalha, I]afana-se, agoniza e desespera-se, regozija-se e triunfa, progride ou retarda sua evolução.,
+	     afrontar-se: x,
+	     aplastar-se: x,
+	     cansar-se: Este respiratório precisa fazer-se sem forçar absolutamente nada, sem fazer ruídos, sem ressoar, sem perder o fôlego, sem I]cansar-se.,
+	     estafar-se: Não atinou mais em procurar a luz da janela; I]estafou-se.,
+	     fatigar-se: É ele quem propõe jogos estimulantes da motilidade (cutucar, mexer, mover), aumentando o estado de excitação do bebê, que o corresponde até I]fatigar-se.,
+	     matar-se: Estão se M]matando à toa.,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2709' = “Tornar (-se) menos tenso, descansar ou tornar-se relaxado.”
+	    {desfadigar-se: H]Desfadigou-se antes de iniciar o carnaval.,
+	      relaxar-se: Nunca tenho tempo de assistir televisão mas gosto de ler as revista fáceis para [me relaxar.,}
+
+	  A='Glosa3407'
+	    {afadigar-se, afanar-se, cansar-se, estafar-se, fatigar-se, matar-se}
+
+Chave: RELAXAR-SE <verb.body>
+ILI: 00025848
+
+Sense 1
+{00025848} <verb.body> relax, loosen up, unbend1, unwind, decompress, slow down -- (become less tense, rest, or take one's ease; "He relaxed in the hot tub"; "Let's all relax after a hard day's work")
+       => {00140715} <verb.change> change state, turn4 -- (undergo a transformation or a change of position or action; "We turned from Socialism to Capitalism"; "The people turned against the President when he stole the election")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

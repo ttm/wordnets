@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA2862
+
+DADO O SYNSET:
+
+S='Glosa2862'
+	    {fandangar: O gaúcho vai I]fandangar (dançar) nos galpões ou nos salões, as danças: pezinho, balaio, chimarrita, anu, shotes-de-duas-damas.,
+	      fandanguear: Tô chegando agora e quero fandanguear.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2862' = “Mover seguindo um padrão; geralmente com acompanhamento musical; fazer ou executar uma dança”
+	    {fandangar: I]Fandangava, fandangava, Com volúpia de guerreiro.,
+	      fandanguear: Os excomungados que cantavam e I]fandangueavam na noite em que nosso Sinhô morreu.,}
+Chave: FANDANGUEAR <verb.creation>
+ILI: EQ_HAS_HYPERONYM - 01659897
+
+Sense 2
+{01659897} <verb.creation> dance, trip the light fantastic, trip the light fantastic toe -- (move in a pattern; usually to musical accompaniment; do or perform a dance; "My husband and I like to dance at home to the radio")
+       => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right") 

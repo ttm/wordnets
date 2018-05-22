@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA3458
+
+DADO O SYNSET:
+
+S='Glosa3458'
+	    {
+	      garimpar: Nada mais justo que [garimpar na mina recém-descoberta/Há mais de quatro anos, eles perderam os direitos de [garimpagem em Serra Pelada,
+	      minerar: : Em 1740 já se [minerava ouro por todo o sertão das Geraes/Se nós queremos uma panela de alumínio, é preciso ]minerar a bauxita,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3458' = “explorar coisas vantajosas ou valiosas, ou substâncias, tais como minerais”
+	     {garimpar: o bandeirante Afonso Sardinha possuía uma sesmaria e I]garimpava ouro no Pico do Jaraguá,
+	      minerar:  Após a descoberta de ouro no local, ali I]minerou durante algum tempo, voltando a São Paulo (SP) após ter enriquecido,}
+Chave: GARIMPAR <verb.cognition>
+ILI: 00627368
+
+Sense 2
+{00627368} <verb.cognition> prospect -- (explore for useful or valuable things or substances, such as minerals)
+       => {00627521} <verb.cognition> research, search, explore -- (inquire into)
+           => {00763144} <verb.communication> investigate, look into -- (investigate scientifically; "Let's investigate the syntax of Chinese")
+               => {00623929} <verb.cognition> analyze, analyse, study2, examine, canvass2, canvas2 -- (consider in detail and subject to an analysis in order to discover essential features or meaning; "analyze a sonnet by Shakespeare"; "analyze the evidence in a criminal trial"; "analyze your real motives")

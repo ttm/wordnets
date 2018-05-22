@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2175
+
+DADO O SYNSET:
+
+S='Glosa2175'
+	    {revirar-se: Dormia mal à noite, I]revirava-se na cama e, por isso, passava o dia desanimado. # M]Revirou-se o acrobata sobre a cabeça.,
+	      revolver-se: I]Revolvia-se o capanga na dura laje que lhe servia de leito; e tentava subtrair-se à obsessão, lembrando que não passava aquela visão de um desvario.,
+	      voltar-se: Minha avó tossia e I]voltava-se no leito.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2175' = “mover-se de um lado para ou outro ou em rotação”
+	    {revirar-se: Dormia mal à noite, I]revirava-se na cama e, por isso, passava o dia desanimado. # M]Revirou-se o acrobata sobre a cabeça.,
+	      revolver-se: I]Revolvia-se o capanga na dura laje que lhe servia de leito; e tentava subtrair-se à obsessão, lembrando que não passava aquela visão de um desvario.,
+	      voltar-se: Minha avó tossia e I]voltava-se no leito.,}
+
+Chave: REVIRAR-SE <verb.motion>
+ILI: 01812104
+
+Sense 1
+{01812104} <verb.motion> roll, turn over3 -- (move by turning over or rotating; "The child rolled down the hill"; "turn over on your left side")
+       => {01851475} <verb.motion> turn -- (change orientation or direction, also in the abstract sense; "Turn towards me"; "The mugger turned and fled before I could see his face"; "She turned from herself and learned to listen to others' needs")
+           => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right")
+          Also See-> {01909220} <verb.motion> roll down#1; {01813728} <verb.motion> roll over#1 

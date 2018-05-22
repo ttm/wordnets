@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA1975
+
+DADO O SYNSET:
+
+S='Glosa1975'
+{coçar: O major, desanuviou o rosto, remexeu-se todo, [coçou a cabeça, balançou com as pernas, mordeu os beiços.,
+ esfregar: O Velho [esfregou o ouvido, arregalou os olhos ao identificar que a origem do sonífero chamado vinha exatamente do jovem Yarlen !,
+ friccionar: Não friccionar e nem apalpar a pele e não I]friccionar os olhos.,
+ roçar: A leoa começou a I]roçar levemente a cabeça em sua pata, e ele sentiu, durante toda a noite, um conforto indescritível; um aconchego terno.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1975' = “mover, agitar com pressão”
+{coçar: O major, desanuviou o rosto, remexeu-se todo, [coçou a cabeça, balançou com as pernas, mordeu os beiços.,
+ esfregar: O Velho [esfregou o ouvido, arregalou os olhos ao identificar que a origem do sonífero chamado vinha exatamente do jovem Yarlen!,
+ friccionar: Zé Bento enxugou o rosto com o lenço que encontrara dentro do bolso da calça, apertou o chapéu entre as mãos, I]friccionou a testa num ato de desespero.,
+ roçar: A leoa começou a I]roçar levemente a cabeça em sua pata, e ele sentiu, durante toda a noite, um conforto indescritível; um aconchego terno.,}
+Chave: FRICCIONAR <verb.contact>
+ILI: 01212021
+
+Sense 1
+{01212021} <verb.contact> rub -- (move over something with pressure; "rub my hands"; "rub oil into her skin")
+       => {01175477} <verb.contact> guide, run1, draw13, pass -- (guide or pass over something; "He ran his eyes over her body"; "She ran her fingers along the carved figurine"; "He drew her hair through his fingers")
+          Also See-> {01216140} <verb.contact> rub down#1; {01216140} <verb.contact> rub off#1; {01195157} <verb.contact> rub down1#2; {01505928} <verb.contact> rub out#1

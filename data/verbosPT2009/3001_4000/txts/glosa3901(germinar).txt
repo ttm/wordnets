@@ -1,0 +1,42 @@
+ANÁLISE DA GLOSA3901
+
+DADO O SYNSET:
+
+S='Glosa3901'
+    	{abrolhar: E a solheira a terra matando ou definhando a erva que I]abrolhava.,
+      	 apontar: O feijão começou a H]apontar.,
+      	 borbulhar: A jaboticabeira I]borbulhou de cima a baixo.,
+      	 brotar: Uma macieira precisa de pelo menos 1.200 horas de frio, com temperaturas em torno de sete graus, para [brotar e florescer uniformemente .,
+      	 desabrochar: Assim o róseo cacto, que já [desabrochou em linda flor, cerra em botão o seio perfumado.,
+      	 desbrochar: x,
+      	 germinar: Grãos de cevada são embebidos em água pura e começam a [germinar.,
+      	 gomar2: x,
+      	 grelar1: Esses mesmos cocos, depois que começam a I]grelar no solo, são muito procurados e apreciados como alimento, tornando-se a parte carnosa mole e esponjosa.,
+      	 nascer: Às vezes I]nascem flores hermafroditas, dando origem a frutas atípicas.,
+      	 pontar: x,
+      	 propagar: DEVIANT,
+      	 pulular: Tortulhos M]pululam ali.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3901' = “produzir brotos ou ramos, ou germinar”
+    	{abrolhar: E a solheira a terra matando ou definhando a erva que I]abrolhava.,
+      	 apontar: Da forma como está hoje, com os 4 primeiros galhos I]apontando apenas para a direita e esquerda, seu bonsai ficará como uma pintura num quadro.,
+      	 borbulhar: A jaboticabeira I]borbulhou de cima a baixo.,
+      	 brotar: A água foi embora e a pastagem está [brotando verdinha.,
+      	 desabrochar: Um espetáculo à parte são as 20 mil tulipas doadas pela Holanda anualmente, que [desabrocham entre o final de março e o início de abril.,
+      	 germinar: As mandiocas [germinaram, estão com brotos.,
+      	 grelar1: A semente I]grelou e está a árvore ramalhuda.,
+      	 nascer: Às vezes I]nascem flores hermafroditas, dando origem a frutas atípicas.,
+      	 pulular: Mais de 150.000 arvores I]pululam nas ruas e avenidas.}
+Chave: GERMINAR <verb.change>
+ILI: 00346103
+
+Sense 1
+{00346103} <verb.change> shoot, spud, germinate, pullulate, bourgeon, burgeon forth, sprout -- (produce buds, branches, or germinate; "the potatoes sprouted")
+       => {00224068} <verb.change> grow2 -- (increase in size by natural process; "Corn doesn't grow here"; "In these forests, mushrooms grow under the trees")
+           => {00243643} <verb.change> develop -- (grow, progress, unfold, or evolve through a process of evolution, natural growth, differentiation, or a conducive environment; "A flower developed on the branch"; "The country developed into a mighty superpower"; "The embryo develops into a fetus"; "This situation has developed over a long time")
+               => {00223119} <verb.change> grow -- (become larger, greater, or bigger; expand or gain; "The problem grew too large for me"; "Her business grew fast")
+                   => {00150804} <verb.change> increase -- (become bigger or greater in amount; "The amount of work increased")
+                       => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+                           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

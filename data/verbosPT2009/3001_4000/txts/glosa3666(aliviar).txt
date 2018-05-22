@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA3666
+
+DADO O SYNSET:
+
+S='Glosa3666'
+	    {
+	      aliviar: A loucura de Nietzsche, devia ser atribuída não só ao uso de remédios, narcóticos e drogas que o irmão utilizava para [aliviar suas violentas dores de cabeça e de estômago. ,
+	      melhorar: O remédio ea comida até que ajudaram bastante a I]melhorar a dor de cabeça e o humor de Touya.,
+	      paliar: Houve a evidência de que o tratamento com quimioterapia aumenta a sobrevida desses pacientes além de [paliar sintomas.,
+	      remediar: Qual a melhor alternativa para [remediar a dor insuportável de um paciente terminal? ,
+	      sobressarar: Não convém M]sobressarar, somente, o resfriado.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3666' = “dar alivio físico, como para dor”
+	     {aliviar: A radioterapia com o 131I- MIBG [alivia as dores porque reduz a pressão intersticial. ,
+	      melhorar: É um erro considerar a dor como puramente psicológica apenas porque [melhora com antidepressivos.,
+	      paliar: Houve a evidência de que o tratamento com quimioterapia aumenta a sobrevida desses pacientes além de [paliar sintomas.,
+	      remediar: Operação [remedia dilatação da aorta.,}
+Chave: ALIVIAR <verb.body>
+ILI: 00062014
+
+Sense 1
+{00062014} <verb.body> relieve, alleviate, palliate, assuage -- (provide physical relief, as from pain; "This pill will relieve your headaches")
+       => {00198579} <verb.change> better1, improve1, amend, ameliorate1, meliorate1 -- (to make better; "The editor improved the manuscript with his changes")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

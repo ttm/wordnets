@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA3815
+
+DADO O SYNSET:
+
+S='Glosa3815'
+{comichar: Quanto mais você coçar, mais vai I]comichar.,
+	 formigar: De repente, meus braços começaram a I]formigar.,
+	 formiguejar: A sola do pé está H]formiguejando.,
+	 picar: A sarna fazia seu corpo H]picar.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3815' = “causar uma sensação de picadas ou formigamento”
+{comichar: Quanto mais você coçar, mais vai I]comichar.,
+	 formigar: De repente, meus braços começaram a I]formigar.,
+	 formiguejar: A sola do pé está H]formiguejando.,
+	 picar: A sarna fazia seu corpo H]picar.}
+Chave: FORMIGAR <verb.perception>
+ILI: 02061587
+
+Sense 1 
+{02061587} <verb.perception> tingle, prickle -- (cause a stinging or tingling sensation)
+       => {02059880} <verb.perception> itch -- (have or perceive an itch; "I'm itching--the air is so dry!")
+           => {02060768} <verb.perception> ache, smart, hurt -- (be the source of pain)
+               => {02062507} <verb.perception> cause to be perceived -- (have perceptible qualities)

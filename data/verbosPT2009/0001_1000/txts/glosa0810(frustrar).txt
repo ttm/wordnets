@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA0810
+
+DADO O SYNSET:
+
+S='Glosa810'
+{aguar: Chamas-lhe Beatriz, Laura, Fornarina, Natércia, e ela diz-te que se chama Custódia, ou Genoveva para te I]aguar a poesia desses nomes, que, na minha humilde opinião, são completamente fabulosos.,
+desenganar: Apenas para, com uma história do futuro, credível, fabricar a história do presente, necessária, dando ânimo aos governantes portugueses e I]desenganando os espanhóis.,
+fraudar: Não haverá ninguém para [fraudar a consulta ao povo excluindo-se a degradada terra do Rio de Janeiro.,
+frustrar: A Nasa tentou iniciar a missão, que deve durar dez dias, há seis semanas, mas problemas técnicos [frustaram a tentativa de lançamento. # Iríamos [frustar um movimento de apoio ao nosso projeto que ficou claro na vitória que tivemos.,
+gorar: Sua atuação no episódio do feijão foi importante para fazer [gorar o movimento especulativo. # E também aí o plano pode [gorar.,
+malograr: As tentativas de isolar e identificar esses vírus [malograram até 1976, quando Ho Wang Lee conseguiu isolá-lo de um Apodemus agrarius, camundongo da região do rio Hantaan.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa810' = “impedir ou atrapalhar (os esforços, planos, ou desejos) de”
+{aguar: Chamas-lhe Beatriz, Laura, Fornarina, Natércia, e ela diz-te que se chama Custódia, ou Genoveva para te I]aguar a poesia desses nomes, que, na minha humilde opinião, são completamente fabulosos.,
+fraudar: Não haverá ninguém para [fraudar a consulta ao povo excluindo-se a degradada terra do Rio de Janeiro.,
+frustrar: A Nasa tentou iniciar a missão, que deve durar dez dias, há seis semanas, mas problemas técnicos [frustaram a tentativa de lançamento. # Iríamos [frustar um movimento de apoio ao nosso projeto que ficou claro na vitória que tivemos.,
+gorar: Sua atuação no episódio do feijão foi importante para fazer [gorar o movimento especulativo. # E também aí o plano pode [gorar.,
+malograr: As tentativas de isolar e identificar esses vírus [malograram até 1976, quando Ho Wang Lee conseguiu isolá-lo de um Apodemus agrarius, camundongo da região do rio Hantaan.,}
+Chave: FRUSTAR <verb.social>
+ILI: 02482511
+
+Sense 1
+{02482511} <verb.social> thwart, queer, spoil, scotch, foil, cross, frustrate, baffle, bilk1 -- (hinder or prevent (the efforts, plans, or desires) of; "What ultimately frustrated every challenger was Ruth's amazing September surge"; "foil your opponent")
+       => {02379144} <verb.social> prevent1, forestall1, foreclose, preclude, forbid3 -- (keep from happening or arising; have the effect of preventing; "My sense of tact forbids an honest answer")

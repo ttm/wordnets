@@ -1,0 +1,36 @@
+ANÁLISE DA GLOSA3512
+
+DADO O SYNSET:
+
+S='Glosa3512'
+	    {
+	      afinar: Nesses dez anos Champollion I]afinou critérios e corrigiu traduções. /  A literatura I]afinou minha sensibildade para a pesquisa da alma humana.,
+	      desemburrar: O contato com a civilização H]desemburrou-o.,
+	      desemburricar: x,
+	      desenferrujar: É um desses livros que todos os nossos aprendizes de feiticeiro verbal e estudantes de literatura deveriam ler para [desenferrujar as dobradiças do espírito. ,
+	      desferrujar: x,
+	      educar: Aos poucos, andando com ele, aprendi a [educar a vista e buscar a planta que quero. / Se conseguirmos [educar as pessoas, mostrando que é muitovantajoso ser leal e honesto, teríamos sempre, na vida, momentos bonitos de se ver.  ,
+	      lapidar: Sem mostrar como a cantora desenvolveu seu talento, o filme leva o espectador à conclusão de que foi Ike quem [lapidou a voz da moça. ,
+	      lustrar: Devemos I]lustrar as nossas ações. / Muitos estudantes vêm aprender ou I]lustrar seu inglês.,
+	      morigerar: Sabemos que o objectivo do debate não era propriamente I]morigerar. /  Estou mais que muito desconfiado de que o romance não I]morigera, nem desmoraliza.,
+	      polir: Mas lembra-te de que podes I]polir teu espírito como brunes as unhas, aprimorá-lo como adornas o teu corpo, mantendo-o livre de todo contato impuro.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3512' = “trazer para um estado altamente desenvolvido, acabado ou refinado”
+	     {afinar: Nesses dez anos Champollion I]afinou critérios e corrigiu traduções. / A literatura I]afinou minha sensibildade para a pesquisa da alma humana.,
+	      desemburrar: O contato com a civilização H]desemburrou-o.,
+	      desenferrujar: É um desses livros que todos os nossos aprendizes de feiticeiro verbal e estudantes de literatura deveriam ler para [desenferrujar as dobradiças do espírito. ,
+	      educar: Aos poucos, andando com ele, aprendi a [educar a vista e buscar a planta que quero. / Esse aprendizado I]educou-me a mão e a visão.  ,
+	      lapidar: Sem mostrar como a cantora desenvolveu seu talento, o filme leva o espectador à conclusão de que foi Ike quem [lapidou a voz da moça. ,
+	      lustrar: Devemos I]lustrar as nossas ações. / Muitos estudantes vêm aprender ou I]lustrar seu inglês.,
+	      polir: Mas lembra-te de que podes I]polir teu espírito como brunes as unhas, aprimorá-lo como adornas o teu corpo, mantendo-o livre de todo contato impuro.,}
+Chave: LAPIDAR <verb.change>
+ILI: 00460492
+
+Sense 3
+{00460492} <verb.change> polish, round1, round off2, polish up, brush up -- (bring to a highly developed, finished, or refined state; "polish your social manners")
+       => {00460283} <verb.change> perfect, hone -- (make perfect or complete; "perfect your French in Paris!")
+           => {00198579} <verb.change> better1, improve1, amend, ameliorate1, meliorate1 -- (to make better; "The editor improved the manuscript with his changes")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

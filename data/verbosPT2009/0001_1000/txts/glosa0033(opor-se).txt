@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0033
+
+DADO O SYNSET:
+
+S='Glosa33'
+{opor-se: I]Opõe-se, e com indignação, ao Estado apropriado pelas Elites, seja pelo domínio direto seja pelas alianças de todos na mesma canoa.,
+sustentar-se: DEVIANT,
+suster-se: DEVIANT,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa33' = “ser ou estar contra; expressar oposição a”
+{opor-se: Tocqueville I]opunha-se radicalmente a quaisquer formas socialistas de organização das massas.,}
+Chave: OPOR-SE <verb.communication>
+ILI: 00750217
+
+Sense 1
+{00750217} <verb.communication> oppose1 -- (be against; express opposition to; "We oppose the ban on abortion")
+       => {00747871} <verb.communication> argue, contend1, debate1, fence -- (have an argument about something)
+           => {00932753} <verb.communication> converse, discourse1 -- (carry on a conversation)
+               => {00930524} <verb.communication> talk1, speak1 -- (exchange thoughts; talk with; "We often talk business"; "Actions talk louder than words")
+                   => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                       => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                           => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

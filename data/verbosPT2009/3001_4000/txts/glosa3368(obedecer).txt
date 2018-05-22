@@ -1,0 +1,46 @@
+ANÁLISE DA GLOSA3368
+
+DADO O SYNSET:
+
+S='Glosa3368'
+	    {
+	      acatar: Em dezembro passado, finalmente, o Consema [acatava a exigência de um novo EIA/RIMA para os trechos da obra que ainda não foram reiniciados.,
+	      aceitar: Antes de I]aceitar conselho, liste suas alternativas.,
+	      aguardar: O capitão da embarcação relatou que I]aguardava instruções do armador fundeado na costa de São Francisco do Sul e o tempo não estava bom.,
+	      cumprir: O que sabia era que Peri ia ser morto; que ela devia suavizar-lhe a última hora; e [cumpria esse dever com um certo contentamento. ,
+	      dessaudar: DEVIANT,
+	      escutar: Cresceu, deixou de H]escutar os pais.,
+	      guardar: M]Guardar os preceitos duma religião.,
+	      manter: É uma organização num determinado território, com a finalidade de [manter a ordem interna e promover a defesa contra agressões externas. ,
+	      obedecer: A estudante I.W., de 17 anos, foi detida por se recusar a [obedecer uma ordem do soldado Carlos Henrique.,
+	      observar: A] Observa rígida discrição.,
+	      resguardar: Ressalto a importante atuação dos promotores da Justiça Militar no exercício da atribuição especial de I]resguardar normas de hierarquia e disciplina. ,
+	      respeitar: Helena Severo ficou passada por ter que [respeitar as ordens do cerimonial durante a assinatura de um convênio com o governo do Irã. ,
+	      seguir: Ele afirmou que pretende [seguir os conselhos dos jogadores que já atuam na Europa.,
+	      trilhar: H]Trilhar os ensinamentos cristãos.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3368' = “agir de acordo com regras, comandos ou desejos de alguém”
+	     {acatar: Em dezembro passado, finalmente, o Consema [acatava a exigência de um novo EIA/RIMA para os trechos da obra que ainda não foram reiniciados.,
+	      aceitar: A professora Fátima Monteiro I]aceitou a sugestão e até incentivou.,
+	      aguardar: O presidente da Casa, Antônio Carlos Magalhães (PFL-BA), mesmo dando início a sessão, I]aguardou a decisão do Supremo sobre o mandado de segurança.,
+	      cumprir: Dornelles [cumpriu a ordem. ,
+	      escutar: Desde a primeira gestação, quando teve Cauã, hoje com dois anos e meio, ela já I]escutava os conselhos dos profissionais e de outras gestantes.,
+	      guardar: M]Guardar os preceitos duma religião.,
+	      manter: Presidente João Paulo Cunha I]mantém a ordem na sessão. ,
+	      obedecer: Auxiliado pelo experiente mecânico Mauro de Oliveira Dias, o Maurão, o piloto [obedeceu cuidados especiais e teve alterações no kart para poder pilotar mesmo contundido.,
+	      observar: A Secretaria Municipal de Meio Ambiente I]observa as regras de impacto ambiental.,
+	      resguardar: o Conselho de Estado, além de reconhecer particularismos, I]resguardava o direito de cidadania a. portugueses radicados em províncias.,
+	      respeitar: O produtor I]respeita regras básicas, estabelecidas por especialistas de cada área . ,
+	      seguir: A linguagem [segue a tradição clássica do estilo elevado, o genus sublime dos gregos e romanos.,
+	      trilhar: H]Trilhar os ensinamentos cristãos.,}
+Chave: OBEDECER <verb.social>
+ILI: 02467166
+
+Sense 1
+{02467166} <verb.social> comply, follow, abide by -- (act in accordance with someone's rules, commands, or wishes; "He complied with my instructions"; "You must comply or else!"; "Follow these simple rules"; "abide by the rules")
+       => {02467663} <verb.social> obey -- (be obedient to)
+           => {00144751} <verb.change> adjust1, conform1, adapt2 -- (adapt or conform oneself to new or different conditions; "We must adjust to the bad economic situation")
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

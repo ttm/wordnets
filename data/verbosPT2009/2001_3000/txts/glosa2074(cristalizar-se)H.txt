@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA2074
+
+DADO O SYNSET:
+	
+S='Glosa2074'
+    	{cristalizar-se: As idéias e pensamentos desenvolvidos pelo homem implicam na transformação da natureza, os quais I]cristalizaram-se no conjunto de objetos e artefatos que denominamos cultura material, constituindo-se esta na natureza socialmente transformada.,
+      	 estratificar-se: A partir de 1990, com o Plano Collor, I]estratificaram-se as preocupações e esforços do Banco Alpha no sentido de estar preparado para o advento da estabilidade econômica, que acabou concretizando-se apenas em 1994, com o Plano Real. }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2074' = “fixar-se num ponto ou em determinado estado”
+    	{cristalizar-se: Cessa, com o pleito, a dominação da minoria branca sobre a maioria negra, que durou 342 anos e [cristalizou-se em regras que institucionalizaram um odioso regime de segregação racial.,
+      	 estratificar-se: A partir de 1990, com o Plano Collor, I]estratificaram-se as preocupações e esforços do Banco Alpha no sentido de estar preparado para o advento da estabilidade econômica, que acabou concretizando-se apenas em 1994, com o Plano Real.}
+Chave: CRISTALIZAR-SE <verb.stative>
+ILI: EQ_HAS_HYPERONYM – 02645157
+
+Sense 1
+{02645157} <verb.stative> stagnate1 -- (stand still; "Industry will stagnate if we do not stimulate our economy")
+       => {02526983} <verb.stative> be3 -- (have the quality of being; (copula, used with an adjective or a predicate noun); "John is rich"; "This is not a good answer")

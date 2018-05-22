@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA0345
+
+DADO O SYNSET:
+
+S='Glosa345'
+{desconfiar: Eu poderia [desconfiar de todo mundo, menos do seu Dalmo.,
+descrer: Capitu não parecia crer nem [descrer, não parecia sequer ouvir; era uma figura de pau. # Fernando Henrique disse [descrer que Itamar esteja decepcionado.,
+duvidar: Como [duvidar de uma criança de 9 anos? # Ainda no sábado, quando desembarcou no Aeroporto Internacional do Rio, trazido num vôo da TAP, a polícia chegou a [duvidar até de que Brancoy fosse surdo-mudo.,}
+A='Glosa344'
+{acreditar, confiar, crer, fiar2}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa345' = “julgar, considerar indigno de confiança”
+{desconfiar: Eu poderia [desconfiar de todo mundo, menos do seu Dalmo.,
+descrer: Segundo ele, por definição “o advogado é o homem que sabe pensar, falar e escrever e por não I]descrer de suas energias cívicas saberá colocar a Ordem em posição inigualável”..,
+duvidar: Como [duvidar de uma criança de 9 anos? # Ainda no sábado, quando desembarcou no Aeroporto Internacional do Rio, trazido num vôo da TAP, a polícia chegou a [duvidar até de que Brancoy fosse surdo-mudo.,}
+A='Glosa344'
+{acreditar, confiar, crer, fiar2}
+Chave: DESCONFIAR verb.cognition
+ILI: 00664861
+
+Sense 1
+{00664861} <verb.cognition> distrust, mistrust, suspect -- (regard as untrustworthy; regard with suspicion; have no faith or confidence in)
+       => {00661714} <verb.cognition> disbelieve, discredit -- (reject as false; refuse to accept)
+           => {00662708} <verb.cognition> reject -- (refuse to accept or acknowledge; "I reject the idea of starting a war"; "The journal rejected the student's paper")
+               => {00647983} <verb.cognition> judge -- (form an opinion of or pass judgment on; "I cannot judge some works of modern art")
+                   => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

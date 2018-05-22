@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA4005
+
+DADO O SYNSET:
+
+S='Glosa4005'
+{abstrair: Se pudermos I]abstrair a idéia contida na intenção do planejamento, podemos ousar dizer que há uma busca de inovação, rompimento com o antigo.,
+afastar: O pai M]afastou-lhe os receios.,
+alhear: A]Alheou a atenção por momentos. ,
+alienar: M]Alienou tudo que pudesse influir no julgamento.,
+apartar: As más companhias H]apartaram-no de seus estudos.,
+preterir: DEVIANT,
+pretermitir: DEVIANT,
+vastar1: x,}
+	  
+A ANÁLISE RESULTA EM:
+
+S='Glosa4005B' = “considerar à parte em um caso particular ou exemplo”
+{abstrair: Se pudermos I]abstrair a idéia contida na intenção do planejamento, podemos ousar dizer que há uma busca de inovação, rompimento com o antigo., }
+Chave: ABSTRAIR <verb.cognition>
+ILI: 00710405
+
+Sense 3
+{00710405} <verb.cognition> abstract1 -- (consider apart from a particular case or instance; "Let's abstract away from this particular example")
+       => {00709872} <verb.cognition> consider1, take3, deal10, look at -- (take into consideration for exemplifying purposes; "Take the case of China"; "Consider the following case")
+           => {00710166} <verb.cognition> think about5 -- (have on one's mind, think about actively; "I'm thinking about my friends abroad"; "She always thinks about her children first")
+               => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

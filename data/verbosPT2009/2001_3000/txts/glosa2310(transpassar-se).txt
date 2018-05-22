@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA2310
+
+DADO O SYNSET:
+
+S='Glosa2310'
+	    {atravessar-se: Em com um gesto altivo, [atravessou-se contra a porta, de braços abertos, sombraceira, nobre, os punhos cerrados.,
+	      enfiar-se: Todas as janelas e portas estavam fechadas; de vez em quando ouvia-se o estrépito que fazia uma seta cravando-se na madeira, ou [enfiando-se por entre as telhas.,
+	      espetar-se: Anos depois, sobre o que restava, derramou-se um açude e, hoje, teimosa, a torre de uma de suas igrejas [se espeta sobre as águas.,
+	      pergurar-se: x,
+	      transfixar-se: O fio forma uma única alça dentro do tecido. Inicia-se na borda distal (melhor visualização), introduzindo a agulha de fora para dentro; puxa-se o fio com auxílio de uma pinça de dissecção e depois I]transfixa-se a borda proximal (de dentro para fora) na mesma direção.,
+	      transpassar-se: Não memos chocante é vermos uma pessoa I]transpassar-se de ganchos e pendurar-se em árvores como prova de seu sacrifício para Deus. ,
+	      traspassar-se: Este, grande caçador, sonha que os veados e as pacas correm de encontro às suas flechas para [se traspassarem nelas.,
+	      trespassar-se: Pensam que seja bonito I]trespassar-se o nariz com anéis (poderia ser uma descrição da cultura juvenil no Ocidente).,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2310' = “penetrar ou atravessar algo cortando com um instrumento afiado”
+	    {atravessar-se: Marco Antônio I]atravessou-se numa espada.,
+	      enfiar-se: A lança I]enfiou-se em sua testa.,
+	      espetar-se: Psiquê sem querer I]espetou-se numa das flechas de Eros.,
+	      transfixar-se: Com uma agulha curva I]transfixava-se uma das extremidades de cada segmento.,
+	      transpassar-se: Não menos chocante é vermos uma pessoa I]transpassar-se de ganchos e pendurar-se em árvores.,
+	      traspassar-se: Este grande caçador, sonha que os veados e as pacas correm de encontro às suas flechas para [se traspassarem nelas.,
+	      trespassar-se: Pensam que seja bonito I]trespassar-se o nariz com anéis.,}
+
+Chave: TRANSPASSAR-SE <verb.contact>
+ILI: 01400358
+
+Sense 4
+{01400358} <verb.contact> pierce1, thrust1 -- (penetrate or cut through with a sharp instrument)
+       => {01190419} <verb.contact> penetrate, perforate3 -- (pass into or through, often by overcoming resistance; "The bullet penetrated her chest")
+           => {01958650} <verb.motion> enter, come in2, get into, get in1, go into, go in, move into -- (to come or go into; "the boat entered an area of shallow marshes") 

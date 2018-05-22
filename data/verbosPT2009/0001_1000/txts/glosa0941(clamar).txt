@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA0941
+
+DADO O SYNSET:
+
+S='Glosa941'
+{bradar: De repente, ouvi [bradar uma voz de dentro da casa ao pé. # Eu, que já a achava lindíssima, [bradaria que era a mais bela criatura do mundo, se o receio me não fizesse discreto.,
+clamar: Pois, na verdade, como aquele personagem rodrigueano, quero [clamar publicamente: sou uma besta.,
+conclamar: E [conclamava a uma racionalização de esforços em torno de um objetivo mais amplo.,
+pregar3: Se não menciono outros treinadores é porque não vejo ninguém mais [pregando contra a brutalidade.,
+vociferar: Um dos seus algozes a perseguia e telefonava para [vociferar ameaças e palavrões na madrugada.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa941' = “fazer exigências em tons altos”
+{bradar: De repente, ouvi [bradar uma voz de dentro da casa ao pé. # Eu, que já a achava lindíssima, [bradaria que era a mais bela criatura do mundo, se o receio me não fizesse discreto.,
+clamar: Pois, na verdade, como aquele personagem rodrigueano, quero [clamar publicamente: sou uma besta.,
+conclamar: E [conclamava a uma racionalização de esforços em torno de um objetivo mais amplo.,
+pregar3: Se não menciono outros treinadores é porque não vejo ninguém mais [pregando contra a brutalidade.,
+vociferar: Um dos seus algozes a perseguia e telefonava para [vociferar ameaças e palavrões na madrugada.,}
+Chave: CLAMAR <verb.communication>
+ILI: 00749044
+
+Sense 2
+{00749044} <verb.communication> clamor3, clamour3 -- (make loud demands; "he clamored for justice and tolerance")
+       => {00730140} <verb.communication> demand -- (request urgently and forcefully; "The victim's family is demanding compensation"; "The boss demanded that he be fired immediately"; "She demanded to see the manager")
+           => {00727992} <verb.communication> request1, bespeak, call for4, quest1 -- (express the need or desire for; ask for; "She requested an extra bed in her room"; "She called for room service")
+               => {00717906} <verb.communication> communicate1, pass on, pass1, put across -- (transmit information ; "Please communicate this message to all employees")
+                   => {02167243} <verb.possession> convey10, transmit10, communicate10 -- (transfer to another; "communicate a disease")
+                       => {02167764} <verb.possession> transfer1 -- (move from one place to another; "transfer the data"; "transmit the news"; "transfer the patient to another hospital")
+                           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

@@ -1,0 +1,52 @@
+ANÁLISE DA GLOSA3504
+
+DADO O SYNSET:
+
+S='Glosa3504'
+	    {
+	      abonecar-se: a menina ]abonecou-se para sair com a mãe,
+	      adereçar-se1: ...tão bem ]se adereçou para agradar aos seus amantes,
+	      adornar-se: A ingrata Hoan-Lan, depois de ]adornar-se com todos os presentes, riu-se dele/No Oriente as mulheres adoram ]adornar-se com jóias,
+	      aformosear-se: Trabalhava desbastando as cabeleiras, barbeando, aprumando os bigodes, duns sujeitos ogros como os tais assíduos que desejavam ]se aformosear,
+	      ajaezar-se: Caem-lhe sobre o dorso luzidio e negro os raios do Sol, [ajaezando-a de lampejos,
+	      alfaiar-se: ...]alfaiou-se toda para aquele encontro,
+	      amoldurar-se: x,
+	      aparamentar-se: x,
+	      ataviar-se: As mulheres, em traje decente, devem ]se ataviar, se enfeitar com modéstia e bom senso/Na noite do seu martírio, ataviou-se como para um casamento,
+	      decorar-se: Em Elvas era hábito ]decorar-se o presépio com elementos naturais,
+	      embelezar-se: No dia da partida miss Jones e seu marido Atila foram ao cabeleireiro [se embelezar,
+	      embonecar-se: Eu percebi exatamente o que as meninas sentem quando [se embonecam para um encontro,
+	      emoldurar-se: Não raras vezes, para desabafar, a encontrávamos com a mesma disposição para ouvir e aconselhar, com um eterno sorriso a ]emoldurar-lhe a face,
+	      enfeitar-se: De dançar gostava, e [enfeitava-se com amor quando ia a um baile/...este rio de água cega, que jamais espelha o céu, hoje [enfeitou-se de estrelas,
+	      engalanar-se: ...obra homogênea e coerenteé das coisas mais raras numa literatura que se maquila e [se engalana para criar um sentido da nacionalidade/Eu vi minha cidade ]engalanar-se com bandeirinhas coloridas, fogos e banda de música,
+	      espenicar-se: Aquela ]se espenica toda para sair,
+	      moldurar-se: Grandes madeixas de cabelos alvos de neve ]molduravam-lhe o semblante jovial e tranqüilo,
+	      ornamentar-se: cada povo possui seu próprio traje ou forma de ]ornamentar-se,
+	      ornar-se: Diadema de pérolas feitiças, tão bem acabadas, que iam de par com as duas pérolas naturais, que ]lhe ornavam as orelhas, ,
+	      paramentar-se: Precisava tomar um banho, refrescar-se, ]paramentar-se a rigor, e sair para jantar,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3504' = “fazer-se mais atraente, colocando ornamentos, cores, etc”
+	     {abonecar-se: a menina H]abonecou-se para sair com a mãe,
+	      adereçar-se1: M]Adereçara-se para a festa,
+	      adornar-se: Para vestir, escolheu um vestido de chitão com listinhas azuis, trançou a carapinha e I]adornou-se com o colar de turquesas,
+	      aformosear-se: H]Aformoseava-se todos os dias,
+	      ajaezar-se: Caem-lhe sobre o dorso luzidio e negro os raios do Sol, [ajaezando-a de lampejos,
+	      ataviar-se: A Corte Imperial, para corresponder aos atroantes deslumbramentos de Marialva, I]ataviou-se com luxos desmedidos,
+	      decorar-se: Vaidosa, Maria não se vestia: I]decorava-se,
+	      embelezar-se: Estava acontecendo um arrasta-pé ajeitado no bairro e o casal se I]embelezou para a festa,
+	      embonecar-se: O Inocêncio pegou um vestido da Dona Sinhá, meteu um turbante, se I]embonecou e ficou na moita,
+	      emoldurar-se: Não raras vezes, para desabafar, a encontrávamos com a mesma disposição para ouvir e aconselhar, com um eterno sorriso a ]emoldurar-lhe a face,
+	      enfeitar-se: De dançar gostava, e [enfeitava-se com amor quando ia a um baile/...este rio de água cega, que jamais espelha o céu, hoje [enfeitou-se de estrelas,
+	      engalanar-se: Logo cedo, Zeferino I]engalanou-se para recepcionar ninguém menos que o presidente da República, general Humberto de Alencar Castello Branco,
+	      ornamentar-se: Já na infância gosta de se enfeitar e se compraz em se I]ornamentar,
+	      ornar-se: Ela se I]ornava de jóias feitas de ossos e nas mãos segurava uma cuia de crânio humano e um tambor de madeira, ,
+	      paramentar-se: Pintou-se de preto e vermelho, I]paramentou-se com o diadema de penas amarelas de japu e dos adornos e armas concedidos por Maíra à sua tribo,}
+Chave: ENFEITAR-SE <verb.creation>
+ILI: 01627899
+
+Sense 1
+{01627899} <verb.creation> decorate, adorn, grace, ornament, embellish, beautify -- (make more attractive by adding ornament, colour, etc.; "Decorate the room for the party"; "beautify yourself for the special day")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

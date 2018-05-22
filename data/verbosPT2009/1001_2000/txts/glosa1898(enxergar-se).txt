@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA1898
+
+DADO O SYNSET:
+
+S='Glosa1898'
+{enxergar-se: O que percebemos é, exatamente, esse medo de I]enxergar-se e se relacionar com a realidade, como esta se apresenta e então, vivemos no mundo da fantasia.,
+ perceber-se: Propiciar à clientela atendida um processo reflexivo sobre sua realidade, buscando seu desenvolvimento pessoal, fazendo-o I]perceber-se enquanto cidadão pertencente a uma sociedade com seu valor, seus direitos e deveres.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1898' = “descobrir ou determinar estado de si mesmo”
+{enxergar-se: Será que você não se [enxerga?}
+Chave: ENXERGAR-SE <verb.perception>
+ILI: EQ_HAS_HYPERONYM – 02092480
+
+Sense 1
+{02092480} <verb.perception> detect, observe2, find2, discover3, notice4 -- (discover or determine the existence, presence, or fact of; "She detected high levels of lead in her drinking water"; "We found traces of lead in the paint")
+       => {02101907} <verb.perception> sight -- (catch sight of; to perceive with the eyes; "he caught sight of the king's men coming over the ridge")
+           => {02045668} <verb.perception> perceive, comprehend -- (to become aware of through the senses; "I could perceive the ship coming over the horizon")

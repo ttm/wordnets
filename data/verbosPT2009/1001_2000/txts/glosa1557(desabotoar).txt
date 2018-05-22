@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA1557
+
+DADO O SYNSET:
+
+S='Glosa1557'
+{abrir: Ele novamente começou a I]abrir sua camisa e ela segurou suas mãos.,
+ desabotoar: Um dos homens teria começado a [desabotoar a camisa e a tirar a calça .,
+ desapertar: Ele deixou-a retirar-lhe as calças, sendo Jean a I]desapertar a sua camisa de botões de madrepérola.,
+ desbotoar: De costas para ele comecei a I]desbotoar e tirar a bermuda.,}
+	  
+A='Glosa1155'
+{abotoar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1557' = “fazer sair o botão da casa [de]”
+{abrir: Ele novamente começou a I]abrir sua camisa e ela segurou suas mãos.,
+ desabotoar: Um dos homens teria começado a [desabotoar a camisa e a tirar a calça .,
+ desapertar: Ele deixou-a retirar-lhe as calças, sendo Jean a I]desapertar a sua camisa de botões de madrepérola.,
+ desbotoar: De costas para ele comecei a I]desbotoar e tirar a bermuda.,}
+	  
+A='Glosa1155'
+{abotoar}
+Chave: DESABOTOAR <verb.contact>
+ILI: 01327991
+
+Sense 1
+{01327991} <verb.contact> unbutton -- (undo the buttons of; "unbutton the shirt")
+       => {01477750} <verb.contact> undo -- (cancel, annul, or reverse an action or its effect; "I wish I could undo my actions")
+           => {00133458} <verb.change> change by reversal, turn, reverse -- (change to the contrary; "The trend was reversed"; "the tides turned against him"; "public opinion turned when it was revealed that the president had an affair with a White House intern")
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

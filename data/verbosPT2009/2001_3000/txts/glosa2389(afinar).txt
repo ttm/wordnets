@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA2389
+
+DADO O SYNSET:
+
+S='Glosa2389'
+	    {afinar: A certa altura, [afina o violão sem perder o ritmo.,
+	      temperar: Eu sentia que eu pegava para tocar as oitavas apertadas e, para I]temperar a viola, eu deixava a quarta corda um pouco baixa, justamente para que quando eu chegasse na oitava, a sonoridade ficasse melhor.,
+	      toar: E atravessaram serranias íngremes, tabuleiros estéreis e chapadas rasas na marcha cadenciada pelo I]toar das ladainhas e pelo passo tardo do profeta.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2389' = “Ajustar o som de um instrumento musical.”
+	    {afinar: A certa altura, [afina o violão sem perder o ritmo.,
+	      temperar: Eu sentia que eu pegava para tocar as oitavas apertadas e, para I]temperar a viola, eu deixava a quarta corda um pouco baixa, justamente para que quando eu chegasse na oitava, a sonoridade ficasse melhor.,}
+
+Chave: AFINAR <verb.change>
+ILI: 00286275
+
+Sense 2
+{00286275} <verb.change> tune, tune up -- (of musical instruments; "My piano needs to be tuned")
+       => {00287086} <verb.change> adjust, set, correct9 -- (alter or regulate so as to achieve accuracy or conform to a standard; "Adjust the clock, please"; "correct the alignment of the front wheels")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

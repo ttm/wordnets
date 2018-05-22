@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0929
+
+DADO O SYNSET:
+
+S='Glosa929'
+{compartimentar: O romance permite a intrusão do narrador em teceira pessoa, mas [compartimenta a visão e o modo de ser dos actantes em verdadeiros escaninhos. ,
+compartir: Economia na qual o mercado e o governo [compartem as ações, no que se refere a quem, como e a o quê se deve produzir. ,
+segmentar: As apresentações no Sesc Pompéia vêm de encontro a um dos ideais da banda, que é trabalhar um som segmentado, mas em uma linguagem pop, sem [segmentar o público.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa929' = “dividir ou separar”
+{compartimentar: O romance permite a intrusão do narrador em teceira pessoa, mas [compartimenta a visão e o modo de ser dos actantes em verdadeiros escaninhos. ,
+compartir: Economia na qual o mercado e o governo [compartem as ações, no que se refere a quem, como e a o quê se deve produzir. ,
+segmentar: As apresentações no Sesc Pompéia vêm de encontro a um dos ideais da banda, que é trabalhar um som segmentado, mas em uma linguagem pop, sem [segmentar o público.,}
+Chave: SEGMENTAR <verb.contact>
+ILI: 01515346
+
+Sense 2
+{01515346} <verb.contact> segment1 -- (divide or split up; "The cells segmented")
+       => {01514734} <verb.contact> separate, divide, part -- (come apart; "The two pieces that we had glued separated")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

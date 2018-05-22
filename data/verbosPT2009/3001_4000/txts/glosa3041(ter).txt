@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA3041
+
+DADO O SYNSET:
+
+S='Glosa3041'
+	    {
+	      gozar: Que direito se atribuem certas classes sociais de [gozar de plena saúde, enquanto outras vivem miseravelmente e têm suas vidas encurtadas pelas doenças? ,
+	      ter: Esses abnegados [terão o direito, de imediato, de trabalhar apenas quatro horas por dia.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3041' = “possuir em sentido concreto ou abstrato”
+	     {gozar: Apesar de ter a mesma idade que o próprio rádio, o amadorismo não [gozava do prestígio que realmente merecia pela sua contribuição ao desenvolvimento tecnológico.,
+	      ter: Esses abnegados [terão o direito, de imediato, de trabalhar apenas quatro horas por dia.,}
+Chave: TER <verb.possession>
+ILI: 02139918
+
+Sense 1
+{02139918} <verb.possession> have, have got, hold -- (have or possess, either in a concrete or an abstract sense; "She has $1,000 in the bank"; "He has got two beautiful daughters"; "She holds a Master's degree from Harvard")

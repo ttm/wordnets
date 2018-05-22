@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0339
+
+DADO O SYNSET:
+
+S='Glosa339'
+{cravar-se: Esse hábito da infância I]cravou-se-lhe na memória, determinando-lhe uma orientação poética contaminada pelo mundo e pela presença das coisas.,
+fixar-se: A novela Gabriela I]fixou-se para sempre no imaginário popular.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa339' = “ficar firmemente ligado; prender (-se) à memória”
+{cravar-se: Esse hábito da infância I]cravou-se-lhe na memória, determinando-lhe uma orientação poética contaminada pelo mundo e pela presença das coisas.,
+fixar-se: A novela Gabriela I]fixou-se para sempre no imaginário popular.,}
+Chave: FIXAR-SE <verb.contact>
+ILI: 01300906
+
+Sense 2
+{01300906} <verb.contact> fasten1, fix, secure1 -- (cause to be firmly attached; "fasten the lock onto the door"; "she fixed her gaze on the man")
+       => {01257892} <verb.contact> attach1 -- (cause to be attached)
+           => {01314764} <verb.contact> connect, link, tie1, link up -- (connect, fasten, or put together two or more pieces; "Can you connect the two loudspeakers?"; "Tie the ropes together"; "Link arms")

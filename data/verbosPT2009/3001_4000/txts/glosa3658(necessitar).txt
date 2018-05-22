@@ -1,0 +1,46 @@
+ANÁLISE DA GLOSA3658
+
+DADO O SYNSET:
+
+S='Glosa3658'
+	    {
+	      carecer: O Rio de Janeiro [carece de pelo menos um agente de trânsito em cada cruzamento de tráfego intenso.,
+	      demandar: Isto [demanda explicação. ,
+	      necessitar: Freqüentemente [necessitamos ligar várias lâmpadas a uma mesma fonte geradora. # Os animais adquirem as vitaminas de que [necessitam através dos alimentos que ingerem.  ,
+	      padecer: Apesar de todos os esforços, a assistência previdenciária continuava [padecendo de oferta de serviços insuficiente diante da demanda. ,
+	      pedir: Verbo transitivo é aquele que [pede a presença de um objeto para que seu sentido se torne completo. # a partitura de sua obra mais famosa [pede o uso de instrumentos de percussão para a marcação dos rimos mais importantes e relevantes no decorrer da composição . # Não [pede cuidados.   ,
+	      precisar: Você que ganhou alguns quilinhos a mais nas férias, vai [precisar de vários cuidados na hora de tentar queimar esse excesso.# O produto lava carro sem [precisar de água.  ,
+	      querer: A gente não I]quer só comida, a gente quer comida, diversão e arte. ,
+	      reclamar: Servir ao povo I]reclama dedicação incansável. #  A [reclamar alterações inadiáveis estão o modelo atual da Previdência, flagrantemente insustentável, e o sistema tributário, emaranhado cipoal que se destaca pela complexidade, ineficência e injustiça. ,
+	      requerer: A Física é talvez a ciência mais organizada e que [requer um profundo conhecimento matemático para sua compreensão total.,
+	    }
+	  A='Glosa1957'
+	    {
+	     dispensar: A economia verbal que caracteriza o estilo do Graciliano Ramos, essa prosa que já foi caracterizada como esquemática, uma prosa bastante seca que I]dispensa os adjetivos supérfluos, e tenta se apoiar nos substantivos, é marca sim desse universo bastante seco do qual ele fala. ,
+	     escusar: Começou por composições dramáticas, mas como se lhe não abrissem as portas do teatro, fez romances. I]Escusa dizer que nem versos nem romances lhe deram fortuna. ,
+	     prescindir: Ambos [prescindem da voz narradora e explicadora em off.Ambos vão montando uma narrativa a partir do ponto de vista de pessoas e imagens diversas.,
+	    }
+
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3658' = “ter necessidade de”
+	     {carecer: O Rio de Janeiro [carece de pelo menos um agente de trânsito em cada cruzamento de tráfego intenso.,
+	      demandar: Isto [demanda explicação. ,
+	      necessitar: Freqüentemente [necessitamos ligar várias lâmpadas a uma mesma fonte geradora. # Todo ser vivo [necessita de alimentos para realizar suas funções de vida.,
+	      padecer: Apesar de todos os esforços, a assistência previdenciária continuava [padecendo de oferta de serviços insuficiente diante da demanda. ,
+	      pedir: Verbo transitivo é aquele que [pede a presença de um objeto para que seu sentido se torne completo. # a partitura de sua obra mais famosa [pede o uso de instrumentos de percussão para a marcação dos rimos mais importantes e relevantes no decorrer da composição . # A cicatriz no rosto de Moon [pede uma explicação.,
+	      precisar: Para produzi-lo, a tireóide [precisa de iodo, que chega ao organismo através da água e dos alimentos.# O organismo [precisa da energia que aquelas moléculas possuem.  ,
+	      querer: Algumas plantas M]querem sombra.,
+	      reclamar: Servir ao povo I]reclama dedicação incansável. # Ele [reclama uma grade de leitura.,
+	      requerer: A Física é talvez a ciência mais organizada e que [requer um profundo conhecimento matemático para sua compreensão total.,}
+	  A='Glosa1957'
+	     {dispensar: A economia verbal que caracteriza o estilo do Graciliano Ramos, essa prosa que já foi caracterizada como esquemática, uma prosa bastante seca que I]dispensa os adjetivos supérfluos, e tenta se apoiar nos substantivos, é marca sim desse universo bastante seco do qual ele fala. ,
+	     escusar: Começou por composições dramáticas, mas como se lhe não abrissem as portas do teatro, fez romances. I]Escusa dizer que nem versos nem romances lhe deram fortuna. ,
+	     prescindir: Ambos [prescindem da voz narradora e explicadora em off.Ambos vão montando uma narrativa a partir do ponto de vista de pessoas e imagens diversas.,}
+Chave: NECESSITAR <verb.consumption>
+ILI: 01152480
+
+Sense 2
+{01152480} <verb.consumption> want, need, require -- (have need of; "This piano wants the attention of a competent tuner")
+       => {02526983} <verb.stative> be3 -- (have the quality of being; (copula, used with an adjective or a predicate noun); "John is rich"; "This is not a good answer")

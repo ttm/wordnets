@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA2675
+
+DADO O SYNSET:
+
+S='Glosa2675'
+	    {amuar: H]Amuar dinheiro, rendas.,
+	      arrepanhar: Vivia de H]arrepanhar pequenos valores.,
+	      capitalizar: Como estratégia de sobrevivência, apelou para a venda de ativos no ano passado e conseguiu [capitalizar seu caixa em R$ 9 milhões.,
+	      economizar: Feitos os cálculos, a prefeitura precisa [economizar pelo menos R$ 400 milhões.,
+	      poupar: Um dos principais objetivos da nova aplicação financeira será incentivar o brasileiro a [poupar mais, principalmente em investimentos de longo prazo.,
+	      repanhar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2675' = “Gastar moderadamente; evitar o desperdício de,”
+	    {capitalizar: Como estratégia de sobrevivência, apelou para a venda de ativos no ano passado e conseguiu [capitalizar seu caixa em R$ 9 milhões.,
+	      economizar: Dicas para quem quer I]economizar e manter o dinheiro no bolso.,
+	      poupar: Um dos principais objetivos da nova aplicação financeira será incentivar o brasileiro a [poupar mais, principalmente em investimentos de longo prazo.,}
+
+Chave: ECONOMIZAR <verb.possession>
+ILI: 02289586
+
+Sense 9
+{02289586} <verb.possession> save4, economize2, economise2 -- (spend sparingly, avoid the waste of; "This move will save money"; "The less fortunate will have to economize now")
+       => {02201591} <verb.possession> spend, expend, drop -- (pay out; "spend money")
+           => {02186811} <verb.possession> pay -- (give money, usually in exchange for goods or services; "I paid four dollars for this sandwich"; "Pay the waitress, please")
+               => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+                   => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children") 

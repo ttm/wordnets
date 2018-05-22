@@ -1,0 +1,42 @@
+ANÁLISE DA GLOSA2417
+
+DADO O SYNSET:
+
+S='Glosa2417'
+	    {abalançar: Não foi possível A]abalançar com precisão os danos.,
+	      ajuizar: Falta-nos familiaridade com essas diversificadas áreas de conhecimento para [ajuizar o valor das efetivas contribuições feitas e também não seria o caso já que nosso interesse é de outra ordem.,
+	      avaliar: Cada um deve custar entre R$ 3 mil e R$ 3,5 mil, [avalia o subsecretário de Obras.,
+	      calcular: Assim, os termos aditivos não poderiam ser superiores a R$ 25 milhões, [calcula. # Ele [calcula que, diariamente, 80 ônibus passarão pelo local.,
+	      computar: Ela [computa cerca de 120 erros diários de acabamento no jornal.,
+	      contrastear: Passou daí o projeto ao exame do Conselho Federal, e, levado ao Reichstag em janeiro de 1896, fê-lo este, após um debate geral, I]contrastear por outra comissão de vinte e um reitificadores, cujo relatório subiu ao parlamento cinco meses mais tarde.,
+	      esmar: A China, como os outros povos do mundo, tem de I]esmar neste século os valores obtidos na sua caminhada longa e penosa.,
+	      estimar: Takla [estima em R$ 500 mil o orçamento de Master Class. # Ana Cristina briga pela partilha dos bens do contraventor que ela [estima em cerca de R$ 1 milhão só em imóveis residenciais e comerciais.,
+	      orçar: Tem que saber I]orçar seu dinheiro e viver dentro dos limites estabelecido pelo orçamento. ,
+	      reputar: M]Reputou o quadro em vinte mil dólares.,
+	      suputar: Tudo foi calculado em dias e horas, escolhidos e bem dispostos, e o mais precisamente que me foi possível, e tudo com a sabedoria livre e sem detrimento, I]suputando bem.,
+	      ver: Durante o período colonial, essas colônias oficialmente usavam o sistema monetário britânico  para I]ver o valor do dinheiro no Reino Unido.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2417' = “Julgar, avaliar experimentalmente ou formar uma estimativa de (quantidades ou tempo).”
+	    {abalançar: Não foi possível A]abalançar com precisão os danos.,
+	      ajuizar: Falta-nos familiaridade com essas diversificadas áreas de conhecimento para [ajuizar o valor das efetivas contribuições feitas.,
+	      avaliar: Cada um deve custar entre R$ 3 mil e R$ 3,5 mil, [avalia o subsecretário de Obras.,
+	      calcular: Ele [calcula que, diariamente, 80 ônibus passarão pelo local.,
+	      computar: Ela [computa cerca de 120 erros diários de acabamento no jornal.,
+	      esmar: A China, como os outros povos do mundo, tem de I]esmar neste século os valores obtidos na sua caminhada longa e penosa.,
+	      estimar: Ana Cristina briga pela partilha dos bens do contraventor que ela [estima em cerca de R$ 1 milhão.,
+	      orçar: O comando tucano I]orçou em R$ 12 milhões apenas a mobilização de pessoal.,
+	      reputar: M]Reputou o quadro em vinte mil dólares.,
+	      suputar: A]Suputar as despesas.,
+	      ver: Durante o período colonial, essas colônias oficialmente usavam o sistema monetário britânico  para I]ver o valor do dinheiro no Reino Unido.,}
+
+Chave: ESTIMAR <verb.cognition>
+ILI: 00650033
+
+Sense 1
+{00650033} <verb.cognition> estimate, gauge, approximate, guess1, judge1 -- (judge tentatively or form an estimate of (quantities or time); "I estimate this chicken to weigh three pounds")
+       => {00617041} <verb.cognition> calculate, cipher, cypher, compute, work out6, reckon1, figure -- (make a mathematical calculation or computation)
+           => {00612517} <verb.cognition> reason -- (think logically; "The children must learn to reason")
+               => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")
+          Also See-> {00649617} <verb.cognition> overestimate#1; {00651349} <verb.cognition> underestimate#2 

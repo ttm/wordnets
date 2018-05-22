@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA2129
+
+DADO O SYNSET:
+	
+S='Glosa2129'
+    	{desforrar: Um ganho para I]desforrar o amargo prejuízo de 4,3 bilhões de coroas apurado nesse período de 2003.,
+      	 recuperar: Ao contrário, Delfim não vê como [recuperar o prejuízo principalmente porque nessa altura já houve o comprometimento do desenvolvimento futuro.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2129' = “ganhar o que se perdera em jogo”
+    	{desforrar: O Botafogo vai I]desforrar o roubo que sofreu na taça Guanabara com juros e correção monetária.,
+      	 recuperar: Temos que [recuperar os pontos perdidos para o Internacional.}
+Chave: DESFORRAR <verb.competition>
+ILI: EQ_HAS_HYPERONYM – 01118202
+
+Sense 2
+{01118202} <verb.competition> get even1, get back -- (take revenge or even out a score; "I cannot accept the defeat--I want to get even")
+       => {01117944} <verb.competition> revenge, avenge, retaliate1 -- (take revenge for a perceived wrong; "He wants to avenge the murder of his brother")
+           => {02424949} <verb.social> punish, penalize, penalise -- (impose a penalty on; inflict punishment on; "The students were penalized for showing up late for class"; "we had to punish the dog for soiling the floor again")

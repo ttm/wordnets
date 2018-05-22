@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2141
+
+DADO O SYNSET:
+
+S='Glosa2141'
+	    {alhanar: Escondamo-nos sob o manto da omissão que, somada à indefectível força do tempo, têm o apanágio de I]alhanar tais filigranas acadêmicas.,
+	      resolver: A construção de centrais abastecimento tem sido uma tentativa de melhorar [resolver este importante problema, principalmente em áreas metropolitanas.,
+	      solucionar: Mas ninguém pretende [solucionar, numa única noite, todos os problemas da sociedade.,
+	      solver: E a partir da constatação de que a legislação ordinária não se adequa ao espírito da Nova Constituição, inúmeras dúvidas têm povoado o pensamento daqueles que se debruçam sobre o tema, para I]solver problemas jurídicos no dia-a-dia. ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2141' = “ encontrar a solução ou entender o significado de algo”
+	    {alhanar: Escondamo-nos sob o manto da omissão que, somada à indefectível força do tempo, têm o apanágio de I]alhanar tais filigranas acadêmicas.,
+	      resolver: A construção de centrais abastecimento tem sido uma tentativa de melhorar [resolver este importante problema, principalmente em áreas metropolitanas.,
+	      solucionar: Mas ninguém pretende [solucionar, numa única noite, todos os problemas da sociedade.,
+	      solver: Inúmeras dúvidas têm povoado o pensamento daqueles que se debruçam sobre o tema, para I]solver problemas jurídicos no dia-a-dia. ,}
+
+Chave: RESOLVER <verb.cognition>
+ILI: 00614742
+
+Sense 1
+{00614742} <verb.cognition> solve, work out4, figure out, puzzle out, lick, work13 -- (find the solution to (a problem or question) or understand the meaning of; "did you solve the problem?"; "Work out your problems with the boss"; "this unpleasant situation isn't going to work itself out"; "did you get it?"; "Did you get my meaning?"; "He could not work the math problem")
+       => {00570184} <verb.cognition> understand -- (know and comprehend the nature or meaning of; "She did not understand her husband"; "I understand what she means")

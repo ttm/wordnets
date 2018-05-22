@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA2531
+
+DADO O SYNSET:
+
+S='Glosa2531'
+	    {apear: Antes isso que fazê-lo [apear misteriosamente em qualquer rua.,
+	      descer: Quando me entrevistaram, tinha acabado de [descer do avião e estava cansado.,
+	      desembarcar: A equipe de Jackson deve [desembarcar em Salvador por volta das 11h.,
+	      saltar: Meu pai teve que [saltar do táxi no meio da rua, a calçada estava cheia de obras, disse a filha de Abraham, Elizabeth Berestazky Gonçalves.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2531' = “Ir para terra firme.”
+	    {apear: Chegando em Sorocaba, Adauto I]apeou do trem.,
+	      descer: Ele I] algemado e foi escoltado pelos policiais federais.,
+	      desembarcar: Outro indivíduo I]desembarcou do veículo embrenhando-se em uma plantação de milho.,
+	      saltar: Alguém I]saltou do táxi e entrou no ônibus.,}
+
+Chave: DESEMBARCAR <verb.motion>
+ILI: 01921307
+
+Sense 1
+{01921307} <verb.motion> disembark, debark, set down -- (go ashore; "The passengers disembarked at Southampton")
+       => {01921967} <verb.motion> land, set down1 -- (reach or come to rest; "The bird landed on the highest branch"; "The plane landed in Istanbul")
+           => {01947900} <verb.motion> arrive, get, come4 -- (reach a destination; arrive by movement or progress; "She arrived home at 7 o'clock"; "She didn't get to Chicago until after midnight") 

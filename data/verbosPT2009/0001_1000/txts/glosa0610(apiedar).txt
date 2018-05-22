@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0610
+
+DADO O SYNSET:
+
+S='Glosa610'
+{apiadar: x,
+apiedar: Posso alcançar perdão, se com meus prantos, posso I]apiedar-lhe o coração ferido por tanta mágoa e longos desencantos.,
+condoer: Para ela, interessa que se mostre mais fragilizada do que ela está na verdade, para I]condoer o juiz eo acusador.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa610' = “dividir o sofrimento de; despertar compaixão em”
+{apiedar: Posso alcançar perdão, se com meus prantos, posso I]apiedar-lhe o coração ferido por tanta mágoa e longos desencantos.,
+condoer: Para ela, interessa que se mostre mais fragilizada do que ela está na verdade, para I]condoer o juiz e o acusador.,}
+Chave: APIEDAR <verb.emotion>
+ILI: 01769125
+
+Sense 1
+{01769125} <verb.emotion> feel for, pity, compassionate, condole with, sympathize with -- (share the suffering of)
+       => {01745079} <verb.emotion> grieve, sorrow -- (feel grief; eat one's heart out)
+           => {01742440} <verb.emotion> suffer -- (endure (emotional pain); "Every time her husband gets drunk, she suffers")
+               => {01720480} <verb.emotion> feel, experience -- (undergo an emotional sensation; "She felt resentful"; "He felt regret")

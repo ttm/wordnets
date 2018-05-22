@@ -1,0 +1,40 @@
+ANÁLISE DA GLOSA4031
+
+DADO O SYNSET:
+
+S='Glosa4031'
+{abrir: Um desmoronamento I]abriu um buraco de 70 metros de comprimento por oito de largura no talude.,
+aprofundar: A]Aprofundou o buraco em mais de dez metros.,
+assolapar: x,
+cabouçar: DEVIANT,
+cavar: Um deles I]cavou um buraco fundo no chão com um motá que conduzia para baixo.,
+cavoucar: Puseram a I]cavoucar, pra fazer a fundo uma cova.,
+cavucar: Chegou de noite, pulou o muro, I]cavucou a terra e levou a muda.,
+desaterrar: O historiador Paulino de Oliveira conta que foi necessário I]desaterrar o terreno entre a Prefeitura eo Fórum.,
+desbarrancar: Existem dois pontos na serra da Mata Fria onde a faixa da direita I]desbarrancou.,
+descavar: x ,
+desencavar: ficávamos por ali I]desencavando minhocas.,
+desencovar: x,
+encavar: Entre as duas serras o rio Paraíba do Sul I]encavou o seu leito num vale apertado e acidentado.,
+escavar: Determinou aos rios e lagos seus lugares, levantou montanhas, I]escavou vales, distribuiu os bosques, as fontes, os campos férteis e as áridas planícies.,
+minar: A política de seu governo, destinada a I]minar o solo dos setores palestinos moderados, aos quais priva de toda margem de ação, tem tido êxito.,
+profundar: x,
+solapar: A água da enchente H]solapou os alicerces de várias casas.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4031' = “criar por escavação”
+{abrir: Um desmoronamento I]abriu um buraco de 70 metros de comprimento por oito de largura no talude.,
+cavar: Um deles I]cavou um buraco fundo no chão com um motá que conduzia para baixo.,
+cavoucar: I]Cavoucou um buraquinho no chão do quintal e passou a fazer suas necessidades a céu aberto .,
+cavucar: Temos que começar a I]cavucar o buraco no qual enterraremos a semente.,
+encavar: Entre as duas serras o rio Paraíba do Sul I]encavou o seu leito num vale apertado e acidentado.,
+escavar: Determinou aos rios e lagos seus lugares, levantou montanhas, I]escavou vales, distribuiu os bosques, as fontes, os campos férteis e as áridas planícies.,}
+Chave: CAVAR <verb.contact>
+ILI: 01272052
+
+Sense 2
+{01272052} <verb.contact> dig1, dig out -- (create by digging; "dig a hole"; "dig out a channel")
+       => {01244315} <verb.contact> hollow, hollow out, core out -- (remove the interior of; "hollow out a tree trunk")
+           => {00436730} <verb.change> empty1 -- (make void or empty of contents; "Empty the box"; "The alarm emptied the building")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

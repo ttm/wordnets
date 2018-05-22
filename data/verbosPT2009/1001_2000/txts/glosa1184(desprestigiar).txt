@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA1184
+
+DADO O SYNSET:
+
+S='Glosa1184'
+{desautorizar: H]Desautorizou-o à frente de todos.,
+ desprestigiar: Horta anunciou que traria o goleiro belga Preud'homme e I]desprestigiou o ex-ídolo do Corinthians.,
+ exautorar: x,}
+	  
+A='Glosa1058'
+	    {prestigiar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1184' = “prejudicar a reputação [de]”
+{desautorizar: O Supremo Tribunal dos EUA I]desautorizou Bush e considerou os presos de Guantánamo SERES HUMANOS.,
+ desprestigiar: No plano institucional, o exercício autoritário do poder I]desprestigiou e enfraqueceu os órgãos de representação política.,}
+A='Glosa1058'
+	    {prestigiar}
+Chave: DESPRESTIGIAR <verb.communication>
+ILI: 00819909
+
+Sense 2
+{00819909} <verb.communication> discredit, disgrace -- (damage the reputation of; "This newspaper story discredits the politicians")
+       => {00818376} <verb.communication> disparage, belittle, pick at -- (express a negative opinion of; "She disparaged her student's efforts")
+           => {00799400} <verb.communication> knock2, criticize, criticise, pick apart -- (find fault with; express criticism of; point out real or perceived flaws; "The paper criticized the new movie"; "Don't knock the food--it's free")
+               => {01024792} <verb.communication> comment, notice, remark1, point out1 -- (make or write a comment on; "he commented the paper of his colleague")
+                   => {00987058} <verb.communication> note, observe, mention, remark -- (make mention of; "She observed that his presentation took up too much time"; "They noted that it was a fine day to go sailing")
+                       => {00976600} <verb.communication> state, say, tell4 -- (express in words; "He said that he wanted to marry her"; "tell me what is bothering you"; "state your opinion"; "state your name")
+                           => {00909455} <verb.communication> express, verbalize3, verbalise3, utter1, give tongue to -- (articulate; either verbally or with a cry, shout, or noise; "She expressed her anger"; "He uttered a curse")

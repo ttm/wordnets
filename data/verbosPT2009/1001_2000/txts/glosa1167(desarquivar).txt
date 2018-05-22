@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA1167
+
+DADO O SYNSET:
+
+S='Glosa1167'
+{desarquivar: MCT vai I]desarquivar pedido de financiamento de obras para fábrica de vacina BCG.,}
+	  
+A='Glosa2894'
+{arquivar, catalogar, catalogizar, fichar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1167' = “retomar ou começar de novo”
+{desarquivar: MCT vai I]desarquivar pedido de financiamento de obras para fábrica de vacina BCG.,}
+A='Glosa2894'
+{arquivar, catalogar, catalogizar, fichar}
+Chave: DESARQUIVAR <verb.change>
+ILI: EQ_HAS_HYPERONYM – 00338947 
+
+Sense 1
+{00338947} <verb.change> resume, restart -- (take up or begin anew; "We resumed the negotiations")
+       => {02599119} <verb.stative> continue, uphold, carry on, bear on1, preserve -- (keep or maintain in unaltered condition; cause to remain or last; "preserve the peace in the family"; "continue the family tradition"; "Carry on the old traditions")
+           => {02600965} <verb.stative> keep, maintain, hold -- (keep in a certain state, position, or activity; e.g., "keep clean"; "hold in place"; "She always held herself as a lady"; "The students keep me on my toes")

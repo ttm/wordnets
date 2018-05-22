@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA4053
+
+DADO O SYNSET:
+
+S='Glosa4053'
+{castear: x,
+multiplicar-se: Os coelhos I]multiplicam-se em grandes quantidades e com muita rapidez.,
+pimpolhar: Certos animais I]pimpolham com facilidade.,
+procriar: É sobejamente sabido que as vacas I]procriam um vez por ano.,
+proliferar: As gerações mais jovens H]proliferam menos.,
+prolificar: x,
+propagar-se: Os pardais H]propagaram-se no Brasil.,
+reproduzir-se: Os peixes ovovivíparos I]reproduzem-se por meio de ovos que são desenvolvidos dentro de uma bolsa no ventre da fêmea.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4053' = “ter descendentes ou crias”
+{multiplicar-se: Os coelhos I]multiplicam-se em grandes quantidades e com muita rapidez.,
+pimpolhar: Certos animais I]pimpolham com facilidade.,
+procriar: É sobejamente sabido que as vacas I]procriam um vez por ano.,
+proliferar: As gerações mais jovens H]proliferam menos.,
+propagar-se: Os pardais H]propagaram-se no Brasil.,
+reproduzir-se: Os peixes ovovivíparos I]reproduzem-se por meio de ovos que são desenvolvidos dentro de uma bolsa no ventre da fêmea.,}
+Chave: PROCRIAR <verb.body>
+ILI: 00053313
+
+Sense 1
+{00053313} <verb.body> reproduce, procreate, multiply1 -- (have offspring or young; "The deer in our neighborhood reproduce madly"; "The Catholic Church tells people to procreate, no matter what their economic situation may be")
+       => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA2354
+
+DADO O SYNSET:
+
+S='Glosa2354'
+	    {abater: No ano seguinte ele I]abateu outros 40 aviões russos.,
+	      derribar: I]Derribou o inimigo com um murro violento.,
+	      derrubar: O mercado brasileiro trabalha com a informação de que a praga, originária da Ásia, é uma larva que [derruba as folhas dos laranjais . ,
+	      estender: Ergueu-se, e com um soberbo desdém I]estendeu os selvagens.,
+	      prosternar: O gladiador H]prosternou o adversário.,
+	      prostrar: x,
+	      tombar1: Cada guerreiro [tomba crivado de muitas flechas, como a presa que as piranhas disputam nas águas do lago.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2354' = “Subjugar, vencer, com violência.”
+	    {abater: No ano seguinte ele I]abateu outros 40 aviões russos.,
+	      derribar: I]Derribou o inimigo com um murro violento.,
+	      derrubar: É uma organização quase militar, ninguém [derruba.,
+	      estender: Ergueu-se, e com um soberbo desdém I]estendeu os selvagens.,
+	      prosternar: O gladiador H]prosternou o adversário.,
+	      tombar: Jeová homem de guerra I]tombou o gigante perante Davi.,}
+
+Chave: ABATER <verb.contact>
+ILI: 01371783
+
+Sense 2
+{01371783} <verb.contact> deck, coldcock, dump, knock down, floor -- (knock down with force; "He decked his opponent")
+       => {01358385} <verb.contact> beat -- (hit repeatedly; "beat on the door"; "beat the table with his shoe")
+           => {01369678} <verb.contact> strike -- (deliver a sharp blow, as with the hand, fist, or weapon; "The teacher struck the child"; "the opponent refused to strike"; "The boxer struck the attacker dead")
+               => {01169634} <verb.contact> touch -- (make physical contact with, come in contact with; "Touch the stone for good luck"; "She never touched her husband") 

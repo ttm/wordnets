@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0604
+
+DADO O SYNSET:
+
+S='Glosa604'
+{piorar: A idéia do manifesto saiu da cabeça de Cristóvam, que, para [piorar o humor dos petistas, voltará a Brasília a bordo do Boeing presidencial ao lado de FH.,}
+A='Glosa4009'
+{acrisolar, acurar, afiar, afinar, alambicar, amadurecer, aparar2, aperfeiçoar,    aprimorar, apurar, bolear, burilar, cinzelar, consumar, desbastar, desbastecer, desenvolver, esmerar, esmerilhar, estilizar, facetar, limar, melhorar, polir, refinar,     reformar, requintar, subtilizar, sutilizar, tornear}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa604' = “tornar pior”
+{piorar: A idéia do manifesto saiu da cabeça de Cristóvam, que, para [piorar o humor dos petistas, voltará a Brasília a bordo do Boeing presidencial ao lado de FH.,}
+A='Glosa4009'
+{acrisolar, acurar, afiar, afinar, alambicar, amadurecer, aparar2, aperfeiçoar,    aprimorar, apurar, bolear, burilar, cinzelar, consumar, desbastar, desbastecer, desenvolver, esmerar, esmerilhar, estilizar, facetar, limar, melhorar, polir, refinar,     reformar, requintar, subtilizar, sutilizar, tornear}
+Chave: PIORAR <verb.change>
+ILI: 00200852
+
+Sense 2
+{00200852} <verb.change> worsen1, aggravate, exacerbate, exasperate -- (make worse; "This drug aggravates the pain")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA0835
+
+DADO O SYNSET:
+
+S='Glosa835'
+{calamistrar: Ia, todos os dias, ao cabeleireiro I]calamistrar os longos anéis que me ondeavam nas espáduas.,
+encalamistrar: x,
+encaracolar: É ilegal uma mãe I]encaracolar ou ondular o cabelo da filha sem uma licença do estado.,
+encrespar: A massagem estímula a circulação sangüínea, tonifica o bulbo capilar e é importante para I]encrespar os cabelos.,}
+A='Glosa524'
+{desencaracolar, desencrespar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa835' = “formar espiral, curva, ou ondulação em”
+{calamistrar: Ia, todos os dias, ao cabeleireiro I]calamistrar os longos anéis que me ondeavam nas espáduas.,
+encaracolar: É ilegal uma mãe I]encaracolar ou ondular o cabelo da filha sem uma licença do estado.,
+encrespar: A massagem estímula a circulação sangüínea, tonifica o bulbo capilar e é importante para I]encrespar os cabelos.,}
+A='Glosa524'
+{desencaracolar, desencrespar}
+Chave: ENCARACOLAR <verb.change>
+ILI: 00350945
+
+Sense 1
+{00350945} <verb.change> curl, curve, kink -- (form a curl, curve, or kink; "the cigar smoke curled up at the ceiling")
+       => {00345030} <verb.change> change surface -- (undergo or cause to undergo a change in the surface)
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

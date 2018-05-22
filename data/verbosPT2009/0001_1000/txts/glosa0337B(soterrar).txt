@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA0337B
+
+DADO O SYNSET:
+
+S='Glosa337'
+{acovar: x,
+aterrar1: x,
+cravar: DEVIANT,
+encovar: A]encovou todo o dinheiro roubado.,
+enterrar: Ela [enterrou o filho recém-nascido, depois de ter escondido a gravidez dos pais.,
+sepultar: A primeira estrela do «shabat» ainda não brilhou, os judeus ainda não pediram que Pilatos mandasse [sepultar os corpos.,
+soterrar: A queda de um prédio de seis andares, em Foggia, na Itália, matou ontem pelo menos 13 pessoas e I]soterrou outras 50.,
+subterrar: Cidade situada junto ao vulcão Vesúvio, que no ano 79 I]subterrou a Cidade de Pompéia.,}
+A='Glosa1374'
+{desenterrar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa337B' = “cobrir ou envolver completamente por alguma coisa (terra, destroços)”
+{soterrar: A queda de um prédio de seis andares, em Foggia, na Itália, matou ontem pelo menos 13 pessoas e I]soterrou outras 50.,
+subterrar: Cidade situada junto ao vulcão Vesúvio, que no ano 79 I]subterrou a Cidade de Pompéia.,}
+A='Glosa1374'
+{desenterrar}
+Chave: SOTERRAR <verb.contact>
+ILI: 01538803
+
+Sense 4
+{01538803} <verb.contact> immerse1, swallow, swallow up, bury2, eat up -- (enclose or envelop completely, as if by swallowing; "The huge waves swallowed the small boat and it sank shortly thereafter")
+       => {01543739} <verb.contact> enclose, inclose, shut in -- (surround completely; "Darkness enclosed him")
+           => {01425761} <verb.contact> surround, skirt, border1 -- (extend on all sides of simultaneously; encircle; "The forest surrounds my property")
+               => {01169130} <verb.contact> touch1, adjoin3, meet, contact3 -- (be in direct physical contact with; make contact; "The two buildings touch"; "Their hands touched"; "The wire must not contact the metal cover"; "The surfaces contact at this point")

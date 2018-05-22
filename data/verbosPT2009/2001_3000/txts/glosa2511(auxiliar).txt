@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA2511
+
+DADO O SYNSET:
+
+S='Glosa2511'
+	    {ajudar: Antes, outros esforços foram feitos para [ajudar no tratamento dos artistas Jandi Freire e Cláudio Fonseca, mortos pela Aids.,
+	      auxiliar: A Ciência foi utilizada para [auxiliar essa atividade.,
+	      coadjuvar: Ao Vice-Presidente compete I]coadjuvar o Presidente e substituí-lo em suas faltas e impedimentos.,
+	      secundar: Nós procuramos I]secundar e encorajar sempre a grande obra de reforma litúrgica, promovida pelo Concílio Ecumênico.,
+	      segundar: Com a deposição do governo provisório e a ascensão dos bolcheviques ao poder em outubro de 1917, adotou-se como hino a Internacional, canção dos Partidos Comunistas, francesa, mas que pelo seu teor (sublevação do proletariado e a busca do bem-estar comum) I]segundava muito bem a nova política russa (a expansão da revolução pelo mundo e a busca de uma «República Internacional do Proletariado»).,
+	      servir: Um astronauta brasileiro poderia [servir como um catalisador para o programa espacial brasileiro, por causa do respeito que ele teria junto a nossa sociedade.,
+	      subsidiar: A finalidade do trabalho de inteligência e contra-inteligência será, exclusivamente, [subsidiar o presidente da República na tomada de decisões de interesse nacional.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2511' = “Dar auxílio ou assistência, estar a serviço.”
+	    {ajudar: O julgamento do PM Emanuel, na semana passada, [ajudou o Ministério Público a investigar mais policiais.,
+	      auxiliar: Depois da vitória, [auxiliou o governador nos trabalhos da fundação da cidade e consolidação do domínio de Portugal nessa capitania.,
+	      coadjuvar: Peritos em teologia e em catequese, I]coadjuvou a Comissão em seu trabalho.,
+	      secundar: Em 1851 I]secundou as tropas imperiais que entraram no Uruguai.,
+	      segundar: Com a deposição do governo provisório e a ascensão dos bolcheviques, adotou-se como hino a Internacional, canção dos Partidos Comunistas, mas que pelo seu teor I]segundava muito bem a nova política russa.,
+	      servir: A conceituação da filósofa I]serviu a ela para que retomasse um ponto importante.,
+	      subsidiar: A finalidade do trabalho de inteligência e contra-inteligência será, exclusivamente, [subsidiar o presidente da República na tomada de decisões de interesse nacional.,}
+
+Chave: AUXILIAR <verb.social>
+ILI: 02472355
+
+Sense 1
+{02472355} <verb.social> help, assist2, aid -- (give help or assistance; be of service; "Everyone helped out during the earthquake"; "Can you help me carry this table?"; "She never helps around the house")
+       => {02480483} <verb.social> support, back up -- (give moral or psychological support, aid, or courage to; "She supported him during the illness"; "Her children always backed her up") 

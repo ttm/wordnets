@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA2564
+
+DADO O SYNSET:
+
+S='Glosa2564'
+	    {arar: x,
+	      caminhar: Ao longe, M]caminha um iate.,
+	      charruar: x,
+	      marear: H]Marearam parte do tempo sem rádio.,
+	      navegar: Um rio para ser navegável deve ter profundidade capaz de não pôr em risco as embarcações que por eles [navegam.,
+	      singrar: E depois lançar o barco no oceano para [singrar os sete mares.,
+	      velejar: Esse tipo de barco não tem cabine, é feito para [velejar na praia.,
+	      vogar: Lá vai um barco a I]vogar, sozinho na imensidão.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2564' = “Viajar em uma embarcação impelida pelos ventos ou outros meios.”
+	    {caminhar: Ao longe, M]caminha um iate.,
+	      marear: H]Marearam parte do tempo sem rádio.,
+	      navegar: Chegou ao Brasil nas caravelas portuguesas que I]navegavam entre os portos do Atlântico e as colônias de Timor.,
+	      singrar: E depois lançar o barco no oceano para [singrar os sete mares.,
+	      velejar: I]Velejou no caribe a atlântico durante sete anos.,
+	      vogar: Lá vai um barco a I]vogar, sozinho na imensidão.,}
+
+Chave: NAVEGAR <verb.motion>
+ILI: 01792751
+
+Sense 4
+{01792751} <verb.motion> voyage, sail2, navigate2 -- (travel by boat on a boat propelled by wind or by other means; "The QE2 will sail to Southampton tomorrow")
+       => {01792151} <verb.motion> travel4, journey -- (undertake a journey or trip)
+           => {01789516} <verb.motion> travel1, trip2, jaunt -- (make a trip for pleasure) 

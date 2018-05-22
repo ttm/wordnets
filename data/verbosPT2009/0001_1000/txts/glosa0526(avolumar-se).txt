@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0526
+
+DADO O SYNSET:
+
+S='Glosa526'
+{amontanhar: Não permitamos, pela procrastinação, M]amontanharem as tarefas.,
+avolumar-se: Entretanto, lamentavelmente, são numerosas as cidades onde as dificuldades de trânsito [se avolumam, gerando outros problemas paralelos. # As dívidas [se avolumavam e Vítor chegou a ser repreendido por seu protetor.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa526' = “fazer salientar, expandir”
+{avolumar-se: Entretanto, lamentavelmente, são numerosas as cidades onde as dificuldades de trânsito [se avolumam, gerando outros problemas paralelos. # As dívidas [se avolumavam e Vítor chegou a ser repreendido por seu protetor.,}
+Chave: AVOLUMAR-SE
+ILI: 00247955
+
+Sense 2
+{00247955} <verb.change> bulge1, bulk -- (cause to bulge or swell outwards)
+       => {00249128} <verb.change> swell1 -- (cause to become swollen; "The water swells the wood")
+           => {00237321} <verb.change> grow1 -- (cause to grow or develop; "He grows vegetables in his backyard")
+               => {00245331} <verb.change> develop1, make grow -- (cause to grow and differentiate in ways conforming to its natural development; "The perfect climate here develops the grain"; "He developed a new kind of apple")
+                   => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

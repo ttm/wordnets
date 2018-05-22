@@ -1,0 +1,36 @@
+ANÁLISE DA GLOSA3899
+
+DADO O SYNSET:
+
+S='Glosa3899'
+{alegar: Bolsoni I]alegou ao juiz e ao conselho de sentença que agiu em legítima defesa.,
+ aludir: Contou-lhe o enredo dos dramas que andavam então em cena, e [aludiu a certa farsa, que divertira muito o coronel, na última vez que viera da roga .,
+ apontar: A cantora não [aponta o aspecto técnico como único responsável pelo distanciamento da grande massa de consumidores .,
+ citar: Em seu depoimento, Cunha não [citou os nomes de outros cinco acusados, praticamente os inocentando: o serralheiro Jurandir Gomes França, o tenente da PM Marcelo Ferreira Cortes, e os policiais Cláudio Luiz Andrade dos Santos, Carlos Jorge Liaffra e Nílton de Oliveira .,
+ dar: Diadorim [dava como exemplo a regra de ferro de Joãozinho Bem-Bem - o sempre sem mulher, mas valente em qualquer praça .,
+ mencionar: Num outro plano devemos [mencionar as dificuldades de modernização das relações de trabalho .,
+ pontar: x,
+ referir: Depois, ainda é preciso [referir o trabalho crítico dos colaboradores de Sol Nascente (1937) que, em suas páginas, tornam mais claras e objetivas as tendências do movimento .,
+ reportar: O temor que a organização inspira em suas vítimas pode ser medido através do método pelo qual a maioria delas reagiu à abordagem da máfia: 90,8% do total de empresas no mundo que se disseram ameaçadas pela Yakuza se limitaram a [reportar o ocorrido à sua sede .,
+ tocar: Ao contrário de um Zico, um Sócrates ou mesmo um Tostão, para não [tocar no santo nome de Pelé em vão, todos goleadores como ele, jamais voltaria para iniciar uma ação ofensiva, organizar uma jogada ou mesmo explodir num lance de força e talento individual, a partir do meio-campo em direção ao gol inimigo, como Edílson ou Dener, para ficarmos nos mais recentes .,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3899' = “fazer referência [a]”
+{alegar: Já não [alegaram a clínica da Santa Casa nem os documentos da Biblioteca Nacional.,
+ aludir: Contou-lhe o enredo dos dramas que andavam então em cena, e [aludiu a certa farsa, que divertira muito o coronel, na última vez que viera da roga.,
+ apontar: A cantora não [aponta o aspecto técnico como único responsável pelo distanciamento da grande massa de consumidores.,
+ citar: Em seu depoimento, Cunha não [citou os nomes de outros cinco acusados.,
+ dar: O técnico [deu como exemplo os dois sets finais da partida.,
+ mencionar: O lugar que você [mencionou é muito apetitoso, além de interessante politicamente.,
+ referir: Carlos Maria afrouxou um tanto a gravata do espírito, expandiu-se, [referiu algumas aventuras amorosas de outros.,
+ reportar: O «The New York Times» [reporta alguns casos de pessoas que avistaram Nixon.,
+ tocar: Graziano estará com Fernando Henrique, mas [tocará no assunto apenas se lhe for solicitada opinião.}
+Chave: MENCIONAR <verb.communication>
+ILI: 00991188
+
+Sense 1
+{00991188} <verb.communication> mention2, advert12, bring up, cite, name4, refer1 -- (make reference to; "His name was mentioned in connection with the invention")
+       => {00705873} <verb.cognition> think of2, have in mind1, mean1 -- (intend to refer to; "I'm thinking of good food when I talk about France"; "Yes, I meant you when I complained about people who gossip!")
+           => {00689759} <verb.cognition> associate, tie in, relate, link, colligate2, link up, connect -- (make a logical or causal connection; "I cannot connect these two pieces of evidence in my mind"; "colligate these facts"; "I cannot relate these events at all")
+               => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

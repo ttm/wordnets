@@ -1,0 +1,38 @@
+ANÁLISE DA GLOSA3998
+
+DADO O SYNSET:
+	
+S='Glosa3998'
+    	{desdobrar-se: Enquanto isso, Joel se [desdobrava para explicar que o atacante não fora barrado .,
+      	 diligenciar: Vão os autos ao relator designado, que deve [diligenciar para permitir o seu julgamento na primeira sessão .,
+      	 empenhar-se: Gonçalves foi quem mais se [empenhou para que o amistoso contra o Palmeiras fosse um sucesso .,
+      	 empenhorar-se: Eu preciso me I]empenhorar pra comprar o que eu quero.,
+      	 esforçar-se: A cantora até que se [esforçou, cantando cinco de seus maiores sucessos, mas o público não deu a menor bola para o show .,
+      	 fazer: M]Façamos com que o nosso trabalho aproveite a todos.,
+      	 forcejar: D. Antônia, dizendo isto, [forcejava por não chorar, mas a voz trêmula indicava que as lágrimas não tardavam a vir; lágrimas de vencida, duas vezes vencida,-- no orgulho e no amor .,
+      	 intentar: Não M]intenteis dissimular as vossas intenções.,
+      	 pretender: M]Pretendiam a aniquilação dos contrários.,
+      	 procurar: O referido papa [procurava diminuir a grande interferência dos imperadores nos assuntos religiosos .,
+      	 trabalhar: Enquanto as construções continuavam, a equipe de som I]trabalhava para reduzir um efeito de eco que estava ocorrendo em alguns dos novos cenários.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3998' = “esforçar-se com muito empenho ou energia”
+    	{desdobrar-se: Enquanto isso, Joel se [desdobrava para explicar que o atacante não fora barrado.,
+      	 diligenciar: O Prefeito José Luiz Rodrigues I]diligenciou para que as moradias fossem efetivamente concluídas e acabadas.,
+      	 empenhar-se: Gonçalves foi quem mais se [empenhou para que o amistoso contra o Palmeiras fosse um sucesso.,
+      	 empenhorar-se: Eu preciso me I]empenhorar pra comprar o que eu quero.,
+      	 esforçar-se: A cantora até que se [esforçou, cantando cinco de seus maiores sucessos, mas o público não deu a menor bola para o show.,
+      	 forcejar: D. Antônia, dizendo isto, [forcejava por não chorar, mas a voz trêmula indicava que as lágrimas não tardavam a vir.,
+      	 intentar: A Defesa Civil I]intenta para que o munícipe torne-se um cidadão capaz de viver condignamente no seu meio ambiente.,
+      	 procurar: O referido papa [procurava diminuir a grande interferência dos imperadores nos assuntos religiosos.,
+      	 trabalhar: Enquanto as construções continuavam, a equipe de som I]trabalhava para reduzir um efeito de eco que estava ocorrendo em alguns dos novos cenários.}
+Chave: EMPENHAR-SE <verb.competition>
+ILI: 01110726
+
+Sense 2
+{01110726} <verb.competition> strive, reach, strain -- (to exert much effort or energy; "straining our ears to hear")
+       => {02334288} <verb.social> tug, labor1, labour1, push, drive -- (strive and make an effort to reach a goal; "She tugged for years to make a decent living"; "We have to push a little to make the deadline!"; "She is driving away at her doctoral thesis")
+           => {02334710} <verb.social> fight, struggle -- (make a strenuous or labored effort; "She struggled for years to survive without welfare"; "He fought for breath")
+               => {02454930} <verb.social> try, seek, attempt, essay, assay -- (make an effort or attempt; "He tried to shake off his fears"; "The infant had essayed a few wobbly steps"; "The police attempted to stop the thief"; "He sought to improve himself"; "She always seeks to do good in the world")
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

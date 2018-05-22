@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA2091
+
+DADO O SYNSET:
+	
+S='Glosa2091'
+    	{eternar: x,
+      	 eternizar: Pedro passou dias e dias no lombo de um burro, carregado de bússolas e lunetas, conhecendo de perto os Gerais de Guimarães Rosa, e descobriu o que o escritor iria [eternizar mais tarde no clássico Grande sertão, veredas: o sertão está em toda parte.,
+      	 imortalizar: O grande pai deste trabalho foi Ivan Pavlov, que tentou [imortalizar um cachorro por fazê-lo salivar ao ouvir um sino tocando.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2091' = “tornar famoso para sempre”
+    	{eternizar: As músicas do Tom [eternizaram um Rio de amor e paz que acabou.,
+      	 imortalizar: Pelé traja uma camisa de gola azul, que ostenta o 10, a marca que [imortalizou o craque.}
+Chave: IMORTALIZAR <verb.change>
+ILI: 00537870
+
+Sense 1
+{00537870} <verb.change> immortalize, immortalise, eternize, eternise, eternalize, eternalise -- (make famous for ever)
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

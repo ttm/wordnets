@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA3385
+
+DADO O SYNSET:
+
+S='Glosa3385'
+	    {
+	      arrodear: x,
+	      contornar: Para os homens, o conselho é não [contornar o conflito, mas compreender que quando a esposa traz alguma queixa ou discordância, pode estar fazendo isso como um ato de amor, tentando ajudar a manter o relacionamento saudável e no rumo certo.,
+	      ladear: A nova lei, para I]ladear o empecilho criado por essa decisão, atribui o caráter de ilicitude apenas às fotos que não possam ser distinguidas daquelas em que se utilizem menores.  ,
+	      margear: O que caracteriza o vídeo pós-moderno é a sua recusa em assumir uma posição clara diante de suas imagens, seu hábito de margear a linha da não-comunicação de um significado claro. ,
+	      retorcer: DEVIANT,
+	      rodear: Elementos tipicamente econômicos e políticos aliavam-se ao espírito religioso da época na tentativa de I]rodear o problema.,
+	      tergiversar: Está o partido eufórico com o que considera profissionalismo político do governador Mário Covas, que demitiu os pefelistas do seu governo sem [tergiversar, não deixando margem a recuos. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3385' = “evitar algo desagradável ou trabalhoso”
+	     {contornar: O governo [contornou os problemas com a oposição, mas os líderes governistas tiveram que acionar o ministro da Articulação Política, Luiz Carlos Santos, para resolver as ameaças de rebelião entre os deputados das bancadas de Minas Gerais, do Acre e a ruralista.,
+	      ladear: Assim, I]ladeou a lei e usou a máquina do Estado como se não fizesse campanha eleitoral.,
+	      margear: O programa de Bush I]margeou essa lei.,
+	      rodear: Sua palestra I]rodeou o assunto de RUP, UML e Casos de uso, apresentando uma sólida receita que ele segue para desenvolver seus projetos.,
+	      tergiversar: Fantazzini I]tergiversou sobre o nome de Heloísa Helena para presidente em 2006. ,}
+Chave: CONTORNAR <verb.communication>
+ILI: 00784879
+
+Sense 1
+{00784879} <verb.communication> bypass, short-circuit, go around1, get around1 -- (avoid something unpleasant or laborious; "You cannot bypass these rules!")
+       => {00785083} <verb.communication> avoid -- (stay clear from; keep away from; keep out of the way of someone or something; "Her former friends now avoid her")

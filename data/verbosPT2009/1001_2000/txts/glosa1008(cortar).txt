@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA1008
+
+DADO O SYNSET:
+
+S='Glosa1008'
+{chagar: H]Chagar uma alimária.,
+ cortar: Tamora é libertada e, com o amante, Aaron, o mouro, obtém uma vingança horrorosa, que inclui estuprar e [cortar os braços e a língua da filha de Titus, sacrificar outros filhos dele, até decepar um braço do próprio Titus.,
+ fender: Veio acompanhado de muita gente nua que trazia suas armas ridículas, não sabendo absolutamente como as espadas cortavam, como as lanças I]fendiam, como os cavalos corriam nem que esses espanhóis eram uma espécie de gente tal que, se os diabos tivessem prata, tratariam de descobrir um meio de roubá-los.,
+ ferir: À primeira vista, a barreira seria uma proteção a mais para os pilotos em caso de choques frontais, raros em circuitos ovais, mas que já [feriram pilotos gravemente.,
+ rasgar: O Trachelyopterus não ataca o homem mas pode [rasgar o dedo de um pescador que tentar segurá-lo pelo peito, onde tem fortes esporões.,
+ talhar: Dez homens destemidos tendo à sua frente Aires Gomes saltaram por sua vez com a arma em punho, e começaram [talhar de alto a baixo a grandes golpes de espada.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1008' = “cortar de modo a ferir abrindo”
+{cortar: Como resposta, recebeu um soco que [cortou seu supercílio esquerdo.,
+ fender: Nesse instante, Seth, nervoso, impaciente por nascer, I]fendeu o ventre de sua mãe e um raio rasgou os céus, e ele se manifestou sob a forma de um tijolo.,
+ ferir: À primeira vista, a barreira seria uma proteção a mais para os pilotos em caso de choques frontais, raros em circuitos ovais, mas que já [feriram pilotos gravemente.,
+ rasgar: O Trachelyopterus não ataca o homem mas pode [rasgar o dedo de um pescador que tentar segurá-lo pelo peito, onde tem fortes esporões.,
+ talhar: Neurótica, a princesa espanhola protagonizou cenas inesquecíveis em nome da paixão por seu marido, Filipe, o Belo: I]talhou o rosto de uma suposta amante do marido, para em seguida ser trancafiada por ele.}
+Chave: CORTAR <verb.contact>
+ILI: 01283254
+
+Sense 3
+{01283254} <verb.contact> slash, gash -- (cut open; "she slashed her wrists")
+       => {01509511} <verb.contact> cut -- (separate with or as if with an instrument; "Cut the rope")
+           => {01513899} <verb.contact> separate1, disunite, divide1, part1 -- (force, take, or pull apart; "He separated the fighting children"; "Moses parted the Red Sea")
+               => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

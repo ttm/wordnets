@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA3775
+
+DADO O SYNSET:
+
+S='Glosa3775'
+{alinhar-se: Barcas imperiais penetraram na enseada, passando diante do fortim e I]alinhando-se ameaçadoras, uma a uma, com o lado armado voltado para Laguna.,
+	 enfieirar-se: x,
+	 enfileirar-se: Uma façanha do encontro foi colocar lado a lado representantes de setores teoricamente opostos: só para citar alguns exemplos, o ministro dos Transportes [enfileirou-se com o presidente da CUT.,
+	 estender-se: Os transeuntes M]estendiam-se em longa extensão.,
+	 perfilar-se: Heslander enfrentava uma enorme fila no balcão de partidas do aeroporto de Confins quando [perfilou-se atrás dele um passageiro bem vestido.}
+
+A='Glosa1777'
+{desalinhar-se, desenfileirar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3775' = “dispor em ordem de uma linha”
+{alinhar-se: Barcas imperiais penetraram na enseada, passando diante do fortim e I]alinhando-se ameaçadoras, uma a uma, com o lado armado voltado para Laguna.,
+	 enfileirar-se: Uma façanha do encontro foi colocar lado a lado representantes de setores teoricamente opostos: só para citar alguns exemplos, o ministro dos Transportes [enfileirou-se com o presidente da CUT.,
+	 estender-se: Os transeuntes M]estendiam-se em longa extensão.,
+	 perfilar-se: Heslander enfrentava uma enorme fila no balcão de partidas do aeroporto de Confins quando [perfilou-se atrás dele um passageiro bem vestido.}
+
+A='Glosa1777'
+{desalinhar-se, desenfileirar-se}
+Chave: ENFILEIRAR <verb.contact>
+ILI: 01432466
+
+Sense 5 
+{01432466} <verb.contact> range, array, lay out, set out -- (lay out in a line)
+       => {01422386} <verb.contact> arrange, set up -- (put into a proper or systematic order; "arrange the books on the shelves in chronological order")
+           => {01452069} <verb.contact> put, set, place, pose2, position, lay1 -- (put into a certain place or abstract location; "Put your things here"; "Set the tray down"; "Set the dogs on the scent of the missing children"; "Place emphasis on a certain point")
+               => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

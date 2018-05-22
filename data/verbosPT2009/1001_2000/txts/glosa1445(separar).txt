@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA1445
+
+DADO O SYNSET:
+
+S='Glosa1445'
+{acantoar: x,
+ desjuntar: H]Desjuntar uma folha de papel dupla.,
+ isolar: O acidente ocorreu fora da área de bóias, colocadas Ibama para [isolar o animal dos banhistas.,
+ separar: Se quebrarmos um ímã em vários pedaços, cada pedaço passará a ser um novo ímã, pois não é possível [separar os pólos de um ímã. ,}
+	  
+A='Glosa58'
+{apor, juntar, justapor}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1445' = “afastar um [uns] do(s) outro(s)” 
+{desjuntar: Beto teve que I]desjuntar as mãos pra se apoiar no chão.,
+ isolar: Existe uma barreira que [isola o cego da vida cultural.,
+ separar: A «Bíblia» diz que Deus [separou o homem de suas obras.,}
+	  
+A='Glosa58'
+{apor, juntar, justapor}
+Chave: SEPARAR <verb.contact>
+ILI: 01513899
+
+Sense 2
+{01513899} <verb.contact> separate1, disunite, divide1, part1 -- (force, take, or pull apart; "He separated the fighting children"; "Moses parted the Red Sea")
+       => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

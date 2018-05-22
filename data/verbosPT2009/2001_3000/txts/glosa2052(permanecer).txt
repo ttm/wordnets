@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA2052
+
+DADO O SYNSET:
+	
+S='Glosa2052'
+    	{conservar: Os menores, mais crianças, [conservavam uma das mãos ao peito, outra a pender da cama, guardando no abandono do descanso uma atitude ideal de vôo.,
+      	 continuar: Na noite de sábado o Antiquarius [continuou sem lugar para nem um mosquitinho; de novo Maria Alice Miranda e Paulo Ubiratan - será que dormiram no restaurante?,
+      	 estar: A polícia A]esteve de plantão toda a noite.,
+      	 ficar: A criançada, cheia de curiosidades, cerca o caminhão e tão logo se vai embora. Apenas uma I]ficou de plantão: o Chiquinho. ,
+      	 permanecer: Depois do sepultamento, a equipe que trabalhava com a banda [permaneceu mais 45 minutos junto do túmulo coberto de coroas de flores e de faixas com mensagens de saudades.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2052' = “continuar num lugar, numa posição ou situação”
+    	{conservar-se: Takayuki, que se recupera de um derrame, [conserva-se lúcido e bem-humorado.,
+      	 continuar: Vou fazer 60 anos e para mim o carnaval [continua o mesmo.,
+      	 estar: Dóris Monteiro comemora 45 anos de carreira - e [está igualzinha - participando do Chá das Chiques, no Teatro dos Quatro, de hoje a 12 de maio, às 18h, todos os dias, menos às segundas.,
+      	 ficar: A vantagem de ter um negócio na internet é que ele I]fica trabalhando por você 24 horas por dia, até quando você dorme ou viaja.,
+      	 permanecer: Depois do sepultamento, a equipe que trabalhava com a banda [permaneceu mais 45 minutos junto do túmulo coberto de coroas de flores e de faixas com mensagens de saudades.}
+Chave: PERMANECER <verb.stative>
+ILI: 02647172
+
+Sense 2
+{02647172} <verb.stative> stay2, stay on, continue10, remain3 -- (continue in a place, position, or situation; "After graduation, she stayed on in Cambridge as a student adviser"; "Stay with me, please"; "despite student protests, he remained Dean for another year"; "She continued as deputy mayor for another year")
+       => {02526983} <verb.stative> be3 -- (have the quality of being; (copula, used with an adjective or a predicate noun); "John is rich"; "This is not a good answer") 

@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0487
+
+DADO O SYNSET:
+
+S='Glosa487'
+{aliar-se: Insurreição porque, em vista da política portuguesa para [aliar-se a Holanda na guerra contra a Espanha, o governo geral, em Salvador, estava oficialmente imposibilitado de intervir.,
+confederar-se: Prefiro, evidentemente, que Portugal haja de federar-se ou I]confederar-se, um dia, com os restantes países do Ocidente Europeu.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa487' = “tornar (-se) um aliado ou sócio, por meio de tratado ou casamento (união)”
+{aliar-se: Insurreição porque, em vista da política portuguesa para [aliar-se a Holanda na guerra contra a Espanha, o governo geral, em Salvador, estava oficialmente imposibilitado de intervir.,
+confederar-se: Prefiro, evidentemente, que Portugal haja de federar-se ou I]confederar-se, um dia, com os restantes países do Ocidente Europeu.,}
+Chave: ALIAR-SE <verb.social>
+ILI: 02357040
+
+Sense 1
+{02357040} <verb.social> ally -- (become an ally or associate, as by a treaty or marriage; "He allied himself with the Communists")
+       => {02512288} <verb.social> consort12, associate2, affiliate12, assort12 -- (keep company with; hang out with; "He associates with strange people"; "She affiliates with her colleagues")
+           => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+               => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA1139
+
+DADO O SYNSET:
+
+S='Glosa1139'
+{ajudar: Muitas das evidências deixadas no local do crime, que poderiam [ajudar na identificação dos assassinos, se desfizeram devido à inércia da polícia,
+ favorecer: As vitórias cristãs [favoreceram o surgimento de vários reinos independentes,
+ propiciar: Com o poder político nas mãos, a burguesia elaborou leis que favoreceram o desenvolvimento econômico do país, ou seja, que [propiciaram seu próprio enriquecimento, na medida em que se libertou do controle do comércio exercido pelo Estado,}
+	  
+A='Glosa2289'
+	    {atrapalhar, atravessar, contra-arrestar, contrariar, desajudar, empacar1, empecer, estorvar, prejudicar, transtornar, travessar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1139' = “contribuir para o avanço/incremento [de]”
+{ajudar: A Internet também [ajudou na hora de fazer atualização do software Logic Áudio.,
+ favorecer: A unificação da Itália [favoreceu o crescimento das indústrias do norte.,
+ propiciar: Esse investimento estatal [propiciou o desenvolvimento de indústrias de origem nacional.,}
+A='Glosa2289'
+	    {atrapalhar, atravessar, contra-arrestar, contrariar, desajudar, empacar1, empecer, estorvar, prejudicar, transtornar, travessar}
+Chave: AJUDAR <verb.social>
+ILI: 02479845
+
+Sense 5
+{02479845} <verb.social> help12 -- (contribute to the furtherance of; "This money will help the development of literacy in developing countries")
+       => {02479351} <verb.social> promote1, advance1, boost, further, encourage -- (contribute to the progress or growth of; "I am promoting the use of computers in the classroom")
+           => {02480483} <verb.social> support, back up -- (give moral or psychological support, aid, or courage to; "She supported him during the illness"; "Her children always backed her up")

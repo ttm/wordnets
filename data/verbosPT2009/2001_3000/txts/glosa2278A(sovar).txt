@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA2278A
+
+DADO O SYNSET:
+
+S='Glosa2278'
+	    {amassar: Com um casal de filhos subnutridos Amélia [amassava sexta-feira a última porção de milho que dispunha em casa.,
+	      moer: O movimento giratório pode realizar algum trabalho útil, como, por exemplo, I]moer os grãos de trigo que vão servir para fazer o pão do seu café da manhã. ,
+	      socar: Plantou caiana... [socou café.,
+	      sovar: Numa vasilha, misture todos os ingredientes, I]sove a massa durante 5 minutos, até ficar lisa, deixe descansar 20 minutos. ,
+	      trilhar: Utilizou-se uma batedeira de cereais marca Nogueira recomendada para I]trilhar milho, feijão, soja e arroz. ,
+	      triturar: I]Triturou, secou, encolheu e disfarçou alimentos estratégicos que fazem bem à saúde.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2278a' = “quebrar ou amassar por meio de pancadas, como se com um pilão”
+	    {amassar: Com um casal de filhos subnutridos Amélia [amassava sexta-feira a última porção de milho que dispunha em casa.,
+	      socar: Plantou caiana... [socou café.,
+	      sovar: Numa vasilha, misture todos os ingredientes, I]sove a massa durante 5 minutos, até ficar lisa, deixe descansar 20 minutos. ,
+	      trilhar: Utilizou-se uma batedeira de cereais marca Nogueira recomendada para I]trilhar milho, feijão, soja e arroz. ,}	
+
+Chave: SOVAR <verb.change>
+ILI: 00321179
+
+Sense 8
+{00321179} <verb.change> pound3 -- (break down and crush by beating, as with a pestle; "pound the roots with a heavy flat stone")
+       => {00327401} <verb.change> break up, fragment, fragmentize, fragmentise -- (break or cause to break into pieces; "The plate fragmented")
+           => {00323679} <verb.change> break, separate3, split up, fall apart3, come apart -- (become separated into pieces or fragments; "The figurine broke"; "The freshly baked loaf fell apart")
+               => {00135037} <verb.change> change integrity -- (change in physical make-up)
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

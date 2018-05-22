@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA1199
+
+DADO O SYNSET:
+
+S='Glosa1199'
+{desbulhar1: x,
+ esbulhar: Pedir um preço e dar a fazenda por outro preço menor, é confessar que havia intenção de I]esbulhar o freguês.,
+ espoliar: Para I]espoliar seus cidadãos com mais eficiência, o Estado tentará desarmar sua população, tornando-a também mais vulnerável aos ataques de crimes privados.  ,
+ extorquir: Soubemos que em vida foi ladrão, corrupto, venal, que I]extorquiu muita gente com elevados juros, e contraiu assim uma grande fortuna.,
+ mamar: H]Mamou toda a fortuna da família.,
+ obter: x,
+ roubar: Seu fundo federal foi cancelado e o responsável pela administração das finanças do grupo I]roubou todo o dinheiro do grupo, deixando-os sem nada.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1199' = “obter por coação ou intimidação”
+{esbulhar: O réu I]esbulhou, mediante prática de ato ilícito, uma colheitadeira agrícola do autor.,
+ espoliar: O Norte já expropriou e I]espoliou tudo que podia do resto do mundo, de forma ilegal, fraudulenta, imoral.,
+ extorquir: Quem criou o Masp foi o aventureirismo do misto-quente de gênio com antropófago que foi Chateaubriand, que [extorquiu a arte dos senhores paulistas.,
+ mamar: O governo Lula I]"mamou" o que pode dos possíveis fracassos do governo FH.,
+ roubar: Ele agrediu a atendente com uma pancada na cabeça e I]roubou o dinheiro do caixa.,}
+Chave: ROUBAR <verb.possession>
+ILI: 02176199
+
+Sense 2
+{02176199} <verb.possession> extort, squeeze3, rack, gouge, wring -- (obtain by coercion or intimidation; "They extorted money from the executive by threatening to reveal his past to the company boss"; "They squeezed money from the owner of the business by threatening him")
+       => {02251897} <verb.possession> overcharge, soak, surcharge, gazump, fleece, plume, pluck, rob1, hook2 -- (rip off; ask an unreasonable price)
+           => {02496906} <verb.social> cheat, rip off, chisel1 -- (deprive somebody of something by deceit; "The con-man beat me out of $50"; "This salesman ripped us off!"; "we were cheated by their clever-sounding scheme"; "They chiseled me out of my money")
+               => {02497828} <verb.social> victimize1, victimise1 -- (make a victim of; "I was victimized by this con-man")
+                   => {02438990} <verb.social> wrong -- (treat unjustly; do wrong to)
+                       => {02439188} <verb.social> treat, handle3, do by -- (interact in a certain way; "Do right by her"; "Treat him with caution, please"; "Handle the press reporters gently")
+                           => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                               => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

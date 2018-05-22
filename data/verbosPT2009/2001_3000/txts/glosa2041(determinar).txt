@@ -1,0 +1,47 @@
+ANÁLISE DA GLOSA2041
+
+DADO O SYNSET:
+	
+S='Glosa2041'
+    	{afixar: x,
+      	 assinalar: Nomeou o magistrado perito de sua fidúcia à produção da prova técnica e I]assinalou o prazo de cincodias para a formulação de quesitos, indicação de assistentes e depósito da quantia de R$ 5.000,00 a título de estimativaprovisória da remuneração do experto.,
+      	 assinar: x,
+      	 dar: x,
+      	 decretar: Aquele povo A]decretou a si mesmo o seu regime político.  ,
+      	 demarcar: x,
+      	 designar: H]Designe o local e a hora para o encontro.,
+      	 determinar: I]Determinou o prazo de segredo de cada uma, que poderia ser renovado pelo mesmo período só uma vez: documentos ultra-secretos.,
+      	 dispor: A lei não deve M]dispor medidas inexeqüíveis.,
+      	 ditar: O Decreto n.º 3.708/19, que por longa data I]ditou as regras das Sociedades Limitadas, nasceu sob a égide de uma concepção excessivamente individualista e liberal.,
+      	 estabelecer: Nessa linha de raciocínio, é inconstitucional o art. 46, da Lei nº 8.212, de 24 de julho de 1.991, que I]estabeleceu o prazo prescricional decenal.,
+      	 fixar: M]Fixemos um critério para a execução deste trabalho.,
+      	 impor: O chefe A]impôs à firma uma programação rígida.  ,
+      	 indicar: H]Indique você mesmo o lugar e a hora para o encontro.,
+      	 mandar: A sentença H]mandava que a criança fosse restituída aos verdadeiros pais.,
+      	 ordenar: Entendeu que esta atitude desrespeitou o direito de participação democrática e desta forma I]ordenou a reabertura do prazo de inscrição.,
+      	 preceituar: O médico M]preceituara uma dieta ao paciente.,
+      	 prescrever: O Presidente A]prescreveu as atribuições de seus auxiliares.  ,
+      	 sinalar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2041' = “orientar definitiva e autoritariamente”
+    	{assinalar: Saussure [assinalou argutamente que um papagaio pode falar as palavras, mas não conhece o sistema da língua.,
+      	 decretar: A vice-prefeita [decretou luto oficial por três dias e ponto facultativo para que a população pudesse comparecer ao enterro.,
+      	 designar: A Secretaria de Estado de Comunicações da Argentina [designou para a Rede de Emergência Nacional, entre outras, a freqüência de 436 MHz.,
+      	 determinar: Os juízes [determinaram que todos os depósitos judiciais fossem feitos na Caixa.,
+      	 dispor: O projeto [dispõe que apenas uma lista preliminar de exceções seja apresentada agora.,
+      	 ditar: O Decreto n.º 3.708/19, que por longa data I]ditou as regras das Sociedades Limitadas, nasceu sob a égide de uma concepção excessivamente individualista e liberal.,
+      	 estabelecer: Nessa linha de raciocínio, é inconstitucional o art. 46, da Lei nº 8.212, de 24 de julho de 1.991, que I]estabeleceu o prazo prescricional decenal.,
+      	 fixar: O sindicato tenta reverter as demissões na Assembléia Legislativa, alegando que as resoluções ferem a Lei 9.381, de l996, que [fixou os parâmetros que determinam o número de professores por grupo de alunos.,
+      	 impor: César Maia acabou concordando, mas também [impôs suas condições: não faria vetos desde que o governador não apresentasse candidatos.,
+      	 indicar: O Ipea já [indicou duas importantes armas na luta contra o latifúndio improdutivo.,
+      	 mandar: A lei eleitoral [manda que todos os votos sejam depositados em uma única urna.,
+      	 ordenar: Se os documentos que instruírem a petição evidenciarem a ilegalidade da coação, o juiz ou o tribunal [ordenará que cesse imediatamente o constrangimento.,
+      	 preceituar: Em todos os processos a análise técnica é de que a solicitação encontra-se em desacordo com o que [preceitua o Ato da Comissão Diretora 9/95.,
+      	 prescrever: Quando a lei [prescrever determinada forma, sem cominação de nulidade, o juiz considerará válido o ato se, realizado de outro modo, lhe alcançar a finalidade.}
+Chave: DETERMINAR <verb.cognition>
+ILI: 00676553
+
+Sense 3
+{00676553} <verb.cognition> determine1, set4 -- (fix conclusively or authoritatively; "set the rules")

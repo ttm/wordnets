@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA1836
+
+DADO O SYNSET:
+
+S='Glosa1836'
+{abafar: O ruído dos grilos não era suficiente para I]abafar os passos de Delfino.,
+ abetumar: M]Abetumar escândalos.,
+ amortecer: Nesse caso, pode-se usar lã de fibra mineral sob a madeira, para I]amortecer o barulho das passadas.,
+ amortificar: x,
+ anular: Nos dias que se seguiram a voz amena acusou ansiedade crescente, estridente, como se fosse para I]anular o barulho do mar castigando o veleiro.,
+ emortecer: x,
+ encobrir: Simulando um ataque de tosse para I]encobrir o barulho de papel rasgando que poderia chamar a atenção da secretária, arranquei uma página da revista.,
+ ensurdecer: Sapatos de lona que M]ensurdeciam os passos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1836' = “atenuar (um som ou ruído)”
+{abafar: O ruído dos grilos não era suficiente para I]abafar os passos de Delfino.,
+ amortecer: Nesse caso, pode-se usar lã de fibra mineral sob a madeira, para I]amortecer o barulho das passadas.,
+ anular: Nos dias que se seguiram a voz amena acusou ansiedade crescente, estridente, como se fosse para I]anular o barulho do mar castigando o veleiro.,
+ encobrir: Simulando um ataque de tosse para I]encobrir o barulho de papel rasgando que poderia chamar a atenção da secretária, arranquei uma página da revista.,
+ ensurdecer: O barulho dos motores I]ensurdeceu a conversa.,}
+Chave: ABAFAR <verb.perception>
+ILI: 02128630
+
+Sense 2
+{02128630} <verb.perception> muffle, mute, dull, damp, dampen, tone down -- (deaden (a sound or noise), especially by wrapping)
+       => {02127915} <verb.perception> soften -- (make (images or sounds) soft or softer)
+           => {02128389} <verb.perception> change intensity -- (increase or decrease in intensity)
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

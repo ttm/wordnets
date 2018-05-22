@@ -1,0 +1,35 @@
+ANÁLISE DA GLOSA1795
+
+DADO O SYNSET:
+
+S='Glosa1795'
+{agarrar: A mudança da regra, proibindo o goleiro de [agarrar com as mãos uma bola que lhe é atrasada com os pés por um companheiro, trouxe uma nova dificuldade que nem todos os goleiros souberam superar.,
+ agaturrar: x,
+ apanhar: Os instrutores da Fifa alertam aos treinadores de goleiros que a mudança da regra que impede o goleiro de [apanhar com as mãos as bolas atrasadas exige que tenham mais habilidade com os pés.,
+ empolgar: Mudo e atônito, contemplou por alguns instantes aquele homem de sombria catadura, que lhe apresentava aos olhos, implacável e sinistro como Lucifer, prestes a [empolgar a vítima, que deseja arrastar aos infernos.,
+ engalfinhar: H]Engalfinhar pequenos insetos.,
+ pegar: Assim, para [pegar uma banana que estava fora de seu alcance, um macaco teria de mover uma cadeira de um lugar para outro, unir duas varas, ou reorganizar de alguma outra maneira a situação que ele tinha diante de si .,
+ segurar: Aos seis minutos, Jorge Luís cobrou falta e, na dúvida entre [segurar e espalmar a bola, o goleiro não fez nem uma coisa e nem outra.,}
+	  
+A='Glosa1281'
+{desempolgar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1795' = “segurar com força”
+{agarrar: Aos 37min, quando era o último homem, Laércio [agarrou Euller pela camisa e foi expulso.,
+ apanhar: O melhor ficou para a sequência totally funny em que Linda Evangelista pula, [apanha o buquê, cai de bunda e é socorrida pela amiga Christie Turlington.,
+ empolgar: Mudo e atônito, contemplou por alguns instantes aquele homem de sombria catadura, que lhe apresentava aos olhos, implacável e sinistro como Lucifer, prestes a [empolgar a vítima, que deseja arrastar aos infernos.,
+ engalfinhar: Mesmo assim, tanto o Hamas como a Jihad Islâmica tinham que I]engalfinhar os jovens e fazer-lhes acreditar que as recompensas do paraíso eram muito maiores.,
+ pegar: O goleiro [pegou a bola, a bola estourou e a câmera pulou e entrou!,
+ segurar: Aos 40min do primeiro tempo, Brito [segurou o braço de Riva na área.,}
+	  
+A='Glosa1281'
+{desempolgar}
+Chave: AGARRAR <verb.contact>
+ILI: 01185328
+
+Sense 4
+{01185328} <verb.contact> clasp1 -- (grasp firmly; "The child clasped my hands")
+       => {01175818} <verb.contact> seize, prehend, clutch -- (take hold of; grab; "The salesclerk quickly seized the money on the counter"; "She clutched her purse"; "The mother seized her child by the arm"; "Birds of prey often seize small mammals")
+           => {01177510} <verb.contact> take, get hold of -- (get into one's hands, take physically; "Take a cookie!"; "Can you take this bag, please")

@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0431
+
+DADO O SYNSET:
+
+S='Glosa431'
+{alevantar-se: I]Alevantam-se todas, e ordenadas em folia cantaram a cantiga seguinte, com que se despediram.,
+levantar-se: O homem, ao [levantar-se sobre as duas patas traseiras, ao converter em machado a primeira pedra afilada, instituiu as bases de sua grandeza mas também as origens de sua angústia.,}
+A='Glosa3510'
+{abaixar-se, acaçapar-se, acachapar-se, acocorar-se, agachar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa431' = “erguer (-se); alçar (-se); pôr (-se) de pé”
+{alevantar-se: I]Alevantou-se um Homem a meu lado,. Todo nu, e desfigurado.,
+levantar-se: O homem, ao [levantar-se sobre as duas patas traseiras, ao converter em machado a primeira pedra afilada, instituiu as bases de sua grandeza mas também as origens de sua angústia.,}
+A='Glosa3510'
+{abaixar-se, acaçapar-se, acachapar-se, acocorar-se, agachar-se}
+Chave: LEVANTAR-SE <verb.stative>
+ILI: 02615602
+
+Sense 4
+{02615602} <verb.stative> rise, lift1, rear -- (rise up; "The building rose before them")
+       => {02071636} <verb.perception> look1, appear, seem -- (give a certain impression or have a certain outward aspect; "She seems to be sleeping"; "This appears to be a very difficult problem"; "This project looks fishy"; "They appeared like people who had not eaten or slept for a long time")
+           => {02526983} <verb.stative> be3 -- (have the quality of being; (copula, used with an adjective or a predicate noun); "John is rich"; "This is not a good answer")

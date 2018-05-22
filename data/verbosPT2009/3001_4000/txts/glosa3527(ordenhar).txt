@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA3527
+
+DADO O SYNSET:
+
+S='Glosa3527'
+	    {
+	      mungir: Lembro-me de o leiteiro nos levar o leite que acabara de I]mungir das vaquinhas. ,
+	      ordenhar: Quando tinha 6 anos, já ajudava o pai a ]ordenhar as vacas. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3527' = “tirar leite de animais fêmeas”
+	     {mungir: I]Mungia as vacas, transportava para dentro os baldes, movia a desnatadeira e tratava dos porcos e cavalos.,
+	      ordenhar: A menina I]ordenhou a vaca para vender o leite.,}
+Chave: ORDENHAR <verb.change>
+ILI: 00187523
+
+Sense 1
+{00187523} <verb.change> milk -- (take milk from female mammals; "Cows need to be milked every morning")
+       => {01800479} <verb.motion> draw, take out -- (take liquid out of a container or well; "She drew water from the barrel")
+           => {00166870} <verb.change> remove, take, take away1, withdraw1 -- (remove something concrete, as by lifting, pushing, taking off, etc. or remove something abstract; "remove a threat"; "remove a wrapper"; "Remove the dirty dishes from the table"; "take the gun from your pocket"; "This machine withdraws heat from the environment")

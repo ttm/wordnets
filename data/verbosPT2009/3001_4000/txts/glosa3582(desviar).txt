@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA3582
+
+DADO O SYNSET:
+
+S='Glosa3582'
+	    {
+	      desviar: Os três aviões deixaram território americano com plano de vôo rumo às Bahamas e depois [desviaram seu caminho para Cuba.,
+	      obliquar: Curvava-se até para lá da fonte de Siloé, após a qual, a este, I]obliquava na direcção da Piscina de Salomão. / O carro, a vinte metros, I]obliquou para esquerda, por si mesmo, e foi parar, suavemente, como se suspirasse, no fim da fila.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3582' = “desviar; afastar-se de”
+	     {desviar: Os três aviões deixaram território americano com plano de vôo rumo às Bahamas e depois [desviaram seu caminho para Cuba.,
+	      obliquar: O carro, a vinte metros, I]obliquou para esquerda, por si mesmo, e foi parar, suavemente, como se suspirasse, no fim da fila.,}
+Chave: DESVIAR <verb.motion>
+ILI: 02006312
+
+Sense 2
+{02006312} <verb.motion> deviate, divert -- (turn aside; turn away from)
+       => {01851475} <verb.motion> turn -- (change orientation or direction, also in the abstract sense; "Turn towards me"; "The mugger turned and fled before I could see his face"; "She turned from herself and learned to listen to others' needs")
+           => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right")

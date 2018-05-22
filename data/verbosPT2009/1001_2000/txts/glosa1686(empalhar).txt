@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA1686
+
+DADO O SYNSET:
+
+S='Glosa1686'
+{empalhar: Taxidérmicos, é claro, que são aqueles que passam por um processo de taxidermia, a arte de I]empalhar animais. ,
+ empalheirar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1686' = “encher com um material (a pele de um animal morto), para conservar-lhe as formas”
+{empalhar: Taxidérmicos, é claro, que são aqueles que passam por um processo de taxidermia, a arte de I]empalhar animais. ,}
+Chave: EMPALHAR <verb.change>
+ILI: 00310784
+
+Sense 6
+{00310784} <verb.change> stuff2 -- (fill tightly with a material; "stuff a pillow with feathers"; "The old lady wants to have her dead poodle stuffed by the taxidermist")
+       => {00439460} <verb.change> fill1, fill up, make full -- (make full, also in a metaphorical sense; "fill a container"; "fill the child with pride")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

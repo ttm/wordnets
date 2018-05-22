@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA1728
+
+DADO O SYNSET:
+
+S='Glosa1728'
+{encarrar: x,
+ encarretar: Levantei-me e fomos I]encarretar as motos, não fui na chegada, não fui na entrega dos troféus.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1728' = “colocar em carreta”
+{encarretar: Pagoto resolveu I]encarretar os animais e percorrer o trecho de caminhão.,}
+Chave: ENCARRETAR <verb.change>
+ILI: EQ_HAS_HYPERONYM – 00182001 – “colocar [em]”
+
+Sense 1
+{00182001} <verb.change> inset -- (set or place in)
+       => {00181348} <verb.change> insert, enclose, inclose, stick in, put in, introduce3 -- (introduce; "Insert your ticket here")
+           => {01452069} <verb.contact> put, set, place, pose2, position, lay1 -- (put into a certain place or abstract location; "Put your things here"; "Set the tray down"; "Set the dogs on the scent of the missing children"; "Place emphasis on a certain point")
+               => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

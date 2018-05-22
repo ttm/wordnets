@@ -1,0 +1,42 @@
+ANÁLISE DA GLOSA1684
+
+DADO O SYNSET:
+
+S='Glosa1684'
+{abrandar-se: Ea sua ferocidade |[abrandou-se um pouco.,
+ adoçar-se: Meu coração I]adoçou-se e o sentimental que mora em mim se fez presente.,
+ amolecer-se: Sua leveza de espírito fez com que ela aos poucos deixasse de ser uma pedra, e seu coração I]amoleceu-se. ,
+ comover-se: Mas o coração bondoso do presidente I]comoveu-se com as lágrimas do arrependimento da Bené e perdoou a companheira pilhada em flagrante deslize.,
+ compungir-se: Ouvindo eles estas coisas, I]compungiu-se-lhes o coração e perguntaram a Pedro e aos demais apóstolos: Que faremos, irmãos? ,
+ derreter-se: Meu coração pegou fogo e seu orgulho I]derreteu-se em humildade.,
+ desarmar-se: O instinto rude se A]desarma em prece.,
+ embrandecer-se: x,
+ emocionar-se: Se em Salvador, Michael Jackson [emocionou-se com a alegria do povo baiano e a beleza dos ritmos afro-brasileiros, ontem ele desceu mais um degrau do pedestal e aproximou-se o quanto pode dos moradores da Favela Santa Marta .,
+ enternecer-se: Mas o menino era demasiado pequenino, e,  ao contemplar o gigante aquela cena seu coração I]enterneceu-se.,
+ sensibilizar-se: Veridiana I]sensibilizou-se com o que ouviu mas não deixou transparecer nenhuma reação. ,
+ suavizar-se: Meu coração I]suavizou-se a seu favor e consultei seriamente a comunidade se o admitiríamos como Compannheiro, já que a Providência não nos enviava outro.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1684' = “tornar-se mais tranqüilo, sereno, afável”
+{abrandar: O tom só I]abrandou quando respondeu sobre suas recordações do Brasil.,
+ abrandar-se: E a sua ferocidade I[abrandou-se um pouco.,
+ adoçar-se: A agonia desta civilização se reveste com o traje da felicidade e se I]adoça com um enorme sorriso de satisfação.,
+ amolecer: Se antes Valur parecia juvenil e combativo, apesar dos seus 27 anos, de repente, I]amoleceu e passou a participar de quase tudo passivamente.,
+ amolecer-se: Sua leveza de espírito fez com que ela aos poucos deixasse de ser uma pedra, e seu coração I]amoleceu-se.,
+ comover-se: Mas o coração bondoso do presidente I]comoveu-se com as lágrimas do arrependimento da Bené e perdoou a companheira pilhada em flagrante deslize.,
+ compungir-se: A moça, que não se I]compungiu com o falso drama, pediu demissão na hora.,
+ derreter: No momento em que ela viu isso, o coração dela derreteu!,
+ derreter-se: Meu coração pegou fogo e seu orgulho I]derreteu-se em humildade.,
+ desarmar-se: O “aperreado” já se I]desarmou e me trata como irmão.,
+ emocionar-se: Marta (Lilia Cabral), que se manteve fria e dura com a notícia da perda da filha, finalmente se I]emociona no velório.,
+ enternecer: O major parou... encarou-as um instante: seu semblante foi-se visivelmente I]enternecendo, enrugando, e por fim desatou também a chorar de enternecido.,
+ enternecer-se: Mas o menino era demasiado pequenino, e,  ao contemplar o gigante aquela cena seu coração I]enterneceu-se.,
+ sensibilizar-se: Veridiana I]sensibilizou-se com o que ouviu mas não deixou transparecer nenhuma reação.,
+ suavizar-se: Meu coração I]suavizou-se a seu favor e consultei seriamente a comunidade se o admitiríamos como Compannheiro, já que a Providência não nos enviava outro.,}
+Chave: AMOLECER <verb.change>
+ILI: 00246072
+
+Sense 3
+{00246072} <verb.change> mellow3, melt4, mellow out -- (become more relaxed, easygoing, or genial; "With age, he mellowed")
+       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

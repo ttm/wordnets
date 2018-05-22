@@ -1,0 +1,74 @@
+ANÁLISE DA GLOSA4076
+
+DADO O SYNSET:
+
+S='Glosa4076'
+{acender: O amor H]acendeu o coração dele.,
+acirrar: Os discursos inflamados H]acirravam as multidões contra as autoridades.,
+açodar: A morte anunciada acelerou a decadência e I]açodou a delinqüência.,
+acordar1: A música M]acorda os sentimentos.,
+acotovelar: O comandante H]acotovelou a tropa até a exaustão.,
+açular: O homem I]açula seus engraxates de uniforme contra os engraxates de farrapos.,
+afalcoar: x,
+aferroar: A indiferença da jovem H]aferroava-o.,
+afervorar: Com habilidade diplomática conseguiu articular alianças de príncipes, I]afervorou as tropas reunidas e foi a grande alma propulsora da gloriosa vitória.,
+afoguear: Essa maneira de ver a arte I]afogueou os debates culturais nos países capitalistas.,
+aguilhar: x,
+aguilhoar: Tudo depende da resposta que for dada a essa dúvida inicial que nos I]aguilhoa, que nos incomoda, que nos deixa temerosos.,
+aliciar: Um padre, diretor de uma escola tradicional, I]aliciou menores a consumir bebida alcoólica, usando como pretexto um culto.,
+apicaçar: x,
+atiçar: Ele I]atiçou a curiosidade dos convivas, que, alheios à fama do ator, perguntavam os nomes dos filmes de que ele já havia participado.,
+beliscar: Era uma transição memorável que I]beliscava minha inspiração.,
+concitar: Telefonemas de populares I]concitaram o Quartel a determinar que o Corpo de Bombeiros comparecesse a uma quadra abaixo da avenida principal. ,
+cotovelar: x,
+desafiar1: Um grupo de jovens I]desafiou um velho sábio a decifrar uma enigma.,
+despertar: A leitura que realmente me I]despertou o desejo de escrever histórias foi a de As Mil e uma noites.,
+eletrizar: O cientista Robert Bauval I]eletrizou o meio científico com seu estudo.,
+escandescer: O patriotismo M]escandescia-o.,
+esfoguear: x,
+espicaçar: A narrativa desse combate I]espicaçou a curiosidade sobre o assunto.,
+esporar: x,
+esporear: A ambição de glória A]esporeia-o. ,
+estimular: As vitaminas do Complexo B I]estimulam o apetite, o crescimento e fortificam os nervos.,
+estugar: Impaciente, o cavalariço H]estugava o animal.,
+excitar: A arquitetura sempre I]excitou até as nossas melhores mentes.,
+garrochar: x,
+impelir: Grande ato em defesa da FFLCH I]impeliu a Reitoria a negociar.,
+incitar: As experiências I]incitaram discussões que iam à raiz do fazer teatral.,
+inflamar: A certeza de defender uma boa causa I]inflamou a oratória do advogado.,
+instigar: A esposa, baixa, trêfega, de um moreno pálido sob o qual se via arder uma alma ambiciosa, I]instigava-o a ir ao encontro das posições aparatosas.,
+mordicar: x,
+mordiscar: Não é que espetáculo daquele aniquilamento lhe tocasse o coração, mas porque lhe I]mordiscava a curiosidade com esse frívolo interesse de pavor.,
+motivar: M]Motivou-o em pareceres técnicos.,
+picar: Nada faz, se não o M]picam.,
+provocar: Carter I]provocou a raiva de Rubi, marido de uma paciente, por não ter lhe informado que sua esposa estava a ponto de falecer.,
+pruir: x,
+prurir: O cheiro de I]apetitosa carne lhes pruria o olfato.,
+pungir: Uma nova paixão é o que mais H]punge o poeta.,
+puxar: A falta de higiene H]puxa a doença.,
+repruir: A cena A]repruiu os ânimos.,
+reprurir: x,
+soprar: O próprio presidente H]soprava a discórdia.,
+velicar: x,}
+
+A='Glosa98'
+{desestimular, desmotivar}
+	  
+A ANÁLISE RESULTA EM:
+
+S='Glosa4076' = “despertar sentimentos ou paixões”
+{acender: O amor H]acendeu o coração dele.,
+acordar1: A música M]acorda os sentimentos.,
+afervorar: A Palavra do Senhor I]afervorou seu coração e o abriu ao amor.,
+afoguear: Essa maneira de ver a arte I]afogueou os debates culturais nos países capitalistas.,
+atiçar: Ele I]atiçou a curiosidade dos convivas, que, alheios à fama do ator, perguntavam os nomes dos filmes de que ele já havia participado.,
+despertar: A leitura que realmente me I]despertou o desejo de escrever histórias foi a de As Mil e uma noites.,
+espicaçar: A narrativa desse combate I]espicaçou a curiosidade sobre o assunto.,
+inflamar: A reunião do Mercosul em Buenos Aires [inflamou o espírito boêmio da comitiva presidencial.,}
+Chave: DESPERTAR <verb.emotion>
+ILI: 01710296
+
+Sense 1
+{01710296} <verb.emotion> inflame, stir up, wake, ignite, heat, fire up -- (arouse or excite feelings and passions; "The ostentatious way of living of the rich ignites the hatred of the poor"; "The refugees' fate stirred up compassion around the world"; "Wake old feelings of hatred")
+       => {01708538} <verb.emotion> arouse, elicit, enkindle, kindle, evoke, fire, raise8, provoke -- (call forth (emotions, feelings, and responses); "arouse pity"; "raise a smile"; "evoke sympathy")
+           => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA2353
+
+DADO O SYNSET:
+
+S='Glosa2353'
+	    {cabecear: Na cama ela leu metade do relatório e começou a I]cabecear de sono.,
+	      escabecear: Como não dormira, H]escabeceava sem parar.,
+	      tontear: É uma dor muito estranha, chega a amolecer o corpo e a I]tontear a cabeça.# Logo que sentir a cabeça I]tontear e o estômago revirar, tome 2 a 5 gotas de clorofórmio, que o mal desaparecerá logo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2353' = “Deixar a cabeça cair para frente por causa de sonolência.”
+	    {cabecear: Na cama ela leu metade do relatório e começou a I]cabecear de sono.,
+	      escabecear: Como não dormira, H]escabeceava sem parar.,
+	      tontear: M]Tonteava de sono.,}
+
+Chave: TONTEAR <verb.body>
+ILI: 00016389
+
+Sense 3
+{00016389} <verb.body> nod3 -- (let the head fall forward through drowsiness; "The old man was nodding in his chair")

@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0746
+
+DADO O SYNSET:
+
+S='Glosa746'
+{azedar: Fatos novos que poderão [azedar o apoio político às medidas econômicas.,
+dificultar: O Departamento do Tesouro americano começou, ontem, a enviar para os bancos a nova nota de US$ 100, redesenhada pela primeira vez em 68 anos e feita especialmente para [dificultar a vida de falsificadores.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa746' = “pôr impedimentos, obstáculos a”
+{azedar: Fatos novos que poderão [azedar o apoio político às medidas econômicas.,
+dificultar: O Departamento do Tesouro americano começou, ontem, a enviar para os bancos a nova nota de US$ 100, redesenhada pela primeira vez em 68 anos e feita especialmente para [dificultar a vida de falsificadores.,}
+Chave: DIFICULTAR <verb.change>
+ILI: 00286049
+
+Sense 4
+{00286049} <verb.change> season, harden2 -- (make fit; "This trip will season even the hardiest traveller")
+       => {00293734} <verb.change> toughen -- (make tough or tougher; "This experience will toughen her")
+           => {00212992} <verb.change> strengthen -- (gain strength; "His body strengthened")
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

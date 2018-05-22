@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0508
+
+DADO O SYNSET:
+
+S='Glosa508'
+{alistar-se: Voltou a a [alistar-se na Segunda Guerra Mundial 1939 -- 1945.,
+engajar-se: Nascido em Nice, no ano de 1807, Giuseppe Garibaldi [engajou-se na marinha mercante com apenas dezoito anos. ,
+recrutar-se: I]Recrutaram-se diversos homens (até mulheres se apresentaram) que, liderados pelo general Bertoldo Klinger, esperavam o apoio do Rio Grande do Sul.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa508' = “inscrever (-se) no exército” 
+{alistar-se: Voltou a [alistar-se na Segunda Guerra Mundial 1939 -- 1945.,
+engajar-se: Nascido em Nice, no ano de 1807, Giuseppe Garibaldi [engajou-se na marinha mercante com apenas dezoito anos. ,
+recrutar-se: I]Recrutaram-se diversos homens (até mulheres se apresentaram) que, liderados pelo general Bertoldo Klinger, esperavam o apoio do Rio Grande do Sul.,}
+Chave: ALISTAR-SE <verb.competition>
+ILI: 01062159
+
+Sense 1
+{01062159} <verb.competition> enlist -- (join the military)
+       => {01062276} <verb.competition> sign up -- (join a club, an activity, etc. with the intention to join or participate, "Sign up for yoga classes")
+           => {02361668} <verb.social> join, fall in, get together2 -- (become part of; become a member of a group or organization; "He joined the Communist Party as a young man")

@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0409
+
+DADO O SYNSET:
+
+S='Glosa409'
+{girar: Caso ele não existisse, os pneus [girariam em falso e os pés escorregariam.,
+revolver: Minha mãe apalpava-lhe o coração, I]revolvia-lhe os olhos, eo meu nome era entre ambas como a senha da vida futura.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa409' = “mover (-se) ao redor do seu centro ou eixo central”
+{girar: Caso ele não existisse, os pneus [girariam em falso e os pés escorregariam.,
+revolver: Minha mãe apalpava-lhe o coração, I]revolvia-lhe os olhos, e o meu nome era entre ambas como a senha da vida futura.,}
+Chave: GIRAR <verb.motion>
+ILI: 01986772
+
+Sense 1
+{01986772} <verb.motion> revolve, go around1, rotate1 -- (turn on or around an axis or a center; "The Earth revolves around the Sun"; "The lamb roast rotates on a spit over the fire")
+       => {02036615} <verb.motion> turn4 -- (move around an axis or a center; "The wheels are turning")
+           => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right")
+          Also See-> {02595775} <verb.stative> revolve around#1

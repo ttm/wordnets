@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0411
+
+DADO O SYNSET:
+
+S='Glosa411'
+{aliançar-se: Quem quer se garantir precisa I]aliançar-se com lideranças estaduais.,
+aliar-se: Andrade Vieira pode [aliar-se a FHC, desde que tenha seu apoio para concorrer ao governo do Estado.,
+casar-se: A verdade é que uma cousa não impede outra, e a reflexão [casa-se muito bem à curiosidade natura.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa411' = “tornar (-se) um aliado ou sócio, assim como um tratado ou casamento”
+{aliançar-se: Quem quer se garantir precisa I]aliançar-se com lideranças estaduais.,
+aliar-se: Andrade Vieira pode [aliar-se a FHC, desde que tenha seu apoio para concorrer ao governo do Estado.,
+casar-se: A verdade é que uma cousa não impede outra, e a reflexão [casa-se muito bem à curiosidade natura.,}
+Chave: ALIAR-SE <verb.social>
+ILI: 02357040
+
+Sense 1
+{02357040} <verb.social> ally -- (become an ally or associate, as by a treaty or marriage; "He allied himself with the Communists")
+       => {02512288} <verb.social> consort12, associate2, affiliate12, assort12 -- (keep company with; hang out with; "He associates with strange people"; "She affiliates with her colleagues")
+           => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+               => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

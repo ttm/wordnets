@@ -1,0 +1,41 @@
+ANÁLISE DA GLOSA3531
+
+DADO O SYNSET:
+
+S='Glosa3531'
+	    {
+	      ciciar: Assim estremece a verde palma, quando a haste frágil foi abalada; rorejam do espato as lágrimas da chuva, e os leques [ciciam brandamente. / Os bambus suspiravam; as cigarras [ciciavam; as rolas gemiam amorosamente . ,
+	      murmulhar: Com o vento, as árvores H]murmulhavam.,
+	      murmurar: Ventos suaves I]murmuram aos ouvidos. ,
+	      murmurejar: A virgem seguira o estrangeiro como a brisa sutil que resvala sem [murmurejar por entre a ramagem. ,
+	      rugitar: A brisa [rugitava nos palmares. ,
+	      ruidar: Um surdo rumor, como o eco das ondas quebrando nas praias, [ruidava ali. ,
+	      rumorar: A chaleira I]rumorava sobre uma trempe, entre labaredas desiguais.,
+	      rumorejar: Os leques das palmeiras se agitaram [rumorejando. ,
+	      surdinar: Cora Coralina, tão gostoso pronunciar esse nome, que começa aberto em rosa e depois desliza pelas entranhas do mar, I]surdinando música de sereias antigas. ,
+	      suspirar: Quando o inverno chega, as árvores devem suspirar de tristeza ao ver suas folhas caírem ./ O cristão adormeceu ouvindo [suspirar entre os murmúrios da floresta, o canto mavioso da virgem indiana. ,
+	      sussurrar: Os sopros escassos da viração sussurravam na folhagem.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3531' = “fazer um som ruidoso, como de vento, água ou veículos” 
+	     {ciciar: Assim estremece a verde palma, quando a haste frágil foi abalada; rorejam do espato as lágrimas da chuva, e os leques [ciciam brandamente. / Cigarras I]ciciavam longe eo sol queimava as pétalas das margaridas . ,
+	      murmulhar: Com o vento, as árvores H]murmulhavam.,
+	      murmurar: Ventos suaves I]murmuram aos ouvidos. ,
+	      murmurejar: A virgem seguira o estrangeiro como a brisa sutil que resvala sem [murmurejar por entre a ramagem. ,
+	      rugitar: A brisa [rugitava nos palmares. ,
+	      ruidar: Um surdo rumor, como o eco das ondas quebrando nas praias, [ruidava ali.,
+	      rumorar: A chaleira I]rumorava sobre uma trempe, entre labaredas desiguais.,
+	      rumorejar: Os leques das palmeiras se agitaram [rumorejando. ,
+	      surdinar: Cora Coralina, tão gostoso pronunciar esse nome, que começa aberto em rosa e depois desliza pelas entranhas do mar, I]surdinando música de sereias antigas. ,
+	      suspirar: Iracema gostava do Muritiapuá, onde o vento I]suspirava docemente./ E da porta o vento I]suspirava pelas frestas. ,
+	      sussurrar: O vento I]sussurrava na calada noite.,}
+Chave: RUMOREJAR <verb.communication>
+ILI: 01012485
+
+Sense 1
+{01012485} <verb.communication> roar1, howl1 -- (make a loud noise, as of wind, water, or vehicles; "The wind was howling in the trees"; "The water roared down the chute")
+       => {02110511} <verb.perception> make noise, resound, noise -- (emit a noise)
+           => {02113837} <verb.perception> sound, go -- (make a certain noise or sound; "She went `Mmmmm'"; "The gun went `bang'")
+               => {02062507} <verb.perception> cause to be perceived -- (have perceptible qualities)

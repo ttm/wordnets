@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA0181
+
+DADO O SYNSET:
+
+S='Glosa181'
+{apetrechar-se: Dito isso, I]apetrechou-se de carnes e farinhas e rumou com a bandeira para o sertão.,
+armar-se: O grupo I]armou-se de caminhonetes Nissan e enfrentou uma série de trilhas médias e pesadas na região de Gramado e Canela.,
+equipar-se: Quem prefere águas mais tranquilas pode [equipar-se com máscara, respirador e nadadeira e explorar o fundo da lagoa,
+petrechar-se: x,
+premunir-se: Já não restam maiores dúvidas de que o maligno ditador iraquiano I]premuniu-se de armas de destruição maciça, a fim de obter pela ameaça e a força bélica o controle do petróleo dos Orientes Próximo e Médio.,
+preparar-se: Pelos princípios do Verão, I]preparou-se e partiu; desceu o Volga de vapor até Samara, depois andou a pé noventa léguas.,
+prover-se: Nessa intenção fora Poti [se prover dos objetos necessários.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa181' = “prover(-se) com (algo) geralmente por um propósito específico”
+{apetrechar-se: Dito isso, I]apetrechou-se de carnes e farinhas e rumou com a bandeira para o sertão.,
+armar-se: O grupo I]armou-se de caminhonetes Nissan e enfrentou uma série de trilhas médias e pesadas na região de Gramado e Canela.,
+equipar-se: Quem prefere águas mais tranquilas pode [equipar-se com máscara, respirador e nadadeira e explorar o fundo da lagoa,
+premunir-se: Já não restam maiores dúvidas de que o maligno ditador iraquiano I]premuniu-se de armas de destruição maciça, a fim de obter pela ameaça e a força bélica o controle do petróleo dos Orientes Próximo e Médio.,
+prover-se: Nessa intenção fora Poti [se prover dos objetos necessários.,}
+Chave: EQUIPAR-SE <verb.possession>
+ILI: 02271939
+
+Sense 1
+{02271939} <verb.possession> equip, fit, fit out, outfit -- (provide with (something) usually for a specific purpose; "The expedition was equipped with proper clothing, food, and other necessities")
+       => {02259805} <verb.possession> supply, provide, render2, furnish -- (provide or furnish with; "We provided the room with an electrical heater")
+           => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+               => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children")

@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA3197
+
+DADO O SYNSET:
+
+S='Glosa3197'
+	    {
+	      atentar2: Só H]atenta seus projetos após longa análise.,
+	      cometer: Ponderadas as  vantagens e as desvantagens, resolveram A]cometer o plano qual o haviam projetado.,
+	      empreender: À primeira vista, ao teórico, ele não está sequer em posição de [empreender alguma coisa com leis mais gerais encontradas empiricamente. # Jovem apaixonado resolveu esperar três anos, e só quando perdeu o pai e se tornou herdeiro de uma pequena fortuna é que se decidiu a [empreender a conquista da moça com o fito de esposá-la. ,
+	      intentar: E I]intentaram conspirar contra ele; porém, fizemo-los os mais humilhados.,
+	      interprender: x,
+	      interpresar: x,
+	      tentar: Arrigo está esperando que o visto de seu passaporte italiano saia para [tentar novos espaços na Europa.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3197' = “efetivar”
+	     {atentar2: Só H]atenta seus projetos após longa análise.,
+	      empreender: O Partido Republicano Rio-Grandense I]empreendeu modernização autoritária pró-capitalista e antiliberal, voltada à autonomia política, econômica e social regional, que se apoiou na ideologia antidemocrática do positivismo comtiano. ,
+	      intentar: Recentemente, em 05 de outubro de 2003, José da Silva I]intentou uma ação judicial visando a. dissolução da sociedade empresária.,
+	      tentar: O governo Dutra (1946-50) I]tentou uma organização mais racional de diversos serviços públicos, inclusive o da saúde.,}
+Chave: EMPREENDER <verb.creation>
+ILI: 01594283
+
+Sense 3
+{01594283} <verb.creation> carry through, accomplish, execute, carry out, action, fulfill, fulfil -- (put in effect; "carry out a task"; "execute the decision of the people"; "He actioned the operation")
+       => {00470712} <verb.change> complete2, finish2 -- (come or bring to a finish or an end; "He finished the dishes"; "She completed the requirements for her Master's Degree"; "The fastest runner finished the race in just over 2 hours; others finished in over 4 hours")
+           => {00341640} <verb.change> end1, terminate1 -- (bring to an end or halt; "She ended their friendship when she found out that he had once been convicted of a crime"; "The attack on Poland terminated the relatively peaceful period after WWI")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")
+       => {01596269} <verb.creation> effect, effectuate, bring about, set up3 -- (produce; "The scientists set up a shockwave")
+           => {01598809} <verb.creation> cause, do2, make8 -- (give rise to; cause to happen or occur, not always intentionally; "cause a commotion"; "make a stir"; "cause an accident")
+               => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

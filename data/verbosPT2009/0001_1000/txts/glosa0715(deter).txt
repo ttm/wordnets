@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0715
+
+DADO O SYNSET:
+
+S='Glosa715'
+{demorar: Proceder-se ex officio pela Polícia à verificação do seu estado no caso deles declararem que são forros, como seja tirando informações pelos lugares, onde eles disserem que residiam, e fazendo-se outras indagações sem ser necessário I]demorá-los tanto tempo no Calabouço inutilmente.,
+deter: Espere, seu Sebastião gritava o Casusa, querendo [detê-lo, empenhado na palestra.,
+reter: Despediu-se da lendária cocote, que tentava I]retê-lo ainda alguns instantes perguntando se ele escreveria sua história, ao que ele respondeu que ela já estava sendo escrita.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa715' = “fazer ficar atrasado ou impedir de ir”
+{demorar: Proceder-se ex officio pela Polícia à verificação do seu estado no caso deles declararem que são forros, como seja tirando informações pelos lugares, onde eles disserem que residiam, e fazendo-se outras indagações sem ser necessário I]demorá-los tanto tempo no Calabouço inutilmente.,
+deter: Espere, seu Sebastião gritava o Casusa, querendo [detê-lo, empenhado na palestra.,
+reter: Despediu-se da lendária cocote, que tentava I]retê-lo ainda alguns instantes perguntando se ele escreveria sua história, ao que ele respondeu que ela já estava sendo escrita.,}
+Chave: DETER <verb.change>
+ILI: 00446752
+
+Sense 3
+{00446752} <verb.change> delay, detain, hold up -- (cause to be slowed down or delayed; "Traffic was delayed by the bad weather"; "she delayed the work that she didn't want to perform")
+       => {00427351} <verb.change> decelerate, slow, slow down, slow up1, retard -- (lose velocity; move more slowly; "The car decelerated")
+           => {00146081} <verb.change> decrease, diminish, lessen, fall6 -- (decrease in size, extent, or range; "The amount of homework decreased towards the end of the semester"; "The cabin pressure fell dramatically"; "her weight fall to under a hundred pounds"; "his voice fell to a whisper")
+               => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

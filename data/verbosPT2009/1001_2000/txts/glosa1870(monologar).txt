@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA1870
+
+DADO O SYNSET:
+
+S='Glosa1870'
+{entredizer: Murilo Mendes cada vez que de carro cruzava um rio, reverente, tirava o chapéu e I]entredizia na voz surda: Guadalete (ou que rio fosse), o Paraibuna te saluda. ,
+ entrefalar: As bocas A]entrefalavam saudades.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1870' = “falar consigo mesmo”
+{entredizer: Murilo Mendes cada vez que de carro cruzava um rio, reverente, tirava o chapéu e I]entredizia na voz surda: Guadalete (ou que rio fosse), o Paraibuna te saluda.,
+ monologar: Prestou toda a atenção e convenceu-se de que alguém contou toda a atenção e convenceu-se de que alguém conversava ou [monologava em voz baixa por ali perto.,}
+Chave: MONOLOGAR <verb.communication>
+ILI: 00932537
+
+Sense 1
+{00932537} <verb.communication> monologuize, monologuise, soliloquize, soliloquise -- (talk to oneself)
+       => {00930524} <verb.communication> talk1, speak1 -- (exchange thoughts; talk with; "We often talk business"; "Actions talk louder than words")
+           => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+               => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

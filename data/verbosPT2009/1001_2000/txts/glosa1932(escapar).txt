@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA1932
+
+DADO O SYNSET:
+
+S='Glosa1932'
+{despegar-se: A mãe, apesar de muita lágrima que teria de verter ao I]despegar-se do filho, cedeu mais prontamente do que supúnhamos. ,
+ desprender-se: Porém teve mão em si: [desprendeu-se dos braços dela com muita brandura, beijou-lhe respeitosamente as mãos e pediu-lhe que saísse.,
+ escapar: Três vezes seu punho robusto a brandiu, e três vezes ela [escapou-lhe da mão, como a serpente das garras do gavião.,
+ soltar-se: Iracema [soltou-se dos braços do mancebo, e olhou-o com tristeza.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1932' = “deixar de estar sob o controle [de]”
+{despegar-se: Rodolfo Bernardelli I]despegou-se do cargo, caiu e desapareceu na vala comum dos sem assistência.,
+ desprender-se: Porém teve mão em si: [desprendeu-se dos braços dela com muita brandura, beijou-lhe respeitosamente as mãos e pediu-lhe que saísse.,
+ escapar: Três vezes seu punho robusto a brandiu, e três vezes ela [escapou-lhe da mão, como a serpente das garras do gavião.,
+ soltar-se: Apavorada, a sapa velha deu um salto, se I]soltou dos braços dos guardas.,}
+Chave: ESCAPAR <verb.motion>
+ILI: 02040870
+
+Sense 2
+{02040870} <verb.motion> run away4 -- (escape from the control of; "Industry is running away with us all")
+       => {02015953} <verb.motion> escape, get away, break loose -- (run away from confinement; "The convicted murderer escaped from a high security prison")
+           => {02016731} <verb.motion> flee, fly3, take flight -- (run away quickly; "He threw down his gun and fled")
+               => {02016325} <verb.motion> run4, scarper, turn tail, lam, run away, hightail it, bunk, head for the hills, take to the woods, escape2, fly the coop, break away -- (flee; take to one's heels; cut and run; "If you see this man, run!"; "The burglars escaped before the police showed up")
+                   => {01951556} <verb.motion> leave1, go forth, go away -- (go away from a place; "At what time does your train leave?"; "She didn't leave until midnight"; "The ship leaves at midnight")

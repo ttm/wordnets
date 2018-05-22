@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA0723
+
+DADO O SYNSET:
+
+S='Glosa723'
+{aureolar: Scorsese recusa as cores vivas, o vermelho sanguíneo e o azul celeste que [aureolavam Stallone,
+coroar: No lugar das orelhas, [coroando sua cabeça calva, possui duas grandes asas de morcego abertas.,
+nimbar: Como diz Durand, o "nouveau mal du siècle"acusa as falsas expectações do projeto iluminista e do espírito prometeico, I]nimbando-os com as cores de Psyche.,}
+A='Glosa1947'
+{descoroar, escoroar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa723' = “entronar, pôr coroa em”
+{aureolar: Scorsese recusa as cores vivas, o vermelho sanguíneo e o azul celeste que [aureolavam Stallone,
+coroar: No lugar das orelhas, [coroando sua cabeça calva, possui duas grandes asas de morcego abertas.,
+nimbar: Como diz Durand, o "nouveau mal du siècle"acusa as falsas expectações do projeto iluminista e do espírito prometeico, I]nimbando-os com as cores de Psyche.,}
+A='Glosa1947'
+{descoroar, escoroar}
+Chave: COROAR <verb.social>
+ILI: 02319354
+
+Sense 1
+{02319354} <verb.social> crown, coronate -- (invest with regal power; enthrone; "The prince was crowned in Westminster Abbey")
+       => {02314917} <verb.social> invest, vest, enthrone1 -- (provide with power and authority; "They vested the council with special rights")
+           => {02312615} <verb.social> install -- (put into an office or a position; "the new president was installed immediately after the election")

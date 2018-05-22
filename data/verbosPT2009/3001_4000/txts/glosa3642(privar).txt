@@ -1,0 +1,54 @@
+ANÁLISE DA GLOSA3642
+
+DADO O SYNSET:
+
+S='Glosa3642'
+	    {
+	      amover: Em testamento público, H]amoveu os antigos beneficiários.,
+	      desapoderar: Jesus convida o jovem rico a [desapoderar-se dos seus bens.,
+	      desapossar: I]Desapossar judicialmente o detentor ilegítimo daquilo que pertence a outra pessoa. / I]Desapossar os profissionais de seus filmes fotográficos.,
+	      desapropriar: Após muitas protelações, o governo [desapropriou ontem a fazenda. ,
+	      desbulhar1: x,
+	      desempossar: Demetrio Poliorcetes devolve a Atenas sua liberdade, I]desempossa o macedônio da Grécia inteira e se proclama seu libertador.,
+	      despir: Os servos do mal I]despiram Papilo de suas roupas e crucificaram-no.,
+	      despojar: Um dos roubadores segura a vítima para seu comparsa a I]despojar dos bens.,
+	      despossar: x,
+	      despossuir: Não é possível realizar a igualdade sem suprimir os patrões, I]despossuindo-os de tudo aquilo que injustamente detêm.,
+	      esbulhar: Os sem-terra alegam que, ao I]esbulhar propriedades, apenas se defendem da inércia do Estado. / Governar bem não é I]esbulhar quem trabalha de suas posses.,
+	      espoliar: Mitos políticos acham que a economia de mercado é uma conspiração de empresários e banqueiros para I]espoliar o povo.  ,
+	      excluir: O fazendeiro queria I]excluir a nora da herança. ,
+	      orfanar: Seu falecimento M]orfanou a empresa de um preclaro e seguro líder.,
+	      privar: Mesmo o problema do desemprego não pode [privar o país de ter acesso às novas tecnologias.,
+	      tirar: O militantismo extremo impediria a liberdade de pensar e [tiraria a liberdade de escolher.,
+	      tosquiar: Nada parece agradar mais a classe industrial do que I]tosquiar o resto dos brasileiros, como consumidores e contribuintes. ,
+	      trosquiar: Na conta não entravam as sextas-feiras, dia da paixão de Cristo, em que seria irreverência I]trosquiar a vil relé de agarenos.,
+	    }
+	  A='Glosa2661'
+	    {
+	     devolver: Já mandou [devolver o material.,
+	     repor: O bispo levou dez meses para [repor o dinheiro, mas a dívida recebeu aval de Magalhães Pinto.,
+	     restituir: É bem provável, inclusive, que eles queiram devolvê-lo antes do término do empréstimo, disse, explicando que, nesse caso, o Flamengo teria que [restituir o clube paulista em US$ 400 mil.,
+	     revocar: "Graças a você, Dumbledore pôde I]revocar a Ordem da Fênix cerca de uma hora depois que Voldemort retornou”, disse Sirius. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3642' = “tirar as posses de alguém” 
+	     {desapossar: Com a sua morte, um filho mais novo, Aristóbulo II, I]desapossou seu irmão mais velho.,
+	      desapropriar: Em seguida, [desapropriou as grandes propriedades rurais dos poloneses, mediante o pagamento de indenização.,
+	      desempossar: Demetrio Poliorcetes devolve a Atenas sua liberdade, I]desempossa o macedônio da Grécia inteira e se proclama seu libertador.,
+	      despojar: Em quatorze meses, a ditadura I]despojou a nação de suas riquezas naturais e as deu como obséquio ao imperialismo.,
+	      espoliar: O Norte já expropriou e I]espoliou tudo que podia do resto do mundo, de forma ilegal, fraudulenta, imoral.  ,
+	      privar: O desligamento de antenas de transmissão de sinal I]privou do serviço de telefonia móvel mais de 200 mil pessoas.,
+	      tirar: O militantismo extremo impediria a liberdade de pensar e [tiraria a liberdade de escolher.,}
+	  A='Glosa2661'
+	    {devolver: Já mandou [devolver o material.,
+	     repor: O bispo levou dez meses para [repor o dinheiro, mas a dívida recebeu aval de Magalhães Pinto.,
+	     restituir: É bem provável, inclusive, que eles queiram devolvê-lo antes do término do empréstimo, disse, explicando que, nesse caso, o Flamengo teria que [restituir o clube paulista em US$ 400 mil.,
+	     revocar: "Graças a você, Dumbledore pôde I]revocar a Ordem da Fênix cerca de uma hora depois que Voldemort retornou”, disse Sirius.,}
+Chave: PRIVAR <verb.possession>
+ILI: 02247119
+
+Sense 1
+{02247119} <verb.possession> deprive1, strip3, divest1 -- (take away possessions from someone; "The Nazis stripped the Jews of all their assets")
+       => {02141767} <verb.possession> take -- (take into one's possession; "We are taking an orphan from Romania"; "I'll take three salmon steaks")

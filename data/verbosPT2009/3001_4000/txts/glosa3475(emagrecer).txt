@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA3475
+
+DADO O SYNSET:
+
+S='Glosa3475'
+	    {
+	      desengordar: Andei muito de bicicleta pra ]desengordar,
+	      diminuir: Eles não fazem milagres, como ]diminuir quilos e quilos na balança de uma hora para outra,
+	      emagrecer: FALHA 1,
+	      emagrentar: x,
+	      encovar: Tua fronte ficou mais límpida, o nariz mais fino, as faces se ]encovaram/Meu rosto ]encovou,acho que morri e me esqueceram de enterrrar,
+	      minuir: x,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3475' = “tornar-se fraco e magro ou definhar fisicamente”
+	     {desengordar: Andei muito de bicicleta pra ]desengordar,
+	      diminuir: Daniel Oliveira I]diminui peso de 71 kg para 57 kg,
+	      emagrecer: Apesar disso, [emagreceu 10 quilos, devido à tensão», disse o amigo,
+	      encovar: O rosto I]encovara-se, os quadris, dantes fartos, se fizeram estreitos e os braceletes emudeceram em seus braços abúlicos,}
+Chave: EMAGRECER <verb.change>
+ILI: 00377338
+
+Sense 2
+{00377338} <verb.change> emaciate -- (grow weak and thin or waste away physically; "She emaciated during the chemotherapy")
+       => {00140715} <verb.change> change state, turn4 -- (undergo a transformation or a change of position or action; "We turned from Socialism to Capitalism"; "The people turned against the President when he stole the election")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

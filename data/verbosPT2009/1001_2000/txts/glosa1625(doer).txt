@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA1625
+
+DADO O SYNSET:
+
+S='Glosa1625'
+{doer: Aquela indiferença de Raimundo [doía-lhe como uma injustiça: sentia-se lesada roubada, nos seus direitos de moça irresistivel.,
+ penalizar: Aquilo I]penalizava-o sinceramente e ainda o magoava o facto de, ignorando os seus sentimentos, o Maltês não o chamar, como antigamente, para lhe falar da terra.,
+ pesar: I]Pesa-lhe pouco a vileza do mundo: viver e ver são para ele um mal-estar transitório.# A]Pesa-lhe ver o amigo em má situação.,
+ pungir: Leonardo começou  a sentir remorsos pelo papel de judas que ali estava representando: quando olhava para o Teotônio, que desde que entrara lhe havia feito dar tão boas risadas, [pungia-lhe o coração lembrando-se que ele próprio o havia de entregar ao major   as lembranças pungem o culpado.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1625' = “causar angústia emocional ou tornar infeliz”
+{doer: Serra devolveu dizendo que a única derrota que lhe I]doeu de verdade foi a do Palmeiras para o Corinthians, em 1954.,
+ penalizar: E o que mais me [penaliza, não é o meu tormento.,
+ pesar: O exílio não lhe I]pesou: Isaiah Berlin soube se adaptar, integrando-se ao mundo de fala inglesa.,
+ pungir: Carlos Maria era orgulhoso; a menor desfeita [pungia-o.,}
+Chave: DOER <verb.emotion>
+ILI: 01740637
+
+Sense 3
+{01740637} <verb.emotion> pain, anguish, hurt1 -- (cause emotional anguish or make miserable; "It pains me to see my children not being taught well in school")
+       => {01738090} <verb.emotion> upset1, discompose, untune, disconcert1, discomfit -- (cause to lose one's composure)
+           => {01708538} <verb.emotion> arouse, elicit, enkindle, kindle, evoke, fire, raise8, provoke -- (call forth (emotions, feelings, and responses); "arouse pity"; "raise a smile"; "evoke sympathy")
+               => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

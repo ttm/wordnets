@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA3174
+
+DADO O SYNSET:
+
+S='Glosa3174'
+	    {
+	      acanhar-se: O próprio vencedor I]acanha-se do resultado, porque sabe que não é feito, é mera consequência da fraqueza do adversário.,
+	      constranger-se: Luísa irrita-se, I]constrange-se de falar de suas necessidades com o amigo do marido eo vê indo embora sem ter resolvido nada.,
+	      embaraçar-se: A mulher que não trabalha fora, por exemplo, I]embaraça-se hoje com sua condição.,
+	      encolher-se: Na caatinga ele às vezes cantava de galo, mas na rua I]encolhia-se.,
+	      inibir-se: A mulher se constrange, muitas vezes acreditando que deve ter uma postura mais séria, se engorda um pouco I]inibe-se frente ao parceiro.,
+	      intimidar-se: A maioria das pessoas é tímida, ou I]intimida-se diante de situações diferentes, novas, desconhecidas.,
+	      retrair-se: Mas quando não está interessado, fecha os ouvidos e não escuta. Gosta de ser apreciado, e I]retrai-se.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3174' = tornar-se tímido ou medroso”
+	     {acanhar-se: O próprio vencedor I]acanha-se do resultado, porque sabe que não é feito, é mera conseqüência da fraqueza do adversário.,
+	      constranger-se: Luísa irrita-se, I]constrange-se de falar de suas necessidades com o amigo do marido e o vê indo embora sem ter resolvido nada.,
+	      embaraçar-se: O pedinte foi mandado embora, mas I]embaraçou-se diante de tal ordem.,
+	      encolher-se: Na caatinga ele às vezes cantava de galo, mas na rua I]encolhia-se.,
+	      inibir-se: Muita gente se I]inibe com câmeras, e mais ainda com flashes.,
+	      intimidar-se: A maioria das pessoas é tímida, ou I]intimida-se diante de situações diferentes, novas, desconhecidas.,
+	      retrair-se: A insistência de conquistá-lo foi tamanha que Tchaikowsky se I]retraiu timidamente numa atitude formal e distante.,}
+Chave: INTIMIDAR-SE <verb.emotion>
+ILI: 01729485
+
+Sense 1
+{01729485} <verb.emotion> intimidate -- (make timid or fearful; "Her boss intimidates her")
+       => {01727523} <verb.emotion> frighten, fright, scare, affright -- (cause fear in; "The stranger who hangs around the building frightens me")
+           => {01710864} <verb.emotion> stimulate, shake, shake up, excite, stir1 -- (stir the feelings, emotions, or peace of; "These stories shook the community"; "the civil war shook the country")
+               => {01708538} <verb.emotion> arouse, elicit, enkindle, kindle, evoke, fire, raise8, provoke -- (call forth (emotions, feelings, and responses); "arouse pity"; "raise a smile"; "evoke sympathy")
+                   => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

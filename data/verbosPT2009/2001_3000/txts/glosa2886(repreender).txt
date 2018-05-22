@@ -1,0 +1,55 @@
+ANÁLISE DA GLOSA2886
+
+DADO O SYNSET:
+
+S='Glosa2886'
+	    {acoimar: Ele cita o artigo 611, §4º do RICMS/97, I]acoimando o sujeito passivo de não ter recolhido o ICMS referente a complementação das vendas de seus produtos que superaram em valores, os constantes nas Notas Fiscais de remessas.,
+	      admoestar: O velho do Restelo é uma figura magnífica, próxima do coro grego encarregado de I]admoestar o herói.,
+	      advertir: A aeromoça, percebendo o seu drama, disse que poderia usar o toalete feminino, mas I]advertiu-o com rigor: - Em hipótese nenhuma aperte os botões com as iniciais AQ, AM, PT e RAA!,
+	      amoestar: Quando Orlowski termina, Lee oferece uma crítica detalhada I]amoestando seu brilhante aluno por omitir algumas questões sugeridas pela leitura.,
+	      arrazoar: -- Pois digo eu: que troveje, que chova!-- Se fosse um belo dia ensolarado, eu não pediria -- ela disse, I]arrazoando. -- Toda a roupa lavada perdida, se você não ajudar. Vão ficar estendidas dentro de casa.,
+	      bronquear: Já meio conformado com a situação, pois afinal não levaram o carro todo, foi abordado por  dois policiais, que o comunicaram sobre a multa que haviam lavrado por ter disparado o alarme, Está no Código, inconformado,  tratou de I]bronquear com a falta de lógica da multa pelo alarme, que afinal de contas era feito mesmo para chamar a atenção quando o carro fosse alvo de roubo.,
+	      castigar: Como sempre fazia, I]castigou o filho passando-lhe uma descompostura e repetindo as desvantagens de ser uma pessoa que não se mostra enquadrada no sistema.,
+	      censurar: Quis desaprovar, [censurar; sentiu-o, porém, tão coerente com ele mesmo, tão de acordo com a substância da vida que ele mesmo fabricara, que se limitou a sorrir complacente.,
+	      chiar: A galera do fã-clube do Bob Kane I]chiou feio quando viu aquele Batman do Adam West.,
+	      descascar: DEVIANT,
+	      encoimar: x,
+	      ensaboar: DEVIANT,
+	      escascar: DEVIANT,
+	      escovar: DEVIANT,
+	      estranhar: O público também I]estranhou dizendo que a banda não era mais a mesma, que havia se vendido.,
+	      ferretoar: x,
+	      ferroar: A coluna Giro Político, que não é de ferro, mas que é dada a I]ferroar muito político de plantão, entra de férias e retorna no dia 6 de janeiro. ,
+	      increpar: Saudou os juízes e depois, com ar severo, I]increpou os mentirosos que negavam ter recebido o dinheiro: "Vós desafiais a Deus, negando que recebestes o dinheiro de meu pai.",
+	      ralhar: Mas estava resolvida a conservar a sua severidade, e [ralhar com Peri por causa do susto que lhe havia feito na véspera.,
+	      recriminar: A criada, que já tentara antes interromper a aula, volta para [recriminar o professor, lembra-lhe que aritmética leva à filologia e esta ao crime.,
+	      repreender: Essa sistemática de divulgação foi implantada após Itamar [repreender publicamente o então ministro da Fazenda, Gustavo Krause, no final de 92, por fazer o anúncio do aumento do preço perto da meia-noite, quando os postos já estavam fechados. # Em seguida, [repreendeu sua equipe de segurança, que havia permitido a aproximação da imprensa.,
+	      trautear: O chefe M]trauteou-o.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2886' = “Desaprovar de formar severa ou irritada”
+	    {admoestar: Enquanto a ferida transvazava sangue, os seus pais I]admoestavam-lhe e ela tentava explicar tudo, mas balbuciava.,
+	      advertir: A aeromoça, percebendo o seu drama, disse que poderia usar o toalete feminino, mas I]advertiu-o com rigor: - Em hipótese nenhuma aperte os botões com as iniciais AQ, AM, PT e RAA! ,
+	      arrazoar: O pai arrazoava severamente a filha.,
+	      bronquear: Ela o I}bronqueou - Apenas Molly! Senhora, humpft! Assim sinto-me uma velha.,
+	      castigar: Como sempre fazia, I]castigou o filho passando-lhe uma descompostura e repetindo as desvantagens de ser uma pessoa que não se mostra enquadrada no sistema.,
+	      censurar: Foi então que a sogra do Mingote I]censurou-o por não se haver servido da minha faca.,
+	      chiar: E por que ninguém nunca I]chiou com o diretor de cinema George Lucas?.,
+	      estranhar: O público também I]estranhou dizendo que a banda não era mais a mesma, que havia se vendido.,
+	      ferroar: A coluna Giro Político, que não é de ferro, mas que é dada a I]ferroar muito político de plantão, entra de férias e retorna no dia 6 de janeiro. ,
+	      increpar: Saudou os juízes e depois, com ar severo, I]increpou os mentirosos que negavam ter recebido o dinheiro.,
+	      ralhar: Mas estava resolvida a conservar a sua severidade, e [ralhar com Peri por causa do susto que lhe havia feito na véspera.,
+	      recriminar: A criada, que já tentara antes interromper a aula, volta para [recriminar o professor, lembra-lhe que aritmética leva à filologia e esta ao crime.,
+	      repreender: Em seguida, [repreendeu sua equipe de segurança, que havia permitido a aproximação da imprensa.,
+	      trautear: Enquanto assim os convivas I]trauteavam o nosso poeta, ele estava sobre espinhos; e não se animando a abrir a boca, encolhia-se de modo que parecia querer sumir-se dentro de si próprio.,}
+Chave: REPREENDER <verb.communication>
+ILI: 00797691
+
+Sense 1
+{00797691} <verb.communication> call on the carpet, rebuke, rag, trounce, reproof, lecture, reprimand1, jaw1, dress down, call down, scold, chide, berate, bawl out, remonstrate4, chew out, chew up, have words, lambaste, lambast -- (censure severely or angrily; "The mother scolded the child for entering a stranger's car"; "The deputy ragged the Prime Minister"; "The customer dressed down the waiter for bringing cold soup")
+       => {00799400} <verb.communication> knock2, criticize, criticise, pick apart -- (find fault with; express criticism of; point out real or perceived flaws; "The paper criticized the new movie"; "Don't knock the food--it's free")
+           => {01024792} <verb.communication> comment, notice, remark1, point out1 -- (make or write a comment on; "he commented the paper of his colleague")
+               => {00987058} <verb.communication> note, observe, mention, remark -- (make mention of; "She observed that his presentation took up too much time"; "They noted that it was a fine day to go sailing")
+                   => {00976600} <verb.communication> state, say, tell4 -- (express in words; "He said that he wanted to marry her"; "tell me what is bothering you"; "state your opinion"; "state your name")
+                       => {00909455} <verb.communication> express, verbalize3, verbalise3, utter1, give tongue to -- (articulate; either verbally or with a cry, shout, or noise; "She expressed her anger"; "He uttered a curse") 

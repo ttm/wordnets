@@ -1,0 +1,40 @@
+ANÁLISE DA GLOSA4067
+
+DADO O SYNSET:
+
+S='Glosa4067'
+{adinheirar: x,
+adornar: DEVIANT,
+desempobrecer: O jogo H]desempobreceu-o.,
+endinheirar: Tracei um plano para I]endinheirar.,
+enricar: I]Enricou, venceu na vida sem se acovardar, jamais.,
+enriquecer: Na República, o fumo I]enriqueceu a Bahia.,
+locupletar: A venda das obras de arte da família H]locupletaram-no.,
+opulentar: Com as Memórias póstumas de Brás Cubas, inicia-se a segunda fase da evolução literária de Machado de Assis, que I]opulentou o nosso patrimônio de arte.,
+prosperar: A boa administração H]prospera os negócios.,}
+	  
+A='Glosa2103'
+	    {depauperar, desenriquecer, dessangrar, empobrecer, exaurir}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4067' = “tornar rico ou mais rico”
+{desempobrecer: O jogo H]desempobreceu-o.,
+endinheirar: Tracei um plano para I]endinheirar.,
+enricar: I]Enricou, venceu na vida sem se acovardar, jamais.,
+enriquecer: Na República, o fumo I]enriqueceu a Bahia.,
+opulentar: Trabalho e economia M]opulentaram-no.,
+prosperar: Teve plantação de cana, mas [prosperou mesmo com o cultivo de café.,}
+	  
+A='Glosa2103'
+	    {depauperar, desenriquecer, dessangrar, empobrecer, exaurir}
+Chave: ENRIQUECER <verb.possession>
+ILI: 02251495
+
+Sense 2
+{02251495} <verb.possession> enrich -- (make wealthy or richer; "the oil boom enriched a lot of local people")
+       => {00176022} <verb.change> add -- (make an addition (to); join or combine or unite with others; increase the quality, quantity, zise or scope of; "We added two students to that dorm room"; "She added a personal note to her letter"; "Add insult to injury"; "Add some extra plates to the dinner table")
+           => {00150804} <verb.change> increase -- (become bigger or greater in amount; "The amount of work increased")
+               => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")
+ 

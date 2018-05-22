@@ -1,0 +1,36 @@
+ANÁLISE DA GLOSA3179
+
+DADO O SYNSET:
+
+S='Glosa3179'
+	    {
+	      aplicar: Entretanto, a Espanha não [aplicou esses recursos no desenvolvimento de suas manufaturas ou na melhoria das condições de vida de sua população.,
+	      colocar: O Banco Central (BC) [colocou a totalidade dos 3 bilhões de títulos ofertados, que vão pagar taxa de overnight de 62,035% ao mês, por 28 dias. ,
+	      empregar: Alécio também tomou empréstimos da Credirio e I]empregou o dinheiro em finalidade diversa da prevista no contrato, de acordo com o MP.,
+	      injetar: Além dos gastos iniciais, de US$ 8,5 milhões, a União ainda [injetou dinheiro na empresa, mensalmente, até 1986. ,
+	      interverter: DEVIANT,
+	      inverter: O país H]inverteu poucas verbas na educação.,
+	      investir: Após 1918, a Alemanha investiu no setor industrial húngaro, principalmente o de bens de consumo, mantendo-o sob seu controle . ,
+	      meter: H]Meteu suas economias no mercado acionário.,
+	      transtrocar: DEVIANT,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3179' = “fazer um investimento”
+	     {aplicar: Instituto C&A I]aplicou R$ 8 milhões em projetos sociais.,
+	      colocar: O Banco Central (BC) [colocou a totalidade dos 3 bilhões de títulos ofertados, que vão pagar taxa de overnight de 62,035% ao mês, por 28 dias. ,
+	      empregar: Alécio também tomou empréstimos da Credirio e I]empregou o dinheiro em finalidade diversa da prevista no contrato, de acordo com o MP.,
+	      injetar: Além dos gastos iniciais, de US$ 8,5 milhões, a União ainda [injetou dinheiro na empresa, mensalmente, até 1986. ,
+	      inverter: O país H]inverteu poucas verbas na educação.,
+	      investir: Após 1918, a Alemanha [investiu no setor industrial húngaro, principalmente o de bens de consumo, mantendo-o sob seu controle . ,
+	      meter: H]Meteu suas economias no mercado acionário.,}
+Chave: INVESTIR <verb.possession>
+ILI: 02205511
+
+Sense 1
+{02205511} <verb.possession> invest, put, commit5, place3 -- (make an investment; "Put money into bonds")
+       => {02201591} <verb.possession> spend, expend, drop -- (pay out; "spend money")
+           => {02186811} <verb.possession> pay -- (give money, usually in exchange for goods or services; "I paid four dollars for this sandwich"; "Pay the waitress, please")
+               => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+                   => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children")

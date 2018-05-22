@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA1355
+
+DADO O SYNSET:
+
+S='Glosa1355'
+{desengordurar: Limpe previamente o local dos testes, com algodão embebido em álcool, para I]desengordurar o local.,
+ desenlambuzar: x,}
+
+A='Glosa3322'
+	    {besuntar, engordurar, enlambuzar, ensebar, iscar, lambuzar, lubricar, lubrificar, untar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1355' = “tirar a gordura ou a(s) mancha(s) de gordura [a]”
+{desengordurar: Limpe previamente o local dos testes, com algodão embebido em álcool, para I]desengordurar o local.,}
+
+A='Glosa3322'
+	    {besuntar, engordurar, enlambuzar, ensebar, iscar, lambuzar, lubricar, lubrificar, untar}
+Chave: DESENGORDURAR <verb.contact>
+ILI: EQ_HAS_HYPERONYM – 01232133 – “limpar através de processo químico”
+
+Sense 2
+{01232133} <verb.contact> wash2, rinse2 -- (clean with some chemical process)
+       => {01492749} <verb.contact> wash, launder -- (cleanse with a cleaning agent, such as soap, and water; "Wash the towels, please!")
+           => {01490246} <verb.contact> clean, make clean -- (make clean by removing dirt, filth, or unwanted substances from; "Clean the stove!"; "The dentist cleaned my teeth")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

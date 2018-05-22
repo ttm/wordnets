@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0459
+
+DADO O SYNSET:
+
+S='Glosa459'
+{ajoelhar: Peri te desobedeceu por ti somente; quando já não correres perigo, ele virá [ajoelhar a teus pés, e beijar a cruz que tu lhe deste.,
+genuflectir: Devemos I]genuflectir com os dois joelhos sempre que o Sacrário estiver aberto, ou que um padre estiver elevando a hóstia na consagração de uma missa.,
+genufletir: Aqueles, porém, que não estão de joelhos durante a consagração, fazem uma inclinação profunda enquanto o sacerdote I]genuflete após a consagração.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa459' = “pôr de joelhos; fazer dobrar os joelhos ao chão”
+{ajoelhar: Peri te desobedeceu por ti somente; quando já não correres perigo, ele virá [ajoelhar a teus pés, e beijar a cruz que tu lhe deste.,
+genuflectir: Devemos I]genuflectir com os dois joelhos sempre que o Sacrário estiver aberto, ou que um padre estiver elevando a hóstia na consagração de uma missa.,
+genufletir: Aqueles, porém, que não estão de joelhos durante a consagração, fazem uma inclinação profunda enquanto o sacerdote I]genuflete após a consagração.,}
+Chave: AJOELHAR <verb.contact>
+ILI: 01502877
+
+Sense 1
+{01502877} <verb.contact> kneel -- (rest one's weight on one's knees; "In church you have to kneel during parts of the service")
+       => {01503111} <verb.contact> rest -- (not move; be in a resting position)
+           => {02526983} <verb.stative> be3 -- (have the quality of being; (copula, used with an adjective or a predicate noun); "John is rich"; "This is not a good answer")

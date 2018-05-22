@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA1143
+
+DADO O SYNSET:
+
+S='Glosa1143'
+{desandar: Nos pés do jogador anta, a bola não anda, I]desanda. # A escola deixa muito a desejar, então a educação I]desanda, isto é, retrocede.,
+ tresandar: H]Tresandaram o bonde. # H]Tresandar os ponteiros do relógio.,}
+	  
+A='Glosa239'
+	    {adiantar-se, andar, avançar, mover-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1143' = “retornar pelo mesmo trajeto/curso”
+{desandar: Por que você tem tanta birra com o câmbio manual? Porque desandam para trás, quando arrancam numa subida.,
+ tresandar: Outro cientista das nossas fileiras publicou um trabalho no qual reafirma que a expressão "Deus é pai" I]tresanda a um clericalismo que nós espíritas deveríamos abolir.,}
+A='Glosa239'
+	    {adiantar-se, andar, avançar, mover-se}
+Chave: DESANDAR <verb.motion>
+ILI: 01946546
+
+Sense 1
+{01946546} <verb.motion> backtrack, turn back, double back -- (retrace one's course; "The hikers got into a storm and had to turn back")
+       => {01946892} <verb.motion> return, go back, get back, come back -- (come back to place where one has been before, or return to a previous activity)
+           => {01782203} <verb.motion> travel, go, move3, locomote -- (change location; move, travel, or proceed; "How fast does your new car go?"; "We travelled from Rome to Naples by bus"; "The policemen went from door to door looking for the suspect"; "The soldiers moved towards the city in an attempt to take it before night fell")

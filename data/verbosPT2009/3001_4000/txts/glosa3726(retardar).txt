@@ -1,0 +1,41 @@
+ANÁLISE DA GLOSA3726
+
+DADO O SYNSET:
+
+S='Glosa3726'
+{atrasar: As pressões não devem [atrasar o programa.,
+	delongar: A composição da comissão é complicada e há um lobby que trabalha à luz do dia, que financia campanhas e tem força para I]delongar a apreciação de projetos que restringem as armas de fogo. ,
+	demorar: Os peritos acreditam que esse trabalho pode [demorar até dois meses.,
+	entravar: O que não se pode é utilizar esses debates como desculpa para [entravar o andamento da revisão, como já ameaça acontecer com a votação da medida provisória que cria a URV.,
+	lerdear: O programa The Second Encounter utiliza-se da Serious Engine, o mesmo sistema gráfico que permitiu ao primeiro Serious Sam construir cenários gigantescos e colocar dezenas de inimigos sem I]lerdear o seu PC. ,
+	pausar: O programa permite alterar configurações e fazer ajustes para deixar os jogos mais rápidos sem ficar I]pausando.,
+	remorar: O círculo estreito da atividade I]remorou-lhe o aperfeiçoamento psíquico.,
+	retardar: Admite-se que a vitamina C contribui para [retardar o envelhecimento e aumentar a resistência do organismo às infecções.,
+	retrasar: Os meios para I]retrasar nosso avanço tecnológico são menos evidentes.,
+	tardar: É preciso agir sem [tardar, discursou o secretário-geral das Nações Unidas, Boutros Boutros-Ghali.}
+
+A='Glosa63'
+	{acelerar, açodar, adiantar, apressar, apressurar, azafamar, estugar, picar, precipitar}
+	
+A ANÁLISE RESULTA EM:
+
+S='Glosa3726' = “causar o movimento mais devagar ou operar num ritmo mais lento”
+{atrasar: As pressões não devem [atrasar o programa.,
+	delongar: A composição da comissão é complicada e há um lobby que trabalha à luz do dia, que financia campanhas e tem força para I]delongar a apreciação de projetos que restringem as armas de fogo.,
+	demorar: Os peritos acreditam que esse trabalho pode [demorar até dois meses.,
+	entravar: O que não se pode é utilizar esses debates como desculpa para [entravar o andamento da revisão, como já ameaça acontecer com a votação da medida provisória que cria a URV.,
+	lerdear: O programa The Second Encounter utiliza-se da Serious Engine, o mesmo sistema gráfico que permitiu ao primeiro Serious Sam construir cenários gigantescos e colocar dezenas de inimigos sem I]lerdear o seu PC.,
+	pausar: O programa permite alterar configurações e fazer ajustes para deixar os jogos mais rápidos sem ficar I]pausando.,
+	remorar: O círculo estreito da atividade I]remorou-lhe o aperfeiçoamento psíquico.,
+	retardar: Admite-se que a vitamina C contribui para [retardar o envelhecimento e aumentar a resistência do organismo às infecções.,
+	retrasar: Os meios para I]retrasar nosso avanço tecnológico são menos evidentes.,
+	tardar: É preciso agir sem [tardar, discursou o secretário-geral das Nações Unidas, Boutros-Ghali. }
+
+A='Glosa63'
+	{acelerar, açodar, adiantar, apressar, apressurar, azafamar, estugar, picar, precipitar}
+Chave: RETARDAR <verb.change>
+ILI: 00306237
+
+Sense 1 
+{00306237} <verb.change> retard1 -- (cause to move more slowly or operate at a slower rate; "This drug will retard your heart rate")
+       => {00306034} <verb.change> decelerate1, slow down2 -- (reduce the speed of; "He slowed down the car")

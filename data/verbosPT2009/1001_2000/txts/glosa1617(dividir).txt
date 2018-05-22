@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA1617
+
+DADO O SYNSET:
+
+S='Glosa1617'
+{dividir: Enquanto isso, técnicos e seguranças empresa produtora do clipe [dividiram o tempo entre os últimos preparativos para as filmagens e uma operação batizada de caça-repórteres.,
+ ratear1: A solução encontrada por seus amigos foi [ratear os custos.,
+ repartir: O contrato estabelecia que as casas de moda, que apresentam suas coleções em janeiro e julho, [repartiriam entre si os US$ 2 milhões que receberiam pelos direitos de transmissão.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1617' = “distribuir segundo a porção ou parte que toca a cada um”
+{dividir: As empresas operadoras das duas linhas [dividiriam a tarifa proporcionalmente ao percurso do usuário.,
+ ratear1: A solução encontrada por seus amigos foi [ratear os custos.,
+ repartir: O contrato estabelecia que as casas de moda, que apresentam suas coleções em janeiro e julho, [repartiriam entre si os US$ 2 milhões que receberiam pelos direitos de transmissão.,}
+Chave: DIVIDIR
+ILI: 02228139
+
+Sense 2
+{02228139} <verb.possession> share, divvy up, portion out, apportion, deal7 -- (give out as one's portion or share)
+       => {02138243} <verb.possession> distribute1, give out, hand out -- (give out; "The teacher handed out the exams")
+           => {02137285} <verb.possession> give1, gift, present -- (give as a present; make a gift of; "What will you give her for her birthday?")

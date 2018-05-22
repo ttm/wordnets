@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0279
+
+DADO O SYNSET:
+
+S='Glosa279'
+{abafar: O assassino H]abafou a vítima com um saco plástico.,
+afogar1: O duque I]afogou-a com a violência dos seus beijos.,
+asfixiar: A almofada desinfla também em frações de segundo, para não [asfixiar os ocupantes.,
+sufocar: A mão de Ardarsh sobre o pescoço de Zelda começava a I]sufocá-la.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa279' = “privar de oxigênio e impedir de respirar”
+{afogar1: O duque I]afogou-a com a violência dos seus beijos.,
+asfixiar: A almofada desinfla também em frações de segundo, para não [asfixiar os ocupantes.,
+sufocar: A mão de Ardarsh sobre o pescoço de Zelda começava a I]sufocá-la.,}
+Chave: SUFOCAR <verb.contact>
+ILI: 01525726
+
+Sense 1
+{01525726} <verb.contact> smother, asphyxiate, suffocate -- (deprive of oxygen and prevent from breathing; "Othello smothered Desdemona with a pillow"; "The child suffocated herself with a plastic bag that the parents had left on the floor")
+       => {01284688} <verb.contact> kill -- (cause to die; put to death, usually intentionally or knowingly; "This man killed several people when he tried to rob a bank"; "The farmer killed a pig for the holidays")

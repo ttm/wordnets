@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA3461
+
+DADO O SYNSET:
+
+S='Glosa3461'
+	    {
+	      diminuir: Seu território [diminuía/Compressibilidade é a propriedade que permite à matéria diminuir de volume quando comprimida,
+	      encolher: Ao mesmo tempo, o tamanho das lojas também [encolherá,
+	      estreitar: As obras que começam semana que vem na Ponte Rio-Niterói vão [estreitar as três pistas de rolamento de 3,65 para 3,50 metros/...estreitar o calçadão,
+	      minuir: x,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3461' = “diminuir em tamanho, extensão ou limite”
+	     {diminuir: Seu território [diminuía/O sarcômero, então, [diminui no comprimento, levando a fibra a se contrair,
+	      encolher: Sabendo que a lona enruga e [encolhe, Sonia põe-se a pintá-la dos dois lados, alternadamente,
+	      estreitar: As obras que começam semana que vem na Ponte Rio-Niterói vão [estreitar as três pistas de rolamento de 3,65 para 3,50 metros/...estreitar o calçadão,}
+Chave: DIMINUIR <verb.change>
+ILI: 00146081
+
+Sense 1
+{00146081} <verb.change> decrease, diminish, lessen, fall6 -- (decrease in size, extent, or range; "The amount of homework decreased towards the end of the semester"; "The cabin pressure fell dramatically"; "her weight fall to under a hundred pounds"; "his voice fell to a whisper")
+       => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

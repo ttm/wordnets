@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA2020
+
+DADO O SYNSET:
+	
+S='Glosa2020'
+    	{respirar: Vi um homem, um iraquiano que foi baleado e ainda I]respirava.,
+      	 viver: O doente ainda A]vive..,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2020' = “estar vivo”
+    	{respirar: Vi um homem, um iraquiano que foi baleado e ainda I]respirava.,
+      	 viver: O infeliz moço tinha a cabeça em uma poça de sangue e ainda I]vivia.}
+Chave: RESPIRAR <verb.stative>
+ILI: 02539217
+
+Sense 2
+{02539217} <verb.stative> breathe -- (be alive; "Every creature that breathes")
+       => {02538829} <verb.stative> exist1, survive, live1, subsist -- (support oneself; "he could barely exist on such a low wage"; "Can you live on $2000 a month in New York City?"; "Many people in the world have to subsist on $1 a day")

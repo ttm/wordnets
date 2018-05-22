@@ -1,0 +1,40 @@
+ANÁLISE DA GLOSA3686
+
+DADO O SYNSET:
+
+	  S='Glosa3686'
+	    {
+	      aderir: Isso porque a maioria dos motoristas da Queiroz Galvão - uma das firmas contratadas - não [aderiu à greve.,
+	      agermanar-se: x,
+	      aliar-se: Na sucessão de Afonso Pena, os mineiros não aceitaram o candidato paulista e [se aliaram aos gaúchos para eleger o Marechal Hermes da Fonseca. ,
+	      associar-se: Parlamentares vão [se associar aos produtores do clipe no recurso contra a liminar que proibiu as gravações.,
+	      coalizar-se: A propriedade, o Estado e a religião I]se coalizam para contrapor sua força exterior à força interior da sociedade. ,
+	      coligar-se: Eles enfrentam dificuldades para [coligarem-se com os grandes partidos, nos quais sempre buscaram fôlego para eleger um ou dois candidatos. ,
+	      consorciar-se: Os grupos empresariais que [se consorciaram para disputar o mercado de serviços de telecomunicação não desistiram de lutar pela quebra do monopólio estatal. ,
+	      envolver-se: Como I]se envolveram as organizações da sociedade civil (OSC) e as organizações não governamentais (ONGs) no desenvolvimento do Movimento Global para as Crianças?  ,
+	      ligar-se: Com o tempo [ligaram-se aos monarcas a quem faziam empréstimos vultuosos para que estes formassem seu exército para combater o senhor feudal. ,
+	      parcializar-se: Não I]se parcializa a nenhum servo, isto costuma ser um grande foco de desunião.,
+	      soldar-se: Os interesses do grupo de burocratas acabaram I]se soldando aos das empresas promovidas pela política.,
+	      unir-se: Os países produtores de minério de ferro, bauxita (alumínio) e outros [se uniram com a finalidade enfrentar a pressão dos países centrais e das transacionais quanto à exploração, comercialização e política de preços a ser adotada no mercado mundial . ,
+	    }
+A ANÁLISE RESULTA EM:
+	  
+S='Glosa3686' = “entrar em associação ”
+	     {aderir: Isso porque a maioria dos motoristas da Queiroz Galvão - uma das firmas contratadas - não [aderiu à greve.,
+	      aliar-se: Na sucessão de Afonso Pena, os mineiros não aceitaram o candidato paulista e [se aliaram aos gaúchos para eleger o Marechal Hermes da Fonseca. ,
+	      associar-se: Para lançar o Carmen, a Agroflora [associou-se à Hazera, empresa israelense especializada em sementes.,
+	      coalizar-se: A propriedade, o Estado e a religião I]se coalizam para contrapor sua força exterior à força interior da sociedade.,
+	      coligar-se: No Ceará, o PT [coligou-se com o PC do B, PSB e PPS. ,
+	      consorciar-se: Por outro lado, a construtora Editec se I]consorciou com a empreiteira JM e ganhou um trecho de R$ 44 milhões.,
+	      envolver-se: O garoto preferiu cantar no rádio, I]envolveu-se com a companhia teatral de Jardel Jércolis e fez sucesso no teatro de revista.,
+	      ligar-se: Fundação de Amparo à Pesquisa do Estado de São Paulo (Fapesp) I]ligou-se à Bitnet e à  Universidade Federal do Rio de Janeiro (UFRJ).,
+	      parcializar-se: Não I]se parcializa a nenhum servo, isto costuma ser um grande foco de desunião.,
+	      soldar-se: Os interesses do grupo de burocratas acabaram I]se soldando aos das empresas promovidas pela política.,
+	      unir-se: Os países produtores de minério de ferro, bauxita (alumínio) e outros [se uniram com a finalidade enfrentar a pressão dos países centrais e das transacionais quanto à exploração, comercialização e política de preços a ser adotada no mercado mundial.,}
+Chave: UNIR-SE <verb.social>
+ILI: 02396109
+
+Sense 3
+{02396109} <verb.social> consociate, associate -- (bring or come into association or action; "The churches consociated to fight their dissolution")
+       => {02395769} <verb.social> unite, unify -- (act in concert or unite in a common purpose or belief)
+           => {02361668} <verb.social> join, fall in, get together2 -- (become part of; become a member of a group or organization; "He joined the Communist Party as a young man")

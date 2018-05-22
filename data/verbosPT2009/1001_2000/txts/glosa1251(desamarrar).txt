@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA
+
+DADO O SYNSET:
+
+S='Glosa1251'
+{denodar: x,
+ desamarrar: Leonardo contou que fugiu da casa em que era mantido preso, na tarde de sábado, após [desamarrar o nó que prendia seus pulsos e pular o muro de duas casas,
+ desatar: Ao ver que Leonardo conseguira [desatar o nó da corda que amarrava seus braços, a mulher disse ter oferecido dinheiro ao rapaz para que ele pegasse um ônibus.,
+ desdar: Otavio meteu-se na briga e foi-lhe difícil I]desdar o nó das pernas e braços,
+ desnodar: x,}
+	  
+A='Glosa461'
+{amarrar, atar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1251' = “fazer ficar desatado, desamarrado”
+{desamarrar: Leonardo contou que fugiu da casa em que era mantido preso, na tarde de sábado, após [desamarrar o nó que prendia seus pulsos e pular o muro de duas casas,
+ desatar: Ao ver que Leonardo conseguira [desatar o nó da corda que amarrava seus braços, a mulher disse ter oferecido dinheiro ao rapaz para que ele pegasse um ônibus.,
+ desdar: Otavio meteu-se na briga e foi-lhe difícil I]desdar o nó das pernas e braços,}
+A='Glosa461'
+{amarrar, atar}
+Chave: DESAMARRAR <verb.contact>
+ILI: 01246683
+
+Sense 2
+{01246683} <verb.contact> untie1, undo1, loosen5 -- (cause to become loose; "undo the shoelace"; "untie the knot"; "loosen the necktie")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

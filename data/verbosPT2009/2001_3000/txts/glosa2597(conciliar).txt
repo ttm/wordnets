@@ -1,0 +1,63 @@
+ANÁLISE DA GLOSA2597
+
+DADO O SYNSET:
+
+S='Glosa2597'
+	    {aliançar: As agências de Turismo e Viagens quando vendem bilhetes de passagem, ou ainda, quando vendem excursão operada por Agência de Viagens e Turismo, no entender deste analista, praticam não mais que um ato de intermediação remunerada, I]aliançando os interesses dos viajantes com os prestadores de serviço ou com as Agências de Turismo e Viagens.,
+	      aliar: Sites devem I]aliar design atrativo e funcionalidade.,
+	      aproximar: OCB que I]aproximar cooperativismo e governo.,
+	      coligar: "Se houver qualquer tentativa do PSDB em I]coligar com o PT terá que passar pelo crivo dos dois diretórios (Estadual e Nacional)”, afirmou João de Deus.,
+	      conciliar: É preciso I]conciliar convocação e recesso, diz Sarney.,
+	      conjungir: x,
+	      consorciar: É possível I]consorciar espécies de uso econômico com outras para fins de adubação verde, tanto no verão como no inverno.,
+	      juntar: O advogado da Tabacaria não I]juntou procuração aos autos e, depois, quando o fez, não mencionou o fato alegadamente criminoso, como manda o artigo 44 do Código de Processo Penal.,
+	      liar: A convivência no trabalho H]liou-os mais ainda.,
+	      ligar: Rússia age para I]ligar alívio da dívida iraquiana a contratos petrolíferos.,
+	      relacionar: Selecionar, organizar, I]relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações.,
+	      reunir: Seis países em risco concordam em I]reunir esforços para acabar com a pólio.,
+	      unir: Jefferson Kulig faz desfile conceitual ao I]unir moda, ciência e tecnologia.,}
+
+	  A='Glosa2225'
+	    {ablegar: Pretendia I]ablegar os adversários políticos.,
+	     afastar: A mãe I]afastou o menino do pai por considerá-lo agressivo.,
+	     alongar: Não queria A]alongar de si o filho.,
+	     alonginquar: x,
+	     apartar: D. Maria, depois de declarar que José Manuel se tinha queixado da comadre, atribuindo-lhe tudo que se havia passado, que não era mais do que uma intriga urdida com o fim de o [apartar de sua casa, porque tinham sobre ele caído suspeitas, que confessava justas...,
+	     desaliar: x,
+	     desapartar: Foi difícil H]desapartar a criança do pai na partida.,
+	     desaproximar: H]Desaproximar duas pessoas.,
+	     desgrudar: Jane Bezerra, de cabelos mais curtos, estava elegantérrima, páreo duro com Carla Souza Lima; as duas, aliás, não [desgrudaram um só minuto. Sem I]desgrudar da sua boneca, ela sorri para a nossa equipe.,
+	     despegar: Quando o aborrecia, o Zé, para me arreliar, chamava-me ruço de má-pelo, quer casar e não tem cabelo, mas eu não I]despegava dele.,
+	     desunir: Eles tentam enfraquecer e [desunir os pilotos. # Não tem falta de dinheiro que justifique I]desunir uma família desse jeito, cada um para um lado, as crianças sendo tratadas por estranhos.,
+	     dissidiar: x,
+	     dissidir: x,
+	     distanciar: Nós terminamos por nos [distanciar deles; e então somos obrigados a enfrentar a solidão, as surpresas com as curvas desconhecidas, os problemas com a bicicleta .,
+	     divorciar: As brigas A]divorciavam a família.,
+	     separar: Mas a grande amizade entre os dois escritores não foi abalada, pelo menos até por volta de 1929, quando uma divergência, até hoje não muito bem esclarecida, os [separou de vez .,
+	     vastar1: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2597' = “Reunir dois objetos, idéias ou pessoas.”
+	    {aliançar: As agências de Turismo quando vendem bilhetes de passagem praticam, não mais que, um ato de intermediação remunerada, I]aliançando os interesses dos viajantes com os prestadores de serviço.,
+	      aliar: Sites devem I]aliar design atrativo e funcionalidade.,
+	      aproximar: OCB que I]aproximar cooperativismo e governo.,
+	      coligar: Se houver qualquer tentativa do PSDB em I]coligar com o PT terá que passar pelo crivo dos dois diretórios (Estadual e Nacional).,
+	      conciliar: É preciso I]conciliar convocação e recesso, diz Sarney.,
+	      consorciar: É possível I]consorciar espécies de uso econômico com outras para fins de adubação verde, tanto no verão como no inverno.,
+	      juntar: O esquema «food stamp» [juntou a fome com a necessidade de escoamento de excedentes.,
+	      ligar: Rússia age para I]ligar alívio da dívida iraquiana a contratos petrolíferos.,
+	      relacionar: Lavoisier [relacionou a ocorrência de combustão à incorporação do princípio que forma o oxigênio aos princípios constituintes do combustível ..,
+	      reunir: Pois ali I]reuniu ao gênio de guerreiro consumado, a generosidade clemente e aliciadora.,
+	      unir: Jefferson Kulig faz desfile conceitual ao I]unir moda e tecnologia.,}
+
+A='Glosa2225'
+	    {ablegar, afastar, alongar, apartar, desapartar, desaproximar, desgrudar, despegar, desunir, distanciar, divorciar, separar}
+
+Chave: CONCILIAR <verb.contact>	
+ILI: 01254405
+
+Sense 1
+{01254405} <verb.contact> match8, mate2, couple2, pair1, twin -- (bring two objects, ideas, or people together; "This fact is coupled to the other one"; "Matchmaker, can you match my daughter with a nice young man?"; "The student was paired with a partner for collaboration on the project")
+       => {01256741} <verb.contact> join1, bring together1 -- (cause to become joined or linked; "join these two parts so that they fit together")
+           => {01314764} <verb.contact> connect, link, tie1, link up -- (connect, fasten, or put together two or more pieces; "Can you connect the two loudspeakers?"; "Tie the ropes together"; "Link arms") 

@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA4087
+
+DADO O SYNSET:
+
+S='Glosa4087'
+{ferir: O que encantava no violão de Nelson Cavaquinho não era o fato de tocar "muitíssimo bem" e sim o jeito como I]feria as cordas do violão.,
+pulsar: H]Pulsava as cordas da lira.,
+repenicar: O sacristão A]repenicava o sino todas as manhãs.,
+repicar: Ao tomar conhecimento de sua morte, alguém correu à igrejinha para I]repicar o sino.,
+tanger: No princípio, era gosto ver o fervor e devoção com que acudiam à igreja e quando lhes I]tangiam o sino.,
+tocar: John Hammond [dirá mais da metade dos 4 milhões que tocam guitarra nos EUA .,
+vibrar: Os dedos do guitarrista I]vibram as cordas, esculpem ecos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4087A' = “puxar levemente mas aguçadamente com um puxão”
+{ferir: O que encantava no violão de Nelson Cavaquinho não era o fato de tocar "muitíssimo bem" e sim o jeito como I]feria as cordas do violão.,
+pulsar: H]Pulsava as cordas da lira.,
+vibrar: Os dedos do guitarrista I]vibram as cordas, esculpem ecos.,}
+Chave: VIBRAR <verb.contact>
+ILI: 01411248
+
+Sense 4
+{01411248} <verb.contact> pluck2, plunk, pick5 -- (pull lightly but sharply with a plucking motion; "he plucked the strings of his mandolin")
+       => {01406785} <verb.contact> pull, draw3, force1 -- (cause to move along the ground by pulling; "draw a wagon"; "pull a sled")
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

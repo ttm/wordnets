@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA3357
+
+DADO O SYNSET:
+
+S='Glosa3357'
+	    {
+	      emandingar: x,
+	      embruxar: Porque pudera eu sair, e acompanhá-la também por todo esse lararipe e I]embruxar toda a mulher.,
+	      emburricar: x,
+	      encantar: O feiticeiro H]encantou a princesa, transformando-a em rã.,
+	      encarochar: x,
+	      enfeitiçar: Observador, aprendeu também os mistérios e poderes das plantas com Ossâim, orixá dono dos poderes de cura das folhas, que certa vez o I]enfeitiçou, levando-o para o fundo da floresta a fim de ter companhia. ,
+	      maleficiar: x,
+	      mandingar: O ato de I]mandingar é observado em todas as culturas e é tão antigo quanto a própria humanidade.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3357' = “lançar magia sobre alguém ou algo; colocar um feitiço em alguém ou algo”
+	     {embruxar: Porque pudera eu sair, e acompanhá-la também por todo esse lararipe e I]embruxar toda a mulher.,
+	      encantar: O feiticeiro H]encantou a princesa, transformando-a em rã.,
+	      enfeitiçar: Um malvado mago I]enfeitiçou três conhecidos e mágicos lugares de Barcelona.,
+	      mandingar: O ato de I]mandingar é observado em todas as culturas e é tão antigo quanto a própria humanidade.,}
+Chave: ENFEITIÇAR <verb.communication>
+ILI: 00751320
+
+Sense 3
+{00751320} <verb.communication> hex, bewitch1, glamour, witch, enchant1, jinx2 -- (cast a spell over someone or something; put a hex on someone or something)
+       => {02509452} <verb.social> charm, becharm -- (control by magic spells, as by practicing witchcraft)
+           => {02367626} <verb.social> control, command -- (exercise authoritative control or power over; "control the budget"; "Command the military forces")

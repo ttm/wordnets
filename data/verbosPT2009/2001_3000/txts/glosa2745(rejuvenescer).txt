@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA2745
+
+DADO O SYNSET:
+
+S='Glosa2745'
+	    {ameninar: Com a dieta, ela H]ameninou.,
+	      enverdecer: A convivência com os jovens H]enverdece os velhos.,
+	      enverdejar: x,
+	      juvenescer: x,
+	      reflorescer: Balbucio e tremo quando considero esta pobre carne já tão desgastada. Como poderá resplender e I]reflorescer este pobre corpo já tão próximo do desmoronamento total?  ,
+	      reflorir: x,
+	      rejuvenescer: As ervas seriam capazes de [rejuvenescer, emagrecer e até «curar» celulite, segundo Douglas-Torry. # Nova técnica promete [rejuvenescer mulher de 40 anos.  ,
+	      remoçar: Apesar de todos os esforços do fidalgo, que sentia um prazer indizível em mostrar-lhe quanto apreciava a sua ação e [remoçara com a alegria de ver sua filha viva, o selvagem não tocou em um só manjar.,
+	      renascer: O velho senhor A]renasceu após uns menses de descanso.,
+	      reverdecer: O fato ficou conhecido por todos, porque era claramente visível e deixou todo mundo admirado de ver a encurvada velhinha I]reverdecer de calor juvenil.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2745' = “Voltar a vida; Conseguir ou dar nova vida ou energia”
+	    {reflorescer: Como poderá resplender e I]reflorescer este pobre corpo já tão próximo do desmoronamento total?,
+	      rejuvenescer: Humorista batalha por programa à noite e conta como rejuvenesceu ao se casar novamente.,
+	      remoçar: [Remoçara com a alegria de ver sua filha viva, o selvagem não tocou em um só manjar.,
+	      renascer: O velho senhor A]renasceu após uns meses de descanso.,
+	      reverdecer: O fato ficou conhecido por todos, porque era claramente visível e deixou todo mundo admirado de ver a encurvada velhinha I]reverdecer de calor juvenil.,}
+
+Chave: REJUVENESCER <verb.change>
+ILI: 00162138
+
+Sense 4
+{00162138} <verb.change> regenerate1, restore, rejuvenate4 -- (return to life; get or give new life or energy; "The week at the spa restored me")
+       => {01584867} <verb.creation> regenerate, renew -- (re-establish on a new, usually improved, basis or make new or like new; "We renewed our friendship after a hiatus of twenty years"; "They renewed their membership")
+           => {01573613} <verb.creation> re-create -- (create anew; "Re-create the boom of the West on a small scale")
+               => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor") 

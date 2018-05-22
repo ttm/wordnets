@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA1104
+
+DADO O SYNSET:
+
+S='Glosa1104'
+{desabilitar: Essa fase é importante porque pode I]desabilitar o candidato ao Fies caso não sejam confirmadas as informações prestadas no ato da inscrição.,}
+	  
+A='Glosa3416'
+{Adestrar, amaestrar, amestrar, disciplinar, ensinar, escolar, habilitar, instituir, instruir, matraquear}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1104' = “tornar impossibilitado de desempenhar uma certa ação”
+{desabilitar: Novo cavalo-de-tróia I]desabilita antivírus.,}
+A='Glosa3416'
+{Adestrar, amaestrar, amestrar, disciplinar, ensinar, escolar, habilitar, instituir, instruir, matraquear}
+Chave: DESABILITAR <verb.change>
+ILI: 00498510 
+
+Sense 1
+{00498510} <verb.change> disable, disenable, incapacitate -- (make unable to perform a certain action; "disable this command on your computer")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

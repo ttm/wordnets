@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA1986
+
+DADO O SYNSET:
+
+S='Glosa1986'
+{abolachar-se: x,
+ aboleimar-se: A placa de cera caiu e H]aboleimou-se no chão.,
+ achatar-se: O pai atirou a primeira bola; e esta, com o choque, I]achatou-se, esborrachou-se e caiu disforme ao pé da parede.,
+ esmagar-se: Pode I]esmagar-se barro entre os dedos, porque a força entre camadas adjacentes de moléculas no barro é do tipo de Van der Waals (elo mais fraco da cadeia molecular). ,
+ espalmar-se: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1986' = “ficar achatado ou mais achatado”
+{achatar-se: As válvulas são umas membranas em forma de bolsa que se [achatam dando passagem ao sangue num sentido.,
+ esmagar-se: Repulsivo era ter de matá-la, escutar o estralo e sentir sua carcaça se I]esmagando sob a sola do sapato e espirrando pelo chão a massa amarelada de seu interior.,}
+Chave: ACHATAR-SE <verb.change>
+ILI: 00450410
+
+Sense 2
+{00450410} <verb.change> flatten, flatten out -- (become flat or flatter; "The landscape flattened")
+       => {00135866} <verb.change> change shape, change form, deform2 -- (assume a different shape or form)
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

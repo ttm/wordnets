@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA1580
+
+DADO O SYNSET:
+
+S='Glosa1580'
+{banalizar-se: A mulher sempre condenou essas práticas masculinas e o autor faz o público acreditar que a emancipação feminina permite à ela I]banalizar-se sexualmente. ,
+ devassar-se: Sem moral nem religião, M]devassou-se.,
+ prostituir-se: Muitos pintores de talento se A]prostituem, tornando-se verdadeiros comerciantes.,
+ vulgarizar-se: H]Vulgarizar-se a moral.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1580' = “agir de maneira vulgar” 
+{banalizar-se: A mulher sempre condenou essas práticas masculinas e o autor faz o público acreditar que a emancipação feminina permite à ela I]banalizar-se sexualmente.,
+ devassar-se: Vejamos como elas se comportam, impostas, à revelia, a um 'eu' que se entrega, mas nunca se I]devassa.,
+ vulgarizar-se: Vejo que no Brasil o feminismo se I]vulgarizou numa liberdade de "objetos", produziu mulheres livres como coisas, livres como produtos perfeitos para o prazer.,}
+Chave: VULGARIZAR-SE <verb.body>
+ILI: 00011404
+
+Sense 3
+{00011404} <verb.body> vulgarize, vulgarise -- (act in a vulgar manner; "The drunkard tends to vulgarize")
+       => {00010141} <verb.body> act, behave, do9 -- (behave in a certain manner; show a certain behavior; conduct or comport oneself; "You should act like an adult"; "Don't behave like a fool"; "What makes her do this way?"; "The dog acts ferocious, but he is really afraid of people")

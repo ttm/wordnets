@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA1211
+
+DADO O SYNSET:
+
+S='Glosa1211'
+{descaminhar: Ela sofreu com dificuldades para a manutenção da lei e delas se aproveitou para I]descaminhar a quinta parte do ouro.,
+ desencaminhar: Ou seja, a licitação foi o meio utilizado pela quadrilha para I]desencaminhar dinheiro dos cofres da Administração Pública.   ,}
+	  
+A='Glosa3356'
+{despachar, encaminhar, enviar, estradear, expedir, mandar, remeter, transmitir}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1211' = “endereçar, propositadamente, a um local diferente do esperado”
+{descaminhar: Ela sofreu com dificuldades para a manutenção da lei e delas se aproveitou para I]descaminhar a quinta parte do ouro.,
+ desencaminhar: Os espertalhões de sempre encontrarão outros caminhos para I]desencaminhar o dinheiro do público.,}
+A='Glosa3356'
+{despachar, encaminhar, enviar, estradear, expedir, mandar, remeter, transmitir}
+Chave: DESENCAMINHAR <verb.communication>  
+ILI: EQ_HAS_HYPERONYM – 00958740 – “colocar um endereço errado [em]”
+
+Sense 1
+{00958740} <verb.communication> misdirect, misaddress -- (put a wrong address on; "misdirect the letter")
+       => {00958514} <verb.communication> address3, direct2 -- (put an address on (an envelope, for example))
+           => {00996581} <verb.communication> label -- (assign a label to; designate with a label; "These students were labelled `learning disabled'")
+               => {00996861} <verb.communication> designate, denominate -- (assign a name or title to) 

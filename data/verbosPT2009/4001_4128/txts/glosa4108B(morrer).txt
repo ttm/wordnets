@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA4108
+
+DADO O SYNSET:
+
+S='Glosa4108'
+{cessar: Como haverá ajuda para dois clubes, I]cessou a briga.,
+extinguir-se: Foi somente no século 11 que se I]extinguiu a atitude pacífica da igreja antiga.,
+morrer: Suas ilusões H]morreram.,
+quebrar-se: A música estridente se I]quebrou com o tédio.,
+terminar: Uma decisão drástica H]terminou a divergência.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4108B' = “desaparecer ou vir a findar-se"
+{extinguir-se: Foi somente no século 11 que se I]extinguiu a atitude pacífica da igreja antiga.,
+morrer: Suas ilusões H]morreram., }
+
+Chave: MORRER <verb.change>
+ILI: 00343622
+
+Sense 10
+{00343622} <verb.change> die1 -- (disappear or come to an end; "Their anger died"; "My secret will die with me!")
+       => {00414775} <verb.change> disappear, vanish, go away -- (get lost, especially without warning or explanation; "He disappeared without a trace")

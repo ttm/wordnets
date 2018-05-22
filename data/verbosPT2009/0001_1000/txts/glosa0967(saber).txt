@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0967
+
+DADO O SYNSET:
+
+S='Glosa967'
+{conhecer: Vamos estudar cada um desses ecossistemas e [conhecer suas características e suas leis.,
+saber: É importante saber [qual a forma de pagamento mais vantajosa. # Curiosas, cercam Eloy Takeshi, estudante do quarto ano de Física, para [saber os segredos deste truque.,}
+A='Glosa1234'
+{desconhecer, ignorar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa967' = “estar informado de, a par de”
+{conhecer: Vamos estudar cada um desses ecossistemas e [conhecer suas características e suas leis.,
+saber: Curiosas, cercam Eloy Takeshi, estudante do quarto ano de Física, para [saber os segredos deste truque.}
+
+A='Glosa1234'
+{desconhecer, ignorar}
+Chave: SABER <verb.cognition>
+ILI: 00575656
+
+Sense 1
+{00575656} <verb.cognition> know1, cognize, cognise -- (be cognizant or aware of a fact or a specific piece of information; possess knowledge or information about; "I know that the President lied to the people"; "I want to know who is winning the game!"; "I know it's time")

@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0564
+
+DADO O SYNSET:
+
+S='Glosa564'
+{descançar: Agora, vou [descansar, comentou a atleta, que não resistiu ao desafio de correr pela primeira vez no Rio.,}
+A='Glosa72'
+{adinamizar, alquebrar, aquebrantar, cansar, debilitar, deprimir, derrear,  desvigorar, desvigorizar, enfraquecer, extenuar, prostrar, quebrantar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa564' = “estar, ficar de repouso ou descanso”
+{descançar: Agora, vou [descansar, comentou a atleta, que não resistiu ao desafio de correr pela primeira vez no Rio.,}
+A='Glosa72'
+{adinamizar, alquebrar, aquebrantar, cansar, debilitar, deprimir, derrear,  desvigorar, desvigorizar, enfraquecer, extenuar, prostrar, quebrantar}
+Chave: DESCANSAR <verb.body>
+ILI: 00014092
+
+Sense 5
+{00014092} <verb.body> rest -- (be at rest)
+       => {01504618} <verb.contact> recumb, repose2, recline -- (lean in a comfortable resting position; "He was reposing on the couch")
+           => {01504229} <verb.contact> lie -- (be lying, be prostrate; be in a horizontal position; "The sick man lay in bed all day"; "the books are lying on the shelf")

@@ -1,0 +1,36 @@
+ANÁLISE DA GLOSA2641
+
+DADO O SYNSET:
+
+S='Glosa2641'
+	    {aforrar-se: Muitos escravos após H]aforrarem-se continuaram a servir seus senhores.,
+	      alforriar-se: A autora prova o contrário do que muitos historiadores ao assunto afirmaram – que os escravos não tinham condições razoáveis para viver e nem I]alforriar-se. ,
+	      emancipar-se: O Haiti foi o segundo país das Américas (após os Estados Unidos) a [emancipar-se do domínio europeu e desde então vem sofrendo uma espoliação desenfreada, sobretudo por parte da sua própria elite nacional.,
+	      libertar-se: Os trabalhadores carregam muitas contradições e reproduzem boa parte da mentalidade dominante. Porém, mais que vítimas o explorado é um potencial inesgotável de formas de luta e fonte constante de novos militantes, pois, só o oprimido pode I]libertar-se, tem interesse na revolução e, ao libertar-se, liberta também seu opressor.,
+	      redimir-se: Karam sente-se compelido a pecar, na tentativa de I]redimir-se de culpas mais profundas e primitivas.,
+	      remir-se: Qualquer desses menores poderá I]remir-se do onus de servir, mediante prévia indenização pecuniaria, que por si ou por outrem ofereça ao senhor de sua mãe, procedendo-se á avaliação dos serviços pelo tempo que lhe restar a preencher, se não houver accôrdo sobre o quantum da mesma indemnização.,
+	      resgatar-se: Ora, qual é o garoto oprimido em casa ou na escola, tal qual Harry Potter era na casa de seus tios trouxas, que não desejaria descobrir-se mágico e, assim, poder I]resgatar-se das vicissitudes de seu cotidiano?,}
+
+	  A='Glosa414'
+	    {escravizar-se: Por isso, [escravizaram-se os povos africanos, como se houvesse alguém que menos apreciasse ou não apreciasse a liberdade.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2641' = “Deixar (-se) livre de uma situação difícil.”
+	    {alforriar-se: O autor não se alforriou do seu compromisso intelectual de analisar as raízes dessas realizações enviesadas da modernidade.,
+	      libertar-se: Foi aqui que I]libertou-se da tradição e da fé religiosa.,
+	      redimir-se: Karam sente-se compelido a pecar, na tentativa de I]redimir-se de culpas mais profundas e primitivas.,
+	      remir-se: Qualquer desses menores poderá I]remir-se do ônus de servir, mediante prévia indenização.,
+	      resgatar-se: Ora, qual é o garoto oprimido em casa ou na escola que não desejaria descobrir-se mágico e, assim, poder I]resgatar-se das vicissitudes de seu cotidiano?,}
+
+	  A='Glosa414'
+	    {escravizar-se}
+
+Chave: LIBERTAR-SE <verb.communication>
+ILI: 00872741
+
+Sense 8
+{00872741} <verb.communication> absolve, justify3, free -- (let off the hook; "I absolve you from this responsibility")
+       => {00873684} <verb.communication> forgive -- (stop blaming or grant forgiveness; "I forgave him his infidelity"; "She cannot forgive him for forgetting her birthday")
+           => {00779984} <verb.communication> concede1, yield1, grant -- (be willing to concede; "I grant you this much")
+               => {00779329} <verb.communication> agree, hold15, concur, concord -- (be in accord; be in agreement; "We agreed on the terms of the settlement"; "I can't agree with you!"; "I hold with those who say life is sacred"; "Both philosophers concord on this point") 

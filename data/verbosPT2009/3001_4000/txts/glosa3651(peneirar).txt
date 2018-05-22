@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA3651
+
+DADO O SYNSET:
+
+S='Glosa3651'
+	    {
+	      ajoeirar: "-- Ora vai um cigarro?!... -- principiou o Augusto .... a cabeça azoeirada, onde os miolos dançavam como se os A]ajoeirassem num crivo.,
+	      cirandar: Satanás vos pediu para vos I]cirandar como trigo. ,
+	      joeirar: Eis que esta noite ele vai I]joeirar a cevada na eira. ,
+	      outar: x,
+	      passar: I]Passar o farelo por peneira duas vezes para retirar a palha e resíduos.,
+	      peneirar: Quando se emprega um fermento em pó para fazer doce, deve misturar-se à farinha e I]peneirar-se ambas as substâncias juntamente.,
+	      sengar: M]Sengar arroz.,
+	      sessar: Uma maneira de se chamar o vento é I]sessar milho ou arroz, atirando os grãos para o alto.,
+	      sururucar: Mandou H]sururucar a farinha.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3651' = “separar passando através de uma peneira ou outro dispositivo de filtragem para separar elementos mais grosseiros”
+	     {joeirar: mulheres diligentes sacudiam os tapetes, I]joeiravam o trigo. ,
+	      passar: I]Passar o farelo por peneira duas vezes para retirar a palha e resíduos.,
+	      peneirar: O Sr Mané, faz de um tudo, agora I]peneirava a última porção de massa enxuta .,
+	      sururucar: Mandou H]sururucar a farinha.,}
+Chave: PENEIRAR <verb.contact>
+ILI: 01418532
+
+Sense 2
+{01418532} <verb.contact> sift, sieve, strain1 -- (separate by passing through a sieve or other straining device to separate out coarser elements; "sift the flour")
+       => {01417512} <verb.contact> separate2 -- (divide into components or constituents; "Separate the wheat from the chaff")
+           => {00135037} <verb.change> change integrity -- (change in physical make-up)
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

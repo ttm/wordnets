@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA3292
+
+DADO O SYNSET:
+
+S='Glosa3292'
+	    {
+	      acompanhar: Doze integrantes da Escola de Samba Mangueira, pela qual Mussum desfilou durante 40 carnavais, viajaram do Rio para [acompanhar o funeral. ,
+	      conduzir: Divindade portadora da vara, Hermes, é um deus comumente adjetivado como psicagogo e psicopompo, por [conduzir as almas dos mortos.,
+	      guiar: Pajem é este o nome que ali romanticamente se dá ao guia; e o pajem menos serve para [guiar o viajante, que a estrada é boa, do que para lhe afugentar o tenor dos mocambos.,
+	      levar: Eu me propus a [levá-la e entregá-la a amigos e a Guarda Costeira pareceu aliviada, disse.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3292' = “acompanhar como escolta”
+	     {acompanhar: O índio fechou de novo a porta e [acompanhou sua senhora. ,
+	      conduzir: Velho caboclo, pai da adivinha, [conduziu as senhoras à sala.,
+	      guiar: Um informante encapuzado [guiou os policiais pelas favelas do Amarelinho, Coroado e Acari, em busca de 30 pontos de venda de drogas e de armazenamento de armas e munição.,
+	      levar: Um vizinho de Nádia [levou Rosilene e o filho baleado até o Hospital Carlos Chagas, em Marechal Hermes, onde ele recebeu os primeiros socorros.,}
+Chave: ACOMPANHAR <verb.motion>
+ILI: 01967873
+
+Sense 1
+{01967873} <verb.motion> escort -- (accompany as an escort; "She asked her older brother to escort her to the ball")
+       => {01967594} <verb.motion> accompany -- (go or travel along with; "The nurse accompanied the old lady everywhere")
+           => {01782203} <verb.motion> travel, go, move3, locomote -- (change location; move, travel, or proceed; "How fast does your new car go?"; "We travelled from Rome to Naples by bus"; "The policemen went from door to door looking for the suspect"; "The soldiers moved towards the city in an attempt to take it before night fell")

@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA1939
+
+DADO O SYNSET:
+
+S='Glosa1939'
+{decompor: Cientistas, como Phoebus Levene, começaram a I]decompor os componentes do DNA e descobriram que era molécula longa e entrelaçada, feita de nucleotídeos.,
+ desagregar: A moagem é uma dispersão mais eficiente e tem a função de I]desagregar os aglomerados de pigmentos que ainda permanecem intactos mesmo tendo passado pelo dispersor. ,
+ desavir: DEVIANT,
+ desgregar: x,
+ disgregar: x,
+ escindir: x,
+ resolver: M]Resolver a água em oxigênio e hidrogênio.,
+ separar: Rompimento das pontes de hidrogênio que ligam as bases nitrogenadas, de maneira a [separar os dois filamentos que constituem a molécula de DNA; o filamento de DNA pode ser rompido total ou parcialmente, uma vez que pode ocorrer a cópia de apenas uma parte da molécula.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1939' = “separar [substâncias] em constituintes ou partes”
+{decompor: Christian de Duve descreveu esses orgânulos como sendo ricos em enzimas digestivas, capazes de [decompor grandes moléculas, como as de gordura e proteínas, em constituintes menores para atender às necessidades da célula.,
+ desagregar: O contato direto da água da chuva I]desagrega as partículas do solo, dificultando a infiltração da água.,
+ separar: A destilação fracionada do petróleo I]separa as substâncias em várias frações .,}
+Chave: DECOMPOR <verb.change>
+ILI: 00201816
+
+Sense 1
+{00201816} <verb.change> decompose, break up2, break down9 -- (separate (substances) into constituent elements or parts)
+       => {01417512} <verb.contact> separate2 -- (divide into components or constituents; "Separate the wheat from the chaff")
+           => {00135037} <verb.change> change integrity -- (change in physical make-up)
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

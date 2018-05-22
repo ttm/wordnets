@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0350B
+
+DADO O SYNSET:
+
+S='Glosa350'
+{apurar: Falta [apurar, depois do repouso de sábado, cerca de 175.000 votos, que em tese poderiam alterar o resultado.,
+calcular: Não me atreverei a [calcular os percentuais, mas desconfio que FHC obteve a pole-position por maioria absoluta, tal como ocorreu com os votos propriamente ditos. ,
+contar: O secretário-geral do PT pôs, hoje, uma pá de cal na tentativa dos petistas cariocas de [contar os votos da prévia eleitoral que definirá o candidato do partido à sucessão municipal.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa350B' = “determinar o número ou quantidade de algo”
+{apurar: Falta [apurar, depois do repouso de sábado, cerca de 175.000 votos, que em tese poderiam alterar o resultado.,
+contar: O secretário-geral do PT pôs, hoje, uma pá de cal na tentativa dos petistas cariocas de [contar os votos da prévia eleitoral que definirá o candidato do partido à sucessão municipal.,}
+Chave: APURAR <verb.communication>
+ILI: 00916888
+
+Sense 1
+{00916888} <verb.communication> count, number, enumerate1, numerate -- (determine the number or amount of; "Can you count the books on your shelf?"; "Count your change")
+       => {00888752} <verb.communication> determine, find, find out, ascertain1 -- (after a calculation, investigation, experiment, survey, or study; "find the product of two numbers"; "The physicist who found the elusive particle won the Nobel Prize")

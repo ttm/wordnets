@@ -1,0 +1,51 @@
+ANÁLISE DA GLOSA3751
+
+DADO O SYNSET:
+
+S='Glosa3751'
+{bambalear: Brígida, uma mulata corpulenta, dirigia-se a todos, um por um, a I]bambalear as ancas volumosas.,
+	 bambolear: A gente fica num cantinho só remexendo sem parar; no meu baião, vamos I]bambolear.,
+	 bolear: O Serra, [boleando o seu respeitável ventre foi desafiado pela gorda Lindoca, e dançaram ambos.,
+	 gingar: Deixe a música tomar o controle, encontre o seu ritmo, se solte e comece a I]gingar.,
+	 menear: De canastra à cabeça, M]meneavam os quadris.,
+	 peneirar: Pra não parar de "sambá" morena, balance as "contas" e não páre de I]peneirar, pois eu vim pra lhe "vê" sambando.,
+	 quebrar: Eu quero ver você mexer, eu quero ver você sambar, segure aqui, segure ali, só não pára de I]quebrar.,
+	 rabear: A rapariga I]rabeou ligeira por entre os canteiros e sumiu-se.,
+	 rebolar: Os participantes têm que [rebolar e descer juntos até o chão, retornando depois à postura normal.,
+	 rebolir: Dona Maria chegou de Moroca para I]rebolir.,
+	 requebrar: Os bares também abrem seus espaços para quem quiser [requebrar com o samba.,
+	 rolar-se: H]Rolava-se e sorria, encantando o violonista.,
+	 saçaricar: Se você já vai I]saçaricar a partir de hoje, todas as chances de que, num dos bailes, a orquestra ataque de Balancê, grande sucesso de Gal Costa no carnaval.,
+	 sacolejar: Os fãs imberbes irão [sacolejar sob o baticum dance; amanhã, com mais uma década nas costas, terão maturidade para se interessar pela faceta romântica.,
+	 sacudir: A multidão que acompanhou o bloco Os Internacionais só começou a [sacudir ao de som de Canto da Cidade.,
+	 saracotear: Ela corria pela sala [saracoteando o corpo, com os pés juntos num passo miúdo e repinicado.,
+	 sarandear: Essa vaneira é pra menina dançar, pra I]sarandear e requebrar.,
+	 sururucar: A moça atravessou a praça H]sururucando.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3751'= “mover-se com ritmo movendo os quadris”
+{bambalear: Brígida, uma mulata corpulenta, dirigia-se a todos, um por um, a I]bambalear as ancas volumosas.,
+	 bambolear: A gente fica num cantinho só remexendo sem parar; no meu baião, vamos I]bambolear.,
+	 bolear: O Serra, [boleando o seu respeitável ventre foi desafiado pela gorda Lindoca, e dançaram ambos.,
+	 gingar: Deixe a música tomar o controle, encontre o seu ritmo, se solte e comece a I]gingar.,
+	 menear: De canastra à cabeça, M]meneavam os quadris.,
+	 peneirar: Pra não parar de "sambá" morena, balance as "contas" e não páre de I]peneirar, pois eu vim pra lhe "vê" sambando.,
+	 quebrar: Eu quero ver você mexer, eu quero ver você sambar, segure aqui, segure ali, só não pára de I]quebrar.,
+	 rabear: A rapariga I]rabeou ligeira por entre os canteiros e sumiu-se.,
+	 rebolar: Os participantes têm que [rebolar e descer juntos até o chão, retornando depois à postura normal.,
+	 rebolir: Dona Maria chegou de Moroca para I]rebolir.,
+	 requebrar: Os bares também abrem seus espaços para quem quiser [requebrar com o samba.,
+	 rolar-se: H]Rolava-se e sorria, encantando o violonista.,
+	 saçaricar: Se você já vai I]saçaricar a partir de hoje, todas as chances de que, num dos bailes, a orquestra ataque de Balancê, grande sucesso de Gal Costa no carnaval.,
+	 sacolejar: Os fãs imberbes irão [sacolejar sob o baticum dance; amanhã, com mais uma década nas costas, terão maturidade para se interessar pela faceta romântica.,
+	 sacudir: A multidão que acompanhou o bloco Os Internacionais só começou a [sacudir ao de som de Canto da Cidade.,
+	 saracotear: Ela corria pela sala [saracoteando o corpo, com os pés juntos num passo miúdo e repinicado.,
+	 sarandear: Essa vaneira é pra menina dançar, pra I]sarandear e requebrar.,
+	 sururucar: A moça atravessou a praça H]sururucando.}
+Chave: REQUEBRAR <verb.motion>
+ILI: EQ_HAS_HYPERONYM - 01840266
+
+Sense 1
+{01840266} <verb.motion> dance1 -- (move in a graceful and rhythmical way; "The young girl danced into the room")
+       => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right")

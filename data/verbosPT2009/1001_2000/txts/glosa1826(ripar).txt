@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA1826
+
+DADO O SYNSET:
+
+S='Glosa1826'
+{enripar: H]Enripou o telhado para colocar as telhas.,
+ ripar: A]Ripar um telhado.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1826' = “suprir com ripas”
+{enripar: Estão fechando as laterais e I]enripando.,
+ ripar: Você já I]ripou 1/8 do telhado.,}
+Chave: RIPAR <verb.contact>
+ILI: 01267392
+
+Sense 1
+{01267392} <verb.contact> batten1, batten down, secure3 -- (furnish with battens; "batten ships")
+       => {00213400} <verb.change> strengthen1, beef up, fortify1 -- (make strong or stronger; "This exercise will strengthen your upper body"; "strenghten the relations between the two countries")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA2915
+
+DADO O SYNSET:
+
+S='Glosa2915'
+	    {afocinhar: Como todos os gatos, caiu de pé, mas I]afocinhou no chão.,
+	      esfocinhar: x,
+	      focinhar: O cão, ao I]focinhar o rastro de um rato, lambe um pouco da urina do roedor e se contamina, podendo também se contaminar pela ingestão do microorganismo. ,
+	      fossar: Nesse momento um bacorinho de pelo ruivo, embestegava com um trote miúdo, mas ligeiro, pela cozinha, e atravessou toda a casa até a pousada, onde conversava a capangada; aí começou a I]fossar nas pernas do Chico Tinguá, que, arrancando-se à balorda posição, desfechou no importuno animal um pontapé. ,
+	      fuçar: Naquele momento conheci Pretinha, uma cadelinha toda negrinha, de olhinhos bem tristes, mas muito espertinha, que I]fuçava tudo no chão, e logo beijou minha mão.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2915' = “Escavar com o focinho”
+	    {afocinhar: I]Afocinhou a lata de lixo com a sofreguidão de três dias sem pôr grão no estômago.,
+	      focinhar: Ao chegar, o bicho tudo I]focinhou e para tudo rosnou, uivou ou ganiu.,
+	      fossar: Porcos I]fossavam a terra, à cata de guelras de peixe, abandonadas.,
+	      fuçar: Naquele momento conheci Pretinha, uma cadelinha toda negrinha, de olhinhos bem tristes, mas muito espertinha, que I]fuçava tudo no chão, e logo beijou minha mão.,}
+Chave: AFOCINHAR <verb.contact>
+ILI: 01244183
+
+Sense 4
+{01244183} <verb.contact> rout1, root, rootle -- (dig with the snout; "the pig was rooting for truffles")
+       => {01270650} <verb.contact> dig, delve, cut into1, turn over -- (turn up, loosen, or remove earth; "Dig we must"; "turn over the soil for aeration")
+           => {00166870} <verb.change> remove, take, take away1, withdraw1 -- (remove something concrete, as by lifting, pushing, taking off, etc. or remove something abstract; "remove a threat"; "remove a wrapper"; "Remove the dirty dishes from the table"; "take the gun from your pocket"; "This machine withdraws heat from the environment") 

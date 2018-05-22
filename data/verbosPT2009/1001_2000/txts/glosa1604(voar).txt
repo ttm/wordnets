@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA1604
+
+DADO O SYNSET:
+
+S='Glosa1604'
+{correr: Ele era todo felicidade e logo [correu ao seu encontro, mas ao se aproximar, percebeu que algo havia acontecido...ela estava diferente .,
+ disparar: Logo, a turma correu para o ônibus, que [disparou em direção à nova morada do nosso futebol, auspiciosamente denominada de Villa Felice.,
+ voar: Custódio enfiou um casaco de alpaca e [voou à Rua da Assembléia.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1604' = “mover-se rapidamente ou repentinamente”
+{correr: Ele era todo felicidade e logo [correu ao seu encontro, mas ao se aproximar, percebeu que algo havia acontecido...ela estava diferente.,
+ disparar: Logo, a turma correu para o ônibus, que [disparou em direção à nova morada do nosso futebol, auspiciosamente denominada de Villa Felice.,
+ voar: Custódio enfiou um casaco de alpaca e [voou à Rua da Assembléia.,}
+Chave: VOAR <verb.motion>
+ILI: 01788670
+
+Sense 2
+{01788670} <verb.motion> fly2 -- (move quickly or suddenly; "He flew about the place")
+       => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right")

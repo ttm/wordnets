@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA2238
+
+DADO O SYNSET:
+
+S='Glosa2238'
+	    {valsar: Os vienenses adoram H]valsear.,
+	      valsear: Nos teus braços a I]valsear.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2238' = “ dançar em ritmo de valsa” 
+	    {valsar: Concordou que não [valsava mal .,
+	      valsear: Os vienenses adoram H]valsear.,}
+
+Chave: VALSAR <verb.motion>
+ILI: 01841229
+
+Sense 1
+{01841229} <verb.motion> waltz, waltz around -- (dance a waltz)
+       => {01659897} <verb.creation> dance, trip the light fantastic, trip the light fantastic toe -- (move in a pattern; usually to musical accompaniment; do or perform a dance; "My husband and I like to dance at home to the radio")
+           => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right")

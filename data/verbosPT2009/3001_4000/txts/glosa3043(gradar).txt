@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA3043
+
+DADO O SYNSET:
+
+S='Glosa3043'
+	    {
+	      gradar2: José está H]gradando a terra onde plantou feijão.,
+	      gradear: Buscar as sementes, semeá-las e I]gradear a terra. # É que cerca de 80% dos agricultores utilizam o plantio direto, sem a necessidade de I]gradear a terra.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3043' = “tornar plano”
+	     {gradar2: José está H]gradando a terra onde plantou feijão.,
+	      gradear: A Cemig desmatou, I]gradeou e corrigiu com calcário cinco hectares para cada assentado naquela fazenda. # Operação Integrada de combate à queimadas já I]gradeou 60 % dos terrenos baldios da cidade.,}
+Chave: GRADAR <verb.contact>
+ILI: 01268109
+
+Sense 1
+{01268109} <verb.contact> flush3, level1, even out, even -- (make level or straight; "level the ground")
+       => {00345030} <verb.change> change surface -- (undergo or cause to undergo a change in the surface)
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

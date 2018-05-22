@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA2382
+
+DADO O SYNSET:
+
+S='Glosa2382'
+	    {apalpar: Com os dedos unidos, use a mão direita para I]apalpar a mama esquerda.,
+	      babatar: A chama do rolo apagou-se à lufada e o cuiabano ficou só, A]babatando na treva.,
+	      palpar: I]Palpar as mamas delicadamente e de maneira ordenada, atentando para a presença de nódulos.,
+	      pegar: Ali ainda ficou meio sem jeito até Pelé [pegar a sua mão e colocar bem em cima do bola que havia acabado de autografar.,
+	      tatear: Só que as chaves não aparecem, é preciso [tatear na escuridão.,
+	      tentear1: Entregava-lhe as mãos, que ele I]tenteava frouxamente, com medo de ser indiscreto.,
+	      tocar: Aí eu estiquei a mão assim para [tocar em algumas pessoas.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2382' = “Perceber através do sentido táctil .”
+	    {apalpar: Com os dedos unidos, use a mão direita para I]apalpar a mama esquerda.,
+	      babatar: I]Babatando com esforço pôde erguer-se, mas sem bengala nem tricórnio.,
+	      palpar: I]Palpar as mamas delicadamente e de maneira ordenada, atentando para a presença de nódulos.,
+	      tatear: Só que as chaves não aparecem, é preciso [tatear na escuridão.,
+	      tentear1: Como se fossem cousas que se pudesse I]tentear com as mãos.,
+	      tocar: Aí eu estiquei a mão assim para [tocar em algumas pessoas.,}
+
+Chave: APALPAR < verb.perception >
+ILI: 02065926
+
+Sense 2
+{02065926} <verb.perception> touch -- (perceive via the tactile sense; "Helen Keller felt the physical world by touching people and objects around her")
+       => {02045668} <verb.perception> perceive, comprehend -- (to become aware of through the senses; "I could perceive the ship coming over the horizon")

@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA2396
+
+DADO O SYNSET:
+
+S='Glosa2396'
+	    {amodelar: x,
+	      compor: O poema surgiu de um pedido para [compor um auto de Natal a ser encenado pela jovem Maria Clara Machado, mentora do Teatro Tablado e filha do amigo de Cabral, o escritor Aníbal Machado.,
+	      delinear: Assim, o presente livro está na lógica de sua indagação, e lhe faz jus, à medida que o Tratado Geral de Semiótica, além de constituir-se numa verdadeira suma das principais abordagens do tema, consegue I]delinear uma teoria global de lingüística, de lógica, das linguagens naturais, da retórica, da estética, da filosofia da linguagem e da teoria da percepção apresentam-se aqui reunidos em uma reorganização articulada e sistemática.,
+	      escrever: Um dos enfoques tratados é: o desafio de I]escrever um trabalho científico e publicá-lo.,
+	      fazer: Quisemos I]fazer um livro que enfatizasse, além da verdade e da força dos ensinamentos, sempre presentes em Krishnamurti, a beleza ea delicadeza do amigo.,
+	      modelar: O único que direito que realmente me pertence é o exercício de pescar idéias a partir das quais desenhar o próximo texto ou I]modelar um novo poema.,
+	      tecer: Os "Desastres da Guerra" [tecem uma ópera macabra sobre a decadência física e espiritual de uma nação que foi, a seu tempo, a maior potência sobre a face da Terra.,
+	      traçar1: Com o reconhecido talento de escritor, Moacyr Scliar consegue [traçar a trajetória do sanitarista Oswaldo Cruz como um romance agradável.,}
+
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2396' = “Produzir uma obra literária.”
+	    {compor: O poema surgiu de um pedido para [compor um auto de Natal.,
+	      delinear: O Tratado Geral de Semiótica consegue I]delinear uma teoria global de lingüística, de lógica, das linguagens naturais, da retórica, da estética, da filosofia da linguagem e da teoria da percepção.,
+	      escrever: Um dos enfoques tratados é: o desafio de I]escrever um trabalho científico e publicá-lo.,
+	      fazer: Nasceu então a idéia de I]fazer um romance, contando histórias de gente que ama e se alegra, mas também sofre.,
+	      modelar: O único que direito que me pertence é o exercício de pescar idéias e a partir das quais desenhar o próximo texto ou I]modelar um novo poema.,
+	      tecer: Ao I]tecer o poema o poeta sempre estará dialogando com uma tradição poética preexistente.,
+	      traçar1: Moacyr Scliar consegue [traçar a trajetória do sanitarista Oswaldo Cruz como um romance agradável.,}
+
+Chave: ESCREVER <verb.creation>
+ILI: 01649807
+
+Sense 3
+{01649807} <verb.creation> write, compose1, pen, indite -- (produce a literary work; "She composed a poem"; "He wrote four novels")
+       => {01649365} <verb.creation> create verbally -- (create with or from words)
+           => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor") 

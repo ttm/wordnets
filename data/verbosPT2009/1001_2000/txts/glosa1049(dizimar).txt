@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA1049
+
+DADO O SYNSET:
+
+S='Glosa1049'
+{decimar: Um purgo sangrente I]decimou o exército.,
+ defraudar: Quem não começar por aí, está I]defraudando 50 milhões de famélicos. ,
+ desfalcar: Segundo Celso Vernizzi, os carros são de reserva e não [desfalcaram a frota da empresa.,
+ dizimar: Os choques entre vietcongues, exército de guerrilheiros comunistas, os vietnamitas do sul e os soldados norte-americanos [dizimaram milhares de vidas.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1049' = “subtrair, diminuir o número de”
+{decimar: Saddam, que é suni, I]decimou a liderança dos xiitas no Iraque.,
+ desfalcar: Em 1956, a criação dos Territórios Federais de Rondônia e Roraima I]desfalcou o Estado em área e população.,
+ dizimar: Alguma estranha lei da retribuição [dizimou os praticantes do jogo de poder em Dallas e poupou as mulheres a seu lado.,}
+Chave: DIZIMAR <verb.cognition> 
+ILI: 00620802 
+
+Sense 1
+{00620802} <verb.cognition> subtract, deduct1, take off -- (make a subtraction)
+       => {00617041} <verb.cognition> calculate, cipher, cypher, compute, work out6, reckon1, figure -- (make a mathematical calculation or computation)
+           => {00612517} <verb.cognition> reason -- (think logically; "The children must learn to reason")
+               => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

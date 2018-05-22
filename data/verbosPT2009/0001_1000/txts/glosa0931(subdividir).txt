@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0931
+
+DADO O SYNSET:
+
+S='Glosa931'
+{dividir-se: Todos os objetos da razão ou da imaginação humanas podem [dividir-se naturalmente em dois gêneros, a saber: relações de idéias e de fatos.,
+ramificar-se: Diques e veios têm uma tendência para [se ramificar e mudar de direção de modo complexo, especialmente onde eles cortam através de outros diques.,
+repartir-se: Os Tribunais I]repartem-se pelas seguintes categorias: Tribunal Constitucional; Supremo Tribunal de Justiça; Tribunais Judiciais de Primeira e de Segunda.,
+subdividir-se: Administrativamente, o Japão [subdivide-se em 47 prefeituras, que são agrupadas em 8 regiões.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa931' = “formar em subdivisões”
+{dividir-se: Todos os objetos da razão ou da imaginação humanas podem [dividir-se naturalmente em dois gêneros, a saber: relações de idéias e de fatos.,
+ramificar-se: Diques e veios têm uma tendência para [se ramificar e mudar de direção de modo complexo, especialmente onde eles cortam através de outros diques.,
+repartir-se: Os Tribunais I]repartem-se pelas seguintes categorias: Tribunal Constitucional; Supremo Tribunal de Justiça; Tribunais Judiciais de Primeira e de Segunda.,
+subdividir-se: Administrativamente, o Japão [subdivide-se em 47 prefeituras, que são agrupadas em 8 regiões.,}
+Chave: SUBDIVIDIR <verb.change>
+ILI: 00322915
+
+Sense 1
+{00322915} <verb.change> subdivide1 -- (form into subdivisions; "The cells subdivided")
+       => {01514734} <verb.contact> separate, divide, part -- (come apart; "The two pieces that we had glued separated")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

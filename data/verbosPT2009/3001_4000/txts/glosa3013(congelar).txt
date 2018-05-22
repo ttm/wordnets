@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA3013
+
+DADO O SYNSET:
+
+S='Glosa3013'
+	    {
+	      congelar: Não há como secar as roupas, pois elas [congelam instantaneamente.,
+	      enregelar: E finalmente virá o frio ea neve I]enregelar a terra, enrijeçer o pêlo e tolher nossos passos numa alegria breve.,
+	      gear: x,
+	      gelar: Daqui a pouco precisaremos de uma liminar judicial se quisermos [gelar uma cerveja.,
+	      regelar: Da noite o frio vento te I]regela o mórbido suor.,
+	      solidar: O frio intenso H]solidou a água.,
+	      solidificar: Se a água se contraísse ao I]solidificar, o gêlo formado na superfície dos lagos no inverno rigoroso seria mais denso que a água e iria para o fundo. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3013' = “transformar em gelo”
+	     {congelar: O frio excessivo [congelou a água nas torneiras.,
+	      enregelar: O frio do lugar I]enregelava suas mãos, o que lhe fazia pensar em rumar para um reino mais quente.,
+	      gelar: Daqui a pouco precisaremos de uma liminar judicial se quisermos [gelar uma cerveja.,
+	      regelar: Da noite o frio vento te I]regela o mórbido suor.,
+	      solidar: O frio intenso H]solidou a água.,
+	      solidificar: Em contato com a parede, a temperatura do corpo caiu na mesma velocidade em que o frio I]solidificou meus membros. ,}
+Chave: CONGELAR <verb.change>
+ILI: 00362722
+
+Sense 1
+{00362722} <verb.change> freeze -- (change to ice; "The water in the bowl froze")
+       => {00140715} <verb.change> change state, turn4 -- (undergo a transformation or a change of position or action; "We turned from Socialism to Capitalism"; "The people turned against the President when he stole the election")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

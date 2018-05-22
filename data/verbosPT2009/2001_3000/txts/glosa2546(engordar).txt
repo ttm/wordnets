@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA2546
+
+DADO O SYNSET:
+
+S='Glosa2546'
+	    {cevar: Caritó é onde se prendem os caranguejos para [cevar.,
+	      encarnar: x,
+	      engordar: Quando se destina ao corte, o rebanho recebe um tratamento que lhe possibilita [engordar em curto espaço de tempo, além de não gastar energia e peso, uma vez que não necessita de longas caminhadas.,
+	      enxundiar: x,
+	      nutrir: Na seca, somente sal mineral e capim não são suficientes para I]nutrir o gado, há necessidade de suplementá-los com alimentos energéticos (milho, sorgo, polpa cítrica) e proteína (farelos de algodão e soja e uréia).,
+	      saginar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2546' = “Tornar gordo ou rechonchudo.”
+	    {cevar: Caritó é onde se prendem os caranguejos para [cevar.,
+	      engordar: Jorge Abdala Derbli sempre recriou e I]engordou os seus bezerros.,
+	      nutrir: Na seca, somente sal mineral e capim não são suficientes para I]nutrir o gado.,}
+
+Chave: ENGORDAR <verb.consumption>
+ILI: 01158573 
+
+Sense 1
+{01158573} <verb.consumption> fatten, fat, flesh out, fill out, plump, plump out, fatten out, fatten up -- (make fat or plump; "We will plump out that poor starving child")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

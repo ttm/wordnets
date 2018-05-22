@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0883
+
+DADO O SYNSET:
+
+S='Glosa883'
+{auferir: A falsidade da declaração prestada com o objetivo de I]auferir os benefícios do Estatuto, tipifica o crime de falsidade ideológica.,
+chincar1: x,
+colher: A oposição começa a levantar uma bola que se o governo souber chutar com competência poderá [colher benefícios mais à frente.,
+lucrar: O governador paulista afirmou que quem [lucra com os juros altos são os bancos, sem que o governo federal tome providência para reduzir a taxa.,
+tirar: Os San Antonio Spurs [tiram vantagem de levarem um jogo de avanço sobre os rivais de Utah.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa883' = “tirar benefício de”
+{auferir: A falsidade da declaração prestada com o objetivo de I]auferir os benefícios do Estatuto, tipifica o crime de falsidade ideológica.,
+colher: A oposição começa a levantar uma bola que se o governo souber chutar com competência poderá [colher benefícios mais à frente.,
+lucrar: O governador paulista afirmou que quem [lucra com os juros altos são os bancos, sem que o governo federal tome providência para reduzir a taxa.,
+tirar: Os San Antonio Spurs [tiram vantagem de levarem um jogo de avanço sobre os rivais de Utah.,}
+Chave: LUCRAR <verb.possession>
+ILI: 02224430
+
+Sense 1
+{02224430} <verb.possession> profit2, gain2, benefit -- (derive a benefit from; "She profited from his vast experience")
+       => {02147191} <verb.possession> get, acquire -- (come into the possession of something concrete or abstract; "She got a lot of paintings from her uncle"; "They acquired a new pet"; "Get your results the next day"; "Get permission to take a few days off from work")

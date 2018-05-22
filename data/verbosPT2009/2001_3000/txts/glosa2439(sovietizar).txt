@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA2439
+
+DADO O SYNSET:
+
+='Glosa2439'
+	    {bolchevizar: Os processos constitucionais não funcionaram para destituir o govêrno, que deliberadamente se dispunha a I]bolchevizar o País.,
+	      sovietizar: O governo do PT irá I]sovietizar o interior do país através da criação, obrigatória, de um conselho e de um órgão executor de políticas sociais.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2439' = “adotar o caráter soviético”
+	    {bolchevizar: Os processos constitucionais não funcionaram para destituir o govêrno, que deliberadamente se dispunha a I]bolchevizar o País.,
+	      sovietizar: O governo do PT irá I]sovietizar o interior do país através da criação, obrigatória, de um conselho e de um órgão executor de políticas sociais.,}
+
+Chave: SOVIETIZAR <verb.change>
+ILI: EQ_HAS_HYPERONYM - 00290397
+
+Sense 1
+{00290397} <verb.change> adapt1, accommodate -- (make fit for, or change to suit a new purpose; "Adapt our native cuisine to the available food resources of the new country")
+       => {00118358} <verb.change> change2, alter, vary1 -- (make or become different in some particular way, without permanently losing one's or its former characteristics or essence; "her mood changes in accordance with the weather"; "The supermarket's selection of vegetables varies according to the season")

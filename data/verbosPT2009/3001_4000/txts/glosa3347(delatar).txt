@@ -1,0 +1,48 @@
+ANÁLISE DA GLOSA3347
+
+DADO O SYNSET:
+
+S='Glosa3347'
+	    {
+	      alcagüetar: I]Alcagüetar alguém, acumular dívida e se meter em confusão com traficantes ou cafetões são consideradas faltas gravíssimas, punidas com espancamento. ,
+	      atraiçoar: Entendo que em proveito de todos devo [atraiçoar o meu amigo Reis, publicando o que sei e o que obtive do armênio, e o que o armênio é capaz de dar, enriquecendo. ,
+	      cabuetar: Agora, outra coisa, foi um sem-vergonha covarde que comeu o dinheiro da gente e I]cabuetou a gente.,
+	      cagüetar: Você vai I]cagüetar o joalheiro? ,
+	      dedar: Fomos traídos, alguém nos [dedou.,
+	      dedo-durar: Preso durante a ditadura militar, mesmo torturado não I]dedo-durou ninguém.,
+	      dedurar: O camelô I]dedurou o fiscal, que dedurou o assessor da administração regional, que dedurou a assessora Tânia de Paula.,
+	      delatar: A empresa que estiver envolvida em tramóias mas [delatar seus comparsas à Comissão de Valores Mobiliários ficará isenta das penalidades administrativas.,
+	      denunciar: O irmão de Expedito, João Carvalho Perera afirma que Nazareth [denunciou o marido e seus três irmãos aos agentes da repressão militar. ,
+	      entregar: Seu nome aparece em livro sobre a prisão do Chacal, em que há indícios de que foi ele quem [entregou o Chacal às autoridades.,
+	      malsinar: Meu pai, eu não podia I]malsinar.,
+	      revelar: Durante o CIAB, Fiori afirma que fechou negócios com dois bancos. Um destes, o Banco Mercantil, I]revelou o executivo.,
+	      trair: Judas [traiu Jesus.,
+	      vender: Judas A]vendeu Jesus.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3347' = revelar informação sobre alguém”
+	     {alcagüetar: De quebra, a “Folha” também I]alcagüetou a “Veja” e o provecto “Estadão”, que, segundo ela, também telefonaram para Gedimar. ,
+	      atraiçoar: Felix Boigny I]atraiçoou os comunistas e fez um acordo com o "socialista" François Mitterrand, ministro das colônias francesas. ,
+	      cabuetar: Alguém I]"cabuetou" e mandaram o Zezé para o chuveiro.,
+	      cagüetar: E Kazan I]cagüetou seus amigos para ter a única liberdade que o interessava: a artística. ,
+	      dedar: Nessa hora, é claro, o menino I]dedou seu colega e tentou se isentar do castigo.,
+	      dedo-durar: O zelador o I]dedodurou.,
+	      dedurar: O camelô I]dedurou o fiscal, que dedurou o assessor da administração regional, que dedurou a assessora Tânia de Paula.,
+	      delatar: Ele [delatou pelo menos 12 espiões americanos e recebeu pagamento de US$ 2 milhões.,
+	      denunciar: O prisioneiro I]denunciou o amigo e o empresário, seus cúmplices. ,
+	      entregar: Iran I]entregou o amigo, colocou-o em situação difícil, rompeu com laços de lealdade e ainda saiu humilhando o jogo do outro.,
+	      malsinar: Acusava os protestantes, I]malsinava os espíritas.,
+	      revelar: Durante o CIAB, Fiori afirma que fechou negócios com dois bancos. Um destes, o Banco Mercantil, I]revelou o executivo.,
+	      trair: Judas [traiu Jesus.,
+	      vender: Judas A]vendeu Jesus.,}
+Chave: DELATAR <verb.communication>
+ILI: 00814610
+
+Sense 4
+{00814610} <verb.communication> denounce1, tell on, betray, give away1, rat9, grass9, shit9, shop9, snitch9, stag9 -- (give away information about somebody; "He told on his classmate who had cheated on the exam")
+       => {00804489} <verb.communication> inform -- (impart knowledge of some fact, state or affairs, or event to; "I informed him of his rights")
+           => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+               => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

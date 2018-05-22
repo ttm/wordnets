@@ -1,0 +1,40 @@
+ANÁLISE DA GLOSA2008
+
+DADO O SYNSET:
+	
+S='Glosa2008'
+    	{alarmar: Flora adoeceu levemente; D. Rita, para não [alarmar os pais, cuidou de a tratar com remédios caseiros; depois mandou chamar um médico, o seu médico, e a cara que este fez não foi boa, antes má.,
+      	 alborotar: x,
+      	 alertar: A notícia sobre discos voadores M]alertou a população. ,
+      	 alvoroçar: Em sua pequenina cidade a notícia I]alvoroçou o povo, pois a palavra câncer, apesar dos avanços da medicina continua significando Pé na Cova.,
+      	 alvorotar: x,
+      	 ariscar: x,
+      	 assustar: Parece que a mãe quis sorrir a esta palavra de confiança, mas a boca não respondeu à intenção, antes fez um trejeito que [assustou os filhos.,
+      	 espantar: Tinha havido alguns minutos de silêncio, durante os quais refleti muito e acabei por uma idéia; o tom da exclamação, porém, foi tão alto que [espantou a minha vizinha ,
+      	 espaventar: x,
+      	 sobressaltar: No banco de trás, recostado, o Inspector Trindade seguia emerso nos seus pensamentos quando a voz do sargento o I]sobressaltou.,}
+  
+A='Glosa4122'
+    	{aquietar, quietar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2008' = “encher [alguém] de apreensão ou alarme; deixar alguém desagradavelmente surpreso”
+    	{alarmar: Flora adoeceu levemente; D. Rita, para não [alarmar os pais, cuidou de a tratar com remédios caseiros.,
+      	 alertar: A notícia da fusão do Instituto Porto Alegre com o Colégio Americano I]alertou a comunidade escolar, que realizou várias manifestações contrárias ao projeto.,
+      	 alvoroçar: Em sua pequenina cidade a notícia I]alvoroçou o povo, pois a palavra câncer, apesar dos avanços da medicina continua significando Pé na Cova.,
+      	 assustar: Parece que a mãe quis sorrir a esta palavra de confiança, mas a boca não respondeu à intenção, antes fez um trejeito que [assustou os filhos.,
+      	 espantar: Tinha havido alguns minutos de silêncio, durante os quais refleti muito e acabei por uma idéia; o tom da exclamação, porém, foi tão alto que [espantou a minha vizinha ,
+      	 sobressaltar: No banco de trás, recostado, o Inspector Trindade seguia emerso nos seus pensamentos quando a voz do sargento o I]sobressaltou.}
+  
+A='Glosa4122'
+    	{aquietar, quietar}
+Chave: ALARMAR <verb.emotion>
+ILI: 01730919
+
+Sense 1
+{01730919} <verb.emotion> dismay, alarm, appal1, appall10, horrify1 -- (fill with apprehension or alarm; cause to be unpleasantly surprised; "I was horrified at the thought of being late for my interview"; "The news of the executions horrified us")
+       => {01727523} <verb.emotion> frighten, fright, scare, affright -- (cause fear in; "The stranger who hangs around the building frightens me")
+           => {01710864} <verb.emotion> stimulate, shake, shake up, excite, stir1 -- (stir the feelings, emotions, or peace of; "These stories shook the community"; "the civil war shook the country")
+               => {01708538} <verb.emotion> arouse, elicit, enkindle, kindle, evoke, fire, raise8, provoke -- (call forth (emotions, feelings, and responses); "arouse pity"; "raise a smile"; "evoke sympathy")
+                   => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2120
+
+DADO O SYNSET:
+	
+S='Glosa2120'
+    	{abater-se: Abatera-se muito com aquela enfermidade.,
+      	 consumir-se: x,
+      	 enfraquecer-se: Como a sarna se localiza de preferência na cabeça e boca do animal, os lábios se apresentam consideravelmente inchados e o coelho não pode alimentar-se. Com isto o animal emagrece, I]enfraquecendo-se bastante até morrer.,
+      	 enfraquentar-se: x,
+      	 exinanir-se: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2120' = “ficar mais fraco”
+    	{abater-se: Fabrício I]abateu-se e levou meses para se recuperar.,
+ enfraquecer-se: Soube que estava em casa da irmã casada e ia pior, cada vez mais abismada na sua mania, [enfraquecendo-se de corpo.}
+Chave: ENFRAQUECER-SE <verb.change>
+ILI: 00216002
+
+Sense 2
+{00216002} <verb.change> weaken -- (become weaker; "The prisoner's resistance weakened after seven days")
+       => {00146081} <verb.change> decrease, diminish, lessen, fall6 -- (decrease in size, extent, or range; "The amount of homework decreased towards the end of the semester"; "The cabin pressure fell dramatically"; "her weight fall to under a hundred pounds"; "his voice fell to a whisper")
+           => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

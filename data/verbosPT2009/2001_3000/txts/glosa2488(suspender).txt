@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA2488
+
+DADO O SYNSET:
+
+S='Glosa2488'
+	    {cortar: Tribunal de Justiça condena concessionária a pagar indenização por I]cortar energia de consumidor inadimplente.,
+	      interromper: O Museu de Arte Moderna (MAM) vai [interromper sua programação para receber, no início de 1998 - quando completa 50 anos - grande parte da obra do artista americano.,
+	      quebrar: Tentou-se [quebrar por alguns dias as fronteiras e compartilhar com gente de nosso meio e hábitos culturais o choque da descoberta que vem sendo a de alguns pesquisadores letrados, empenhados na difícil e gratificante tarefa de aprender a ouvir e conhecer outras formas e outros modos de saber.,
+	      sobreestar: Um solícito General do Serviço Nacional de Informação julgou encontrar no texto verbetes que considerava subversivos, a surpreendente descoberta levou a Comissão Nacional de Moral e Civismo a telegrafar a todas as suas agências, ordenando "a I]sobreestar a divulgação da obra".,
+	      sobrestar: No julgamento ocorrido na tarde desta terça-feira (25), os ministros decidiram I]sobrestar a ação até que o acórdão da 5ª Câmara seja publicado.,
+	      suspender: O Hospital de Ipanema foi obrigado a [suspender 30 cirurgias marcadas para ontem. # A embaixada brasileira em Moscou [suspendeu, temporariamente, a concessão de vistos.,
+	      sustar: Correios [sustam os pagamentos ao Papa-Tudo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2488' = “tornar inoperante ou encerrar”
+	    {cortar: Tribunal de Justiça condena concessionária a pagar indenização por I]cortar energia de consumidor inadimplente.,
+	      interromper: O Museu de Arte Moderna (MAM) vai [interromper sua programação para receber, no início de 1998 - quando completa 50 anos - grande parte da obra do artista americano.,
+	      suspender: O Hospital de Ipanema foi obrigado a [suspender 30 cirurgias marcadas para ontem. # A embaixada brasileira em Moscou [suspendeu, temporariamente, a concessão de vistos.,
+	      sustar: Correios [sustam os pagamentos ao Papa-Tudo.,}
+
+Chave: SUPENDER <verb.change>
+ILI: 00528006
+
+Sense 5
+{00528006} <verb.change> suspend2, set aside -- (make inoperative or stop; "suspend payments on the loan")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

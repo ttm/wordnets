@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA3391
+
+DADO O SYNSET:
+
+S='Glosa3391'
+	    {
+	      marmorear: H]Marmorear uma coluna.,
+	      marmorizar: Coloque a massa de chocolate delicadamente sobre a massa branca e com uma colher dê um giro na massa para I]marmorizar o bolo.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3391' = “pintar ou manchar como mármore”
+	     {marmorear: H]Marmorear uma coluna.,
+	      marmorizar: A civilização de Micenas já I]marmorizava suas cerâmicas.,}
+Chave: MARMORIZAR <verb.creation>
+ILI: 01633393
+
+Sense 1
+{01633393} <verb.creation> marble -- (paint or stain like marble; "marble paper")
+       => {00277004} <verb.change> stain1 -- (color with a liquid dye or tint; "Stain this table a beautiful walnut color"; "people knew how to stain glass a beautiful blue in the middle ages")
+           => {00274174} <verb.change> dye -- (color with dye; "Please dye these shoes")
+               => {00272185} <verb.change> discolor, discolour, colour, color1 -- (change color, often in an undesired manner; "The shirts discolored")
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

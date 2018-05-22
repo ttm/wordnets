@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0698
+
+DADO O SYNSET:
+
+S='Glosa698'
+{abrasar: Os imperadores recordam façanhas quando Aimbirê se aproxima. O calor que se desprende dele I]abrasa os imperadores, que suplicam a morte. ,
+assar: O pequeno Ailton continuava ali, I]assando sob aquele sol quente.,
+queimar: No dia seguinte, logo depois do meio dia, o calor apertou. O sol I]queimava.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa698' = “causar dano por meio de fogo, radiação ou calor”
+{abrasar: Os imperadores recordam façanhas quando Aimbirê se aproxima. O calor que se desprende dele I]abrasa os imperadores, que suplicam a morte. ,
+assar: O pequeno Ailton continuava ali, I]assando sob aquele sol quente.,
+queimar: No dia seguinte, logo depois do meio dia, o calor apertou. O sol I]queimava.,}
+Chave: QUEIMAR <verb.change>
+ILI: 00189569
+
+Sense 15
+{00189569} <verb.change> burn3 -- (burn with heat, fire, or radiation; "The iron burnt a hole in my dress")
+       => {00250328} <verb.change> damage -- (inflict damage upon; "The snow damaged the roof"; "She damaged the car when she hit the tree")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

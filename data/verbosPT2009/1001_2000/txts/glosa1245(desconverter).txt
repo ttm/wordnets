@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA1245
+
+DADO O SYNSET:
+
+S='Glosa1245'
+{desconverter: Infelismente ele conhece o coração humano e tem conseguido I]desconverter muitas crentes a cometer este pecado.,}
+	  
+A='Glosa2326'
+{converter, metamorfosear, mudar, tornar, transformar, transubstanciar, transverter}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1245' = “voltar para um estado anterior”
+{desconverter: Em fevereiro do mesmo ano, foram 673 conversões e 130 carros que I]desconverteram de GNV para outro tipo de combustível.,}
+A='Glosa2326'
+{converter, metamorfosear, mudar, tornar, transformar, transubstanciar, transverter}
+Chave: DESCONVERTER <verb.change>
+ILI: EQ_HAS_HYPERONYM – 00375470 
+
+Sense 1
+{00375470} <verb.change> revert, return, retrovert, regress1, turn back -- (go back to a previous state; "We reverted to the old rules")
+       => {00133458} <verb.change> change by reversal, turn, reverse -- (change to the contrary; "The trend was reversed"; "the tides turned against him"; "public opinion turned when it was revealed that the president had an affair with a White House intern")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

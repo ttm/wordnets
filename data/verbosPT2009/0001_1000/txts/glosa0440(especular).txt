@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA0440
+
+DADO O SYNSET:
+
+S='Glosa440'
+{agiotar: Preferem I]agiotar através dos juros do FMI, Banco Mundial, BID, e ainda, Lula corta 5 bilhões da área social.,
+especular: Acusado pelo PFL de [especular na bolsa de coligações, o PSDB conseguiu retardar ainda mais o casamento dos dois partidos. ,
+rebater: A Lei Complementar n 87 desonera o ICMS incidente sobre as exportações de produtos primários e semi-elaborados e possibilita I]rebater o ICMS pago nas compras de bens de capital.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa440' = “investir sobre risco, exercer a agiotagem”
+{agiotar: Preferem I]agiotar através dos juros do FMI, Banco Mundial, BID, e ainda, Lula corta 5 bilhões da área social.,
+especular: Acusado pelo PFL de [especular na bolsa de coligações, o PSDB conseguiu retardar ainda mais o casamento dos dois partidos. ,
+rebater: A Lei Complementar n 87 desonera o ICMS incidente sobre as exportações de produtos primários e semi-elaborados e possibilita I]rebater o ICMS pago nas compras de bens de capital.,}
+Chave: ESPECULAR <verb.possession>
+ILI: 02206439
+
+Sense 4
+{02206439} <verb.possession> speculate, job -- (invest at a risk; "I bought this house not because I want to live in it but to sell it later at a good price, so I am speculating")
+       => {02205511} <verb.possession> invest, put, commit5, place3 -- (make an investment; "Put money into bonds")
+           => {02201591} <verb.possession> spend, expend, drop -- (pay out; "spend money")
+               => {02186811} <verb.possession> pay -- (give money, usually in exchange for goods or services; "I paid four dollars for this sandwich"; "Pay the waitress, please")
+                   => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+                       => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children")

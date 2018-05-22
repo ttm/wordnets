@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA3171
+
+DADO O SYNSET:
+
+S='Glosa3171'
+	    {
+	      entrar: Em Paris, estudou com Marien Rybicki e, posteriormente, [entrou na Academia das Artes de Novi Sad, na Sérvia. ,
+	      ingressar: Hannah conheceu Heidegger em 1924, quando [ingressou na Universidade de Marburg aos 18 anos.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3171' = tornar-se parte ou membro de um grupo ou organização”
+	    {entrar: Em Paris, estudou com Marien Rybicki e, posteriormente, [entrou na Academia das Artes de Novi Sad, na Sérvia. ,
+	      ingressar: Hannah conheceu Heidegger em 1924, quando [ingressou na Universidade de Marburg aos 18 anos.,}
+Chave: INGRESSAR <verb.social>
+ILI: 02361668
+
+Sense 1
+{02361668} <verb.social> join, fall in, get together2 -- (become part of; become a member of a group or organization; "He joined the Communist Party as a young man")

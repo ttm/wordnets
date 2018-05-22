@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA3270
+
+DADO O SYNSET:
+
+S='Glosa3270'
+	    {
+	      coroar: A crítica nova mais autorizada I]coroou, todavia, de modo extremamente generoso, as tentativas do estreante.,
+	      laurear: A 49a edição do Festival de Cannes I]laureou apenas três filmes brasileiros, com um Leão de Prata e dois de Bronze.,
+	      premiar: Nota dez, com distinção, [premiou a excelente fonografia de Pedro Dallari, com a qual obteve o título de mestre em direito internacional. ,
+	      recompensar: Programa de curto prazo estruturado para [recompensar sugestões de funcionários para implementar melhorias de qualidade, produtividade e geração de receitas. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3270' = “dar, especialmente como uma recompensa”
+	     {coroar: A crítica nova mais autorizada I]coroou, todavia, de modo extremamente generoso, as tentativas do estreante.,
+	      laurear: A 49a edição do Festival de Cannes I]laureou apenas três filmes brasileiros, com um Leão de Prata e dois de Bronze.,
+	      premiar: Nota dez, com distinção, [premiou a excelente fonografia de Pedro Dallari, com a qual obteve o título de mestre em direito internacional. ,
+	      recompensar: O Prêmio Especial do Júri I]recompensou o cinema muito jovem e pleno de vitalidade da república africana do Tchad, estreando aqui em Veneza. ,}
+Chave: PREMIAR <verb.possession>
+ILI: 02196595
+
+Sense 1
+{02196595} <verb.possession> award, present2 -- (give, especially as a reward; "bestow honors and prizes at graduation")
+       => {02169266} <verb.possession> allocate, apportion1 -- (distribute according to a plan or set apart for a special purpose; "I am allocating a loaf of bread to everyone on a daily basis"; "I'm allocating the rations for the camping trip")
+           => {02164287} <verb.possession> assign1, allot1, portion -- (give out or allot; "We were assigned new uniforms")
+               => {02228378} <verb.possession> distribute, administer, mete out, deal1, parcel out, lot, dispense, shell out, deal out, dish out, allot2, dole out -- (administer or bestow, as in small portions; "administer critical remarks to everyone present"; "dole out some money"; "shell out pocket money for the children"; "deal a blow to someone")
+                   => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+                       => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children")

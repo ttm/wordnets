@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA2483
+
+DADO O SYNSET:
+
+S='Glosa2483'
+	    {submergir: O lago da usina vai [submergir 110 km2 de terras férteis, 2 km2 de Mata Atlântica.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2483' = “Afundar para baixo da superfície, descer por baixo de água ou como se fosse por baixo de água.”
+	    {submergir: Dia 15 de abril de 1912, o Titanic I]submergiu completamente.,}
+
+Chave: SUBMERGIR <verb.motion>
+ILI: 01933489
+
+Sense 1
+{01933489} <verb.motion> submerge, submerse -- (sink below the surface; go under or as if under water)
+       => {01931930} <verb.motion> sink, settle7, go down, go under -- (go under, "The raft sank and its occupants drowned")
+           => {01912987} <verb.motion> descend, fall, go down2, come down -- (move downward and lower, but not necessarily all the way; "The temperature is going down"; "The barometer is falling"; "The curtain fell on the diva"; "Her hand went up and then fell again")
+               => {01782203} <verb.motion> travel, go, move3, locomote -- (change location; move, travel, or proceed; "How fast does your new car go?"; "We travelled from Rome to Naples by bus"; "The policemen went from door to door looking for the suspect"; "The soldiers moved towards the city in an attempt to take it before night fell") 

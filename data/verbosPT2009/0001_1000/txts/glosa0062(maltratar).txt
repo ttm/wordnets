@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0062
+
+DADO O SYNSET:
+
+S='Glosa62'
+{maltratar: Cá no meu modo de pensar, entendo que não [maltratem as coitadinhas, mas também é preciso não dar asas às formigas.,}
+A='Glosa3678'
+{acalentar, acariciar, acarinhar, acocar, afagar, agradar, ameigar, amimar, apaparicar, bafejar, cariciar, cofiar, embalar1, mimar1, mimosear, paparicar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa62' = “tratar mal”
+{maltratar: Cá no meu modo de pensar, entendo que não [maltratem as coitadinhas, mas também é preciso não dar asas às formigas.,}
+A='Glosa3678'
+{acalentar, acariciar, acarinhar, acocar, afagar, agradar, ameigar, amimar, apaparicar, bafejar, cariciar, cofiar, embalar1, mimar1, mimosear, paparicar}
+Chave: MALTRATAR <verb.social>
+ILI: 02441620
+
+Sense 1
+{02441620} <verb.social> mistreat, maltreat, abuse, ill-use, step, ill-treat -- (treat badly; "This boss abuses his workers"; "She is always stepping on others to get ahead")
+       => {02439188} <verb.social> treat, handle3, do by -- (interact in a certain way; "Do right by her"; "Treat him with caution, please"; "Handle the press reporters gently")
+           => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+               => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

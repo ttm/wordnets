@@ -1,0 +1,40 @@
+ANÁLISE DA GLOSA3150
+
+DADO O SYNSET:
+
+S='Glosa3150'
+	    {
+	      cometer: Se a lei futura decidir I]cometer-lhe a tarefa, a fim de exorcizar a lembrança dos tempos de manipulação do movimento sindical pelo Ministério do Trabalho, não bastar transferir-lhe nominalmente a competência.,
+	      comissionar: Deus colocou em nossas mãos o poder para realizar a tarefa para qual Ele nos I]comissionou.,
+	      confiar: Sua prova de fogo viria, porém, quando o presidente lhe [confiou a condução da economia numa hora de perplexidade e incerteza. ,
+	      dar: A Constituição [deu ao Congresso Nacional e não a uma assembléia eleita exclusivamente para isso a tarefa de revisá-la. ,
+	      deixar: Feita a exposição, o ministro [deixou para sua equipe a tarefa de enfrentar uma das maiores críticas do plano. ,
+	      delegar: Em troca do apoio de Fleury à sua candidatura presidencial, Quércia [delegou ao governador a atribuição de escolher o candidato ao governo de São Paulo. ,
+	      deputar: Da força que se lhes fizesse apelariam para a coroa da regalia do Criador, que tanto fez os pequenos como os grandes, e a cada espécie I]deputou o seu anjo conservador.,
+	      encargar: A]Encarguei-o de missão difícil.,
+	      encarregar: Mandou por um colega chamar a comadre, e a [encarregou da missão de ir ter com ele, missão que ela aceitou de bom grado, e que desempenhou, segundo vimos, satisfatoriamente. ,
+	      encomendar: O cônego ungiu o cadáver com água benta e [encomendou-o a Deus.,
+	      incumbir: Tal responsabilidade somente poderia [incumbir a órgãos multilaterais como a ONU e/ou a OEA, coadjuvados por instituições financeiras como o Banco Mundial e o BID.,
+	      recomendar: As nossas leitoras dignem-se cada uma delas [recomendar, às vezes, A Estação às suas amigas, como se pode recomendar um conhecido em quem se confia, que nós, cônscios de nossa dívida, de reconhecimento saberemos patenteá-lo. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3150' = “designar a alguém uma tarefa”
+	     {cometer: A direção do Laboratório de Toxicologia I]cometeu a tarefa a Oswaldo Cruz, nunca se soube se por julgá-lo apto a desempenhá-la ou se para experimentá-lo.,
+	      comissionar: Arafat diz que Alá o I]comissionou a “lançar os judeus ao mar”.,
+	      confiar: Em 1947, por exemplo, Jean-Paul Sartre I]confiou-lhe a elaboração do número especial da revista Temps Modernes sobre a Itália. ,
+	      dar: Em 1908, O Governo do Estado I]deu a missão de Emílio Ribas ir aos Estados Unidos e a vários países da Europa, a fim de estudar a Profilaxia da Tuberculose. ,
+	      deixar: Feita a exposição, o ministro [deixou para sua equipe a tarefa de enfrentar uma das maiores críticas do plano. ,
+	      delegar: Em troca do apoio de Fleury à sua candidatura presidencial, Quércia [delegou ao governador a atribuição de escolher o candidato ao governo de São Paulo. ,
+	      deputar: Os orelhões acharam muito razoável tal discurso; I]deputaram dois notáveis para irem em comissão informar-se da verdade.,
+	      encargar: A]Encarguei-o de missão difícil.,
+	      encarregar: Itamar [encarregou a sua assessoria diplomática de fazer o trâmite legal. ,
+	      encomendar: O governador [encomendou uma série de pesquisas ao Instituto Gallup para medir suas possibilidades de êxito dentro e fora do partido.,
+	      incumbir: Com a ausência de volante Axel (suspenso) do São Paulo hoje, Luxemburgo [incumbiu Mazinho de comandar o meio-campo.,}
+Chave: DELEGAR <verb.social>
+ILI: 02320208
+
+Sense 2
+{02320208} <verb.social> delegate, designate, depute3, assign -- (give an assignment to (a person) to a post, or assign a task to (a person))
+       => {02401814} <verb.social> appoint, charge -- (assign a duty, responsibility or obligation to; "He was appointed deputy manager"; "She was charged with supervising the creation of a concordance")

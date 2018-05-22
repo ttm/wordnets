@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0152
+
+DADO O SYNSET:
+
+S='Glosa152'
+{acomodar-se: Seus métodos não se H]acomodam aos com os nossos.,
+ajustar-se: Ao final deste boletim você terá um quadro explicando quais empresas se I]ajustam ao novo regime.,
+chegar-se: A]Chega-te à realidade, homem!,
+conformar-se: A investigação médica em seres humanos deve I]conformar-se com os princípios científicos geralmente aceitos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa152' = “alterar ou regular assim como alcançar exatidão ou adaptar a um padrão”
+{acomodar-se: compondo um texto em que a lenda, a história, a tradição, a psicologia nacional se I]acomodam aos elementos estrangeiros.,
+ajustar-se: Ao final deste boletim você terá um quadro explicando quais empresas se I]ajustam ao novo regime.,
+chegar-se: A Enfermagem é entendida como uma prática social que se articula às demais práticas, especialmente àquelas que I]se conformam como trabalho coletivo,
+conformar-se: A investigação médica em seres humanos deve I]conformar-se com os princípios científicos geralmente aceitos.,}
+Chave: AJUSTAR-SE <verb.change>
+ILI: 00287086
+
+Sense 1
+{00287086} <verb.change> adjust, set, correct9 -- (alter or regulate so as to achieve accuracy or conform to a standard; "Adjust the clock, please"; "correct the alignment of the front wheels")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA2539
+
+DADO O SYNSET:
+
+  S='Glosa2539'
+	    {desaparecer: Em pouco tempo, essas bolhas desaparecem.,
+	      desparecer: E o índio [despareceu de novo nas sombras da noite que avançava rapidamente.,
+	      esfumaçar-se: Outra Clarice surge na paisagem para tornar a I]esfumaçar-se.,
+	      evaporar: Cornelsen acha que, de qualquer maneira, as reservas internacionais podem [evaporar em caso da vitória petista.,
+	      evaporizar: x,
+	      evolar-se: A cronologia dos acontecimentos, na vida da nossa família, I]evolou-se da minha memória.,
+	      sair: Assumimos o desafio de quebrar a lógica dos ciclos fiscais no Brasil, onde os governantes costumam [sair deixando dívidas para seus sucessores, afirma César Maia, comentando o troca-troca.,
+	      sumir: Não adianta ninguém querer, vou guardar isso comigo para sempre, avisou, antes de [sumir na multidão que deixava o Metropolitan rumo à tortura do trânsito.,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2539' = “Deixar de existir.”
+	    {desaparecer: Em pouco tempo, essas bolhas desaparecem.,
+	      desparecer: Aquela cara risonha I]despareceu..,
+	      esfumaçar-se: A sua desmitologização e a substituição da imaginação pelo conhecimento, I]se esfumaçou diante do mito que os profetas e deuses da antiguidade perenizaram no pensamento da humanidade.,
+	      evaporar: Serra diz que a oposição histórica entre PT e Paulo Maluf (PP) era uma "falsa disputa", que I]evaporou na campanha pela prefeitura.,
+	      evolar-se: A cronologia dos acontecimentos, na vida da nossa família, I]evolou-se da minha memória.,
+	      sair: Um período de muito trabalho e que nunca I]saiu da memória.,
+	      sumir: A apresentação xinfrim daquela época, porém, I]sumiu da memória no momento em que esta nova encarnação entrou no palco para o show.,}
+
+Chave: DESAPARECER <verb.change>
+ILI: 00415222
+
+Sense 3
+{00415222} <verb.change> vanish2, disappear2 -- (cease to exist; "An entire civilization vanished")
+       => {02531897} <verb.stative> end, stop13, finish, terminate, cease13 -- (have an end, in a temporal, spatial, or quantitative sense; either spatial or metaphorical; "the bronchioles terminate in a capillary bed"; "Your rights stop where you infringe upon the rights of other"; "My property ends by the bushes"; "The symphony ends in a pianissimo") 

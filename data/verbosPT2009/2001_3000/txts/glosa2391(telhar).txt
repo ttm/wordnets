@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA2391
+
+DADO O SYNSET:
+
+S='Glosa2391'
+	    {atelhar: Nesta foto podemos constatar, que a comunidade já estava I]atelhando a igreja.,
+	      telhar: Antenas foram colocadas em estruturas que requerem acesso por trabalhadores, ambos para manutenção regular, e para eventos incomuns como pintar ou I]telhar.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2391' = “Cobrir com telhas.”
+	    {atelhar: Nesta foto podemos constatar, que a comunidade já estava I]atelhando a igreja.,
+	      telhar: Em outras campanhas conseguimos I]telhar a sede do Caju.,}
+
+Chave: TELHAR <verb.contact>
+ILI: EQ_HAS_HYPERONYM - 01196430 - “provide a building with a roof; cover a building with a roof”
+
+Sense 1
+{01196430} <verb.contact> roof -- (provide a building with a roof; cover a building with a roof)
+       => {01293336} <verb.contact> cover -- (provide with a covering or cause to be covered; "cover her face with a handkerchief"; "cover the child with a blanket"; "cover the grave with flowers") 

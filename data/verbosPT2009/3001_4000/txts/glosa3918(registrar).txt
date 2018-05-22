@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA3918
+
+DADO O SYNSET:
+	
+S='Glosa3918'
+    	{adscrever: H]Adscreveu a frase na base do monumento.,
+      	 alistar: O governo americano se recusou a I]alistá-lo durante a guerra.,
+      	 assentar: M]Assentei esses fatos na ata da reunião.,
+      	 escrever: Quem [escreveu essa lista conhece a polícia, pois deu nomes corretos de policiais e locais onde eles trabalham .,
+      	 inscrever: Se o Brasil levar a Paula e se conseguir [inscrever a Karina, ela, Hortência, topa voltar .,
+      	 pôr: E nada mais M]pôs na carta.,
+      	 registar: O empresário de Beja I]registou nomes de Durão Barroso, Paulo Portas, Ferro Rodrigues, Pedro Santana Lopes e muitos outros.,
+      	 registrar: O objetivo era apreender cadernos onde Martins [registrou os nomes dos candidatos a deputado que em 1990 receberam dinheiro da Paubrasil .,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3918' = “registrar por escrito; colocar num livro de nomes, eventos ou transações”
+    	{adscrever: O Titular da 4ª SECEX I]adscreveu considerações e proposições acerca da matéria dos autos, no despacho de fls. 340/346.,
+      	 alistar: Diante do benefício constitucional ut supra, a Lei n.º 10.865/2004 I]alistou as entidades beneficentes de assistência social.,
+      	 assentar: O Supremo Tribunal Federal I]assentou, em sua Súmula de no 473, a seguinte determinação.,
+      	 escrever: Quem [escreveu essa lista conhece a polícia, pois deu nomes corretos de policiais e locais onde eles trabalham.,
+      	 inscrever: A Constituição de 88, a partir da pressão do movimento comunitário e dos profissionais da área, [inscreveu a saúde como direito do cidadão e determinou a criação do Sus.,
+      	 pôr: Emanuel Castro, arbitrariamente, tira e I]põe nomes na lista de acordo com a própria conveniência.,
+      	 registar: O empresário de Beja I]registou nomes de Durão Barroso, Paulo Portas, Ferro Rodrigues, Pedro Santana Lopes e muitos outros.,
+      	 registrar: O objetivo era apreender cadernos onde Martins [registrou os nomes dos candidatos a deputado que em 1990 receberam dinheiro da Paubrasil.}
+Chave: REGISTRAR <verb.social>
+ILI: 02397606
+
+Sense 1
+{02397606} <verb.social> register -- (record in writing; enter into a book of names or events or transactions)
+       => {00967710} <verb.communication> record, enter4, put down5 -- (make a record of; set down in permanent form)
+           => {02161122} <verb.possession> save, preserve1 -- (to keep up and reserve for personal or special use; "She saved the old family photographs in a drawer")
+               => {02138940} <verb.possession> keep, hold on -- (retain possession of; "Can I keep my old stuffed animals?"; "She kept her maiden name after she married")
+                   => {02139918} <verb.possession> have, have got, hold -- (have or possess, either in a concrete or an abstract sense; "She has $1,000 in the bank"; "He has got two beautiful daughters"; "She holds a Master's degree from Harvard")

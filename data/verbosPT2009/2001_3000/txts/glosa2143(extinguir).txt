@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA2143
+
+DADO O SYNSET:
+
+S='Glosa2143'
+	    {abolir: Nova cartilha I]aboliu o be-a-bá.,
+	      apagar: Ela também marcou a literatura francesa por seu estilo anti-convencional, que fez explodir as convenções literárias, [apagou as fronteiras entre o narrador, o leitor e o autor, e deu início a uma escola, chamada de Nouveau Roman (Novo Romance).,
+	      extinguir: A nova estrutura da seleção [extinguiu a função de auxiliar, exercida por Zagalo durante o Mundial dos Estados Unidos.,
+	      tirar: O ministro da Previdência Social, Reinhold Stephanes, [tirou o nome do presidente da CUT de sua agenda telefônica.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2143' = “eliminar ou descartar”
+	    {abolir: Nova cartilha I]aboliu o be-a-bá.,
+	      apagar: Ela também marcou a literatura francesa e [apagou as fronteiras entre o narrador, o leitor e o autor.,
+	      extinguir: A nova estrutura da seleção [extinguiu a função de auxiliar.,
+	      tirar:O julgamento do impeachment no Senado não [tirava sua isenção no julgamento de ontem.,}
+
+Chave: EXTINGUIR <verb.social>
+ILI: 02354201
+
+Sense 1
+{02354201} <verb.social> abolish, get rid of -- (do away with; "Slavery was abolished in the mid-19th century in America and in Russia")
+       => {02354445} <verb.social> cashier1 -- (discard or do away with; "cashier the literal sense of this word")
+       => {02404321} <verb.social> abrogate -- (revoke formally)

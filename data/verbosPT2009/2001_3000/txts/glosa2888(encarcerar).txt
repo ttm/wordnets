@@ -1,0 +1,54 @@
+ANÁLISE DA GLOSA2888
+
+DADO O SYNSET:
+
+S='Glosa2888'
+	    {aferrolhar: M] Aferrolharam o réu.,
+	      aprear: x,
+	      aprisionar: Reagiram, então, atacando estabelecimentos isolados ou aproveitando ocasiões como um naufrágio para [aprisionar e submeter os intrusos as suas próprias regras, incluindo a antropofagia.,
+	      cativar: x,
+	      dejungir: DEVIANT,
+	      desjungir: DEVIANT,
+	      disjungir: DEVIANT,
+	      emprisionar: x,
+	      encadear: Os políticos revogam diariamente dispositivos estabelecidos contra os ricos e promulgam todos os dias estatutos cada vez mais vexatórios, para I]encadear e oprimir o povo.,
+	      encarcerar: Ele citou uma "grande ação para [encarcerar quadrilhas" como central.,
+	      engaiolar: Qorei disse que a barreira é uma tentativa de I]engaiolar os palestinos.,
+	      enjaular: E, mais tarde, construir uma cadeia atrás da outra para I]enjaular os malcomportados.,
+	      ferrolhar: x,
+	      prear: O intento era I]prear índios e levá-los a São Paulo.,
+	      prender: A primeira obrigação da Polícia seria a de [prender o traficante.,
+	      subjugar: A polícia I]subjugou o homem, ontem, na costa de Budd Inlet, depois de uma caçada de carro, uma colisão e uma suada corrida de meio quilômetro dentro do mato, enquanto ele tentava entrar na água com seu equipamento de mergulho e uma mochila recheada com o produto do roubo nas costas, segundo contou o sargento Ray Holmes.,
+	      trancafiar: Agora, o mais surreal é quando um escândalo como o Valdogate desencadeia uma puta crise política, a própria governabilidade se diz ameaçada, superministros correm risco de cair... e a coisa mais elementar, mais precípua, que é I]trancafiar o assessor corrupto e o bicheiro mafioso, não é feita logo de cara.,
+	      trancar: Esse povo que também mora nas periferia e está cheio de raiva no coração, querendo I]trancar bandido, matar preto, pobre e nordestino.,}
+
+	  A='Glosa1216'
+	    {abjugar: x,
+	     abjungir: x,
+	     adjugar: x,
+	     descativar: Os policiais H]descativaram os prisioneiros,
+	     libertar: Márcia afirmou que quando o valor exigido era muito alto, os soldados do tráfico recolhiam doações dos moradores para [libertar o marido,
+	     soltar: Os policiais do RPMont, de Campo Grande, que [soltaram dois estudantes do cativeiro no ano passado, não foram promovidos,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2888' = “Encerrar ou confinar na cadeia, ou como se fosse na cadeia”
+	    {aprisionar: Depois quando a rainha soube que o rei estava aprisionado ela falou para Ajase: Porque você I]aprisionou o rei?.,
+	      encadear: Os políticos revogam diariamente dispositivos estabelecidos contra os ricos e promulgam todos os dias estatutos cada vez mais vexatórios, para I]encadear e oprimir o povo.,
+	      encarcerar: Isso não agradava o Czar Alexandre I que o I]encarcerou. Na prisão, observando o mundo em ebulição, escreveu, sempre em versos.,
+	      engaiolar: E, se a ditadura tão pronto o I]engaiolou, e o torturou, é mais um atestado de virtude e glória para o Osório.,
+	      enjaular: E, mais tarde, construir uma cadeia atrás da outra para I]enjaular os malcomportados.,
+	      prender: A primeira obrigação da Polícia seria a de [prender o traficante.,
+	      subjugar: A polícia I]subjugou o homem, ontem, na costa de Budd Inlet, depois de uma caçada de carro, uma colisão e uma suada corrida de meio quilômetro dentro do mato.,
+	      trancafiar: E a coisa mais elementar, mais precípua, que é I]trancafiar o assessor corrupto e o bicheiro mafioso, não é feita logo de cara.,
+	      trancar: Esse povo que também mora nas periferias e está cheio de raiva no coração, querendo I]trancar bandido, matar preto, pobre e nordestino.,}
+
+	  A='Glosa1216'
+	    {descativar, libertar, soltar}
+
+Chave: ENCARCERAR <verb.social>
+ILI: 02419814
+
+Sense 1
+{02419814} <verb.social> imprison, incarcerate, lag, immure, put behind bars, jail, jug, gaol, put away, remand -- (lock up or confine, in or as in a jail; "The suspects were imprisoned without trial"; "the murderer was incarcerated for the rest of his life")
+       => {02420496} <verb.social> confine, detain -- (deprive of freedom; take into confinement) 

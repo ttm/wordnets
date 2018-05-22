@@ -1,0 +1,35 @@
+ANÁLISE DA GLOSA3342
+
+DADO O SYNSET:
+
+S='Glosa3342'
+	    {
+	      amaldiçoar: I]Amaldiçoa a Deus e morre.,
+	      blasfemar: A escritora feminista Taslima Nasreen, acusada de [blasfemar contra o Islã, se apresentou ontem à Justiça em Bangladesh . ,
+	      imprecar: Se o sofrimento de Quaresma era profundamente moral, o de Coração dos Outros era físico e não se cansava de gemer e [imprecar contra a sorte que o arrastara até à posição de combatente.,
+	      jurar: Em presença o louvavam e, voltando as costas, M]juravam contra ele.,
+	      maldar: x,
+	      maldiçoar: x,
+	      maldizer: M]Maldizia o velho inerte e a mãe que o filho cria.,
+	      praguejar: Acho que o Vitor tem que terminar só, [pragueja Leila.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3342' = “falar de maneira irreverente ou ímpia”
+	     {amaldiçoar: I]Amaldiçoa a Deus e morre.,
+	      blasfemar: O filho da israelita I]blasfemou e amaldiçoou o nome de Javé. ,
+	      imprecar: Goaturã urrou de desespero, I]imprecou alto em sua língua, e lançou-se em desabalada no rumo indicado pelo caseiro.,
+	      jurar: Em presença o louvavam e, voltando as costas, M]juravam contra ele.,
+	      maldizer: M]Maldizia o velho inerte e a mãe que o filho cria.,
+	      praguejar: Ele I]praguejou algumas vezes, logo voltando a mexer na prateleira.,}
+Chave: BLASFEMAR <verb.communication>
+ILI: 00788148
+
+Sense 2
+{00788148} <verb.communication> blaspheme1 -- (speak of in an irrevent or impious manner; "blaspheme God")
+       => {00912516} <verb.communication> talk of, talk about1 -- (discuss or mention; "They spoke of many things")
+           => {00910961} <verb.communication> talk, speak, utter, mouth, verbalize, verbalise -- (express in speech; "She talks a lot of nonsense"; "This depressed patient does not verbalize")
+               => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                   => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                       => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

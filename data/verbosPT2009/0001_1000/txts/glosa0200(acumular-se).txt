@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0200
+
+DADO O SYNSET:
+
+S='Glosa200'
+{acumular-se: A avenida também é um dos pontos onde mais se [acumula lixo durante as comemorações.,
+ajuntar-se: O aguapé é uma planta flutuante que segue o curso dos rios e se I]ajunta em aglomerados chamado camalotes, que ficam parados nas baías, lagoas e cursos d'água.,
+amontoar-se: A Prefeitura de Fortaleza, ao sofrer constantes ataques por parte da opinião pública, que devidamente lhe responsabiliza pelo lixo que se I]amontoa na cidade, resolveu decretar estado de calamidade pública.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa200' = “pôr em cúmulo, juntar(-se) em monte”
+{acumular-se: A avenida também é um dos pontos onde mais se [acumula lixo durante as comemorações.,
+ajuntar-se: O sulfeto de ferro verde deposita-se lentamente durante o resfriamento de solução fervida de monossulfero de sódio e I]ajunta-se no fundo do vasilhame.,
+amontoar-se: A Prefeitura de Fortaleza, ao sofrer constantes ataques por parte da opinião pública, que devidamente lhe responsabiliza pelo lixo que se I]amontoa na cidade, resolveu decretar estado de calamidade pública.,}
+Chave: ACUMULAR-SE <verb.change>
+ILI: 00152940
+
+Sense 2
+{00152940} <verb.change> accumulate, cumulate, conglomerate, pile up, gather, amass -- (collect or gather; "Journals are accumulating in my office"; "The work keeps piling up")
+       => {00150804} <verb.change> increase -- (become bigger or greater in amount; "The amount of work increased")
+           => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

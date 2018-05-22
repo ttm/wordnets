@@ -1,0 +1,40 @@
+ANÁLISE DA GLOSA2327
+
+DADO O SYNSET:
+S='Glosa2327'
+	    {abalar: A computação gráfica [abala os cânones que até então nos permitiam distinguir com alguma garantia entre o concreto e o abstrato, ou entre o natural e o formal.,
+	      alterar: O fato de que nem sempre aconteça assim, ou raramente aconteça, não [altera a opinião generalizada, como se vê da ressalva sempre agregada às malhações no Congresso.,
+	      decompor: O próprio processo do pensamento o indica para o mesmo pensamento, porque pensar é I]decompor.,
+	      deformar: Esta simplificação reducionista I]deforma a concepção ideológica.,
+	      demudar: As discussões no campo da seguridade social apontam também para a mais urgente necessidade I]demudar o atual sistema.,
+	      desajeitar: Não há nada pior que I]desajeita a insensatez do que expressar palavras loucas continuamente depois que já ficou clara a loucura de ter falado mal. ,
+	      desformar: Mensagens com imagens associadas facilitam muito a fixação da edéia (e da ideologia), por isso funciona bem para formar e I]desformar opiniões.,
+	      modificar: A cultura I]modifica opiniões e comportamentos rejeitando toda verdade estável e eterna.# Seja ele um primeiro-ministro que I]modifica suas opiniões para arrebanhar votos.,
+	      mudar: Imprevisível e vaidoso, o deputado [muda de opinião a cada minuto e faz de tudo para conseguir seus 15 minutos de fama em frente às câmeras de televisão.,
+	      transfazer: x,
+	      transformar: Lefebvre chama a atenção para a necessidade, com relação a esse conceito, de não fazermos dele um uso inconsiderado, especulativo, que apresenta muitos riscos quando, por exemplo, [transforma uma idéia que exprime o conjunto do processo e seu limite ao infinito em uma imagem do futuro ou pior ainda em uma realidade acabada.,
+	      transmudar: O advento da microfísica I]transmudou o conceito de matéria.,
+	      transmutar: A democracia se desnuda e I]transmuta, adquirindo um valor estratégico, tanto na luta anti-capitalista quanto no caminho da construção e desenvolvimento da sociedade socialista. # Em A Revolução dos Bichos, os personagens ilustram como a política adquire o status de antagonismo amigo-inimigo, o que I]transmuta todo e qualquer crítico ao socialismo soviético em inimigo e, portanto, amigo dos capitalistas.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2327' = “causar uma mudança, fazer ficar diferente, causar uma transformação.”
+	    {abalar: A computação gráfica [abala os cânones que nos permitiam distinguir com alguma garantia entre o concreto e o abstrato.,
+	      alterar: A distância [alterou também minha forma de ver a música brasileira.,
+	      decompor: O terror [decompôs um momento a sua fisionomia.,
+	      deformar: Esta simplificação reducionista I]deforma a concepção ideológica.,
+	      demudar: As discussões no campo da seguridade social apontam para a necessidade I]demudar o atual sistema.,
+	      desajeitar: A invasão I]desajeita o texto.,
+	      desformar: Mensagens com imagens associadas facilitam muito a fixação da idéia por isso funcionam bem para formar e I]desformar opiniões.,
+	      modificar: A cultura I]modifica opiniões e comportamentos rejeitando toda verdade estável e eterna.,
+	      mudar: A senhora acha que o seqüestro [mudou a forma dele agir?.,
+	      transformar: O projeto de reurbanização da prefeitura no parque [transformou alguns trechos do lugar em um grande lamaçal.,
+	      transmudar: O advento da microfísica I]transmudou o conceito de matéria.,
+	      transmutar: A democracia se desnuda e I]transmuta, adquirindo um valor estratégico.,}
+
+
+Chave: MODIFICAR <verb.change>
+ILI: 00121430
+
+Sense 3
+{00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA1437
+
+DADO O SYNSET:
+
+S='Glosa1437'
+{abundar: Nas águas [abundam trutas e salmões.,
+ infestar: Os espertos comerciantes copacabanenses não devem achar suficiente o número de lanchonetes, botequins e restaurantes que [infestam o bairro.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1437' = “ser abundante ou farto; existir em grandes quantidades”
+{abundar: Nas águas [abundam trutas e salmões.,
+ infestar: Os espertos comerciantes copacabanenses não devem achar suficiente o número de lanchonetes, botequins e restaurantes que [infestam o bairro.,}
+Chave: ABUNDAR <verb.stative>
+ILI: 02635699
+
+Sense 1
+{02635699} <verb.stative> abound -- (be abundant or plentiful; exist in large quantities)
+       => {02526983} <verb.stative> be3 -- (have the quality of being; (copula, used with an adjective or a predicate noun); "John is rich"; "This is not a good answer")
+          Also See-> {02636186} <verb.stative> abound in#1

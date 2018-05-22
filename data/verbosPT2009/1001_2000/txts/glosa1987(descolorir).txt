@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA1987
+
+DADO O SYNSET:
+
+S='Glosa1987'
+{amortecer: O tempo M]amorteceu as cores deste quadro.,
+ amortificar: x,
+ debotar: x,
+ decolorar: x,
+ desbotar: O produto americano Shout Stick tem a vantagem de não [desbotar seda e outros tecidos coloridos .,
+ descolorar: O sol M]descolorou a pintura.,
+ descolorir: Fui nomeada para uma perícia em um edifício cuja pintura I]descoloriu (aliás, mudou de cor, de verde, mudou para azul!). ,
+ deslavar: x,
+ deslustrar: x,
+ desmaecer: x,
+ desmaiar: No outono a exuberante folhagem M]desmaiava.,
+ emortecer: x,
+ esmaecer: Ele transfigurava a paisagem utilizando como suporte cartões que I]esmaeciam as cores e que se integravam tanto como base quanto como transparência.,
+ esmaiar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1987' = “fazer [algo] perder ou mudar de cor”
+{desbotar: O produto americano Shout Stick tem a vantagem de não [desbotar seda e outros tecidos coloridos.,
+ descolorir: Notamos que a mancha era devido à água sanitária que caiu sobre a mala e ainda I]descoloriu a camisa que ele usa no show.
+ desmaiar: O primeiro albor da manhã [desmaiou o negrume do horizonte.,
+ esmaecer: Ele transfigurava a paisagem utilizando como suporte cartões que I]esmaeciam as cores e que se integravam tanto como base quanto como transparência.,}
+Chave: DESCOLORIR <verb.change>
+ILI: 00273160
+
+Sense 2
+{00273160} <verb.change> discolor2 -- (cause to lose or change color; "The detergent discolored my shirts")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

@@ -1,0 +1,54 @@
+ANÁLISE DA GLOSA3525
+
+DADO O SYNSET:
+
+S='Glosa3525'
+	    {
+	      alimpar-se: Não te foi cortado o umbigo, nem foste lavada com água, para I]te alimpar. / Tenho o guardanapo em que sua majestade I]se alimpou.,
+	      assear-se: Afigurava-se extraordinário ao pobrezito desprezado de todos, que aquela senhora brasileira, tão limpa, estivesse ali a cortar-lhe e [assear-lhe as unhas ,
+	      desencardir-se: Era em agosto, e ela acabara de pular da presa onde estivera a desencardir-se da terra. / Trate de I]desencardir-se da catinga.,
+	      limpar-se: Se você quizer seguir as leis islâmicas, o couscous deve ser comido com a mão, e obrigatoriamente com a mão direita, pois a esquerda é usada para [se limpar. ,
+	      mundificar-se: x,
+	    }
+	  A='Glosa3562'
+	    {
+	     abodegar-se: x,
+	     borrar-se: Existe algum truque para passar lápis sem I]se borrar? ,
+	     conspurcar-se: Não se combatia debaixo de chuva para que os penteados gomalinados não [se conspurcassem e as camisas não se desbotassem . ,
+	     emborralhar-se: Com a ajuda de cinza peneirada e dissolvida em água I]se emborralhavam.,
+	     emporcalhar-se: I]Emporcalhou-se inteira.,
+	     emporcar-se: Manchem as mãos mas sem I]emporcar-se. ,
+	     encardir-se: As mãos I]encardiam-se.,
+	     enodoar-se: x,
+	     inquinar-se: Contudo a falta de higiene eo clima eram seus grandes inimigos, degradando-se com extrema facilidade e I]inquinando-se de numerosos vermes,
+	     macular-se: Nem um verme [lhe maculara os tecidos. / Minhas mãos I]se macularam no sangue.  ,
+	     manchar-se: As fraldas, ou roupas de baixo de crianças maiores, costumam I]manchar-se de muco.,
+	     nodoar-se: x,
+	     sujar-se: Disseram que o lugar estavas em reforma, que o pátio estava cheio de lama e que a comitiva iria [se sujar.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3525' = S='Glosa3524' = “fazer limpo, removendo sujeira, imundice ou substâncias desnecessárias”
+	     {assear-se: Correu palitar as unhas sujas de carvão, limpou os pés, I]asseou-se por demais,
+	      desencardir-se: Era em agosto, e ela acabara de pular da presa onde estivera a desencardir-se da terra. / Trate de I]desencardir-se da catinga.,
+	      limpar-se: I]Limpou-se com cuidado, secou-se no papel verde-nuvem e foi até a pia antiga com desenhos de esmalte colorido. ,}
+
+	  A='Glosa3562'
+	    {borrar-se: Existe algum truque para passar lápis sem I]se borrar? ,
+	     conspurcar-se: Não se combatia debaixo de chuva para que os penteados gomalinados não [se conspurcassem e as camisas não se desbotassem . ,
+	     emborralhar-se: Com a ajuda de cinza peneirada e dissolvida em água I]se emborralhavam.,
+	     emporcalhar-se: I]Emporcalhou-se inteira.,
+	     emporcar-se: Manchem as mãos mas sem I]emporcar-se. ,
+	     encardir-se: As mãos I]encardiam-se.,
+	     inquinar-se: Contudo a falta de higiene eo clima eram seus grandes inimigos, degradando-se com extrema facilidade e I]inquinando-se de numerosos vermes,
+	     macular-se: Nem um verme [lhe maculara os tecidos. / Minhas mãos I]se macularam no sangue.  ,
+	     manchar-se: As fraldas, ou roupas de baixo de crianças maiores, costumam I]manchar-se de muco.,
+	     sujar-se: Disseram que o lugar estavas em reforma, que o pátio estava cheio de lama e que a comitiva iria [se sujar.,}
+
+Chave: LIMPAR-SE <verb.contact>
+ILI: EQ_NEAR_SYNONYM - 01490246
+
+Sense 1
+{01490246} <verb.contact> clean, make clean -- (make clean by removing dirt, filth, or unwanted substances from; "Clean the stove!"; "The dentist cleaned my teeth")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

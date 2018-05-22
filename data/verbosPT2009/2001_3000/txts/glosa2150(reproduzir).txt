@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA2150
+
+DADO O SYNSET:
+
+S='Glosa2150'
+	    {extrair: Capovilla I]extraiu do livro de Noll basicamente a trajetória do personagem (um ex-ator que peregrina por um país imaginário da América Latina).,
+	      reproduzir: Na edição anterior, o Correio I]reproduziu parte do capítulo sobre a Estratégia militar americana, do livro 500 anos de Periferia, do embaixador Samuel Pinheiro Guimarães.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2150' = “fazer uma cópia ou equivalente” 
+	    {extrair: Capovilla I]extraiu do livro de Noll basicamente a trajetória do personagem.,
+	      reproduzir: O Correio I]reproduziu parte do capítulo sobre a Estratégia militar americana, do livro 500 anos de Periferia, do embaixador Samuel Pinheiro Guimarães.,}
+
+Chave: REPRODUZIR <verb.creation>
+ILI: 01687654
+
+
+Sense 1
+{01687654} <verb.creation> reproduce -- (make a copy or equivalent of; "reproduce the painting")
+       => {01575778} <verb.creation> produce, make1, create3 -- (create or manufacture a man-made product; "We produce more cars than we can sell"; "The company has been making toys for two centuries")

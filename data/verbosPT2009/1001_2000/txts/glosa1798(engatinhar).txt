@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA1798
+
+DADO O SYNSET:
+
+S='Glosa1798'
+{agatinhar: x,
+ engatinhar: Não consegue firmar a cabeça, sentar ou [engatinhar. # Geralmente, o bebê começa a I]engatinhar ao mesmo tempo em que aprende a sentar.,
+ gatear: x,
+ gatinhar: Habitualmente, os bebês começam a I]gatinhar entre os 8 e os 9 meses.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1798' = “mover-se lentamente, no caso de pessoas ou animais com o corpo próximo ao chão”
+{engatinhar: Com grande esforço, ele conseguiu escapar debaixo do guarda-roupa e I]engatinhou até a escada que fica no fim do corredor.,
+ gatinhar: Tinha que andar I]gatinhando em minha casa, pois não conseguia me levantar. Estava literalmente “travado”.,}
+Chave: ENGATINHAR <verb.motion>
+ILI: 01831617
+
+Sense 1
+{01831617} <verb.motion> crawl, creep -- (move slowly; in the case of people or animals with the body near the ground; "The crocodile was crawling along the riverbed")
+       => {01782203} <verb.motion> travel, go, move3, locomote -- (change location; move, travel, or proceed; "How fast does your new car go?"; "We travelled from Rome to Naples by bus"; "The policemen went from door to door looking for the suspect"; "The soldiers moved towards the city in an attempt to take it before night fell")

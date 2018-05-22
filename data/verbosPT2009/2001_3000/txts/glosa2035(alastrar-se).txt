@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA2035
+
+DADO O SYNSET:
+	
+S='Glosa2035'
+    	{alastrar-se: Sobre uma cadeira I]alastrava-se um monte de meias de seda, de todos os tons, unidas, bordadas, abertas em renda, e tão leves, que uma aragem as faria voar.,
+      	 despreguiçar-se: x,
+      	 espalhar-se: O milho descamisado em maçaroca I]espalhava-se pela eira com o objetivo de secar melhor. ,
+      	 espraiar-se: A luz H]espraiava-se pelos aposentos.,
+      	 espreguiçar-se: A relva H]espreguiçava-se por vales e montes.,
+      	 estender-se: A claridade da alvorada [estendia-se sobre a floresta e os campos como um véu finíssimo; a estrela da manhã cintilava em todo o seu fulgor .,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2035' = “espalhar-se gradualmente”
+    	{alastrar-se: Um fogo começou a se [alastrar: era o sol.,
+      	 espalhar-se: Ao abrirmos o recipiente em uma sala, o hidrogênio se [espalhará pelo ambiente, tomando a forma da sala.,
+      	 espraiar-se: Acordei sobressaltado, tateei o interruptor do abat-jour e a fraca luz I]espraiou-se pelo travesseiro.,
+      	 espreguiçar-se: O sol, I]espreguiçando-se, me encarava e, ainda contido, me dizia algo sem tradução conhecida.,
+      	 estender-se: A claridade da alvorada [estendia-se sobre a floresta e os campos como um véu finíssimo.}
+Chave: ALASTRAR-SE <verb.motion>
+ILI: 02001977
+
+Sense 2
+{02001977} <verb.motion> percolate1 -- (spread gradually; "Light percolated into our house in the morning")
+       => {02001681} <verb.motion> diffuse, spread2, spread out, fan out -- (move outward; "The soldiers fanned out")
+           => {01338470} <verb.contact> spread, distribute1 -- (distribute or disperse widely; "The invaders spread their language all over the country")

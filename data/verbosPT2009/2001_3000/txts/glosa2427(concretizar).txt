@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA2427
+
+DADO O SYNSET:
+
+S='Glosa2427'
+	    {concretizar: Para que tudo comece é preciso, antes de mais, que a assembleia de credores, a realizar-se no Tribunal de Guimarães, às 14h30, [concretize os indicadores favoráveis que existem em cima da mesa.,
+	      consumar: Este tempo seria teoricamente para I]consumar o casamento.,
+	      efeituar: Outra maneira para I]efeituar buscas no banco de dados é uma busca por palavras chaves.,
+	      efetivar: Governo de MS começa a I]efetivar políticas públicas para a mulher.,
+	      efetuar: O MCT procura programas para I]efetuar parcerias com os estados.,
+	      realizar: No exercicio de funções de credito e bancãrias, a Caixa Central exerce o comercio de câmbios e [realiza operações cambiais, nos termos previstos na lei geral.,
+	      substantificar: A fé é a certeza que I]substantifica, concretiza as coisas que esperamos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2427' = “Tornar real ou concreto, dar realidade ou substãncia à.”
+	    {concretizar: Para que tudo comece é preciso que a assembléia de credores [concretize os indicadores favoráveis que existem em cima da mesa.,
+	      consumar: Em conseqüência dessa conduta do réu, a vítima [consumou o suicídio.,
+	      efeituar: Outra maneira para I]efeituar buscas no banco de dados é uma busca por palavras chaves.,
+	      efetivar: O Unicef [efetivou a criação do Fórum de Desenvolvimento da Educação da cidade de Agudos.,
+	      efetuar:  A denúncia provocou mal-estar na universidade e o atual diretor - que [efetuou a transferência do material para o Instituto de Estudos Brasileiros -, fez um apelo ao reitor para resolver a questão.,
+	      realizar: A Caixa Central exerce o comércio de câmbios e [realiza operações cambiais, nos termos previstos na lei geral.,
+	      substantificar: Fé é I]substantificar o que já existe.,}
+
+Chave: CONCRETIZAR <verb.creation>
+ILI: 01598026
+
+Sense 3
+{01598026} <verb.creation> realize, realise, actualize, actualise, substantiate4 -- (make real or concrete; give reality or substance to; "our ideas must be substantiated into actions")
+       => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor") 

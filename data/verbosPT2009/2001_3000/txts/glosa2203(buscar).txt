@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA2203
+
+DADO O SYNSET:
+
+S='Glosa2203'
+	    {bongar: Saindo do Arsenal de Guerra, onde era subsecretário, I]bongava pelas confeitarias algumas frutas, comprava um queijo, às vezes, e sempre o pão da padaria.,
+	      buscar: I]Buscou uma saída, estava fechada; tentou outra não conseguiu, correu desesperadamente para fora do formigueiro pelo caminho que tinha entrado.,
+	      campear: Chegou ao posto, e como homem avisado, não falou do que fizera durante o dia, apenas do boi barroso, que I]campeou e não achou; e no seguinte, logo cedo saiu a empeçar a prova do prometido. ,
+	      procurar: Mas ele não [procurava o banheiro, procurava a saída.,
+	      vigiar: M]Vigiar coisas extraviadas.,
+	      vigilar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2203' = “tentar localizar ou descobrir, ou tentar estabelecer a existência de algo”
+	    {bongar: Saindo do Arsenal de Guerra I]bongava pelas confeitarias algumas frutas, comprava um queijo, às vezes, e sempre o pão da padaria.,
+	      buscar: I]Buscou uma saída, estava fechada; tentou outra não conseguiu, correu desesperadamente para fora do formigueiro pelo caminho que tinha entrado.,
+	      campear: Chegou ao posto, e como homem avisado, não falou do que fizera durante o dia, apenas do boi barroso, que I]campeou e não achou; e no seguinte, logo cedo saiu a empeçar a prova do prometido. ,
+	      procurar: Mas ele não [procurava o banheiro, procurava a saída.,
+	      vigiar: M]Vigiar coisas extraviadas.,}
+
+Chave: BUSCAR <verb.contact>
+ILI: 01276560
+
+Sense 2
+{01276560} <verb.contact> search, seek, look for -- (try to locate or discover, or try to establish the existence of; "The police are searching for clues"; "They are searching for the missing man in the entire county")

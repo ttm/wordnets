@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0910
+
+DADO O SYNSET:
+
+S='Glosa910'
+{coletar: Alega ser impossível [coletar preços numa moeda que existe e acha correto imaginar os preços numa moeda extinta.,
+impor: O Chile, nos seus anos de alto crescimento, no começo da década de 90, chegou a I]impor um tributo sobre os influxos de capital de curto prazo.,
+taxar: A Argentina quer [taxar em 35% os veículos e peças importados acima de uma conta bilateral de compensação.,
+tributar: Se conseguíssemos [tributar essa contrapartida monetária, estaríamos aí desfrutando de uma base tributária mais ampla possível.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa910' = “obter como pagamento de (tributos, taxas ou impostos”
+{coletar: Alega ser impossível [coletar preços numa moeda que existe e acha correto imaginar os preços numa moeda extinta.,
+impor: O Chile, nos seus anos de alto crescimento, no começo da década de 90, chegou a I]impor um tributo sobre os influxos de capital de curto prazo.,
+taxar: A Argentina quer [taxar em 35% os veículos e peças importados acima de uma conta bilateral de compensação.,
+tributar: Se conseguíssemos [tributar essa contrapartida monetária, estaríamos aí desfrutando de uma base tributária mais ampla possível.}
+Chave: COLETAR <verb.possession>
+ILI: 02154604
+
+Sense 2
+{02154604} <verb.possession> collect1, take in9 -- (call for and obtain payment of; "we collected over a million dollars in outstanding debts"; "he collected the rent")
+       => {02141767} <verb.possession> take -- (take into one's possession; "We are taking an orphan from Romania"; "I'll take three salmon steaks")

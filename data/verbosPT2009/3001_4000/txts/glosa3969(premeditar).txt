@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA3969
+
+DADO O SYNSET:
+
+S='Glosa3969'
+{planejar: Ontem à tarde, em entrevista à imprensa, Café disse que não tinha intenção de matar o empresário quando [planejou o crime .,
+ precogitar: H]Precogitou uma vingança sem pensar duas vezes.,
+ premeditar: Pimenta Neves I]premeditou a morte de Sandra.,
+ preparar: O general Eurico Gaspar Dutra, então presidente, I]preparou um golpe de Estado.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3969' = “considerar, ponderar ou planejar (uma ação) de antemão”
+{planejar: Ontem à tarde, em entrevista à imprensa, Café disse que não tinha intenção de matar o empresário quando [planejou o crime.,
+ premeditar: Pimenta Neves I]premeditou a morte de Sandra.,
+ preparar: O general Eurico Gaspar Dutra, então presidente, I]preparou um golpe de Estado.}
+Chave: PREMEDITAR <verb.cognition>
+ILI: 00680755
+
+Sense 1
+{00680755} <verb.cognition> premeditate -- (consider, ponder, or plan (an action) beforehand; "premeditated murder")
+       => {00786734} <verb.communication> consider2, debate2, moot, turn over, deliberate1 -- (think about carefully; weigh; "They considered the possibility of a strike"; "Turn the proposal over in your mind")
+           => {00787668} <verb.communication> hash out, discuss, talk over -- (speak with others about (something); talk (something) over in detail; have a discussion; "We discussed our household budget")
+               => {00912516} <verb.communication> talk of, talk about1 -- (discuss or mention; "They spoke of many things")
+                   => {00910961} <verb.communication> talk, speak, utter, mouth, verbalize, verbalise -- (express in speech; "She talks a lot of nonsense"; "This depressed patient does not verbalize")
+                       => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                           => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                               => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

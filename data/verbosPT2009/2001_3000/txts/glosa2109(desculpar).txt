@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA2109
+
+DADO O SYNSET:
+	
+S='Glosa2109'
+    	{apologizar: x,
+      	 desculpar: M]Desculpou a sua falta com a alegação de ter estado doente,
+      	 escusar: Seu desequilíbrio H]escusa a negligência, não o crime.,
+      	 exculpar: Vasconcelos discorda do parecer na parte em que I]exculpava o Ministro da Justiça, "tão criminoso ou mais do que o Ministro da Guerra", e requer a nomeação imediata da comissão especial de denúncia, de acordo com a lei de responsabilidade. ,
+      	 justificar: Mas isso não I]justifica o que fizeram com nosso parente. # As razões dadas explicam mas não H]justificam o crime cometido.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2109' = “servir como uma razão, causa ou justificativa [para]”
+    	{desculpar: A morte de Pedro não [desculpa seu comportamento estranho, mas talvez explique alguma coisa.,
+      	 escusar: O pai não teria cumprido com as prestações por absoluta falta de condição e porque teria constituído outra família, fato que não o I]escusa de sua obrigação.,
+      	 exculpar: Tal circunstância não I]exculpa sua conduta.,
+      	 justificar: É bem verdade que o Flamengo poderia até perder o jogo por um a zero, mas tal facilidade não [justifica a péssima exibição do time.}
+Chave: DESCULPAR <verb.communication>
+ILI: 00864005
+
+Sense 3
+{00864005} <verb.communication> excuse3, explain2 -- (serve as a reason or cause or justification of; "Your need to sleep late does not excuse your late arrival at work"; "Her recent divorce amy explain her reluctance to date again")
+       => {00866621} <verb.communication> justify, vindicate -- (show to be right by providing justification or proof; "vindicate a claim")
+           => {00866905} <verb.communication> uphold2, maintain3 -- (support against an opponent; "The appellate court upheld the verdict")
+               => {00979343} <verb.communication> confirm, reassert -- (strengthen or make more firm; "The witnesses confirmed the victim's account")
+                   => {00979031} <verb.communication> affirm1 -- (say yes to)

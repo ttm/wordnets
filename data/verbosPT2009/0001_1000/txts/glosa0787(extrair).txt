@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0787
+
+DADO O SYNSET:
+
+S='Glosa787'
+{arrancar: Para estacionar os carros dos clientes do restaurante, [arrancaram todos os pinos de segurança da ciclovia, na Rua Francisco Otaviano.,
+extrair: Já com a técnica ICSI basta que se consiga [extrair um único espermatozóide para, com a ajuda de uma agulha mais fina do que um fio de cabelo, introduzi-lo no interior do óvulo.,
+safar: H]Safar os sapatos. H]Safar as luvas.,
+tirar: E se Jorge Beja está mesmo preocupado com a imagem do Rio de Janeiro no exterior, por que ele não comanda um mutirão para [tirar lixo do morro?.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa787' = “tirar, puxar (alguma coisa) para fora de algo que a contém ou do qual ela constitui uma parte”
+{arrancar: Para estacionar os carros dos clientes do restaurante, [arrancaram todos os pinos de segurança da ciclovia, na Rua Francisco Otaviano.,
+extrair: Já com a técnica ICSI basta que se consiga [extrair um único espermatozóide para, com a ajuda de uma agulha mais fina do que um fio de cabelo, introduzi-lo no interior do óvulo.,
+tirar: E se Jorge Beja está mesmo preocupado com a imagem do Rio de Janeiro no exterior, por que ele não comanda um mutirão para [tirar lixo do morro?.,}
+Chave: EXTRAIR <verb.contact>
+ILI: 01311287
+
+Sense 1
+{01311287} <verb.contact> extract4, pull out, pull10, pull up, take out9, draw out5 -- (draw or pull out, usually with some force or effort; also used in an abstract sense; "pull weeds"; "extract a bad tooth"; "take out a splinter"; "extract information from the telegram")
+       => {00166870} <verb.change> remove, take, take away1, withdraw1 -- (remove something concrete, as by lifting, pushing, taking off, etc. or remove something abstract; "remove a threat"; "remove a wrapper"; "Remove the dirty dishes from the table"; "take the gun from your pocket"; "This machine withdraws heat from the environment")

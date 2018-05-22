@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA2340
+
+DADO O SYNSET:
+
+S='Glosa2340'
+	    {atrapalhar: Segundo o sargento Ademir Bezerra, responsável pelas buscas, o excesso de lama e a baixíssima visibilidade no local do naufrágio I]atrapalham o trabalho.,
+	      confundir: Muitos usuários costumam cortar o pino-terra, o que [confunde na hora de ligar o equipamento . ,
+	      embaraçar: É sofrível, quando o tema é bom, mas o autor [embaraça o seu desenvolvimento.,
+	      enturbar: Desde que o tempo começou, lento lento, a me decantar o espírito do sedimento das paixões, com que o verdor dos anos e o amargor das lutas o I]enturbavam.,
+	      enturvar: O resultado I]enturvou um pouco a turma.,
+	      perturbar: O sistema eleitoral desestrutura os partidos, [perturba o sistema de governo, contribui para a instabilidade e afeta gravemente a governabilidade.,
+	      torvar: Sua mente M]torvou ante a confusão de números e dados estatísticos.,
+	      transtornar: Mulheres assim, que mexem com a devassidão, possuem o mérito de I]transtornar um homem.,
+	      tresandar: Fico a pensar nos quilômetros de discussões com as quais milhares de casais disfarçam o amor que começa a terminar ou já morreu e começa a I]tresandar.,
+	      turvar: O que [turva um pouco essa perspectiva morna, do ponto de vista jornalístico, é a indicação de José Serra para o Planejamento.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2340' = “Impedir ou dificultar o progresso ou a realização de algo.”
+	    {atrapalhar: Segundo o sargento Ademir, o excesso de lama e a baixíssima visibilidade no local do naufrágio I]atrapalham o trabalho.,
+	      confundir: Muitos usuários costumam cortar o pino-terra, o que [confunde na hora de ligar o equipamento.,
+	      embaraçar: O carcereiro ou o diretor da prisão, o escrivão ou a autoridade judiciária que [embaraçar a expedição de ordem de habeas corpus, será multado.,
+	      perturbar: O sistema eleitoral desestrutura os partidos, [perturba o sistema de governo e afeta gravemente a governabilidade.,
+	      torvar: A exibição pública A]torvou a ordem no centro da cidade.,
+	      transtornar: A intervenção de Álvaro [transtornou completamente esse plano.,}
+
+Chave: ATRAPALHAR <verb.social>
+ILI: 02481538
+
+Sense 2
+{02481538} <verb.social> obstruct, blockade, block, hinder, stymie, stymy, embarrass -- (hinder or prevent the progress or accomplishment of; "His brother blocked him at every turn")
+       => {02379144} <verb.social> prevent1, forestall1, foreclose, preclude, forbid3 -- (keep from happening or arising; have the effect of preventing; "My sense of tact forbids an honest answer")

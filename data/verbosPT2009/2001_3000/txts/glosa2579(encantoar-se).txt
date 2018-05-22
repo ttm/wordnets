@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA2579
+
+DADO O SYNSET:
+
+S='Glosa2579'
+	    {acantoar-se: Tremeu, pensando no desgosto do avô: moderou a dissipação intellectual, I]acantoou-se mais na ciência que escolhera: imediatamente lhe deram um accessit.,
+	      arrincoar-se: Sua timidez fez com que H]se arrincoasse cada vez mais.,
+	      arrinconar-se: x,
+	      encantoar-se: Há mais outra, a do sr. Valença, a qual de envergonhada foi I]encantoar-se lá para os fundos da igreja.,
+	      enrinconar-se: x,
+	      isolar-se: Quem propositadamente procura I]isolar-se sempre revela-se um coitado e, pior, um requintado egoísta.,
+	      rinconar-se: x,
+	      separar-se: Separar-se do bispo é não só I]separar-se da igreja, mas separar-se do próprio Deus.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2579' = “manter-se distante dos outros”
+	    {acantoar-se: E I]acantoaram-se no lugar mais esconso.,
+	      encantoar-se: Há mais outra, a do sr. Valença, a qual de envergonhada foi I]encantoar-se lá para os fundos da igreja.,
+	      isolar-se: Yasmmin fugiu e I]isolou-se de todo contato por muito tempo.,
+	      separar-se: I]Separou-se do mundo, mas não pôde tirar de si a carga do mundo.,}
+
+Chave: ENCANTOAR-SE <verb.change>  
+ILI: 00482597
+
+Sense 1
+{00482597} <verb.change> seclude, sequester, sequestrate1, withdraw -- (keep away from others; "He sequestered himself in his study to write a book")
+       => {00480883} <verb.change> isolate, insulate -- (place or set apart; "They isolated the political prisoners from the other inmates")
+           => {02437378} <verb.social> discriminate12, separate, single out -- (treat differently on the basis of sex or race)
+               => {00628816} <verb.cognition> distinguish, separate1, differentiate1, secern1, secernate, severalize, severalise, tell1, tell apart -- (mark as different; "We distinguish several kinds of maple")
+                   => {00598581} <verb.cognition> identify, place -- (recognize as being; establish the identity of someone or something; "She identified the man on the 'wanted' poster")
+                       => {00676553} <verb.cognition> determine1, set4 -- (fix conclusively or authoritatively; "set the rules")

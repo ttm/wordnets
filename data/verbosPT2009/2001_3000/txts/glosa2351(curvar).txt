@@ -1,0 +1,50 @@
+ANÁLISE DA GLOSA2351
+
+DADO O SYNSET:
+
+S='Glosa2351'
+	    {abobadar: A arte romana de I]abobadar edificações tão grandes exigia uma considerável soma de conhecimentos técnicos e de cálculos.,
+	      acurvar: I]Acurvei, como quem ao sono cede.,
+	      alcachinar: O tombo M]alcachinou o operário.,
+	      alcorcovar: x,
+	      alquebrar: A penosidade do trabalho na agricultura errudiu os corpos, sulcou os rostos, I]alquebrou colunas.,
+	      arquear: E falo muito com o arquear da sobrancelha. #  Máquinas para I]arquear ou para reunir.,
+	      avergar: x,
+	      cimbrar: H]Cimbrar uma haste.,
+	      corcovar: Jacinto que, aos trinta anos, já começa a corcovar, pálido, ocioso.,
+	      curvar: Abra os braços formando um ângulo de 180º e tente tocar o pé direito com a mão direita, sem I]curvar as costas ou dobrar os joelhos.# Dispositivo para curvar tubos até 180° Indicado para tubos de cobre e aço de baixo carbono, com diâmetro entre 12 e 22 mm.,
+	      desengravitar: x,
+	      dobrar: I]Dobrar a perna direita, segurando no joelho e cruzando a perna ao máximo para o lado oposto, sem rodar a bacia, ajudando o movimento com as mãos. ,
+	      encurvar: O cavalo não deve desviar as ancas para fora, ou I]encurvar o pescoço para fora do círculo, a não ser no contra-galope.# Mach lançou a idéia de que a teoria de Newton não podia estar certa, já que não era capaz de gerar as forças necessárias para I]encurvar a superfície da água.  ,
+	      entortar: A cobra, com seu cérebro pequenino, I]entortou a cabeça e se tivesse mãos a teria coçado.,
+	      envergar: Abre-se a imensidade dos mares, e a borrasca I]enverga, como o condor, as foscas asas sobre o abismo.,
+	      recurvar: E para finalizar, aplica-se a máscara para cílios, que tem a função de alongar, I]recurvar os cílios e realçar os olhos.,
+	      torcer: Todo mundo queria era I]torcer o seu pescoço. ,
+	      tornejar: Os engenhos, citilando ao sol , vinham do sudeste , I]tornejavam lentamente sobre eles próprios , agrupados dois a dois.,
+	      vergar: Você notará que a vara, devido à inércia, tentará continuar o movimento, chegando a I]vergar na direção do rosto.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2351' = “Formar um arco ou uma curvatura.”
+	    {abobadar: Uma avenida que densas e velhas árvores I]abobadavam e escureciam.,
+	      acurvar: A umidade H]acurvou a madeira.,
+	      alcachinar: O tombo M]alcachinou o operário.,
+	      alquebrar: A penosidade do trabalho na agricultura errudiu os corpos e I]alquebrou colunas.,
+	      arquear: As pernas I]arquearam um pouco, zambetas.,
+	      cimbrar: H]Cimbrar uma haste.,
+	      corcovar: o gato H]corcovou o lombo.,
+	      curvar: I]Curvou os tubos um a um, adaptando-os milimetricamente ao teto durante a colocação.,
+	      dobrar: Iracema [dobrou a cabeça sobre a espádua. ,
+	      encurvar: Aquecendo o bico dos frascos, Pasteur I]encurvava os seus gargalos, tornando-os semelhantes a "pescoços de cisne".,
+	      envergar: Puxou e I]envergou a vara de maneira que ficou claro que algo realmente grande havia caído na linha.,
+	      recurvar: Sentou-se na cadeira e I]recurvou seu corpo esguio sobre o pequeno modelo.,
+	      vergar: Lara I]vergou o corpo para trás, enquanto exalava um profundo suspiro.,}
+
+Chave: CURVAR <verb.motion>
+ILI: 01976875
+
+Sense 3
+{01976875} <verb.motion> arch, curve1, arc -- (form an arch or curve; "her back arches"; "her hips curve nicely")
+       => {01977754} <verb.motion> bend, flex -- (form a curve; "The stick does not bend")
+           => {00135866} <verb.change> change shape, change form, deform2 -- (assume a different shape or form)
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night") 

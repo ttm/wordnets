@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA3510
+
+DADO O SYNSET:
+
+S='Glosa3510'
+	    {
+	      abaixar-se: O diretor [se abaixa para catar o CD sob a mesa de som. / Quem muito [se abaixa, fica bem menor.  ,
+	      acaçapar-se: ...sentia-se pregado ao chão e só conseguiu I]acaçapar-se. ,
+	      acachapar-se: Só passado algum tempo, muito desbastadas, I]se acachaparam entre o capim, de onde respondiam ao nosso fogo. / ...I]se acachapa meio morto o pastor.,
+	      acachar-se: x,
+	      acocorar-se: Rodava sobre si mesmo, [acocorava-se, arrastava a perna, e jamais um gesto se casava com o compasso da música . / De noite, na choça de palha, [acocora-se em frente ao fogo. ,
+	      agachar-se: Assim, durante um curto instante, a fera e o selvagem mediram-se mutuamente, com os olhos nos olhos um do outro; depois o tigre [agachou-se... / Jurandir obrigou o animal a [agachar-se aos pés de Araci.,
+	      moquecar-se: x,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3510' = “mover (a cabeça ou o corpo) rapidamente para baixo ou longe”
+	     {abaixar-se: Franco [abaixou-se e como em ação mecânica, sem se voltar, apanhou uma garrafa, outra e outra.,
+	      acaçapar-se: I]Acaçapou-se numa pedra diante de mim.,
+	      acachapar-se: Só passado algum tempo, muito desbastadas, I]se acachaparam entre o capim, de onde respondiam ao nosso fogo. / ...I]se acachapa meio morto o pastor.,
+	      acocorar-se: Rodava sobre si mesmo, [acocorava-se, arrastava a perna, e jamais um gesto se casava com o compasso da música . / De noite, na choça de palha, [acocora-se em frente ao fogo. ,
+	      agachar-se: Assim, durante um curto instante, a fera e o selvagem mediram-se mutuamente, com os olhos nos olhos um do outro; depois o tigre [agachou-se... / Jurandir obrigou o animal a [agachar-se aos pés de Araci.,}
+Chave: ABAIXAR-SE <verb.motion>
+ILI: 01811284
+
+Sense 1
+{01811284} <verb.motion> duck -- (to move (the head or body) quickly downwards or away; "Before he could duck, another stone struck him")
+       => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right")

@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA3498
+
+DADO O SYNSET:
+
+S='Glosa3498'
+	{mogangar: x,
+	 trejeitar: ... sempre muito curiosa, irrequieta, querendo achar em tudo que lhe diziam, uma significação dupla, [trejeitando sorrisos e momices expressivas quando não entendia, para fingir que compreendera perfeitamente ,
+	 trejeitear: x }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3498' = “contorcer o rosto para indicar um estado mental ou emocional”
+	{trejeitar: Sempre muito curiosa, querendo achar em tudo que lhe diziam uma significação dupla, [trejeitando sorrisos e momices expressivas quando não entendia, para fingir que compreendera perfeitamente. }
+Chave: TREJEITAR <verb.body>
+ILI: 00033053
+
+Sense 1
+{00033053} <verb.body> grimace, make a face, pull a face -- (contort the face to indicate a certain mental or emotional state; "He grimaced when he saw the amount of homework he had to do")
+       => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+           => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+               => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

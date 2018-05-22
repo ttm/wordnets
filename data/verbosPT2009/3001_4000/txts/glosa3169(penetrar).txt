@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA3169
+
+DADO O SYNSET:
+
+S='Glosa3169'
+	    {
+	      embeber: O sangue inocente mais uma vez I]embebia o solo de Roma!,
+	      entrar: Na segunda tentativa, o bastão I]entrou na terra em um ângulo oblíquo, entre montanhas negras e as margens de um rio.,
+	      incutir-se: I]Incutiu-se na mente da população que com isso se perde a posse.,
+	      infundir-se: Através destes cateteres, infundiu-se solução de acetona no interior dos ductos e solução de tinta nanquim de cor azul no ramo ascendente e de cor vermelha no ramo descendente.,
+	      introduzir-se: Realizou-se a abertura coronária de cinquenta incisivos inferiores e após o preparo biomecânico, I]introduziu-se um cone de papel absorvente e uma pelota de algodão foi adaptada na emborcadura do canal.,
+	      passar: Com esforço, levantou-se, caminhou e I]passou pelo vão da porta semi-aberta.,
+	      penetrar: O rápido atacante [penetrou na área e não desperdiçou.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3169' = “passar através, frequentemente superando uma resistência”
+	     {embeber: O sangue inocente mais uma vez I]embebia o solo de Roma!,
+	      entrar: Na segunda tentativa, o bastão I]entrou na terra em um ângulo oblíquo, entre montanhas negras e as margens de um rio.,
+	      infundir-se: Como um raio, seu olhar se I]infundiu em minha mente.,
+	      introduzir-se: O Islamismo se I]introduziu na China nos meados do século VII.,
+	      passar: Com esforço, levantou-se, caminhou e I]passou pelo vão da porta semi-aberta.,
+	      penetrar: O rápido atacante [penetrou na área e não desperdiçou.,}
+Chave: PENETRAR <verb.contact>
+ILI: 01190419
+
+Sense 1
+{01190419} <verb.contact> penetrate, perforate3 -- (pass into or through, often by overcoming resistance; "The bullet penetrated her chest")
+       => {01958650} <verb.motion> enter, come in2, get into, get in1, go into, go in, move into -- (to come or go into; "the boat entered an area of shallow marshes")

@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA0956
+
+DADO O SYNSET:
+
+S='Glosa956'
+{comprimir-se: Cidades desordenadas, infernais, com espaços vitais ou territórios humanos restritos, onde as pessoas tendem a I]comprimir-se psicologicamente sobre si. ,
+confranger-se: Tavares Bastos clamava e reclamava quando descrevia os postos e [se confrangia diante da inutilidade dessas colubrinas para atacarem navios bem construídos.,
+contorcer-se: Disso resultam traços orgânicos e fortes, como a [contorcer-se em torno de si próprios, não deixando aparente uma ação única que seria a origem possante do gesto.,
+contrair-se: Além de setores tradicionais, como têxtil e calçados, deverão [contrair-se os setores de maior dinamismo e maior progresso técnico a nível internacional,
+encolher-se: Em seguida, [se encolhe, como se ouvisse uma voz repressora dizendo que não está se comportando bem.,
+retrair-se: O sucesso é quase um motivo para se ser punido em alguns países europeus, onde as estrelas são criticadas excessivamente e se magoam, para depois [retrair-se e voltar ao teatro.,}
+A='Glosa469'
+{alargar-se, dilatar-se, distender-se, expandir-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa956' = “tornar (-se) mais compacto por meio de pressão”
+{comprimir-se: Cidades desordenadas, infernais, com espaços vitais ou territórios humanos restritos, onde as pessoas tendem a I]comprimir-se psicologicamente sobre si. ,
+confranger-se: Tavares Bastos clamava e reclamava quando descrevia os postos e [se confrangia diante da inutilidade dessas colubrinas para atacarem navios bem construídos.,
+contorcer-se: Disso resultam traços orgânicos e fortes, como a [contorcer-se em torno de si próprios, não deixando aparente uma ação única que seria a origem possante do gesto.,
+contrair-se: Além de setores tradicionais, como têxtil e calçados, deverão [contrair-se os setores de maior dinamismo e maior progresso técnico a nível internacional,
+encolher-se: Em seguida, [se encolhe, como se ouvisse uma voz repressora dizendo que não está se comportando bem.,
+retrair-se: O sucesso é quase um motivo para se ser punido em alguns países europeus, onde as estrelas são criticadas excessivamente e se magoam, para depois [retrair-se e voltar ao teatro.}
+
+A='Glosa469'
+{alargar-se, dilatar-se, distender-se, expandir-se}
+Chave: COMPRIMIR-SE <verb.contact>
+ILI: 01348974
+
+Sense 1
+{01348974} <verb.contact> compress1, compact3, pack together -- (make more compact by or as if by pressing; "compress the data")
+       => {01484954} <verb.contact> wedge, squeeze3, force -- (squeeze like a wedge into a tight space; "I squeezed myself into the corner")
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

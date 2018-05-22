@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA1529
+
+DADO O SYNSET:
+
+S='Glosa1529'
+{derratizar: x,
+desratar: x,
+desratizar: Pela queixa sobre a falta de desratização no bairro de Brasilit, a EMLURB informa que até o dia 8 de abril I]desratizou o local e que, em breve, retomará o serviço.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1529' = “extinguir os ratos”
+{desratizar: Oswaldo Cruz passou a ser retratado como um cômico flautista de Hammerlin, aquele personagem que I]desratizou uma cidade tocando seu instrumento.}
+Chave: DESRATIZAR <verb.contact>  
+ILI: EQ_HAS_HYPERONYM – 01438659
+
+Sense 5
+{01438659} <verb.contact> rat -- (catch rats, especially with dogs)
+       => {01438185} <verb.contact> capture, catch3 -- (capture as if by hunting, snaring, or trapping; "I caught a rabbit in the trap toady")
+           => {02147191} <verb.possession> get, acquire -- (come into the possession of something concrete or abstract; "She got a lot of paintings from her uncle"; "They acquired a new pet"; "Get your results the next day"; "Get permission to take a few days off from work")

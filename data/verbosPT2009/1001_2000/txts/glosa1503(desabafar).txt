@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA1503
+
+DADO O SYNSET:
+
+S='Glosa1503'
+{abrir-se: I]Abriu-se com ele, contou-lhe a sua vida de amofinações e dificuldades. ,
+ desabafar: A pobre moça sentia-se horrivelmente oprimida e precisava [desabafar com alguém.,
+ desafogar-se: A]Desafogou-se comigo sobre dificuldades que o afligiam.  ,
+ desapertar-se: A]Desapertou-se com o amigo.,
+ descarregar: A]Descarregou a raiva.  ,
+ desembuchar: É muito chato falar assim, mas eu preciso I]desembuchar com alguém.,
+ desenrolar-se: x,
+ despeitorar: x,
+ expandir-se: Falava muito, H]expandindo-se com toda a liberdade.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1503' = “expressar-se”
+{abrir-se: O jovem imediatamente viajou de volta à casa do pai e I]abriu-se com ele.,
+ desabafar: A pobre moça sentia-se horrivelmente oprimida e precisava [desabafar com alguém.,
+ desafogar-se: Os marcianos quando se I]desafogam e se libertam das preocupações materiais, não retêm quaisquer resíduos mentais.,
+ descarregar: Na Inglaterra é cada vez maior o número de mulheres que [descarregam a agressividade batendo em seus maridos.,
+ desembuchar: É muito chato falar assim, mas eu preciso I]desembuchar com alguém.,
+ expandir-se: Falava muito, H]expandindo-se com toda a liberdade.,}
+Chave: DESABAFAR <verb.communication>
+ILI: 00913465
+
+Sense 1
+{00913465} <verb.communication> vent, ventilate, give vent -- (give expression or utterance to; "She vented her anger"; "The graduates gave vent to cheers")
+       => {00912790} <verb.communication> express1, show2, evince -- (give expression to; "She showed her disappointment")
+           => {00898144} <verb.communication> convey, impart1 -- (make known; pass on, of information)
+               => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                   => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                       => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

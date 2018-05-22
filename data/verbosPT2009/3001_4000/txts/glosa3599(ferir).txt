@@ -1,0 +1,52 @@
+ANÁLISE DA GLOSA3599
+
+DADO O SYNSET:
+
+S='Glosa3599'
+	{amolestar: O que mais dói não são os martírios de uma dor latente, quando I]amolestam nosso corpo forte.,
+	 chagar: I]Chagar a alma.,
+	 contundir: Thomas havia sido incluído na seleção em substituição a Tim Hardaway, do Golden State, que [contundira o joelho. ,
+	 esmechar: I]Esmecha e esmaga o rosto.,
+	 ferir: O golpe que devia [ferir Iracema, ainda não alçado, já lhe trespassava, a ele próprio, o coração. / Envolveu outras pessoas, prejudicando gente que não queria [ferir. ,
+	 judiar: Depois de praticamente matar de tanto [judiar sua empregada Odile, tia Danielle vai morar na casa de seu sobrinho. ,
+	 machucar: Entre os muitos feridos da Rocinha, estavam a própria Cícera, que [machucou a cabeça.,
+	 magoar: Ontem à noite empregaram a força, lutaram, [magoaram me para arrancar me a luneta. / Bandido gosta de futebol, não ia querer [magoar o Pelé.,
+	 maltratar: A artrose I]maltrata meus joelhos.,
+	 marcar: I]Imprimia tal velocidade nos golpes que raramente deixava de marcar o rosto de seu adversário já nos dois primeiros assaltos. ,
+	 mazelar: Essa carga pesada e encaroçada M]mazelou o pobre jumento.,
+	 molestar: Devia ter ido pé ante pé, e nunca segurar-lhe as mãos com tanta força que chegasse a [molestá-la.,
+	 obtundir: x,
+	 roer: Os sapatos de lona estavam I]roendo-lhe os dedos mindinhos dos pés, como se de mordedura de cachorro se tratasse.,
+	 sugilar: H]Sugilar a coxa.,
+	 trilhar: M]Trilhar um pé.,
+	 ulcerar: O nódulo pode I]ulcerar a pele.,
+	 vulnerar: O estupro, por suas características, possui o poder de I]vulnerar a vítima.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3599' = “causar ferimentos ou danos físicos [a]”
+	{amolestar: O que mais dói não são os martírios de uma dor latente, quando I]amolestam nosso corpo forte.,
+	 chagar: I]Chagar a alma.,
+	 contundir: Thomas havia sido incluído na seleção em substituição a Tim Hardaway, do Golden State, que [contundira o joelho.,
+	 esmechar: I]Esmecha e esmaga o rosto.,
+	 ferir: O golpe que devia [ferir Iracema, ainda não alçado, já lhe trespassava, a ele próprio, o coração.,
+	 judiar: Agora ele não A]judiava só com os animais, ele saqueava povoações e matava gente.,
+	 machucar: Entre os muitos feridos da Rocinha, estavam a própria Cícera, que [machucou a cabeça.,
+	 magoar: Ontem à noite empregaram a força, lutaram, [magoaram me para arrancar me a luneta.,
+	 maltratar: A artrose I]maltrata meus joelhos.,
+	 marcar: I]Imprimia tal velocidade nos golpes que raramente deixava de marcar o rosto de seu adversário já nos dois primeiros assaltos.,
+	 mazelar: Essa carga pesada e encaroçada M]mazelou o pobre jumento.,
+	 molestar: Devia ter ido pé ante pé, e nunca segurar-lhe as mãos com tanta força que chegasse a [molestá-la.,
+	 roer: Os sapatos de lona estavam I]roendo-lhe os dedos mindinhos dos pés, como se de mordedura de cachorro se tratasse.,
+	 sugilar: H]Sugilar a coxa.,
+	 trilhar: M]Trilhar um pé.,
+	 ulcerar: O nódulo pode I]ulcerar a pele.,
+	 vulnerar: O estupro, por suas características, possui o poder de I]vulnerar a vítima.}
+Chave: FERIR <verb.body>
+ILI: 00067690
+
+Sense 1
+{00067690} <verb.body> injure, wound -- (cause injuries or bodily harm to)
+       => {00062508} <verb.body> hurt1 -- (give trouble or pain to; "This exercise will hurt your back")
+           => {00062736} <verb.body> indispose -- (cause to feel unwell; "She was indisposed")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA1636
+
+DADO O SYNSET:
+
+S='Glosa1636'
+{editar: Isso, evidentemente, é função do setor público, explica Lontra, frustrado por não poder [editar publicações sobre arte .,
+ editorar: Possivelmente poucas empresas tenham capacidade para atender ao prazo de 90 (noventa) dias para [editorar e distribuir a primeira edição da Lista de Assinantes da Telefônica.,
+ imprimir: A hipótese de que o desejo do finado fosse [imprimir este caderno em seguida aos outros, não é natural, salvo se queria obrigar à leitura dos seis, em que tratava de si, antes que lhe conhecessem esta outra história, escrita com um pensamento interior e único, através das páginas diversas .,
+ publicar: Esse filho de croatas, de 55 anos, é o autor do livro El cartero de Neruda - Ardiente paciencia, que a editora Record acaba de [publicar no Brasil com o mesmo título do filme .,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1636' = “preparar e expedir para distribuição pública ou venda”
+{editar: A Emater [editou um folheto recomendando colocar as iscas com formicida a um palmo dos olheiros.,
+ editorar: Raulino Reitz idealizou e I]editorou a Flora Ilustrada Catarinense.,
+ imprimir: Eles [imprimiram a revista «Leia», com 200 mil exemplares, à imagem e semelhança da revista «Veja» e foram acusados de plágio.,
+ publicar:Robbins [publicou sua autobiografia em que se debruçou sobre a recepção à sua própria obra Essay on the Nature and Significance of Economic Science.,}
+Chave: PUBLICAR <verb.communication>
+ILI: 00935836
+
+Sense 2
+{00935836} <verb.communication> publish, bring out, put out, issue, release -- (prepare and issue for public distribution or sale; "publish a magazine or newspaper")
+       => {00922993} <verb.communication> publicize, publicise, air, bare -- (make public; "She aired her opinions on welfare")
+           => {00920928} <verb.communication> tell -- (let something be known; "Tell them that you will be late")
+               => {00804489} <verb.communication> inform -- (impart knowledge of some fact, state or affairs, or event to; "I informed him of his rights")
+                   => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                       => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                           => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel") 

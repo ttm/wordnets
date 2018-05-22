@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA2380
+
+DADO O SYNSET:
+
+S='Glosa2380'
+	    {agüentar: Não vai me mandar sentar, pensava o tenente, e eu mal me posso I]agüentar de pé.,
+	      amparar: Um deles segura as pernas da morta, enquanto o outro [ampara seu tronco.,
+	      segurar: Pryles [segura as mãos dos que têm dificuldade. #  À esquerda uma mulher sentada no chão, totalmente coberta por panos, [segura em seu colo uma criança.,
+	      suspender: Araci também ficará mais formosa quando de seu sorriso saírem os frutos do amor: e quando o leite encher seus peitos mimosos, para que ela [suspenda ao colo os filhos de Ubirajara.,
+	      suster: Só resta o guerreiro Caubi ao velho Pajé, para [suster seu corpo vergado, e guiar seu passo trêmulo.,
+	      ter: A polícia M]tem nas mãos o criminoso.,
+	      tomar: Hashim levantou-se, andou até uma mulher que caminhava com um olhar rude e uma criança no colo e I]tomou a criança para si. #  Pegou um molhe de chaves, I]tomou a criança pelo braço ea levou para uma das celas da delegacia, trancando o menino Hitchcock como um malfeitor.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2380' = “Ser o suporte físico de; Carregar o peso de.”
+	    { agüentar: Ele I]agüentou o peso do robô com as pernas.,                   
+                   amparar: Ela I]amparava em seus braços e contra seu peito o amortecido corpo do velho.,
+	      segurar: À esquerda uma mulher sentada no chão [segura em seu colo uma criança.,
+	      suspender: Para que ela [suspenda ao colo os filhos de Ubirajara.,
+	      suster: Só resta o guerreiro Caubi ao velho Pajé, para [suster seu corpo vergado, e guiar seu passo trêmulo.,
+	      ter: Foi novamente ameaçado por este homem que I]tinha uma criança no colo.,
+	      tomar: Então o arqueólogo I]tomou em seus braços a múmia seminua.,}
+
+Chave: SEGURAR <verb.contact>
+ILI: 01180133
+
+Sense 15
+{01180133} <verb.contact> hold1, support, sustain, hold up -- (be the physical support of; carry the weight of; "The beam holds up the roof"; "He supported me with one hand while I balanced on the beam"; "What's holding that mirror?")

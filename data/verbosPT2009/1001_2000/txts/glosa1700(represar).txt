@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA1700
+
+DADO O SYNSET:
+
+S='Glosa1700'
+{empresar: x,
+ represar: Durante as cinco horas de chuva que caíram na cidade, cerca de três metros de água se [represaram entre uma colina e a estrada.,
+ reter: Uma barragem de 2,50 m de altura e 360 metros de largura seria feita na boca da lagoa do Fidalgo para I]reter a água. ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1700' = “obstruir com [ou como se fosse com] uma represa”
+{represar: Segundo o chefe da defesa civil, a maré alta “[represou o rio Negro, que não pode escoar para o mar o aumento do seu nível, provocado pelas fortes chuvas”.,
+ reter: O trabalho consiste na instalação de uma barragem móvel no canal, que I]retém a água na maré alta.,}
+Chave: REPRESAR <verb.contact>
+ILI: 01435339
+
+Sense 1
+{01435339} <verb.contact> dam, dam up -- (obstruct with, or as if with, a dam; "dam the gorges of the Yangtse River")
+       => {01434634} <verb.contact> obstruct, obturate, impede, occlude, jam2, block12, close up -- (block passage through; "obstruct the path")
+           => {02377880} <verb.social> impede, hinder1 -- (be a hindrance or obstacle to; "She is impeding the progress of our project")
+               => {02377053} <verb.social> prevent, keep1 -- (prevent from doing something or being in a certain state; "We must prevent the cancer from spreading"; "His snoring kept me from falling asleep"; "Keep the child from eating the marbles")

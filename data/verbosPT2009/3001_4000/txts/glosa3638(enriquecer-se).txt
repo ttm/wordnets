@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA3638
+
+DADO O SYNSET:
+
+S='Glosa3638'
+	{adinheirar-se: x,
+	 afazendar-se: x,
+	 empilchar-se: x,
+	 endinheirar-se: Cândida é o exemplo da nova burguesia moçambicana que I]se endinheirou por processos ainda não muito claros.,
+	 enriquecer-se: Estabeleceram relações com outros povos e [se enriqueceram com o comércio e a indústria artesanal.,
+	 locupletar-se: Os congressistas que [se locupletaram com o patrimônio do contribuinte devem ser devidamente punidos.,
+	 opulentar-se: Na vargem da cidade os novos sesmeiros I]opulentavam-se de doações. }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3638' = “tornar-se rico ou mais rico”
+	{endinheirar-se: Cândida é o exemplo da nova burguesia moçambicana que I]se endinheirou por processos ainda não muito claros.,
+	 enriquecer-se: Estabeleceram relações com outros povos e [se enriqueceram com o comércio e a indústria artesanal.,
+	 locupletar-se: Os congressistas que [se locupletaram com o patrimônio do contribuinte devem ser devidamente punidos.,
+	 opulentar-se: Na vargem da cidade os novos sesmeiros I]opulentavam-se de doações. }
+Chave: ENRIQUECER-SE <verb.possession>
+ILI: 02251495
+
+
+Sense 2
+{02251495} <verb.possession> enrich -- (make wealthy or richer; "the oil boom enriched a lot of local people")
+       => {00176022} <verb.change> add -- (make an addition (to); join or combine or unite with others; increase the quality, quantity, zise or scope of; "We added two students to that dorm room"; "She added a personal note to her letter"; "Add insult to injury"; "Add some extra plates to the dinner table")
+           => {00150804} <verb.change> increase -- (become bigger or greater in amount; "The amount of work increased")
+               => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

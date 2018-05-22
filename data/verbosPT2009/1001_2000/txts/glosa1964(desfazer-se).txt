@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA1964
+
+DADO O SYNSET:
+
+S='Glosa1964'
+{desfazer-se: Filho de pais ricos, I]desfez-se da herança, distribuindo dinheiro aos pobres.,
+ despir-se: x,
+   despojar-se: Se tivessem visado sempre a pureza de coração, não cairiam por bagatelas, depois de preferirem I]despojar-se de bens preciosos antes que se sujeitar a eles.,
+ desrevestir-se: x,
+ dispor: Acreditando na possibilidade de continuidade do projeto I]dispôs de sua fortuna pessoal e acabou perdendo tudo. ,
+ esfazer-se: x,
+ privar-se: Então o Espírito desta disse que a Sra. R. e sua irmã eram bastante ricas e podiam I]privar-se de sua parte da herança.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1964' = “desfazer-se [de]; dar fim [a]”
+{desfazer-se: Filho de pais ricos, I]desfez-se da herança, distribuindo dinheiro aos pobres.,
+ despojar-se: Se tivessem visado sempre a pureza de coração, não cairiam por bagatelas, depois de preferirem I]despojar-se de bens preciosos antes que se sujeitar a eles.,
+ dispor: O Infraero [dispõe de US$ 200 mil para reformar o aeroporto João Suassuna, em Campina Grande.,
+ privar-se: Então o Espírito desta disse que a Sra. R. e sua irmã eram bastante ricas e podiam I]privar-se de sua parte da herança.,}
+Chave: DESFAZER-SE <verb.possession>
+ILI: 02160141
+
+Sense 1
+{02160141} <verb.possession> get rid of1, remove -- (dispose of; "Get rid of these old shoes!"; "The company got rid of all the dead wood")

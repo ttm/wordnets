@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA0425
+
+DADO O SYNSET:
+
+S='Glosa425'
+{congratular: O que mais o choca é o cretinismo cientificista que conduziu os físicos japoneses a [congratular seus colegas americanos pela eficácia da bomba de Hiroshima.,
+cumprimentar: O poeta AtílioAtilio Bertolucci, 85 anos, pai de Bernardo Bertolucci, ligou para o filho para [cumprimentá-lo por seu primeiro filme. ,
+felicitar: Devo [felicitar os jogadores pela maneira como reagiram depois do primeiro gol sueco.,
+parabenizar: É verdadeiramente uma vitória do cinema nacional, exultou o ministro da Cultura Francisco Weffort, que, em visita ao Rio, tentou durante todo o dia de ontem [parabenizar a família Barreto.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa425' = “apresentar congratulações; dirigir felicitações ou parabéns a” 
+{congratular: O que mais o choca é o cretinismo cientificista que conduziu os físicos japoneses a [congratular seus colegas americanos pela eficácia da bomba de Hiroshima.,
+cumprimentar: O poeta AtílioAtilio Bertolucci, 85 anos, pai de Bernardo Bertolucci, ligou para o filho para [cumprimentá-lo por seu primeiro filme. ,
+felicitar: Devo [felicitar os jogadores pela maneira como reagiram depois do primeiro gol sueco.,
+parabenizar: É verdadeiramente uma vitória do cinema nacional, exultou o ministro da Cultura Francisco Weffort, que, em visita ao Rio, tentou durante todo o dia de ontem [parabenizar a família Barreto.,}
+
+Chave: CONGRATULAR <verb.communication>
+ILI: 00852218
+
+Sense 1
+{00852218} <verb.communication> compliment, congratulate -- (say something to someone that expresses praise; "He complimented her on her last physics paper")
+       => {00828989} <verb.communication> praise -- (express approval of; "The parents praised their children for their academic performance")
+           => {00658664} <verb.cognition> measure1, evaluate, valuate, assess, appraise1, value -- (place a value on; judge the worth of something; "I will have the family jewels appraised by a professional")
+               => {00647983} <verb.cognition> judge -- (form an opinion of or pass judgment on; "I cannot judge some works of modern art")
+                   => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

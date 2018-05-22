@@ -1,0 +1,63 @@
+ANÁLISE DA GLOSA1567
+
+DADO O SYNSET:
+
+S='Glosa1567'
+{alterar: A penetração capitalista e colonialista européia e a  dos EUA [alterou profundamente o sistema produtivo original, que passou a ser organizado em função do mercado externo.,
+ anarquizar: Permitir que tais leis não sejam cumpridas é deseducar e I]anarquizar as relações entre a riqueza natural do país e a população. ,
+ atumultar: x,
+ atumultuar: x,
+ desacomodar: A crianca H]desacomodou todos os objetos do quarto. ,
+ desaconchegar: x,
+ desajeitar: Um outro aspecto a considerar foi a capacidade do desgoverno "Cidade Campo", em desarrumar e [desajeitar políticas públicas.,
+ desalinhar: Monitorar e corrigir os eventuais desvios que possam I]desalinhar o desempenho .,
+ desamanhar: x,
+ desarar: x,
+ desarranjar: A Globo limitou-se a mostrar flashes das principais provas do dia no Pan,  e a compactá-los nos telejornais para não I]desarranjar sua programação.,
+ desarrumar: A longa estada dos hóspedes H]desarrumou nossa rotina.,
+ descompor: A droga A]descompôs-lhe a mente.,
+ desconcertar: Essa falta M]desconcertou-lhe os bem elaborados planos.,
+ desconchegar: x,
+ descontrolar: Não se deve apostar que a implantação da URV irá [descontrolar amplamente o sistema de preços.,
+ desestruturar: A economia nacional H]desestrutura-se a olhos vistos.,
+ desmanchar: A operação Terra Queimada pretende [desmanchar as conexões mafiosas no tráfico de drogas.,
+ desordenar: O relato é  de velhos moradores da área, a história da gente simples que viu o Subúrbio expandir-se e I]desordenar-se, em detrimento de suas belezas naturais.,
+ desorganizar: Os alemães esperavam que as armas secretas conseguissem pelo menos I]desorganizar a produção de guerra dos ingleses, e retardar a invasão.,
+ destemperar: A doença H]destemperou-lhe os planos de viagem.,
+ destruir: Infelizmente, uma tempestade no Mar Norte I]destruiu nossos planos.,
+ perturbar: As erupções vulcânicas A]perturbam a composição do solo.  ,
+ tumultuar: H]Tumultuou os trabalhos da assembléia.,}
+	  
+A='Glosa1883'
+	    {acomodar, acondicionar, ajeitar, arranjar, arrumar, compor, dispor, distribuir, entrouxar, ordenar, organizar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1567' = “trazer desordem [para]”
+{alterar: Assim, o proprietário jamais poderia I]alterar a disposição de seus móveis antes de consultar e obter o aval do decorador.,
+ anarquizar: Uma verdadeira poluição visual que emporcalha e I]anarquiza a cidade, a qual termina mais rebocada do que porta de tenda de ferreiro.,
+ desacomodar: Faz-se necessário reinventar, I]desacomodar as noções e verdades estabelecidas, realizando rompimentos e mudanças.,
+ desajeitar: Um outro aspecto a considerar foi a capacidade do desgoverno "Cidade Campo", em desarrumar e [desajeitar políticas públicas.,
+ desalinhar: Na sexta feira passada, a numerologia se encarregou de I]desalinhar os astros e produzir uma sucessão inacreditável de revezes.,
+ desarranjar: A Globo limitou-se a mostrar flashes das principais provas do dia no Pan,  e a compactá-los nos telejornais para não I]desarranjar sua programação.,
+ desarrumar: A aceleração inflacionária [desarruma o sistema de preços e seria, portanto, um péssimo ambiente para a reforma monetária.,
+ descompor: O ataque lançado ontem pelos EUA contra o Iraque ameaça I]descompor o frágil mosaico de etnias e religiões que convivem conflituosamente no país.,
+ desconcertar: A imensa maioria dessas mutações I]desconcerta o funcionamento celular de tal forma que se torna incompatível com a vida: a célula morre e é eliminada.,
+ descontrolar: Não se deve apostar que a implantação da URV irá [descontrolar amplamente o sistema de preços.,
+ desestruturar: A saída do primeiro [desestruturou o sistema defensivo da equipe em pleno Campeonato Brasileiro.,
+ desmanchar: A operação Terra Queimada pretende [desmanchar as conexões mafiosas no tráfico de drogas.,
+ desordenar: Contudo, a guerra I]desordenou profundamente a ordem social dessa sociedade escravista.,
+ desorganizar: Os alemães esperavam que as armas secretas conseguissem pelo menos I]desorganizar a produção de guerra dos ingleses, e retardar a invasão.,
+ destemperar: Feitosa I]destemperou de vez o formalismo literário do passado e abriu caminhos novos na inspiração explosiva de poemas fortes.,
+ destruir: O fim da Guerra Fria e do sistema mundial bipolar, que fora a base das relações internacionais, I]destruiu a ordem estruturada no segundo pós-guerra.,
+ perturbar: Catastrofobia narra a evolução da psicologia humana nos últimos 15 mil anos e concentra-se em como ela foi afetada pelo horrendo acontecimento milenar que interrompeu um antigo regime terrestre benigno, I]perturbou boa parte do Sistema Solar adjacente e desencadeou o período mais duro e conturbado dos dias atuais.,
+ tumultuar: O fechamento do TAC I]tumultuou a agenda cultural de centros como o Teatro do CIC.,}
+	  
+A='Glosa1883'
+	    {acomodar, acondicionar, ajeitar, arranjar, arrumar, compor, dispor, distribuir, entrouxar, ordenar, organizar}
+Chave: DESORDENAR <verb.change>
+ILI: 00267382
+
+Sense 2
+{00267382} <verb.change> disorder, disarray -- (bring disorder to)
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

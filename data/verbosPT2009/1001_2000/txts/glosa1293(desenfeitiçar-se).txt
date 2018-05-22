@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA1293
+
+DADO O SYNSET:
+
+S='Glosa1293'
+ {desenbruxar-se: DEVIANT,
+ desencantar-se: Ela não pôde I]desencantar-se; ficou onça para sempre e lá existe.,
+ desenfeitiçar-se: O curandeiro H]desenfeitiçou-se sob a lua cheia,}
+	  
+A='Glosa1292'
+	    {embruxar-se, encantar-se, enfeitiçar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1293' = “libertar-se de um feitiço”
+ {desencantar-se: Ela não pôde I]desencantar-se; ficou onça para sempre e lá existe.,
+ desenfeitiçar-se: A sociedade precisa I]desenfeitiçar-se (livrar-se do feitiço) da modernização dos padrões de consumo,}
+A='Glosa1292'
+	    {embruxar-se, encantar-se, enfeitiçar-se}
+Chave: DESENFEITIÇAR-SE <verb.communication>
+ILI: 01030828
+
+Sense 1
+{01030828} <verb.communication> unspell -- (release from a spell)
+       => {02348394} <verb.social> free, liberate2, release, unloose, unloosen, loose -- (grant freedom to; free from confinement)

@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA2565
+
+DADO O SYNSET:
+
+S='Glosa2565'
+	    {marear: Seu bisneto, D. João II - que seria conhecido como o príncipe perfeito -, orientou então as empresas marítimas, feitas em consórcio com os grandes negociantes portugueses, genoveses e venezianos, para a busca de um caminho por mar para a Índia. O sucesso destas viagens está associado a duas ordens de fatores: de um lado o progresso da arte de I]marear e, de outro, as mudanças na concepção de espaço e a revolução cartográfica.,
+	      navegar: Com a experiência adquirida, os marinheiros portugueses aprenderam a conhecer o regime dos ventos e correntes do oceano e adotaram uma série de aprimoramentos técnicos na arte de [navegar e de construir embarcações.,
+	      rotear1: H]Rotear o saveiro.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2565' = “Atuar como o navegador em um carro, avião, ou navio e planejar, comandar e traçar o caminho e a posição do transporte.”
+	    {marear: De um lado o progresso da arte de I]marear e, de outro, as mudanças na concepção de espaço e a revolução cartográfica.,
+	      navegar: Com a experiência adquirida, os marinheiros portugueses adotaram uma série de aprimoramentos técnicos na arte de [navegar e de construir embarcações.,
+	      rotear1: H]Rotear o saveiro.,}
+
+Chave: ROTEAR <verb.motion>
+ILI: 01877336
+
+Sense 2
+{01877336} <verb.motion> navigate, pilot1 -- (act as the navigator in a car, plane, or vessel and plan, direct, plot the path and position of the conveyance; "Is anyone volunteering to navigate during the trip?"; "Who was navigating the ship during the accident?")
+       => {01875920} <verb.motion> steer, maneuver, manoeuver, manoeuvre, direct3, point5, head1, guide1, channelize3, channelise3 -- (direct the course; determine the direction of travelling)
+           => {02367626} <verb.social> control, command -- (exercise authoritative control or power over; "control the budget"; "Command the military forces") 

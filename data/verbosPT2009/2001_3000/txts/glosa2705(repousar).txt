@@ -1,0 +1,56 @@
+ANÁLISE DA GLOSA2705
+
+DADO O SYNSET:
+
+S='Glosa2705'
+	    {acarrar: H]Acarrou com sono.,
+	      descansar: Por volta de 2h, decidiram parar para [descansar num platô conhecido como Cabeça do Imperador de onde se avista São Conrado, Lagoa, o Pão de Açúcar e o Corcovado.,
+	      desfadigar: De efeito vaso-constrictor, é excelente para os casos de má circulação sanguínea. I]Desfadiga as pernas cansadas.,
+	      desfolegar: x,
+	      relaxar: Ela diz que Fernando Collor está conseguindo [relaxar com esta temporada de férias nos Estados Unidos.,
+	      releixar: x,
+	      repoisar: x,
+	      repousar: Terceiro dia amanheceu e Aoitin viu e ouviu Ahy; caçou e cansou veio [repousar na gruta.,
+	      resfolegar: x,
+	      resfolgar: x,
+	      vacar: Aproxima-se a hora de M]vacarmos deste trabalho.,}
+
+	  A='Glosa3406'
+	    {afadigar: As 12 horas de trabalho diário A]afadigam-no.,
+	     afrontar: As supostas delícias do jantar H]afrontaram-no.,
+	     alanhar: DEVIANT,
+	     aplastar: x,
+	     cansar: O campo é menor, o peso da bola é diferente e acho que [cansa mais que o tradicional porque corremos o tempo todo.,
+	     esbofar: A corrida H]esbofou o velho atleta.,
+	     esfalfar: x,
+	     estafar: Uma programação paralela à cerimônia de posse, que, por orientação dos médicos, será um ato breve e simples, para não I]estafar o governador.,
+	     estrompar: Aquela tarefa H]estrompava-o.,
+	     estropiar: O trabalho H]estropiou-o.,
+	     fadigar: Em termos de fadiga, um velocista pode I]fadigar em segundos em associação com elevados níveis de lactato.,
+	     fatigar: As transpaleteiras elétricas são particularmente indicadas para velocidade na movimentação e grandes deslocamentos, para não I]fatigar o operador.,
+	     malaxar: x,
+	     matar: Aquele trabalho o H]matava.,
+	     moer: A tensão H]moía-lhe o corpo.,
+	     pregar1: O galope forçado H]pregou os cavalos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2705' = “Tirar um pequeno intervalo de suas atividades pra relaxar.”
+	    {descansar: Temos de remontar ao princípio da criação, quando Deus I]descansou dos labores criativos.,
+	      desfadigar: De efeito vaso-constrictor, é excelente para os casos de má circulação sanguínea. I]Desfadiga as pernas cansadas.,
+	      relaxar: Parte da comitiva I]relaxou do dia intenso fumando charutos no saguão.,
+	      repousar: Nem bem I]repousou do estafante inquérito e agora o secretário já enfrenta o caso rumoroso do deputado estadual.,}
+
+	  A='Glosa3406'
+	    {afadigar, afrontar, cansar, esbofar, estafar, estrompar, estropiar, fadigar, fatigar, matar, moer, pregar1}
+
+Chave: REPOUSAR <verb.communication>
+ILI: 00753668
+
+Sense 2
+{00753668} <verb.communication> rest, breathe, catch one's breath, take a breather -- (take a short break from one's activities in order to relax)
+       => {00753369} <verb.communication> pause1, intermit, break4 -- (cease an action temporarily; "We pause for station identification"; "let's break for lunch")
+           => {00752607} <verb.communication> interrupt, disrupt, break up, cut off -- (make a break in; "We interrupt the program for the following messages")
+               => {00351165} <verb.change> break2, break off, discontinue, stop5 -- (prevent completion; "stop the project"; "break off the negociations")
+                   => {00341640} <verb.change> end1, terminate1 -- (bring to an end or halt; "She ended their friendship when she found out that he had once been convicted of a crime"; "The attack on Poland terminated the relatively peaceful period after WWI")
+                       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

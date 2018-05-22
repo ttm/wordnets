@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA0426
+
+DADO O SYNSET:
+
+S='Glosa426'
+{aplaudir-se: Então, I]aplaude-se a tentativa de ter Luizinho como técnico, respeitando-o como atleta que muito fez pelo futebol local.,
+congratular-se: I]Congratula-se com a esposa do prefeito da Cidade pelo êxito da barraca do Recife na Terceira Feira dos Municípios.,
+felicitar-se: De qualquer modo, o Brasil deve I]felicitar-se por esse empreendimento de tão grande alcance econômico e social.,
+gratular: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa426' = “expressar (-se) congratulações”
+{aplaudir-se: Então, I]aplaude-se a tentativa de ter Luizinho como técnico, respeitando-o como atleta que muito fez pelo futebol local.,
+congratular-se: I]Congratula-se com a esposa do prefeito da Cidade pelo êxito da barraca do Recife na Terceira Feira dos Municípios.,
+felicitar-se: De qualquer modo, o Brasil deve I]felicitar-se por esse empreendimento de tão grande alcance econômico e social.,}
+Chave: CONGRATULAR-SE <verb.communication>
+ILI: 00852537
+
+Sense 2
+{00852537} <verb.communication> congratulate1, felicitate -- (express congratulations)
+       => {00873231} <verb.communication> wish, bid1 -- (invoke upon; "wish you a nice evening"; "bid farewell")
+           => {00867595} <verb.communication> greet, recognize1, recognise1 -- (express greetings upon meeting someone)
+               => {00958357} <verb.communication> address1, accost1, come up to -- (speak to someone)
+                   => {01795677} <verb.motion> come, come up2 -- (move toward, travel toward something or somebody or approach something or somebody; "He came singing down the road"; "Come with me to the Casbah"; "come down here!"; "come out of the closet!"; "come into the room")
+                       => {01782203} <verb.motion> travel, go, move3, locomote -- (change location; move, travel, or proceed; "How fast does your new car go?"; "We travelled from Rome to Naples by bus"; "The policemen went from door to door looking for the suspect"; "The soldiers moved towards the city in an attempt to take it before night fell")

@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA2545
+
+DADO O SYNSET:
+
+S='Glosa2545'
+	    {aflechar: Com o arco H]aflechou os frutos mais altos.,
+	      assetear: Nós os I]asseteamos; estão destruídos desde Hesbom até Dibom; e os assolamos até Nofa e com fogo, até Medeba.,
+	      desfrechar: x,
+	      flechar: O rei em uma de suas caçadas, ao I]flechar a presa que perseguia, não percebeu que o animal amedrontado estava aos pés do eremita.,
+	      frechar: Quando deixou estas pisadas ia fugindo dos índios, que o queriam I]frechar.,
+	      sagitar: x,
+	      setear: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2545' = “Causar ferimentos ou danos corpóreos a.”
+	    {assetear: Nós os I]asseteamos.,
+	      flechar: Apertou a flecha e I]flechou a onça.,
+	      frechar: Repreendido, desatendeu a autoridade e I]frechou o cavalo contra o subdelegado.,}
+
+Chave: FLECHAR <verb.body>
+ILI: EQ_HAS_HYPERONYM - 00067690
+
+Sense 1
+{00067690} <verb.body> injure, wound -- (cause injuries or bodily harm to)
+       => {00062508} <verb.body> hurt1 -- (give trouble or pain to; "This exercise will hurt your back")
+           => {00062736} <verb.body> indispose -- (cause to feel unwell; "She was indisposed")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

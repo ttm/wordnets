@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0011A
+
+DADO O SYNSET:
+
+S='Glosa11'
+{açalmar: DEVIANT,
+fornecer-se: Torna-se fundamental ações de educação ambiental, sanitária e agronômica para I]fornecer-se a devida assistência social para estas populações.,
+prover-se: Lugar onde as embarcações podem [prover-se de água doce.,}	    
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa11A' = “prover(-se) (-d)o que é desejado ou necessitado”
+{fornecer-se: M]Forneçamo-nos de viveres para a viagem.,
+ prover-se: Lugar onde as embarcações podem [prover-se de água doce.,}
+Chave: FORNECER-SE <verb.consumption>
+ILI: 01146590
+
+Sense 2
+{01146590} <verb.consumption> provide, supply, ply, cater -- (provide what is desired or needed, especially support, food or sustenance; "The hostess provided lunch for all the guests")
+       => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+           => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children")

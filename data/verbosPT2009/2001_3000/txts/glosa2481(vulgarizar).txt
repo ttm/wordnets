@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA2481
+
+DADO O SYNSET:
+
+S='Glosa2481'
+	    {abandalhar: As más companhias o M]abandalharam.,
+	      acanalhar: No momento em que os chamados revisionistas da História pretendem subverter a ordem das coisas e I]acanalhar personagens consagradas pelo julgamento sereno de muitas gerações privilegiadas pela perspectiva temporal, para ao mesmo tempo exaltar badamecos oriundos de uma estrumeira qualquer, vale uma reflexão sobre o transcurso neste ano de 1998, do bicentenário do nascimento de D. Pedro I.,
+	      arrefeçar: O sociólogo Wallerstein tentou I]arrefeçar as críticas radicais em relação ao fenômeno da globalização  e estabelecer um método teórico - a Word System Theory - a globalização como um  instrumento metodológico de pesquisa e de compreensão da realidade social contemporânea.,
+	      avelhacar: x,
+	      avilar: x,
+	      aviltar: Se for necessário [aviltar o homem, ela o fará, à semelhança desses torpes glutões que cospem no prato para que os outros não se animem a tocá-lo.,
+	      envilecer: A pena de morte, que as idades e as luzes têm demonstrado não ser mais que um crime jurídico, de feito não corrige nem moraliza, o que ela faz é enegrecer os códigos que em suas páginas a estampam, por mais liberais e sábios que sejam como é o nosso; é abater o poder que a aplica; é escandalizar, consternar e I]envilecer as populações em cujo seio se efetua.,
+	      mediocrizar: A TV é um processo para I]mediocrizar o Brasil.,
+	      vulgar: x,
+	      vulgarizar: O Poder Judiciário não pode aceitar o desvirtuamento dos instrumentos processuais, bem como não se pode I]vulgarizar o pedido de quebra, desprezadas formalidades exigidas na Lei de Falências.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2481' = “Degradar e tornar vulgar.”
+	    {abandalhar: As más companhias o M]abandalharam.,
+	      acanalhar: Gozou a desonestidade daquele ato que a ambos I]acanalhava.,
+	      arrefeçar: H]Arrefeçou o criminoso com invectivas.,
+	      aviltar: Devorada pelos remorsos, tendo aversão ao vício que a [aviltava, arrojava se a ele, como a um castigo.,
+	      envilecer: Desejava esposar Ana Rosa como nunca, mas por uma espécie de vingança contra aquela maldita gente que o [envilecia e rebaixava.,
+	      mediocrizar: Desenvolveu uma série de pesquisas na busca da demonstração de que o indivíduo era superior ao coletivo e de que os grupos é que o I]mediocrizavam.,
+	      vulgarizar: Sua popularidade não I]vulgarizou-a, seu caráter continua imaculado, ela é a mais desejada no planeta terra.,}
+
+Chave: VULGARIZAR <verb.change>
+ILI: 00566652
+
+Sense 2
+{00566652} <verb.change> vulgarise1, vulgarize1 -- (debase and make vulgar; "The Press has vulgarized Love and Marriage")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0007A
+
+DADO O SYNSET:
+
+S='Glosa7A'
+{apurar: Um fator agravante em relação aos impactos ambientais é o uso do mercúrio, que segundo relatos de garimpeiros só é usado para I]apurar o ouro.,
+clarificar: Usava-as para I]clarificar o vinho, ou seja, para decantar as partículas naturais que o turvavam depois da fermentação.,
+limpar: Serve para descarregar energias negativas e [limpar o corpo.,
+purgar: O óleo de mamona bebe-se com igual quantidade de água morna para I]purgar o corpo.,
+purificar: Folhas servem para combater a gripe e [purificar o sangue.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa7A' = “dividir em componentes ou constituintes”
+{apurar: Um fator agravante em relação aos impactos ambientais é o uso do mercúrio, que segundo relatos de garimpeiros só é usado para I]apurar o ouro.,}
+Chave: APURAR <verb.contact>
+ILI: 01417512
+
+Sense 6
+{01417512} <verb.contact> separate2 -- (divide into components or constituents; "Separate the wheat from the chaff")
+       => {00135037} <verb.change> change integrity -- (change in physical make-up)
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

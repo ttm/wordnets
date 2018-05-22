@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA1965
+
+DADO O SYNSET:
+
+S='Glosa1965'
+{debandar-se: Hogwarts fora fechada no sexto ano de Harry e Rony, e muitos alunos I]debandaram-se com suas famílias pela Europa e até outros continentes. ,
+ desfazer-se: x,
+ dispersar-se: A tropa fragmentou-se, I]dispersou-se, debandou em pânico, desfazendo-se de armas e munições.,
+ esfazer-se: x,
+ estoirar: x,
+ estourar: Quando avistaram a Praça Magda, a multidão atrás dela I]estourou como uma manada descontrolada, praticamente atropelando-o.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1965' = “escapar em fuga precipitada, como num estouro de boiada”
+{debandar-se: Com o susto repentino, os que estavam mais à frente, ao invés de permanecerem unidos, I]debandaram-se para todos os lados, tornando-se cada um presa fácil.,
+ dispersar-se: A tropa fragmentou-se, I]dispersou-se, debandou em pânico, desfazendo-se de armas e munições.,
+ estourar: Quando avistaram a Praça Magda, a multidão atrás dela I]estourou como uma manada descontrolada, praticamente atropelando-o.,}
+Chave: ESTOURAR <verb.motion>
+ILI: 01997858
+
+Sense 4
+{01997858} <verb.motion> stampede -- (run away in a stampede)
+       => {02016731} <verb.motion> flee, fly3, take flight -- (run away quickly; "He threw down his gun and fled")
+           => {02016325} <verb.motion> run4, scarper, turn tail, lam, run away, hightail it, bunk, head for the hills, take to the woods, escape2, fly the coop, break away -- (flee; take to one's heels; cut and run; "If you see this man, run!"; "The burglars escaped before the police showed up")
+               => {01951556} <verb.motion> leave1, go forth, go away -- (go away from a place; "At what time does your train leave?"; "She didn't leave until midnight"; "The ship leaves at midnight")

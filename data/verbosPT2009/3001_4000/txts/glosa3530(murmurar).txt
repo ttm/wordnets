@@ -1,0 +1,35 @@
+ANÁLISE DA GLOSA3530
+
+DADO O SYNSET:
+
+S='Glosa3530'
+	    {
+	      bisbilhar: x,
+	      ciciar: Inconformadas com o limbo a que se viram remetidas, nunca pararam de suspirar, de murmurar, de I]ciciar, de sussurrar-me os seus anseios. / Eu desposei-te, a fim de que te tenha junto de Mim, para I]ciciar ao teu ouvido sãos conselhos. ,
+	      cochichar: Os pretos [cochichavam na cozinha, com medo de falar alto.,
+	      murmurar: Ela [murmura algo. / E [murmurei baixinho as palavras que ela ouvira ao avô, no tempo do rei e repetira mais tarde no paço. / Cecília adormeceu no seu berço, [murmurando uma prece. ,
+	      mussitar: Após dirigir-se a mim, começava a I]mussitar incessantemente, completamente alheio e indiferente a tudo que o cercava.,
+	      segredar: E ficava assustada, como se de fato, no silêncio da alcova, uma voz de homem estivesse a [segredar-lhe, junto ao rosto, palavras de amor. / Tinha-se feito silêncio; uma ou outra voz I]segredava baixinho, timidamente. ,
+	      soprar: Tenha cuidado de só I]soprar as palavras certas na corneta de sua publicidade. / Neste mundo de ventos. deixa-me I]soprar palavras de paixão.,
+	      suspirar: O cristão adormeceu ouvindo [suspirar entre os murmúrios da floresta, o canto mavioso da virgem indiana. / Tendes razão, respondeu a moça [suspirando, eu o guardarei como lembrança vossa.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3530' = “falar suavemente, em voz baixa”
+	     {ciciar: Inconformadas com o limbo a que se viram remetidas, nunca pararam de suspirar, de murmurar, de I]ciciar, de sussurrar-me os seus anseios. / Com as duas mãos espalmadas I]ciciava uma prece. ,
+	      cochichar: Os pretos [cochichavam na cozinha, com medo de falar alto.,
+	      murmurar: Ela [murmura algo. / E [murmurei baixinho as palavras que ela ouvira ao avô, no tempo do rei e repetira mais tarde no paço. / Cecília adormeceu no seu berço, [murmurando uma prece. ,
+	      mussitar: Após dirigir-se a mim, começava a I]mussitar incessantemente, completamente alheio e indiferente a tudo que o cercava.,
+	      segredar: E ficava assustada, como se de fato, no silêncio da alcova, uma voz de homem estivesse a [segredar-lhe, junto ao rosto, palavras de amor. / Tinha-se feito silêncio; uma ou outra voz I]segredava baixinho, timidamente. ,
+	      soprar: Minha mãe I]soprava palavras confortantes no meu ouvido.,
+	      suspirar: -- Sim, eu... [suspirou Batista.,}
+Chave: MURMURAR <verb.communication>
+ILI: 00885763
+
+Sense 1
+{00885763} <verb.communication> whisper -- (speak softly; in a low voice)
+       => {00910961} <verb.communication> talk, speak, utter, mouth, verbalize, verbalise -- (express in speech; "She talks a lot of nonsense"; "This depressed patient does not verbalize")
+           => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+               => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

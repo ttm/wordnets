@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA1205
+
+DADO O SYNSET:
+
+S='Glosa1205'
+{abaixar: O velho guerreiro [abaixava os olhos para a terra, como se buscasse o lugar do repouso,
+ baixar: Palha [baixara os olhos do joelho até ao resto da perna onde pegava com o cano da bota,
+ declinar: Seus olhos H]declinaram timidamente,
+ descair: Deixei I]descair os olhos,
+ descer: Depois, meus olhos I]desceram para as pessoas à minha frente.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1205' = “cair; abaixar” 
+{abaixar: O velho guerreiro [abaixava os olhos para a terra, como se buscasse o lugar do repouso,
+ baixar: Palha [baixara os olhos do joelho até ao resto da perna onde pegava com o cano da bota,
+ declinar: Seus olhos H]declinaram timidamente,
+ descair: Deixei I]descair os olhos,
+ descer: Depois, meus olhos I]desceram para as pessoas à minha frente.,}
+Chave: BAIXAR <verb.motion>
+ILI: 01981639 
+
+Sense 5
+{01981639} <verb.motion> decline -- (go down; "The roof declines here")
+       => {01918961} <verb.motion> drop -- (to fall vertically; "the bombs are dropping on enemy targets")
+           => {01912987} <verb.motion> descend, fall, go down2, come down -- (move downward and lower, but not necessarily all the way; "The temperature is going down"; "The barometer is falling"; "The curtain fell on the diva"; "Her hand went up and then fell again")
+               => {01782203} <verb.motion> travel, go, move3, locomote -- (change location; move, travel, or proceed; "How fast does your new car go?"; "We travelled from Rome to Naples by bus"; "The policemen went from door to door looking for the suspect"; "The soldiers moved towards the city in an attempt to take it before night fell")

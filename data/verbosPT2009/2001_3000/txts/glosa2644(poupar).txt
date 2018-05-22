@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA2644
+
+DADO O SYNSET:
+
+S='Glosa2644'
+	    {destinar: Profissionais podem I]destinar recursos ao IE via ART.,
+	      guardar: Tudo o que Você precisa fazer é escolher o Plano que melhor se adapte ao seu orçamento e começar a I]guardar dinheiro para a compra do seu Carro 0Km.,
+	      poupar: Para uma criança de seis anos, por exemplo, I]poupar dinheiro para comprar um carro aos 18 é impensável.,
+	      reservar: I]Reserve algum dinheiro para tsedaká (doação) para ser dado numa esquina, como quiser, antes de acender as velas de Shabat.,
+	      reverter: Mesmo admitindo erros na análise “primitivista”, Polanyi revela as limitações de um pensamento econômico na Antigüidade, principalmente devido às trocas comerciais serem feitas, preferencialmente, a base de trocas e por não haver um pensamento voltado para a acumulação de capitais, pois o mais comum era I]reverter os lucros para a obtenção de terras, em busca de maior prestígio social.,
+	      separar: Os especialistas recomendam I]separar o dinheiro da mesada em parcelas distintas e tentar poupar uma parte.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2644' = “Conservar e reservar para uso pessoal ou especial.”
+	    {destinar: Profissionais podem I]destinar recursos ao IE via ART.,
+	      guardar: Tudo o que Você precisa fazer é escolher o Plano que melhor se adapte ao seu orçamento e começar a I]guardar dinheiro para a compra do seu Carro 0Km.,
+	      poupar: Para uma criança de seis anos I]poupar dinheiro para comprar um carro aos 18 é impensável.,
+	      reservar: I]Reserve algum dinheiro para tsedaká (doação) para ser dado numa esquina, como quiser, antes de acender as velas de Shabat.,
+	      reverter: Pois o mais comum era I]reverter os lucros para a obtenção de terras, em busca de maior prestígio social.,
+	      separar: Os especialistas recomendam I]separar o dinheiro da mesada em parcelas distintas e tentar poupar uma parte.,}
+
+Chave: POUPAR <verb.possession>
+ILI: 02161122
+
+Sense 3
+{02161122} <verb.possession> save, preserve1 -- (to keep up and reserve for personal or special use; "She saved the old family photographs in a drawer")
+       => {02138940} <verb.possession> keep, hold on -- (retain possession of; "Can I keep my old stuffed animals?"; "She kept her maiden name after she married")
+           => {02139918} <verb.possession> have, have got, hold -- (have or possess, either in a concrete or an abstract sense; "She has $1,000 in the bank"; "He has got two beautiful daughters"; "She holds a Master's degree from Harvard") 

@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA2980
+
+DADO O SYNSET:
+
+S='Glosa2980'
+	    {afundar-se: Os recursos de repressão do regime se I]afundaram em um dia, o que indica que era mais frágil do que se pensava.,
+	      falhar-se: A vida é feita de tentativas: tenta-se e I]falha-se, mas só se falha verdadeiramente quando paramos de tentar.,
+	      frustrar-se: Seus planos I]frustraram-se definitivamente na última segunda-feira.,
+	      fundir-se2: x,
+	      gorar-se: Em outubro goraram-se as suas espectativas, pois o açúcar lavrado era de má qualidade. ,
+	      malograr-se: I]Malograram-se as tentativas para salvar a paz?,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2980' = “Ser malsucedido”
+	    {afundar-se: Os recursos de repressão do regime se I]afundaram em um dia, o que indica que era mais frágil do que se pensava.,
+	      falhar-se: A vida é feita de tentativas: tenta-se e I]falha-se, mas só se falha verdadeiramente quando paramos de tentar.,
+	      frustrar-se: Seus planos I]frustraram-se definitivamente na última segunda-feira.,
+	      gorar-se: Em outubro goraram-se as suas expectativas, pois o açúcar lavrado era de má qualidade.,
+	      malograr-se: I]Malograram-se as tentativas para salvar a paz?,}
+Chave: MALOGRAR-SE <verb.social>
+ILI: 02453161
+
+Sense 1
+{02453161} <verb.social> fail, go wrong, miscarry -- (be unsuccessful; "Where do today's public schools fail?"; "The attempt to rescue the hostages failed miserably") 

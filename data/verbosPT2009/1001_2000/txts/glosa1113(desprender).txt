@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA1113
+
+DADO O SYNSET:
+
+S='Glosa1113'
+{desafixar: Exemplos de atribuições estão lavrar certidões e autos das diligências que efetuar, bem como afixar e I]desafixar editais.,
+ despregar1: As brancas podem I]despregar diretamente uma peça preta cujas negras acabaram de pregar, ,
+ desprender: A absorção de energia pode ser suficiente para [desprender completamente o elétron de seu átomo,}
+	  
+A='Glosa340'
+	    {afixar, firmar, fixar, pregar1, prender, segurar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1113' = “remover ou desatar o grampo/alfinete/pregador...”
+{desafixar: Exemplos de atribuições estão lavrar certidões e autos das diligências que efetuar, bem como afixar e I]desafixar editais.,
+ despregar1: As brancas podem I]despregar diretamente uma peça preta cujas negras acabaram de pregar, ,
+ desprender: A absorção de energia pode ser suficiente para [desprender completamente o elétron de seu átomo,}
+A='Glosa340'
+	    {afixar, firmar, fixar, pregar1, prender, segurar}
+Chave: DESPRENDER <verb.contact>
+ILI: 01328377
+
+Sense 1
+{01328377} <verb.contact> unpin -- (remove the pins from; unfasten the pins of)
+       => {01477750} <verb.contact> undo -- (cancel, annul, or reverse an action or its effect; "I wish I could undo my actions")
+           => {00133458} <verb.change> change by reversal, turn, reverse -- (change to the contrary; "The trend was reversed"; "the tides turned against him"; "public opinion turned when it was revealed that the president had an affair with a White House intern")
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

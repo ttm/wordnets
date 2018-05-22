@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA2654
+
+DADO O SYNSET:
+
+S='Glosa2654'
+	    {acompanhar: Quer dizer apenas que tentei [acompanhar na encenação de Mary Stuart o caráter mais austero e contido de Schiller, desde os gestos até o figurino e o cenário. ,
+	      espelhar-se: É comum aos povos buscarem [espelhar-se em imagens de futuro grandioso, amparando a auto-imagem em símbolos e desafios, reais ou imaginários.,
+	      imitar: Eu treinei tanto para [imitar Chaplin que acho que consegui em algumas partes fazer imitações perfeitas.,
+	      reproduzir: A produção conseguiu [reproduzir a atmosfera de 1969, ano em que se passa o livro de Gabeira, com carros de época e até um ônibus Mercedez Benz da linha Méier, número 455.,
+	      seguir: O sonho de Jesminder Bhamra (Parminder K. Nagra) é I]seguir o caminho de seu ídolo David Beckham e se tornar uma jogadora profissional de futebol.,
+	      tomar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2654' = “Repetir o comportamento ou a aparência de alguém.”
+	    {acompanhar: O sistema educacional I]acompanhou o modelo de ciência racional-positivista. ,
+	      espelhar-se:  O Grupo Gerdau I]espelhou-se em ferramentas similares de empresas globais.,
+	      imitar: Israel Yehoshua, dez anos mais velho, foi seu herói e modelo, cujo exemplo ele I]imitou até na escolha da carreira.,
+	      reproduzir: Lula está indo bem porque ele I]reproduziu um governo que atendeu bem a maioria da população.,
+	      seguir: O sonho de Jesminder Bhamra é I]seguir o caminho de seu ídolo David Beckham e se tornar uma jogadora profissional de futebol.,}
+
+Chave: SEGUIR <verb.creation>
+ILI: 01693699
+
+Sense 1
+{01693699} <verb.creation> imitate, copy, simulate4 -- (reproduce someone's behavior or looks; "The mime imitated the passers-by"; "Children often copy their parents or older siblings")
+       => {01687654} <verb.creation> reproduce -- (make a copy or equivalent of; "reproduce the painting")
+           => {01575778} <verb.creation> produce, make1, create3 -- (create or manufacture a man-made product; "We produce more cars than we can sell"; "The company has been making toys for two centuries") 

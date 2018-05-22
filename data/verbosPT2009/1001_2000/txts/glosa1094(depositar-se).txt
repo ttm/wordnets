@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA1094
+
+DADO O SYNSET:
+
+S='Glosa1094'
+{assentar-se: Essa cobertura sedimentar I]assenta-se sobre embasamento cristalino.,
+ depositar-se: A fertilidade da região provinha das inundações anuais do Nilo, durante as quais [se depositava um limo que fertilizava a terra, permitindo a cultura de trigo, aveia, cevada, linho, algodão e painço,
+ sedimentar-se: Ele não pode I]sedimentar-se na água pouco profunda da beira da praia, porque ali a turbulência é muito grande,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1094' = “pousar-se em uma posição, geralmente numa superfície”  
+{assentar-se: Grande parte dessa calota de gelo I]assenta-se sobre o fundo rochoso do continente.,
+ depositar-se: A água não foi colorida pelo material colocado e ele I]se depositou no fundo do copo.,
+ sedimentar-se: A parte insolúvel I]sedimenta-se no fundo, como lodo.,}
+Chave: DEPOSITAR-SE <verb.motion>
+ILI: 01930515
+
+Sense 1
+{01930515} <verb.motion> settle1, settle down -- (settle into a position, usually on a surface or ground; "dust settled on the roofs")
+       => {01452069} <verb.contact> put, set, place, pose2, position, lay1 -- (put into a certain place or abstract location; "Put your things here"; "Set the tray down"; "Set the dogs on the scent of the missing children"; "Place emphasis on a certain point")
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

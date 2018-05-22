@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA3106
+
+DADO O SYNSET:
+
+S='Glosa3106'
+	    {
+	      cristalizar: É preciso, para isso, transformar as concepções de ensino que petrificaram e I]cristalizaram a aprendizagem na torpe encenação unidirecional de imposição e transmissão curricular.,
+	      estacionar: Seria ótimo um apitaço para denunciar a sonegação de informação nas universidades, especialmente as de psicologia, que [estacionaram em 1964, com a aposentadoria e o assassinato de professores. ,
+	      estagnar: Os salários [estagnaram na década passada para cargos abaixo dos de supervisão, mas o número de empregos aumentou . ,
+	      imobilizar: Niilistas permitiram uma nova maneria de conceber a arte (ou de matá-la?), mas criaram também um círculo vicioso de autonegação que I]imobilizou o movimento. ,
+	      imotar: x,
+	      paralisar: A política de austeridade de Campos Sales quase [paralisou o crescimento industrial, que foi retomado quando as tarifas alfandegárias aumentaram. ,
+	      parar: A inflação [parou.,
+	      sujeitar: DEVIANT,
+	    }
+
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3106' = “impedir a conclusão”
+	     {cristalizar: Assim, a Constituição de 1934 I]cristalizou os avanços sociais e políticos que o país conquistou ao tempo da Revolução de 30, inscrevendo os direitos sociais de uma maneira ampla na carta magna do país.,
+	      estacionar: Seu último livro, uma novela densa e tortuosa chamada «Quando yano importe», [estacionou durante várias semanas nas listas dos livros mais vendidos na Espanha, do México e da América do Sul. ,
+	      estagnar: Os salários [estagnaram na década passada para cargos abaixo dos de supervisão, mas o número de empregos aumentou . ,
+	      imobilizar: A implosão moral do PT I]imobilizou o processo legislativo e a limpeza ética ficou a desejar. ,
+	      paralisar: A política de austeridade de Campos Sales quase [paralisou o crescimento industrial, que foi retomado quando as tarifas alfandegárias aumentaram. ,
+	      parar: A inflação [parou.,}
+Chave: PARALISAR <verb.change>
+ILI: 00351165
+
+Sense 10
+{00351165} <verb.change> break2, break off, discontinue, stop5 -- (prevent completion; "stop the project"; "break off the negociations")
+       => {00341640} <verb.change> end1, terminate1 -- (bring to an end or halt; "She ended their friendship when she found out that he had once been convicted of a crime"; "The attack on Poland terminated the relatively peaceful period after WWI")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

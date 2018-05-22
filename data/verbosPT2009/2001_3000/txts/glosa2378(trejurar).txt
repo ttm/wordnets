@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA2378
+
+DADO O SYNSET:
+
+S='Glosa2378'
+	    {terjurar: x,
+	      trejurar: O homem foi às nuvens, e jurou e I]trejurou que estava inocente em tudo aquilo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2378' = “Declarar ou afirmar, solenemente e formalmente, como verdade.”
+	    {trejurar: O homem foi às nuvens, e jurou e I]trejurou que estava inocente em tudo aquilo.,}
+
+Chave: TREJURAR <verb.communication>
+ILI: EQ_NEAR_SYNONYM - 00978355
+
+Sense 2
+{00978355} <verb.communication> affirm, verify3, assert, avow, aver, swan, swear3 -- (to declare or affirm solemnly and formally as true; "Before God I swear I am innocent")
+       => {00977478} <verb.communication> declare -- (state emphatically and authoritatively; "He declared that he needed more money to carry out the task he was charged with")
+           => {00976600} <verb.communication> state, say, tell4 -- (express in words; "He said that he wanted to marry her"; "tell me what is bothering you"; "state your opinion"; "state your name")
+               => {00909455} <verb.communication> express, verbalize3, verbalise3, utter1, give tongue to -- (articulate; either verbally or with a cry, shout, or noise; "She expressed her anger"; "He uttered a curse")

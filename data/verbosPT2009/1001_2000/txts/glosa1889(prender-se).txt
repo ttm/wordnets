@@ -1,0 +1,40 @@
+ANÁLISE DA GLOSA1889
+
+DADO O SYNSET:
+
+S='Glosa1889'
+{ajoujar-se: Observa-se, de outro modo, dubiedade, identicamente, quanto à possibilidade do inventariante I]ajoujar-se à sociedade.,
+ amarrar-se: Recordar vivências é I]amarrar-se ao passado, sem proveito. ,
+ atar-se: Onde I]atar-se a eternidade, senão no instante?,
+ enlaçar-se: Qualquer pessoa pode I]enlaçar-se à Corrente Divina através do descobrimento da verdade de Jesus e de outros profetas.,
+ envencilhar-se: x,
+ ligar-se: É bom I]ligar-se a Ele e buscar entender que sentido tem hoje tudo isto. ,
+ prender-se: I]Prender-se à infelicidade vivida impossibilita que a pessoa mantenha o pensamento otimista e positivo.,
+ unir-se: Após sua leitura, este jovem resolveu I]unir-se à Igreja.,
+ vincular-se: O caminho de aprendizagem pessoal deve, necessariamente, I]vincular-se à religião? ,}
+	  
+A='Glosa1574'
+{desamarrar-se, desatar-se, desenvencilhar-se, desprender-se, desvencilhar-se, soltar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1889' = “ficar preso, amarrado”
+{amarrar-se: Cuchulainn gravemente ferido, I]amarra-se ao pilar de uma pedra e segue lutando.,
+ atar-se: Em dado momento, Donat deve [atar-se à heroína por algemas (para que ela não o denuncie).,
+ enlaçar-se: Uma raiz se [enlaça ao meu dedo.,
+ ligar-se: Daí partem nervos que se [ligam a gânglios situados próximo dos órgãos.,
+ prender-se: Contei ano passado e conto novamente: fui dar o beijo no Salvador e minha barba [prendeu-se à do Redentor.,
+ unir-se: No interior do óvulo, uma delas [une-se à oosfera (gameta feminino) dando origem ao zigoto, enquanto a outra une-se a dois núcleos haplóides.,
+ vincular-se: O caminho de aprendizagem pessoal deve, necessariamente, I]vincular-se à religião? ,}
+	  
+A='Glosa1574'
+{desamarrar-se, desatar-se, desenvencilhar-se, desprender-se, desvencilhar-se, soltar-se}
+Chave: PRENDER-SE <verb.contact>
+ILI: 01247215
+
+Sense 1
+{01247215} <verb.contact> tie, bind1 -- (fasten or secure with a rope, string, or cord; "They tied their victim to the chair")
+       => {01300906} <verb.contact> fasten1, fix, secure1 -- (cause to be firmly attached; "fasten the lock onto the door"; "she fixed her gaze on the man")
+           => {01257892} <verb.contact> attach1 -- (cause to be attached)
+               => {01314764} <verb.contact> connect, link, tie1, link up -- (connect, fasten, or put together two or more pieces; "Can you connect the two loudspeakers?"; "Tie the ropes together"; "Link arms")
+          Also See-> {01248670} <verb.contact> tie down#1; {01248670} <verb.contact> tie up#1

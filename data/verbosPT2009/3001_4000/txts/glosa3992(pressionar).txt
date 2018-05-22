@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA3992
+
+DADO O SYNSET:
+	
+S='Glosa3992'
+{comprimir: M]Comprimiu-o afetuosamente, num abraço.,
+ premer: A]Premeu o rosto contra o muro.,
+ premir: x,
+ pressionar: Notou quando Dr. Bardel I]pressionou um botão sob o tampo da mesa e ouviu o ressoar.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3992' = “exercer pressão ou força [contra algo]”
+{comprimir: Harry I]comprimiu seu nariz contra a janela e espremeu os olhos para ver melhor o térreo.,
+ premer: Eu quero encher de calos a ponta do meu dedo, I]premendo o botão do painel eletrônico, para votar contrariamente a essa barbaridade do governador do Estado.,
+ pressionar: Para saber se as alcachofras são frescas, [pressione o dedo na extremidade do caule, pois quanto mais macio, mais fresco.}
+Chave: PRESSIONAR <verb.contact>
+ILI: 01405942
+
+Sense 1
+{01405942} <verb.contact> press -- (exert pressure or force to or upon; "He pressed down on the boards"; "press your thumb on this spot")
+       => {01169634} <verb.contact> touch -- (make physical contact with, come in contact with; "Touch the stone for good luck"; "She never touched her husband")

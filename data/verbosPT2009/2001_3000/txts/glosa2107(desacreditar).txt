@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA2107
+
+DADO O SYNSET:
+	
+S='Glosa2107'
+    	{desacreditar: Santos disse que o flagrante foi forjado para [desacreditar a diretoria do sindicato. # Rompeu com o amigo e tentou A]desacreditá-lo.,
+      	 desautorar: H]Desautorar um funcionário.,
+      	 desautorizar: Na reunião, ele [desautorizou Marcelino Romano.,
+      	 desconceituar: Gozando da intimidade e do crédito de D. Maria, não perdia junto dela ocasião de [desconceituar José Manuel, o que era-lhe tanto mais fácil quanto ele prestava-se a isso, e D. Maria, de espírito demandista e chicaneiro, dava o cavaco por um mexerico.,
+      	 descreditar: De posse deste fichário geral de oposicionistas o governo inicia um trabalho sórdido para [descreditar essas pessoas perante a sociedade, condenando-as ao fracasso em suas empreitadas.,
+      	 desmoralizar: Acusados de desviar milhões de dólares, os «anões» do orçamento não foram excluídos da revisão, o que a [desmoralizou ainda mais.,
+      	 exautorar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2107' = “fazer com que [alguém ou algo] deixe de ser confiado ou acreditado” 
+    	{desacreditar: Santos disse que o flagrante foi forjado para [desacreditar a diretoria do sindicato.,
+      	 desautorar: Muito claramente, a votação do PDC italiano I]desautorou o pronunciamento republicano de seus delegados.,
+      	 desautorizar: Quando falava dos «verossímeis», Hitchcock referia-se aos espectadores que se apegam a detalhes para [desautorizar a verdade dos filmes
+      	 desconceituar: Quincas Borba não dizia pulhices a respeito de padres, nem [desconceituava doutrinas católicas; mas não falava nem da Igreja nem dos seus servos.,
+      	 descreditar: De posse deste fichário geral de oposicionistas o governo inicia um trabalho sórdido para [descreditar essas pessoas perante a sociedade, condenando-as ao fracasso em suas empreitadas.,
+      	 desmoralizar: Acusados de desviar milhões de dólares, os «anões» do orçamento não foram excluídos da revisão, o que a [desmoralizou ainda mais.}
+Chave: DESACREDITAR <verb.cognition>
+ILI: 00664673
+
+Sense 1
+{00664673} <verb.cognition> discredit1 -- (cause to be distrusted or disbelieved; "The paper discredited the politician with its nasty commentary")
+       => {00775063} <verb.communication> dismiss, disregard, brush aside, brush off1, discount, push aside, ignore -- (bar from attention or consideration; "She dismissed his advances")
+           => {00662708} <verb.cognition> reject -- (refuse to accept or acknowledge; "I reject the idea of starting a war"; "The journal rejected the student's paper")
+               => {00647983} <verb.cognition> judge -- (form an opinion of or pass judgment on; "I cannot judge some works of modern art")
+                   => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

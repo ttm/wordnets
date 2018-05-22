@@ -1,0 +1,41 @@
+ANÁLISE DA GLOSA3702
+
+DADO O SYNSET:
+
+S='Glosa3702'
+	    {
+	      apascentar: O meu amado desceu ao seu jardim, aos canteiros de bálsamo, para I]apascentar nos jardins e para colher os lírios,
+	      deleitar: Enfim, ela se foi acostumando e [deleitando. ,
+	      desenfastiar: Percorra as páginas do livro para [desenfastiar o espírito das cousas graves que o trazem ocupado.,
+	      distrair: Só me entreguei a essa ocupação, tão diversa de todas as que até hoje haviam preenchido minha vida, para encontrar nela um meio de [distrair minha alma das desgraças públicas e de meus dissabores particulares. ,
+	      divertir: Um dos maiores representantes do dito teatro-cabeça, Bertold Brecht, achava que a principal função das artes cênicas é [divertir. ,
+	      entreter: Eu só quero fazer filmes que sejam bonitos e [entretenham.,
+	      espairecer: Se você está em Los Angeles para assistir à final da Copa e quiser [espairecer um pouco, vá até o Vale de Santa Inês.# Quis sair, procurar um amigo, [espairecer com ele, mas quem?  ,
+	      pascentar: x,
+	      pascer: Os seus olhos de imigrante I]pasciam na doce redondeza do panorama.,
+	      recrear: Encena espetáculos com fins didáticos que, além de I]recrear, auxiliam o trabalho do professor.,
+	      refocilar: Ó corpo, I]refocila em laranjadas e chocolate, estira-te num sofá, enche a pança, palita o dente, ressona, grunhe. ,
+	      regalar: Buscamos resgatar o que foi feito de melhor, para I]regalar o público do nosso Festival.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3702' = “prover entretenimento”
+	     {deleitar: Um jovem pianista, protegido de Madame Verdurin, I]deleitava os convidados.,
+	      desenfastiar: Depois, ela segue para as Serras Gaúcha só pra I]desenfastiar.,
+	      distrair: Novo 007 I]distrai, mas falta originalidade.,
+	      divertir: A saga dos Marx [diverte com fantasia política. ,
+	      entreter: O «Apito Final», o «Cartão Verde» e a «Mesa Redonda», cada um a sua maneira, [entretem e informam torcedores e aficionados.,
+	      espairecer: A atividade física não só I]espairece como modifica o ambiente da pessoa.,
+	      pascer: Os seus olhos de imigrante I]pasciam na doce redondeza do panorama.,
+	      recrear: João de Toledo Castelhanos I]recreava-se cultivando flores variadas nessa chácara, às quais dedicava todo o cuidado.,
+	      refocilar: Ó corpo, I]refocila em laranjadas e chocolate, estira-te num sofá, enche a pança, palita o dente, ressona, grunhe.,
+	      regalar: Como nas edições anteriores, o "Big Brother Brasil 6" I]regalou os jogadores com diversas festas temáticas, sempre com muita comida e bebida liberada.,}
+Chave: ENTRETER <verb.social>
+ILI: 02417870
+
+Sense 1
+{02417870} <verb.social> entertain -- (provide entertainment for)
+       => {02317425} <verb.social> socialize1, socialise1 -- (take part in social activities; interact with others; "He never socializes with his colleagues"; "The old man hates to socialize")
+           => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+               => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

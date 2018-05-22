@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA0286
+
+DADO O SYNSET:
+
+S='Glosa286'
+{acreditar: Quem [acreditou na promessa de avistar um cometa na madrugada de ontem teve a oportunidade de testemunhar um espetáculo único. ,
+engolir: A ufologia mineira não I]engoliu este papo furado de chupacabras.,
+tragar: Era impossível H]tragar aquela história.,}
+A='Glosa859'
+{duvidar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa286' = “aceitar (tomar) por verdade ou verdadeiro”
+{acreditar: Quem [acreditou na promessa de avistar um cometa na madrugada de ontem teve a oportunidade de testemunhar um espetáculo único. ,
+engolir: A ufologia mineira não I]engoliu este papo furado de chupacabras.,}
+A='Glosa859'
+{duvidar}
+Chave: ACREDITAR <verb.cognition>
+ILI: 00660385
+
+Sense 1
+{00660385} <verb.cognition> believe -- (accept as true; take to be true; "I believed his report"; "We didn't believe his stories from the War"; "She believes in spirits")
+       => {00663436} <verb.cognition> accept -- (consider or hold as true; "I cannot accept the dogma of this church"; "accept an argument")
+           => {00647983} <verb.cognition> judge -- (form an opinion of or pass judgment on; "I cannot judge some works of modern art")
+               => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

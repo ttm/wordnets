@@ -1,0 +1,37 @@
+ANÁLISE DA GLOSA2145
+
+DADO O SYNSET:
+
+  S='Glosa2145'
+	    {acender: A boa música H]acende o espírito.,
+	      arrebatar: No centro da história está um amor que I]arrebata o corpo e o espírito dos protagonistas, e ao qual eles se entregam de modo incondicional.,
+	      arroubar: Discurso que H]arroubou os ouvintes.,
+	      embelezar: A música H]embeleza-o.,
+	      embriagar: A menina começava a sentir a respiração faltar-lhe; seu seio opresso sufocava-a; e entretanto uma voluptuosidade inexprimível a [embriagava; um gozo imensa havia nessa asfixia de perfumes que se condensavam e rarefaziam no ar.,
+	      encantar: Revelou-se no Grêmio, de Porto Alegre, na segunda metade dos anos 50, como um artilheiro que, além de tratar bem a bola, [encantava a acanhada torcida feminina nos estádios gaúchos. ,
+	      enlevar: Numa reunião festiva apresentou-se um jovem declamador, o qual I]enlevou todos os presentes declamando com muita beleza e muito entusiasmo o Salmo 23. ,
+	      extasiar: Há dois anos, [extasiou os críticos de Viena, Munique e Tóquio com «Salomé», de Richard Strauss.,
+	      inebriar: Quer em nossos contatos no Brasil, quer na França, a sua lhaneza de espírito I]inebriava quem com ele convivia.,
+	      transportar: A beleza da paisagem A]transportou o turista.,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2145' = “ficar enfeitiçado, manter encantado”
+	    {acender: A boa música H]acende o espírito.,
+	      arrebatar: No centro da história está um amor que I]arrebata o corpo e o espírito dos protagonistas, e ao qual eles se entregam de modo incondicional.,
+	      arroubar: Discurso que H]arroubou os ouvintes.,
+	      embelezar: A música H]embeleza-o.,
+	      embriagar: Uma voluptuosidade inexprimível a [embriagava; um gozo imensa havia nessa asfixia de perfumes que se condensavam e rarefaziam no ar.,
+	      encantar: Um artilheiro que, além de tratar bem a bola, [encantava a acanhada torcida feminina. ,
+	      enlevar: Um jovem declamador I]enlevou todos os presentes declamando com muita beleza e muito entusiasmo o Salmo 23. ,
+	      extasiar: Há dois anos, [extasiou os críticos de Viena, Munique e Tóquio com «Salomé», de Richard Strauss.,
+	      inebriar: Quer em nossos contatos no Brasil, quer na França, a sua lhaneza de espírito I]inebriava quem com ele convivia.,
+	      transportar: A beleza da paisagem A]transportou o turista.,}
+
+Chave: ENCANTAR <verb.emotion>
+ILI: 01764443
+
+Sense 3
+{01764443} <verb.emotion> enchant, enrapture, transport, enthrall, ravish, enthral, delight2 -- (hold spellbound)
+       => {01762811} <verb.emotion> please, delight -- (give pleasure to or be pleasing to; "These colors please the senses"; "a pleasing sensation")
+           => {01763578} <verb.emotion> satisfy, gratify -- (make happy or satisfied) 

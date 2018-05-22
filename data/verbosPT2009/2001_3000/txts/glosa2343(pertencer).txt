@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA2343
+
+DADO O SYNSET:
+
+S='Glosa2343'
+	    {pertencer: O Japão [pertence ao Círculo de Fogo do Pacífico, possuindo mais de 100 vulcões.,
+	      ser: Esse título I]é do Larri, disse Guga.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2343' = “Ser propriedade de alguém, estar sob a posse de alguma pessoa.”
+	    {pertencer: Parece-nos mais ou menos natural que o crédito de uma foto [pertence ao seu fotógrafo.,
+	      ser: Esse título I]é do Larri, disse Guga.,}
+
+Chave: PERTENCER <verb.possession>
+ILI: 02235204
+
+Sense 1
+{02235204} <verb.possession> belong -- (be owned by; be in the possession of; "This book belongs to me")
+       => {02526983} <verb.stative> be3 -- (have the quality of being; (copula, used with an adjective or a predicate noun); "John is rich"; "This is not a good answer") 

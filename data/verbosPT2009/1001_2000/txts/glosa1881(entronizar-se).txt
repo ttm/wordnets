@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA1881
+
+DADO O SYNSET:
+
+S='Glosa1881'
+{entronar-se: As suspeita-se recaíram sobre o genro de Ivan, Boris Godunov, que I]entronou-se como czar em 1598. ,
+ entronizar-se: O governador Hugo Napoleão I]entronizou-se no poder, por força de decisão judicialque desapeou o ex, Mão Santa.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1881' = “sentar no trono como um soberano”
+{entronar-se: As suspeita-se recaíram sobre o genro de Ivan, Boris Godunov, que I]entronou-se como czar em 1598.,
+ entronizar-se: Nesse castelo não pode haver dois reis. Quem então cederá seu lugar, para que o outro tome o lugar e se I]entronize?,}
+Chave: ENTRONIZAR-SE <verb.social>
+ILI: 02488725
+
+Sense 1
+{02488725} <verb.social> throne1 -- (sit on the throne as a ruler)
+       => {02509613} <verb.social> govern, rule -- (exercise authority over; as of nations; "Who is governing the country now?")
+           => {02367626} <verb.social> control, command -- (exercise authoritative control or power over; "control the budget"; "Command the military forces")

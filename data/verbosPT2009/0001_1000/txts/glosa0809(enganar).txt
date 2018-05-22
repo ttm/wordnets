@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA0809
+
+DADO O SYNSET:
+
+S='Glosa809'
+{blefar: Ainda não há uma decisão, mas ou o Excel pára de [blefar ou arruma-se outro parceiro. # Ele também sabe [blefar no futebol.,
+enganar: Bem manipulados, os números podem até [enganar. # Sandro caiu para [enganar o árbitro. ,
+ludibriar: Mas eles vão tentar [ludibriar a boa fé do povo para dizer que o plano é do Fernando Henrique. #Para ele, a acusação é uma forma de o governo [ludibriar a sociedade.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa809' = “iludir, empregar enganos ou trapaças a”
+{blefar: Ainda não há uma decisão, mas ou o Excel pára de [blefar ou arruma-se outro parceiro. # Ele também sabe [blefar no futebol.,
+enganar: Bem manipulados, os números podem até [enganar. # Sandro caiu para [enganar o árbitro. ,
+ludibriar: Mas eles vão tentar [ludibriar a boa fé do povo para dizer que o plano é do Fernando Henrique. #Para ele, a acusação é uma forma de o governo [ludibriar a sociedade.,}
+Chave: ENGANAR <verb.social>
+ILI: 02499600
+
+Sense 1
+{02499600} <verb.social> fool, gull, befool -- (make a fool or dupe of)
+       => {02498705} <verb.social> deceive, lead on, delude, cozen1 -- (be false to; be dishonest with)
+           => {02497828} <verb.social> victimize1, victimise1 -- (make a victim of; "I was victimized by this con-man")
+               => {02438990} <verb.social> wrong -- (treat unjustly; do wrong to)
+                   => {02439188} <verb.social> treat, handle3, do by -- (interact in a certain way; "Do right by her"; "Treat him with caution, please"; "Handle the press reporters gently")
+                       => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                           => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

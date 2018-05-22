@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA3415
+
+DADO O SYNSET:
+
+S='Glosa3415'
+	    {
+	      apupar: Uma ruma de gente no aeroporto aplaudiu a polícia e I]apupou o mau elemento.,
+	      assobiar: Enquanto Pierre Monteux regia corajosamente a orquestra, a platéia I]assobiava, gritava e insultava.,
+	      assoviar: I]Assoviou o tempo todo enquanto o entrevistador falava. ,
+	      matraquear: M]Matraquearam o orador. ,
+	      sobiar: x,
+	      vaiar: Antes, ela [vaiava e os jogadores ficavam nervosos, disse o meia Rivaldo.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3415' = “fazer um som agudo de vaia, para mostrar desaprovação”
+	     {apupar: Uma ruma de gente no aeroporto aplaudiu a polícia e I]apupou o mau elemento.,
+	      assobiar: Enquanto Pierre Monteux regia corajosamente a orquestra, a platéia I]assobiava, gritava e insultava.,
+	      assoviar: I]Assoviou o tempo todo enquanto o entrevistador falava.,
+	      matraquear: M]Matraquearam o orador.,
+	      vaiar: Parte da platéia [vaiou o candidato e pediu que o show começasse logo.,}
+Chave: VAIAR <verb.communication>
+ILI: 01020041
+
+Sense 1
+{01020041} <verb.communication> hiss, siss, sizz, sibilate -- (make a sharp hissing sound, as if to show disapproval)
+       => {00951670} <verb.communication> utter2, emit, let out2, let loose -- (express audibly; utter sounds (not necessarily words); "She let out a big heavy sigh"; "He uttered strange sounds that nobody could understand")

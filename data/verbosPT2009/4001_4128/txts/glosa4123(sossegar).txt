@@ -1,0 +1,56 @@
+ANÁLISE DA GLOSA4123
+
+DADO O SYNSET:
+
+S='Glosa4123'
+{acalentar: Protesta a desigualdade social, denuncia os acomodados, I]acalenta os carentes de sossego.,
+achanar: A muito custo H]achanou o rapaz.,
+acomodar: A]Acomodava pessoas desavindas.,
+apacificar: x,
+apaziguar: O prefeito soube M]apaziguar a população.,
+aquedar: A música suave fazia-o H]aquedar.,
+aquietar: O Joca colocava ordem nos bagunceiros e I]aquietava as crianças que choravam na igreja.,
+asserenar: x,
+contemporizar: Juliana se defendeu das acusações e I]contemporizou a situação.,
+desanuviar: Com a recuperação do filho, o pai H]desanuviou.,
+descansar: Terry não I]descansou o espírito de luta nos últimos anos.,
+desencrespar: A boa-nova H]desencrespou seu semblante.,
+pacificar: A expansão marítima não I]pacificou os conflitos religiosos.,
+paziguar: x,
+quietar: A voz da mãe costuma H]quietar o bebê.,
+repoisar: x,
+repousar: Uma viagem H]repousa o espírito.,
+sedar: x,
+serenar: O encontro desta semana I]serenou os ânimos.,
+sossegar: Não I]sossegou enquanto não obteve informação sobre a situação em Criciúma.,
+tranqüilizar: O comportamento dos dois candidatos até agora não [tranqüilizou alguns veteranos das batalhas políticas do país.,}
+	  
+A='Glosa3208'
+{abalar, agitar, alterar, alvoroçar, alvorotar, azougar, conturbar, convulsionar, desacomodar, desassossegar, disturbar, inquietar, intranqüilizar, perturbar, preocupar, transtornar, vascolejar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4123' = “tornar calmo ou quieto”
+{acalentar: Protesta a desigualdade social, denuncia os acomodados, I]acalenta os carentes de sossego.,
+acomodar: A]Acomodava pessoas desavindas.,
+apaziguar: O prefeito soube M]apaziguar a população.,
+aquietar: O Joca colocava ordem nos bagunceiros e I]aquietava as crianças que choravam na igreja.,
+contemporizar: Juliana se defendeu das acusações e I]contemporizou a situação.,
+desanuviar: E pra [desanuviar a tensão no Oriente Médio eu vou contar uma piada.,
+descansar: Terry não I]descansou o espírito de luta nos últimos anos.,
+desencrespar: A boa-nova H]desencrespou seu semblante.,
+pacificar: A expansão marítima não I]pacificou os conflitos religiosos.,
+quietar: A voz da mãe costuma H]quietar o bebê.,
+repousar: Uma viagem H]repousa o espírito.,
+serenar: O encontro desta semana I]serenou os ânimos.,
+sossegar: Para [sossegar, só à base de tranqüilizantes.,
+tranqüilizar: O comportamento dos dois candidatos até agora não [tranqüilizou alguns veteranos das batalhas políticas do país.,}
+	  
+A='Glosa3208'
+{abalar, agitar, alterar, alvoroçar, alvorotar, azougar, conturbar, convulsionar, desacomodar, desassossegar, disturbar, inquietar, intranqüilizar, perturbar, preocupar, transtornar, vascolejar}
+Chave: SOSSEGAR <verb.emotion>
+ILI: 01713922
+
+Sense 2
+{01713922} <verb.emotion> calm, calm down, quiet, tranquilize, tranquillize, tranquillise, quieten, lull, still -- (make calm or still; "quiet the dragons of worry and fear")
+       => {01762034} <verb.emotion> comfort1, soothe, console, solace -- (give moral or emotional strength to)

@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA3886
+
+DADO O SYNSET:
+
+S='Glosa3886'
+    	{esmerilar: Acabamento: esquadrejar, lixar e I]esmerilar.,
+      	 esmerilhar: Nunca tente lixar, polir ou I]esmerilhar seu canivete, quer seja "custom", antigo ou comercial de qualidade. ,
+      	 polimentar: x,
+      	 polir: Esmeril é usado para fabricar lixas para I]polir metais.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3886' = “polir com uma pedra de amolar”
+    	{esmerilar: I]Esmerilaram os dentes do bichano na roda de amolar.,
+      	 esmerilhar: Equipamento que I]esmerilha trilho e também as rebarbas de soldas.,
+      	 polir: Durante séculos, as moças elegantes I]poliram as unhas com a ajuda de uma fina poeira abrasiva, geralmente de pedra-pomes.}
+Chave: ESMERILHAR <verb.contact>
+ILI: 01209496
+
+Sense 1
+{01209496} <verb.contact> hone -- (sharpen with a hone; "hone a knife")
+       => {01208916} <verb.contact> sharpen -- (make sharp or sharper; "sharpen the knives")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA2397
+
+DADO O SYNSET:
+
+S='Glosa2397'
+	    {compor-se: Pode I]compor-se um alfabeto standard, em maiúsculas e minúsculas, números e símbolos gráficos.,
+	      consistir: A vegetação [consiste de gramíneas, com arbustos e pequenas árvores que crecem isolados.,
+	      constituir-se: A vegetação [se constitui de uma floresta de pinheiros, abetos, cedros, arbustos e ervas.,
+	      formar-se: Como já se sabe, os ratos que aparecem não [se formam a partir da receita dada por von Velmont, mas são atraídos pela mistura.,
+	      organizar-se: Aquele comerciante que [se organiza em grupos para contratar exterminadores também é violento e mete medo. # Através de cada uma delas, teremos uma visão ampla sobre como [se organiza o espaço rural nas diversas regiões do globo terrestre.,
+	      tecer-se: Essa descoberta torna evidente o fato de que, ao redor da prática antropofágica americana, começa a I]tecer-se um sistema de traduções, tanto da alteridade americana em face da Europa, quanto das novas e inquietantes alteridades culturais européias.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2397' = “Ser constituído de.”
+	    {compor-se: O calendário em epígrafe I]compunha-se de 18 meses de 20 dias cada.,
+	      consistir: A vegetação [consiste de gramíneas, com arbustos e pequenas árvores que crecem isolados.,
+	      constituir-se: A vegetação [se constitui de uma floresta de pinheiros, abetos, cedros, arbustos e ervas.,
+	      formar-se: A península I]formava-se de alguns ducados, reinos e repúblicas.,
+	      organizar-se: A FNFi I]organizava-se em departamentos onde localizavam-se os cursos mencionados acima.,
+	      tecer-se: O quotidiano das dúvidas I]tecia-se em respostas incertas.,}
+
+Chave: COMPOR-SE <verb.stative>
+ILI: 02554853
+
+Sense 4
+{02554853} <verb.stative> consist1, comprise1 -- (be composed of; "The land he conquered comprised several provinces"; "What does this dish consist of?")
+       => {02526983} <verb.stative> be3 -- (have the quality of being; (copula, used with an adjective or a predicate noun); "John is rich"; "This is not a good answer") 

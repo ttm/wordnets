@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0120
+
+DADO O SYNSET:
+
+S='Glosa120'
+{seguir: Você não acha que muitos países deveriam [seguir o exemplo do Japão para fazer frente às grandes necessidades alimentares de sua população? ,
+tomar: Só em uma família autêntica, unida, duradoura e amorosa os filhos podem alcançar a maturidade e I]tomar o exemplo de amor gratuito, fidelidade, dedicação recíproca e respeito pela vida.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa120' = “ser condescendente; acompanhar; agir de acordo com”
+{seguir: Você não acha que muitos países deveriam [seguir o exemplo do Japão para fazer frente às grandes necessidades alimentares de sua população? ,
+tomar: Só em uma família autêntica, unida, duradoura e amorosa os filhos podem alcançar a maturidade e I]tomar o exemplo de amor gratuito, fidelidade, dedicação recíproca e respeito pela vida.,}
+Chave: SEGUIR <verb.social>
+ILI: 02467166
+
+Sense 1
+{02467166} <verb.social> comply, follow, abide by -- (act in accordance with someone's rules, commands, or wishes; "He complied with my instructions"; "You must comply or else!"; "Follow these simple rules"; "abide by the rules")
+       => {02467663} <verb.social> obey -- (be obedient to)
+           => {00144751} <verb.change> adjust1, conform1, adapt2 -- (adapt or conform oneself to new or different conditions; "We must adjust to the bad economic situation")
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

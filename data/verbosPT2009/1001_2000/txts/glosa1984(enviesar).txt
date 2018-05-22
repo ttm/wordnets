@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA1984
+
+DADO O SYNSET:
+
+S='Glosa1984'
+{enviesar: A sogra I]enviesou o olhar: - Então, só pode ser cartinha de amante! Homem adora fazer propaganda! ,
+ esguelhar: O velho I]esguelhou uma mirada de curiosidade na direcção do rapaz e bateu três pancadas na porta. ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1984' = “influenciar de modo desfavorável”
+{enviesar: Este resultado deve ser interpretado com cuidado em função do pequeno número de observações, que certamente I]enviesou o resultado.,}
+Chave: ENVIESAR <verb.competition>
+ILI: 01540387
+
+Sense 1
+{01051176} <verb.competition> bias -- (influence in an unfair way; "you are biasing my choice by telling me yours")
+       => {00657380} <verb.cognition> prejudice, prepossess -- (influence (somebody's) opinion in advance)
+           => {02461275} <verb.social> influence, act upon, work10 -- (have and exert influence or effect; "The artist's work influenced the young painter"; "She worked on her friends to support the political candidate")
+               => {00132263} <verb.change> affect, impact, bear upon, bear on, touch on1, touch -- (have an effect upon; "Will the new rules affect me?")
+                   => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

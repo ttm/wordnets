@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA1460
+
+DADO O SYNSET:
+
+S='Glosa1460'
+{alisar: Colocar na prensa o tecido a ser estampado e realizar um pré-aquecimento de 3 segundos, apenas para I]alisar o tecido e retirar a umidade,
+ desamarrotar: Continuava a lavar e passar, mas estava ficando difícil fazer o vinco das calças e I]desamarrotar a gola das blusas,
+ desamassar: Célia costumava I]desamassar roupas no vapor quente do chuveiro de hotel,
+ desamolgar: H]Desamolgar uma chapa de alumínio.,
+ desenxovalhar: x,
+ deslisar: H]Deslisar as marcas do tecido,
+	 endireitar: DEVIANT,}
+
+A='Glosa3390'
+{amachucar, amarfanhar, amarrotar, amassar, amolgar, enrugar, enxovalhar, machucar, manusear}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1460' = “passar a ferro tornando-se sem vincos ou dobras”
+{alisar: Colocar na prensa o tecido a ser estampado e realizar um pré-aquecimento de 3 segundos, apenas para I]alisar o tecido e retirar a umidade.,
+ desamarrotar: O passador é um torso de seda que se enche de ar quente que I]desamarrota a camisa.,
+ desamassar: Célia costumava I]desamassar roupas no vapor quente do chuveiro de hotel.,}
+
+A='Glosa3390'
+{amachucar, amarfanhar, amarrotar, amassar, amolgar, enrugar, enxovalhar, machucar, manusear}
+Chave: DESAMARROTAR <verb.contact>
+ILI: 01350477
+
+Sense 1
+{01350477} <verb.contact> iron, iron out -- (press and smooth with a heated iron; "press your shirts")
+       => {01350260} <verb.contact> press1 -- (place between two surfaces and apply weight or pressure; "pressed flowers")
+           => {00450410} <verb.change> flatten, flatten out -- (become flat or flatter; "The landscape flattened")
+               => {00135866} <verb.change> change shape, change form, deform2 -- (assume a different shape or form)
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

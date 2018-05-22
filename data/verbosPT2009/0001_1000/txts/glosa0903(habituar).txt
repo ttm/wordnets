@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA0903
+
+DADO O SYNSET:
+
+S='Glosa903'
+{aclimar: Loisy pretendeu I]aclimar entre católicos esta indigna hipocrisia.,
+aclimatar: As acomodações foram desenhadas com a intenção de I]aclimatar os animais de rua para o convívio domiciliar.,
+aclimatizar: Se vai fazer quarentena ao peixe, deve I]aclimatizar o peixe à química da água do aquário de quarentena não à do aquário principal,
+acostumar: Até então, os treinos do Brasil vinham sendo realizados às 13h para [acostumar os jogadores ao horário em que a seleção fará as suas duas primeiras partidas na Copa.,
+climatizar: x,
+habituar: I]Habituá-lo física e psiquicamente ao esforço adicional que a invalidez obriga.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa903' = “adquirir psicologicamente ou físicamente o costume de algo”
+{aclimar: Loisy pretendeu I]aclimar entre católicos esta indigna hipocrisia.,
+aclimatar: As acomodações foram desenhadas com a intenção de I]aclimatar os animais de rua para o convívio domiciliar.,
+aclimatizar: Se vai fazer quarentena ao peixe, deve I]aclimatizar o peixe à química da água do aquário de quarentena não à do aquário principal,
+acostumar: Até então, os treinos do Brasil vinham sendo realizados às 13h para [acostumar os jogadores ao horário em que a seleção fará as suas duas primeiras partidas na Copa.,
+habituar: I]Habituá-lo física e psiquicamente ao esforço adicional que a invalidez obriga.,}
+Chave: HABITUAR <verb.change>
+ILI: 00264554
+
+Sense 2
+{00264554} <verb.change> habituate, accustom -- (make psychologically or physically used (to something); "She became habituated to the background music")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

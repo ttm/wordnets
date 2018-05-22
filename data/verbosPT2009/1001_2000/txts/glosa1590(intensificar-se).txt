@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA1590
+
+DADO O SYNSET:
+
+S='Glosa1590'
+{ampliar-se: Assim, torna-se vital I]ampliar-se as atividades de normalização, inclusive como suporte técnico à regulamentação técnica.,
+ dilatar-se: Para quem conhece a Baixa, salta à vista que o comércio está a I]dilatar-se para espaços que antes não ocupava. ,
+ distender-se: Então subitamente a luz I]distendeu-se como se impelisse uma bola de caramelo, e de forma afunilada curvou-se para cima ao observá-la, num ângulo de 30 ou 40 graus. ,
+ intensificar-se: O reforço do trabalho conjunto em torno das vertentes política, econômica e cultural, deve prosseguir e I]intensificar-se.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1590' = “tornar-se mais intenso”
+{ampliar-se: Esse debate se [ampliou muito quando lancei o movimento neoconcreto, que é uma posição contrária à que ele defendia da arte concreta.,
+ dilatar-se: A sua fisionomia minguada I]dilatou-se ao brilho do seu olhar satisfeito.,
+ distender-se: Então subitamente a luz I]distendeu-se como se impelisse uma bola de caramelo, e de forma afunilada curvou-se para cima ao observá-la, num ângulo de 30 ou 40 graus.,
+ intensificar-se: O reforço do trabalho conjunto em torno das vertentes política, econômica e cultural, deve prosseguir e I]intensificar-se.,}
+Chave: INTENSIFICAR-SE <verb.change>
+ILI: 00218994
+
+Sense 3
+{00218994} <verb.change> intensify, deepen -- (become more intense; "The debate intensified"; "His dislike for raw fish only deepened in Japan")
+       => {00150804} <verb.change> increase -- (become bigger or greater in amount; "The amount of work increased")
+           => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

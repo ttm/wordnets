@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA2781
+
+DADO O SYNSET:
+
+  S='Glosa2781'
+	    {recoitar: x,
+	      recoutar: x,
+	      recozer: Deve-se I]recozer o arame entre os sucessivos passes de trefilação para recuperação da sua ductilidade e redução da dureza.,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2781' = “Endurecer (aço ou vidro) por um processo gradual de aquecimento e resfriamento”
+	    {recozer: Deve-se I]recozer o arame entre os sucessivos passes de trefilação para recuperação da sua ductilidade e redução da dureza.,}
+
+Chave: RECOZER <verb.change>
+ILI: 00293509
+
+Sense 1
+{00293509} <verb.change> anneal, temper4, normalize3 -- (toughen (steel or glass) by a process of gradually heating and cooling; "temper glass")
+       => {00293734} <verb.change> toughen -- (make tough or tougher; "This experience will toughen her")
+           => {00212992} <verb.change> strengthen -- (gain strength; "His body strengthened")
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night") 

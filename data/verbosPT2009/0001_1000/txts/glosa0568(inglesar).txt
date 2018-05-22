@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA0568
+
+DADO O SYNSET:
+
+S='Glosa568'
+{anglicizar: Simpson tomou aulas de dicção para [anglicizar sua fala.,
+anglizar: x,
+inglesar: Esta mania de I]inglesar as coisas aqui pelo nosso país é muito tola.,}
+A='Glosa1444'
+{desinglesar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa568' = “tornar Inglês”
+{anglicizar: Simpson tomou aulas de dicção para [anglicizar sua fala.,
+inglesar: Esta mania de I]inglesar as coisas aqui pelo nosso país é muito tola.,}
+A='Glosa1444'
+{desinglesar}
+Chave: INGLESAR <verb.change>
+ILI: 00291080
+
+Sense 2
+{00291080} <verb.change> anglicise, anglicize -- (make English; "She anglicised her name after moving from Paris to London")
+       => {00290397} <verb.change> adapt1, accommodate -- (make fit for, or change to suit a new purpose; "Adapt our native cuisine to the available food resources of the new country")
+           => {00118358} <verb.change> change2, alter, vary1 -- (make or become different in some particular way, without permanently losing one's or its former characteristics or essence; "her mood changes in accordance with the weather"; "The supermarket's selection of vegetables varies according to the season")

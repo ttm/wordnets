@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0472
+
+DADO O SYNSET:
+
+S='Glosa472'
+{alcalinar: x,
+alcalinizar: Como saber se aquela pedra ou concha irá I]alcalinizar a água do aquário?,
+alcalizar: Este é o processo e instalação para I]alcalizar e pasteurizar as sementes de cacau antes do seu esmagamento.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa472' = “tornar alcalino”
+{alcalinizar: Como saber se aquela pedra ou concha irá I]alcalinizar a água do aquário?,
+alcalizar: Este é o processo e instalação para I]alcalizar e pasteurizar as sementes de cacau antes do seu esmagamento.,}
+Chave: ALCALINIZAR <verb.change>
+ILI: 00129848
+
+Sense 1
+{00129848} <verb.change> alkalinize1, alkalinise1 -- (become alkaline)
+       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA1631
+
+DADO O SYNSET:
+
+S='Glosa1631'
+{dopar: A Fifa já marcou para agosto o julgamento do craque argentino Maradona, acusado de se [dopar às vésperas da peleja entre a sua seleção e a equipe da Nigéria, pela fase de classificação da Copa dos EUA .,
+ drogar: A Base está sendo acusada de usar crianças em filmes e fotos pornográficos e de [drogar e abusar sexualmente dos alunos, com idade de até 6 anos .,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1631' = “dar um narcótico [a]”
+{dopar: Empregada é acusada de [dopar patroas no Rio.,
+ drogar: A Base está sendo acusada de usar crianças em filmes e fotos pornográficos e de [drogar e abusar sexualmente dos alunos, com idade de até 6 anos.,}
+Chave: DOPAR <verb.body>
+ILI: 00082610
+
+Sense 1
+{00082610} <verb.body> dope, dope up -- (give a narcotic to; "The athletes were dope by the coach before the race")
+       => {00082302} <verb.body> drug, dose -- (administer a drug to; "They drugged the kidnapped tourist")
+           => {00081830} <verb.body> medicate, medicine -- (treat medicinally, treat with medicine)
+               => {00076458} <verb.body> treat, care for -- (provide treatment for; "The doctor treated my broken leg"; "The nurses cared for the bomb victims"; "The patient must be treated right away or she will die"; "Treat the infection with antibiotics")

@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA1274
+
+DADO O SYNSET:
+
+S='Glosa1274'
+{desamuar: M]Desamuar uma criança.,
+ desembezerrar: x,
+ desemburrar: Para H]desemburrar a criança foi preciso muita paciência.,
+ desemburricar: x,}
+	  
+A='Glosa1681'
+	    {amuar, emburrar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1274' = “fazer sair do estado de amuo”
+{desemburrar: O conde Mecdunn ficou impressionado com a ousadia do jovem. Mas I]desemburrou a cara ao ter uma idéia.,}
+A='Glosa1681'
+{amuar, emburrar}
+Chave: DESEMBURRAR <verb.emotion>
+ILI: EQ_HAS_HYPERONYM – 01760827 – “tornar contente ou feliz”
+
+Sense 1
+{01760827} <verb.emotion> gladden1, joy1 -- (make glad or happy)

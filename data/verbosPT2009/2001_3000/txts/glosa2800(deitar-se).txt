@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA2800
+
+DADO O SYNSET:
+
+  S='Glosa2800'
+	    {acomodar-se: Mas é possível I]acomodar-se em casas de moradores locais por preços bem mais em conta. ,
+	      deitar-se: Trate de levantar-se sempre na mesma hora, não importando a hora que tenha ido I]deitar-se.,
+	      recolher-se: Ela deixou o padre para I]recolher-se aos aposentos.,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2800' = “Ir para a cama com o propósito de dormir”
+	    { acomodar-se: Esperou o cavaleiro acordar, apear e farejou o cocho. Comeu e I]se acomodou para dormir
+                  deitar-se: Pagou a diária e após tomar um banho I]deitou-se para dormir.,
+	      recolher-se: I]Recolheu-se aos seus aposentos e só pensou em dormir.,}
+
+Chave: DEITAR-SE <verb.body>
+ILI: 00017552
+
+Sense 1
+{00017552} <verb.body> go to bed, turn in, bed, crawl in, kip down, hit the hay, hit the sack, sack out, go to sleep1, retire -- (go to bed in order to sleep; "I usually turn in at midnight"; "He turns out at the crack of dawn") 

@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA0256
+
+DADO O SYNSET:
+
+S='Glosa256'
+{abjurar: Quando eles souberam que Loredano era um frade que [abjurara dos seus votos, ergueram-se furiosos, e quiseram procurá-lo e espedaçá-lo,
+apostasiar: x,
+apostatar: Infiéis, resolveram H]apostatar daqueles princípios.,
+arrenegar: Para quem chegou, como eu, a [arrenegar deste casamento, era duro confessar que ele foi uma verdadeira bênção do céu,
+perjurar: H]Perjurou todas as crenças.,
+renegar: Sofri quinze anos de exílio sem [renegar minhas convicções. # Por que haveria de [renegar a sua condição de intelectual quando é esta a sua maior força?,
+renunciar: A aplicação conseqüente do critério sartriano nos obrigaria a [renunciar às mais altas atividades do espírito para apenas lutar pelos ideais políticos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa256' = “rejeitar formalmente ou repudiar uma crença anterior”
+{abjurar: Quando eles souberam que Loredano era um frade que [abjurara dos seus votos, ergueram-se furiosos, e quiseram procurá-lo e espedaçá-lo,
+apostatar: Waldir , você I]apostatou da fé ? Que vergonha.,
+arrenegar: Para quem chegou, como eu, a [arrenegar deste casamento, era duro confessar que ele foi uma verdadeira bênção do céu,
+perjurar: I]perjurou dos sagrados juramentos com que todo o Brasil se uniu ao pacto da Monarquia Portuguesa Regenerada.,
+renegar: Sofri quinze anos de exílio sem [renegar minhas convicções. # Por que haveria de [renegar a sua condição de intelectual quando é esta a sua maior força?,
+renunciar: A aplicação conseqüente do critério sartriano nos obrigaria a [renunciar às mais altas atividades do espírito para apenas lutar pelos ideais políticos.,}
+Chave: ABJURAR <verb.communication>
+ILI: 00772899
+
+Sense 1
+{00772899} <verb.communication> abjure, recant, forswear, retract, resile -- (formally reject or disavow a formerly held belief, usually under pressure; "He retracted his earlier statements about his religion"; "She abjured her beliefs")
+       => {00732724} <verb.communication> renounce, repudiate -- (cast off or disown; "She renounced her husband"; "The parents repudiated their son")
+           => {00662708} <verb.cognition> reject -- (refuse to accept or acknowledge; "I reject the idea of starting a war"; "The journal rejected the student's paper")
+               => {00647983} <verb.cognition> judge -- (form an opinion of or pass judgment on; "I cannot judge some works of modern art")
+                   => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

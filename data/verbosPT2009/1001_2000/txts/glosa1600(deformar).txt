@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA1600
+
+DADO O SYNSET:
+
+S='Glosa1600'
+{deformar: O fogo I]deformou as estantes metálicas dentro do submarino, mas não atingiu os documentos.,
+ desfigurar: O projeto gerou polêmica entre a direção do museu e urbanistas, que acreditam que o painel pode [desfigurar o projeto arquitetônico do prédio .,
+ desformar: VEDACIT RÁPIDO CL permite I]desformar com maior rapidez lajes, vigas e pilares. ,
+ deturpar: Rabiscos grosseiros H]deturpavam muros e fachadas.,
+	 disformar: A doença H]disformou-a.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1600' = “alterar a forma [de algo] por meio de força física”
+{deformar: O fogo I]deformou as estantes metálicas dentro do submarino, mas não atingiu os documentos.,
+ desfigurar: Reformas [desfiguraram a casa original.,
+ deturpar: Isto entrou, I]deturpou a árvore, comeu toda folha, toda casca, todo fruto, ficou apenas o toco.,
+	 disformar: Quando Palpi vira o Imperador sua aparência se transforma, o lado negro I]disforma seu rosto pelo poder absurdamente grande!,}
+Chave: DEFORMAR <verb.change>
+ILI: 00463437
+
+Sense 5
+{00463437} <verb.change> deform1, distort1, strain -- (alter the shape of (something) by stress; "His body was deformed by leprosy")
+       => {00137090} <verb.change> shape, form1 -- (give a shape or form to; "shape the dough")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

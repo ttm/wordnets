@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA3187
+
+DADO O SYNSET:
+
+S='Glosa3187'
+	    {
+	      ilhar-se: Naquele monumento à incompetência política brasileira, Leonice conseguiu I]ilhar-se num mundo só dela, ausente de tudo e de todos.,
+	      insular-se: Aplica-se à rotina saudável de I]insular-se, só ver os mais chegados amigos, caminhar pelas ruas num carro blindado, não ver nada que soe a horda.,
+	      isolar-se: O «anti-Lula» teria de ampliar, rumo à centro-esquerda, sua base eleitoral; teria de isolar o adversário, não [isolar-se a si próprio. ,
+	      seqüestrar-se: x,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3187' = “excluir-se”
+	     {ilhar-se: I]Ilhara-se na rua Guanabara, número 50, para onde se mudara poucos meses antes.,
+	      insular-se: Emily é uma poetisa, que em função das inúmeras perdas sofridas durante sua existência, I]insulou-se completamnete do mundo exterior.,
+	      isolar-se: Aos poucos, a menina I]isolou-se de tal maneira que o mundo à sua volta parecia não existir. ,}
+Chave: ISOLAR-SE <verb.change>
+ILI: 00480883
+
+Sense 1
+{00480883} <verb.change> isolate, insulate -- (place or set apart; "They isolated the political prisoners from the other inmates")
+       => {02437378} <verb.social> discriminate12, separate, single out -- (treat differently on the basis of sex or race)
+           => {00628816} <verb.cognition> distinguish, separate1, differentiate1, secern1, secernate, severalize, severalise, tell1, tell apart -- (mark as different; "We distinguish several kinds of maple")
+               => {00598581} <verb.cognition> identify, place -- (recognize as being; establish the identity of someone or something; "She identified the man on the 'wanted' poster")
+                   => {00676553} <verb.cognition> determine1, set4 -- (fix conclusively or authoritatively; "set the rules")

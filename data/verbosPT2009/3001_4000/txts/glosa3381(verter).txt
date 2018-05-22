@@ -1,0 +1,51 @@
+ANÁLISE DA GLOSA3381
+
+DADO O SYNSET:
+
+S='Glosa3381'
+	    {
+	      arrebentar: x,
+	      brotar: A água da Mina do Lago, na realidade, [brotava de uma grande Serra e emergia por entre duas enormes pedras, causando uma admirável visão.,
+	      defluir: O rio H]deflui serenamente.,
+	      derivar: A água H]derivava da nascente para uma represa.,
+	      dimanar: A água H]dimanava de uma fonte próxima. # Um córrego H]dimanava por entre pedras e musgos.,
+	      escorrer: Outros tantos foram enterrados pela lava incandescente que [escorria do vulcão.,
+	      espipar: O vinho H]espipou do tonel.,
+	      fluir: Conta-se que a magia e o destino conduziram-no certo dia a uma abertura cavernosa na qual um rio escondido I]fluía a partir do Mithrim.,
+	      jorrar: E ameaça ser mais desastroso nos próximos meses, a menos que, de repente, comece a [jorrar leite e mel de nossas torneiras.,
+	      manar: Do cume, I]manavam águas límpidas que corriam entre pedras muito brancas. ,
+	      marejar: Luzia ouvia calada, com os olhos fitos na cacimba, onde a água I]marejava lentamente.,
+	      minar: Em um dos meses, os engenheiros estavam enfrentando dificuldades com a água que I]minava do solo.,
+	      rebentar: Lágrimas H]rebentaram de seus olhos.,
+	      sair: Ali, a água H]sai em fios da parede da rocha.,
+	      surdir: Em cada canto a água H]surdia.,
+	      verter: Daiana de Oliveira Andrade se surpreendeu, desde o nascimento da filha Luana, com a grande quantidade de leite que I]vertia de suas mamas.,
+	      vir: Cavaram o chão e a água H]veio com força.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3381' = “fluir em um jorro”
+	     {brotar: A água da Mina do Lago, na realidade, [brotava de uma grande Serra e emergia por entre duas enormes pedras, causando uma admirável visão.,
+	      defluir: O rio H]deflui serenamente.,
+	      derivar: A água H]derivava da nascente para uma represa.,
+	      dimanar: A água H]dimanava de uma fonte próxima. # Um córrego H]dimanava por entre pedras e musgos.,
+	      escorrer: Água I]escorria da bica e ela passava o pano ensaboado nos talheres.,
+	      espipar: O vinho H]espipou do tonel.,
+	      fluir: Conta-se que a magia e o destino conduziram-no certo dia a uma abertura cavernosa na qual um rio escondido I]fluía a partir do Mithrim.,
+	      jorrar: Originalmente a água I]jorrava da boca de uma máscara esculpida em pedra, localizada ao fundo do nicho, atualmente desaparecida.,
+	      manar: O suor I]manava-lhe dos poros, as pernas se emperravam enterrando-se na areia.,
+	      marejar: Luzia ouvia calada, com os olhos fitos na cacimba, onde a água I]marejava lentamente.,
+	      minar: A escola foi construída em cima de nascentes, por isso a I]água minava do chão.,
+	      rebentar: As lágrimas I]rebentavam-lhe dos olhos celeremente.,
+	      sair: Ali, a água H]sai em fios da parede da rocha.,
+	      surdir: Em cada canto a água H]surdia.,
+	      verter: Outro rio, o Glacial, I]vertia para leste, ao longo do lado brituniano das Montanhas Graaskal.,
+	      vir: Cavaram o chão e a água H]veio com força.,}
+Chave: VERTER <verb.motion>
+ILI: 02010665
+
+Sense 4
+{02010665} <verb.motion> pour2 -- (flow in a spurt; "Water poured all over the floor")
+       => {02008364} <verb.motion> run1, flow, feed4, course -- (move along, of liquids; "Water flowed into the cave"; "the Missouri feeds into the Mississippi")
+           => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right")

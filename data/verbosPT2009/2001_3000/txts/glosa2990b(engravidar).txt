@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSAb
+
+DADO O SYNSET:
+
+S='Glosa2990'
+	    {apejar: x,
+	      embarrigar: Culpa do meu pai, aquele crioulo sem vergonha que I]embarrigou minha mãe e depois sumiu num navio. ,
+	      emprenhar: Correião I]emprenhou Joana e, como não dava mais pra esconder, foi pedir a mão dela a seu Joaquim. ,
+	      engravidar: Ao tentar a reconciliação com o marido, [engravidou pela segunda vez e optou em fazer o aborto.,
+	      galar: x,
+	      gravidar: Quanto tempo antes de tentar I]gravidar devo deixar de tomar o anticoncepcional?,
+	      pejar: Todos os anos o camponês H]pejava a mulher.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2990b' = “tornar grávida”
+	    {embarrigar: Culpa do meu pai, aquele crioulo sem vergonha que I]embarrigou minha mãe e depois sumiu num navio.,
+	      emprenhar: Moça que muito olha o rio, ou I]emprenhou ou quer emprenhar.,
+	      engravidar: Ao tentar a reconciliação com o marido, [engravidou pela segunda vez e optou em fazer o aborto.,
+	      gravidar: Quanto tempo antes de tentar I]gravidar devo deixar de tomar o anticoncepcional?,
+	      pejar-se: Marta já se pejou duas vezes de gêmeos.,}
+Chave: ENGRAVIDAR <verb.body>
+ILI: EQ_HAS_HYPERONYM - 00050755
+
+Sense 3
+{00050755} <verb.body> inseminate, fecundate, fertilize, fertilise -- (introduce semen into (a female))
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA1828
+
+DADO O SYNSET:
+
+S='Glosa1828'
+    	{encaracolar-se: Mouco e de pequena estatura, os esbranquiçados cabelos e barbas I]encaracolavam-se deixando mostrar o rosto.,
+      	 encrespar-se: O cabelo deverá, quando seco, apresentar-se maleável ao penteado, sem ficar "elétrico" ou I]encrespar-se.,
+      	 enrolar-se: Os cabelos M]enrolavam-se-lhe em anéis.,}
+  
+A='Glosa1462'
+    	{desencrespar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1828' = “ficar com forma espiralada ou de cachos”
+    	{encaracolar-se: Mouco e de pequena estatura, os esbranquiçados cabelos e barbas I]encaracolavam-se deixando mostrar o rosto.,
+      	 encrespar-se: O cabelo deverá, quando seco, apresentar-se maleável ao penteado, sem ficar "elétrico" ou I]encrespar-se.,
+      	 enrolar-se: Os fios se I]enrolam todos num instante igual a uma coroa cacheada.,}
+  
+A='Glosa1462'
+    	{desencrespar-se}
+Chave: ENCRESPAR-SE <verb.contact>
+ILI: 01186594
+
+Sense 4
+{01186594} <verb.contact> curl, wave1 -- (twist or roll into coils or ringlets; "curl my hair, please")
+       => {01185645} <verb.contact> twist -- (turn in the opposite direction; "twist a wire")
+           => {01851475} <verb.motion> turn -- (change orientation or direction, also in the abstract sense; "Turn towards me"; "The mugger turned and fled before I could see his face"; "She turned from herself and learned to listen to others' needs")
+               => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right")

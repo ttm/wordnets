@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0907
+
+DADO O SYNSET:
+
+S='Glosa907'
+{coexistir: É preciso considerar que, num mesmo nervo, podem [coexistir fibras nervosas capazes de levar informações e outras capazes de trazer respostas. # Livre mercado no país deve [coexistir com um Estado forte e pequeno, com ação dirigida para áreas sociais.,
+concorrer: Tal prazo será ampliável quando [concorrerem circunstâncias que o aconselhem, a critério do Defensor do Povo.,
+conviver: Distração, lazer e perigo I]convivem no mesmo endereço.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa907' = “acontecer simultaneamente”
+{coexistir: É preciso considerar que, num mesmo nervo, podem [coexistir fibras nervosas capazes de levar informações e outras capazes de trazer respostas. # Livre mercado no país deve [coexistir com um Estado forte e pequeno, com ação dirigida para áreas sociais.,
+concorrer: Tal prazo será ampliável quando [concorrerem circunstâncias que o aconselhem, a critério do Defensor do Povo.,
+conviver: Distração, lazer e perigo I]convivem no mesmo endereço.}
+Chave: COEXISTIR <verb.change>
+ILI: 00334196
+
+Sense 2
+{00334196} <verb.change> concur, coincide -- (happen simultaneously; "The two events coincided")
+       => {00329254} <verb.change> happen, hap, go on, pass off, occur, pass, fall out, come about, take place -- (come to pass; "What is happening?"; "The meeting took place off without an incidence"; "Nothing occurred that seemed important")

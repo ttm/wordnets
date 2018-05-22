@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA1742
+
+DADO O SYNSET:
+
+S='Glosa1742'
+    	{atascar-se: Na ultrapassagem de uma sequência de dunas, Carlos Sousa voou com a motocicleta sobre a primeira, ultrapassou a segunda, venceu a terceira e I]atascou-se contra a quarta. ,
+      	 atolar-se1: I]Atolar-se na lama que enche as ruas.,
+      	 embarrancar-se: x,
+      	 encharcar-se: Pode parecer esquisito, mas é bem atraente a possibilidade de I]encharcar-se na lama.,
+      	 envasar-se: x,}
+  
+A='Glosa1391'
+    	{desatascar-se, desatolar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1742' = “ficar incapacitado de mover-se” 
+    	{atascar-se: Enquanto a República I]atasca-se num lodaçal, parlamentares dedicam-se a legislar sobre quem pode ou não interpretar os desejos dos céus..,
+      	 atolar-se1: Quando o carro e os bois I]atolaram-se num pântano, antes de fazer um mínimo de esforço, seu guieiro implorou a todos os deuses e deusas que o ajudassem.,}
+  
+A='Glosa1391'
+    	{desatascar-se, desatolar-se}
+Chave: ATOLAR-SE <verb.motion>
+ILI: 01781511
+
+Sense 3
+{01781511} <verb.motion> grind to a halt, get stuck, bog down, mire -- (be unable to move further; "The car bogged down in the sand")
+       => {01781100} <verb.motion> stand still -- (remain in place; hold still; remain fixed or immobile; "Traffic stood still when the funeral procession passed by")

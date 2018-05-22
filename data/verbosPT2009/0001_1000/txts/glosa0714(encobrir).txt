@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA0714
+
+DADO O SYNSET:
+
+S='Glosa714'
+{cerrar: E desaparecendo diante de meus olhos, atrás do prédio desta cidade que nada faz que não I]cerrar minha visão.,
+encobrir: Uma imensa nuvem de poeira poderia subir na atmosfera, [encobrindo o Sol.,
+tapar: Parece que procura, respondeu Raimundo [tapando o riso com a mão; mas eu tranquei ele no quarto, para não fugir.,}
+A='Glosa1550'
+{destampar, destapar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa714' = “impedir de ver; esconder da visão ou conhecimento”
+{cerrar: E desaparecendo diante de meus olhos, atrás do prédio desta cidade que nada faz que não I]cerrar minha visão.,
+encobrir: Uma imensa nuvem de poeira poderia subir na atmosfera, [encobrindo o Sol.,
+tapar: Parece que procura, respondeu Raimundo [tapando o riso com a mão; mas eu tranquei ele no quarto, para não fugir.,}
+A='Glosa1550'
+{destampar, destapar}
+Chave: ENCOBRIR <verb.perception>
+ILI: 02086440
+
+Sense 11
+{02086440} <verb.perception> cover12, cover up -- (hide from view or knowledge; "The President covered the fact that he bugged the offices in the White House")
+       => {02082942} <verb.perception> hide, conceal1 -- (prevent from being seen or discovered; "Muslim women hide their faces"; "hide the money")

@@ -1,0 +1,39 @@
+ANÁLISE DA GLOSA4012
+
+DADO O SYNSET:
+
+S='Glosa4012'
+{caracterizar: Inicialmente é preciso que se faça uma observação quanto ao uso generalizado das expressões países desenvolvidos e subdesenvolvidos; para [caracterizar as sociedades ricas e as pobres em termos de produção e consumo de bens materiais .,
+caraterizar: O primeiro é identificar e I]caraterizar a postura fiscal dos estados brasileiros durante o período 1985-97.,
+destacar: A bela fantasia H]destacava-a das demais.,
+distinguir: Nas aves, a plumagem mais vistosa e colorida I]distingue os machos.,
+especializar: O que o H]especializa é a maneira inconfundível de dar as pinceladas.,
+individualizar: Entre nós e o outro criamos uma tênue fronteira que nos [individualiza .,
+individuar: O ato típico profissional consiste em I]individuar objetivamente e com método de síntese a atividade que põe em destaque as características essenciais da pesquisa.,
+particularizar: Esse último item é, no mais, o que [particularizou a obra do diretor .,
+privilegiar: Calssificou os documentos e A]privilegiou os que lhe pareceram mais relevantes.,
+singularizar: A vertente mais produtiva e inovadora dessa revolução, liderada pelo professor Paul Romer, da Universidade de Berkeley, [singulariza o conhecimento e em suas consequências econômicas como um fator central propulsor do processo de crescimento econômico .,}
+	  
+A='Glosa2248'
+{descaracterizar, desindividualizar, generalizar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4012' = “tornar, marcar ou tratar como individual”
+{caracterizar: Inicialmente é preciso que se faça uma observação quanto ao uso generalizado das expressões países desenvolvidos e subdesenvolvidos; para [caracterizar as sociedades ricas e as pobres em termos de produção e consumo de bens materiais .,
+especializar: O que o H]especializa é a maneira inconfundível de dar as pinceladas.,
+individualizar: Entre nós e o outro criamos uma tênue fronteira que nos [individualiza.,
+individuar: O ato típico profissional consiste em I]individuar objetivamente e com método de síntese a atividade que põe em destaque as características essenciais da pesquisa.,
+particularizar: Esse último item é, no mais, o que [particularizou a obra do diretor .,
+singularizar: A vertente mais produtiva e inovadora dessa revolução, liderada pelo professor Paul Romer, da Universidade de Berkeley, [singulariza o conhecimento e em suas consequências econômicas como um fator central propulsor do processo de crescimento econômico .,}
+	  
+A='Glosa2248'
+{descaracterizar, desindividualizar, generalizar}
+Chave: INDIVIDUALIZAR <verb.cognition>
+ILI: 00630040
+
+Sense 1
+{00630040} <verb.cognition> individualize, individualise -- (make or mark aor treat as individual; "The sounds were individualized by sharpness and tone")
+       => {00628816} <verb.cognition> distinguish, separate1, differentiate1, secern1, secernate, severalize, severalise, tell1, tell apart -- (mark as different; "We distinguish several kinds of maple")
+           => {00598581} <verb.cognition> identify, place -- (recognize as being; establish the identity of someone or something; "She identified the man on the 'wanted' poster")
+               => {00676553} <verb.cognition> determine1, set4 -- (fix conclusively or authoritatively; "set the rules")

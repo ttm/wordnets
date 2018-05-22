@@ -1,0 +1,82 @@
+ANÁLISE DA GLOSA4047
+
+DADO O SYNSET:
+
+S='Glosa4047'
+{acabar: Assim Moisés I]acabou a obra.,
+aprontar: Não reclama se a mamãe ainda não I]aprontou o almoço quando você chega.,
+arrematar: H]Arrematou a tarefa depois de anos.,
+cerrar: O contador H]cerrou o inventário.,
+complementar: Para I]complementar o curso técnico de programação, o profissional anônimo lia, praticava e fazia muitos contatos.,
+completar: Os alunos têm 2 meses para I]completar o curso.,
+concluir: Acresce que, para I]concluir o curso, o estudante deve ser aprovado em dois idiomas de línguas estrangeiras, entre os quais um é obrigatoriamente de inglês.,
+consumar: Estando para I]consumar a obra que o Pai lhe confiara, Jesus promete o envio do Espírito Santo que continua e aprofunda a própria missão de Cristo.,
+desfechar: O que começou como festa acabou H]desfechando em drama.,
+encerrar: Sem recursos para I]concluir a obra, as freiras estão às voltas com a cobrança do Imposto Predial e Territorial Urbano (IPTU). ,
+enfenecer: x,
+epilogar: Os espirituosos comentários do autor H]epilogaram a narrativa.,
+expirar: O prazo máximo para reposição ou indenização é de 60 (sessenta) dias, contados a partir da data em que I]expirou o prazo para devolução.,
+fechar: Novembro I]fecha com a morte de 79 soldados.,
+fenecer: H]Fenecem-lhe as últimas esperanças.,
+finalizar: I]Finalize bem os seus projetos utilizando nossos produtos. ,
+finar-se: M]Finaram-se as belas tradições.,
+findar: Ao I]findar o trabalho cada um ficará com algumas limitações e algumas potencialidades, uma vez que muitas deverão ter sido anuladas.,
+inteirar: M]Inteiraremos esta obra dentro de um ano.,
+liquidar: H]Liquidou toda e qualquer concorrência ao seu negócio.,
+liqüidar: x,
+morrer: O rio daquela cidade I]morre no mar.,
+perfazer: H]Perfez uma tarefa para depois começar outra.,
+prontificar: H]Prontificou o relatório logo depois do almoço.,
+rematar: A confusão H]rematou de maneira surpreendente.,
+selar1: I]Selou a tese antes do previsto.,
+terminar: Vicentinho pode não ter gostado do resultado do acordo, mas [terminou as negociações, como se vê, com boa impressão dos negociadores .,
+trancar: A]Trancaram a discussão sem entendimento.,
+ultimar: Deu aparelhagem ao Hospital Adauto Botelho e I]ultimou a obra do hospital dos tuberculosos.,
+vencer: Saiu assim que a hora de trabalho A]venceu.,}
+	  
+A='Glosa3140'
+{abrir, começar, encetar, entabular, entrar, estabelecer, estrear, incoar, iniciar, principiar, puxar, romper, travar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4047' = “pôr fim [em] ou parar” 
+{acabar: Assim Moisés I]acabou a obra., 
+arrematar: H]Arrematou a tarefa depois de anos., 
+cerrar: O contador H]cerrou o inventário., 
+complementar: Uma equipe de três apuradores I]complementou a tarefa., 
+completar: Os alunos têm 2 meses para I]completar o curso., 
+concluir: Acresce que, para I]concluir o curso, o estudante deve ser aprovado em dois idiomas de línguas estrangeiras, entre os quais um é obrigatoriamente de inglês.,  
+consumar: Estando para I]consumar a obra que o Pai lhe confiara, Jesus promete o envio do Espírito Santo que continua e aprofunda a própria missão de Cristo.,  
+desfechar: I]Desfechou a operação logo às 12h30, pegando o mercado de surpresa., 
+encerrar: Quando o seguro árbitro Léo Feldman [encerrou a partida, os torcedores permaneceram por alguns segundos sentados nas arquibancadas e cadeiras, dando a nítida impressão de que esperavam por mais., 
+epilogar: Os espirituosos comentários do autor H]epilogaram a narrativa., 
+finalizar: I]Finalize bem os seus projetos utilizando nossos produtos. , 
+findar: Os brasileiros com seus próprios esforços I]findaram um período intenso de lutas., 
+inteirar: M]Inteiraremos esta obra dentro de um ano.,
+perfazer: H]Perfez uma tarefa para depois começar outra.,
+rematar: Min. Marco Aurélio I]rematou a controvérsia declarando a inconstitucionalidade do alargamento da definição de faturamento.,
+selar1: I]Selou a tese antes do previsto.,
+terminar: Vicentinho pode não ter gostado do resultado do acordo, mas [terminou as negociações, como se vê, com boa impressão dos negociadores .,
+trancar: A]Trancaram a discussão sem entendimento.,
+ultimar: Deu aparelhagem ao Hospital Adauto Botelho e I]ultimou a obra do hospital dos tuberculosos.,}
+	  
+A='Glosa3140'
+{abrir, começar, encetar, entabular, entrar, estabelecer, estrear, incoar, iniciar, principiar, puxar, romper, travar}
+Chave: TERMINAR <verb.change>
+ILI: 00341640
+
+Sense 1
+{00341640} <verb.change> end1, terminate1 -- (bring to an end or halt; "She ended their friendship when she found out that he had once been convicted of a crime"; "The attack on Poland terminated the relatively peaceful period after WWI")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")
+
+
+
+
+
+
+
+
+
+
+
+

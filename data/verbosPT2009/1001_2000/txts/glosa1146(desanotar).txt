@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA1146
+
+DADO O SYNSET:
+
+S='Glosa1146'
+{desanotar: Eu estou cansado de ver meus companheiros de batalha não I]desanotar os pontos de vida que acabaram de perder ou até dizer que acertaram aquele ataque que seria decisivo para suas vidas,}
+	  
+A='Glosa3895'
+{anotar, apontar, notar, pontar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1146' = “desfazer/apagar anotação”
+{desanotar: Se você tem aí anotado o meu email, pode I]'desanotar'.,}
+A='Glosa3895'
+{anotar, apontar, notar, pontar}
+Chave: DESANOTAR <verb.contact>
+ILI: EQ_HAS_HYPERONYM - 01505928 - “remover friccionando/apagando ou como se friccionasse/apagasse”
+
+Sense 1
+{01505928} <verb.contact> erase, rub out, score out, efface, wipe off1 -- (remove by or as if by rubbing or erasing; "Please erase the formula on the blackboard--it is wrong!")
+       => {01506397} <verb.contact> delete, cancel -- (remove or make invisible; "Please delete my name from your list")
+           => {00166870} <verb.change> remove, take, take away1, withdraw1 -- (remove something concrete, as by lifting, pushing, taking off, etc. or remove something abstract; "remove a threat"; "remove a wrapper"; "Remove the dirty dishes from the table"; "take the gun from your pocket"; "This machine withdraws heat from the environment")

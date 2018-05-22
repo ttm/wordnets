@@ -1,0 +1,63 @@
+ANÁLISE DA GLOSA2954
+
+DADO O SYNSET:
+
+S='Glosa2954'
+	    {abster-se: Todos se H]abstiveram diante da solução heróica que o problema exigia.,
+	      amansar-se: Sua ira nunca se H]amansa.,
+	      amesurar-se: x,
+	      coibir-se: São medidas consideradas impopulares, porém, essa é a única forma de se [coibir os abusos.,
+	      comedir-se: H]Comedir-se no comer.,
+	      conter-se: Os menores de 18 anos constituem um dos principais problemas para se [conter a violência entre os torcedores de futebol. ,
+	      controlar-se: O cigarro é uma das melhores, mais eficientes e civilizadas maneiras de se [controlar a ansiedade numa situação que deixa muitas pessoas bastante nervosas e inseguras, como voar.,
+	      enfrenar-se: x,
+	      frear-se: H]Freou-se, para não desatar a chorar.,
+	      frenar-se: x,
+	      mesurar-se: É sábio quem em tudo se M]mesura.,
+	      moderar-se: Uma observação mais atenta obriga a I]moderar-se o entusiasmo.,
+	      privar-se: DEVIANT,
+	      refrear-se: O rapaz ergueu a mão mais uma vez para bater na porta mas I]refreou-se.,
+	      reportar-se: Quis se H]reportar, mas ficou irado.,
+	      reprimir-se: Cuido que ele ia falar, mas I]reprimiu-se.,
+	      sufocar-se: x,
+	      suster-se: Sem poder H]suster-se, avançou sobre o provocador.,
+	      temperar-se: H]Temperou-se nas palavras.,}
+
+	  A='Glosa1541'
+	    {demasiar-se: A]Demasiou-se na bebida.,
+	     desbordar-se: A]Desbordava-se em exaltação.,
+	     descomedir-se: O rapaz M]descomediu-se em seus desabafos.,
+	     descompassar-se: H]Descompassou-se nas críticas ao colega.,
+	     descompor-se: Que o teria levado a I]descompor-se desta maneira, chegando ao ponto de endereçar-me injúrias e difamação?,
+	     desenfrear-se: O castigo de algum secular pelas desordens que cometeram podia levar o povo a I]desenfrear-se mais e tratar de maior vingança oculta.,
+	     desenfrenar-se: x,
+	     desmandar-se: Era moderado no beber, mas, ultimamente, A]desmandou-se.,
+	     desmedir-se: Em seus descuidos se M]desmede.,
+	     desordenar-se: H]Desordenou-se nos prazeres e nas despesas.,
+	     destemperar-se: H]Destempera-se por qualquer coisa.,
+	     exceder-se: Reclamou da Rede Globo, mas com tato, evitando [exceder-se.,
+	     exorbitar: Aquelas esposas revelaram toda sua indignação contra os destemperos de Gasperin, a quem acusaram de incitar a violência e I]exorbitar nas críticas.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2954' = “Diminuir a intensidade de; acalmar (-se); manter (-se) controlado; conter (-se) ou manter (-se) dentro dos limites”
+	    {abster-se: Mas Clinton I]se absteve de repetir as tradicionais posições dos EUA contra o Estado palestino e favoráveis ao reconhecimento internacional de Jerusalém como capital israelense.,
+	      coibir-se: A excelente senhora hesitou; o chique da neve atraía-a, mas coibiu-se com terror da cólica.,
+	      comedir-se: O avô se comedia nas palavras para não ofender as visitas., 
+	      conter-se: O italiano fez um movimento de raiva; mas I]conteve-se.,
+	      controlar-se: Dos fatos ocorridos dentro da sala só se tem notícia pelo depoimento do réu, que diz que foi agredido com uma bofetada mas I]controlou-se.,
+	      moderar-se: I]Moderou-se nas declarações que fez.,
+	      refrear-se: Quis fugir, mas I]refreou-se, sabia que não tinha para onde ir e pior... jamais conseguiria escapar do Demônio.,
+	      reprimir-se: Cuido que ele ia falar, mas I]reprimiu-se.,
+	      suster-se: Aires achou tão absurdo este pedido que esteve quase a rir, mas I]susteve-se bem.,
+	      temperar-se: Emílio jamais I]se temperou nas paixões.,}
+
+	  A='Glosa1541'
+	    {demasiar-se, desbordar-se, descomedir-se, descompassar-se, descompor-se, desenfrear-se, desmandar-se, desmedir-se, desordenar-se, destemperar-se, exceder-se	     exorbitar}
+Chave: MODERAR-SE <verb.social>
+ILI: 02435410
+
+Sense 3
+{02435410} <verb.social> control1, hold in, hold15, contain, check8, curb, moderate -- (lessen the intensity of; temper; hold in restraint; hold or keep within limits; "moderate your alcohol intake"; "hold your tongue"; "hold your temper"; "control your anger")
+       => {02349665} <verb.social> restrain1, suppress3, keep, keep back, hold back -- (keep under control; keep in check; "suppress a smile"; "Keep your temper"; "keep your cool")
+           => {02377053} <verb.social> prevent, keep1 -- (prevent from doing something or being in a certain state; "We must prevent the cancer from spreading"; "His snoring kept me from falling asleep"; "Keep the child from eating the marbles") 

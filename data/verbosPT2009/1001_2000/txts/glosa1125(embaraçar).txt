@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA1125
+
+DADO O SYNSET:
+
+S='Glosa1125'
+{carregar: DEVIANT,
+ embaraçar: Além do alcance político, a entrevista rendeu muitas piadas entre os humoristas do estado, já que despertou os nostálgicos e I]embaraçou os pais que tiveram que responder as perguntas de seus filhos, disse Kaplan.}
+	  
+A='Glosa4095'
+	    {aligeirar, alijar, aliviar, desabafar, desafogar, desalijar, descarregar, descarretar, desembaraçar, desencarregar, livrar, purgar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1125' = “tornar embaraçado, colocar em dificuldade”
+{embaraçar: Além do alcance político, a entrevista rendeu muitas piadas entre os humoristas do estado, já que despertou os nostálgicos e I]embaraçou os pais que tiveram que responder as perguntas de seus filhos, disse Kaplan.}
+A='Glosa4095'
+	    {aligeirar, alijar, aliviar, desabafar, desafogar, desalijar, descarregar, descarretar, desembaraçar, desencarregar, livrar, purgar}
+Chave: EMBARAÇAR <verb.emotion>
+ILI: 01740167
+
+Sense 1
+{01740167} <verb.emotion> embarrass, abash -- (cause to be embarrassed; cause to feel self-conscious)
+       => {01738090} <verb.emotion> upset1, discompose, untune, disconcert1, discomfit -- (cause to lose one's composure)
+           => {01708538} <verb.emotion> arouse, elicit, enkindle, kindle, evoke, fire, raise8, provoke -- (call forth (emotions, feelings, and responses); "arouse pity"; "raise a smile"; "evoke sympathy")
+               => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

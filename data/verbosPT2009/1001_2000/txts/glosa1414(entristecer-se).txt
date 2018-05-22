@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA1414
+
+DADO O SYNSET:
+
+S='Glosa1414'
+{atristar-se: Ele sabia que uma filha bem douradinha vinha a caminho e seria a salvação daquele povo cujo destino era I]atristar-se,
+ emurchecer-se: A moça H]emurchecia-se cada vez mais, encolhida num canto.,
+	 entristecer-se: Apenas a leu, D. Maria, não diremos que [se entristeceu, porém mostrou-se muito atrapalhada.,
+ estiolar-se: Entre a viola, o oratório, os maus exemplos da escravaria trapenta e rude, toda aquela mocidade I]estiolava-se, consumia-se.,
+ fanar-se: Compadeceu-se daquela vida, que era ainda tão tépida e bonita, mas que, provavelmente, estava próxima de empalidecer e I]fanar-se, como a vida dele.,
+ murchar-se: De lá para cá, os governadores [murcharam-se mais e mais,
+	 murchecer-se: x,}
+	  
+A='Glosa476'
+	
+A ANÁLISE RESULTA EM:
+
+S='Glosa1414' = “vir a sentir-se triste”
+{entristecer-se: Mrs K. interpretou que o submarino afundado representava o Papai e o peixe representava uma outra parte de seu ` self ' que se [entristecia com a destruição que ele tinha causado.,
+ fanar-se: Conseguira retirar de mim a capacidade de ser que não se I]fana ao pé do fado.,
+ murchar-se: De lá para cá, os governadores [murcharam-se mais e mais.,}
+	  
+A='Glosa476'
+Chave: ENTRISTECER-SE <verb.emotion>
+ILI: 01760721
+
+Sense 2
+{01760721} <verb.emotion> sadden -- (come to feel sad)
+       => {01720480} <verb.emotion> feel, experience -- (undergo an emotional sensation; "She felt resentful"; "He felt regret")

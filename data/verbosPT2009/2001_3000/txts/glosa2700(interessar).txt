@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA26700
+
+DADO O SYNSET:
+
+S='Glosa2700'
+	    {afetar: Embora a crítica tenha apreciado muito, a audiência não. Isso não I]afetou o jovem tanto assim já que ele saltou de volta - direto para as telonas.,
+	      concernir: O general opinou que o narcoterrorismo é a principal ameaça para a região e disse que é um assunto que não só I]concerne à Colômbia ou aos Estados Unidos, mas a toda a comunidade internacional.,
+	      convir: A sua aplicação ao Brasil I]convém aos interesses do establishment internacional e da minoria de brasileiros conectados aos circuitos externos de poder e dinheiro.,
+	      dar-se: x,
+	      importar: Em suma, não lhes [importam formas de governo, contanto que a sociedade fique firme ou se atire para diante.,
+	      interessar: Inocêncio Oliveira acrescentou que "a Sudene não I]interessa apenas ao Nordeste, mas a todo o Brasil, pois superar o desnível entre as regiões mais pobres e mais ricas é o grande desafio que todos os governos prometeram e até agora não cumpriram".,
+	      relevar: x,}
+
+	  A='Glosa444'
+	    {desinteressar: A política também começa a I]desinteressar a partir das críticas, denúncias, escândalos, que de certa forma afasta a sociedade do setor político.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2700' = “Ter a ver com ou ser relevante para.”
+	    {afetar: A decisão [afeta cerca de 300 casais estrangeiros.,
+	      concernir: A única questão séria que coloca a recente história do ex-ministro Ricupero [concerne não a ele, nem ao que ele disse, mas ao nosso país.,
+	      convir: É porque essa escolha [convinha a ambas as partes.,
+	      importar: Em cima disso pouco [importa questões pessoais ou de vaidade.,
+	      interessar: Inocêncio Oliveira acrescentou que "a Sudene não I]interessa apenas ao Nordeste, mas a todo o Brasil".,}
+
+	  A='Glosa444'
+	    {desinteressar}
+
+Chave: INTERESSAR <verb.stative>
+ILI: 02595351
+
+Sense 1
+{02595351} <verb.stative> refer, pertain1, relate, concern, come to3, bear on, touch, touch on -- (have to do with or be relevant to; "There were lots of questions referring to her talk"; "My remark pertained to your earlier comments") 

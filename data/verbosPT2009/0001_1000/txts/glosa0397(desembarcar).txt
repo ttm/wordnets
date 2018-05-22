@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0397
+
+DADO O SYNSET:
+
+S='Glosa397'
+{aportar: Os ingleses [aportaram lá pouco depois. # Quando os portugueses [aportaram por lá, por volta de 1460, porém, um processo de colonização foi levado a cabo.,
+desembarcar: Com o respaldo da Prefeitura de Roma, de esquerda, [desembarcaram na cidade 150 músicos baianos, mais representantes do candomblé, capoeira e samba.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa397' = “ir para terra (firme)”
+{aportar: Os ingleses [aportaram lá pouco depois. # Quando os portugueses [aportaram por lá, por volta de 1460, porém, um processo de colonização foi levado a cabo.,
+desembarcar: Com o respaldo da Prefeitura de Roma, de esquerda, [desembarcaram na cidade 150 músicos baianos, mais representantes do candomblé, capoeira e samba.,}
+Chave: DESEMBARCAR <verb.motion>
+ILI: 01921307
+
+Sense 1
+{01921307} <verb.motion> disembark, debark, set down -- (go ashore; "The passengers disembarked at Southampton")
+       => {01921967} <verb.motion> land, set down1 -- (reach or come to rest; "The bird landed on the highest branch"; "The plane landed in Istanbul")
+           => {01947900} <verb.motion> arrive, get, come4 -- (reach a destination; arrive by movement or progress; "She arrived home at 7 o'clock"; "She didn't get to Chicago until after midnight")

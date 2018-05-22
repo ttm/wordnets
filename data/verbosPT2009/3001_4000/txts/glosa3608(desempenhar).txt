@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA3608
+
+DADO O SYNSET:
+
+S='Glosa3608'
+	    {
+	      desempenhar: A formação é de bom nível, habilita o profissional a [desempenhar cargos que puxam pelo desenvolvimento e pesquisa. ,
+	      executar: Assim, cada etapa da produção passou a ser [executada por um único artesão. / José Serra [executará suas novas funções sem o carimbo de super-ministro  ,
+	      exercer: A cidade, de acordo com o diário do ex-capitão, é um dos locais onde Paulinho e Castor [exercem suas atividades. / Coube ao deputado petista Paulo Delgado encaminhar favoravelmente a votação do projeto que proíbe os militares da reserva remunerada de [exercerem cargo ou emprego, em caráter permanente, estranho à carreira.  ,
+	      ocupar: O filme foi baseado em um roteiro escrito por Ken Lipper, que durante algum tempo [ocupou o cargo de vice-prefeito em Nova Iorque .,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3608' = “pôr em pratica”
+	     {desempenhar: Na campanha, ele [desempenha a função de assessor especial e acompanha o candidato em todas atividades. ,
+	      executar: O zagueiro Cláudio, deslocado para o setor, não conseguia [executava a função. / José Serra [executará suas novas funções sem o carimbo de super-ministro  ,
+	      exercer: A maior parte dos policiais que está fora do combate à criminalidade, segundo Covas, [exerce cargos burocráticos ou faz segurança de «um bocado de gente». / Coube ao deputado petista Paulo Delgado encaminhar favoravelmente a votação do projeto que proíbe os militares da reserva remunerada de [exercerem cargo ou emprego, em caráter permanente, estranho à carreira.  ,
+	      ocupar: O filme foi baseado em um roteiro escrito por Ken Lipper, que durante algum tempo [ocupou o cargo de vice-prefeito em Nova Iorque .,}
+Chave: DESEMPENHAR <verb.creation>
+ILI: 01594283
+
+Sense 3
+{01594283} <verb.creation> carry through, accomplish, execute, carry out, action, fulfill, fulfil -- (put in effect; "carry out a task"; "execute the decision of the people"; "He actioned the operation")
+       => {00470712} <verb.change> complete2, finish2 -- (come or bring to a finish or an end; "He finished the dishes"; "She completed the requirements for her Master's Degree"; "The fastest runner finished the race in just over 2 hours; others finished in over 4 hours")
+           => {00341640} <verb.change> end1, terminate1 -- (bring to an end or halt; "She ended their friendship when she found out that he had once been convicted of a crime"; "The attack on Poland terminated the relatively peaceful period after WWI")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")
+       => {01596269} <verb.creation> effect, effectuate, bring about, set up3 -- (produce; "The scientists set up a shockwave")
+           => {01598809} <verb.creation> cause, do2, make8 -- (give rise to; cause to happen or occur, not always intentionally; "cause a commotion"; "make a stir"; "cause an accident")
+               => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

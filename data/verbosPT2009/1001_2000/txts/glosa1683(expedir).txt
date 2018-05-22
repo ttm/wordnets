@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA1683
+
+DADO O SYNSET:
+
+S='Glosa1683'
+{baixar: Para garantir aumento dos soldos, Itamar deve [baixar medida provisória ou decreto que aumenta gratificações militares.,
+ emitir: As entidades autorizadas para [emitir certificados que o tiverem feito nas condições estabelecidas neste artigo poderão ser suspensas para a emissão de novas certificações por um prazo de doze meses.,
+ expedir: Se constar ao juiz a existência de bens em outra comarca, mandará [expedir carta precatória a fim de serem arrecadados. ,
+ passar: Da entrega deverá o preso [passar recibo no outro exemplar; se recusar, não souber ou não puder escrever, o fato será mencionado em declaração, assinada por duas testemunhas.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1683' = “emitir um documento oficial”
+{baixar: Para garantir aumento dos soldos, Itamar deve [baixar medida provisória ou decreto que aumenta gratificações militares.,
+ emitir: As entidades autorizadas para [emitir certificados que o tiverem feito nas condições estabelecidas neste artigo poderão ser suspensas para a emissão de novas certificações por um prazo de doze meses.,
+ expedir: Se constar ao juiz a existência de bens em outra comarca, mandará [expedir carta precatória a fim de serem arrecadados.,
+ passar: Não havendo mais comunicados o Senhor Presidente I]passou a Ordem do Dia.,}
+Chave: EXPEDIR <verb.communication>
+ILI: 01029199
+
+Sense 3
+{01029199} <verb.communication> issue1 -- (bring out an official document (such as a warrant))
+       => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+           => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+               => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

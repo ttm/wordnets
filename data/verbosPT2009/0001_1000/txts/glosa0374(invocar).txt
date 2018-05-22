@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0374
+
+DADO O SYNSET:
+
+S='Glosa374'
+{conjurar: Os garotos I]conjuram acidentalmente uma poderosa Força do Mal.,
+evocar: Os espíritas não I]evocam os mortos.,
+invocar: Eles acreditam na existência de «encantados», aos quais [invocam para acessar Deus.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa374' = “chamar ou requisitar a presença de algo ou alguém (sobrenatural)”
+{conjurar: Os garotos I]conjuram acidentalmente uma poderosa Força do Mal.,
+evocar: Os espíritas não I]evocam os mortos.,
+invocar: Eles acreditam na existência de «encantados», aos quais [invocam para acessar Deus.,}
+Chave: INVOCAR <verb.creation>
+ILI: 01583752
+
+Sense 1
+{01583752} <verb.creation> raise1, conjure, conjure up, invoke, evoke2, stir, call down, arouse, bring up, put forward, call forth -- (evoke or call forth, with or as if by magic; "raise the specter of unemployment"; "he conjured wild birds in the air"; "stir a disturbance"; "call down the spirits from the mountain")
+       => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

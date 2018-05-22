@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA3112
+
+DADO O SYNSET:
+
+S='Glosa3112'
+	    {
+	      impermeabilizar: Segundo o administrador do parque, Paulo Camarero, 39, a tinta garante maior aderência e serve para [impermeabilizar o pavimento e aumentar sua durabilidade.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3112' = “tornar algo à prova de água”
+	     {impermeabilizar: Nova cola no mercado I]impermeabiliza lajes e piscinas.,}
+Chave: IMPERMEABILIZAR <verb.contact>
+ILI: 01314496
+
+Sense 1
+{01314496} <verb.contact> waterproof -- (make watertight; "Waterproof the coat")
+       => {01314097} <verb.contact> seal3, seal off -- (make tight; secure against leakage; "seal the windows")
+           => {01305587} <verb.contact> close, shut -- (move so that an opening or passage is obstructed; make shut; "Close the door"; "shut the window")

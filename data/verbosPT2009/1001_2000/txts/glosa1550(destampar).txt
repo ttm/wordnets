@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA1550
+
+DADO O SYNSET:
+  
+S='Glosa1550'
+{destampar: Enfiou a mão no bolso, trazendo um vidro com uma dosagem única do seu medicamento, que logo [destampou e mergulhou todo na boca. ,
+ destapar: Gritou ele, [destapando uma fumegante terrina de mundubés e fidalgos: temos peixe de escabeche?!, }
+	  
+A='Glosa714'
+{cerrar, encobrir, tapar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1550' = “remover a tampa”
+{destampar: Sua irritação com o secretário de Preços, Milton Dallari, fez Itamar [destampar a panela de pressão cheia de ira contra os «tecnocratas» e os juros altos.,
+ destapar: Roberto Jefferson disse, entre outras questões, que não cumpriu nenhum papel social, apenas I]destapou o caldeirão.}
+	  
+A='Glosa714'
+{cerrar, encobrir, tapar}
+Chave: DESTAMPAR <verb.change>
+ILI: EQ_HAS_HYPERONYM - 00166870
+
+Sense 1
+{00166870} <verb.change> remove, take, take away1, withdraw1 -- (remove something concrete, as by lifting, pushing, taking off, etc. or remove something abstract; "remove a threat"; "remove a wrapper"; "Remove the dirty dishes from the table"; "take the gun from your pocket"; "This machine withdraws heat from the environment")

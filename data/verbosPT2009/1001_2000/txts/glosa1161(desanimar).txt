@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA1061
+
+DADO O SYNSET:
+
+S='Glosa1161'
+{desalentar: Nada podia I]desalentar a quem mais de uma vez fez possível o impossível,
+ desanimar: Planejando uma turnê no Brasil em outubro, Miguel não [desanimou,
+ desaquecer: x,
+ esmorecer: Mas a repórter não [esmoreceu nem diante de minha expressão decepcionada/Claro, deve-se levar em conta a vontade do profissional, mas não acho que Pelé deva [esmorecer,}
+	  
+A='Glosa3167'
+{acalorar, acender, acordar1, aguçar, agudar, alevantar, animar, aquecer, avivar, aviventar, desmodorrar, despertar, entusiasmar,  espevitar, excitar, influir, levantar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1161' = “tirar o entusiasmo de alguém”
+{desalentar: Mas o mau augúrio não I]desalentou esse presidente.,
+ desanimar: A queda nas vendas em abril prosseguiu em maio e [desanimou os lojistas.,
+ esmorecer: É verdade que a crise cansou a sociedade mas não I]esmoreceu seu sentimento por justiça.,}
+A='Glosa3167'
+{acalorar, acender, acordar1, aguçar, agudar, alevantar, animar, aquecer, avivar, aviventar, desmodorrar, despertar, entusiasmar, espevitar, excitar, influir, levantar}
+Chave: DESANIMAR <verb.emotion>
+ILI: 01766516
+
+Sense 1
+{01766516} <verb.emotion> dishearten, put off -- (take away the enthusiasm of)

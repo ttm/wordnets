@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA2594
+
+DADO O SYNSET:
+
+S='Glosa2594'
+	    {avistar-se: Olhei minha cara no espelho e comecei a pensar em mim, então, resolvi mudar algumas coisas; fitei o olhar dentro do meu próprio olhar, I]avistei-me ainda garota, e pisquei, minha face ficou rubra, intimidada com o que eu pensei.,
+	      contemplar-se: As urnas confirmarão as pesquisas e durante alguns dias o príncipe [se contemplará diariamente no espelho, satisfeito como o grande autor que gerou o grande personagem.,
+	      espelhar-se: Logo depois o pobre homem estava com a cara toda esfolada, ele I]espelhou-se e percebeu o estado da navalha.,
+	      mirar-se: Era uma daquelas figuras do grupo de dona Joana Gajuru, que nada recebeu em troca, nem mesmo um retratinho, tão apreciado sempre por todos, e mais ainda no seu caso, já que nem ele, nem seus companheiros jamais souberam de sua própria beleza, nunca tendo podido [se mirar num caco de espelho que fosse; luxo que a casa deles não comporta.,
+	      refletir-se: Voltou para dentro do quarto e I]refletiu-se no espelho, estava tão esbelta quanto Ayame.,
+	      rever-se: Depois que assim repassou-se das reminiscências que lhe acordavam esses objetos, foi [rever-se no espelho, e enviou à sua feiticeira imagem reproduzida no cristal, um sorriso de indefinível expressão.,
+	      ver-se: Sofia levantou-se, foi pôr o lenço com os grampos em cima do piano, e deu uma olhada ao espelho para [ver-se com a trança caída.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2594' = “Refletir-se como em um espelho.”
+	    {avistar-se: Olhei minha cara no espelho e comecei a pensar em mim, I]avistei-me ainda garota, e pisquei, minha face ficou rubra, intimidada com o que eu pensei.,
+	      contemplar-se: Durante alguns dias o príncipe [se contemplará diariamente no espelho.,
+	      espelhar-se: Logo depois o pobre homem estava com a cara toda esfolada, ele I]espelhou-se e percebeu o estado da navalha.,
+	      mirar-se: Passou o batom nos lábios e I]mirou-se no espelho.,
+	      refletir-se: Voltou para dentro do quarto e I]refletiu-se no espelho, estava tão esbelta quanto Ayame.,
+	      rever-se: Foi [rever-se no espelho, e enviou à sua feiticeira imagem reproduzida no cristal, um sorriso de indefinível expressão.,
+	      ver-se: Foi lavar as mãos sujas de poeira e I]viu-se no espelho da pia.,}
+
+Chave: ESPELHAR-SE <verb.weather>
+ILI: 02684840
+
+Sense 1
+{02684840} <verb.weather> mirror -- (reflect as if in a mirror; "The smallest pond at night mirrors the firmament above")
+       => {02074416} <verb.perception> reflect, reverberate4 -- (to throw or bend back or reflect (from a surface); "A mirror in the sun can reflect light into a person's eyes"; "Sound is reflected well in this auditorium") 

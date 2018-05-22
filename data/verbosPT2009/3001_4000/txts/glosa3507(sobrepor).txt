@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA3507 
+
+DADO O SYNSET:
+
+S='Glosa3507'
+	    {
+	      aplicar: Xavier afirmou que só é preciso [aplicar o Bioskin uma única vez sobre o lugar ferido/No caso de contusões e inchaços colocar o emplasto dentro de um pano antes de ]aplicar/Não ]aplique nenhum creme ou emplasto no olho,
+	      apor: Duas testemunhas assistirão às diligências e, havendo necessidade de [apor selos, estes só poderão ser abertos pelo juiz,
+	      impor: o gesto de ]impor as mãos refere-se à cura física dos males e pode ser realizado por todo batizado/ ... À sua frente, Josefina ajoelha e ele vai ]impor-lhe a coroa,
+	      justapor: ...]justapor as pedras empilhado-as por encaixe,
+	      montar: ]Montou a perna esquerda sobre a direita,
+	      sobrepor: Ele mandou fazer uma placa para [sobrepor à do carro com o nome dos noivos e a data da cerimônia,
+	      superpor: Em algumas litologias, o acamamento [superpõe estruturas sedimentares ou ¡gneas prévias/Inútil ]superpor camadas de tecido para atenuar o efeito perfurante,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3507' = “colocar sobre, colocar em cima”
+	     {aplicar: Ela manteve a parede de 85 cm, sobre a qual [aplicou uma estrutura de ferro de 1,20 m/A Point Car reforma o banco e [aplica o manto anti-ruído,
+	      apor: A BIVAC, no país de expedição, I]apõe um adesivo de segurança na factura comercial, com o número e a data do Atestado de Verificação,
+	      impor: Por fim, vencido pela constância dos pedidos, recolheu-se em oração, I]impôs a mão sobre o menino, abençoou-o e o levantou,
+	      justapor: Burle Marx I]justapôs segmentos de retas e curvas num ritmo novo,
+	      montar: M]Montou a perna esquerda sobre a direita,
+	      sobrepor: Ele mandou fazer uma placa para [sobrepor à do carro com o nome dos noivos e a data da cerimônia,
+	      superpor: Em algumas litologias, o acamamento [superpõe estruturas sedimentares ou ígneas prévias,}
+Chave: SOBREPOR <verb.contact>
+ILI: 01505007
+
+Sense 1
+{01505007} <verb.contact> overlie1 -- (lie upon; lie on top of; "the granite overlies the older rocks")
+       => {01504229} <verb.contact> lie -- (be lying, be prostrate; be in a horizontal position; "The sick man lay in bed all day"; "the books are lying on the shelf")

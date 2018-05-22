@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0392
+
+DADO O SYNSET:
+
+S='Glosa392'
+{aferir: Acho que devem I]aferir a balança para saber se existe algum problema.,
+afilar1: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa392' = “adaptar a uma medida específica”
+{aferir: Acho que devem I]aferir a balança para saber se existe algum problema.,}
+Chave: AFERIR <verb.change>
+ILI: 00455021
+
+Sense 5
+{00455021} <verb.change> gauge2 -- (adapt to a specified measurement; "gauge the instruments")
+       => {00454622} <verb.change> standardize, standardise -- (cause to conform to standard or norm; "The weights and measures were standardized")
+           => {02436624} <verb.social> regulate1, regularize, regularise, order1, govern2 -- (bring into conformity with rules or principles or usage; impose regulations; "We cannot regulate the way people dress"; "This town likes to regulate")
+               => {00674417} <verb.cognition> decide, make up one's mind, determine -- (reach, make, or come to a decision about something; "We finally decided after lengthy deliberations")

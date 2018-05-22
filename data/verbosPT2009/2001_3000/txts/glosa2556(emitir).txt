@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA2556A
+
+DADO O SYNSET:
+
+S='Glosa2556'
+	    {dar: A história foi um pouco fraca, mas deu para I]dar uma risada.,
+	      desatar: O doutor [desatara a rir. #  Eu [desatara a chorar, e chorei longamente.,
+	      desfechar: Um de seus mais veementes inquisidores, o então deputado Ibsen Pinheiro (PMDB-RS) , sucumbiria meses depois a acusações semelhantes àquelas que [desfechara, vibrante de indignação, contra Collor.,
+	      despedir: A coroa dourada, apenas o sol lhe bateu de chapa, entrou a I]despedir faíscas quase inverossímeis.,
+	      emitir: As cordas vocais, por exemplo, são responsáveis por podermos [emitir sons.,
+	      largar: O homem ficou sério e depois I]largou uma risada.,
+	      rutilar: Ouviu um assobio e quando a luz dos refletores da nave desapareceu, ele viu o I]rutilar de uma lâmina.,
+	      soltar: Ela sobe ao palco do Canecão, mesma casa onde gravou três músicas do último disco, para, acompanhada de dois violonistas e de seu próprio violão folk Yamaha, [soltar a rouquidão, se coçar de uma maneira que só os homens costumam fazer, cuspir, delirar e fazer delirar.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2556' = “manifestar-se de modo audível; emitir sons”
+	     {despedir: O fogo H]despediu grande quantidade de fagulhas.,
+	      emitir: O Doutor brincalhão I]emitiu sonora risada.,
+	      largar: O homem ficou sério e depois I]largou uma risada.,
+	      rutilar: A aurora I]rutilava sinais de um dia límpido.,
+	      soltar: Ela I]soltou um suspiro de alívio e lentamente foi parando na plataforma.,}
+
+Chave: EMITIR <verb.communication> 
+ILI: 00951670
+
+Sense 3
+{00951670} <verb.communication> utter2, emit, let out2, let loose -- (express audibly; utter sounds (not necessarily words); "She let out a big heavy sigh"; "He uttered strange sounds that nobody could understand")

@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA2516
+
+DADO O SYNSET:
+
+S='Glosa2516'
+	    {ejetar: Nos sapos há presença de glândulas de veneno nas laterais da cabeça, mas não é capaz de I]ejetar o veneno.,
+	      expelir: Acontece que, mesmo quando você força para eliminar o ar dos pulmões, sempre fica uma certa quantidade de ar dentro deles que você não consegue [expelir.,
+	      expulsar: A diarréia é uma defesa do organismo para [expulsar as toxinas e o uso desse tipo de medicação (que pode ser útil em casos especiais) , deve ser determinado pelo médico. # Ao tossir provocamos uma ação muscular que I]expulsa o muco mais facilmente.,
+	      secretar: Por causa da alergia, a mulher passa a I]secretar mais líquidos, criando um ambiente favorável para a proliferação de germes oportunistas como o fungo que causa candidíase.,
+	      segregar: Certas crisálidas que I]segregam um líquido especial, facilitando a saída do próprio casulo.,
+	      tossir: Em estágios avançados o doente costuma I]tossir sangue.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2516' = “Eliminar (substâncias) do corpo.”
+	    {ejetar: O besouro I]ejeta um vesicante sobre a pele.,
+	      expelir: Algumas vezes você I]expele catarro.,
+	      expulsar: Ao tossir provocamos uma ação muscular que I]expulsa o muco mais facilmente.,
+	      secretar: Mas sempre I]secretou um fluido clarinho ao redor dos olhos.,
+	      segregar: Certas crisálidas I]segregam um líquido especial, facilitando a saída do próprio casulo.,
+	      tossir: Em estágios avançados o doente costuma I]tossir sangue.,}
+
+Chave: EXPELIR <verb.body>
+ILI: 00102093
+
+Sense 2
+{00102093} <verb.body> discharge, expel, eject, release1 -- (eliminate (substances) from the body) 

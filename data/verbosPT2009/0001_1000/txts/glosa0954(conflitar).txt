@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0954
+
+DADO O SYNSET:
+
+S='Glosa954'
+{colidir: Outro ponto em que o PT de São Paulo deve [colidir com Lula é sobre como sustentar politicamente seu governo.,
+conflitar: O descerramento do véu só é possível a partir de uma perspectiva histórica que, exatamente por ser histórica, [conflita frontalmente com uma visão essencialista da ciência.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa954' = “entrar em conflito com”
+{colidir: Outro ponto em que o PT de São Paulo deve [colidir com Lula é sobre como sustentar politicamente seu governo.,
+conflitar: O descerramento do véu só é possível a partir de uma perspectiva histórica que, exatamente por ser histórica, [conflita frontalmente com uma visão essencialista da ciência.}
+Chave: CONFLITAR <verb.stative>
+ILI: 02587030
+
+Sense 1
+{02587030} <verb.stative> conflict -- (be in conflict; "The two proposals conflict!")
+       => {02586720} <verb.stative> contrast, counterpoint -- (to show differences when compared; be different; "the students contrast considerably in their artistic abilities")
+           => {02586169} <verb.stative> differ -- (be different; "These two tests differ in only one respect")

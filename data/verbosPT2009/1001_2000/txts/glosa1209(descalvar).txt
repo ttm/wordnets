@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA1209
+
+DADO O SYNSET:
+
+S='Glosa1209'
+{descalvar: Fuero de Plasencia mandava crucificar, I]descalvar e desorelhar o autor de furto militar.,
+ escalmar: DEVIANT,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1209' = “tornar(-se) careca; perder cabelo”
+{descalvar: O Fuero de Plasencia mandava crucificar, I]descalvar e desorelhar o autor de furto militar.,}
+Chave: DESCALVAR <verb.change>
+ILI: 00121309
+
+Sense 1
+{00121309} <verb.change> bald -- (grow bald; lose hair on one's head; "He is balding already")
+       => {00121007} <verb.change> turn3, grow3 -- (pass into a condition gradually, take on a specific property or attribute; become; "The weather turned nasty"; "She grew angry")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

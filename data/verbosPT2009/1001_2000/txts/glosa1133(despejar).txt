@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA1133
+
+DADO O SYNSET:
+
+S='Glosa1133'
+{desacomodar: H]Desacomodou o inquilino,
+ desalojar: Ela ainda acusa o banqueiro de conseguir [desalojar um vizinho de cela para fazer do xadrez a sua despensa/Ao [desalojar os sem-terra que tinham invadido uma área em Getulina, a Polícia Militar paulista encontrou documentos mostrando que os militantes só deixavam o acampamento com passes especiais,
+ despejar: A PM é mobilizada para [despejar sem-terras,
+ expulsar: Santiago a cavalo encarna a luta dos espanhóis para [expulsar os mouros de seu território, na Idade Média, e tornou-se um dos símbolos do Caminho/Ele não consegue [expulsar turistas em busca de aventuras místicas,}
+	 
+A='Glosa3006'
+	    {aboletar, acoitar, acomodar, acoutar, agasalhar, albergar, alojar, aposentar, aquartelar, asilar, gasalhar, hospedar, instalar, receber}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1133' = “retirar/arrancar [alguém] de um lugar”
+{desacomodar: É por isso que começa esse movimento das áreas emancipadas. Serve também à emancipação para I]desacomodar certos municípios-mãe, que tornam-se fáceis de administrar.,
+ desalojar: Prefeitura [desaloja 80 famílias na zona sul do Rio.,
+ despejar: PM [despeja sem-terra até final de semana.,
+ expulsar: A primeira-dama [expulsou o marido da residência oficial do governo após ter descoberto que ele namorava a publicitária Rosângela Magalhães.,}
+A='Glosa3006'
+	    {aboletar, acoitar, acomodar, acoutar, agasalhar, albergar, alojar, aposentar, aquartelar, asilar, gasalhar, hospedar, instalar, receber}
+Chave: DESPEJAR <verb.contact>
+ILI: 01426914
+
+Sense 2
+{01426914} <verb.contact> expel, eject1, chuck out, exclude, throw out, kick out, turf out, boot out, turn out -- (put out or expel from a place; "The child was expelled from the classroom")
+       => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

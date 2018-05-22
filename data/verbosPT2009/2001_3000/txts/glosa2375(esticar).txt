@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA2375
+
+DADO O SYNSET:
+
+S='Glosa2375'
+	    {entesar: Cortavam um dos seios para I]entesar melhor o arco.,
+	      esticar: Você pega um elástico, [estica ele, vai esticando, esticando, mas chega num ponto que ele arrebenta.,
+	      estirar: Inclusão da máquina rotativa para I]estirar e enxugar couros.,
+	      retesar: Ela propõe uma prova: ficará com aquele que for capaz de I]retesar o arco do herói. # A corrida tende a I]retesar a panturrilha. # A prova ganhou, assim, em qualidade, com a demonstração apurada da técnica de cada guerreiro ao I]retesar a corda, calibrar o arco e arremessar a flecha.,
+	      tesar: Manter a rede de vapor da admissão sob pressão visando I]tesar ou solecar cabos e amarras, se necessário.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2375' = “Estender ou forçar até o limite.”
+	    {entesar: I]Entesou o seu arco e me pôs como alvo à flecha.,
+	      esticar: I]Esticaram a corda até romper.,
+	      estirar: M]Estirar o arco para disparar a flecha.,
+	      retesar: Ela propõe uma prova: ficará com aquele que for capaz de I]retesar o arco do herói.,
+	      tesar: Mas em nautiquês é I]tesar o cabo que prende a parte de baixo da retranca ao convés.,}
+
+Chave: ESTICAR verb.contact
+ILI: 01529246
+
+Sense 1
+{01529246} <verb.contact> strain2, tense -- (stretch or force to the limit; "strain the rope")
+       => {00407836} <verb.change> tighten -- (become tight or tighter; "The rope tightened")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night") 

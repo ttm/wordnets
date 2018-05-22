@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA3705
+
+DADO O SYNSET:
+
+S='Glosa3705'
+	    {
+	      empregar: Mas, como é que ele tão sereno, tão lúcido, [empregara sua vida, gastara o seu tempo, envelhecera atrás de tal quimera?,
+	      ocupar: Cerca de 480 000 japoneses [ocupam seu tempo integral com a pesca ou com a aquacultura. ,
+	      passar: Depois de um tempo você fica cheio de [passar sua vida no estúdio.# Ller uma matéria sobre seu trabalho podia ajudar a [passar o tempo.  ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3705' = “passar (o tempo) de uma maneira especifica”
+	     {empregar: Mas, como é que ele tão sereno, tão lúcido, [empregara sua vida, gastara o seu tempo, envelhecera atrás de tal quimera?,
+	      ocupar: Cerca de 480 000 japoneses [ocupam seu tempo integral com a pesca ou com a aquacultura.,
+	      passar: I]Passou a vida lutando contra a morte e em favor da democracia econômica.,}
+Chave: PASSAR <verb.stative>
+ILI: 02627731
+
+Sense 1
+{02627731} <verb.stative> spend, pass -- (pass (time) in a specific way; "How are you spending your summer vacation?")

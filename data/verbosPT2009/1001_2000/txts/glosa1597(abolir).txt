@@ -1,0 +1,36 @@
+ANÁLISE DA GLOSA1597
+
+DADO O SYNSET:
+	
+S='Glosa1597'
+    	{abolir: A conferência de Mauro teve como tema a tentativa de entender por que o Brasil foi o último país a [abolir a escravidão .,
+      	 ab-rogar: Quem pode criar uma lei também também pode I]ab-rogar.,
+      	 afogar1: Se à onda invasora coube a triste honra de sepultar a civilização grega, coube também a glória de I]afogar o politeísmo, a escravidão antiga. ,
+      	 amputar: Outros, como eu, preferem apurar com cuidado a autenticidade dos papéis de todos os grupos humanos para impedir-se de I]amputar a liberdade de outrem.,
+      	 banir: Acredita que a estabilidade do funcionalismo no Brasil é uma necessidade, já que não existe uma prática administrativa no Brasil capaz de permitir a seriedade e [banir a politicagem.,
+      	 derrogar: A importação de lagostins vivos para fins comerciais,  encontra-se em princípio proibida, porém pode-se, mediante pedido, I]derrogar essa proibição quando a aplicação da lei "conduza, contra a vontade do legislador, a uma rigidez excessiva".,
+      	 dirimir: A função dos tribunais, nos embargos de declaração, não é responder a questionários sobre meros pontos de fato, mas sim [dirimir dúvidas, obscuridades, contradições ou omissões.,
+      	 eliminar: A medida, segundo ele visa descentralizar o atendimento e [eliminar a corrupção.,
+      	 extinguir: Visaram, com essa medida, pressionar o governo sul-africano a [extinguir a segregação racial e a violação dos direitos humanos.,
+      	 proscrever: A República A]proscreveu do Brasil a família real.  ,
+      	 suprimir: De seu lado, a Turquia está lutando para [suprimir o violento movimento separatista entre seus 10 milhões de curdos. # Conseguiremos H]suprimir a violência?,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1597' = “abolir, pôr fim [a]”
+    	{abolir: Nas duas últimas décadas os países europeus [aboliram o crime de adultério de seus códigos penais.,
+      	 ab-rogar: Se sabe que o Vaticano II não I]ab-rogou a Missa de S. Pio V, logo esta forma do rito romano continua válida conforme foi estabelecido.,
+      	 afogar1: Se à onda invasora coube a triste honra de sepultar a civilização grega, coube também a glória de I]afogar o politeísmo, a escravidão antiga.,
+      	 amputar: Falamos de grandes povos que nos colonizaram, escravizaram nossos dons, dissiparam nossos ideais e I]amputaram as possibilidades de nos tornarmos um povo livre da exploração comercial e das revoltas mortais sem objetivos específicos.,
+      	 banir: O governo de Israel [baniu ontem os dois principais movimentos extemistas judeus do país.,
+      	 derrogar: Parece que o jogo cambial virou uma alquimia, na qual o acadêmico contempla seu feito embevecido, como alguém que conseguiu na prática derrogar a lei da gravidade.,
+      	 dirimir: A função dos tribunais, nos embargos de declaração, não é responder a questionários sobre meros pontos de fato, mas sim [dirimir dúvidas, obscuridades, contradições ou omissões.,
+      	 eliminar: A medida, segundo ele, visa descentralizar o atendimento e [eliminar a corrupção.,
+      	 extinguir: Visaram, com essa medida, pressionar o governo sul-africano a [extinguir a segregação racial e a violação dos direitos humanos.,
+      	 proscrever: A justiça dinamarquesa concluiu que seus ataques aos judeus contrariava as leis que [proscrevem o ódio racial no país, e o extraditou.,
+      	 suprimir: A propriedade estatal dos meios de produção acabou por ficar associada a uma casta dirigente e privilegiada que se apossou do poder e suprimiu as liberdades.}
+Chave: ABOLIR <verb.social>
+ILI: 02354201
+
+Sense 1
+{02354201} <verb.social> abolish, get rid of -- (do away with; "Slavery was abolished in the mid-19th century in America and in Russia")

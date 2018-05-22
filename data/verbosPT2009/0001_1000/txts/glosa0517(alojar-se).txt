@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA0517
+
+DADO O SYNSET:
+
+S='Glosa517'
+{aboletar-se: Bush não é o legítimo representante dos EUA, numa referência ao golpe que levou-o a I]aboletar-se na Casa Branca.,
+alojar-se: Júlio Grondona, disse que as mulheres dos jogadores da seleção deverão [alojar-se fora da concentração durante a Copa. ,
+aquartelar-se: Leonardo de Carvalho Castelo Branco esteve em Campo Maior e I]aquartelou-se na fazenda Melancias.,}
+A='Glosa1160'
+{desalojar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa517' = “hospedar (-se), abrigar (-se)”
+{aboletar-se: Bush não é o legítimo representante dos EUA, numa referência ao golpe que levou-o a I]aboletar-se na Casa Branca.,
+alojar-se: Júlio Grondona, disse que as mulheres dos jogadores da seleção deverão [alojar-se fora da concentração durante a Copa. ,
+aquartelar-se: Leonardo de Carvalho Castelo Branco esteve em Campo Maior e I]aquartelou-se na fazenda Melancias.,}
+A='Glosa1160'
+{desalojar-se}
+Chave: ALOJAR-SE <verb.stative>
+ILI: 02577295
+
+Sense 1
+{02577295} <verb.stative> shelter -- (provide shelter for; "After the earthquake, the government could not provide shelter for the thousands of homeless people")
+       => {02259805} <verb.possession> supply, provide, render2, furnish -- (provide or furnish with; "We provided the room with an electrical heater")
+           => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+               => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children")

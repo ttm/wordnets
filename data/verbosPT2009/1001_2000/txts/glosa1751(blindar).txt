@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA1751
+
+DADO O SYNSET:
+
+S='Glosa1751'
+{blindar: Depois, cortamos comprimentos iguais aos dos cabos coaxiais a serem testados e os intercalamos, um por um, entre o receptor e o resistor terminal, tomando cuidado para não haver vazamento nos pontos de interligação (pode-se [blindar adicionalmente com folha de alumínio nesses pontos) .,
+ coiraçar: x,
+ couraçar: x,
+ encoiraçar: x,
+ encouraçar: Blindagem de Automóveis: a técnica consiste em I]encouraçar portas, teto, tampas e quaisquer partes do veiculo por onde as balas possam passar.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1751' = “equipar com blindagem”
+{blindar: A direção da escola decidiu também mandar [blindar as janelas dos oitos andares do prédio.,
+ encouraçar: Blindagem de Automóveis: a técnica consiste em I]encouraçar portas, teto, tampas e quaisquer partes do veiculo por onde as balas possam passar.,}
+Chave: BLINDAR <verb.possession>
+ILI: 02274244
+
+Sense 1
+{02274244} <verb.possession> armor, armour -- (equip with armor)
+       => {02271939} <verb.possession> equip, fit, fit out, outfit -- (provide with (something) usually for a specific purpose; "The expedition was equipped with proper clothing, food, and other necessities")
+           => {02259805} <verb.possession> supply, provide, render2, furnish -- (provide or furnish with; "We provided the room with an electrical heater")
+               => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+                   => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children")

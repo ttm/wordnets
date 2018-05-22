@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0743
+
+DADO O SYNSET:
+
+S='Glosa743'
+{avolumar: I]Avolumar o balão com água destilada e homogeneizar.,
+encher: Os aposentados prometem [encher as ruas do Centro do Rio, no dia 16, para protestar contra o reajuste de 12% nos benefícios da Previdência.,
+obstruir: Detectar e tratar precocemente níveis elevados de colesterol no sangue pode prevenir a formação de placas gordurosas nas artérias, que podem [obstruir as coronárias e provocar infarto.,
+volumar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa743' = “tornar cheio”
+{avolumar: Soluções não devem ser armazenadas em balões volumétricos. ..... I]avolumou-o corretamente.,
+encher: Os aposentados prometem [encher as ruas do Centro do Rio, no dia 16, para protestar contra o reajuste de 12% nos benefícios da Previdência.,
+obstruir: Detectar e tratar precocemente níveis elevados de colesterol no sangue pode prevenir a formação de placas gordurosas nas artérias, que podem [obstruir as coronárias e provocar infarto.,}
+Chave: ENCHER
+ILI: 00439460
+
+Sense 1
+{00439460} <verb.change> fill1, fill up, make full -- (make full, also in a metaphorical sense; "fill a container"; "fill the child with pride")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

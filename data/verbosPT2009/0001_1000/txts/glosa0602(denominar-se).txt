@@ -1,0 +1,18 @@
+ANÁLISE DA GLOSA0602
+
+DADO O SYNSET:
+
+S='Glosa602'
+{chamar-se: Em 1933 foi fundada a Federação Brasileira de Basquetebol, que, em 1944, passou a [chamar-se Confederação Brasileira de Basquetebol.,
+denominar-se: Desde então esse país passou a [denominar-se República Socialista do Vietnã,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa602' = “designar (-se) um nome ou título para”
+{chamar-se: Em 1933 foi fundada a Federação Brasileira de Basquetebol, que, em 1944, passou a [chamar-se Confederação Brasileira de Basquetebol.,
+denominar-se: Desde então esse país passou a [denominar-se República Socialista do Vietnã,}
+Chave: DENOMINAR-SE <verb.communication>
+ILI: 00996861
+
+Sense 1
+{00996861} <verb.communication> designate, denominate -- (assign a name or title to)

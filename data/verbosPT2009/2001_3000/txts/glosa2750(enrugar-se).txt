@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA2750
+
+DADO O SYNSET:
+
+S='Glosa2750'
+	    {encarquilhar-se: Entre o esgrimir de perder e ganhar envelheceu José Ôniro Vital. I]Encarquilhou-se José Ôniro. E reduziu-se a José, apenas.     ,
+	      encoscorar-se: x,
+	      enrugar-se: Visualizou sua pele I]enrugar-se, o branco tomando conta dos cabelos, a coluna vertebral a inclinar-se, obrigando-o a um andar vagaroso.,
+	      refegar-se: Envelhecia e M]refegavam-se-lhe os músculos da face.,
+	      sulcar-se: Com o passar dos anos, M]sulcaram-se-lhe as faces.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2750' = “Tornar-se enrugado.”
+	    {encarquilhar-se: Entre o esgrimir de perder e ganhar envelheceu José Ôniro Vital. I]Encarquilhou-se José Ôniro. E reduziu-se a José, apenas.,
+	      enrugar-se: Mas, de repente, seu rosto I]enrugou-se, os olhos contraíram-se, parou a respiração... afastou o binóculo, inclinou-se e... atchim!.,}
+
+Chave: ENRUGAR-SE <verb.contact>
+ILI: 01239678
+
+Sense 3
+{01239678} <verb.contact> furrow1, wrinkle2, crease1 -- (make wrinkled or creased; "furrow one's brow")
+       => {01239868} <verb.contact> fold, fold up, turn up -- (bend or lay so that one part covers the other; "fold up the newspaper"; "turn up your collar")
+           => {00345030} <verb.change> change surface -- (undergo or cause to undergo a change in the surface)
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night") 

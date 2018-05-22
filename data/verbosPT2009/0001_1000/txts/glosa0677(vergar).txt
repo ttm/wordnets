@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA0677
+
+DADO O SYNSET:
+
+S='Glosa677'
+{arrear2: O carro andou um pouco em três rodas e I]arreou para o lado.,
+arriar: Neste momento, o animal [arriou com o peso e morreu.,
+avergar: Te I]averga a folhagem.,
+cair: E ele se virou de novo e I]caiu para o outro lado.,
+vergar: A cabeça do mancebo [vergou e pendeu sobre o peito; mas logo se ergueu.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa677' = “curvar; dobrar à maneira de verga”
+{arrear2: O carro andou um pouco em três rodas e I]arreou para o lado.,
+arriar: Neste momento, o animal [arriou com o peso e morreu.,
+avergar: Te I]averga a folhagem.,
+cair: E ele se virou de novo e I]caiu para o outro lado.,
+vergar: A cabeça do mancebo [vergou e pendeu sobre o peito; mas logo se ergueu.,}
+Chave: VERGAR <verb.motion>
+ILI: 01977754
+
+Sense 1
+{01977754} <verb.motion> bend, flex -- (form a curve; "The stick does not bend")
+       => {00135866} <verb.change> change shape, change form, deform2 -- (assume a different shape or form)
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

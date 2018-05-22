@@ -1,0 +1,55 @@
+ANÁLISE DA GLOSA3594
+
+DADO O SYNSET:
+
+S='Glosa3594'
+	    {
+	      afadigar: Homem de estudo e de trabalho, é certo, não I]se afadigava, fugia de aborrecer-se, e irritar-se; era alegre e bem humorado.,
+	      afetar: As medidas adotadas pela Reitoria podem ou não I]afetar o pessoal envolvido na frota de veículos da Universidade./ Em nenhum minuto ela se deixou [afetar pelos gritinhos histéricos de maquiadores, cabelereiros e estilistas. ,
+	      amolestar: Não colha plantas ou flores, pedras e não aprisione ou I]amoleste os animais.,
+	      assediar: [Assediavam o presidente para obter informações de seu relacionamento com a professora June Drummond.,
+	      constranger: O governador Almir Gabriel conseguiu [constranger ontem todas as pessoas que acompanharam seu depoimento. / Cada uma com seu celular, atendendo suas chamadas de executivos internacionais e desaparecendo discretamente, cuidando para não [constranger os turistas. ,
+	      derrancar2: O seu vigoroso arcaboiço de atleta permite-lhe dispor duma capacidade de trabalho espantoso, que derrancava os seus colaboradores e os deixava esgotados. ,
+	      desadorar2: Ela me H]desadora com suas perguntas.,
+	      desinquietar: Isto não se faz: I]desinquietar uma pacífica senhora.,
+	      desquietar: x,
+	      enfrenesiar: Por que o pulha o convidara, devendo saber que ele decerto lá não ia, se não para o I]enfrenesiar ainda mais do que já estava?! ,
+	      estorvar: O padre Luis Melo, que rezava a missa, pediu a seus auxiliares para que fechassem a porta da igreja, mas não conseguiu evitar o barulho que [estorvou seu sermão. ,
+	      frenesiar: As pequenas frases de sentido dúbio e malicioso, ditas aliás com a intenção de lisonjeá-lo, mais e mais o indispunham e I]frenesiavam.,
+	      impacientar: Uma demora de I]impacientar até mesmo a mim./ A explícita antipatia do Palácio Santa Catarina em relação à Universidade começa a I]impacientar prefeitos.,
+	      importunar: Era viúva, e [importunava a todo o mundo com as virtudes do seu defunto. / O que elas não têm é o direito de [importunar as pessoas.,
+	      incomodar: A chuva também [incomodava muito e aumentava o frio. ,
+	      inquietar: A jovem mãe cruzou as franjas da rede, para que as moscas não [inquietassem o filho acalentado.,
+	      intoxicar: Existem cinco garotas que estão me [intoxicando.,
+	      irritar: Ainda como jovem jornalista, Augusto de Lima se especializou na arte de [irritar seus desafetos. / Nos meios financeiros, a preocupação é a mesma, não [irritar o presidente. / Além de agradar os reservas, Parreira também dedicou-se a [irritar o meia Raí.   ,
+	      molestar: Em casa habitada, a busca será feita de modo que não [moleste os moradores mais do que o indispensável para o êxito da diligência . ,
+	      obsedar: A armadilha sanguinária de Franco [obsedava-me como um delito meu. ,
+	      obsediar: O profeta o [obsedia e o persegue tanto que o vê em todo lugar.,
+	      obsidiar: Muitas vezes o espírito nem sabe que morreu e acaba voltando para sua casa, passando a I]obsidiar as pessoas que lá vivem.,
+	      rascar: De quando em quando, sinistra, a voz da coruja  M]rasca o silêncio.,
+	      toxicar: x,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3594' = “aborrecer continua ou cronicamente”
+	     {afetar: A briga de domingo [afetou também a mãe do atacante, Sirley, medicada com calmantes na enfermaria do Morumbi./ Em nenhum minuto ela se deixou [afetar pelos gritinhos histéricos de maquiadores, cabeleireiros e estilistas. ,
+	      assediar: [Assediavam o presidente para obter informações de seu relacionamento com a professora June Drummond.,
+	      constranger: O governador Almir Gabriel conseguiu [constranger ontem todas as pessoas que acompanharam seu depoimento. / A presença do senador paraibano na diplomação [constrangeu os presentes, especialmente quando ele cumprimetou FHC. ,
+	      desinquietar: A pitonisa o incomodou, o I]desinquietou, porque o paraíso (se podemos assim chamar) até o calvário, estava nessa condição.,
+	      estorvar: Apenas I]estorvava-os com minha fraqueza. ,
+	      frenesiar: As pequenas frases de sentido dúbio e malicioso, ditas aliás com a intenção de lisonjeá-lo, mais e mais o indispunham e I]frenesiavam.,
+	      impacientar: A demora, a lentidão dos gestos, o corpo que se expunha, a postura que o enchia de vergonha, tudo o I]impacientava./ Assim que o rapaz terminava o serviço e desaparecia, a velha se I]impacientava, reclamava do sol e a acompanhante sabia que era hora de voltar.,
+	      importunar: Era viúva, e [importunava a todo o mundo com as virtudes do seu defunto. / O que elas não têm é o direito de [importunar as pessoas.,
+	      incomodar: A chuva também [incomodava muito e aumentava o frio. ,
+	      inquietar: A jovem mãe cruzou as franjas da rede, para que as moscas não [inquietassem o filho acalentado.,
+	      intoxicar: Ele nos I]intoxicava com aquela moral eruptiva e cândida, que era também como o vento que tenta manter as coisas em equilíbrio.,
+	      irritar: Ainda como jovem jornalista, Augusto de Lima se especializou na arte de [irritar seus desafetos. / Nos meios financeiros, a preocupação é a mesma, não [irritar o presidente. / Além de agradar os reservas, Parreira também dedicou-se a [irritar o meia Raí.   ,
+	      molestar: Em casa habitada, a busca será feita de modo que não [moleste os moradores mais do que o indispensável para o êxito da diligência . ,}
+Chave: INCOMODAR <verb.emotion>
+ILI: 01737602
+
+Sense 2
+{01737602} <verb.emotion> harass, hassle, harry, chivy, chivvy, chevy, chevvy, beset, plague, molest, provoke1 -- (annoy continually or chronically; "He is known to harry his staff when he is overworked"; "This man harasses his female co-workers")
+       => {01736079} <verb.emotion> annoy, rag1, get to, bother, get at, irritate, rile, nark, nettle, gravel, vex, chafe, devil -- (cause annoyance in; disturb, especially by minor irritations; "Mosquitoes buzzing in my ear really bothers me"; "It irritates me that she never closes the door after she leaves")
+           => {01764259} <verb.emotion> displease -- (give displeasure to)

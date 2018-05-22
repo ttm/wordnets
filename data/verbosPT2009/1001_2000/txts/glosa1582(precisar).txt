@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA1582
+
+DADO O SYNSET:
+
+S='Glosa1582'
+{dever: Para testar o novo financiamento, o governo [deverá escolher alguns municípios inscritos no Programa Comunidade Solidária.,
+ precisar: O Banespa [precisaria fechar metade de suas 300 agências e postos de atendimento e cortar algo como 18 mil de seus 30 mil funcionários .,
+ ter: Temporários vão I]ter de fazer concurso.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1582' = “ter necessidade [de]”
+{dever: Para testar o novo financiamento, o governo [deverá escolher alguns municípios inscritos no Programa Comunidade Solidária.,
+ precisar: O Banespa [precisaria fechar metade de suas 300 agências e postos de atendimento e cortar algo como 18 mil de seus 30 mil funcionários.,
+ ter: Temporários vão I]ter de fazer concurso.}
+Chave: PRECISAR <verb.consumption>
+ILI: 01152480
+
+Sense 2
+{01152480} <verb.consumption> want, need, require -- (have need of; "This piano wants the attention of a competent tuner")
+       => {02526983} <verb.stative> be3 -- (have the quality of being; (copula, used with an adjective or a predicate noun); "John is rich"; "This is not a good answer")

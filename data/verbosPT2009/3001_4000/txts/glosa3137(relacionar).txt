@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA3137
+
+DADO O SYNSET:
+
+S='Glosa3137'
+{arrolar1: Sendo dois ou mais réus acusados no mesmo processo e com um só defensor, este pode [arrolar até oito testemunhas para cada um deles. ,
+	 incluir: O prefeito continua insistindo em [incluir ACM entre os possíveis candidatos de uma aliança entre PPR e PFL.,
+	 registar: [Registar novo utilizador no Centro de Referência e Treinamento DST/AIDS.,
+	 registrar: Após [registrar seu nome para disputar as prévias do PMDB, Roberto Requião ironizou o favorito Orestes Quércia diante dos colegas. ,
+	 relacionar: O licitador deverá, no ato convocatório, [relacionar as normas e especificações técnicas a serem consideradas na licitação. }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3137' = “pôr em uma lista de itens”
+{arrolar1: Sendo dois ou mais réus acusados no mesmo processo e com um só defensor, este pode [arrolar até oito testemunhas para cada um deles.,
+	 incluir: O prefeito continua insistindo em [incluir ACM entre os possíveis candidatos de uma aliança entre PPR e PFL.,
+	 registar: [Registar novo utilizador no Centro de Referência e Treinamento DST/AIDS.,
+	 registrar: O filólogo A]registrou inúmeros termos regionais.,
+	 relacionar: O licitador deverá, no ato convocatório, [relacionar as normas e especificações técnicas a serem consideradas na licitação. }
+Chave: RELACIONAR <verb.communication>
+ILI: 00915451
+
+Sense 2
+{00915451} <verb.communication> itemize1, itemise1 -- (place on a list of items; "itemize one's tax deductions")
+       => {00915618} <verb.communication> number1, list1 -- (enumerate; "We must number the names of the great mathematicians")
+           => {00993093} <verb.communication> name2, identify -- (give the name or identifying characteristics of; refer to by name or some other identifying characteristic property; "Many senators were named in connection with the scandal"; "The almanac identifies the auspicious months")
+               => {00900863} <verb.communication> denote, refer -- (have as a meaning; "`multi-' denotes `many' ")
+                   => {00923390} <verb.communication> mean1, intend -- (mean or intend to express or convey; "You never understand what I mean!"; "what do his words intend?")
+                       => {00898144} <verb.communication> convey, impart1 -- (make known; pass on, of information)
+                           => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                               => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

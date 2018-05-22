@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA0230
+
+DADO O SYNSET:
+
+S='Glosa230'
+{estimar-se: Um homem que se A]estima mede a conseqüência de seus atos.,
+prezar-se: É a primeira vez que ele se [preza de ser filho de Selorico!,}
+A='Glosa1520'
+{desprezar-se, rebaixar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa230' = “ter grande consideração por”
+{estimar-se: I]Ele se estima e demonstra que merece ser respeitado.,
+prezar-se: É a primeira vez que ele se [preza de ser filho de Selorico!,}
+A='Glosa1520'
+{desprezar-se, rebaixar-se}
+Chave: PREZAR-SE <verb.cognition>
+ILI: 00670967
+
+Sense 1
+{00670967} <verb.cognition> respect, esteem1, value1, prize, prise -- (regard highly; think much of; "I respect his judgement"; "We prize his creativity")
+       => {00667530} <verb.cognition> see, consider, reckon, view, regard -- (deem to be; "She views this quite differently from me"; "I consider her to be shallow"; "I don't see the situation quite as negatively as you do")
+           => {00666260} <verb.cognition> think1, believe4, consider8, conceive -- (judge or regard; look upon; judge; "I think he is very smart"; "I believe her to be very smart"; "I think that he is her boyfriend"; "The racist conceives such people to be inferior")
+               => {00647983} <verb.cognition> judge -- (form an opinion of or pass judgment on; "I cannot judge some works of modern art")
+                   => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

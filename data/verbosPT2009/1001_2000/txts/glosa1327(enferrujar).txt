@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA1327
+
+DADO O SYNSET:
+
+S='Glosa1327'
+{enferrujar: Aqui fica a primeira lição para vendas: se você não pratica, I]enferruja.,}
+	  
+A='Glosa3512'
+{afinar, desemburrar, desenferrujar, educar, lapidar, lustrar, morigerar, polir}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1327' = “perder a destreza, o vigor” 
+{enferrujar: Aqui fica a primeira lição para vendas: se você não pratica, I]enferruja.,}
+A='Glosa3512'
+{afinar, desemburrar, desenferrujar, educar, lapidar, lustrar, morigerar, polir}
+Chave: ENFERRUJAR <verb.change>
+ILI: EQ_HAS_HYPERONYM – 00240990 – “ficar pior; retroagir para uma condição anterior ou pior”
+
+Sense 5
+{00240990} <verb.change> regress, retrograde, retrogress -- (get worse; fall back to a previous or worse condition)
+       => {00196646} <verb.change> worsen, decline1 -- (grow worse; "Conditions in the slum worsened")
+           => {00140715} <verb.change> change state, turn4 -- (undergo a transformation or a change of position or action; "We turned from Socialism to Capitalism"; "The people turned against the President when he stole the election")
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

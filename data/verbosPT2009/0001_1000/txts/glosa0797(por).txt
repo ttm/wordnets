@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA0797
+
+DADO O SYNSET:
+
+S='Glosa797'
+{botar1: Só na volta me dei conta que tinhamos levado os passaportes e deixado os cheques de viagem e que eu me preocupara em me agasalhar mas não [botara meias.,
+calçar: Enfim, acabou de [calçar as luvas, desceu, entrou no carro e foi para a igreja,
+pôr: Chávez declarou que I]punha botas de combate (percorreu o país uniformizado e com a boina vermelha das tropas especiais).,}
+A='Glosa417'
+{descalçar, tirar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa797' = “colocar algo em um certo lugar”
+{botar1: Só na volta me dei conta que tinhamos levado os passaportes e deixado os cheques de viagem e que eu me preocupara em me agasalhar mas não [botara meias.,
+calçar: Enfim, acabou de [calçar as luvas, desceu, entrou no carro e foi para a igreja,
+pôr: Chávez declarou que I]punha botas de combate (percorreu o país uniformizado e com a boina vermelha das tropas especiais).,}
+A='Glosa417'
+{descalçar, tirar}
+Chave: PÔR <verb.contact>
+ILI: 01452069
+
+Sense 1
+{01452069} <verb.contact> put, set, place, pose2, position, lay1 -- (put into a certain place or abstract location; "Put your things here"; "Set the tray down"; "Set the dogs on the scent of the missing children"; "Place emphasis on a certain point")
+       => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")
+          Also See-> {02564241} <verb.stative> put over#2; {01269330} <verb.contact> put back#1; {02621369} <verb.stative> put back#2; {02564241} <verb.stative> put off#1; {01923102} <verb.motion> put down#3; {02419814} <verb.social> put away#3; {01609650} <verb.creation> put together#1; {01323844} <verb.contact> put on#7; {01526952} <verb.contact> put up#1; {01501920} <verb.contact> put down#2; {00717906} <verb.communication> put across#1

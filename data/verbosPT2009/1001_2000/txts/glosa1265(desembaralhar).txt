@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA1265
+
+DADO O SYNSET:
+
+S='Glosa1265'
+{desembaralhar: A menina conseguiu I]desembaralhar as letras e aprender a ler e escrever depois de entrar no programa Se Liga Goiás.,}
+	  
+A='Glosa1873'
+	    {ababelar, atropelar, babelizar, badernar, balburdiar, baralhar, confundir, desordenar, embaralhar, embrulhar, entremesclar, entremisturar, misturar, obscurecer, unir}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1265' = “x”
+{desembaralhar: A menina conseguiu I]desembaralhar as letras e aprender a ler e escrever depois de entrar no programa Se Liga Goiás.,}
+A='Glosa1873'
+	    {ababelar, atropelar, babelizar, badernar, balburdiar, baralhar, confundir, desordenar, embaralhar, embrulhar, entremesclar, entremisturar, misturar, obscurecer, unir}
+Chave: DESEMBARALHAR <verb.cognition>
+ILI: 00711371
+
+Sense 7
+{00711371} <verb.cognition> arrange, set up, put, order1 -- (arrange thoughts, ideas, temporal events, etc.; "arrange my schedule"; "set up one's life"; "I put these memories with those of bygone times")
+       => {02359241} <verb.social> organize, organise -- (cause to be structured or ordered or operating according to some principle or idea)
+           => {02363018} <verb.social> manage, deal13, care11, handle -- (be in charge of, act on, or dispose of; "I can deal with this crew of workers"; "This blender can't handle nuts"; "She managed her parents' affairs after they got too old")
+               => {02367626} <verb.social> control, command -- (exercise authoritative control or power over; "control the budget"; "Command the military forces")

@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA2558
+
+DADO O SYNSET:
+
+S='Glosa2558'
+	    {arrolar3: O pássaro H]arrolava.,
+	      arrular: Gozemos de nosso amor no meio das florestas, ao ciciar da brisa, ao I]arrular da rola, ao murmurar da cascata.,
+	      arrulhar: Os pombos e pombas passavam as noites a I]arrulhar.,
+	      rolar2: x,
+	      rular: Superstição é um sentimento baseado no temor ou na ignorância religiosa, como, por exemplo: gato preto, dormir com o pé virado para a porta, cachorro uivar, pombo I]rular no telhado, mula sem cabeça e outras.,
+	      turturinar: A rola I]turturina.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2558' = “Emitir sons suaves, como as pombas.”
+	    {arrular: A juriti I]arrulava chamado a companheira.,
+	      arrulhar: No forro da escola, pombos I]baixinho.,
+	      turturinar: A rola I]turturina.,}
+
+Chave: ARRULHAR <verb.communication>
+ILI: 00880060
+
+Sense 2
+{00880060} <verb.communication> coo -- (cry softly, as of pigeons)
+       => {00951670} <verb.communication> utter2, emit, let out2, let loose -- (express audibly; utter sounds (not necessarily words); "She let out a big heavy sigh"; "He uttered strange sounds that nobody could understand") 

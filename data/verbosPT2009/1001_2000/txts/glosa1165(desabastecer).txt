@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA1165
+
+DADO O SYNSET:
+
+S='Glosa1165'
+{desabastar: x,
+ desabastecer: Os fabricantes de aparas de papel se comprometeram com o governo a não exportar nos próximos 90 dias para não [desabastecer o mercado interno,
+ desarmar: DEVIANT,
+ desprover: Terminou em 1975 em uma tentativa de I]desprover os soldados comunistas de comida e proteção na selva.,}
+	  
+A='Glosa4074'
+{abastarabastecer, aperceber, aprovisionar, fornecer, fornir, guarnecer, munir, prover, provisionar, refazer, sortir, suprir}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1165' = “reter a ação de ter, manter ou obter”
+{desabastecer: A queda pode ser explicada pela greve dos cegonheiros, que I]desabasteceu as concessionárias.,
+ desprover: O abuso do poder político para ganhos próprios I]desprovê os mais necessitados de serviços públicos vitais.,}
+A='Glosa4074'
+{abastarabastecer, aperceber, aprovisionar, fornecer, fornir, guarnecer, munir, prover, provisionar, refazer, sortir, suprir}
+Chave: DESABASTECER <verb.possession>  
+ILI: EQ_HAS_HYPERONYM – 02246094
+
+Sense 2
+{02246094} <verb.possession> deprive -- (keep from having, keeping, or obtaining)
+       => {02149972} <verb.possession> withhold, keep back -- (hold back; refuse to hand over or share; "The father is withholding the allowance until the son cleans his room")
+           => {02149107} <verb.possession> deny, refuse1 -- (refuse to let have; "She denies me every pleasure"; "he denies her her weekly allowance")
+               => {02138940} <verb.possession> keep, hold on -- (retain possession of; "Can I keep my old stuffed animals?"; "She kept her maiden name after she married")
+                   => {02139918} <verb.possession> have, have got, hold -- (have or possess, either in a concrete or an abstract sense; "She has $1,000 in the bank"; "He has got two beautiful daughters"; "She holds a Master's degree from Harvard")

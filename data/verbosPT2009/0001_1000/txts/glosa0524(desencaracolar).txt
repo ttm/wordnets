@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0524
+
+DADO O SYNSET:
+
+S='Glosa524'
+{desencaracolar: Mas arranjei uma prancha e dei um jeito dele ao menos I]desencaracolar as pontas; pra vocês verem como o negócio foi bem feito, tinhas cachos e mais cachos nas pontas.,
+desencrespar: Foi ao cabeleireiro H]desencrespar os longos cabelos,}
+A='Glosa835'
+{calamistrar, encaracolar, encrespar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa524' = “sair de uma posição encaracolada; desmanchar caracóis”
+{desencaracolar: Mas arranjei uma prancha e dei um jeito dele ao menos I]desencaracolar as pontas; pra vocês verem como o negócio foi bem feito, tinhas cachos e mais cachos nas pontas.,}
+A='Glosa835'
+{calamistrar, encaracolar, encrespar}
+Chave: DESENCARACOLAR
+ILI: 02004911
+
+Sense 1
+{02004911} <verb.motion> uncurl -- (move out of a curled position; "He uncurled himself")
+       => {01925836} <verb.motion> change posture -- (undergo a change in bodily posture)
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

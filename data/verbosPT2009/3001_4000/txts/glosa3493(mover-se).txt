@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA3493
+
+DADO O SYNSET:
+
+S='Glosa3493'
+	    {
+	      dançar: O barômetro aneróide continuava a um canto a [dançar o seu ponteiro sem ser percebido/Quando acolhes os barcos que ]dançam a esmo...,
+	      menear-se: Se ouvia ao longe o rio, e ]menear-se o vento,
+	      mexer-se: Vestimentas cheias de movimento, que ]se mexiam como o balanço do mar,
+	      mobilizar-se: x,
+	      mover-se: Um barco a motor que ia subindo um rio, encontrou uma balsa que ]se movia no sentido da corrente,
+	      movimentar-se: A obra de Waltércio, por exemplo, se constitui de metal polido e fica à mercê do ar para [se movimentar, presa apenas por fios ao teto,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3493' = “começar a se mover”
+	     {dançar: O barômetro aneróide continuava a um canto a [dançar o seu ponteiro sem ser percebido/ as folhas H]dançam ao vento...,
+	      menear-se: Batidas pelo vento, as ramagens H]meneavam-se,
+	      mexer-se: Era uma muralha verde que se I]mexia com o vento, uma muralha viva,
+	      mover-se: Em suas primeiras experiências, Chevreul constatou que o pêndulo realmente se I]movia quando colocado sobre uma placa contendo mercúrio,
+	      movimentar-se: o barco se I]movimenta mantendo seu eixo, numa direção perpendicular à margem,}
+Chave: MOVER-SE <verb.motion>
+ILI: 01839775
+
+Sense 7
+{01839775} <verb.motion> arouse, stir4 -- (to begin moving, "As the thunder started the sleeping children began to stir")
+       => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right")

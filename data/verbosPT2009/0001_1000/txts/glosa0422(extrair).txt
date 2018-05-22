@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0422
+
+DADO O SYNSET:
+
+S='Glosa422'
+{extrair: Das poesias e das memórias do grupo, ele [extraiu a determinação de manter suas convicções e sua independência. ,
+produzir: DEVIANT,
+tirar: O jornal não explicou aos leitores de onde [tirou sua conclusão tão definitiva, mas não esconde que aposta na autenticidade da lista.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa422' = “tirar algo para fora; tirar algo a fim de se utilizar(metaforicamente)”
+{extrair: Das poesias e das memórias do grupo, ele [extraiu a determinação de manter suas convicções e sua independência. ,
+tirar: O jornal não explicou aos leitores de onde [tirou sua conclusão tão definitiva, mas não esconde que aposta na autenticidade da lista.,}
+Chave: EXTRAIR <verb.contact>
+ILI: 01311287
+
+Sense 1
+{01311287} <verb.contact> extract4, pull out, pull10, pull up, take out9, draw out5 -- (draw or pull out, usually with some force or effort; also used in an abstract sense; "pull weeds"; "extract a bad tooth"; "take out a splinter"; "extract information from the telegram")
+       => {00166870} <verb.change> remove, take, take away1, withdraw1 -- (remove something concrete, as by lifting, pushing, taking off, etc. or remove something abstract; "remove a threat"; "remove a wrapper"; "Remove the dirty dishes from the table"; "take the gun from your pocket"; "This machine withdraws heat from the environment")

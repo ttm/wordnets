@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA3555
+
+DADO O SYNSET:
+
+S='Glosa3555'
+	    {
+	      aninhar: As tartarugas-de-couro vivem no mar, exceto quando necessitam [aninhar.,
+	      nidificar: Bem menores, os araçaris [nidificam em ocos de árvores.,
+	      ninhar: Os pescadores locais me haviam dito que, outrora, por ali I]ninhavam bandos de flamingos.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3555' = “habitar um ninho, geralmente depois de construi-lo”
+	     {aninhar: As tartarugas-de-couro vivem no mar, exceto quando necessitam [aninhar.,
+	      nidificar: Bem menores, os araçaris [nidificam em ocos de árvores.,
+	      ninhar: Os pescadores locais me haviam dito que, outrora, por ali I]ninhavam bandos de flamingos.,}
+Chave: ANINHAR <verb.stative>
+ILI: 02575870
+
+Sense 1
+{02575870} <verb.stative> nest -- (inhabit a nest, usually after building; "birds are nesting outside my window every Spring")
+       => {02575263} <verb.stative> inhabit2, occupy2 -- (be present in; be inside of)
+           => {02576058} <verb.stative> be5 -- (occupy a certain position or area; be somewhere; "Where is my umbrella?" "The toolshed is in the back"; "What is behind this behavior?")

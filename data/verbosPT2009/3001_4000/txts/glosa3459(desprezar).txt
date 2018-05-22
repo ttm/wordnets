@@ -1,0 +1,42 @@
+ANÁLISE DA GLOSA3459
+
+DADO O SYNSET:
+
+S='Glosa3459'
+	    {
+	      descortejar: x,
+	      desdenhar: Foi acusado pelos adversários de trair a si mesmo e [desdenhar o que escreveu no passado/Virou moda na crítica [desdenhar a obra de Di e Portinari porque seriam modernistas acadêmicos,
+	      desfazer: Não é para [desfazer nas outras, mas a nossa, hein Albernaz ?/]Costuma desfazer no trabalho de outros,
+	      desprezar: O Brasil conhece bem a história do ex-presidente Collor, a quem o impeachment derrubou justo por [desprezar completamente a voz desta sociedade/O juiz não pode desprezar as regras de experiência comum ao proferir a sentença,
+	      escarnecer: Julga mal de mim, meu amigo; nenhuma mulher pode [escarnecer de um nobre coração como o seu/É um monstro de olhos verdes, que escarnece do próprio pasto de que se alimenta/...[escarnecer da política e dos políticos,
+	      esfazer: x,
+	      humilhar: ...sua equipe gostava de [humilhar os adversários/Como não tem amor, não se importa de [humilhar o amante,
+	      menospreçar: x,
+	      menosprezar: O técnico [menosprezou a classificação final/ Procurou [menosprezar também a proposta do deputado,
+	      minguar: Não costumamos ]minguar o valor alheio,
+	      postergar: Interessado pela causa pública, ]posterga os interesses individuais,
+	      sobpor: x,
+	      tripudiar: Zagalo [tripudiou sobre a dor de quem vive essa tragédia/Poderes da República [tripudiam sobre a miséria da nação,
+	      zingrar: ...pela sua inteligência, ]zingrou os ignorantes,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3459' = “tratar com superioridade ou com desdém”
+	     {desdenhar: Era assim que I]desdenhava do arbitro e sua roupa preta,
+	      desfazer: Publicamente I]desfazia do Livro de Oração Comum, mas o usava, discretamente, como fonte para suas “belíssimas” orações públicas,
+	      desprezar: Sob a solene etiqueta militar, ele [despreza seus homens,
+	      escarnecer: Por ter sete filhos e sete filhas I]escarneceu de Latona, mãe de apenas dois filhos,
+	      humilhar: Segundo ele, o presidente o [humilhava, chamando-o pejorativamente de «cabeça chata» e «nortista»,
+	      menosprezar: Uma vez I]menosprezou um nordestino baixinho,
+	      minguar: Não costumamos ]minguar o valor alheio,
+	      postergar: Um governante que H]posterga até mesmo artigos constitucionais,
+	      tripudiar: Zagalo [tripudiou sobre a dor de quem vive essa tragédia/Poderes da República [tripudiam sobre a miséria da nação,
+	      zingrar: arrogante, H]zingrava dos humildes,}
+Chave: DESPREZAR <verb.emotion>
+ILI: 01723427
+
+Sense 1
+{01723427} <verb.emotion> contemn, despise, scorn, disdain -- (look down on with disdain; "He despises the people he has to work for"; "The professor scorns the students who don't catch on immediately")
+       => {01722800} <verb.emotion> hate, detest -- (dislike intensely; feel antipathy or aversion towards; "I hate Mexican food"; "She detests politicians")
+           => {01725265} <verb.emotion> dislike -- (have or feel a dislike or distaste for; "I really dislike this salesman")

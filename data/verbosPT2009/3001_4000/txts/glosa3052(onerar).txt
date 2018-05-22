@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA3052
+
+DADO O SYNSET:
+
+S='Glosa3052'
+	    {
+	      gravar2: A inflação M]grava cada vez mais o povo.,
+	      onerar: O fracasso dessas empresas governamentais I]onera o povo.,
+	      oprimir: O próprio sistema gira em torno dos interesses burgueses porque são pessoas que, tendo todo um aparato a seu favor, I]oprime e massacra a classe trabalhadora.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3052' = “sobrecarregar”
+	     {gravar2: A inflação M]grava cada vez mais o povo.,
+	      onerar: O fracasso dessas empresas governamentais I]onera o povo.,
+	      oprimir: O próprio sistema gira em torno dos interesses burgueses porque são pessoas que, tendo todo um aparato a seu favor, I]oprimem e massacram a classe trabalhadora.,}
+	    
+Chave: ONERAR <verb.contact>
+ILI: 01445326
+
+Sense 1
+{01445326} <verb.contact> burden, burthen, weight, weight down -- (weight down with a load)
+       => {01446799} <verb.contact> charge -- (fill or load to capacity; "charge the wagon with hay")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

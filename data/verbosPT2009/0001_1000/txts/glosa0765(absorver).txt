@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0765
+
+DADO O SYNSET:
+
+S='Glosa765'
+{absorver: Por esse acordo, um grupo de técnicos do BNDES passará dois meses sendo treinados pelo Eximbank para [absorver a tecnologia de uma agência bem sucedida num país fortemente exportador. ,
+beber: Costumamos I]beber conhecimento e deglutir sabedoria.,
+receber: Deve-se tambem notar que a crença de Newton de que ele era parte da, a «corrente de ouro» de figuras mágicas ou únicas, designadas por Deus em cada época, para [receber a antiga sabedoria Hermética, foi reforçada pelas circunstâncias de seu nascimento. ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa765' = “assimilar mentalmente”
+{absorver: Por esse acordo, um grupo de técnicos do BNDES passará dois meses sendo treinados pelo Eximbank para [absorver a tecnologia de uma agência bem sucedida num país fortemente exportador. ,
+beber: Costumamos I]beber conhecimento e deglutir sabedoria.,
+receber: Deve-se tambem notar que a crença de Newton de que ele era parte da, a «corrente de ouro» de figuras mágicas ou únicas, designadas por Deus em cada época, para [receber a antiga sabedoria Hermética, foi reforçada pelas circunstâncias de seu nascimento. ,}
+Chave: ABSORVER <verb.cognition>
+ILI: 00582610
+
+Sense 2
+{00582610} <verb.cognition> absorb, assimilate, ingest, take in -- (take up mentally; "he absorbed the knowledge or beliefs of his tribe")
+       => {00578275} <verb.cognition> learn, larn, acquire -- (acquire or gain knowledge or skills; "She learned dancing from her sister"; "I learned Sanskrit"; "Children acquire language at an amazing rate")

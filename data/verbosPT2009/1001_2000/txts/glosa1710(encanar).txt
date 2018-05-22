@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA1710
+
+DADO O SYNSET:
+
+S='Glosa1710'
+{encalar: x,
+ encanar: A Câmara dava-lhe licença gratuita para fazer um açude e I]encanar as águas do rio Corgo ou Cabril para alimentar turbinas e mais maquinismos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1710' = “trazer [algo] por meio de canos”
+{encanar: E aí foi onde que meu pai fez a fossa e essa cisterna e I]encanou a água porque até então a gente usava as águas dos córregos.,}
+Chave: ENCANAR <verb.contact>
+ILI: 01395277
+
+Sense 1
+{01395277} <verb.contact> pipe in -- (bring in through pipes; "We have to pip in oil")
+       => {01408676} <verb.contact> transport, carry2 -- (move while supporting, either in a vehicle or in one's hands or on one's body; "You must carry your camping gear"; "carry the suitcases to the car"; "This train is carrying nuclear waste"; "These pipes carry waste water into the river")
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

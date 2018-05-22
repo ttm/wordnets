@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA2169
+
+DADO O SYNSET:
+
+S='Glosa2169'
+	    {aplicar: Na medida em que os governos possam [aplicar maiores investimentos no campo da educação e da pesquisa científica, o panorama poderá sofrer modificações positivas.,
+	      assinar: O Conselho M]assinou uma verba para beneficência.,
+	      destinar: O ministro quer [destinar a verba a programas de melhoria da mão-de-obra existente no país.,
+	      empregar: x,
+	      votar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2169' = “desgnar ou dar uma quantia de dinheiro ou tempo para uma pessoa ou causa"
+	    {aplicar: O governador aplicou US$ 700 mil em forma de ajuda para a produção da novela.,
+	      assinar: O Conselho M]assinou uma verba para beneficência.,
+	      destinar: O ministro quer [destinar a verba a programas de melhoria da mão-de-obra existente no país.,}
+
+Chave: DESTINAR <verb.cognition>
+ILI: 00700205
+
+Sense 2
+{00700205} <verb.cognition> allow1, appropriate, earmark, set aside, reserve -- (give or assign a share of money or time to a particular person or cause; "I will earmark this money for your research")
+       => {02164287} <verb.possession> assign1, allot1, portion -- (give out or allot; "We were assigned new uniforms")
+           => {02228378} <verb.possession> distribute, administer, mete out, deal1, parcel out, lot, dispense, shell out, deal out, dish out, allot2, dole out -- (administer or bestow, as in small portions; "administer critical remarks to everyone present"; "dole out some money"; "shell out pocket money for the children"; "deal a blow to someone")
+               => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+                   => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children") 

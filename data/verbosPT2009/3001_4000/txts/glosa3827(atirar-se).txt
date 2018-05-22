@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA3827
+
+DADO O SYNSET:
+
+S='Glosa3827'
+{amergulhar: x,
+	 arremessar-se: Então, o selvagem distendeu-se com a flexibilidade da cascavel ao lançar o bote: fincando os pés e as costas no tronco, [arremessou-se e foi cair sobre o ventre da onça, que subjugada, prostrada de costas, com a cabeça presa ao chão pelo gancho, debatia-se contra o seu vencedor, procurando debalde alcançá-lo com as garras.,
+	 arrojar-se: A jovem mãe, orgulhosa de tanta ventura, tomou o tenro filho nos braços e com ele [arrojou-se às águas límpidas do rio.,
+	 atirar-se: Advogado bem-sucedido em Paris, Clemence entra em crise na noite em que vê uma jovem [atirar-se no Sena e nada faz para salvá-la.,
+	 jogar-se: A jovem morreu, e seu namorado, inconformado, amarrou uma pedra aos pés e [jogou-se no rio para morrer também.,
+	 lançar-se: Esperou também, curioso de saber o que se ia passar, mas resolvido, se fosse preciso, a [lançar-se de um pulo sobre aquele que ousasse fazer a menor violência, e a caírem ambos do alto da esplanada.,
+	 mergulhar: Puhlmann ficou tetraplégico ao [mergulhar em uma piscina 12 anos atrás.,
+	 pinchar-se: Fui correndo dar a notícia ao meu pai, o Coronel encheu o bolso com pedras e se I]pinchou com roupa e tudo no rio!,
+	 saltar: Na laje superior do prédio ficaram cerca de 60 pessoas e, segundo moradores, algumas chegaram a [saltar de uma altura de 15 metros, para escapar das chamas.}
+	
+A ANÁLISE RESULTA EM:
+
+S='Glosa3827' = “fazer um movimento empurrando para frente”
+{arremessar-se: Então, o selvagem distendeu-se com a flexibilidade da cascavel ao lançar o bote: fincando os pés e as costas no tronco, [arremessou-se e foi cair sobre o ventre da onça, que subjugada, prostrada de costas, com a cabeça presa ao chão pelo gancho, debatia-se contra o seu vencedor, procurando debalde alcançá-lo com as garras.,
+	 arrojar-se: A jovem mãe, orgulhosa de tanta ventura, tomou o tenro filho nos braços e com ele [arrojou-se às águas límpidas do rio.,
+	 atirar-se: Advogado bem-sucedido em Paris, Clemence entra em crise na noite em que vê uma jovem [atirar-se no Sena e nada faz para salvá-la.,
+	 jogar-se: A jovem morreu, e seu namorado, inconformado, amarrou uma pedra aos pés e [jogou-se no rio para morrer também.,
+	 lançar-se: Esperou também, curioso de saber o que se ia passar, mas resolvido, se fosse preciso, a [lançar-se de um pulo sobre aquele que ousasse fazer a menor violência, e a caírem ambos do alto da esplanada.,
+	 mergulhar: Puhlmann ficou tetraplégico ao [mergulhar em uma piscina 12 anos atrás.,
+	 pinchar-se: Fui correndo dar a notícia ao meu pai, o Coronel encheu o bolso com pedras e se I]pinchou com roupa e tudo no rio!,
+	 saltar: Na laje superior do prédio ficaram cerca de 60 pessoas e, segundo moradores, algumas chegaram a [saltar de uma altura de 15 metros, para escapar das chamas.}
+Chave: ATIRAR-SE <verb.motion>
+ILI: 02003784
+
+Sense 2 
+{02003784} <verb.motion> lunge, hurl, hurtle, thrust1 -- (make a thrusting forward movement)
+       => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right")

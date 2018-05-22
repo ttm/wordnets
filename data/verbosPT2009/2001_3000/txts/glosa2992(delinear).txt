@@ -1,0 +1,37 @@
+ANÁLISE DA GLOSA2992
+
+DADO O SYNSET:
+
+S='Glosa2992'
+	    {adumbrar: Na tela, H]adumbrou o rosto da modelo.,
+	      alinhavar: A]Alinhavou o romance, para escrevê-lo mais tarde.  ,
+	      arcaboiçar: x,
+	      arcabouçar: x,
+	      bosquejar: Este ensaio não tem por objetivo esgotar todas as implicações decorrentes desse tipo de especulação, mas apenas I]bosquejar em traços tênues o que vem a ser o pós-modernismo e onde ele toca a reflexão jurídica.,
+	      debuxar: Estou convicto de que posso I]debuxar algumas linhas sobre sua vida e obra.,
+	      delinear: A pesquisa de José Maria Cançado chega a [delinear um personagem aquém do já conhecido.,
+	      esboçar: Da leitura atenta desses livros é possível [esboçar a personalidade literária do poeta.,
+	      galivar: x,
+	      riscar: H]Riscar uma paisagem.,
+	      traçar1: Observou áreas da Terra para [traçar um esboço da situação ambiental do planeta.,
+	      tracejar: Sidnei Agostinho Benetti, valoroso lidador da magistratura paulista, numa conferência feita em 1984, [tracejou o perfil do juiz-juiz.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2992' = “Traçar a forma de”
+	    {bosquejar: Com que habilidade as reproduzias, tal qual as que I]bosquejou a natureza.,
+	      debuxar: Cumprida a penitência, comprou por doze mil réis uma tira de papel e nela I]debuxou, displicente, a cidade que não era.,
+	      delinear: A diferença é que, se nas aquarelas, aquelas imagens [delineavam uma narrativa específica, aqui, nas telas, os símbolos estão mais jogados, fluidos.,
+	      esboçar: Phil I]esboçou o plano de fundo e o. céu.,
+	      riscar: Aí se acocorou, I]riscou num papel uma planta indicando o tamanho real de uma casa para mim.,
+	      traçar1: O designer I]traçou as linhas do painel.,
+	      tracejar: Depois I]tracejava o motivo em separado, numa página de álbum, numa folha de papel, que lentamente completava.,}
+Chave: DELINEAR <verb.creation>
+ILI: 01641211
+
+Sense 3
+{01641211} <verb.creation> delineate, limn1, outline1 -- (trace the shape of)
+       => {01642108} <verb.creation> draw -- (represent by making a drawing of, as with a pencil, chalk, etc. on a surface; "She drew an elephant"; "Draw me a horse")
+           => {01637996} <verb.creation> represent1, interpret1 -- (create an image or likeness of; "The painter represented his wife as a young girl")
+               => {01573613} <verb.creation> re-create -- (create anew; "Re-create the boom of the West on a small scale")
+                   => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor") 

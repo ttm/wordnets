@@ -1,0 +1,40 @@
+ANÁLISE DA GLOSA1750
+
+DADO O SYNSET:
+
+S='Glosa1750'
+{acoimar: A mulher do Crispim deu em protestar, esganada, A]acoimando a vizinha de não dar de comer ao animal.,
+ acriminar: x,
+ acusar: Apesar de [acusar o irmão, Henrique disse que não sabia como Ibraim atacava.,
+ criminar: Durante toda a minha vida evangélica , fui induzida a ignorar e I]criminar a Israel por terem culpa da morte de YESHUA RAMASHIA.,
+ culpar: Outros moradores, que não quiseram se identificar, [culparam os PMs Mariano, Oliveira e Jimmy Cliff pela morte de Alexandrina.,
+ encoimar: x,
+ incriminar: O juiz Elder Lisboa Ferreira da Costa afirmou, na sentença, que a acusação, ao tentar [incriminar Paiakan e Irekran pelos crimes de estupro e atentado violento ao pudor, «perdeu uma grande oportunidade de processar os réus por outros motivos» .,
+ responsabilizar: A PolíciaFederal vai analisar as sementes e poderá [responsabilizar o deputado por importação ilegal do produto.,}
+	  
+A='Glosa1956'
+{absolver, desculpar, escusar, exculpar, inocentar, perdoar, purificar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1750' = “sugerir que alguém/algo é culpado”
+{acoimar: Não sei se a Secretaria de Direitos Humanos acha natural chamar a outros de fascistas ou nazistas; quanto a I]acoimá-los de vigaristas, creio que não.,
+ acusar: O deputado Arlindo Chinaglia I]acusou injustamente este blog de tê-lo vinculado ao empresário Marcos Valério.,
+ criminar: Além de canhonear os políticos e os responsáveis pelas escolas médicas, poderíamos também I]criminar a Faculdade de Medicina da Universidade de São Paulo por abrir o seu quadro de residentes aos médicos “de fora” porque os residentes constituem mão-de-obra barata e interessada.,
+ culpar: Outros moradores, que não quiseram se identificar, [culparam os PMs Mariano, Oliveira e Jimmy Cliff pela morte de Alexandrina.,
+ incriminar: O procurador-geral da República, Geraldo Brindeiro, está convencido de que as provas reunidas pelo BC [incriminam Calmon, que está sujeito a penas que vão de multa à prisão.,
+ responsabilizar: A Carta de Duque de Caxias [responsabiliza, ainda, o governo estadual do Pará pela violência e o governo federal por «não enfrentar a questão do campo».,}
+	  
+A='Glosa1956'
+{absolver, desculpar, escusar, exculpar, inocentar, perdoar, purificar}
+Chave: ACUSAR <verb.stative>
+ILI: 02558506
+
+Sense 1
+{02558506} <verb.stative> incriminate, imply2, inculpate -- (suggest that someone is guilty)
+       => {00899875} <verb.communication> suggest1, evoke1, paint a picture -- (call to mind or evoke)
+           => {00912790} <verb.communication> express1, show2, evince -- (give expression to; "She showed her disappointment")
+               => {00898144} <verb.communication> convey, impart1 -- (make known; pass on, of information)
+                   => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                       => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                           => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

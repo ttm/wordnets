@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA1992
+
+DADO O SYNSET:
+
+S='Glosa1992'
+{esmolar: O homem da história só podia buscar a solidariedade alheia, que o conduzisse ao lugar aonde pudesse I]esmolar e buscar sobrevivência. ,
+ mendigar: Quanto à mendicância, é muito mais seguro I]mendigar do que roubar, mas é melhor roubar do que mendigar.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1992' = “abordar pessoas na rua para pedir dinheiro”
+{esmolar: O mais velho costuma ser visto [esmolando com uma camisa do Botafogo pelo centro do Rio. ,
+ mendigar: Uma cena que se repetiu na entrada do teatro foi a de pessoas vestidas a rigor [mendigando ingressos a quem quer que lhes parecessem rico e generoso.,}
+Chave: MENDIGAR <verb.possession>
+ILI: 02205352
+
+Sense 1
+{02205352} <verb.possession> panhandle -- (beg by accosting people in the street and asking for money)
+           => {09722027} <noun.person> panhandler -- (a beggar who approaches strangers asking for money)

@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA1917
+
+DADO O SYNSET:
+
+S='Glosa1917'
+{descabelar-se: Ela sentiu prazer, chorou, riu, se I]descabelou, se recompôs, e se tornou uma peça inteira, um organismo articulado, uma mulher bonita, intrigante, inteligente.,
+ desgrenhar-se: De repente, ao vê-lo, a Benta levou as duas mãos à cabeça, arrancando o lenço, I]desgrenhando-se, exclamando: Ai! que mo mataram!,
+ despentear-se: Aproveitou que estava no lavatório, lavou tudo, I]despenteou-se e colocou a velha e boa calça Lee desbotada. ,
+ escabelar-se: A largos passos por seu quarto, acusou a crueldade dos pais, experimentou se podia arrombar a porta, fez mil planos de fuga, esbravejou, I]escabelou-se.,
+ esguedelhar-se: x,}
+	  
+A='Glosa2959'
+{pentear-se: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1917' = “ficar com os cabelos em desalinho”
+{descabelar-se: Qualquer um que pulou, dançou, se I]descabelou na platéia ao som de Meu Maracatu Pesa Uma Tonelada sabe do que eu tô falando.,
+ desgrenhar-se: A longa cabeleira se desgrenha em cachos e volutas.,
+ despentear-se: À medida que corria, seus cabelos se I]despentearam.,}
+	  
+A='Glosa2959'
+{pentear-se: x,}
+Chave: DESCABELAR-SE <verb.contact>
+ILI: EQ_HAS_NEAR_SYNONYM – 01432291
+
+Sense 1
+{01432291} <verb.contact> tousle, dishevel, tangle1 -- (disarrange or rumple; dishevel; "The strong wind tousled my hair")
+       => {01425124} <verb.contact> disarrange -- (destroy the arrangement or order of; "My son disarranged the papers on my desk")
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

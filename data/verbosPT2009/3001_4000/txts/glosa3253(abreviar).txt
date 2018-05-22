@@ -1,0 +1,58 @@
+ANÁLISE DA GLOSA3253
+
+DADO O SYNSET:
+
+S='Glosa3253'
+	    {
+	      abreviar: O deputado Nélson Jobim , relator da frustrada revisão constitucional, será também convocado para ajudar na busca de uma fórmula que permita [abreviar a revisão constitucional.,
+	      acurtar: x,
+	      cifrar: M]Cifrar um relatório.,
+	      compactar: É preciso I]compactar as informações ao máximo e ser objetivo.,
+	      compendiar: É possível I]compendiar os argumentos desenvolvidos ao longo do presente parecer nas proposições objetivas que se seguem.,
+	      condensar: Evidentemente não é possivel [condensar 130 páginas em 25 sem prejudicar sua utilidade, além de ocupar grande parte do espaço deste livro com material que já se encontra disponível.,
+	      conglobar: Procurou I]conglobar em poucas páginas o pensamento do filósofo.,
+	      encurtar: A possibilidade de ter Costner no papel-título, no entanto, estimulou Kasdan a [encurtar o roteiro para transformá-lo em filme. ,
+	      epilogar: Para I]epilogar a questão, tanto a proteção do trabalho quanto a necessidade de concurso público são regras constitucionais.,
+	      epitomar: A] Epitoma sua grande produção poética em um volume de 400 páginas.,
+	      extratar: Sirva-nos de remate e prova fulminante I]extratar apenas mais um dos trechos do livro.,
+	      extremar: M]Extremar uma aula. # M]um discurso.,
+	      laconizar: A] Laconizou uma narração.,
+	      recapitular: Só para [recapitular: Palmeira trabalhou apenas seis anos como auxiliar legislativo do Senado.,
+	      recopilar: O rei assírio Arsubanípal I]recopilou a primeira grande biblioteca da antigüidade, muito antes da mais famosa em Alexandria.,
+	      reduzir: Escrevo em cinco minutos 30 linhas, e preciso de outros 25, 30 minutos para [reduzir o texto às 11 linhas da coluna. ,
+	      resumir: Se pudéssemos [resumir em poucas palavras a situação que acontece nesse filme, creio que poderíamos dizer assim.,
+	      sintetizar: Antecipando-lhe aquilo que pode vir ou não no livro, posso dizer-lhe, tentando [sintetizar, que esta Revolução é genuína criação da improvisação. ,
+	      substanciar: M]Substanciar uma informação. # M] Substanciou um parecer.,
+	      sumariar: O Abstract eo Resumo devem conter as mesmas informações e sempre I]sumariar resultados e conclusões.,
+	      sumarizar: Re-enumerar os objetivos, descrever o que foi feito, I]sumarizar os resultados, listar dificuldades. # Procurarei I]sumarizar as principais novidades desta nova versão.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3253' = “reduzir em escopo, mantendo os elementos essenciais” ” 
+	     {abreviar: A doença do pintor que fez questão de selecionar as reproduções e ler os textos [abreviou o processo.,
+	      cifrar: M]Cifrar um relatório.,
+	      compactar: A paralisação modificou o calendário inicial e I]compactou as aulas.,
+	      compendiar: Em seu tratado, Cassini I]compendiou os trabalhos geodésicos realizados por seu pai e por ele próprio.,
+	      condensar: A Secretaria I]condensou os nove programas que possuía no ano passado em seis.,
+	      conglobar: Procurou I]conglobar em poucas páginas o pensamento do filósofo.,
+	      encurtar: Ele I]encurtou distâncias, substituiu longas viagens sem conforto, por um simples discar de números. ,
+	      epilogar: I]Epilogava toda a discussão com a saudável irreverência dos vinte anos.,
+	      epitomar: A] Epitoma sua grande produção poética em um volume de 400 páginas.,
+	      extremar: Mas a doutrina I]extremou a área de sua incidência, como critério para sua distinção.,
+	      laconizar: A] Laconizou uma narração.,
+	      recapitular: Este documento I]recapitula inicialmente a missão, as diretrizes e os objetivos firmados no planejamento estratégico da SFC.,
+	      recopilar: O rei assírio Arsubanípal I]recopilou a primeira grande biblioteca da antigüidade, muito antes da mais famosa em Alexandria.,
+	      reduzir: A Caixa Econômica Federal [reduziu seus níveis hierárquicos. ,
+	      resumir: O termo [resume uma estratégia de ajuste e estabilização das economias dos países periféricos, entre eles o Brasil, formulada pelo governo norte-americano, o FMI e o Banco Mundial.,
+	      sintetizar: Esta obra [sintetiza as idéias modernistas no sentido de uma formação de uma cultura e do saber brasileiros. ,
+	      substanciar: Enumerou e I]substanciou as diversas contribuições teóricas do líder chinês desaparecido em 1997.,
+	      sumariar: Ele I]sumariou suas descobertas neste artigo publicado no Astrophysical Journal, em 1937.,
+	      sumarizar: Alice Bailey I]sumarizou a história inteira da Maçonaria.,}
+Chave: ABREVIAR <verb.change>
+ILI: 00235800
+
+Sense 2
+{00235800} <verb.change> abridge, foreshorten, abbreviate1, shorten2, cut8, contract5, reduce8 -- (reduce in scope while retaining essential elements; "The manuscript must be shortened")
+       => {00428838} <verb.change> decrease1, lessen2, minify -- (make smaller; "He decreased his staff")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

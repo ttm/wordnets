@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA2279
+
+DADO O SYNSET:
+
+S='Glosa2279'
+	    {tricotar: A dupla passa os dias [tricotando com lã e agulhas mesmo.,
+	      tricotear: A mulher espera o marido na varanda, I]tricoteia em sua cadeira de balanço.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2279' = “ fazer tecidos de malhas entrelaçadas com agulhas” 
+	    {tricotar: A dupla passa os dias [tricotando com lã e agulhas.,
+	      tricotear: A mulher espera o marido na varanda, I]tricoteia em sua cadeira de balanço.,}
+
+Chave: TRICOTAR <verb.creation>
+ILI: 01623117
+
+Sense 1
+{01623117} <verb.creation> knit -- (make (textiles) by knitting; "knit a scarf")
+       => {01606076} <verb.creation> create from raw material, create from raw stuff -- (make from scratch)
+           => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

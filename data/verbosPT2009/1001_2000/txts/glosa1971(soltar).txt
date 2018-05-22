@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA1971
+
+DADO O SYNSET:
+
+S='Glosa1971'
+{desferir: Os navegadores, dado que com o fervor da obra e alvoroço daquela empresa embarcaram contentes, passado o termo do desferir das velas, lembrando-se  que sua viagem estava posta em esperança e não em tempo nem lugar sabido, assim o acompanhavam em lágrimas.,
+ desfraldar: A sombra labuta entre I]desfraldar as velas e levantar papéis como se fosse vento favorável para quem navega. ,
+ esfraldar: x,
+ largar: A]Largar as velas.,
+ soltar: O veleiro é um navio-escola, em que Lidson ensina os alunos da Marinha a velejar (as histórias que ele conta da gurizada empacando lá em cima das vergas para I]soltar as velas, é de dar gargalhadas).,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1971' = “soltar (velas) ao vento”
+{desfraldar: Secularmente, a medicina navegou e I]desfraldou suas velas no oceano da cura, e assim ainda o é.,
+ largar: Deste modo , ele lançou o navio ao mar do sofrimento. I]Largando as velas das três mil condições sobre o mastro da doutrina do Caminho Médio.,
+ soltar: O veleiro é um navio-escola, em que Lidson ensina os alunos da Marinha a velejar (as histórias que ele conta da gurizada empacando lá em cima das vergas para I]soltar as velas, é de dar gargalhadas).,}
+Chave: SOLTAR <verb.change>
+ILI: EQ_HAS_HYPERONYM – 00423103 – “fazer com que [algo] saia do estado enrolado”
+
+Sense 1
+{00423103} <verb.change> unfurl, unroll -- (unroll, unfold, or spread out or be unrolled, unfolded, or spread out from a furled state; "unfurl a banner")
+       => {00345030} <verb.change> change surface -- (undergo or cause to undergo a change in the surface)
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

@@ -1,0 +1,46 @@
+ANÁLISE DA GLOSA3631
+
+DADO O SYNSET:
+
+S='Glosa3631'
+	    {
+	      afutricar: x,
+	      alcofar: x,
+	      alcovetar: x,
+	      alcovitar: Persiste ainda o ímpeto e a mania de I]alcovitar.,
+	      bisbilhotar: As criadas são tão maçadoras, I]bisbilhotam e conversam entre si e depois as coisas espalham. ,
+	      coscuvilhar: Os homens estão sempre dispostos a I]coscuvilhar ea investigar sobre as vidas alheias, mas têm preguiça de se conhecerem a si mesmos. ,
+	      esbilhotar: x,
+	      fofocar: A mãe, estendida numa cama improvisada, jazia no centro da sala, cercada de parteiras e convidados, bebericando vinho e [fofocando.,
+	      futicar: x,
+	      futricar: O candidato disse que não iria [futricar.,
+	      futucar: O futebol cai aos pedaços, e nenhum jornal, mesmo os que costumam derrubar ministro, ousa futucar Ricardo Teixeira.jh,
+	      fuxicar: Não tem negócios no local, comparece pelo simples prazer de I]jfuxicar.,
+	      intrigar: Os homens fazem uso do que sabe sobre o outro para fofocar, [intrigar ou até mesmo difamar o mesmo.,
+	      mexericar: Muitos de nós somos culpados por [mexericar sobre os amigos.,
+	      onzenar: Sua única ocupação é H]onzenar.,
+	      onzeneirar: Perigosos em H]enredar colegas em tramas e em onzeneirar.,
+	      zarelhar: Aquela vizinha adora H]zarelhar.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3631' = “comentar, falar sobre outros e revelar segredos e intimidades”
+	     {alcovitar: Ela I]alcovitava os ‘amores contingentes’ do escritor, segura de que somente os dois, ela e ele, tinham direito a uma verdadeira reciprocidade integral.,
+	      bisbilhotar: As criadas são tão maçadoras, I]bisbilhotam e conversam entre si e depois as coisas espalham. ,
+	      coscuvilhar: Os homens estão sempre dispostos a I]coscuvilhar e a investigar sobre as vidas alheias, mas têm preguiça de se conhecerem a si mesmos. ,
+	      fofocar: A mãe, estendida numa cama improvisada, jazia no centro da sala, cercada de parteiras e convidados, bebericando vinho e [fofocando.,
+	      futricar: O candidato disse que não iria [futricar.,
+	      fuxicar: No meu tempo, padre rezava missa, obedecia ao bispo, e I]fuxicava com a gente, sempre com muito respeito.,
+	      intrigar: Os homens fazem uso do que sabe sobre o outro para fofocar, [intrigar ou até mesmo difamar o mesmo.,
+	      mexericar: Para o meu conforto, percebi que não I]mexericava sozinha, uma mulher na mesa ao lado também estava muito interessada e um casal também ouvia.,
+	      zarelhar: Aquela vizinha adora H]zarelhar.,}
+Chave: FOFOCAR <verb.communication>
+ILI: 01008426
+
+Sense 1
+{01008426} <verb.communication> dish the dirt, gossip -- (wag one's tongue; speak about others and reveal secrets or intimacies; "She won't dish the dirt")
+       => {00930524} <verb.communication> talk1, speak1 -- (exchange thoughts; talk with; "We often talk business"; "Actions talk louder than words")
+           => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+               => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

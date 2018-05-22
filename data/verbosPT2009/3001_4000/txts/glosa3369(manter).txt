@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA3369
+
+DADO O SYNSET:
+
+S='Glosa3369'
+	    {
+	      conservar: Netaniahu quer [conservar as coisas como estão.,
+	      levar: [Leva uma vida calma e regrada se comparada a dos tempos em que morava numa espécie de comunidade no Recreio dos Bandeirantes.,
+	      manter: O Kirov ainda [mantém, entretanto, a coesão que não resistiu em seu maior concorrente, o Bolshoi, hoje desestruturado.,
+	      manutenir: Desde a constatação de que o homem era um ser gregário e necessitava viver harmoniosamente em sociedade, e que para I]manutenir o bem estar e o convívio social demandado por esta, a importância e essencialidade de cobrança do tributo foi notada.,
+	      sustentar: O governo M]sustenta as forças armadas.,
+	      suster: Crendo fielmente que o mesmo Deus que I]susteve o povo de Irsael no passado está cuidando de nós no presente, lançamo-nos na construção de mais um Templo.,
+	      ter: Graças ao castigo, M]tinha-os obedientes.,
+	      trazer: Os negócios o M]trazem apreensivo. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3369' = “conservar em uma certa condição, posição ou atividade”
+	     {conservar: O brangus [conserva as características da melhor carne do mundo.,
+	      levar: O MST I]leva na memória a história camponesa que está construindo.,
+	      manter: O Kirov ainda [mantém, entretanto, a coesão que não resistiu em seu maior concorrente, o Bolshoi, hoje desestruturado.,
+	      manutenir: Desenvolveu e I]manuteniu sistemas de informação para ambiente batch e on-line.,
+	      sustentar: Tripé com Petrobras e ANP I]sustenta o sucesso do curso.,
+	      suster: Segundo Maria Vitória Benevides, o governo I]susteve o movimento pela pronta intervenção do Exército, passando por cima das autoridades e polícias estaduais.,
+	      ter: Graças ao castigo, M]tinha-os obedientes.,
+	      trazer: Os negócios o M]trazem apreensivo.,}
+Chave: MANTER <verb.stative>
+ILI: 02600965
+
+Sense 1
+{02600965} <verb.stative> keep, maintain, hold -- (keep in a certain state, position, or activity; e.g., "keep clean"; "hold in place"; "She always held herself as a lady"; "The students keep me on my toes")

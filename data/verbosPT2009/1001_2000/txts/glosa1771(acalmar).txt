@@ -1,0 +1,38 @@
+ANÁLISE DA GLOSA1771
+
+DADO O SYNSET:
+
+S='Glosa1771'
+	{acalmar: A situação só se normalizou por volta das 2h, quando o cabo Miguel, que tentava [acalmar seus colegas, conseguiu que os policiais parassem de atirar.,
+	 calmar: Consumir comidas ricas em calorias parece I]calmar os nervos.,
+	 desagastar: Brigaram, mas os amigos conseguiram H]desagastá-los.,
+	 desassanhar: x,
+	 desbravecer: x,
+	 desembravecer: O silêncio H]desembraveceu os cães.,
+	 desencalmar: Foi à praia para M]desencalmar-se.,
+	 desencolerizar: Sua paciência H]desencolerizou os fregueses.,
+	 desendemoniar: x,
+	 desenfezar: Fui visitar um "spa", me deparei com um Sr. gritante... ele me parecia bravo e dizia com um tom, de estar formulando uma frase clássica: um país decente se mede, justamente, pela quantidade de Robertos Marinhos que possui.... então o que fiz? fui ao banheiro I]desenfezar-me.,
+	 desenfurecer: Isso você converse com ela quando ela I]desenfurecer.,
+	 desenraivecer: Estas flores vão desenraivecê-la.,
+	 tranqüilizar: Em seu discurso, Lula procurou [tranquilizar os anfitriões que cobraram claramente o pagamento da dívida externa.,}
+	  
+A='Glosa3383'
+	{abespinhar, aferar, agastar, aquecer, arrebatar, assanhar, azedar, derrancar2, desnervar, emborrascar, embravecer, encolerizar, enervar, enfezar, enfurecer, enfuriar, enraivar, enraivecer, escandescer, espinhar, esquentar, estomagar, exaltar, exasperar, excitar, indignar, irar, irritar, picar, revoltar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1771' = “tornar calmo ou quieto”
+	{acalmar: A situação só se normalizou por volta das 2h, quando o cabo Miguel, que tentava [acalmar seus colegas, conseguiu que os policiais parassem de atirar.,
+	 calmar: Como que arrastado por força irresistível, procurando fugir à dor encarniçada, franqueava as distâncias, os elementos, os obstáculos materiais, sem que as belezas naturais nem os esplendores celestes pudessem I]calmar um instante a dor acerba da consciência, nem o pavor causado pela revelação da eternidade.,
+	 desenraivecer: Estas flores vão desenraivecê-la.,
+	 tranqüilizar: Em seu discurso, Lula procurou [tranquilizar os anfitriões que cobraram claramente o pagamento da dívida externa.,}
+	  
+A='Glosa3383'
+	{abespinhar, aferar, agastar, aquecer, arrebatar, assanhar, azedar, derrancar2, desnervar, emborrascar, embravecer, encolerizar, enervar, enfezar, enfurecer, enfuriar, enraivar, enraivecer, escandescer, espinhar, esquentar, estomagar, exaltar, exasperar, excitar, indignar, irar, irritar, picar, revoltar}
+Chave: ACALMAR <verb.emotion>
+ILI: 01713922
+
+Sense 1
+{01713922} <verb.emotion> calm, calm down, quiet, tranquilize, tranquillize, tranquillise, quieten, lull, still -- (make calm or still; "quiet the dragons of worry and fear")
+       => {01762034} <verb.emotion> comfort1, soothe, console, solace -- (give moral or emotional strength to)

@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA2457
+
+DADO O SYNSET:
+
+S='Glosa2457'
+	    {congelar-se: O leite ao I]congelar-se dilata-se de cêrca de 10 por cento. #,
+	      solidar-se: x,
+	      solidificar-se: Quanto tempo demorará para a placa I]se solidificar se ela for vazada sem sobreaquecimento?,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2457' = “Mudar de líquido para sólido quando refriado.”
+	    {congelar-se: Essa água subiu para a superfície e em contato com o ambiente frio externo I]congelou-se.,
+	      solidificar-se: À medida que as erupções cessaram, o magma do interior da crosta terrestre e da superfície se resfriou e I]solidificou-se.,}
+
+Chave: CONGELAR-SE <verb.change>
+ILI: 00432965
+
+Sense 7
+{00432965} <verb.change> freeze4, freeze out, freeze down -- (change from a liquid to a solid when cold; "Water freezes at 32 degrees Fahrenheit")
+       => {00432423} <verb.change> solidify -- (become solid; "The metal solidified when it cooled")
+           => {00135037} <verb.change> change integrity -- (change in physical make-up)
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night") 

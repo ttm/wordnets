@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA2604
+
+DADO O SYNSET:
+
+S='Glosa2604'
+	    {entortar: Antes dos seis meses os recém-nascidos ainda não têm uma visão clara e podem I]entortar os olhos sem que isto signifique um problema.,
+	      envesgar: Quer parar de I]envesgar o olho. Parece bobo. # Outro dia desses, a empregada I]envesgou os olhos e bambeou as pernas.,
+	      enviesar: O careca I]enviesou o olhos.,
+	      retorcer: M]Retorcer os olhos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2604' =  “Aproximar parcialmente os olhos.”
+	    {entortar: Antes dos seis meses os recém-nascidos ainda não têm uma visão clara e podem I]entortar os olhos sem que isto signifique um problema.,
+	      envesgar: Outro dia desses, a empregada I]envesgou os olhos e bambeou as pernas.,
+	      enviesar: O careca I]enviesou o olhos.,
+	      retorcer: M]Retorcer os olhos.,}
+
+Chave: ENVESGAR <verb.body>
+ILI: 00008501
+
+Sense 1
+{00008501} <verb.body> squint, squinch, cross one's eyes -- (partly close one's eyes; "The children squinted to frighten each other")
+       => {00033053} <verb.body> grimace, make a face, pull a face -- (contort the face to indicate a certain mental or emotional state; "He grimaced when he saw the amount of homework he had to do")
+           => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+               => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel") 

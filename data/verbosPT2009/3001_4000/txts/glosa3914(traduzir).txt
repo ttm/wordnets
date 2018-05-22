@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA3914
+
+DADO O SYNSET:
+	
+S='Glosa3914'
+    	{pôr: M]Pôs em vernáculo algumas obras estrangeiras.,
+      	 tornar: Camilo M]tornou em língua portuguesa O Gênio do Cristianismo, de Chateaubriand.,
+      	 traduzir: A responsável pelos direitos autorais das Éditions Robert Laffont, Susanna Lea, ironizou, em carta às editoras que [traduziram a obra, o fato de que nenhum dos jornalistas que contestaram o diário tivesse conhecido a autora .,
+      	 transladar: x,
+      	 transplantar: M]Transplantou do inglês para o português algumas obras célebres.,
+      	 transportar: Um amigo queria uma coleção de Crisis, outro pedia um livro de Roberto Arlt, um terceiro os últimos contos de Borges e, na falta de poder [transportar filmes, tínhamos de voltar com um detalhado resumo de realizações como Le Dernier Tango à Paris, La Grande Bouffe, The Devils, État de Siège, Z, etc .,
+      	 transverter: Encarregou-se de H]transverter as obras de Eça de Queiroz,
+      	 trasladar: O escrivão [trasladará para os autos cópia autêntica do termo de audiência .,
+      	 verter: Teve a delicadeza de [verter para o portugês a canção «The Tale» (O Conto) , tirada do cultuado «Dolmen Music» .,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3914' = “reformular (palavras) de uma língua em outra”
+    	{traduzir: A responsável pelos direitos autorais das Éditions Robert Laffont, Susanna Lea, ironizou, em carta às editoras que [traduziram a obra, o fato de que nenhum dos jornalistas que contestaram o diário tivesse conhecido a autora .,
+ transladar: São Cirilo compôs o alfabeto eslavo e I]transladou para o velho búlgaro (ou eslavônico) os livros santos.,
+      	 transportar: Tento, aqui, I]transportar para o inglês alguns elementos da beleza poética e dramática do original enquanto mantenho uma tradução bem literal.,
+      	 trasladar: Este é o seu maior elogio, a virtude mágica do seu trabalho, por ter conseguido I]trasladar para o vernáculo, conservando o ritmo do belo verso italiano, os tercetos imortais.,
+      	 verter: Teve a delicadeza de [verter para o portugês a canção “The Tale” (O Conto) , tirada do cultuado “Dolmen Music”.}
+Chave: TRADUZIR <verb.communication>
+ILI: 00928033
+
+Sense 1
+{00928033} <verb.communication> translate, interpret1, render4 -- (restate (words) from one language into another language; "I have to translate when my in-laws from Austria visit the U.S."; "Can you interpret the speech of the visiting dignitaries?"; "She rendered the French poem into English"; "He translates for the U.N.")
+       => {00926576} <verb.communication> repeat, reiterate, ingeminate, iterate, restate, retell -- (to say, state, or perform again; "She kept reiterating her request")
+           => {00920928} <verb.communication> tell -- (let something be known; "Tell them that you will be late")
+               => {00804489} <verb.communication> inform -- (impart knowledge of some fact, state or affairs, or event to; "I informed him of his rights")
+                   => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                       => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                           => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

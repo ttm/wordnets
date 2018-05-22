@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0401
+
+DADO O SYNSET:
+
+S='Glosa401'
+{abonar-se: I]Abona-se a sua filiação como uma prova de pujança partidária! ,
+afiançar-se: H]Afiançou-se antes de comparecer ao tribunal.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa401' = “dar crédito (dineiro ou benefício) a alguém”
+{abonar-se: I]Abona-se a sua filiação como uma prova de pujança partidária! ,
+afiançar-se: Você pode ter uma idéia de negócio inovadora e fora de série que lhe tem permitido I]afiançar-se num setor de mercado.,}
+Chave: ABONAR-SE <verb.possession>
+ILI: 02217954
+
+Sense 10
+{02217954} <verb.possession> advance -- (pay in advance; "Can you advance me some money?")
+       => {02256982} <verb.possession> lend, loan -- (give temporarily; let have for a limited time; "I will lend you my car"; "loan me some money")
+           => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+               => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children")

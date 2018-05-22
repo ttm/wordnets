@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA3345
+
+DADO O SYNSET:
+
+S='Glosa3345'
+	    {
+	      agravar-se: O estado de saúde do pintor Iberê Camargo, 79, [agravou-se ontem.,
+	      exacerbar-se: Deve ser administrado com precaução na presença de doença cardiovascular, pois pode I]exacerbar-se na presença de alterações do sistema nervoso central.,
+	      malignar: As dores H]malignaram.,
+	      recrudescer: A febre M]recrudesceu.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3345' = “tornar pior”
+	     {agravar-se: O estado de saúde do pintor Iberê Camargo, 79, [agravou-se ontem.,
+	      exacerbar-se: O pânico que tomou conta dela I]exacerbou-se pelo ruído que as pessoas fizeram para ficar de pé.,
+	      malignar: As dores H]malignaram.,
+	      recrudescer: A dengue I]recrudesceu, este ano, em todas as regiões brasileiras.,}
+Chave: AGRAVAR-SE <verb.change> 
+ILI: 00200852
+
+Sense 1
+{00200852} <verb.change> worsen1, aggravate, exacerbate, exasperate -- (make worse; "This drug aggravates the pain")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

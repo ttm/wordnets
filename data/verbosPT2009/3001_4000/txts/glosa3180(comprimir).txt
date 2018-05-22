@@ -1,0 +1,39 @@
+ANÁLISE DA GLOSA3180
+
+DADO O SYNSET:
+
+S='Glosa3180'
+	    {
+	      acochar: Esta peça era tirânica, pois tendia a I]acochar as banhas, diminuindo a vontade dos movimentos, além de que eram feitas com talas de aço.,
+	      adstringir: Regula e I]adstringe o fluxo de Qi, reduz o acúmulo e controla a essência.,
+	      apertar: Hoje o poeta recebe convidados atenciosamente, [aperta a mão com firmeza, olha à sua maneira nos olhos e fala de boas épocas passadas, que se confundem com a cultura espanhola. ,
+	      arrochar: Encarou-a fixamente, e sem despregar dela os olhos, levou as mãos aos atilhos da cintura da saia, que começou a arrochar cada vez com mais força, murmurando certas orações ,
+	      cochar: x,
+	      comprimir: Pode-se formar um hematoma no local da pancada e este [comprimir o cérebro.,
+	      esmagar: E as palavras dos dous andavam-lhe no cérebro, como peixinhos de ouro em globo de vidro, abaixo, acima, rutilantes: aqui é que se deve [esmagar a cabeça da cobra.,
+	      estrangular: Isso ocorre quando o cordão espermático dá voltas sobre seu próprio eixo, I]estrangulando a circulação sangüínea testicular.,
+	      inquerir: x,
+	      oprimir: A pessoa sente como se alguma coisa lhe estivesse I]oprimindo a fronte ea parte superior da cabeça.,
+	      premer: Que força o esmagava, I]premendo-lhe os pés contra o chão?,
+	      premir: Outra técnica relativamente comum consiste em cruzar as pernas e I]premir a região da vulva pela contração dos músculos das coxas.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3180' = “espremer ou apertar junto”
+	     {acochar: Estufa-se a magra com enchimentos para simular contornos, como a gorda se espartilha e I]acocha para figurar de esbelta.,
+	      adstringir: Regula e I]adstringe o fluxo de Qi, reduz o acúmulo e controla a essência.,
+	      apertar: O presidente, que estava sentado, [apertou rapidamente o cinto de segurança e não foi afetado pelo maior baque. ,
+	      arrochar: FHC também I]arrochou brutalmente os salários dos servidores, desestimulando o seu trabalho social ,
+	      comprimir: O impacto da queda do helicóptero I]comprimiu a medula espinhal de Ilário Marques.,
+	      esmagar: Jogou fora a ponta acesa e a I]esmagou com o pé.,
+	      estrangular: O aumento da carga tributária I]estrangulou a atividade econômica, restringiu os investimentos privados e incentivou a informalidade.,
+	      oprimir: A crescente terceirização de serviços também I]oprimiu o desenvolvimento das contratações formais no setor.,
+	      premer: Que força o esmagava, I]premendo-lhe os pés contra o chão?,
+	      premir: I]Premiu ansiosamente o comando do fecho centralizado, mas nada aconteceu.,}
+Chave: COMPRIMIR <verb.contact>
+ILI: 01347521
+Sense 2
+{01347521} <verb.contact> compress, constrict, squeeze1, compact, contract4, press2 -- (squeeze or press together; "she compressed her lips"; "the spasm contracted the muscle")
+       => {00407836} <verb.change> tighten -- (become tight or tighter; "The rope tightened")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

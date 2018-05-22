@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA1864
+
+DADO O SYNSET:
+
+S='Glosa1864'
+{calar2: x,
+ embutir-se: Nas salas, I]embutiram-se tubulações para futuras instalações. ,
+ encaixar-se: As peças trabalhadas com a competência dos artesãos I]encaixaram-se perfeitamente.,
+ encistar-se: x,
+ enquistar-se: x,
+ entrar: A rolha não M]entra na garrafa.,}
+	  
+A='Glosa1526'
+{desencaixar-se, desquiciar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1864' = “colocar-se ou introduzir-se em algo”
+{embutir-se: Os seus olhos, ele viu, I]embutiram-se em cavernas.,
+ encaixar-se: O carro deu um pinote e I]encaixou-se no muro da frente da garagem.,
+ entrar: Conhecendo o perfil genético do tumor, poderemos construir um medicamento que vai somente contra essa célula tumoral, sem prejudicar outras células do corpo, como uma chave que I]entra na fechadura da porta.,}
+	  
+A='Glosa1526'
+{desencaixar-se, desquiciar-se}
+Chave: ENCAIXAR-SE <verb.contact>
+ILI: 01380907
+
+Sense 1
+{01380907} <verb.contact> insert, infix1, enter3, introduce -- (put or introduce into something; "insert a picture into the text")
+       => {01257892} <verb.contact> attach1 -- (cause to be attached)
+           => {01314764} <verb.contact> connect, link, tie1, link up -- (connect, fasten, or put together two or more pieces; "Can you connect the two loudspeakers?"; "Tie the ropes together"; "Link arms")

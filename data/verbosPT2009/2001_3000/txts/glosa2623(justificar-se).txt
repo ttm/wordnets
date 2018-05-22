@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA2623
+
+DADO O SYNSET:
+
+S='Glosa2623'
+	    {absolver-se: A Carta de Vargas é um dos maiores documentos de nossa história política contemporânea. Um documento tão alto encerra admiravelmente a existência agitada do caudilho. Com ele, Vargas procura I]absolver-se e redimir-se de todas as faltas que lhe impuseram. ,
+	      desculpar-se: Deixar de votar porque escolheu mal na última vez, ou [desculpar-se afirmando que todos os políticos são iguais, é a maneira mais segura de garantir que uma maioria de maus políticos continue sendo eleita por uma maioria de eleitores mais desatentos.,
+	      desonerar-se: x,
+	      escusar-se: I]Escusar-se de seus erros por fraqueza da carne não passa de sofisma para escapar a responsabilidades.,
+	      exculpar-se: Acusado que, a fim de incriminar o contendor e I]exculpar-se pela legítima defesa, fere-se a si próprio.,
+	      justificar-se: Os missionários encareciam assim a importância da sua catequese; os aventureiros buscavam [justificar-se da crueldade com que tratavam os índios.,
+	      ressalvar-se: O motorista infrator A]ressalvou-se alegando socorro urgente.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2623' = “Defender (-se), explicar (-se), livrar (-se) de ou pedir desculpas por algo através da persuasão.”
+	    {absolver-se: Vargas procura I]absolver-se e redimir-se de todas as faltas que lhe impuseram.,
+	      desculpar-se: A companhia I]desculpou-se pelo que aconteceu, e se comprometeu a reorientar os funcionários dos aeroportos.,
+	      escusar-se: I]Escusou-se por não ter citado seu nome.,
+	      exculpar-se: Lhe seria fácil I]exculpar-se por motivos de doença ou de falta de tempo.,
+	      justificar-se: Os aventureiros buscavam [justificar-se da crueldade com que tratavam os índios.,
+	      ressalvar-se: O motorista infrator A]ressalvou-se alegando socorro urgente.,}
+
+Chave: JUSTIFICAR-SE <verb.communication>
+ILI: 00865308
+
+Sense 3
+{00865308} <verb.communication> apologize1, apologise1, excuse1, justify2, rationalize, rationalise -- (defend, explain, clear away, or make excuses for by reasoning; "rationalize the child's seemingly crazy behavior"; "he rationalized his lack of success")
+       => {00865802} <verb.communication> defend, support1, fend for -- (argue or speak in defense of; "She supported the motion to strike")
+           => {00746664} <verb.communication> argue2, reason -- (present reasons and arguments)
+               => {00747406} <verb.communication> present, represent11, lay out -- (bring forward and present to the mind; "We presented the arguments to him"; "We cannot represent this knowledge to our formal reason")
+                   => {00976600} <verb.communication> state, say, tell4 -- (express in words; "He said that he wanted to marry her"; "tell me what is bothering you"; "state your opinion"; "state your name")
+                       => {00909455} <verb.communication> express, verbalize3, verbalise3, utter1, give tongue to -- (articulate; either verbally or with a cry, shout, or noise; "She expressed her anger"; "He uttered a curse") 

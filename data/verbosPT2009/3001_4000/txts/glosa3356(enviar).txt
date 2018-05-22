@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA3356
+
+DADO O SYNSET:
+
+S='Glosa3356'
+	    {
+	      despachar: Níveo de Freitas comunicou o fato a Brindeiro e [despachou para o governador um comunicado pedindo a retificação das nomeações. ,
+	      encaminhar: [Encaminhou ontem ao Ministério da Agricultura um pedido de autorização de importação de 300 quilos de sementes de maconha. ,
+	      enviar: Caprichou na edição de um vídeo de 20 minutos sobre sua atuação como atriz, além de trabalhos publicitários, e [enviou a fita para a International Creative Management.,
+	      estradear: x,
+	      expedir: O deputado José Dirceu , candidato ao governo de São Paulo, [expediu seis mil convites para comemorar a festa de seu aniversário. ,
+	      mandar: Levantou o nome dos 20 deputados que faltaram à votação, semana passada, e [mandou telegramas para todos. ,
+	      remeter: O procurador geral de Justiça do Rio, Antônio Carlos Biscaia, não [remeteu à Interpol os documentos que, segundo ele, relacionariam o jogo do bicho ao tráfico de drogas. ,
+	      transmitir: PC [transmitiu ontem a sua versão sobre o caso Maciel por intermédio do seu advogado Nabor Bulhões, com quem conversou sobre o assunto na prisão. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3356' = “causar ou mandar ser levado, enviado ou transmitido para outro lugar”
+	     {despachar: O conselheiro-relator Antônio Roque Citadini [despachou o processo à PM, que terá 30 dias para se defender ou tomar medidas que julgar cabíveis. ,
+	      encaminhar: A Vale já [encaminhou pedido ao Conselho Nacional de Desestatização pedindo autorização para realização do negócio. ,
+	      enviar: Ontem, a Casa da Moeda [enviou à Superintendência da Polícia Federal no Rio de Janeiro 8 mil passaportes para atender os pedidos que se acumularam desde o dia 26 do mês passado, quando a emissão foi suspensa.,
+	      expedir: Somente ontem o STJ [expediu as notificações aos demais acusados. ,
+	      mandar: Horas depois do ocorrido, o PT [mandou via Internet comunicados e imagens para as principais organizações internacionais de direitos humanos, incluindo a Human Rights Watch. ,
+	      remeter: O procurador, então, [remeteu a representação para a Coordenadoria de Defesa da Cidadania. ,
+	      transmitir: PC [transmitiu ontem a sua versão sobre o caso Maciel por intermédio do seu advogado Nabor Bulhões, com quem conversou sobre o assunto na prisão. ,}
+Chave: ENVIAR <verb.contact>
+ILI: 01396120
+
+Sense 2
+{01396120} <verb.contact> send, send out -- (to cause or order to be taken, directed, or transmitted to another place; "He had sent the dispatches downtown to the proper people and had slept")
+       => {01394266} <verb.contact> transmit, transfer, transport1, channel, channelize, channelise -- (send from one person or place to another; "transmit a message")
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")
+          Also See-> {00918683} <verb.communication> send back#1

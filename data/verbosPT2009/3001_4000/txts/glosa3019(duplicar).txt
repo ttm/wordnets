@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA3019
+
+DADO O SYNSET:
+
+S='Glosa3019'
+	    {
+	      duplicar: Esse peso [duplica dos quatro aos cinco meses e triplica até o final do primeiro ano de vida.,
+	      geminar: Alternativamente, pode-se I]geminar os 2 métodos para obter a imagem com 256 tons de cinza. # Em todos os prédios das AMC será obrigatório I]geminar os dois primeiros pavimentos.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3019' = “aumentar duas vezes”
+	     {duplicar: Esse peso [duplica dos quatro aos cinco meses e triplica até o final do primeiro ano de vida.,
+	      geminar: Alternativamente, pode-se I]geminar os 2 métodos para obter a imagem com 256 tons de cinza. # Em todos os prédios das AMC será obrigatório I]geminar os dois primeiros pavimentos.,}
+Chave: DUPLICAR <verb.change>
+ILI: 00237930
+
+Sense 4
+{00237930} <verb.change> double, duplicate -- (increase twofold; "The population doubled within 50 years")
+       => {00239103} <verb.change> multiply, manifold1 -- (combine or increase by multiplication; "He managed to multiply his profits")
+           => {00147655} <verb.change> increase2 -- (make bigger or more; "The boss finally increased her salary"; "The university increased the number of students it admitted")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA2220
+
+DADO O SYNSET:
+
+S='Glosa2220'
+	    {esvazar: O que você deve fazer é deletá-lo e em seguida I]esvazar a lixeira.,
+	      esvaziar: O avião teria que descer em Guayaquil, trocar pneus e [esvaziar o tanque para poder pousar na capital do Equador .,
+	      vaziar: Ainda estou na fase de trazer as caixas, estou I]vaziando aos poucos por isso não repare na bagunça.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2220' = “ficar vazio, descoupado”
+	    {esvazar: O que você deve fazer é deletá-lo e em seguida I]esvazar a lixeira.,
+	      esvaziar: O avião teria que descer em Guayaquil, trocar pneus e [esvaziar o tanque para poder pousar na capital do Equador .,
+	      vaziar: Ainda estou na fase de trazer as caixas, estou I]vaziando aos poucos por isso não repare na bagunça.,}
+
+Chave: ESVAZIAR <verb.change>
+ILI: 00436730
+
+Sense 1
+{00436730} <verb.change> empty1 -- (make void or empty of contents; "Empty the box"; "The alarm emptied the building")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

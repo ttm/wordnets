@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA3210
+
+DADO O SYNSET:
+
+S='Glosa3210'
+	    {
+	      atritar-se: Tudo comodamente, para marcar a não aceitação da prática, porém com cautelas para não I]atritar-se com poderosos fazendeiros e empresários do norte ao sul.,
+	      desabrir-se: x,
+	      desajustar-se: x,
+	      desamistar-se: x,
+	      desarranjar-se: O aluno M]desarranjou-se com a diretora.,
+	      desavir-se: Eu continuei com a banda que tínhamos, que tornou-se Urchin; ele voltou para a banda por um tempo depois de I]desavir-se com o vocalista do Iron Maiden.,
+	      desconchavar-se: A]Desconchavou-se com o sócio.,
+	      desentender-se: Pouco depois Senna [desentendeu-se com Peter Warr, dono da Lótus, e a ruptura de seu contrato foi bastante desagradável. ,
+	      indispor-se: Carlos Luz I]indispôs-se com o Marechal Henrique Teixeira Lott, pois mostrava-se conivente e complacente diante das ameaças de alguns setores que não desejavam a posse de JK.,
+	      intrigar-se: Ajudou os portugueses, I]intrigou-se com os jesuítas e fundou Santo André da Borda do Campo.,
+	      malquistar-se: Antônio Silvino I]malquistou-se com alguns repórteres desastrados que o ofenderam.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3210'
+	     {atritar-se: O repórter I]atritou-se com o dono da rádio por causa de suas idéias para sua próxima campanha política.,
+	      desarranjar-se: O aluno M]desarranjou-se com a diretora.,
+	      desavir-se: Ele I]desaviu-se com a NASA quando tomou conhecimento da corrupção e dos problemas técnicos enfrentados pelo ônibus especial Challenger antes do lançamento.,
+	      desentender-se: Pouco depois Senna [desentendeu-se com Peter Warr, dono da Lótus, e a ruptura de seu contrato foi bastante desagradável. ,
+	      indispor-se: Carlos Luz I]indispôs-se com o Marechal Henrique Teixeira Lott, pois mostrava-se conivente e complacente diante das ameaças de alguns setores que não desejavam a posse de JK.,
+	      intrigar-se: Ajudou os portugueses, I]intrigou-se com os jesuítas e fundou Santo André da Borda do Campo.,
+	      malquistar-se: Antônio Silvino I]malquistou-se com alguns repórteres desastrados que o ofenderam.,}
+Chave: INDISPOR-SE <verb.communication>
+ILI: EQ_NEAR_SYNONYM - 00778773
+
+Sense 1
+{00778773} <verb.communication> disagree, differ, dissent1, take issue -- (be of different opinions; "I beg to differ!"; "She disagrees with her husband on many questions")

@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA2030
+
+DADO O SYNSET:
+	
+S='Glosa2030'
+    	{desparramar: x,
+      	 difundir: O sol H]difundira a neve da encosta.,
+      	 espalhar: Depois os mancebos guerreiros [espalharam pelo campo, troncos de árvores cortadas com as ramas e as folhas; e fincaram cercas de estacas entre os barrancos da várzea que ia morrer à margem do rio.,
+      	 esparralhar: x,
+      	 esparramar: H]Esparramou os livros sobre a mesa.,
+      	 espraiar: x,}
+  
+A='Glosa2816'
+    	{arrebanhar, juntar, rebanhar, reunir}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2030' = “distribuir [algo] sobre uma área”
+    	{difundir: L é o comprimento do cilindro efetivamente utilizado com gel e Mt é a quantidade que I]difundiu para fora o gel.,
+      	 espalhar: Moura vestiu a fantasia prateada, [espalhou purpurina pelo corpo e saiu quinta à noite no bloco “Unidos da Maria Antônia”.,
+      	 esparramar: Três veículos bateram na rodovia BR-364, em Rondonópolis, e uma carreta envolvida I]esparramou batatas pela pista.}
+  
+A='Glosa2816'
+    	{arrebanhar, juntar, rebanhar, reunir}
+Chave: ESPARRAMAR <verb.motion>
+ILI: 02023514
+
+Sense 6
+{02023514} <verb.motion> spread, scatter2, spread out4 -- (strew or distribute over an area; "He spread fertilizer over the lawn"; "scatter cards across the table")
+       => {01984927} <verb.motion> circulate3, pass around, pass on, distribute -- (cause to be distributed; "This letter is circulating among the faculty")
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

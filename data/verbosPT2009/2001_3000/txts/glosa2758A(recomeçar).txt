@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA2758
+
+DADO O SYNSET:
+
+S='Glosa2758'
+	    {iterar: Configurada para I]iterar 3000 vezes o conjunto de treinamento de duas palavras, a rede apresentou a seguinte plasticidade durante o tempo de treinamento (realizado em um computador tipo 486 DX 2 100 MHz com 24 Mbytes de memória ram).,
+	      recomeçar: Foi portanto necessário proceder à imediata dessecação das terras inundadas e [recomeçar a construção dos diques projetados para o Zuiderzee.,
+	      reencetar: Na hora em que o Brasil se apronta para I]reencetar a urgente aventura de reconstrução do seu desenvolvimento, é mais do que oportuno, a par de louvar as vantagens comparativas da sua grandeza, tratar dos graves problemas que ela acrescenta a essa tarefa, para que não se incorra nos erros do passado, revivendo o espírito de que, nessa terra, “em se plantando, tudo dá”. # Quem se recusa a I]reencetar o trabalho, porque foi mal sucedido antes, não merece desfrutar o êxito dos resultados.,
+	      reiniciar: Com isso, a licitação não perdeu a validade em razão do tempo e o prefeito Paulo Maluf pôde [reiniciar as obras com base no novo contrato.,
+	      reiterar: Houve elaboração e alguma ousadia na inserção de cenas de documentários de guerra que [reiteram bombardeios sucessivos como pano de fundo do dilaceramento da mãe.,
+	      renovar: Em 1918 veio a Missão Francesa, para [renovar o ensino militar no país.,
+	      repetir: Aliás, da construção ainda restam materiais que podem [repetir a tragédia do Pacaembu, em que a desídia dos nossos dirigentes colocou paus e pedras nas mãos de torcedores assassinos.,
+	      retravar: H]Retravar uma luta.,
+	      tornar: O presidente Musharraf I]tornou a fazer estas promessas.,
+	      voltar: I]Voltou às suas atividades diárias, como trabalhar, estudar, frequentar bares, restaurantes, cinemas, eventos e outros; voltou a se relacionar com as pessoas, tanto na parte social como na afetiva; voltou a viajar e resumindo, voltou a fazer tudo o que necessita e tem vontade. ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2758A' = “Principiar novamente”
+	    {recomeçar: Prefeitura I]recomeçou obras no distrito industrial Adolfo Baldan.,
+	      reencetar: Enxugou as lágrimas que lhe corriam pelas faces retintas e I]reencetou a busca interrompida há pouco.,
+	      reiniciar: Ammoc I]reiniciou treinamentos para garantir qualidade da merenda escolar.,
+                   renovar: Servindo-se do apoio de poderosos, I]renovou a luta contra o Santo Ofício.,
+	      tornar: O presidente Musharraf I]tornou a fazer estas promessas.,
+	      voltar: I]Voltou às suas atividades diárias, como trabalhar, estudar, frequentar bares, restaurantes, cinemas, eventos e outros.,}
+
+Chave: RECOMEÇAR <verb.change>
+ILI: 00335385
+
+Sense 2
+{00335385} <verb.change> recommence -- (beging again; "we recommenced his reading after a short nap")
+       => {00334609} <verb.change> get down, begin, get12, start out, start, set about, set out, commence -- (take the first step or steps in carrying out an action; "We began working at dawn"; "Who will start?"; "Get working as soon as the sun rises!"; "The first tourists began to arrive in Cambodia"; "He began early in the day"; "Let's get down to work now") 

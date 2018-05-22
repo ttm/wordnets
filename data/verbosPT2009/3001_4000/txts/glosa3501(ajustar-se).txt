@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA3501
+
+DADO O SYNSET:
+
+S='Glosa3501'
+	    {
+	      acomodar-se: Todas as correntes políticas existentes tiveram, assim, de [se acomodar a essa nova estrutura para concorrer às eleições indiretas para os cargos executivos,
+	      adaptar-se: Entretanto, cresceu muito a solicitação de serviços hospitalares por idosos, e isso acaba pressionando o Sistema Único de Saúde a [se adaptar/As pessoas devem [se adaptar às mudanças com a tecnologia,
+	      ajustar-se: Os seres vivos [se ajustam a mudanças em seu ambiente de várias maneiras/De acordo com o ministro, algumas clínicas estão sob exigências das equipes de auditores e têm procurado [se ajustar às normas do Ministério,                                                                                                                                                           ,
+	      amoldar-se: Curiosamente, ele [se amolda à alcunha e dá mostras de decisão no amor e na defesa de sua própria dignidade/ ...orientar o desenvolvimento urbano e ao mesmo tempo ]amoldar-se a ele,
+	      conformar-se: Pode-se observar que alguns vocábulos [se conformam perfeitamente dentro do dialeto culto,
+	      engrenar-se: Cabe à esquerda, em vez de ignorar ou mesmo desdenhar por moralismo as questões do consumo, tentar [engrená-las no eixo da cidadania, da democracia...,
+	      entrosar-se: A dívida externa e estatal interna e a aparente incapacidade do país [se entrosar no novo mercado mundial espantam os investimentos estrangeiros,
+	      moldar-se: Sentia, dentro de si, uma fé apenas medíocre nestas práticas, mas havia que ]moldar-se ao espírito da época,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3501' = “mudar ou regular para alcançar precisão ou conformar com um padrão”
+	     {acomodar-se: Todas as correntes políticas existentes tiveram, assim, de [se acomodar a essa nova estrutura para concorrer às eleições indiretas para os cargos executivos,
+	      adaptar-se: A Irlanda separatista [adapta-se à linguagem de Hollywood para tornar a narrativa mais atraente,
+	      ajustar-se: Os seres vivos [se ajustam a mudanças em seu ambiente de várias maneiras/De acordo com o ministro, algumas clínicas estão sob exigências das equipes de auditores e têm procurado [se ajustar às normas do Ministério,                                                                                                                                                     
+	      amoldar-se: Curiosamente, ele [se amolda à alcunha e dá mostras de decisão no amor e na defesa de sua própria dignidade,
+	      conformar-se: Tome-se o caso da gastronomia, cuja meta é a busca do prazer através da alimentação e que sempre se I]conforma ao espírito da época com o seu gosto,
+	      engrenar-se: O mecanismo do mercado se I]engrena aos vários elementos da vida industrial,
+	      entrosar-se: A dívida externa e estatal interna e a aparente incapacidade do país [se entrosar no novo mercado mundial espantam os investimentos estrangeiros,
+	      moldar-se: Cristo I]moldou-se ao imaginário dos povos e se tornou a figura mais importante da história da humanidade,}
+Chave: AJUSTAR-SE <verb.change>
+ILI: 00287086
+
+Sense 1
+{00287086} <verb.change> adjust, set, correct9 -- (alter or regulate so as to achieve accuracy or conform to a standard; "Adjust the clock, please"; "correct the alignment of the front wheels")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

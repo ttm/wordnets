@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA0995
+
+DADO O SYNSET:
+
+S='Glosa995'
+{copiar: Hoje muitos professores preferem o aprendizado com conteúdo, o que significa que, em vez de [copiarem filas de letras para praticar caligrafia, as crianças escrevem diários.,
+imitar: Além de desenvolverem realizações intelectuais próprias, os bizantinos cultivaram e [imitaram as realizações dos gregos e romanos.,
+plagiar: Eles fizeram o programa de governo em um final de semana porque [plagiaram.,
+roubar: Os soviéticos [roubaram a idéia mais tarde, em 1924.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa995' = “reproduzir produção ou comportamento de alguém”
+{copiar: Hoje muitos professores preferem o aprendizado com conteúdo, o que significa que, em vez de [copiarem filas de letras para praticar caligrafia, as crianças escrevem diários.,
+imitar: Além de desenvolverem realizações intelectuais próprias, os bizantinos cultivaram e [imitaram as realizações dos gregos e romanos.,
+plagiar: Eles fizeram o programa de governo em um final de semana porque [plagiaram.,
+roubar: Os soviéticos [roubaram a idéia mais tarde, em 1924.,}
+
+Chave: COPIAR <verb.creation>
+ILI: 01693699
+
+Sense 2
+{01693699} <verb.creation> imitate, copy, simulate4 -- (reproduce someone's behavior or looks; "The mime imitated the passers-by"; "Children often copy their parents or older siblings")
+       => {01687654} <verb.creation> reproduce -- (make a copy or equivalent of; "reproduce the painting")
+           => {01575778} <verb.creation> produce, make1, create3 -- (create or manufacture a man-made product; "We produce more cars than we can sell"; "The company has been making toys for two centuries")

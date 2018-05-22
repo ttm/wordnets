@@ -1,0 +1,41 @@
+ANÁLISE DA GLOSA3818
+
+DADO O SYNSET:
+
+S='Glosa3818'
+{colorar: Partiu da necessidade de I]colorar tanto de vermelho, como de preto e pintado.,
+	 colorear: x,
+	 colorir: Construtoras [colorem prédios com tinta látex acrílica e materiais nobres.,
+	 colorizar: O artista inventou uma técnica para I]colorizar as gravuras que encantaram pesquisadores.,
+	 corar: É o grande estabelecimento para lavar e I]corar roupa existente na cidade.,
+	 matizar: As agulhas com que tece a renda, e as tintas de que [matiza o algodão.,
+	 pigmentar: Tatuador é o indivíduo que domina técnicas destinadas a I]pigmentar a pele.,
+	 pintar: Remete às primeiras experiências de utilização de cor ao [pintar artesanalmente as vestes de uma dançarina indiana.,
+	 tingir: O problema seria reflexo de uma intoxicação provocada por uma substância utilizada para [tingir os cabelos.,
+	 vestir: M]Vestir de escarlate a cortina.}
+
+A='Glosa1552'
+{decolorar, descolorar, descolorir, descorar, desmerecer, destingir}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3818' = “aplicar tinta [em]; revestir com uma camada de tinta”
+{colorar: Partiu da necessidade de I]colorar tanto de vermelho, como de preto e pintado.,
+	 colorir: Construtoras [colorem prédios com tinta látex acrílica e materiais nobres.,
+	 colorizar: O artista inventou uma técnica para I]colorizar as gravuras que encantaram pesquisadores.,
+	 corar: É o grande estabelecimento para lavar e I]corar roupa existente na cidade.,
+	 matizar: As agulhas com que tece a renda, e as tintas de que [matiza o algodão.,
+	 pigmentar: Tatuador é o indivíduo que domina técnicas destinadas a I]pigmentar a pele.,
+	 pintar: Remete às primeiras experiências de utilização de cor ao [pintar artesanalmente as vestes de uma dançarina indiana.,
+	 tingir: O problema seria reflexo de uma intoxicação provocada por uma substância utilizada para [tingir os cabelos.,
+	 vestir: M]Vestir de escarlate a cortina.}
+
+A='Glosa1552'
+{decolorar, descolorar, descolorir, descorar, desmerecer, destingir}
+Chave: PINTAR <verb.contact>
+ILI: 01322772
+
+Sense 2 
+{01322772} <verb.contact> paint -- (apply paint to; coat with paint; "We painted the rooms yellow")
+       => {01226248} <verb.contact> coat, surface -- (put a coat on; cover the surface of; furnish with a surface; "coat the cake with chocolate")
+           => {01293336} <verb.contact> cover -- (provide with a covering or cause to be covered; "cover her face with a handkerchief"; "cover the child with a blanket"; "cover the grave with flowers")

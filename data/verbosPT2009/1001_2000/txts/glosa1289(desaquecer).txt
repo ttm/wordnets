@@ -1,0 +1,36 @@
+ANÁLISE DA GLOSA1289
+
+DADO O SYNSET:
+
+S='Glosa1289'
+{afrescar: Retire do fogo, junte a gelatina, e deixe I]afrescar.,
+ arrefecer: Ele deveria juntar leite a ferver com açúcar, misturar bem, deixar I]arrefecer e, então, pôr a mistura a congelar,
+ arrefentar: x,
+ desafoguear: Um vento pequeno que espalha papéis pela avenida, passou de viagem por aí, e ele sentiu-lhe a carícia que vem I]desafoguear o corpo quente,
+	 desaquecer: Após I]desaquecer, a máquina deve trabalhar em marcha lenta por três minutos.,
+ desencalmar: Soprou uma brisa H]desencalmando os momentos de sol forte.,
+ refecer: Deixem I]refecer o chá quando estiver frio com um algodão ou paninho,
+ refrescar: O Chuá de Verão, uma cascata articial de 22 metros de extensão, dá o clima tropical ao local e ajuda a [refrescar quem for ao Summer Point. ,
+ refrigerar: No verão, o linho H]refrigera o corpo.,}
+	 
+A='Glosa1290'
+{aquecer, encalmar, esquentar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1289' = “tornar fresco ou mais fresco”
+{afrescar: Retire do fogo, junte a gelatina, e deixe I]afrescar.,
+ arrefecer: O ar exterior mais frio ao passar pelo condensador I]arrefece o refrigerante de uma forma tão brusca que este se condensa,
+ desafoguear: Um vento pequeno que espalha papéis pela avenida, passou de viagem por aí, e ele sentiu-lhe a carícia que vem I]desafoguear o corpo quente.,
+	 desaquecer: Dalmir desligou dois freezers e I]desaqueceu a piscina.,
+ refecer: Deixem I]refecer o chá quando estiver frio com um algodão ou paninho,
+ refrescar: Os ventiladores no interior não conseguiam [refrescar o ambiente.,
+ refrigerar: A água I]refrigera o corpo ao expulsar pela pele o suor aquecido.,}
+A='Glosa1290'
+{aquecer, encalmar, esquentar}
+Chave: DESAQUECER <verb.change>
+ILI: 00359141
+
+Sense 1
+{00359141} <verb.change> cool1, chill1, cool down -- (make cool or cooler; "Chill the food")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

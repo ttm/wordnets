@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA2997
+
+DADO O SYNSET:
+
+S='Glosa2997'
+	    {avantajar: x,
+	      elevar: x,
+	      ganhar: As bebidas espirituosas A]ganham com os anos.,
+	      melhorar: Vinhos que I]melhoram com os anos são exceção.,}
+
+	  A='Glosa1806'
+	    {agravar: O hemato-patologista Victorino Spinelli, assesor médico da CPI que apura as mortes da hemodiálise, garantiu que a plasmaferese não [agravou o estado de saúde de Edelson.,
+	     desmelhorar: Sua saúde H]desmelhorou bastante.,
+	     empiorar: Considero que apesar de ter decaído muito em estes últimos anos, em geral mantemos um bom nível educacional, que insisto, I]empiorou muito nos últimos anos.,
+	     engravescer: Tais exigências sempre levam os países devedores a I]engravescer cada vez mais pelos débitos, os quais, em vez de oferecer boa conjuntura, arrasta o povo à fome.,
+	     piorar: Para [piorar a situação no local, a água invadiu a ciclovia, obrigando quem passava por ali a mudar de caminho.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2997' = “Ficar melhor”
+	    {melhorar: Vinhos que I]melhoram com os anos são exceção.,}	
+Chave: MELHORAR <verb.change>
+ILI: 00197826
+
+Sense 2
+{00197826} <verb.change> better, improve, ameliorate, meliorate -- (get better; "The weather improved toward evening")
+       => {00140715} <verb.change> change state, turn4 -- (undergo a transformation or a change of position or action; "We turned from Socialism to Capitalism"; "The people turned against the President when he stole the election")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night") 

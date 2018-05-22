@@ -1,0 +1,44 @@
+ANÁLISE DA GLOSA3372
+
+DADO O SYNSET:
+
+S='Glosa3372'
+	    {
+	      absorver: A escalada H]absorveu suas últimas forças.,
+	      absumir: x,
+	      consumir: A fêmea se reproduz menos freqüentemente do que o macho, porque cabe a ela o trabalho de conceber e também criar a prole, e isso [consome muito tempo. ,
+	      desfalcar: M]Desfalcar as forças.,
+	      dissipar: M]Dissipar as forças.,
+	      esgotar: Trabalhou febrilmente, excedendo e I]esgotando as suas forças.,
+	      exaurir: O combate H]exauriu suas forças,
+	      exaustar: x,
+	      gastar: Farras diárias H]gastaram-lhe o corpo.,
+	      haurir: x,
+	      maquiar: DEVIANT,
+	      roubar: Stress I]rouba energia das pessoas.,
+	      sumir: O jogo A]sumiu-lhe a fortuna.,
+	      tomar: O trabalho I]toma-lhe o dia.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3372' = “esgotar (recursos ou materiais)”
+	     {absorver: Isso a perturbou, I]absorveu seus pensamentos.,
+	      consumir: A contração muscular [consome energia. ,
+	      desfalcar: I]Desfalcou os cofres públicos em R$ 1,6 milhão.,
+	      dissipar: M]Dissipar as forças.,
+	      esgotar: Em 10 meses de governo, o Presidente Luiz Inácio Lula da Silva já I]esgotou os recursos previstos no Orçamento de 2003.,
+	      exaurir: Tudo isso I]exauriu as forças do império, além de literalmente destruir toda a fauna do Norte da África,
+	      gastar: Brasília I]gastou todos os recursos da habitação e da Previdência Social para a sua construção.,
+	      roubar: Stress I]rouba energia das pessoas.,
+	      sumir: O jogo A]sumiu-lhe a fortuna.,
+	      tomar: O trabalho I]toma-lhe o dia.,}
+Chave: CONSUMIR <verb.consumption>
+ILI: 01121801
+
+Sense 5
+{01121801} <verb.consumption> consume1, eat up3, use up, eat13, deplete, exhaust, run through, wipe out -- (use up (resources or materials); "this car consumes a lot of gas"; "We exhausted our savings"; "They run through 20 bottles of wine a week")
+       => {02201591} <verb.possession> spend, expend, drop -- (pay out; "spend money")
+           => {02186811} <verb.possession> pay -- (give money, usually in exchange for goods or services; "I paid four dollars for this sandwich"; "Pay the waitress, please")
+               => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+                   => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children")

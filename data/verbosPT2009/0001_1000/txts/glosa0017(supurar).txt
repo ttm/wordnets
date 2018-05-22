@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0017
+
+DADO O SYNSET:
+
+  S='Glosa17'
+  {abceder: x,
+  absceder: Os linfonodos podem I]absceder e drenar, com disseminação hematogência e linfática.,
+  aporismar: x,
+  supurar: O sintoma inicial é a inflamação de um gânglio doloroso à palpação; esta inflamação evolui para os outros gânglios, que podem I]supurar.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa17' = “gerar ou produzir pus (em feridas)”
+{absceder: Os linfonodos podem I]absceder e drenar, com disseminação hematogência e linfática.,
+supurar: Coma apenas comida adequada; não coma comida inadequada, se não a ferida poderá I]supurar.,}
+Chave: SUPURAR <verb.body>
+ILI: 00094041
+
+Sense 1
+{00094041} <verb.body> fester, maturate, suppurate -- (ripen and generate pus; "her wounds are festering")
+       => {00102093} <verb.body> discharge, expel, eject, release1 -- (eliminate (substances) from the body)

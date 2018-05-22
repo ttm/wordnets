@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA0986
+
+DADO O SYNSET:
+
+S='Glosa986'
+{abarcar: Aristóteles buscou [abarcar todos os campos do conhecimento humano no estágio alcançado em sua época.,
+abraçar: Um laço de meio século que fez do poeta da negritude um dos mais ardentes defensores da normandidade, um conceito inventado pelo homem de letras para I]abraçar os particularismos da terra de adopção de que tanto gosta.,
+abranger: Depois das primeiras 181 escolas investigadas, o MEC já abriu nova auditoria que [abrangerá outras 257 que constam do cadastro.,
+cingir: A leitura dos títulos dessas comunicações demonstra que os organizadores não queriam I]cingir o tema da "ilusão" tão somente ao âmbito da psicanálise.,
+conter: Para que seja reconhecida como natural, a paisagem deve [conter em estado primitivo ou original o predomínio dos elementos físicos:vegetação, relevo, clima ou, ainda, a hidrografia.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa986' = “incluir ou conter; ter como componente”
+{abarcar: Aristóteles buscou [abarcar todos os campos do conhecimento humano no estágio alcançado em sua época.,
+abraçar: Um laço de meio século que fez do poeta da negritude um dos mais ardentes defensores da normandidade, um conceito inventado pelo homem de letras para I]abraçar os particularismos da terra de adopção de que tanto gosta.,
+abranger: Depois das primeiras 181 escolas investigadas, o MEC já abriu nova auditoria que [abrangerá outras 257 que constam do cadastro.,
+cingir: A leitura dos títulos dessas comunicações demonstra que os organizadores não queriam I]cingir o tema da "ilusão" tão somente ao âmbito da psicanálise.,
+conter: Para que seja reconhecida como natural, a paisagem deve [conter em estado primitivo ou original o predomínio dos elementos físicos:vegetação, relevo, clima ou, ainda, a hidrografia.}
+Chave: CONTER <verb.stative>
+ILI: 02551275
+
+Sense 1
+{02551275} <verb.stative> incorporate, contain, comprise -- (include or contain; have as a component; "A totally new idea is comprised in this paper"; "The record contains many old songs from the 1930's")
+       => {02554437} <verb.stative> include -- (have as a part, be made up out of; "The list includes the names of many famous writers")

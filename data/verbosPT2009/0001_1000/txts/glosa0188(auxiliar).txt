@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0188
+
+DADO O SYNSET:
+
+S='Glosa188'
+{adminicular: x,
+ajudar: O Gustavo Dahl entrou como produtor executivo e o Bertolucci resolveu nos [ajudar na Itália.,
+auxiliar: Numa iniciativa sem precedentes no Brasil, o Rio vai sediar um fundo de assistência permanente para [auxiliar o tratamento médico de artistas plásticos sem recursos. ,
+sustentar: Tem o desempregado que se sente fracassado por não poder I]sustentar o filho e aquele que aproveita o momento para se aproximar do filho.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa188' = “dar ajuda ou assistência”
+{ajudar: O Gustavo Dahl entrou como produtor executivo e o Bertolucci resolveu nos [ajudar na Itália.,
+auxiliar: Numa iniciativa sem precedentes no Brasil, o Rio vai sediar um fundo de assistência permanente para [auxiliar o tratamento médico de artistas plásticos sem recursos.,}
+Chave: AUXILIAR <verb.social>
+ILI: 02472355
+
+Sense 1
+{02472355} <verb.social> help, assist2, aid -- (give help or assistance; be of service; "Everyone helped out during the earthquake"; "Can you help me carry this table?"; "She never helps around the house")
+       => {02480483} <verb.social> support, back up -- (give moral or psychological support, aid, or courage to; "She supported him during the illness"; "Her children always backed her up")

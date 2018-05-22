@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA3495
+
+DADO O SYNSET:
+
+S='Glosa3495'
+	    {
+	      deflorar: Temi que pensasse que estivesse apenas mentindo para enganar você e que tivesse a intenção de [deflorá-la,
+	      desflorar: Hércules comeu uma suculenta sopa de feijão, antes de ]desflorar quarenta e cinco virgens durante uma noite,
+	      desgraçar: ...tenta ]desgraçar a moça/Aurora descobre que seu namorado é o homem que desgraçou Silene,
+	      desmoçar: ...desemoçou a menina e não casou,
+	      despucelar: x,
+	      desvirgar: x,
+	      desvirginar: ...um garoto [desvirgina uma colega da vizinhança durante o velório da avó,
+	      desvirginizar: Foi, enfim, o primeiro da lista, Otto Froitzheim, quem ]desvirginizou Leni Riefenstahl, numa violação com hora marcada,
+	      moçar: as icamiabas são sistematicamente virgens tanto que Jiguê um mulhereiro não consegue ]moçar nenhuma,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3495' = “tirar a virgindade”
+	     {deflorar: Temi que pensasse que estivesse apenas mentindo para enganar você e que tivesse a intenção de [deflorá-la,
+	      desflorar: Júpiter uniu-se a Deo, sua própria mãe, e depois a Prosérpina, e mesmo a sua filha depois de tê-la gerado, I]desflorou a Core,
+	      desgraçar: Uma moça de 15 anos conheceu um caboclo do mato e o tal larápio I]desgraçou-a de tal maneira que o caso acabou em batizado,
+	      desmoçar: Veio e falou para a mãe: O gavião me I]desmoçou,
+	      desvirginar: ...um garoto [desvirgina uma colega da vizinhança durante o velório da avó,
+	      moçar: Ele disse que vai matar quem H]moçou sua filha,}
+Chave: DESVIRGINAR <verb.contact>
+ILI: 01387579
+
+Sense 5
+{01387579} <verb.contact> deflower, ruin2 -- (deprive of virginity; "This dirty old man deflowered several young girls in the village")
+       => {01388051} <verb.contact> copulate, mate, pair, couple -- (make love; "Birds mate in the Spring")
+           => {01252764} <verb.contact> join, conjoin -- (make contact or come together; "The two roads join here")
+               => {01314764} <verb.contact> connect, link, tie1, link up -- (connect, fasten, or put together two or more pieces; "Can you connect the two loudspeakers?"; "Tie the ropes together"; "Link arms")

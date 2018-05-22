@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA2475
+
+DADO O SYNSET:
+
+S='Glosa2475'
+	    {adejar: Aves nojosas descem dos montes; a I]adejar ruidosas.,
+	      pairar: As aves coloridas I]pairavam lá no alto e davam início ao bailado esplêndido, pontuado por chilreios, pios, trinados e assim continuavam revoluteando até a exaustão.,
+	      sobrevoar: Do céu a beleza é grande, privilégio dos pássaros que podem ver e I]sobrevoar as incontáveis montanhas de gelo.,
+	      voar: Dessa vez, o balão I]voou plenamente e só caiu quando sua chama já estava apagada.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2475' = “Pender no ar; voar ou ser suspenso no céu.”
+	    {adejar: Certa vez Chuang Chou sonhou ser uma borboleta, uma borboleta que esvoaçava e I]adejava.,
+	      pairar: As aves coloridas I]pairavam lá no alto e davam início ao bailado esplêndido.,
+	      sobrevoar: Os inocentes brincavam com a manhã quando enormes aves negras I]sobrevoaram a paisagem.,
+	      voar: Dessa vez, o balão I]voou plenamente e só caiu quando sua chama já estava apagada.,}
+
+Chave: PAIRAR <verb.motion>
+ILI: 01886772
+
+Sense 3
+{01886772} <verb.motion> hover -- (hang in the air; fly or be suspended above)
+       => {01883780} <verb.motion> fly, wing -- (travel through the air; be airborne; "Man cannot fly")
+           => {01782203} <verb.motion> travel, go, move3, locomote -- (change location; move, travel, or proceed; "How fast does your new car go?"; "We travelled from Rome to Naples by bus"; "The policemen went from door to door looking for the suspect"; "The soldiers moved towards the city in an attempt to take it before night fell") 

@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0503
+
+DADO O SYNSET:
+
+S='Glosa503'
+{predispor: Trata-se de um imposto não declaratório e que, por não identificar o contribuinte, não o [predisporia a tentar qualquer tipo de evasão,
+preparar: Será necessário [preparar uma outra expedição, provavelmente para começar em julho ou agosto de 1922, com umas 10 ou 12 pessoas/Se não houver uma discussão desprovida de paixão e piedade, certamente nos restará apenas [preparar os espíritos para novas e semelhantes tragédias,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa503' = “tornar suscetível”
+{predispor: Trata-se de um imposto não declaratório e que, por não identificar o contribuinte, não o [predisporia a tentar qualquer tipo de evasão.,}
+Chave: PREDISPOR <verb.cognition>
+ILI: 00657927
+
+Sense 1
+{00657927} <verb.cognition> predispose -- (make susceptible; "This illness predisposes you to gain weight")
+       => {00658076} <verb.cognition> dispose, incline3 -- (make receptive or willing towards an action or attitude or belief; "Their language inclines us to believe them")
+           => {00677776} <verb.cognition> determine2, shape, mold, influence, regulate -- (shape or influence; give direction to; "experience often determines ability"; "mold public opinion")
+               => {01598809} <verb.creation> cause, do2, make8 -- (give rise to; cause to happen or occur, not always intentionally; "cause a commotion"; "make a stir"; "cause an accident")
+                   => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

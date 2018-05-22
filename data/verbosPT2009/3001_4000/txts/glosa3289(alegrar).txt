@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA3289
+
+DADO O SYNSET:
+
+S='Glosa3289'
+	    {
+	      alegrar: Mas havia, entre todas as festas, uma que durante tantos anos [alegrava nossas vidas e prenunciava os sinos do Natal. ,
+	      hilariar: x,
+	      hilarizar: x,
+	      letificar: x,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3289' = “fazer contente ou feliz”
+	     {alegrar: Um grande sucesso do rádio esportivo, esse programa de humor e futebol I]alegrava a todos. ,}
+Chave: ALEGRAR <verb.emotion>
+ILI: EQ_NEAR_SYNONYM - 01760827
+
+Sense 1
+{01760827} <verb.emotion> gladden1, joy1 -- (make glad or happy)

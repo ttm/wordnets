@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA2830
+
+DADO O SYNSET:
+
+S='Glosa2830'
+	    {depilar: Foi legal, mas deu muito trabalho porque eu precisava [depilar o corpo todo.,
+	      despelar: x,
+	      pelar1: E, se lhe I]pelar a frente da cabeça, meio-calvo é; limpo está. ,
+	      rapar: E até de repugnante e maléfico, no caso das mulheres muçulmanas, que tinham como hábito I]rapar o corpo todo.,
+	      rascar: x,
+	      raspar: Os atletas (de ambos os sexos) [raspam as pernas para dar melhor definição a seus músculos, e (também de ambos os sexos) usam costeletas.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2830' = “Remover pêlos do corpo”
+	    {depilar: Isso que ela só I]depilou a sua barriga, agora imagina nós mulheres que depilamos do dedo do pé até as axilas.,
+	      pelar1: Alguém I]pelou o bicho.,
+	      rapar: Enéias I]rapou a barba e ficou a cara do Smeagol.,
+	      raspar: Os atletas (de ambos os sexos) [raspam as pernas para dar melhor definição a seus músculos, e (também de ambos os sexos) usam costeletas.,}
+
+Chave: DEPILAR <verb.body>
+ILI: 00036279
+
+Sense 1
+{00036279} <verb.body> epilate, depilate -- (remove body hair; "epilate her legs")
+       => {00166870} <verb.change> remove, take, take away1, withdraw1 -- (remove something concrete, as by lifting, pushing, taking off, etc. or remove something abstract; "remove a threat"; "remove a wrapper"; "Remove the dirty dishes from the table"; "take the gun from your pocket"; "This machine withdraws heat from the environment") 

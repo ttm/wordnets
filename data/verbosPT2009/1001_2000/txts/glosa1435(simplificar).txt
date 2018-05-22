@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA1435
+
+DADO O SYNSET:
+
+S='Glosa1435'
+    	{desenredar: Épocas inteiras da história da poesia foram deixados no limbo, só porque não tinham recebido a agua lustral que os acomodaria a uma critica ocupada insistentemente em I]desenredar paradoxos.,
+      	 desimplicar: Para um artista, o artefato que ele constrói tende a I]desimplicar a sua relação com o objeto poético,
+      	 facilitar: Recebi mais de 80 respostas e observações à crítica interna ao longo deste ano, o que [facilitou a discussão de temas que só melhoram a qualidade final do jornal. ,
+      	 simplificar: No começo os meninos ficaram um pouco estressados e queriam [simplificar todas as coreografias,}
+  
+A='Glosa2573'
+    	{complicar, dificultar, embaraçar, encrencar, enovelar, enredar, enrodilhar, intricar, intrincar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1435' = “tornar mais simples ou mais fácil ou reduzir em complexidade”
+    	{descomplicar: Acesso às informações [escomplica investimentos.
+ desenredar: Tal mapa pode fornecer dados suficientes para [desenredar a seqüência de eventos e complexidade geométrica local.,
+      	 facilitar: A URV ter antecedido o real [facilitou muito o entendimento das pessoas.,
+      	 simplificar: No começo os meninos ficaram um pouco estressados e queriam [simplificar todas as coreografias.,}
+  
+A='Glosa2573'
+    	{complicar, dificultar, embaraçar, encrencar, enovelar, enredar, enrodilhar, intricar, intrincar}
+Chave: SIMPLIFICAR <verb.change>
+ILI: 00388314
+
+Sense 1
+{00388314} <verb.change> simplify -- (make simpler or easier or reduce in complxity or extent; "We had to simplify the instructions"; "this move will simplify our lives")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

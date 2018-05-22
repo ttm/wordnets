@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA3875
+
+DADO O SYNSET:
+
+S='Glosa3875'
+{assentar: x,
+ colocar: O que Simonsen alega é que se o BC constatar que está realmente ocorrendo uma entrada muito grande de recursos, basta [colocar o pé no freio .,
+ descansar: Práticas como [descansar o pé sobre o pedal esquerdo, sair em segunda, «cantar pneus» e segurar o carro em ladeiras só na embragem reduzem a vida útil do conjunto em até 30% .,
+ poisar: A dada altura vejo-o I]poisar as cartas, levantar-se da mesa, pedir desculpas aos restantes parceiros que sorriam divertidos e ir dormir.,
+ pôr: Ou seja, não adianta [pôr o micro do lado da impressora e mandar imprimir um arquivo pois ele só será impresso se a impressora possuir um receptor IR .,
+ pousar: Acordou-nos um moleque, vindo pedir uma chave à senhora, que lhe deu o molho delas, e ficou ainda sentada, mas sem [pousar a cabeça nas mãos .,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3875' = “acomodar [algo] em algum lugar”
+{colocar: O pequeno Cirinho Gomes, de nove anos, [colocou a mão na cintura.,
+ descansar: Ajoelhei-me no chão e [descansei a testa nos braços a um dos ângulos do estrado do oratório.,
+ pôr: O chefe araguaia [pôs as mãos nos ombros de Araci.,
+ pousar: A recente mãe [pousou a criança adormecida na rede de seu pai.}
+Chave: POUSAR <verb.contact>
+ILI: 01458130
+
+Sense 1
+{01458130} <verb.contact> set down2, put down2, place down -- (cause to sit or seat or be in a settled position or place; "set down your bags here")
+       => {01452069} <verb.contact> put, set, place, pose2, position, lay1 -- (put into a certain place or abstract location; "Put your things here"; "Set the tray down"; "Set the dogs on the scent of the missing children"; "Place emphasis on a certain point")
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

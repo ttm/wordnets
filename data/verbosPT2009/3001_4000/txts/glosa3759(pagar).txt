@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA3759
+
+DADO O SYNSET:
+
+S='Glosa3759'
+{expiar: A prova de fidelidade que aqueles quatro homens davam, a ação que acabavam de praticar e o sacrifício com que desejavam [expiar a sua falta, elevou-os no espírito do fidalgo.,
+	  expurgar: Os instantes de razão cederam novamente lugar ao prazer pela velocidade, pelo vento frio que batia em sua cara, tentando I]expurgar todas as suas culpas, todos os seus demônios.,
+	  pagar: Ninguém foi criado para errar, ou I]pagar por erros dos outros, ou para ser condenado.,
+	  penar: Quando eu morrer não vai ter quem reze a missa de corpo presente, aí minha alma vai I]penar.,
+	  penitenciar: H]Penitenciou ao longo da vida o erro cometido na juventude.,
+	  purgar: Os caras não têm culpa de terem nascido numa família legal; os caras querem I]purgar os pecados de qualquer jeito. ,
+	  redimir: Deus nos deu Seu próprio Filho amado para nos libertar e nos I]redimir do pecado, sacrificando-O na cruz. ,
+	  remir: Para I]remir os cristãos O Deus Menino nasceu. }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3759' = “tornar puro ou livre de pecado ou culpa”
+{expiar: A prova de fidelidade que aqueles quatro homens davam, a ação que acabavam de praticar e o sacrifício com que desejavam [expiar a sua falta, elevou-os no espírito do fidalgo.,
+	  expurgar: Os instantes de razão cederam novamente lugar ao prazer pela velocidade, pelo vento frio que batia em sua cara, tentando I]expurgar todas as suas culpas, todos os seus demônios.,
+	  pagar: Ninguém foi criado para errar, ou I]pagar por erros dos outros, ou para ser condenado.,
+	  penar: Quando eu morrer não vai ter quem reze a missa de corpo presente, aí minha alma vai I]penar.,
+	  penitenciar: H]Penitenciou ao longo da vida o erro cometido na juventude.,
+	  purgar: Os caras não têm culpa de terem nascido numa família legal; os caras querem I]purgar os pecados de qualquer jeito. ,
+	  redimir: Deus nos deu Seu próprio Filho amado para nos libertar e nos I]redimir do pecado, sacrificando-O na cruz. ,
+	  remir: Para I]remir os cristãos O Deus Menino nasceu. }
+Chave: PAGAR <verb.change>
+ILI: 00462512
+
+Sense 3 
+{00462512} <verb.change> purify1, purge4, sanctify -- (make pure or free from sin or guilt; "he left the monastery purified")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

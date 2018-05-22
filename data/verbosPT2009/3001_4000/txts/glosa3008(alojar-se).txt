@@ -1,0 +1,39 @@
+ANÁLISE DA GLOSA3008
+
+DADO O SYNSET:
+
+S='Glosa3008'
+	    {
+	      aboletar-se: Os jogadores da Itália tomaram o seu banho e se [aboletaram no ônibus sofisticado que os levaria ao aeroporto da capital.,
+	      acoitar-se: Sepúlveda Pertence argumentou que PC não apenas se manteve em fuga, mas buscou [acoitar-se na Tailândia. ,
+	      agasalhar-se: H]Agasalhou-se na casa do irmão.,
+	      albergar-se: Rodrigo resolveu dar uma volta em seu moderníssimo Jaguar, resolvendo I]albergar-se em meio a frondoso bosque de árvores seculares.,
+	      alojar-se: A velha aceitou e lá foi, arrastando os seus cinqüenta e tantos anos, [alojar-se em casa do genro.,
+	      aquartelar-se: O simples fato do Exército Vermelho I]aquartelar-se em Berlim, distante alguns dias de marcha de Paris ou Londres, dava calafrios nos americanos. ,
+	      asilar-se: O indivíduo não tem o direito de I]asilar-se, é o Estado que oferece asilo.,
+	      estanciar-se: x,
+	      gasalhar-se: x,
+	      hospedar-se: Ele acampou ali, [hospedou-se em casa da região, tinha algum parente entre os moradores, deu nome a algum lugar. ,
+	      instalar-se: Segundo o ex-marido, a moça I]instalou-se na casa dos pais depois que se divorciou em 1976, após ter estado em um hospital psiquiátrico.,
+	    }
+
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3008' = “permanecer temporariamente” 
+	     {aboletar-se: Cristiano I]aboletou-se recentemente no escritório de Gilberto Gil.,
+	      acoitar-se: Nada mais condizente com o que vem acontecendo no país desde que Lula I]acoitou-se no Palácio do Planalto. ,
+	      agasalhar-se: H]Agasalhou-se na casa do irmão.,
+	      albergar-se: Rui Barbosa chegou a Haia e I]albergou-se no litoral da Holanda.,
+	      alojar-se: A família real [alojou-se inicialmente no Convento do Carmo, fronteiro ao Palácio dos Governadores, que se converteu em Paço.,
+	      aquartelar-se: João Timóteo de Andrade I]aquartelou-se na cidade, em local que tomou o nome de "14", em lembrança. ,
+	      asilar-se: Aristide deixou o País em 29 de fevereiro e I]asilou-se na África do Sul.,
+	      hospedar-se: Ele acampou ali, [hospedou-se em casa da região, tinha algum parente entre os moradores, deu nome a algum lugar. ,
+	      instalar-se: Segundo o ex-marido, a moça I]instalou-se na casa dos pais depois que se divorciou em 1976, após ter estado em um hospital psiquiátrico.,}
+Chave: ALOJAR-SE <verb.stative>
+ILI: 02573368
+
+Sense 1
+{02573368} <verb.stative> lodge2 -- (be a lodger; stay temporarily; "Where are you lodging in Paris?")
+       => {02571132} <verb.stative> dwell, shack, reside, live8, inhabit, people, populate, domicile, domiciliate -- (make one's home or live in; "She resides officially in Iceland"; "I live in a 200-year old house"; "These people inhabited all the islands that are now deserted"; "The plains are sparsely populated")
+           => {02576058} <verb.stative> be5 -- (occupy a certain position or area; be somewhere; "Where is my umbrella?" "The toolshed is in the back"; "What is behind this behavior?") 

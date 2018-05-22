@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA4110
+
+DADO O SYNSET:
+
+S='Glosa4110'
+{conservar-se: Por culpa vossa ele se I]conservou atrasado.,
+deter-se: O cavalo H]deteve-se à beira do rio.,
+ficar: O comércio e as agências bancárias [ficaram fechados até a energia ser reestabelecida .,
+manter-se: A princípio os comandantes e os diplomatas [mantiveram-se neutros, suspeitando das tendências militaristas de Floriano .,
+permanecer: Os trens [permaneceram parados e milhares de passageiros correram para os pontos de ônibus .,
+persistir: Todos A]persistiram calados, reservados, inabaláveis.,
+quedar: Todos H]quedaram junto à porta,
+quedar-se: o viajante, cansado, H]quedou-se ali mesmo.,
+ter-se: H]Teve-se alguns dias fora da cidade, a negócios.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4110' = “permanecer o mesmo; manter-se em certo estado”
+{conservar-se: Por culpa vossa ele se I]conservou atrasado.,
+ficar: O comércio e as agências bancárias [ficaram fechados até a energia ser reestabelecida .,
+manter-se: A princípio os comandantes e os diplomatas [mantiveram-se neutros, suspeitando das tendências militaristas de Floriano .,
+permanecer: Os trens [permaneceram parados e milhares de passageiros correram para os pontos de ônibus .,
+persistir: Todos A]persistiram calados, reservados, inabaláveis.,
+quedar: Ouviu, sorriu, tremeu, e [quedou silenciosa
+quedar-se: Promovido pela CEF, o autor [quedou-se inerte.,}
+Chave: FICAR <verb.change>
+ILI: 00113506
+
+Sense 1
+{00113506} <verb.change> stay, remain, rest -- (stay the same; remain in a certain state; "The dress remained wet after repeated attempts to dry it"; "rest assured"; "stay alone"; "He remained unmoved by her tears"; "The bad weather continued for another week")
+       => {02526983} <verb.stative> be3 -- (have the quality of being; (copula, used with an adjective or a predicate noun); "John is rich"; "This is not a good answer")

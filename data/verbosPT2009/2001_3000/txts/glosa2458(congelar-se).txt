@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA
+
+DADO O SYNSET:
+
+S='Glosa2458'
+	    {congelar-se: A água, ao I]congelar-se sofre um aumento de volume, assim sendo, uma diminuição de densidade.,
+	      enregelar-se: As coisas todas, debaixo dagua, se contraem, I]se enregelam, se mumificam, mas nunca se deterioram.,
+	      gelar-se: Os ventos do norte sopraram sobre aquela plaga tórrida, ea terra  I]gelou-se.,
+	      regelar-se: A cerveja H]regelou-se.,
+	      solidar-se: x,
+	      solidificar-se: Uma garrafa cheia d'água, devidamente arrolhada e colocada no congelador, parte-se por causa da dilatação da água ao I]solidificar-se.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2458' = “Mudar de líquido para sólido quando resfriado.”
+	    {congelar-se: Essa água subiu para a superfície e em contato com o ambiente frio externo I]congelou-se.,
+	      enregelar-se: Todo o corpo se A]enregelou na água fria do rio.,
+	      gelar-se: A água no tanque A]gelou-se,
+	      regelar-se: A cerveja H]regelou-se.,
+	      solidificar-se: À medida que as erupções cessaram, o magma do interior da crosta terrestre e da superfície se resfriou e I]solidificou-se.,}
+
+Chave: CONGELAR-SE <verb.change>
+ILI: 00432965
+
+Sense 7
+{00432965} <verb.change> freeze4, freeze out, freeze down -- (change from a liquid to a solid when cold; "Water freezes at 32 degrees Fahrenheit")
+       => {00432423} <verb.change> solidify -- (become solid; "The metal solidified when it cooled")
+           => {00135037} <verb.change> change integrity -- (change in physical make-up)
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night") 

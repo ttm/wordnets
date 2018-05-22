@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA3362
+
+DADO O SYNSET:
+
+S='Glosa3362'
+	    {
+	      agenciar: Tornado funcionário público pelo padroado real, o padre aceitava I]agenciar os interesses de um governo de que lhe poderia vir a ascensão na carreira.,
+	      manobrar: M]Manobrar negócios. # M] Manobrar a vida.,
+	      negociar: UE quer I]negociar participação do Brasil no projeto Galileo. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3362' = “dirigir o rumo; conduzir ou controlar”
+	     {agenciar: A Bax Global Brasil I]agenciou o transporte terrestre e marítimo da Hungria até o porto de Vitória (Espírito Santo).,
+	      manobrar: Roseana I]manobrou a bancada parlamentar para votar contra o aliado que ajudara a sua eleição e a do Governador.,
+	      negociar: Dentro do parque, a Brahma [negociou a exclusividade na venda de cervejas e lança, pelo segundo ano consecutivo, uma latinha comemorativa. ,}
+Chave: NEGOCIAR <verb.social>
+ILI: 02372059
+
+Sense 10
+{02372059} <verb.social> conduct, carry on, deal2 -- (direct the course of; manage or control; "You cannot conduct business like this")
+       => {02363018} <verb.social> manage, deal13, care11, handle -- (be in charge of, act on, or dispose of; "I can deal with this crew of workers"; "This blender can't handle nuts"; "She managed her parents' affairs after they got too old")
+           => {02367626} <verb.social> control, command -- (exercise authoritative control or power over; "control the budget"; "Command the military forces")

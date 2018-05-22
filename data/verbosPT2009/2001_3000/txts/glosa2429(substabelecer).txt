@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2429
+
+DADO O SYNSET:
+
+S='Glosa2429'
+	    {sub-rogar: Como I]sub-rogar um Contrato para outra UASG ?,
+	      substabelecer: O mandatário e obrigado a aplicar toda a sua diligencia habitual na execução do mandato, e a indenizar qualquer prejuízo causado por culpa sua ou daquele a quem I]substabelecer, sem autorização, poderes que devia exercer pessoalmente.,
+	      substituir: Carlos da Silva [substitui Renato Moura como primeiro candidato do PSD pela ilha das Flores. # Os juristas franceses estão algo apreensivos com o novo Código Penal, que entra hoje em vigor e que [substitui o velho Código Napoleão de 1810, ao cabo de um trabalho que durou 18 anos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2429' = “Sustituir um credor por outro, como no caso em que uma companhia de seguro processa a pessoa que causou um acidente para o assegurado.”
+	    {sub-rogar: Com amparo do parecer de sua assessoria jurídica, I]sub-rogou o contrato para a empresa ELETRON.,
+	      substabelecer: O causídico que ingressou em juízo I]substabeleceu sem reserva de poderes sua procuração a outro advogado.,
+	      substituir: Carlos da Silva [substitui Renato Moura como primeiro candidato do PSD pela ilha das Flores.,}
+
+Chave: SUBSTABELECER <verb.possession>
+ILI: 02293176
+
+Sense 1
+{02293176} <verb.possession> subrogate -- (substitute one creditor for another, as in the case where an insurance company sues the person who caused an accident for the insured)
+       => {02192590} <verb.possession> substitute, replace -- (put in the place of another; switch seemingly equivalent items; "the con artist replaced the original with a fake Rembrandt"; "substitute regular milk with fat-free milk")
+           => {02192193} <verb.possession> exchange, change, interchange -- (give to, and receive from, one another; "Would you change places with me?"; "We have been exchanging letters for a year")
+               => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children")

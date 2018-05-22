@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA0243
+
+DADO O SYNSET:
+
+S='Glosa243'
+{empossar: Fleury [empossa irmão em cargo de secretário.,
+ investir: H]Investiram-no na presidência da comissão.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa243' = “tomar posse de títulos, funções, cargos e responsabilidades”
+{empossar: Fleury [empossa irmão em cargo de secretário.,}
+Chave: EMPOSSAR <verb.social>
+ILI: 02310584
+
+Sense 2
+{02310584} <verb.social> assume, adopt1, take on1, take over1 -- (take on titles, offices, duties, responsibilities; "When will the new President assume office?")
+       => {02312416} <verb.social> take office -- (assume an office, duty, or title; "When will the new President take office?")
+           => {02308403} <verb.social> start, take up -- (begin work or acting in a certain capacity, office or job; "Take up a position"; "start a new job")

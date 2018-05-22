@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA2617
+
+DADO O SYNSET:
+
+  S='Glosa2617'
+	    {reempossar-se: Entretanto, o palco está formado: nova classe dominada entra na luta para I]reempossar-se de novo.,
+	      reintegrar-se: A partir da promulgação da Constituição do Estado, os servidores que pretendam I]reintegrar-se ao serviço, com base neste artigo, terão o prazo máximo de doze meses para ingressar com o requerimento cabível junto ao órgão ou entidade.,
+	      restabelecer-se: x,
+	      restituir-se: Vencida a rebelião, o rei A]restituiu-se no seu posto.,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2617' = “Trazer de volta à existência, uso, função ou posição originais.”
+	    {reempossar-se: Entretanto, o palco está formado: nova classe dominada entra na luta para I]reempossar-se.,
+	      reintegrar-se: A partir de agosto de 1996, de volta ao Brasil, I]reintegrou-se, como professora, ao curso de Relações Públicas da UMESP.,
+	      restituir-se: Vencida a rebelião, o rei A]restituiu-se no seu posto.,}
+
+Chave: REEMPOSSAR-SE <verb.social>
+ILI: 02353684
+
+Sense 2
+{02353684} <verb.social> restore, reinstate1, reestablish -- (bring back into original existence, use, function, or position; "restore law and order"; "reestablish peace in the region"; "restore the emperor to the throne")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

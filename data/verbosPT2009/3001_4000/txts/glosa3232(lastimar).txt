@@ -1,0 +1,42 @@
+ANÁLISE DA GLOSA3232
+
+DADO O SYNSET:
+
+S='Glosa3232'
+	    {
+	      aiar: Amâncio, muito prostrado, mole, a virar-se de uma para outra banda, I]aiava sempre.,
+	      carpir: Amância Sousellas, para [carpir mais à vontade a perda da amiga, fora passar algumas semanas no recolhimento de Nossa Senhora da Anunciação e Remédios.,
+	      chorar: A omissão, as declarações de que tudo estava normalizado na vida da cidade enquanto mães [choravam a morte de seus filhos.,
+	      deplorar: Sabia que aquilo tudo era ridículo e I]deplorava todo o tempo perdido, mas era inútil.,
+	      gemer: Foi nas antigas florestas vizinhas, num lugar selvagem, santo e encantado onde se pode ouvir as mulheres [gemendo por seus amantes demoníacos.,
+	      jeremiar: A infeliz passava os dias a H]jeremiar suas misérias.,
+	      lamentar: As pessoas choravam e I]lamentavam sua perda.,
+	      lamuriar: A segunda experiência é de uma senhora que I]lamuriava por tudo e se preocupava apenas com os seus problemas pessoais.,
+	      lastimar: Todos I]lastimavam a inusitada morte da criança mais amada de toda a tribo dos Maués.,
+	      prantear: I]Prantear ruidosamente os seus mortos.,
+	      ulular: Foi-me mostrada então uma multidão que I]ululava em agonia.,
+	      vagir: Desamparado, nu, I]vagia de bruços: tal um diabo oculto nas nuvens do céu.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3232' = “sentir-se triste por perda ou ausência”
+	     {aiar: Amâncio, muito prostrado, mole, a virar-se de uma para outra banda, I]aiava sempre.,
+	      carpir: Sobre o corpinho enrijecido, a filha de Helvídio I]carpiu a sua dor intraduzível, com lágrimas ardentes.,
+	      chorar: Recentemente, a comunidade I]chorou a morte do menino Guilherme Custódio Morais, de 8 anos.,
+	      deplorar: Ele I]deplorou as notícias de que crianças morram em razão do manuseio de armas de fogo.,
+	      gemer: A porteira, perra e empenada, como se há muito ninguém a ultrapassasse, I]gemia a falta de gente.,
+	      jeremiar: A infeliz passava os dias a H]jeremiar suas misérias.,
+	      lamentar: As pessoas choravam e I]lamentavam sua perda.,
+	      lamuriar: Lamenta a falta de espírito público, I]lamuria a sangria financeira provocada pelos ladrões e se confessa genuinamente engasgada com tudo aquilo.,
+	      lastimar: Todos I]lastimavam a inusitada morte da criança mais amada de toda a tribo dos Maués.,
+	      prantear: George Bush não I]pranteou a morte do amigo.,
+	      ulular: A multidão I]ululou, os guerreiros aceneram ao ar arcos e flechas e em conjunto deram o grito de coragem.,
+	      vagir: Desamparado, nu, I]vagia de bruços: tal um diabo oculto nas nuvens do céu.,}
+Chave: LASTIMAR <verb.emotion>
+ILI: 01744656
+
+Sense 2
+{01744656} <verb.emotion> regret1 -- (feel sad about the loss or absence of)
+       => {01753168} <verb.emotion> miss -- (feel or suffer from the lack of; "He misses his mother")
+           => {01772101} <verb.emotion> desire, want -- (feel or have a desire for; want strongly; "I want to go home now"; "I want my own room")

@@ -1,0 +1,51 @@
+ANÁLISE DA GLOSA3401
+
+DADO O SYNSET:
+
+S='Glosa3401'
+	    {
+	      adulterar: Pinotti, ao depor, negou ter havido a intenção de [adulterar o histórico clínico da paciente.,
+	      alterar: Proceder de forma atentatória à dignidade do desporto, com o fim de [alterar resultado de competição.,
+	      arremedar: Elas encarnam o resultado inacessível do trabalho social, ao I]arremedar subprodutos deste trabalho que são magicamente transferidos acima dele como sua finalidade.,
+	      contrafazer: H]Contrafez uma assinatura.,
+	      depravar: H]Depravar uma assinatura.,
+	      falsear: Prossegue processo na OAB contra advogado que I]falseou verdade dos fatos.,
+	      falsificar: Ao comentar a facilidade para o bandido [falsificar documentos, Marcello Alencar reconheceu que os serviços públicos estão em péssimas condições por incapacidade do estado de se modernizar. ,
+	      fingir: M]Fingir documentos, assinaturas.,
+	      forjar: Lá ele [forjou documentos para legalizar a situação de Da Silva e os assinou com as iniciais de um colega de trabalho. ,
+	      furtar: H]Furtar uma assinatura.,
+	      imitar: Ele, além de se inspirar na obra do outro, H]imitou-a.,
+	      mascavar: M]Mascavar informações, notícias.,
+	      remedar: O demônio procura I]remedar em todas as partes o culto divino com ficções e embustes.,
+	      sofisticar: Foi acusado de H]sofisticar fórmulas.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3401' = “falsificar”
+	     {adulterar: O exército americano I]adulterou os crachás e registros militares de David e de outros dois judeus de seu batalhão para esconder a identidade judaica.,
+	      alterar: Um funcionário da Casa Branca sem uma mínima formação científica editou e I]alterou relatórios governamentais sobre a mudança climática.,
+	      arremedar: Elas encarnam o resultado inacessível do trabalho social, ao I]arremedar subprodutos deste trabalho que são magicamente transferidos acima dele como sua finalidade.,
+	      contrafazer: O acusado I]contrafez certidões negativas de dívidas fiscais referentes tanto à Fazenda Nacional como Estadual.,
+	      depravar: H]Depravar uma assinatura.,
+	      falsear: Prossegue processo na OAB contra advogado que I]falseou verdade dos fatos.,
+	      falsificar: Arrumava argumentos, forçava interpretações, comprava testemunhas, I]falseava provas e invariavelmente ganhava causas das mais absurdas. ,
+	      fingir: M]Fingir documentos, assinaturas.,
+	      forjar: Lá ele [forjou documentos para legalizar a situação de Da Silva e os assinou com as iniciais de um colega de trabalho. ,
+	      furtar: H]Furtar uma assinatura.,
+	      imitar: O fraudador I]imitou a assinatura dela em um receituário azul. roubado para comprar medicamento de tarja preta.,
+	      mascavar: M]Mascavar informações, notícias.,
+	      remedar: O demônio procura I]remedar em todas as partes o culto divino com ficções e embustes.,
+	      sofisticar: Foi acusado de H]sofisticar fórmulas.,}
+Chave: ADULTERAR <verb.social>
+ILI: 02500172
+
+Sense 2
+{02500172} <verb.social> fudge, manipulate1, fake, falsify, cook, wangle1, misrepresent -- (fake or falsify; "Fudge the figures"; "cook the books"; "falsify the data")
+       => {02498139} <verb.social> cheat1, chisel -- (engage in deceitful behavior; practice trickery or fraud; "Who's chiseling on the side?")
+           => {02498705} <verb.social> deceive, lead on, delude, cozen1 -- (be false to; be dishonest with)
+               => {02497828} <verb.social> victimize1, victimise1 -- (make a victim of; "I was victimized by this con-man")
+                   => {02438990} <verb.social> wrong -- (treat unjustly; do wrong to)
+                       => {02439188} <verb.social> treat, handle3, do by -- (interact in a certain way; "Do right by her"; "Treat him with caution, please"; "Handle the press reporters gently")
+                           => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                               => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

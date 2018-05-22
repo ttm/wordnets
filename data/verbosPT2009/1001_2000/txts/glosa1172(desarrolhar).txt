@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA1172
+
+DADO O SYNSET:
+
+S='Glosa1172'
+{desarrolhar: Uma forma curiosa de I]desarrolhar vinhos do Porto antigos é utilizar uma tenaz aquecida.,
+ desenrolhar: x,
+ desrolhar: Apesar de escudado pelo seu cepticismo, D. Juan hesitou em I]desrolhar o frasquinho de cristal.,}
+	  
+A='Glosa2570'
+	    {abatocar,arrolhar, rolhar, tapar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1172' = “tirar a rolha [de uma garrafa]”
+{desarrolhar: Josep Raventos I]desarrolhou a primeira garrafa amadurecida (ou "criada") em cava na Espanha.,}
+A='Glosa2570'
+	    {abatocar,arrolhar, rolhar, tapar}
+Chave: DESARROLHAR <verb.contact>
+ILI: 01383078
+
+Sense 2
+{01383078} <verb.contact> uncork -- (draw the cork from (bottles); "uncork the French wine")
+       => {01306283} <verb.contact> open, open up -- (cause to open or to become open; "Mary opened the car door")

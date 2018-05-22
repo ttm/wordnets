@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA2548
+
+DADO O SYNSET:
+
+S='Glosa2548'
+	    {imolar: O historiador Flávio Josefo relata que, no templo de Salomão, setecentos sacerdotes e levitas estavam ocupados, todos os dias, em I]imolar as vítimas.,
+	      oferecer: Posseidon, o Senhor das Águas, o Netuno grego, ofereceu a Minos, Ménes, Manú de Creta, um touro que se tornou furioso porque o rei não o quis I]oferecer em sacrifício ao deus.,
+	      sacrificar: O destaque é o selo Hyperium, que tem em seu catálogo a banda Psychic TV, do maluquete Genesis P. Oridge, acusado de [sacrificar criancinhas em rituais.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2548' = “Oferecer como sacrifício, matando ou entregando para destruição.”
+	    {imolar: Amurat, por ocasião da tomada do istmo de Corinto, I]imolou seiscentos jovens gregos à alma de seu pai.,
+	      oferecer: Passado o dilúvio, Noé I]ofereceu em sacrifício um cordeiro.,
+	      sacrificar: Vendo que não podia vencer, I]sacrificou seu próprio filho sobre o muro da cidade.,}
+
+Chave: IMOLAR <verb.possession>
+ILI: 02258341
+
+Sense 1
+{02258341} <verb.possession> immolate -- (offer as a sacrifice by killing or by giving up to destruction; "The Aztecs immolated human victims"; "immolate the valuables at the temple")
+       => {02258163} <verb.possession> sacrifice1 -- (make a sacrifice of; in religious rituals)
+           => {02535621} <verb.stative> offer, offer up -- (present as an act of worship; "offer prayers to the gods")
+               => {02535409} <verb.stative> worship -- (attend religious services; "They worship in the traditional manner")
+                   => {02534896} <verb.stative> attend, go to -- (be present at (meetings, church services, university), etc.; "She attends class regularly"; "I rarely attend services at my church"; "did you go to the meeting?")
+                       => {02576058} <verb.stative> be5 -- (occupy a certain position or area; be somewhere; "Where is my umbrella?" "The toolshed is in the back"; "What is behind this behavior?") 

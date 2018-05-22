@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA3178
+
+DADO O SYNSET:
+
+S='Glosa3178'
+	    {
+	      interverter: Domina o tempo de trabalho e o I]interverte em tempo disponível, em tempo de não-trabalho, que tanto pode ser tempo para o ócio como para atividades superiores.,
+	      inverter: Estes últimos buscavam explorar justamente os desvios da máquina, [inverter suas funções e finalidades, colocá-la a trabalhar na direção contrária de sua positividade técnica, abri-la enfim aos desígnios do imaginário.,
+	      transtrocar: 'O ovo de Colombo gilbertiano consistiu numa operação simples: a de I]transtrocar os dados de um problema, no tocante ao primeiro, deslocando a análise sociológica do público para o privado, e, quanto ao segundo, transformando a miscigenação de hipoteca em lucro. ,
+	      trocar: Durante as negociações finais, a União da Ilha - que seria a sétima escola a entrar na avenida na segunda-feira - [trocou sua posição com a Portela. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3178' = “permutar ou substituir com outra coisa, geralmente do mesmo tipo ou categoria”
+	     {interverter: Domina o tempo de trabalho e o I]interverte em tempo disponível, em tempo de não-trabalho, que tanto pode ser tempo para o ócio como para atividades superiores.,
+	      inverter: O relator [inverteu a ordem do referendo popular, que era previsto para acontecer no final da reforma.,
+	      transtrocar: 'O ovo de Colombo gilbertiano consistiu numa operação simples: a de I]transtrocar os dados de um problema, no tocante ao primeiro, deslocando a análise sociológica do público para o privado, e, quanto ao segundo, transformando a miscigenação de hipoteca em lucro. ,
+	      trocar: Durante as negociações finais, a União da Ilha - que seria a sétima escola a entrar na avenida na segunda-feira - [trocou sua posição com a Portela. ,}
+Chave: TROCAR <verb.change>
+ILI: 00155250
+
+Sense 2
+{00155250} <verb.change> change4, exchange, commute2, convert2 -- (exchange or replace with another, usually of the same kind or category; "Could you convert my dollars into pounds?"; "He changed his name"; "convert centimeters into inches"; "convert holdings into shares")
+       => {00156695} <verb.change> replace -- (substitute a person or thing for (another that is broken or inefficient or lost or no longer working or yielding what is expected); "He replaced the old razor blade"; "We need to replace the secretary that left a month ago"; "the insurance will replace the lost income"; "This antique vase can never be replaced")
+           => {01584867} <verb.creation> regenerate, renew -- (re-establish on a new, usually improved, basis or make new or like new; "We renewed our friendship after a hiatus of twenty years"; "They renewed their membership")
+               => {01573613} <verb.creation> re-create -- (create anew; "Re-create the boom of the West on a small scale")
+                   => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

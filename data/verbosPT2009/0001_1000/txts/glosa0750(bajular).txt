@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0750
+
+DADO O SYNSET:
+
+S='Glosa750'
+{badalar: Na parte de telejornalismo, passaram a I]badalar vergonhosamente o governo, sem mostrar os prós e os contras.,
+bajular: Não há mais chefe para impressionar, subordinados para convencer ou clientes para [bajular.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa750' = “adular interessadamente”
+{badalar: Na parte de telejornalismo, passaram a I]badalar vergonhosamente o governo, sem mostrar os prós e os contras.,
+bajular: Não há mais chefe para impressionar, subordinados para convencer ou clientes para [bajular.,}
+Chave: BAJULAR <verb.communication>
+ILI: 00850802
+
+Sense 1
+{00850802} <verb.communication> flatter, blandish -- (praise somewhat dishonestly)
+       => {00828989} <verb.communication> praise -- (express approval of; "The parents praised their children for their academic performance")
+           => {00658664} <verb.cognition> measure1, evaluate, valuate, assess, appraise1, value -- (place a value on; judge the worth of something; "I will have the family jewels appraised by a professional")
+               => {00647983} <verb.cognition> judge -- (form an opinion of or pass judgment on; "I cannot judge some works of modern art")
+                   => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

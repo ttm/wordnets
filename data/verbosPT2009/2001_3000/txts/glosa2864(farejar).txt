@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA2864
+
+DADO O SYNSET:
+
+S='Glosa2864'
+	    {cheirar: Ao fazer o check-in no saguão, foi barrada por um policial com dois cães farejadores que estavam loucos quando I]cheiraram a mala. Com suspeitas de que Carmem estivesse tranportando drogas, o policial mandou abrir a maleta para fazer uma revista. ,
+	      farejar: Cães da Polícia Federal [farejam droga na sede dos Correios do Rio.,
+	      fariscar: Acodem avoando as aves : grasnam os palmípedes, gritam as galinholas, grugulam os perus; enquanto teimosamente grunhem a leitoada miúda, torvelinhante em derredor do monte, I]fariscando por entre o milho os tenros mogangos alaranjados tão doces ao dente do bácoro guloso.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2864' = “Inalar o odor de; apreender pelo olfato”
+	    {cheirar: Ao fazer o check-in no saguão, foi barrada por um policial com dois cães farejadores que estavam loucos quando I]cheiraram a mala.,
+	      farejar: Cães da Polícia Federal [farejam droga na sede dos Correios do Rio.,
+	      fariscar: Algum escândalo, aposto? I]fariscou Amância, pensando, assanhada já, a sentir o cheiro de uma intriga.,}
+Chave: FAREJAR <verb.perception>
+ILI: 02063352
+
+Sense 1
+{02063352} <verb.perception> smell1 -- (inhale the odor of; perceive by the olfactory sense)
+       => {02045668} <verb.perception> perceive, comprehend -- (to become aware of through the senses; "I could perceive the ship coming over the horizon") 

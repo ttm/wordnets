@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2186
+
+DADO O SYNSET:
+
+S='Glosa2186'
+	    {acidentar-se: Goodyear [acidentou-se no último sábado, durante o treino oficial da Indy, e foi levado doautódromo para o Hospital Rio Mar, na Barra da Tijuca, com fratura da11ª vertebra toráxica .,
+	      ferir-se: Rubinho [feriu-se em um braço, quebrou o nariz e teve uma costela trincada.,
+	      vitimar-se: Uma lição de persistência e de amor à causa pública que encerrou no dia 24 de dezembro de 1995, quando I]vitimou-se em acidente automobilístico, na Br 116. # O maior automobilista do mundo H]vitimou-se na Itália.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2186' = “provocar ferimentos ou danos físicos”
+	    {acidentar-se: Goodyear [acidentou-se no último sábado, durante o treino oficial da Indy.,
+	      ferir-se: Rubinho [feriu-se em um braço, quebrou o nariz e teve uma costela trincada.,
+	      vitimar-se: Uma lição de persistência e de amor à causa pública que encerrou no dia 24 de dezembro de 1995, quando I]vitimou-se em acidente automobilístico. # O maior automobilista do mundo H]vitimou-se na Itália.,}
+
+Chave: ACIDENTAR-SE <verb.body>
+ILI: 00067690
+
+Sense 1
+{00067690} <verb.body> injure, wound -- (cause injuries or bodily harm to)
+       => {00062508} <verb.body> hurt1 -- (give trouble or pain to; "This exercise will hurt your back")
+           => {00062736} <verb.body> indispose -- (cause to feel unwell; "She was indisposed")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

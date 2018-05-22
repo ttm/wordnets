@@ -1,0 +1,42 @@
+ANÁLISE DA GLOSA3913
+
+DADO O SYNSET:
+
+S='Glosa3913'
+{constituir: O Brasil, como um dos signatários do Tratado de Versalhes, [constituiu um dos membros originários deste organismo, que, após a Segunda Guerra Mundial, acabou sendo substituído pela ONU (Organização das Nações Unidas) .,
+ criar: Entretanto, em 1917 os russos, retirando-se da Guerra por problemas de ordem interna, derrubaram o governo do Czar Nicolau 11 e [criaram, em 1922, a União das Repúblicas Socialistas Soviéticas, a URSS,que, juntamente com os Estados Unidos, passaria a ocupar uma posição de destaque no cenário político e econômico mundial .,
+ edificar: Após a expulsão dos franceses do Maranhão (1615), os portugueses [edificaram o forte do Presépio (1616), a partir do qual deram combate aos intrusos .,
+ erguer: No centro da cidade, [ergueram um imponente templo .,
+ erigir: Também não aceitemos a idéia simplória, frequentemente levantada, de que com os mesmos recursos se poderiam [erigir tantas casas, tantas salas de aula ou tantos leitos hospitalares .,
+ estabelecer: Estes últimos, a partir de 453, [estabeleceram um reino, que abrangia a região peninsular e algumas terras do atual oeste francês .,
+ formar: Os caldeus [formaram o Segundo Império Babilônico, conquistando a Mesopotâmia e a Palestina .,
+ fundar: Conseguiram reconquistar Jerusalém, onde [fundaram um reino cristão .,
+ instaurar: No dia seguinte, Goulart foi deposto pelas Forças Armadas, que [instauraram o regime militar .,
+ instituir: Ao contrário do golpe de 1937 que [instituiu o Estado Novo, em que os militares não ocuparam o poder, o golpe de 1964 instalou um militar na presidência da República .,
+ organizar: Pouco depois, o príncipe regente [organizou um novo ministério, presidido por José Bonifácio de Andrada e Silva, o elemento mais destacado da elite coimbrã .,
+ plantar: Os fenícios A]plantaram Cartago.,
+ pôr: Chegamos ao lugar onde os gregos M]puseram a Acrópole de Atenas.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3913' = “estabelecer os fundamentos [para]”
+{constituir: Inicialmente, o sistema de pensamento de Confúcio [constituiu mais um sistema filosófico do que um sistema religioso.,
+ criar: Os russos derrubaram o governo do Czar Nicolau 11 e [criaram, em 1922, a União das Repúblicas Socialistas Soviéticas.,
+ edificar: Após a expulsão dos franceses do Maranhão (1615), os portugueses [edificaram o forte do Presépio (1616), a partir do qual deram combate aos intrusos.,
+ erguer: Clubes, escolas e igrejas já [ergueram seus arraiais pelos quatro cantos da cidade de São Paulo.,
+ erigir: Somente Saint-Denis terá ainda que [erigir seu estádio.,
+ estabelecer: Estes últimos, a partir de 453, [estabeleceram um reino, que abrangia a região peninsular e algumas terras do atual oeste francês.,
+ formar: Os caldeus [formaram o Segundo Império Babilônico, conquistando a Mesopotâmia e a Palestina.,
+ fundar: Conseguiram reconquistar Jerusalém, onde [fundaram um reino cristão.,
+ instaurar: A poesia concreta [instaurou um projeto tradutor de poesia.,
+ instituir: Curitiba [instituiu o primeiro calçadão, empenhou-se na despoluição visual das ruas centrais, traçou um plano para o acelerado desenvolvimento, ampliou e reequipou as áreas verdes e está na linha de frente da discussão ecológica.,
+ organizar: Pouco depois, o príncipe regente [organizou um novo ministério, presidido por José Bonifácio de Andrada e Silva, o elemento mais destacado da elite coimbrã .,
+ plantar: A categórica ordem final de Jesus aos seus seguidores foi que saíssem pelo mundo fazendo discípulos — não I]plantando edifícios, não fundando assembléias, não multiplicando unidades administrativas.}
+Chave: ESTABELECER <verb.creation>
+ILI: 01600394
+
+Sense 1
+{01600394} <verb.creation> establish, found, plant, constitute, institute1 -- (set up or lay the groundwork for; "establish a new department")
+       => {01595277} <verb.creation> initiate, pioneer1 -- (take the lead or initiative in; participate in the development of; "This South African surgeon pioneered heart transplants")
+           => {01598809} <verb.creation> cause, do2, make8 -- (give rise to; cause to happen or occur, not always intentionally; "cause a commotion"; "make a stir"; "cause an accident")
+               => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0805
+
+DADO O SYNSET:
+
+S='Glosa805'
+{apincelar: x,
+broxar: x,
+pincelar: Seguia Angelo [pincelando suas abstratas Paisagens Imaginárias, recamadas de pirocas e outros adereços pecaminosos , quando numa delas, sem mais nem menos, pintou (literalmente) um bicho. ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa805' = “fazer uma pintura”
+{pincelar: Seguia Angelo [pincelando suas abstratas Paisagens Imaginárias, recamadas de pirocas e outros adereços pecaminosos , quando numa delas, sem mais nem menos, pintou (literalmente) um bicho. ,}
+Chave: PINCELAR <verb.creation>
+ILI: 01636799
+
+Sense 1
+{01636799} <verb.creation> paint1 -- (make a painting; "he painted all day in the garden"; "He painted a painting of the garden")
+       => {01637213} <verb.creation> create1 -- (pursue a creative activity; be engaged in a creative activity; "Don't disturb him--he is creating")
+           => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

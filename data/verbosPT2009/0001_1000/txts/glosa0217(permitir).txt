@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0217
+
+DADO O SYNSET:
+
+S='Glosa217'
+{aprovar: A Justiça [permitiu que o BB fizesse a penhora em garantia de uma dívida da empresa do marido, Antônio, o Tony, de R$ 4 milhões.,
+assentir: Conti indicou os melhores caminhos para a avaliação e I]assentiu que eu acelerasse em uma longa reta da auto-estrada A.,
+permitir: A Justiça [permitiu que o BB fizesse a penhora em garantia de uma dívida da empresa do marido, Antônio, o Tony, de R$ 4 milhões.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa217' = “consentir; dar permissão”
+{aprovar: O Conselho de Ministros, reunido hoje na Presidência do Conselho de Ministros, I]aprovou, ainda, um conjunto de diplomas em execução do Novo Regime.,
+assentir: Conti indicou os melhores caminhos para a avaliação e I]assentiu que eu acelerasse em uma longa reta da auto-estrada A.,
+permitir: A Justiça [permitiu que o BB fizesse a penhora em garantia de uma dívida da empresa do marido, Antônio, o Tony, de R$ 4 milhões.,}
+Chave: PERMITIR <verb.communication>
+ILI: 00776433
+
+Sense 1
+{00776433} <verb.communication> permit, allow, let2, countenance -- (consent to, give permission; "She permitted her son to visit her estranged husband"; "I won't let the police search her basement"; "I cannot allow you to see your exam")
+       => {00771887} <verb.communication> accept, consent, go for -- (give an affirmative reply to; respond favorably to; "I cannot accept your invitation"; "I go for this resolution")
+           => {00693825} <verb.cognition> react, respond -- (show a response or a reaction to something)
+               => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

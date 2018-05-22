@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA4106
+
+DADO O SYNSET:
+
+S='Glosa4106'
+{quebrar: Você vê um arco-íris completo porque o prisma I]quebra a luz em todas as suas cores separadas.,
+refletir-se: Um raio de luz do sol que vinha de uma das janelas e se I]refletia naquele vaso de cristal, decompondo a luz e projetando um colorido.,
+refranger-se: Fechara a entrada com alguma lasca de pedra, na qual se I]refrangia a claridade.,
+refratar-se: Ao colocá-lo frente à luz ele se I]refratou nas cores do espectro solar.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4106' = “sofrer refração”
+{quebrar: Você vê um arco-íris completo porque o prisma I]quebra a luz em todas as suas cores separadas.,
+refletir-se: Um raio de luz do sol que vinha de uma das janelas e se I]refletia naquele vaso de cristal, decompondo a luz e projetando um colorido.,
+refranger-se: Fechara a entrada com alguma lasca de pedra, na qual se I]refrangia a claridade.,
+refratar-se: Ao colocá-lo frente à luz ele se I]refratou nas cores do espectro solar.,}
+Chave: REFRATAR-SE <verb.perception>
+ILI: 02050735
+
+Sense 1
+{02050735} <verb.perception> refract -- (subject to refraction; "refract a light beam")
+       => {02049824} <verb.perception> subject3 -- (cause to experience or suffer or make liable or vulnerable to; "He subjected me to his awful poetry"; "The sergeant subjected the new recruits to many drills"; "People in Chernobyl were subjected to radiation")
+           => {00132263} <verb.change> affect, impact, bear upon, bear on, touch on1, touch -- (have an effect upon; "Will the new rules affect me?")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")
+

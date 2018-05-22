@@ -1,0 +1,39 @@
+ANÁLISE DA GLOSA3260
+
+DADO O SYNSET:
+
+S='Glosa3260'
+{arfar: Uma testemunha desmaiou durante a execução de Stephen McCoy, em 1989, no Texas, quando McCoy começou a engasgar, sufocar e [arfar o peito. ,
+	 bater: Palavras com que ali assinei o pacto, estas vieram depois, de atropelo, afinadas pelo coração, que [batia com grande força. ,
+	 estalar: A cada queixada que aquela vaca dava, minha cabeça I]estalava de dor. ,
+	 estralar: x,
+	 latejar: Mas a fíbula, que deve ser palmeirense, começa a [latejar e exige um analgésico.,
+	 later: x,
+	 latir: Quando nervoso, os olhos saltam, as veias H]latem.,
+	 palpitar: E então não duvidastes que ele não era morto, que aquele peito e aquela fronte iam [palpitar de novo.,
+	 pulsar: Ouvia-se [pulsar o sangue na artéria do guerreiro, e tremer o suspiro no lábio da virgem.,
+	 saltar: O cristão parou calcando a mão no peito para sofrear o coração, que [saltava como o poraquê.,
+	 titilar: M]Titilava o estômago vazio dos trabalhadores.,
+	 vibrar: Quando o ar passa com força por ali, ele [vibra essas rugas, resultando um som que, depois de passar pela boca, sendo trabalhado pela língua, dentes e lábios, constituirá a voz da pessoa.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3260' = “dilatar e contrair ritmicamente”
+{arfar: Uma testemunha desmaiou durante a execução de Stephen McCoy, em 1989, no Texas, quando McCoy começou a engasgar, sufocar e [arfar o peito.,
+	 bater: Palavras com que ali assinei o pacto, estas vieram depois, de atropelo, afinadas pelo coração, que [batia com grande força.,
+	 estalar: A cada queixada que aquela vaca dava, minha cabeça I]estalava de dor.,
+	 latejar: Mas a fíbula, que deve ser palmeirense, começa a [latejar e exige um analgésico.,
+	 latir: Quando nervoso, os olhos saltam, as veias H]latem.,
+	 palpitar: E então não duvidastes que ele não era morto, que aquele peito e aquela fronte iam [palpitar de novo.,
+	 pulsar: Ouvia-se [pulsar o sangue na artéria do guerreiro e tremer o suspiro no lábio da virgem.,
+	 saltar: O cristão parou calcando a mão no peito para sofrear o coração, que [saltava como o poraquê.,
+	 titilar: M]Titilava o estômago vazio dos trabalhadores.,
+	 vibrar: Quando o ar passa com força por ali, ele [vibra essas rugas, resultando um som que, depois de passar pela boca, sendo trabalhado pela língua, dentes e lábios, constituirá a voz da pessoa.}
+Chave: PULSAR <verb.motion>
+ILI: 01825090
+
+
+Sense 2 
+{01825090} <verb.motion> pulsate, throb1, pulse -- (expand and contract rhythmically; beat rhythmically; "The baby's heart was pulsating again after the surgeon massaged it")
+       => {01825934} <verb.motion> beat, pound, thump -- (move rhythmically; "Her heart was beating fast")
+           => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right")

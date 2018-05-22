@@ -1,0 +1,41 @@
+ANÁLISE DA GLOSA3131
+
+DADO O SYNSET:
+
+S='Glosa3131'
+	    {
+	      abrasar: E quando os crepúsculos assemelham-se a fornalhas de cobre candente que I]abrasam as estradas. # A seca não estaria também abrasando, sem tréguas, os solos dos sertões baianos, os quais, portanto, careciam de igual atenção institucional? ,
+	      abrasear: x,
+	      adurir: x,
+	      afoguear: Evaporações quentes, que I]afogueiam a cara do transeunte.,
+	      alabarar: O raio H]alabarou a mata.,
+	      comburir: Ao se pôr no rendilhado do morro de Bofete, uma imensa chapa de bronze a I]comburir; indo aos poucos sumindo, num leque policromático de cores. ,
+	      combustar: Mais chama, mais faísca, montoeira de quentura pra I]combustar meu tanque.,
+	      enfogar: x,
+	      escandescer: x,
+	      esfoguear: x,
+	      foguear: Jerônimo I]fogueou um cigarro no cachimbo do Pataca e despediu-se, relembrando aos companheiros a hora da entrevista.,
+	      ignificar: x,
+	      incandescer: Recolheu a brasa fria e inoperante e colocou-a de volta no meio do fogo. Imediatamente começou a I]incandescer uma vez mais com a luz e o calor dos carvões ardentes em torno dela.,
+	      incender: O seu hálito faz I]incender os carvões; e da sua boca sai chama.,
+	      inflamar: Infelizmente, Honoré de Balzac viveu no século 17 e nunca teve a satisfação de [inflamar o cigarro com um Zippo. ,
+	      queimar: O problema não seria tão grave se as indústrias da região passassem a [queimar, em suas caldeiras, óleo com 1% de enxofre - o que se usa hoje tem 5% . ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3131' = “causar combustão”
+	     {abrasar: O fogo I]abrasou-lhe a barba e ele se esvaiu na fumaça. # Uma rajada ardente I]abrasou meu rosto.,
+	      afoguear: Sorriu Afonso do meu melindroso sentimentalismo, retorceu distraidamente os longos bigodes por sobre a barba listrada de fascículos brancos, I]afogueou o seu cachimbo de barro negro e continuou.,
+	      alabarar: O raio H]alabarou a mata.,
+	      foguear: Jerônimo I]fogueou um cigarro no cachimbo do Pataca e despediu-se, relembrando aos companheiros a hora da entrevista.,
+	      incandescer: Em certo momento, o objeto I]incandesceu e começou a girar em torno de si mesmo, após o que, em movimentos rápidos, submergiu, causando grande espanto.,
+	      inflamar: O conteúdo de um tambor de metanol vazou para o piso, I]inflamou e correu por uma canaleta até a área de processo, onde ocorreu um incêndio. ,
+	      queimar: O propulsor do Ariane 5 [queimou 257 toneladas de combustível, liberando energia comparável à de motores dos ônibus espaciais. ,}
+Chave: QUEIMAR <verb.change>
+ILI: 00366409
+
+Sense 7
+{00366409} <verb.change> burn1, incinerate -- (cause to undergo combustion; "burn garbage"; "The car burns only Diesel oil")
+       => {00135037} <verb.change> change integrity -- (change in physical make-up)
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

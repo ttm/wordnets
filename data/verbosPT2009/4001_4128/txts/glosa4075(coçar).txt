@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA4075
+
+DADO O SYNSET:
+
+S='Glosa4075'
+{coçar: Mulder I]coçava as costas dela.,
+comichar: O sol da tarde I]comichava-lhe os ombros.,
+pruir: x,
+prurir: A urtiga H]pruriu-lhe a pele das pernas.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4075' = “ter ou perceber uma coceira”
+{coçar: Estou com calor, dói e [coça muito.,
+comichar: Além disso, a variz I]comichava danadamente.,
+prurir: A urtiga H]pruriu-lhe a pele das pernas.,}
+Chave: COÇAR <verb.perception>
+ILI: 02059880
+
+Sense 2
+{02059880} <verb.perception> itch -- (have or perceive an itch; "I'm itching--the air is so dry!")
+       => {02060768} <verb.perception> ache, smart, hurt -- (be the source of pain)
+           => {02062507} <verb.perception> cause to be perceived -- (have perceptible qualities)

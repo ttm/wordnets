@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA2358
+
+DADO O SYNSET:
+
+S='Glosa2358'
+	    {afugentar: Pelo menos por enquanto, o aguaceiro de ontem à noite ajudou a I]afuguentar o espectro da estiagem.#Segundo ele, o regime monetário e cambial do país é claro e I]afuguenta tentações de investidores que poderiam se aproveitar de sinais de instabilidade.,
+	      correr: Se o governo tomasse a atitude (radical) de botar todos eles na cadeia, ou todos eles para I]correr, certamente seria acusado de injusto.,
+	      enxotar: Restaurante  [enxota  clientes à noite.,
+	      escorraçar: Precisamos I]escorraçar os políticos corruptos deste País.#  Tinha sido amestrado para ladrar às crianças, para I]escorraçar os pequenos, magros e sujos, que pudesse encontrar pedindo esmola junto dos portais ricos.,
+	      espancar: O Sol M]espanca as trevas.,
+	      espantar: Móbile em forma de gavião [espanta esse pequeno papagaio que ataca o milho no Sul.,
+	      tocar: Vamos apartar os bezerros e I]tocar as vacas para a outra banda.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2358' = “Obrigar a ir embora, usado tanto no sentido concreto quanto no metafórico.”
+	    {afugentar: Segundo ele, o regime monetário e cambial do país é claro e I]afuguenta tentações de investidores que poderiam se aproveitar de sinais de instabilidade.,
+	      correr: O povo I]correu com ele de lá", afirmou.,
+	      enxotar: Restaurante  [enxota  clientes à noite.,
+	      escorraçar: Olívio Dutra I]escorraçou os novos investimentos da Ford apenas para ser coerente com seu discurso.,
+	      espancar: O Sol M]espanca as trevas.,
+	      espantar: Móbile em forma de gavião [espanta esse pequeno papagaio que ataca o milho no Sul.,
+	      tocar: Arlete I]tocou o cachorro da sala e Maria não ficou mais com medo.,}
+
+Chave: AFUGENTAR <verb.motion>
+ILI: 01944734
+
+Sense 1
+{01944734} <verb.motion> chase away, drive out1, turn back2, drive away, dispel, drive off6, run off -- (force to go away; used both with concrete and metaphoric meanings; "Drive away potential burglars"; "drive away bad thoughts"; "dispel doubts"; "The supermarket had to turn back many disappointed customers")
+       => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant") 

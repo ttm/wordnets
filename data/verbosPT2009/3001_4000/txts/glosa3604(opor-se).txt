@@ -1,0 +1,38 @@
+ANÁLISE DA GLOSA3604
+
+DADO O SYNSET:
+
+S='Glosa3604'
+	    {
+	      antepor-se: Acreditava que a sua melhor ocupação devia consistir em dar cabo do rival que se [lhe antepusera. / Não havendo nenhuma outra barreira a I]antepor-se à globalização. ,
+	      contrapor-se: A formação de uma administração centralizada sobre o território, exercida pelo rei, contrapunha-se á descentralização existente durante o feudalismo, através dos senhores feudais . ,
+	      obviar: Por forma a I]obviar a que os consumidores fiquem dependentes das circunstâncias, é fundamental apostar na sua educação e formação.,
+	      opor-se: Eu penso que é difícil que alguém ouse [se opor a uma ideologia mitificada proposta por todo o lado sobre a qual se tem a idéia de inevitável. ,
+	      reagir: Depois de obsequioso silêncio, resolveu [reagir às críticas do prefeito.,
+	      repugnar: Ao nosso espírito civilizado, ela [repugna não só à moral, como ao decoro que deve revestir os costumes de uma sociedade cristã. ,
+	      repulsar: A Bolívia I]repulsou a proposta,
+	      resistir: O governador do estado, Almir Gabriel, [resiste sob o argumento de que isso representaria uma intervenção federal no Pará.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3604' = “ser contra; expressar oposição”
+	     {antepor-se: Por sua vez, o banco depositário logicamente se I]antepôs a verificar a origem do dinheiro tendo em vista a preservação de sua imagem. / Mas Odisseu se I]antepôs a esta decisão. ,
+	      contrapor-se: No final do século XVI surgiu na Itália uma nova expressão artística, que se I]contrapunha ao maneirismo e as características remanescentes do Renascimento. ,
+	      obviar: O TDP I]obviava à falta de uma tabela própria de equivalências, pois a que existe apenas contempla cursos mais recentes.,
+	      opor-se: O partido se [opôs a todas as privatizações e promete uma auditoria no programa. ,
+	      reagir: Depois de obsequioso silêncio, resolveu [reagir às críticas do prefeito.,
+	      repugnar: Ao nosso espírito civilizado, ela [repugna não só à moral, como ao decoro que deve revestir os costumes de uma sociedade cristã. ,
+	      repulsar: A Bolívia I]repulsou a proposta,
+	      resistir: O governador do estado, Almir Gabriel, [resiste sob o argumento de que isso representaria uma intervenção federal no Pará.,}
+Chave: OPOR-SE <verb.communication>
+ILI: 00750217
+
+Sense 1
+{00750217} <verb.communication> oppose1 -- (be against; express opposition to; "We oppose the ban on abortion")
+       => {00747871} <verb.communication> argue, contend1, debate1, fence -- (have an argument about something)
+           => {00932753} <verb.communication> converse, discourse1 -- (carry on a conversation)
+               => {00930524} <verb.communication> talk1, speak1 -- (exchange thoughts; talk with; "We often talk business"; "Actions talk louder than words")
+                   => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                       => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                           => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

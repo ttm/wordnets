@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA3153
+
+DADO O SYNSET:
+
+S='Glosa3153'
+	    {
+	      afrouxar: Se a máquina petista [afrouxar, por excesso de confiança, vai morrer com o grito de «já ganhou» entalado na garganta. ,
+	      indisciplinar: A vida muito fácil H]indisciplinou-lhe o espírito.,
+	      relaxar: Inexplicavelmente, o time [relaxou na concentração, desperdiçou bolas fáceis e cometeu falhas na recepção.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3153' = “tornar menos severo ou rigoroso”
+	     {afrouxar: O Banco Central [afrouxou ontem as regras do recolhimento compulsório sobre depósitos a prazo para bancos de pequeno porte. ,
+	      indisciplinar: A vida muito fácil H]indisciplinou-lhe o espírito.,
+	      relaxar: Inexplicavelmente, o time [relaxou na concentração, desperdiçou bolas fáceis e cometeu falhas na recepção., }
+Chave: RELAXAR <verb.social>
+ILI: 02524994
+
+Sense 3
+{02524994} <verb.social> relax, loosen -- (become less severe or strict; "The rules relaxed after the new director arrived")
+       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

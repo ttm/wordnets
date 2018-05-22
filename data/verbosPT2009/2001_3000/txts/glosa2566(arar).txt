@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA2566
+
+DADO O SYNSET:
+
+S='Glosa2566'
+	    {arar: Justo explica que na recuperação do pasto, o pecuarista precisa primeiro colocar o calcário, [arar para revolver aterra, jogar os adubos e, se for o caso, uns 5 quilos de semente ventilada por hectare.,
+	      arrotear: Após o primeiro instante do êxtase sob a força do ideal, o lidador do solo entrega-se, cheio de afã, a I]arrotear o campo, dividindo a área cultivada em compartimentos destinados a este ou aquele cultivo. ,
+	      desbravar: Não sabiam I]desbravar um terreno, nem plantar milho, mandioca ou algum fruto.,
+	      romper: Semeadoras de SPD, equipadas com dispositivos para I]romper o solo a maiores profundidades, têm apresentado resultados positivos na indução do aprofundamento do sistema radicular do arroz de terras altas, comparativamente ao sistema radicular proporcionado pelo Sistema Plantio Direto com semeadoras convencionais.,
+	      rotear2: x,
+	      sulcar: Enxadas e arados voltam a [sulcar a terra para nela fixarem as sementes e renovar as esperanças de reduzir a fome e a penúria.,
+	      surcar: De pontes colossais e canais imensos virão I]surcar a face das campinas.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2566' = “Escavar a forma de um sulco.”
+	    {arar: Limpou o terreno, I]arou a terra e plantou os grãos de trigo.,
+	      arrotear: Quem I]arroteou os terrenos e cultivou o solo, ou quem semeou, plantou e colheu?,
+	      desbravar: Não sabiam I]desbravar um terreno, nem plantar milho, mandioca ou algum fruto.,
+	      romper: Semeadoras de SPD, equipadas com dispositivos para I]romper o solo a maiores profundidades.,}
+
+Chave: ARAR <verb.contact>
+ILI: 01239325
+
+Sense 2
+{01239325} <verb.contact> furrow, rut, groove -- (hollow out in the form of a furrow or groove; "furrow soil")
+       => {01270650} <verb.contact> dig, delve, cut into1, turn over -- (turn up, loosen, or remove earth; "Dig we must"; "turn over the soil for aeration")
+           => {00166870} <verb.change> remove, take, take away1, withdraw1 -- (remove something concrete, as by lifting, pushing, taking off, etc. or remove something abstract; "remove a threat"; "remove a wrapper"; "Remove the dirty dishes from the table"; "take the gun from your pocket"; "This machine withdraws heat from the environment") 

@@ -1,0 +1,46 @@
+ANÁLISE DA GLOSA4040
+
+DADO O SYNSET:
+
+S='Glosa4040'
+{brotar: Desta alma não mais H]brotarão abominações.,
+defluir: As lembranças H]defluíam de sua mente, sem parar.,
+depender: O prestígio dee que desfruta A]depende do seu caráter.,
+derivar: Sua aquisição I]deriva do trabalho e dá ao camponês condições mais dignas para que seja viável sua manutenção no meio rural.,
+derivar-se: A paz que não se I]deriva do trabalho, do sacrifício no dever retamente cumprido, e das lágrimas sabiamente vertidas, não tem consistência.,
+dimanar: Todo poder H]dimana do povo.,
+emanar: Todo o poder I]emana do povo.,
+filiar-se: Tais seitas M]filiam-se ao esoterismo oriental.,
+originar-se: A modalidade esportiva da esgrima [originou-se da tradição antiga dos duelos, que findavam apenas com a morte de um dos contendores, numa disputa de questão pessoal ou de honra .,
+proceder: I]Procedia de uma boa família.,
+promanar: A ordem coativa da conduta humana, como sistema de normas obrigatórias, I]promana do referido axioma da teoria formal do Direito.,
+provir: Toda a vida I]provém de apenas 2 espécies de bactérias.,
+ser: Todo poder I]é do povo e em seu nome é exercido.,
+transverberar: Banha-o a luz que M]transverbera do firmamento.,
+vir: Essa força I]vem do povo. De um povo que, apesar das dificuldades, canta e torna o mundo mais fraterno.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4040' = “vir [de]”
+{defluir: As lembranças H]defluíam de sua mente, sem parar.,
+derivar: Sua aquisição I]deriva do trabalho e dá ao camponês condições mais dignas para que seja viável sua manutenção no meio rural.,
+derivar-se: A paz que não se I]deriva do trabalho, do sacrifício no dever retamente cumprido, e das lágrimas sabiamente vertidas, não tem consistência.,
+dimanar: Todo poder H]dimana do povo.,
+emanar: Todo o poder I]emana do povo.,
+originar-se: A modalidade esportiva da esgrima [originou-se da tradição antiga dos duelos, que findavam apenas com a morte de um dos contendores, numa disputa de questão pessoal ou de honra .,
+proceder: Seria interessante ver o que [procede do próprio catolicismo e o que [procede do catolicismo ibérico, e então comparar a experiência canadense com a da América Latina ou Hispânica ..,
+promanar: A ordem coativa da conduta humana, como sistema de normas obrigatórias, I]promana do referido axioma da teoria formal do Direito.,
+provir: Toda a vida I]provém de apenas 2 espécies de bactérias.,
+ser: Todo poder I]é do povo e em seu nome é exercido.,
+vir: Essa força I]vem do povo. De um povo que, apesar das dificuldades, canta e torna o mundo mais fraterno.,}
+Chave: DERIVAR <verb.change>
+ILI: 00243433
+
+Sense 3
+{00243433} <verb.change> derive1 -- (come from; "The present name derives from an older form")
+       => {00242712} <verb.change> evolve -- (undergo development or evolution; "Modern man evolved a long time ago")
+           => {00243643} <verb.change> develop -- (grow, progress, unfold, or evolve through a process of evolution, natural growth, differentiation, or a conducive environment; "A flower developed on the branch"; "The country developed into a mighty superpower"; "The embryo develops into a fetus"; "This situation has developed over a long time")
+               => {00223119} <verb.change> grow -- (become larger, greater, or bigger; expand or gain; "The problem grew too large for me"; "Her business grew fast")
+                   => {00150804} <verb.change> increase -- (become bigger or greater in amount; "The amount of work increased")
+                       => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+                           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

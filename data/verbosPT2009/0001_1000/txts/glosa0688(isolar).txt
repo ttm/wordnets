@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0688
+
+DADO O SYNSET:
+
+S='Glosa688'
+{ilhar: A grande batalha pela libertação do Estado destes grupos empresariais, políticos e acadêmicos que o [ilharam.,
+insular: As propostas de [insular a burocracia das pressões políticas, que vemos hoje no Leste europeu, e o recrudescimento de idéias populistas e corporativistas, que hoje se nota na América Latina, não devem sem sobreestimadas.,
+isolar: Mas classifica como demagogos os que vêem na proteção aos consumidores de drogas uma forma de [isolar os traficantes .,
+seqüestrar: Uma instituição que tinha a profana incumbência de I]seqüestrar pobres, moribundos, doentes e vadios do meio social, escondendo o incômodo, disciplinando os corpos e guardando-os até a morte.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa688' = “separar, afastar dos outros”
+{ilhar: A grande batalha pela libertação do Estado destes grupos empresariais, políticos e acadêmicos que o [ilharam.,
+insular: As propostas de [insular a burocracia das pressões políticas, que vemos hoje no Leste europeu, e o recrudescimento de idéias populistas e corporativistas, que hoje se nota na América Latina, não devem sem sobreestimadas.,
+isolar: Mas classifica como demagogos os que vêem na proteção aos consumidores de drogas uma forma de [isolar os traficantes .,
+seqüestrar: Uma instituição que tinha a profana incumbência de I]seqüestrar pobres, moribundos, doentes e vadios do meio social, escondendo o incômodo, disciplinando os corpos e guardando-os até a morte.,}
+Chave: ISOLAR <verb.change>
+ILI: 00482407
+
+Sense 3
+{00482407} <verb.change> sequester1, sequestrate, keep apart, set apart1, isolate2 -- (set apart from others; "The dentist sequesters the tooth he is working on")
+       => {01513899} <verb.contact> separate1, disunite, divide1, part1 -- (force, take, or pull apart; "He separated the fighting children"; "Moses parted the Red Sea")
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

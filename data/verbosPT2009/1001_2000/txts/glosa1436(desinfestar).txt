@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA1436
+
+DADO O SYNSET:
+
+S='Glosa1436'
+{desinçar: A]Desinçar as matas de animais daninhos.,
+ desinfestar: I]Desinfestar sistematicamente os vasilhames e os meios de transporte, para reduzir as condições de disseminação das pragas entre regiões.,}
+	  
+A='Glosa3941'
+{inçar, infestar, praguejar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1436' = “livrar de praga”
+{desinçar: Os aparelhos saneadores I]desinçam da pragaria das sevandijas, os esgotos, os canos d’água, os vãos inacessíveis das casas.,
+ desinfestar: O aumento da temperatura I]desinfesta o solo e reduz a população de patógenos.,}
+	  
+A='Glosa3941'
+{inçar, infestar, praguejar}
+Chave: DESINFESTAR <verb.possession>
+ILI: 02282996
+
+Sense 1
+{02282996} <verb.possession> disinfest -- (rid of vermin; "The exterminator disinfests the house")
+       => {02282547} <verb.possession> rid, free2, disembarrass -- (relieve from; "Rid the the house of pests")

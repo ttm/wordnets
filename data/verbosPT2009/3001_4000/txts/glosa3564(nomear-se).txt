@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA3564
+
+DADO O SYNSET:
+
+S='Glosa3564'
+	    {
+	      denominar-se: São eles mesmos que [se denominam neofascistas. ,
+	      intitular-se: Os principais personagens são uma jovem viúva que [se intitula marquesa de Merteuil. / Ele [se intitulava biólogo e terapeuta hidromolecular e é acusado de vender «remédios» que continham apenas água e açúcar . ,
+	      nomear-se: Um jovem pode ter um dom para fazer um curatico, ou dar injeçao, mas esse seria motivo suficiente para ele I]nomear-se enfermeiro? ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3564' = “designar um nome específico, próprio”
+	     {denominar-se: Outra característica própria de Lino era que ele se I]denominava um fã de cinema que resolveu escrever sobre seu passatempo. ,
+	      intitular-se: I]Entitulava-se "The Killer" (o matador) e no palco era um ciclone martelando furiosamente as teclas do piano. / Ele [se intitulava biólogo e terapeuta hidromolecular e é acusado de vender «remédios» que continham apenas água e açúcar.,
+	      nomear-se: Foucault, certa vez, I]nomeou-se como "anarquista de esquerda", no contexto de um diálogo.,}
+Chave: NOMEAR-SE <verb.communication>
+ILI: 00995511
+
+Sense 1
+{00995511} <verb.communication> name3, call2 -- (assign a specified, proper name to; "They named their son David"; "The new school was named after the famous Civil Rights leader")
+       => {00996581} <verb.communication> label -- (assign a label to; designate with a label; "These students were labelled `learning disabled'")
+           => {00996861} <verb.communication> designate, denominate -- (assign a name or title to)

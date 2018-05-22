@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0491
+
+DADO O SYNSET:
+
+S='Glosa491'
+{descarregar-se: I]Descarregou-se o quarto.,
+esvaziar-se: O tanque de oxigênio não [esvaziou-se completamente durante repetidos testes.,}
+A='Glosa492'
+{carregar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa491' = “ficar, tornar (-se) vazio ou destituído de seu conteúdo” 
+{descarregar-se: I] Quando a soma do conteúdo dos demais bytes da memória CMOS não confere com estes dois bytes (em geral porque a bateria I]descarregou-se).,
+esvaziar-se: O tanque de oxigênio não [esvaziou-se completamente durante repetidos testes.,}
+A='Glosa492'
+{carregar-se}
+Chave: ESVAZIAR-SE <verb.change>
+ILI: 00435702
+
+Sense 2
+{00435702} <verb.change> empty, discharge -- (become empty or void of its content; "The room emptied")
+       => {00140715} <verb.change> change state, turn4 -- (undergo a transformation or a change of position or action; "We turned from Socialism to Capitalism"; "The people turned against the President when he stole the election")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

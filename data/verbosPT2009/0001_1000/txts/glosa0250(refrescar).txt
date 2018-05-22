@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0250
+
+DADO O SYNSET:
+
+S='Glosa250'
+{abanar: Durante a cerimônia religiosa, no Outeiro da Glória, usou seu leque para [abanar o encalorado prefeito Paulo Maluf.,
+abanicar: M]Abanicar o rosto.,
+refrescar: Aoitin ia adormecer na gruta, ela entrava de manso e com um ramo de palmeira procurava, movendo o ar, [refrescar a fronte do guerreiro adormecido.,
+ventilar: DEVIANT,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa250' = “tornar ou fazer sentir fresco”
+{abanar: Durante a cerimônia religiosa, no Outeiro da Glória, usou seu leque para [abanar o encalorado prefeito Paulo Maluf.,
+refrescar: Aoitin ia adormecer na gruta, ela entrava de manso e com um ramo de palmeira procurava, movendo o ar, [refrescar a fronte do guerreiro adormecido.,}
+Chave: REFRESCAR <verb.change>
+ILI: 00158451
+
+Sense 2
+{00158451} <verb.change> refresh, freshen -- (make (to feel) fresh; "The cool water refreshed us")
+       => {01584867} <verb.creation> regenerate, renew -- (re-establish on a new, usually improved, basis or make new or like new; "We renewed our friendship after a hiatus of twenty years"; "They renewed their membership")
+           => {01573613} <verb.creation> re-create -- (create anew; "Re-create the boom of the West on a small scale")
+               => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2140
+
+DADO O SYNSET:
+
+  S='Glosa2140'
+	    {dissolver-se: Este açúcar I]dissolve-se mais rapidamente devido ao reduzido tamanho do cristal e torna os bolos e doces ainda mais leves, macios e fofos.,
+	      exsolver-se: Ilmenita pode I]exsolver-se por oxidação.,
+	      solver-se: Desprendendo-se o líquido do álcool por destilação, I]solve-se o resíduo em água destilada.,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2140' = “reduzir-se a forma líquida; desmanchar.”
+	    {dissolver-se: Este açúcar I]dissolve-se mais rapidamente devido ao reduzido tamanho do cristal.,
+	      exsolver-se: Ilmenita pode I]exsolver-se por oxidação.,
+	      solver-se: Desprendendo-se o líquido do álcool por destilação, I]solve-se o resíduo em água destilada.,}
+
+Chave: DISSOLVER-SE <verb.change>
+ILI: 00433583
+
+Sense 2
+{00433583} <verb.change> dissolve -- (pass into a solution; "The sugar quickly dissolved in the coffee")
+       => {00385553} <verb.change> disintegrate -- (break into parts or components or lose cohesion or unity; "The material disintegrated"; "the group disintegrated after the leader died")
+           => {00135037} <verb.change> change integrity -- (change in physical make-up)
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

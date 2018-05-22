@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0530
+
+DADO O SYNSET:
+
+S='Glosa530'
+{explorar: FHC escolheu o Memorial JK para o lançamento do seu programa de governo para [explorar supostas semelhanças entre suas propostas e as defendidas pelo então presidente JK.,
+procurar: Gostei muito disso, assim como da sua maneira alegre de [procurar sua própria identidade, uma característica de Lucy.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa530' = “investigar, buscar algo”
+{explorar: O Projeto Juvenal prospectou e I]explorou dezesseis cavidades na região do Abismo.,
+ procurar: Gostei muito disso, assim como da sua maneira alegre de [procurar sua própria identidade, uma característica de Lucy.,}
+Chave: EXPLORAR <verb.cognition>
+ILI: 00627521
+
+Sense 1
+{00627521} <verb.cognition> research, search, explore -- (inquire into)
+       => {00763144} <verb.communication> investigate, look into -- (investigate scientifically; "Let's investigate the syntax of Chinese")
+           => {00623929} <verb.cognition> analyze, analyse, study2, examine, canvass2, canvas2 -- (consider in detail and subject to an analysis in order to discover essential features or meaning; "analyze a sonnet by Shakespeare"; "analyze the evidence in a criminal trial"; "analyze your real motives")

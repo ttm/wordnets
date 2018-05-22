@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2697
+
+DADO O SYNSET:
+
+S='Glosa2697'
+	    {arrelvar: a chuva H]arrelvou o terreno.,
+	      enrelvar: x,
+	      relvar: A]Relvar um terreno.,
+	      relvejar: Os prados M]relvejavam.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2697' = “Cobrir com relva, grama.”
+	    {arrelvar: A chuva H]arrelvou o terreno.,
+	      relvar: A]Relvar um terreno.,
+	      relvejar: Os prados M]relvejavam.,}
+
+Chave: RELVAR <verb.contact>
+ILI: 01172405
+
+Sense 4
+{01172405} <verb.contact> grass2, grass over -- (cover with grass)
+       => {01171349} <verb.contact> cover1, spread over -- (form a cover over; "The grass covered the grave")
+           => {01169130} <verb.contact> touch1, adjoin3, meet, contact3 -- (be in direct physical contact with; make contact; "The two buildings touch"; "Their hands touched"; "The wire must not contact the metal cover"; "The surfaces contact at this point") 

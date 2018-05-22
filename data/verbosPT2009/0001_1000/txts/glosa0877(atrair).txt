@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0877
+
+DADO O SYNSET:
+
+S='Glosa877'
+{atrair: Na Grécia Antiga, sabia-se, que o âmbar, quando atritado com a lã, adquiria a propriedade de [atrair objetos leves.,
+chamar: Com liquidação que começa na segunda-feira, o shopping Penha, na zona leste, [chama o consumidor com preços até 80% mais baixos.,
+puxar: Os corpos caem porque a Terra os [puxa em direção ao seu centro de gravidade.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa877' = “dirigir para si mesmo por meios de poder psicológico ou atributos físicos”
+{atrair: Na Grécia Antiga, sabia-se, que o âmbar, quando atritado com a lã, adquiria a propriedade de [atrair objetos leves.,
+chamar: Com liquidação que começa na segunda-feira, o shopping Penha, na zona leste, [chama o consumidor com preços até 80% mais baixos.,
+puxar: Os corpos caem porque a Terra os [puxa em direção ao seu centro de gravidade.,}
+Chave: ATRAIR <verb.contact>
+ILI: 01463020
+
+Sense 1
+{01463020} <verb.contact> attract, pull2, pull in, draw6, draw in -- (direct toward itself or oneself by means of some psychological power or physical attributes; "Her good looks attract the stares of many men"; "The ad pulled in many potential customers"; "This pianist pulls huge crowds"; "The store owner was happy that the ad drew in many new customers")
+       => {01406785} <verb.contact> pull, draw3, force1 -- (cause to move along the ground by pulling; "draw a wagon"; "pull a sled")
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

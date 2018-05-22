@@ -1,0 +1,36 @@
+ANÁLISE DA GLOSA3009b
+
+DADO O SYNSET:
+
+S='Glosa3009'
+	    {
+	      abafar-se: M]Abafou-se bastante por causa do frio.,
+	      acobertar-se: Teve de H]acobertar-se com folhas de jornal.,
+	      agasalhar-se: Depois do surf, logicamente a melhor opção é se enxugar rápido e I]agasalhar-se com o máximo de casacos, pois sua pele vai estar roxa. ,
+	      aquecer-se: À esquerda, em tons sóbrios, ela se [aquece com camiseta regata em veludo alemão da G sobre camisa stretch. ,
+	      cobrir-se: Não há uma única presença feminina na casa e Morgana deve I]cobrir-se estritamente com o véu islâmico para poder me acompanhar e tirar fotos.,
+	      encarapuçar-se: x,
+	      enroupar-se: Dessa mesma época, nosso tropeiro I]enroupou-se com chiripá "mortero" ou primitivo.,
+	      forrar-se1: Nos dias mais frios, no entanto, I]forra-se por baixo com uma camiseta Hering.,
+	      gasalhar-se: x,
+	      recobrir-se: Levanta-se de seu ninho de descanso e I]recobre-se com tecidos macios e belos, a lhe encobrirem o corpo e confortavelmente prepará- lo para enfrentar o calor.,
+	      resguardar-se: Em estrofes posteriores, fala-se dos sapatos arredondados, das calças curtas, das polainas reforçadas, da camisa, do chapéu de feltro com abas largas, da capa de couro para resguardar-se do frio e da chuva,
+	      roupar-se: H]Roupava-se com extrema rapidez.,
+	      tapar-se: Dando-se conta de como estava vestida, tentou I]tapar-se e desatou a correr escada acima.,
+	      velar-se: Na rocha eterna firmado estou eu e tenho a salvação, me esconde Jesus Cristo no manto seu, I]velando-me com sua mão.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3009' = “colocar roupas”
+	     {cobrir-se: Ouvindo estas palavras, Acab rasgou suas vestes, I]cobriu-se com um saco e jejuou.,
+	      enroupar-se: Dessa mesma época, nosso tropeiro I]enroupou-se com chiripá "mortero" ou primitivo.,
+	      recobrir-se: Levanta-se de seu ninho de descanso e I]recobre-se com tecidos macios e belos, a lhe encobrirem o corpo e confortavelmente prepará- lo para enfrentar o calor.,
+	      roupar-se: H]Roupava-se com extrema rapidez.,}
+Chave: ENROUPAR-SE <verb.change>
+ILI: 00046409
+
+Sense 1
+{00046409} <verb.body> dress1, clothe, enclothe, garb, raiment, tog, garment, habilitate, fit out, apparel -- (provide with clothes or put clothes on; "Parents must feed and dress their child")
+       => {00140715} <verb.change> change state, turn4 -- (undergo a transformation or a change of position or action; "We turned from Socialism to Capitalism"; "The people turned against the President when he stole the election")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

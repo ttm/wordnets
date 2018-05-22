@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA1559
+
+DADO O SYNSET:
+
+S='Glosa1559'
+{desarranjar-se: Não se pode dizer que um artesão seja mau operário quando uma máquina, construída por ele só, vem durando há tantos séculos sem I]desarranjar-se.,
+ destrambelhar-se: Descobriu que o relógio H]destrambelhara.,
+ escangalhar-se: A máquina I]escangalhou-se?,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1559' = “perturbar-se no equilíbrio ou estabilidade”
+{desarranjar-se: A flora intestinal I]desarranjou-se toda.,
+ destrambelhar-se: Não foi só a base aliada que se desarrumou, o próprio governo se I]destrambelhou.,
+ escangalhar-se: Minha cam digital I]escangalhou-se de vez.,}
+Chave: DESARRANJAR-SE <verb.change>
+ILI: 00507530
+
+Sense 1
+{00507530} <verb.change> upset -- (disturb the balance or stability of; "The hostile talks upset the peaceful relations between the two countries")
+       => {01170925} <verb.contact> touch3, disturb -- (tamper with; "Don't touch my CDs!")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

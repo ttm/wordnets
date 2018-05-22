@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA4049
+
+DADO O SYNSET:
+
+S='Glosa4049'
+{acentuar: Ele I]acentuou que o governo Lula entende que é necessário fazer uma distribuição massiva de terras no Brasil, atingindo uma área de pequenos espaços.,
+destacar: Cury I]destacou seus planos para os próximos quatro anos.,
+pronunciar: A idade H]pronunciou seus traços fisionômicos.,
+realçar: A morena ganhou cachos e uma maquiagem que I]realçou seus olhos claros.,
+recortar: A luz do lampião A]recorta o seu perfil na parede escura. ,
+salientar: O sr. Dirceu Machado Olive I]salientou que vários companheiros julgaram oportuna a criação de uma associação para dinamizar as atividades do setor.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4049' = “dar ênfase, destacar como importante”
+{acentuar: Ele I]acentuou que o governo Lula entende que é necessário fazer uma distribuição massiva de terras no Brasil, atingindo uma área de pequenos espaços.,
+destacar: Cury I]destacou seus planos para os próximos quatro anos.,
+realçar: O desfile não trouxe nem o glamour nem a fantasia que se espera da alta-costura, mas [realçou o caráter datado da estética de Cardin, hoje mais preocupado em impulsionar e expandir ainda mais seu império.,
+salientar: O sr. Dirceu Machado Olive I]salientou que vários companheiros julgaram oportuna a criação de uma associação para dinamizar as atividades do setor.,}
+Chave: ACENTUAR <verb.communication>
+ILI: 00980547
+
+Sense 1
+{00980547} <verb.communication> stress, emphasize, emphasise, punctuate, accent1, accentuate -- (to stress, single out as important; "Dr. Jones emphasizes exercise in addition to a change in diet")
+       => {00912790} <verb.communication> express1, show2, evince -- (give expression to; "She showed her disappointment")
+           => {00898144} <verb.communication> convey, impart1 -- (make known; pass on, of information)
+               => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                   => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                       => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")
+

@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA3399
+
+DADO O SYNSET:
+
+S='Glosa3399'
+	    {
+	      mascar: O boi M]mascava folhas e raízes.,
+	      recomer: x,
+	      remascar: O gado H]remasca o capim.,
+	      remastigar: Os ruminantes têm a capacidade de reter, regurgitar, I]remastigar e fermentar o alimento.,
+	      remoer: Os bois estão a H]remoer no pasto.,
+	      ruminar: Os animais que I]ruminam e tem cascos fendidos são mansos e inofensivos.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3399' = “mastigar”
+	     {mascar: O boi M]mascava folhas e raízes.,
+	      remascar: O gado H]remasca o capim.,
+	      remastigar: Os ruminantes têm a capacidade de reter, regurgitar, I]remastigar e fermentar o alimento.,
+	      remoer: Os bois estão a H]remoer no pasto.,
+	      ruminar: O touro I]ruminava capim.,}
+Chave: RUMINAR <verb.consumption>
+ILI: 01138455
+
+Sense 1
+{01138455} <verb.consumption> ruminate -- (chew the cuds; "cows ruminate")
+       => {01132466} <verb.consumption> eat -- (take in solid food; "She was eating a banana"; "What did you eat for dinner last night?")
+           => {01130349} <verb.consumption> eat1 -- (eat a meal; take a meal; "We did not eat until 10 P.M. because there were so many phone calls"; "I didn't eat yet, so I gladly accept your invitation")
+               => {01121136} <verb.consumption> consume, ingest, take in, take, have -- (serve oneself to, or consume regularly; "Have another bowl of chicken soup!"; "I don't take sugar in my coffee")
+           => {01121136} <verb.consumption> consume, ingest, take in, take, have -- (serve oneself to, or consume regularly; "Have another bowl of chicken soup!"; "I don't take sugar in my coffee")

@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA0124
+
+DADO O SYNSET:
+
+S='Glosa124'
+{conceder: Os empresários reclamavam um período de 90 dias para pagar o imposto, mas a oposição da Receita Federal limitou este prazo a 30 dias e [concedeu o privilégio apenas aos pequenos e microempresários. ,
+deixar: A forma como os fatos se apresentavam I]deixava-lhe a certeza de que só podiam dar piques de audiência, como já acontecera com a edição dos três últimos noticiários.,
+facilitar: A paz profunda que a terra natal lhe dava, após um exílio de 14 anos, I]facilitava-lhe a encontrar a concentração necessária ao desempenho de inúmeras tarefas.,
+facultar: A vantagem é uma interpretação da lei, que [faculta ao árbitro a decisão de punir ou não uma falta, quando o jogador que tem a bola dá seqüência ao lance.,
+outorgar: Jesus disse ter todo o poder no céu e na terra, motivo pelo qual I]outorgava-lhe o direito de enviar os discípulos por todo o mundo para proclamar o evangelho.,
+permitir: A nova concepção de coragem intuída por Sócrates [permitia-lhe refutar o princípio do prazer e substituí-lo pelo princípio da areté. ,
+possibilitar: Devia ser ele também um apaixonado pelo assunto e sentir orgulho em poder usufruir do conhecimento especializado que o manuseio constante daqueles produtos lhe I]possibilitava.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa124' = “possibilitar ou dar uma oportunidade”
+{conceder: Os empresários reclamavam um período de 90 dias para pagar o imposto, mas a oposição da Receita Federal limitou este prazo a 30 dias e [concedeu o privilégio apenas aos pequenos e microempresários. ,
+deixar: A forma como os fatos se apresentavam I]deixava-lhe a certeza de que só podiam dar piques de audiência, como já acontecera com a edição dos três últimos noticiários.,
+facilitar: A paz profunda que a terra natal lhe dava, após um exílio de 14 anos, I]facilitava-lhe a encontrar a concentração necessária ao desempenho de inúmeras tarefas.,
+facultar: A vantagem é uma interpretação da lei, que [faculta ao árbitro a decisão de punir ou não uma falta, quando o jogador que tem a bola dá seqüência ao lance.,
+outorgar: Jesus disse ter todo o poder no céu e na terra, motivo pelo qual I]outorgava-lhe o direito de enviar os discípulos por todo o mundo para proclamar o evangelho.,
+permitir: A nova concepção de coragem intuída por Sócrates [permitia-lhe refutar o princípio do prazer e substituí-lo pelo princípio da areté. ,
+possibilitar: Devia ser ele também um apaixonado pelo assunto e sentir orgulho em poder usufruir do conhecimento especializado que o manuseio constante daqueles produtos lhe I]possibilitava.,}
+Chave: DEIXAR <verb.stative>
+ILI: 02641399
+
+Sense 6
+{02641399} <verb.stative> leave1, allow for, allow, provide -- (make a possibility or provide opportunity for; permit to be attainable or cause to remain; "This leaves no room for improvement"; "The evidence allows only one conclusion"; "allow for mistakes"; "leave lots of time for the trip"; "This procedure provides for lots of leeway")
+       => {02271697} <verb.possession> yield2, give5, afford -- (be the cause or source of; "He gave me a lot of trouble"; "Our meeting afforded much interesting information")
+           => {02259805} <verb.possession> supply, provide, render2, furnish -- (provide or furnish with; "We provided the room with an electrical heater")
+               => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+                   => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children")           

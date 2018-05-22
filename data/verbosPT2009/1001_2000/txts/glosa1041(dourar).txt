@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA1041
+
+DADO O SYNSET:
+
+S='Glosa1041'
+{deaurar: O sol forte H]deaurava seus cabelos.,
+ doirar: Os americanos subiam, numa vibração mais clara, por aquele ar fino de novembro: uma luz macia, escorregando docemente do azul ferrete, vinha I]doirar as fachadas.,
+ dourar: O sol remontou a umbria das serras; seus raios [douravam apenas o viso das eminências.,}
+	  
+A='Glosa1258'
+{Desdoirar, desdourar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1041' = “decorar com a cor do ouro usando, mas não necessariamente, folhas ou tintas de cor de ouro”
+{dourar: Inácio Melo Albuquerque I]dourou as obras de talha em 1784.,}
+A='Glosa1258'
+{Desdoirar, desdourar}
+Chave: DOURAR <verb.creation>
+ILI: 01635002 
+
+Sense 1
+{01635002} <verb.creation> gild, begild, engild -- (decorate with, or as if with, gold leaf or liquid gold)
+       => {01627899} <verb.creation> decorate, adorn, grace, ornament, embellish, beautify -- (make more attractive by adding ornament, colour, etc.; "Decorate the room for the party"; "beautify yourself for the special day")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

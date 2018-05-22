@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA2471
+
+DADO O SYNSET:
+
+S='Glosa2471'
+	    {sociabilizar: A cada inauguração, estamos cumprindo com o propósito social deste projeto: educar e I]sociabilizar através do esporte.,
+	      socializar: O basquete serve para I]socializar os participantes, e incentivar o companheirismo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2471' = “Participar de atividades sociais, interagir com outros.”
+	    {sociabilizar: I]Sociabilizou os jovens na escola como mais uma ferramenta pedagógica.,
+	      socializar: o evento alcançou o seu principal objetivo integrou e I]socializou os alunos.}
+
+Chave: SOCIALIZAR <verb.social>
+ILI: 02317425
+
+Sense 1
+{02317425} <verb.social> socialize1, socialise1 -- (take part in social activities; interact with others; "He never socializes with his colleagues"; "The old man hates to socialize")
+       => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+           => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel") 

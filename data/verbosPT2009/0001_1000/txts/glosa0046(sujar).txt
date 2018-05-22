@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0046
+
+DADO O SYNSET:
+
+S='Glosa46'
+{abandalhar: Querem I]abandalhar essa nobre profissão.,
+enxovalhar: Enquanto o objetivo, explícito, é o de [enxovalhar a imagem dos profissionais servidores públicos.,
+sujar: Os republicanos, que se opõem à sua indicação, vão à procura de algo que possa I]sujar sua reputação.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa46' = “colocar sob suspeita ou levantar dúvida a respeito” 
+{abandalhar: Querem I]abandalhar essa nobre profissão.,
+enxovalhar: Enquanto o objetivo, explícito, é o de [enxovalhar a imagem dos profissionais servidores públicos.,
+sujar: Os republicanos, que se opõem à sua indicação, vão à procura de algo que possa I]sujar sua reputação.,}
+Chave: SUJAR <verb.contact>
+ILI: 01495462
+
+Sense 1
+{01495462} <verb.contact> defile1, sully1, corrupt, taint, cloud -- (place under suspicion or cast doubt upon; "sully someone's reputation")
+       => {00464634} <verb.change> mar, impair1, spoil2, deflower, vitiate1 -- (make imperfect; "nothing marred her beauty")
+           => {00250328} <verb.change> damage -- (inflict damage upon; "The snow damaged the roof"; "She damaged the car when she hit the tree")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

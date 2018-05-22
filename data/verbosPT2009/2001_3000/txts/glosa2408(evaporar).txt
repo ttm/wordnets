@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA2408
+
+DADO O SYNSET:
+
+S='Glosa2408'
+	    {evaporar: Cerca de 80% do mercúrio queimado [evapora e vai para a atmosfera.,
+	      evaporizar: No Quench podemos também I]evaporizar a água descartada no processo de lavagem transformando-o num Spray Dryer.,
+	      subtilizar: x,
+	      sutilizar: Não vemos nosso sangue dissolver, purificar e I]sutilizar continuamente toda a matéria bruta com a qual o saturamos.,
+	      vaporizar: Meça então o tempo necessário para I]vaporizar tôda a água.,
+	      volatilizar: Posteriormente, este conjunto é aquecido em uma estufa para I]volatilizar o solvente.,
+	      volatizar: Dispositivo elétrico para I]volatizar inseticida sólido.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2408' = “Fazer virar vapor, gás.”
+	    {evaporar: Primeiro ele I]evaporou o material para obter um precipitado com cristais de ácido tartárico.,
+	      evaporizar: É quando o vinho I]evaporiza rapidamente e seus aromas se intensificam.,
+	      sutilizar: Não vemos nosso sangue dissolver, purificar e I]sutilizar continuamente toda a matéria bruta com a qual o saturamos.,
+	      vaporizar: O impacto I]vaporizou tudo que existia nas proximidades.,
+	      volatilizar: Posteriormente, este conjunto é aquecido em uma estufa para I]volatilizar o solvente.,
+	      volatizar: O laser I]volatilizou a dentina infectada remanescente.,}
+
+Chave: EVAPORAR <verb.change>
+ILI: 00560371
+
+Sense 2
+{00560371} <verb.change> evaporate2, vaporise5 -- (cause to change into a vapor; "The chemist evaporated the water")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

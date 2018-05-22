@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA1900
+
+DADO O SYNSET:
+
+S='Glosa1900'
+{enxertar: Dessa forma, a vaca não tem problemas, e dois meses depois, no máximo, já se pode I]enxertar novamente. ,
+ fecundar: A equipe conseguiu, em 91, [fecundar em laboratório o óvulo de uma vaca nelore (zebu) com o sêmen de touros puros europeus.,
+ inseminar: A proposta é [inseminar 400 vacas por ano.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1900' = “introduzir sêmen em [uma fêmea]” 
+{enxertar: Dessa forma, a vaca não tem problemas, e dois meses depois, no máximo, já se pode I]enxertar novamente.,
+ fecundar: A equipe conseguiu, em 91, [fecundar em laboratório o óvulo de uma vaca nelore (zebu) com o sêmen de touros puros europeus.,
+ inseminar: A proposta é [inseminar 400 vacas por ano.,}
+Chave: FECUNDAR <verb.body>
+ILI: 00050755
+
+Sense 2
+{00050755} <verb.body> inseminate, fecundate, fertilize, fertilise -- (introduce semen into (a female))
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

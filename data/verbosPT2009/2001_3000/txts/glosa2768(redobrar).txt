@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA2763
+
+DADO O SYNSET:
+
+S='Glosa2763'
+	    {quadruplicar: Em 1953, os tubos eletrostáticos passaram a ser substituídos pela memória de núcleos magnéticos, no próprio Whirlwind, o que dobrou sua velocidade, além de [quadruplicar a quantidade de dados de entrada e aumentar consideravelmente o tempo de armazenagem de dados na memória.,
+	      redobrar: Para isso, é preciso [redobrar os esforços junto aos partidos, deixando claras as responsabilidades de cada um.,
+	      reduplicar: Brasil pode I]reduplicar produção e exportações de frutas.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2763' = “Dobrar novamente”
+	    {quadruplicar: Número de ONGs que defendem direitos e meio ambiente I]quadruplicou.,
+	      redobrar: A instituição I]redobrou as atividades.,
+	      reduplicar: O número de vagas I]reduplicou no período.,}
+
+Chave: REDOBRAR <verb.change>
+ILI: 00238188
+
+Sense 2
+{00238188} <verb.change> redouble2 -- (double again; "The noise doubled and redoubled")
+       => {00237930} <verb.change> double, duplicate -- (increase twofold; "The population doubled within 50 years")
+           => {00239103} <verb.change> multiply, manifold1 -- (combine or increase by multiplication; "He managed to multiply his profits")
+               => {00147655} <verb.change> increase2 -- (make bigger or more; "The boss finally increased her salary"; "The university increased the number of students it admitted")
+                   => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

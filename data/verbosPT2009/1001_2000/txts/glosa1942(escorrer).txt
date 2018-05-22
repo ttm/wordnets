@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA1942
+
+DADO O SYNSET:
+
+S='Glosa1942'
+{cair: x,
+ correr: O rio Paraíba I]corria bem próximo ao cercado. ,
+ defluir: A água cristalina M]defluía de um fresco manancial.,
+ desenrolar: O rio M]desenrolava-se perto dali. ,
+ deslizar: O rio original I]deslizava em filetes, à margem de uma pequena estrada, e causava admiração aos passantes.,
+ escoar: x,
+ escorrer: Convidaram-nos  para conhecer o templo Budista Ghagdud Goompa no município de Três Coroas-RS, à uma hora de Canela por uma estrada com paredões rochosos onde I]escorria água.,
+ ir: Após a enchente, as águas do rio A]iam em rebuliço.  ,
+ passar: O rio I]passava lento e sem parar.,
+ vogar: M]Voga a jangada nas plácidas águas., }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1942' = “mover-se para diante”
+{correr: O rio Paraíba I]corria bem próximo ao cercado.,
+ defluir: As várias usinas hidroelétricas são representadas de forma agregada em um único reservatório equivalente, ao qual aflui e do qual I]deflui energia ao invés de água.,
+ desenrolar-se: No mar agitado de hoje, falo do mar espiritual, onde existem e se I]desenrolam imensas tempestades, parece não mais haver espaço para a salvação.. ,
+ deslizar: O rio original I]deslizava em filetes, à margem de uma pequena estrada, e causava admiração aos passantes.,
+ escorrer: Uns, após outros, lavavam a cara, incomodamente, debaixo do fio de água que [escorria da altura de uns cinco palmos.,
+ ir: As águas iam em direção à Prainha (Praça Mauá).,
+ passar: O rio I]passava lento e sem parar.,}
+Chave: ESCORRER <verb.motion>
+ILI: 02008364
+
+Sense 2
+{02008364} <verb.motion> run1, flow, feed4, course -- (move along, of liquids; "Water flowed into the cave"; "the Missouri feeds into the Mississippi")
+       => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right")
+          Also See-> {02556028} <verb.stative> flow from#1

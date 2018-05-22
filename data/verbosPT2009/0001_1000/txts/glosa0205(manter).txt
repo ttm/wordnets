@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA0205
+
+DADO O SYNSET:
+
+S='Glosa205'
+{conservar: No entanto, o período pombalino [conservou uma dose muito grande de despotismo para que possa ser propriamente caracterizado como ilustrado. ,
+guardar: Mas isso foi de propósito: acho que desse passado a Eva [guardou uma memória trágica.,
+manter: Quebrando o silêncio que [manteve desde o início da disputa judicial pelos direitos da turnê brasileira do balé Kirov, a produtora Dell' arte, de Miriam Dauelsberg, decidiu mostrar parte dos documentos em seu poder.,
+reter: Vieram-lhe as lágrimas, mas ele as [reteve com força.,
+segurar: No TJ, o âncora Boris Casoy não [segurou o sarcasmo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa205' = “manter a salvo; conservado
+{conservar: No entanto, o período pombalino [conservou uma dose muito grande de despotismo para que possa ser propriamente caracterizado como ilustrado. ,
+guardar: Mas isso foi de propósito: acho que desse passado a Eva [guardou uma memória trágica.,
+manter: Quebrando o silêncio que [manteve desde o início da disputa judicial pelos direitos da turnê brasileira do balé Kirov, a produtora Dell' arte, de Miriam Dauelsberg, decidiu mostrar parte dos documentos em seu poder.,
+reter: Vieram-lhe as lágrimas, mas ele as [reteve com força.,
+segurar: No TJ, o âncora Boris Casoy não [segurou o sarcasmo.,}
+Chave: MANTER <verb.possession>
+ILI: 02214155
+
+Sense 2
+{02214155} <verb.possession> conserve2, preserve, maintain, keep up -- (keep in safety and protect from harm, decay, loss, or destruction; "We preserve these archeological findings"; "The old lady could not keep up the building"; "children must be taught to conserve our national heritage"; "The museum curator conserved the ancient manuscripts")
+       => {02139484} <verb.possession> keep1 -- (look after; be the keeper of; have charge of; "He keeps the shop when I am gone")
+           => {02139918} <verb.possession> have, have got, hold -- (have or possess, either in a concrete or an abstract sense; "She has $1,000 in the bank"; "He has got two beautiful daughters"; "She holds a Master's degree from Harvard")

@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA2958
+
+DADO O SYNSET:
+
+S='Glosa2958'
+	    {frigir: Almerinda se esfalfa nos fogões [frigindo mandioquinhas rendadas e peixes pescados na hora.,
+	      fritar: Fazer a massa com feijão fradinho moído e [fritar em óleo de dendê puro.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2958' = ”Cozinhar em uma superfície quente usando gordura”
+	    {frigir: Almerinda se esfalfa nos fogões [frigindo mandioquinhas rendadas e peixes pescados na hora.,
+	      fritar: Fiquei com a impressão de que, na cozinha do Hotel, se estava I]fritando lula “à doré”, tal o cheiro que se espalhou pelo auditório mal ventilado.,}
+Chave: FRITAR <verb.change>
+ILI: 00315035
+
+Sense 2
+{00315035} <verb.change> fry -- (cook on a hot surface using fat; "fry the pancakes")
+       => {00312547} <verb.change> cook -- (transform and make suitable for consumption by heating; "These potatoes have to cook for 20 minutes")
+           => {00135037} <verb.change> change integrity -- (change in physical make-up)
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night") 

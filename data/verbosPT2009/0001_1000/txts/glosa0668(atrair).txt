@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA0668
+
+DADO O SYNSET:
+
+S='Glosa668'
+{arrastar: O RPM vendia como água e [arrastava multidões para os estádios em todo o país.,
+arrastrar: x,
+atrair: Nos séculos anteriores ao endurecimento da doutrina católica promovido pela Contra Reforma, essas formas pagãs eram amplamente toleradas pela Igreja, que pretendia assim [atrair o povo para o seu interior,
+conduzir: Por isso, decidimos [conduzir nossas atividades nos dois países dentro do espírito do Mercosul, ,
+empuxar: Vacilava entre um querer e um não querer, entre a piedade que me I]empuxava à casa de Virgília e outro sentimento, egoísmo, suponhamos.,
+impelir: O Prozac pode [impelir as pessoas ao suicídio ou a cometer atos de violência?,
+levar: As primeiras, por [levarem informações aos centros nervosos, são chamadas fibras aferentes ou sensoriais,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa668' = “dirigir (-se) para alguma direção ou alguém por meios de algum poder psicológico ou atributos físicos”
+{arrastar: O RPM vendia como água e [arrastava multidões para os estádios em todo o país.,
+atrair: Nos séculos anteriores ao endurecimento da doutrina católica promovido pela Contra Reforma, essas formas pagãs eram amplamente toleradas pela Igreja, que pretendia assim [atrair o povo para o seu interior,
+conduzir: Por isso, decidimos [conduzir nossas atividades nos dois países dentro do espírito do Mercosul, ,
+empuxar: Vacilava entre um querer e um não querer, entre a piedade que me I]empuxava à casa de Virgília e outro sentimento, egoísmo, suponhamos.,
+impelir: O Prozac pode [impelir as pessoas ao suicídio ou a cometer atos de violência?,
+levar: As primeiras, por [levarem informações aos centros nervosos, são chamadas fibras aferentes ou sensoriais,}
+Chave: ATRAIR <verb.contact>
+ILI: 01463020
+
+Sense 1
+{01463020} <verb.contact> attract, pull2, pull in, draw6, draw in -- (direct toward itself or oneself by means of some psychological power or physical attributes; "Her good looks attract the stares of many men"; "The ad pulled in many potential customers"; "This pianist pulls huge crowds"; "The store owner was happy that the ad drew in many new customers")
+       => {01406785} <verb.contact> pull, draw3, force1 -- (cause to move along the ground by pulling; "draw a wagon"; "pull a sled")
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

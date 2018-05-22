@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA3325
+
+DADO O SYNSET:
+
+S='Glosa3325'
+	    {
+	      lufar: Chovia na horizontal tamanho o vento que I]lufava.,
+	      soprar: Estava uma bonita manhã naquela quarta-feira, o céu estava limpo, praticamente sem nuvens e um leve vento sudeste [soprava.,
+	      ventanejar: x,
+	      ventar: Chovia muito e [ventava forte quando o acidente aconteceu.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3325' = “estar soprando ou bramindo”
+	     {lufar: Pelo descampado da planície, o vento I]lufava com muita força um ar gélido vindo dos Andes.,
+	      soprar: Estava na varanda; o terral [soprava nos bambus que se inclinavam molemente.,
+	      ventar: Chovia muito e [ventava forte quando o acidente aconteceu.,}
+Chave: VENTAR <verb.weather>
+ILI: 02687138
+
+Sense 2
+{02687138} <verb.weather> blow -- (be blowing or storming; "The wind blew from the West")

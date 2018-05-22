@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA3728
+
+DADO O SYNSET:
+
+S='Glosa3728'
+{ajustar: A ABI diz que, se surgirem novos testes, eles deverão beneficiar os indivíduos, permitindo-lhes [ajustar o seu estilo de vida de forma a reduzir os riscos de sofrer do coração ou de outras doenças.,
+	orientar: A]Orienta sua vida por princípios morais rigorosos.,
+	pautar: A França parece [pautar a sua ação por uma leitura oblíqua da Declaração Universal dos Direitos do Homem.,
+	regrar: A complexidade da questão posta não reside no poder conferido ao Estado para I]regrar o uso dos bens privados, mas nas fronteiras concretas dessa incumbência, que deflui da Constituição Federal. }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3728' = “influenciar diretamente ou fortemente o comportamento de”
+{ajustar: A ABI diz que, se surgirem novos testes, eles deverão beneficiar os indivíduos, permitindo-lhes [ajustar o seu estilo de vida de forma a reduzir os riscos de sofrer do coração ou de outras doenças.,
+	orientar: A]Orienta sua vida por princípios morais rigorosos.,
+	pautar: A França parece [pautar a sua ação por uma leitura oblíqua da Declaração Universal dos Direitos do Homem.,
+	regrar: A complexidade da questão posta não reside no poder conferido ao Estado para I]regrar o uso dos bens privados, mas nas fronteiras concretas dessa incumbência, que deflui da Constituição Federal. }
+Chave: REGRAR <verb.social>
+ILI: 01663616
+
+Sense 2 
+{01663616} <verb.social> govern1 -- (direct or strongly influence the behavior of; "This principle controls his behavior")
+       => {01662860} <verb.social> control, command -- (exercise authoritative control or power over; "control the budget"; "Command the military forces")

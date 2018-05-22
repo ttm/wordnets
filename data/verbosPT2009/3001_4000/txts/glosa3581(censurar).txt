@@ -1,0 +1,57 @@
+ANÁLISE DA GLOSA3581
+
+DADO O SYNSET:
+
+S='Glosa3581'
+	    {
+	      apalear: x,
+	      argüir: Ele há de julgar as nações e I]argüir numerosos povos.  / Enquanto bate as portas e as janelas Hassan vai I]argüindo o filho, fazendo com que ele caia nas armadilhas que o seu raciocínio de menino pode conduzi-lo.  ,
+	      censurar: Se propõe a [censurar os erros e vícios humanos.,
+	      condenar: Medeiros não chega a [condenar totalmente o uso de remédios para queimar gordura no tratamento da obesidade. ,
+	      criticar: Em entrevistas Hildebrando evitou [criticar diretamente o piloto, que também morreu no acidente.,
+	      desancar: artigo editorial [desancava o ministério. / Fernando Henrique deu uma entrevista [desancando Sarney.,
+	      escalpar: x,
+	      escalpelizar: Se empenharam em I]escalpelizar as mazelas de uma sociedade decadente.,
+	      estigmar: x,
+	      estigmatizar: Não faz muito tempo que alguns -o governo inclusive- procuraram I]estigmatizar Ciro Gomes como caloteiro.,
+	      exprobar: Entretanto hesitava; não que o remorso antecipado lhe [exprobrasse o crime que ia cometer; já tinha-se afundado muito no vício e na depravação para recuar. ,
+	      funestar: M]Funestaram, unânimes, aquela iniqüidade.,
+	      glosar: A opinião pública pode [glosar à vontade.,
+	      notar: M]Notaram os críticos deslizes na interpretação do trecho.,
+	      objurgar: Sabes, sem que ninguém te aplauda ou I]objurgue, quando acertas ou erras.,
+	      profligar: Sua voz levantou-se para I]profligar contra o crime e a insensatez.,
+	      rebater: Vários deputados presentes à reunião afirmaram que a intenção foi [rebater o comportamento do vice de Lula. ,
+	      reprochar: Ia ao armazém, visitar o Palha; este, ao fim de cinco semanas, [reprochou-lhe a ausência.,
+	      reprovar: Nem foi à cadeia visitá-lo, nem levar-lhe o filho para tomar a bênção, o que a comadre muito [reprovou quando soube.,
+	      verberar: a professora de inglês reservava um tempinho de cada aula para [verberar Getúlio  e exaltar Lacerda.,
+	      vituperar: Uma ou duas vezes atravessou-o um desejo violento de o vituperar, acusá-lo de todas as tristezas que agora enchiam a sua vida.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3581' = “julgar errado ou inapropriado”
+	     {argüir: M]Argüiu o filho, demonstrando-lhe a sua insensatez.  ,
+	      censurar: Capitu [censurou a imprudência de Escobar, e não dissimulou a tristeza que lhe trazia a dor da amiga.,
+	      condenar: A organização direitista [condena a reforma agrária por acreditar que ela contraria a moral católica. ,
+	      criticar: A síndica, que não quis se identificar, [criticou a violência no Rio e as empresas privadas de segurança.,
+	      desancar: artigo editorial [desancava o ministério. / Fernando Henrique deu uma entrevista [desancando Sarney.,
+	      escalpelizar: Se empenharam em I]escalpelizar as mazelas de uma sociedade decadente.,
+	      estigmatizar: Não faz muito tempo que alguns -o governo inclusive- procuraram I]estigmatizar Ciro Gomes como caloteiro.,
+	      exprobar: Advertindo-o, e aos demais companheiros, o Mestre I]exprobou-lhe a conduta. ,
+	      funestar: Os olhos do pai H]funestaram o procedimento do filho.,
+	      glosar: A opinião pública pode [glosar à vontade.,
+	      notar: M]Notaram os críticos deslizes na interpretação do trecho.,
+	      objurgar: Sabes, sem que ninguém te aplauda ou I]objurgue, quando acertas ou erras.,
+	      profligar: Antônio Vieira I]profligou a desumanidade da servidão no Brasil.,
+	      rebater: O bom governante M]rebate os aduladores. ,
+	      reprochar: O então eterno candidato Luiz Inácio da Silva sempre I]reprochou os astronômicos lucros do sistema financeiro, supostamente frutos da incúria do governo.,
+	      reprovar: Já Schor [reprova o uso de açúcar já que ele tem estrutura irregular, com pontas que machucam a pele.,
+	      verberar: Nabuco I]verberou este projeto que classificou de tentativa de "mongolização do país".,
+	      vituperar: I]Vituperou a atitude da Colônia Francesa, pela sua omissão em relação a O Moleque, ao comemorar ela a data nacional francesa de 14 de julho, em 1885.,}
+Chave: CENSURAR <verb.communication>
+ILI: 00781077
+
+Sense 2
+{00781077} <verb.communication> disapprove, reject -- (deem wrong or inappropriate; "I disapprove of her child rearing methods")
+       => {00647983} <verb.cognition> judge -- (form an opinion of or pass judgment on; "I cannot judge some works of modern art")
+           => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

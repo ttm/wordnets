@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA2176
+
+DADO O SYNSET:
+
+S='Glosa2176'
+	    {acarrear: x,
+	      carrear: Os colonos M]carreiam a cana para o engenho.,
+	      carregar: No mar distante se pode ver as plataformas de petróleo e os navios que I]carregam sal do porto de Areia Branca e do porto de macau para o porto-ilha.,
+	      conduzir: Os tubos soldados através do equipamento são utilizados em navios petroleiros e petroquímicos, que I]conduzem gás, petróleo e químicos. ,
+	      levar: Se esses navios I]levam para Brasil os produtos finlandeses e suecos poderão levar os produtos da Estônia ou dos outros países do Mar Báltico.,
+	      passar: O bondinho M]passa as pessoas da praia para o morro.,
+	      transportar: Ao longo de sua costa viajam quase todos os navios que I]transportam petróleo para o Ocidente. ,
+	      veicular: Carrinhos H]veiculam os produtos do depósito para as prateleiras.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2176' = “deslocar e funcionar também como apoio, seja em veículos ou com o próprio corpo”
+	    {carrear: Os colonos M]carreiam a cana para o engenho.,
+	      carregar: Se pode ver as plataformas de petróleo e os navios que I]carregam sal do porto de Areia Branca para o porto-ilha.,
+	      conduzir: Os tubos soldados através do equipamento são utilizados em navios petroleiros e petroquímicos, que I]conduzem gás, petróleo e químicos. ,
+	      levar: Se esses navios I]levam para Brasil os produtos finlandeses e suecos poderão levar os produtos da Estônia.,
+	      passar: O bondinho M]passa as pessoas da praia para o morro.,
+	      transportar: Ao longo de sua costa viajam quase todos os navios que I]transportam petróleo para o Ocidente. ,
+	      veicular: Carrinhos H]veiculam os produtos do depósito para as prateleiras.,}
+
+Chave: TRANSPORTAR <verb.contact>
+ILI: 01408676
+
+Sense 1
+{01408676} <verb.contact> transport, carry2 -- (move while supporting, either in a vehicle or in one's hands or on one's body; "You must carry your camping gear"; "carry the suitcases to the car"; "This train is carrying nuclear waste"; "These pipes carry waste water into the river")
+       => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

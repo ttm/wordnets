@@ -1,0 +1,39 @@
+ANÁLISE DA GLOSA3195
+
+DADO O SYNSET:
+
+S='Glosa4029'
+{abalsar-se: Quando deprimido, M]abalsava-se no bosque. ,
+abrenhar-se: I]Abrenhou-se sertão adentro.,
+adentrar-se: No livro seguinte, abandona o conselho desastrado do amigo, para I]adentrar-se pelos labirintos das cidades fantasmas do interior paulista.,
+afundar-se: I]Afundar-se no pensamento é procurar persistentemente sempre refazer os modos de perguntar.,
+amergulhar-se: x,
+amodornar-se: x,
+amodorrar-se: M]Amodorra-se em soturna tristeza.,
+atufar-se: João Coelho de Sousa tem agora no peito, bem assente, esta ousada idéia: I]atufar-se por esses silvedos adentro em busca da serra da prata.,
+embeber-se: Eu, que sempre fui cuidadoso com meu sangue, aqui vejo-o I]embeber-se em solo estéril.,
+embrenhar-se: Imaginar expedições de brancos a I]embrenhar-se nos matos africanos e armar emboscadas para capturar escravos é algo tão comum quanto, geralmente, falso.,
+empegar-se: x,
+engolfar-se: Assim, pois, esqueceu-se dela, para I]engolfar-se de novo nas cismas que lhe estavam afagando a mente. ,
+entranhar-se: Basta I]entranhar-se pelas veredas transversais.,
+fundir-se2: x,
+imergir-se: O atleta projeta-se no ar e conduz seu corpo a uma queda controlada no espaço para I]imergir-se na água.,
+mergulhar-se: Os golfinhos vinham à tona e H]mergulhavam-se com rítmica precisão.,
+meter-se: Você não se cansa de I]meter-se em enrascadas.,
+penetrar: Desde a mitologia grega vem a alusão de que a mente humana é capaz de I]penetrar em labirintos.,
+remergulhar: I]Remergulhou na floresta, e toda a tarde, enquanto a luz se arrastou pelas frondes, arrancou ramos aos troncos, cautelosamente, destramente.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4029B' = “absorver-se inteiramente”
+{afundar-se: I]Afundar-se no pensamento é procurar persistentemente sempre refazer os modos de perguntar.,
+amodorrar-se: M]Amodorra-se em soturna tristeza.,
+engolfar-se: Assim, pois, esqueceu-se dela, para I]engolfar-se de novo nas cismas que lhe estavam afagando a mente. ,
+penetrar: Desde a mitologia grega vem a alusão de que a mente humana é capaz de I]penetrar em labirintos., }
+Chave: AFUNDAR-SE <verb.cognition>
+ILI: 00581400
+
+Sense 1
+{00581400} <verb.cognition> steep, immerse, engulf, plunge, engross2, absorb6, soak up -- (engross (oneself) fully; "He immersed himself into his studies")
+       => {00698305} <verb.cognition> concentrate, focus, center, centre, pore, rivet -- (direct one's attention on something; "Please focus on your studies and not on your hobbies")
+           => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

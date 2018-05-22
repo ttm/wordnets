@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA1207
+
+DADO O SYNSET:
+
+S='Glosa1207'
+{descalçar: I]Descalçou suas luvas e entrou no baile.,
+ despir: O fiel escriba acrescentava que, sendo preciso [despir a camisa e dá-la a um mendigo, Nóbrega o faria, ainda que a camisa fosse bordada.,
+ tirar: Quando Milton Nascimento [tirou o paletó e ficou de camisa azul-clara - bem cortadíssima -, arrasou.,}
+	  
+A='Glosa796'
+{botar1, pôr}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1207' = “remover roupas”
+{descalçar: Ele gritou novamente caindo de joelhos perto do corpo. Aflito I]descalçou as luvas e se certificou se havia pulsação.,
+ despir: O fiel escriba acrescentava que, sendo preciso [despir a camisa e dá-la a um mendigo, Nóbrega o faria, ainda que a camisa fosse bordada.,
+ tirar: Quando Milton Nascimento [tirou o paletó e ficou de camisa azul-clara - bem cortadíssima -, arrasou.,}
+A='Glosa796'
+{botar1, pôr}
+Chave: TIRAR <verb.body>
+ILI: 00048697
+
+Sense 6
+{00048697} <verb.body> take off3 -- (remove clothes; "take off your shirt--it's very hot in here")
+       => {00048143} <verb.body> undress, discase, uncase, unclothe, strip1, strip down, disrobe1, peel2 -- (get undressed; "please don't undress in front of everybody!"; "She strips in front of strangers every night for a living")
+           => {00172676} <verb.change> take off -- (take away or remove; "Take that weight off me!")
+               => {00166870} <verb.change> remove, take, take away1, withdraw1 -- (remove something concrete, as by lifting, pushing, taking off, etc. or remove something abstract; "remove a threat"; "remove a wrapper"; "Remove the dirty dishes from the table"; "take the gun from your pocket"; "This machine withdraws heat from the environment")

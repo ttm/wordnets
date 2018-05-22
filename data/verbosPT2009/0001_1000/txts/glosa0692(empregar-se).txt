@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0692
+
+DADO O SYNSET:
+
+S='Glosa692'
+{arrumar-se: Desempregado há cerca de um ano, felizmente agora se A]arrumou.,
+colocar-se: Para o executivo um dos pontos chaves consiste em I]colocar-se bem e saber como agir para consegui-lo.,
+empregar-se: Já nessa fase, muitos artesãos fecharam suas oficinas e [se empregaram como trabalhadores assalariados nas oficinas maiores.,
+estabelecer-se: Angel Castro só conseguiu I]estabelecer-se como operário nas minas, longe de Santiago.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa692' = “conseguir, exercer emprego ou trabalho”
+{colocar-se: Para o executivo um dos pontos chaves consiste em I]colocar-se bem e saber como agir para consegui-lo.,
+empregar-se: Já nessa fase, muitos artesãos fecharam suas oficinas e [se empregaram como trabalhadores assalariados nas oficinas maiores.,
+estabelecer-se: Angel Castro só conseguiu I]estabelecer-se como operário nas minas, longe de Santiago.,}
+Chave: EMPREGAR-SE <verb.consumption>
+ILI: 01123102
+
+Sense 1
+{01123102} <verb.consumption> use1, utilize, utilise, apply, employ -- (put into service; make work or employ (something) for a particular purpose or for its inherent or natural purpose; "use your head!"; "we only use Spanish at home"; "I can't make use of this tool"; "Apply a magnetic field here"; "This thinking was applied to many projects"; "How do you utilize this tool?"; "I apply this rule to get good results"; "use the plastic bags to store the food"; "He doesn't know how to use a computer")
+       => {02596068} <verb.stative> apply, hold4, go for -- (be pertinent or relevant or applicable; "The same laws apply to you!"; "This theory holds for all irrational numbers"; "The same rules go for everyone")

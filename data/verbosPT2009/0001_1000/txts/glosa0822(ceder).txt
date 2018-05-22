@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA0822
+
+DADO O SYNSET:
+
+S='Glosa822'
+{amolgar-se: Mas a matéria sutil do perispírito não possui a tenacidade, nem a rigidez da matéria compacta do corpo; não é absoluta, I]amolga-se à vontade do Espírito, que lhe pode dar a aparência que entenda. ,
+cair: Ao evitar [cair na retórica videocliposa dos últimos Wenders, Jarmusch sofreu um banimento injusto.,
+capitular: As ciências sociais como o direito, a administração, a psicologia e a ciência-política oferecem instrumentos para a construção do consenso, mas ou não são competentemente aplicados ou [capitulam diante de interesses maiores.,
+ceder: Para salvar o sistema e seus próprios interesses, os capitalistas decidiram [ceder às pressões que os trabalhadores, organizados em sindicatos, vinham exercendo desde o século XIX.,
+entregar-se: Ao mesmo tempo, o autor explora a necessidade de o homem [entregar-se de corpo e alma à verdade da revelação, o que implicará necessário retorno a verdades originais.,
+render-se: Critica-se a imprensa muitas vezes com justiça por [render-se a um sensacionalismo irresponsável.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa822' = “desistir ou concordar em preceder ao poder ou posse de alguém”
+{amolgar-se: Mas a matéria sutil do perispírito não possui a tenacidade, nem a rigidez da matéria compacta do corpo; não é absoluta, I]amolga-se à vontade do Espírito, que lhe pode dar a aparência que entenda. ,
+cair: Ao evitar [cair na retórica videocliposa dos últimos Wenders, Jarmusch sofreu um banimento injusto.,
+capitular: As ciências sociais como o direito, a administração, a psicologia e a ciência-política oferecem instrumentos para a construção do consenso, mas ou não são competentemente aplicados ou [capitulam diante de interesses maiores.,
+ceder: Para salvar o sistema e seus próprios interesses, os capitalistas decidiram [ceder às pressões que os trabalhadores, organizados em sindicatos, vinham exercendo desde o século XIX.,
+entregar-se: Ao mesmo tempo, o autor explora a necessidade de o homem [entregar-se de corpo e alma à verdade da revelação, o que implicará necessário retorno a verdades originais.,
+render-se: Critica-se a imprensa muitas vezes com justiça por [render-se a um sensacionalismo irresponsável.,}
+Chave: CEDER <verb.competition>
+ILI: 01080547
+
+Sense 9
+{01080547} <verb.competition> surrender, give up1 -- (give up or agree to forego to the power or possession of another; "The last Taleban fighters finally surrendered")
+       => {01081553} <verb.competition> yield -- (cease opposition; stop fighting)           => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children")

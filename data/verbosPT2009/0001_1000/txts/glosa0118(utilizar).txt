@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0118
+
+DADO O SYNSET:
+
+S='Glosa118'
+{empregar: Exultante, voltou para Roma e I]empregou seus últimos dias cuidando dos empestados numa terrível epidemia que devastava a Cidade Eterna.,
+gastar: a empresa Yaesu [gastou anos na preparação de seu projeto.,
+tomar: O técnico foi quem [tomou mais o tempo com os jogadores.,
+usar: Com o adversário totalmente batido, o Fluminense [usou o segundo tempo para treinar jogadas e, eventualmente, aumentar o placar. ,
+utilizar: No treinamento de ontem, o preparador físico Claudio Café [utilizou um terço do tempo para exercitar o grupo à base de corridas de 60 metros, em ritmo forte.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa118' = “por em service; fazer funcionar; fazer uso ou emprego de por um propósito particular”
+{empregar: Exultante, voltou para Roma e I]empregou seus últimos dias cuidando dos empestados numa terrível epidemia que devastava a Cidade Eterna.,
+gastar: a empresa Yaesu [gastou anos na preparação de seu projeto.,
+tomar: O técnico foi quem [tomou mais o tempo com os jogadores.,
+usar: Com o adversário totalmente batido, o Fluminense [usou o segundo tempo para treinar jogadas e, eventualmente, aumentar o placar. ,
+utilizar: No treinamento de ontem, o preparador físico Claudio Café [utilizou um terço do tempo para exercitar o grupo à base de corridas de 60 metros, em ritmo forte.,}
+Chave: UTILIZAR <verb.consumption>
+ILI: 01123102
+
+Sense 1
+{01123102} <verb.consumption> use1, utilize, utilise, apply, employ -- (put into service; make work or employ (something) for a particular purpose or for its inherent or natural purpose; "use your head!"; "we only use Spanish at home"; "I can't make use of this tool"; "Apply a magnetic field here"; "This thinking was applied to many projects"; "How do you utilize this tool?"; "I apply this rule to get good results"; "use the plastic bags to store the food"; "He doesn't know how to use a computer")

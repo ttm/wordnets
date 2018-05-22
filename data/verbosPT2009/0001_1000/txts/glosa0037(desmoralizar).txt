@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0037
+
+DADO O SYNSET:
+
+S='Glosa37'
+{abusar: A]Abusou da humilde criatura, pondo-a em ridículo.,
+amolecar: Ainda que considerando-o culpado, não o deveriam A]amolecar em público.,
+anarquizar: Eu quero liberdade, mesmo por um segundo para poder I]anarquizar você.,
+desmoralizar: No Ateneu, liam as notas em todas as manhãs por Aristarco que, com veemência, enaltecia os mais fortes e, sem piedade, [desmoralizava os mais fracos,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa37' = “corromper moralmente”
+{abusar: depois que eu dei o lance ele I]abusou da minha pessoa.,
+anarquizar: Eu quero liberdade, mesmo por um segundo para poder I]anarquizar você.,
+desmoralizar: No Ateneu, liam as notas em todas as manhãs por Aristarco que, com veemência, enaltecia os mais fortes e, sem piedade, [desmoralizava os mais fracos.,}
+Chave: DESMORALIZAR <verb.social>
+ILI: 02502628
+
+Sense 1
+{02502628} <verb.social> corrupt, pervert, subvert3, demoralize, demoralise, debauch, debase, profane1, vitiate, deprave, misdirect -- (corrupt morally or by intemperance or sensuality; "debauch the young people with wine and women"; "Socrates was accused of corrupting young men"; "Do school counselors subvert young children?"; "corrupt the morals")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

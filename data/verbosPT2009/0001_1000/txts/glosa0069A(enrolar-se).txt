@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0069A
+
+DADO O SYNSET:
+
+S='Glosa69'
+{dobrar-se: I]Dobra-se um pano de algodão ou linho (pode ser um lenço) de modo que cubra a panturrilha.,
+enrolar-se: O resto do cabelo, que era muito, ia entrançar-se e [enrolar-se com a singela  elegância abaixo da coroa de uma cabeça pequena.,}
+A='Glosa1368'
+{desdobrar-se, desenrolar-se, desenroscar-se, estender-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa69A' = “dar voltas ou girar em espiral”
+{enrolar-se: O resto do cabelo, que era muito, ia entrançar-se e [enrolar-se com a singela  elegância abaixo da coroa de uma cabeça pequena.,}
+A='Glosa1368'
+{desenrolar-se, desenroscar-se, estender-se}
+Chave: ENROLAR-SE <verb.contact>
+ILI: 01186594
+
+Sense 4
+{01186594} <verb.contact> curl, wave1 -- (twist or roll into coils or ringlets; "curl my hair, please")
+       => {01185645} <verb.contact> twist -- (turn in the opposite direction; "twist a wire")
+           => {01851475} <verb.motion> turn -- (change orientation or direction, also in the abstract sense; "Turn towards me"; "The mugger turned and fled before I could see his face"; "She turned from herself and learned to listen to others' needs")
+               => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right")

@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2202
+
+DADO O SYNSET:
+
+S='Glosa2202'
+	    {eternizar-se: Sua musa inspiradora, Campos do Jordão, I]eternizou-se nas tintas do grande pintor.,
+	      imortalizar-se: Um uruguaianense, por sua bravura e destemor, I]imortalizou-se defendendo os ideais de liberdade e democracia de nossa Pátria.,
+	      perpetuar-se: Verdi I]perpetuou-se para sempre nas vozes do seu povo e de boa parte da memória do mundo.,
+	      vincular-se: M]Vinculou-se o nome em nossa Literatura.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2202' = “tonar-se consagrado para sempre”
+	    {eternizar-se: Sua musa inspiradora I]eternizou-se nas tintas do grande pintor.,
+	      imortalizar-se: Um uruguaianense I]imortalizou-se defendendo os ideais de liberdade e democracia de nossa Pátria.,
+	      perpetuar-se: Verdi I]perpetuou-se para sempre nas vozes do seu povo e de boa parte da memória do mundo.,
+	      vincular-se: M]Vinculou-se o nome em nossa Literatura.,}
+
+Chave: ETERNIZAR-SE <verb.change>
+ILI: 00537870
+
+Sense 1
+{00537870} <verb.change> immortalize, immortalise, eternize, eternise, eternalize, eternalise -- (make famous for ever)
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

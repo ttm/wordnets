@@ -1,0 +1,36 @@
+ANÁLISE DA GLOSA3927
+
+DADO O SYNSET:
+	
+S='Glosa3927'
+    	{afetar: A imagem do lojista saltava-lhe perfeita à memória _ magricela_, I]afetando delicadezas de alfaiate de Lisboa. ,
+      	 amostrar: x,
+      	 aparentar: Vi um homem abatido pelo cansaço de ter de mentir sempre no «ar legítimo», cansado de [aparentar santidade, confiabilidade .,
+      	 bancar: Nada de I]bancar o mulherengo conquistador.,
+      	 disfarçar: Ela H]disfarçou seu desapontamento por não ter ganhado o primeiro lugar.,
+      	 dissimular: Ela [dissimulava os seus sentimentos, mais por dignidade e delicadeza, que mesmo por qualquer outro motivo; e a ele faltavam a sagacidade e finura necessárias para descobri-los sob o seu esconderijo .,
+      	 encenar: Percebendo o golpe, ele [encenou uma conversa de 10 minutos .,
+      	 fazer: Quando o chamo, ele M]faz que não ouve.,
+      	 fingir: Agarrou um telefone que estava à mão e [fingiu conversar com alguém .,
+      	 parentar: x,
+      	 posar: O argumento é risível, para quem já [posou de moralizador .,
+      	 simular: Um deles [simulou estar doente e pediu para ser levado a um pronto-socorro .,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3927' = “criar uma pretensão [de]”
+    	{afetar: A imagem do lojista saltava-lhe perfeita à memória – magricela –, I]afetando delicadezas de alfaiate de Lisboa.,
+      	 aparentar: Vi um homem abatido pelo cansaço de ter de mentir sempre no “ar legítimo”, cansado de [aparentar santidade, confiabilidade.,
+      	 bancar: As noivas I]bancam que não estão dando opinião de torcedor, mas sim de analista; o que nem sempre é o caso.,
+ dissimular: FHC I]dissimulou que era de esquerda e para não ser preso no Brasil.,
+      	 encenar: Ele revela-se ingênuo, ou I]encena ser, ao criticar a realidade criada pelo mercado que exige jornalistas profissionais à frente das assessorias de imprensa.,
+      	 fazer: O presidente [fez que não entendeu.,
+      	 fingir: Eu gritei para ele ir fazer isso em outro lugar, mas ele [fingiu não me ouvir e continuou normalmente.,
+      	 posar: O argumento é risível, para quem já [posou de moralizador.,
+      	 simular: Um deles [simulou estar doente e pediu para ser levado a um pronto-socorro.}
+Chave: FINGIR <verb.communication>
+ILI: 00810765
+
+Sense 3
+{01672714} <verb.creation> simulate, assume, sham, feign -- (make a pretence of; "She assumed indifference, even though she was seething with anger"; "he feigned sleep")
+       => {01672516} <verb.creation> dissemble, pretend, act4 -- (behave unnaturally or affectedly; "She's just acting")

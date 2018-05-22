@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA0963
+
+DADO O SYNSET:
+
+S='Glosa963'
+{chamar: O cristianismo, por exemplo, contribuiu decisivamente à formação individualista, [chamando os prosélitos a um contato direto com Deus além de seus vínculos de tradição, família e lugar.,
+congregar: Sílvio Frota buscou [congregar todos os setores radicais, civis e militares, ao redor do seu nome, ao mesmo tempo em que autorizava fortes medidas repressivas contra a sociedade civil.,
+convidar: Vamos [convidar os jornais para subirem com a gente, com a polícia, ver com transparência essas ações.,
+convocar: A Comissão Parlamentar de Inquérito da Câmara Municipal que investiga irregularidades no projeto Rio Cidade vai [convocar a população a denunciar as falhas de acabamento das obras.,
+invitar: Finalmente, João Pinto encontrou o Frei Manuel que o I]invitou até os seus aposentos.,}
+A='Glosa1246'
+{desconvidar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa963' = “solicitor a participação ou presence de”
+{chamar: O cristianismo, por exemplo, contribuiu decisivamente à formação individualista, [chamando os prosélitos a um contato direto com Deus além de seus vínculos de tradição, família e lugar.,
+congregar: Sílvio Frota buscou [congregar todos os setores radicais, civis e militares, ao redor do seu nome, ao mesmo tempo em que autorizava fortes medidas repressivas contra a sociedade civil.,
+convidar: Vamos [convidar os jornais para subirem com a gente, com a polícia, ver com transparência essas ações.,
+convocar: A Comissão Parlamentar de Inquérito da Câmara Municipal que investiga irregularidades no projeto Rio Cidade vai [convocar a população a denunciar as falhas de acabamento das obras.,
+invitar: Finalmente, João Pinto encontrou o Frei Manuel que o I]invitou até os seus aposentos.,}
+A='Glosa1246'
+{desconvidar}
+Chave: CONVIDAR <verb.communication>
+ILI: 01029845
+
+Sense 7
+{01029845} <verb.communication> invite1, call for3 -- (request the participation or presence of; "The organizers invite submissions of papers for the conference")
+       => {00727992} <verb.communication> request1, bespeak, call for4, quest1 -- (express the need or desire for; ask for; "She requested an extra bed in her room"; "She called for room service")
+           => {00717906} <verb.communication> communicate1, pass on, pass1, put across -- (transmit information ; "Please communicate this message to all employees")
+               => {02167243} <verb.possession> convey10, transmit10, communicate10 -- (transfer to another; "communicate a disease")
+                   => {02167764} <verb.possession> transfer1 -- (move from one place to another; "transfer the data"; "transmit the news"; "transfer the patient to another hospital")
+                       => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

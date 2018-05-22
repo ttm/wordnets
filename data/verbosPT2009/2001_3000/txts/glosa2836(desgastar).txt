@@ -1,0 +1,51 @@
+ANÁLISE DA GLOSA
+
+DADO O SYNSET:
+
+S='Glosa2836'
+	    {arruinar: A variedade de espécies também ajuda a tornar a plantação resistente à vassoura de bruxa, um fungo que I]arruinou as grandes plantações de cacau.,
+	      bromar: A maresia e as caracas H]bromaram o casco do barco.,
+	      carcomer: Mas aconteceu que, de repente, aninhou-se em seu troco um enxame de pequenos insetos. Juntos caberiam na palma da mão. Entretanto, eles começaram a I]carcomer a casca da árvore, e ela acabou por ruir.,
+	      comer: O corpo do homem foi encontrado semanas depois quando os cupins I]comeram toda a madeira que o soterrava.,
+	      consumir: A destruição já I]consumiu 46% das matas originais que cobrem a superfície terrestre. O desmatamento foi provocado, principalmente, pela agricultura, pecuária e a comercialização da madeira.,
+	      corroer: Em dez anos, a chuva ácida praticamente [corroeu o nariz das estátuas gregas.,
+	      desgastar: Além de devorarem materias celulósicos como madeira e papel, essa espécie pode [desgastar plástico, tijolo, borracha, massa corrida e gesso.,
+	      destroçar: Os cães, possessos, horrorosos, saltavam como se estivessem loucos, mordendo as grades de ferro, buscando I]destroçar o manequim com os dentes.,
+	      destruir: Pouco depois das 18h de terça-feira, o córrego [destruiu a casa de Divino Antunes de Carvalho, 52 anos, caseiro do empresário Ricardo Tanuri . ,
+	      devorar: Gaviões-carcarás tiram o sossego dos ratos, que gostam de [devorar o arroz.,
+	      disperder: x,
+	      erodir: Os deslizamentos próximos das estradas são ocasionados, principalmente por cortes mal planejados no terreno e desvio da água da chuva sem qualquer cuidado para áreas vizinhas, contribuindo para I]erodir o solo.# Nesta exposição ele utilizará formigas brasileiras para que se encarreguem do processo de I]erodir bandeiras de vários países. ,
+	      erosar: O que está I]erosando os manguezais são as invasões e as construções de barracos e palafitas nas suas bordas, que já passam de duas mil.,
+	      estragar: A umidade e o contato com o oxigênio [estragam o café mais rápido.,
+	      estroçar: x,
+	      gastar: x,
+	      minar: x,
+	      morder: A ferrugem H]mordia o velho banco do jardim.,
+	      rafar: A]rafar o casaco.,
+	      roer: O mico possui os dentes incisivos inferiores adaptados para I]roer troncos de árvores gumíferas.,
+	      solinhar: x,
+	      traçar2: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2836' = “Destruir totalmente ou ou gastar pouco a pouco”
+	    {arruinar: A variedade de espécies também ajuda a tornar a plantação resistente à vassoura de bruxa, um fungo que I]arruinou as grandes plantações de cacau.,
+	      carcomer: O tempo envelheceu-a, I]carcomeu-a,. manchou-a de pátina amarelo-suja.,
+	      comer: Comentários relatando que o tratamento aéreo não havia sido eficiente, e que a ferrugem I]comeu tudo.,
+	      consumir: Por ocasião de um grande incêndio ocorrido no povoado em 1822 e que I]consumiu sete casas, inclusive uma que servia de quartel.,
+	      corroer: Em dez anos, a chuva ácida praticamente [corroeu o nariz das estátuas gregas.,
+	      desgastar: Os projetos de restauração dos prédios pretendem reconstituir aquilo que o tempo I]desgastou.,
+	      destruir: Ferrugem I]destruiu 4,5% da safra de soja. ,
+	      devorar: Incêndio de uma biblioteca monástica I]devorou o último exemplar do Syntagma.,
+	      erodir: Há pelo menos uma semana a pressão da água ]erodiu as velhas paredes do canal, criando uma espécie de túnel.,
+	      estragar: Ontem, Cecília tentava limpar as paredes de sua banca que, apesar de não ter sido atingida diretamente pelo fogo, o calor I]estragou os vestidos de festa.,
+	      roer: A I]ferrugem rói o ferro.,}
+
+Chave: DESGASTAR <verb.change>
+ILI: 00265696
+
+Sense 2
+{00265696} <verb.change> fret, eat away1 -- (wear away or erode)
+       => {00265054} <verb.change> corrode, rust -- (become destroyed by water, air, or an etching chemical such as an acid; "The metal corroded"; "The pipes rusted")
+           => {00201478} <verb.change> decay, crumble13, delapidate -- (fall into decay or ruin; "The unoccupied house started to decay")
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night") 

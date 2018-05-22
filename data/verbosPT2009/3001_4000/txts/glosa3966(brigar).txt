@@ -1,0 +1,40 @@
+ANÁLISE DA GLOSA3966
+
+DADO O SYNSET:
+
+S='Glosa3966'
+    	{abalroar: O passageiro M]abalroou com o chofer.,
+      	 arcar: H]Arcou peito a peito com o inimigo.,
+      	 balroar: x,
+      	 brigar: Cruz admitiu que [brigou com a jornalista, mas negou a agressão.,
+      	 contender: E I]contenderam com ele fortemente. ,
+      	 esgrimir: Já A]esgrimiu contra poderosos opositores.,
+      	 impeticar: M]Impeticava com todos.,
+      	 litigar: Os cavaleiros M]litigavam com lança e montante.,
+      	 litigiar: x,
+      	 lutar: Entre os séculos XII e XIII dezenas de exércitos chefiados por senhores feudais partiram de vários pontos da Europa para [lutar contra os turcos .,
+      	 pegar-se: I]Pegaram-se, os dois guerreiros, numa luta de socos.,
+      	 preliar: x,
+     	 reixar: x,
+      	 rinhar: Na frente do bar, H]rinhavam dois brutamontes.,
+      	 rixar: Assim que se viram fora das portas do senhor, começaram a I]rixar pela melhor escolha.,
+      	 testilhar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3966' = “travar combate; lever adiante uma briga”
+    	{arcar: Um dia veio-lhe uma idéia: era preciso pôr a comadre ao corrente do que se passava, e interessá-la no negócio; ela era bem capaz, se quisesse, de [arcar com José Manuel, e pôr-lo fora de combate.,
+      	 brigar: Cruz admitiu que [brigou com a jornalista, mas negou a agressão.,
+      	 contender: Agamemnon lembrou-se que o oráculo de Apolo a vitória lhe havia prometido, desde que os melhores gregos [contendessem entre si.,
+      	 esgrimir: Pilotos do quilate de Alain Prost e Ayrton Senna [esgrimavam por pontos.,
+      	 litigar: Não sabemos se é o mesmo João Lopes referendado por Marques e Ribeiro do Amaral, como um dos integrantes da irmandade “Lopes” que tanto I]litigou com os jesuítas e os índios.,
+      	 lutar: Para piorar, ele saiu do carro, tentou escalar uma cerca e [lutou com os três policiais que foram prendê-lo.,
+      	 pegar-se: I]Pegaram-se, os dois guerreiros, numa luta de socos.,
+      	 rinhar: Os vândalos ensandecidos gritavam e, como uma referência estúpida a uma tribo neanderthal qualquer, I]rinhavam, atiravam pedras e paus uns sobre os outros.,
+      	 rixar: Não raro I]rixavam e se engalfinhavam mulheres, ou se esboroavam homens por fúteis pretextos.}
+Chave: BRIGAR <verb.competition>
+ILI: 01055630
+
+Sense 1
+{01055630} <verb.competition> fight, struggle -- (be engaged in a fight; carry on a fight; "the tribesmen fought each other"; "Siblings are always fighting")
+          Also See-> {01096026} <verb.competition> fight off#1

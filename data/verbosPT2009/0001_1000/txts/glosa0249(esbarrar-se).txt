@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0249
+
+DADO O SYNSET:
+
+S='Glosa249'
+{embater-se: O impacto fez balançar o carrinho e deixou perplexa a assustada mamãe e por muito pouco o rato não foi I]embater-se contra o corpinho da criança.,
+esbarrar-se: Finalmente aconteceu-lhe por três ou quatro vezes [esbarrar-se junto de casa com o capitão do navio em que tinha vindo de Lisboa, e isto causou-lhe sérios cuidados.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa249' = “trombar, dar de frente em algo ou alguém com força ou violência”
+{embater-se: O impacto fez balançar o carrinho e deixou perplexa a assustada mamãe e por muito pouco o rato não foi I]embater-se contra o corpinho da criança.,
+esbarrar-se: Finalmente aconteceu-lhe por três ou quatro vezes [esbarrar-se junto de casa com o capitão do navio em que tinha vindo de Lisboa, e isto causou-lhe sérios cuidados.,}
+Chave: ESBARRAR-SE <verb.contact>
+ILI: 01201829
+
+Sense 1
+{01201829} <verb.contact> bump, knock -- (knock against with force or violence; "My car bumped into the tree")
+       => {01198410} <verb.contact> hit1, strike1, impinge on, run into1, collide with -- (hit against; come into sudden contact with; "The car hit a tree"; "He struck the table with his elbow")
+           => {01169634} <verb.contact> touch -- (make physical contact with, come in contact with; "Touch the stone for good luck"; "She never touched her husband")
+          Also See-> {01202518} <verb.contact> bump into#1

@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA2799
+
+DADO O SYNSET:
+
+S='Glosa2799'
+	    {abrigar-se: O que você pode fazer para minimizar o risco de ser atingido por um raio? Note as seguintes sugestões. Se de todo possível, procure I]abrigar-se num lugar coberto. Até mesmo um carro oferece uma boa proteção.,
+	      encastelar-se: E uma vez convencido do seu triunfo sobre as legiões de fanáticos ao serviço da sua causa dominadora, sentiu-se aparelhado para a luta; I]encastelou-se nas muralhas e nos contrafortes de Canudos e, de armas ao ombro, não duvidou mais da sua ascendência territorial no Estado.,
+	      recolher-se: Bonifácio não era capaz de crimes, nem ia agora atrás de lugares povoados, tanto que vinha I]recolher-se a uma casa vazia.,
+	      refugiar-se: No inverno, quando o frio é impiedoso e a neve só é bacana nos cartões-postais, a dica é I]refugiar-se no subsolo da cidade.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2799' = “prover abrigo”
+	    {abrigar-se: I]Abrigou-se então em uma gruta no alto da serra, alimentando-se de frutos e raízes, caça e pesca.,
+	      encastelar-se: Lula I]se encastelou na Granja do Torto e no Palácio da Alvorada, evitando freqüentar os locais de Brasília.,
+	      recolher-se: Depois, I]recolheu-se no interior do Santuário, consumida pela saudade da filha Perséfone.,
+	      refugiar-se: Fazia muito frio e I]refugiou-se numa igreja pretendendo passar ali a noite.,}
+
+Chave: ABRIGAR-SE <verb.social>
+ILI: 02385180
+
+Sense 1
+{02385180} <verb.social> house, put up, domiciliate -- (provide housing for; "The immigrants were housed in a new development outside the town")
+       => {02577295} <verb.stative> shelter -- (provide shelter for; "After the earthquake, the government could not provide shelter for the thousands of homeless people")
+           => {02259805} <verb.possession> supply, provide, render2, furnish -- (provide or furnish with; "We provided the room with an electrical heater")
+               => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+                   => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children")

@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0005
+
+DADO O SYNSET:
+
+S='Glosa5'
+{clarificar: DEVIANT,
+limpar: E quando os iloés precisam I]limpar a alma de um índio pecador, outra vez é o refrigerante o instrumento da purificação.,
+purgar: Fiquei tão triste com o fim do último capítulo que estava capaz de não escrever este, [purgar o espírito da melancolia que a empacha, e continuar depois.,
+purificar: As mulheres devem se esforçar em [purificar seu coração.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa5' = “remover impurezas de”
+{limpar: O governo deve ver se as empresas e os carros têm equipamentos que funcionam como filtros e [limpam os gases que vão para o ar.,
+purgar: O karma I]purgou seus olhos com as lágrimas de dor.,
+purificar: O filtro desenvolvido [purifica a água de laboratórios nucleares.,}
+Chave: PURIFICAR <verb.change>
+ILI: 00461876
+
+Sense 1
+{00461876} <verb.change> purify, sublimate1, make pure, distill3 -- (remove impurities from, increase the concentration of, and separate through the process of distillation; "purify the water")
+       => {00198579} <verb.change> better1, improve1, amend, ameliorate1, meliorate1 -- (to make better; "The editor improved the manuscript with his changes")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

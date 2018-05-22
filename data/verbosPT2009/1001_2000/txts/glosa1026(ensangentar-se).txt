@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA1026
+
+DADO O SYNSET:
+
+S='Glosa1026'
+{cruentar-se: x,
+ ensangüentar-se: Os golpes choviam; o algoz permanecia impassível, num instante, as coxas I]ensangüentaram-se.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1026' = “ficar coberto com sangue”
+{ensangüentar-se: Os golpes choviam; o algoz permanecia impassível, num instante, as coxas I]ensangüentaram-se.,}
+Chave: ENSANGÜENTAR-SE <verb.change>
+ILI: EQ_HAS_NEAR_SYNONYM – 00220554 
+
+Sense 1
+{00220554} <verb.change> bloody -- (cover with blood; "bloody your hands")
+       => {01171349} <verb.contact> cover1, spread over -- (form a cover over; "The grass covered the grave")
+           => {01169130} <verb.contact> touch1, adjoin3, meet, contact3 -- (be in direct physical contact with; make contact; "The two buildings touch"; "Their hands touched"; "The wire must not contact the metal cover"; "The surfaces contact at this point")

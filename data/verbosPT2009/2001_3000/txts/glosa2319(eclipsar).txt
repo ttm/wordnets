@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2319
+
+DADO O SYNSET:
+
+S='Glosa2319'
+	    {deslumbrar: Os refletores acesos, de tão fortes, H]deslumbravam.,
+	      eclipsar: A Terra faz uma sombra ea Luz do Sol é impedida de iluminar a Lua, e ela é então [eclipsada.,
+	      ofuscar: Nuno Ramos, 34, entrevistou cegos antes de realizar sua instalação, que procura um ponto de intersecção entre os efeitos cósmicos e a cegueira, um excesso de luz que[ofusca .,
+	      sobrepujar: DEVIANT,
+	      translumbrar: Berilos faiscavam, topázios A]translumbravam.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2319' = “projetar uma sombra sobre alguma coisa.”
+	    {eclipsar: A Terra faz uma sombra e a luz do Sol é impedida de iluminar a Lua, e ela é então [eclipsada.,
+	      ofuscar: A poluição I]ofuscou as estrelas.,}
+
+Chave: ECLIPSAR <verb.perception>
+ILI: 02096227
+
+Sense 3
+{02096227} <verb.perception> overshadow -- (cast a shadow upon; "The tall tree overshadowed the house"; "The tragedy overshadowed the couple's happiness")
+       => {02095814} <verb.perception> obscure, befog, becloud, obnubilate, haze over, fog, cloud, mist -- (make less visible or unclear; "The stars are obscured by the clouds")
+           => {02082942} <verb.perception> hide, conceal1 -- (prevent from being seen or discovered; "Muslim women hide their faces"; "hide the money") 

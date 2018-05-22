@@ -1,0 +1,37 @@
+ANÁLISE DA GLOSA1829
+
+DADO O SYNSET:
+
+S='Glosa1829'
+{complicar-se: A questão [complicou-se, ainda no começo de 1993, em função do caso amoroso entre o cineasta e Soon-Yi Previn.,
+ dificultar-se: A situação [dificultava-se; mas o vigário, recuperando o sangue-frio, ergueu-se, concertou as roupas.,
+ embararçar-se: H]Embaraçou-se com o novo equipamento.,
+ embretar-se: x,
+ encrencar-se: A situação política do Oriente Médio A]encrencou-se nos últimos tempos.,
+ enlear-se: DEVIANT,
+ enredar-se: O contrato H]enredou-se bem na hora da assinatura.,
+ enredear-se: x,
+ enroscar-se: Eles se H]enroscaram na hora de prestar contas.,
+ intricar-se: A história I]intricava-se. ,
+ intrincar-se: A trama parecia I]intrincar-se ainda mais. # O caso H]intrincou-se.,}
+	  
+A='Glosa1264'
+{facilitar-se, simplificar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1829' = “tornar-se complexo, intricado”
+{complicar-se: A questão [complicou-se, ainda no começo de 1993, em função do caso amoroso entre o cineasta e Soon-Yi Previn.,
+ dificultar-se: A situação [dificultava-se; mas o vigário, recuperando o sangue-frio, ergueu-se, concertou as roupas.,
+ embararçar-se: A situação I]embaraçou-se a ponto de Bolívar pôr a venda a sua mina de cobre de Aroa.,
+ enredar-se: Entre dezembro e março, o PT viu-se acusado, de um lado, de envolvimento no assassinato do sindicalista Oswaldo Cruz e, de outro, [enredou-se em uma crise interna de dupla face.,
+ intrincar-se: A trama parecia I]intrincar-se ainda mais.}
+	  
+A='Glosa1264'
+{facilitar-se, simplificar-se}
+Chave: COMPLICAR-SE <verb.change>
+ILI: EQ_NEAR_SYNONYM – 00390425
+
+Sense 1
+{00390425} <verb.change> complicate, perplex -- (make more complicated; "There was a new development that complicated the matter")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

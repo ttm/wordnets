@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA2798
+
+DADO O SYNSET:
+
+S='Glosa2798'
+	    {cobrar: Este ano, só em IRS, o Estado vai [cobrar 790 milhões de contos.,
+	      receber: Este responsável da seguradora garantiu que os familiares das jovens falecidas vão [receber cinco mil contos de indenização e que aos restantes estudantes serão pagas todas as despesas médicas e gastos farmacêuticos.,
+	      recolher: A maior estatal brasileira I]recolheu R$ 52,3 bilhões em impostos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2798' = “Solicitar e obter o pagamento de”
+	    {cobrar: De acordo com Magali, a empresa [cobrou R$ 7,93 além do que ela devia.,
+	      receber: Neste ano em que vigorou o Decreto Supremo, afirma que o governo I]recebeu, de impostos e royalties, US$1649 bilhão.,
+	      recolher: A maior estatal brasileira I]recolheu R$ 52,3 bilhões em impostos.,}
+
+Chave: RECEBER <verb.possession>
+ILI: 02154604
+
+Sense 2
+{02154604} <verb.possession> collect1, take in9 -- (call for and obtain payment of; "we collected over a million dollars in outstanding debts"; "he collected the rent")
+       => {02141767} <verb.possession> take -- (take into one's possession; "We are taking an orphan from Romania"; "I'll take three salmon steaks") 

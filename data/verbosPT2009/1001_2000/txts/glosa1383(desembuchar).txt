@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA1383
+
+DADO O SYNSET:
+
+S='Glosa1383'
+{confessar: Na entrevista, o traficante [confessa ser assassino, fala de justiça social e ridiculariza a polícia.,
+ contar: Diferentemente de F.J.C., segundo Carvalho, C.C. não [conta o que aconteceu, apenas confirma os fatos narrados pelo menino. ,
+ desembuchar: Daí não vou ter onde I]desembuchar minhas palavras.,
+ desentupir: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1383' = “revelar informação”
+{confessar: Desde que o carro se pôs a andar, Batista [confessou que ia ficar constrangido por alguns dias.,
+ contar: Sentados em roda, cada um [contou como recebeu a notícia e o que sentiu.,
+ desembuchar: Vá I]desembuchando o seu repertório de idéias, sendo muito objetivo.,}
+Chave: DESEMBUCHAR <verb.communication>
+ILI: 00921245
+
+Sense 5
+{00921245} <verb.communication> spill, talk2 -- (reveal information; "If you don't oblige me, I'll talk!"; "The former employee spilled all the details")
+       => {00920928} <verb.communication> tell -- (let something be known; "Tell them that you will be late")
+           => {00804489} <verb.communication> inform -- (impart knowledge of some fact, state or affairs, or event to; "I informed him of his rights")
+               => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                   => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                       => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

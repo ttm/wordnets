@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA2663
+
+DADO O SYNSET:
+
+S='Glosa2663'
+	    {abafar: Dirceu tentou I]abafar investigação sobre Waldomiro, diz senador.,
+	      afogar1: Neste contexto, a propaganda pretende afogar a verdade e I]matar a evidência de que a Al Qaeda de Osama bin Laden foi fabricada e transformada em "Inimigo Número Um". ,
+	      conter: Mas a organização de «comités de autodefesa» e a implantação de novas bases militares na periferia permitiram [conter o avanço do Sendero Luminoso.,
+	      embargar: Os funcionários da Junta Autónoma deram como resposta que naquele sítio ia passar uma via rápida, mas como havia documentos legais não podiam [embargar a obra, mas que havia conveniência que a obra parasse porque, quanto mais alta estivesse, mais elevados eram os custos.,
+	      recalcar: Os seus sonhos projectam os medos, desejos e instintos primitivos que outros, como o «western», o musical e o melodrama, [recalcam.,
+	      reprimir: Ipem inicia fiscalização para I]reprimir a venda de preservativos falsificados.,
+	      sufocar: Partidários de Aristide tentam I]sufocar revoltas no Haiti.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2663' = “Impedir ou obstar o progresso ou a realização de.”
+	    {abafar: O governo tucano de São Paulo I]abafou 51 tentativas de abertura de CPI’s.,
+	      afogar1: O estipêndio que recebia dos aristocratas nunca I]afogou o republicanismo de rapaz pobre.,
+	      conter: Mas o que I]conteve o movimento foi uma lei de 2000.,
+	      embargar: A Secretaria de Agricultura I]embargou o processo.,
+	      recalcar: Além disso, I]recalcou o labor dos funcionários do governo do seu partido.,
+	      reprimir: O governo I]reprimiu o movimento utilizando a polícia.,
+	      sufocar: Enfrentou a oposição da Aliança Nacional Libertadora e I]sufocou o movimento comunista em 1935.,}
+
+Chave: CONTER <verb.social>
+ILI: 02481538
+
+Sense 2
+{02481538} <verb.social> obstruct, blockade, block, hinder, stymie, stymy, embarrass -- (hinder or prevent the progress or accomplishment of; "His brother blocked him at every turn")
+       => {02379144} <verb.social> prevent1, forestall1, foreclose, preclude, forbid3 -- (keep from happening or arising; have the effect of preventing; "My sense of tact forbids an honest answer") 

@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0012
+
+DADO O SYNSET:
+
+S='Glosa12'
+{acamaradar: Monsieur Jules, por alcunha "Grand-père", era o pintor cinquentão e boêmio que gostava de [acamaradar conosco.,
+amigar: Essas reuniões muito contribuem para M]amigar os jovens. ,
+amistar: M]Amistara-o com seus irmãos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa12' = “tornar(-se) amigo”
+{acamaradar: Então, ambos com o mesmo roteiro, podíamos I]acamaradar, Doutor Topsius.,
+amigar: Dias não demorou a se I]amigar com toda a "intelligentsia" que circulava pelo bairro boêmio de Montparnasse.,
+amistar: M]Amistara-o com seus irmãos.,}
+Chave: AMIGAR <verb.social>
+ILI: 02511720
+
+Sense 1
+{02511720} <verb.social> befriend -- (become friends with; "John and Eric soon became friends"; "Have you made friends yet in your new environment?")
+       => {02462804} <verb.social> bind1, tie1, attach3, bond13 -- (create social or emotional ties; "The grandparents want to bond with the child")
+           => {02384110} <verb.social> relate -- (have or establish a relationship to; "She relates well to her peers")
+               => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

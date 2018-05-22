@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA3697
+
+DADO O SYNSET:
+
+S='Glosa3697'
+	    {
+	      ausentar-se: Cícero [ausentou-se da carceragem 15 minutos antes da invasão.,
+	      deixar: Através de um calendário, Brancoy indicou o mês em que [deixou o Brasil. ,
+	      ir-se: Entrou no avião e [se foi. ,
+	      partir: A virgem [partiu, cerrando a porta da cabana.  ,
+	      retirar-se: Por volta da meia-noite, o casal Cruise [se retirou. ,
+	      sair: A testemunha [saiu em um Opala Diplomata preto, que, escoltado por dois Tempras, andou sempre em alta velocidade.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3697' = “deixar um lugar ou partir de”
+	     {ausentar-se: Cícero [ausentou-se da carceragem 15 minutos antes da invasão.,
+	      deixar: Logo em seguida ao sepultamento, a família I]deixou o local e admiradores do político reuniram-se junto ao caixão para prestar a última homenagem. ,
+	      ir-se: Entrou no avião e [se foi. ,
+	      partir: A virgem [partiu, cerrando a porta da cabana.  ,
+	      retirar-se: Por volta da meia-noite, o casal Cruise [se retirou. ,
+	      sair: A testemunha [saiu em um Opala Diplomata preto, que, escoltado por dois Tempras, andou sempre em alta velocidade.,}
+Chave: SAIR <verb.motion>
+ILI: 01957725 
+
+Sense 1
+{01957725} <verb.motion> exit, go out, get out1, leave -- (move out of or depart from; "leave the room"; "the fugitive has left the country")
+       => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right")

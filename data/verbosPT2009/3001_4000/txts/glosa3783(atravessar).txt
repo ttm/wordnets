@@ -1,0 +1,37 @@
+ANÁLISE DA GLOSA3783
+
+DADO O SYNSET:
+	
+S='Glosa3783'
+{atravessar: O projétil [atravessou o corpo da menina, perfurando os pulmões e o coração.,
+	 enfiar: DEVIANT,
+	 espetar: Com uma acalma feroz, [espetou o ferro da lança no corpo do assassino de seu pai, atravessando-lhe o coração como faria com uma folha seca.,
+	 perfurar: A bala [perfurou o braço e se alojou no tórax da menina.,
+	 permear: Belos brincos A]permeavam as orelhas da dama.,
+	 transfixar: As agulhas têm a finalidade de I]transfixar os tecidos servindo de guia para os fios de sutura.,
+	 transpassar: A bala [transpassou Palhares e acertou Adriana, matando os dois.,
+	 traspassar: Longinus foi aquele centurião romano que, ao pé da cruz, [traspassou o peito do Salvador na hora de seu desenlace.,
+	 travessar: Um piercing I]travessando a cartilagem  do nariz deixa-o mais largo. ,
+	 trespassar: Heracles passou pela região e I]trespassou com uma flecha a águia.,
+	 varar: Uma barra de ferro [varou seu cérebro após uma explosão acidental.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3783' = “passar para dentro ou através [de], freqüentemente superando resistência”
+{atravessar: O projétil [atravessou o corpo da menina, perfurando os pulmões e o coração.,
+	 espetar: Com uma acalma feroz, [espetou o ferro da lança no corpo do assassino de seu pai, atravessando-lhe o coração como faria com uma folha seca.,
+	 perfurar: A bala [perfurou o braço e se alojou no tórax da menina.,
+	 permear: Belos brincos A]permeavam as orelhas da dama.,
+	 transfixar: As agulhas têm a finalidade de I]transfixar os tecidos servindo de guia para os fios de sutura.,
+	 transpassar: A bala [transpassou Palhares e acertou Adriana, matando os dois.,
+	 traspassar: Longinus foi aquele centurião romano que, ao pé da cruz, [traspassou o peito do Salvador na hora de seu desenlace.,
+	 travessar: Um piercing I]travessando a cartilagem  do nariz deixa-o mais largo. ,
+	 trespassar: Heracles passou pela região e I]trespassou com uma flecha a águia.,
+	 varar: Uma barra de ferro [varou seu cérebro após uma explosão acidental.}
+
+Chave: ATRAVESSAR <verb.contact>
+ILI: 01190419
+
+Sense 1 
+{01190419} <verb.contact> penetrate, perforate3 -- (pass into or through, often by overcoming resistance; "The bullet penetrated her chest")
+       => {01958650} <verb.motion> enter, come in2, get into, get in1, go into, go in, move into -- (to come or go into; "the boat entered an area of shallow marshes")

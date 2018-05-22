@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA0341
+
+DADO O SYNSET:
+
+S='Glosa341'
+{aprazar: Não vejo o lançamento de ciência por parte do candidato, ou de terceiros por ele-, fosse instado José Gaspar a uma nova data, que I]aprazou, e fosse comunicado via telegrama fonado.,
+determinar: A Fifa suspendeu o atleta, preventivamente, e [determinou as datas de 23 e 24 de agosto para a apresentação da sua defesa e para o seu julgamento definitivo. ,
+marcar: O juiz José Geraldo Antonio, novo titular do 2° Tribunal do Juri, [marcou para 29 de abril o julgamento de quatro acusados da chacina da Candelária.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa341' = “determinar um prazo para que algo, de cunho oficial ocorra; assim como atender um tribunal”
+{aprazar: Não vejo o lançamento de ciência por parte do candidato, ou de terceiros por ele-, fosse instado José Gaspar a uma nova data, que I]aprazou, e fosse comunicado via telegrama fonado.,
+determinar: A Fifa suspendeu o atleta, preventivamente, e [determinou as datas de 23 e 24 de agosto para a apresentação da sua defesa e para o seu julgamento definitivo. ,
+marcar: O juiz José Geraldo Antonio, novo titular do 2° Tribunal do Juri, [marcou para 29 de abril o julgamento de quatro acusados da chacina da Candelária.,}
+Chave: DETERMINAR
+ILI: 00765134
+
+Sense 1
+{00765134} <verb.communication> summon, summons, cite7 -- (call in an official matter, such as to attend court)
+       => {00766798} <verb.communication> call5, send for -- (order, request, or command to come; "She was called into the director's office"; "Call the police!")
+           => {00722209} <verb.communication> order1, tell2, enjoin, say4 -- (give instructions to or direct somebody to do something with authority; "I said to him to go home"; "She ordered him to do the shopping"; "The mother told the child to get dressed")
+               => {00728656} <verb.communication> request2 -- (ask (a person) to do something; "She asked him to be here at noon"; "I requested that she type the entire manuscript")
+                   => {00727721} <verb.communication> ask1 -- (make a request or demand for something to somebody; "She asked him for a loan")
+                       => {00727992} <verb.communication> request1, bespeak, call for4, quest1 -- (express the need or desire for; ask for; "She requested an extra bed in her room"; "She called for room service")
+                           => {00717906} <verb.communication> communicate1, pass on, pass1, put across -- (transmit information ; "Please communicate this message to all employees")
+                               => {02167243} <verb.possession> convey10, transmit10, communicate10 -- (transfer to another; "communicate a disease")
+                                   => {02167764} <verb.possession> transfer1 -- (move from one place to another; "transfer the data"; "transmit the news"; "transfer the patient to another hospital")
+                                       => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

@@ -1,0 +1,39 @@
+ANÁLISE DA GLOSA4127
+
+DADO O SYNSET:
+
+S='Glosa4127'
+{aquinhoar: Os herdeiros H]aquinhoaram os bens do falecido.,
+beneficiar: Além dos estudantes, o programa I]beneficiou 110 detentos da Penitenciária Estadual de Londrina e estudantes da APAE.,
+bonificar: A chuva atrapalhou um pouco, mas a prova do paredão não fazia a equipe perder pontos, só I]bonificava as equipes que conseguiam vencê-lo.,
+dotar: Deus, Em sua infinita sabedoria, I]dotou a natureza de ensinamentos.,
+fadar: A natureza H]fadou-a com raras virtudes.,
+favorecer: A natureza a I]favoreceu com um solo mais fértil.,
+munir: O objetivo é I]munir a comunidade de desenvolvimento de conteúdo das ferramentas.,
+prendar: Os deuses gregos H]prendaram os humanos de vários ofícios e artes.,
+prover: A implantação de equipamentos será para I]prover a cidade de infra-estrutura.,
+quinhoar: O padrinho quer H]quinhoá-lo com uma bela fortuna.,}
+	  
+A='Glosa1123'
+{desajudar, desfavorecer, desprover, prejudicar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4127A' = “conceder um privégio [a]”
+{beneficiar: Projeto já I]beneficiou cerca de 800 recém-nascidos com certidão de nascimento na MHFB.,
+bonificar: Eles até I]bonificaram alguns clientes com 600 reais por terem sido compreensivos.,
+prover: A implantação de equipamentos será para I]prover a cidade de infra-estrutura.,}
+	  
+A='Glosa1123'
+{desajudar, desfavorecer, desprover, prejudicar}
+Chave: BENEFICIAR <verb.social>
+ILI: 02379771
+
+Sense 2
+{02379771} <verb.social> privilege, favor3, favour3 -- (bestow a privilege upon)
+       => {00776433} <verb.communication> permit, allow, let2, countenance -- (consent to, give permission; "She permitted her son to visit her estranged husband"; "I won't let the police search her basement"; "I cannot allow you to see your exam")
+           => {00771887} <verb.communication> accept, consent, go for -- (give an affirmative reply to; respond favorably to; "I cannot accept your invitation"; "I go for this resolution")
+               => {00693825} <verb.cognition> react, respond -- (show a response or a reaction to something)
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")
+
+

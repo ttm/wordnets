@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA1573
+
+DADO O SYNSET:
+
+S='Glosa1573'
+{desatar: Que fizemos nós, ao I]desatar a terra do seu sol?,
+ desconectar: Apesar do sentimento intenso, a distância cedo os H]desconectou.,
+	 desengranzar: x,
+	 desengrazar: x,
+	 desligar: É surpreendente como o artista conseguiu [desligar-se do artificialismo oratório das grandes frases, das tiradas filosóficas, das abstrações e  dos clichês.,
+ desunir: Esse assunto é picuinha para nos [desunir.,
+	 desvincular: Empson conferiu ao vocábulo ambigüidade um significado bastante lato, procurando A]desvincular a palavra da conotação pejorativa que lhe anda adstrita.,}
+	  
+A='Glosa1456'
+{adjudicar, agrilhoar, articular, associar, atar, concatenar, conectar, encadear, ligar, prender, unir, vincular}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1573' = “tornar desligado, separado ou desconectado; desfazer a ligação [de]” 
+{desatar: Que fizemos nós, ao I]desatar a terra do seu sol?,
+ desconectar: O consumismo asfixia o pensamento entorpece o atuar e nos I]desconecta do universo.,
+	 desligar: A voz gramatical ou estilística á qual obedece Flaubert, o [desligou do texto de Parent.,
+ desunir: Para o cardeal, a decisão da CBF significa «[desunir a grande unidade verde-amarela do país, destacando mágoas individuais e regionais que não sabem valorizar a crítica construtiva».,
+	 desvincular: Você não pode [desvincular a Índia, a China e o Japão desse processo», ensina Washington.,}
+	  
+A='Glosa1456'
+{adjudicar, agrilhoar, articular, associar, atar, concatenar, conectar, encadear, ligar, prender, unir, vincular}
+Chave: DESLIGAR <verb.contact>
+ILI: 01255880
+
+Sense 1
+{01255880} <verb.contact> disjoin1, disjoint1 -- (make disjoint, separated, or disconnected; undo the joining of)
+       => {01513899} <verb.contact> separate1, disunite, divide1, part1 -- (force, take, or pull apart; "He separated the fighting children"; "Moses parted the Red Sea")
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

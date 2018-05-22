@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0193
+
+DADO O SYNSET:
+
+S='Glosa193'
+{afainar-se: x,
+afanar-se: I]Afanava-se no tribunal, estimulando o zelo dos mártires quando eram chamados e escoltando-os quando iam para o mártírio.,
+azafamar-se: Os garçons H]azafamavam-se para atender os fregueses.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa193' = “fazer um esforço vigoroso”
+{afainar-se: x,
+afanar-se: I]Afanava-se no tribunal, estimulando o zelo dos mártires quando eram chamados e escoltando-os quando iam para o mártírio.,
+azafamar-se: Patrícia pulou da cadeira e I]azafamou-se:. – Vamos, sim. Vou lá dentro me preparar.}
+Chave: AFANAR-SE <verb.social>
+ILI: 02334710
+
+Sense 1
+{02334710} <verb.social> fight, struggle -- (make a strenuous or labored effort; "She struggled for years to survive without welfare"; "He fought for breath")
+       => {02454930} <verb.social> try, seek, attempt, essay, assay -- (make an effort or attempt; "He tried to shake off his fears"; "The infant had essayed a few wobbly steps"; "The police attempted to stop the thief"; "He sought to improve himself"; "She always seeks to do good in the world")
+           => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

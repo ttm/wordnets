@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA3234
+
+DADO O SYNSET:
+
+S='Glosa3234'
+	    {
+	      cortar: Segundo ele, foi necessário [cortar a cabeça para retirar o corpo com segurança através de cesariana, sem colocar em risco a vida da mãe.,
+	      decapitar: DEVIANT,
+	      decepar: A televisão mostrou o homem acusado de quase [decepar a cabeça de sua mulher com uma faca.,
+	      degolar: Ele disse que para [degolar seus pais se apoiou no ombro deles, passando a faca pela garganta ,
+	      descabeçar: Em certas regiões, para se obter pasta de pescado costuma-se I]descabeçar, eviscerar e descamar o pescado.,
+	      jugular: x,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3234' = “cortar a cabeça”
+	     {cortar: Com raiva, I]cortou a cabeça do menino e jogou o corpo no mato.,
+	      decepar: Ele I]decepou a cabeça de Azog poucos momentos após o início da luta, e isso foi considerado um grande feito.,
+	      degolar: O vencedor, sem grandeza, I]degolou vencidos, que se haviam entregue.,
+	      descabeçar: Em certas regiões, para se obter pasta de pescado costuma-se I]descabeçar, eviscerar e descamar o pescado.,}
+Chave: DEGOLAR <verb.contact>
+ILI: 01527884
+
+Sense 1
+{01527884} <verb.contact> decapitate, behead -- (cut the head of; "the French King was beheaded during the Revolution")
+       => {01284688} <verb.contact> kill -- (cause to die; put to death, usually intentionally or knowingly; "This man killed several people when he tried to rob a bank"; "The farmer killed a pig for the holidays")

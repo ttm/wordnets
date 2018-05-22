@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA2490
+
+DADO O SYNSET:
+
+S='Glosa2490'
+	    {sobreaquecer: Evite deixar o aparelho ligado por um lomgo periodo de tempo para não I]sobreaquecer os componentes internos.,
+	      superaquecer: Isso aumenta o espaço de frenagem e ajuda a [superaquecer os freios, perdendo sua eficiência.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2490' = “Ficar excessivamente e indesejavelmente quente.”
+	    {sobreaquecer: O celular não explodiu, apenas I]sobreaqueceu.,
+	      superaquecer: Com a brusca parada do avião, a energia cinética gerada a partir do atrito dos pneus I]superaqueceu o sistema de freios.,}
+
+Chave: SUPERAQUECER <verb.change>
+ILI: 00358992
+
+Sense 1
+{00358992} <verb.change> overheat -- (get excessively and undesirably hot; "The car engines overheated")
+       => {00361270} <verb.change> heat, hot up2, heat up1 -- (gain heat or get hot; "The room heated up quickly")
+           => {00140715} <verb.change> change state, turn4 -- (undergo a transformation or a change of position or action; "We turned from Socialism to Capitalism"; "The people turned against the President when he stole the election")
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night") 

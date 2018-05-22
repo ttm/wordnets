@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA3794
+
+DADO O SYNSET:
+
+S='Glosa3794'
+{continuar: A guerra entre quadrilhas rivais das favelas no Rio [continua.,
+	 perseverar: Quem não I]persevera nas pequenas tarefas, falhará nos grandes planos.,
+	 persistir: O trabalho infantil predomina em regiões miseráveis, onde [persiste o costume de saldar dívidas e deveres sociais e religiosos entregando-se filhos.,
+	 prosseguir: Após Camões, Corte Real [prossegue com o gênero épico, com a narrativa do naufrágio de Sepúlveda.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3794' = “ser persistente, recusar-se a parar”
+{continuar: A guerra entre quadrilhas rivais das favelas no Rio [continua.,
+	 perseverar: Quem não I]persevera nas pequenas tarefas, falhará nos grandes planos.,
+	 persistir: O trabalho infantil predomina em regiões miseráveis, onde [persiste o costume de saldar dívidas e deveres sociais e religiosos entregando-se filhos.,
+	 prosseguir: Após Camões, Corte Real [prossegue com o gênero épico, com a narrativa do naufrágio de Sepúlveda.}
+Chave: PERSISTIR  <verb.change>
+ILI: 00339293
+
+Sense 2 
+{00339293} <verb.change> persevere, persist1, hang in, hang on, hold on -- (be persistent, refuse to stop; "he persisted to call me every night"; "The child persisted and kept asking questions")
+       => {02599119} <verb.stative> continue, uphold, carry on, bear on1, preserve -- (keep or maintain in unaltered condition; cause to remain or last; "preserve the peace in the family"; "continue the family tradition"; "Carry on the old traditions")
+           => {02600965} <verb.stative> keep, maintain, hold -- (keep in a certain state, position, or activity; e.g., "keep clean"; "hold in place"; "She always held herself as a lady"; "The students keep me on my toes")

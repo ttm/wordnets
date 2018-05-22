@@ -1,0 +1,37 @@
+ANÁLISE DA GLOSA1747
+
+DADO O SYNSET:
+
+S='Glosa1747'
+{desassombrar: Podou os arbustos para A]desassombrar a varanda.  ,
+ descobrir: Foi quando o céu I]descobriu-se das nuvens e da névoa, a lua ressurgiu no céu, ea festa na aldeia foi muito grande. ,
+ desenfuscar: x,
+ desenlutar: As nuvens H]desenlutaram-se.,
+ desensombrar: H]Desensombraram a rua, podando as árvores.,
+ desobscurecer: O dia H]desobscureceu repentinamente.,
+ desobumbrar: M]Desobumbrar o jardim.,
+ desofuscar: A luz do Sol A]desofuscou os salões sombrios.,}
+	  
+A='Glosa3584'
+{assombrar, assombrear, eclipsar, empecer, encobrir, enegrecer, enfuscar, enlutar, enoitecer, ensombrar, ensombrecer, entenebrecer, entrevar2, enturbar, enturvar, escurentar, obnubilar, obscurecer, obumbrar, ofuscar, sombrear, sombrejar, toldar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1747' = “livrar de confusão ou ambiguidade; tornar claro”
+{desassombrar: Esta revolução I]desassombrava o Brasil pela iluminação das ruas.,
+ descobrir: Só você pode libertar-se da escuridão, I]descobrir as sombras que o atormentam e deixar que a luminosidade entre para sempre em sua vida e clareie suavemente.,
+ desobscurecer: Está aí a chance de uma publicação I]desobscurecer esse nebuloso caminho.}
+	  
+A='Glosa3584'
+{assombrar, assombrear, eclipsar, empecer, encobrir, enegrecer, enfuscar, enlutar, enoitecer, ensombrar, ensombrecer, entenebrecer, entrevar2, enturbar, enturvar, escurentar, obnubilar, obscurecer, obumbrar, ofuscar, sombrear, sombrejar, toldar}
+Chave: DESOBSCURECER <verb.cognition>
+ILI: 00600953
+
+Sense 1
+{00600953} <verb.cognition> clear, clear up, shed light on, crystallize, crystallise, crystalize, crystalise, straighten out, sort out1, enlighten, illuminate, elucidate -- (make free from confusion or ambiguity; make clear; "Could you clarify these remarks?"; "Clear up the question of who is at fault")
+       => {00908946} <verb.communication> clarify, clear up, elucidate -- (make clear and (more) comprehensible; "clarify the mystery surrounding her death")
+           => {00908384} <verb.communication> explain, explicate -- (make palin and comprehensible; "He explained the laws of physics to his students")
+               => {00804489} <verb.communication> inform -- (impart knowledge of some fact, state or affairs, or event to; "I informed him of his rights")
+                   => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                       => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                           => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

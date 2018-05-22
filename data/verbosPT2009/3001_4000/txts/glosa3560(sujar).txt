@@ -1,0 +1,38 @@
+ANÁLISE DA GLOSA3560
+
+DADO O SYNSET:
+
+S='Glosa3560'
+	    {
+	      borrar: O funcionário me besuntou os dedos com uma tinta malcheirosa, [borrou uns papéis com meus borrados dedos e mandou-me embora. ,
+	      conspurcar: Não deve lançar no solo quaisquer desperdícios, restos, lixo, ou outros materiais susceptíveis de sujar ou I]conspurcar a via pública.,
+	      emporcar: I]Emporcam tudo aquilo em que tocam.,
+	      enodoar: I]Enodoar o papel com o borrão. ,
+	      ensaburrar: x,
+	      ferretar: x,
+	      inquinar: A criação de um matadouro junto à estância termal está a I]inquinar o ambiente. ,
+	      macular: Ambulantes [maculam a paisagem. /  Terra, leite e farelo são exemplos de substâncias que podem I]macular o estofado.,
+	      manchar: Não é aconselhável utilizar querosene e sabão em pó ao lavar, que podem [manchar a pintura. ,
+	      nodoar: Um rebanho de cabras espantadas corriam berrando furiosamente pelo campo, aqui uma barraca, aí um capote, além de um cobertor I]nodoando de vermelho o solo já manchado de sangue.,
+	      sujar: Para não [sujar as mãos, a maioria trabalha de luva. / Dá para [sujar os meninos de batom?,
+	      tisnar: Para ficar mais enfeitada usa ao pescoço um colar de bugalhos, onde traz pendurada uma cruz de cortiça queimada, para I]tisnar a cara das pessoas mais avarentas.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3560' = “tornar manchado, sujo ou imundo”
+	     {borrar: O funcionário me besuntou os dedos com uma tinta malcheirosa, [borrou uns papéis com meus borrados dedos e mandou-me embora. ,
+	      conspurcar: Não deve lançar no solo quaisquer desperdícios, restos, lixo, ou outros materiais susceptíveis de sujar ou I]conspurcar a via pública.,
+	      emporcar: I]Emporcam tudo aquilo em que tocam.,
+	      enodoar: I]Enodoar o papel com o borrão. ,
+	      macular: O vinho respingou I]maculando o branco da toalha./Terra, leite e farelo são exemplos de substâncias que podem I]macular o estofado.,
+	      manchar: Elis I]manchou o vestido branco de organdi que a mãe confeccionara. ,
+	      nodoar: Um rebanho de cabras espantadas corriam berrando furiosamente pelo campo, aqui uma barraca, aí um capote, além de um cobertor I]nodoando de vermelho o solo já manchado de sangue.,
+	      sujar: Uma mancha de sangue que descia do nariz e [sujava o casaco denunciava sua morte. / Jantou sem lavar as mãos, I]sujou a toalha da mesa, de propósito, e lambuzou a cara com o leite condensado, 
+	      tisnar: H]tisnou-se de tinta.,}
+Chave: SUJAR <verb.contact>
+ILI: 01491650
+
+Sense 1
+{01491650} <verb.contact> dirty, soil, begrime, grime, colly, bemire -- (make soiled, filthy, or dirty; "don't soil your clothes when you play outside!")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

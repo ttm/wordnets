@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA0105
+
+DADO O SYNSET:
+
+S='Glosa105'
+{arrepiar: No íntimo, porém, o pavor a I]arrepiava.,
+arrupiar: x,
+estremecer: Pojucã [estremecia quando se lembrava que podia ser condenado a tão grande humilhação.,
+horripilar: Acabaram nos museus que tanto os [horripilavam.,
+horrorizar: Não era a idéia da morte e sim da pena eterna que segundo uma crença religiosa, sofrem as almas cujos corpos ficam insepultos, o que mais o [horrorizava.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa105' = “fazer sentir horror, surpreender(-se) desagradávelmente”
+{arrepiar: No íntimo, porém, o pavor a I]arrepiava.,
+estremecer: Das revivências do passado, o homem medieval também I]estremecia a alma frente ao desconhecido.,
+horripilar: Acabaram nos museus que tanto os [horripilavam.,
+horrorizar: Não era a idéia da morte e sim da pena eterna que segundo uma crença religiosa, sofrem as almas cujos corpos ficam insepultos, o que mais o [horrorizava.,}
+Chave: HORRORIZAR <verb.emotion>
+ILI: 01730919
+
+Sense 1
+{01730919} <verb.emotion> dismay, alarm, appal1, appall10, horrify1 -- (fill with apprehension or alarm; cause to be unpleasantly surprised; "I was horrified at the thought of being late for my interview"; "The news of the executions horrified us")
+       => {01727523} <verb.emotion> frighten, fright, scare, affright -- (cause fear in; "The stranger who hangs around the building frightens me")
+           => {01710864} <verb.emotion> stimulate, shake, shake up, excite, stir1 -- (stir the feelings, emotions, or peace of; "These stories shook the community"; "the civil war shook the country")
+               => {01708538} <verb.emotion> arouse, elicit, enkindle, kindle, evoke, fire, raise8, provoke -- (call forth (emotions, feelings, and responses); "arouse pity"; "raise a smile"; "evoke sympathy")
+                   => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

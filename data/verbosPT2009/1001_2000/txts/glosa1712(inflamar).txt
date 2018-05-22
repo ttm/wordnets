@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA1712
+
+DADO O SYNSET:
+
+S='Glosa1712'
+{afleumar: Com a pancada, o dedo M]afleumara.,
+ afuleimar: Afalta de higiene acabou H]afuleimando o furúnculo.,
+ inchar: A ferida na perna direita voltou a [inchar e a sangrar.,
+ inflamar: Sua ferida na perna voltou a [inflamar.,}
+	  
+A='Glosa1120'
+{desagravar, desinchar, desinflamar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1712' = “ficar inflamado"
+{inchar: A ferida na perna direita voltou a [inchar e a sangrar.,
+ inflamar: Sua ferida na perna voltou a [inflamar,}
+	  
+A='Glosa1120'
+{desagravar, desinchar, desinflamar}
+Chave: INFLAMAR <verb.body>
+ILI: 00061512
+
+Sense 5
+{00061512} <verb.body> inflame -- (become inflamed; get sore; "His throat inflamed")
+       => {00196646} <verb.change> worsen, decline1 -- (grow worse; "Conditions in the slum worsened")
+           => {00140715} <verb.change> change state, turn4 -- (undergo a transformation or a change of position or action; "We turned from Socialism to Capitalism"; "The people turned against the President when he stole the election")
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

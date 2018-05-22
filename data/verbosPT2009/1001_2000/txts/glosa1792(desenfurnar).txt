@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA1792
+
+DADO O SYNSET:
+
+S='Glosa1792'
+{desencovilar: M]Desencovilar feras. # Os fugitivos H]desencovilaram-se ao anoitecer.,
+ desenfurnar: E fala para o Ricardo que quando eu chegar e ele I]desenfurnar daquele quarto a gente vai ter uma conversa bem séria.,
+ desentocar: A Carol veio falar comigo, falou pra mim I]desentocar um pouco de casa, que ela nem me via mais.,
+ destocar1: Tínhamos um policiamento muito bom: ROTA, entrava nos piores locais de São Paulo, de onde I]destocava toda espécie de marginais.,}
+
+A='Glosa1816'
+{encafuar, encafurnar, encavernar, enfurnar, entocar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1792' = “retirar dum lugar [como o] subterrâneo/fechado”
+{desenfurnar: Seria melhor I]desenfurnar meu velho monitor Samsung 750P e colocá-lo ao lado do atual Samsung 795MB, além de usar minha tela plana de 29 Philips?.,
+ desentocar: Bombardeios caolhos mataram civis e não I]desentocaram o suposto terrorista Osama bin Laden.,
+ destocar1: Enquanto a brigada quebra-telhas vai I]destocando larvas de mosquitos na previsão do futuro ataque epidêmico da febre amarela, a peste bubônica continua a sua obra de devastação.,}
+
+A='Glosa1816'
+{encafuar, encafurnar, encavernar, enfurnar, entocar}
+Chave: DESENFURNAR <verb.change>
+ILI: EQ_HAS_HYPERONYM - 00411533 - “aparecer ou tornar-se visível”
+
+Sense 1
+{00411533} <verb.change> come on1, come out, turn up, surface, show up -- (appear or become visible; make a showing; "She turned up at the funeral"; "I hope the list key is going to surface again")
+       => {00409939} <verb.change> appear -- (come into sight or view; "He suddenly appeared at the wedding"; "A new star appeared on the horizon")

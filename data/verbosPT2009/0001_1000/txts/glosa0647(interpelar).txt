@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0647
+
+DADO O SYNSET:
+
+S='Glosa647'
+{apostrofar: O outro perdeu a paciência, exaltou-se e [apostrofou contra ela e contra os que a exerciam, com palavras tão duras e tão sinceras, que o negociante se calou, meio enfiado. ,
+interpelar: Ele acha que a representação contra Hebe deve ser suspensa, mas mantém a intenção de [interpelar a apresentadora. ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa647' = “fazer uma pergunta; questionar sobre algo”
+{interpelar: Ele acha que a representação contra Hebe deve ser suspensa, mas mantém a intenção de [interpelar a apresentadora. ,}
+Chave: INTERPELAR <verb.communication>
+ILI: 00759271
+
+Sense 1
+{00759271} <verb.communication> question, query -- (pose a question)
+       => {00868100} <verb.communication> ask4 -- (address a question to and expect an answer from; "Ask your teacher about trigonometry"; "The children asked me about their dead grandmother")
+           => {00867918} <verb.communication> address, turn to1 -- (speak to; "He addressed the crowd outside the window")
+               => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                   => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                       => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

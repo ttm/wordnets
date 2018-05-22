@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA1507
+
+DADO O SYNSET:
+
+S='Glosa1507'
+{catar: Sentadas ao sol, as índias A]catavam os filhos.  ,
+ despiolhar: Quem podia pagar ficava refestelado em sua cadeira, enquanto a espiolhadeira "despiolhava" a cabeça da patroa. ,
+ espiolhar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1507' = “livrar de piolhos”
+{catar: Em pouco tempo o menino vai disfarçar tudo o que deve a sua mãe, que durante anos passou manteiga em seu pão e I]catou piolhos de seus cabelos.,
+ despiolhar: Havia dois tipos de câmaras de gás em Auschwitz: aquelas usadas para I]despiolhar roupas ("câmaras de gás para despiolhamento") e aquelas usadas para matar pessoas em larga escala.,}
+Chave: DESPIOLHAR <verb.change>
+ILI: 00517060
+
+Sense 1
+{00517060} <verb.change> delouse -- (free of lice; "They deloused the prisoners after they liberated the camps")
+       => {00166870} <verb.change> remove, take, take away1, withdraw1 -- (remove something concrete, as by lifting, pushing, taking off, etc. or remove something abstract; "remove a threat"; "remove a wrapper"; "Remove the dirty dishes from the table"; "take the gun from your pocket"; "This machine withdraws heat from the environment")

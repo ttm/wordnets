@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSAXXXX
+
+DADO O SYNSET:
+
+{parafrasear: Betto [parafraseia o prólogo do Evangelho de são Lucas para contar, não a vida de Jesus Cristo, mas seus passeios por países socialistas.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4135' = “expressar a mesma mensagem em palavras diferentes”
+{parafrasear: Betto [parafraseia o prólogo do Evangelho de são Lucas para contar, não a vida de Jesus Cristo, mas seus passeios por países socialistas.,}
+Chave: PARAFRASEAR <verb.communication>
+ILI: 00929813
+
+Sense 1
+{00929813} <verb.communication> paraphrase, rephrase, reword -- (express the same message in different words)
+       => {00926576} <verb.communication> repeat, reiterate, ingeminate, iterate, restate, retell -- (to say, state, or perform again; "She kept reiterating her request")
+           => {00920928} <verb.communication> tell -- (let something be known; "Tell them that you will be late")
+               => {00804489} <verb.communication> inform -- (impart knowledge of some fact, state or affairs, or event to; "I informed him of his rights")
+                   => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                       => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                           => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

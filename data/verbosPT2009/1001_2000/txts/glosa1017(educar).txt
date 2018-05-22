@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA1017
+
+DADO O SYNSET:
+
+S='Glosa1017'
+{criar: Não a [criara pra feira! ... mas, com um milhão de raios, desejava vê-la casada em sua companhia.,
+ educar: São um casal anos 90, que divide tarefas domésticas e a responsabilidade de [educar a Luiza.,
+ instruir: A novela é para divertir, [instruir e não para ensinar as crianças a bater, roubar, mentir e discriminar.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1017' = “dar educação [a]”
+{criar: Um político que [criou seus filhos com abertura e muitos livros para que cada um seguisse o caminho que preferisse.,
+ educar: Há de lembrar-se que, quando veio para minha companhia, era um bicho-do-mato; não sabia quase nada; fui eu que a [eduquei.,
+ instruir: Imigrantes I]instruíram seus filhos, deram-nos oportunidade de ascender socialmente e, no processo, também o fizeram.}
+Chave: EDUCAR <verb.social>
+ILI: 02315989 
+
+Sense 1
+{02315989} <verb.social> educate -- (give an education to; "We must educate our youngsters better")
+       => {00198579} <verb.change> better1, improve1, amend, ameliorate1, meliorate1 -- (to make better; "The editor improved the manuscript with his changes")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

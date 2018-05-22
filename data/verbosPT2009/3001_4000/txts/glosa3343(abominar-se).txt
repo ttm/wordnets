@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA3343
+
+DADO O SYNSET:
+
+S='Glosa3343'
+	    {
+	      abominar-se: Considerava-se, assim, um miserável, um criminoso, desprezava-se e I]abominava-se, indignado.,
+	      aborrecer-se: I]Aborrecia-se por não conseguir ganhar a sua confiança, favorecendo melhor comunicação entre ambos.,
+	      amaldiçoar-se: I]Amaldiçoava-se por ter aquelas orelhas pontudas. Queria ser normal, ser como todos lá fora.,
+	      detestar-se: Considerava-se, assim, um miserável, um criminoso, desprezava-se e abominava-se, indignado. E I]detestava-se por não ter cedido.,
+	      execrar-se: Arrependido, H]execrava-se pela torpeza de seu ato.,
+	      maldiçoar-se: x,
+	      odiar-se: Eu me I]odiava por não responder a esse tipo de injustiça.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3343' = “achar-se repugnante”
+	     {abominar-se: Considerava-se, assim, um miserável, um criminoso, desprezava-se e I]abominava-se, indignado.,
+	      aborrecer-se: I]Aborrecia-se por não conseguir ganhar a sua confiança, favorecendo melhor comunicação entre ambos.,
+	      amaldiçoar-se: I]Amaldiçoava-se por ter aquelas orelhas pontudas. Queria ser normal, ser como todos lá fora.,
+	      detestar-se: Considerava-se, assim, um miserável, um criminoso, desprezava-se e abominava-se, indignado. E I]detestava-se por não ter cedido.,
+	      execrar-se: Arrependido, H]execrava-se pela torpeza de seu ato.,
+	      odiar-se: Aurélio Agostinho I]odiava-se por não ser suficientemente miserável, achando que isso é que agrada a Deus.,}
+Chave: ABOMINAR-SE
+ILI: EQ_NEAR_SYNONYM - 01723090
+
+Sense 1
+{01723090} <verb.emotion> abhor, loathe, abominate, execrate -- (find repugnant; "I loathe that man"; "She abhors cats")
+       => {01722800} <verb.emotion> hate, detest -- (dislike intensely; feel antipathy or aversion towards; "I hate Mexican food"; "She detests politicians")
+           => {01725265} <verb.emotion> dislike -- (have or feel a dislike or distaste for; "I really dislike this salesman")

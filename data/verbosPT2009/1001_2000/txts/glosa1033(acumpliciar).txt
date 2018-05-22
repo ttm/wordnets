@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA1033
+
+DADO O SYNSET:
+
+S='Glosa1033'
+{acumpliciar: Ao apoiar e I]acumpliciar assassinatos, o regime de Talibã está também cometendo o assassinato.,
+ cumpliciar: E pensei: isso que eu chamei de pedaladas, nada mais foi do que viver também no e com o outro; projetar, I]cumpliciar; um saber comum, mesmo no meio da multidão,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1033' = “agir como cúmplice”
+{acumpliciar: Ao apoiar e I]acumpliciar assassinatos, o regime de Talibã está também cometendo o assassinato.,
+ cumpliciar: A razão cínica I]cumplicia a omissão.,}
+Chave: ACUMPLICIAR <verb.creation>
+ILI: 01671451 
+
+Sense 2
+{01671451} <verb.creation> stooge -- (act as the stooge; "His role was to stooge for the popular comedian")
+       => {01670899} <verb.creation> act3, play10, roleplay, playact -- (perform on a stage or theater; "She acts in this play"; "He acted in `Julius Caesar'"; "I played in `A Christmas Carol'")
+           => {01665285} <verb.creation> perform1 -- (give a performance (of something); "Horowitz is performing at Carnegie Hall tonight"; "We performed a popular Gilbert and Sullivan opera")
+               => {01573613} <verb.creation> re-create -- (create anew; "Re-create the boom of the West on a small scale")
+                   => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

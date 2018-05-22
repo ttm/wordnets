@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA1709
+
+DADO O SYNSET:
+
+S='Glosa1709'
+{avexar-se: Maria, deixa disso de I]avexar-se! ,
+ confundir-se: Procurou A]confundi-lo com palavras rudes.  ,
+ corar-se: O meu amigo Manuel Pedro há-de I]corar-se se  por acaso chegar a ler este texto, e essa é uma boa razão para que não continue a escrever.,
+ encabular: Cássia fala grosso e, no palco, já fez gestos de [encabular Jece Valadão.,
+ encafifar-se: x,
+ envergonhar-se: Diogo da Silveira I]envergonhou-se pelo seu compatriota da infame cumplicidade de que ele dera provas.,
+ pejar-se: E quantos fidalgos havia que não se A]pejavam de casar com mulheres que tinham sido barregãs de outros!,
+ perturbar-se: A]Perturbou-se ante a presença da mulher. # Chris, I]perturbou-se ao ver como os torcedores da equipe protestavam quando o jogo foi cancelado.,
+ vexar-se: Cassi I]vexava-se de não suportar a leitura; comparando o desembaraço com que os fregueses pediam bebidas variadas e esquisitas, lembrava-se que nem mesmo o nome delas sabia pronunciar.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1709' = “ficar com vergonha”
+{avexar-se: Está aí a força de Lula, que não se I]avexa em posar de defensor dos oprimidos contra a elite malvada.,
+ corar: Mas os técnicos da Fazenda, no afã de bloquear qualquer reajuste salarial para os servidores, não [coram ao dizer que tanto faz pagar um salário no dia 15 como no dia 30, mesmo com as brutais taxas inflacionárias dos últimos meses.,
+ corar-se: Deve ser por isso que Lula não raspa sua barba, para que não vejamos que se I]corou de vergonha ao fazer um incitamento ao crime.,
+ encabular-se: Cláudia Raia estava com o marido Edson Celulari, mas nem por isso se I]encabulou em dar um selinho em Sílvio.,
+ envergonhar-se: O presidente da escola - cujo desfile está orçado em R$ 3 milhões -, Marcos da Silva, não se [envergonha em falar sobre o assunto.,
+ pejar-se: Veja que o bispo não se [pejou em tentar o suicídio para se impor em nome de Deus
+ perturbar-se: César I]perturba-se com tanta beleza.,
+ vexar-se: Enfim, se a velhice chega, e eles não se [vexam dos cabelos brancos, tomam conta do mundo.,}
+Chave: ENVERGONHAR-SE <verb.body>
+ILI: EQ_HAS_HYPERONYM – 00100542 – “ficar vermelho, como de embaraço ou vergonha”
+
+Sense 1
+{00100542} <verb.body> blush, crimson, flush, redden -- (turn red, as if in embarrassment or shame; "The girl blushed when a young man whistled as she walked by")
+       => {00272185} <verb.change> discolor, discolour, colour, color1 -- (change color, often in an undesired manner; "The shirts discolored")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

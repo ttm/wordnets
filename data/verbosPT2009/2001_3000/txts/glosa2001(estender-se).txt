@@ -1,0 +1,39 @@
+ANÁLISE DA GLOSA2001
+
+DADO O SYNSET:
+
+S='Glosa2001'
+    	{alargar-se: O período das festas I]alargou-se até à Epifania, ou seja vai desde 25 de Dezembro até 6 de Janeiro. ,
+      	 alongar-se: A história de luta I]alongou-se até 1914, quando os zapatistas ratificam o Plano de Ayala no quartel de Oztotepec.,
+      	 ampliar-se: No Programa Agrícola, aumentou-se a participação em 10%, passando ele a financiar 80% nas regiões mais desenvolvidas e 90% nas menos desenvolvidas, e I]ampliou-se de cinco para sete anos o prazo máximo do programa.,
+      	 amplificar-se: x,
+      	 aumentar-se: I]Aumentou-se a pena com reclusão, de dois a cinco anos, se o fato não constitui crime mais grave. ,
+      	 dilatar-se: A Lei das XII Tábuas já preconizava sua existência na determinação dos prazos para tal aquisição: 2 anos para os imóveis e 1 ano para os móveis. Com o passar do tempo, esse prazo I]dilatou-se passando de 10 anos para bens imóveis.,
+      	 espaçar-se: x,
+      	 espacejar-se: x,
+      	 estender-se: Com a expansão do reino Magadha, o rei Asoka, cujo reinado [estendeu-se entre o período de 275 a 236 a.C., onverteu-se ao budismo e foi responsável pela ampla divulgação da religião em seus domínios.,
+      	 prolongar-se: Esta situação I]prorrogou-se até 0:30h, quando nos abrigamos na varanda de uma escola local. ,
+      	 prorrogar-se: Em 1875 o governo inglês comprou as ações do Canal de Suez e em 1882 chegaram a bombardear Alexandria em reação aos movimentos nacionalistas e de militares contra os interesses estrangeiros. Esse domínio I]prorrogou-se até 1922, quando o Egito tornou-se independente.,
+      	 protrair-se: A busca da segunda instância administrativa, por isso, passa a ser uma grande vantagem para os sonegadores e contribuintes recalcitrantes, pois, na pior das hipóteses, I]protrair-se-á, por anos, a cobrança final de um crédito tributário.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2001' = “ficar mais longo”
+    	{alargar-se: Psicólogos informam que o prazo de validade da adolescência envelheceu, I]alargando-se até os 32 anos.,
+      	 alongar-se: A Guerra Fria I]alongou-se em ritmo telenovelesco.,
+      	 ampliar-se: Não só I]ampliou-se o prazo para propositura dos embargos, como também deve ser oferecido independentemente de penhora, sob pena de preclusão.,
+      	 aumentar-se: Ocorrendo a guerra ou sendo desencadeados os atos de hostilidade, a pena I]aumenta-se até o dobro.,
+      	 dilatar-se: Esse novo processo histórico se I]dilatou e se arrasta.,
+ estender-se: Esse assunto vai I]estender-se por muito tempo.,
+      	 prolongar-se: Como a MP fala em até 360 dias para a implantação do Real, a negociação pode se [prolongar indefinidamente.,
+      	 prorrogar-se: Se o prazo chega ao fim e o proprietário não se manifesta, o contrato se [prorroga automaticamente, por prazo indeterminado.,
+      	 protrair-se: O momento consumativo se [protrai no tempo.}
+Chave: ESTENDER-SE <verb.change>
+ILI: 00306687
+
+Sense 2
+{00306687} <verb.change> lengthen -- (become long or longer; "In Spring, the days lengthen")
+       => {00223119} <verb.change> grow -- (become larger, greater, or bigger; expand or gain; "The problem grew too large for me"; "Her business grew fast")
+           => {00150804} <verb.change> increase -- (become bigger or greater in amount; "The amount of work increased")
+               => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

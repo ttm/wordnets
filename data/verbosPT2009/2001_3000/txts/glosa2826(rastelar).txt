@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA2826
+
+DADO O SYNSET:
+
+S='Glosa2826'
+	    {limpar: Quando o garoto terminou de I]limpar o jardim, solicitou ao executivo a permissão para utilizar o telefone, no que foi prontamente atendido.,
+	      rastelar: I]Rastelar e varrer são operações que protegem o gramado contra pragas e ressecamento causado por fertilizantes.,
+	      restelar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2826' = “Remover ervas daninhas”
+	    {limpar: Quando o garoto terminou de I]limpar o jardim, solicitou ao executivo a permissão para utilizar o telefone, no que foi prontamente atendido.,
+	      rastelar: I]Rastelar e varrer são operações que protegem o gramado contra pragas e ressecamento causado por fertilizantes.,}
+Chave: RASTELAR <verb.change>
+ILI: 00303358
+
+Sense 1
+{00303358} <verb.change> weed -- (clear of weeds; "weed the garden")
+       => {00166870} <verb.change> remove, take, take away1, withdraw1 -- (remove something concrete, as by lifting, pushing, taking off, etc. or remove something abstract; "remove a threat"; "remove a wrapper"; "Remove the dirty dishes from the table"; "take the gun from your pocket"; "This machine withdraws heat from the environment") 

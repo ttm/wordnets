@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA3506
+
+DADO O SYNSET:
+
+S='Glosa3506'
+	    {
+	      monitorar: Diversos softwares vem sendo desenvolvidos para [monitorar e estimar a evolução de baías, mares, lagos ou mesmo grandes bacias hidrográficas/Esse satélite levou aparelhos científicos russos, alemães e checos para ]monitorarem raios ultravioleta e raios-X,
+	      monitorizar: É necessário propor os problemas fazendo diferentes tipos de solicitação e [monitorizar seus efeitos variáveis/EUA vai ]monitorizar a Internet,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3506' = “não perder de vista; ficar de olho; manter sob vigilância”
+	     {monitorar: Diversos softwares vem sendo desenvolvidos para [monitorar e estimar a evolução de baías, mares, lagos ou mesmo grandes bacias hidrográficas/O grupo de trabalho de engenharia de redes [monitora o tráfego diariamente e há várias iniciativas para impedir que o gargalo aconteça,
+	      monitorizar: É necessário propor os problemas fazendo diferentes tipos de solicitação e [monitorizar seus efeitos variáveis/Ele I]monitoriza a instalação de programas por infra-vermelho ou sincronização e desinstala o pacote todo com um só clique,}
+Chave: MONITORAR <verb.perception>
+ILI: 02101646
+
+Sense 1
+{02101646} <verb.perception> monitor, supervise, ride herd on -- (keep tabs on; keep an eye on; keep under surveillance)
+       => {02107130} <verb.perception> observe -- (watch attentively; "Please observe the reaction of these two chemicals")
+           => {02088598} <verb.perception> watch -- (look attentively; "watch a basketball game")

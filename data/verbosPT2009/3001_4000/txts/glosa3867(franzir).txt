@@ -1,0 +1,52 @@
+ANÁLISE DA GLOSA3867
+
+DADO O SYNSET:
+
+S='Glosa3867'
+{ababadar: Ela H]ababadou a cortina com as mãos ,
+ arrepanhar: As damas, finamente envolvidas nas ondas dos seus pufes, subiam, [arrepanhando a cauda, aos salões do baile, pelo braço de homens sérios de casaca . ,
+ avincar: a mobilidade do globo visual para o revirar ao céu, quando o ânimo afecta confrangir-se com a notícia dum escândalo; franzir os beiços e [avincar a testa,
+ corrugar: O modelo [corrugoso amortece grandes impactos .,
+ crispar: O milharal H]crispava-se todo sob a tempestade,
+ dobrar: x,
+ embabadar: DEVIANT,
+ encrespar: Esses produtos, mais conhecidos por straight, agem, sobretudo, no cabelo das têmporas que, mais finos, tendem a I]encrespar com facilidade.,
+ engelhar: O tempo H]engelha a pele.,
+ enrugar: Atualmente, usa-se calças com comprimento um dedo acima do salto, para não I]enrugar na frente, formando duas e até três dobras sobre os sapatos.,
+ franger: x,
+ frangir: o Startle ocorre em aproximadamente 50% dos bebês, devendo, também, ocorrer as respostas de atenção ao som (I]frangir testa, arregalar olhos ... ,
+ franzir: Jogando com os valores desses parâmetros, pode-se fazer, por exemplo, puxar os lábios para trás, simulando felicidade, enrugar a testa para simular raiva, [franzir o nariz para simular nojo e assim por diante .,
+ plicar: x,
+ pregar2: M]Pregar as mangas em um paletó.,
+ preguear: Sempre I]pregueava um vestido. ,
+ repanhar: x,
+ rugar: Álvaro vendo-o aproximar-se [rugou o sobrolho; depois do que se tinha passado na véspera e nessa manhã, odiava aquele homem ou antes, desprezava-o . ,
+ vincar: Os longos anos vividos M] vincaram o rosto da baronesa.,}
+	  
+A='Glosa1515'
+{alisar, desenrugar, desfranzir, deslisar, despregar2, desrugar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3867' = “dobrar [algo] formando franzidos”
+{arrepanhar: A bela morena fez caras e bocas, deu pulinhos de aflição, I]arrepanhou os cabelos, recebeu o apoio da galera, mas acabou confessando sem essa nem mais aquela que não conhecia o Kid Morengueira.,
+ avincar: a mobilidade do globo visual para o revirar ao céu, quando o ânimo afecta confrangir-se com a notícia dum escândalo; franzir os beiços e [avincar a testa,
+ corrugar: A ondulação da folha central é obtida amolecendo o papel com vapor d'água e I]corrugando-o sobre um cilindro provido de ranhuras.,
+ crispar: De maneira bem traiçoeira, as preocupações I]crispam nossos músculos até mesmo durante o sono, período em que deveríamos estar prazerosamente relaxados.,
+ encrespar: O pobre bicho I]encrespou as penas da nuca.,
+ enrugar: Atualmente, usa-se calças com comprimento um dedo acima do salto, para não I]enrugar na frente, formando duas e até três dobras sobre os sapatos.,
+engelhar: Os anos I]engelham a pele, quem renuncia ao entusiasmo engelha a alma.,
+ franzir: Jaqueline de Biasi I]franziu calcinhas floridas num efeito muito feminino e fez um top de uma alça só que promete ser um dos hits do verão.,
+ preguear: Ela fez um balangandã para a melhor camisa dele, e lavou e I]pregueou isto com as próprias mãos dela.,
+ vincar: Tem uma regra que se você pega uma nota e vinca, ela perde 50% do valor. Você I]vincou a nota, ela perde 50.}
+	  
+A='Glosa1515'
+{alisar, desenrugar, desfranzir, deslisar, despregar2, desrugar}
+Chave: FRANZIR <verb.contact>
+ILI: 01347036
+
+Sense 9
+{01347036} <verb.contact> ruffle, pleat -- (pleat or gather into a ruffle; "ruffle the curtain fabric")
+       => {01239868} <verb.contact> fold, fold up, turn up -- (bend or lay so that one part covers the other; "fold up the newspaper"; "turn up your collar")
+           => {00345030} <verb.change> change surface -- (undergo or cause to undergo a change in the surface)
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

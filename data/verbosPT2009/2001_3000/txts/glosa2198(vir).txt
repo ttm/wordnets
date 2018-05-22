@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA2198
+
+DADO O SYNSET:
+
+S='Glosa2198'
+	    {estar: Tomé I]esteve aqui.,
+	      vir: A gente já I]veio aqui várias vezes!,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2198' = “mover em direção a alguém ou alguma coisa”
+	    {estar: Tomé I]esteve aqui.,
+	      vir: A gente já I]veio aqui várias vezes!,}
+
+Chave: VIR <verb.motion>
+ILI: 01795677
+
+Sense 1
+{01795677} <verb.motion> come, come up2 -- (move toward, travel toward something or somebody or approach something or somebody; "He came singing down the road"; "Come with me to the Casbah"; "come down here!"; "come out of the closet!"; "come into the room")
+       => {01782203} <verb.motion> travel, go, move3, locomote -- (change location; move, travel, or proceed; "How fast does your new car go?"; "We travelled from Rome to Naples by bus"; "The policemen went from door to door looking for the suspect"; "The soldiers moved towards the city in an attempt to take it before night fell")
+          Also See-> {02636434} <verb.stative> come with#1; {02449033} <verb.social> come through#4; {02587221} <verb.stative> come in#3; {02541974} <verb.stative> come through#3; {01912527} <verb.motion> come up#10; {01932338} <verb.motion> come up1#4

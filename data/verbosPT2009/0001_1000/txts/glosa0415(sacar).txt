@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA0415
+
+DADO O SYNSET:
+
+S='Glosa415'
+{arrancar: O mano Américo, trêmulo e agitado, [arrancou do bolso uma dúzia de letras aceitas por mim e que ele acabava de resgatar, pagando o principal e prêmios ao meu honradíssimo banqueiro.,
+puxar: Foi quando o homem [puxou uma arma, seguido por outro que estava escondido, e rendeu o motorista e sua mulher. ,
+sacar: Seu primeiro movimento após prender entre os lábios a palha de milho, [sacar o rolete de fumo e disparar a cusparada d' esguicho.,
+tirar: Aplicou o ouvido para certificar-se; e por segurança [tirou o seu punhal e colocou-se no centro da porta, para impedir a saída de quem quer que fosse.,}
+A='Glosa3932'
+{botar1, colocar, depor, depositar, meter, pôr, postar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa415' = “tirar algo para fora, à força e repentinamente, de algum recipiente ou que esteja coberto, guardado (bolso)” 
+{arrancar: O mano Américo, trêmulo e agitado, [arrancou do bolso uma dúzia de letras aceitas por mim e que ele acabava de resgatar, pagando o principal e prêmios ao meu honradíssimo banqueiro.,
+puxar: Foi quando o homem [puxou uma arma, seguido por outro que estava escondido, e rendeu o motorista e sua mulher. ,
+sacar: Seu primeiro movimento após prender entre os lábios a palha de milho, [sacar o rolete de fumo e disparar a cusparada d' esguicho.,
+tirar: Aplicou o ouvido para certificar-se; e por segurança [tirou o seu punhal e colocou-se no centro da porta, para impedir a saída de quem quer que fosse.,}
+A='Glosa3932'
+{botar1, colocar, depor, depositar, meter, pôr, postar}
+Chave: SACAR <verb.motion>
+ILI: 01937125
+
+Sense 9
+{01937125} <verb.motion> draw1, pull3, pull out3, get out2, take out10 -- (bring, take, or pull out of a container or from under a cover; "draw a weapon"; "pull out a gun"; "The mugger pulled a knife on his victim")
+       => {00166870} <verb.change> remove, take, take away1, withdraw1 -- (remove something concrete, as by lifting, pushing, taking off, etc. or remove something abstract; "remove a threat"; "remove a wrapper"; "Remove the dirty dishes from the table"; "take the gun from your pocket"; "This machine withdraws heat from the environment")

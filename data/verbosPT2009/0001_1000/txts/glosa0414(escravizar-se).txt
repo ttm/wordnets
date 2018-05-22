@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0414
+
+DADO O SYNSET:
+
+S='Glosa414'
+{escravizar-se: Por isso, [escravizaram-se os povos africanos, como se houvesse alguém que menos apreciasse ou não apreciasse a liberdade.,}
+A='Glosa2641'
+{aforrar-se, alforriar-se, emancipar-se, libertar-se, redimir-se, remir-se, resgatar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa414' = “fazer (-se) escravo; tornar (-se) servo”
+{escravizar-se: Por isso, [escravizaram-se os povos africanos, como se houvesse alguém que menos apreciasse ou não apreciasse a liberdade.,}
+A='Glosa2641'
+{aforrar-se, alforriar-se, emancipar-se, libertar-se, redimir-se, remir-se, resgatar-se}
+Chave: ESCRAVIZAR-SE <verb.social>
+ILI: 02422124
+
+Sense 1
+{02422124} <verb.social> enslave -- (make a slave of; bring into servitude)
+       => {02422244} <verb.social> subjugate, subject -- (make subservient; force to submit or subdue)
+           => {02464207} <verb.social> dominate, master -- (have dominance or the power to defeat over; "Her pain completely mastered her"; "The methods can master the problems")
+               => {02367626} <verb.social> control, command -- (exercise authoritative control or power over; "control the budget"; "Command the military forces")

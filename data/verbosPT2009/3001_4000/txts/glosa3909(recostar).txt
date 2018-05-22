@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA3909
+
+DADO O SYNSET:
+	
+S='Glosa3909'
+{deitar: O índio [deitou o corpo hirto sobre o chão sem fazer o menor rumor, e consumou a sua obra; todas as talhas do alpendre esvaziaram se a pouco e pouco e inundavam o chão .,
+ encostar: As poucas horas em que Raimundo [encostou a cabeça .,
+ pôr: Mal M]põe a cabeça no travesseiro, pega no sono.,
+ reclinar: O motorista pode, por exemplo, [reclinar um pouco o banco do carro, abrir os vidros e respirar fundo várias vezes», diz .,
+ recostar: Ela [recostou a cabeça ao meu ombro e eu senti uma lágrima cair sobre meu seio .,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3909' = “colocar numa posição horizontal”
+{deitar: O índio [deitou sua senhora no fundo da canoa.,
+ encostar: São também famosas as histórias de índios que [encostam a orelha no chão para ouvir o galope de cavalos suficientemente distantes para não serem vistos.,
+ pôr: Ele [põe os filhos e a mulher na lancha, veste a fantasia de Robinson Crusoé e se manda mar adentro, em busca de sossego.,
+ reclinar: Acontecia que nas reuniões sociais da época os rapazes costumavam [reclinar o rosto no colo das moças, antes pedindo-lhes permissão para fazê-lo.,
+ recostar: Ela [recostou a cabeça ao meu ombro e eu senti uma lágrima cair sobre meu seio.}
+Chave: RECOSTAR <verb.contact>
+ILI: 01501920
+
+Sense 5
+{01501920} <verb.contact> lay, put down, repose1 -- (put in a horizontal position; "lay the books on the table"; "lay the patient carefully onto the bed")
+       => {01452069} <verb.contact> put, set, place, pose2, position, lay1 -- (put into a certain place or abstract location; "Put your things here"; "Set the tray down"; "Set the dogs on the scent of the missing children"; "Place emphasis on a certain point")
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")
+          Also See-> {02584011} <verb.stative> repose on#1

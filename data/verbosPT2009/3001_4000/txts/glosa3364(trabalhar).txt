@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA3364
+
+DADO O SYNSET:
+
+S='Glosa3364'
+	{agir: Ele [agiu com correção e deu mais uma prova de que no Rio se faz justiça.,
+	 andar: Ele não H]andou bem naquele caso.,
+	 atuar1: Viaja credenciado pela Internacional Socialista para [atuar como observador das eleições presidenciais de amanhã . ,
+	 manobrar: O segredo de um bom líder é H]manobrar rapidamente.,
+	 obrar: A sua missão é [obrar pelo cumprimento da lei tributária vigente.,
+	 operar: Além disso, são instituições nacionais, e não do Rio, que devem [operar em escala nacional.,
+	 proceder: Perdoado e restabelecido em seus poderes, voltou a [proceder como antes e perseguiu Gregório VII de tal forma, que este teve de fugir de Roma e acabou morrendo no exílio. ,
+ trabalhar: Sobre o animal morto H]trabalhavam os agentes da decomposição.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3364' = “esforçar-se para fazer trabalho físico ou mental por um objetivo ou sem necessidade”
+	{agir: Ele [agiu com correção e deu mais uma prova de que no Rio se faz justiça.,
+	 andar: Ele não H]andou bem naquele caso.,
+	 atuar1: Viaja credenciado pela Internacional Socialista para [atuar como observador das eleições presidenciais de amanhã.,
+	 manobrar: O segredo de um bom líder é H]manobrar rapidamente.,
+	 obrar: A sua missão é [obrar pelo cumprimento da lei tributária vigente.,
+	 operar: Além disso, são instituições nacionais, e não do Rio, que devem [operar em escala nacional.,
+	 proceder: Perdoado e restabelecido em seus poderes, voltou a [proceder como antes e perseguiu Gregório VII de tal forma, que este teve de fugir de Roma e acabou morrendo no exílio.,
+ 	 trabalhar: Sobre o animal morto H]trabalhavam os agentes da decomposição.}
+Chave: TRABALHAR <verb.social>
+ILI: 02340529
+
+Sense 1 
+{02340529} <verb.social> work2 -- (exert oneself by doing mental or physical work for a purpose or out of necessity; "I will work hard to improve my grades"; "she worked hard for better living conditions for the poor")

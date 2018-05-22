@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA2315
+
+DADO O SYNSET:
+
+S='Glosa2315'
+	    {mudar-se: Queria seguir a carreira de ator, e não sabia [se mudar para Los Angeles era uma decisão correta.,
+	      transmigrar-se: A observação do gráfico nos conduz ao ano de 1808 em que a família real I]transmigrou-se para o Brasil.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2315' = “mudar de um país para outro e nele fixar residência.” 
+	    {mudar-se: Queria seguir a carreira de ator, e não sabia [se mudar para Los Angeles era uma decisão correta.,
+	      transmigrar-se: A observação do gráfico nos conduz ao ano de 1808 em que a família real I]transmigrou-se para o Brasil.,}
+
+Chave: TRANSMIGRAR-SE <verb.motion>
+ILI: 01802973
+
+Sense 2
+{01802973} <verb.motion> migrate, transmigrate -- (move from one country or region to another and settle there; "Many Germans migrated to South America in the mid-19th century"; "This tribe transmigrated many times over the centuries")
+       => {01801953} <verb.motion> move2 -- (change residence, affiliation, or place of employment; "We moved from Idaho to Nebraska"; "The basketball player moved from one team to another") 

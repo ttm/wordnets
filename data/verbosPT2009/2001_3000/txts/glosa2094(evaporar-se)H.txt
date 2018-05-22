@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA2094
+
+DADO O SYNSET:
+	
+S='Glosa2094'
+    	{aniquilar-se: Seu poder, posto que imenso, M]aniquilou-se.,
+      	 consumir-se: x,
+      	 dissipar-se: Toda a esperança I]dissipou-se.,
+      	 evaporar-se: Diante do peso dos conflitos que levariam à Guerra Mundial, I]evaporou-se repentinamente a sua fé. ,
+      	 evaporizar-se: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2094' = “desaparecer dissipando-se”
+    	{aniquilar-se: A filha não perdia a mania e cada vez mais se embrenhava o seu espírito naquela obsessão de casamento, alvo que fizeram ser da sua vida, a que não atingira, [aniquilando-se, porém, o seu espírito e a sua mocidade em pleno verdor.,
+      	 dissipar-se: FHC diz que seu temor se [dissipou dez dias depois.,
+      	 evaporar-se: Todo o estilo se esvanece, juntamente com o jogo de contrastes entre diferentes negros; o que era charme e chique [evapora-se; luxo e magia se dissolvem na mediocridade e no kitsch.}
+Chave: EVAPORAR-SE <verb.change>
+ILI: EQ_HAS_HYPERONYM – 00415222
+
+Sense 4
+{00415222} <verb.change> vanish2, disappear2 -- (cease to exist; "An entire civilization vanished")
+       => {02531897} <verb.stative> end, stop13, finish, terminate, cease13 -- (have an end, in a temporal, spatial, or quantitative sense; either spatial or metaphorical; "the bronchioles terminate in a capillary bed"; "Your rights stop where you infringe upon the rights of other"; "My property ends by the bushes"; "The symphony ends in a pianissimo") 

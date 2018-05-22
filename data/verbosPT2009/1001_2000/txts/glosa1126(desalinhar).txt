@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA1126
+
+DADO O SYNSET:
+
+S='Glosa1126'
+{desalinhar: Movimente o pulmão, inspire, levando o ar até sua base, projetando levemente o abdômen para a frente, cuidando para não I]desalinhar a coluna,
+ desenfileirar: I]Desenfileira cada elemento, percorrendo sua lista de vértices adjacentes,}
+	  
+A='Glosa3774'
+	    {alinhar, encarreirar, enfieirar, enfileirar, enrenquear, perfilar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1126' = “tirar de alinhamento ou da forma de fileira”
+{desalinhar: A coluna da direita I]desalinhou em alguns lugares.,
+ desenfileirar: A consulta na fila é feita I]desenfileirando elemento a elemento até encontrar o elemento desejado ou chegar ao final da fila.,}
+A='Glosa3774'
+	    {alinhar, encarreirar, enfieirar, enfileirar, enrenquear, perfilar}
+Chave: DESALINHAR <verb.change>
+ILI: 00453425
+
+Sense 1
+{00453425} <verb.change> skew -- (turn or place at an angle; "the lines on the sheet of paper are skewed")
+       => {00455696} <verb.change> reorient -- (set or arrange in a new or different determinate position; "Orient the house towards the South")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

@@ -1,0 +1,46 @@
+ANÁLISE DA GLOSA3935
+
+DADO O SYNSET:
+	
+S='Glosa3935'
+    	{clamar: Goske era seu filho único e ela clamava a Deus nosso senhor para testemunhar a inocência dele, e torcia as mãos [implorando-me para salvar o filho .,
+      	 conjurar: Já o povo selvagem colhe as redes na grande taba e caminha para o banho O velho Pajé que velou toda a noite, falando às estrelas, [conjurando os maus espíritos das trevas, entra furtivamente na cabana.,
+      	 deprecar: O nordestino M]depreca chuvas.,
+      	 exorar: M]Exora bênçãos celestes.,
+      	 impetrar: O padre resolve viajar por terra para o Rio, a fim de pessoalmente I]impetrar o perdão ao Imperador.,
+      	 implorar: Quando viu que sua derrota era irremediável foi [implorar pela ajuda dos ingleses .,
+      	 invitar: x,
+      	 invocar: Tudo - a cura de uma doença, a proteção contra um flagelo natural, a realização de um casamento, a localização de um objeto perdido, era motivo para [invocar os santos ou Nossa Senhora .,
+      	 obtestar: M]Obtestara os deuses.,
+      	 osecrar: DEVIANT,
+      	 pedir: Sem camisa, com quatro cortes profundos na cabeça, ele chorava e [pedia perdão .,
+      	 postular: M]Postula o perdão.,
+      	 rogar: Novamente teve que [rogar por notícias dos colegas brasileiros .,
+      	 suplicar: E nesse momento ele puxa a sua arma e aponta para mim, e antes que atirasse eu ainda consegui [suplicar.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3935' = “pedir por algo humildemente”
+    	{clamar: Goske era seu filho único e ela clamava a Deus nosso senhor para testemunhar a inocência dele, e torcia as mãos [implorando-me para salvar o filho.,
+      	 conjurar: B]Conjurei tanto o professor que ele adiou a prova.,
+      	 deprecar: Para I]deprecar justiça, para exigir o cumprimento da lei, não é imprescindivelmente necessário que se seja sábio como Nestor, ou rico como Creso: basta que se tenha independência e brio.,
+      	 exorar: O abandonado se voltou para o seu adversário militante, e lhe I]exorou o socorro que Deus com a sua inesgotável misericórdia nos ensina a não negar aos maiores culpados.,
+      	 impetrar: O padre resolve viajar por terra para o Rio, a fim de pessoalmente I]impetrar o perdão ao Imperador.,
+      	 implorar: Quando viu que sua derrota era irremediável foi [implorar pela ajuda dos ingleses.,
+      	 invocar: É com grande satisfação que [invocamos a proteção de Deus para esta nova moeda.,
+      	 pedir: Sem camisa, com quatro cortes profundos na cabeça, ele chorava e [pedia perdão.,
+      	 rogar: Frederico II, da Prússia, [rogava a Voltaire que se dignasse a visitá-lo.,
+      	 suplicar: Já posso ver a burguesia paulistana se debulhando em lágrimas quando Borges [suplica à Lemmertz que o salve daquela neurose de guerra.}
+Chave: SUPLICAR <verb.communication>
+ILI: 00733808
+
+Sense 1
+{00733808} <verb.communication> supplicate -- (ask humbly (for something); "He supplicated the King for clemency")
+       => {00734342} <verb.communication> beg, implore, pray1 -- (call upon in supplication; entreat; "I beg you to stop!")
+           => {00734574} <verb.communication> plead -- (appeal or request earnestly; "I pleaded with him to stop")
+               => {00730627} <verb.communication> appeal, invoke4 -- (request earnestly (something from somebody); ask for aid or protection; "appeal to somebody for help"; "Invoke God in times of trouble")
+                   => {00727992} <verb.communication> request1, bespeak, call for4, quest1 -- (express the need or desire for; ask for; "She requested an extra bed in her room"; "She called for room service")
+                       => {00717906} <verb.communication> communicate1, pass on, pass1, put across -- (transmit information ; "Please communicate this message to all employees")
+                           => {02167243} <verb.possession> convey10, transmit10, communicate10 -- (transfer to another; "communicate a disease")
+                               => {02167764} <verb.possession> transfer1 -- (move from one place to another; "transfer the data"; "transmit the news"; "transfer the patient to another hospital")
+                                   => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

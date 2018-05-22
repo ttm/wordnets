@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA3672
+
+DADO O SYNSET:
+
+S='Glosa3672'
+	    {
+	      palpitar: E nem por sombras lhe falassem de festas e divertimentos - seu único divertimento, a sua única festa era estar lá, naquele quarto proibido, sozinha, à vontade,  mexendo em tudo, a [palpitar num gosto novo e desconhecido.# Quando sinto o desencanto, procuro tuas mãos que trazem o conforto e me fazem I]palpitar.,
+	      renascer: Serviu para reerguer os ânimos, recuperar confianças e [renascer as esperanças.,
+	      renovar-se: Agora o sonho [se renova.,
+	      reverdecer: A derradeira amiga desposou aos trinta anos um oficial de marinha, e foi ainda o que I]reverdeceu as esperanças à amiga solteira.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3672' = “dar nova vida ou energia”
+	     {palpitar: De tudo o que vi e vivi neste dias, o que mais apreciei foi o entusiasmo que I]palpitava em cada um do grupo criador do projeto.# Novamente a esperança A]palpitou em sua alma.,
+	      renascer: A Bienal [renasceu porque quis investir em qualidade.,
+	      renovar-se: Agora o sonho [se renova.,
+	      reverdecer: A derradeira amiga desposou aos trinta anos um oficial de marinha, e foi ainda o que I]reverdeceu as esperanças à amiga solteira.,}
+Chave: RENOVAR-SE <verb.body>
+ILI: 00023840
+
+Sense 3
+{00023840} <verb.body> animate, recreate2, reanimate, revive, renovate, repair3, quicken, vivify, revivify -- (give new life or energy to; "A hot soup will revive me"; "This will renovate my spirits"; "This treatment repaired my health")
+       => {00022265} <verb.body> stimulate, arouse, brace, energize, energise, perk up1 -- (cause to be alert and energetic; "Coffee and tea stimulate me"; "This herbal infusion doesn't stimulate")
+           => {00019146} <verb.body> affect -- (act physically on; have an effect upon)
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

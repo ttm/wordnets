@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA2729
+
+DADO O SYNSET:
+
+S='Glosa2729'
+	    {cevar-se: Em vão os bois no jufo se cansaram perdeu o suor o lavrador; o verde trigo podre ficou antes de a barba juvenil lhe nascer; os currais se acham vazios nas campinas alagadas; I]cevam-se os corvos no pestoso gado. ,
+	      fartar-se: Outro dia ela volta e torna a engodar o menino. Este a amarrrou e ela se pôs a comer até I]fartar-se.,
+	      regalar-se: O turista vai poder I]se regalar com a boa e farta comida nordestina e ainda conhecer a arte dos bonecos de barro que tornou famosa a cidade de Caruaru.,
+	      saciar-se: E quisera I]saciar-se com as vagens que os porcos comiam, mas não lhe era permitido.,
+	      satisfazer-se: O prazer obtido com a degustação vai fazê-lo I]satisfazer-se com menos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2729' = “Alimentar-se até atingir satisfação.”
+	    {cevar-se: Os currais se acham vazios nas campinas alagadas; I]cevam-se os corvos no gado.,
+	      fartar-se: chegam e I]fartam-se de taças fumegantes e pães de queijo.,
+	      regalar-se: Recendendo as tradições camponesas da mesa farta, os italianos I]se regalam com polenta, massas, queijo parmesão e vinho.,
+	      saciar-se: Eles se vestem com roupas luxuosas, brincam em fliperamas e videogames, ou I]se saciam com comidas diversas, realizando seus maiores sonhos de consumo.,
+	      satisfazer-se: Algumas pessoas I]se satisfazem com três refeições diárias.,}
+
+Chave: SACIAR-SE <verb.consumption>
+ILI: 01157356
+
+Sense 1
+{01157356} <verb.consumption> satiate, sate, replete, fill -- (fill to satisfaction; "I am sated")
+       => {01121136} <verb.consumption> consume, ingest, take in, take, have -- (serve oneself to, or consume regularly; "Have another bowl of chicken soup!"; "I don't take sugar in my coffee")

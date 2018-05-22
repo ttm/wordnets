@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0599
+
+DADO O SYNSET:
+
+S='Glosa599'
+{acordar1: Se ele tiver sonho ruim, não [acorda-o.,
+chamar: Viera I]chamá-lo para o café da manhã.,
+despertar: Ela caminhava docemente para não [despertar a criancinha, adormecida como o passarinho sob a asa materna,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa599' = “fazer ficar desperto ou consciente”
+{acordar1: Ela o I]acordou e disse "meu senhor, O SONO ESTÁ MUITO PRÓXIMO DA MORTE(Shakespeare).,
+chamar: Um belo dia meu pai me I]chamou cedo. Ia me levar junto para conhecer a casinha que já estava pronta.,
+despertar: Ela caminhava docemente para não [despertar a criancinha, adormecida como o passarinho sob a asa materna,}
+Chave: ACORDAR <verb.body>
+ILI: 00018508
+
+Sense 1
+{00018508} <verb.body> awaken, wake2, waken1, rouse2, wake up1, arouse1 -- (cause to become awake or conscious; "He was roused by the drunken men in the street"; "Please wake me at 6 AM.")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

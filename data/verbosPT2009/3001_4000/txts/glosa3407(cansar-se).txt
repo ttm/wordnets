@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA3407
+
+DADO O SYNSET:
+
+S='Glosa3407'
+	    {
+	      afadigar-se: O profissional liberal enfrenta dificuldades, para o desempenho dos compromissos, luta e I]afadiga-se para bem os atender.,
+	      afanar-se: O homem trabalha, I]afana-se, agoniza e desespera-se, regozija-se e triunfa, progride ou retarda sua evolução.,
+	      afrontar-se: x,
+	      aplastar-se: x,
+	      cansar-se: Este respiratório precisa fazer-se sem forçar absolutamente nada, sem fazer ruídos, sem ressoar, sem perder o fôlego, sem I]cansar-se.,
+	      estafar-se: Não atinou mais em procurar a luz da janela; I]estafou-se.,
+	      fatigar-se: É ele quem propõe jogos estimulantes da motilidade (cutucar, mexer, mover), aumentando o estado de excitação do bebê, que o corresponde até I]fatigar-se.,
+	      matar-se: Estão se M]matando à toa.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3407' = “esgotar-se ou fatigar-se através de uso excessivo ou grande esforço ou estafa”
+	     {afadigar-se: O profissional liberal enfrenta dificuldades, para o desempenho dos compromissos, luta e I]afadiga-se para bem os atender.,
+	      afanar-se: O homem trabalha, I]afana-se, agoniza e desespera-se, regozija-se e triunfa, progride ou retarda sua evolução.,
+	      cansar-se: Denizart I]cansava-se, como nas outras ocasiões, para subir a ladeira íngreme até a praça da Prefeitura.,
+	      estafar-se: Magali I]estafava-se para orientá-los da melhor maneira possível.,
+	      fatigar-se: Tornou-se mais flébil, I]fatigava-se facilmente.,
+	      matar-se: Papai se I]matava de trabalhar, mas se destruía fumando.,}
+Chave: CANSAR-SE <verb.body>
+ILI: EQ_NEAR_SYNONYM - 00072813
+
+Sense 2
+{00072813} <verb.body> tire1, wear upon, tire out, wear3, weary, jade1, wear out, outwear, wear down, fag out, fag, fatigue -- (exhaust or tire through overuse or great strain or stress; "We wore ourselves out on this hike")

@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA3786
+
+DADO O SYNSET:
+
+S='Glosa3786'
+{galgar: Saltou as corcovas, [galgou as caiçaras, e subiu pelos galhos que estrepavam o chão.,
+	 pernear: Milhões de hereges tomam banho, outros, I]perneando como rãs, são torrados sobre grelhas.,
+	 pernejar: x,
+	 pular: O estudante [pulou o muro da casa para alcançar a Via Dutra.,
+	 saltar: Laura aparece saindo pela porta e [saltando o muro do jardim.,
+	 transpor: Peixes nobres como pintado, dourado e jaú não estão conseguindo [transpor a barreira para chegar à nascente, área natural de desova.}
+	
+A ANÁLISE RESULTA EM:
+
+S='Glosa3786' = “avançar através do salto e pulo”
+{galgar: Saltou as corcovas, [galgou as caiçaras, e subiu pelos galhos que estrepavam o chão.,
+	 pernear: Milhões de hereges tomam banho, outros, I]perneando como rãs, são torrados sobre grelhas.,
+	 pular: O estudante [pulou o muro da casa para alcançar a Via Dutra.,
+	 saltar: Laura aparece saindo pela porta e [saltando o muro do jardim.,
+	 transpor: Peixes nobres como pintado, dourado e jaú não estão conseguindo [transpor a barreira para chegar à nascente, área natural de desova.}
+Chave: PULAR <verb.motion>
+ILI: 01906445
+
+Sense 1 
+{01906445} <verb.motion> jump, leap, bound1, spring1 -- (move forward by leaps and bounds; "The horse bounded across the meadow"; "The child leapt across the puddle"; "Can you jump over the fence?")
+       => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right")
+          Also See-> {01867456} <verb.motion> jump on#1

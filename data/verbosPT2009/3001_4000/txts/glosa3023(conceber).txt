@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA3023
+
+DADO O SYNSET:
+
+S='Glosa3023'
+	    {
+	      conceber: Outro importante filósofo foi Pitágoras, que [concebia o mundo como governado pelos números, aos quais atribuía qualidades mágicas. ,
+	      engendrar: A grid é um princípio organizacional, uma forma para I]engendrar novas questões espaciais. # Se ainda estivéssemos no tempo dos dinossauros, seria legítimo suspeitar que um grande cérebro ou uma conspiração imperialista [engendraram e continuam a engendrar as transformações das economias e das sociedades. ,
+	      formar: Especialistas no roteamento de mensagens cooperam para I]formar um plano fim-a-fim. # O máximo que você pode fazer é incluí-lo(a) nos seus planos, ou I]formar outros planos juntos.,
+	      gestar: Com base na influência que o tucanato ainda detinha sobre o processo eleitoral, foi possível I]gestar e viabilizar um plano para ganhar o máximo de governos estaduais possíveis. # Um curso sobre Criatividade onde era básica a noção de que o processo de I]gestar e dar à luz uma idéia nova estava intrinsecamente relacionado à capacidade de tolerar frustrações.,
+	      imaginar: Quando tentamos [imaginar o Brasil recém descoberto, este descrito pela primeira vez pelo escrivão de Cabral, pensamos em praias de águas cristalinas, areias imaculadas, com exuberante vegetação.,
+	      pintar: E não adianta I]pintar uma vida sem problemas, porque isso não existe. # Seja como for, essas três situações foram utilizadas pelo ditador para I]pintar para si mesmo uma destinação histórica baseada em um heroísmo imanente à sua ideologia.,
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3023' = “ter a idéia de”
+	     {conceber: Outro importante filósofo foi Pitágoras, que [concebia o mundo como governado pelos números, aos quais atribuía qualidades mágicas. ,
+	      engendrar: Kubrick [engendrou um filme diabolicamente bem construído e envolvente, com a ação concentrada no par de horas que antecede a eclosão do conflito nuclear definitivo. # A trama [engendra situações muito engraçadas. ,
+	      formar: Para reprimir os muambeiros, o estado [formou uma Companhia de Polícia Fazendária com quadros da Polícia Militar. # Para essa eleição, Arraes [formou uma coligação de sete partidos.,
+	      gestar: a Democracia tão duramente conquistada I]gestou um novo Brasil. # O Quilombo dos Palmares I]gestou, ao longo de sua existência, uma utopia que hoje é atualizada e precisa ser retomada.,
+	      imaginar: Syberberg [imaginou a cabeça de Wagner como um labirinto e a dividiu em catorze secções, nas quais se passa cada uma das partes do drama épico.,
+	      pintar: Oracy Nogueira [pintou a biografia de sua personagem com as cores do relato político de uma época, preenchendo com a ficção as eventuais lacunas deixadas pelos fatos reais e pela correspondência do Dr. Rocha com seus amigos, correligionários e familiares. # Frente à gripe do frango asiática, o ministro I]pintou três cenários.,}
+Chave: CONCEBER <verb.creation>
+ILI: 01587102
+
+Sense 1
+{01587102} <verb.creation> gestate3, conceive, conceptualize, conceptualise -- (have the idea for; "He conceived of a robot that would help paralyzed patients"; "This library was well conceived")
+       => {01585330} <verb.creation> create by mental act, create mentally -- (create mentally and abstractly rather than with one's hands)
+           => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

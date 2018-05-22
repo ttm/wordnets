@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA1658
+
+DADO O SYNSET:
+
+S='Glosa1658'
+ {embatumar: x,
+ encher: O candidato a vereador Jaime Melo [encheu seis ônibus de militantes uniformizados que saíram de Cascadura.,
+ inundar: A celebração hippie da liberdade I]inundou o Teatro Ipanema, na década de 70, de espectadores-acólitos.,
+ ocupar: Em companhia dos pais e de nada menos que 60 amigos e  parentes,  André [ocupou todo o segundo andar da churrascaria Mariu"s, noLeme, para um jantar de comemoração.,
+ preencher: Mas a indústria não pode ela própria [preencher de «conteúdos» essas tecnologias, pô-las a funcionar plenamente e enriquecer com elas o universo da cultura ,
+ repletar: Uma semana após, milhares de espectadores lotavam o circo Máximo e a arena ovalada se I]repletava de feras da Núbia e  da Dalmácia.,
+ tomar: Friedberg e sua equipe precisaram de oito semanas para construir o motel, que I]tomou todo o espaço do amplo estúdio. ,}
+	  
+A='Glosa2220'
+{esvazar, esvaziar, vaziar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1658' = “tornar cheio/completo”
+ {encher: O candidato a vereador Jaime Melo [encheu seis ônibus de militantes uniformizados que saíram de Cascadura.,
+ inundar: Para concorrer com a coleção de beldades que [inundou os salões do Leopoldo, só mesmo o caviar, salmão e champagne servidos anteontem pela Koch Tavares e Bancesa.,
+ ocupar: Em companhia dos pais e de nada menos que 60 amigos e  parentes,  André [ocupou todo o segundo andar da churrascaria Mariu’s, no Leme, para um jantar de comemoração.,
+ preencher: MSaly Gignon e Sandra Carta já [preencheram as prateleiras da Pijamah Empório com a coleção verão.,
+ repletar: Kardec estava no mundo, mas o via com outros olhos, pois o futuro desvelado lhe I]repletou a vida de esperança e paz.,
+ tomar: Friedberg e sua equipe precisaram de oito semanas para construir o motel, que I]tomou todo o espaço do amplo estúdio.,}
+	  
+A='Glosa2220'
+{esvazar, esvaziar, vaziar}
+Chave: PREENCHER <verb.change>
+ILI: 00439460
+
+Sense 1
+{00439460} <verb.change> fill1, fill up, make full -- (make full, also in a metaphorical sense; "fill a container"; "fill the child with pride")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

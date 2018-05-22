@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA1926
+
+DADO O SYNSET:
+
+S='Glosa1926'
+{castigar-se: Lutero foi descobrindo ao longo dos seus estudos que para ganhar o perdão de Deus ninguém precisava I]castigar-se ou fazer boas obras, mas somente ter fé em Deus.,
+ escaldar-se: x,
+ escarmentar-se: x,
+ flagelar-se: Tentou todo tipo de coisa para agradar a Deus I]flagelar-se a si mesmo, passar longos períodos sem comida, orar durante a noite inteira.,
+ penitenciar-se: Gostaria de [penitenciar-se, mas o faz apenas retoricamente.,
+ punir-se: A afirmativa de que o herói fura os olhos a fim de I]punir-se por seu crime encerra uma inferência, um raciocínio inserido na tragédia pela inter-pretação do analista: isto não se acha afirmado na peça. ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1926' = “redimir-se do pecado ou fazer penitência”
+{castigar-se: Tenha sempre em mente que, faça o que você fizer, os enganos são parte da vida e não perca tempo se I]castigando por erros do passado.,
+ penitenciar-se: Mas por qual crime Jean-Baptiste se [penitencia?}
+Chave: PENITENCIAR-SE <verb.emotion>
+ILI: 01744550
+
+Sense 1
+{01744550} <verb.emotion> repent1, atone -- (turn away from sin or do penitence)

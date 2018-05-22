@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0069B
+
+DADO O SYNSET:
+
+S='Glosa69'
+{dobrar-se: I]Dobra-se um pano de algodão ou linho (pode ser um lenço) de modo que cubra a panturrilha.,
+enrolar-se: O resto do cabelo, que era muito, ia entrançar-se e [enrolar-se com a singela  elegância abaixo da coroa de uma cabeça pequena.,}
+A='Glosa1368'
+{desdobrar-se, desenrolar-se, desenroscar-se, estender-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa69B' = “dobrar ou dispor de forma que uma parte cubra a outra”
+{dobrar-se: I]Dobra-se um pano de algodão ou linho (pode ser um lenço) de modo que cubra a panturrilha.,}
+A='Glosa1368'
+{desdobrar-se, desenroscar-se, estender-se}
+Chave: DOBRAR-SE <verb.contact>
+ILI: 01239868
+
+Sense 1
+{01239868} <verb.contact> fold, fold up, turn up -- (bend or lay so that one part covers the other; "fold up the newspaper"; "turn up your collar")
+       => {00345030} <verb.change> change surface -- (undergo or cause to undergo a change in the surface)
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

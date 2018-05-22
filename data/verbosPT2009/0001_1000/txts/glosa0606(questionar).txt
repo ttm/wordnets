@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA0606
+
+DADO O SYNSET:
+
+S='Glosa606'
+{instar: É I]instar a consciência moral à luta pacífica, mas encarniçada, contra todo o sistema.,
+questionar: Segundo ele, não há porque, portanto, [questionar esse sistema agora.,
+treplicar: A oposição I]treplicou, argumentando que o atual mínimo é baixo e é preciso aumentá-lo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa606' = “desafiar a veracidade, honestidade, ou propriedade de”
+{instar: Educar é I]instar a consciência moral à luta pacífica, mas encarniçada, contra todo o sistema.,
+questionar: Segundo ele, não há porque, portanto, [questionar esse sistema agora.,
+treplicar: A oposição I]treplicou, argumentando que o atual mínimo é baixo e é preciso aumentá-lo.,}
+Chave: QUESTIONAR <verb.communication>
+ILI: 00838577
+
+Sense 1
+{00838577} <verb.communication> question1, oppugn, call into question -- (challenge the accuracy, probity, or propriety of; "We must question your judgment in this matter")
+       => {00839696} <verb.communication> challenge -- (issue a challenge to; "Fischer challenged Spassky to a match")
+           => {00767907} <verb.communication> invite, bid -- (ask someone in a friendly way to do something)
+               => {00728656} <verb.communication> request2 -- (ask (a person) to do something; "She asked him to be here at noon"; "I requested that she type the entire manuscript")
+                   => {00727721} <verb.communication> ask1 -- (make a request or demand for something to somebody; "She asked him for a loan")
+                       => {00727992} <verb.communication> request1, bespeak, call for4, quest1 -- (express the need or desire for; ask for; "She requested an extra bed in her room"; "She called for room service")
+                           => {00717906} <verb.communication> communicate1, pass on, pass1, put across -- (transmit information ; "Please communicate this message to all employees")
+                               => {02167243} <verb.possession> convey10, transmit10, communicate10 -- (transfer to another; "communicate a disease")
+                                   => {02167764} <verb.possession> transfer1 -- (move from one place to another; "transfer the data"; "transmit the news"; "transfer the patient to another hospital")
+                                       => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

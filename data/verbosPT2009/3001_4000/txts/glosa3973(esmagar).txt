@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA3973
+
+DADO O SYNSET:
+	
+S='Glosa3973'
+{achatar: A ponte I]achatou três dos 13 vagões do expresso.,
+ amassar: O galho I]amassou o capô.,
+ calcar: x,
+ comprimir: A]Comprimiu o embrulho a fim dee que coubesse no caixote.,
+ esborrachar: H]Esborracha a barata com uma pisada.,
+ esmagar: Um rolo-compressor I]esmagou pistolas, revólveres, fuzis, espingardas, rifles e carabinas.,
+ prensar: Aproveitando a umidade, I]prensava as folhas entre chapas de cobre aquecidas.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3973' = “comprimir com violência tirando da forma ou condição natural”
+{achatar: Pelo menos 16 pessoas morreram numa igreja no sul dos EUA quando um tornado atingiu a estrutura de alvenaria, [achatando o telhado e derrubando escombros sobre os fiéis.,
+ amassar: Elas [amassam as latinhas com um barulho infernal.,
+ comprimir: O problema é que a pressão dos corpos e da terra [comprimiu-a e seu corpo está todo inchado.,
+ esborrachar: David Reutimann I]esborrachou o Toyota no muro.,
+ esmagar: O índio fazia um esforço supremo para suster o peso da laje prestes a [esmagá-lo.,
+ prensar: Ele atropelou e [prensou o casal em uma parede.}
+Chave: ESMAGAR <verb.contact>
+ILI: 01550352
+
+Sense 1
+{01550352} <verb.contact> squash, crush, squelch, mash, squeeze5 -- (to compress with violence, out of natural shape or condition; "crush an aluminum can"; "squeeze a lemon")
+       => {01405942} <verb.contact> press -- (exert pressure or force to or upon; "He pressed down on the boards"; "press your thumb on this spot")
+           => {01169634} <verb.contact> touch -- (make physical contact with, come in contact with; "Touch the stone for good luck"; "She never touched her husband")

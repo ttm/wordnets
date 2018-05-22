@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA1084
+
+DADO O SYNSET:
+
+S='Glosa1084'
+{acelerar-se: Com a privatização dos ramais da Rede Ferroviária, as obras de Sepetiba tem que [se acelerar,
+ adiantar-se: Consultou o relógio, o ponteiro marcava pouco mais de oito horas e parecia-lhe como nunca disposto a [adiantar-se,
+ aforçurar-se: O tempo disparava, tiveram de H]aforçurar-se,
+ apressar-se: Quem pretende comprar sua casa própria ou investir em um imóvel residencial deve [apressar-se,
+ apressurar-se: x,}
+	  
+A='Glosa2602'
+{atrasar-se, delongar-se, demorar-se, deter-se, prolongar-se, retardar-se, retrasar-se}
+	    
+A ANÁLISE RESULTA EM:
+
+S='Glosa1084' = “agir ou mover-se em alta velocidade”
+{acelerar-se: As escolas de samba transformaram-se em holofotes para famosos e oportunistas; os sambas, sufocados pelo tempo exigido para o desfile, I]aceleraram-se.,
+ adiantar-se: Em uma atitude inédita, o banco central norte-americano [adiantou-se em prevenir possíveis tensões inflacionárias.,
+ apressar-se: A Petrobrás [apressou-se em dar informações mais precisas.,}
+
+A='Glosa2602'
+{atrasar-se, delongar-se, demorar-se, deter-se, prolongar-se, retardar-se, retrasar-se}
+Chave: APRESSAR-SE <verb.change> 
+ILI: 00446474 
+
+Sense 1
+{00446474} <verb.change> rush, hasten, hurry, look sharp, festinate -- (act or move at high speed; "We have to rush!"; "hurry--it's late!")
+       => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

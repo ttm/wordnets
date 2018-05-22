@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0779
+
+DADO O SYNSET:
+
+S='Glosa779'
+{bichar: Alguns, porém, desobedecendo a Moisés, guardaram maná para o dia seguinte; mas I]bichou e apodreceu.,
+estragar: Mas tome cuidado: se a estocagem não for correta, os produtos podem [estragar.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa779' = “ficar inapropriado para uso ou consumo”
+{bichar: Alguns, porém, desobedecendo a Moisés, guardaram maná para o dia seguinte; mas I]bichou e apodreceu.,
+estragar: Mas tome cuidado: se a estocagem não for correta, os produtos podem [estragar.,}
+Chave: ESTRAGAR <verb.change>
+ILI: 00202877
+
+Sense 2
+{00202877} <verb.change> spoil, go bad -- (become unfit for consumption or use; "the meat must be eaten before it spoils")
+       => {00537495} <verb.change> decay2 -- (undergo decay or decomposition; "The body started to decay and needed to be cremated")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

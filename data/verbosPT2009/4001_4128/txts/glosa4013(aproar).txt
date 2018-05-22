@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA4013
+
+DADO O SYNSET:
+
+S='Glosa4013'
+{aproar: Nosso pai se desaparecia para a outra banda, I]aproava a canoa no brejão, de léguas, que há, por entre juncos e mato, e só ele conhecesse, a palmos, a escuridão, daquele.,
+emproar: M]Emproou o barco à correnteza.,
+proar: Manejou remo n'água, I]proava para cá, concordado. ,
+proejar: O comandante A]proeja para nordeste.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4013' = “direcionar a proa do barco [para]”
+{aproar: Nosso pai se desaparecia para a outra banda, I]aproava a canoa no brejão, de léguas, que há, por entre juncos e mato, e só ele conhecesse, a palmos, a escuridão, daquele.,
+emproar: M]Emproou o barco à correnteza.,
+proar: Manejou remo n'água, I]proava para cá, concordado. ,
+proejar: O comandante A]proeja para nordeste.,}
+Chave: APROAR <verb.motion>
+ILI: EQ_HAS_HYPERONYM - 01936078
+
+Sense 2
+{01936078} <verb.motion> nose2 -- (advance the forward part of with caution; "She nosed the car into the left lane")
+       => {01935876} <verb.motion> advance1, bring forward -- (cause to move forward; "Can you move the car seat forward?")
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")
+
+
+
+

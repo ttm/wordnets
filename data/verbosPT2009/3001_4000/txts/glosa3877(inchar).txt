@@ -1,0 +1,65 @@
+ANÁLISE DA GLOSA3877
+
+DADO O SYNSET:
+
+S='Glosa3877'
+{abolsar: x,
+ apojar: Iracema curte dor, como nunca sentiu; parece que lhe exaurem a vida; mas os seios vão-se intumescendo; [apojaram afinal, e o leite, ainda rubro do sangue de que se formou, esguicha .,
+ atufar: A linfa H]atufou a região infeccionada.,
+ avolumar: A verba é administrada por uma diretoria de comunicação social criada em 92, quando as acusações começaram a se [avolumar e não inclui gastos com a propaganda veiculada para negar denúncias que vêm à tona .,
+ bojar: Na mansão de Jeca a parede dos fundos [bojou para fora um ventre empanzinado, ameaçando ruir; os barrotes, cortados pela umidade, oscilam na podriqueira do baldame .,
+ crescer: Ela faz o bolo [crescer e motiva as pessoas a terem computadores com maior capacidade de processamento .,
+ encher: Este incidente, por insignificante que pareça, entrava nos planos de Peri; a roupa queimando-se devia [encher a casa de fumaça, acordar os aventureiros e excitar-lhes a sede .,
+ enfunar: Ou, então, nas fotos dos jogadores em tricromia da ' Gazeta Esportiva Ilustrada ', de cores falsas como as dos retratos dos lambe-lambes do Parque dom Pedro 2º. O jogo das coloridas camisas e dos movimentos em torno da bola de couro marrom sobre o tapete verde, o eco das torcidas, o chute forte [enfunando as redes, o drible mágico, a cabeçada fulminante, a defesa milagrosa, tudo isso compunha um universo recriado em minha imaginação, a partir dos fragmentos que me chegavam por rádio, jornais ou suprema sorte nas telas de cinema, geralmente jogos do futebol inglês ou francês .,
+ entufar: Copiosas lágrimas H]entufavam-lhe os olhos.,
+ estufar: Mas ainda podemos ver neles, quase como se estivéssemos dentro do campo, Garrincha fabricando joões, Pelé inventando fintas, Zico [estufando redes, a eterna dança da bola .,
+ inchar: As extremidades do corpo como mãos, pés e orelhas costumam ser as partes mais afetadas e podem chegar a [inchar .,
+ inflar: A equipe começa a [inflar o balão, preparar equipamentos e simular em terra o momento crítico do projeto, o «drop» .,
+ intumescer: Os grandes e pequenos lábios não desempenham qualquer função especial; particularmente os últimos se [intumescem quando ocorre excitação sexual .,
+ inturgescer: É muito evidente quando, ao fazer uma injeção endovenosa, o médico ordena ao paciente que aperte o punho: vê-se, então, a veia I]inturgescer-se.,
+ opar: x,
+ pojar: Antes da ordenha, é preciso que um bezerro H]poje as tetas da vaca.,
+ tufar: Aquele calor I]tufou o pão no forno.,
+ tumefazer: x,
+ tumeficar: x,
+ tumescer: Na parte úmida, é colocada uma quantidade de soro com anestésico e adrenalina (que produz vasoconstrição) para I]tumescer a região gordurosa a ser operada.,
+ turgescer: A infecção M]turgesceu o ferimento.,
+ volumar: Maria era uma jovem bela , solteira, tida em alto conceito na aldeia. Porém, seu corpo agora começava a I]volumar-se com a gravidez.,}
+	  
+A='Glosa2219'
+{descongestionar, desengrossar, desinchar, desinflar, desintumescer}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3877' = “fazer com que (algo) fique muito expandido, inchado”
+{apojar: O vinho ainda na videira ]apoja de sumo nossa boca.,
+atufar: As nuvens se erguem em enormes cúmulos, como estranhas plantas ornamentais, I]atufando o horizonte.,
+ avolumar: Quando começou a chover a enxurrada I]avolumou o curso do rio, os peixes foram salvos e nadaram com liberdade.,
+ bojar: Na mansão de Jeca a parede dos fundos [bojou para fora um ventre empanzinado, ameaçando ruir.,
+ crescer: A direita fala em [crescer o bolo para distribuir.,
+ encher: Ela traz as águas, que [enchem os rios e a polpa do caju.,
+ enfunar: O chute forte [enfunando as redes, o drible mágico, a cabeçada fulminante, a defesa milagrosa, tudo isso compunha um universo recriado em minha imaginação.,
+ entufar: A brisa do porto I]entufa as cortinas das casas da Av. Osvaldo Aranha.,
+ entumescer: Mas a brasilidade voltada à culinária, sozinha, I]entumesce o estômago.,
+ estufar: Mas ainda podemos ver neles, quase como se estivéssemos dentro do campo, Garrincha fabricando joões, Pelé inventando fintas, Zico [estufando redes, a eterna dança da bola.,
+ inchar: Derruba os estípites dos ouricuris e rala-os, amassa-os, cozinha-os, fazendo um pão sinistro, o bró, que [incha os ventres num enfarte ilusório, empanzinando o faminto.,
+ inflar: Suspendem e projetam os seios para frente, “inflando” qualquer decote.,
+ intumescer: O cônego [intumescia a papada com certo ar experimentado.,
+ inturgescer: A mesma droga, sob forma de pomada, I]inturgesce os genitais femininos, aumentando sua sensibilidade.,
+ pojar: E alegre, I]pojando o seu egoísmo em risadas e oferecimentos, Antão Ramos contemplava Paula.,
+ tufar: Aquele calor I]tufou o pão no forno.,
+ tumescer: Na parte úmida, é colocada uma quantidade de soro com anestésico e adrenalina (que produz vasoconstrição) para I]tumescer a região gordurosa a ser operada.,
+ volumar: Pirilampo I]volumava o abdome em gostosas gargalhadas, vermelhando a face enquanto verdadeirava ilusões e sonhos às crianças.}
+	  
+A='Glosa2219'
+{descongestionar, desengrossar, desinchar, desinflar, desintumescer}
+
+Chave: INCHAR <verb.change>
+ILI: 00249315
+
+Sense 1
+{00249315} <verb.change> tumefy1 -- (cause to become very swollen)
+       => {00249128} <verb.change> swell1 -- (cause to become swollen; "The water swells the wood")
+           => {00237321} <verb.change> grow1 -- (cause to grow or develop; "He grows vegetables in his backyard")
+               => {00245331} <verb.change> develop1, make grow -- (cause to grow and differentiate in ways conforming to its natural development; "The perfect climate here develops the grain"; "He developed a new kind of apple")
+                   => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

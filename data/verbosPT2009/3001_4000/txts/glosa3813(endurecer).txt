@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA3813
+
+DADO O SYNSET:
+
+S='Glosa3813'
+{calejar-se: Habituou-se à crueldade, seu coração A]calejou-se.,
+	 empedernir-se: O pecador, em vez de I]se empedernir no seu orgulho, confessa que não passa de cinza e pó.,
+	 encalejar-se: x,
+	 endurar-se: x,
+	 endurecer-se: Nossos corações podem I]endurecer-se sem que nos demos conta.,
+	 endurentar-se: x,
+	 incrustar-se: M]Incrustam-se os corações.,
+	 obdurar-se: M]Obdurou-se em sangrentas batalhas.,
+	 petrificar-se: Muito pior que pouca humildade é I]petrificar-se alguém na frieza do orgulho.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3813' = “tornar-se insensível ou calejado; amortecer sentimentos ou morais”
+{calejar-se: Habituou-se à crueldade, seu coração A]calejou-se.,
+	 empedernir-se: O pecador, em vez de I]se empedernir no seu orgulho, confessa que não passa de cinza e pó.,
+	 endurecer-se: Nossos corações podem I]endurecer-se sem que nos demos conta.,
+	 incrustar-se: M]Incrustam-se os corações.,
+	 obdurar-se: M]Obdurou-se em sangrentas batalhas.,
+	 petrificar-se: Muito pior que pouca humildade é I]petrificar-se alguém na frieza do orgulho.}
+Chave: ENDURECER <verb.change>
+ILI: 00264223
+
+Sense 1 
+{00264223} <verb.change> callous, cauterize1, cauterise1 -- (make insensitive or callous; deaden feelings or morals)
+       => {00264019} <verb.change> inure, harden3, indurate4 -- (cause to accept or become hardened to; habituate; "He was inured to the cold")
+           => {00264554} <verb.change> habituate, accustom -- (make psychologically or physically used (to something); "She became habituated to the background music")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

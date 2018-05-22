@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2891
+
+DADO O SYNSET:
+
+S='Glosa2891'
+	    {afestoar: Resolveram H]afestoar o arco da capela para a cerimônia.,
+	      agrinaldar: x,
+	      enfestoar: x,
+	      engrinaldar: As flores A]engrinaldavam a casa.,
+	      festoar: x,
+	      festonar: Canteiros de orquídeas e outras epífitas I]festonam os galhos mais grossos.,
+	      grinaldar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2891' = “Adornar com tiras de flores ou folhas”
+	    {engrinaldar: Shiva apanhava flores silvestres para Sati e engrinaldava-lhe com elas a cabeça.,}
+Chave: ENGRINALDAR <verb.creation>
+ILI: 01621729
+
+Sense 1
+{01621729} <verb.creation> garland -- (adorn with bands of flowers or leaves; "They garlanded the statue")
+       => {01627899} <verb.creation> decorate, adorn, grace, ornament, embellish, beautify -- (make more attractive by adding ornament, colour, etc.; "Decorate the room for the party"; "beautify yourself for the special day")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

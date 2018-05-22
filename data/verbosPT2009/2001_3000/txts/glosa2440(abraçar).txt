@@ -1,0 +1,36 @@
+ANÁLISE DA GLOSA2440
+
+DADO O SYNSET:
+
+S='Glosa2440'
+	    {abarcar: A mão direita I]abarcou o penacho e a cabeleira de Canicrã, a esquerda entrou pela boca do tapuia e travou-lhe o queixo. ,
+	      abraçar: Eva sorri recatadamente enquanto Juan Perón a [abraça.,
+	      acanhar: x,
+	      apertar: Fosse o que fosse, o meu braço continuou a [apertar a cintura da filha, e foi assim que nos pacificamos.,
+	      cilhar: x,
+	      cingir: Álvaro, dominado pela mais suave e veemente emoção, ao proferir as últimas palavras, enlaçando o braço em torno ao colo de Isaura a [cingia brandamente contra o coração.,
+	      embraçar: Montou-se no Rocinante, posta a sua celada feita à pressa, I]embraçou a sua adarga, empunhou a lança, e pela porta furtada de um pátio se lançou ao campo.,
+	      enlaçar: O cavalheiro pode I]enlaçar a dama com o braço direito. ,
+	      enroscar: Ela I]enroscou seu braço em volta de meu pescoço. ,
+	      estreitar: Ulisses a teria tomado em seus braços para consolá-la, não fosse ela apenas um fantasma em pé na sua frente, de maneira que quando a quis I]estreitar contra o peito abraçou apenas o vácuo.,
+	      sotrancar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2440' = “Apertar com os braços, geralmente com afeição.”
+	    {abarcar: De tal maneira o I]abarcou, que sem se poder livrar de suas mãos, o meteu consigo em casa.,
+	      abraçar: Eva sorri recatadamente enquanto Juan Perón a [abraça.,
+	      apertar: Fosse o que fosse, o meu braço continuou a [apertar a cintura da filha, e foi assim que nos pacificamos.,
+	      cingir: Álvaro, enlaçando o braço em torno ao colo de Isaura, a [cingia brandamente contra o coração.,
+	      enlaçar: Simplesmente a I]enlaçou pela cintura e a beijou com ardência.,
+	      enroscar: Ela I]enroscou seu braço em volta de meu pescoço.,
+	      estreitar: Ulisses a teria tomado em seus braços para consolá-la, não fosse ela apenas um fantasma em pé na sua frente, de maneira que quando a quis I]estreitar contra o peito abraçou apenas o vácuo.,}
+
+Chave: ABRAÇAR <verb.contact>
+ILI: 01383729
+
+Sense 2
+{01383729} <verb.contact> embrace, hug1, bosom, squeeze4 -- (hug, usually with fondness; "Hug me, please"; "They embraced")
+       => {01179612} <verb.contact> clasp -- (hold firmly and tightly)
+           => {01179249} <verb.contact> grasp, hold on -- (hold firmly)
+               => {01179760} <verb.contact> hold, take hold -- (have or hold in one's hands or grip; "Hold this bowl for a moment, please"; "A crazy idea took hold of him") 

@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA2155
+
+DADO O SYNSET:
+  S='Glosa2155'
+	    {zuir: Ao retumbar de castenhedas e de guizos,/De zabumbas e fanfarras,/De timbales retinindo/E de assovios A]zuindo.,
+	      zumbir: Às vezes eu sinto como se um milhão de instrumentos estridentes não parassem nunca de [zumbir.,
+	      zunzunar: - Em cima da mesa, respondeu, estava calado, murcho, assistindo lá do fundo o I]zunzunar da sala; começara com pequenos ruídos, mas agora já o açoitava, ele começava a se sentir dentro de uma gaiola de papagaios no zoológico. ,
+	      zunzunir: Zumbem, A]zunzunem os tambus e os urucungos.,}
+
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2155' = “produzir som baixo e tedioso”
+	    {zuir: Ao retumbar de castenhedas e de guizos,/De zabumbas e fanfarras,/De timbales retinindo/E de assovios A]zuindo.,
+	      zumbir: Às vezes eu sinto como se um milhão de instrumentos estridentes não parassem nunca de [zumbir.,
+	      zunzunar: - Em cima da mesa, respondeu, estava calado, murcho, assistindo lá do fundo o I]zunzunar da sala;. ,
+	      zunzunir: Zumbem, A]zunzunem os tambus e os urucungos.,}
+
+Chave: ZUMBIR <verb.perception>
+ILI: 02125743
+
+Sense 1
+{02125743} <verb.perception> drone -- (make a monotonous low dull sound; "The harmonium was droning on")
+       => {02113837} <verb.perception> sound, go -- (make a certain noise or sound; "She went `Mmmmm'"; "The gun went `bang'")
+           => {02062507} <verb.perception> cause to be perceived -- (have perceptible qualities)

@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA2535
+
+DADO O SYNSET:
+
+S='Glosa2535'
+	    {salitrar: Uma empresa que funciona toda quentinha, aquecida, com vapor, essas coisas todas, energia, tudo aquecido, se ela parar aquilo começa a I]salitrar, porque a área da fábrica ela é muito salitrada - aliás a Região nossa ela é muito salitrada - e começa a provocar a mudança do teor dos cabos, a própria passagem e vai complicando cada vez mais.,
+	      salitrizar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2535' = “transformar um composto orgânico em nitrato por meio de ácido nítrico”
+	    {salitrar: O teu tubo do ar deve ter estado cheio de água e I]salitrou assim que secou dentro do tubo.,}
+
+Chave: SALITRAR <verb.change>
+ILI: 00178927
+
+Sense 1
+{00178927} <verb.change> nitrate10 -- (treat with nitric acid, so as to change an organic compound into a nitrate; "nitroglycerin is obtained by nitrating glycerol")
+       => {00501442} <verb.change> process, treat1 -- (subject to a process or treatment, with the aim of readying for some purpose, improving, or remedying a condition; "process cheese"; "process hair"; "treat the water so it can be drunk"; "treat the lawn with chemicals" ; "treat an oil spill")
+           => {00132263} <verb.change> affect, impact, bear upon, bear on, touch on1, touch -- (have an effect upon; "Will the new rules affect me?")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

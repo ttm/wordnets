@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA2307
+
+DADO O SYNSET:
+
+S='Glosa2307'
+	    {humanar: Nobiscum Deus: Deus conosco, e isto é o que anunciou e prometeu Isaías nesta famosa profecia, dando por nova aos homens, tão admirável como certa, que aquele mesmo Deus, cuja majestade se conservou sempre tão retirada e longe de nós, sem jamais se abalar nem sair do céu, agora se havia de I]humanar tanto, que se fizesse homem, e descesse à Terra para nela morar e estar conosco.,
+	      humanizar: Costner diz que filme [humaniza herói.,
+	      transumanar: x.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2307' = “tornar mais humano, com características humanas”
+	    {humanar: Aquele mesmo Deus, agora se havia de I]humanar tanto, que se fizesse homem, e descesse à Terra para nela morar e estar conosco.,
+	      humanizar: Costner diz que filme [humaniza herói.,}
+
+Chave: HUMANIZAR <verb.emotion>
+ILI: 01749197
+
+Sense 1
+{01749197} <verb.emotion> humanize, humanise -- (make more humane; "The mayor tried to humanize life in the big city")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

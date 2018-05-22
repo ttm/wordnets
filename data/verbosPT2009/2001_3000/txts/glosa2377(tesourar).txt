@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA2377
+
+DADO O SYNSET:
+
+S='Glosa2377'
+	    {tesoirar: x,
+	      tesourar: A Sabrina supercorajosa enlouqueceu esses dias e I]tesourou, ela mesma, os longos cabelos que, com muita paciência tinham chegado na cintura.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2377' = “Cortar com tesouras.”
+	    {tesourar: A Sabrina I]tesourou, ela mesma, os longos cabelos que, com muita paciência tinham chegado na cintura.,}
+
+Chave: TESOURAR <verb.contact>
+ILI: 01211247
+
+Sense 1
+{01211247} <verb.contact> scissor -- (cut with or as if with scissors)
+       => {01509511} <verb.contact> cut -- (separate with or as if with an instrument; "Cut the rope")
+           => {01513899} <verb.contact> separate1, disunite, divide1, part1 -- (force, take, or pull apart; "He separated the fighting children"; "Moses parted the Red Sea")
+               => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant") 

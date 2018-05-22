@@ -1,0 +1,54 @@
+ANÁLISE DA GLOSA3695
+
+DADO O SYNSET:
+
+S='Glosa3695'
+	    {
+	      abalar: Bruscamente um homem enorme surgiu à porta da câmara; olhou - correu ao berço de marfim, arrancou a criança, como se arranca uma bolsa de ouro, e abafando os seus gritos no manto, I]abalou furiosamente.#H]Abalou furioso contra o agressor. ,
+	      acometer: O pai de Raimundo, no primeiro assomo de indignação, tão furioso [acometeu sobre a esposa, que a fez cair. ,
+	      aferrar: Entrou em cena a Vlissingen, que, encontrando-se ainda mais a barlavento, arribou sobre o São Bartolomeu e o I]aferrou pelo outro bordo. ,
+	      agredir: Na quarta-feira, inconformado com a substituição, Carlos Ernanny discutiu com o cunhado e o [agrediu gravemente.#Edmundo [agrediu um cinegrafista, quebrou seu equipamento e teve que ficar escondido no hotel para não ser preso.  ,
+	      arremeter: Os dois inimigos [arremeteram com igual sanha. ,
+	      assaltar: O guerreiro Caubi [assalta com furor o inimigo.,
+	      assaltear: Vinde a mim, hipócritas! Vinde ao sevo do escândalo, celerados que andais nas encruzilhadas I]assalteando a honra dos infelizes descautelosos! ,
+	      atacar: Esparta e a Liga [atacaram a região de Atenas, defendida pelas tropas da Confederação, comandadas pelo governante ateniense Péricles. ,
+	      atirar-se: I]Atirar-se-ia ao homem e ao veado com irresistível e igual ferocidade.,
+	      avançar: A fera anda solta e já avançou sobre vários moradores.,
+	      carregar: I]Carregou o inimigo que ia em retirada.,
+	      crescer: Faminto, o bicho I]cresceu para cima de Juca, que não titubeou e disparou sua espingarda, matando o animal feroz! ,
+	      investir: Soldados israelenses [investiram contra a casa em Nablus, na Cisjordânia, do terrorista Ahya Ayash.,
+	      ir: Forças numerosas M]foram sobre a cidadela.,
+	      opugnar: As tropas H]opugnaram a praça inimiga.,
+	      partir: Helenizou o país, organizou forte exército e [partiu para a conquista da Grécia. ,
+	      remeter: A fera A]remeteu contra os caçadores.,
+	      saltear: A única maneira de obter escravos era I]saltear os inimigos.,
+	      voltar-se: Com efeito, Mac-Donell, general miguelista, reunia fôrças para I]voltar-se sobre Lisboa.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3695' = “fazer uma investida ou atacar subitamente, como em uma batalha” 
+	     {abalar: H]Abalou furioso contra o agressor.,
+	      acometer: O pai de Raimundo, no primeiro assomo de indignação, tão furioso [acometeu sobre a esposa, que a fez cair.,
+	      agredir: Na quarta-feira, inconformado com a substituição, Carlos Ernanny discutiu com o cunhado e o [agrediu gravemente.#Edmundo [agrediu um cinegrafista, quebrou seu equipamento e teve que ficar escondido no hotel para não ser preso.,
+	      arremeter: Os dois inimigos [arremeteram com igual sanha.,
+	      assaltar: O guerreiro Caubi [assalta com furor o inimigo.,
+	      atacar: Com facas e lanças de madeira, o povo [atacou os soldados imperiais na Puerta del Sol, marco zero da cidade.,
+	      atirar-se: I]Atirar-se-ia ao homem e ao veado com irresistível e igual ferocidade.,
+	      avançar: A fera anda solta e já [avançou sobre vários moradores.,
+	      carregar: Um touro grande I]carregou contra a estacada.,
+	      crescer: Faminto, o bicho I]cresceu para cima de Juca, que não titubeou e disparou sua espingarda, matando o animal feroz! ,
+	      investir: Soldados israelenses [investiram contra a casa em Nablus, na Cisjordânia, do terrorista Ahya Ayash.,
+	      ir: Forças numerosas M]foram sobre a cidadela.,
+	      opugnar: As tropas H]opugnaram a praça inimiga.,
+	      partir: Leonardo não gostou de ter seu trabalho registrado e I]partiu para cima de Marcus.,
+	      remeter: A fera A]remeteu contra os caçadores.,
+	      saltear: O ladrão I]salteou o viajante.,
+	      voltar-se: Entretanto, tendo acuado o inimigo, este I]voltou-se contra os agressores com grande ímpeto.,}
+Chave: ATACAR <verb.competition>
+ILI: 01086709
+
+Sense 1
+{01086709} <verb.competition> charge, bear down3 -- (to make a rush at or sudden attack upon, as in battle; "he saw Jess charging at him with a pitchfork")
+       => {01084957} <verb.competition> rush -- (attack suddenly)
+           => {01085076} <verb.competition> assail, assault, set on, attack2 -- (attack someone physically or emotionally; "The mugger assaulted the woman"; "Nightmares assailed him regularly")

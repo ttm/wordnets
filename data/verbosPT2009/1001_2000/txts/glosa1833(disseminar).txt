@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA1833
+
+DADO O SYNSET:
+
+S='Glosa1833'
+{alastrar: Se essas cartas tivessem sido endereçadas a executivos no Texas, não teriam o mesmo poder de I]alastrar o medo. ,
+ disseminar: Os nacionalistas sérvios [disseminaram o temor de que as minorias sérvias nas outras repúblicas seriam perseguidas como ocorreu quando sérvios, judeus e ciganos foram dizimados na Croácia pelo governo nazista do país, durante a Segunda Guerra Mundial .,
+ ensementar: x,
+ espalhar: Pelo contrário, há que se fortalecer ainda mais o modelo, a fim de permitir a eles [espalhar o bem e a verdade.,
+ estender: Minha mente sente que está unida às outras com o propósito de I]estender o amor e a alegria.,
+ juncar: x,
+ semear: Ontem os avanços rebeldes com bombardeios [semearam pânico na capital de Ruanda, convertida quase em cidade fantasma.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1833' = “introduzir [algo] numa cultura”
+{alastrar: Estes têm financiado e promovido um tipo de «desenvolvimento» que aprofundou a concentração mundial da riqueza, acentuou as desigualdades nacionais, [alastrou a pobreza e acelerou a destruição ambiental em escala global.,
+ disseminar: Os nacionalistas sérvios [disseminaram o temor de que as minorias sérvias nas outras repúblicas seriam perseguidas como ocorreu quando sérvios, judeus e ciganos foram dizimados na Croácia pelo governo nazista do país, durante a Segunda Guerra Mundial .,
+ espalhar: Pelo contrário, há que se fortalecer ainda mais o modelo, a fim de permitir a eles [espalhar o bem e a verdade.,
+ estender: Vico [estendeu gratuitamente essa lei a todas as sociedades pagãs.,
+ semear: Ontem os avanços rebeldes com bombardeios [semearam pânico na capital de Ruanda, convertida quase em cidade fantasma.,}
+Chave: DISSEMINAR <verb.communication>
+ILI: 00937334
+
+Sense 2
+{00937334} <verb.communication> sow, sough -- (introduce into an environment; "sow suspicion or beliefs")
+       => {00936422} <verb.communication> circulate, circularize, circularise, distribute, disseminate, propagate, broadcast, spread, diffuse, disperse, pass around -- (cause to become widely known; "spread information"; "circulate a rumor"; "broadcast the news")
+           => {00922993} <verb.communication> publicize, publicise, air, bare -- (make public; "She aired her opinions on welfare")
+               => {00920928} <verb.communication> tell -- (let something be known; "Tell them that you will be late")
+                   => {00804489} <verb.communication> inform -- (impart knowledge of some fact, state or affairs, or event to; "I informed him of his rights")
+                       => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                           => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                               => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

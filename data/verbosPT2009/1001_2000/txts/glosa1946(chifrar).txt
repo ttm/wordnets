@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA1946
+
+DADO O SYNSET:
+
+S='Glosa1946'
+{chifrar: A mosca chateou o boi, que ficou nervoso e I]chifrou o cavalo, que deu um coice na cabra.,
+ cornear: x,
+ escornar: E, se algum boi I]escornar homem ou mulher, que morra, o boi será apedrejado certamente, ea sua carne se não comerá; mas o dono do boi será absolvido.,
+ escornichar: x,
+ marrar: Arremetia contra os "varaus" da porteira, agitava o "cupim", I]marrava a cerca, mugia lentamente, babava-se, estremecia todo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1946' = “golpear ou perfurar com um chifre ou presa”
+{chifrar: A mosca chateou o boi, que ficou nervoso e I]chifrou o cavalo, que deu um coice na cabra.,
+ escornar: E, se algum boi I]escornar homem ou mulher, que morra, o boi será apedrejado certamente, e a sua carne se não comerá; mas o dono do boi será absolvido.,}
+Chave: CHIFRAR <verb.contact>
+ILI: 01403826
+
+Sense 1
+{01403826} <verb.contact> horn, tusk -- (stab or pierce with a horn or tusk; "the rhino horned the explorer")
+       => {01400358} <verb.contact> pierce1, thrust1 -- (penetrate or cut through with a sharp instrument)
+           => {01190419} <verb.contact> penetrate, perforate3 -- (pass into or through, often by overcoming resistance; "The bullet penetrated her chest")
+               => {01958650} <verb.motion> enter, come in2, get into, get in1, go into, go in, move into -- (to come or go into; "the boat entered an area of shallow marshes")

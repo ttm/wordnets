@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA2775
+
+DADO O SYNSET:
+
+  S='Glosa2775'
+	    {redactilografar: x,
+	      redatilografar: Antes, toda vez que errava, Seu Simplício tinha que I]redatilografar tudo (não se conhecia “redigitar”, na época), submetendo-se à chatice dos corretores de texto, que exigiam paciência e tempo até secarem no papel.,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2775' = “datilogravar  novamente”
+	    {redatilografar: Nesse período, a atriz redatilografou todo o livro, serviço braçal que, para ela, ajudou a marcar quais as passagens mais interessantes.,}
+
+Chave: REDATILOGRAFAR <verb.creation>
+ILI: EQ_HAS_HYPERONYM - 01573984
+
+Sense 1
+{01573984} <verb.creation> remake, refashion1, redo, make over -- (make new; "She is remaking her image")
+       => {01575778} <verb.creation> produce, make1, create3 -- (create or manufacture a man-made product; "We produce more cars than we can sell"; "The company has been making toys for two centuries")

@@ -1,0 +1,43 @@
+ANÁLISE DA GLOSA2006
+
+DADO O SYNSET:
+	
+S='Glosa2006'
+    	{abalançar: O mar bravio fazia o barco H]abalançar.,
+      	 abanar: O milharal M]abanava com o pé-de-vento.,
+      	 adejar: As velas do barco H]adejavam ao vento.,
+      	 agitar: O vento I]agitava as árvores; uma estranha sensação de tempo suspenso.,
+      	 arfar: No momento em que ao fisgar da âncora I]arfava o lindo navio, como um corcel brioso sofreado pela mão do ginete, quebrou o silêncio da noite um dobre fúnebre.,
+      	 balançar: Nas últimas baterias do campeonato, o leste entrou com toda sua força fazendo com que as ondas piorassem bastante. Nessa hora quem estava dentro do barco sentia-se como uma meia dentro de uma máquina de levar de tanto que o barco I]balançava. ,
+      	 balancear: x,
+      	 balouçar: Logo a seguir, o barco começou a I]balouçar, o mar apresentava uma cor verde-acastanhada, e o fumo subia a vários quilómetros na atmosfera.,
+      	 brandir: Os ramos das árvores A]brandiam com o vento.,
+      	 embalançar: x,
+      	 espanar: x,
+      	 jogar: Por essas razões, não deixam estes  mergulhadores de ter uma dose de razão, restando-nos lembras as inúmeras vezes que o amigo mostrou aquela anêmona que pasou despercebida e a ajuda na hora de colocar o equipamento quando o barco I]jogava muito.,
+      	 menear: O muro não era alto, e a espiga era baixinha; bastava esticar o braço para arrancá-la do pé. Rangel não esticava o braço, sem espiar primeiro para todos os lados, a ver se vinha alguém, e quando chegava a esticá-lo, acontecia que uma lufada de vento I]meneava a espiga ou algum passarinho andava ali nas folhas secas.,
+      	 oscilar: Quando chegamos ao porto, ainda não chovia forte, mas depois de 1 ou 2 minutos, um verdadeiro toró caiu, para nossa desgraça: o barco I]oscilava perigosamente, os botos se recusavam a aparecer, fotógrafos buscavam a foto perfeita,  e nós não víamos a hora de chegar na ilha para poder ficar um pouco mais secos. ,
+      	 sacudir: Como nosso barco não era muito grande (36 pés), ele I]sacudia muito com as ondas e era difícil manter o leme ontrolado, contou Liliana Fracari. ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2006' = “mover-se para frente e para trás ou para os lados”
+    	{abalançar: Nossas condições financeiras começaram a I]abalançar.,
+      	 abanar: OShaoran trocou a sua expressão de tristeza para lutadora, o cabelo I]abanava com a brisa.,
+      	 adejar: Seu véu carmim I]adejava à brisa primaveril.,
+      	 agitar: As árvores centenárias estão lá, como testemunhas silenciosas que I]agitam ao vento.,
+      	 arfar: No momento em que ao fisgar da âncora I]arfava o lindo navio, quebrou o silêncio da noite um dobre fúnebre.,
+      	 balançar: Quem estava dentro do barco sentia-se como uma meia dentro de uma máquina de levar de tanto que o barco I]balançava.,
+      	 balouçar: Logo a seguir, o barco começou a I]balouçar, o mar apresentava uma cor verde-acastanhada, e o fumo subia a vários quilômetros na atmosfera.,
+      	 brandir: Juízes determinam suas sentenças... o martelo brilha como nunca se viu, I]brandindo no céu.,
+      	 jogar: Restando-nos lembrar as inúmeras vezes em que o amigo mostrou aquela anêmona que passou despercebida e a ajuda na hora de colocar o equipamento quando o barco I]jogava muito.,
+      	 menear: Os homens afoitos vêem a curva do seio, os quadris a I]menear.,
+      	 oscilar: Um verdadeiro toró caiu, para nossa desgraça: o barco I]oscilava perigosamente.,
+      	 sacudir: Como nosso barco não era muito grande, ele I]sacudia muito com as ondas.}
+Chave: BALANÇAR <verb.motion>
+ILI: 01821183
+
+Sense 1
+{01821183} <verb.motion> rock, sway, shake2 -- (move back and forth or sideways; "the ship was rocking"; "the tall building swayed"; "She rocked back and forth on her feet")
+       => {01822383} <verb.motion> move back and forth -- (move in one direction and then into the opposite direction)
+           => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right")

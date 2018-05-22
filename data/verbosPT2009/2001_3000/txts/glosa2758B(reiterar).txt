@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA2758B
+
+DADO O SYNSET:
+S='Glosa2758'
+	    {iterar: Configurada para I]iterar 3000 vezes o conjunto de treinamento de duas palavras, a rede apresentou a seguinte plasticidade durante o tempo de treinamento (realizado em um computador tipo 486 DX 2 100 MHz com 24 Mbytes de memória ram).,
+	      recomeçar: Foi portanto necessário proceder à imediata dessecação das terras inundadas e [recomeçar a construção dos diques projetados para o Zuiderzee.,
+	      reencetar: Na hora em que o Brasil se apronta para I]reencetar a urgente aventura de reconstrução do seu desenvolvimento, é mais do que oportuno, a par de louvar as vantagens comparativas da sua grandeza, tratar dos graves problemas que ela acrescenta a essa tarefa, para que não se incorra nos erros do passado, revivendo o espírito de que, nessa terra, “em se plantando, tudo dá”. # Quem se recusa a I]reencetar o trabalho, porque foi mal sucedido antes, não merece desfrutar o êxito dos resultados.,
+	      reiniciar: Com isso, a licitação não perdeu a validade em razão do tempo e o prefeito Paulo Maluf pôde [reiniciar as obras com base no novo contrato.,
+	      reiterar: Houve elaboração e alguma ousadia na inserção de cenas de documentários de guerra que [reiteram bombardeios sucessivos como pano de fundo do dilaceramento da mãe.,
+	      renovar: Em 1918 veio a Missão Francesa, para [renovar o ensino militar no país.,
+	      repetir: Aliás, da construção ainda restam materiais que podem [repetir a tragédia do Pacaembu, em que a desídia dos nossos dirigentes colocou paus e pedras nas mãos de torcedores assassinos.,
+	      retravar: H]Retravar uma luta.,
+	      tornar: O presidente Musharraf I]tornou a fazer estas promessas.,
+	      voltar: I]Voltou às suas atividades diárias, como trabalhar, estudar, frequentar bares, restaurantes, cinemas, eventos e outros; voltou a se relacionar com as pessoas, tanto na parte social como na afetiva; voltou a viajar e resumindo, voltou a fazer tudo o que necessita e tem vontade.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2758B' = “dizer, afirmar ou executar novamente”
+	    {reiterar: Houve elaboração e alguma ousadia na inserção de cenas de documentários de guerra que [reiteram bombardeios sucessivos como pano de fundo do dilaceramento da mãe.,
+	      renovar: O deputado Francisco Gualberto I]renovou suas críticas ao abuso do poder econômico na campanha eleitoral de 2006.,
+	      repetir: E I]repetiu as mesmas ofensas à sua esposa.,
+	      tornar: O presidente Musharraf I]tornou a fazer estas promessas.,
+	      voltar: I]Voltou às suas atividades diárias, como trabalhar, estudar, frequentar bares, restaurantes, cinemas, eventos e outros; voltou a se relacionar com as pessoas, tanto na parte social como na afetiva; voltou a viajar e resumindo, voltou a fazer tudo o que necessita e tem vontade.,}
+
+Chave: REITERAR <verb.communication>
+ILI: 00926576
+
+Sense 1
+{00926576} <verb.communication> repeat, reiterate, ingeminate, iterate, restate, retell -- (to say, state, or perform again; "She kept reiterating her request")
+       => {00920928} <verb.communication> tell -- (let something be known; "Tell them that you will be late")
+           => {00804489} <verb.communication> inform -- (impart knowledge of some fact, state or affairs, or event to; "I informed him of his rights")
+               => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                   => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                       => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA1002
+
+DADO O SYNSET:
+	
+S='Glosa1002'
+{descair: A bola encobre o zagueiro e, quando começa a [descair, Marcelinho acerta o sem-pulo inapelável. # Ora erguia as mãos, [descaindo a cabeça; ora fazia voltas, sapateando e dando pungas no ar.,
+ escorrer: A borra pode [escorrer para a represa, segundo o Heitor Maruno, gerente de controle da regional de Santo André da Cetesb.,
+ pender: Se você deslocar o fio para uma de suas pontas, ela [penderá para o outro lado, só retornando ao equilíbrio horizontal quando o fio voltar para aquele ponto inicial.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1002'= “inclinar numa determinada direção”
+	    {descair: A fotografia descolou em cima do lado esquerdo e I]descaiu um ou dois centímetros.,
+	      pender: Se você deslocar o fio para uma de suas pontas, ela [penderá para o outro lado, só retornando ao equilíbrio horizontal quando o fio voltar para aquele ponto inicial.,}
+
+Chave: PENDER <verb.motion>
+ILI: 01981639
+
+Sense 5
+{01981639} <verb.motion> decline -- (go down; "The roof declines here")
+       => {01918961} <verb.motion> drop -- (to fall vertically; "the bombs are dropping on enemy targets")
+           => {01912987} <verb.motion> descend, fall, go down2, come down -- (move downward and lower, but not necessarily all the way; "The temperature is going down"; "The barometer is falling"; "The curtain fell on the diva"; "Her hand went up and then fell again")
+               => {01782203} <verb.motion> travel, go, move3, locomote -- (change location; move, travel, or proceed; "How fast does your new car go?"; "We travelled from Rome to Naples by bus"; "The policemen went from door to door looking for the suspect"; "The soldiers moved towards the city in an attempt to take it before night fell")

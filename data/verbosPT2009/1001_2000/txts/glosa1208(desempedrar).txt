@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA1208
+
+DADO O SYNSET:
+
+S='Glosa1208'
+{descalçar: M]Descalçar uma rua,
+ desempedrar: H]Desempedrou uma rua,}
+	  
+A='Glosa839'
+{calçar, calcetar, empedrar, pavimentar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1208' = “remover solo ou rochas/pedras”
+{descalçar: Pode-se definir bombeamento como sendo a expulsão das partículas finas plásticas componentes da fundação de um pavimento, I]descalçando-o e diminuindo bruscamente o suporte disponível.,
+ desempedrar: Sua graça está pronta a escoar o pântano, a I]desempedrar o solo.}
+A='Glosa839'
+{calçar, calcetar, empedrar, pavimentar}
+Chave: DESEMPEDRAR<verb.change>
+ILI: 00265787
+
+Sense 2
+{00265787} <verb.change> erode, eat away, fret1 -- (remove soil or rock; "Rain eroded the terraces")
+       => {00250328} <verb.change> damage -- (inflict damage upon; "The snow damaged the roof"; "She damaged the car when she hit the tree")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

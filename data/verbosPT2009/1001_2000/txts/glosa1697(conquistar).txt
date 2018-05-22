@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA1697
+
+DADO O SYNSET:
+
+S='Glosa1697'
+{atrair: Por mais alto que reclamassem as circunstâncias e por mais forte que gritasse o raciocínio, seu coração só queria perdoar, e [atrair o seu amado.,
+ cativar: Achava natural que as gentilezas da esposa chegassem a [cativar um homem, e Rubião podia ser esse homem.,
+ conquistar: Ao ver Gene Kelly na tela enfrentando perigos para [conquistar seu amor, nunca mais perdi um filme dele.,
+ emplacar: x,
+ enamorar: O mito da Iara, aliás, pode ser reconhecido em várias culturas: na Espanha chama-se Sirena; na Grécia, a mitológica Nereidas; a Kianda africana e a portuguesa Sereia, criaturas das águas que I]enamoram os homens e os levam à morte.,
+ namorar: Sete anos e nove meses tinha ele de casado com a Luzia; A]namorara-o o seu lindo cabelo preto e  o seu rosto de nazarena.,
+ seduzir: A primeira foi a experiência pessoal de um adolescente que usou poemas de Neruda para [seduzir garotas.,}
+	  
+A='Glosa1284'
+{desenamorar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1697' = “fazer com que [alguém] fique enamorado por você”
+{atrair: Por mais alto que reclamassem as circunstâncias e por mais forte que gritasse o raciocínio, seu coração só queria perdoar, e [atrair o seu amado.,
+ cativar: Esteja certa de que o I]cativou completamente, mas ele não a conquistou.,
+ conquistar: Ao ver Gene Kelly na tela enfrentando perigos para [conquistar seu amor, nunca mais perdi um filme dele.,
+ enamorar: O mito da Iara, aliás, pode ser reconhecido em várias culturas: na Espanha chama-se Sirena; na Grécia, a mitológica Nereidas; a Kianda africana e a portuguesa Sereia, criaturas das águas que I]enamoram os homens e os levam à morte.,
+ seduzir: A primeira foi a experiência pessoal de um adolescente que usou poemas de Neruda para [seduzir garotas.,}
+	  
+A='Glosa1284'
+{desenamorar}
+Chave: CONQUISTAR <verb.emotion>
+ILI: 01754132
+
+Sense 1
+{01754132} <verb.emotion> capture, enamour, trance, catch5, becharm, enamor, captivate, beguile, charm, fascinate1, bewitch, entrance, enchant1 -- (attract; cause to be enamored; "She captured all the men's hearts")
+       => {01755473} <verb.emotion> attract, appeal -- (be attractive to; "The idea of a vacation appeals to me"; "The beautiful garden attracted many people")

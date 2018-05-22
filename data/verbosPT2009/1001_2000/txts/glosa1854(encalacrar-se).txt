@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA1854
+
+DADO O SYNSET:
+
+S='Glosa1854'
+    	{encalacrar-se: Animou-a a endividar-se em dólar, convidou-a a diversificar de forma estapafúrdia (sempre em benefício dos empresários e nunca das empresas) e incitou-a a I]encalacrar-se em projetos faraônicos.,
+      	enrascar-se: x,
+      	entalar-se: Nessa altura vi muita gente I]entalar-se completamente só porque seguiram o conselho do funcionário bancário.,
+      	implicar-se: M]Implicaram-no numa conspiração.,}
+  
+A='Glosa1392'
+    {desembaraçar-se, desenrascar-se, desenredar-se, desentalar-se, desenvencilhar-se, desvencilhar-se, desvincilhar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1854' = “ficar complexo ou intricado ou complicado” 
+    	{encalacrar-se: Mas , se o País não canalizar sua energia para voltar a crescer , vai se I]encalacrar.,
+      	entalar-se: Nessa altura vi muita gente I]entalar-se completamente só porque seguiram o conselho do funcionário bancário.,}
+  
+A='Glosa1392'
+    {desembaraçar-se, desenrascar-se, desenredar-se, desentalar-se, desenvencilhar-se, desvencilhar-se, desvincilhar-se}
+Chave: ENCALACRAR-SE <verb.change>
+ILI: 00389424
+ 
+Sense 8
+{00389424} <verb.change> involve -- (make complex or intricate or complicated; "The situation was rather involved")
+       => {00388769} <verb.change> complicate1, refine6, rarify, elaborate -- (make more complex, intricate, or richer; "refine a design or pattern")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

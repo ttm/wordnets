@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA0109
+
+DADO O SYNSET:
+
+S='Glosa109'
+{aclarar-se: O céu H]aclarou-se.,
+alumbrar-se: x,
+alumiar-se: H]Alumiavam-se com uma lamparina.,
+esclarecer-se: O horizonte se H]esclarecia aos poucos.,
+iluminar-se: O aposento, até então esclarecido apenas por uma lamparina colocada sobre uma cantoneira, [iluminou-se.,}
+A='Glosa3601'
+{denegrir-se, enegrecer-se, entenebrecer-se, entrevar-se2, escurecer-se, negrejar-se, obumbrar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa109' = “x”
+{aclarar-se: I]Aclarava-se no romper da aurora. Imprimia-se primores, ridendo.,
+alumiar-se: Ficava agora dias inteiros sem se vestir, usava meias de algodão cinzentas e I]alumiava-se com uma vela.,
+esclarecer-se: Apenas o sol começava a incendiar o espaço e o rosto macilento I]se esclarecia com a grande doçura de uma longa resignação de raça.,
+iluminar-se: O aposento, até então esclarecido apenas por uma lamparina colocada sobre uma cantoneira, [iluminou-se.,}
+A='Glosa3601'
+{denegrir-se, enegrecer-se, entenebrecer-se, entrevar-se2, escurecer-se, negrejar-se, obumbrar-se}
+Chave: ILUMINAR-SE <verb.change>
+ILI: 00282678
+
+Sense 1
+{00282678} <verb.change> light, illume, illumine, light up, illuminate3 -- (make lighter or brighter; "This lamp lightens the room a bit")
+       => {00272032} <verb.change> lighten2, lighten up1 -- (become lighter; "The room lightened up")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

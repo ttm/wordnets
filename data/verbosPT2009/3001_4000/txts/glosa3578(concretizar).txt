@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA3578
+
+DADO O SYNSET:
+
+S='Glosa3578'
+	    {
+	      concretizar: Com ele, Júlia se casou, teve dois filhos e pôde enfim [concretizar o maior sonho de sua vida, que alimentava desde criança. ,
+	      materializar: A rigor, somente a música contemporânea conseguiu, num certo sentido, [materializar o sonho de Mallarmé. / O mais importante numa equipe ou em uma seleção é dispor de vários jogadores capazes de [materializar as oportunidades. ,
+	      objetivar: De convicções nacionalistas, percebiam a Revolução como o momento para [objetivar os ideais que balizaram as lutas empreendidas contra as oligarquias, na década de 1920./ Quando a gente quer expressar algo de muito profundo escreve um poema ou um romance, procura assim [objetivar a paixão.  ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3578' = “tornar realidade”
+	     {concretizar: A dupla de alpinistas brasileiros Eliseu Frechou e Bito Meyer [concretizou no último dia nove seu maior sonho. ,
+	      materializar: As igrejas [materializam a religião e a pervertem., / Modelo I]materializa as características de um veículo de metrópole. ,
+	      objetivar: De convicções nacionalistas, percebiam a Revolução como o momento para [objetivar os ideais que balizaram as lutas empreendidas contra as oligarquias, na década de 1920./ Quando a gente quer expressar algo de muito profundo escreve um poema ou um romance, procura assim [objetivar a paixão.  ,}
+Chave: CONCRETIZAR <verb.change>
+ILI: 00333055
+
+Sense 1
+{00333055} <verb.change> happen1, materialize, materialise -- (come into being; become reality; "Her dream really materialized")
+       => {00329254} <verb.change> happen, hap, go on, pass off, occur, pass, fall out, come about, take place -- (come to pass; "What is happening?"; "The meeting took place off without an incidence"; "Nothing occurred that seemed important")

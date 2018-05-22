@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA3537
+
+DADO O SYNSET:
+
+S='Glosa3537'
+	    {
+	      aclimatar: Os membros do Grêmio Haicai Ipê reúnem-se mensalmente para estudar, produzir e apreciar haicais, com o intuito de I]aclimatar ao Brasil essa forma japonesa na origem. / A partir de 1620, casais de colonos chegavam dos Açores e tentava-se I]aclimatar culturas de exportação (açúcar e algodão). ,
+	      naturalizar: x,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3537' = “tornar acostumado com um certo clima”
+	     {aclimatar: Nos anos seguintes, a Vinhos Salton importou e I]aclimatou as melhores variedades de uvas, formando vinhedos próprios e investindo em tecnologia./ A partir de 1620, casais de colonos chegavam dos Açores e tentava-se I]aclimatar culturas de exportação (açúcar e algodão). ,}
+Chave: ACLIMATAR <verb.change>
+ILI: 00381744
+
+Sense 1
+{00381744} <verb.change> acclimatize, acclimatise, acclimate -- (get used to a certain climate; "They never acclimatized in Egypt")
+       => {00144751} <verb.change> adjust1, conform1, adapt2 -- (adapt or conform oneself to new or different conditions; "We must adjust to the bad economic situation")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night") 

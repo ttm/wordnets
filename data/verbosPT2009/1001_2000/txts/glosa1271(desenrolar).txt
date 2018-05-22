@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA1271
+
+DADO O SYNSET:
+
+S='Glosa1271'
+{desdobrar: I]Desdobrei a folha com cuidado e comecei a ler o que tinha escrito,
+ desembrulhar: H]Desembrulharam as toalhas arrumadas no armário,
+ desenrolar: Harry I]desenrolou o pequeno pedaço de pergaminho e leu a mensagem extremamente pequena,
+ estender: I]Estendeu sua toalha, deitou para pegar aquele bronze e dormiu,}
+	  
+A='Glosa1677'
+{dobrar, embrulhar, enrolar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1271' = “estender ou abrir algo que está fechado ou enrolado”
+{desdobrar: I]Desdobrei a folha com cuidado e comecei a ler o que tinha escrito.,
+ desembrulhar: Meu pai, então, I]desembrulhou o Atlas Shell dele, e me mostrou. A Suécia ficava do outro lado do mundo.,
+ desenrolar: Harry I]desenrolou o pequeno pedaço de pergaminho e leu a mensagem extremamente pequena.,
+ estender: Sílvia I]estendeu a toalha no meio da pequena praia e os três se sentaram com ela.,}
+A='Glosa1677'
+{dobrar, embrulhar, enrolar}
+Chave: DESENROLAR <verb.contact>
+ILI: 01536067
+
+Sense 4
+{01536067} <verb.contact> unfold, spread3, spread out3, open8 -- (spread out or open from a closed or folded state; "open the map"; "spread your arms")
+       => {01477750} <verb.contact> undo -- (cancel, annul, or reverse an action or its effect; "I wish I could undo my actions")
+           => {00133458} <verb.change> change by reversal, turn, reverse -- (change to the contrary; "The trend was reversed"; "the tides turned against him"; "public opinion turned when it was revealed that the president had an affair with a White House intern")
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

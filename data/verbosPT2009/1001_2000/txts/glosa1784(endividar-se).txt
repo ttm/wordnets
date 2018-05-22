@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA1784
+
+DADO O SYNSET:
+
+S='Glosa1784'
+{encalacrar-se: O amante se convenceu de que as mulheres mais caras são justamente as que se dão de graça. Os seus magros cobres de amanuense não chegavam para aquele carro e para o hotel com duas entradas, onde se escondiam aqueles amores ignóbeis. O pobre rapaz recorreu ao prego e ao usurário: I]encalacrou-se deveras.,
+ encravar-se: x,
+ encravelhar-se: x,
+ encravilhar-se: x,
+ endividar-se: O casamento, apesar de rápido, foi custoso: Muller [endividou-se para bancar os US$ 70 mil consumidos na cerimônia para cerca de 700 convidados.,
+ enforcar-se: x,
+ oberar-se: x,}
+	  
+A='Glosa1288'
+{desencalacrar-se, desendividar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1784' = “contrair dívidas”
+{encalacrar-se: A atual política econômica [encalacrou-se numa armadilha.,
+ endividar-se: O casamento, apesar de rápido, foi custoso: Muller [endividou-se para bancar os US$ 70 mil consumidos na cerimônia para cerca de 700 convidados.,}
+	  
+A='Glosa1288'
+{desencalacrar-se, desendividar-se}
+Chave: ENDIVIDAR-SE <verb.possession>
+ILI: EQ_HAS_NEAR_SYNONYM – 02188834 – “falhar em pagar”
+
+Sense 1
+{02188834} <verb.possession> default, default on -- (fail to pay up)
+       => {02454065} <verb.social> fail2, neglect -- (fail to do something; leave something undone; "She failed to notice that her child was no longer in his crib"; "The secretary failed to call the customer and the company lost the account")

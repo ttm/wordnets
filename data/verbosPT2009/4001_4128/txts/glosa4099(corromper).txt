@@ -1,0 +1,52 @@
+ANÁLISE DA GLOSA4099
+
+DADO O SYNSET:
+
+S='Glosa4099'
+{alterar: Essa mudança I]altera a sociedade e o próprio capitalismo.,
+apeçonhar: x,
+apeçonhentar: x,
+apodrecer: As más companhias fazem A]apodrecer os bons costumes.,
+cancerar: x,
+corromper: A corrupção eleitoral que torna a política a grande prostituta, que I]corrompe a sociedade e desvirtua a cidadania.,
+danar: Os vícios M]danam o corpo e o espírito.,
+decompor: O ódio A]decompôs-lhe o semblante.,
+degenerar: A tendência das novidades que I]degeneram a sociedade é serem mais atraentes que aquilo que segue bons princípios.,
+derrancar2: x,
+desnaturar: A vida em contato com gente primitiva o A]desnaturou.,
+desvirtuar: Os abusos e as práticas delinqüentes I]desvirtuam a sociedade .,
+deteriorar: Os maus costumes são vendidos como produto nobre par todo o mundo, por outro lado, seus efeitos I]deterioram a sociedade de todo o mundo.,
+deturpar: O homem branco acabou por H]deturpar os costumes indígenas.,
+empeçonhar: Um veneno sutil, vago, disperso I]empeçonhou a criação divina.,
+empeçonhentar: x,
+envenenar: A mentira A]envenena os sentimentos.,
+estragar: Os maus hábitos H]estragam a juventude.,
+perder: Os vícios o H]perderam para sempre.,
+perverter: O pecado original I]perverteu o homem tão radicalmente que ele fica sem liberdade.,
+prevaricar: Maus exemplos H]prevaricam a juventude.,
+putrefazer: x,
+putrificar: x,
+transfigurar: Em seu livro, H]transfigurou a grande figura histórica.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4099' = “alterar o original”
+{alterar: Essa mudança I]altera a sociedade e o próprio capitalismo.,
+corromper: Os portugueses [corromperam essa palavra transformando-a em aguapé, nome por que é vulgarmente conhecida.,
+decompor: O ódio A]decompôs-lhe o semblante.,
+degenerar: A bancada do PT e PC do B I]degenerou muito, não são mais meus representantes.,
+desnaturar: Para ele, a equipe econômica I]desnaturou o Plano Real..,
+desvirtuar: Para os técnicos, os leigos I]desvirtuaram o debate.,
+deteriorar: A questão do uso abusivo da droga surgiu e I]deteriorou toda a idéia inicial.,
+deturpar: O homem branco acabou por H]deturpar os costumes indígenas.,
+empeçonhar: Um veneno sutil, vago, disperso I]empeçonhou a criação divina.,
+envenenar: Intrigante, quis A]envenenar a declaração do companheiro.  .,
+perverter: Desculpe porque talvez vá [perverter o seu discurso simplificando-o.,
+transfigurar: Em seu livro, H]transfigurou a grande figura histórica.,}
+Chave: CORROMPER <verb.change>
+ILI: 00196044
+
+Sense 3
+{00196044} <verb.change> corrupt, spoil1 -- (alter from the original)
+       => {00163320} <verb.change> modify -- (make less severe or harsh or extreme; "please modify this letter to make it more polite"; "he modified his views on same-gender marriage")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

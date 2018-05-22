@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA2016
+
+DADO O SYNSET:
+	
+S='Glosa2016'
+{despetalar: Queria I]despetalar a rosa ate o toco, até não ter mais pétalas, mais nada a não ser o início, o final do cabo, o bruto. ,
+ espetalar: "Entrevistas, a medo, pelo outono, / à noite, entre rosais a A]espetalar...",}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2016' = “tirar as pétalas [de]”
+{despetalar: Queria I]despetalar a rosa até o toco, até não ter mais pétalas, mais nada a não ser o início, o final do cabo, o bruto.}
+Chave: DESPETALAR <verb.contact>
+ILI: EQ_HAS_HYPERONYM – 01548883
+
+Sense 1
+{01548883} <verb.contact> pluck, tweak, pull off, pick off -- (pull or pull out sharply; "pluck the flowers off the bush")
+       => {01406785} <verb.contact> pull, draw3, force1 -- (cause to move along the ground by pulling; "draw a wagon"; "pull a sled")
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

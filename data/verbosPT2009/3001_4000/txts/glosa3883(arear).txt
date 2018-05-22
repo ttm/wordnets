@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA3883
+
+DADO O SYNSET:
+
+S='Glosa3883'
+{arear1: Ah, o fogão com as malditas bocas de alumínio para [arear todo dia, até as unhas ficarem no toco.,
+ limpar: Os livros de cozinha ensinavam não só a cozinhar, mas a [limpar pratas, manter o verniz, colar o quebrado .,
+ polimentar: x,
+ polir: As praias de Salvador também são o mercado de Reginaldo Soares dos Santos, 13, que deixou de estudar na segunda série para ajudar a mãe vendendo pedra-pomes (tipo de pedra usada para [polir objetos ou amaciar a pele) .,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3883' = “esfregar energicamente a fim de limpar”
+{arear1: Fiquei com ódio dela outro dia quando I]areou minha frigideira.,
+ limpar: O cerimonial do Palácio Boa Vista, em Campos do Jordão, [limpou a prataria e estendeu os lençóis de linho para receber o governador Luiz Antonio Fleury Filho durante o Carnaval.,
+ polir: Eu mesmo me recuso a torcer pelo mesmo país por que torce o meu vizinho que passa toda a manhã de domingo lavando, ensebando e [polindo seu Gol 1000.}
+Chave: AREAR <verb.contact>
+ILI: 01213799
+
+Sense 3
+{01213799} <verb.contact> scour, abrade1 -- (rub hard or scrub; "scour the counter tops")
+       => {01212021} <verb.contact> rub -- (move over something with pressure; "rub my hands"; "rub oil into her skin")
+           => {01175477} <verb.contact> guide, run1, draw13, pass -- (guide or pass over something; "He ran his eyes over her body"; "She ran her fingers along the carved figurine"; "He drew her hair through his fingers")

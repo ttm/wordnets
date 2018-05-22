@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA2194
+
+DADO O SYNSET:
+
+S='Glosa2194'
+	    {colimar: Estes são os momentos em que deveremos I]colimar realizações perenes.,
+	      mirar: Não M]mirávamos a qualquer interesse. H]Mirar a uma gratificação.,
+	      objetivar: Em 1981 foram introduzidos os CCQ's, que [objetivavam a resolução de problemas diretamente ligados à produção.,
+	      pretender: Os revoltosos [pretendiam um movimento mais amplo, que envolvesse elementos civis de oposição.,
+	      tirar: A]Tira a grandes realizações.,
+	      visar: Durante o período ditatorial do presidente Kwame Nkrumah, foram construídos no país hospitais, escolas, usinas e desenvolvidos projetos que [visavam melhorar as condições de vida da população.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2194' = “ter ambição ou objetivo para ser alcançado”
+	    {colimar: Estes são os momentos em que deveremos I]colimar realizações perenes.,
+	      mirar: Não M]mirávamos a qualquer interesse. H]Mirar a uma gratificação.,
+	      objetivar: Em 1981 foram introduzidos os CCQ's, que [objetivavam a resolução de problemas diretamente ligados à produção.,
+	      pretender: Os revoltosos [pretendiam um movimento mais amplo, que envolvesse elementos civis de oposição.,
+	      tirar: A]Tira a grandes realizações.,
+	      visar: Durante o período ditatorial do presidente Kwame Nkrumah, foram construídos no país hospitais, escolas, usinas e desenvolvidos projetos que [visavam melhorar as condições de vida da população.,}
+
+Chave: PRETENDER <verb.cognition>
+ILI: 00682163
+
+Sense 1
+{00682163} <verb.cognition> draw a bead on, aspire, aim, shoot for -- (have an ambitious plan or a lofty goal)
+       => {00681873} <verb.cognition> plan1, be after -- (have the will and intention to carry out some action; "He plans to be in graduate school next year"; "The rebels had planned turmoil and confusion")
+           => {00684988} <verb.cognition> intend, mean, think6 -- (have in mind as a purpose; "I mean no harm"; "I only meant to help you"; "She didn't think to harm me"; "We thought to return early that night")
+               => {00685673} <verb.cognition> will, wish -- (have in mind; "I will take the exam tomorrow")

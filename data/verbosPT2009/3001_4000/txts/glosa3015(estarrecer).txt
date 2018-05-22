@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA3015
+
+DADO O SYNSET:
+
+S='Glosa3015'
+	    {
+	      congelar: Acredito que o medo I]congela a pessoa. # Você é fria e sua maldade I]congela minha alma.,
+	      estarrecer: Em seus arrôbos de adolescente viril e pênsil, I]estarrece a população francesa ao pular da Torre Eiffel e mergulhar de cabeça num copo de l'aqua ardent. # I]Estarrece perceber determinados comportamentos de uma parcela da sociedade civil que tenta desestabilizar o clima democrático do país.  ,
+	      fulminar: O golpe com que a morte me I]fulmina.,
+	      gelar: O Velho Simão pareceu [gelar com o susto, não fosse sua grande experiência de vida ao longo dos seus 70 e poucos anos.,
+	      petrificar: Tive medo o suficiente pra me I]petrificar até a alma, me deixar totalmente a mercê dequele ser nefasto.,
+	    }
+
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3015' = “tornar teso”
+	     {congelar: Acredito que o medo I]congela a pessoa. # Você é fria e sua maldade I]congela minha alma.,
+	      estarrecer: Em seus arrôbos de adolescente viril e pênsil, I]estarrece a população francesa ao pular da Torre Eiffel e mergulhar de cabeça num copo de l'aqua ardent.,
+	      fulminar: Quando Villa-Lobos apareceu com suas suítes sincopadas e dissonantes, o velho crítico I]fulminou-o com todo o seu arsenal de conceitos.,
+	      gelar: tinha um certo ar político, um desplante de chefe de maioria, que me I]gelou de espanto.,
+	      petrificar: O medo I]petrificou minha esposa, que não esboçou reação.,}
+Chave: ESTARRECER <verb.change>
+ILI: 00406448
+
+Sense 1
+{00406448} <verb.change> stiffen -- (become stiff or stiffer; "He stiffened when he saw his boss enter the room")
+       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night") 

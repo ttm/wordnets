@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA2116
+
+DADO O SYNSET:
+	
+S='Glosa2116'
+    	{agricultar: DEVIANT,
+      	 cultivar: É mais fácil I]cultivar um dom, qualquer que ele seja, do que trabalhar com as próprias fraquezas e lacunas psíquicas.,
+      	 dedicar-se: Miie Tamaki resolveu largar tudo que fazia - era economista - para [dedicar-se à pintura.,
+      	 exercitar: O prêmio é dele e do punhado de bravos nestes três séculos nos dois lados do Atlântico que dispuseram-se a I]exercitar o maravilhoso dom da dúvida no trato com a notícia.,
+      	 tratar: Quer ser escritor, e passou a A]tratar as letras e artes.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2116' = “aplicar-se regularmente [a]”
+    	{cultivar: O romantismo brasileiro teve um sincretismo estilístico em que uma vertente está voltada para o folhetim e em que a outra [cultiva uma literatura de pretensões modais mais altas.,
+      	 dedicar-se: Além da atividade poética, Drummond [dedicou-se também aos contos.,
+      	 exercitar: Graduado em Desenho Industrial, ilustrador, designer, professor, Miguel I]exercita também seus talentos como poeta, palhaço e compositor.,
+      	 tratar: Ele B]trata (d)as ciências e (d)as artes com igual interesse e dedicação.}
+Chave: CULTIVAR <verb.creation>
+ILI: EQ_HAS_HYPERONYM – 01693557
+
+Sense 1
+{01693557} <verb.creation> cultivate -- (foster the growth of)

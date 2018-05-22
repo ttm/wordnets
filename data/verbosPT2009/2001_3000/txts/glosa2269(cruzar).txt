@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2269
+
+DADO O SYNSET:
+
+S='Glosa2269'
+	    {cruzar: Virou-se para nós, I]cruzou os dedos, apertou as mãos sobre o peito, e disse: fiquei cego.,
+	      traçar1: Pára em frente da escadaria do Tesouro, A]traça e destraça a capa espanhola.,
+	      trocar: Ficou até desajeitada: I]trocou as pernas, perdeu o compasso da marcha.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2269' = “ dobrar algo em forma de cruz”
+	    {cruzar: Virou-se para nós, I]cruzou os dedos, apertou as mãos sobre o peito, e disse: fiquei cego.,
+	      traçar1: Pára em frente da escadaria do Tesouro, A]traça e destraça a capa espanhola.,
+	      trocar: Ficou até desajeitada: I]trocou as pernas, perdeu o compasso da marcha.,}
+
+Chave: CRUZAR <verb.motion>
+ILI: 01858845
+
+Sense 4
+{01858845} <verb.motion> cross4 -- (fold so as to resemble a cross; "she crossed her legs")
+       => {01239868} <verb.contact> fold, fold up, turn up -- (bend or lay so that one part covers the other; "fold up the newspaper"; "turn up your collar")
+           => {00345030} <verb.change> change surface -- (undergo or cause to undergo a change in the surface)
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night") 

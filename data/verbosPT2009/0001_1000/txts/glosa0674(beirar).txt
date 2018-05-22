@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0674
+
+DADO O SYNSET:
+
+S='Glosa674'
+{aproximar-se: Em 2000, o excedente natural I]aproxima-se de 240.000.,
+beirar: O preço mínimo [beira R$ 200 milhões.,
+orçar: Nesta época a nossa população I]orçava por 24.420 habitantes dos quais 14.195 do sexo masculino, 1060 estrangeiros.  ,
+rastejar: O avô A]rasteja os 100 anos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa674' = “chegar perto de”
+{aproximar-se: Em 2000, o excedente natural I]aproxima-se de 240.000.,
+beirar: O preço mínimo [beira R$ 200 milhões.,
+orçar: Nesta época a nossa população I]orçava por 24.420 habitantes dos quais 14.195 do sexo masculino, 1060 estrangeiros.,}
+Chave: BEIRAR <verb.stative>
+ILI: 02586008
+
+Sense 1
+{02586008} <verb.stative> approximate, come close -- (be close or similar; "Her results approximate my own")
+       => {02585229} <verb.stative> resemble -- (appear like; be similar or bear a likeness to; "She resembles her mother very much"; "This paper resembles my own work")
+           => {02578124} <verb.stative> match, fit4, correspond, check8, jibe, gibe, tally, agree -- (be compatible, similar or consistent; coincide in their characteristics; "The two stories don't agree in many details"; "The handwriting checks with the signature on the check"; "The suspect's fingerprints don't match those on the gun")
+               => {02584716} <verb.stative> equal, be7 -- (be identical or equivalent to; "One dollar equals 1,000 rubles these days!")

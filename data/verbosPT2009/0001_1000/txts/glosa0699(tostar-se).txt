@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0699
+
+DADO O SYNSET:
+
+S='Glosa699'
+{assar-se: Podem também I]assar-se diretamente nas brasas.,
+crestar-se: As paredes da casa e estúdio de Tutmose I]crestam-se ao sol de Amarna.,
+tostar-se: I]Tostam -se e moem-se como café.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa699' = “queimar (-se) ligeiramente, torrar (-se) através de aquecimento”
+{assar-se: Podem também I]assar-se diretamente nas brasas.,
+crestar-se: As paredes da casa e estúdio de Tutmose I]crestam-se ao sol de Amarna.,
+tostar-se: I]Tostam -se e moem-se como café.,}
+Chave: TOSTAR-SE <verb.change>
+ILI: 00311861
+
+Sense 1
+{00311861} <verb.change> toast, crisp -- (make brown and crisp by heating; "toast bread"; "crisp potatoes")
+       => {00359947} <verb.change> heat1, heat up -- (make hot or hotter; "heat the soup")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

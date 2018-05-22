@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA2428
+
+DADO O SYNSET:
+
+S='Glosa2428'
+	    {alentar: O leite da mãe é para te I]alentar.,
+	      alimentar: O dever de sustento cumpre uma obrigação genérica de I]alimentar os filhos.,
+	      criar: Minha mãe I]criou sozinha os seis filhos.,
+	      nutrir: Concordamos que nosso maior desafio é I]nutrir e instruir nossos filhos.,
+	      substanciar: M]Substanciar um esgotado, um depauperado, um convalescente.,
+	      sustentar: Dever de I]sustentar os filhos é dos pais e não dos avós.,
+	      suster: A família desta última criança não possui condições financeiras mínimas para I]suster os demais filhos.,
+	      tratar: Cabe também aos senhores criar e I]tratar os filhos que as filhas de suas escravas possam ter quando aquelas estiverem prestando serviço.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2428' = “Prover com alimento.”
+	    {alentar: O leite da mãe é para te I]alentar.,
+	      alimentar: Dan [alimentou os cães e Becky preparou o jantar.,
+	      criar: O leite materno I]criou filho.,
+	      nutrir: Não será a terra que vos I]nutriu suficiente para alimentá-los também?,
+	      substanciar: M]Substanciar um esgotado, um depauperado, um convalescente.,
+	      sustentar: A mandioca era o alimento principal dos paulistas, que misturavam sua farinha à carne cozida, fazendo uma paçoca que os sustentava.,
+	      suster: A família desta última criança não possui condições financeiras mínimas para I]suster os demais filhos.,
+	      tratar: Cabe aos senhores I]tratar os filhos que as filhas de suas escravas possam ter quando aquelas estiverem prestando serviço.,}
+
+Chave: ALIMENTAR <verb.consumption>
+ILI: 01166252
+
+Sense 1
+{01166252} <verb.consumption> nourish, nurture, sustain1 -- (provide with nourishment; "We sustained ourselves on bread and water"; "This kind of food is not nourishing for young children")
+       => {01146590} <verb.consumption> provide, supply, ply, cater -- (provide what is desired or needed, especially support, food or sustenance; "The hostess provided lunch for all the guests")
+           => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+               => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children") 

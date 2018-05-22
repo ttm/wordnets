@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA1999
+
+DADO O SYNSET:
+
+S='Glosa1999'
+{esborrachar: Insultado, A]esborrachou o rosto do ofensor.,
+ esmurraçar: x,
+ esmurrar: O senador Antônio Carlos Magalhães [esmurrou o presidente da comissão especial que analisa a medida provisória do programa de ajuda aos bancos (Proer) , senador Ney Suassuna após o depoimento do presidente do Banco Central (BC) , Gustavo Loyola.,
+ esmurregar: x,
+ esmurrengar: x,
+ socar: É antiga a rixa que levou o ex-diretor do Ibama José Perpétuo a [socar o ministro do Meio Ambiente, Brandão Cavalcanti.,
+ soquear: Porém, atualmente ele está agressivo, tenta I]soquear as pessoas, dar pontapés.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1999' = “golpear energicamente”
+{esborrachar: Mas o animal se rebelou e I]esborrachou a fruta com uma patada.,
+ esmurrar: O senador Antônio Carlos Magalhães [esmurrou o presidente da comissão especial que analisa a medida provisória do programa de ajuda aos bancos (Proer) , senador Ney Suassuna após o depoimento do presidente do Banco Central (BC) , Gustavo Loyola.,
+ socar: É antiga a rixa que levou o ex-diretor do Ibama José Perpétuo a [socar o ministro do Meio Ambiente, Brandão Cavalcanti.,
+ soquear: Porém, atualmente ele está agressivo, tenta I]soquear as pessoas, dar pontapés.,}
+Chave: SOCAR <verb.contact>
+ILI: 01356637
+
+Sense 1
+{01356637} <verb.contact> sock, bop, whop1, whap, bonk, bash -- (hit hard)
+       => {01359510} <verb.contact> hit -- (deal a blow to, either with the hand or with an instrument; "He hit her hard in the face")
+           => {01169634} <verb.contact> touch -- (make physical contact with, come in contact with; "Touch the stone for good luck"; "She never touched her husband")

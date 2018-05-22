@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA1415
+
+DADO O SYNSET:
+
+S='Glosa1415'
+{deformar: Evitar a umidade no parquet, inimiga número um da madeira; ela pode I]dilatar o taco que, quando volta a secar, tende a deformar e soltar-se.,
+ desajeitar: x,
+	 desformar: Ao I]desformar uma viga é terminantemente proibido deixar por último o escoramento de sua região central.,}
+	  
+A='Glosa3861'
+{afeiçoar2, amoldar, esculpir, formar, modelar, moldar, plasmar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1415' = “fazer ficar sem forma”
+{deformar: Quando a composição com cerca de 70 vagões passava pelo trecho, o excesso de temperatura I]deformou os trilhos, ocasionando o acidente.,}
+	  
+A='Glosa3861'
+{afeiçoar2, amoldar, esculpir, formar, modelar, moldar, plasmar}
+Chave: DEFORMAR <verb.contact>
+ILI: 01541269
+
+Sense 1
+{01541269} <verb.contact> deform -- (make formless; "the heat deformed the plastic sculpture")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

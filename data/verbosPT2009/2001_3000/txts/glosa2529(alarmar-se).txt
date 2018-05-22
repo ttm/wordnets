@@ -1,0 +1,36 @@
+ANÁLISE DA GLOSA2529
+
+DADO O SYNSET:
+
+S='Glosa2529'
+	    {alarmar-se: Ainda é muito cedo para [se alarmar com os resultados, disseram os pesquisadores da Universidade da Carolina do Norte.,
+	      alvoroçar-se: Sabe-se que no ano de 1919 a população de Americana [alvoroçou-se com o incêndio do depósito e fábrica de álcool de Jorge Rehder.,
+	      alvorotar-se: Imediatamente Ricardo Franco despachou duas canoas para o sul, em reconhecimento do número e do estado da expedição inimiga, mandando também solicitar socorrosa; I]alvorotou-se a vila com essa nova, pois não desconhecia a precariedade dos meios de defesa de Coimbra, diligenciando auxiliá-la em circunstância tão aflitiva.,
+	      ariscar-se: x,
+	      assustar-se: Os freqüentadores da noite carioca voltaram a [se assustar, na madrugada de sábado, com a violência em dois dos mais movimentados pontos da Zona Sul: o bar Jobi, na Avenida Ataulfo de Paiva, Leblon, e a boate Resumo da Ópera, na Avenida Borges de Medeiros, na Lagoa.,
+	      espantar-se: Os dados obtidos através desta pesquisa já estavam presentes em outras pesquisas do Nupes (Núcleo de Pesquisas de Ensino Superior da USP) , portanto, não chegaram a [me espantar.,
+	      espaventar-se: Teve medo dos soldados: aquela farda azul com galão vermelho ao longo das calças,espada na cinta, dólmã de botões dourados; I]espaventou-se um pouco.,
+	      saltear-se: A]Saltearam-se com a estranha nova.,
+	      sobressaltar-se: Álvaro de Sá, embora habituado a esta ilusão, não pôde deixar de I]sobressaltar-se um instante, em que, saindo da sua meditação, viu-se de repente no meio do claro-escuro da floresta.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2529' = “Encher-se de apreensão ou alarme.”
+	    {alarmar-se: A Unesco I]alarmou-se com a destruição dos Budas de Bamyan, no Afeganistão.,
+	      alvoroçar-se: Sabe-se que no ano de 1919 a população de Americana [alvoroçou-se com o incêndio do depósito e fábrica de álcool de Jorge Rehder.,
+	      alvorotar-se: Imediatamente Ricardo despachou canoas para o sul, em reconhecimento do número e do estado da expedição inimiga; I]alvorotou-se a vila com essa nova, pois não desconhecia a precariedade dos meios de defesa de Coimbra.,
+	      assustar-se: O governo evidentemente I]assustou-se com a reação dos deputados.,
+	      espantar-se: A mídia toda I]espantou-se com a notícia da extinção do grupo de rock.,
+	      espaventar-se: Teve medo dos soldados: aquela farda azul com galão vermelho ao longo das calças,espada na cinta, dólmã de botões dourados; I]espaventou-se um pouco.,
+	      saltear-se: A]Saltearam-se com a estranha nova.,
+	      sobressaltar-se: Vittoria I]sobressaltou-se com o movimento do elevador.,}
+
+Chave: ALARMAR-SE <verb.emotion>
+ILI: 01730919
+
+Sense 1
+{01730919} <verb.emotion> dismay, alarm, appal1, appall10, horrify1 -- (fill with apprehension or alarm; cause to be unpleasantly surprised; "I was horrified at the thought of being late for my interview"; "The news of the executions horrified us")
+       => {01727523} <verb.emotion> frighten, fright, scare, affright -- (cause fear in; "The stranger who hangs around the building frightens me")
+           => {01710864} <verb.emotion> stimulate, shake, shake up, excite, stir1 -- (stir the feelings, emotions, or peace of; "These stories shook the community"; "the civil war shook the country")
+               => {01708538} <verb.emotion> arouse, elicit, enkindle, kindle, evoke, fire, raise8, provoke -- (call forth (emotions, feelings, and responses); "arouse pity"; "raise a smile"; "evoke sympathy")
+                   => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor") 

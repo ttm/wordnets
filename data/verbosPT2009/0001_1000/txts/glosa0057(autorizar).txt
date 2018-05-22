@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA0057
+
+DADO O SYNSET:
+
+S='Glosa57'
+{autorizar: O Banerj [autorizou a abertura de 13 agências no Rio até às 22h de hoje.,
+permitir: Ela garantiu ter gostado de tudo, só não [permitiu que as passistas, vestidas com minúsculos biquínis, tirassem fotografias a seu lado.,}
+A='Glosa1085'
+{denegar, impedir, obstar, proibir, reprimir, tolher}
+
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa57' = “conceder ou consentir autorização ou liberação”
+{autorizar: O Banerj [autorizou a abertura de 13 agências no Rio até às 22h de hoje.,
+permitir: Ela garantiu ter gostado de tudo, só não [permitiu que as passistas, vestidas com minúsculos biquínis, tirassem fotografias a seu lado.,}
+A='Glosa1085'
+{denegar, impedir, obstar, proibir, reprimir, tolher}
+Chave: AUTORIZAR <verb.communication>
+ILI: 00777368
+
+Sense 2
+{00777368} <verb.communication> authorize, authorise, pass, clear1 -- (grant authorization or clearance for; "Clear the manuscript for publication"; "The rock star never authorized this slanderous biography")
+       => {00776433} <verb.communication> permit, allow, let2, countenance -- (consent to, give permission; "She permitted her son to visit her estranged husband"; "I won't let the police search her basement"; "I cannot allow you to see your exam")
+           => {00771887} <verb.communication> accept, consent, go for -- (give an affirmative reply to; respond favorably to; "I cannot accept your invitation"; "I go for this resolution")
+               => {00693825} <verb.cognition> react, respond -- (show a response or a reaction to something)
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

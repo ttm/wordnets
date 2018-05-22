@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA3915
+
+DADO O SYNSET:
+
+S='Glosa3915'
+    	{colocar: M]Colocar uma banca de jornais.,
+      	 estabelecer: H]Estabeleceu a fábrica em área remota.,
+      	 instalar: A prefeitura [instalou uma placa indicativa na altura dos carros alegóricos .,
+      	 montar: A Aquabel I]montou uma das maiores e melhores estruturas de produção de alevinos do Brasil.,
+      	 pôr: M]Pôr uma loja no centro da cidade.,
+      	 situar: O cerco de Jericó [situa a narrativa no tempo da conquista da Terra Prometida com Josué citado alias no fólio seguinte, artesão da unidade do povo escolhido e sucessor de Moisés ., }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3915' = “montar um estabelecimento como o comercial ou industrial”
+    	{colocar: A Visanet, empresa de relacionamento com os estabelecimentos comerciais filiados à bandeira Visa, I]colocou um ponto de atendimento para Xu Xaine.,
+      	 estabelecer: Francesco se mudou para São Paulo e I]estabeleceu uma loja na rua 25 de Março.,
+      	 instalar: O Grupo Sendas está [instalando um escritório de representação na China.,
+      	 montar: Os sindicalistas [montaram uma barraca de feira na entrada da área de isolamento.,
+      	 pôr: Tenho um dica, que vale para quem I]põe loja on-line.,
+      	 situar: Jeremy Rose, o arquiteto que liderou o projeto de quatro firmas, I]situou o edifício de tal modo que o visitante não conseguisse ignorar o cassino e o parque de diversões.}
+Chave: MONTAR <verb.social>
+ILI: 02353970
+
+Sense 1
+{02353970} <verb.social> establish, set up2, found, launch1 -- (set up or found; "She set up a literacy program")
+       => {02353088} <verb.social> open, open up -- (start to operate or function or cause to start operating or functioning; "open a business")

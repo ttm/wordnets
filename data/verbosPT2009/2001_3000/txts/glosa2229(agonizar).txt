@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2229
+
+DADO O SYNSET:
+
+S='Glosa2229'
+	    {agonizar: O ancião H]agonizava no leito.,
+	      boquear: x,
+	      estertorar: Os moribundos I]estertoravam em meio a lagos de sangue.,
+	      vasquear: x,
+	      vasquejar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2229' = “padecer de agonia ou angústia”
+	    {agonizar: O ancião H]agonizava no leito.,
+	      estertorar: Os moribundos I]estertoravam em meio a lagos de sangue.,}
+
+Chave: AGONIZAR <verb.emotion>
+ILI: 01742135
+
+Sense 2
+{01742135} <verb.emotion> agonize, agonise -- (suffer agony or anguish)
+       => {01742440} <verb.emotion> suffer -- (endure (emotional pain); "Every time her husband gets drunk, she suffers")
+           => {01720480} <verb.emotion> feel, experience -- (undergo an emotional sensation; "She felt resentful"; "He felt regret")

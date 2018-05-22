@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA1310
+
+DADO O SYNSET:
+
+S='Glosa1310'
+{apear: O momento de montar e I]apear o cavalo é de muita importância para o praticante,
+ apear-se: Sereno lança a mão ao cavalo do Dr. Schultze, intimando-o a I]apear-se,
+ desapear: Ele vai falar de um homem que um dia I]desapeou de seu cavalo magricela na poeira de Buritizal,
+ descavalgar: Eram as estalagens do caminho, onde ele [descavalgava, para beber vagarosamente um golpe d' água fresca,
+ descer: O cocheiro fez parar o cavalo: Rubião [desceu, e disse-lhe que fosse andando devagar, ,
+ desencavalgar: x,
+ desmontar: O cavaleiro deve [desmontar e apresentar o freio ao juiz designado,}
+	  
+A='Glosa1735'
+{cavalgar, montar, subir}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1310' = “descer da cavalgadura”  
+{apear: O momento de montar e I]apear o cavalo é de muita importância para o praticante.,
+ apear-se: Sereno lança a mão ao cavalo do Dr. Schultze, intimando-o a I]apear-se.,
+ desapear: Ele vai falar de um homem que um dia I]desapeou de seu cavalo magricela na poeira de Buritizal.,
+ descavalgar: Eram as estalagens do caminho, onde ele [descavalgava, para beber vagarosamente um golpe d' água fresca.,
+ descer: O cocheiro fez parar o cavalo: Rubião [desceu, e disse-lhe que fosse andando devagar.,
+ desmontar: O cavaleiro deve [desmontar e apresentar o freio ao juiz designado.,}
+A='Glosa1735'
+{cavalgar, montar, subir}
+Chave: DESMONTAR <verb.motion>
+ILI: 01901014
+
+Sense 1
+{01901014} <verb.motion> unhorse, dismount, light1, get off, get down1 -- (get off (a horse))
+       => {01912987} <verb.motion> descend, fall, go down2, come down -- (move downward and lower, but not necessarily all the way; "The temperature is going down"; "The barometer is falling"; "The curtain fell on the diva"; "Her hand went up and then fell again")
+           => {01782203} <verb.motion> travel, go, move3, locomote -- (change location; move, travel, or proceed; "How fast does your new car go?"; "We travelled from Rome to Naples by bus"; "The policemen went from door to door looking for the suspect"; "The soldiers moved towards the city in an attempt to take it before night fell")

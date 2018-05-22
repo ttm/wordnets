@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0255
+
+DADO O SYNSET:
+
+S='Glosa255'
+{abandonar-se: I]Abandonou-se exausto na poltrona, tirou do rosto os óculos, a fim de desembaçá-los.,
+entregar-se: Não olhou para Ahy, nem escutou as sentidas cantigas; [entregou-se a seus prazeres e, quando se sentiu fatigado, entrou na gruta e adormeceu.,
+render-se: Viu-se, porém, no fim, obrigado a [render-se e capitular.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa255' = “desistir ou concordar em preceder o poder ou posse de outro, ou outra coisa”
+{abandonar-se: I]Abandonou-se exausto na poltrona, tirou do rosto os óculos, a fim de desembaçá-los.,
+entregar-se: Contudo, numa contenda, perdeu a mão direita e I]foi obrigado a entregar-se.,
+render-se: Viu-se, porém, no fim, obrigado a [render-se e capitular.,}
+Chave: RENDER-SE <verb.competition>
+ILI: 01080547
+
+Sense 1
+{01080547} <verb.competition> surrender, give up1 -- (give up or agree to forego to the power or possession of another; "The last Taleban fighters finally surrendered")
+       => {01081553} <verb.competition> yield -- (cease opposition; stop fighting)

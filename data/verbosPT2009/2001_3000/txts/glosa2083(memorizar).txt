@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA2083
+
+DADO O SYNSET:
+	
+S='Glosa2083'
+    	{afixar: x,
+      	 arquivar: Os dois têm 22 anos (ele chama-se Jason Allen Alexander mas, como se verá, é um nome que não é preciso [arquivar na memória) e teriam assim, não fosse a conclusão desta história, uma bela e longa vida em comum à sua espera. # Consegue A]arquivar tudo o que aprende.,
+      	 decorar2: Todas as crianças da classe ouviram uma história dos pais para recontar aos colegas -- não se exige [decorar o texto.,
+      	 encerebrar: x,
+      	 estudar: Este capítulo que você acabou de [estudar teve a finalidade de alertá-lo para a importância do conhecimento dos fatores químicos que influem nos mais variados ecossistemas, interferindo tanto no ambiente físico como no biológico.,
+      	 fixar: Fatboy foi um dos primeiros a I]fixar um nome e um rosto na fugaz cena eletrônica, quando trocou o contrabaixo de roqueiro pelo sampler no início dos anos 90. ,
+      	 memorizar: «O que reforçou o laço daquele casamento, bem como o daquela amizade, foi um detalhe de ordem técnica: a necessidade de [memorizar o que não podia ser anotado em papel», escreveu Brodsky num de seus ensaios.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2083' = “recolher na memória”
+    	{arquivar: Você I]arquivou o que a Ratazana e o Botinha disseram quando essa história começou?,
+      	 decorar2: Eles [decoram os nomes apenas para fazer o exame e depois esquecem.,
+      	 estudar: Bob prefere absorver as palavras e trabalhar com elas antes enquanto Eddie I]estuda suas falas no último minuto.,
+      	 fixar: Ler ajuda muito, mas não se esqueça de colocar em prática o que leu, assim você I]fixa o conhecimento.,
+      	 memorizar: O uruguaio Enrique Ortega Salinas [memorizou uma cifra de 320 dígitos em tempo real (tempo igual ao que o número era pronunciado) e deve entrar para o “Guinness”.}
+Chave: MEMORIZAR <verb.cognition>
+ILI: 00584743
+
+Sense 1
+{00584743} <verb.cognition> memorize, memorise, con, learn3 -- (commit to memory; learn by heart; "Have you memorized your lines for the play yet?")
+       => {00587299} <verb.cognition> study1, hit the books -- (learn by reading books; "He is studying geology in his room"; "I have an exam next week; I must hit the books now")
+           => {00578275} <verb.cognition> learn, larn, acquire -- (acquire or gain knowledge or skills; "She learned dancing from her sister"; "I learned Sanskrit"; "Children acquire language at an amazing rate")

@@ -1,0 +1,48 @@
+ANÁLISE DA GLOSA2867
+
+DADO O SYNSET:
+
+S='Glosa2867'
+	    {abençoar: As pessoas de bem H]abençoam os que lutam pela justiça.,
+	      aforar1: x,
+	      ajudar: Ao [ajudar o estagiário, Maria Fernanda, mais uma vez, estava brigando com a ditadura.,
+	      amparar: O projeto, criado pela CBF, visa [amparar o jogador de futebol desde sua formação até depois que encerrar a carreira.,
+	      apadrinhar: Wanessa Camargo pode I]apadrinhar campanha da medúla óssea.,
+	      apaniguar: A instituição do Judiciário se consolidará como Poder a partir do momento em que fizer valer os mandamentos das regras jurídicas, atendida a exigência de não I]apaniguar poderosos, nem dar conversa a bazofeiros de tribuna política.  ,
+	      bafejar: Mas não desejo deixar esta sala sem lhes propor uma conclusão: o escritor, em Gilberto Freyre, I]bafejou o sociólogo e a sociologia no Brasil; seria melhor dizer: Freyre é a técnica do sociólogo que a personalidade do escritor fez penetrante, atraente, difundida, admirada - quase popular.,
+	      bençoar: A IECR surgiu com vistas a I]bençoar a comunidade do bairro da Imbiribeira.,
+	      fautorizar: x,
+	      favonear: Impossível é o governo federal, responsável pela empresa de administração aeroportuária, continuar na postura do “asno de Buridan”, perplexo e indeciso ante as fórmulas colocadas a seu exame; a única até agora desejada pelo órgão governamental está interditada pelo bom senso e sob suspeita de I]favonear empreiteiras e comerciantes em detrimento da população. ,
+	      favorecer: Ainda na metade do primeiro turno, bastou uma arbitragem estapafúrdia para que os dirigentes de Vasco, Botafogo e Fluminense denunciassem que havia uma armação para [favorecer o Flamengo.,
+	      proteger: Mesmo assim, os seguranças pareciam que estavam querendo [proteger os caras que estavam batendo no Sandro, porque levaram o grupo para um canto da boate, comentou um dos amigos que acompanhava Sandro.,
+	      soprar: A sorte I]soprou para o lado do repórter Archibaldo Antunes que, por quatro dias, subiu os rios Iaco e Caeté ao lado de padre Paolino.,
+	      sorrir: Mas finalmente no Domingo a sorte I]sorriu para o clube serrano que venceu no Alfredo Jaconi um dos líderes do campeonato, o Furacão Atlético Paranaense.,}
+
+	  A='Glosa1147'
+	    {desamparar: Nossa Senhora não [desampara os fiéis,
+	     desapadrinhar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2867' = “Tratar de maneira condescendente”
+	    {abençoar: As pessoas de bem H]abençoam os que lutam pela justiça.,
+	      ajudar: De acordo com Regina, Antonieta ganhou muito dinheiro e [ajudou os pobres, por isso era respeitada na cidade.,
+	      amparar: A fraternidade o I]amparou desde jovem até os últimos instantes de sua vida.,
+	      apadrinhar: Entre sua criadagem tinha o negro Floripes, que o Coronel Lula I]apadrinhou.,
+	      apaniguar: Quais foram os políticos que apadrinharam e I]apaniguaram os diretores do Iaserj?,
+	      bafejar: Mas não desejo deixar esta sala sem lhes propor uma conclusão: o escritor, em Gilberto Freyre, I]bafejou o sociólogo e a sociologia no Brasil.,
+	      favonear: Sua nova posição, degradando-a aos seus próprios olhos, mais do que diante da sociedade que a tolerava e até a I]favoneava, fazia-lhe vir continuamente à imaginação a imagem do seu sedutor.,
+	      favorecer: Quando agradece, você demonstra seu valor a quem o I]favoreceu.,
+	      proteger: A esquerda sempre o I]protegeu.,
+	      soprar: A sorte I]soprou para o lado do repórter Archibaldo Antunes que, por quatro dias, subiu os rios Iaco e Caeté ao lado de padre Paolino.,
+	      sorrir: Mas finalmente no Domingo a sorte I]sorriu para o clube serrano que venceu no Alfredo Jaconi um dos líderes do campeonato, o Furacão Atlético Paranaense.,}
+
+	  A='Glosa1147'
+	    {desamparar: Nossa Senhora não [desampara os fiéis,}
+Chave: FAVORECER <verb.communication>
+ILI: 00879159
+
+Sense 3
+{00879159} <verb.communication> patronize1, patronise1, condescend10 -- (treat condescendingly)
+       => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+           => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel") 

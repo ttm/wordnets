@@ -1,0 +1,41 @@
+ANÁLISE DA GLOSA3848
+
+DADO O SYNSET:
+
+S='Glosa3848'
+{escapar: Na Cidade de Deus, a luta foi para [escapar da morte.,
+	 escapar-se: Cori por vezes foi alcançado, e só à confusão dos outros deveu [escapar-se.,
+	 escapulir-se: "A gente tá aqui há muito tempo", I]escapuliu-se o Zé. ,
+	 esquivar-se: Com isso, [esquivou-se de discutir a essência do projeto, que aparenta desconhecer.,
+	 evadir-se: Tendo o exposto acima sido provado, a pessoa acusada pode I]evadir-se da responsabilidade, provando ser o requerimento ou exigência justificável independentemente de motivos raciais.  ,
+	 eximir-se: Desde a véspera Álvaro não podia [eximir-se à impressão poderosa que causara nele a paixão de Isabel.,
+	 forrar-se2: Pois é óbvio que com o simples fato de negar a qualidade de litisdenunciado, se esta ocorre, não poderá deixar de ser parte no processo e [forrar-se aos seus efeitos.,
+	 largar-se: Como as críticas ao seu trabalho solo tentavam sempre compará-lo ao Iron Maiden, Bruce tentou I]largar-se definitivamente do logotipo "Bruce, ex-vocalista do Iron Maiden", formando uma nova banda.,
+	 livrar-se: Ao ser preso, o cantor tentou [livrar-se do flagrante alegando que a droga era para os componentes de sua banda.,
+	 pisgar-se: Uns dias por outros, I]pisgava-se do serviço o rapaz, e andava por lá quatro horas. ,
+	 refugir: O legislador não pode I]refugir dos limites constitucionais da sua competência, que é oferecida de maneira discreta, mediante a indicação de meros eventos.,
+	 safar-se: O presidente dos EUA, Bill Clinton, nomeou ontem um dos mais experientes advogados de Washington como assessor para assuntos legais da Casa Branca, para ajudá-lo a [safar-se dos problemas provocados pelo caso Whitewater.,
+	 salvar-se: Fleury [salvou-se de um resultado pior graças ao interior do Estado.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3848' = “esquivar-se de conseqüências potencialmente desagradáveis; fugir com uma ação proibida”
+{escapar: Na Cidade de Deus, a luta foi para [escapar da morte.,
+	 escapar-se: Correu, por vezes foi alcançado, e só à confusão dos outros deveu [escapar-se.,
+	 escapulir-se: "A gente tá aqui há muito tempo", I]escapuliu-se o Zé.,
+	 esquivar-se: Com isso, [esquivou-se de discutir a essência do projeto, que aparenta desconhecer.,
+	 evadir-se: Tendo o exposto acima sido provado, a pessoa acusada pode I]evadir-se da responsabilidade, provando ser o requerimento ou exigência justificável independentemente de motivos raciais.  ,
+	 eximir-se: Desde a véspera Álvaro não podia [eximir-se à impressão poderosa que causara nele a paixão de Isabel.,
+	 forrar-se2: Pois é óbvio que com o simples fato de negar a qualidade de litisdenunciado, se esta ocorre, não poderá deixar de ser parte no processo e [forrar-se aos seus efeitos.,
+	 largar-se: Como as críticas ao seu trabalho solo tentavam sempre compará-lo ao Iron Maiden, Bruce tentou I]largar-se definitivamente do logotipo "Bruce, ex-vocalista do Iron Maiden", formando uma nova banda.,
+	 livrar-se: Ao ser preso, o cantor tentou [livrar-se do flagrante alegando que a droga era para os componentes de sua banda.,
+	 pisgar-se: Uns dias por outros, I]pisgava-se do serviço o rapaz, e andava por lá quatro horas. ,
+	 refugir: O legislador não pode I]refugir dos limites constitucionais da sua competência, que é oferecida de maneira discreta, mediante a indicação de meros eventos.,
+	 safar-se: O presidente dos EUA, Bill Clinton, nomeou ontem um dos mais experientes advogados de Washington como assessor para assuntos legais da Casa Branca, para ajudá-lo a [safar-se dos problemas provocados pelo caso Whitewater.,
+	 salvar-se: Fleury [salvou-se de um resultado pior graças ao interior do Estado.}
+Chave: LIVRAR-SE <verb.communication>
+ILI: 00784433
+
+Sense 3 
+{00784433} <verb.communication> get off, get away, get by, get out3, escape4 -- (escape potentially unpleasant consequences; get away with a forbidden action; "She gets away with murder!"; "I couldn't get out from under these responsibilities")
+       => {00785083} <verb.communication> avoid -- (stay clear from; keep away from; keep out of the way of someone or something; "Her former friends now avoid her")

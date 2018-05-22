@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2720
+
+DADO O SYNSET:
+
+S='Glosa2720'
+	    {alealdar: x,
+	      lealdar: x,
+	      manifestar: I]Manifestar na alfândega (mercadorias sujeitas ao imposto do trânsito), para pagar auto do imposto.,
+	      registar: x,
+	      registrar: Evite problemas quando retornar ao Brasil, prestando atenção em algumas leis de alfândega: é necessário I]registrar (na ida) os bens fabricados no exterior que estiver levando na viagem (como câmeras e filmadoras) para garantir que não pagará impostos no retorno ao Brasil. ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2720' = “Fazer uma declaração (de mercadorias sujeitas a impostos) para um oficial da alfândega.”
+	    {manifestar: I]Manifestar na alfândega (mercadorias sujeitas ao imposto do trânsito), para pagar auto do imposto.,
+	      registrar: Evite problemas quando retornar ao Brasil, prestando atenção em algumas leis de alfândega: é necessário I]registrar (na ida) os bens fabricados no exterior que estiver levando na viagem.,}
+
+Chave: MANIFESTAR <verb.communication>
+ILI: 00978176
+
+Sense 7
+{00978176} <verb.communication> declare3 -- (make a declaration (of dutiable goods) to a customs official; "Do you have anything to declare?")
+       => {00976600} <verb.communication> state, say, tell4 -- (express in words; "He said that he wanted to marry her"; "tell me what is bothering you"; "state your opinion"; "state your name")
+           => {00909455} <verb.communication> express, verbalize3, verbalise3, utter1, give tongue to -- (articulate; either verbally or with a cry, shout, or noise; "She expressed her anger"; "He uttered a curse") 

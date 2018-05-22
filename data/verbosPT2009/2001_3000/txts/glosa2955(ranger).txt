@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA2955
+
+DADO O SYNSET:
+
+S='Glosa2955'
+	    {frender: A fera H]frendia a dentuça horrenda.,
+	      ranger: O Bruxismo é um hábito parafuncional de I]ranger os dentes e constitui um dos mais difíceis desafios para a odontologia restauradora.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2955' = “Produzir um som desagradável ou rangido atritando”
+	    {ranger: Meu filho, agora com 3 anos, I]rangia os dentes e falava a noite toda.,}
+Chave: RANGER <verb.contact>
+ILI: 01354012
+
+Sense 2
+{01354012} <verb.contact> grate, grind -- (make a grating or grinding sound by rubbing together; "grate one's teeth in anger")
+       => {00327401} <verb.change> break up, fragment, fragmentize, fragmentise -- (break or cause to break into pieces; "The plate fragmented")
+           => {00323679} <verb.change> break, separate3, split up, fall apart3, come apart -- (become separated into pieces or fragments; "The figurine broke"; "The freshly baked loaf fell apart")
+               => {00135037} <verb.change> change integrity -- (change in physical make-up)
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night") 

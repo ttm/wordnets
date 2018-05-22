@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA3529
+
+DADO O SYNSET:
+
+S='Glosa3529'
+	    {
+	      amuralhar: Ao Rei Lavrador se atribuiu a determinação de i]amuralhar a vila, o que não fez pela circunstância da sua morte.,
+	      muralhar: Tornava-se imperioso I]muralhar a cidade.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3529' = “cercar com um muro a fim de fortificar” 
+	     {amuralhar: Uma das primeiras medidas do início da colonização foi fortificar e I]amuralhar essas cidades, como proteção aos freqüentes ataques.,
+	      muralhar: Tornava-se imperioso I]muralhar a cidade.,}
+Chave: AMURALHAR
+ILI: EQ_NEAR_SYNONYM - 01095436
+
+Sense 1
+{01095436} <verb.competition> wall, palisade, fence, fence in, surround1 -- (surround with a wall in order to fortify)
+       => {01093094} <verb.competition> protect -- (shield from danger, injury, destruction, or damage; "Weatherbeater protects your roof from the rain")
+           => {01092732} <verb.competition> defend -- (be on the defensive; act against an attack)
+               => {02377053} <verb.social> prevent, keep1 -- (prevent from doing something or being in a certain state; "We must prevent the cancer from spreading"; "His snoring kept me from falling asleep"; "Keep the child from eating the marbles")
+          Also See-> {01349586} <verb.contact> wall in#1; {01349586} <verb.contact> wall up#1

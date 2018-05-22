@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA2230
+
+DADO O SYNSET:
+
+S='Glosa2230'
+	    {varrer: O advogado foi condenado a [varrer as ruas da cidade.,
+	      vassoirar: x,
+	      vassourar: H]Vassourou a sala toda.,}
+
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2230' = “limpar com vassoura”
+	    {varrer: O advogado foi condenado a [varrer as ruas da cidade.,
+	      vassourar: H]Vassourou a sala toda.,}	
+
+Chave: VARRER <verb.contact>
+ILI: 01353262
+
+Sense 3
+{01353262} <verb.contact> sweep, broom -- (sweep with a broom or as if with a broom; "Sweep the crumbs off the table"; "Sweep under the bed")
+       => {01351846} <verb.contact> wipe, pass over -- (rub with a circular motion; "wipe the blackboard")
+           => {01212021} <verb.contact> rub -- (move over something with pressure; "rub my hands"; "rub oil into her skin")
+               => {01175477} <verb.contact> guide, run1, draw13, pass -- (guide or pass over something; "He ran his eyes over her body"; "She ran her fingers along the carved figurine"; "He drew her hair through his fingers")
+
+
+Sense 6
+{01353544} <verb.contact> sweep1 -- (clean by sweeping; "Please sweep the floor")
+       => {01490246} <verb.contact> clean, make clean -- (make clean by removing dirt, filth, or unwanted substances from; "Clean the stove!"; "The dentist cleaned my teeth")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

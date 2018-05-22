@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA1233
+
+DADO O SYNSET:
+
+S='Glosa1233'
+{desconcentrar: x,
+ descondensar: Ao acrescentar leite, H]descondensou o chocolate.,
+ dissolver: I]Dissolva o resíduo com ácido clorídrico.,
+ rarefazer: O calor M]rarefaz a água.,}
+	  
+A='Glosa3185'
+{adensar, condensar, engrossar, espessar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1233' = “reduzir a densidade ou solidez [de]”
+{descondensar: São utilizadas drogas especiais que I]descondensam mais os cromossomos.,
+ dissolver: I]Dissolva o resíduo com ácido clorídrico.,
+ rarefazer: Escoimada decerto das nuvens, que o vento invernal as I]rarefazem.}
+A='Glosa3185'
+{adensar, condensar, engrossar, espessar}
+Chave: DISSOLVER <verb.change>
+ILI: 00554820
+
+Sense 1
+{00554820} <verb.change> rarefy3 -- (lessen the density or solidity of; "The bones are rarefied")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

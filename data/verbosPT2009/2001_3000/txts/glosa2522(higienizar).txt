@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2522
+
+DADO O SYNSET:
+
+S='Glosa2522'
+	    {higienizar: "Reservamos esses dias para [higienizar o local", explica a psicóloga e pedagoga Maria Guimarães Drumond Grupi, diretora da escola, que fica na zona oeste.,
+	      salubrificar: x,
+	      sanear: Entregou a Oswaldo Cruz a tarefa de [sanear a cidade e nomeou para ministro das relações exteriores o Barão de Rio Branco, responsável pela resolução de inúmeras questões territoriais de maneira pacífica.,
+	      sanificar: Estamos limpando todas as áreas onde o antraz foi detectado e comprando equipamentos para [sanificar os correios.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2522' = “Tornar higiênico limpando ou esterelizando.”
+	    {higienizar: Projeto que remodelou, I]higienizou e saneou o centro da cidade.,
+	      sanear: Ele I]saneou a cidade ao mesmo tempo em que acontecia a reforma promovida pelo prefeito Pereira Passos.,
+	      sanificar: Estamos limpando todas as áreas onde o antraz foi detectado e comprando equipamentos para [sanificar os correios.,}
+
+Chave: HIGIENIZAR <verb.contact>
+ILI: 01207357
+
+Sense 1
+{01207357} <verb.contact> sanitize, sanitise, hygienize, hygienise -- (make sanitary by cleaning or sterilizing)
+       => {01490246} <verb.contact> clean, make clean -- (make clean by removing dirt, filth, or unwanted substances from; "Clean the stove!"; "The dentist cleaned my teeth")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

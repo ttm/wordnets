@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0782
+
+DADO O SYNSET:
+
+S='Glosa782'
+{bifurcar-se: Ao invés de explorar a arquitetura labiríntica do computador, como um Borges cibernético penetrando no jardim de caminhos que [se bifurcam, os autores se limitam apenas a brincar com o esquema mais elementar da arborização,
+bipartir-se: Os atos jurídicos, por sua vez, I]bipartem-se em atos lícitos - em que a conduta humana harmoniza-se com a ordem jurídica, podendo dar ensejo a direitos e deveres - e atos ilícitos, em que a conduta humana revela-se contrária à ordem jurídica.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa782' = “dividir (-se) em dois ramos, vertentes ou caminhos”
+{bifurcar-se: Ao invés de explorar a arquitetura labiríntica do computador, como um Borges cibernético penetrando no jardim de caminhos que [se bifurcam, os autores se limitam apenas a brincar com o esquema mais elementar da arborização,
+bipartir-se: Os atos jurídicos, por sua vez, I]bipartem-se em atos lícitos - em que a conduta humana harmoniza-se com a ordem jurídica, podendo dar ensejo a direitos e deveres - e atos ilícitos, em que a conduta humana revela-se contrária à ordem jurídica.,}
+Chave: BIFURCAR-SE <verb.change>
+ILI: 00319482
+
+Sense 2
+{00319482} <verb.change> bifurcate -- (divide into two branches; "The road bifurcated")
+       => {00318467} <verb.change> branch, ramify, fork, furcate, separate4 -- (divide into two or more branches so as to form a fork; "The road forks")
+           => {01974373} <verb.motion> diverge -- (move or draw apart; "The two paths diverge here")
+               => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right")

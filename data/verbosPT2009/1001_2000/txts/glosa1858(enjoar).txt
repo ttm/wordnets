@@ -1,0 +1,38 @@
+ANÁLISE DA GLOSA1858
+
+DADO O SYNSET:
+
+S='Glosa1858'
+    	{anojar: H]Anojava-o o desalinho da mulher.,
+      	 enausear: x,
+      	 engulhar: As carícias daquele homem H]engulhavam-na.,
+      	 enjoar: E sentiu o cheiro doce que lhe I]enjoava o estômago. ,
+     	 enojar: Aquilo tudo I]enojava-o, dava-lhe náuseas.,
+     	 entojar: As declarações do meu ex-querido são de I]entojar qualquer um que tenha um mínimo de bom senso e de respeito pelo trabalho alheio. ,
+      	 nausear: Sem trens de gado humano, sem prisioneiros magros sofrendo, sem a linearidade suja dos nazistas, sem pilhas de cadáveres capazes de I]nausear até o Himmler. ,
+     	 repugnar: Era aberto ao novo, mas guardava no íntimo um pudor antigo: a obsessão do erotismo lhe [repugnava. #  Mal vestida, sem banho, faminta, sua aparência I]repugnava.,}
+  
+A='Glosa1353'
+  	{desenjoar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1858' = “causar mal-estar, tornar nauseado”
+    	{anojar: Como estava quente , o fedor acabava I]anojando e apressando quem por lá passava.,
+      	 engulhar: Que você seja parcimonioso nos drinques e que não precise sair correndo rumo ao banheiro para se desfazer do lastro que te I]engulha o estômago.,
+      	 enjoar: E sentiu o cheiro doce que lhe I]enjoava o estômago.,
+     	 enojar: Aquilo tudo I]enojava-o, dava-lhe náuseas.,
+     	 entojar: Por incrível que pareça...eu não posso mais ver chocolate na minha frente!!!! Só o cheiro já I]entoja...!. ,
+      	 nausear: Sem trens de gado humano, sem prisioneiros magros sofrendo, sem a linearidade suja dos nazistas, sem pilhas de cadáveres capazes de I]nausear até o Himmler.,
+     	 repugnar: Expandia um odor que I]repugnou o olfato de Danglars.,}
+  
+A='Glosa1353'
+  	{desenjoar}
+Chave: ENJOAR <verb.perception>
+ILI: 02132278
+
+Sense 3
+{02132278} <verb.perception> sicken, nauseate, turn one's stomach -- (upset and make nauseated; "The smell of the foood turned the pregnant woman's stomach"; "The mold ont he food sickened the diners")
+       => {02132090} <verb.perception> disgust, gross out, revolt, repel -- (fill with distaste; "This spoilt food disgusts me")
+           => {02054979} <verb.perception> stimulate, excite, stir -- (stir feelings in; "stimulate my appetite"; "excite the audience"; "stir emotions")
+               => {02054639} <verb.perception> sensitize, sensitise -- (cause to sense; make sensitive; "She sensitized me with respect to gender differences in this traditional male-dominated society"; "My tongue became sensitized to good wine")

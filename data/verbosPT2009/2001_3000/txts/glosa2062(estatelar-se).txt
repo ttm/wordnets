@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA2062
+
+DADO O SYNSET:
+	
+S='Glosa2062'
+    	{chapar-se: H]Chapou-se na areia.,
+      	 esborrachar-se: O fundo abriu-se eo senador Spiralgold I]esborrachou-se no solo, com eficácia.,
+      	 esparramar-se: Ela jogou-se contra ele, perdeu o pé, e I]esparramou-se no chão.,
+      	 esparrar-se: Ao descer do ônibus, H]esparrou-se na calçada.,
+      	 estatelar-se: Ele tentou atender e, naturalmente, I]estatelou-se no chão e fraturou o braço direito.,
+      	 estirar-se: Deu um passo em falso, H]estirando-se na calçada.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2062' = “cair para uma posição mais baixa ou menos ereta”
+    	{esborrachar-se: O fundo abriu-se e o senador Spiralgold I]esborrachou-se no solo, com eficácia.,
+      	 esparramar-se: Ela jogou-se contra ele, perdeu o pé, e I]esparramou-se no chão.,
+      	 esparrar-se: Snowflake pulou de seu colo novamente e foi se I]esparrar no tapete em frente ao fogo.,
+      	 estatelar-se: Ele tentou atender e, naturalmente, I]estatelou-se no chão e fraturou o braço direito.,
+      	 estirar-se: Um deles, de tanto correr, sofreu súbita queda de pressão e se I]estirou no chão da portaria.}
+Chave: ESTATELAR-SE <verb.motion>
+ILI: 01926184
+
+Sense 24
+{01926184} <verb.motion> fall14 -- (drop oneself to a lower or less erect position; "She fell back in her chair"; "He fell to his knees")
+       => {01925836} <verb.motion> change posture -- (undergo a change in bodily posture)
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

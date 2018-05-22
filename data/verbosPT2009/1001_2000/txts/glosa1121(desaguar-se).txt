@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA1121
+
+DADO O SYNSET:
+
+S='Glosa1121'
+{desaguar-se: Ao I]desaguar-se no Mar da China ele banha, de um lado, Hong Kong, do outro, o porto de Macau,
+ descarregar-se: Originalmente um afluente do rio Grande teria seu fluxo natural alterado, elevando o nível de suas águas ao ponto de poder I]descarregá-las para a bacia do São Francisco.,
+ desembocar-se: O ribeirão que corta a cidade de Belo Horizonte, recebendo todo o escoamento das águas do esgoto, terminando por I]desembocar-se no Rio das Velhas,
+ despejar-se: O Rio da Madre desfila suas águas pela planície costeira, antes de I]despejar-se no Atlântico,
+ esvazar-se: x,
+ esvaziar-se: Nesta situação os pequenos açudes I]esvaziam-se muito antes do início do próximo período chuvoso e os grandes açudes só mantêm pequeno volume de água. ,
+ lançar-se: Citam-se como as mais importantes a da Bica, no município de Ipu, cujas águas I]lançam-se do Pico Angelin, Serra da Amontada a 130 m de altitude, a Bica do Ipu. # Vários rios menores I]lançam-se diretamente no mar Negro.   ,
+ vazar-se: O riacho H]vaza-se no açude,
+ verter-se: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1121' = “mover-se para adiante (líquidos)” 
+{desaguar-se: O Rio Vltava I]se desagua no rio Elba.,
+ descarregar-se: A água subterrânea I]descarrega-se na Laguna dos Patos diretamente ou através de valetas ao longo das estradas locais.,
+ desembocar-se: O córrego "’Água Suja", que I]se desemboca no rio Bagagem, tornou-se célebre.,
+ despejar-se: O ribeirão Pipiripau vai constituir-se no São Bartolomeu; e o Itiquira I]despeja-se no Paraná.,
+ esvaziar-se: Assim como um poderoso rio que I]se esvazia no mar é reabastecido pelo mar, assim deveis esvaziar-vos no Amor.,
+ lançar-se: O rio Piraí I]se lança no rio Paraíba do Sul, formando assim a foz do rio Piraí.,
+ vazar-se: Água que não refresca, pois ela com o vazio I]se vaza.,}
+Chave: DESAGUAR-SE <verb.motion> 
+ILI: 02008364 
+
+Sense 2
+{02008364} <verb.motion> run1, flow, feed4, course -- (move along, of liquids; "Water flowed into the cave"; "the Missouri feeds into the Mississippi")
+       => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right")
+          Also See-> {02556028} <verb.stative> flow from#1

@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA1823
+
+DADO O SYNSET:
+
+S='Glosa1823'
+{atochar: DEVIANT,
+ encalacrar: Sim, já estou tramando algo para I]encalacrar aquele delegado rasga-anjo.,
+ encalamoucar: x,
+ encravelhar: Não te direi encômios para não te I]encravelhar.,
+ encravilhar: Esse mail foi claramente para me I]encravilhar junto do público.,
+ enrabichar: x,
+ 	 entalar: H]Entalou os alunos com um problema de matemática., }
+	  
+A='Glosa1319'
+ {desentalar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1823' = “colocar [alguém ou algo] em dificuldades”
+{encalacrar: Para completar, aconteceu o ‘‘imponderável’’: a descoberta do megagrampo telefônico na Bahia, que I]encalacrou o senador Antonio Carlos Magalhães, do PFL.,}
+	  
+A='Glosa1319'
+ {desentalar}
+Chave: ENCALACRAR <verb.change>
+ILI: EQ_HAS_HYPERONYM – 00251784 – “causar dano [a] ou afetar negativamente”
+
+Sense 3
+{00251784} <verb.change> hurt4, injure4 -- (cause damage or affect negatively; "Our business was hurt by the new competition")
+       => {00250328} <verb.change> damage -- (inflict damage upon; "The snow damaged the roof"; "She damaged the car when she hit the tree")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

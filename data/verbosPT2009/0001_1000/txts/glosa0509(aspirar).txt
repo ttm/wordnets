@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA0509
+
+DADO O SYNSET:
+
+S='Glosa509'
+{aspirar: Os lábios entreabrindo-se para [aspirarem o ar puro e embalsamado da manhã, arquearam-se graciosamente quase sorrindo.,
+cheirar: Para alguns meninos ouvidos, [cheirar a cola aumentaria a fome e incentivaria o ânimo para a prática de pequenos furtos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa509' = “puxar, absorver (ar)”
+{aspirar: Os lábios entreabrindo-se para [aspirarem o ar puro e embalsamado da manhã, arquearam-se graciosamente quase sorrindo.,
+cheirar: Para alguns meninos ouvidos, [cheirar a cola aumentaria a fome e incentivaria o ânimo para a prática de pequenos furtos.,}
+Chave: ASPIRAR <verb.body>
+ILI: 00004923
+
+Sense 2
+{00004923} <verb.body> inhale, inspire, breathe in -- (draw in (air); "Inhale deeply"; "inhale the fresh mountain air"; "The patient has trouble inspiring"; "The lung cancer patient cannot inspire air very well")
+       => {00001740} <verb.body> breathe, take a breath, respire, suspire3 -- (draw air into, and expel out of, the lungs; "I can breathe better when the air is clean"; "The patient is respiring")

@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA2590
+
+DADO O SYNSET:
+
+S='Glosa2590'
+	    {recair: Em breve, tudo [recaiu no silêncio primitivo, e a lua, do alto, baldeava com a sua luz misteriosa e triste a solidão das clareiras. # Como bom velho amigo da família exigia que lhe dessem contas de tudo, e Manuel as dava de bom grado satisfeito por ver que as coisas iam voltando aos seus eixos e que a sua casa [recaia na primitiva tranqüilidade.,
+	      reincidir: No caso de [reincidir na falta, o jogador paga US$ 10,00 (o dólar estava ontem cotado, no paralelo, em CR$ 1.620,00).,
+	      reverter: Para [reverter a vasectomia, é necessário fazer uma cirurgia e religar os canais.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2590' = “Voltar a um mau comportamento.”
+	    {recair: Abandonou e I]recaiu no vício do tabaco por 23 vezes.,
+	      reincidir: No caso de [reincidir na falta, o jogador paga US$ 10,00.,}
+
+Chave: RECAIR <verb.body>
+ILI: 00090532
+
+Sense 2
+{00090532} <verb.body> relapse, lapse, recidivate, regress, retrogress, fall back -- (go back to bad behavior; "Those who recidivate are often minor criminals")
+       => {00375470} <verb.change> revert, return, retrovert, regress1, turn back -- (go back to a previous state; "We reverted to the old rules")
+           => {00133458} <verb.change> change by reversal, turn, reverse -- (change to the contrary; "The trend was reversed"; "the tides turned against him"; "public opinion turned when it was revealed that the president had an affair with a White House intern")
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night") 

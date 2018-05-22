@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0226
+
+DADO O SYNSET:
+
+S='Glosa226'
+{abaixar-se: O motorista escapou porque conseguiu [se abaixar.,
+baixar-se: No momento do disparo, Marlene I]baixou-se para proteger a filha pequena, colocando-a no chão.,
+inclinar-se: Rubião [inclinara-se ao pequeno, para ampará-lo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa226' = “mover (a cabeça ou corpo) rapidamente para baixo”
+{abaixar-se: O motorista escapou porque conseguiu [se abaixar.,
+baixar-se: No momento do disparo, Marlene I]baixou-se para proteger a filha pequena, colocando-a no chão.,
+inclinar-se: Rubião [inclinara-se ao pequeno, para ampará-lo.,}
+Chave: ABAIXAR-SE <verb.motion>
+ILI: 01811284
+
+Sense 1
+{01811284} <verb.motion> duck -- (to move (the head or body) quickly downwards or away; "Before he could duck, another stone struck him")
+       => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right")

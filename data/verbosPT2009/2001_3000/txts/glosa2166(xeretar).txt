@@ -1,0 +1,35 @@
+ANÁLISE DA GLOSA2166
+
+DADO O SYNSET:
+
+S='Glosa2166'
+	    {abelhudar: E pare de I]abelhudar a minha vida porque eu nao te devo nada.,
+	      bisbilhotar: Se a mamãe vive pondo suas correspondências no vapor da chaleira para [bisbilhotar sem-vergonhices, a dona xereta dançou .,
+	      cheirar: Tanto indagou, que lhe perguntaram o que viera A]cheirar ali.  ,
+	      curiosar: x,
+	      esbilhotar: x,
+	      farejar: H]Farejou todos os armários.,
+	      fuçar: Lá em cima, começou a I]fuçar em busca de revista de mulher pelada.,
+	      procurar: Por mais que a gente tente se livrar de alguém que passou pela nossa vida, sempre sobra um livro do neruda que você nunca leu e, em casos mais graves, uma aliança que ninguém queimou ou derreteu. Por isso, se você procurar, vai encontrar. Assim como se alguém procurar nas suas coisas vai achar também. ,
+	      sondar: Que você está H]sondando?,
+	      xeretar: Não adianta forçar o jovem a falar ou I]xeretar em suas coisas, pois esta atitude não é ética.,
+	      xeretear: x,}
+A ANÁLISE RESULTA EM:
+
+S='Glosa2166' = “interferir desnecessariamente em assuntos ou negócios de outras pessoas”
+	    {abelhudar: E pare de I]abelhudar a minha vida porque eu nao te devo nada.,
+	      bisbilhotar: Se a mamãe vive pondo suas correspondências no vapor da chaleira para [bisbilhotar sem-vergonhices, a dona xereta dançou .,
+	      cheirar: Tanto indagou, que lhe perguntaram o que viera A]cheirar ali.  ,
+	      farejar: H]Farejou todos os armários.,
+	      fuçar: Lá em cima, começou a I]fuçar em busca de revista de mulher pelada.,
+	      procurar: Por mais que a gente tente se livrar de alguém que passou pela nossa vida, sempre sobra um livro do neruda que você nunca leu e, em casos mais graves, uma aliança que ninguém queimou ou derreteu. Por isso, se você procurar, vai encontrar. Assim como se alguém I]procurar nas suas coisas vai achar também. ,
+	      sondar: Que você está H]sondando?,
+	      xeretar: Não adianta forçar o jovem a falar ou I]xeretar em suas coisas, pois esta atitude não é ética.,}
+Chave: XERETAR <verb.social>
+ILI: 02463974
+
+Sense 1
+{02463974} <verb.social> meddle, tamper -- (intrude in other people's affairs or business; interfere unwantedly; "Don't meddle in my affairs!")
+       => {02463620} <verb.social> intervene, step in, interfere, interpose -- (get involved, so as to alter or hinder an action, or through force or threat of force; "Why did the U.S. not intervene earlier in WW II?")
+           => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+               => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

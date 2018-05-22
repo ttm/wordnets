@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA1370
+
+DADO O SYNSET:
+
+S='Glosa1370'
+{deseducar: A anistia [deseduca o povo e prejudica a nação,
+ desensinar: O professor se sente competindo com a mídia; ele precisa ensinar valores éticos e estéticos que a TV I]desensina.,}
+	 
+A='Glosa3963'
+{catequizar, doutrinar, educar, enfronhar, ensinar, iniciar, instituir, instruir, lecionar, prelecionar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1370' = “fazer desaprender (o que se tinha ensinado)” 
+{deseducar: Olhem o que aconteceu com a nossa boa música: quase não se ouve mais nas rádios, porque I]deseducaram musicalmente a maioria, e a maioria é que dá renda.,
+ desensinar: Precisamos I]desensinar o povo a só ficar esperando e receber as coisas de mão beijada.,}
+A='Glosa3963'
+{catequizar, doutrinar, educar, enfronhar, ensinar, iniciar, instituir, instruir, lecionar, prelecionar}
+Chave: DESEDUCAR <verb.communication>
+ILI: 00803336
+
+Sense 2
+{00803336} <verb.communication> unteach1 -- (cause to unlearn; "teach somebody to unlearn old habits or methods")
+       => {00801981} <verb.communication> teach, learn, instruct -- (impart skills or knowledge to; "I taught them French"; "He instructed me in building a boat")
+           => {00804489} <verb.communication> inform -- (impart knowledge of some fact, state or affairs, or event to; "I informed him of his rights")
+               => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                   => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                       => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

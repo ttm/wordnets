@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA3764
+
+DADO O SYNSET:
+	
+S='Glosa3764'
+{abalroar: Em 1971, a embarcação [abalroou num barco pesqueiro matando um pescador napolitano.,
+	 balroar: x,
+	 bater: O avião não conseguiu decolar, [bateu no muro no aeroporto e começou a pegar fogo.,
+	 chocar-se: Por falta de visibilidade, a embarcação [chocou-se com um rochedo, afundando em seguida.,
+	 colidir: O Gol dirigido pela estudante Mariana Uyeda [colidiu com o Honda Civic, dirigido por André Woiler.,
+	 percutir: x,
+	 trombar: O problema é que, pela esquerda, Rivaldo [trombava com Roberto Carlos.}
+	
+A ANÁLISE RESULTA EM:
+
+S='Glosa3764' = “bater contra; entrar subitamente em contato com”
+{abalroar: Em 1971, a embarcação [abalroou num barco pesqueiro matando um pescador napolitano.,
+	 bater: O avião não conseguiu decolar, [bateu no muro no aeroporto e começou a pegar fogo.,
+	 chocar-se: Por falta de visibilidade, a embarcação [chocou-se com um rochedo, afundando em seguida.,
+	 colidir: O Gol dirigido pela estudante Mariana Uyeda [colidiu com o Honda Civic, dirigido por André Woiler.,
+	 trombar: O problema é que, pela esquerda, Rivaldo [trombava com Roberto Carlos.}
+Chave: BATER <verb.contact>
+ILI: 01198410
+
+Sense 1 
+{01198410} <verb.contact> hit1, strike1, impinge on, run into1, collide with -- (hit against; come into sudden contact with; "The car hit a tree"; "He struck the table with his elbow")
+       => {01169634} <verb.contact> touch -- (make physical contact with, come in contact with; "Touch the stone for good luck"; "She never touched her husband")

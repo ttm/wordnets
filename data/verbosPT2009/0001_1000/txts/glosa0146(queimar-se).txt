@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA0146
+
+DADO O SYNSET:
+
+S='Glosa146'
+{fundir-se1: x,
+queimar-se: O fusível M]queimou-se.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa146' = “queimar com calor, fogo, ou radiação”
+{queimar-se: O fusível M]queimou-se.,}
+Chave: QUEIMAR-SE
+ILI: 00189569
+
+Sense 15
+{00189569} <verb.change> burn3 -- (burn with heat, fire, or radiation; "The iron burnt a hole in my dress")
+       => {00250328} <verb.change> damage -- (inflict damage upon; "The snow damaged the roof"; "She damaged the car when she hit the tree")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

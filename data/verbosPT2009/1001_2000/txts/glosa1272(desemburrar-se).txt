@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA1272
+
+DADO O SYNSET:
+
+S='Glosa1272'
+{desamuar-se: Disse-lhe que a levaria ao cinema, e ela então M]se desamuou,
+ desemburrar-se: Depois da briga, levou tempo para H]desemburrar-se.,}
+	  
+A='Glosa1886'
+	    {amuar-se, arrufar-se, emburrar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1272' = “libertar-se do estado de amuo” 
+{desemburrar: Então, aí eu resolvi I]desemburrar porque se eu for levar em consideração cada frescura minha e cada coisinha pequena que acontece, eu não vivo mais!
+ desemburrar-se: Estou-me I]desemburrando.,}
+A='Glosa1886'
+{amuar-se, arrufar-se, emburrar-se}
+Chave: DESEMBURRAR-SE <verb.emotion>
+ILI: EQ_HAS_HYPERONYM - 01760443 - “tornar-se contente ou feliz”
+
+Sense 2
+{01760443} <verb.emotion> gladden -- (become glad or happy)
+       => {01761176} <verb.emotion> rejoice, joy -- (feel happiness or joy)
+           => {01720480} <verb.emotion> feel, experience -- (undergo an emotional sensation; "She felt resentful"; "He felt regret")

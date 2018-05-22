@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0143B
+
+DADO O SYNSET:
+
+S='Glosa143'
+{defumar: E fazia-se muito pressurosa, a queimar alfazema, para [defumar os panos da criança.,
+incensar: Já faz parte de um hábito doméstico usá-las para energizar, I]incensar a casa e enfeitar o ambiente.,
+perfumar: São usadas ainda para I]perfumar o ambiente, arrumadas em vasos ou compoteira de cristal e espetadas com cravo da Índia.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa143' = “perfumar com um incenso, ou turíbulo”
+{incensar: Já faz parte de um hábito doméstico usá-las para energizar, I]incensar a casa e enfeitar o ambiente.,}
+Chave: INCENSAR <verb.perception>
+ILI: 02065290
+
+Sense 1
+{02065290} <verb.perception> cense, incense, thurify -- (perfume especially with a censer)
+       => {02064244} <verb.perception> odorize, odourise, scent2 -- (cause to smell or be smelly)
+           => {02062507} <verb.perception> cause to be perceived -- (have perceptible qualities)

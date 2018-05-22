@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0049
+
+DADO O SYNSET:
+
+S='Glosa49'
+{destrançar: I]Destrançou os cabelos, soltou-os, trançou-os de novo.,}
+A='Glosa1878'
+{entrançar, trançar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa49' = “desfazer a trança”
+{destrançar: I]Destrançou os cabelos, soltou-os, trançou-os de novo.,}
+A='Glosa1878'
+{entrançar, trançar}
+Chave: DESTRANÇAR <verb.contact>
+ILI: 01477630
+
+Sense 1
+{01477630} <verb.contact> unbraid -- (undo the braids of; "unbraid my hair")
+       => {01477750} <verb.contact> undo -- (cancel, annul, or reverse an action or its effect; "I wish I could undo my actions")
+           => {00133458} <verb.change> change by reversal, turn, reverse -- (change to the contrary; "The trend was reversed"; "the tides turned against him"; "public opinion turned when it was revealed that the president had an affair with a White House intern")
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

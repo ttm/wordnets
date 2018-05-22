@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA2804
+
+DADO O SYNSET:
+
+S='Glosa2804'
+	    {receber: A mãe da noiva deve I]receber os convidados junto com os noivos. ,
+	      recepcionar: Nesse período, através do convívio familiar e social, a mulher francesa aprende a realçar a beleza com uma toalete impecável, a utilizar o vestuário da última moda, a I]recepcionar convidados em seu salão, a freqüentar outros salões e a articular encontros com pessoas influentes e importantes com o intuito de alcançar os objetivos que almeja.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2804' = “Ter ou dar uma recepção”
+	    {receber: Na noite de terça-feira (20), Selton Mello I]recebeu convidados e amigos para a pré-estréia do longa-metragem O Cheiro do Ralo.,
+	      recepcionar: Edson Brum I]recepcionou vereadores da 4ª Colônia e região na II Marcha à capital.,}
+
+Chave: RECEPCIONAR <verb.social>
+ILI: 02418973
+
+Sense 10
+{02418973} <verb.social> receive -- (have or give a reception; "The lady is receiving Sunday morning")
+       => {02416567} <verb.social> celebrate, fete -- (have a celebration; "They were feting the patriarch of the family"; "After the exam, the students were celebrating")
+           => {02412640} <verb.social> meet1, get together1 -- (get together socially or for a specific purpose) 

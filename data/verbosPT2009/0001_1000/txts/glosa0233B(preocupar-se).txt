@@ -1,0 +1,18 @@
+ANÁLISE DA GLOSA0233B
+
+DADO O SYNSET:
+
+S='Glosa233'
+{ocupar-se: Em verdade, era [ocupar-se demais com tal assunto; começou a maldizer do Rubião que evocara semelhante homem do esquecimento, por causa daquela triste circular.,
+preocupar-se: A empresa passa a [preocupar-se com saúde e o bem-estar de seus empregados e seus dependentes; em decorrência, sua social se destaca com a melhoria da imagem, não só junto às famílias assistidas, mas também no mercado de trabalho.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa233B' = “tornar(-se) apreensivo em relação a algo; inquietar(-se)
+{preocupar-se: A empresa passa a [preocupar-se com saúde e o bem-estar de seus empregados e seus dependentes; em decorrência, sua social se destaca com a melhoria da imagem, não só junto às famílias assistidas, mas também no mercado de trabalho.,}
+Chave: PREOCUPAR-SE <verb.emotion>
+ILI: 01731663
+
+Sense 1
+{01731663} <verb.emotion> preoccupy -- (engage or engross the interest or attention of beforehand or occupy urgently or obsessively; "His work preoccupies him"; "The matter preoccupies her completley--she cannot think of anything else")
+       => {02367626} <verb.social> control, command -- (exercise authoritative control or power over; "control the budget"; "Command the military forces")

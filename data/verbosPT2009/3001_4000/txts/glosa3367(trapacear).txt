@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA3367
+
+DADO O SYNSET:
+
+S='Glosa3367'
+	    {
+	      batotar: x,
+	      batotear: x,
+	      mantear: Jogador desonesto, M]manteava o parceiro.,
+	      patotear: x,
+	      trapacear: Eles passavam a tarde jogando paciência; às vezes, Volpi I]trapaceava a si mesmo no jogo.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3367' = “ocupar-se em comportamento mentiroso; praticar trapaça ou fraude”
+	     {mantear: Jogador desonesto, M]manteava o parceiro.,
+	      trapacear: Eles passavam a tarde jogando paciência; às vezes, Volpi I]trapaceava a si mesmo no jogo.,}
+Chave: TRAPACEAR <verb.social>
+ILI: 02498139
+
+Sense 3
+{02498139} <verb.social> cheat1, chisel -- (engage in deceitful behavior; practice trickery or fraud; "Who's chiseling on the side?")
+       => {02498705} <verb.social> deceive, lead on, delude, cozen1 -- (be false to; be dishonest with)
+           => {02497828} <verb.social> victimize1, victimise1 -- (make a victim of; "I was victimized by this con-man")
+               => {02438990} <verb.social> wrong -- (treat unjustly; do wrong to)
+                   => {02439188} <verb.social> treat, handle3, do by -- (interact in a certain way; "Do right by her"; "Treat him with caution, please"; "Handle the press reporters gently")
+                       => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                           => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

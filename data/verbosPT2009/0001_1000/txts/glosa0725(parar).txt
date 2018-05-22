@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0725
+
+DADO O SYNSET:
+
+S='Glosa725'
+{estacionar: O presidente tem feito a seguinte análise: Luiz Inácio Lula da Silva, do PT, [estacionou nos 30% nas pesquisas e não mostra capacidade de crescer. ,
+parar: Minha carreira não [parou na Jovem Guarda.,}
+A='Glosa1223'
+{descolocar-se, deslocar-se, ir, mover-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa725' = “parar de realizar ou acontecer”
+{estacionar: O presidente tem feito a seguinte análise: Luiz Inácio Lula da Silva, do PT, [estacionou nos 30% nas pesquisas e não mostra capacidade de crescer. ,
+parar: Minha carreira não [parou na Jovem Guarda.,}
+A='Glosa1223'
+{descolocar-se, deslocar-se, ir, mover-se}
+Chave: PARAR <verb.social>
+ILI: 02484073
+
+Sense 3
+{02484073} <verb.social> stop, halt, block1, kibosh -- (stop from happening or developing; "Block his election"; "Halt the process")
+       => {02379144} <verb.social> prevent1, forestall1, foreclose, preclude, forbid3 -- (keep from happening or arising; have the effect of preventing; "My sense of tact forbids an honest answer")

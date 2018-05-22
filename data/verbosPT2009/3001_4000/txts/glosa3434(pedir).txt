@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA3434
+
+DADO O SYNSET:
+
+S='Glosa3434'
+	    {
+	      mendigar: Nenhuma nação vai ]mendigar voluntariamente junto ao FMI/Estou reduzido a ]mendigar-vos a vossa generosidade,
+	      pedir: Nosso presidente desiste de [pedir retratação formal ao presidente da Argentina/Sob uma temperatura de 29ºC, a multidão começou a pedir água em coro,
+	      pleitear: Ele simplesmente informou que eu deveria aguardar uma correspondência do museu e depois [pleitear a visita,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3434' = “fazer uma solicitação ou pedido por algo”
+	     {mendigar: Jamais I]mendigou suas verbas, como hoje é comum para encenar peças teatrais, produzir filmes, e até, simplesmente, publicar livros,
+	      pedir: O governo brasileiro I]pediu clemência para ambos,
+	      pleitear: O vice-líder da Bancada do PMDB, deputado Edson Brum, I]pleiteou junto à secretaria da Educação, a reforma dos sanitários da E.E. Fortaleza, de Rio Pardo,}
+Chave: PEDIR <verb.communication>
+ILI: 00756356
+
+Sense 2
+{00756356} <verb.communication> solicit, beg1, tap -- (make a solicitation or entreaty for something; request urgently or persistently; "Henry IV solicited the Pope for a divorce"; "My neighbor keeps soliciting money for different charities")
+       => {00727992} <verb.communication> request1, bespeak, call for4, quest1 -- (express the need or desire for; ask for; "She requested an extra bed in her room"; "She called for room service")
+           => {00717906} <verb.communication> communicate1, pass on, pass1, put across -- (transmit information ; "Please communicate this message to all employees")
+               => {02167243} <verb.possession> convey10, transmit10, communicate10 -- (transfer to another; "communicate a disease")
+                   => {02167764} <verb.possession> transfer1 -- (move from one place to another; "transfer the data"; "transmit the news"; "transfer the patient to another hospital")
+                       => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

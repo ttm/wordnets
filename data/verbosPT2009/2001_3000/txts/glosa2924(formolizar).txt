@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA2924
+
+DADO O SYNSET:
+
+S='Glosa2924'
+	    {formolar: x,
+	      formolizar: O vereador reivindica ao Detran para incluir as multas e taxas no parcelamento do IPVA; pedido ao Governo para I]formolizar cadáveres gratuitamente.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2924' = “Destruir microorganismos ou agentes patológicos limpando”
+	    {formolizar: I]Formolizou o corpo, cortou-lhe os cabelos, vestiu-a como homem e preparou o atestado de óbito.,}
+Chave: FORMOLIZAR <verb.body>
+ILI: EQ_HAS_HYPERONYM - 00086816
+
+Sense 1
+{00086816} <verb.body> disinfect -- (destroy microorganisms or pathogens by cleansing; "disinfect a wound")
+       => {01490246} <verb.contact> clean, make clean -- (make clean by removing dirt, filth, or unwanted substances from; "Clean the stove!"; "The dentist cleaned my teeth")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

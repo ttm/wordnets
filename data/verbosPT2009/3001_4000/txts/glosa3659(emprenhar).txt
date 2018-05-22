@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA3659
+
+DADO O SYNSET:
+
+S='Glosa3659'
+	    {
+	      emprenhar: Durante a temporada de monta, que se estende até janeiro, os pecuaristas costumam sair à procura de touros de qualidade para [emprenhar seu rebanho. ,
+	      encher: x,
+	      padrear: Com o uso de inseminação artificial, com sêmen fresco ou recém coletado, um macho pode I]padrear 200 fêmeas. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3659' = “fazer ficar prenhe”
+	     {emprenhar: Já o segundo, de apenas 18 meses, I]emprenhou quatro matrizes. ,
+	      padrear: Esse cão I]padreou alguma matrizes no Nordeste que deu origem à vários canis da região.,}
+Chave: EMPRENHAR <verb.body>
+ILI: 00051366
+
+Sense 4
+{00051366} <verb.body> impregnate, knock up, bang up, prang up -- (make pregnant; "He impregnated his wife again")
+       => {00050755} <verb.body> inseminate, fecundate, fertilize, fertilise -- (introduce semen into (a female))
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

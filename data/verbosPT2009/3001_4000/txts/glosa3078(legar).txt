@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA3078
+
+DADO O SYNSET:
+
+S='Glosa3078'
+	    {
+	      deixar: Jacqueline Kennedy Onassis [deixa uma fortuna estimada em US$ 210 milhões.,
+	      herdar: DEVIANT,
+	      legar: Diziam-no discípulo de um grande filósofo, que lhe [legara imensos bens,um, três, cinco mil contos.,
+	      testar1: Ninguém pode morrer, I]testando uma parte e deixando outra parte sem ser testada.,
+	      transferir: Em 1788, D. Ana Maria I]transferiu os destinos do engenho a seu filho Francisco de Macedo Freire de Azevedo Coutinho.,
+	      transmitir: Não temos que seguir fielmente o que foi feito no Brasil, mas agradecemos ao presidente Fernando Henrique e a seus colaboradores as experiências que nos foram I]transmitidas.,
+	      transpor: Estes bens ele os M]transpôs dos seus herdeiros ao seu fiel servo.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3078' = “deixar ou dar por vontade depois da morte”
+	     {deixar: Jacqueline Kennedy Onassis [deixa uma fortuna estimada em US$ 210 milhões.,
+	      legar: Diziam-no discípulo de um grande filósofo, que lhe [legara imensos bens,um, três, cinco mil contos.,
+	      testar1: Ninguém pode morrer, I]testando uma parte e deixando outra parte sem ser testada.,
+	      transferir: Em 1788, D. Ana Maria I]transferiu os destinos do engenho a seu filho Francisco de Macedo Freire de Azevedo Coutinho.,
+	      transmitir: Odin I]transmitiu à humanidade esse conhecimento obtido sobre as palavras mágicas e também de como registrar essas palavras através do alfabeto rúnico.,
+	      transpor: Estes bens ele os M]transpôs dos seus herdeiros ao seu fiel servo.,}
+Chave: LEGAR <verb.possession>
+ILI: 02164652
+
+Sense 4
+{02164652} <verb.possession> bequeath, will, leave1 -- (leave or give by will after one's death; "My aunt bequeathed me all her jewelry"; "My grandfather left me his entire estate")
+       => {02137285} <verb.possession> give1, gift, present -- (give as a present; make a gift of; "What will you give her for her birthday?")

@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2017
+
+DADO O SYNSET:
+	
+S='Glosa2017'
+    	{aguçar: Nos jogos do masculino, basta [aguçar o ouvido para perceber que as meninas estão em maior número no ginásio.,
+      	 agudar: x,
+      	 apurar: Esta é a base de tudo para um bom músico: I]apurar os ouvidos, ter o conhecimento sistematizado e ligar a sensação (o que você ouve) à teoria.,
+      	 espicular: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2017' = “tornar (os sentidos) mais aguçados”
+    	{aguçar: Nos jogos do masculino, basta [aguçar o ouvido para perceber que as meninas estão em maior número no ginásio.,
+      	 apurar: Esta é a base de tudo para um bom músico: I]apurar os ouvidos, ter o conhecimento sistematizado e ligar a sensação (o que você ouve) à teoria.}
+Chave: AGUÇAR <verb.change>
+ILI: 00380655
+
+Sense 8
+{00380655} <verb.change> sharpen5, heighten5 -- (make (one's senses) more acute; "This drug will sharpen your vision")
+       => {00219593} <verb.change> intensify1, compound1, heighten4, deepen1 -- (make more intense, stronger, or more marked; "The efforts were intensified", "Her rudeness intensified his dislike for her"; "Potsmokers claim it heightens their awareness"; "This event only deepened my convictions")
+           => {00150804} <verb.change> increase -- (become bigger or greater in amount; "The amount of work increased")
+               => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

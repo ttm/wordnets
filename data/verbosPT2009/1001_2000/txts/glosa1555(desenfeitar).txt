@@ -1,0 +1,37 @@
+ANÁLISE DA GLOSA1555
+
+DADO O SYNSET:
+
+S='Glosa1555'
+{afear: x,
+ afeiar: x,
+ desadornar: As criadas H]desadornavam as sinhazinhas à noitinha.,
+ desafeitar: E a gente pode sacudir fora a capa, despintar-se, I]desafeitar-se. ,
+ desalinhar: No banheiro, ela retirava  a maquiagem, I]desalinhava os cabelos vermelhos. ,
+ desaparelhar: x,
+ desataviar: H]Desataviou o estilo.,
+ descompor: Ela abria a porta da varanda, dava-me um ar da sua graça, compunha-se e I]descompunha-se ao espelho.,
+ desenfeitar: H]Desenfeitou-se antes que o pai chegasse.,
+ desfear: x,
+ desguarnecer: H]Desguarneceu-se das jóias.,
+ desornar: H]Desornou-se tão logo chegou em casa.,
+ destoucar: H]Pediu à babá para destoucar a criança.,
+ enfear: x,}
+	  
+A='Glosa3503'
+{adereçar1, adornar, aformosar, aformosear, aformosentar, ajaezar, alfaiar, aparatar, aparelhar, arrear1, ataviar, colorir, decorar1, embelezar, emoldurar, enfeitar, enflorar, engalanar, exornar, florear, formosear, galantear, honestar, moldurar, ornamentar, ornar, paramentar, recamar, revestir, sazonar, sobredoirar, sobredourar, tecer, vestir}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1555' = “remover os ornamentos”
+{desataviar: A jaça na razão neutral, que tanto preocupou os neopositivistas lógicos, é o próprio motor que aguça a descoberta, enriquece o método e I]desatavia a criatividade.,
+ desenfeitar: Tereza I]desenfeitava o banco da frente.,
+ desornar: O vandalismo e a pichação vêm I]desornando as belezas de Curitiba, deteriorando o patrimônio público e particular.,}
+	  
+A='Glosa3503'
+{adereçar1, adornar, aformosar, aformosear, aformosentar, ajaezar, alfaiar, aparatar, aparelhar, arrear1, ataviar, colorir, decorar1, embelezar, emoldurar, enfeitar, enflorar, engalanar, exornar, florear, formosear, galantear, honestar, moldurar, ornamentar, ornar, paramentar, recamar, revestir, sazonar, sobredoirar, sobredourar, tecer, vestir}
+Chave: DESENFEITAR <verb.change>
+ILI: EQ_HAS_HYPERONYM - 00166870
+
+Sense 1
+{00166870} <verb.change> remove, take, take away1, withdraw1 -- (remove something concrete, as by lifting, pushing, taking off, etc. or remove something abstract; "remove a threat"; "remove a wrapper"; "Remove the dirty dishes from the table"; "take the gun from your pocket"; "This machine withdraws heat from the environment")

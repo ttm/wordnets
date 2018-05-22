@@ -1,0 +1,39 @@
+ANÁLISE DA GLOSA3189b
+
+DADO O SYNSET:
+
+S='Glosa3189'
+	    {
+	      arrijar: x,
+	      atesar: Se a besta refugava, A]atesando as orelhas, Tomé Saíra, tiritando, persignava-se.,
+	      desbambar: x,
+	      encruar: Caso o vento fique contra a carne, ela poderá I]encruar.,
+	      encruecer: x,
+	      encruentar: x,
+	      endurar: x,
+	      endurecer: Tentam obter grão translúcido e bom de cozimento - um meio-termo entre o arroz que empapa e o que [endurece depois de esfriar. ,
+	      endurentar: x,
+	      enrijecer: As aulas de aeróbica terminam por volta de 22h30, a partir desse horário, só fica na academia quem quiser [enrijecer os músculos com os aparelhos. ,
+	      entesar: Seu Fernando endireitou-se na poltrona, I]entesou o tronco e esticou as pernas curtas e finas, descansando da posição incômoda que assumira por tanto tempo.,
+	      erijar: Foi no Tietê que os moços paulistas encontraram meios de enrijar os músculos.,
+	      esticar: Luisinha, vendo-o, pôs-se nas pontas dos pés, [esticou o pescoço, e encarou-o por muito tempo estática e absorta. ,
+	      inteiriçar: O vento assobiava nas inúmeras fendas da porta da cozinha e entrava em correntes impetuosas pelo tubo da chaminé, indo I]inteiriçar os membros regelados da desditosa criança.,
+	      retesar: No fim desse prazo, Rubião viu-o deixar a pena, [retesar o busto, esticar os braços e passar as mãos pelos olhos. ,
+	      tesar: x,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3189b' = “estender membros, músculos ou o corpo inteiro”
+	     {entesar: Seu Fernando endireitou-se na poltrona, I]entesou o tronco e esticou as pernas curtas e finas, descansando da posição incômoda que assumira por tanto tempo.,
+	      esticar: Luisinha, vendo-o, pôs-se nas pontas dos pés, [esticou o pescoço, e encarou-o por muito tempo estática e absorta. ,
+	      inteiriçar: O doutor se I]inteiriçou na cadeira.,
+	      retesar: De repente, ele se I]retesou na cadeira. Passos no corredor. Os passos, ou melhor, a pessoa que dava os passos parou e frente a porta do apartamento. ,}
+Chave: ESTICAR <verb.body>
+ILI: 00026695
+
+Sense 2
+{00026695} <verb.body> stretch1, extend -- (extend one's limbs or muscles, or the entire body; "Stretch your legs!"; "Extend your right arm above your head")
+       => {00024764} <verb.body> tense, strain, tense up -- (make tense and uneasy or nervous or anxious;)
+           => {00019146} <verb.body> affect -- (act physically on; have an effect upon)
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

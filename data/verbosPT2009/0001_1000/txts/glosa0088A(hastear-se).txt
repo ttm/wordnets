@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0088A
+
+DADO O SYNSET:
+
+S='Glosa88'
+{desfraldar-se: I]Desfraldou-se a vela, e o barco resvalou silenciosamente à flor das águas.,
+hastear-se: Nas repartições públicas federais, I]hastear-se-á a bandeira nacional nos dias úteis e nos dias de festa ou de luto oficial.,
+içar-se: Cortou perpendicularmente a praia, em rumo à canoa do chefe, tendo ao braço direito, perfilada, a bandeira peruana, que deveria I]içar-se à popa da embarcação. ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa88A' = “erguer, como bandeiras ou velas”
+{hastear-se: Nas repartições públicas federais, I]hastear-se-á a bandeira nacional nos dias úteis e nos dias de festa ou de luto oficial.,
+içar-se: Cortou perpendicularmente a praia, em rumo à canoa do chefe, tendo ao braço direito, perfilada, a bandeira peruana, que deveria I]içar-se à popa da embarcação. ,}
+Chave: HASTEAR-SE <verb.contact>
+ILI: 01414456
+
+Sense 3
+{01414456} <verb.contact> hoist1, run up -- (raise; "hoist the flags"; "hoist a sail")
+       => {01916187} <verb.motion> raise, lift, elevate, get up, bring up -- (raise from a lower to a higher position; "Raise your hands"; "Lift a load")
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

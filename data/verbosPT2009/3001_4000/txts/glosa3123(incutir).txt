@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA3123
+
+DADO O SYNSET:
+
+S='Glosa3123'
+	    {
+	      deixar: A impressão que Caio [deixa nos amigos é a de um escritor que viveu intensamente os loucos anos 70, mas que optou pela vida ao descobrir estar condenado à morte. ,
+	      imprimir: Nesta última, a intérprete se entrega por inteiro, seduzindo a platéia a cada repetição da frase do título, à qual [imprime a dose certa de sensualidade. ,
+	      incutir: Será que nem os centros incumbidos de [incutir valores éticos na formação da juventude brasileira estão a salvo de práticas que emporcalham a vida política nacional ? ,
+	      infundir: À proporção que declinava o dia e que as sombras cobriam o céu, a tristeza e melancolia que [infunde o sentimento da fraqueza do homem em face dessa solidão imensa de água e de céu, se apoderavam do meu espírito. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3123' = “produzir ou tentar produzir uma impressão”
+	     {deixar: Esse movimento I]deixou a sensação no mercado de que havia espaço para que o preço de lançamento tivesse sido mais alto. ,}
+	      imprimir: Anfitrião da noite, Paulinho da Viola I]imprimiu sua marca tranqüila a todo o espetáculo. ,
+	      incutir: O fato de entrarem desfalcados I]incutiu nos jogadores um sentimento ainda maior de responsabilidade e seriedade dentro das quatro linhas. ,
+	      infundir: O projeto de Lúcio Costa, um dos maiores urbanistas do país, I]infundiu no povo brasileiro uma sensação de esperança como há muito não era possuído. ,}
+Chave: INCUTIR <verb.cognition>
+ILI: 00704287
+
+Sense 3
+{00704287} <verb.cognition> impress, ingrain, instill -- (produce or try to produce a vivid impression of; "Mother tried to ingrain respect for our elders in us")
+       => {01716999} <verb.emotion> affect, impress1, move, strike -- (have an emotional or cognitive impact upon; "This child impressed me as unusually mature"; "This behavior struck me as odd")

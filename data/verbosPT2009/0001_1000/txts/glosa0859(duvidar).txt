@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0859
+
+DADO O SYNSET:
+
+S='Glosa859'
+{duvidar: E ninguém jamais [duvidará de que a Lilian está completamente vestida atrás daquele bumerangue futurista.,}
+A='Glosa286'
+{acreditar, engolir, tragar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa859' = “considerar improvável ou ter dúvidas a respeito de”
+{duvidar: E ninguém jamais [duvidará de que a Lilian está completamente vestida atrás daquele bumerangue futurista.,}
+A='Glosa286'
+{acreditar, engolir, tragar}
+Chave: DUVIDAR <verb.cognition>
+ILI: 00664230
+
+Sense 1
+{00664230} <verb.cognition> doubt -- (consider unlikely or have doubts about; "I doubt that she will accept his proposal of marriage")
+       => {00661714} <verb.cognition> disbelieve, discredit -- (reject as false; refuse to accept)
+           => {00662708} <verb.cognition> reject -- (refuse to accept or acknowledge; "I reject the idea of starting a war"; "The journal rejected the student's paper")
+               => {00647983} <verb.cognition> judge -- (form an opinion of or pass judgment on; "I cannot judge some works of modern art")
+                   => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

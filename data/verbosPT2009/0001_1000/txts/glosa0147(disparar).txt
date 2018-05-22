@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0147
+
+DADO O SYNSET:
+
+S='Glosa147'
+{atirar: Ele estava com os olhos arregalados, estático, um alvo fácil, mas não tive coragem de [atirar contra ele, relatou o soldado. ,
+disparar: O que deveria ser apenas uma simples prisão de um traficante tornou-se um show de truculência de homens do 23° Batalhão da Polícia Militar, que [dispararam vários tiros de AR-15 para o alto.,
+queimar: A polícia precisou H]queimar o assaltante.,
+tirar: Brandia a pistoleta, H]tirando para cima.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa147' = “começar a disparar uma arma”
+{atirar: Ele estava com os olhos arregalados, estático, um alvo fácil, mas não tive coragem de [atirar contra ele, relatou o soldado. ,
+disparar: O que deveria ser apenas uma simples prisão de um traficante tornou-se um show de truculência de homens do 23° Batalhão da Polícia Militar, que [dispararam vários tiros de AR-15 para o alto.,}
+
+Chave: DISPARAR <verb.competition>
+ILI: 01100557
+
+Sense 1
+{01100557} <verb.competition> open fire, fire1 -- (start firing a weapon)
+       => {01099590} <verb.competition> shoot -- (fire a shot)
+           => {01098634} <verb.competition> fire, discharge1 -- (cause to go off; "fire a gun"; "fire a bullet")

@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA2962
+
+DADO O SYNSET:
+
+S='Glosa2962'
+	    {copar: A figueira havia estendido grossos braços para todos os lados e I]copava de tal forma a folhagem, que a sombra era perpétua. ,
+	      frondar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2962'  = “Crescer e lançar galhos ou estruturas parecidas com galhos”
+	    {copar: A figueira havia estendido grossos braços para todos os lados e a folhagem I]copava de tal forma, que a sombra era perpétua.,}
+Chave: COPAR <verb.change>
+ILI: 00318909
+
+Sense 1
+{00318909} <verb.change> ramify1, branch1 -- (grow and send out branches or branch-like structures; "these plants ramify early and get to be very large")
+       => {00223119} <verb.change> grow -- (become larger, greater, or bigger; expand or gain; "The problem grew too large for me"; "Her business grew fast")
+           => {00150804} <verb.change> increase -- (become bigger or greater in amount; "The amount of work increased")
+               => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night") 

@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA3907
+
+DADO O SYNSET:
+	
+S='Glosa3907'
+{pôr: Os propulsores explodiram, causando várias avarias, as quais [puseram a estação fora de controle.,
+ tornar: Os cacos que ele colou [tornaram a se espatifar no confronto de ontem.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3907' = “adaptar”
+{pôr: A entrevista coletiva da equipe econômica [pôs a nu o intenso desligamento, a ausência total de contato com a realidade, que caracteriza os economistas brasileiros.,
+ tornar: A nova fórmula de cálculo da TR (Taxa Referencial) [tornou a caderneta de poupança a alternativa mais atraente na transição para a nova moeda, o real.}
+Chave: PÔR <verb.creation>
+ILI: 01657581
+
+Sense 8
+{01657581} <verb.creation> put13 -- (adapt; "put these words to music")
+       => {01657335} <verb.creation> arrange, set -- (adapt for performance in a different way; "set this poem to music")
+           => {01656700} <verb.creation> compose3, write4 -- (write music; "Beethoven composed nine symphonies")
+               => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

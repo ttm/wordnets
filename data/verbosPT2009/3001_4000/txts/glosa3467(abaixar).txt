@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA3467
+
+DADO O SYNSET:
+
+S='Glosa3467'
+	    {
+	      abaixar: ]Abaixar a febre,
+	      cair: O crescimento da economia deste território poderá mesmo [cair 0,5 por cento este ano/A cotação do dólar [caiu de 1,548 marcos por dólar, na abertura dos mercados asiáticos,
+	      descer: O PCP é o grande derrotado nestas eleições , ao descer para a casa dos trezentos e poucos mil votos, atinge o mais baixo patamar da sua história eleitoral,
+	      diminuir: O tempo requerido para um determinado solo aumentar ou ]diminuir a temperatura depende de como o calor é transmitido,
+	      minuir: x,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3467' = “cair em valor”
+	     {abaixar: A «reaganomics» [abaixou as alíquotas para estimular o crescimento e o emprego, 
+	      cair: Estima-se que o consumo de cinema e vídeo no país [caiu em 30%/A cotação do dólar [caiu de 1,548 marcos por dólar, na abertura dos mercados asiáticos,
+	      descer: Depois de um ligeiro crescimento na década de vinte, a exportação [desceu para 334.293 toneladas no período de 1931-1939,
+	      diminuir: A onda de inadimplência [diminuiu, os boatos sobre bancos em dificuldade cessaram, mas nem por isso as preocupações dos banqueiros diminuíram,}
+Chave: ABAIXAR <verb.change>
+ILI: 00420315
+
+Sense 3
+{00420315} <verb.change> drop -- (go down in value; "Stock prices dropped")
+       => {00419458} <verb.change> decline, go down, wane2 -- (grow smaller; "Interest in the project waned")
+           => {00146081} <verb.change> decrease, diminish, lessen, fall6 -- (decrease in size, extent, or range; "The amount of homework decreased towards the end of the semester"; "The cabin pressure fell dramatically"; "her weight fall to under a hundred pounds"; "his voice fell to a whisper")
+               => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA2520
+
+DADO O SYNSET:
+
+S='Glosa2520'
+	    {ensarilhar: H]Ensarilhar lã.,
+	      sarilhar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2520' = “Formar um cilindro enrolando.”
+	    {ensarilhar: H]Ensarilhar lã.,}
+
+Chave: ENSARILHAR <verb.change>
+ILI: EQ_NEAR_SYNONYM - 00423475
+
+Sense 1
+{00423475} <verb.change> roll up1, furl -- (form into a cylinder by rolling; "Roll up the cloth")
+       => {00135866} <verb.change> change shape, change form, deform2 -- (assume a different shape or form)
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night") 

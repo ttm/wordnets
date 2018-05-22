@@ -1,0 +1,69 @@
+ANÁLISE DA GLOSA4028
+
+DADO O SYNSET:
+
+S='Glosa4028'
+{adulterar: H]Adulterou seus hábitos saudáveis.,
+apestar: x,
+contaminar: M]Contaminaram-no os piores vícios.,
+corromper: O suborno I]corrompe o coração.,
+debochar: As más companhias H]debocharam o pobre rapaz,
+depravar: A ambição desmedida H]deprava as criaturas.,
+descaminhar: x,
+desencaminhar: H]Desencaminhou os colegas dos estudos.,
+desgarrar: Suas paixões o H]desgarravam dos preceitos evangélicos.,
+desgovernar: O jogo e a bebida H]desgovernam os fracos de espírito.,
+desmoralizar: Os economistas soviéticos I]desmoralizaram as teorias marxistas e, os brasileiros, todas as outras.,
+deturpar: Enumerou vícios que H]deturpam a linguagem.,
+devassar: x,
+empestar: Os maus exemplos H]empestaram seu comportamento.,
+empestear: x,
+esculhambar: No final entendi porque tanta gente elogiou e porque tanta gente I]esculhambou o filme. ,
+extraviar: Há muitos apelos enganosos H]extraviando a juventude.,
+infeccionar: Seu negativismo H]infeccionou toda uma geração.,
+infecionar: x,
+infectar: x,
+infetar: Tentaram M]infetar a população com aquela pestífera doutrina.,
+inficionar: x,
+malignar: Ambiente maligno, M]malignou o rapaz. ,
+perverter: Esse rei I]pervertia outras pessoas, e perseguia os filhos de Deus, matando muita gente.,
+pestear: x,
+pestiferar: x,
+profligar: A inveja H]profliga o ser humano.,
+prostituir: A promiscuidade com o Executivo H]prostitui o Congresso.,
+subverter: "Eu Tu Eles" entroniza desejo feminino no sertão machista, I]subverteu a moral.,
+ulcerar: H]Ulcerou a moral das famílias.,
+viciar: A fumaça H]viciou o ar.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4028' = “deturpar moralmente ou por intemperança ou por sensualidade”
+{adulterar: H]Adulterou seus hábitos saudáveis.,
+contaminar: M]Contaminaram-no os piores vícios.,
+corromper: O suborno I]corrompe o coração.,
+debochar: As más companhias H]debocharam o pobre rapaz,
+depravar: A ambição desmedida H]deprava as criaturas.,
+desencaminhar: H]Desencaminhou os colegas dos estudos.,
+desgarrar: Suas paixões o H]desgarravam dos preceitos evangélicos.,
+desgovernar: O jogo e a bebida H]desgovernam os fracos de espírito.,
+desmoralizar: Os economistas soviéticos I]desmoralizaram as teorias marxistas e, os brasileiros, todas as outras.,
+deturpar: Enumerou vícios que H]deturpam a linguagem.,
+empestar: Os maus exemplos H]empestaram seu comportamento.,
+esculhambar: No final entendi porque tanta gente elogiou e porque tanta gente I]esculhambou o filme. ,
+extraviar: Há muitos apelos enganosos H]extraviando a juventude.,
+infeccionar: Seu negativismo H]infeccionou toda uma geração.,
+infetar: Tentaram M]infetar a população com aquela pestífera doutrina.,
+malignar: Ambiente maligno, M]malignou o rapaz. ,
+perverter: Esse rei I]pervertia outras pessoas, e perseguia os filhos de Deus, matando muita gente.,
+profligar: A inveja H]profliga o ser humano.,
+prostituir: A promiscuidade com o Executivo H]prostitui o Congresso.,
+subverter: "Eu Tu Eles" entroniza desejo feminino no sertão machista, I]subverteu a moral.,
+ulcerar: H]Ulcerou a moral das famílias.,
+viciar: A fumaça H]viciou o ar.,}
+Chave: CORROMPER <verb.social>
+ILI: 02502628
+
+Sense 1
+{02502628} <verb.social> corrupt, pervert, subvert3, demoralize, demoralise, debauch, debase, profane1, vitiate, deprave, misdirect -- (corrupt morally or by intemperance or sensuality; "debauch the young people with wine and women"; "Socrates was accused of corrupting young men"; "Do school counselors subvert young children?"; "corrupt the morals")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")
+

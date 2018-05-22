@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA2689
+
+DADO O SYNSET:
+
+  S='Glosa2689'
+	    {aludir: O acordo, porém, só produz efeito, quando constar de contrato escrito e [aludir expressamente a determinado negócio jurídico.,
+	      referir-se: O sistema econômico socialista está diretamente vinculado ao regime político socialista, sendo impossivel falar em um sem [se referir ao outro.,
+	      remeter-se: A partir de relatos detalhados de hábitos de determinados grupos de animais, como saguis, pombos e capivaras, entre outros, elaborados mediante estrita observação metodológica, pesquisadores vão construindo painéis, que mediante a adoção de uma perspectiva comparativa, [nos remetem às possíveis correlações entre os chamados instintos animais e hábitos ditos humanos.,
+	      reportar-se: Há decisões não conhecendo do agravo porque o recorrente, em vez de combater a argumentação da decisão agravada, se limitou a [reportar-se ao que havia escrito antes desta.,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2689' = “Fazer uma referência mais ou menos disfarçada a alguma coisa.”
+	    {aludir: Nenhum de nós I]aludiu ao triste motivo da minha reclusão.,
+	      referir-se: Luiz Carlos Gomes I]referiu-se ao papel desempenhado pelo Prof. Alceu na reformulação dos programas.,
+	      remeter-se: O diretor da Enamat I]remeteu-se a sua própria experiência de várias décadas na magistratura para dizer a seus jovens colegas, “quase como um tio”,.,
+	      reportar-se: O Deputado Daniel Almeida I]reportou-se a alguns temas que necessitavam de debates.,}
+
+Chave: ALUDIR <verb.communication>
+ILI: 00993726
+
+Sense 1
+{00993726} <verb.communication> allude, touch9, advert1 -- (make a more or less disguised reference to; "He alluded to the problem but did not mention it")
+       => {00896980} <verb.communication> hint, suggest4 -- (drop a hint; intimate by a hint)
+           => {00898144} <verb.communication> convey, impart1 -- (make known; pass on, of information)
+               => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                   => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                       => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel") 

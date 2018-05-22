@@ -1,0 +1,38 @@
+ANÁLISE DA GLOSA1475
+
+DADO O SYNSET:
+
+S='Glosa1475'
+{descarrilar: Esqueceu-se dos seus princípios e H]descarrilou.,
+ descarrilhar: O major não viu a expressão do rosto, não percebeu que o espírito do homem ia, talvez, [descarrilhar.,
+ descomedir-se: H]Descomediu-se no uso da pimenta na comida,
+	 desencarrilar: x,
+	 desencarrilhar: x,
+	 desmanchar-se: H]Desmanchou-se na dieta.,
+	 desmandar-se: H]Desmandou-se na bebida,
+	 desmesurar-se: x,
+	 desmoderar-se: H]Desmoderar-se na função de professor,
+	 desregrar-se: Para Buckle, no Brasil é a vegetação que a natureza parece I]desregrar-se na ostentação de seu poder,}
+	  
+A='Glosa545'
+{moderar-se, regrar-se, regular-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1475' = “agir em desrespeito às leis e regras”
+{descarrilar: A crise, infelizmente, foi de violência tal que sepultou toda a discussão do desenvolvimento, o debate I]descarrilou de vez.,
+ descarrilhar: O major não viu a expressão do rosto, não percebeu que o espírito do homem ia, talvez, [descarrilhar.,
+ descomedir-se: Mas, abrasada assim, a irritação pública entra em risco de se I]descomedir.,
+	 desregrar-se: A nossa sensibilidade se I]desregrou e se rebela contra a inteligência e a vontade.,}
+	  
+A='Glosa545'
+{moderar-se, regrar-se, regular-se}
+Chave: DESREGRAR-SE <verb.social>
+ILI: 02490637
+
+Sense 2
+{02490637} <verb.social> transgress, offend, infract, violate, go against, breach, break -- (act in disregard of laws and rules; "offend all laws of humanity"; "violate the basic laws or human civilization"; "break a law")
+       => {02383832} <verb.social> disrespect -- (show a lack of respect for)
+           => {02384110} <verb.social> relate -- (have or establish a relationship to; "She relates well to her peers")
+               => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel") 

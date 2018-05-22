@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA1254
+
+DADO O SYNSET:
+
+S='Glosa1254'
+{abastadear: x,
+ abastardar: Com o fim de erguerem bem alto o estandarte do regionalismo, procurava I]abastardar as virtudes ascentrais de cada região,
+ bastardear: x,
+ corromper: Um processo frio e calculista que I]corrompe a sociedade, privando-a de referências e valores.,
+ decompor: Era possível I]decompor sua honra,
+ degenerar: A escola cínica, fundada por Antístenes, que, exagerando a doutrina socrática do desapego das coisas exteriores, I]degenerou, por último, em verdadeiro desprezo das conveniências sociais. ,
+ desdizer: Inteligente e responsável, não A]desdirá da família.,
+ mentir: Boa raça não A]mente.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1254' = “corromper moralmente ou por imoderação ou sensualidade” 
+{abastardar: FHC piorou os serviços públicos, I]abastardou a vida política nacional e colocou o país no risco das cirandas financeiras do capitalismo de cassino.,
+ corromper: Um processo frio e calculista que I]corrompe a sociedade, privando-a de referências e valores.,
+ decompor: Era possível I]decompor sua honra.,
+ degenerar: A obra não respeita as crenças cristãs e I]degenera a história de Jesus Cristo.,}
+Chave: CORROMPER <verb.social>
+ILI: 02502628
+
+Sense 1
+{02502628} <verb.social> corrupt, pervert, subvert3, demoralize, demoralise, debauch, debase, profane1, vitiate, deprave, misdirect -- (corrupt morally or by intemperance or sensuality; "debauch the young people with wine and women"; "Socrates was accused of corrupting young men"; "Do school counselors subvert young children?"; "corrupt the morals")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

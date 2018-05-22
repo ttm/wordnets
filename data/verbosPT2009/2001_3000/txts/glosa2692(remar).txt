@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA2692
+
+DADO O SYNSET:
+
+  S='Glosa2692'
+	    {remar: Acabada a nossa magra colação, o pescador começou a [remar com uma força e um vigor que me reanimaram a esperança.,
+	      vogar: — Para onde, presbítero? — perguntou o barqueiro, depois de I]vogar alguns momentos em silêncio.,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2692' = “Impelir com remos.”
+	    {remar: Um dia de ventania, o rapaz pegou sua canoa, I]remou até o centro do canal.,
+	      vogar: Canoeiro Apuleio I]vogou 3 dias e 3 noites por cima das águas, sem comer sem dormir.,}
+
+Chave: REMAR <verb.motion>
+ILI: 01890047
+
+Sense 1
+{01890047} <verb.motion> row -- (propel with oars; "row the boat across the lake")
+       => {01888016} <verb.motion> boat -- (ride in a boat on water)
+           => {01898556} <verb.motion> ride -- (be carried or travel on or in a vehicle; "I ride to work in a bus"; "He rides the subway downtown every day")
+               => {01787680} <verb.motion> travel3 -- (undergo transportation as in a vehicle; "We travelled North on Rte. 508")
+                   => {01782203} <verb.motion> travel, go, move3, locomote -- (change location; move, travel, or proceed; "How fast does your new car go?"; "We travelled from Rome to Naples by bus"; "The policemen went from door to door looking for the suspect"; "The soldiers moved towards the city in an attempt to take it before night fell") 

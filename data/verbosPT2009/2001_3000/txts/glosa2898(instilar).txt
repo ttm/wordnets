@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2898
+
+DADO O SYNSET:
+
+S='Glosa2898'
+	    {filtrar: Segundo Oppido, as 20 fotos da mostra [filtram crenças e emoções suas, em que valem infinitas possibilidades de interpretação.,
+	      inocular: No momento em que o artista é cada vez mais digerido pela sociedade em dissolução, lhe resta, na medida de seus meios, tentar [inocular uma nova maneira de viver.,
+	      instilar: Imagine que se comece de novo a [instilar, nas crianças, o valor do civismo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2898' = “Introduzir uma idéia ou atitude na mente de”
+	    {filtrar: Os sofrimentos que a haviam emagrecido e descorado filtravam-lhe no semblante um quê indefinido de santidade.,
+	      inocular: Todos [inocularam totalmente a ideologia do técnico.,
+	      instilar: A formação cristã I]instilou em Albertina a inclinação à bondade.,}
+Chave: INSTILAR <verb.communication>
+ILI: 00805383
+
+Sense 1
+{00805383} <verb.communication> inoculate -- (introduce an idea or attitude into the mind of; "My teachers inoculated me with their beliefs")
+       => {00804489} <verb.communication> inform -- (impart knowledge of some fact, state or affairs, or event to; "I informed him of his rights")
+           => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+               => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel") 

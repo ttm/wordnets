@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA1111
+
+DADO O SYNSET:
+
+S='Glosa1111'
+{deixar: Fernando Henrique alega que o governo não pode [deixar de fazer suas inaugurações só porque é época eleitoral,
+ desabituar-se: O Estado deve I]desabituar-se de ter o monopólio do ensino/O povo, que se habituara àquela figura, não conseguiria I]desabituar-se,
+ desacostumar-se: A partir do fim da Guerra Fria, o mundo começava [desacostumar-se de assistir às tétricas cenas de pessoas inocentes sendo friamente assassinadas e seus corpos atirados sobre as pistas de aeroportos,
+ desafazer-se: É preciso algum método para bem observar e analisar o que se passa, I]desafazer-se dos pré-julgamentos, vislumbrar novos caminhos, formular hipóteses,}
+	  
+A='Glosa2860'
+	    {acostumar-se, afazer-se, avezar-se, costumar-se, familiarizar-se, habituar-se, identificar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1111' = “deixar de manter ou de ter o hábito”
+{desabituar-se: Imagino que pela crise econômica que o país vive, as pessoas saiam pouco, I]desabituaram-se de sair de casa.,
+ desacostumar-se: Lula I]desacostumou-se do debate para adotar a luta pela permanência no ápice burocrático partidário.,}
+A='Glosa2860'
+	    {acostumar-se, afazer-se, avezar-se, costumar-se, familiarizar-se, habituar-se, identificar-se}
+Chave: DESACOSTURMAR-SE <verb.possession>
+ILI: EQ_HAS_HYPERONYM - 02221758
+
+Sense 1
+{02221758} <verb.possession> lose2 -- (fail to keep or to maintain; cease to have, either physically or in an abstract sense; "She lost her purse when she left it unattended on her seat")

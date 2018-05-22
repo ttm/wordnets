@@ -1,0 +1,53 @@
+ANÁLISE DA GLOSA3061
+
+DADO O SYNSET:
+
+S='Glosa3061'
+	    {
+	      adunar-se: Assim, I]adunam-se todos aos quais podem molestar as idéias de liberdade.,
+	      aglomerar-se: Ao terminar sua fala, ele foi cercado, levou socos, teve sua camisa rasgada e com muita dificuldade conseguiu se livrar da multidão que se [aglomerava em frente ao Bonsucesso Futebol Clube.,
+	      agregar-se: Na época reprodutiva de muitas espécies de anuros, centenas de indivíduos I]agregam-se em determinadas áreas à noite, formando coros.,
+	      agremiar-se: Rapaz na cidade convidou-me à mina, e fiquei surpreso ao perceber que curiosos de diversas nacionalidades se I]agremiavam no lugar.,
+	      agrupar-se: Num grande pátio abandonado de ferrovia, uma velha locomotiva preta solta fumaça enquanto 221 extras húngaros, em roupas de época, [agrupam-se sob o sol da manhã.,
+	      ajuntar-se: I]Ajuntam-se em bando para me espiar.,
+	      apinhar-se: E voltar a ter mais ônibus circulando, já que o novo formato só fez os donos das frotas sorrirem de orelha a orelha, e os passageiros se [apinharem.,
+	      arrebanhar-se: [Arrebanham-se 100.000 pessoas num estádio para verem 22 atletas exercitando.,
+	      associar-se: A Vía Campesina realizará o encontro no México, com a participação dos zapatistas, do MST, da Federação Camponesa Francesa de José Bové e das milhares de organizações que se I]associam naquela organização internacional dos trabalhadores rurais.,
+	      coadunar-se: x,
+	      conglomerar-se: Um momento emocionante para as centenas de milhares de participantes que ali se I]conglomeram para celebrar a liberdade sexual.,
+	      consociar-se: x,
+	      englobar-se: x,
+	      enxamear-se: Torcedores fanáticos H]enxameavam-se no estádio.,
+	      grupar-se: As pessoas presentes se [gruparam ao redor da poltrona de D. Antônio, em face do qual Peri de pé com a cabeça baixa, confuso e envergonhado como um criminoso, ia justificar-se. ,
+	      juntar-se: A cada esquina que o Simpatia é quase amor chegava, mais e mais pessoas se I]juntavam à multidão que já o acompanhava com incrível fidelidade. # Aos milhares se I]juntavam.,
+	      reunir-se: Cerca de 7.000 muçulmanos se [reuniram numa conferência ontem em Londres no que foi considerado o maior evento islâmico no Ocidente. ,
+	      somar-se: Uma das alas do Pentágono fora destruída e mais de 6.000 mortos I]somavam-se naqueles ataques.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3061' = “reunir-se em massa”
+	    {adunar-se: Assim, I]adunam-se todos aos quais podem molestar as idéias de liberdade.,
+	      aglomerar-se: Ao terminar sua fala, ele foi cercado, levou socos, teve sua camisa rasgada e com muita dificuldade conseguiu se livrar da multidão que se [aglomerava em frente ao Bonsucesso Futebol Clube.,
+	      agregar-se: Na época reprodutiva de muitas espécies de anuros, centenas de indivíduos I]agregam-se em determinadas áreas à noite, formando coros.,
+	      agremiar-se: Rapaz na cidade convidou-me à mina, e fiquei surpreso ao perceber que curiosos de diversas nacionalidades se I]agremiavam no lugar.,
+	      agrupar-se: Num grande pátio abandonado de ferrovia, uma velha locomotiva preta solta fumaça enquanto 221 extras húngaros, em roupas de época, [agrupam-se sob o sol da manhã.,
+	      ajuntar-se: I]Ajuntam-se em bando para me espiar.,
+	      apinhar-se: o abastecimento de electricidade para a metade do milhão e meio de habitantes que se I]apinham em Gaza foi inutilizado pela aviação israelense.,
+	      arrebanhar-se: [Arrebanham-se 100.000 pessoas num estádio para verem 22 atletas exercitando.,
+	      associar-se: A Vía Campesina realizará o encontro no México, com a participação dos zapatistas, do MST, da Federação Camponesa Francesa de José Bové e das milhares de organizações que se I]associam naquela organização internacional dos trabalhadores rurais.,
+	      conglomerar-se: Estes militantes de base se I]conglomeravam num grupo chamado Grupo de Ação Sindical (GAS).,
+	      enxamear-se: Torcedores fanáticos H]enxameavam-se no estádio.,
+	      grupar-se: As pessoas presentes se [gruparam ao redor da poltrona de D. Antônio, em face do qual Peri de pé com a cabeça baixa, confuso e envergonhado como um criminoso, ia justificar-se. ,
+	      juntar-se: A cada esquina que o Simpatia é quase amor chegava, mais e mais pessoas se I]juntavam à multidão que já o acompanhava com incrível fidelidade. # Aos milhares se I]juntavam.,
+	      reunir-se: Cerca de 7.000 muçulmanos se [reuniram numa conferência ontem em Londres no que foi considerado o maior evento islâmico no Ocidente. ,
+	      somar-se: Uma das alas do Pentágono fora destruída e mais de 6.000 mortos I]somavam-se naqueles ataques.,}
+Chave: AGLOMERAR-SE <verb.motion>
+ILI: 01966212
+
+Sense 1
+{01966212} <verb.motion> mass -- (join together into a mass or collect or form a mass; "Crowds were massing outside the palace")
+       => {01969656} <verb.motion> crowd, crowd together -- (to gather together in large numbers; "men in straw boaters and waxed mustaches crowded the verandah")
+           => {02355773} <verb.social> meet, gather, assemble, forgather, foregather -- (collect in one place; "We assembled in the church basement"; "Let's gather in the dining room")
+               => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

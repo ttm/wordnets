@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA1092
+
+DADO O SYNSET:
+
+S='Glosa1092'
+{barbear-se: Passou a [barbear-se três vezes por dia, trocou as gravatas escuras pelas claras,
+ escanhoar-se: Ouvimos os locutores enquanto Júlio passa creme de barba no rosto e começa a I]escanhoar-se, com alguma dificuldade,
+ rapar-se: Paulo disse ser indecente para a mulher tosquiar-se ou I]rapar-se,
+ raspar-se: Os presos eram obrigados a I]raspar-se, a fim de evitar a proliferação de piolhos na cadeia, porque, assim, seriam enforcadso e a barba poderia atrapalhar, ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1092' = “remover os próprios pêlos do corpo com navalha”
+{barbear-se: Passou a [barbear-se três vezes por dia, trocou as gravatas escuras pelas claras.,
+ escanhoar-se: Ele acorda. É sempre a mesma coisa. Agora I]se escanhoa.,
+ rapar-se: Paulo disse ser indecente para a mulher tosquiar-se ou I]rapar-se,
+ raspar-se: Ele I]se raspou com a pele seca e depois passou creme.,}
+Chave: BARBEAR-SE <verb.body>
+ILI: 00036063 
+
+Sense 1
+{00036063} <verb.body> shave -- (remove body hair with a razor)
+       => {00039108} <verb.body> groom, neaten -- (care for one's external appearance; "He is always well-groomed")
+           => {00284091} <verb.change> beautify, embellish, prettify -- (make more beautiful)
+               => {00198579} <verb.change> better1, improve1, amend, ameliorate1, meliorate1 -- (to make better; "The editor improved the manuscript with his changes")
+                   => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

@@ -1,0 +1,48 @@
+ANÁLISE DA GLOSA2039
+
+DADO O SYNSET:
+	
+S='Glosa2039'
+    	{acanavear: x,
+      	 adelgaçar: Transion: máxima potência e tecnologia para I]adelgaçar, firmar e modelar o corpo.,
+      	 adelgadar: x,
+      	 adelgar: x,
+      	 afilar2: x,
+      	 afinar: Com a dieta H]afinou.,
+      	 definhar: Era uma doença acre que muito I]definhou seu corpo; empalidecendo-o, dilacerando-o. ,
+      	 delgaçar: x,
+      	 descarnar: A hepatite H]descarnou-o.,
+      	 desencorpar: A moléstia H]desencorpou-a.,
+      	 desmedrar: A enferma M]desmedrava, dia a dia.,
+      	 desnutrir: x,
+      	 emaciar: Exercícios intensos H]emaciam. # A doença o H]emaciou.,
+      	 emagrecer: Tomara embirrância por tudo e [emagrecia.,
+      	 emagrentar: x,
+      	 engoiar-se: x,
+      	 entresilhar: Mal alimentado, M]entresilhava.,
+      	 escanifrar: x,
+      	 estalicar: x,}
+  
+A='Glosa1072'
+    	{anafar, engordar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2039' = “fazer ficar com menos peso”
+    	{adelgaçar: Transion: máxima potência e tecnologia para I]adelgaçar, firmar e modelar o corpo.,
+      	 afinar: Você pode voltar a medir-se para ver onde e quanto I]afinou sua figura.,
+      	 definhar: Era uma doença acre que muito I]definhou seu corpo; empalidecendo-o, dilacerando-o.,
+      	 descarnar: A doença B]descarnou-o totalmente.,
+      	 desencorpar: Uma praga dizimou muitas árvores e B]desencorpou outras tantas.,
+      	 emaciar: A deficiência nutricional inviabiliza a gametogênese e I]emacia o corpo do hospedeiro.,
+      	 emagrecer: Estamos vivenciando uma grande crise por conta da estiagem que I]emagreceu o rebanho acreano.}
+  
+A='Glosa1072'
+    	{anafar, engordar}
+Chave: EMAGRECER <verb.body>
+ILI: EQ_NEAR_SYNONYM – 00044299
+
+Sense 1
+{00044299} <verb.body> reduce, melt off, lose weight, slim, slenderize, thin, slim down -- (take off weight)
+       => {00140715} <verb.change> change state, turn4 -- (undergo a transformation or a change of position or action; "We turned from Socialism to Capitalism"; "The people turned against the President when he stole the election")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

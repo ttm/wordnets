@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA2368
+
+DADO O SYNSET:
+
+S='Glosa2368'
+	    {carimbar: Remo [carimba o passaporte.,
+	      chancelar: O general concordou, o governador Roriz aceitou, a oposição calou e, por fim, o juiz da Vara de Execuções I]chancelou os documentos.,
+	      selar1: É prevista na legislação de regência, a obrigatoriedade do contribuinte vistoriar ou I]selar os documentos fiscais em Postos Fiscais de Fronteiras.,
+	      timbrar: O Brasão será reproduzido em clichês para I]timbrar a documentação oficial do Município de Curitiba com representação icnográfica das cores.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2368' = “Estampar com um carimbou, geralmente como uma indicação de aprovação oficial em um documento.”
+	    {carimbar: Remo [carimba o passaporte.,
+	      chancelar: O juiz da Vara de Execuções I]chancelou os documentos.,
+	      selar: É prevista na legislação de regência, a obrigatoriedade do contribuinte vistoriar ou I]selar os documentos fiscais em Postos Fiscais de Fronteiras.,
+	      timbrar: E I]timbrava os documentos oficiais.,}
+
+Chave: CARIMBAR <verb.contact>
+ILI: 01235531
+
+Sense 1
+{01235531} <verb.contact> rubberstamp, handstamp -- (stamp with a rubber-stamp, usually an indication of official approval on a document)
+       => {01234915} <verb.contact> stamp1 -- (to mark, or produce an imprint in or on something; "a man whose name is permanently stamped on our maps")
+           => {01489399} <verb.contact> impress, imprint -- (mark or stamp with or as if with pressure; "To make a batik, you impress a design with wax")
+               => {00345030} <verb.change> change surface -- (undergo or cause to undergo a change in the surface)
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night") 

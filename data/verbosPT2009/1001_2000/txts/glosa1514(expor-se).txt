@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA1514
+
+DADO O SYNSET:
+
+S='Glosa1514'
+{desacautelar-se: M]Desacautelou-se da saúde.,
+ descuidar-se: No instante em que se H]descuidou, acertaram-no. ,
+ desguardar-se: x,
+ desprecatar-se: x,
+ desprevenir-se: x,
+ facilitar: Tenha cuidado, não M]facilite.,}
+	  
+A='Glosa3949'
+{abarreirar-se, acautelar-se, armar-se, cuidar-se, dispor-se, garantir-se, guardar-se, precatar-se, precaucionar-se, precaver-se, premunir-se, preparar-se, prevenir-se, recatar-se, resguardar-se, vigiar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1514' = “tornar a defesa menos rígida”
+{descuidar-se: O Brasil deve continuar dando espetáculo, mas sem se [descuidar da defesa.,
+ expor-se: O tigre, que observava os cavaleiros, imóvel, com o pêlo eriçado, não ousara investir nem retirar-se, temendo [expor-se aos tiros dos arcabuzes.,
+ facilitar: Não I]facilite nos cruzamentos. Mesmo que seja sua a preferência, reduza a velocidade e olhe para todos os lados antes de cruzá-lo.}
+	  
+A='Glosa3949'
+{abarreirar-se, acautelar-se, armar-se, cuidar-se, dispor-se, garantir-se, guardar-se, precatar-se, precaucionar-se, precaver-se, premunir-se, preparar-se, prevenir-se, recatar-se, resguardar-se, vigiar-se}
+Chave: EXPOR-SE <verb.social>
+ILI: EQ_NEAR_SYNONYM – 02524994
+
+Sense 1
+{02524994} <verb.social> relax, loosen -- (become less severe or strict; "The rules relaxed after the new director arrived")
+       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA1166
+
+DADO O SYNSET:
+
+S='Glosa1166'
+{desaromar: x,
+ desaromatizar: O vento H]desaromatizou o jardim de inverno,}
+	  
+A='Glosa3628'
+	    {aromalizar, aromar, aromatizar, balsamar, balsamizar, embalsamar, olorizar, perfumar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1166' = “eliminar o odor [de]”
+{desaromatizar: Os azeites comestíveis correntes no mercado não podem ser considerados produtos naturais. Apresentam, por isso, uma cor clara, e são insípidos, o que se consegue «refinando-os» apenas, isto é, I]desaromatizando-os com vapor de água.,}
+A='Glosa3628'
+	    {aromalizar, aromar, aromatizar, balsamar, balsamizar, embalsamar, olorizar, perfumar}
+Chave: DESAROMATIZAR <verb.perception>
+ILI: 02065467
+
+Sense 1
+{02065467} <verb.perception> deodorize, deodorise, deodourise -- (eliminate the odor from; "This stick will deodorize your armpits")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

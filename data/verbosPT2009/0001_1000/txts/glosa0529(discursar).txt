@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0529
+
+DADO O SYNSET:
+
+S='Glosa529'
+{discorrer: Não caberia aqui [discorrer e debater sobre os caminhos que conduziram ao esgotamento do poder de regulação do Estado brasileiro.,
+discursar: Um punhado de gringos I]discursava sobre os caminhos a seguir e a evitar.,
+moralizar: Alguém deveria recordar ao homem mediano, I]moraliza o untuoso professor.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa529' = “argumentar em defesa de um ponto de vista, ou um tópico”
+{discorrer: Não caberia aqui [discorrer e debater sobre os caminhos que conduziram ao esgotamento do poder de regulação do Estado brasileiro.,
+discursar: Um punhado de gringos I]discursava sobre os caminhos a seguir e a evitar.,
+moralizar: Alguém deveria recordar ao homem mediano, I]moraliza o untuoso professor.,}
+Chave: DISCURSAR <verb.communication>
+ILI: 00788309
+
+Sense 3
+{00788309} <verb.communication> discourse, dissertate -- (talk or hold forth formally about a topic; "The speaker dissertated about the social politics in 18th century England")
+       => {00930524} <verb.communication> talk1, speak1 -- (exchange thoughts; talk with; "We often talk business"; "Actions talk louder than words")
+           => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+               => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

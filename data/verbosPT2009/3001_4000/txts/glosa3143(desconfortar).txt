@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA3143
+
+DADO O SYNSET:
+
+S='Glosa3143'
+{desconfortar: A condição de colônia I]desconfortou muito Debret que, adaptado aos ideais do Neoclássico, teve imensa dificuldade em produzir suas obras.,
+	 desconsolar: Ele mesmo descobriu-lhes belezas não premeditadas; em compensação, deu com uma vírgula mal posta, que o I]desconsolou.,
+	 inconfortar: Ao menos uma vez sentiu a vontade de se libertar de alguma coisa que te limita, I]inconforta, reprime.}
+
+A='Glosa1364'
+{acalentar, confortar, consolar, desanojar }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3143' = “causar incômodo [em]”
+{desconfortar: A condição de colônia I]desconfortou muito Debret que, adaptado aos ideais do Neoclássico, teve imensa dificuldade em produzir suas obras.,
+	 desconsolar: Ele mesmo descobriu-lhes belezas não premeditadas; em compensação, deu com uma vírgula mal posta, que o I]desconsolou.,
+	 inconfortar: Ao menos uma vez sentiu a vontade de se libertar de alguma coisa que te limita, I]inconforta, reprime.}
+
+A='Glosa1364'
+{acalentar, confortar, consolar, desanojar }
+Chave: DESCONFORTAR <verb.emotion>
+ILI: 01745820
+
+Sense 1
+{01745820} <verb.emotion> distress -- (cause mental pain to; "The news of her child's illness distressed the mother")
+       => {01719446} <verb.emotion> disturb, upset, trouble1 -- (move deeply; "This book upset me"; "A troubling thought")
+           => {01716999} <verb.emotion> affect, impress1, move, strike -- (have an emotional or cognitive impact upon; "This child impressed me as unusually mature"; "This behavior struck me as odd")

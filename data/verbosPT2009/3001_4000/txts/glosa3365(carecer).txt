@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA3365
+
+DADO O SYNSET:
+
+S='Glosa3365'
+{carecer: À autoridade municipal cabe exclusivamente, pela função constitucional, cuidar dos interesses locais, mas não pode ser apenas a municipalidade, até porque a ela I]carece a competência para compreender a complexidade de certos setores. ,
+	 faltar: Personalidade também não [falta à cantora paraibana Renata Arruda.,
+	 manquejar: M]Manqueja tino nesse rapaz.}
+	
+A ANÁLISE RESULTA EM:
+
+S='Glosa3365' = “estar sem”
+{carecer: À autoridade municipal cabe exclusivamente, pela função constitucional, cuidar dos interesses locais, mas não pode ser apenas a municipalidade, até porque a ela I]carece a competência para compreender a complexidade de certos setores.,
+	 faltar: Personalidade também não [falta à cantora paraibana Renata Arruda.,
+	 manquejar: M]Manqueja tino nesse rapaz.}
+Chave: CARECER <verb.stative>
+ILI: 02553848
+
+Sense 1
+{02553848} <verb.stative> miss, lack -- (be without; "This soup lacks salt"; "There is something missing in my jewellery box!")

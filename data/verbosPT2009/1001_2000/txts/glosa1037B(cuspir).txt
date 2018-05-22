@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA1037B
+
+DADO O SYNSET:
+
+S='Glosa1037'
+{cuspilhar: Jeca, interpelado, olha para o morro coberto de moirões, olha para o terreiro nu, coça a cabeça e [cuspilha. # Ei-lo na viola: concentra-se, tosse, [cuspilha o pigarro e fere as cordas.,
+cuspinhar: Tanto bastou para que o Anadia lançasse pela janela o pedaço do bolo que tinha na mão, e mostrando repugnância e arrependimento de o haver provado, começasse I]cuspinhar como que enjoado.,
+cuspir: Na zona rural, é muito comum o lavrador [cuspir nas palmas das mãos, e esfregá-las para, em seguida, segurar o cabo da enxada com a qual está trabalhando.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1037B' = “lançar saliva ou catarro pela boca”
+{cuspir: Neto [cuspiu no rosto do juiz e ficou suspenso 120 dias.,}
+Chave: CUSPIR <verb.body>
+ILI: 00099175 
+
+Sense 1
+{00099175} <verb.body> spit, ptyalize, ptyalise, spew1, spue1 -- (expel or eject (saliva or phlegm or sputum) from the mouth; "The father of the victim spat at the alleged murderer")
+       => {00006138} <verb.body> expectorate, cough up, cough out, spit up, spit out1 -- (discharge (phlegm or sputum) from the lungs and out of the mouth)
+           => {00102093} <verb.body> discharge, expel, eject, release1 -- (eliminate (substances) from the body)
+          Also See-> {00006138} <verb.body> spit up#2; {02136940} <verb.possession> spit up#1

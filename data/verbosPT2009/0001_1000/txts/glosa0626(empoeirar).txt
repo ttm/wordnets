@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0626
+
+DADO O SYNSET:
+
+S='Glosa626'
+{empoar: Cultura e os livros não é para I]empoar na estante,
+empoeirar: É aquela capa que você mandou fazer pro sofá não I]empoeirar e que está empoeirando na costureira há quase dois meses,}
+A='Glosa1280'
+{desempoar, desempoeirar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa626' = “cobrir ou encher de poeira”
+{empoar: Cultura e os livros não é para I]empoar na estante,
+empoeirar: É aquela capa que você mandou fazer pro sofá não I]empoeirar e que está empoeirando na costureira há quase dois meses,}
+A='Glosa1280'
+{desempoar, desempoeirar}
+Chave: EMPOEIRAR <verb.contact>
+ILI: EQ_HAS_HYPERONYM – 01491650 – “tornar sujo ou imundo” 
+
+Sense 1
+{01491650} <verb.contact> dirty, soil, begrime, grime, colly, bemire -- (make soiled, filthy, or dirty; "don't soil your clothes when you play outside!")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA2433
+
+DADO O SYNSET:
+
+S='Glosa2433'
+	    {meteorizar: São solos com um certo grau de evolução, porém não o suficiente para I]meteorizar completamente minerais.,
+	      sublimar: Com o aumento da temperatura à pressão constante, o CO2 sólido começa a I]sublimar na interface sólido-vapor, gerando a fumaça branca.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2433' = “Mudar ou fazer mudar diretamente do estado sólido para vapor, sem fundir primeiramente.”
+	    {meteorizar: São solos com um certo grau de evolução, porém não o suficiente para I]meteorizar completamente minerais.,
+	      sublimar: O iodo produzido I]sublimou e foi condensado, no balão B, por resfriamento.,}
+
+Chave: SUBLIMAR <verb.change>
+ILI: 00354790
+
+Sense 4
+{00354790} <verb.change> sublime5, sublimate5 -- (change or cause to change directly from a solid into a vapor without first melting; "sublime iodine"; "some salts sublime when heated")
+       => {00429642} <verb.change> gasify, vaporize, vaporise, aerify -- (turn into gas; "The substance gasified")
+           => {00135037} <verb.change> change integrity -- (change in physical make-up)
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night") 

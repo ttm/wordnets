@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA2111
+
+DADO O SYNSET:
+	
+S='Glosa2111'
+    	{desempenhar: Nos últimos anos, ela [desempenhou papéis marcantes, mesmo como coadjuvante, em filmes como Nikita, de Luc Besson. ,
+      	 encarnar: Durante anos, ele [encarnou Timmy no seriado «Lessie», com aquela cadela totalmente fashion e adequada aos anos 50.,
+      	 executar: Tom Cruise I]executou bem, num modo mais naturalista em "A Chance" (1983), um drama de futebol de escola que teve uma arrecadação modesta.,
+      	 interpretar: O ator Cláudio Mamberti, que [interpretou o agiota Sebastian em O quatrilho, perguntava: De onde é esse filme?,
+      	 representar: Nessa obra, seguiu o procedimento de Velázquez em «As Meninas», e [representou a si mesmo ao lado do personagem principal.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2111' = “representar um papel”
+    	{desempenhar: Nos últimos anos, ela [desempenhou papéis marcantes, mesmo como coadjuvante, em filmes como Nikita, de Luc Besson.,
+      	 encarnar: Durante anos, ele [encarnou Timmy no seriado «Lessie», com aquela cadela totalmente fashion e adequada aos anos 50.,
+      	 executar: Tom Cruise I]executou bem, num modo mais naturalista em "A Chance" (1983), um drama de futebol de escola que teve uma arrecadação modesta.,
+      	 interpretar: O ator Cláudio Mamberti, que [interpretou o agiota Sebastian em “O quatrilho”, perguntava: De onde é esse filme?,
+      	 representar: Após dois filmes na pele de 007, Dalton pediu licença para matar sua carreira de espião e [representar o papel de Rhet Butler em «Scarlet», a continuação de «E o Vento Levou».}
+Chave: REPRESENTAR <verb.creation>
+ILI: 01670298
+
+Sense 10
+{01670298} <verb.creation> act, play2, represent2 -- (play a role or part; "Gielgud played Hamlet"; "She wants to act Lady Macbeth, but she is too young for the role"; "She played the servant to her husband's master")
+       => {01573613} <verb.creation> re-create -- (create anew; "Re-create the boom of the West on a small scale")
+           => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

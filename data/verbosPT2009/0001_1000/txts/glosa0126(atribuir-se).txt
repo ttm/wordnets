@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA0126
+
+DADO O SYNSET:
+
+S='Glosa126'
+{aforar-se: H]Aforava-se única executora do projeto.,
+apropriar-se: O saber erudito do perito da guerra entre Estados soberanos I]apropria-se de saberes locais, redirecionado para a esfera do Estado.,
+arrogar-se: Orion declara-se rei das florestas de Artemisa, [arrogando-se o direito e o poder de destruir todos os animais.,
+atribuir-se: I]Atribui-se o poder de perdoar os pecados e o confere a outros.,
+avocar-se: Assim, não poderia o Sindicato I]avocar-se da contribuição que não lhe pertence em sua totalidade.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa126' = “atribuir ou creditar para”
+{aforar-se: I]Aforou-se o vocabulário como próprio e exclusivo do dialeto brasileiro.,
+apropriar-se: O saber erudito do perito da guerra entre Estados soberanos I]apropria-se de saberes locais, redirecionado para a esfera do Estado.,
+arrogar-se: Orion declara-se rei das florestas de Artemisa, [arrogando-se o direito e o poder de destruir todos os animais.,
+atribuir-se: I]Atribui-se o poder de perdoar os pecados e o confere a outros.,
+avocar-se: Assim, não poderia o Sindicato I]avocar-se da contribuição que não lhe pertence em sua totalidade.,}
+Chave: ATRIBUIR-SE <verb.cognition>
+ILI: 00702302 
+
+Sense 1
+{00702302} <verb.cognition> impute, ascribe, assign2, attribute -- (attribute or credit to; "We attributed this quotation to Shakespeare"; "People impute great cleverness to cats")
+       => {00647983} <verb.cognition> judge -- (form an opinion of or pass judgment on; "I cannot judge some works of modern art")
+           => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

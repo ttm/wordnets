@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA1716A
+
+DADO O SYNSET:
+
+S='Glosa1716'
+{cristalizar: Apesar de I]cristalizar muito devagar, o mel é realmente um líquido superarrefecido. ,
+ encandilar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1716'A = “fazer ficar na forma cristalizada”
+{cristalizar: O ácido cítrico foi o primeiro ácido isolado em 1784 pelo químico sueco Carl Wilhelm Scheele, que o I]cristalizou a partir do suco do limão.,}
+Chave: CRISTALIZAR <verb.change>
+ILI: 00433194
+
+Sense 2
+{00433194} <verb.change> crystallize1, crystallise1, crystalize1, crystalise1 -- (cause to form crystals or assume crystalline form; "crystallize minerals")
+       => {00135037} <verb.change> change integrity -- (change in physical make-up)
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA0985
+
+DADO O SYNSET:
+
+S='Glosa985'
+{abarcar: Aproximamo-nos mais do objetivo científico por execlência, que é [abarcar por dedução lógica, mediante um mínimo de hipóteses ou axiomas, um máximo de experiências,
+abraçar: Como dedicar-se à tarefa de fazer com que o Congresso recupere a altivez, a afirmação como poder perante o Executivo sem [abraçar, para isso, a causa do fisiologismo chantagista.,
+abranger: As mudanças no ambiente podem [abranger outros organismos vivos ou coisas inanimadas, como por exemplo o tempo, que fazem parte do meio ambiente.,
+atingir: O quadro das necessidades habitacionais apresenta maior gravidade no Norte e no Nordeste, onde os indicadores de déficit e de inadequação I]atingem valores mais elevados, excetuando-se apenas o caso da inadequação por adensamento.,
+cingir: Até o legitimista Berryer que, a 2 de dezembro de 1851, I]cingindo uma faixa tricolor, arenga o povo reunido diante da prefeitura do décimo distrito em nome da república.,
+contemplar: A cada avanço científico nos defrontamos com novos dilemas éticos, e abusos ocorrem no mundo todo, diz Hossne, salientando que a nova resolução vai [contemplar aspectos morais importantes.,
+conter: Os gabaritos e as listas de notas I]contendo também as alterações feitas após os recursos, devido à anulação de questões, estão à disposição dos candidatos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa985' = “estar em volta”
+{abarcar: Aproximamo-nos mais do objetivo científico por execlência, que é [abarcar por dedução lógica, mediante um mínimo de hipóteses ou axiomas, um máximo de experiências,
+abraçar: Como dedicar-se à tarefa de fazer com que o Congresso recupere a altivez, a afirmação como poder perante o Executivo sem [abraçar, para isso, a causa do fisiologismo chantagista.,
+abranger: As mudanças no ambiente podem [abranger outros organismos vivos ou coisas inanimadas, como por exemplo o tempo, que fazem parte do meio ambiente.,
+atingir: O quadro das necessidades habitacionais apresenta maior gravidade no Norte e no Nordeste, onde os indicadores de déficit e de inadequação I]atingem valores mais elevados, excetuando-se apenas o caso da inadequação por adensamento.,
+cingir: Até o legitimista Berryer que, a 2 de dezembro de 1851, I]cingindo uma faixa tricolor, arenga o povo reunido diante da prefeitura do décimo distrito em nome da república.,
+contemplar: A cada avanço científico nos defrontamos com novos dilemas éticos, e abusos ocorrem no mundo todo, diz Hossne, salientando que a nova resolução vai [contemplar aspectos morais importantes.,
+conter: Os gabaritos e as listas de notas I]contendo também as alterações feitas após os recursos, devido à anulação de questões, estão à disposição dos candidatos.}
+Chave: ABRANGER <verb.stative>
+ILI: 02626954
+
+Sense 1
+{02626954} <verb.stative> surround, environ, encircle, circle, round, ring -- (be around; "Developments surround the town"; "The river encircles the village")
+       => {02619614} <verb.stative> hold13, bear14, carry3, contain13 -- (contain or hold; have within; "The jar carries wine"; "The canteen holds fresh water"; "This can contains water")
+           => {02554437} <verb.stative> include -- (have as a part, be made up out of; "The list includes the names of many famous writers")

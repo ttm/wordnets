@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA1468
+
+DADO O SYNSET:
+
+S='Glosa1468'
+{contramandar: x,
+ contra-ordenar: De acordo com a legislação vigente, o emitente pode I]contraordenar ao banco o pagamento de um cheque, cabendo-lhe solicitar a sustação do pagamento. ,
+ desmandar: Ruzimatov assumiu como vice-diretor artístico e agora manda e [desmanda no Mariinsky,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1468' = “anular desdizendo ou rescindindo” 
+{contra-ordenar: A “Diretiva de Governo” dá ao governo poder para I]contra-ordenar o banco central.,
+ desmandar: Ruzimatov assumiu como vice-diretor artístico e agora manda e [desmanda no Mariinsky.,}
+Chave: DESMANDAR <verb.communication>
+ILI: 00773962
+
+Sense 1
+{00773962} <verb.communication> revoke, annul, lift, countermand, reverse, repeal, overturn, rescind, vacate -- (annul by recalling or rescinding; "He revoked the ban on smoking"; "lift an embargo"; "vacate a death sentence")
+       => {02403187} <verb.social> cancel, strike down -- (declare null and void; make ineffective; "Cancel the election results"; "strike down a law")
+           => {00795481} <verb.communication> declare4, adjudge, hold11 -- (declare to be; "She was declared incompetent"; "judge held that the defendant was innocent")
+               => {00647983} <verb.cognition> judge -- (form an opinion of or pass judgment on; "I cannot judge some works of modern art")
+                   => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

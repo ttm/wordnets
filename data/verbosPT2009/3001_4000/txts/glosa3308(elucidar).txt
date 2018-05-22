@@ -1,0 +1,55 @@
+ANÁLISE DA GLOSA3308
+
+DADO O SYNSET:
+
+S='Glosa3308'
+{abrir: A boa leitura M]abre o entendimento.,
+	 aclarar: É impossível avaliar o valor cognoscitivo e o significado de enunciados que as contêm, de modo que é necessário distinguir e [aclarar os muitos sentidos de tais palavras. ,
+ delucidar: Freud é o primeiro a reconhecer a distância entre a abordagem neurológica de sua época em relação a uma ciência psicológica ocupada em I]delucidar o comportamento humano relativo às afecções nervosas.,
+	 desatar: Ali M]desataríeis todas as vossas dúvidas.,
+	 desvelar2: A segunda narrativa, subjetiva e empreendida na proximidade dos acontecimentos, serve para [desvelar os fatos, para revelar a verdade escondida pela história oficial. ,
+	 dilucidar: O colendo STF, na palavra do eminente Ministro Moreira Alves, já I]dilucidou a questão.,
+	 elucidar: Esta perspectiva da especulação paradoxal em relação aos conceitos consagrados da racionalidade ocidental, poderia vir a [elucidar os termos estranhos nos quais se desdobra o conflito.,
+	 enuclear: Precisamos I]enuclear os fatos verdadeiros que precedem este novo conflito, resultado de uma antiga e inacabada guerra.,
+	 esclarecer: Algo que pode enfim [esclarecer o acidente mais sério da história esportiva do Brasil.,
+	 explanar: O subregistro tem sido o principal argumento para I]explanar tal fato.,
+	 explicar: Por fim, o autor procura [explicar as razões da diminuição do público nos estádios.,
+	 expor: [Expôs sem eufemismos aquilo que se constitui na grande ameaça da próxima rodada da ciranda capitalista a exclusão de parte da população mundial do mercado de trabalho. ,
+	 ilustrar: Há muitos textos de cultura inglesa nos séculos XVIII e XIX que [ilustram esse ponto, mas nenhum é mais penetrante que o de Samuel Richardson.,
+	 interpretar: Wundt revelou seus vínculos com a tradição filosófica britânica na forma pela qual ele [interpretou estes resultados.,
+	 liquidar: A] Liquidar uma dúvida.,
+	 liqüidar: x,
+	 resolver: A abertura do testamento feita nesse mesmo dia [resolveu a questão.,
+	 traduzir: A Medida Provisória, sucessiva à Resolução do Senado, I]traduzia inequívoca renúncia por parte da União Federal ao crédito tributário.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3308' = “tornar livre de confusão ou ambigüidade; tornar claro”
+{abrir: A boa leitura M]abre o entendimento.,
+	 aclarar: É impossível avaliar o valor cognoscitivo e o significado de enunciados que as contêm, de modo que é necessário distinguir e [aclarar os muitos sentidos de tais palavras.,
+ delucidar: Freud é o primeiro a reconhecer a distância entre a abordagem neurológica de sua época em relação a uma ciência psicológica ocupada em I]delucidar o comportamento humano relativo às afecções nervosas.,
+	 desatar: Ali M]desataríeis todas as vossas dúvidas.,
+	 desvelar2: A segunda narrativa, subjetiva e empreendida na proximidade dos acontecimentos, serve para [desvelar os fatos, para revelar a verdade escondida pela história oficial.,
+	 dilucidar: O colendo STF, na palavra do eminente Ministro Moreira Alves, já I]dilucidou a questão.,
+	 elucidar: Esta perspectiva da especulação paradoxal em relação aos conceitos consagrados da racionalidade ocidental, poderia vir a [elucidar os termos estranhos nos quais se desdobra o conflito.,
+	 enuclear: Precisamos I]enuclear os fatos verdadeiros que precedem este novo conflito, resultado de uma antiga e inacabada guerra.,
+	 esclarecer: Algo que pode enfim [esclarecer o acidente mais sério da história esportiva do Brasil.,
+	 explanar: O subregistro tem sido o principal argumento para I]explanar tal fato.,
+	 explicar: Por fim, o autor procura [explicar as razões da diminuição do público nos estádios.,
+	 expor: [Expôs sem eufemismos aquilo que se constitui na grande ameaça da próxima rodada da ciranda capitalista a exclusão de parte da população mundial do mercado de trabalho.,
+	 ilustrar: Há muitos textos de cultura inglesa nos séculos XVIII e XIX que [ilustram esse ponto, mas nenhum é mais penetrante que o de Samuel Richardson.,
+	 interpretar: Wundt revelou seus vínculos com a tradição filosófica britânica na forma pela qual ele [interpretou estes resultados.,
+	 liquidar: A] Liquidar uma dúvida.,
+	 resolver: A abertura do testamento feita nesse mesmo dia [resolveu a questão.,
+	 traduzir: A Medida Provisória, sucessiva à Resolução do Senado, I]traduzia inequívoca renúncia por parte da União Federal ao crédito tributário.}
+Chave: ELUCIDAR <verb.cognition>
+ILI: 00600953
+
+Sense 2 
+{00600953} <verb.cognition> clear, clear up, shed light on, crystallize, crystallise, crystalize, crystalise, straighten out, sort out1, enlighten, illuminate, elucidate -- (make free from confusion or ambiguity; make clear; "Could you clarify these remarks?"; "Clear up the question of who is at fault")
+       => {00908946} <verb.communication> clarify, clear up, elucidate -- (make clear and (more) comprehensible; "clarify the mystery surrounding her death")
+           => {00908384} <verb.communication> explain, explicate -- (make palin and comprehensible; "He explained the laws of physics to his students")
+               => {00804489} <verb.communication> inform -- (impart knowledge of some fact, state or affairs, or event to; "I informed him of his rights")
+                   => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                       => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                           => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

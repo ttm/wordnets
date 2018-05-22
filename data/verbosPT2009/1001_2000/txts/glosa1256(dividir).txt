@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA1256
+
+DADO O SYNSET:
+
+S='Glosa1256'
+{desdobrar: Pretendemos I]desdobrar este plano nos estados e nas regiões.,
+ dividir: Essas discussões costumavam [dividir a população em grupos rivais.,
+ fracionar: I]Fracionar projetos grandes em partes menores.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1256' = “dividir em partes, pedaços ou seções”
+{desdobrar: Pretendemos I]desdobrar este plano nos estados e nas regiões.,
+ dividir: Essas discussões costumavam [dividir a população em grupos rivais.,
+ fracionar: O denunciado I]fracionou o lote e os vendeu sem a autorização do Incra.,}
+Chave: DIVIDIR <verb.contact>
+ILI: 01520423
+
+Sense 1
+{01520423} <verb.contact> partition, partition off -- (divide into parts, pieces, or sections; "The Arab peninsula was partitioned by the British")
+       => {01514734} <verb.contact> separate, divide, part -- (come apart; "The two pieces that we had glued separated")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0689
+
+DADO O SYNSET:
+
+S='Glosa689'
+{arrodelar-se: O exército H]arrodelou-se.,
+cobrir-se: Ainda mais à retaguarda e para a esquerda, lançado na direção de oeste, marchava o Iº c.e. sobre Mlawa e Soldau, I]cobrindo-se com uma divisão de cavalaria própria contra Lautenburgo e Strassburgo.,
+escudar-se: Mas o simples fato de que nem um lado nem o outro poderá [escudar-se no Estado para proteger interesses ou reivinidicações eventualmente ilegítimas tenderá a criar um senso de responsabilidade que só poderá ser benéfico para ambas as partes,
+proteger-se: Paralelepípedos são arrancados para servirem de trincheira; combatia-se corpo-a-corpo em cada esquina e a população procurava [proteger-se como podia.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa689' = “preservar (-se), defender (-se) do perigo, ferimento, destruição ou dano”
+{cobrir-se: Ainda mais à retaguarda e para a esquerda, lançado na direção de oeste, marchava o Iº c.e. sobre Mlawa e Soldau, I]cobrindo-se com uma divisão de cavalaria própria contra Lautenburgo e Strassburgo.,
+escudar-se: Mas o simples fato de que nem um lado nem o outro poderá [escudar-se no Estado para proteger interesses ou reivinidicações eventualmente ilegítimas tenderá a criar um senso de responsabilidade que só poderá ser benéfico para ambas as partes,
+proteger-se: Paralelepípedos são arrancados para servirem de trincheira; combatia-se corpo-a-corpo em cada esquina e a população procurava [proteger-se como podia.,}
+Chave: PROTEGER-SE
+ILI: 01093094
+
+Sense 1
+{01093094} <verb.competition> protect -- (shield from danger, injury, destruction, or damage; "Weatherbeater protects your roof from the rain")
+       => {01092732} <verb.competition> defend -- (be on the defensive; act against an attack)
+           => {02377053} <verb.social> prevent, keep1 -- (prevent from doing something or being in a certain state; "We must prevent the cancer from spreading"; "His snoring kept me from falling asleep"; "Keep the child from eating the marbles")

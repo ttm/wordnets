@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA1888
+
+DADO O SYNSET:
+
+S='Glosa1888'
+    	{enrascar: H]Enrascou o irmão por causa de uma bicicleta.,
+      	 entalar: M]Entalou o país em crítica situação.,
+      	 envencilhar: x,
+     	 implicar: M]Implicaram-no numa conspiração.,}
+  
+A='Glosa1394'
+    	{desembaraçar, desenrascar, desentalar, desenvencilhar, desvencilhar, desvincilhar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1888' = “comprometer/engajar como um participante” 
+    	{enrascar: A curto se vê que a denúncia extrapassou os lindes da legalidade, farpeando o princípio da reserva legal ao I]enrascar o paciente como falsificador, sabido que “página” da Internet está fora da proteção do tipo penal.,
+      	 implicar: Fujimori revogou a licença de radiodifusão e a cidadania de Baruch Ivcher, proprietário do Canal 2, depois que notícias divulgadas pela estação I]implicaram o presidente em espionagem nacional e tortura militar.,}
+  
+A='Glosa1394'
+    	{desembaraçar, desenrascar, desentalar, desenvencilhar, desvencilhar, desvincilhar}
+Chave: IMPLICAR <verb.stative>
+ILI: 02596810
+
+Sense 2
+{02596810} <verb.stative> involve4 -- (engage as a participant; "Don't involve me in your family affairs!")
+       => {02376377} <verb.social> admit, let in, include3 -- (allow participation in or the right to be part of; permit to exercise the rights, functions, and responsibilities of; "admit someone to the profession"; "She was admitted to the New Jersey Bar")
+           => {00776433} <verb.communication> permit, allow, let2, countenance -- (consent to, give permission; "She permitted her son to visit her estranged husband"; "I won't let the police search her basement"; "I cannot allow you to see your exam")
+               => {00771887} <verb.communication> accept, consent, go for -- (give an affirmative reply to; respond favorably to; "I cannot accept your invitation"; "I go for this resolution")
+                   => {00693825} <verb.cognition> react, respond -- (show a response or a reaction to something)
+                       => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

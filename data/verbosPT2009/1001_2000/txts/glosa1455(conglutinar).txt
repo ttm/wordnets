@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA1455
+
+DADO O SYNSET:
+
+S='Glosa1455'
+{conglutinar: H]Conglutinou peças de madeira,
+ congregar: H]Congregar componentes químicos.,
+ liar: x,
+ ligar: Para I]ligar os ingredientes coloque maionese ou creme,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1455' = “colar junto” 
+{conglutinar: Há pedras pouco duras de lavrar de que usam nas obras de alvenaria, para as quais são excelentes porque I]conglutinam perfeitamente por meio do enlace de areia e cal.,
+ congregar: Assim o indica a separação dos corpos similares pela destilação, bem como outros modos de separação, que procuram fazer aparecer a dessemelhança interna, I]congregando as partes homogêneas.,
+ ligar: Para I]ligar os ingredientes coloque maionese ou creme.,}
+Chave: CONGLUTINAR <verb.contact>
+ILI: 01184560 
+
+Sense 2
+{01184560} <verb.contact> conglutinate -- (stick together; "the edges of the wound conglutinated")
+       => {01183957} <verb.contact> cling, cleave2, adhere1, stick1, cohere -- (come or be in close contact with; stick or hold together and resist separation; "The dress clings to her body"; "The label stuck to the box"; "The sushi rice grains cohere")
+           => {01169130} <verb.contact> touch1, adjoin3, meet, contact3 -- (be in direct physical contact with; make contact; "The two buildings touch"; "Their hands touched"; "The wire must not contact the metal cover"; "The surfaces contact at this point")

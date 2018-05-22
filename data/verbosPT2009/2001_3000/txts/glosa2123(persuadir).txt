@@ -1,0 +1,39 @@
+ANÁLISE DA GLOSA2123
+
+DADO O SYNSET:
+	
+  
+S='Glosa2123'
+    	{aconselhar: De agora em diante, vou [aconselhar meus bailarinos a praticarem este esporte», disse.,
+      	 capacitar: Não foi sem dificuldade que o Coruja logrou A]capacitar a velha de que não devia fugir a semelhante obséquio.,
+      	 convencer: Para tanto, [convenceram Brancoy a se deixar fotografar.,
+      	 encabeçar: H]Encabeçou o irmão a desistir da viagem.,
+      	 exortar: Ele I]exortou o partido a manter a coragem e coesão para as reformas que estão por vir. # H]Exortava os jovens a estudarem seu próprio país.,
+      	 persuadir: Elas têm o papel de [persuadir as pessoas de que certos atos são apropriados e outros não.}
+  
+A='Glosa1429'
+    	{desaconselhar, desaferrar, desimaginar, despersuadir, dissuadir}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2123' = “forçar ou impelir [alguém] numa direção indicada”
+    	{aconselhar: Ele revelou que conversou com Sarmento e, após ouvir juras de inocência, [aconselhou o ex-assessor a apresentar-se na Polícia Federal, ontem pela manhã.,
+      	 capacitar: Depois de se tornar o rei, que tipo de coração ele teve que o I]capacitou de deixar tudo para trás e ir adiante do templo de Jerusalém.,
+      	 convencer: Para tanto, [convenceram Brancoy a se deixar fotografar.,
+      	 exortar: Ele I]exortou o partido a manter a coragem e coesão para as reformas que estão por vir.,
+      	 persuadir: Elas têm o papel de [persuadir as pessoas de que certos atos são apropriados e outros não.}
+  
+A='Glosa1429'
+    	{desaconselhar, desaferrar, desimaginar, despersuadir, dissuadir}
+Chave: PERSUADIR <verb.communication>
+ILI: 00740405
+
+Sense 2
+{00740405} <verb.communication> urge, urge on, press, exhort -- (force or impel in an indicated direction; "I urged him to finish his studies")
+       => {00843872} <verb.communication> advise, counsel -- (give advice to; "The teacher counsels troubled students"; "The lawyer counselled me when I was accused of tax fraud")
+           => {00787668} <verb.communication> hash out, discuss, talk over -- (speak with others about (something); talk (something) over in detail; have a discussion; "We discussed our household budget")
+               => {00912516} <verb.communication> talk of, talk about1 -- (discuss or mention; "They spoke of many things")
+                   => {00910961} <verb.communication> talk, speak, utter, mouth, verbalize, verbalise -- (express in speech; "She talks a lot of nonsense"; "This depressed patient does not verbalize")
+                       => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                           => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                               => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

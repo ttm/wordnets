@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA2061
+
+DADO O SYNSET:
+	
+S='Glosa2061'
+    	{alugar: M]Alugara-o como zelador do prédio. # H]Alugou o menino para recados.,
+      	 assalariar: Em Castela, o Rei Afonso X, I]assalariou, durante dez anos, uma comissão de cinquenta astrônomos estrangeiros, para calcular as tábuas dos planetas.,
+      	 assoldadar: x,
+      	 estipendiar: A Secretaria terá auxiliares remunerados, servindo também esses auxiliares à Tesouraria, que, por sua vez, com o correr do tempo e permissibilidade de recursos, poderá I]estipendiar um contador.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2061' = “contratar para um serviço sob os termos de um contrato”
+    	{alugar: Heratóstenes I]alugou um homem para medir a distância entre Alexandria e Siena.,
+      	 assalariar: O Rei Afonso X I]assalariou uma comissão de cinqüenta astrônomos estrangeiros para calcular as tábuas dos planetas.,
+      	 estipendiar: A Secretaria terá auxiliares remunerados, servindo também esses auxiliares à Tesouraria, que, por sua vez, com o correr do tempo e permissibilidade de recursos, poderá I]estipendiar um contador.}
+Chave: ASSALARIAR <verb.possession>
+ILI: 02145020
+
+Sense 4
+{02145020} <verb.possession> lease, rent, hire, charter, engage, take3 -- (engage for service under a term of contract; "We took an apartment on a quiet street"; "Let's rent a car"; "Shall we take a guide in Rome?")
+       => {02147191} <verb.possession> get, acquire -- (come into the possession of something concrete or abstract; "She got a lot of paintings from her uncle"; "They acquired a new pet"; "Get your results the next day"; "Get permission to take a few days off from work")

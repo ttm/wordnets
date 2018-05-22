@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA1937
+
+DADO O SYNSET:
+
+S='Glosa1937'
+{abalar: E finalmente a porta externa bateu com um estrondo que I]abalou todo o edifício.,
+ aluir: Nossa época fez as mais terríveis e maiores demolições. I]Aluiu as majestosas basílicas de crenças religiosas.,
+ assolapar: x,
+ escarvar: As chuvas A]escarvaram o solo.  ,
+ minar: As águas M]minaram a casa do engenho.,
+ solapar: O terremoto A]solapou a cidade.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1937' = “escavar como se fizesse uma caverna ou abertura”
+{abalar: Este lago transborda e por não ter para onde escoar, a força da água I]abalou o muro no perímetro do meu quintal e mais dois vizinhos, o qual veio a ruir.,
+ aluir: Quando muito depois de morta a palmeira I]aluir o rochedos, através dos dilúvios mil arcas guardarão.,
+ escarvar: De quando em quando uns animais I]escarvam a terra, minando as fundações.,
+ minar: Solicita-se também conserto de ponte feita com manilhas, a qual devido ao excesso de chuva a água I]minou a terra, ocorrendo rebaixamento da mesma.,
+ solapar: A galeria do córrego do Sapateiro que passa sob a avenida e sobre o túnel se rompeu, [solapou a pista e destruiu uma adutora da Sabesp.,}
+Chave: ESCARVAR <verb.contact> 
+ILI: 01244803
+
+Sense 2
+{01244803} <verb.contact> cave, undermine -- (hollow out as if making a cave or opening; "The river was caving the banks")
+       => {01244315} <verb.contact> hollow, hollow out, core out -- (remove the interior of; "hollow out a tree trunk")
+           => {00436730} <verb.change> empty1 -- (make void or empty of contents; "Empty the box"; "The alarm emptied the building")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

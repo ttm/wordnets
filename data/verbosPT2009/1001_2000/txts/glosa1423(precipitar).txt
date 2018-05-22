@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA1423
+
+DADO O SYNSET:
+
+S='Glosa1423'
+{abismar: A tempestade H]abismou o barco no mar profundo.,
+ desgalgar: O bezerro perdeu o equilíbrio e H]desgalgou.,
+	 despenhar: O melhor é deixar que pegue pelos cabelos e que arraste até onde queira [despenhar,
+ engolfar: DEVIANT,
+	 precipitar: H]Precipitou o roubo da alta janela.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1423' = “arremessar ou jogar violentamente”
+{abismar: Estas circunstâncias I]abismaram o país em uma grande instabilidade política, social e racial.,
+ despenhar: Citizen Kane I]despenhou o mundo do seu trono de vidro.,
+ precipitar: Ele I]precipitou no mar cavalos e cavaleiros.,}
+Chave: ABISMAR <verb.contact>
+ILI: 01465308
+
+Sense 5
+{01465308} <verb.contact> precipitate -- (hurl or throw violently; "The bridge broke and precipitated the train into the river below")
+       => {01464873} <verb.contact> hurl, hurtle, cast -- (throw forcefully)
+           => {01466080} <verb.contact> throw -- (project through the air; "throw a frisbee")
+               => {01469437} <verb.contact> propel, impel -- (cause to move forward with force; "Steam propels this ship")
+                   => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

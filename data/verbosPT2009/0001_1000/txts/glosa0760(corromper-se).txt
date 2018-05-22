@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA0760
+
+DADO O SYNSET:
+
+S='Glosa760'
+{abastardar-se: Não é obrigando-a, mas sim fazendo que acompanhe o progresso das idéais e se molde às novas tendências do espírito, sem contudo perverter a sua índole e I]abastardar-se.,
+abastardear-se: x,
+bastardear-se: x,
+corromper-se: Se a relação orgânica existisse, a forma apolínea não [se corromperia, não se transformaria num fenômeno histriônico.,
+decompor-se: Quando a lista de coisas semelhantes umas às outras alcançasse certo limite, toda a operação haveria de [se decompor.,
+degenerar-se: Mas se os povos [se degeneram a esse extremo mal-estar, e não podem concordar na escolha de um monarca interno, nem são conquistados e preservados por melhores nações externas.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa760' = “mudar (-se) para mal ou ruim”
+{abastardar-se: Não é obrigando-a, mas sim fazendo que acompanhe o progresso das idéais e se molde às novas tendências do espírito, sem contudo perverter a sua índole e I]abastardar-se.,
+corromper-se: Se a relação orgânica existisse, a forma apolínea não [se corromperia, não se transformaria num fenômeno histriônico.,
+decompor-se: Quando a lista de coisas semelhantes umas às outras alcançasse certo limite, toda a operação haveria de [se decompor.,
+degenerar-se: Mas se os povos [se degeneram a esse extremo mal-estar, e não podem concordar na escolha de um monarca interno, nem são conquistados e preservados por melhores nações externas.,}
+Chave: CORROMPER-SE <verb.social>
+ILI: 02502628
+
+Sense 1
+{02502628} <verb.social> corrupt, pervert, subvert3, demoralize, demoralise, debauch, debase, profane1, vitiate, deprave, misdirect -- (corrupt morally or by intemperance or sensuality; "debauch the young people with wine and women"; "Socrates was accused of corrupting young men"; "Do school counselors subvert young children?"; "corrupt the morals")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

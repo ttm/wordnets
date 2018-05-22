@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA3116
+
+DADO O SYNSET:
+
+S='Glosa3116'
+	    {
+	      altear: DEVIANT,
+	      arvorar: Com relação a um navio autorizado a I]arvorar a bandeira de um Estado, a Administração é o Governo desse Estado.,
+	      hastear: Gilberto Braga vai [hastear a bandeira da camisinha em «Pátria Minha», título provisório da novela que substituirá «Fera Ferida» dentro de três meses na Globo. ,
+	      içar: Daí lhe surgiu a idéia de I]içar a bandeira de sua própria terra e, dando pela sua inexistência, resolveu fazer uma para uso próprio.,
+	      implantar: A]Implantar uma bandeira.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3116' = “erguer”
+	     {arvorar: O secretário de Educação e Cultura, Luis Sávio Neto I]arvorou a bandeira de Pindamonhangaba.,
+	      hastear: O comandante da polícia palestina, Saad al Naji, [hasteou a bandeira vermelha, preta, branca e verde dos palestinos na principal delegacia de Jericó. ,
+	      içar: No dia 6 de setembro de 1893 o almirante Custódio José de Mello [içou a bandeira branca da revolta no encouraçado Aquidabá, prometendo restaurar o império da constituição.,}
+Chave: HASTEAR <verb.contact>
+ILI: 01414456
+
+Sense 3
+{01414456} <verb.contact> hoist1, run up -- (raise; "hoist the flags"; "hoist a sail")
+       => {01916187} <verb.motion> raise, lift, elevate, get up, bring up -- (raise from a lower to a higher position; "Raise your hands"; "Lift a load")
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

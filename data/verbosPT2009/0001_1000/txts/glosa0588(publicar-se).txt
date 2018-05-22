@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0588
+
+DADO O SYNSET:
+
+S='Glosa588'
+{aparecer: Outras versões podem [aparecer. ,
+publicar-se: Não foi por acaso que [se publicaram, ultimamente, «Agendas Poéticas», com aforismos e poemas de Mario Quintana engrinaldando os compromissos semanais.,
+sair: Completando a festa de aniversário, três reedições [sairão em breve pela editora Francisco Alves, que detém os direitos de sua obral. # Cuscuz Clã é o nome do álbum que [sairá em maio e que também batiza o nome da banda que o acompanha.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa588' = “fazer imprimir e pôr à venda ou distribuir gratuitamente”
+{aparecer: Outras versões podem [aparecer. ,
+publicar-se: Não foi por acaso que [se publicaram, ultimamente, «Agendas Poéticas», com aforismos e poemas de Mario Quintana engrinaldando os compromissos semanais.,
+sair: Completando a festa de aniversário, três reedições [sairão em breve pela editora Francisco Alves, que detém os direitos de sua obral. # Cuscuz Clã é o nome do álbum que [sairá em maio e que também batiza o nome da banda que o acompanha.,}
+Chave: PUBLICAR-SE <verb.creation>
+ILI: 01696482
+
+Sense 1
+{01696482} <verb.creation> print2, publish1 -- (put into print; "The newspaper published the news of the royal couple's divorce"; "These news should not be printed")
+       => {01575778} <verb.creation> produce, make1, create3 -- (create or manufacture a man-made product; "We produce more cars than we can sell"; "The company has been making toys for two centuries")

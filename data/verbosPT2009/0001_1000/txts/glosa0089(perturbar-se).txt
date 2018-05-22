@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA0089
+
+DADO O SYNSET:
+
+S='Glosa89'
+{baratinar-se: A ansiedade que tomou conta do Ceará em muitas ocasiões fê-lo I]baratinar-se.,
+desacomodar-se: No primeiro caso é preciso lembrar que os processos de transformação promovem a instabilidade, gerando o medo nas pessoas, que vão I]desacomodar-se rumo ao desconhecido.,
+desarranjar-se: Com esta mentalidade, I]desarranja-se mesmo, não apenas vidas de particulares, como a de toda a Nação e até mesmo o equilíbrio do Planeta!,
+perturbar-se: Vendo-nos a todos naquele estado de aflição, ainda mais [perturbou-se.,
+transtornar-se: Amigo, o sereno [transtornou-vos o juízo; ide deitar-vos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa89' = “incomodar(-se), transtornar(-se) em mente, preocupar(-se) ou alarmar(-se)”
+{baratinar-se: A ansiedade que tomou conta do Ceará em muitas ocasiões fê-lo I]baratinar-se.,
+desacomodar-se: No primeiro caso é preciso lembrar que os processos de transformação promovem a instabilidade, gerando o medo nas pessoas, que vão I]desacomodar-se rumo ao desconhecido.,
+desarranjar-se: Com esta mentalidade, I]desarranja-se mesmo, não apenas vidas de particulares, como a de toda a Nação e até mesmo o equilíbrio do Planeta!,
+perturbar-se: Vendo-nos a todos naquele estado de aflição, ainda mais [perturbou-se.,
+transtornar-se: Amigo, o sereno [transtornou-vos o juízo; ide deitar-vos.,}
+Chave: PERTURBAR-SE <verb.emotion>
+ILI: 01713293
+
+Sense 1
+{01713293} <verb.emotion> perturb, unhinge, disquiet, trouble, cark, distract2, disorder -- (disturb in mind or make uneasy or cause to be worried or alarmed; "She was rather perturbed by the news that her father was seriously ill")
+       => {01719446} <verb.emotion> disturb, upset, trouble1 -- (move deeply; "This book upset me"; "A troubling thought")
+           => {01716999} <verb.emotion> affect, impress1, move, strike -- (have an emotional or cognitive impact upon; "This child impressed me as unusually mature"; "This behavior struck me as odd")

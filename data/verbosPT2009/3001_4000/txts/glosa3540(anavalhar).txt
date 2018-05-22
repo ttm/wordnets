@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA3540
+
+DADO O SYNSET:
+
+S='Glosa3540'
+	    {
+	      anavalhar: As esporas nunca devem ter as rosetas afiadas, de forma a poderem I]anavalhar os flancos do cavalo e enchê-los de sangue. ,
+	      navalhar: Tinha medo delas e imaginava que a qualquer instante, qualquer uma poderia me I]navalhar o rosto.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3540' = “cortar com navalha”
+	     {anavalhar: As esporas nunca devem ter as rosetas afiadas, de forma a poderem I]anavalhar os flancos do cavalo e enchê-los de sangue. ,
+	      navalhar: Tinha medo delas e imaginava que a qualquer instante, qualquer uma poderia me I]navalhar o rosto.,}
+Chave: ANAVALHAR <verb.body>
+ILI: 00036427
+
+Sense 1
+{00036427} <verb.body> razor -- (shave with a razor)
+       => {00036063} <verb.body> shave -- (remove body hair with a razor)
+           => {00039108} <verb.body> groom, neaten -- (care for one's external appearance; "He is always well-groomed")
+               => {00284091} <verb.change> beautify, embellish, prettify -- (make more beautiful)
+                   => {00198579} <verb.change> better1, improve1, amend, ameliorate1, meliorate1 -- (to make better; "The editor improved the manuscript with his changes")
+                       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

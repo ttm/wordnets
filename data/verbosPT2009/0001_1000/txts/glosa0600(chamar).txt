@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0600
+
+DADO O SYNSET:
+
+S='Glosa600'
+{atrair: DEVIANT,
+chamar: Este editorial tenta mostrar alguns erros nesta filosofia, e I]chama por sites mais simples e bem-direcionados.,
+exigir: Há autores que [exigem investimentos altos, por que têm potencial para vender alto.,
+reclamar: É a ausência de uma forte cor local que confunde esta espécie de críticos que [reclamam um cenário pitoresco para atribuir ao romance o atestado de latino-americano.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa600' = “expressar a necessidade ou desejo por”
+{chamar: Este editorial tenta mostrar alguns erros nesta filosofia, e I]chama por sites mais simples e bem-direcionados.,
+reclamar: É a ausência de uma forte cor local que confunde esta espécie de críticos que [reclamam um cenário pitoresco para atribuir ao romance o atestado de latino-americano.,}
+Chave: CHAMAR <verb.communication>
+ILI: 00727992
+
+Sense 1
+{00727992} <verb.communication> request1, bespeak, call for4, quest1 -- (express the need or desire for; ask for; "She requested an extra bed in her room"; "She called for room service")
+       => {00717906} <verb.communication> communicate1, pass on, pass1, put across -- (transmit information ; "Please communicate this message to all employees")
+           => {02167243} <verb.possession> convey10, transmit10, communicate10 -- (transfer to another; "communicate a disease")
+               => {02167764} <verb.possession> transfer1 -- (move from one place to another; "transfer the data"; "transmit the news"; "transfer the patient to another hospital")
+                   => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

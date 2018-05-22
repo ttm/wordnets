@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA2837
+
+DADO O SYNSET:
+
+S='Glosa2837'
+	    {consumir-se: Lembre-se das pessoas da Etiopia que já não tem mais tecido adiposo ou seja reserva de energia e ficam so na pele e o osso pois I]consumiu-se quase toda a sua musculatura buscando energia para manutensão dos outros orgaos mais vitais.,
+	      correr-se: x,
+	      desgastar-se: Antes de comprar preste atenção nas partes que [se desgastam com mais rapidez no caso dos micros, o teclado e o monitor.# A ave adivinha a comida que cresce ali dentro, mas muito tempo se passaria até o vidro [se desgastar e ela entrar.,
+	      destroçar-se: A asa esquerda I]destroçou-se, eo avião pareceu ganhar mais velocidade. Havia fogo no lado esquerdo. ,
+	      destruir-se: Cada aparecimento de uma seca parece atrair outra, maior e menos remorada, dando à terra crescente receptibilidade para o flagelo. Os intervalos que as separam estreitam-se, acelerando-lhe o ritmo; agravando-lhe o grau termométrico das canículas que são a febre alta daquela sezão monstruosa da terra. O interessante paralelismo de datas, que lhes dava um movimento uniforme nos séculos anteriores, parece I]destruir-se a pouco e pouco; e os seus ciclos, outrora amplíssimos, reproduzem-se, cada vez mais céleres e constritos, como arrastados nos giros cada vez menores de uma espiral invertida.,
+	      devorar-se: x,
+	      estroçar-se: x,
+	      gastar-se: A tarefa da vela é I]gastar-se, consumir-se até o fim. Nada sobra, nem o pavio.,
+	      rafar-se: O pano M]rafou-se.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2837' = “Exaurir (-se) ou fatigar (-se) através de esforço excessivo ou grande tensão”
+	    {consumir-se: Ou seja ele próprio I]se consumiu se preparando para a sua vingança, que não veio.,
+	      desgastar-se: Gente que brigou, I]se desgastou, se humilhou, se atirou de mil poços na tentativa de não perder o que já estava perdido.,
+	      destruir-se: Mas, talvez, a explicação esteja aí, percebo de repente: a família I]se destruiu, deteriorou-se.,
+	      gastar-se: O rapaz tem cerca de 30 anos, mas é como se tivesse 100 anos, porque muito I]se gastou.,}
+Chave: DESGASTAR-SE <verb.body>
+ILI: 00072813
+
+Sense 1
+{00072813} <verb.body> tire1, wear upon, tire out, wear3, weary, jade1, wear out, outwear, wear down, fag out, fag, fatigue -- (exhaust or tire through overuse or great strain or stress; "We wore ourselves out on this hike")
+       => {00062736} <verb.body> indispose -- (cause to feel unwell; "She was indisposed")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

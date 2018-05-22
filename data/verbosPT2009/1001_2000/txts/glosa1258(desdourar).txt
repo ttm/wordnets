@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA1258
+
+DADO O SYNSET:
+
+S='Glosa1258'
+{desdoirar: x,
+ desdourar: H]Desdourou um anel,}
+	  
+A='Glosa1041'
+	    {deaurar, doirar, dourar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1258' = “tornar sujo ou manchado, como se expusesse ao ar, fazendo perder a cor dourada; também usado metaforicamente”
+{desdourar: Quer produzir um passado sem descrever os feitos que pudessem I]desdourar a boa conduta do branco português na colonização desse país.,}
+A='Glosa1041'
+	    {deaurar, doirar, dourar}
+Chave: DESDOURAR <verb.contact>
+ILI: EQ_HAS_HYPERONYM – 01494912 – “tornar sujo ou manchado, como se expusesse ao ar; também usado metaforicamente”
+
+Sense 1
+{01494912} <verb.contact> tarnish, stain5, maculate, sully, defile -- (make dirty or spotty, as by exposure to air; also used metaphorically; "The silver was tarnished by the long exposure to the air"; "Her reputation was sullied after the affair with a married man")
+       => {01489655} <verb.contact> spot, fleck, blob, blot1 -- (make a spot or mark onto; "The wine spotted the tablecloth")
+           => {00345030} <verb.change> change surface -- (undergo or cause to undergo a change in the surface)
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA4119
+
+DADO O SYNSET:
+
+S='Glosa4119'
+{querenar: M]Querenaram as finanças depauperadas.,
+reconstituir: Tornou-se pobre e veio ao Brasil, onde I]reconstituiu a riqueza.,
+recuperar: O prefeito garante que I]recuperou as finanças da Prefeitura e botou os salários dos servidores em dia.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4119' = “reaver uma condição anterior após uma perda financeira”
+{reconstituir: Tornou-se pobre e veio ao Brasil, onde I]reconstituiu a riqueza.,
+recuperar: O prefeito garante que I]recuperou as finanças da Prefeitura e botou os salários dos servidores em dia.,}
+Chave: RECUPERAR <verb.change>
+ILI: 00514443
+
+Sense 3
+{00514443} <verb.change> recover, go back, recuperate2 -- (regain a former condition after a financial loss; "We expect the stocks to recover to $2.90"; "The company managed to recuperate")
+       => {00375470} <verb.change> revert, return, retrovert, regress1, turn back -- (go back to a previous state; "We reverted to the old rules")
+           => {00133458} <verb.change> change by reversal, turn, reverse -- (change to the contrary; "The trend was reversed"; "the tides turned against him"; "public opinion turned when it was revealed that the president had an affair with a White House intern")
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

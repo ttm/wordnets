@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA1676
+
+DADO O SYNSET:
+
+S='Glosa1676'
+{embromar: Se uma potranca como essa consegue [embromar tão acintosamente o presidente, imagine o que um político tipo Quércia, não é capaz de fazer com o pobrezinho .,
+ enrolar: O governo não honrou acordos anteriores e agora quer nos [enrolar novamente, rebateu o advogado Flávio Brando, um dos líderes dos que têm a receber do Estado.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1676' = “atrasar deliberadamente um evento ou ação”
+{embromar: O Paraná I]embromou mais de um ano para repassar recursos do transporte escolar e agora não está repassando os recursos do imposto sobre os combustíveis, o CIDE.,
+ enrolar: Ele engana a população e me [enrola desde fevereiro, quando criou uma comissão para discutir o aumento do mínimo.,}
+Chave: ENROLAR <verb.change>
+ILI: 00447531
+
+Sense 3
+{00447531} <verb.change> stall -- (deliberately delay an event or action; "she doesn't want to write the report, so she is stalling")
+       => {00446752} <verb.change> delay, detain, hold up -- (cause to be slowed down or delayed; "Traffic was delayed by the bad weather"; "she delayed the work that she didn't want to perform")
+           => {00427351} <verb.change> decelerate, slow, slow down, slow up1, retard -- (lose velocity; move more slowly; "The car decelerated")
+               => {00146081} <verb.change> decrease, diminish, lessen, fall6 -- (decrease in size, extent, or range; "The amount of homework decreased towards the end of the semester"; "The cabin pressure fell dramatically"; "her weight fall to under a hundred pounds"; "his voice fell to a whisper")
+                   => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+                       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA0629
+
+DADO O SYNSET:
+
+S='Glosa629'
+{descoser: Alinhavar, I]descoser, chulear, bordar, para descobrir um ziguezague insípido e inóspito,
+descosturar: Começará então a costurar e automaticamente a unidade efetuará a função de cortar e I]descosturar seja no começo, seja no fim da calça.,}
+A='Glosa771'
+{cerzir, consertar, coser, costurar, remendar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa629' = “cancelar, desfazer ou reverter a ação ou o efeito de costurar”
+{descoser: Alinhavar, I]descoser, chulear, bordar, para descobrir um ziguezague insípido e inóspito,
+descosturar: Começará então a costurar e automaticamente a unidade efetuará a função de cortar e I]descosturar seja no começo, seja no fim da calça.,}
+A='Glosa771'
+{cerzir, consertar, coser, costurar, remendar}
+
+Chave: DESOSTURAR <verb.contact>
+ILI: EQ_HAS_HYPERONYM - 01477750
+
+Sense 1
+{01477750} <verb.contact> undo -- (cancel, annul, or reverse an action or its effect; "I wish I could undo my actions")
+       => {00133458} <verb.change> change by reversal, turn, reverse -- (change to the contrary; "The trend was reversed"; "the tides turned against him"; "public opinion turned when it was revealed that the president had an affair with a White House intern")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")
+

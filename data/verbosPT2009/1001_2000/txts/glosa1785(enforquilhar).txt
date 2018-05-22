@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA1785
+
+DADO O SYNSET:
+
+S='Glosa1785'
+{enforquilhar: Desatava o cabresto, colocando parte dele embaixo dos pelegos, emparelhava as rédeas e, rápido, pondo o pé no estribo, alçava a perna, I]enforquilhando-se galhardamente nos arreios e saía a trote chasqueiro. ,
+escarranchar: Filipe aproveitou para se I]escarranchar no corrimão e descer pelas escadas abaixo, num rufo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1785' = “dar a forma de forquilha” 
+{enforquilhar: O apóstolo I]enforquilhou os óculos no nariz, abriu o livro em que estavam registrados os nomes das almas, folheou, folheou, folheou.,
+escarranchar: Aquele que I]escarrancha as pernas não anda bem.,}
+Chave: ENFORQUILHAR <verb.change>
+ILI: 00136813
+
+Sense 4
+{00136813} <verb.change> fork1 -- (shape like a fork; "She forked her fingers")
+       => {00137090} <verb.change> shape, form1 -- (give a shape or form to; "shape the dough")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

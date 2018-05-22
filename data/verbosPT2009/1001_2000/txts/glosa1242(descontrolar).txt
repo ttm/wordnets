@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA1242
+
+DADO O SYNSET:
+
+S='Glosa1242'
+{descontrolar: Não se deve apostar que a implantação da URV irá [descontrolar amplamente o sistema de preços,}
+	  
+A='Glosa2383'
+{controlar, dirigir, dispor, manear, manejar, tentear2}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1242' = “manejar mal ou incompetentemente” 
+{descontrolar: Berzoini diz que gestão anterior do PT I]descontrolou finanças.,}
+A='Glosa2383'
+{controlar, dirigir, dispor, manear, manejar, tentear2}
+Chave: DESCONTROLAR <verb.social>
+ILI: 02365495
+
+Sense 1
+{02365495} <verb.social> mismanage, mishandle1, misconduct -- (manage badly or incompetently; "The funds were mismanaged")
+       => {02363018} <verb.social> manage, deal13, care11, handle -- (be in charge of, act on, or dispose of; "I can deal with this crew of workers"; "This blender can't handle nuts"; "She managed her parents' affairs after they got too old")
+           => {02367626} <verb.social> control, command -- (exercise authoritative control or power over; "control the budget"; "Command the military forces")

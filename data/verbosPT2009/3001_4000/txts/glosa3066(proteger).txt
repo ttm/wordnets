@@ -1,0 +1,57 @@
+ANÁLISE DA GLOSA3066
+
+DADO O SYNSET:
+
+S='Glosa3066'
+	    {
+	      abrigar: Os seres vivos sempre se relacionam entre si, e todo o ambiente biológico se relaciona, de forma permanente, com o ambiente físico que o [abriga . ,
+	      acautelar: A finalidade da representação, entende o STF, não é [acautelar os interesses do réu em ficar impune, mas os da ofendida e de sua família, que podem preferir o silêncio ao strepitus judicii.,
+	      acoitar: Como desbravador de zona brava e selvagem, teve que I]acoitar, na sua indústria, gente de todos os quadrantes do Nordeste, com seus defeitos de origem e de formação.,
+	      acoutar: Protesta-se com o vigor da Lei contra quem o I]acoutar e gratifica-se com a quantia acima a quem prendê-lo e levá-lo à alguma estação policial ou à casa de seu Senhor.,
+	      anteparar: Tentou H]antepará-lo daquela obsessão.,
+	      cautelar: x,
+	      cobrir: O pecado de Cam consistiu em não honrar, nem respeitar seu pai; ao invés de I]cobri-lo, ele expôs a sua condição deplorável.,
+	      custodiar: O Hospital de Custódia e Tratamento é uma instituição vinculada à Secretaria de Justiça e Direitos Humanos do Estado, que tem como objetivo I]custodiar e tratar doentes mentais que cometeram crimes e que estão sob a guarda da justiça.,
+	      defender: A página traz ainda endereços de organizações que se dedicam a [defender crianças em todo o mundo.,
+	      desafrontar: Eu protestei no fundo de minha alma e por minha honra I]desafrontar-te do jugo opressor e aviltante, que te esmagava, porque via em ti a pureza de um anjo.,
+	      embarricar: DEVIANT,
+	      garantir: Mas a Medida Provisória 1984 foi feita pelo Governo, exatamente para I]garanti-lo contra o exercício de direitos pelo povo. ,
+	      guardar: Que o bom Deus amigo te proteja, te I]guarde, te livre do mal.,
+	      guarnecer: DEVIANT,
+	      livrar: Quando pedimos para que nosso Eu Superior I]livre-nos do mal, estamos clamando a ele para que vigie, de seu plano superior, nossa jornada.,
+	      preservar: John Huston, no último ano de sua vida, luta como um Quixote contra a gangue de Ted Turner, esgotando suas últimas energias na tentativa de [preservar seus filmes do massacre dos colorizadores.,
+	      proteger: Por sua vez, o suzerano deveria [proteger o vassalo contra ataques de inimigos e por ofensas pessoais.,
+	      recatar: H] Recatar os jovens dos vícios.,
+	      reservar: A educação A]reserva o homem da brutalidade.,
+	      resguardar: Exigia do dito Rubião que o tratasse como se fosse a ele próprio testador, nada poupando em seu benefício, [resguardando-o de moléstias, de fugas, de roubo ou de morte que lhe quisessem dar por maldade.,
+	      salvar: No Brasil, também já existem programas que procuram [salvar da extinção certas espécies, como o mico-leão.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3066' = = “preservar ou esconder do perigo, dano ou destruição”
+	     {abrigar: A entidade [abriga 57 deficientes mentais e físicos de 13 a 65 anos. ,
+	      acautelar: O depósito também traz vantagens para a Fazenda Pública, porque cumpre a finalidade da execução fiscal e I]acautela os interesses do Fisco.,
+	      acoitar: Palocci, apesar dos esforços do presidente Lula, I]acoitou a política tucano-entreguista na economia.,
+	      acoutar: Dono de caieiras, lá I]acoutou muitos fugitivos.,
+	      anteparar: Tentou H]antepará-lo daquela obsessão.,
+	      cobrir: O pecado de Cam consistiu em não honrar, nem respeitar seu pai; ao invés de I]cobri-lo, ele expôs a sua condição deplorável.,
+	      custodiar: Francisca Amália de Assis Faia, que I]custodiava os primeiros negros fugidos, tornando o quintal de sua casa uma espécie de “quilombo” de escravos evadidos.,
+	      defender: O tecido conjuntivo une e alimenta os demais tecidos; ocupa os espaços livres deixados pelos outros tecidos; [defende o organismo contra proteínas estranhas (antígenos) e bactérias patogênicas.,
+	      desafrontar: o deputado integralista Rocco aclamava e I]desafrontava o Rei contra os comunistas.,
+	      garantir: Mas a Medida Provisória 1984 foi feita pelo Governo, exatamente para I]garanti-lo contra o exercício de direitos pelo povo. ,
+	      guardar: Que o bom Deus amigo te proteja, te I]guarde, te livre do mal.,
+	      livrar: Terapia genética [livra células do HIV.,
+	      preservar: Ele [preserva o meio-ambiente, gera 300 mil empregos e economiza divisas.,
+	      proteger: O simples fato de a empresa se chamar Castor Seguros [protege a empresa contra assaltantes.,
+	      recatar: Ele nunca ousou falar-lhe, ela [recata-se no seu silêncio.,
+	      reservar: A educação A]reserva o homem da brutalidade.,
+	      resguardar: RJ aprova lei que I]esguarda alunos soropositivos de discriminação.,
+	      salvar: Companhia [salva peixes em extinção.,}
+Chave: PROTEGER <verb.competition>
+ILI: 01093094
+
+Sense 1
+{01093094} <verb.competition> protect -- (shield from danger, injury, destruction, or damage; "Weatherbeater protects your roof from the rain")
+       => {01092732} <verb.competition> defend -- (be on the defensive; act against an attack)
+           => {02377053} <verb.social> prevent, keep1 -- (prevent from doing something or being in a certain state; "We must prevent the cancer from spreading"; "His snoring kept me from falling asleep"; "Keep the child from eating the marbles")

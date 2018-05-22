@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0191
+
+DADO O SYNSET:
+
+S='Glosa191'
+{afamar: O domínio da navegação H]afamou os portugueses.,
+celebrizar: Montagem de Zé Celso traz de volta as recriações anárquicas que [celebrizaram o Oficina na década de 60.,
+notabilizar: Enquanto esteve no cargo que o [notabilizou, Harry Stone falava todos os dias com a matriz da MPA.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa191' = “atribuir grande importância social a alguém”
+{afamar: A fórmula E=MC² I]afamou Einstein.,
+celebrizar: As recriações anárquicas de Zé Celso [celebrizaram o Oficina na década de 60.,
+notabilizar: O cargo [notabilizou Harry Stone, que falava todos os dias com a matriz da MPA.,}
+Chave: NOTABILIZAR <verb.social>
+ILI: 02327212
+
+Sense 1
+{02327212} <verb.social> lionize, lionise, celebrate2 -- (assign great social importance to; "The film director was celebrated all over Hollywood"; "The tenor was lionized in Vienna")
+       => {02383294} <verb.social> respect, honor1, honour1, abide by1, observe1 -- (show respect towards; "honor your parents!")
+           => {00663436} <verb.cognition> accept -- (consider or hold as true; "I cannot accept the dogma of this church"; "accept an argument")
+               => {00647983} <verb.cognition> judge -- (form an opinion of or pass judgment on; "I cannot judge some works of modern art")
+                   => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

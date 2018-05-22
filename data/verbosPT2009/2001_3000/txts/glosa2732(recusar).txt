@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA2732
+
+DADO O SYNSET:
+
+S='Glosa2732'
+	    {enjeitar: O paraibano tem fama de não I]enjeitar trabalho.,
+	      recusar: A exemplo do que havia feito George C. Scott no ano anterior, ela pretendeu [recusar a indicação e o eventual prêmio.,
+	      refusar: — Compadre, beba deste — disse Atanásio sobpondo ao nariz do amigo aflito o cálix aromático. — Tire isso p'ra lá! — I]refusou Fialho, sacudindo a cabeça, e fechando os olhos, talvez, à tentação.,
+	      repugnar: Provei e gostei, apesar da pimenta. Daí em diante foi impossível não I]repugnar tudo o que me foi servido. "Não! Fígado não!,}
+
+	  A='Glosa115'
+	    {aceitar: Makiguti I]aceitou-o como professor substituto.,
+	     admitir: I]Admitiu-o na última Ceia com os demais Apóstolos.,
+	     adotar: O cinema [adotou-o em 1918 na pele de Elmo Lincoln, logo sucedido por uma manada de outros atores.,
+	     receber: Todos pensaram que ele era um pouco idiota; ainda assim, I]receberam-no como amigo.,
+	     reconhecer: O que deve ser criticável em Quércia é sua visão política da apropriação do Estado pelo político, não o filho que ele não [reconheceu . ,
+	     tomar: I]Tomaram-no como protetor dos carpinteiros e no Rio de Janeiro foi o padroeiro da bandeira desse ofício.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2732' = “Não aceitar o que é oferecido.”
+	    {enjeitar: Peri I]enjeitou o fruto como tinha enjeitado o vinho.,
+	      recusar: Ela, porém, conquanto amasse as jóias e tivesse a intuição dos solitários, I]recusou medrosamente a oferta.,
+	      refusar: — Compadre, beba deste — disse Atanásio sobpondo ao nariz do amigo aflito o cálix aromático. — Tire isso p'ra lá! — I]refusou Fialho.,
+	      repugnar: Sempre I]repugnou excessos como aquele.,}
+
+	  A='Glosa115'
+	    {aceitar, admitir, adotar, receber, reconhecer, tomar}
+
+Chave: RECUSAR <verb.possession>
+ILI: 02172481
+
+Sense 2
+{02172481} <verb.possession> refuse, reject, pass up, turn down, decline -- (refuse to accept; "He refused my offer of hospitality") 

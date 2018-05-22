@@ -1,0 +1,43 @@
+ANÁLISE DA GLOSA2232
+
+DADO O SYNSET:
+
+S='Glosa2232'
+	    {apagar: O sabão I]apagou as marcas de lodo.,
+	      debotar: x,
+	      derreter: I]Derreteu verdadeiras fortunas.,
+	      desbotar: Os anos o H]desbotaram.,
+	      desfazer: H]Desfez a espuma da banheira.,
+	      desvaecer: x,
+	      desvanear: Com a convivência, a prevenção contra o colega foi H]desvanecendo.,
+	      desvanecer: O frio I]desvaneceu o espaço entre nós.,
+	      dissipar: O tempo H]dissipou a saudade.,
+	      esfazer: x,
+	      esvaecer: Uma comunidade global, com um aparente congraçamento entre as diferentes sociedades, etnias, culturas, religiões e economias, está tentando I]esvaecer as diferenças .,
+	      esvanecer: As cores podem I]esvanecer.,
+	      varrer: Você deve H]varrer esta tristeza do seu coração.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2232' = “fazer desaparecer”
+	    {apagar: Mas o tempo [apagou depressa todas essas saudades e ressurreições.,
+	      derreter: I]Derreteu verdadeiras fortunas.,
+	      desbotar: Os anos o H]desbotaram.,
+	      desfazer: H]Desfez a espuma da banheira.,
+	      desvanear: Com a convivência, a prevenção contra o colega foi H]desvanecendo.,
+	      desvanecer: O frio I]desvaneceu o espaço entre nós.,
+	      dissipar: O tempo H]dissipou a saudade.,
+	      esvaecer: Uma comunidade global está tentando I]esvaecer as diferenças .,
+	      esvanecer: O condão governamental I]esvaneceu a importância da lei 10.826.,
+	      varrer: Você deve H]varrer esta tristeza do seu coração.,}
+
+Chave: APAGAR <verb.change>
+ILI: 00301502
+
+Sense 1
+{00301502} <verb.change> obliterate, efface -- (remove completely from recognition or memory; "efface the memory of the time in the camps")
+       => {00301277} <verb.change> blur, dim4, slur -- (become vague or indistinct; "The distinction between the two theories blurred")
+           => {00216002} <verb.change> weaken -- (become weaker; "The prisoner's resistance weakened after seven days")
+               => {00146081} <verb.change> decrease, diminish, lessen, fall6 -- (decrease in size, extent, or range; "The amount of homework decreased towards the end of the semester"; "The cabin pressure fell dramatically"; "her weight fall to under a hundred pounds"; "his voice fell to a whisper")
+                   => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+                       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

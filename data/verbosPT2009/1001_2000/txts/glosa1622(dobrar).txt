@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA1622
+
+DADO O SYNSET:
+
+S='Glosa1622'
+{dobrar: Sua previsão é de que o número de assinantes de TV a cabo deva [dobrar no próximo ano, atingindo um universo de 10 milhões de pessoas.,
+ duplicar: Em termos de produção, deve-se [duplicar a colheita de arroz e triplicar a de milho e de feijão.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1622' = “aumentar em duas vezes”
+{dobrar: A Polícia Militar de Santo André vai [dobrar o número de soldados para o jogo entre Santo André e Palmeiras.,
+ duplicar: Esperidião Amim prometeu que, se eleito, vai [duplicar o salário dos professores primários.,}
+Chave: DOBRAR <verb.change>
+ILI: 00237930
+
+Sense 1
+{00237930} <verb.change> double, duplicate -- (increase twofold; "The population doubled within 50 years")
+       => {00239103} <verb.change> multiply, manifold1 -- (combine or increase by multiplication; "He managed to multiply his profits")
+           => {00147655} <verb.change> increase2 -- (make bigger or more; "The boss finally increased her salary"; "The university increased the number of students it admitted")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")
+          Also See-> {01104359} <verb.competition> double up#3

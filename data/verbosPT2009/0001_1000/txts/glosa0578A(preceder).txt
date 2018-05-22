@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0578A
+
+DADO O SYNSET:
+
+S='Glosa578'
+{anteceder: Nessa questão, o aluno H]antecedeu o mestre. # H]Antecede aos colegas na força e na coragem.,
+avantajar: Aquele deve ser próximo de cada homem pela compaixão e I]avantajar a todos na contemplação.,
+exceder: Sua obra, quando queria, não tinha que invejar ao produto das melhores fábricas de Paris, se não o I]excedia na elegância e delicadeza. ,
+preceder: A França era o país mais admirado, começando por suas cidades, que neste sentimento sempre [precederam aos demais, talvez para estimulá-los e dar-lhes o exemplo de sua grandiosa cultura.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa578A' = “ser anterior no tempo”
+{anteceder: Chuva forte entre hoje e amanhã I]antecede ar polar no Rio Grande do Sul..,
+preceder: A França era o país mais admirado, começando por suas cidades, que neste sentimento sempre [precederam aos demais, talvez para estimulá-los e dar-lhes o exemplo de sua grandiosa cultura.,}
+Chave: PRECEDER <verb.stative>
+ILI: 02633006
+
+Sense 1
+{02633006} <verb.stative> predate, precede, forego, antecede, antedate -- (be earlier in time; go back further; "Stone tools precede bronze tools")

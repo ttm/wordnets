@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA0499
+
+DADO O SYNSET:
+
+S='Glosa499'
+{alivelar: x,
+anivelar: x,
+graduar: Cabe ao Tribunal, avaliando a gravidade da falta, I]graduar a sanção, entendendo-se que a perda de todo o programa constitui a penalidade máxima aplicável.,
+nivelar: É uma abordagem sem provas ou avaliações, sem estágios que separam os alunos, I]nivelando-os em suas dificuldades.,
+proporcionar: M]Proporcionar a recompensa, o prêmio ao merecimento.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa499' = “regular de modo gradual; determinar o nível ou grade de algo”
+{graduar: Cabe ao Tribunal, avaliando a gravidade da falta, I]graduar a sanção, entendendo-se que a perda de todo o programa constitui a penalidade máxima aplicável.,
+nivelar: É uma abordagem sem provas ou avaliações, sem estágios que separam os alunos, I]nivelando-os em suas dificuldades.,}
+Chave: GRADUAR <verb.cognition>
+ILI: 00635617
+
+Sense 4
+{00635617} <verb.cognition> grade -- (determine the grade of or assign a grade to)
+       => {00632728} <verb.cognition> classify, class, sort, assort, sort out, separate -- (arrange or order by classes or categories; "How would you classify these pottery shards--are they prehistoric?")
+           => {00635327} <verb.cognition> categorize, categorise -- (place into or assign to a category; "Children learn early on to categorize")
+               => {00612517} <verb.cognition> reason -- (think logically; "The children must learn to reason")
+                   => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

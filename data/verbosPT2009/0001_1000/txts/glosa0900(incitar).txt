@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA0900
+
+DADO O SYNSET:
+
+S='Glosa900'
+{concitar: É preciso [concitar as pessoas a demandar dos governantes a garantia de condições para que empresários e trabalhadores se empenhem naquilo que realmente interessa.,
+excitar: O intelecto humano tem o erro peculiar e perpétuo de mais se mover e [excitar pelos eventos afirmativos que pelos negativos.,
+exortar: Precisamos [exortar a sociedade à discussão de um modelo mais moderno, não violento e legalista.,
+incitar: Resta saber se ele projeta sobre o México barroco uma visão pós-moderna que o [incitaria a privilegiar certas linhas de força à custa de outras.,
+mover: Cheguei a dizer-lhe que estava feia; mas nem esta razão a [moveu.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa900' = “dar um incentivo para uma ação”
+{concitar: É preciso [concitar as pessoas a demandar dos governantes a garantia de condições para que empresários e trabalhadores se empenhem naquilo que realmente interessa.,
+excitar: O intelecto humano tem o erro peculiar e perpétuo de mais se mover e [excitar pelos eventos afirmativos que pelos negativos.,
+exortar: Precisamos [exortar a sociedade à discussão de um modelo mais moderno, não violento e legalista.,
+incitar: Resta saber se ele projeta sobre o México barroco uma visão pós-moderna que o [incitaria a privilegiar certas linhas de força à custa de outras.,
+mover: Cheguei a dizer-lhe que estava feia; mas nem esta razão a [moveu.,}
+Chave: INCITAR <verb.creation>
+ILI: 01603134
+
+Sense 1
+{01603134} <verb.creation> motivate, actuate2, propel, move, prompt, incite -- (give an incentive for action; "This moved me to sacrifice my career")
+       => {01598809} <verb.creation> cause, do2, make8 -- (give rise to; cause to happen or occur, not always intentionally; "cause a commotion"; "make a stir"; "cause an accident")
+           => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

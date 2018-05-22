@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0145B
+
+DADO O SYNSET:
+
+S='Glosa145'
+{ardejar: x,
+arder: Durante o inverno, nas casas [ardem enormes lareiras, e ferve sempre o samovar para os hóspedes,
+escaldar: Quase que se não podia sair à rua: as pedras [escaldavam; as vidraças e os lampiões faiscavam ao sol como enormes diamantes.,
+queimar: Ontem, mais de 36 horas depois do acidente, um dos tanques ainda [queimava.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa145' = “queimar com líquido ou vapor quente”
+{escaldar: Quase que se não podia sair à rua: as pedras [escaldavam; as vidraças e os lampiões faiscavam ao sol como enormes diamantes.,}
+Chave: ESCALDAR <verb.change>
+ILI: 00189946
+
+Sense 4
+{00189946} <verb.change> scald -- (burn with a hot liquid or steam; "She scalded her hands when she turned on the faucet and hot water came out")
+       => {00189569} <verb.change> burn3 -- (burn with heat, fire, or radiation; "The iron burnt a hole in my dress")
+           => {00250328} <verb.change> damage -- (inflict damage upon; "The snow damaged the roof"; "She damaged the car when she hit the tree")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

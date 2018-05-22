@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA2540
+
+DADO O SYNSET:
+
+S='Glosa2540'
+	    {desaferrar-se: Os golpes de surpresa que abriram brechas nas primeiras linhas defensivas tornaram possível para as unidades avançadas lançar-se para diante atrás de pontos de lança mecanizada, à moda blitzkrieg, visando uma série de movimentos envolventes antes de que os exércitos alemães pudessem I]desaferrar-se de suas posições avançadas. ,
+	      desamarrar-se: A mulher conseguiu apagar o fogo, [se desamarrar e ir até uma fazenda onde foi socorrida no sábado de manhã.,
+	      desapertar-se: Para isso, I]desaperta-se suas roupas, recostando-o ou deitando-o sobre algo macio.,
+	      desatracar-se: M]Desatracaram-se ambos os contendores.,
+	      desprender-se: E no fim de quatro minutos ainda uma faisca brilhante [se desprendeu do vidro azul, e começou a embeber se no ângulo em que terminava em ponta o triângulo da vara mágica.,
+	      sair: Fica difícil para o ar atingir os alvéolos pulmonares ou deles [sair.,
+	      soltar-se: Ele tenta I]soltar- se várias vezes, mas não tem forças suficientes para tal., }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2540' = “Tornar desfeito ou desamarrado, solto.”
+	    {desamarrar-se: A mulher conseguiu apagar o fogo, [se desamarrar e ir até uma fazenda onde foi socorrida no sábado de manhã.,
+	      desapertar-se: Para isso, I]desaperta-se suas roupas, recostando-o ou deitando-o sobre algo macio.,
+	      desprender-se: Veio-lhe um repentino assomo de furor e I]desprendeu-se desses braços histéricos.,
+	      soltar-se: O cãozinho I]soltou-se da coleira e correu em direção ao carrinho.,}
+
+Chave: SOLTAR-SE <verb.contact>
+ILI: 01304618
+Sense 2
+{01304618} <verb.contact> unfasten -- (become undone or untied; "The shoelaces unfastened")
+       => {01307088} <verb.contact> open6, open up6 -- (become open; "The door opened")
+           => {00140715} <verb.change> change state, turn4 -- (undergo a transformation or a change of position or action; "We turned from Socialism to Capitalism"; "The people turned against the President when he stole the election")
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night") 

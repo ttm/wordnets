@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA3543
+
+DADO O SYNSET:
+
+S='Glosa3543'
+	    {
+	      carecer: Lembrai-vos que tenho sessenta anos, e que vossa mãe e vossa irmã breve [carecerão de um braço valente para defendê-las. / O governo termina por [carecer de legitimação do povo. ,
+	      falecer: Cegos I]falecem de um guia. ,
+	      necessitar: Quando um doente [necessitar de transplante de medula, os médicos acionam o banco em busca de um doador compatível. ,
+	      precisar: Eles não vão [precisar de muito tempo.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3543' = “ter necessidade de”
+	     {carecer: Por outro lado cada varão [carecia de rodear-se de uma família numerosa, e de gerar do seu próprio sangue os seus guerreiros. / O Brasil [carece de uma política de saúde real e verdadeira.,
+	      falecer: Cegos I]falecem de um guia. ,
+	      necessitar: As conclusões retiradas da derrota incluem também a certeza de que o país [necessita de uma reforma política capaz de enxugar o quadro partidário. ,
+	      precisar: A escolha do repertório foi boa, mostrou que o trio tem potencial, mas [precisa de estrada para burilar suas próprias identidades.,}
+Chave: CARECER <verb.consumption>
+ILI: 01152480
+
+Sense 2
+{01152480} <verb.consumption> want, need, require -- (have need of; "This piano wants the attention of a competent tuner")
+       => {02526983} <verb.stative> be3 -- (have the quality of being; (copula, used with an adjective or a predicate noun); "John is rich"; "This is not a good answer")

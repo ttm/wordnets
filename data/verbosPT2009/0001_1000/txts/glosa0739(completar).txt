@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA0739
+
+DADO O SYNSET:
+
+S='Glosa739'
+{acabar: Gastou US$ 30 milhões, [acabou o projeto em dois anos e forneceu combustível para a mais polêmica restauração de bens históricos. ,
+aviar: Quem quer vai e quem não quer manda, como lá diz o outro; mas é chegar, [aviar o que tem a fazer e levantar de novo o ferro ! ,
+completar: O tempo que um corpo leva para [completar um ciclo é denominado período,
+executar: Se você estivesse sozinho numa ilha deserta e ali tivesse que viver para o resto da vida, certamente teria que [executar todas as atividades para a sua sobrevivência,
+fazer: Vou superar o Quarentinha, que [fez 308 gols com a camisa do Botafogo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa739' = “chegar ou lever a uma conclusão ou encerramento de algo”
+{acabar: Gastou US$ 30 milhões, [acabou o projeto em dois anos e forneceu combustível para a mais polêmica restauração de bens históricos. ,
+aviar: Quem quer vai e quem não quer manda, como lá diz o outro; mas é chegar, [aviar o que tem a fazer e levantar de novo o ferro ! ,
+completar: O tempo que um corpo leva para [completar um ciclo é denominado período,
+executar: Se você estivesse sozinho numa ilha deserta e ali tivesse que viver para o resto da vida, certamente teria que [executar todas as atividades para a sua sobrevivência,
+fazer: Vou superar o Quarentinha, que [fez 308 gols com a camisa do Botafogo.,}
+Chave: COMPLETAR <verb.change>
+ILI: 00470712
+
+Sense 1
+{00470712} <verb.change> complete2, finish2 -- (come or bring to a finish or an end; "He finished the dishes"; "She completed the requirements for her Master's Degree"; "The fastest runner finished the race in just over 2 hours; others finished in over 4 hours")
+       => {00341640} <verb.change> end1, terminate1 -- (bring to an end or halt; "She ended their friendship when she found out that he had once been convicted of a crime"; "The attack on Poland terminated the relatively peaceful period after WWI")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

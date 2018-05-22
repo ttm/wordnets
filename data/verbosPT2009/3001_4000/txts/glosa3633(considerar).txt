@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA3633
+
+DADO O SYNSET:
+
+S='Glosa3633'
+	    {
+	      considerar: Apesar de [considerar que as forças da natureza provocaram a tragédia da chuvas, o governador deixou escapar uma crítica ao desempenho do prefeito. ,
+	      entender: O técnico tem dado liberdade a Sávio, por [entender que o atacante do Flamengo é fundamental no seu esquema.,
+	      haver: I]Houveram por melhor remédio, para se não irem ao fundo a pique, cortarem o mastro da proa. ,
+	      julgar: O Banco Central tomou as medidas que [julgou adequadas, no momento justo.,
+	      opinar: [Opinou que eles não devem depor.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3633' = “julgar ser”
+	     {considerar: Apesar de [considerar que as forças da natureza provocaram a tragédia da chuvas, o governador deixou escapar uma crítica ao desempenho do prefeito. ,
+	      entender: O técnico tem dado liberdade a Sávio, por [entender que o atacante do Flamengo é fundamental no seu esquema.,
+	      haver: I]Houveram por melhor remédio, para se não irem ao fundo a pique, cortarem o mastro da proa. ,
+	      julgar: O Banco Central tomou as medidas que [julgou adequadas, no momento justo.,
+	      opinar: [Opinou que eles não devem depor.,}
+Chave: CONSIDERAR <verb.cognition>
+ILI: 00667530
+
+Sense 1
+{00667530} <verb.cognition> see, consider, reckon, view, regard -- (deem to be; "She views this quite differently from me"; "I consider her to be shallow"; "I don't see the situation quite as negatively as you do")
+       => {00666260} <verb.cognition> think1, believe4, consider8, conceive -- (judge or regard; look upon; judge; "I think he is very smart"; "I believe her to be very smart"; "I think that he is her boyfriend"; "The racist conceives such people to be inferior")
+           => {00647983} <verb.cognition> judge -- (form an opinion of or pass judgment on; "I cannot judge some works of modern art")
+               => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

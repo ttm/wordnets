@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA1063
+
+DADO O SYNSET:
+
+S='Glosa1063'
+{dejejuar: No 10o dia após minha chegada à vila dos elfos e 3 dias após minha partida de lá, Saskia, Calianna e Czahir I]dejejuam.,
+ desjejuar: Quantos ovos você pode comer em uma manhã para I]desjejuar?,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1063' = “comer a primeira refeição da manhã” 
+{dejejuar: N Então após acordar e I]dejejuar , G ' reene acompanha o trio em sua jornada.,
+ desjejuar: Logo fui fazer o mingau da mãe e, enquanto ele esfriava, I]desjejuei.,}
+Chave: DESJEJUAR <verb.consumption>
+ILI: 01149559 
+
+Sense 1
+{01149559} <verb.consumption> breakfast -- (eat an early morning meal; "We breakfast at seven")
+       => {01130349} <verb.consumption> eat1 -- (eat a meal; take a meal; "We did not eat until 10 P.M. because there were so many phone calls"; "I didn't eat yet, so I gladly accept your invitation")
+           => {01121136} <verb.consumption> consume, ingest, take in, take, have -- (serve oneself to, or consume regularly; "Have another bowl of chicken soup!"; "I don't take sugar in my coffee")

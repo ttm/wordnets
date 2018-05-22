@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0093
+
+DADO O SYNSET:
+
+S='Glosa93'
+{contrafazer-se: E o Raposo I]contrafazia-se, abaixando a voz para não ser ouvido pelos demais da casa.,
+reprimir-se: Era jovem e solteira, não tinha namorado. Não pela falta de candidatos, mas devido às suas exigência de conduta, nas quais em parte I]reprimia-se, tolhida de exercer a liberdade idêntica a de suas amigas.  ,
+violentar-se: H]Violentou-se a não pensar mais no assunto.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa93' = “oprimir(-se) por meio da força ou intimidação”
+{contrafazer-se: E o Raposo I]contrafazia-se, abaixando a voz para não ser ouvido pelos demais da casa.,
+reprimir-se: Era jovem e solteira, não tinha namorado. Não pela falta de candidatos, mas devido às suas exigência de conduta, nas quais em parte I]reprimia-se, tolhida de exercer a liberdade idêntica a de suas amigas.,}
+Chave: REPRIMIR-SE <verb.social>
+ILI: 02351099
+
+Sense 1
+{02351099} <verb.social> repress, quash, keep down, subdue, subjugate1, reduce3 -- (put down by force or intimidation; "The government quashes any attempt of an uprising"; "China keeps down her dissidents very efficiently"; "The rich landowners subjugated the peasants working the land")
+       => {02351605} <verb.social> oppress, suppress1, crush -- (come down on or keep down by unjust use of one's authority; "The government oppresses political activists")

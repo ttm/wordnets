@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA2871
+
+DADO O SYNSET:
+
+S='Glosa2871'
+	    {fazer: Nesta empresa não I]fazemos negócio com máquinas, não levamos máquinas as escolas, não diplomamos máquinas, apenas pessoas.,
+	      trabalhar: I]Trabalhamos com remessas de mercadorias ao exterior através dos Correios.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2871' = “Operar em um certo lugar, área ou especialidade”
+	    {fazer: Nesta empresa não I]fazemos negócio com máquinas, não levamos máquinas as escolas, não diplomamos máquinas, apenas pessoas.,
+	      trabalhar: I]Trabalhamos com remessas de mercadorias ao exterior através dos Correios.,}
+Chave: TRABALHAR <verb.social>
+ILI: 02518174
+
+Sense 8
+{02518174} <verb.social> work4 -- (operate in a certain place, area, or specialty; "She works the night clubs"; "The salesman works the Midwest"; "This artist works mostly in acrylics")
+       => {02340529} <verb.social> work2 -- (exert oneself by doing mental or physical work for a purpose or out of necessity; "I will work hard to improve my grades"; "she worked hard for better living conditions for the poor") 

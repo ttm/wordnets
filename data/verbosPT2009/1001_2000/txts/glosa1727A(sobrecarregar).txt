@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA1727A
+
+DADO O SYNSET:
+
+S='Glosa1727'
+{carregar: O laranja é uma cor contagiante, e principalmente quente. Por essa razão deve ser usada com cuidado, para não I]carregar demais o ambiente. # Fizeram descer as bagagens, para não A]carregar demais o avião avariado.  ,
+ encargar: x,
+ encher: Ele I]encheu o iate de comida e saiu à procura de tripulação. #  H]Encheu o acusado de perguntas.,
+ sobrecarregar: O superintendente da ANTT acredita que a fiscalização mais rígida ajudará inclusive o tranportador, que hoje é forçado por alguns embarcadores a I]sobrecarregar seus caminhões, para reduzir custo de frete.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1727A' = “colocar muita carga [em]”
+{carregar: Não I]carregue o carro com o peso excessivo. A cada 50 quilos de peso extra que seu carro carrega, o consumo de combustível aumenta mais de 1%.,
+ encher: Ele I]encheu o iate de comida e saiu à procura de tripulação.,
+ sobrecarregar: O superintendente da ANTT acredita que a fiscalização mais rígida ajudará inclusive o tranportador, que hoje é forçado por alguns embarcadores a I]sobrecarregar seus caminhões, para reduzir custo de frete.,}
+Chave: SOBRECARREGAR <verb.contact>
+ILI: 01446398
+
+Sense 3
+{01446398} <verb.contact> overload, surcharge2, overcharge -- (place too much a load on; "don't overload the car")
+       => {01447785} <verb.contact> load1, lade1, laden1, load up -- (fill or place a load on; "load a car"; "load the truck with hay")
+           => {00439460} <verb.change> fill1, fill up, make full -- (make full, also in a metaphorical sense; "fill a container"; "fill the child with pride")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

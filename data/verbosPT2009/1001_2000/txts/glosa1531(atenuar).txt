@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA1531
+
+DADO O SYNSET:
+
+S='Glosa1531'
+    	{atenuar: E em seguida, para [atenuar o efeito da recusa: Não nego que seja moça digna e perfeita; mas... por ora... não penso em casar.,
+      	 desagravar: A ministra explicou que a  pobreza em Angola determina dois eixos para a sua reversão: um de ações de combate à fome, e outro destinado a I]desagravar o desemprego. ,
+      	 remediar: Para tentar [remediar a confusão, o vice-chanceler argentino deu declarações dizendo que a oferta de Menem reflete apenas «as boas intenções do presidente», e não uma posição oficial de seu país .,}
+  
+A='Glosa1530'
+   	{agigantar, agravar, ampliar, aumentar, avultar, carregar, exagerar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1531' = “tornar mais fraco, em força, valor ou magnitude”
+    	{atenuar: A vulgarização do sexo na mídia [atenuou o que havia de mais chocante e/ou surpreendente.,
+      	 desagravar: A reforma tributária, por exemplo, poderia [desagravar as exportações entre 8% e 15%.,
+      	 remediar: Bastantes vergonhas custara ao pobre pai, que cuidadoso procurava sempre por todos os meios encobrir-lhe os defeitos e [remediar as gentilezas que fazia.,}
+  
+A='Glosa1530'
+   	{agigantar, agravar, ampliar, aumentar, avultar, carregar, exagerar}
+Chave: ATENUAR <verb.change>
+ILI: 00213232
+
+Sense 2
+{00213232} <verb.change> attenuate -- (become weaker, in strength, value, or magnitude)
+       => {00216002} <verb.change> weaken -- (become weaker; "The prisoner's resistance weakened after seven days")
+           => {00146081} <verb.change> decrease, diminish, lessen, fall6 -- (decrease in size, extent, or range; "The amount of homework decreased towards the end of the semester"; "The cabin pressure fell dramatically"; "her weight fall to under a hundred pounds"; "his voice fell to a whisper")
+               => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

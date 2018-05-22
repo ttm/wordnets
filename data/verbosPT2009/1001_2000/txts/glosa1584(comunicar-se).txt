@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA1584
+
+DADO O SYNSET:
+
+S='Glosa1584'
+{comunicar-se: Memórias de um Sargento de Milícias, como todo bom folhetim de imprensa, revela um esforço contínuo do escritor para [comunicar-se com o leitor ,
+ contactar: Companhia saudita de tâmaras e produtos relacionados pretende I]contactar com possíveis importadores.,
+ contatar: Ele quer I]contatar com jovens cubanos.,
+ dialogar: Ontem, Jungman já começou a [dialogar com os sem-terra, políticos e representantes da Igreja.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1584' = “estabelecer comunicação com alguém”
+{comunicar-se: Memórias de um Sargento de Milícias, como todo bom folhetim de imprensa, revela um esforço contínuo do escritor para [comunicar-se com o leitor.,
+ contactar: Companhia saudita de tâmaras e produtos relacionados pretende I]contactar com possíveis importadores.,
+ contatar: Este pessoal estará incumbido de [contactar líderes comunitários e incentivá-los a pedir aos traficantes que se desarmem.,
+ dialogar: Ontem, Jungman já começou a [dialogar com os sem-terra, políticos e representantes da Igreja.,}
+Chave: COMUNICAR-SE <verb.social>
+ILI: 02317821
+
+Sense 9
+{02317821} <verb.social> get in touch, touch base, connect -- (establish communication with someone; "did you finally connect with your long-lost cousin?")
+       => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+           => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA1568
+
+DADO O SYNSET:
+
+S='Glosa1568'
+{desafrontar: Assim serás o digno soldado de uma Pátria magnânima, que nunca fez guerra senão para I]desafrontar a sua dignidade. ,
+ desagravar: Como é que hei-de I]desagravar estas ofensas aos meus olhos de menino senão devolvendo à aldeia a ficção que a cidade me deu. ,
+ desenxovalhar: Tudo fez para A]desenxovalhar a honra do pai.  ,
+ desforçar: Viu insultarem-lhe o pai, e não teve coragem de o A]desforçar.  ,
+ desinjuriar: x,
+ desultraja: frase_exemplo,
+ desultrajar: H]Desultrajou o amigo das ofensas recebidas.,}
+	  
+A='Glosa2163'
+{afrontar, agredir, apedrejar, baldoar, desfeitear, destratar, doestar, enojar, enxovalhar, escoicear, injuriar, insultar, ofender, profanar, ultrajar, xingar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1568' = “fazer reparações ou correções”
+{desafrontar: De fato, não são poucos os que hoje afirmam que a satisfação do dano moral visa, além de atenuar o sofrimento injusto, I]desafrontar o inato sentimento de vingança, retribuindo o mal com mal.,
+ desagravar: Duque de Caxias dissolveu revoltas sem deixar ódios; nas campanhas externas, seu gênio militar I]desagravou a honra da Pátria.,}
+	  
+A='Glosa2163'
+{afrontar, agredir, apedrejar, baldoar, desfeitear, destratar, doestar, enojar, enxovalhar, escoicear, injuriar, insultar, ofender, profanar, ultrajar, xingar}
+Chave: DESAGRAVAR <verb.social>
+ILI: 02445015
+
+Sense 1
+{02445015} <verb.social> right, compensate, redress, correct1 -- (make reparations or amends for; "right a wrongs done to the victims of the Holocaust")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

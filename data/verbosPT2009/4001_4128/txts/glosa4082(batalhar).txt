@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA4082
+
+DADO O SYNSET:
+
+S='Glosa4082'
+{batalhar: Juliana Paes rejeita o rótulo de celebridade e conta como I]batalhou para alcançar o sucesso que tem hoje.,
+esforçar-se: Médicos acreditam que Herbert Vianna se I]esforçou para falar.,
+pujar: x,
+suar: Você I]suou para comprar esse produto. ,}
+	 
+A ANÁLISE RESULTA EM:
+
+S='Glosa4082' = “fazer um esforço vigoroso ou elaborado”
+{batalhar: Juliana Paes rejeita o rótulo de celebridade e conta como I]batalhou para alcançar o sucesso que tem hoje.,
+esforçar-se: Médicos acreditam que Herbert Vianna se I]esforçou para falar.,
+suar: Você I]suou para comprar esse produto. ,}
+Chave: BATALHAR <verb.social>
+ILI: 02334710
+
+Sense 1
+{02334710} <verb.social> fight, struggle -- (make a strenuous or labored effort; "She struggled for years to survive without welfare"; "He fought for breath")
+       => {02454930} <verb.social> try, seek, attempt, essay, assay -- (make an effort or attempt; "He tried to shake off his fears"; "The infant had essayed a few wobbly steps"; "The police attempted to stop the thief"; "He sought to improve himself"; "She always seeks to do good in the world")
+           => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

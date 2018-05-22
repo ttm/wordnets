@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA1482
+
+DADO O SYNSET:
+
+S='Glosa1482'
+{desarmar: H]Desarmar uma pistola.,
+ desmuniciar: Uma repórter dizer que o rapaz ao limpar o revólver calibre 38 disparou contra a cabeça do próprio filho, mas alegou que I]desmuniciou a arma.,
+ desmunicionar: x,
+ desmunir: x,}
+	  
+A='Glosa1162'
+{armar, municiar, munir}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1482' = “retirar a carga [de]”
+{desarmar: Oliveira disse que I]desarmou o revólver para mostrar a arma ao chapeiro, na hora de colocar as balas de volta, o revólver calibre 38 teria disparado e acertado o queixo de Franklin.,
+ desmuniciar: Uma repórter dizer que o rapaz ao limpar o revólver calibre 38 disparou contra a cabeça do próprio filho, mas alegou que I]desmuniciou a arma.,}
+	  
+A='Glosa1162'
+{armar, municiar, munir}
+Chave: DESMUNICIAR <verb.contact>
+ILI: 01445975
+
+Sense 2
+{01445975} <verb.contact> unload, offload -- (take the load off (a container or vehicle); "unload the truck"; "offload the van")
+       => {01446156} <verb.contact> empty -- (remove; "Empty the water")
+           => {00166870} <verb.change> remove, take, take away1, withdraw1 -- (remove something concrete, as by lifting, pushing, taking off, etc. or remove something abstract; "remove a threat"; "remove a wrapper"; "Remove the dirty dishes from the table"; "take the gun from your pocket"; "This machine withdraws heat from the environment")

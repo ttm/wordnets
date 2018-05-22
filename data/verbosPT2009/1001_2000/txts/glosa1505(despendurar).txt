@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA1505
+
+DADO O SYNSET:
+
+S='Glosa1505'
+{descolgar: H]Descolgou um cacho de uvas.,
+ despendurar: H]Despendurou o paletó do cabide.,}
+	  
+A='Glosa912'
+{colgar, dependurar, pender, pendurar, suspender}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1505' = “mover algo ou alguém para uma posição mais baixa”
+{despendurar: Já me tornando ciente do trampo que é I]despendurar as duas bolsas, mais barraca, saco de dormir e colchaozinho inflável, resolvi entregar para Nosso Senhor do Bonfim e deixei tudo lá mesmo.,}
+	  
+A='Glosa912'
+{colgar, dependurar, pender, pendurar, suspender}
+Chave: DESPENDURAR <verb.motion>
+ILI: EQ_HAS_HYPERONYM - 01915250
+
+Sense 1
+{01915250} <verb.motion> lower, take down, let down, get down, bring down1 -- (move something or somebody to a lower position; "take down the vase from the shelf")
+       => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

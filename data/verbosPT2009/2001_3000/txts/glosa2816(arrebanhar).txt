@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA2816
+
+DADO O SYNSET:
+
+S='Glosa2816'
+	    {arrebanhar: Harry tem surpreendido como hábil cavaleiro e também não faz feio ao ajudar a I]arrebanhar o gado no curral e cuidar da manutenção da granja da propriedade. ,
+	      conglobar: x,
+	      juntar: Depois de alguns meses, os coronéis reuniam os peões (vaqueiros), para I]juntar o gado marcado.,
+	      rebanhar: Esta habilidade de I]rebanhar animais e trazer o rebanho aos pés do seu mestre, exige um cão de atos muito complexos e capacidade de percepção e resolução. ,
+	      reunir: Juntavam-se os peões formando um verdadeiro mutirão para I]reunir o gado, ferrar, castrar, tratar suas feridas e os conduzir em proteção contra a próxima invernada.,}
+
+	  A='Glosa2030'
+	    {desparramar: x,
+	     difundir: O sol H]difundira a neve da encosta.,
+	     espalhar: Depois os mancebos guerreiros [espalharam pelo campo, troncos de árvores cortadas com as ramas e as folhas; e fincaram cercas de estacas entre os barrancos da várzea que ia morrer à margem do rio.,
+	     esparralhar: x,
+	     esparramar: H]Esparramou os livros sobre a mesa.,
+	     espraiar: x,}
+A ANÁLISE RESULTA EM:
+
+S='Glosa2816' = “Agrupar pessoas”
+	    {arrebanhar: Ecologia virou moda, ganhou ares de panacéia, I]arrebanhou adeptos apressados, tornou-se abusivamente sinônimo de modernidade na política.,
+	      juntar: Através da banda larga, O Teatro Mágico I]juntou fãs devotos Brasil afora e virou fenômeno da música independente.,
+	      rebanhar: Está comprovado que lamentavelmente o governo Lula I]rebanhou os derrotados em todos os estados.,
+	      reunir: Em 20 anos de estrada, Lulu Santos I]reuniu fãs por todo o Brasil,}
+
+	  A='Glosa2030'
+	    {difundir, espalhar, esparramar}
+Chave: ARREBANHAR <verb.social>
+ILI: 02521319
+
+Sense 3
+{02521319} <verb.social> assemble3, gather2, get together3 -- (get people together; "assemble your colleagues"; "get together all those who are interested in the project"; "gather the close family members") 

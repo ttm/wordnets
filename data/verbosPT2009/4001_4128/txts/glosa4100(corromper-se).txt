@@ -1,0 +1,41 @@
+ANÁLISE DA GLOSA4100
+
+DADO O SYNSET:
+
+S='Glosa4100'
+{adulterar-se: H]Adulterava-se com más companhias.,
+apodrecer-se: H]Adulterava-se com más companhias.,
+corromper-se: A Igreja se I]corrompeu no tempo.,
+debochar-se: Comigo iam cinco ou seis damas elegantes capazes de se I]debochar mas de não perdoar os excessos alheios.,
+degenerar-se: Ela se I]degenerava abusando das drogas .,
+depravar-se: Ele se I]deprava, porque lhe falta a coragem para enfrentar as conseqüências de seus atos.,
+desmoralizar-se: Se a juventude se H]desmoraliza, a culpa é dos que deveriam orientá-la.,
+desvirtuar-se: O Iron Maiden não se I]desvirtuou e continuou firme em suas convicções.,
+deturpar-se: Esta é uma das maneiras que se I]deturpa a noção de direitos autorais para controlar o mercado.,
+perder-se: H]Perdeu-se pelos próprios erros.,
+perverter-se: A ordem se I]perverteu com a queda da raça humana.,
+putrefazer-se: Ela se I]putrefaz com extrema rapidez quando quer.,
+putrificar-se: x,
+transviar-se: H]Transviou-se com as más companhias.,
+viciar-se: H]Viciou-se por causa da pobreza.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4100' = “depravar-se moralmente ou por intemperança ou por sensualidade”
+{adulterar-se: H]Adulterava-se com más companhias.,
+apodrecer-se: H]Apodrecera-se na freqüência dos vícios.,
+corromper-se: A Igreja se I]corrompeu no tempo.,
+degenerar-se: Ela se I]degenerava abusando das drogas .,
+depravar-se: Ele se I]deprava, porque lhe falta a coragem para enfrentar as conseqüências de seus atos.,
+desmoralizar-se: Se a juventude se H]desmoraliza, a culpa é dos que deveriam orientá-la.,
+desvirtuar-se: Ela estudava e era da igreja Assembléia de Deus, mas se I]desvirtuou.,
+perder-se: H]Perdeu-se pelos próprios erros.,
+perverter-se: Ele não está sob uma obsessão: é sua natureza que é má e, além disso, I]perverteu-se no meio onde viveu.,
+transviar-se: H]Transviou-se com as más companhias.,
+viciar-se: H]Viciou-se por causa da pobreza.,}
+Chave: CORROMPER-SE <verb.social>
+ILI: 02502628
+
+Sense 1
+{02502628} <verb.social> corrupt, pervert, subvert3, demoralize, demoralise, debauch, debase, profane1, vitiate, deprave, misdirect -- (corrupt morally or by intemperance or sensuality; "debauch the young people with wine and women"; "Socrates was accused of corrupting young men"; "Do school counselors subvert young children?"; "corrupt the morals")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

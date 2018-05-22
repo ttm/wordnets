@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA3629
+
+DADO O SYNSET:
+
+S='Glosa3629'
+	    {
+	      drapear: O rebocador vai I]drapeando de um lado e outro, movendo o navio aos poucos.,
+	      drapejar: O leme mal obedecia e rodou indócil fazendo os panos I]drapejarem e estalarem como tapas na cara. / Bandeirinhas multicoloridas I]drapejavam por todos os recantos.,
+	      flutuar: A seta obedeceu-lhe, pregando no tronco do açaí a faixa que [flutuava ao sopro do vento. /I]Iroso, o mar flutua.,
+	      ondar: x,
+	      ondear: Os lençóis alvos [ondeavam do hausto mais forte do peito. / Por cima do portão I]ondeava uma bandeira da Cruz Vermelha.,
+	      ondular: Os objetos iam perdendo a forma, a cor, e [ondulavam no espaço vagos e indecisos. / Veleiros e cisnes estavam [ondulando a paisagem refletida na superfície da água .  ,
+	      tremer: No mastro, uma bandeira I]treme ao balanço do vento,
+	      tremular: Ao fundo, [tremula a bandeira brasileira. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3629' = “mover em um padrão ondulante ou com movimento de subida e descida”
+	     {drapear: O rebocador vai I]drapeando de um lado e outro, movendo o navio aos poucos.,
+	      drapejar: O leme mal obedecia e rodou indócil fazendo os panos I]drapejarem e estalarem como tapas na cara. / Bandeirinhas multicoloridas I]drapejavam por todos os recantos.,
+	      flutuar: A seta obedeceu-lhe, pregando no tronco do açaí a faixa que [flutuava ao sopro do vento.,
+	      ondear: Uma hora mais tarde, a gôndola da condessa Aloisia I]ondeava sobre as águas azuladas do Canalazzo. / Por cima do portão I]ondeava uma bandeira da Cruz Vermelha.,
+	      ondular: Os objetos iam perdendo a forma, a cor, e [ondulavam no espaço vagos e indecisos. / Cada vez que uma tempestade forte vinha do norte, o mar I]ondulava por baixo do nosso acampamento, e o gelo quebrava ao nosso redor.,
+	      tremer: No mastro, uma bandeira I]treme ao balanço do vento,
+	      tremular: Ao fundo, [tremula a bandeira brasileira. ,}
+Chave: ONDULAR <verb.motion>
+ILI: 01846240
+
+Sense 3
+{01846240} <verb.motion> roll10, undulate, flap1, wave -- (move in a wavy pattern or with a rising and falling motion; "The curtains undulated"; "the waves rolled towards the beach")
+       => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right")

@@ -1,0 +1,51 @@
+ANÁLISE DA GLOSA3491
+
+DADO O SYNSET:
+
+S='Glosa3491'
+	    {
+	      circunstanciar: No requerimento, além do disposto acima, o interessado deverá ]circunstanciar todos os detalhes de rotina do uso do veículo/Caberá ao Juiz ]circunstanciar porque o condenado deve permanecer preso ou porque terá que se recolher,
+	      desmiuçar: x,
+	      desmiudar: Como deformado linguista, à partida estaria tentado ]desmiudar o que se entende aqui por acordo,
+	      destrinçar: O nosso estudo tentará ]destrinçar as causas do naufrágio/Saber ]destrinçar os vários aspectos das propostas em cima da mesa pode ser vista como uma posição negocial vantajosa,
+	      destrinchar: Com isso, posso [destrinchar as respostas de cada um deles,
+	      detalhar: Lembremos que a teoria cinética - que não é possível [detalhar aqui, e cuja pré-história, no século XVIII, é especialmente rica.../Ele não soube detalhar como se chegou a essa conclusão,
+	      esmiuçar: Zélia se meteu a esmiuçar detalhes técnicos e meteu os pés pelas mãos,
+	      esmiudar: Ao longo de 170 páginas, Regina esmiuça o papel do Estado na acumulação de capital da construção pesada já na segunda metade dos anos 40,
+	      especificar: O criador [especifica como quer o frango, asa, nível de gordura, pé, peito/Na medida em que ele possa [especificar exatamente o que ele quer dizer, e mostrar que a intencionalidade não está em princípio restrita a cérebros orgânicos, terá aderido a uma questão científica genuína,
+	      estriçar: x,
+	      individuar: Procede-se à liquidação quando a sentença não determinar o valorou não individuar o objeto da condenação/Acordei com a sensação que tinha conseguido individuar particulares importantes para poder entender o significado de todo esse sonho,
+	      minuciar: Falta [minuciar muita coisa, inclusive o desempenho da imprensa/Descreveram-na como poucos. Eram racionais ao ]minuciar suas novas descobertas,
+	      minudenciar: Lucas sempre minimalista detém-se para ]minudenciar a doutrina/Impossível, numa breve visão panorâmica, ]minudenciar ou mesmo fazer referência a todas as cautelas exigíveis do analista,
+	      miudear: Mas todos esses males, que fora longo ]miudear, e que não velamos, provêm, acima de tudo, do fato meramente físico da distância,
+	      particularizar: Mas, ao se colocar genericamente contra a revisão, sem explicitar seus receios, sem ]particularizar suas propostas, essas entidades não deixam claro que interesses,
+	      pormenorizar: A organização prescrita de uma tarefa de manutenção de caldeiras está contida numa ficha que serve de check-list e [pormenoriza todas as operações elementares a serem executadas e as condições de segurança a serem respeitadas,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3491' = “ser específico sobre”
+	     {circunstanciar: Em sua apresentação, I]circunstanciou o problema dos direitos humanos em nosso país, seu desenvolvimento histórico e características nacionais,
+	      desmiudar: Pois o governo estará reunido nesta manhã, no Planalto, com o presidente Luiz Inácio da Silva para tentar I]desmiudar esta situação,
+	      destrinçar: O autor I]destrinçou esses modelos no seu trabalho pioneiro sobre violações dos Direitos Humanos,
+	      destrinchar: O jornalista francês Jean Pierre Lentin, em Penso, logo me engano (Ática) , [destrincha as baboseiras ditas por ele, como a de que o calor faz o sangue circular,
+	      detalhar: Ele [detalhou o plano econômico e recebeu o apoio de seus anfitriões,
+	      esmiuçar: Em um único volume, a autora [esmiuçou o Direito de Família e o Direito das Sucessões por completo,
+	      especificar: O criador [especifica como quer o frango, asa, nível de gordura, pé, peito/Na medida em que ele possa [especificar exatamente o que ele quer dizer, e mostrar que a intencionalidade não está em princípio restrita a cérebros orgânicos, terá aderido a uma questão científica genuína,
+	      individuar: Fundamentando-se em PARSONS, I]individuou uma série de níveis de especificidade dos componentes da ação,
+	      minuciar: Falta [minuciar muita coisa, inclusive o desempenho da imprensa/ Mercadoria foi entrega rápida e vendedora foi atenciosa, I]minuciou cada etapa da entrega,
+	      minudenciar: O Novo Código Civil I]minudenciou a fisionomia da função social da propriedade,
+	      particularizar: Cada conjunto I]particularizou suas fontes arquivísticas,
+	      pormenorizar: A organização prescrita de uma tarefa de manutenção de caldeiras está contida numa ficha que serve de check-list e [pormenoriza todas as operações elementares a serem executadas e as condições de segurança a serem respeitadas,}
+Chave: DETALHAR <verb.communication>
+ILI: 00988990
+
+Sense 1
+{00988990} <verb.communication> specify, particularize, particularise, specialize, specialise -- (be specific about; "Could you please specify your criticism of my paper?")
+       => {00923861} <verb.communication> elaborate, lucubrate, expatiate, exposit1, enlarge4, flesh out, expand10, expound, dilate10 -- (add details, as to an account or idea; clarify the meaning of and discourse in a learned way, usually in writing; "She elaborated on the main ideas in her dissertation")
+           => {00908946} <verb.communication> clarify, clear up, elucidate -- (make clear and (more) comprehensible; "clarify the mystery surrounding her death")
+               => {00908384} <verb.communication> explain, explicate -- (make palin and comprehensible; "He explained the laws of physics to his students")
+                   => {00804489} <verb.communication> inform -- (impart knowledge of some fact, state or affairs, or event to; "I informed him of his rights")
+                       => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+                           => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                               => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

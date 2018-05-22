@@ -1,0 +1,43 @@
+ANÁLISE DA GLOSA2755
+
+DADO O SYNSET:
+
+  S='Glosa2755'
+	    {chamuscar: A batata quase incendiou a minha cozinha. Mas só conseguiu, graças à minha parca destreza de bombeiro, I]chamuscar os armários acima do fogão, e fritar meu polegar direito.,
+	      crestar: Vi o sol, mas não senti nem a luz da majestade, nem o calor que fecunda, vi os raios de ardor desastroso que [crestam as plantas e preparam a miséria e a fome; vi raios que pela insolação tinham de produzir a loucura, vi raios que forjados para vibrar sobre os tanques de águas estagnadas, e sobre os pauis, iam levantar, espalhar miasmas e com eles derramar a peste e a morte sobre os homens, vi o sol-- não formoso-- mas cheio de manchas; vi o sol-- não fonte de vida-- mas senti a sua força atrativa forjando só os terremotos, os cataclismos, o horror.,
+	      morder: Agora estavam todas de chapéu de palha, apesar das toldas que se armaram. Um calor de cáustico I]mordia-lhes os toutiços em brasa e cintilantes de suor.,
+	      queimar: Sintonizando sempre na freqüência de operação, os aparelhos, microfones, manipuladores e outros acessórios de estação deixarão de [queimar a mão durante a transmissão.,
+	      recrestar: O verão H]recresta os pastos.,
+	      requeimar: Pleno o sol, já a pino, a I]requeimar as faces.,
+	      saberecar: x,
+	      sabererecar: x,
+	      sabrecar: Jamais utilizavam limão, nessa lavagem, pois este, diziam, endurecia as carnes. Depois, enxugavam-no com um pano alvíssimo e, então, I]sabrecavam o pato para livrá-lo das penugens mais renitentes.,
+	      sapecar: Em quase todos os textos escolhidos há um quê de lírico, como um doce feito em tacho de cobre, em fogão de I]sapecar umbigo, com pitadas de meninice, de moleque virado no tempero.,
+	      tisnar: No céu, o sol repontando lumes com punhais delgados, a I]tisnar pelagens de matiz tordilhas parece - lá em riba - a almanjarra de um embolsado a engolir - os velos dessas nuvenzitas de sina andarilha.,
+	      torrar: I]Torrar o pão cortado em cubinhos e jogar sobre a salada, juntamente com os grãos da romã.,
+	      torrefazer: Os campos de minério transmudam-se em campos de plantações. Erigem-se garimpos de grãos de café, grãos de ouro que o sol I]torrefaz.,
+	      torrificar: x,
+	      tostar: A máquina de fazer café da manhã é composta por uma cafeteira elétrica que faz de uma a quatro xícaras de café, enquanto sua parte torradeira tem capacidade para [tostar uma ou duas fatias de pão. #  E ensina um truque: antes de colocá-la na água, o consumidor dever cortar 2 centímetros dos talos e [tostar as pontas levemente na chama do fogão.,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2755' = “Queimar superficialmente ou ligeiramente”
+	    {chamuscar: Um dia Luís, disparando seu arcabuz, I]chamuscou o rosto.,
+	      crestar: O sol, nascendo, I]crestou-as; e, como não tinham raízes, secaram.,
+	      morder: Agora estavam todas de chapéu de palha. Um calor de cáustico I]mordia-lhes os toutiços em brasa e cintilantes de suor.,
+	      queimar: E foi por acaso: ele I]queimou a mão enquanto realizava um de seus testes.,
+	      sabrecar: Depois, enxugavam-no com um pano alvíssimo e, então, I]sabrecavam o pato para livrá-lo das penugens mais renitentes.,
+	      sapecar: Daí I]sapecou a perna que chegou a arrancar o. couro.,
+	      tisnar: A natureza lhe I]tisnou a pele.,
+	      torrar: O apelido vem do corpo branco e da cara vermelha, como um europeu que I]torrou sob o sol da Amazônia.,
+	      tostar: Antes de Gene Simmons se tornar o maior cuspidor de fogo do mundo, ele I]tostou o cabelo muitas vezes.,}
+
+Chave: CHAMUSCAR <verb.change>
+ILI: 00366870
+
+Sense 1
+{00366870} <verb.change> singe, swinge -- (burn superficially or lightly; "I singed my eyebrows")
+       => {00367771} <verb.change> char, blacken1, scorch2 -- (burn slightly and superficially so as to affect color; "The cook blackened the chicken breast"; "The fire charred the ceiling above the mantelpiece"; "the flames scorched the ceiling")
+           => {00189569} <verb.change> burn3 -- (burn with heat, fire, or radiation; "The iron burnt a hole in my dress")
+               => {00250328} <verb.change> damage -- (inflict damage upon; "The snow damaged the roof"; "She damaged the car when she hit the tree")
+                   => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue") 

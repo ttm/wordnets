@@ -1,0 +1,42 @@
+ANÁLISE DA GLOSA3307
+
+DADO O SYNSET:
+
+S='Glosa3307'
+	    {
+	      abater: Segundo o presidente do Sindicato dos Trabalhadores Rurais de Corumbá, cerca de 800 sem-terra queimaram uma casa, destruíram várias cercas, trocaram tiros com encarregados das fazendas e [abateram quatro cabeças de gado.,
+	      aniquilar: Acontecia então que o vencido com seus sectários revoltava-se; e daí as freqüentes guerras intestinas, que [aniquilaram a raça indígena, ainda mais talvez do que a crueldade dos europeus. ,
+	      carnear: De repente, passaram, aos galopes e gritos, uns companheiros, que tocavam um boi preto que iam sangrar e [carnear em beira d´água.,
+	      decepar: Um dia a morte nos A]decepará.,
+	      destruir: O último fim do mundo, aquele que [destruiu os dinossauros, ocorreu há mais de 60 milhões de anos.,
+	      eliminar: No depoimento, Jairo garantiu que desconhecia a operação montada por policiais para [eliminar o ex-capitão e evitar a divulgação do diário. ,
+	      executar: Prisioneiro e ferido, Che encoraja, na ficção de Sábato, o soldado que deve [executá-lo.,
+	      exterminar: O extermínio da Candelária comprovou a existência de grupos paramilitares criados para [exterminar crianças pobres que vivem de pequenos furtos nas ruas do Rio. ,
+	      fulminar: Era esta a arma terrível de que falara há pouco D. Antônio, quando dizia à Álvaro que Deus lhe havia confiado o poder de [fulminar todos os seus inimigos. ,
+	      liquidar: Mulher idosa contrata assassino profissional para [liquidá-la.,
+	      liqüidar: Sebastião era cristão, deu ordem para que o amarrassem em uma árvore fora da cidade, e acertassem todo o seu corpo com flechas, até I]liqüidá-lo.,
+	      matar: Não acredito que ela tivesse motivos para [matá-lo, afinal não era nem herdeira.,
+	      siderar: x,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3307'
+	     {abater: Segundo o presidente do Sindicato dos Trabalhadores Rurais de Corumbá, cerca de 800 sem-terra queimaram uma casa, destruíram várias cercas, trocaram tiros com encarregados das fazendas e [abateram quatro cabeças de gado.,
+	      aniquilar: Líder militar de grande energia e brilhante estrategista, I]aniquilou os fenícios, derrotou os egípcios e obteve a hegemonia no Oriente Médio. ,
+	      carnear: Às 8 horas um grupo de “gaúchos” laçou e I]carneou duas novilhas.,
+	      decepar: Um dia a morte nos A]decepará.,
+	      destruir: O último fim do mundo, aquele que [destruiu os dinossauros, ocorreu há mais de 60 milhões de anos.,
+	      eliminar: O crescimento da Aids, sem perspectiva de solução a curto prazo, em muitos povoados, quase I]eliminou a população em idade sexual. ,
+	      executar: A China [executou quatro pessoas responsabilizadas pela produção e venda de licor adulterado que matou 15 consumidores.,
+	      exterminar: Hitler [exterminou seis milhões de judeus com seus exércitos e seus campos de concentração. ,
+	      fulminar: Na Rússia, o gás I]fulminou espectadores e atores, reféns dos rebeldes. ,
+	      liquidar: Um derramamento causado pelo superpetroleiro Exxon Valdez destruiu todo o ecosistema da região, I]liquidou mais de 250.000 aves e matou um número não determinado de mamíferos marinhos e peixes.,
+	      liqüidar: Sebastião era cristão, deu ordem para que o amarrassem em uma árvore fora da cidade, e acertassem todo o seu corpo com flechas, até I]liqüidá-lo.,
+	      matar: O 9° BPM [matou, segundo seu próprio comandante, coronel Marcos Paes, 75 pessoas em seis meses.,}
+Chave: MATAR <verb.contact>
+ILI: EQ_NEAR_SYNONYM - 01284688
+
+Sense 1
+{01284688} <verb.contact> kill -- (cause to die; put to death, usually intentionally or knowingly; "This man killed several people when he tried to rob a bank"; "The farmer killed a pig for the holidays")
+          Also See-> {01288219} <verb.contact> kill off#1

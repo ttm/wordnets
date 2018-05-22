@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA2802
+
+DADO O SYNSET:
+
+S='Glosa2802'
+	    {alternar-se: Sempre que ocorre uma "vantagem" os jogadores da equipe favorecida devem I]alternar-se no saque.,
+	      reciprocar-se: ProjéteisM] reciprocavam-se no ar.,
+	      revezar-se: Desde que habilitados, pilotos e navegadores, poderão I]revezar-se no decorrer das competições.,
+	      subalternar-se: Uma coisa subalterna M](ou subalterna-se) com outra.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2802' = “Trocar pessoas temporariamente para preencher certos trabalhos e funções”
+	    {alternar-se: Desde 1988, Carmen e Jaime I]alternam-se na condução da TEMPO FM.,
+	      revezar-se: Sete DJs I]revezam-se nos pick ups, entre eles o neozelandês Kane Bligh.,}
+
+Chave: REVEZAR-SE <verb.social>
+ILI: 02322132
+
+Sense 2
+{02322132} <verb.social> alternate -- (exchange people temporarily to fulfill certain jobs and functions)
+       => {02321894} <verb.social> exchange -- (hand over one and receive another, approximately equivalent; "exchange prisoners"; "exchange employees between branches of the company")
+           => {02321491} <verb.social> transfer, reassign -- (transfer somebody to a different position or location of work)
+               => {02320208} <verb.social> delegate, designate, depute3, assign -- (give an assignment to (a person) to a post, or assign a task to (a person))
+                   => {02401814} <verb.social> appoint, charge -- (assign a duty, responsibility or obligation to; "He was appointed deputy manager"; "She was charged with supervising the creation of a concordance") 

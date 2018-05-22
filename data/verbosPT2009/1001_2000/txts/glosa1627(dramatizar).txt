@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA1627
+
+DADO O SYNSET:
+
+S='Glosa1627'
+{dramatizar: Os alunos do 2º ano do Ensino Médio do Colégio Santa Cecília irão dramatizar a peça O Juiz dePaz da Roça, de Martins Pena.,
+ teatralizar: Mas tudo é ligado às várias opções de I]teatralizar , mistificar um mundo onde a história não passa de prolongamento da história.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1627' = “representar algo de modo dramático”
+{dramatizar: Na comunidade do East Village, onde vivem seus personagens, ninguém [dramatiza a doença.,
+ teatralizar: O principal argumento dos acusados pelo deputado Roberto Jefferson de participarem do mensalão da Câmara Federal é que o homem-bomba petebista não apresentou provas e que I]teatralizou seu depoimento à Comissão de Ética da Câmara Federal, na última terça.,}
+Chave: DRAMATIZAR <verb.communication>
+ILI: 00956007
+
+Sense 2
+{00956007} <verb.communication> dramatize1, dramatise1 -- (represent something in a dramatic manner; "These events dramatize the lack of social responsibility among today's youth")
+       => {00955766} <verb.communication> represent -- (serve as a means of expressing something; "The flower represents a young girl")
+           => {00909455} <verb.communication> express, verbalize3, verbalise3, utter1, give tongue to -- (articulate; either verbally or with a cry, shout, or noise; "She expressed her anger"; "He uttered a curse")

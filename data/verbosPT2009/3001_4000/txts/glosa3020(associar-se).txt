@@ -1,0 +1,36 @@
+ANÁLISE DA GLOSA3020
+
+DADO O SYNSET:
+
+S='Glosa3020'
+	    {
+	      acomunar-se: x,
+	      aconchavar-se: Entende como indigna a postura da ACP, que usa de inverdades para pleitear aumento de salários para os seus representados, além de I]aconchavar-se com os oficiais da BM para conseguir o que querem.,
+	      agermanar-se: x,
+	      ajuntar-se: Se bem que seja difícil compreender o que querem esses homens, por que motivo eles se [ajuntaram e qual a razão de seu sofrimentos. ,
+	      aparceirar-se: H[Aparceirou-se com os filhos para abrir um negócio.,
+	      associar-se: Sérgio Arouca e Moreira Franco vão se [associar aos produtores do clipe no recurso contra a liminar que proibiu as gravações. ,
+	      conchavar-se: A campeirada folheira não gostava de I]conchavar-se com ele, porque só dava para comer um churrasco de tourito magro.,
+	      conluiar-se: Não aconteceu porque PSDB, PFL, PMDB, PPR e PP [conluiaram-se com a equipe econômica para protelar a tramitação do Orçamento.,
+	      germanar-se: Os vizinhos H]germanaram-se nas reivindicações.,
+	      mancomunar-se: M]Mancomunam-se para elevar os preços.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3020' = “entrar em associação amigável” 
+	     {aconchavar-se: O juiz não gostava de mim e se I]aconchavou com Orlando.,
+	      ajuntar-se: Kenoly I]ajuntou-se aos Mellows Fellows, uma banda cover dos anos 40 que excursionava pelas bases militares. ,
+	      aparceirar-se: H[Aparceirou-se com os filhos para abrir um negócio.,
+	      associar-se: Para lançar o Carmen, a Agroflora [associou-se à Hazera, empresa israelense especializada em sementes. ,
+	      conchavar-se: A mesma porta aberta à lealdade serviu à astúcia de um certo Nabiga, que se I]conchavou com o oficial das extrações, para haver um lugar na assembléia.,
+	      conluiar-se: Não aconteceu porque PSDB, PFL, PMDB, PPR e PP [conluiaram-se com a equipe econômica para protelar a tramitação do Orçamento.,
+	      germanar-se: Os vizinhos H]germanaram-se nas reivindicações.,
+	      mancomunar-se: O presidente Lula sepultou ontem no Palácio do Planalto, sem choro nem vela, a teoria de que a mídia, ou parte dela, se I]mancomunou com a direita.,}
+Chave: ASSOCIAR-SE <verb.social>
+ILI: 02396109
+
+Sense 3
+{02396109} <verb.social> consociate, associate -- (bring or come into association or action; "The churches consociated to fight their dissolution")
+       => {02395769} <verb.social> unite, unify -- (act in concert or unite in a common purpose or belief)
+           => {02361668} <verb.social> join, fall in, get together2 -- (become part of; become a member of a group or organization; "He joined the Communist Party as a young man")

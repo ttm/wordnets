@@ -1,0 +1,38 @@
+ANÁLISE DA GLOSA1530
+
+DADO O SYNSET:
+
+S='Glosa1530'
+{agigantar: Fixo o meu olhar em ti, No teu olhar sedutor, E vejo se agigantar, Todo o meu desejo, o meu amor...,
+ agigantear: x,
+ agravar: Essa performance I]agravará mês a mês a taxa de desemprego no país.,
+ ampliar: Estamos preocupados em [ampliar o acesso à informação, o que provocou uma repensada nos programas de um modo geral.,
+ aumentar: Os problemas [aumentaram quando o Itamarati ameaçou não conceder o visto para o cantor .,
+ avultar: A Belgo-Mineira, desejando I]avultar a sua contribuição ao esforço de guerra do Brasil, tomou a iniciativa de instalar em Monlevade um "laminadouro" para fabricar trilhos. ,
+ carregar: A]Carregar o preço da mercadoria.   ,
+ desremediar: x,
+ exagerar: Pessoas do tempo, querendo [exagerar a riqueza, dizem que o dinheiro brotava do chão, mas não é verdade. ,}
+	  
+A='Glosa1531'
+{atenuar, desagravar, remediar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1530' = “exagerar ou tornar maior”
+{agigantar: O sangue do mártir foi derramado, mas brotou a semente da liberdade, plantada na mente de seus patriotas. Esta I]germinou, agigantando o desejo de ser livre.,
+ agravar: Principal empresa da Vivo I]agravou prejuízo para R$ 909 milhões.,
+ ampliar: A proposta inicial do governo era gastar R$ 400 milhões com reforma agrária, mas o Congresso [ampliou a despesa prevista para R$ 800 milhões.,
+ aumentar: O enforcamento do traficante Jorge Luís dos Santos [aumentou a lista dos mortos de forma suspeita em celas de delegacia.,
+ avultar: A Belgo-Mineira, desejando I]avultar a sua contribuição ao esforço de guerra do Brasil, tomou a iniciativa de instalar em Monlevade um "laminadouro" para fabricar trilhos.,
+ carregar: Na hora de comprar os insumos, o produtor será obrigado a I]carregar o preço da desvalorização do Real.,
+ exagerar: Pessoas do tempo, querendo [exagerar a riqueza, dizem que o dinheiro brotava do chão, mas não é verdade.,}
+	  
+A='Glosa1531'
+{atenuar, desagravar, remediar}
+Chave: AMPLIAR <verb.change>
+ILI: 00255542
+
+Sense 3
+{00255542} <verb.change> inflate1, blow up1, expand2, amplify2 -- (exaggerate or make bigger; "The charges were inflated")
+       => {00147655} <verb.change> increase2 -- (make bigger or more; "The boss finally increased her salary"; "The university increased the number of students it admitted")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA3579
+
+DADO O SYNSET:
+
+S='Glosa3579'
+	    {
+	      concretizar-se: Suas propostas para um novo modo de vida para a população das grandes cidades [se concretizaram?,
+	      materializar-se: A recessão temida com o plano não [se materializou. ,
+	      objetivar-se: No Brasil, as idéias próprias ao fascismo [objetivaram-se no movimento integralista. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3579' = “tornar realidade”
+	     {concretizar-se: Suas propostas para um novo modo de vida para a população das grandes cidades [se concretizaram?,
+	      materializar-se: A recessão temida com o plano não [se materializou. ,
+	      objetivar-se: No Brasil, as idéias próprias ao fascismo [objetivaram-se no movimento integralista. ,}
+Chave: CONCRETIZAR-SE <verb.change>
+ILI: EQ_NEAR_SYNONYM - 00333055
+
+Sense 1
+{00333055} <verb.change> happen1, materialize, materialise -- (come into being; become reality; "Her dream really materialized")
+       => {00329254} <verb.change> happen, hap, go on, pass off, occur, pass, fall out, come about, take place -- (come to pass; "What is happening?"; "The meeting took place off without an incidence"; "Nothing occurred that seemed important")

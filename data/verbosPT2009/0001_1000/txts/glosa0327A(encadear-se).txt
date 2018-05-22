@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0327A
+
+DADO O SYNSET:
+
+S='Glosa327'
+{coordenar-se: Cada um desses personagens está numa posição diferente e executa gestos que se I]coordenam.,
+encadear-se: O modo como os acordes [se encadeiam no ritmo é que traz essa densidade.,
+ligar-se: Forma-se uma ligação covalente como resultado de uma comparticipação de electrões entre os átomos que se I]ligam.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa327A' = “unir(-se) ou ligar(-se) em correntes
+{encadear-se: O modo como os acordes [se encadeiam no ritmo é que traz essa densidade.,
+ligar-se: Forma-se uma ligação covalente como resultado de uma comparticipação de electrões entre os átomos que se I]ligam.,}
+Chave: ENCADEAR-SE <verb.contact>
+ILI: 01250198
+
+Sense 1
+{01250198} <verb.contact> enchain -- (restrain or bind with chains)
+       => {01262432} <verb.contact> restrain, confine1, hold3 -- (to close within bounds, limit or hold back from movement; "This holds the local until the express passengers change trains"; "About a dozen animals were held inside the stockade"; "The illegal immigrants were held at a detention center"; "The terrorists held the journalists for ransom")
+           => {00498510} <verb.change> disable, disenable, incapacitate -- (make unable to perform a certain action; "disable this command on your computer")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

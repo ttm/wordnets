@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA1760
+
+DADO O SYNSET:
+
+S='Glosa1760'
+{acirrar: Desde sexta-feira, quando ocorreu o massacre, o clima no bairro é tenso, mas a maioria dos moradores evita dar declarações polêmicas ou que possam [acirrar mais os ânimos.,
+ encrespar: I]Encrespar-se é direito seu. Até resmungar em público. Só não me venha com infantilidades ou grosserias. ,
+ exacerbar: x,
+ exasperar: É mister passar em silêncio sobre alguns anos da vida do nosso memorando para não cansar o leitor repetindo a história de mil travessuras de menino no gênero das que já se conhecem; foram diabruras de todo o tamanho que [exasperaram a vizinha, desgostaram a comadre, mas que não alteraram em coisa alguma a amizade do barbeiro pelo afilhado.,
+ irritar: Karina Bacchi rejeita "Playboy" para não I]irritar os sogros Noelye Xororó. #  E assim uns animais se alegraram, outros se I]irritaram com o passarinho, cuja verdadeira intenção era trazer alegria àquela clareira na floresta.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1760' = “enfurecer ou irritar”
+{acirrar: A nossa indústria I]acirrou a ira dos citricultores norte-americanos.,
+ encrespar: Uma rápida escaramuça I]encrespou o meio literário quando alguém afirmou que o romance "Dom Casmurro", de Machado de Assis, não era lá essa obra-prima que se diz que é.,
+ exasperar: Três meses de adiamentos semanais da correção de vencimentos [exasperam qualquer um, quanto mais os militares.,
+ irritar: Carvalho chegou a dizer que Osiris o estava chantageando, o que, por sua vez, [irritou ainda mais Osiris.,}
+Chave: EXASPERAR <verb.emotion>
+ILI: 01768030
+
+Sense 1
+{01768030} <verb.emotion> exacerbate, exasperate, aggravate -- (exasperate or irritate)
+       => {01734240} <verb.emotion> anger -- (make angry; "The news angered him")
+           => {01708538} <verb.emotion> arouse, elicit, enkindle, kindle, evoke, fire, raise8, provoke -- (call forth (emotions, feelings, and responses); "arouse pity"; "raise a smile"; "evoke sympathy")
+               => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA3003
+
+DADO O SYNSET:
+
+S='Glosa3003'
+	    {
+	      aparar1: Outro cuidado necessário para as ovelhas de lã é que pouco antes do parto deve-se I]aparar a lã ao redor do úbere, das tetas e vulva.,
+	      cerdear: Este gaúcho sabe H]cerdear as ovelhas.,
+	      garrear: x,
+	      tonsurar: x,
+	      tosar1: É próprio do bom pastor I]tosar as ovelhas.,
+	      tosquiar: Em mão habilidosas, essas ferramentas podem ser usadas para I]tosquiar ovelhas. ,
+	      trosquiar: x,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3003 '= “ tosar a lã de; tosar carneiro”
+	    {aparar1: O fato de Lula [aparar a barba toda vez que grava para o programa do PT está deixando seus escudeiros preocupados.,
+	      cerdear: Este gaúcho sabe H]cerdear as ovelhas.,
+	      tosar1: É próprio do bom pastor I]tosar as ovelhas.,
+	      tosquiar: Quando chegou a primavera, Carlinhos I]tosquiou suas ovelhas, lavou a lã, transformou-a em fios e em novelos. ,}
+Chave: TOSAR <verb.contact>
+ILI: 01517275
+
+Sense 2
+{01517275} <verb.contact> fleece, shear2 -- (shear the wool from; "shear sheep")
+       => {01211079} <verb.contact> shave1, trim1 -- (cut closely; "trim my beard")
+           => {00545615} <verb.change> cut14 -- (shorten as if by severing the edges or ends of; "cut my hair")
+               => {00545418} <verb.change> shorten9 -- (make short or shorter; "shorten the skirt"; "shorten the rope by a few inches")
+                   => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

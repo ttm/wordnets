@@ -1,0 +1,46 @@
+ANÁLISE DA GLOSA1425
+
+DADO O SYNSET:
+
+S='Glosa1425'
+{abduzir-se: DEVIANT,
+ abjugar-se: DEVIANT,
+	 abstrair-se: Feche os olhos, I]abstraia-se da situação que está vivendo e deixe-se embalar pela fantasia.,
+ acercar-se: Ilhado pelo PFL, PTB e PMDB, os mesmos partidos que [se acercaram de Sarney e Collor, FHC foi tímido ao tratar do clientelismo político,
+ afastar-se: Uma outra experiência que sugeria o formato do planeta consistia em observar os barcos [se afastarem em direção ao alto mar,
+ alhear-se: O Estado, a quem incumbe a consecução dos fins coletivos, não pode e não deve I]alhear-se de tal desígnio.,
+ apartar-se: Toda a noite o índio tinha remado sem descansar um momento, mas desejava [apartar-se do teatro da catástrofe e aproximar-se dos seus campos nativos, ,
+ arredar-se: Poeta de voz urbana e cosmopolita, Drummond esteve sempre em trânsito sem I]arredar-se da terra.,
+ cortar-se: x,
+ desachegar-se: H]Desachegou-se deste tipo de gente,
+ desgarrar-se: Por certas leis biológicas que impedem os animais de [se desgarrarem do bando, acabam tornando-se presas fáceis de predadores,
+ desviar-se: I]Desviou-se de Vinícius e saiu correndo para a casa.,
+ esgarrar-se: O animal H]esgarrou-se da manada,
+ separar-se: Barbie conheceu Ken em um comercial de televisão em 1961, e desde então nunca mais se I]separaram.,
+ tirar-se: A]Tire-se do mau caminho,}
+	  
+A='Glosa2386'
+{abeirar-se, acercar-se, achegar-se, aconchegar-se, ajuntar-se, aprochegar-se, aproximar-se, avizinhar-se, conchegar-se, confinar, tender, unir-se, vir, vizinhar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1425' = “mover-se para longe [de]”
+{afastar-se: Ontem mesmo Itamar [afastou-se dos microfones.,
+ alhear-se: Mas logo a avó se I]alheou dos que estavam à sua volta e caminhou placidamente até a velha pitangueira.,
+ apartar-se: Um caminhoneiro que morava no interior do Rio Grande, lá na fronteira com o Uruguai, I]apartou-se da mulher e ficou solito.,
+ arredar-se: Depois, ela some no bosque. Ele também I]arreda-se do pessoal.,
+ desgarrar-se: Por certas leis biológicas que impedem os animais de se [desgarrarem do bando, acabam tornando-se presas fáceis de predadores.,
+ desviar-se: Ele disse que a foca se [desviou de um grupo e que dificilmente sobreviverá se for solta no litoral fluminense.,
+ esgarrar-se: Então fomos nos I]esgarrando da comissão de regatas e a correnteza nos levando para longe,
+ separar-se: Direto das telas do cinema vieram, por exemplo, Tyrone Power (que nunca se [separava de seu estojo de batom e pó-de-arroz).,
+ tirar-se: Eu sinto que fui eu que me I]tirei da casa!,}
+	  
+A='Glosa2386'
+{abeirar-se, acercar-se, achegar-se, aconchegar-se, ajuntar-se, aprochegar-se, aproximar-se, avizinhar-se, conchegar-se, confinar, tender, unir-se, vir, vizinhar-se}
+Chave: AFASTAR-SE <verb.motion>
+ILI: 01848576
+
+Sense 4
+{01848576} <verb.motion> recede, fall back3, retire3 -- (move back and away from; "The enemy fell back")
+       => {01936392} <verb.motion> withdraw, retreat, pull away, draw back, recede1, pull back, retire, move back -- (pull back or move away or backward; "The enemy withdrew"; "The limo pulled away from the curb")
+           => {01782203} <verb.motion> travel, go, move3, locomote -- (change location; move, travel, or proceed; "How fast does your new car go?"; "We travelled from Rome to Naples by bus"; "The policemen went from door to door looking for the suspect"; "The soldiers moved towards the city in an attempt to take it before night fell")

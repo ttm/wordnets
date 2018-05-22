@@ -1,0 +1,40 @@
+ANÁLISE DA GLOSA3070
+
+DADO O SYNSET:
+
+S='Glosa3070'
+	    {
+	      alçar-se: Riobaldo percebe a necessidade de voltar para as terras matriciais, o mítico chapadão do Urucúia, onde tanto boi berra ao [alçar-se ao topo da pedra de itambé.,
+	      alevantar-se: Sobre as chapadas desertas e desoladas, [alevantam-se quase que exclusivamente os mandacarus, seres silentes e majestosos, árvores providenciais, em cujos galhos e raízes armazenam-se os últimos recursos para satisfação da sede.,
+	      altear-se: Na esquina, semi-escondido pela copa das mangueiras, sobranceiro, [alteava-se o solar, seis janelas sobre a rua, três de cada lado da porta de duas bandeiras, porta e janelas quase sempre fechadas.,
+	      ascender: A sensação é parecida àquela que teve Jane ao [ascender ao território aéreo de Tarzan.,
+	      elevar-se: Coube ao brasileiro Santos Dumont a invenção do avião, veiculo mais pesado que o ar, provido de um motor a explosão capaz de fazê-lo [elevar-se nos ares.,
+	      emergir: Rubião admirou-lhe ainda uma vez a figura, o busto bem talhado, estreito embaixo, largo em cima, [emergindo das cadeiras amplas, como uma grande braçada de folhas sai de dentro de um vaso.,
+	      empinar-se: Sobre os milhares de edifícios, que nos rodeiam por todos os lados; que sempre tratam de [empinar-se por cima do ângulo de visão do pedestre, se executam ceremoniosos ballets aéreos.,
+	      erguer-se: Numa das dependências do rebanho [ergue-se o altar de são João, um voluminoso aglomerado de papéis de seda coloridos, papel celofane picotado, papel laminado e outros brilhos e cores. ,
+	      guindar-se: Dirigiu-se, cautelosamente, ao pequeno quintal; e, firmando os pés nas fendas dos tijolos carcomidos, I]guindou-se acima do muro que dava para a casa vizinha.,
+	      levantar-se: Martim chamou Iracema; e partiram ambos guiados pelo pitiguara para a serra do Maranguaba, que se [levantava no horizonte.,
+	      subir: Dali, a vibração passaria ao andar superior ou rampa ascendente do caracol, [subindo em espiral até o vértice da concha.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3070' = “mover-se para cima”
+	    {alçar-se: Garibaldi I]alçou-se de seu cavalo, ergueu seu chapéu ao céu e pronunciou um breve discurso.,
+	      alevantar-se: O mancebo I]alevantou-se, cruzou os braços e ficou por algum tempo com os olhos fitos na troneira iluminada.,
+	      altear-se: O grego piloto mascava melancolicamente o que quer que fosse e, de quando em quando, I]alteava um dos ombros, num tique que lhe não era habitual.,
+	      ascender: Em novo projeto, Santos Dumont pretendia, com o Nº 10, carregar 10 pessoas, entretanto, essa aeronave nunca I]ascendeu com mais de uma.,
+	      elevar-se: O foguete não se I]elevou da plataforma, permanecendo aparentemente imóvel.,
+	      emergir: O pilar rachou e um estranho ser I]emergiu para fora do pilar.,
+	      empinar-se: O rapaz I]empinou-se na ponta dos pés, arregalando muito os olhos, esfregando as mãos.,
+	      erguer-se: Carolina I]ergueu-se vivamente e, tomando o cálice, bebeu todo o licor. ,
+	      guindar-se: Dirigiu-se, cautelosamente, ao pequeno quintal; e, firmando os pés nas fendas dos tijolos carcomidos, I]guindou-se acima do muro que dava para a casa vizinha.,
+	      levantar-se: O Pajé [levantou-se em pé no meio da cabana e acendeu o cachimbo.,
+	      subir: No bairro da Ribeira, a água [subiu até 1 metro na madrugada de sábado.,}
+Chave: ELEVAR-SE <verb.motion>
+ILI: 01911030
+
+Sense 1
+{01911030} <verb.motion> rise, lift3, arise4, move up, go up, come up3, uprise1 -- (move upward; "The fog lifted"; "The smoke arose from the forest fire"; "The mist uprose from the meadows")
+       => {01782203} <verb.motion> travel, go, move3, locomote -- (change location; move, travel, or proceed; "How fast does your new car go?"; "We travelled from Rome to Naples by bus"; "The policemen went from door to door looking for the suspect"; "The soldiers moved towards the city in an attempt to take it before night fell")
+          Also See-> {01932338} <verb.motion> rise up#1

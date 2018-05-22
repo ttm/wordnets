@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA2021
+
+DADO O SYNSET:
+	
+S='Glosa2021'
+    	{botar1: A chaminé está H]botando fumaça.,
+      	 expelir: A poucos metros do hotel funcionava um grande restaurante especializado em frangos fritos - faziam milhares por dia - e cuja chaminé, que não era tão alta, I]expelia uma fumaça impregnada de gordura de frango, que se espalhava pelo ar.,
+      	 respirar: As chaminés M]respiram fumo. ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2021' = “expelir algo como luz, calor, radiação, vapor, etc.”
+    	{botar1: O trem vinha I]botando fumaça pelos tubo.,
+      	 expelir: A chaminé, que não era tão alta, I]expelia uma fumaça impregnada de gordura de frango, que se espalhava pelo ar.,
+      	 respirar: Fui bem recebida na grande máquina que I]respira fumaça e cospe notas fiscais duvidosas.}
+Chave: EXPELIR <verb.weather>
+ILI: 02685205
+
+Sense 2
+{02685205} <verb.weather> emit, give out, give off -- (give off, send forth, or discharge; as of light, heat, or radiation, vapor, etc.; "The ozone layer blocks some harmful rays which the sun emits")

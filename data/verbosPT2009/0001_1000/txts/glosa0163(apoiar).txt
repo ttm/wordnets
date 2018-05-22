@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA0163
+
+DADO O SYNSET:
+
+S='Glosa163'
+{apoiar: Quanto mais o tempo passa maior é a resistência política dos partidos que não [apóiam o nome de Fernando Henrique Cardoso para a Presidência da República. ,
+defender: Por isso, o grupo [defende vigorosamente sua cultura e reprime os membros que desobedecem às normas culturais ou tentam modificá-las profundamente.,
+propugnar: Alcança sua verdadeira estatura quando se converte em romance dos homens que, com suas paixões e mesquinharias, assumem o tempo em que vivem e assim [propugnam a transformação da sociedade e deles mesmos.,}
+A='Glosa3637'
+{adversar, avessar, colidir, combater, confutar, contestar, contraditar, contradizer, contrariar, desencontrar, entrechocar-se, impugnar, opugnar, refutar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa163' = “argumentar ou falar em defesa de algo ou alguém”
+{apoiar: Quanto mais o tempo passa maior é a resistência política dos partidos que não [apóiam o nome de Fernando Henrique Cardoso para a Presidência da República. ,
+defender: Por isso, o grupo [defende vigorosamente sua cultura e reprime os membros que desobedecem às normas culturais ou tentam modificá-las profundamente.,
+propugnar: Alcança sua verdadeira estatura quando se converte em romance dos homens que, com suas paixões e mesquinharias, assumem o tempo em que vivem e assim [propugnam a transformação da sociedade e deles mesmos.,}
+A='Glosa3637'
+{adversar, avessar, colidir, combater, confutar, contestar, contraditar, contradizer, contrariar, desencontrar, entrechocar-se, impugnar, opugnar, refutar}
+Chave: APOIAR <verb.communication>
+ILI: 00865802
+
+Sense 8
+{00865802} <verb.communication> defend, support1, fend for -- (argue or speak in defense of; "She supported the motion to strike")
+       => {00746664} <verb.communication> argue2, reason -- (present reasons and arguments)
+           => {00747406} <verb.communication> present, represent11, lay out -- (bring forward and present to the mind; "We presented the arguments to him"; "We cannot represent this knowledge to our formal reason")
+               => {00976600} <verb.communication> state, say, tell4 -- (express in words; "He said that he wanted to marry her"; "tell me what is bothering you"; "state your opinion"; "state your name")
+                   => {00909455} <verb.communication> express, verbalize3, verbalise3, utter1, give tongue to -- (articulate; either verbally or with a cry, shout, or noise; "She expressed her anger"; "He uttered a curse")

@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0234
+
+DADO O SYNSET:
+
+S='Glosa234'
+{abalar-se: A despeito das esquisitices, o saber e a reputação de Diôgenes eram tais que Alexandre, o Grande, I]abalou-se a ir visitá-lo.,
+demover-se: Passou Aires a examinar as avarias da balandra, e embora a achasse bastante deteriorada, contudo não I]demoveu-se por isso de seu propósito.,
+dispor-se: Rubião não sabia nada, nem se a casa existia, nem se eles eram credores dela; ouviu a notícia respondeu que estimava muito, e [dispôs-se a ir embora.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa234' = “tornar(-se) receptivo ou voluntarioso perante uma ação, atitude ou crença”
+{abalar-se: A despeito das esquisitices, o saber e a reputação de Diôgenes eram tais que Alexandre, o Grande, I]abalou-se a ir visitá-lo.,
+demover-se: Passou Aires a examinar as avarias da balandra, e embora a achasse bastante deteriorada, contudo não I]demoveu-se por isso de seu propósito.,
+dispor-se: Rubião não sabia nada, nem se a casa existia, nem se eles eram credores dela; ouviu a notícia respondeu que estimava muito, e [dispôs-se a ir embora.,}
+Chave: DISPOR-SE <verb.cognition>
+ILI: 00658076
+
+Sense 3
+{00658076} <verb.cognition> dispose, incline3 -- (make receptive or willing towards an action or attitude or belief; "Their language inclines us to believe them")
+       => {00677776} <verb.cognition> determine2, shape, mold, influence, regulate -- (shape or influence; give direction to; "experience often determines ability"; "mold public opinion")
+           => {01598809} <verb.creation> cause, do2, make8 -- (give rise to; cause to happen or occur, not always intentionally; "cause a commotion"; "make a stir"; "cause an accident")
+               => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor")

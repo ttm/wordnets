@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0477
+
+DADO O SYNSET:
+
+S='Glosa477'
+{aleitar: O leite materno é o melhor alimento para o bebê e o ato de I]aleitar, a melhor escolha para a mãe e seu filho.,
+amamentar: Pelos dados obtidos, concluíram que as mães tinham o hábito de [amamentar os bebês até 1960.,
+lactar: Escutar as preocupações, vivências e dúvidas das gestantes e mães sobre a prática de I]lactar, fortalecendo sua autoconfiança.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa477' = “dar de mamar a”
+{aleitar: O leite materno é o melhor alimento para o bebê e o ato de I]aleitar, a melhor escolha para a mãe e seu filho.,
+amamentar: Pelos dados obtidos, concluíram que as mães tinham o hábito de [amamentar os bebês até 1960.,
+lactar: Escutar as preocupações, vivências e dúvidas das gestantes e mães sobre a prática de I]lactar, fortalecendo sua autoconfiança.,}
+Chave: AMAMENTAR <verb.consumption>
+ILI: 01150247
+
+Sense 1
+{01150247} <verb.consumption> breastfeed, bottle-feed, suckle, suck2, nurse, wet-nurse, lactate, give suck -- (give suck to; "The wetnurse suckled the infant"; "You cannot nurse your baby in public in some places")
+       => {01142446} <verb.consumption> feed1, give -- (give food to; "Feed the starving children in India"; "don't give the child this tough meat")
+           => {01146590} <verb.consumption> provide, supply, ply, cater -- (provide what is desired or needed, especially support, food or sustenance; "The hostess provided lunch for all the guests")
+               => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+                   => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children")

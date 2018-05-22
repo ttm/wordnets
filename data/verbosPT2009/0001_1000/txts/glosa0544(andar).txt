@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0544
+
+DADO O SYNSET:
+
+S='Glosa544'
+{andar: Discrição e caras serviçais nem sempre [andam juntas.,
+estar: LovePlace - um lugar onde o amor e o erotismo I]estão juntos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa544' = “estar em associação com; acompanhar”
+{andar: Discrição e caras serviçais nem sempre [andam juntas.,
+estar: LovePlace - um lugar onde o amor e o erotismo I]estão juntos.,}
+
+Chave: ANDAR <verb.social>
+ILI: 02396434
+
+Sense 8
+{02396434} <verb.social> walk1 -- (be or act in association with; "We must walk with our dispossessed brothers and sisters"; "Walk with God")
+       => {02396109} <verb.social> consociate, associate -- (bring or come into association or action; "The churches consociated to fight their dissolution")
+           => {02395769} <verb.social> unite, unify -- (act in concert or unite in a common purpose or belief)
+               => {02361668} <verb.social> join, fall in, get together2 -- (become part of; become a member of a group or organization; "He joined the Communist Party as a young man")

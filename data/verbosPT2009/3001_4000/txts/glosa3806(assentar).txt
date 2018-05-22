@@ -1,0 +1,37 @@
+ANÁLISE DA GLOSA3806
+
+DADO O SYNSET:
+
+S='Glosa3806'
+{arrumar: Estou com ímpetos de I]arrumar-lhe um bofetão.,
+	 assentar: Leonardo fingiu que passava distraído por junto dela, e com o ferrado sapatão [assentou-lhe uma valente pisadela no pé direito.,
+	 cascar: Ao meu dito, a tal muchacha I]Cascou-me grande bolacha. # M]Cascaram-lhe tamanho bofetão!,
+	 cavilhar: x,
+	 dar: O mestre aproximou-se e, num movimento súbito, [deu-lhe um tapa no rosto.,
+	 desferir: Ao ouvir um não como resposta, Rubinho, como é conhecido, [desferiu um soco no auxiliar.,
+	 embutir: x,
+	 encavilhar: x,
+	 impingir: Correram até a cozinha da casa e, faca em punho, I]impingiram-lhe golpe de misericórdia, fatal, no pescoço.,
+	 lascar: Para deleite geral, o capitão é um gato, e [lasca um beijo na filha loira-camponesa.,
+	 pespegar: O humorista da tropa cometeu a mais deliciosa gafe da história ao abraçar o monarca e lhe [pespegar um beijo na bochecha diante de 50 mil súditos atônitos.,
+	 pregar1: Onde andas tu que ainda não lhe [pregaste um bom pontapé na haste?}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3806' = “dar uma bofetada”
+{arrumar: Estou com ímpetos de I]arrumar-lhe um bofetão.,
+	 assentar: Leonardo fingiu que passava distraído por junto dela, e com o ferrado sapatão [assentou-lhe uma valente pisadela no pé direito.,
+	 cascar: Para I]cascar os ferros, naquela chata, que vive difamando o senhor!
+	 dar: O mestre aproximou-se e, num movimento súbito, [deu-lhe um tapa no rosto.,
+	 desferir: Ao ouvir um não como resposta, Rubinho, como é conhecido, [desferiu um soco no auxiliar.,
+	 impingir: Correram até a cozinha da casa e, faca em punho, I]impingiram-lhe golpe de misericórdia, fatal, no pescoço.,
+	 lascar: Para deleite geral, o capitão é um gato, e [lasca um beijo na filha loira-camponesa.,
+	 pespegar: O humorista da tropa cometeu a mais deliciosa gafe da história ao abraçar o monarca e lhe [pespegar um beijo na bochecha diante de 50 mil súditos atônitos.,
+	 pregar1: Onde andas tu que ainda não lhe [pregaste um bom pontapé na haste?}
+Chave: ASSENTAR  <verb.possession>
+ILI: 02290885
+
+Sense 5 uma bofetada
+{02290885} <verb.possession> land -- (deliver (a blow); "He landed several blows on his opponent's head")
+       => {02290685} <verb.possession> deliver7, drive home -- (carry out or perform; "deliver an attack", "deliver a blow"; "The boxer drove home a solid left")
+           => {02249733} <verb.possession> give3 -- (cause to have, in the abstract sense or physical sense; "She gave him a black eye"; "The draft gave me a cold")

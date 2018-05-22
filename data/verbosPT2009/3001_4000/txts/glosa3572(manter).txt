@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA3572
+
+DADO O SYNSET:
+
+S='Glosa3572'
+	    {
+	      alimentar: Ela sacrificou, por uma noite de baile, um ano de pão para a família, não hesitando em reduzir à miséria pai, e esposo, para [alimentar o seu luxo. / Albano não quer [alimentar a polêmica. ,
+	      conservar: [Conservaram sua cultura original./ A nova igreja está de novo frente a Galileu: para [conservar a fé, ela vai negar o sol e humilhar o homem livre. ,
+	      manter: Tentando [manter o bom humor, para não ficar desesperado. / A polícia [manterá essa posição por quanto tempo seja necessário.,
+	      nutrir: Sábato começa a [nutrir certas dúvidas em 1933. /  Os brasileiros passaram a [nutrir uma estranha desconfiança em relação a tudo que se refere aos vizinhos espanhóis. ,
+	      sustentar: Para ele, a letra da música não é motivo suficiente para [sustentar uma alegação jurídica.,
+	      suster: Finalmente temos um quadro institucional de coordenação capaz de I]suster iniciativas.,
+	      ter: Os cabelos tinham crescido e I]tinha-os compridos e sedosos. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3572' = “conservar ou manter uma condição inalterada; fazer permanecer ou durar”
+	     {alimentar: Ela sacrificou, por uma noite de baile, um ano de pão para a família, não hesitando em reduzir à miséria pai, e esposo, para [alimentar o seu luxo. / Albano não quer [alimentar a polêmica. ,
+	      conservar: [Conservaram sua cultura original./ Orestes Quércia [conserva ainda hoje alguns traços de político interiorano, estilo que o consagrou no início da carreira. ,
+	      manter: Isso tudo [mantem a estabilidade, que é muito melhor que uma inflação de 50% ao mês. / A polícia [manterá essa posição por quanto tempo seja necessário.,
+	      nutrir: Sábato começa a [nutrir certas dúvidas em 1933. / Amigos da família afirmam que o médico ainda [nutre esperanças de reencontrar a carga. ,
+	      sustentar: Antenor e Dionísio integram o clã dos Gonçalves, que há anos [sustenta uma guerra com o clã dos Benvindo.,
+	      suster: E o modelo de desenvolvimento que I]sustém o consumo reproduz um círculo vicioso que não inclui a preservação, o cuidado ou a proteção ambientais.,
+	      ter: Os cabelos tinham crescido e I]tinha-os compridos e sedosos. ,}
+Chave: MANTER <verb.stative>
+ILI: 02599119
+
+Sense 1
+{02599119} <verb.stative> continue, uphold, carry on, bear on1, preserve -- (keep or maintain in unaltered condition; cause to remain or last; "preserve the peace in the family"; "continue the family tradition"; "Carry on the old traditions")
+       => {02600965} <verb.stative> keep, maintain, hold -- (keep in a certain state, position, or activity; e.g., "keep clean"; "hold in place"; "She always held herself as a lady"; "The students keep me on my toes")

@@ -1,0 +1,36 @@
+ANÁLISE DA GLOSA3240
+
+DADO O SYNSET:
+
+S='Glosa3240'
+	    {
+	      abarregar-se: O imigrante e a nativa M]abarregaram-se.,
+	      acasalar-se: Ele começa a se transformar em uma terrível entidade alienígena com um único o objetivo de I]acasalar-se com uma mulher humana e colonizar o mundo.,
+	      afamilhar-se: x,
+	      afamiliar-se: x,
+	      ajuntar-se: Os filhos de cada neto de Cain I]ajuntaram-se entre si e cada grupo formou uma família, que ficou conhecida como Clã.,
+	      amancebar-se: Abreu tinha sido casado com uma bonita mulher que um dia o abandonou para I]amancebar-se com um sujeito que ele supunha seu amigo.,
+	      amasiar-se: No período colonial muitos portugueses optavam por I]amasiar-se com uma negra ou mulata.,
+	      amigar-se: Conquistar Aleixo, o bonitinho, toma-lo para si, tê-lo como um amantezinho do seu coração avelhentado e gasto, I]amigar-se com ele.,
+	      concubinar-se: O direito existirá, enquanto viver o titular e enquanto não I]concubinar-se ou não se casar.,
+	      juntar-se: John se anulou quando se I]juntou a Yoko.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3240' = “viver junto; geralmente pessoas que não são casadas e vivem junto como casal”
+	     {abarregar-se: O imigrante e a nativa M]abarregaram-se.,
+	      acasalar-se: Mas, depois da morte de Sáskia, I]acasalou-se com Geertje, babá do seu filho Titus.,
+	      ajuntar-se: Os filhos de cada neto de Cain I]ajuntaram-se entre si e cada grupo formou uma família, que ficou conhecida como Clã.,
+	      amancebar-se: Pouco depois, a mulher deixou-o entregue à sua sorte e I]amancebou-se com um homem casado.,
+	      amasiar-se: A fazendeira poderosa I]amasiou-se com um sobrinho do marido, Senhorinho Pereira, e contratou o executante do crime contra seu consorte.,
+	      amigar-se: Tião I]amigou-se com uma mulherzinha feia e sem graça.,
+	      concubinar-se: Desde que chegou ao local, em 1807, Bletterman I]concubinou-se com uma nativa.,
+	      juntar-se: Três meses após a separação, a mãe I]juntou-se com um alcoólatra que queria matar todas as filhas.,}
+Chave: AMASIAR-SE <verb.stative>
+ILI: 02572083
+
+Sense 1
+{02572083} <verb.stative> cohabit, shack up -- (room or live together; usually said of people who are not married and live together as a couple)
+       => {02571132} <verb.stative> dwell, shack, reside, live8, inhabit, people, populate, domicile, domiciliate -- (make one's home or live in; "She resides officially in Iceland"; "I live in a 200-year old house"; "These people inhabited all the islands that are now deserted"; "The plains are sparsely populated")
+           => {02576058} <verb.stative> be5 -- (occupy a certain position or area; be somewhere; "Where is my umbrella?" "The toolshed is in the back"; "What is behind this behavior?")

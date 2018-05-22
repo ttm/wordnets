@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA0920
+
+DADO O SYNSET:
+
+S='Glosa920'
+{abrasar-se: Em 24 de maio de 1968, o Echo 1 penetrou e I]abrasou-se na atmosfera terrestre.,
+ardejar: Nas viagens xamânicas pelos veios da rede sinto palpitar o sangue que [ardeja orgânico e verde,
+arder: Durante o inverno, nas casas [ardem enormes lareiras, e ferve sempre o samovar para os hóspedes.,
+chamear: x,
+chamejar: Sereis mais depressa libertados se deixardes I]chamejar, conscientemente, vossos corpos com este fogo.,
+comburir-se: Nossa única árvore H]comburiu-se com a queimada.,
+combustar-se: x,
+queimar-se: Como as massas envolvidas numa transformação, o calor liberado também mantém a proporcionalidade estabelecida pelas massas, isto é, o calor liberado depende de quanto material se [queima.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa920' = “estar em chamas ou chamejante”
+{abrasar-se: Em 24 de maio de 1968, o Echo 1 penetrou e I]abrasou-se na atmosfera terrestre.,
+ardejar: Nas viagens xamânicas pelos veios da rede sinto palpitar o sangue que [ardeja orgânico e verde,
+arder: Durante o inverno, nas casas [ardem enormes lareiras, e ferve sempre o samovar para os hóspedes.,
+chamejar: Sereis mais depressa libertados se deixardes I]chamejar, conscientemente, vossos corpos com este fogo.,
+queimar-se: Como as massas envolvidas numa transformação, o calor liberado também mantém a proporcionalidade estabelecida pelas massas, isto é, o calor liberado depende de quanto material se [queima.,}
+Chave: CHAMEJAR <verb.weather>
+ILI: 02677542
+
+Sense 2
+{02677542} <verb.weather> flame -- (be in flames or aflame; "The sky seemed to flame in the Hawaiian sunset")
+       => {00365423} <verb.change> burn, combust -- (undergo combustion; "Maple wood burns well")
+           => {00140715} <verb.change> change state, turn4 -- (undergo a transformation or a change of position or action; "We turned from Socialism to Capitalism"; "The people turned against the President when he stole the election")
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

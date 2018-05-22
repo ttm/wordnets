@@ -1,0 +1,18 @@
+ANÁLISE DA GLOSA0622
+
+DADO O SYNSET:
+
+S='Glosa622'
+{apoleirar-se: x,
+empoleirar-se: Alguns se I]empoleiraram descalços sobre a mesa, alguns sentados e outros de pé começaram um ataque que deixava clara a fome da tropa.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa622' = “sentar (-se), como em um galho”
+{empoleirar-se: Alguns se I]empoleiraram descalços sobre a mesa, alguns sentados e outros de pé começaram um ataque que deixava clara a fome da tropa.,}
+Chave: EMPOLEIRAR-SE <verb.contact>
+ILI: 01501118
+
+Sense 1
+{01501118} <verb.contact> perch, roost, rest1 -- (sit, as on a branch; "The birds perched high in the treee")
+       => {01500510} <verb.contact> sit, sit down3 -- (be seated)

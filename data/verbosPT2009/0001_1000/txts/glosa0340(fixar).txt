@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA0340
+
+DADO O SYNSET:
+
+S='Glosa340'
+{afixar: Os vencedores vão receber uma placa de reconhecimento para [afixar em seu estabelecimento comercial.,
+firmar: A] Firmou o armário na parede.,
+fixar: Os acidentes ocorreram menos de uma semana depois de a Ponte S.A. [fixar cartazes com alertas aos motoristas em vários locais da ponte. ,
+pregar1: Isso permite localizar fiações e tubulações e evita problemas como furar um cano ao I]pregar um quadro.,
+prender: E com uma familiaridade confiada I]prendeu a flor no cabelo da moça.,
+segurar: Nós necessitamos usar parafusos específicos ao caso, por exemplo, para I]segurar as hastes de uma prateleira, um quadro.,}
+A='Glosa1113'
+{desafixar, despregar1, desprender}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa340' = “fazer algo ficar fortemente preso em alguma coisa ou lugar”
+{afixar: Os vencedores vão receber uma placa de reconhecimento para [afixar em seu estabelecimento comercial.,
+fixar: Os acidentes ocorreram menos de uma semana depois de a Ponte S.A. [fixar cartazes com alertas aos motoristas em vários locais da ponte. ,
+pregar1: Isso permite localizar fiações e tubulações e evita problemas como furar um cano ao I]pregar um quadro.,
+prender: E com uma familiaridade confiada I]prendeu a flor no cabelo da moça.,
+segurar: Nós necessitamos usar parafusos específicos ao caso, por exemplo, para I]segurar as hastes de uma prateleira, um quadro.,}
+A='Glosa1113'
+{desafixar, despregar1, desprender}
+Chave: FIXAR <verb.contact>
+ILI: 01300906
+
+Sense 2
+{01300906} <verb.contact> fasten1, fix, secure1 -- (cause to be firmly attached; "fasten the lock onto the door"; "she fixed her gaze on the man")
+       => {01257892} <verb.contact> attach1 -- (cause to be attached)
+           => {01314764} <verb.contact> connect, link, tie1, link up -- (connect, fasten, or put together two or more pieces; "Can you connect the two loudspeakers?"; "Tie the ropes together"; "Link arms")

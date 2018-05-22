@@ -1,0 +1,44 @@
+ANÁLISE DA GLOSA3482
+
+DADO O SYNSET:
+
+S='Glosa3482'
+	    {
+	      amurchecer: x,
+	      atristar: x,
+	      definhar: Ver a flor ]definhar/A rosa ]definha e morre,
+	      desflorescer: Meu jardim ]desfloresceu,
+	      desflorir: Na vida da árvore os momentos em que a ventania a [desfloriu,
+	      desverdecer: x,
+	      emurchecer: As flores das toilettes começam a [emurchecer/Perfuma tanto uma rosa para logo ]emurchecer,
+	      enfenecer: x,
+	      entristecer: ]Entristeceu-se a laranjeira,
+	      estiolar: ...uma folha a ]estiolar/Se a planta ]estiolar, mude para local mais iluminado,
+	      fanar: O fruto só desponta quando as pétalas começam a ]fanar,
+	      fenecer: É preciso colher o mais breve as rosas porque breve elas vão ]fenecer/A flor está prestes a ]fenecer,
+	      mirrar: Há coisa de umas semanas a planta começou a ]mirrar e as flores a fecharem-se/Era uma árvore que eu tinha desde que vim para aqui e que começou a ]mirrar,
+	      murchar: Com a seca o gado emagreceu, a laranja [murchou/Entre 60 e 80 dias após a instalação da lavoura, as plantas vão se tornando avermelhadas, [murcham e morrem em menos de 15 dias,
+	      murchecer: A tua nívea luz ciliciada faz ]murchecer e congelar as rosas,
+	      secar: Em dias quentes e secos, as folhas poderiam murchar e [secar, determinando a morte do vegetal,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3482' = “fazer secar, especialmente com perda de umidade”
+	     {definhar: A flor I]definha, as aves emudecem, morre o dia, os frutos caem, a folhagem seca,
+	      desflorescer: No calor do verão murchou, I]desfloresceu com o vento, no outono, desfolhou,
+	      emurchecer: As flores das toilettes começam a [emurchecer/Sobre a mesa I]emurchece um ramilhete,
+	      estiolar: Tenho certeza que aqui em Santa Catarina, onde o solo é fértil, nada I]estiola,
+	      fanar: A falta de claridade H]fanou as flores,
+	      fenecer: A planta exótica que ainda existia I]feneceu no glorioso dia 15 de novembro,
+	      mirrar: A vegetação feneceu e I]mirrou, e os bebedouros se ressequiram sob a centelha comburente do sol impiedoso,
+	      murchar: Com a seca o gado emagreceu, a laranja [murchou/Entre 60 e 80 dias após a instalação da lavoura, as plantas vão se tornando avermelhadas, [murcham e morrem em menos de 15 dias,
+	      secar: Em dias quentes e secos, as folhas poderiam murchar e [secar, determinando a morte do vegetal, }
+Chave: MURCHAR <verb.change>
+ILI: 00233791
+
+Sense 1
+{00233791} <verb.change> shrivel, shrivel up, shrink2, wither -- (wither, especially with a loss of moisture; "The fruit dried and shriveled")
+       => {00146081} <verb.change> decrease, diminish, lessen, fall6 -- (decrease in size, extent, or range; "The amount of homework decreased towards the end of the semester"; "The cabin pressure fell dramatically"; "her weight fall to under a hundred pounds"; "his voice fell to a whisper")
+           => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

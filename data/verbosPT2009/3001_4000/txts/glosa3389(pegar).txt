@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA3389
+
+DADO O SYNSET:
+
+S='Glosa3389'
+	    {
+	      apanhar: A gente nem se molha quando vai I]apanhar os peixes.,
+	      catar: Setenta por cento das famílias vivem da pesca, na área na foz e no alto mar, e de I]catar marisco, atividade praticada nas croas que aparecem na maré baixa,
+	      colher: Na maré baixa, forma-se um imenso descampado onde muitas pessoas vão [colher massunim (marisco).,
+	      mariscar: Dá até para I]mariscar com a mão.,
+	      pegar: I]Pegava marisco nos baixios da costa marítima, colhia azeite dendê e vinho de palma.,
+	      recolher: x,
+	      tomar: DEVIANT,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3389' = “procurar e colher” 
+	     {apanhar: Nos rios e na costa oceânica I]apanhavam peixes e moluscos.,
+	      catar: I]Catava caranguejo, siri, goiamum e mariscos, pra vender e alimentar a família,
+	      colher: Na maré baixa, forma-se um imenso descampado onde muitas pessoas vão [colher massunim (marisco).,
+	      mariscar: Já pescou, I]mariscou sururu, ostra, pescou camaronzeira, já pescou redinha.,
+	      pegar: I]Pegava marisco nos baixios da costa marítima, colhia azeite dendê e vinho de palma.,}
+Chave: PEGAR <verb.contact>
+ILI: 01341979
+
+Sense 2
+{01341979} <verb.contact> pick1, pluck1, cull -- (look for and gather; "pick mushrooms"; "pick flowers")
+       => {01340552} <verb.contact> gather, garner, collect, pull together -- (assemble or get together; "gather some stones"; "pull your thoughts together")
+          Also See-> {02046356} <verb.perception> pick up1#9; {02056737} <verb.perception> pick up#14; {01899669} <verb.motion> pick up#3; {01548883} <verb.contact> pick off#2; {00654767} <verb.cognition> pick over#1; {00579325} <verb.cognition> pick up#5

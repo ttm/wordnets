@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0641
+
+DADO O SYNSET:
+
+S='Glosa641'
+{jogar: Eu me lembro que, um dia, Guillermo Villas tentou [jogar com uma propaganda comercial numa fita de cabeça.,
+manipular: Compreender e raciocinar com emoções, e regular e I]manipular as suas próprias emoções bem como aquelas de outras pessoas.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa641' = “influenciar ou controlar astutamente ou deslealmente”
+{jogar: Eu me lembro que, um dia, Guillermo Villas tentou [jogar com uma propaganda comercial numa fita de cabeça.,
+manipular: Compreender e raciocinar com emoções, e regular e I]manipular as suas próprias emoções bem como aquelas de outras pessoas.,}
+Chave: MANIPULAR <verb.social>
+ILI: 02461065
+
+Sense 1
+{02461065} <verb.social> manipulate, pull strings, pull wires -- (influence or control shrewdly or deviously; "He manipulated public opinion in his favor")
+       => {02461275} <verb.social> influence, act upon, work10 -- (have and exert influence or effect; "The artist's work influenced the young painter"; "She worked on her friends to support the political candidate")
+           => {00132263} <verb.change> affect, impact, bear upon, bear on, touch on1, touch -- (have an effect upon; "Will the new rules affect me?")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

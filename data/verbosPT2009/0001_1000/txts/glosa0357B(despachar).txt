@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0357B
+
+DADO O SYNSET:
+
+S='Glosa357'
+{atender: Não [atendeu a um freguês, e logo a outro, que ali foram, a despeito da hora e de ser domingo, confiar-lhe as caras à navalha. ,
+despachar: Sabendo que Adriana não sabia a que horas eu voltava, I]despachou o cliente, agendando uma reunião para o dia seguinte.,
+servir: Nos poucos supermercados abertos, filas se estendem porta afora e o atendimento é confuso, com funcionários tentando ao mesmo tempo limpar e arrumar prateleiras e [servir clientes.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa357B' = “mandar (embora)  em direção a uma meta designada”
+{despachar: Sabendo que Adriana não sabia a que horas eu voltava, I]despachou o cliente, agendando uma reunião para o dia seguinte.,}
+Chave: DESPACHAR <verb.motion>
+ILI: 01897699
+
+Sense 1
+{01897699} <verb.motion> dispatch, despatch, send off -- (send away towards a designated goal)
+       => {01893524} <verb.motion> transport1, send, ship -- (transport commercially)
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA3444
+
+DADO O SYNSET:
+
+S='Glosa3444'
+	    {
+	      complicar: Não quis ]complicá-lo numa situaçõa difícil,
+	      comprometer: Declaração [compromete bicheiros/Novas provas [comprometem réus ,
+	      compromissar: ...perceberemos que é muito mais importante incluir do que excluir e ]compromissar o jovem/...]compromissar o futuro eleito,
+	      enlear: espero sinceramente que não nos deixemos ]enlear num debate,
+	      envolver: Fui convidado pela prefeitura de Rio Branco e achei que devia me [envolver/O caso do  poderá [envolver mais de um procurador,
+	      implicar: x,
+	      meter: ...[meter Deus na sujeira que é a política,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3444' = “levar para dentro de ligação íntima e incriminatória”
+	     {complicar: Delegado I]complicou o ministro Palocci,
+	      comprometer: Declaração [compromete bicheiros/Novas provas [comprometem réus ,
+	      enlear: espero sinceramente que não nos deixemos ]enlear num debate,
+	      envolver: O senador I]envolveu o prefeito de Buritis, Pedro Taborda (PFL-MG) , um ex-deputado e uma empreiteira na suposta «armação»,
+	      meter: O quase “senador” Pedro Henry (PP), hoje deputado federal, se I]meteu na maior encrenca política da vida pública dele,}
+Chave: ENVOLVER <verb.stative>
+ILI: 02596575
+
+Sense 1
+{02596575} <verb.stative> implicate1 -- (bring into intimate and incriminating connection; "He is implicated in the scheme to defraud the government")
+       => {02596340} <verb.stative> involve1, affect, regard -- (connect closely and often incriminatingly; "This new ruling affects your business")
+           => {02595351} <verb.stative> refer, pertain1, relate, concern, come to3, bear on, touch, touch on -- (have to do with or be relevant to; "There were lots of questions referring to her talk"; "My remark pertained to your earlier comments")

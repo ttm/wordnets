@@ -1,0 +1,48 @@
+ANÁLISE DA GLOSA3539
+
+DADO O SYNSET:
+
+S='Glosa3539'
+	    {
+	      aborrecer-se: Não lhe peço que vá jantar, não ouso tanto, seria convidá-lo a [aborrecer-se. / Flora não [se aborreceu na ilha. ,
+	      amolar-se: Ninguém [me amola, porque se não toco do meu jeito, vou embora.,
+	      anojar-se: Certas pessoas tem o dom de I]me anojar! ,
+	      chatear-se: O programa começa a [lhe chatear e você acaba se irritando./ A fama está [me chateando.,
+	      enfadar-se: Com pouco [se enfadaria, e, se não pudesse vir logo para casa, ficaria adoentada o resto do tempo.,
+	      enfarar-se: Ficaram efetivamente em paz, mas nem por isso o bacharel deixou de I]enfarar-se ao cabo de dois anos.,
+	      enfastiar-se: Se não houvesse penas e trabalhos, acabaria o homem por I]enfastiar-se. ,
+	      enjoar-se: É um CD de que você não conseguirá I]enjoar-se. / Matriculado na escola de medicina logo no primeiro ano I]enjoou-se daquela disciplina.,
+	      enojar-se: Giovanni pareceu I]enojar-se e nadou para longe, distanciando-se do lugar. ,
+	      entediar-se: Um casal [se entedia depois de quatro anos de casados. ,
+	      maçar-se: Achou que não valia a pena I]maçar-se e deixou-se adormecer à sombra da bananeira.,
+	      morrinhar: Nós vamos M]morrinhar aqui?,
+	      nausear-se: Sua própria infelicidade I]nauseava-lhe.,
+	      saturar-se: O carnaval só começa amanhã, mas já I]me saturou.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3539' = “ficar cansado de algo ou de alguém”
+	     {aborrecer-se: I]Aborreceu-se tanto pela demora, que resolveu dar a sugestão de plantar uma árvore, em vez da pedra. / Flora não [se aborreceu na ilha. ,
+	      amolar-se: Eu não tinha sono, mas ele, coitado, com certeza engolia bocejos, I]amolava-se.,
+	      chatear-se: Foi isto que passou pela cabeça de Alice, enquanto, sentada junto à irmã, I]chateava-se com a falta do que fazer.,
+	      enfadar-se: Com pouco [se enfadaria, e, se não pudesse vir logo para casa, ficaria adoentada o resto do tempo.,
+	      enfarar-se: Ficaram efetivamente em paz, mas nem por isso o bacharel deixou de I]enfarar-se ao cabo de dois anos.,
+	      enfastiar-se: Abriu o jornal e, numa olhada ligeira, I]enfastiou-se com o mais do mesmo. ,
+	      enjoar-se: I]Enjoou-se de tudo: vendeu o piano, pintou as paredes de vermelho e quebrou as janelas. / Matriculado na escola de medicina logo no primeiro ano I]enjoou-se daquela disciplina.,
+	      enojar-se: Fatigado, I]enojava-se da existência
+	      entediar-se: Um casal [se entedia depois de quatro anos de casados. ,
+	      maçar-se: Achou que não valia a pena I]maçar-se e deixou-se adormecer à sombra da bananeira.,
+	      morrinhar: Nós vamos M]morrinhar aqui?,
+	      nausear-se: Sua própria infelicidade I]nauseava-lhe.,
+	      saturar-se: O carnaval só começa amanhã, mas já I]me saturou.,}
+
+Chave: ENTEDIAR-SE	<verb.body>
+ILI: 00073901
+
+Sense 2
+{00073901} <verb.body> tire, pall, weary1, fatigue1, jade -- (get tired of something or somebody)
+       => {00089731} <verb.body> devolve, deteriorate, drop1, degenerate -- (grow worse; "Her condition deteriorated"; "Conditions in the slums degenerated"; "The discussion devolved into a shouting match")
+           => {00196646} <verb.change> worsen, decline1 -- (grow worse; "Conditions in the slum worsened")
+               => {00140715} <verb.change> change state, turn4 -- (undergo a transformation or a change of position or action; "We turned from Socialism to Capitalism"; "The people turned against the President when he stole the election")
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

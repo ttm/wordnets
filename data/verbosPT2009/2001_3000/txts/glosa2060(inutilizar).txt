@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA2060
+
+DADO O SYNSET:
+	
+S='Glosa2060'
+    	{baldar: Não cabe ao Estado, pelos seus agentes, I]baldar as regras éticas de conduta na repressão às infrações penais, a pretexto de conferir maior funcionalidade ao sistema de controle social.,
+      	 esterilecer: x,
+      	 esterilizar: Concluiu que o casamento I]esterilizara uma inspiração que só tinha ambiente na liberdade do celibato.,
+      	 inutilizar: A menor violência contra a porta despertaria a atenção de D. Antônio de Mariz e I]inutilizaria todo o seu projeto.,}
+  
+A='Glosa3214'
+    	{fertilizar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2060' = “tornar (algo) incapaz de desempenhar uma certa ação”
+    	{baldar: Não cabe ao Estado, pelos seus agentes, I]baldar as regras éticas de conduta na repressão às infrações penais, a pretexto de conferir maior funcionalidade ao sistema de controle social.,
+      	 esterilizar: Concluiu que o casamento I]esterilizara uma inspiração que só tinha ambiente na liberdade do celibato.,
+      	 inutilizar: A menor violência contra a porta despertaria a atenção de D. Antônio de Mariz e I]inutilizaria todo o seu projeto.}
+  
+A='Glosa3214'
+    	{fertilizar}
+Chave: INUTILIZAR <verb.change>
+ILI: 00498510
+
+Sense 1
+{00498510} <verb.change> disable, disenable, incapacitate -- (make unable to perform a certain action; "disable this command on your computer")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

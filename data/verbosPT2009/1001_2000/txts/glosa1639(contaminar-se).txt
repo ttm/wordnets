@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA1639
+
+DADO O SYNSET:
+
+S='Glosa1639'
+{contaminar-se: Outros perderão a vida de forma lenta, agonizante, após [contaminar-se com o terrível vírus HIV, que provoca a Aids .,
+ eivar-se: x,
+ infectar-se: Os bovinos também podem I]infectar-se, ainda que raramente, por Brucella suis, quando compartilham pastagens ou instalações com suínos infectados.,
+ infetar-se: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1639' = “adquirir uma doença ou microorganismo”
+{contaminar-se: Antes dos novos exames, as mulheres interrompiam a gestação quando descobriam que haviam se [contaminado com o protozoário.,
+ infectar-se: O Um cientista da Universidade Yale (EUA) se [infectou com um vírus raro brasileiro, mas passa bem.,}
+Chave: CONTAMINAR-SE <verb.body>
+ILI: 00086241
+
+Sense 2
+{00086241} <verb.body> infect, taint -- (contaminate with a disease or microorganism)
+       => {00479356} <verb.change> pollute, foul3, contaminate -- (make impure; "The industrial wastes polluted the lake")
+           => {01491650} <verb.contact> dirty, soil, begrime, grime, colly, bemire -- (make soiled, filthy, or dirty; "don't soil your clothes when you play outside!")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA1645
+
+DADO O SYNSET:
+
+S='Glosa1645'
+{amarelecer: A alegria ainda morou na cabana, todo o tempo que as espigas de milho levaram a [amarelecer.,
+ emarelecer: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1645' = “ficar amarelo”
+{amarelecer: A toalha da mesa de jantar I]amareleceu.,
+ amarelar: Meus dentes I]amarelaram por conta dos cigarros.,}
+Chave: AMARELECER <verb.change>
+ILI: 00280796
+
+Sense 1
+{00280796} <verb.change> yellow -- (turn yellow; "The pages of the book began to yellow")
+       => {00272185} <verb.change> discolor, discolour, colour, color1 -- (change color, often in an undesired manner; "The shirts discolored")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

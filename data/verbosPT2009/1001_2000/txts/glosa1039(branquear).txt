@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA1039
+
+DADO O SYNSET:
+
+S='Glosa1039'
+{abrancar: x,
+ alvear: x,
+ alvejar1: Para I]alvejar as roupas, as mulheres colocavam cinzas em uma bacia e mexiam até  a água sanitária ser diluída.,
+ alvescer: x,
+ alvorejar: H]Alvorejou o linho.,
+ branquear: As meias e as ligas da senhora [branqueavam e enroscavam-se diante de mim, e andavam, caíam, erguiam-se e iam-se embora.,
+ branquejar: Pai João é um símbolo, um negro velho dos engenhos, muito velho, a avaliar pelo cabelo pixaim que começou  I]branquejar.,
+ caiar: A cal usada para I]caiar o muro foi insuficiente.,
+ calear: x,
+ curar: No pátio, H]curaram os lençóis.,
+	 dealbar: H]Dealbou o mármore.,
+	 dealvar: x,
+	 embrancar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1039' = “tornar branco”
+{alvejar1: Como sempre fazia, a amada cuidou do banho do viajante, lavou e I]alvejou sua roupa, costurando depois, onde era preciso.,
+ branquear: Confuso porque escapam detalhes, confuso porque a neve do tempo I]branqueou meus cabelos.,
+ branquejar: A Bélgica, que alegremente I]branquejou seus crimes de guerra no Congo, auto-erige-se agora como juiz supremo.,
+ caiar: Mas a que vence todas em brancura absoluta e sem mescla é Ostuni, que até mesmo os degraus das escadarias numerosas I]caiou de branco imaculado.,}
+Chave: BRANQUEAR <verb.change> 
+ILI: 00271295
+
+Sense 1
+{00271295} <verb.change> whiten, white -- (turn white; "This detergent will whiten your laundry")
+       => {00272185} <verb.change> discolor, discolour, colour, color1 -- (change color, often in an undesired manner; "The shirts discolored")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

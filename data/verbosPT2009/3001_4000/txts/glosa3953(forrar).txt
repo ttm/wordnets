@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA3953
+
+DADO O SYNSET:
+	
+S='Glosa3953'
+    	{aforrar2: x,
+      	 entapizar: x,
+      	 forrar1: Nos estupros, Nascimento usaria cobertores para [forrar o chão, bolsas de frutas, preservativos e vaselina .,
+      	 precintar: x,
+      	 revestir: Ela diz que a Contrin comprou na rede, formada por seis lojas, o revestimento padrão jatobá para [revestir o chão de 22 apartamentos de um prédio na Saúde (zona sul) .,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3953' = “provir (algo) com um revestimento ou fazer com que fique forrado”
+    	{forrar1: Nos estupros, Nascimento usaria cobertores para [forrar o chão, bolsas de frutas, preservativos e vaselina.,
+      	 revestir: Ela diz que a Contrin comprou na rede, formada por seis lojas, o revestimento padrão jatobá para [revestir o chão de 22 apartamentos de um prédio na Saúde (zona sul).}
+Chave: FORRAR <verb.contact>
+ILI: 01293336
+
+Sense 1
+{01293336} <verb.contact> cover -- (provide with a covering or cause to be covered; "cover her face with a handkerchief"; "cover the child with a blanket"; "cover the grave with flowers")

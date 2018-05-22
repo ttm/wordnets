@@ -1,0 +1,40 @@
+ANÁLISE DA GLOSA2341
+
+DADO O SYNSET:
+
+S='Glosa2341'
+	    {estar: Turner [está com 74 anos de idade.,
+	      existir: A biosfera é a parte da Terra onde [existe vida ou seja, o conjunto de lugares onde pelo menos alguns seres vivem permanentemente.,
+	      haver: Deve [haver outros técnicos igualmente éticos.,
+	      ser: Se o sentido de I]ser for desprezível, se à sua existência pouco ou nenhum valor é dado.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2341' = “Ter uma existência, ser existente.”
+	    {estar: Voltou-se para ver se alguém [estava ali que reparasse no que ia fazer.,
+	      existir: Ele certamente [existiu no Ocidente de 800 A.C até 1600 D.C.,
+	      haver: Sim, [houve uma pessoa, mais moça que eles que os agrilhou, à força de costume ou de natureza.,
+	      ser: Se o sentido de I]ser for desprezível, se à sua existência pouco ou nenhum valor é dado.,}
+
+Chave: EXISTIR <verb.stative>
+ILI: 02526084
+
+Sense 1
+{02526084} <verb.stative> exist, be -- (have an existence, be extant; "Is there a God?")
+       => {00331936} <verb.change> come2 -- (be found or available; "These shoes come in three colors; The furniture comes unassembled")
+       => {02526395} <verb.stative> preexist -- (exist beforehand or prior to a certain point in time; "Did this condition pre-exist?")
+       => {02526564} <verb.stative> kick around, knock about, kick about -- (be around; be alive or active; "Does the old man still kick around?")
+       => {02526736} <verb.stative> coexist -- (exist together)
+           => {02526859} <verb.stative> coexist1 -- (coexist peacefully, as of nations)
+           => {02581280} <verb.stative> coincide, co-occur, cooccur -- (go with, fall together)
+               => {02581451} <verb.stative> overlap3 -- (coincide partially or wholly; "Our vacations overlap")
+                   => {02638379} <verb.stative> share -- (have in common; "Our children share a love of music"; "The two countries share a long border")
+                       => {02656569} <verb.stative> partake -- (have some of the qualities or attributes of something)
+                       => {02670237} <verb.stative> osculate -- (have at least three points in common with; "one curve osculates the other"; "these two surfaces osculate")
+       => {02569892} <verb.stative> prevail1, hold2, obtain -- (be valid, applicable, or true; "This theory still holds")
+       => {02574255} <verb.stative> dwell1, consist, lie1, belong, lie in -- (originate (in); "The problems dwell in the social injustices in this country")
+           => {02574483} <verb.stative> inhere -- (be inherent in something)
+           => {02574589} <verb.stative> pertain, appertain -- (be a part or attribute of)
+       => {02615921} <verb.stative> endanger, jeopardize, jeopardise, menace, threaten, imperil, peril -- (pose a threat to; present a danger to; "The pollution is endangering the crops")
+       => {02663478} <verb.stative> flow -- (be abundantly present; "The champagne flowed at the wedding")
+       => {02673824} <verb.stative> distribute1 -- (be distributed or spread, as in statistical analyses; "Values distribute") 

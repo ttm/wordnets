@@ -1,0 +1,49 @@
+ANÁLISE DA GLOSA3352
+
+DADO O SYNSET:
+
+S='Glosa3352'
+	    {
+	      ajarretar: x,
+	      aleijar: A talidomida, testada por mais de três anos, I]aleijou milhares.,
+	      amputar: O jornal americano Daily News noticiou ontem que a cantora de jazz Ella Fitzgerald, 75, [amputou as pernas no final do ano passado. ,
+	      cortar: Ela [cortou, com uma lâmina de barbear, o testículo esquerdo de Sebastião e o jogou pela janela da casa.,
+	      decepar: Lorena Bobbitt [decepou o pênis do seu marido com uma faca de cozinha porque, em suas palavras, ela havia sido estuprada e sofrido abusos. ,
+	      degolar: Bom, resumindo, o cara I]degolou um dedo da mão ao colocar a moto no reboque e nem correu.,
+	      desmembrar: Evitava H]desmembrar cobaias.,
+	      destroncar: x,
+	      detruncar: x,
+	      estaquear2: x,
+	      estroncar: x,
+	      estropiar: E que perigo, como mostrou a explosão na formatura de uma turma de capachos em Ramadi, que matou sete e I]estropiou 17.,
+	      fanar: H] Fanou o rabo de um animal.,
+	      jarretar: O cirurgião M]jarretou-lhe um braço.,
+	      mancar: x,
+	      mutilar: Ela esperou o marido adormecer e o [mutilou.,
+	      rejeitar2: x,
+	      tronchar: x,
+	      truncar: Acudiram ao mesmo portãozinho aqueles tigres ferozes e começaram com espadas, facões e alfanjes a derrubar cabeças, I]truncar braços, descarnar pernas e atravessar corpos.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3352' = “decepar”
+	     {aleijar: A talidomida, testada por mais de três anos, I]aleijou milhares.,
+	      amputar: O jornal americano Daily News noticiou ontem que a cantora de jazz Ella Fitzgerald, 75, [amputou as pernas no final do ano passado. ,
+	      cortar: Ela [cortou, com uma lâmina de barbear, o testículo esquerdo de Sebastião e o jogou pela janela da casa.,
+	      decepar: Lorena Bobbitt [decepou o pênis do seu marido com uma faca de cozinha porque, em suas palavras, ela havia sido estuprada e sofrido abusos. ,
+	      degolar: Bom, resumindo, o cara I]degolou um dedo da mão ao colocar a moto no reboque e nem correu.,
+	      desmembrar: Para melhor conhecer, a ciência fragmentou, I]desmembrou o ser humano em partes, que passaram a reger o ser total do ponto de vista de cada especialista.,
+	      estropiar: A bala I]estropiou o braço do corneta, que clarinetava o alerta.,
+	      fanar: H] Fanou o rabo de um animal.,
+	      jarretar: O cirurgião M]jarretou-lhe um braço.,
+	      mutilar: Ela esperou o marido adormecer e o [mutilou.,
+	      truncar: Acudiram ao mesmo portãozinho aqueles tigres ferozes e começaram com espadas, facões e alfanjes a derrubar cabeças, I]truncar braços, descarnar pernas e atravessar corpos.,}
+Chave: MUTILAR <verb.contact>
+ILI: 01517637
+
+Sense 2
+{01517637} <verb.contact> discerp1, sever, lop1 -- (cut off from a whole; "His head was severed from his body"; "The soul discerped from the body")
+       => {01509511} <verb.contact> cut -- (separate with or as if with an instrument; "Cut the rope")
+           => {01513899} <verb.contact> separate1, disunite, divide1, part1 -- (force, take, or pull apart; "He separated the fighting children"; "Moses parted the Red Sea")
+               => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

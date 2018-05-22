@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA3749
+
+DADO O SYNSET:
+
+S='Glosa3749'
+{dependurar-se: O candidato deverá I]dependurar-se na barra, com pegada livre, mantendo os braços estendidos.,
+	 pendurar-se: A existência das propriedades magnéticas de uma substância pode ser demonstrada [pendurando-se uma pequena amostra de forma esférica em uma linha fina.,
+	 suspender-se: Coragem é o que lhe faltava, por duas ou três vezes o aventureiro teve um ímpeto de [suspender-se ao frechal, e deixar a tábua rolar no abismo, mas não passou de um desejo.}
+	
+A ANÁLISE RESULTA EM:
+
+S='Glosa3749' = “pender ou pendurar livremente”
+{dependurar-se: O candidato deverá I]dependurar-se na barra, com pegada livre, mantendo os braços estendidos.,
+	 pendurar-se: A existência das propriedades magnéticas de uma substância pode ser demonstrada [pendurando-se uma pequena amostra de forma esférica em uma linha fina.,
+	 suspender-se: Coragem é o que lhe faltava, por duas ou três vezes o aventureiro teve um ímpeto de [suspender-se ao frechal, e deixar a tábua rolar no abismo, mas não passou de um desejo.}
+Chave: PENDURAR-SE <verb.contact>
+ILI: 01440285
+
+Sense 2 
+{01440285} <verb.contact> dangle -- (cause to dangle or hang freely; "He dangled the ornaments from the Christmas tree")
+       => {01439172} <verb.contact> suspend -- (hang freely; "The secret police suspended their victims from the ceiling and beat them")
+           => {01439378} <verb.contact> hang, hang up1 -- (cause to be hanging or suspended; "Hang that picture on the wall")
+               => {01300906} <verb.contact> fasten1, fix, secure1 -- (cause to be firmly attached; "fasten the lock onto the door"; "she fixed her gaze on the man")
+                   => {01257892} <verb.contact> attach1 -- (cause to be attached)
+                       => {01314764} <verb.contact> connect, link, tie1, link up -- (connect, fasten, or put together two or more pieces; "Can you connect the two loudspeakers?"; "Tie the ropes together"; "Link arms")

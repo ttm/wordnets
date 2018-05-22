@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA2456
+
+DADO O SYNSET:
+
+S='Glosa2456'
+	    {consolidar: O concreto já H]consolidou.,
+	      endurar: O motor I]endura em amianto.,
+	      endurecer: Posteriormente, esses sais [endurecem e formam a casca do ovo.,
+	      endurentar: x,
+	      solidar: O frio intenso H]solidou a água.,
+	      solidificar: O aço líquido é derramado em moldes, nos quais fica até [solidificar, formando os lingotes, cujas massas variam de 50kg a 30 toneladas.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2456' = “Tornar sólido ou mais sólido; fazer solidificar.”
+	    {consolidar: O concreto já H]consolidou.,
+	      endurecer: Posteriormente, esses sais [endurecem e formam a casca do ovo.,
+	      solidar: O frio intenso H]solidou a água.,
+	      solidificar: Voltando ao estado líquido poucos minutos depois de ser retirado do frio que o I]solidificou.,}
+
+Chave: ENDURECER <verb.change>
+ILI: 00432721
+
+Sense 1
+{00432721} <verb.change> solidify1 -- (make solid or more solid; cause to solidify)
+       => {00135037} <verb.change> change integrity -- (change in physical make-up)
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night") 

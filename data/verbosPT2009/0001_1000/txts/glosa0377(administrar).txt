@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0377
+
+DADO O SYNSET:
+
+S='Glosa377'
+{administrar: Eu até o defendi porque sei que não é fácil [administrar uma cidade.,
+governar: Charles de Gaulle teria dito que é impossível [governar um país com mais de mil variedades de queijo.,
+reger: A entidade se baseou em um estudo feito pela Fifa, (entidade que [rege o futebol mundial , mostrando que cada paralisação durante um jogo leva em média sete segundos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa377' = “trabalhar  em uma capacidade administrative; gerir; supervisionar”
+{administrar: Eu até o defendi porque sei que não é fácil [administrar uma cidade.,
+governar: Charles de Gaulle teria dito que é impossível [governar um país com mais de mil variedades de queijo.,
+reger: A entidade se baseou em um estudo feito pela Fifa, (entidade que [rege o futebol mundial , mostrando que cada paralisação durante um jogo leva em média sete segundos.,}
+Chave: ADMINISTRAR <verb.social>
+ILI: 02358802
+
+Sense 1
+{02358802} <verb.social> administer, administrate -- (work in an administrative capacity; supervise; "administer a program")
+       => {02363018} <verb.social> manage, deal13, care11, handle -- (be in charge of, act on, or dispose of; "I can deal with this crew of workers"; "This blender can't handle nuts"; "She managed her parents' affairs after they got too old")
+           => {02367626} <verb.social> control, command -- (exercise authoritative control or power over; "control the budget"; "Command the military forces")

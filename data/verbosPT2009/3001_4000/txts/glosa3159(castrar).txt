@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA3159
+
+DADO O SYNSET:
+
+S='Glosa3159'
+	    {
+	      capar: Tinha que I]capar o garoto!,
+	      castrar: Ao [castrar o marido, a mulher de Zhang Jingui seguiu os conselhos de um adivinho.,
+	      desvirilizar: x,
+	      emascular: Principal acusada de I]emascular e matar meninos no Pará é absolvida.,
+	      esterelizar: DEVIANT,
+	      evirar: x,
+	      infecundar: x,
+	      mutilar: Segundo a polícia, Valdelice utilizou uma faca de cozinha «enferrujada» para [mutilar o marido enquanto ele dormia. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3159' = “remover os testículos”
+	     {capar: Tinha que I]capar o garoto!,
+	      castrar: Saturno I]castrou seu pai – Urano - para poder reinar entre os Titãs.,
+	      emascular: A Polícia Federal do Pará tem um depoimento do mecânico Francisco das Chagas em que ele confessa que I]emasculou todas as 14 crianças que matou em Altamira.,
+	      mutilar: Ela esperou o marido adormecer e o [mutilou. ,}
+Chave: CASTRAR <verb.body>
+ILI: 00058807
+
+Sense 3
+{00058807} <verb.body> emasculate, castrate, demasculinize, demasculinise -- (remove the testicles of a male animal)
+       => {00059569} <verb.body> sterilize, sterilise, desex, unsex, desexualize, desexualise, fix -- (make infertile; "in some countries, people with genetically transmissible disbilites are sterilized")
+           => {00081427} <verb.body> operate on, operate -- (perform surgery on; "The doctors operated ont he patient but failed to save his life")
+               => {00076458} <verb.body> treat, care for -- (provide treatment for; "The doctor treated my broken leg"; "The nurses cared for the bomb victims"; "The patient must be treated right away or she will die"; "Treat the infection with antibiotics")

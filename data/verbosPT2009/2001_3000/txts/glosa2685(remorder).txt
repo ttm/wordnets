@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA2685
+
+DADO O SYNSET:
+
+  S='Glosa2685'
+	    {esmordaçar: x,
+	      remorder: Os seguidores da besta I]remordiam a língua, por causa da dor que sentiam.,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2685' = “Apertar, cortar, ou rasgar com ou como se fosse com os dentes ou boca.”
+	    {remorder: Os seguidores da besta I]remordiam a língua, por causa da dor que sentiam.,}
+
+Chave: REMORDER <verb.contact>
+ILI: EQ_HAS_HYPERONYM - 01404753
+
+Sense 1
+{01404753} <verb.contact> bite, seize with teeth -- (to grip, cut off, or tear with or as if with the teeth or jaws; "Gunny invariably tried to bite her")
+       => {01186979} <verb.contact> grip -- (hold fast or firmly; "He gripped the steering wheel")
+           => {01175818} <verb.contact> seize, prehend, clutch -- (take hold of; grab; "The salesclerk quickly seized the money on the counter"; "She clutched her purse"; "The mother seized her child by the arm"; "Birds of prey often seize small mammals")
+
+               => {01177510} <verb.contact> take, get hold of -- (get into one's hands, take physically; "Take a cookie!"; "Can you take this bag, please")
+          Also See-> {01404577} <verb.contact> bite off#1 

@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA1066
+
+DADO O SYNSET:
+
+S='Glosa1066'
+{delamber-se: Boi sabe a cerca que fura. Boi solto I]delambe-se todo.,
+ lamber-se: O gato I]lambe-se com frequência, e tudo o que você utilizar em sua pelagem, será absorvido pelo organismo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1066' = “passar-se a língua”
+{delamber-se: Boi solto I]delambe-se todo.,
+ lamber-se: O gato I]lambe-se com frequência, e tudo o que você utilizar em sua pelagem, será absorvido pelo organismo.,}
+Chave: LAMBER-SE <verb.contact> 
+ILI: 01391304
+
+Sense 2
+{01391304} <verb.contact> lick, lap -- (pass the tongue over; "the dog licked her hand")
+       => {01188723} <verb.contact> stroke, fondle -- (touch lightly and with affection, with brushing motions; "He stroked his long beard")
+           => {01188978} <verb.contact> caress -- (touch or stroke lightly in a loving or endearing manner; "He caressed her face"; "They caressed in the back seat of the taxi")
+               => {01169634} <verb.contact> touch -- (make physical contact with, come in contact with; "Touch the stone for good luck"; "She never touched her husband")

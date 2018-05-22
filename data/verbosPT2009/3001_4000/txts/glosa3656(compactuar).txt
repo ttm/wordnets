@@ -1,0 +1,43 @@
+ANÁLISE DA GLOSA3656
+
+DADO O SYNSET:
+
+S='Glosa3656'
+	    {
+	      ceder: Em toda negociação entre empresas, [ceder em alguns pontos em busca de acordo fez parte. ,
+	      compactuar: Não [compactuavam com a invasão da Espanha. ,
+	      comprazer: I]Comprazer a um pedido.,
+	      condescender: Seu maior pecado foi I]condescender com a exigência do povo.,
+	      contemporizar: Politicamente, JK conseguiu [contemporizar com os militares e assumiu o governo em estado de sítio e sob ameaça de golpe. ,
+	      pactuar: Documentos do Banco Central provam que ex-ministros [pactuaram com emissão de letras frias.,
+	      relaxar: Países do Golfo[relaxam com Israel.,
+	      releixar: x,
+	      temporizar: A]Temporizou habilmente com o opositor.  ,
+	      transigir: Ele afirmou que não há como [transigir com direitos e garantias do cidadão. ,
+	    }
+	  A='Glosa218'
+	    {
+	     intransigir: O desfecho de cada situação depende de vários fatores, entre os quais se destacam: os argumentos utilizados, a disposição das partes de ceder ou de I]intransigir e as experiências anteriores envolvendo esses ou outros personagens.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3656' = “consentir ou concordar com uma condição, ou concordar em fazer algo”
+	     {ceder: O presidente Itamar Franco [cedeu ontem aos limites impostos pelo ministro da Fazenda, Rubens Ricupero, para o reajuste dos servidores.,
+	      compactuar: O senador Renan Calheiros em momento algum I]compactuou com qualquer ilegalidade. ,
+	      comprazer: I]Comprazer a um pedido.,
+	      condescender: I]Condescendeu com o amigo, que, mais tarde, levou-o a sua casa, puxado por outro veículo, devido avarias mecânicas.,
+	      contemporizar: O Brasil I]contemporizou, por necessidade, com essa idéia, sem jamais aceitá-la. ,
+	      pactuar: Documentos do Banco Central provam que ex-ministros [pactuaram com emissão de letras frias.,
+	      relaxar: Países do Golfo [relaxam com Israel.,
+	      transigir: Rigatto nunca transigiu com essas atitudes. ,}
+	  A='Glosa218'
+	    {intransigir: O desfecho de cada situação depende de vários fatores, entre os quais se destacam: os argumentos utilizados, a disposição das partes de ceder ou de I]intransigir e as experiências anteriores envolvendo esses ou outros personagens., }
+Chave: COMPACTUAR <verb.communication>
+ILI: 00739104
+
+Sense 2
+{00739104} <verb.communication> agree1 -- (consent or assent to a condition, or agree to do something; "She agreed to all my conditions"; "He agreed to leave her alone")
+       => {00771887} <verb.communication> accept, consent, go for -- (give an affirmative reply to; respond favorably to; "I cannot accept your invitation"; "I go for this resolution")
+           => {00693825} <verb.cognition> react, respond -- (show a response or a reaction to something)
+               => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

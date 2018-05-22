@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA2756
+
+DADO O SYNSET:
+
+  S='Glosa2756'
+	    {reconstruir: O governador do Amazonas, Gilberto Mestrinho, disse, após a queda da cobertura, que iria [reconstruir a estrutura.,
+	      reedificar: Cuidem também de reparar e I]reedificar as igrejas paroquiais assim arruinadas, ainda que sejam de direito de patronato, servindo-se de todos os frutos e rendas que de qualquer modo pertençam às mesmas igrejas, e se estes não forem suficientes, completem-no, com todos os recursos oportunos a todos os patronos e demais que participam de alguns frutos provenientes das ditas igrejas, ou em ausência destes, peçam aos paroquianos, sem que sirva de obstáculo, apelação, isenção nem contradição alguma. ,
+	      reerguer: A julgar pelas obras que [reerguem a catedral de Nossa Senhora, de 95 metros de altura, não se pode duvidar da pertinácia dos alemães de Dresden.,
+	      reerigir: x,
+	      refazer: Está tudo podre, pode desabar a qualquer hora, e I]refazer o prédio custaria mais que construir um novo.,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2756' = “Construir novamente”
+	    {reconstruir: Um grupo retornou em 538 aC e I]reconstruiu o templo.,
+	      reedificar: O santo pontífice Pascoal I I]reedificou a basílica de Santa Cecília.,
+	      reerguer: A BR Distribuidora, da Petrobras, I]reergueu o Teatro Rival, que passou a se chamar Rival BR.,
+	      refazer: A empresa vencedora é a Total Engenharia Ltda., a mesma que I]refez o prédio do antigo Hotel Pilão que pegou fogo na Praça Tiradentes.,}
+
+Chave: RECONSTRUIR <verb.creation>
+ILI: 01608764
+
+Sense 2
+{01608764} <verb.creation> rebuild, reconstruct -- (build again; "The house was rebuild after it was hit by a bomb")
+       => {01607634} <verb.creation> construct, build, make13 -- (make by combining materials and parts; "this little pig made his house out of straw"; "Some eccentric constructed an electric brassiere warmer")
+           => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor") 

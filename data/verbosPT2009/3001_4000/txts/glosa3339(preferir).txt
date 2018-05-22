@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA3339
+
+DADO O SYNSET:
+
+S='Glosa3339'
+	{anteferir: x,
+	 antepor: Pregava ingenuamente aquela paz impossível e I]antepunha aos exércitos os poetas.,
+	 maisquerer: M]Maisqueria o filho ao marido.,
+	 preferir: Acho que [preferia Lênin a Stalin.,
+	 prepor: M]Prepor a comodidade à etiqueta.,
+	 sobrepor: I]Sobrepomos as coisas públicas e coletivas sobre as coisas privadas, a solidariedade generosa contra o individualismo mesquinho.,
+	 superpor: No estado de ignorância I]superpomos nossa ignorância sobre o sábio e o confundimos com o executor.}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3339' = “gostar mais; estimar em alto grau”
+	{antepor: Pregava ingenuamente aquela paz impossível e I]antepunha aos exércitos os poetas.,
+	 maisquerer: M]Maisqueria o filho ao marido.,
+	 preferir: Acho que [preferia Lênin a Stalin.,
+	 prepor: M]Prepor a comodidade à etiqueta.,
+	 sobrepor: I]Sobrepomos as coisas públicas e coletivas sobre as coisas privadas, a solidariedade generosa contra o individualismo mesquinho.,
+	 superpor: No estado de ignorância I]superpomos nossa ignorância sobre o sábio e o confundimos com o executor.}
+Chave: PREFERIR <verb.emotion>
+ILI: 01773362
+
+Sense 1
+{01773362} <verb.emotion> prefer -- (like better; value more highly; "Some people prefer camping to staying in hotels"; "We prefer sleeping outside")
+       => {01725676} <verb.emotion> like5 -- (find enjoyable or agreeable; "I like jogging"; "She likes to read Russian novels")

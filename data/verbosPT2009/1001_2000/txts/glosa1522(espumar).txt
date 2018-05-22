@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA1522
+
+DADO O SYNSET:
+
+S='Glosa1522'
+{despumar: Óleos de silicone servem para H]despumar líquidos. ,
+ escumar: O modo certo de prepará-las é cozinhar em fogo baixo por 15 minutos, [escumando de vez em quando.,
+ espumar: I]Espumar é retirar com escumadeira ou colher a espuma que vem ao de cima durante a cozedura. ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1522' = “cobrir [um líquido] com uma camada”
+{escumar: O modo certo de prepará-las é cozinhar em fogo baixo por 15 minutos, [escumando de vez em quando.,
+ espumar: Leve de novo ao fogo. I]Espume e tome o ponto.,}
+Chave: ESPUMAR <verb.contact>
+ILI: 01223192
+
+Sense 5
+{01223192} <verb.contact> skim3 -- (coat (a liquid) with a layer)
+       => {01226248} <verb.contact> coat, surface -- (put a coat on; cover the surface of; furnish with a surface; "coat the cake with chocolate")
+           => {01293336} <verb.contact> cover -- (provide with a covering or cause to be covered; "cover her face with a handkerchief"; "cover the child with a blanket"; "cover the grave with flowers")

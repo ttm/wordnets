@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0154
+
+DADO O SYNSET:
+
+S='Glosa154'
+{calhar: Achamos, no ferro velho, uma base de chapa dobrada que I]calhou perfeitamente na montagem.,
+encaixar: A mangueira [encaixava, mas o combustível não entrava no tanque.,
+encaixar-se: Exposta às intempéries durante aqueles anos todos, a pedra não revelava nenhum defeito ou rachadura e, quando colocada no devido ângulo, I]encaixou-se perfeitamente. ,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa154' = “ter o tamanho ou forma correta, adequar(-se) corretamente ou como desejado”
+{calhar: Achamos, no ferro velho, uma base de chapa dobrada que I]calhou perfeitamente na montagem.,
+encaixar: A mangueira [encaixava, mas o combustível não entrava no tanque.,
+encaixar-se: Exposta às intempéries durante aqueles anos todos, a pedra não revelava nenhum defeito ou rachadura e, quando colocada no devido ângulo, I]encaixou-se perfeitamente. ,}
+
+Chave: ENCAIXAR(-SE)
+ILI: 02580603
+
+Sense 2
+{02580603} <verb.stative> fit2, go5 -- (be the right size or shape; fit correctly or as desired; "This piece won't fit into the puzzle")
+       => {02655662} <verb.stative> fit3 -- (conform to some shape or size; "How does this shirt fit?")
+           => {02526983} <verb.stative> be3 -- (have the quality of being; (copula, used with an adjective or a predicate noun); "John is rich"; "This is not a good answer")

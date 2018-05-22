@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA2494
+
+DADO O SYNSET:
+
+S='Glosa2494'
+	    {alçar: E, aí, entrou o problema da formação profissional, que nós, no começo, não quisemos colocar dentro das 150horas; porque, naquela época, era prioritário I]alçar o conhecimento dos trabalhadores.,
+	      celebrar: Por baixo da camuflagem tradicionalista surgem roqueiros que sacodem a cabeça e [celebram a modernidade. # Trechos de biografias inéditas [celebram Tom.,
+	      decantar1: O "Kama Sutra", obra máxima do culto ao beijo e ao sexo, há quase 2 mil anos I]decanta em verso e prosa suas proezas, conquistando, ao longo do tempo, os adeptos mais fervorosos.,
+	      exalçar: Forçoso é continuar, para que o idealismo floresça e as ilusões fecundem, a castigar os que se aviltam no 'far niente;' burguês e vicioso e a I]exalçar os que compreenderam e sublimaram as artes, no convívio da divina Preguiça.,
+	      exaltar: O treinador, que pode conquistar domingo seu primeiro título no Rio de Janeiro, a Taça Guanabara, não se cansou de exaltar a dedicação de seus comandados.,
+	      louvar: Embora repudie a herança do governo Collor, o documento Ordem na Casa elaborado para [louvar realizações do governo Itamar cita uma série de medidas econômicas cuja responsabilidade é daquela administração. # Compara tu a situação de Príamo com a minha; eu acabava de [louvar as virtudes do homem que recebera, defunto, aqueles olhos....,
+	      soar: Um belo poema M]soou a glória daqueles heróis.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2494' = “Elogiar, glorificar ou reverenciar.”
+	    {alçar: O estúdio que o I]alçou a glória decidiu puní-lo.,
+	      celebrar: Por baixo da camuflagem tradicionalista surgem roqueiros que sacodem a cabeça e [celebram a modernidade.,
+	      decantar1: O "Kama Sutra", obra máxima do culto ao beijo e ao sexo, há quase 2 mil anos I]decanta em verso e prosa suas proezas.,
+	      exalçar: Aludiu ao conforto de que a filha se rodeava na casa de saúde e I]exalçou a generosidade do senhor Torres.,
+	      exaltar: Ramon I]exaltou a estrutura do Atlético Paranaense.,
+	      louvar: O Senhor Coronel Fabriciano do Rego Barros, comandante do Regimento I]louvou-o pelo asseio, vontade, garbo e disciplina..,
+	      soar: Um belo poema M]soou a glória daqueles heróis.,}
+
+Chave: EXALTAR <verb.communication>
+ILI: 00832481
+
+Sense 1
+{00832481} <verb.communication> laud, extol, exalt, glorify, proclaim1 -- (praise, glorify, or honor; "extol the virtues of one's children"; "glorify one's spouse's cooking")
+       => {00828989} <verb.communication> praise -- (express approval of; "The parents praised their children for their academic performance")
+           => {00658664} <verb.cognition> measure1, evaluate, valuate, assess, appraise1, value -- (place a value on; judge the worth of something; "I will have the family jewels appraised by a professional")
+               => {00647983} <verb.cognition> judge -- (form an opinion of or pass judgment on; "I cannot judge some works of modern art")
+                   => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere") 

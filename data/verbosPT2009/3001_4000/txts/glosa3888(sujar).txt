@@ -1,0 +1,46 @@
+ANÁLISE DA GLOSA3888
+
+DADO O SYNSET:
+
+  S='Glosa3888'
+    	{chafurdar: E, se também perde com isso a sinceridade, não chega entretanto a ser cínico: se contenta em [chafurdar no curral da burocracia .,
+      	 conspurcar: Com tempo ruim, temperatura baixa e até com chuva, a cidade insiste em encantar olhares mais atentos e sensíveis com composições de beleza natural que violência alguma irá [conspurcar .,
+      	 corromper: Os hábitos desregrados H]corrompem os jovens.,
+      	 deturpar: E não queremos médicos preconceituosos, pois eles podem [deturpar a pesquisa.,
+      	 emborralhar: x,
+      	 enchafurdar: x,
+      	 enlamear: Joaquim Francisco nega as acusações e diz que não pretende polemizar com uma «pessoa que, desesperada, tenta [enlamear a vida de pessoas honestas» .,
+      	 enlodar: x,
+      	 enodoar: É profundamente lamentável que se use um veículo de comunicação do quilate do Jornal de Fato para I]enodoar a imagem da professora.,
+      	 enxovalhar: Enquanto o objetivo, explícito, é o de [enxovalhar a imagem dos profissionais servidores públicos, vamos continuar a amargar as filas do INSS, da Polícia Federal, dos hospitais, das escolas de 1º e 2º graus, das universidades etc .,
+      	 inquinar: x,
+      	 macular: Esses irresponsáveis até tentaram [macular a moral do meu falecido avô para me atacar.,
+      	 manchar: O que é muito diferente de abrir o governo a um deslavado loteamento que foi capaz até mesmo de [manchar a biografia de Ulysses Guimarães .,
+      	 nodoar: x,
+      	 poluir: Após o anúncio da desistência, Jean-Marie Le Pen, líder de extrema-direita, disse que «a única coisa que os intelectuais fizeram foi [poluir a campanha» .,
+      	 profanar: O túmulo acaba de [profanar o berço do samba com música de péssima reputação .,
+      	 sujar: Se forem mexer vai [sujar tudo, inclusive a imagem da CUT .,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa3888' = “tornar sujo ou manchado, também usado metaforicamente”
+    	{chafurdar: O PT já I]chafurdou a vida de muito administrador público que colocou seu nome em placas de obras ou em veículos públicos.,
+      	 conspurcar: Em seu voto, o corregedor-geral eleitoral, Flaquer Scartezzini, disse que Stepanenko “extrapolou a esfera moral” e “I]conspurcou a imagem do governo da República” ao tentar ajudar FHC.,
+      	 corromper: É uma excrescência que diverte e, ao mesmo tempo, [corrompe a história.,
+      	 deturpar: A mão do homem I]deturpou a pureza do Evangelho primitivo, criando, também, uma estrutura teológica que jamais o Cristo praticou ou sugeriu.,
+      	 enlamear: A Operação Navalha trouxe à tona conexões criminosas em quatro ministérios, revelou laços em seis estados nordestinos, I]enlameou a biografia de quatro governadores e ex-governadores.,
+      	 enodoar: Essa negação ou a sua não-universalização é vergonha que, em nossos dias, corresponde à escravidão e I]enodoou o passado de muitas nações.,
+      	 enxovalhar: Meu sentimento é de muita indignação com o governo Lula, que I]enxovalhou a esquerda brasileira.,
+      	 macular: Pupetta dizia que o filme [maculava sua honra.,
+      	 manchar: Ao tomar partido por estes últimos, Itamar Franco [manchou a sua biografia.,
+      	 poluir: Para Le Pen, os estrangeiros que moram na França [poluem a cultura francesa e explicam boa parte das altas taxas de desemprego no país.,
+      	 profanar: Um jovem, imbecil, mas jovem, se vê dono da vitória e I]profana a imagem do adversário.,
+      	 sujar: Ele [sujou sua biografia num episódio golpista, mas era um homem honesto.}
+Chave: SUJAR <verb.contact>
+ILI: 01494912
+
+Sense 3
+{01494912} <verb.contact> tarnish, stain5, maculate, sully, defile -- (make dirty or spotty, as by exposure to air; also used metaphorically; "The silver was tarnished by the long exposure to the air"; "Her reputation was sullied after the affair with a married man")
+       => {01489655} <verb.contact> spot, fleck, blob, blot1 -- (make a spot or mark onto; "The wine spotted the tablecloth")
+           => {00345030} <verb.change> change surface -- (undergo or cause to undergo a change in the surface)
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

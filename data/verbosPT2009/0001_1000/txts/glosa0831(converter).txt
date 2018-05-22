@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0831
+
+DADO O SYNSET:
+
+S='Glosa831'
+{converter: Os vilões do pedaço são os modelos mecanicistas do processamento de informação, que tratam a mente como um dispositivo de capacidade fixa para [converter inputs discretos e sem sentido em percepções conscientes. # Precisamos considerar o trabalho de Imre Lakatos, que foi expressamente projetado para [converter o círculo vicioso num círculo virtuoso.,
+fazer: O restaurante esmerou-se em utilizar produtos especiais, de alta qualidade, trazendo-os de fora mesmo antes da atual febre de importações, o que colaborou para [fazer dele um dos lugares mais caros da cidade.,
+tornar: O Japão, apesar de sua pequena extensão territorial, possui mais de 116 milhões de habitantes, o que o [torna um dos países mais populosos do mundo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa831' = “mudar a natureza, propósito ou função de algo”
+{converter: Os vilões do pedaço são os modelos mecanicistas do processamento de informação, que tratam a mente como um dispositivo de capacidade fixa para [converter inputs discretos e sem sentido em percepções conscientes. # Precisamos considerar o trabalho de Imre Lakatos, que foi expressamente projetado para [converter o círculo vicioso num círculo virtuoso.,
+fazer: O restaurante esmerou-se em utilizar produtos especiais, de alta qualidade, trazendo-os de fora mesmo antes da atual febre de importações, o que colaborou para [fazer dele um dos lugares mais caros da cidade.,
+tornar: O Japão, apesar de sua pequena extensão territorial, possui mais de 116 milhões de habitantes, o que o [torna um dos países mais populosos do mundo.,}
+Chave: CONVERTER <verb.change>
+ILI: 00111347
+
+Sense 1
+{00111347} <verb.change> convert3 -- (change the nature, purpose, or function of something; "convert lead into gold"; "convert hotels into jails"; "convert slaves to laborers")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA2025
+
+DADO O SYNSET:
+	
+S='Glosa2025'
+    	{espanar: Sua vida tornou-se uma rotina. Ia para a loja, que aliás havia comprado do seu Isaac por uma bagatela, I]espanava o pó, sentava-se atrás do balcão e lia.,
+      	 espanejar: De manhã, ela mesma I]espanejava os livros do leve pó que a aragem soprava pela janela.,
+      	 espenejar: x,
+      	 espoar: H]Espoar os móveis.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2025' = “tirar o pó [de]”
+    	{espanar: Eliane passava dia e noite [espanando a casa.,
+      	 espanejar: De manhã, ela mesma I]espanejava os livros do leve pó que a aragem soprava pela janela.}
+Chave: ESPANAR <verb.contact>
+ILI: 01206656
+
+Sense 1
+{01206656} <verb.contact> dust -- (remove the dust from; "dust the cabinets")
+       => {01490246} <verb.contact> clean, make clean -- (make clean by removing dirt, filth, or unwanted substances from; "Clean the stove!"; "The dentist cleaned my teeth")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

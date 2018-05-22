@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA1270
+
+DADO O SYNSET:
+
+S='Glosa1270'
+{desdobar: H]Desdobou um novelo,
+ desembramar: x,
+ desenovelar: Essa proteína possui várias funções associadas à replicação,  como I]desenovelar o DNA molde.,
+ desenrolar: Um novo método de [desenrolar as fitas de DNA vai acelerar o mapeamento dos genes humanos,
+ desnovelar: x,}
+	  
+A='Glosa1817'
+{arrolar2, enovelar, enrolar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1270' = “fazer com que algo deixe de estar enrolado”
+{desenovelar: O modo como a uréia I]desenovela as proteínas não é completamente compreendido.,
+ desenrolar: Um novo método de [desenrolar as fitas de DNA vai acelerar o mapeamento dos genes humanos.,}
+A='Glosa1817'
+{arrolar2, enovelar, enrolar}
+Chave: DESENROLAR <verb.contact>
+ILI: 01481376
+
+Sense 1
+{01481376} <verb.contact> unwind6, wind off, unroll -- (reverse the winding or twisting of; "unwind a ball of yarn")
+       => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

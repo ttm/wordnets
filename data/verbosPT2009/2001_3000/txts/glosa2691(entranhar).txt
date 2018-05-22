@@ -1,0 +1,35 @@
+ANÁLISE DA GLOSA2691
+
+DADO O SYNSET:
+
+S='Glosa2691'
+	    {amergulhar: x,
+	      embrenhar: x,
+	      empegar: x,
+	      engolfar: Em seguida, as nuvens baixas terminam por I]engolfar todas as luzes.,
+	      enterrar: x,
+	      entranhar: Costumava I]entranhar pedaços de madeira, objetos de metal, borrachas, na cordas do piano.,
+	      mergulhar: Ainda ninguém o vira entrar, à tarde, num café; em compensação, muitos o tinham visto evitar, à pressa, as ruas mais freqüentadas e iluminadas, para I]mergulhar na sombra das longas alamedas, direitas e solitárias, dos arrabaldes distantes, afastando-se dos muros, toda vez que encontrava o círculo de luz que os faróis projetam sobre a calçada. ,
+	      remergulhar: Durante um momento Ega ficou olhando em redor, arrepiado; depois, sem coragem, I]remergulhou nos lençoes, gozando aquelle bocado de calor e de conchêgo antes d'ir affrontar fóra as amarguras do dia.,}
+
+	  A='Glosa1347'
+	    { desembrenhar: Ele tinha que I]desembrenhar o cavalo dos pântanos.,
+	     desentranhar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2691' = “Tornar o caminho mais profundo para o interior de ou através de.”
+	    {entranhar: Loredano que nessa mesma manhã saíra de casa tão cedo, apenas I]entranhou na mata, esperou.,
+	      mergulhar: Avançou até a porta que dava para o bosque, mandou abri-la e mergulhou na floresta.,
+	      remergulhar: I]Remergulhou na floresta, e toda a tarde, enquanto a luz se arrastou pelas frondes, arrancou ramos aos troncos, cautelosamente. ,}
+
+	  A='Glosa1347'
+	    {desembrenhar}
+
+Chave: ENTRANHAR <verb.motion>
+ILI: 01934981 
+
+Sense 5
+{01934981} <verb.motion> penetrate6 -- (make one's way deeper into ar through; "The hikers did not manage to penetrate the dense forest")
+       => {01934453} <verb.motion> advance, progress, pass on1, move on, march on, go on -- (move forward, also in the metaphorical sense; "Time marches on")
+           => {01782203} <verb.motion> travel, go, move3, locomote -- (change location; move, travel, or proceed; "How fast does your new car go?"; "We travelled from Rome to Naples by bus"; "The policemen went from door to door looking for the suspect"; "The soldiers moved towards the city in an attempt to take it before night fell") 

@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA1997
+
+DADO O SYNSET:
+
+S='Glosa1997'
+{esmorraçar: x,
+ esmorrar: x,
+ espevitar: Só quando o meu criado vinha I]espevitar as lâmpadas e tornar tudo claro e habitável é que ela vinha para junto de mim, e sentava-se sobre os quartos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1997' = “tornar mais claro ou brilhante”
+{espevitar: Só quando o meu criado vinha I]espevitar as lâmpadas e tornar tudo claro e habitável é que ela vinha para junto de mim, e sentava-se sobre os quartos.}
+Chave: ESPEVITAR <verb.change>
+ILI: 00282678
+
+Sense 1
+{00282678} <verb.change> light, illume, illumine, light up, illuminate3 -- (make lighter or brighter; "This lamp lightens the room a bit")
+       => {00272032} <verb.change> lighten2, lighten up1 -- (become lighter; "The room lightened up")
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

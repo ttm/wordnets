@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA1629
+
+DADO O SYNSET:
+
+S='Glosa1629'
+{contribuir: Com o apoio dos pais, que por vários meses I]contribuíram com as despesas do mês, Cristiano apostou na idéia de ter uma empresa de webdesigner. ,
+ cotizar-se: Motivados pelo apelo do amigo, Ruy reuniu um grupo de também amigos de Nidoval e, em comum acordo, I]cotizaram-se e adquiriram uma máquina de escrever.,
+ fintar-se1: x,
+ quotizar-se: Reuniram-se, I]quotizaram-se, e mandaram fazer a capela no centro do lugarejo.,
+ tributar-se: M]Tributaram-se os colegas para socorrer o doente.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1629' = “contribuir para alguma causa”
+{contribuir: Nos EUA, cada eleitor pode [contribuir com US$ 1.000 para campanhas eleitorais.,
+ cotizar-se: Os grevistas da Polícia Federal vão se [cotizar para pagar os custos do reparo de estragos que provocaram no prédio do Ministério da Administração.,
+ quotizar-se: A própria população I]quotizou-se para manter as despesas e foi fundado um novo serviço hospitalar.,}
+Chave: CONTRIBUIR <verb.possession>
+ILI: EQ_HAS_HYPERONYM - 02241832
+
+Sense 2
+{02241832} <verb.possession> contribute, give8, chip in, kick in -- (contribute to some cause; "I gave at the office")
+       => {02136207} <verb.possession> give -- (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care")
+           => {02156874} <verb.possession> transfer -- (cause to change ownership; "I transferred my stock holdings to my children")

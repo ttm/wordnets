@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0176
+
+DADO O SYNSET:
+
+S='Glosa176'
+{assistir: Hoje, o delegado Luís Buzzinaro espera todas as pessoas que [assistiram ao assalto para prestar depoimento.,
+examinar: Lançou ao redor um olhar espantado, I]examinou cautelosamente o fogo que ardia.,
+ver: Sargento da Aeronáutica chegou ao acampamento da Pacheco Fernandes uma hora depois do conflito e conta, pela primeira vez, tudo o que I]viu.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa176' = “observar com atenção”
+{assistir: Hoje, o delegado Luís Buzzinaro espera todas as pessoas que [assistiram ao assalto para prestar depoimento.,
+examinar: Lançou ao redor um olhar espantado, I]examinou cautelosamente o fogo que ardia.,
+ver: Sargento da Aeronáutica chegou ao acampamento da Pacheco Fernandes uma hora depois do conflito e conta, pela primeira vez, tudo o que I]viu.,}
+Chave: ASSISTIR <verb.perception>
+ILI: 02067006
+
+Sense 4
+{02067006} <verb.perception> watch2, look on -- (observe with attention; "They watched as the murderer was executed")

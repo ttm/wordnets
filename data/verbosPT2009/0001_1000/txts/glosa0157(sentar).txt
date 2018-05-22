@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0157
+
+DADO O SYNSET:
+
+S='Glosa157'
+{assentar: E saiu do confessionário, para [assentar a afilhada num dos longos bancos de madeira preta, que havia ali junto.,
+sentar: Pois não diga, acudiu D. Fernanda, pegando-lhe nos pulsos e fazendo-a [sentar nos seus joelhos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa157' = “tomar assento”
+{assentar: E saiu do confessionário, para [assentar a afilhada num dos longos bancos de madeira preta, que havia ali junto.,
+sentar: Pois não diga, acudiu D. Fernanda, pegando-lhe nos pulsos e fazendo-a [sentar nos seus joelhos.,}
+Chave: SENTAR
+ILI: 01926967
+
+Sense 3
+{01926967} <verb.motion> sit down, sit -- (take a seat)
+       => {01925836} <verb.motion> change posture -- (undergo a change in bodily posture)
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA3941
+
+DADO O SYNSET:
+	
+S='Glosa3941'
+{inçar: Os borrachudos M]inçaram a praia.,
+ infestar: A larva que [infestou os laranjais dos EUA deve causar poucas perdas, sem afetar os preços em Nova York.,
+ praguejar: A tiririca M]praguejou a nova plantação.,}
+
+A='Glosa1436'
+{desinçar, desinfestar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3941' = “invadir em grandes números”
+{inçar: Dos sertões do Parnaíba e São Francisco e das ribeiras concabeçantes partiu o gado que abasteceu e I]inçou Minas Gerais, Goiás e indiretamente Mato Grosso.,
+ infestar: A larva que [infestou os laranjais dos EUA deve causar poucas perdas, sem afetar os preços em Nova York.,
+ praguejar: Coisa curiosa como um assunto sério sofre mudanças na internet e se transforma numa dessas lendas urbanas que I]praguejam a rede, repassadas como verdades que acabam desacreditando até a parte verdadeira da notícia.}
+
+A='Glosa1436'
+{desinçar, desinfestar}
+Chave: INFESTAR <verb.motion>
+ILI: 01962504
+
+Sense 1
+{01962504} <verb.motion> infest, overrun1 -- (invade in great numbers; "the roaches infested our kitchen")
+       => {01091351} <verb.competition> invade, occupy -- (march aggressively into another's territory by military force for the purposes of conquest and occupation; "Hitler invaded Poland on September 1, 1939")
+           => {01084194} <verb.competition> attack, assail1 -- (launch an attack or assault on; begin hostilities or start warfare with; "Hitler attacked Poland on September 1, 1939 and started World War II"; "Serbian forces assailed Bosnian towns all week")
+               => {01055630} <verb.competition> fight, struggle -- (be engaged in a fight; carry on a fight; "the tribesmen fought each other"; "Siblings are always fighting")

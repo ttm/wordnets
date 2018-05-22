@@ -1,0 +1,31 @@
+ANÁLISE DA GLOSA3928
+
+DADO O SYNSET:
+	
+S='Glosa3928'
+    	{comprovar: A pesquisa [comprova também que, para conseguir licença de funcionamento junto à fiscalização sanitária, alguns hospitais privados têm comissões de controle da infecção hospitalar que existem apenas no papel .,
+      	 confirmar: Em declaração a Agência France Presse ontem, o presidente da Associação de Moradores do Dona Marta, José de Oliveira, [confirmou o envolvimento dos traficantes na produção .,
+      	 corroborar: Sua pesquisa H]corroborou a hipótese do cientista.,
+      	 firmar: O ex-ministro tem dificuldades de estabelecer um confronto mínimo na campanha, o que os seus aliados consideram importante para [firmar a candidatura .,
+      	 positivar: A Constituição Federal de 1998 [positivou novos valores que representam os hodiernos anseios da sociedade brasileira.,
+      	 ratificar: As assembléias, por outro lado, [ratificaram a posição de manter a greve, entendendo que o momento permite uma mudança no patamar que tem balizado os reajustes nos últimos anos .,
+      	 referendar: O fato de Wilson Martins, candidato do PMDB ao governo do Mato Grosso do Sul, não ter comparecido à convenção que [referendou a candidatura de Quércia, anima os tucanos .,
+      	 selar1: O candidato petista à Presidência da República ironizou a queda de uma mesa na cerimônia que [selou a aliança entre tucanos e o PFL, anteontem .,
+      	 verificar: O tempo M]verificou seu triste pressentimento.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3928' = “estabelecer ou reforçar como se fosse com evidências ou fatos”
+    	{comprovar: A pesquisa [comprova também que, para conseguir licença de funcionamento junto à fiscalização sanitária, alguns hospitais privados têm comissões de controle da infecção hospitalar que existem apenas no papel.,
+      	 confirmar: Exames [confirmam que rapaz morto domingo foi a primeira vítima da epidemia que já registra 130 casos em todo o estado.,
+      	 corroborar: O comércio, no entanto, começa a produzir estudos que [corroboram a afirmação de Szajman.,
+      	 positivar: A Constituição Federal de 1998 [positivou novos valores que representam os hodiernos anseios da sociedade brasileira.,
+      	 ratificar: As assembléias, por outro lado, [ratificaram a posição de manter a greve, entendendo que o momento permite uma mudança no patamar que tem balizado os reajustes nos últimos anos .,
+      	 referendar: Quércia foi escolhido por aclamação, [referendando o resultado das prévias de domingo passado.,
+      	 selar1: Homens e mulheres B] selaram com a presença deles o mesmo protesto contra a condenação do Inocente.,
+      	 verificar: Uma vistoria feita ontem de manhã pelo Contru [verificou que o prédio oferece risco de incêndio.}
+Chave: CONFIRMAR <verb.cognition>
+ILI: 00643814
+
+Sense 1
+{00643814} <verb.cognition> confirm, corroborate, sustain, substantiate, support, affirm -- (establish or strengthen as with new evidence or facts; "his story confirmed my doubts"; "The evidence supports the defendant")

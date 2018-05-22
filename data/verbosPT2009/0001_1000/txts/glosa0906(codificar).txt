@@ -1,0 +1,22 @@
+ANÁLISE DA GLOSA0906
+
+DADO O SYNSET:
+
+S='Glosa906'
+{codificar: Pode-se [codificar instruções para a máquina na mesma linguagem que é usada para os dados que ela processa.,
+criptografar: Saiba como I]criptografar seus documentos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa906' = “converter linguagem comum em código”
+{codificar: Pode-se [codificar instruções para a máquina na mesma linguagem que é usada para os dados que ela processa.,
+criptografar: Saiba como I]criptografar seus documentos.,}
+Chave: CODIFICAR <verb.communication>
+ILI: 00961643
+
+Sense 2
+{00961643} <verb.communication> encode, code, encipher, cipher, cypher, encrypt, inscribe4, write in code -- (convert ordinary language into code; "We should encode the message for security reasons")
+       => {00960729} <verb.communication> write -- (communicate or express by writing; "Please write to me every week")
+           => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+               => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+                   => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

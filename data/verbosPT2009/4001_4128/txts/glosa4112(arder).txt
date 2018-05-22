@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA4112
+
+DADO O SYNSET:
+
+S='Glosa4112'
+{arder: Este toicinho I]arde como pimenta.,
+picar: O molho apimentado H]picava demais a língua.,
+queimar: A aguardente A]queimava-lhe as entranhas.,
+requeimar: A pimenta malagueta A]requeimava a língua.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4112' = “causar uma sensação de picada ou ardência”
+{arder: Este toicinho I]arde como pimenta.,
+picar: O molho apimentado H]picava demais a língua.,
+queimar: A aguardente A]queimava-lhe as entranhas.,
+requeimar: A pimenta malagueta A]requeimava a língua.,}
+Chave: ARDER <verb.perception>
+ILI: 02061587
+
+Sense 1
+{02061587} <verb.perception> tingle, prickle -- (cause a stinging or tingling sensation)
+       => {02059880} <verb.perception> itch -- (have or perceive an itch; "I'm itching--the air is so dry!")
+           => {02060768} <verb.perception> ache, smart, hurt -- (be the source of pain)
+               => {02062507} <verb.perception> cause to be perceived -- (have perceptible qualities)

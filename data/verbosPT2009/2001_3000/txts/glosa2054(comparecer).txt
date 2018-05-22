@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA2054
+
+DADO O SYNSET:
+	
+S='Glosa2054'
+    	{comparecer: A reação do público que [compareceu à terceira etapa do projeto Encontros notáveis, segunda-feira, no Teatro Dulcina, lembrou aquelas cenas de fãs enlouquecidos correndo atrás de um astro pop.,
+      	 estar: Wanda Engel contou ainda que na última sexta-feira [esteve na escola Alberto Rangel, onde 80 famílias da Cidade de Deus estão abrigadas, e estranhou «a presença de alguns voluntários suspeitos» .,
+      	 presenciar: Baggio [presenciou a palestra do mister no centro de um dos gramados exuberantes da escola.,}
+
+A='Glosa3770'
+    	{falhar, faltar, perder}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2054' = “estar presente [em]”
+    	{comparecer: A reação do público que [compareceu à terceira etapa do projeto lembrou aquelas cenas de fãs enlouquecidos correndo atrás de um astro pop.,
+      	 estar: Ele [está em todos os eventos do momento em São Paulo, no circuito club-fashion.,
+      	 presenciar: Baggio [presenciou a palestra do mister no centro de um dos gramados exuberantes da escola.}
+
+A='Glosa3770'
+    	{falhar, faltar, perder}
+Chave: COMPARECER <verb.stative>
+ILI: 02534896
+
+Sense 1
+{02534896} <verb.stative> attend, go to -- (be present at (meetings, church services, university), etc.; "She attends class regularly"; "I rarely attend services at my church"; "did you go to the meeting?")
+       => {02576058} <verb.stative> be5 -- (occupy a certain position or area; be somewhere; "Where is my umbrella?" "The toolshed is in the back"; "What is behind this behavior?")

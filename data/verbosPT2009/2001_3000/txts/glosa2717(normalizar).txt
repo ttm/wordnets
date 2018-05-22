@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA2717
+
+DADO O SYNSET:
+
+  S='Glosa2717'
+	    {normalizar: Cerca de 12 mil pessoas ficaram sem abastecimento. A empresa pretendia [normalizar o serviço de água no final da tarde de ontem.,
+	      regularizar: Mas o varejo se esforça para [regularizar as vendas e aproveita o excelente primeiro trimestre do ano, diz Scalabrini.,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2717' = “Tornar normal ou retornar para seu estado normal.”
+	    {normalizar: O Google I]normalizou o pagamento do faturamento decorrente do sistema de anúncios online.,
+	      regularizar: No entanto, a Autuada I]regularizou a situação após expirado o prazo do TIAF.,}
+
+Chave: NORMALIZAR <verb.change>
+ILI: 00455488
+
+Sense 1
+{00455488} <verb.change> normalize6, normalise3 -- (become normal or return to its normal state; "Let us hope that relations with this country will normalize soon")
+       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night") 

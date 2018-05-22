@@ -1,0 +1,44 @@
+ANÁLISE DA GLOSA4094
+
+DADO O SYNSET:
+
+S='Glosa4094'
+{batalhar: Você mereceu, pois I]batalhou uma grande luta.,
+campear: Os soldados H]campeavam no deserto.,
+certar: x,
+combater: General e estadista mexicano que [combateu as tropas de Maximiliano e organizou revoltas contra Juárez, seu sucessor .,
+decertar: x,
+digladiar: Como dois moleques, presidente e governador I]digladiaram aos olhos atônitos dos cidadãos.,
+escaramuçar: H]Escaramuçaram com os soldados recém-chegados.,
+gladiar: Soldados desconhecidos I]gladiavam contra guerreiros alados que pareciam ter saído do Inferno.,
+guerrear: Os europeus I]guerreavam para conquistar terras e saquear os povos vencidos.,
+lidar: M]Lidaram bravamente com o inimigo.,
+lutar: Milhões e milhões de pessoas que I]lutaram e morreram durante a última guerra mundial.,
+militar: H]Militaram com bravura contra o invasor.,
+pelejar: Os senhores que lutaram contra a ditadura militar, que I]pelejaram na guerrilha do Araguaia contam apenas com todo o orgulho que eles estavam só lutando.,
+pleitear: A]Pleitearam há dois anos, sem chegar a nenhum acordo.,
+pugnar: H]Pugnaram pela liberdade.,
+punir2: H]Puniam pelos próprios direitos.,
+refregar: Os lutadores profissionais ganham para A]refregar em público.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4094' = “estar empenhado em uma briga; levar uma disputa adiante”
+{batalhar: Você mereceu, pois I]batalhou uma grande luta.,
+combater: General e estadista mexicano que [combateu as tropas de Maximiliano e organizou revoltas contra Juárez, seu sucessor .,
+digladiar: Como dois moleques, presidente e governador I]digladiaram aos olhos atônitos dos cidadãos.,
+escaramuçar: H]Escaramuçaram com os soldados recém-chegados.,
+gladiar: Soldados desconhecidos I]gladiavam contra guerreiros alados que pareciam ter saído do Inferno.,
+guerrear: Os europeus I]guerreavam para conquistar terras e saquear os povos vencidos.,
+lutar: Milhões e milhões de pessoas que I]lutaram e morreram durante a última guerra mundial.,
+militar: H]Militaram com bravura contra o invasor.,
+pelejar: Os senhores que lutaram contra a ditadura militar, que I]pelejaram na guerrilha do Araguaia contam apenas com todo o orgulho que eles estavam só lutando.,
+pugnar: H]Pugnaram pela liberdade.,
+punir2: H]Puniam pelos próprios direitos.,}
+Chave: LUTAR <verb.competition>
+ILI: 01055630
+
+Sense 1
+{01055630} <verb.competition> fight, struggle -- (be engaged in a fight; carry on a fight; "the tribesmen fought each other"; "Siblings are always fighting")
+          Also See-> {01096026} <verb.competition> fight off#1
+

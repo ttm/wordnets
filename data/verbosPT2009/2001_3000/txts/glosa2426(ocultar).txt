@@ -1,0 +1,45 @@
+ANÁLISE DA GLOSA2426
+
+DADO O SYNSET:
+
+S='Glosa2426'
+	    {absconder: x,
+	      acaçapar: Peguei o meu taco e I]acaçapei a bola no Buraco. ,
+	      acachapar: Os telhados I]acachapam o branco das casas e as ripas azuis das janelas invadem o ambiente. ,
+	      acachar: x,
+	      acantoar: x,
+	      acovar: x,
+	      amoitar: Um mecanismo de rastreabilidade financeira que forçou o marido prestimoso a I]amoitar "o caixa 2 de campanha" em notas de R$ 50.,
+	      amoutar: x,
+	      aninhar: Quando o Afeganistão entrou no noticiário por I]aninhar os terroristas que bombardearam o World Trade Center e o Pentágono, essas cenas de mulheres tratadas como animais voltaram a espantar o Ocidente.,
+	      emboscar: Um número elevado de firmas de grande e médio porte possuía instalações para serrar, armazenar e I]emboscar madeiras.,
+	      embotar: São sinais, alarmes, demonstrações inequívocas de que o corpo está fora de ordem, mascarar e I]embotar sintomas são medidas tolas e perigosas.,
+	      encafuar: Como em muitos cinemas isso é proibido, leve uma sacola ou bolsa para I]encafuar seu rango.,
+	      encafurnar: x,
+	      encobrir: O método é válido para I]encobrir calvície, já que uma tinta especial é utilizada conforme a cor dos cabelos.,
+	      encovar: Estes são os sujeitos que fazem disto seus negócios para I]encovar os fatos, assim dizendo.,
+	      esconder: Abana a cabeça e I]esconde as mãos disformes atrás das costas.,
+	      ocultar: Lua vai I]ocultar Vênus por uma hora amanhã. # Acusados de receber e I]ocultar veículos roubados conseguem HC.,
+	      soterrar: Pesquisas mostram que 80% da tralheira que juntamos não tem a menor utilidade, serve apenas para I]soterrar documentos necessários.,
+	      subterrar: Quando não foram as cheias que afundavam os bairros nos anos 60 e 70, a cidade conheceu o horror das chuvas que I]subterraram e enterraram famílias inteiras nos morros da Zona Norte no inesquecível 30 de abril de 1996.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2426' = “Impedir de ser visto ou descoberto.”
+	    {acachapar: Os telhados I]acachapam o branco das casas.,
+	      amoitar: E a assessoria da Presidência I]amoitou a informação?,
+	      aninhar: O contrabandista M]aninhara habilmente as mercadorias.,
+	      emboscar: Um número elevado de firmas de grande e médio porte possuía instalações para serrar, armazenar e I]emboscar madeiras.,
+	      embotar: São sinais, alarmes, demonstrações inequívocas de que o corpo está fora de ordem, mascarar e I]embotar sintomas são medidas tolas e perigosas.,
+	      encafuar: Como em muitos cinemas isso é proibido, leve uma sacola ou bolsa para I]encafuar seu rango.,
+	      encobrir: O jornal afirmou também que o treinador Francisco Maturana [encobriu o acontecido.,
+	      encovar: I]Encovou todo o dinheiro roubado.,
+	      esconder: Abana a cabeça e I]esconde as mãos disformes atrás das costas.,
+	      ocultar: Ela deliberadamente [ocultou documentos do Serviço Secreto e do FBI em 1963.,
+	      soterrar: Pesquisas mostram que 80% da tralheira que juntamos não tem a menor utilidade, serve apenas para I]soterrar documentos necessários.,}
+
+Chave: OCULTAR <verb.perception>
+ILI: 02082942
+
+Sense 1
+{02082942} <verb.perception> hide, conceal1 -- (prevent from being seen or discovered; "Muslim women hide their faces"; "hide the money") 

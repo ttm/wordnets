@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA2010
+
+DADO O SYNSET:
+	
+S='Glosa2010'
+    	{determinar: Um geneticista fará um estudo da família, [determinará se a anomalia é hereditária ou não e informará ao casal sobre as chances devir a ter um, filho normal ou defeituoso.,
+      	 discriminar: Trata-se de um exame que visa apontar e [discriminar, a partir do cabelo, intoxicações e insuficiências de minerais em todo o organismo.,
+      	 especificar: Em outras palavras, trata-se de [especificar o modelo de projeção perspectiva que será aplicado.,
+      	 explicitar: Admitindo-se que existe por si um mundo dos fenômenos quânticos, parece indicado, para tentar [explicitar as situações epistemológicas encontradas pela física quântica, recorrer a uma metáfora, que poderíamos chamar do batiscafo microcósmico16 .,
+      	 precisar: Esse exame deveria nos permitir definir a referência de uma concepção científica ou de uma teoria, e [precisar as condições nas quais essa referência se encontra efetivamente pertinente.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2010' = “decidir definitivamente”
+    	{determinar: Um geneticista fará um estudo da família, [determinará se a anomalia é hereditária ou não e informará ao casal sobre as chances devir a ter um, filho normal ou defeituoso.,
+      	 discriminar: Trata-se de um exame que visa apontar e [discriminar, a partir do cabelo, intoxicações e insuficiências de minerais em todo o organismo.,
+      	 especificar: Em outras palavras, trata-se de [especificar o modelo de projeção perspectiva que será aplicado.,
+      	 explicitar: Admitindo-se que existe por si um mundo dos fenômenos quânticos, parece indicado, para tentar [explicitar as situações epistemológicas encontradas pela física quântica, recorrer a uma metáfora, que poderíamos chamar do batiscafo microcósmico16.,
+      	 precisar: Esse exame deveria nos permitir definir a referência de uma concepção científica ou de uma teoria, e [precisar as condições nas quais essa referência se encontra efetivamente pertinente.}
+Chave: ESPECIFICAR <verb.communication>
+ILI: 00915940
+
+Sense 3
+{00915940} <verb.communication> specify2, set, determine3, fix3, limit -- (decide upon or fix definitely; "fix the variables"; "specify the parameters")
+       => {00652154} <verb.cognition> choose, take1, select, pick out -- (pick out, select, or choose from a number of alternatives; "Take any one of these cards"; "Choose a good husband for your daughter"; "She selected a pair of shoes from among the dozen the salesgirl had shown her")
+           => {00674417} <verb.cognition> decide, make up one's mind, determine -- (reach, make, or come to a decision about something; "We finally decided after lengthy deliberations")

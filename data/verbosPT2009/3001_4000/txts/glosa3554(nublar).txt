@@ -1,0 +1,54 @@
+ANÁLISE DA GLOSA3554
+
+DADO O SYNSET:
+
+S='Glosa3554'
+	{anuviar: I]Anuviava o céu. ,
+	 carregar: O dia amanheceu tão agradável, e agora o céu começou a ]carregar.,
+	 cobrir: O vento chegou de repente e nuvens I]cobriram o céu. / Nuvens pesadas I]cobriram quase toda a Europa no dia do eclipse. ,
+	 embrumar: x,
+	 encarrancar: x,
+	 encobrir: A névoa cinzenta que [encobre vários bairros da cidade, desde a última segunda-feira, surpreendeu o carioca . ,
+	 enevoar: A escura tarde de Los Angeles está a I]enevoar a Igreja que nós frequentávamos. ,
+	 enublar: x,
+	 enuviar: Brumoso véu o infinito A]enuvia.,
+	 nevoar: Além disso o Chitauli descortinou a sagrada chuva que I]nevoava os céus e pela primeira vez desde a criação os seres humanos puderam observar as estrelas. ,
+	 nublar: Eram 11 horas do dia; uma trovoada estava iminente, que [nublava o céu obumbrando os raios do sol. ,
+	 sombrear: Eu vi o arco-íris encobrir, eo azul do céu I]sombrear.,
+	 sombrejar: Ao longe, I]sombrejando o horizonte, ilhas perdidas cujas corcovas montam por sobre a última linha do mar.,
+	 toldar: Uma massa negra I]toldou ao longe o horizonte.,
+	 turbar: Nuvens negras i]turbavam o horizonte.,
+	 turvar: Em certas condições ambientais, os limites entre objeto e fundo tornam-se críticos, pois a fumaça ou a neblina afetam a imagem inteira, [turvando as suas formas.,
+	 turvejar: A]Turvejando os ares, a poeirada sobe, escondendo o sol.}
+
+A='Glosa1554'
+{desanuviar, descobrir, desembrumar, desenevoar, desensombrar, desnevoar, desnublar, destoldar, limpar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3554' = “tornar encoberto ou nublado”
+	{anuviar: I]Anuviava o céu.,
+	 carregar: O dia amanheceu tão agradável, e agora o céu começou a I]carregar.,
+	 cobrir: O vento chegou de repente e nuvens I]cobriram o céu. # Nuvens pesadas I]cobriram quase toda a Europa no dia do eclipse.,
+	 encobrir: A névoa cinzenta que [encobre vários bairros da cidade, desde a última segunda-feira, surpreendeu o carioca.,
+	 enevoar: A escura tarde de Los Angeles está a I]enevoar a Igreja que nós freqüentávamos.,
+	 enuviar: Brumoso véu o infinito A]enuvia.,
+	 nevoar: O Chitauli descortinou a sagrada chuva que I]nevoava os céus e pela primeira vez desde a criação os seres humanos puderam observar as estrelas.,
+	 nublar: Eram 11 horas do dia; uma trovoada estava iminente, que [nublava o céu obumbrando os raios do sol.,
+	 sombrear: Eu vi o arco-íris encobrir, e o azul do céu I]sombrear.,
+	 sombrejar: Ao longe, I]sombrejando o horizonte, ilhas perdidas cujas corcovas montam por sobre a última linha do mar.,
+	 toldar: Uma massa negra I]toldou ao longe o horizonte.,
+	 turbar: Nuvens negras i]turbavam o horizonte.,
+	 turvar: Em certas condições ambientais, os limites entre objeto e fundo tornam-se críticos, pois a fumaça ou a neblina afetam a imagem inteira, [turvando as suas formas.,
+	 turvejar: A]Turvejando os ares, a poeirada sobe, escondendo o sol.}
+
+A='Glosa1554'
+{desanuviar, descobrir, desembrumar, desenevoar, desensombrar, desnevoar, desnublar, destoldar, limpar}
+Chave: NUBLAR <verb.weather>
+ILI: 02688614
+
+Sense 1 
+{02688614} <verb.weather> overcast, cloud -- (make overcast or cloudy; "Fall weather often overcasts our beaches")
+       => {00301705} <verb.change> darken1 -- (make dark or darker; "darken a room")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")
+          Also See-> {02688917} <verb.weather> cloud over#1; {02688917} <verb.weather> cloud up#1

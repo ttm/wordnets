@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0024
+
+DADO O SYNSET:
+
+S='Glosa24'
+{esconder: Ontem, ao tornar pública sua decisão de se afastar do BNDES, Elena Landau não [escondeu a emoção.,
+ fingir: Mirella I]fingia ou ignorou o episódio.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa24' = “fazer acreditar”
+{esconder: Mário Quintana, por exemplo, nunca [escondeu que era louquinho por Bruna Lombardi.,
+ fingir: O guitarrista Jimi Hendrix I]fingiu ser gay para fugir do exército norte-americano em 1962..,}
+Chave: FINGIR <verb.communication>
+ILI: 00810765
+
+Sense 1
+{00810765} <verb.communication> feign, sham, pretend, affect, dissemble -- (make believe with the intent to deceive; "He feigned that he was ill"; "He shammed a headache")
+       => {00809453} <verb.communication> misrepresent, belie -- (represent falsely; "This statement misrepresents my intentions")
+           => {00955766} <verb.communication> represent -- (serve as a means of expressing something; "The flower represents a young girl")
+               => {00909455} <verb.communication> express, verbalize3, verbalise3, utter1, give tongue to -- (articulate; either verbally or with a cry, shout, or noise; "She expressed her anger"; "He uttered a curse")

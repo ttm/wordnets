@@ -1,0 +1,33 @@
+ANÁLISE DA GLOSA1599
+
+DADO O SYNSET:
+	
+S='Glosa1599'
+    	{alargar: Sob a ação do calor, os metais H]alargaram.,
+      	 dilatar: A barra de ferro que sustenta o vão da auto-estrada se I]dilatou em função do calor.,
+      	 disferir: x,
+      	 distender: Os meninos H]distenderam muito o balão, que acabou rebentando.,
+      	 expandir: O vento M]expandiu as velas da escuna.,}
+  
+A='Glosa2517'
+    	{comprimir, contrair, emurchecer, encolher, engelhar, murchar, murchecer, retrair, secar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1599' = “tornar mais dilatado/expandido” 
+    	{alargar: O hippie apanha um minúsculo prego e cuidadosamente I]alarga o orifício da pequena conta roxa.,
+      	 dilatar: Uma esperança vaga e indefinida [dilatava-lhe o coração e dava à sua fisionomia a expressão de júbilo.,
+      	 distender: Quando o feto atinge certo tamanho, a pressão e o movimento do seu corpo [distendem a musculatura do útero, fazendo com que ele se contraia.,
+      	 expandir: Um sorriso intimo de felicidade [expandia o seu rosto venerável.}
+  
+A='Glosa2517'
+    	{comprimir, contrair, emurchecer, encolher, engelhar, murchar, murchecer, retrair, secar}
+Chave: DILATAR <verb.change>
+ILI: EQ_NEAR_SYNONYM – 00295980
+
+Sense 1
+{00295980} <verb.change> dilate1, distend -- (become wider; "His pupils were dilated")
+       => {00293908} <verb.change> widen -- (become broader or wider or more extensive; "The road widened")
+           => {00150804} <verb.change> increase -- (become bigger or greater in amount; "The amount of work increased")
+               => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

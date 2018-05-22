@@ -1,0 +1,35 @@
+ANÁLISE DA GLOSA3007a
+
+DADO O SYNSET:
+
+S='Glosa3007'
+	     {abafar: Deixar a criança com pouca roupa evitando I]abafá-la com cobertores.,
+	      acobertar: Pesadas armaduras A]acobertavam os cavaleiros medievais.,
+	      agasalhar: Após o banho, pode-se I]agasalhar o animal?,
+	      arroupar: x,
+	      cobrir: O asno que carrega a urna domina o centro da imagem: ele tem sinos pendurados no pescoço e um manto [cobrindo as ancas. ,
+	      encobertar: x,
+	      enroupar: O forro de suas arcas vai servir-nos para I]enroupar os homens que levarmos para as guerras da Irlanda.,
+	      gasalhar: x,
+	      recobrir: Gramíneas [recobriam os campos que se estendiam a partir de Curitiba e podiam fornecer uma perfeita alimentação para os animais. ,
+	      resguardar: É um vaso, em parte cilíndrico, que serve para [resguardar líquidos delicados.,
+	      revestir: As células meristemáticas acabam por formar a epiderme que [reveste a raiz.,
+	      roupar: H]Rouparam as crianças pequenas.,
+	      tapar: Piso de borracha revestia o chão e forros de eucatex [tapavam clarabóias. ,
+	      velar2: Em seguida, ele correu a cortina que I]velava o quadro da Independência, pronunciando em seguida uma alocução patriótica.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3007a' = “vestir para proteger de intempéries” 
+                  {abafar: Deixar a criança com pouca roupa evitando I]abafá-la com cobertores.,
+	      acobertar: observa entre os dentes dele vestígios da manta que I]acobertava o bebê na noite anterior.,
+	      agasalhar: Um grosso cobertor I]agasalhava-lhe as pernas.,
+	      cobrir: o hábito franciscano ainda a I]cobria. ,}
+Chave: AGASALHAR <verb.body>
+ILI: 00047079
+
+Sense 26
+{00047079} <verb.body> cover15, wrap up -- (clothe, as if for protection from the elements; "cover your head!")
+       => {00046409} <verb.body> dress1, clothe, enclothe, garb, raiment, tog, garment, habilitate, fit out, apparel -- (provide with clothes or put clothes on; "Parents must feed and dress their child")
+           => {00140715} <verb.change> change state, turn4 -- (undergo a transformation or a change of position or action; "We turned from Socialism to Capitalism"; "The people turned against the President when he stole the election")
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

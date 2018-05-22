@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA2591
+
+DADO O SYNSET:
+
+S='Glosa2591'
+	    {chegar: Como as pessoas [chegam mais cedo em casa, os chuveiros elétricos são ligados em horários diferentes da iluminação, evitando sobrecarga nas redes de distribuição.,
+	      regressar: E [regressam todos à pátria, para agir, escrever e descrever a nova nação.,
+	      retornar: Assim, certas regiões são reservadas à população negra: são as reservas, para onde devem [retornar todos os africanos que não tenham trabalho nas cidades.,
+	      reverter: A renda do evento I]reverteu à própria casa.,
+	      revir2: x,
+	      tornar: Uma vez, ao I]tornar à casa, quando erguia a aldrava, o coração lhe fala — "Entra mais devagar".,
+	      vir: Em julho, ele [virá ao Rio para batizar Romarinho, filho do brasileiro.,
+	      voltar: O que acha de eu [voltar para o Brasil ?,
+	      volver: A voz do tabajara enrouquecera; seu passo inquieto [volveu a esmo para a cabana.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2591' = “Voltar ao lugar onde já esteve antes, ou retornar a uma atividade anterior.”
+	    {chegar: Como as pessoas [chegam mais cedo em casa, os chuveiros elétricos são ligados em horários diferentes da iluminação, evitando sobrecarga nas redes de distribuição.,
+	      regressar: E [regressam todos à pátria, para agir, escrever e descrever a nova nação.,
+	      retornar: Moradores que estavam desabrigados na Vila da Quinta, já I]retornaram as suas casas.,
+	      tornar: Uma vez, ao I]tornar à casa, quando erguia a aldrava, o coração lhe fala — "Entra mais devagar".,
+	      vir: Andréia entrou de mãos dadas com o pai, Antônio Rauter, que I]veio de São Paulo para a cerimônia.,
+	      voltar: Ele I]voltou para o Brasil e resolveu abrir um restaurante.,
+	      volver: No fim de outubro I]volveu ao Rio de Janeiro.,}
+
+Chave: REGRESSAR <verb.motion>
+ILI: 01946892
+
+Sense 1
+{01946892} <verb.motion> return, go back, get back, come back -- (come back to place where one has been before, or return to a previous activity)
+       => {01782203} <verb.motion> travel, go, move3, locomote -- (change location; move, travel, or proceed; "How fast does your new car go?"; "We travelled from Rome to Naples by bus"; "The policemen went from door to door looking for the suspect"; "The soldiers moved towards the city in an attempt to take it before night fell") 

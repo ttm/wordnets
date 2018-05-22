@@ -1,0 +1,54 @@
+ANÁLISE DA GLOSA3329
+
+DADO O SYNSET:
+
+S='Glosa3329'
+	    {
+	      alumbrar: Certo dia, pairando no alto do céu do Recife, um anjo sorridente, desses feitos de luz, decidiu I]alumbrar a Terra.,
+	      alumiar: A lamparina, agora nova [alumiava o seu quarto de dormir, e a imaginação criara tudo.,
+	      brilhar: O sol [brilhava sempre sobre as praias do mar, e as areias refletiam os raios ardentes.,
+	      chamear: x,
+	      chamejar: Eo sol entrando pela sala, I]chamejava nos espelhos e cristais.,
+	      coruscar: Do alto, o céu I]coruscava, incrustado de estrelas.,
+	      esplandecer: x,
+	      esplendecer: x,
+	      esplender: Uma imagem branca e difusa esplendia em meio à escuridão.,
+	      esplendorar: x,
+	      flamear: x,
+	      flamejar: Um fogo vivo I]flamejava numa grande lareira.,
+	      fulminar: As espadas M]fulminam ao sol.,
+	      lampejar: Desde maio, porém, as enxadas e as foices dos escravos I]lampejavam ao sol.,
+	      lustrar: O difícil mesmo era manter aquela mistura toda em movimento, enquanto cozinhava numa panela pretinha que até I]lustrava. ,
+	      rebrilhar: Batida pela luz dos postes da calçada, a água I]rebrilhava.,
+	      reluzir: Algumas portas mais abaixo, outro par de velas I]reluzia em um consolo de lareira próximo a uma porta aberta.,
+	      resplandecer: Aumentava a imponência do ambiente conforme a luz I]resplandecia nos vidros adornados com figuras de santos e elementos religiosos.  ,
+	      resplendecer: x,
+	      resplender: Não há ninguém na praia, que I]resplende ao sol.,
+	      reverberar: Os reluzentes metais M]reverberavam.,
+	      rutilar: Sorrio ao olhar o casario de mármore, as estátuas que I]rutilam ao sol.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3329' = “emitir luz; ser brilhante, como o sol ou a luz”
+	     {alumbrar: Certo dia, pairando no alto do céu do Recife, um anjo sorridente, desses feitos de luz, decidiu I]alumbrar a Terra.,
+	      alumiar: A lamparina, agora nova [alumiava o seu quarto de dormir, e a imaginação criara tudo.,
+	      brilhar: O sol [brilhava sempre sobre as praias do mar, e as areias refletiam os raios ardentes.,
+	      chamejar: E o sol entrando pela sala, I]chamejava nos espelhos e cristais.,
+	      coruscar: Do alto, o céu I]coruscava, incrustado de estrelas.,
+	      esplender: Uma imagem branca e difusa I]esplendia em meio à escuridão.,
+	      flamejar: Um fogo vivo I]flamejava numa grande lareira.,
+	      fulminar: As espadas M]fulminam ao sol.,
+	      lampejar: Desde maio, porém, as enxadas e as foices dos escravos I]lampejavam ao sol.,
+	      lustrar: O difícil mesmo era manter aquela mistura toda em movimento, enquanto cozinhava numa panela pretinha que até I]lustrava. ,
+	      rebrilhar: Batida pela luz dos postes da calçada, a água I]rebrilhava.,
+	      reluzir: Algumas portas mais abaixo, outro par de velas I]reluzia em um consolo de lareira próximo a uma porta aberta.,
+	      resplandecer: Aumentava a imponência do ambiente conforme a luz I]resplandecia nos vidros adornados com figuras de santos e elementos religiosos.  ,
+	      resplender: O céu I]resplendia de astro, um vento mal enrugava o lago, agitando, sem soltar uma pétala, os lótus do rei.,
+	      reverberar: Os reluzentes metais M]reverberavam.,
+	      rutilar: O sol I]rutilava sobre toda a baía.,}
+Chave: BRILHAR <verb.weather>
+ILI: 02681817
+
+Sense 2
+{02681817} <verb.weather> shine, beam3 -- (emit light; be bright, as of the sun or a light; "The sun shone bright that day"; "The fire beamed on their faces")

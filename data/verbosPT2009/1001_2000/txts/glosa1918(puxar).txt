@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA1918
+
+DADO O SYNSET:
+
+S='Glosa1918'
+{arrepelar: Uma certa manhã, quando uma das criadas a penteava e acidentalmente lhe I]arrepelou um pouco os cabelos, logo a esbofeteou. ,
+ depenar: Homens de muita autoridade, vendo-lhes muito cruamente dar na eça tamanhas cabeçadas, que parecia que quebravam as cabeças; I]depenando todas as barbas e cabelos, dando em si muitas bofetadas, coisa tão espantosa e de tanta dor e tristeza que não se via, e durou tanto que os não podiam fazer calar. ,
+ escarapelar: O homem sacudia a cabeça, nervoso, H]escarapelando a grenha.,
+ puxar: Qualquer criança, diante desses insultos aos seus familiares, deveria reagir I]puxando os cabelos da outra ou cuspindo-lhe no olho. ,
+ repelar: Agitava-se, chorava, gemia, uivava como um animal feroz, I]repelando os cabelos: não estava acostumado dor humana, e manifestava-a de forma ridícula.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1918' = “puxar ou arrancar bruscamente”
+{arrepelar: Uma certa manhã, quando uma das criadas a penteava e acidentalmente lhe I]arrepelou um pouco os cabelos, logo a esbofeteou.,
+ depenar: Homens de muita autoridade, vendo-lhes muito cruamente dar na eça tamanhas cabeçadas, que parecia que quebravam as cabeças; I]depenando todas as barbas e cabelos, dando em si muitas bofetadas, coisa tão espantosa e de tanta dor e tristeza que não se via, e durou tanto que os não podiam fazer calar.,
+ puxar: Qualquer criança, diante desses insultos aos seus familiares, deveria reagir I]puxando os cabelos da outra ou cuspindo-lhe no olho.,
+ repelar: Agitava-se, chorava, gemia, uivava como um animal feroz, I]repelando os cabelos: não estava acostumado dor humana, e manifestava-a de forma ridícula.,}
+Chave: PUXAR <verb.contact>
+ILI: 01548883
+
+Sense 1
+{01548883} <verb.contact> pluck, tweak, pull off, pick off -- (pull or pull out sharply; "pluck the flowers off the bush")
+       => {01406785} <verb.contact> pull, draw3, force1 -- (cause to move along the ground by pulling; "draw a wagon"; "pull a sled")
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

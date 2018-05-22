@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA1807
+
+DADO O SYNSET:
+
+S='Glosa1807'
+    	{embraiar: Pelo que sei, a melhor forma de poupar combustível é tirar o pé do acelerador e não I]embraiar o carro. ,
+      	 embrear2: Você precisa, para descolar, engatar a quinta  marcha e, com o motor desligado, I]embrear, e tentar soltá-la movimentando-a para frente e para trás.,
+      	 engatar: Tenho sentido muita dificuldade de [engatar algumas marchas com o carro frio e, isto, decididamente, não é normal.,
+      	 engrenar: Em pista molhada ao I]engrenar uma marcha reduzida, não se deve soltar bruscamente o pedal da embreagem., }
+  
+A='Glosa1346'
+    	{desembrear2, desengatar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1807' = “engatar a embreagem; dar início a uma marcha de um veículo automóvel”
+    	{embraiar: Pelo que sei, a melhor forma de poupar combustível é tirar o pé do acelerador e não I]embraiar o carro.,
+      	 embrear2: Uma coisa que meu velho pai sempre fez e me ensinou é antes de ligar o motor I]embrear a moto várias vezes e ligá - la com a embreagem apertada.,
+      	 engatar: Tenho sentido muita dificuldade de [engatar algumas marchas com o carro frio e, isto, decididamente, não é normal.,
+      	 engrenar: Em pista molhada ao I]engrenar uma marcha reduzida, não se deve soltar bruscamente o pedal da embreagem.,}
+  
+A='Glosa1346'
+    	{desembrear2, desengatar}
+Chave: ENGATAR <verb.contact>
+ILI: EQ_HAS_HYPERONYM – 01468558
+
+Sense 1
+{01468558} <verb.contact> engage, mesh1, lock1, operate2 -- (keep engaged; "engaged the gears")
+       => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

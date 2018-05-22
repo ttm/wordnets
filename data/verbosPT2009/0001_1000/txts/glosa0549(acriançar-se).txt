@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0549
+
+DADO O SYNSET:
+
+S='Glosa549'
+{acriançar-se: Diziam que o artista tem que [acriançar-se, pois as lembranças lúdicas é que concebem o criar mais puro e mais imaginativo,
+ameninar-se: Com os antigos amigos, H]amenina-se.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa549' = “parecer-se jovem como uma criança”
+{acriançar-se: Diziam que o artista tem que [acriançar-se, pois as lembranças lúdicas é que concebem o criar mais puro e mais imaginativo,
+ameninar-se: Com os antigos amigos, H]amenina-se.,}
+Chave: ACRIANÇAR-SE <verb.change>
+ILI: EQ_HAS_HYPERONYM - 00242525
+
+Sense 1
+{00242525} <verb.change> rejuvenate -- (make younger or more youthful; "The contact with his grandchildren rejuvenated him")
+       => {00094878} <verb.body> regenerate, revitalize -- (restore strength; "This food revitalized the patient")
+           => {00198579} <verb.change> better1, improve1, amend, ameliorate1, meliorate1 -- (to make better; "The editor improved the manuscript with his changes")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

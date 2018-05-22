@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA1906
+
+DADO O SYNSET:
+
+S='Glosa1906'
+{colonizar: Não só os portugueses I]colonizaram o Brasil. Durante o segundo século de história do país, muitos navegantes franceses chegaram e foram ficando no Nordeste, principalmente no Estado do Maranhão, que é um dos lugares do Brasil mais perto da Europa. ,
+ habitar: Chamaram criminosos de toda espécie para H]habitar as terras recém-descobertas.,
+ povoar: De Porto Belo os colonizadores I]povoaram as margens do Rio Perequê, subindo ao norte chegaram a se encantonar num local muito apropriado para exploração da pesca que eles mesmos chamavam "Lá no Canto da Praia".,}
+	  
+A='Glosa2227'
+{desabitar, desertar, desolar, despovoar, devastar, ermar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1906' = “preencher com pessoas ou prover com habitantes”
+{colonizar: Não só os portugueses I]colonizaram o Brasil. Durante o segundo século de história do país, muitos navegantes franceses chegaram e foram ficando no Nordeste, principalmente no Estado do Maranhão, que é um dos lugares do Brasil mais perto da Europa.,
+ povoar: De Porto Belo os colonizadores I]povoaram as margens do Rio Perequê, subindo ao norte chegaram a se encantonar num local muito apropriado para exploração da pesca que eles mesmos chamavam "Lá no Canto da Praia".,}
+	  
+A='Glosa2227'
+{desabitar, desertar, desolar, despovoar, devastar, ermar}
+Chave: POVOAR <verb.change>
+ILI: 00438321
+
+Sense 2
+{00438321} <verb.change> people, populate2 -- (fill with people or supply with inhabitants; "people a room"; "The government wanted to populate the remote area of the country")
+       => {00439460} <verb.change> fill1, fill up, make full -- (make full, also in a metaphorical sense; "fill a container"; "fill the child with pride")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

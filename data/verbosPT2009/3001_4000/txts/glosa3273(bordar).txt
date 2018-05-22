@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSA3273
+
+DADO O SYNSET:
+
+S='Glosa3273'
+{bordar: No segundo interrogatório, na devassa, disse estar entretido a [bordar um vestido para o casamento.,
+	 lavrar: x }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3273' = “decorar com bordado”
+{bordar: No segundo interrogatório, na devassa, disse estar entretido a [bordar um vestido para o casamento.}
+Chave: BORDAR <verb.creation>
+ILI: 01619864
+
+Sense 1
+{01619864} <verb.creation> embroider, broider -- (decorate with needlework)
+       => {01627899} <verb.creation> decorate, adorn, grace, ornament, embellish, beautify -- (make more attractive by adding ornament, colour, etc.; "Decorate the room for the party"; "beautify yourself for the special day")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

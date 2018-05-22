@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA3121
+
+DADO O SYNSET:
+
+S='Glosa3121'
+	    {
+	      imprestabilizar: x,
+	      inutilizar: Os órgãos de defesa do consumidor ficaram autorizados a apreender ou inutilizar produtos, decretar interdição ou intervenção administrativa do estabelecimento e até impor «contrapropaganda». ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3121' = “tornar incapaz de executar certa ação”
+	     {inutilizar: A exploração do petróleo inutilizou grandes extensões de terra, convertidas em terras inóspitas ou mananciais. ,}
+Chave: INUTILIZAR <verb.change>
+ILI: 00498510
+
+Sense 1
+{00498510} <verb.change> disable, disenable, incapacitate -- (make unable to perform a certain action; "disable this command on your computer")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

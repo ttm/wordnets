@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0379B
+
+DADO O SYNSET:
+
+S='Glosa379'
+{reger: Como lugar de vigência do valor de troca, o filme não se deixa mais [reger pelos valores arcaicos da perenidade e da autenticidade.,
+subordinar: Poderíamos [subordinar o estudo do problema variedade lingüística à dois amplos campos, em que o primeiro abrange o segundo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa379B' = “ordenar ou classificar (dividir) em ordem de menor importância ou de dependência, do inferior ao superior”
+{subordinar: Poderíamos [subordinar o estudo do problema variedade lingüística à dois amplos campos, em que o primeiro abrange o segundo.,}
+Chave: SUBORDINAR <verb.cognition>
+ILI: 00637584
+
+Sense 1
+{00637584} <verb.cognition> subordinate -- (rank or order as less important or consider of less value; "Art is sometimes subordinated to Science in these schools")
+       => {00636119} <verb.cognition> rate, rank, range, order, grade3, place1 -- (assign a rank or rating to; "how would you rank these students?"; "The restaurant is rated highly in the food guide")
+           => {00647983} <verb.cognition> judge -- (form an opinion of or pass judgment on; "I cannot judge some works of modern art")
+               => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

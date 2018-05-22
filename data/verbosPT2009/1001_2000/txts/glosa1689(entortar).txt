@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA1689
+
+DADO O SYNSET:
+
+S='Glosa1689'
+{empenar1: Quando você comprar uma mesa de bilhar verifique se as madeiras estão bem secas para que não venham a I]empenar mais tarde, prejudicando assim a estética e até a jogabilidade de sua mesa.,
+ enjambrar: Duas das prateleiras da estante A]enjambraram.  ,
+ entortar: A explosão chegou a [entortar uma cruz de latão e evitou que estilhaços destruíssem a túnica.,}
+	  
+A='Glosa1278'
+{desempenar, desentortar, endireitar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1689' = “dobrar ou torcer, ficando deformado, como sob pressão ou aquecimento”
+{empenar1: Quando você comprar uma mesa de bilhar verifique se as madeiras estão bem secas para que não venham a I]empenar mais tarde, prejudicando assim a estética e até a jogabilidade de sua mesa.,
+ empenar-se: As vigas se I]empenam e quebram.,
+ entortar: O ferro não I]entortou com o peso do cilindro?,
+ entortar-se: Qualquer CD, mesmo nas rotações mais baixas que 25.000 RPM, parece ser feito de papel, ele se I]entorta e se enverga o tempo todo.,}
+	  
+A='Glosa1278'
+{desempenar, desentortar, endireitar}
+Chave: ENTORTAR <verb.change>
+ILI: 00345726
+
+Sense 2
+{00345726} <verb.change> heave, buckle, warp -- (bend out of shape, as under pressure or from heat; "The highway buckled during the heatwave")
+       => {00345030} <verb.change> change surface -- (undergo or cause to undergo a change in the surface)
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

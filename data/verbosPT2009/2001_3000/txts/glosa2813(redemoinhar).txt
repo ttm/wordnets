@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA2813
+
+DADO O SYNSET:
+
+S='Glosa2813'
+	    {rebojar1: As águas, abaixo do salto de Urubupungá, M]rebojam com violência.,
+	      redemoinhar: Uma lufada de poeira I]redemoinhou a dois passos dos interlocutores derribando bruscamente o chapéu do amanuense, pondo-lhe a calva à mostra.,
+	      redomoinhar: x,
+	      regirar: As rodas da moto H]regiravam sem parar.,
+	      remoinhar: Expressos no tipo clássico do Saara — que é um termo genérico da região maninha dilatada do Atlântico ao Indico, entrando pelo Egito e pela Síria, assumindo todos os aspectos da enorme depressão africana ao plateau arábico ardentíssimo de Nedjed e avançando daí para as areias dos bejabans, na Pérsia — são tão ilógicos que o maior dos naturalistas lobrigou a gênese daquele na ação tumultuaria de um cataclismo, uma irrupção do Atlântico, precipitando-se, águas revoltas, num irresistível I]remoinhar de correntes, sobre o Norte da- África e desnudando-a furiosamente.,
+	      torvelinhar: Um bando enorme de morcegos sinistros I]torvelinhou no meio da ventania.,}
+A ANÁLISE RESULTA EM:
+
+S='Glosa2813' = “Girar em movimentos espirais”
+	    {rebojar1: I]Rebojou o vento, levantou os pelegos e apareceu até a aba do lombilho.,
+	      redemoinhar: Uma lufada de poeira I]redemoinhou a dois passos dos interlocutores derribando bruscamente o chapéu do amanuense, pondo-lhe a calva à mostra.,
+                   regirar: Essa bola de pedra dura I]regirava no espaço envolvida por. uma camada de ar e uma imensa nuvem de vapores.,
+	      remoinhar: O azul do mar mudara para o castanho do rio e mesmo ao abrigo da ilha a corrente cantava e I]remoinhava em volta da nossa proa.,
+	      torvelinhar: I]Torvelinhava furioso em torno de um pedaço de. terra, no qual havia uma casa.,}
+Chave: REDEMOINHAR <verb.motion>
+ILI: 01990506
+
+Sense 1
+{01990506} <verb.motion> twirl, swirl1, twiddle, whirl1 -- (turn in a twisting or spinning motion; "The leaves swirled in the autumn wind")
+       => {01986772} <verb.motion> revolve, go around1, rotate1 -- (turn on or around an axis or a center; "The Earth revolves around the Sun"; "The lamb roast rotates on a spit over the fire")
+           => {02036615} <verb.motion> turn4 -- (move around an axis or a center; "The wheels are turning")
+               => {01778173} <verb.motion> move -- (move so as to change position, perform a nontranslational motion; "He moved his hand slightly to the right") 

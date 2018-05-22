@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA3191
+
+DADO O SYNSET:
+
+S='Glosa3191'
+	    {
+	      interagir: Vários órgãos podem [interagir de maneira a desempenhar eficientemente uma determinada função.,
+	      interatuar: Usuários de diferentes níveis e localização poderão I]interatuar e navegar no espaço de uma ou várias fontes de informação, independentemente de sua localização física.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3191' = “agir junto ou voltado para outros ou com outros”
+	     {interagir: O empresário I]interagiu com a platéia, encenando ao vivo situações de compra e venda, além de ressaltar a importância da tecnologia como ferramenta indispensável em qualquer empresa.,
+	      interatuar: A educação como subsistema social I]interatua dialeticamente com outros subsistemas e pertence a um sistema total.,}
+Chave: INTERAGIR <verb.social>
+ILI: 02305904
+
+Sense 1
+{02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+       => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

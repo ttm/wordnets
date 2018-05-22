@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA0004
+
+DADO O SYNSET:
+
+S='Glosa4'
+{abaçanar: M]Abaçanar a pele.,
+enegrecer: O tom plúmbeo das árvores como que [enegrece o horizonte e torna triste o arrabalde.,
+escurecer: O céu I]escurecia, anunciando chuva.,}
+A='Glosa3'
+{aclarar, alumiar, clarear, iluminar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4' = “tornar(-se) escuro”
+{enegrecer: O tom plúmbeo das árvores como que [enegrece o horizonte e torna triste o arrabalde.,
+escurecer: O céu I]escurecia, anunciando chuva.,}
+A='Glosa3'
+{aclarar, alumiar, clarear, iluminar}
+Chave: ESCURECER <verb.change>
+ILI: 00302508
+
+Sense 1
+{00302508} <verb.change> darken -- (become dark or darker; "The sky darkened")
+       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

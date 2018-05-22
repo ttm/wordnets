@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA1916
+
+DADO O SYNSET:
+
+S='Glosa1916'
+{desboroar: x,
+ desmoronar: Na Rua Maria Benjamin, 660, em Pilares, o muro de uma casa [desmoronou.,
+ esbarrondar: E as águas remugem, ...A]esbarrondando barracas.,
+ esboroar: Pelos salões vazios, cujo estuque, lagarteado de fendas, A]esboroa à força de goteiras, paira o bafio da morte.,
+ esborralhar: No entanto, nesse mesmo dia, o submarino mandou umas peças p'ra terra, I]esborralhando a empena duma casa e matando uma velhinha.,
+ esbroar: x,
+ esfarelar: x,
+ esfarinhar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1916' = “destruir completamente”
+{desmoronar: Esse fato I]desmoronou o castelo de sonhos que estava construindo.,
+ esbarrondar: Tempestades que se sucedem furiosas, I]esbarrondando a represa frágil com que se acredita conter o impulso crescente das águas.,
+ esboroar: O arado corta, eleva, I]esboroa e inverte a camada de terra, provocando uma aeração das camadas mobilizadas.,}
+Chave: DESMORONAR <verb.creation>
+ILI: 01609320
+
+Sense 2
+{01609320} <verb.creation> demolish, pulverize, pulverise -- (destroy completely; "the wrecking ball demolished the building"; "demolish your enemies"; "pulverize the rebellion before it gets out of hand")
+       => {01574188} <verb.creation> destroy, destruct -- (do away with, cause the destruction or undoing of; "The fire destroyed the house")
+           => {01573490} <verb.creation> unmake, undo -- (deprive of certain characteristics)

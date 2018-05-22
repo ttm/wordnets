@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA3981
+
+DADO O SYNSET:
+
+S='Glosa3981'
+{adotar: Esquizofrenia é um comportamento adotado quando o indivíduo se encontra em uma situação conflituosa da qual não consegue sair senão I]adotando um disfarce ou fechando-se.,
+ adquirir: Cristalizaram-se I]adquirindo forma de gelo.,
+ apresentar: Uma vez que a célula ficou formatada como data, é preciso alterar sua formatação para ela I]apresentar formato de número.,
+ assumir: Como destaque interno o modelo traz o painel, que I]assumiu forma de arco.,
+ presentar: x,
+ revestir: O perfil adunco e chanfrado, que I]revestia a beleza feroz e sinistra do abutre, embotou a rispidez, saturando-se de uma bruteza alvar. ,
+ tomar: Mas foi em 1856 que I]tomou forma de carnaval, sendo realizados desfiles de carros alegóricos, máscaras.,
+ vestir: Para enganar os crédulos, o diabo H]vestiu a forma de um anjo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3981' = “adotar uma certa forma, atributo ou aspecto”
+{adotar: O árbitro Cláudio Vinícius Cerdeira [adotou uma maneira estranha de apitar.,
+ adquirir: Jader quis fazer crer que nessa breve passagem pelo Palácio [adquiriu sentimentos patrióticos antes ausentes de seu elevado espírito público.,
+ apresentar: Esse aplicativo, na sua versão autônoma, [apresenta novas características como a disposição irregular de texto em volta de objetos gráficos.,
+ assumir: No estilo coríntio, típico do período helenístico, conservaram os anéis na base, mas o capitel [assumiu o aspecto de um arranjo de flores.,
+ revestir: Mivart centrou sua argumentação no pescoço da girafa, e, como sua finalidade era atacar o darwinismo, I]revestiu sua argumentação de um caráter caricatural.,
+ tomar: Em 1988, a diversão espontânea do boi-bumbá [tomou forma de megaespetáculo.,
+ vestir: Ele I]vestiu a forma conhecida como Lobo-Sauron, a forma de um lobisomem poderoso, e saiu para confrontar seus inimigos.}
+Chave: ADOTAR <verb.change>
+ILI: 00510844
+
+Sense 4
+{00510844} <verb.change> assume, acquire, adopt1, take on, take1 -- (take on a certain form, attribute, or aspect; "His voice took on a sad tone"; "The story took a new turn"; "he adopted an air of superiority"; "She assumed strange manners"; "The gods assume human or animal form in these fables")
+       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

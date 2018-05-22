@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0919
+
+DADO O SYNSET:
+
+S='Glosa919'
+{cinerar: x,
+comburir: H]Comburiu os casebres como vingança.,
+combustar: x,
+incinerar: As duas usinas vão [incinerar e queimar, cada uma, 2.500 toneladas de lixo domiciliar por dia.,
+queimar: Esse sistema consiste em limpar uma pequena extensão do terreno, [queimar as plantas restantes e depois, com a enxada, quebrar os torrões de terra.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa919' = “realizar combustão em”
+{incinerar: As duas usinas vão [incinerar e queimar, cada uma, 2.500 toneladas de lixo domiciliar por dia.,
+queimar: Esse sistema consiste em limpar uma pequena extensão do terreno, [queimar as plantas restantes e depois, com a enxada, quebrar os torrões de terra.,}
+Chave: INCINERAR <verb.change>
+ILI: 00366409
+
+Sense 2
+{00366409} <verb.change> burn1, incinerate -- (cause to undergo combustion; "burn garbage"; "The car burns only Diesel oil")
+       => {00135037} <verb.change> change integrity -- (change in physical make-up)
+           => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA3076
+
+DADO O SYNSET:
+
+S='Glosa3076'
+	    {
+	      arranjar-se: Vossa Majestade quer que os melhores trabalhem nos seus conselhos, mas os medíocres é que se [arranjam.,
+	      arrumar-se: Se a economia se estabilizar, como estamos esperando, o Brasil vai se [arrumar.,
+	      avir-se: Herdeiros fatais, que somos, cada um tem de I]avir-se com esse legado.,
+	      haver-se: Ressalta que o Direito tem de I]haver-se com duas situações: normatizar questões inéditas referentes à Informática e incorporar essa tecnologia na rotinade seus procedimentos.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3076' = “estar encarregado ou lidar com”
+	     {arranjar-se: Cada um I]arranjou-se como pode e construiu provisoriamente o suficiente para abrigar a sua família.,
+	      arrumar-se: A equipe se I]arrumou com o tempo e igualou as condições de jogo com a expulsão de Fabinho, também no primeiro tempo.,
+	      avir-se: Herdeiros fatais, que somos, cada um tem de I]avir-se com esse legado.,
+	      haver-se: Ressalta que o Direito tem de I]haver-se com duas situações: normatizar questões inéditas referentes à Informática e incorporar essa tecnologia na rotinade seus procedimentos.,}
+Chave: ARRANJAR-SE <verb.social>
+ILI: 02364340
+
+Sense 3
+{02364340} <verb.social> take care12, mind1 -- (be in charge of or deal with; "She takes care of all the necessary arrangements")
+       => {02363018} <verb.social> manage, deal13, care11, handle -- (be in charge of, act on, or dispose of; "I can deal with this crew of workers"; "This blender can't handle nuts"; "She managed her parents' affairs after they got too old")
+           => {02367626} <verb.social> control, command -- (exercise authoritative control or power over; "control the budget"; "Command the military forces")

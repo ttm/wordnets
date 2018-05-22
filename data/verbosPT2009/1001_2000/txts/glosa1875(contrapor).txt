@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA1875
+
+DADO O SYNSET:
+
+S='Glosa1875'
+{antepor: Apugna restante [anteporá duas equipes rivalíssimas na Europa: Bélgica e Holanda.,
+ contrapor: Merquior procura [contrapor, à trapaça da erosão produzida, o vigor da reflexão.,
+ entrepor: x,
+ interpor: x,
+ opor: Entre Danton e Robespierre reaparecia o conflito que I]opusera Diderot, ea maioria de seus colaboradores, a Jean-Jacques Rousseau.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1875' = “colocar [alguém] em oposição ou rivalidade”
+{antepor: Apugna restante [anteporá duas equipes rivalíssimas na Europa: Bélgica e Holanda.,
+ contrapor: O All-Star Game acontece no dia 13 de fevereiro e [contrapõe as estrelas da Conferência do Leste aos astros do Oeste.,
+ opor: Entre Danton e Robespierre reaparecia o conflito que I]opusera Diderot, e a maioria de seus colaboradores, a Jean-Jacques Rousseau.,}
+Chave: CONTRAPOR <verb.competition>
+ILI: 01046688
+
+Sense 4
+{01046688} <verb.competition> pit, oppose, match, play off -- (set into opposition or rivalry; "let them match their best athletes against ours"; "pit a chess player against the Russian champion"; "He plays his two children off against each other")
+       => {01044330} <verb.competition> confront, face -- (oppose, as in hostility or a competition; "You must confront your opponent"; "Jackson faced Smith in the boxing ring"; "The two enemies finally confronted each other")
+           => {01045027} <verb.competition> meet, encounter, play2, take on1 -- (contend against an opponent in a sport, game, or battle; "Princeton plays Yale this weekend"; "Charlie likes to play Mary")

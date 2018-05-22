@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA2707
+
+DADO O SYNSET:
+
+S='Glosa2707'
+	    {afroixar-se: x,
+	      afrouxar-se: Um dia notou a mulher um leve I]afrouxar-se das pálpebras. Semanas depois percebeu que, no sorriso, franziam-se fundos os cantos dos olhos.,
+	      descuidar-se: x,
+	      relaxar-se: Profissões que exigem um rosto sempre perfeito podem se beneficiar do uso do Botox, pois, ao I]relaxar-se a musculatura, a pele se torna mais alisada e com uma aparência mais jovem. ,
+	      releixar-se: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2707' = “Tornar mais frouxo ou fraco.”
+	    {afrouxar-se: I]Afrouxaram-se as nossas mãos, angústia nos tomou.,
+	      relaxar-se: Os músculos de seus rins I]relaxaram-se.,}
+
+Chave: RELAXAR-SE <verb.change>
+ILI: 00409275
+
+Sense 3
+{00409275} <verb.change> slacken -- (become looser or slack; "the rope slackened")
+       => {00216002} <verb.change> weaken -- (become weaker; "The prisoner's resistance weakened after seven days")
+           => {00146081} <verb.change> decrease, diminish, lessen, fall6 -- (decrease in size, extent, or range; "The amount of homework decreased towards the end of the semester"; "The cabin pressure fell dramatically"; "her weight fall to under a hundred pounds"; "his voice fell to a whisper")
+               => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")
+          Also See-> {00150688} <verb.change> slacken off#1 

@@ -1,0 +1,18 @@
+ANÁLISE DA GLOSA2418
+
+DADO O SYNSET:
+
+S='Glosa2418'
+	    {sobre-saturar: x,
+	      supersaturar: Uma variação brusca de temperatura pode I]supersaturar a solução de açúcar e então ocorrer a cristalização.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2418' = “fazer com que um composto químico, vapor, solução,  ou material magnético, etc combine-se de modo excessivo  com a quantidade máxima possível de uma outra substância” 
+	    {supersaturar: Uma variação brusca de temperatura pode I]supersaturar a solução de açúcar e então ocorrer a cristalização.,}
+
+Chave: SUPERSATURAR <verb.change>
+ILI: EQ_HAS_HYPERONYM - 00443273
+
+{00443273} <verb.change> saturate1 -- (cause (a chemical compound, vapour, solution, magnetic material, etc.) to unite with the greatest possible amount of another substance)
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA2215
+
+DADO O SYNSET:
+
+S='Glosa2215'
+	    {beliscar: Alongando fagueira o colo, com o negro bico alisou-lhe os cabelos e [beliscou a boca mimosa e vermelha como a pitanga.,
+	      estorcegar: H]Estorcegou-a no braço.,
+	      estortegar: -"Fica queta, demoninho" - rugiu a criatura, A]estortegando-lhe a nádega.,
+	      estrafegar: x,
+	      velicar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2215' = “apertar entre os dedos”
+	    {beliscar: Que este ano resolveram atacar com tudo, [beliscando todo e qualquer bumbum masculino mais ajeitado.,
+	      estorcegar: H]Estorcegou-a no braço.,
+	      estortegar: -"Fica queta, demoninho" - rugiu a criatura, A]estortegando-lhe a nádega.,}
+
+Chave: BELISCAR <verb.contact>
+ILI: 01415473
+
+Sense 1
+{01415473} <verb.contact> pinch, squeeze2, twinge, tweet, nip, twitch -- (squeeze tightly between the fingers; "He pinched her behind"; "She squeezed the bottle")
+       => {01186979} <verb.contact> grip -- (hold fast or firmly; "He gripped the steering wheel")
+           => {01175818} <verb.contact> seize, prehend, clutch -- (take hold of; grab; "The salesclerk quickly seized the money on the counter"; "She clutched her purse"; "The mother seized her child by the arm"; "Birds of prey often seize small mammals")
+
+               => {01177510} <verb.contact> take, get hold of -- (get into one's hands, take physically; "Take a cookie!"; "Can you take this bag, please")

@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA3209
+
+DADO O SYNSET:
+
+S='Glosa3209'
+	    {
+	      agitar-se: O público que estava na fila para o velório de Ayrton Senna, até então calmo, [agitou-se no momento da chegada do corpo à Assembléia Legislativa. ,
+	      alterar-se: O espírito da própria terra ou do povo se I]alterava.,
+	      desacomodar-se: H]Desacomodou-se com os modos do vizinho.,
+	      desassossegar-se: Mas é necessário sim, amar o conhecimento, I]desassossegar-se com as dúvidas dos alunos e com as nossas próprias, desconfiar das coisas prontas.,
+	      excitar-se: DEVIANT,
+	      inquietar-se: Sem [inquietar-se com a destruição que faziam os Aimorés, continuou no seu trabalho interrompido, e acabou de torcer uma corda com os filamentos. ,
+	      intranqüilizar-se: Sua mente I]intranqüilizou-se, atribuindo que, além de alérgica, a menina estava acometida de algo estranho.,
+	      perturbar-se: Vendo-nos a todos naquele estado de aflição, ainda mais [perturbou-se.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3209' = “comover-se profundamente”
+	     {agitar-se: O público que estava na fila para o velório de Ayrton Senna, até então calmo, [agitou-se no momento da chegada do corpo à Assembléia Legislativa. ,
+	      alterar-se: O espírito da própria terra ou do povo se I]alterava.,
+	      desacomodar-se: H]Desacomodou-se com os modos do vizinho.,
+	      desassossegar-se: Homens de negócios I]desassossegaram-se com a descoberta.,
+	      inquietar-se: Antônio José I]inquietou-se com o formato e sugeriu que cada bailarino passasse a comandar seu próprio corpo. ,
+	      intranqüilizar-se: Sua mente I]intranqüilizou-se, atribuindo que, além de alérgica, a menina estava acometida de algo estranho.,
+	      perturbar-se: Amâncio I]perturbou-se deveras com a morte do pai.,}
+Chave: INQUIETAR-SE <verb.emotion>
+ILI: 01719446
+
+Sense 1
+{01719446} <verb.emotion> disturb, upset, trouble1 -- (move deeply; "This book upset me"; "A troubling thought")
+       => {01716999} <verb.emotion> affect, impress1, move, strike -- (have an emotional or cognitive impact upon; "This child impressed me as unusually mature"; "This behavior struck me as odd")

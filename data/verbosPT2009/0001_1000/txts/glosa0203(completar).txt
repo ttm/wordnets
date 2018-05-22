@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0203
+
+DADO O SYNSET:
+
+S='Glosa203'
+{completar: Cada vez que o corpo em movimento periódico atinge novamente esse ponto, dizemos que ele [completou um ciclo.,
+cumprir: Com isso, pela primeira vez desde 1966, Balaguer, que [cumpriu cinco mandatos presidenciais, não pôde ser candidato.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa203' = “vir ou levar a um final ou uma conclusão”
+{completar: Cada vez que o corpo em movimento periódico atinge novamente esse ponto, dizemos que ele [completou um ciclo.,
+cumprir: Com isso, pela primeira vez desde 1966, Balaguer, que [cumpriu cinco mandatos presidenciais, não pôde ser candidato.,}
+Chave: COMPLETAR <verb.change>
+ILI: 00470712
+
+Sense 1
+{00470712} <verb.change> complete2, finish2 -- (come or bring to a finish or an end; "He finished the dishes"; "She completed the requirements for her Master's Degree"; "The fastest runner finished the race in just over 2 hours; others finished in over 4 hours")
+       => {00341640} <verb.change> end1, terminate1 -- (bring to an end or halt; "She ended their friendship when she found out that he had once been convicted of a crime"; "The attack on Poland terminated the relatively peaceful period after WWI")
+           => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

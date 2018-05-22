@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA0834
+
+DADO O SYNSET:
+
+S='Glosa834'
+{abetumar: x,
+argamassar: Apoiar a laje de fundo e I]argamassar o local de contato com as paredes da caixa.,
+calafetar: Pode-se descascar o reboque e I]calafetar a junção com silicone, minimizando o problema.,
+cimentar: Passaram a invadir a escola em horário de aula para arrebentar os bueiros e tirar armas; foi quando a direção mandou I]cimentar os bueiros.,
+vedar: Crianças, por exemplo, tentam I]vedar o buraco com lama ou com um pedaço de pau e o atacadas.,}
+A='Glosa1218'
+{descimentar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa834' = “deixar estancado; seguro contra vazamentos”
+{argamassar: Apoiar a laje de fundo e I]argamassar o local de contato com as paredes da caixa.,
+calafetar: Pode-se descascar o reboque e I]calafetar a junção com silicone, minimizando o problema.,
+cimentar: Passaram a invadir a escola em horário de aula para arrebentar os bueiros e tirar armas; foi quando a direção mandou I]cimentar os bueiros.,
+vedar: Crianças, por exemplo, tentam I]vedar o buraco com lama ou com um pedaço de pau e o atacadas.,}
+A='Glosa1218'
+{descimentar}
+Chave: VEDAR <verb.contact>
+ILI: 01314097
+
+Sense 2
+{01314097} <verb.contact> seal3, seal off -- (make tight; secure against leakage; "seal the windows")
+       => {01305587} <verb.contact> close, shut -- (move so that an opening or passage is obstructed; make shut; "Close the door"; "shut the window")

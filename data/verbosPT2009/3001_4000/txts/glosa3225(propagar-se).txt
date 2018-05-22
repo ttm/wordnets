@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA3225
+
+DADO O SYNSET:
+
+S='Glosa3225'
+	    {
+	      difundir-se: Que a fluência mercantil não seja mais entravada, que ela possa [difundir-se livremente em todas as malhas do tecido social.,
+	      irradiar-se: A campanha civilista de Rui Barbosa [irradiou-se entre os letrados e os eleitores que possuíam cidadania enraizada na minúscula sociedade civil.,
+	      propagar-se: O prazer que experimentarás, vendo a doutrina I]propagar-se e bem compreendida, será uma recompensa.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3225' = “transmitir ou espalhar-se”
+	     {difundir-se: O Xadrez originou-se na Índia e I]difundiu-se por toda Europa.,
+	      irradiar-se: A campanha civilista de Rui Barbosa [irradiou-se entre os letrados e os eleitores que possuíam cidadania enraizada na minúscula sociedade civil.,
+	      propagar-se: Devido à sua grande eficácia, a Acupuntura I]propagou-se em vários países, entre eles a Itália, Espanha, Inglaterra, EUA, URSS, Japão, Coréia, França e China.,}
+Chave: PROPOAGAR-SE <verb.contact>
+ILI: 01339170
+
+Sense 5
+{01339170} <verb.contact> propagate1 -- (transmit or cause to broaden or spread; "This great civilization was propagated throughout the land")
+       => {01338470} <verb.contact> spread, distribute1 -- (distribute or disperse widely; "The invaders spread their language all over the country")

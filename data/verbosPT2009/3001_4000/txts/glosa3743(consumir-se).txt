@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA3743
+
+DADO O SYNSET:
+	
+S='Glosa3743'
+{afligir-se: Não penso que tenha vindo mal nenhum a Cipião, ora, I]afligir-se de seus próprios males, não é de um amigo, mas de um egoísta. ,
+	 cosumir-se: Num suicídio graduado, I]consumir-se, e após tantas vigílias, reduzir-se à herança miserável dos micróbios! ,
+	 desgostar-se: Na vida, todos estão sujeitos a passar por dissabores, a receber notícias desagradáveis, a I]desgostar-se com as injustiças dos menos esclarecidos. ,
+	 mortificar-se: Ela tinha razão em I]mortificar-se e se as coisas não estivessem em andamento, abriria mão da candidatura.,
+	 penalizar-se: Kyle ergueu o rosto e eu vi uma terrível tristeza em seus olhos; meu coração I]penalizou-se! }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3743' = “sentir pesar; consumir-se até não poder mais”
+{afligir-se: Não penso que tenha vindo mal nenhum a Cipião, ora, I]afligir-se de seus próprios males, não é de um amigo, mas de um egoísta.,
+	 consumir-se: Num suicídio graduado, I]consumir-se, e após tantas vigílias, reduzir-se à herança miserável dos micróbios!,
+	 desgostar-se: Na vida, todos estão sujeitos a passar por dissabores, a receber notícias desagradáveis, a I]desgostar-se com as injustiças dos menos esclarecidos.,
+	 mortificar-se: Ela tinha razão em I]mortificar-se e se as coisas não estivessem em andamento, abriria mão da candidatura.,
+	 penalizar-se: Kyle ergueu o rosto e eu vi uma terrível tristeza em seus olhos; meu coração I]penalizou-se! }
+Chave: CONSUMIR-SE <verb.emotion>
+ILI: 01226464
+
+Sense 1
+{01226464} <verb.emotion> grieve, sorrow -- (feel grief; eat one's heart out)
+       => {01224912} <verb.emotion> suffer -- (endure emotional pain)
+           => {01209074} <verb.emotion> feel, experience -- (undergo an emotional sensation; "She felt resentful"; "He felt regret")

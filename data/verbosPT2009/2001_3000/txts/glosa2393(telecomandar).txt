@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA2393
+
+DADO O SYNSET:
+
+S='Glosa2393'
+	    {telecomandar: A equipe do CIMEX deverá estar no centro de controle POCC, para monitorar e I]telecomandar o experimento. ,
+	      teleconduzir: x,
+	      teledirigir: x,
+	      teleguiar: Qual o retorno de tanto esforço em desenvolver as fibras ópticas, minúsculas câmaras de vídeo, câmeras que vêm no escuro, mira raio lazer, satélites, criptografia, máquinas capazes de processar bilhões de informações em segundos, chips para I]teleguiar bombas e mísseis, etc.?.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2393' = “dirigir o curso ou  determinar a direção da trajetória por radar”
+	    {telecomandar: A equipe do CIMEX deverá estar no centro de controle POCC, para monitorar e I]telecomandar o experimento.,
+	      teleguiar: O grupo também detectou um fenômeno que possibilita a aplicação desses materiais na fabricação de microlentes e em sistemas para I]teleguiar mísseis,}
+
+Chave: TELECOMANDAR <verb.motion>
+ILI: EQ_HAS_HYPERONYM - 01875920
+
+{01875920} <verb.motion> steer, maneuver, manoeuver, manoeuvre, direct3, point5, head1, guide1, channelize3, channelise3 -- (direct the course; determine the direction of travelling)
+       => {02367626} <verb.social> control, command -- (exercise authoritative control or power over; "control the budget"; "Command the military forces")

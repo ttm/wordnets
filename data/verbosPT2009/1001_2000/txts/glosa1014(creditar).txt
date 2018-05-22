@@ -1,0 +1,26 @@
+ANÁLISE DA GLOSA1014
+
+DADO O SYNSET:
+
+S='Glosa1014'
+{creditar: Chico Whitaker (PT) , interpelou judicialmente, em novembro, o então presidente da Câmara, Antônio Sampaio, para que ele se explicasse sobre os cálculos que o levavam a [creditar mensalmente quantias indevidas.,
+ depositar: Como Charles não tem dinheiro para pagar tudo de uma vez só, é possível que seja criado um fundo onde o príncipe [depositaria regularmente o dinheiro.,
+ lançar: Equipe quer regra rígida que impeça o governo de [lançar reais na economia para cobrir contas a descoberto.,}
+
+A='Glosa1015'
+{debitar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1014' = “lançar (uma quantia) em conta-corrente (de alguém)”
+{creditar: Ele debita automaticamente da conta corrente de sua empresa e I]credita na conta salário ou conta corrente de seus empregados.,
+ depositar: Outro fato extemporâneo é que a Petrobrás somente em fins de fevereiro [depositou na conta da Riotur R$ 500 mil, referente às cotas do patrocínio.}
+
+A='Glosa1015'
+ {debitar}
+Chave: DEPOSITAR <verb.possession>
+ILI: 02199349
+
+Sense 3
+{02199349} <verb.possession> credit -- (accounting: enter as credit; "We credit your account with $100")
+       => {02199815} <verb.possession> account, calculate -- (keep an account of)

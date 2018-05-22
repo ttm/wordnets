@@ -1,0 +1,19 @@
+ANÁLISE DA GLOSAXXXX
+
+DADO O SYNSET:
+
+S='Glosa1804'B
+{desgrampear: A maioria desses "leitores", pesquisas informam, I]desgrampeia o saquinho e joga fora o jornal, o que parece ser duplamente insano.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4131 = “retirar o(s) grampo(s) [de]”
+{desgrampear: A maioria desses "leitores", pesquisas informam, I]desgrampeia o saquinho e joga fora o jornal, o que parece ser duplamente insano.,}
+Chave: DESGRAMPEAR <verb.contact>
+ILI: 01327446
+
+Sense 1
+{01327446} <verb.contact> unstaple -- (take the staples off; "unstaple the piece of paper from the receipt")
+       => {01477750} <verb.contact> undo -- (cancel, annul, or reverse an action or its effect; "I wish I could undo my actions")
+           => {00133458} <verb.change> change by reversal, turn, reverse -- (change to the contrary; "The trend was reversed"; "the tides turned against him"; "public opinion turned when it was revealed that the president had an affair with a White House intern")
+               => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

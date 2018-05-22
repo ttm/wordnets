@@ -1,0 +1,43 @@
+ANÁLISE DA GLOSA4059
+
+DADO O SYNSET:
+
+S='Glosa4059'
+{acomodar-se: Seus métodos não se H]acomodam aos nossos.,
+adaptar-se: As agências sempre se I]adaptaram bem as evoluções de caráter técnico ou tecnológico.,
+adequar-se: Aquele vinho não se H]adequava à carne de caça.,
+ajeitar-se: Danado de cabelo que não se I]ajeita. ,
+ajustar-se: O recurso não se I]ajusta bem.,
+arranjar-se: Cada um I]arranjou-se como pode e construiu provisoriamente o suficiente para abrigar a sua família. ,
+conformar-se: Sua fome vai ter de H]conformar-se ao que temos para comer.,
+harmonizar-se: Suas vozes se I]harmonizaram num tempo analógico.,
+proporcionar-se: O professor M]proporciona-se com os discípulos.,
+quadrar-se: M]Quadrou-se perfeitamente às suas funções.,}
+	  
+A='Glosa310'
+{desajustar-se}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa4059' = “ser conforme [a] ou aceitável [para]”
+{acomodar-se: Seus métodos não se H]acomodam aos nossos.,
+adaptar-se: As agências sempre se I]adaptaram bem às evoluções de caráter técnico ou tecnológico.,
+adequar-se: Aquele vinho não se H]adequava à carne de caça.,
+ajeitar-se: Não se H]ajeitava àquela situação. ,
+ajustar-se: Depois, [ajustou-se ao tempo do jogo e acabou servindo por duas vezes os nossos atacantes em situação primorosa de gol,
+conformar-se: Sua fome vai ter de H]conformar-se ao que temos para comer.,
+harmonizar-se: Sei perfeitamente, porém, o quanto a idéia de I]harmonizar-se com o Tao é estranha para um ocidental como eu.,
+proporcionar-se: O professor M]proporciona-se com os discípulos.,
+quadrar-se: M]Quadrou-se perfeitamente às suas funções.,}
+	  
+A='Glosa310'
+{desajustar-se}
+Chave: CONFORMAR-SE <verb.stative>
+ILI: 02621525
+
+Sense 1
+{02621525} <verb.stative> suit5, accommodate, fit5 -- (be agreeable or acceptable to; "This suits my needs")
+       => {02587702} <verb.stative> meet1, fit1, conform to1 -- (satisfy a condition or restriction; "Does this paper meet the requirements for the degree?")
+           => {02578124} <verb.stative> match, fit4, correspond, check8, jibe, gibe, tally, agree -- (be compatible, similar or consistent; coincide in their characteristics; "The two stories don't agree in many details"; "The handwriting checks with the signature on the check"; "The suspect's fingerprints don't match those on the gun")
+               => {02584716} <verb.stative> equal, be7 -- (be identical or equivalent to; "One dollar equals 1,000 rubles these days!")
+ 

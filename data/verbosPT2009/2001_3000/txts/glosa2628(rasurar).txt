@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA2628
+
+DADO O SYNSET:
+
+S='Glosa2628'
+	    {apagar: Capitu riscava sobre o riscado, para [apagar bem o escrito.,
+	      raspar: Não tente I]raspar a inscrição "RFFSA" ou a numeração de fábrica, sob pena de danificar a pintura original.,
+	      rasurar: Não pode o eleitor acrescentar nomes ou I]rasurar a cédula, sob pena de nulidade do voto.,
+	      respançar: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2628' = “Remover raspando ou apagando.”
+	    {apagar: Capitu riscava sobre o riscado, para [apagar bem o escrito.,
+	      raspar: Não tente I]raspar a inscrição "RFFSA" ou a numeração de fábrica, sob pena de danificar a pintura original.,
+	      rasurar: Não pode o eleitor acrescentar nomes ou I]rasurar a cédula, sob pena de nulidade do voto.,}
+
+Chave: RASURAR <verb.contact>
+ILI: 01505928
+
+Sense 2
+{01505928} <verb.contact> erase, rub out, score out, efface, wipe off1 -- (remove by or as if by rubbing or erasing; "Please erase the formula on the blackboard--it is wrong!")
+       => {01506397} <verb.contact> delete, cancel -- (remove or make invisible; "Please delete my name from your list")
+           => {00166870} <verb.change> remove, take, take away1, withdraw1 -- (remove something concrete, as by lifting, pushing, taking off, etc. or remove something abstract; "remove a threat"; "remove a wrapper"; "Remove the dirty dishes from the table"; "take the gun from your pocket"; "This machine withdraws heat from the environment") 

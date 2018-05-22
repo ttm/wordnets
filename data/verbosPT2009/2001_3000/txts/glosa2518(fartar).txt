@@ -1,0 +1,30 @@
+ANÁLISE DA GLOSA2518
+
+DADO O SYNSET:
+
+S='Glosa2518'
+	    {desafaimar: x,
+	      embuchar: Ela fez o famoso tropeiro-tutu que estava uma delicia e uma farofa preta que era para I]embuchar os convidados.,
+	      encher: Áurea diz que a Divina certa vez a I]encheu de comida.,
+	      enfartar: Jesus sempre quer nos dar e nos I]enfartar de tudo o que pedimos.,
+	      fartar: Dêem ração de I]fartar os animais.,
+	      saciar: No eventual governo de Lula, segundo a carta, será construído um país onde o leite jorre e o pão seja farto para [saciar a fome de milhões de crianças.,
+	      saturar: H]Saturar o guloso.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2518' = “Comer demais ou comer imodestamente.”
+	    {embuchar: Ela fez o famoso tropeiro-tutu que estava uma delicia e uma farofa preta que era para I]embuchar os convidados.,
+	      encher: Áurea diz que a Divina certa vez a I]encheu de comida.,
+	      enfartar: I]Enfartou de bolo ontem no meu aniversario, amigo?.,
+	      fartar: O almoço que nos I]fartou faz festa na biosfera estomacal.,
+	      saciar: Quem haverá aí que não se I]saciou de carne provida por ele.,
+	      saturar: H]Saturar o guloso.,}
+
+Chave: FARTAR <verb.consumption>
+ILI: 01156771
+
+Sense 4
+{01156771} <verb.consumption> gorge, ingurgitate, overindulge, glut, englut, stuff, engorge, overgorge, overeat, gormandize, gormandise, gourmandize, binge, pig out, satiate1, scarf out -- (overeat or eat immodestly; make a pig of oneself; "She stuffed herself at the dinner"; "The kids binged on icecream")
+       => {01130349} <verb.consumption> eat1 -- (eat a meal; take a meal; "We did not eat until 10 P.M. because there were so many phone calls"; "I didn't eat yet, so I gladly accept your invitation")
+           => {01121136} <verb.consumption> consume, ingest, take in, take, have -- (serve oneself to, or consume regularly; "Have another bowl of chicken soup!"; "I don't take sugar in my coffee") 

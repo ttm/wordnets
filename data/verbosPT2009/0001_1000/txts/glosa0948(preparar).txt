@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA0948
+
+DADO O SYNSET:
+
+S='Glosa948'
+{confeccionar: Durante o período recessivo da Segunda Guerra Mundial, a famosa estatueta de metal teve que ser [confeccionada em gesso. ,
+manipular: Mesmo o mais artesanal dos escultores, ao [manipular o barro para construir suas figuras, deve certamente dobrar-se às determinações de sua matéria.,
+preparar: Seria cozinheiro, para [preparar a sua própria comida.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa948' = “elaborar, deixar algo pronto para o consumo”
+{confeccionar: Durante o período recessivo da Segunda Guerra Mundial, a famosa estatueta de metal teve que ser [confeccionada em gesso. ,
+manipular: Mesmo o mais artesanal dos escultores, ao [manipular o barro para construir suas figuras, deve certamente dobrar-se às determinações de sua matéria.,
+preparar: Seria cozinheiro, para [preparar a sua própria comida.,}
+Chave: PREPARAR <verb.change>
+ILI: 00394129
+
+Sense 1
+{00394129} <verb.change> fix3, prepare, set up2, ready, gear up, set9 -- (make ready or suitable or equip in advance for a particular purpose or for some use, event, etc; "Get the children ready for school!"; "prepare for war"; "I was fixing to leave town after I paid the hotel bill")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

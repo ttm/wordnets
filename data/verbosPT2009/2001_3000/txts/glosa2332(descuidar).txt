@@ -1,0 +1,32 @@
+ANÁLISE DA GLOSA2332
+
+DADO O SYNSET:
+
+S='Glosa2332'
+	    {descuidar: Kerry acusa Bush de I]descuidar da segurança das tropas no Iraque.,
+	      descurar: Diante da crise de emprego por que passam as sociedades globalizadas, a cooperativa de trabalho, mais uma espécie de cooperativa, se apresenta como alternativa capaz de desonerar a produção dos encargos trabalhistas, sem I]descurar da proteção do trabalhador, propiciando a alocação da mão-de-obra ociosa.,
+	      desleixar: No começo de 95, tinha emagrecido 250 quilos, ganhou uma menção no Guiness Book,  foi quando teve os primeiros atritos com a direção do spa, pois queria liberdade para sair com os amigos. Sem avisar a direção, comprou uma pequena casa no Conjunto Residencial ``Julio de Mesquita Filho'' e começou a I]desleixar o tratamento.,
+	      deszelar: H]Deszelar as obrigações diárias.,
+	      esquecer: Agora, se o romance for inevitável, tome cuidado: não é porque está apaixonado que vai I]esquecer das obrigações ou começar a trocar carinhos na frente do patrão.,
+	      negligenciar: Efraim Morais acusa governo de I]negligenciar área social.,
+	      omitir: Tanto H]omitiu as suas obrigações que acabou sendo repreendido.,
+	      transcurar: O novo Beato disse certa vez: “A Igreja não pode nem deve I]transcurar a questão social: não deve deixar a gestão da vida civil só nas mãos dos próprios inimigos naturais ou declarados, deve participar na vida e não deve temer a batalha com os adversários”.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2332' = “Dar pouca ou nenhuma atenção à algo.”
+	    {descuidar: Kerry acusa Bush de I]descuidar da segurança das tropas no Iraque.,
+	      descurar: A cooperativa de trabalho se apresenta como alternativa capaz de desonerar a produção dos encargos trabalhistas, sem I]descurar da proteção do trabalhador.,
+	      desleixar: Sem avisar a direção, comprou uma pequena casa e começou a I]desleixar o tratamento.,
+	      deszelar: H]Deszelar as obrigações diárias.,
+	      esquecer: Não é porque está apaixonado que vai I]esquecer das obrigações.,
+	      negligenciar: Efraim Morais acusa governo de I]negligenciar área social.,
+	      omitir: Tanto H]omitiu as suas obrigações que acabou sendo repreendido.,
+	      transcurar: O novo Beato disse certa vez: “A Igreja não pode nem deve I]transcurar a questão social”.,}
+
+Chave: DESCUIDAR <verb.cognition>
+ILI: 00596614
+
+Sense 4
+{00596614} <verb.cognition> neglect1, ignore3, disregard -- (give little or no attention to; "Disregard the errors")
+       => {00596996} <verb.cognition> pretermit1 -- (disregard intentionally or let pass) 

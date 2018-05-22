@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA0670
+
+DADO O SYNSET:
+
+S='Glosa670'
+{arrastar-se: Deixou o caso Bisol [arrastar-se por três semanas na mídia e, no final, decidiu mantê-lo como vice.,
+demorar: Caso o pedido fosse protocolado, a decisão poderia [demorar 48 horas, dependendo da vara que fosse sorteada para julgar a ação popular. ,
+estender-se: De acordo com a CET (Companhia de Engenharia de Tráfego), a interdição das ruas próximas ao estádio do Pacaembu deverá [estender-se até as 22h30 ou cerca de meia hora após o término do jogo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa670' = “alongar (-se) em tempo; fazer durar mais, prolongar (-se)”
+{arrastar-se: Deixou o caso Bisol [arrastar-se por três semanas na mídia e, no final, decidiu mantê-lo como vice.,
+demorar: Caso o pedido fosse protocolado, a decisão poderia [demorar 48 horas, dependendo da vara que fosse sorteada para julgar a ação popular. ,
+estender-se: De acordo com a CET (Companhia de Engenharia de Tráfego), a interdição das ruas próximas ao estádio do Pacaembu deverá [estender-se até as 22h30 ou cerca de meia hora após o término do jogo.,}
+Chave: ESTENDER-SE <verb.change>
+ILI: 00307944
+
+Sense 10
+{00307944} <verb.change> prolong, protract, extend2, draw out -- (lengthen in time; cause to be or last longer; "We prolonged our stay"; "She extended her visit by another day"; "The meeting was drawn out until midnight")
+       => {00307756} <verb.change> lengthen1 -- (make longer; "Lengthen this skirt, please")
+           => {00147655} <verb.change> increase2 -- (make bigger or more; "The boss finally increased her salary"; "The university increased the number of students it admitted")
+               => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

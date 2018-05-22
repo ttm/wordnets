@@ -1,0 +1,34 @@
+ANÁLISE DA GLOSA0770
+
+DADO O SYNSET:
+
+S='Glosa770'
+{abençoar: Sim, senhor, parece absurdo, mas e preciso conhecê-la; digo que, uma vez que você seja feliz, é capaz de [abençoar a bela rival.,
+apoteosar: Só ele habilita-se a I]apoteosar e cultuar a divindade trina.,
+apoteotizar: x,
+bençoar: x,
+bendizer: Tem que espreitar os desejos do amado, e lhe fazer as quatro vontades, e atormentá-lo com cuidados e I]bendizer os seus caprichos.,
+glorificar: O amor da família e do próximo determina a abnegação e o sacrifício, I]glorificando o Homem pela libertação do egoísmo. ,
+louvar: Compara tu a situação de Príamo com a minha; eu acabava de [louvar as virtudes do homem que recebera, defunto, aqueles olhos.,}
+A='Glosa3341'
+{amaldiçoar, anatematizar, desconjurar, esconjurar, excomungar, execrar,     imprecar, maldiçoar}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa770' = “elogiar (louvar), honrar, dar glória a”
+{abençoar: Sim, senhor, parece absurdo, mas e preciso conhecê-la; digo que, uma vez que você seja feliz, é capaz de [abençoar a bela rival.,
+apoteosar: Só ele habilita-se a I]apoteosar e cultuar a divindade trina.,
+bendizer: Tem que espreitar os desejos do amado, e lhe fazer as quatro vontades, e atormentá-lo com cuidados e I]bendizer os seus caprichos.,
+glorificar: O amor da família e do próximo determina a abnegação e o sacrifício, I]glorificando o Homem pela libertação do egoísmo. ,
+louvar: Compara tu a situação de Príamo com a minha; eu acabava de [louvar as virtudes do homem que recebera, defunto, aqueles olhos.,}
+A='Glosa3341'
+{amaldiçoar, anatematizar, desconjurar, esconjurar, excomungar, execrar,     imprecar, maldiçoar}
+Chave: GLORIFICAR <verb.communication>
+ILI: 00832481
+
+Sense 1
+{00832481} <verb.communication> laud, extol, exalt, glorify, proclaim1 -- (praise, glorify, or honor; "extol the virtues of one's children"; "glorify one's spouse's cooking")
+       => {00828989} <verb.communication> praise -- (express approval of; "The parents praised their children for their academic performance")
+           => {00658664} <verb.cognition> measure1, evaluate, valuate, assess, appraise1, value -- (place a value on; judge the worth of something; "I will have the family jewels appraised by a professional")
+               => {00647983} <verb.cognition> judge -- (form an opinion of or pass judgment on; "I cannot judge some works of modern art")
+                   => {00608615} <verb.cognition> think, cogitate, cerebrate -- (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere")

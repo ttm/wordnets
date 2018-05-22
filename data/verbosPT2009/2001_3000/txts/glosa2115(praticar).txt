@@ -1,0 +1,25 @@
+ANÁLISE DA GLOSA2115
+
+DADO O SYNSET:
+	
+S='Glosa2115'
+    	{ensaiar: I]Ensaiar o texto, os movimentos e as marcações da personagem.,
+      	 exercer: x,
+      	 exercitar: Corrigir pronúncia e escrita e o principal, I]exercitar o idioma, comunicando-se com outros colegas e aprendendo através das experiências e dificuldades por outros encontrados.,
+      	 manear: x,
+      	 manejar: A]Manejar um idioma estrangeiro.,
+      	 praticar: Numa turma de mais de cinco pessoas, nem o melhor instrutor poderia I]praticar um idioma com cada um dos alunos.,
+      	 versar1: A]Versar línguas estrangeiras.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2115' = “aprender por repetição”
+    	{ensaiar: A professora Ilza Catarina [ensaiava mais um de seus passos na passarela improvisada.,
+      	 exercitar: Ele [exercita a pontaria fuzilando judeus da janela dos seus aposentos.,
+      	 praticar: Rafael [pratica judô num clube próximo de casa.}
+Chave: PRATICAR <verb.cognition>
+ILI: 00586278
+
+Sense 1
+{00586278} <verb.cognition> drill, exercise, practice, practise -- (learn by repetition; "We drilled French verbs every day"; "Pianists practice scales")
+       => {00580363} <verb.cognition> learn2, study, read5, take2 -- (be a student of a certain subject; "She is reading for the bar exam")

@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA2741
+
+DADO O SYNSET:
+
+  S='Glosa2741'
+	    {recompor-se: Metade desse território é de vegetação natural (Mata Atlântica, cerrado e capoeira) e deve levar cerca de 15 anos para [se recompor, segundo a Secretaria Estadual do Meio Ambiente.,
+	      reconstituir-se: Uma tarefa do governo Lula pode ser a ajuda no sentido da argentina I]reconstituir-se como potência territorial.,
+	      refocilar-se: x,
+	      repor-se: Hoje, São Paulo começa a I]repor-se como um estado que tem capacidade de, junto com os outros estados da Federação transformar o Brasil, cada vez mais, num país forte e próspero para seu povo.,
+	      restabelecer-se: Estou convencido de que foi ali, naquele culto ecumênico, que começou, lentamente, a I]restabelecer-se a democracia no Brasil.,}
+
+A ANÁLISE RESULTA EM:
+
+  S='Glosa2741' = “Voltar a sua condição original, ou usável e funcional”
+	    {recompor-se: Só na Unicamp, nos últimos anos, nós perdemos centenas de professores e o quadro jamais I]se recompôs.,
+	      reconstituir-se: É desta forma que I]se reconstituiu uma classe trabalhadora que tem todas as condições de ser vitoriosa amanhã.,
+	      repor-se: A poesia não I]se repôs, todavia.,
+	      restabelecer-se: Se bem que I]se restabeleceu (com altos e baixos) o espaço do diálogo social.,}
+
+Chave: RECOMPOR-SE <verb.social>
+ILI: 02476974
+
+Sense 1
+{02476974} <verb.social> restore1, reconstruct4 -- (return to its original or usable and functioning condition; "restore the forest to its original pristine condition")
+       => {01584867} <verb.creation> regenerate, renew -- (re-establish on a new, usually improved, basis or make new or like new; "We renewed our friendship after a hiatus of twenty years"; "They renewed their membership")
+           => {01573613} <verb.creation> re-create -- (create anew; "Re-create the boom of the West on a small scale")
+               => {01571506} <verb.creation> make, create -- (make or cause to be or to become; "make a mess in one's office"; "create a furor") 

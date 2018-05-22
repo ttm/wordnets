@@ -1,0 +1,75 @@
+ANÁLISE DA GLOSA3561
+
+DADO O SYNSET:
+
+S='Glosa3561'
+	    {
+	      abodegar: x ,
+	      carimbar: O menino H]carimbou a roupa com tinta.,
+	      embodegar: x,
+	      embuziar: x,
+	      embuzinar1: x,
+	      emporcalhar: Importado dos EUA, hábito de comer pipoca no cinema ajuda a I]emporcalhar salas de exibição. / Nenhum ambulante terá o direito de I]emporcalhar a cidade.,
+	      emporcar: Pichadores I]emporcam a região. ,
+	      encardir: Vapores de cozinha, poluição do ar e fuligem podem, gradualmente, I]encardir o tapete.,
+	      encarvoar: Como dominós, as pessoas vão se acomodando junto ao chão, I]encarvoando seus vestidos. ,
+	      encarvoejar: x,
+	      enlaivar: De resto, é só o linho que se I]enlaiva.,
+	      enlambuzar: Experimentei um sanduíche gigantesco, perto dos trinta centímetros de comprimento, I]de enlambuzar os dedos.,
+	      enlamear: A chuva não era muita mas foi a suficiente para I]enlamear o terreno.,
+	      enlodar: A humanidade algumas vezes, como as aves, rasteja e se I]enloda nos charcos da terra.,
+	      enodoar: A roda de um veículo cuspiu sobre mim a pocinha d’água; o bastante para I]enodoar minha calça branca.,
+	      inquinar: I]Inquinar a água do rio logo na nascente.,
+	      laivar: As oliveiras I]laivam de cinzento o vermelho dos barros. / I]Laivavam-se de amarelo.,
+	      lambuzar: Freitas estava preocupado a esbrugar uma canela de frango, sem querer [lambuzar os bigodes.,
+	      manchar: Prepara-te para morrer; se não, passa teu caminho, guerreiro vil, para que o sangue do fraco não [manche o tacape.,
+	      mascarrar: Deitam-lhe algemas, dão-lhe bofetões, insultam-no, I]mascarram-no de lodo.,
+	      nodoar: I]Nodoar uma roupa branca.,
+	      sujar: Se tirasse os patins iria [sujar meus pés. ,
+	    }
+A='Glosa3524'
+	    {
+	     alimpar: Despejar pratos, e I]alimpar tigelas.,
+	     assear: Os escravos tiveram ordem de [assear a quinta, limpar as estradas, os tanques e os pombais.,
+	     desencardir: Tomei um banho de mangueira e outro de chuveiro, e demorou para I]desencardir toda aquela lama. ,
+	     desenlambuzar: x,
+	     desenlamear: H]Desenlamear o carro.,
+	     desenlodar: x,
+	     desenodoar: x,
+	     deslodar: H]Deslodoar a barra da calça.,
+	     desnodoar: x,
+	     dessujar: x,
+	     limpar: Franceses testam canhão para tirar poeira da catedral parisiense; essa técnica pode [limpar outros monumentos./ Vão se dividir em grandes grupos com a tarefa de desentupir bueiros e [limpar ruas nas regiões mais atingidas pelas chuvas.  ,
+	     mundificar: M]Mundificar feridas.,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3561' = “fazer manchado, sujo ou imundo”
+	     {carimbar: O menino H]carimbou a roupa com tinta.,
+	      emporcalhar: Gutin I]emporcalhou o quarto dele todinho, mandando a paçoca na parede e lavando o monitor dele com suco.,
+	      encardir: Vapores de cozinha, poluição do ar e fuligem podem, gradualmente, I]encardir o tapete.,
+	      encarvoar: Como dominós, as pessoas vão se acomodando junto ao chão, I]encarvoando seus vestidos. ,
+	      enlambuzar: Enquanto o menino se I]enlambuzava de amarelo, Tião suspirava.,
+	      enlamear: A chuva I]enlameou todo o estacionamento da casa de espetáculos (que é de chão batido) e o congestionamento foi grande.,
+	      enodoar: Leonardo da Vinci preferia a pintura, que não lhe I]enodoava as roupas, e lhe permitia manejar os pincéis no tranqüilo oásis de seu quarto.,
+	      inquinar: I]Inquinar a água do rio logo na nascente.,
+	      lambuzar: Jantou sem lavar as mãos, sujou a toalha da mesa, de propósito, e I]lambuzou a cara com o leite condensado, que era só dela.,
+	      manchar: Uma caneta bic estourou na bolsa e I]manchou toda a minha mão.,
+	      mascarrar: Deitam-lhe algemas, dão-lhe bofetões, insultam-no, I]mascarram-no de lodo.,
+	      nodoar: I]Nodoar uma roupa branca.,
+	      sujar: Uma mancha de sangue que descia do nariz e [sujava o casaco denunciava sua morte. ,}
+A='Glosa3524'
+	    {alimpar: Despejar pratos, e I]alimpar tigelas.,
+	     assear: Os escravos tiveram ordem de [assear a quinta, limpar as estradas, os tanques e os pombais.,
+	     desencardir: Tomei um banho de mangueira e outro de chuveiro, e demorou para I]desencardir toda aquela lama. ,
+	     desenlamear: H]Desenlamear o carro.,
+	     deslodar: H]Deslodoar a barra da calça.,
+	     limpar: Franceses testam canhão para tirar poeira da catedral parisiense; essa técnica pode [limpar outros monumentos./ Vão se dividir em grandes grupos com a tarefa de desentupir bueiros e [limpar ruas nas regiões mais atingidas pelas chuvas.  ,
+	     mundificar: M]Mundificar feridas.,}
+Chave: SUJAR
+ILI: EQ_NEAR_SYNONYM - 01491650
+
+Sense 1
+{01491650} <verb.contact> dirty, soil, begrime, grime, colly, bemire -- (make soiled, filthy, or dirty; "don't soil your clothes when you play outside!")
+       => {00121430} <verb.change> change1, alter1, modify10 -- (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")

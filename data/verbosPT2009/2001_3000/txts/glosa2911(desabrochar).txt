@@ -1,0 +1,35 @@
+ANÁLISE DA GLOSA2911
+
+DADO O SYNSET:
+
+S='Glosa2911'
+	    {abrir: A rosa vermelha I]abriu suas pétalas no ar frio da manhã.,
+	      desabotoar: Há tempo da flor que I]desabotoa devagar, antecipando em si mesma a Primavera; há tempo de plantar e tempo de colher. ,
+	      desabrochar: De acordo com botânicos, flores dessa espécie só [desabrocham uma vez a cada quatro anos. # A fotografia ao lado foi tirada no dia 21 de março, dois dias depois de a flor começar a [desabrochar.,
+	      desabrolhar: O sol H]desabrolha as flores.,
+	      desbotoar: x,
+	      desbrochar: O nascimento de uma planta, o I]desbrochar de uma flor, as nuvens, o vento, a chuva fazem parte da vida no campo e o tempo tem uma dimensão bem difirente daquela da cidade. ,
+	      eclodir: x,
+	      entreabrir: As flores M]entreabriram.,
+	      florir: É ótimo poder arrancar o mato de meu jardim, eu me esqueço de todo o resto, além de ter o prazer de ver coisas novas nascendo, quando uma orquídea começa a[florir ou quando brotam os meus jacintos, diz Beverly.,
+	      rebentar: E veremos, exatamente como no solo crestado pela invernia, I]rebentar em flores e verduras.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2911' = “Crescer, progredir, abrir ou desenvolver através de um processo de evolução, crescimento natural, diferenciação ou um ambiente conducente”
+	    {abrir: A rosa vermelha I]abriu suas pétalas no ar frio da manhã.,
+	      desabotoar: Há tempo da flor que I]desabotoa devagar, antecipando em si mesma a Primavera; há tempo de plantar e tempo de colher. ,
+	      desabrochar: De acordo com botânicos, flores dessa espécie só [desabrocham uma vez a cada quatro anos.,
+	      entreabrir: As flores em botão, nos bosques, I]entreabriam.,
+	      florir: Algumas plantas que já I]floriram demonstraram a excelência em qualidade.,
+	      rebentar: Como explicar que a cada primavera novos brotos I]rebentavam da terra.,}
+Chave: DESABROCHAR <verb.change>
+ILI: 00243643
+
+Sense 10
+{00243643} <verb.change> develop -- (grow, progress, unfold, or evolve through a process of evolution, natural growth, differentiation, or a conducive environment; "A flower developed on the branch"; "The country developed into a mighty superpower"; "The embryo develops into a fetus"; "This situation has developed over a long time")
+       => {00223119} <verb.change> grow -- (become larger, greater, or bigger; expand or gain; "The problem grew too large for me"; "Her business grew fast")
+           => {00150804} <verb.change> increase -- (become bigger or greater in amount; "The amount of work increased")
+               => {00163165} <verb.change> change magnitude -- (change in size or magnitude)
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")
+                       => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night") 

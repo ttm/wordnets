@@ -1,0 +1,24 @@
+ANÁLISE DA GLOSA1752
+
+DADO O SYNSET:
+
+S='Glosa1752'
+{cicatrizar-se: O pé pode desenvolver uma circulação reduzida, tornando-se frio, com câimbras e apresentando dificuldades de combater infecções e de I]cicatrizar-se normalmente.,
+ encarnar: O ferimento A]encarnou.,
+ encoirar-se: x,
+ encourar-se: x,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1752' = “formar casca de ferida”
+{cicatrizar: As feridas [cicatrizam através de um complicado processo que começa com a coagulação do sangue e termina com a reconstituição da pele e, às vezes, com uma cicatriz, quando a cura não é perfeita.,
+ cicatrizar-se: A ulceraçäo I]cicatrizou-se ao final da segunda semana.,}
+Chave: CICATRIZAR <verb.body>
+ILI: 00096220
+
+Sense 1
+{00096220} <verb.body> scab -- (form a scab; "the wounds will eventually scab")
+       => {00096441} <verb.body> heal -- (get healthy again; "The wound is healing slowly")
+           => {00197826} <verb.change> better, improve, ameliorate, meliorate -- (get better; "The weather improved toward evening")
+               => {00140715} <verb.change> change state, turn4 -- (undergo a transformation or a change of position or action; "We turned from Socialism to Capitalism"; "The people turned against the President when he stole the election")
+                   => {00106479} <verb.change> change -- (undergo a change; become different in essence; losing one's or its original nature; "She changed completely as she grew older"; "The weather changed last night")

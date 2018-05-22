@@ -1,0 +1,29 @@
+ANÁLISE DA GLOSA3945
+
+DADO O SYNSET:
+	
+S='Glosa3945'
+    	{avisar: Os pajés então I]avisaram que aquele vegetal era na verdade um ser sagrado.,
+      	 cientificar: I]Cientificaram-lhe que aquela imagem refletia a alvura de seu mundo interno.,
+      	 comunicar: I]Comunicou também que a ANATEL continua fechando rádios comunitárias no município de Campinas.,
+      	 informar: O carro ficou lá por 1 dia e me I]informaram que o problema já havia sido resolvido.,
+     	 inteirar: I]Inteirei-o de meu interesse em instalar o serviço antes do fim do ano.,
+      	 precautelar: x,
+      	 precaver: H]Precaveu as crianças contra os perigos.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3945' = “comunicar [a alguém] conhecimento sobre algum fato, estado, assunto ou evento”
+    	{avisar: Os pajés então I]avisaram que aquele vegetal era na verdade um ser sagrado.,
+      	 cientificar: I]Cientificaram-lhe que aquela imagem refletia a alvura de seu mundo interno.,
+      	 comunicar: O ministro Andrade Vieira jantou com os dirigentes dos órgãos subordinados a seu ministério, quando [comunicou-lhes sua saída do governo.,
+      	 informar: O carro ficou lá por 1 dia e me I]informaram que o problema já havia sido resolvido.,
+     	 inteirar: I]Inteirei-o de meu interesse em instalar o serviço antes do fim do ano.}
+Chave: INFORMAR <verb.communication>
+ILI: 00804489
+
+Sense 1
+{00804489} <verb.communication> inform -- (impart knowledge of some fact, state or affairs, or event to; "I informed him of his rights")
+       => {00716346} <verb.communication> communicate, intercommunicate -- (transmit thoughts or feelings; "He communicated his anxieties to the psychiatrist")
+           => {02305904} <verb.social> interact -- (act together or towards others or with others; "He should interact more with his colleagues")
+               => {02296591} <verb.social> act, move -- (perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel")

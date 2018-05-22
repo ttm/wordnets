@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA0297
+
+DADO O SYNSET:
+
+S='Glosa297'
+{arrancar: O sargento, para certificar-se de que ele tinha mesmo morrido, I]arrancou-lhe um dos olhos com a mira do mosquetão.,
+vazar: Um dos seis tiros atingiu-a na nuca, atravessou toda a área mandibular e I]vazou-lhe o olho esquerdo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa297' = “tirar, extrair bruscamente”
+{arrancar: O sargento, para certificar-se de que ele tinha mesmo morrido, I]arrancou-lhe um dos olhos com a mira do mosquetão.,
+vazar: Um dos seis tiros atingiu-a na nuca, atravessou toda a área mandibular e I]vazou-lhe o olho esquerdo.,}
+Chave: ARRANCAR <verb.contact>
+ILI: 01548883
+
+Sense 1
+{01548883} <verb.contact> pluck, tweak, pull off, pick off -- (pull or pull out sharply; "pluck the flowers off the bush")
+       => {01406785} <verb.contact> pull, draw3, force1 -- (cause to move along the ground by pulling; "draw a wagon"; "pull a sled")
+           => {01796771} <verb.motion> move1, displace2 -- (cause to move, both in a concrete and in an abstract sense; "Move those boxes into the corner, please"; "I'm moving my money to another bank"; "The director moved more responsibilities onto his new assistant")

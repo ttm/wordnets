@@ -1,0 +1,28 @@
+ANÁLISE DA GLOSA2383
+
+DADO O SYNSET:
+
+S='Glosa2383'
+	    {controlar: A companhia que [controla o holding não interfere na produção mas recebe a maior parte dos lucros das empresas.,
+	      dirigir: As conversações de ontem, presididas por Mario Raffaelli, o mesmo que [dirige o processo de paz moçambicano, começaram sem eles, embora a própria Arménia tenha estado presente.,
+	      dispor: Futuro prefeito vai I]dispor de menos verba. # I]Dispor sobre a administração, utilização e alienação de seus bens.,
+	      manear: São portanto a linguagem dos fatos conhecidos e maneados por quem mais os podia I]manear e conhecer.,
+	      manejar: A chave para I]manejar a concorrência de preços é a diplomacia, não o autoritarismo.,
+	      tentear2: O que o menino brasileiro quer é driblar, é I]tentear a bola.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa2383' = “manipular e fazer funcionar”
+	    {controlar: A companhia que [controla o holding não interfere na produção mas recebe a maior parte dos lucros das empresas.,
+	      dispor: Poder livremente I]dispor da sua vontade para contratar.,
+	      manear: Fornece aos professores uma visão de conjunto do trabalho da escola e permite I]manear as dificuldades.,
+	      manejar: A chave para I]manejar a concorrência de preços é a diplomacia, não o autoritarismo. ,
+	      tentear2: O que o menino brasileiro quer é driblar, é I]tentear a bola. ,}
+
+Chave: CONTROLAR <verb.contact>
+ILI: 01187658
+
+{01187658} <verb.contact> operate, control -- (handle and cause to function; "do not operate machinery after imbibing alcohol"; "control the lever")
+       => {01174946} <verb.contact> manipulate -- (hold something in one's hands and move it)
+           => {01173984} <verb.contact> handle, palm -- (touch, lift, or hold with the hands; "Don't handle the merchandise")
+               => {01169634} <verb.contact> touch -- (make physical contact with, come in contact with; "Touch the stone for good luck"; "She never touched her husband")

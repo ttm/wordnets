@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA3067
+
+DADO O SYNSET:
+
+S='Glosa3067'
+	    {
+	      combater: Inflamação é o conjunto de reações locais dos tecidos destinadas a [combater um agente nocivo que tenha penetrado no organismo.,
+	      guerrear: Se torturo um inimigo, seja em nome do que for, perco a razão que me faz I]guerreá-lo, uma vez que qualquer razão para poder subsistir tem que se erigir sobre um fundamento ético que a precede  e a sustenta. ,
+	      hostilizar: Os árabes residentes na área, dramaticamente contra o fluxo de imigrantes, passam a [hostilizar os judeus. ,
+	    }
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa3067' = “lutar contra ou como em uma batalha”
+	     {combater: Atendendo a um apelo do Papa, Pepino [combateu os lombardos, na Itália central, e transferiu à Igreja o domínio das terras conquistadas.,
+	      guerrear: Lutou a vida inteira, fez um pouco de tudo por toda parte, I]guerreou franceses e índios, valendo-se dos recursos de que podia se apropriar por aqui. ,
+	      hostilizar: Israel hostilizou as demais comunidades libanesas, e ver-se-á obrigada a aceitar um cessar-fogo. ,}
+Chave: COMBATER <verb.competition>
+ILI: 01057546
+
+Sense 1
+{01057546} <verb.competition> battle, combat -- (battle or contend against in or as if in a battle; "The Kurds are combating Iraqi troops in Nothern Iraq"; "We must combat the prejudices against other races"; "they battled over the budget")
+       => {01055630} <verb.competition> fight, struggle -- (be engaged in a fight; carry on a fight; "the tribesmen fought each other"; "Siblings are always fighting")

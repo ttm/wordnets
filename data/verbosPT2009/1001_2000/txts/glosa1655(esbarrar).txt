@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA1655
+
+DADO O SYNSET:
+
+S='Glosa1655'
+{embarrar1: É uma vergonha I]embarrar duas vezes na mesma pedra.,
+ esbarrar: Máquinas e tratores da Comlurb costumavam [esbarrar no muro.,
+ topar: Não olha por onde onde e sai I]topando em tudo.,}
+
+A ANÁLISE RESULTA EM:
+
+S='Glosa1655' = “bater [contra]; ter um contato repentino [com]”
+{embarrar1: A equipe potiguar, comandada pelo técnico Ricardo Lima, começou bem na primeira etapa, mas I]embarrou no paredão do goleior Tiago.,
+ esbarrar: Professor diz que [esbarrou em estudante.,
+ topar: Ela mesma dirigia seu carro na campanha e foi ao volante que [topou com José Aparecido em plena rua Santa Catarina, em Belo Horizonte, quando o sinal fechou.,}
+Chave: ESBARRAR <verb.contact>
+ILI: 01198410
+
+Sense 3
+{01198410} <verb.contact> hit1, strike1, impinge on, run into1, collide with -- (hit against; come into sudden contact with; "The car hit a tree"; "He struck the table with his elbow")
+       => {01169634} <verb.contact> touch -- (make physical contact with, come in contact with; "Touch the stone for good luck"; "She never touched her husband")
